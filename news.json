@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_10cfc620",
+    "title": "HRW: İmamoğlu duruşmalarına \"erişim kısıtlaması\" eleştirisi",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 14:49",
+    "link": "https://www.dw.com/tr/hrw-imamoğlu-duruşmalarına-erişim-kısıtlaması-eleştirisi/a-76482002",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İnsan Hakları İzleme Örgütü (HRW) devam eden İBB davasında basına yönelik \"keyfi kısıtlamaları\" eleştirdi. \"Aleni duruşma ilkesi gereği duruşmalar halka açık olmalı\" denildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7626537c",
     "title": "Kadına karşı dijital şiddet: Almanya'da yeni yasa hazırlığı",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Komşular arasında bıçaklı sopalı kavga; 6 yaralı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/komsulararasindabicaklivesopalikavg1225249364328jpg-PQS6F9XY_0qE_XMVaaLJzg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_937dd0d0",
-    "title": "Galatasaray açıkladı: Osimhen ameliyata alındı",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 14:09",
-    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-acikladi-osimhen-ameliyata-alindi-2488923",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde Liverpool ile oynadığı karşılaşmada sakatlanan Victor Osimhen'in sağ ön kolunda kırık tespit edildi. Sarı-kırmızılı kulüp, yıldız futbolcunun ameliyata alındığını duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/bc16287a-c36c-4647-ae96-5226212daa3f.jpg",
     "keyword": null
   }
 ]
