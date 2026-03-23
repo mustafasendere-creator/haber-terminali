@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_873c88ea",
+    "title": "İstanbul Fatih'te bitişik iki bina çöktü!",
+    "source": "Habertürk",
+    "time": "23/03/2026 20:46",
+    "link": "https://www.haberturk.com/son-dakika-istanbul-fatih-te-bina-coktu-3871462",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Fatih'te doğalgaz kaynaklı patlamanın ardından iki bina çöktü. İstanbul Valisi Davut Gül, \"Fatih'te 2 binanın çökmesi sonucu enkaz altında kalan 10 kişi hastaneye kaldırıldı. 1 kişiyi arama çalışmaları sürüyor\" açıklamasında bulundu. Vali Gül'ün açıklamasının ardından enkaz altında kalan son kişi de çıkarıldı. İstanbul Valiliği, Fatih'te doğal gaz kaynaklı patlama sonucu çöken 2 binanın enkazından çıkarılan 1 kişinin hayatını kaybettiğini bildirdi.",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774194223/3871462/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_9a060bcd",
     "title": "8 günlük yaşam savaşını kaybetti",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "AB üye devletlerinin 'dürüst iş birliği' ilkesine bağlı olması ve kapalı kapılar ardındaki toplantı içeriklerinin gizli tutulması kuralı nedeniyle bu iddialar Brüksel'de infiale yol açtı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_48c02ab8",
-    "title": "NHL muhabiri ve üç çocuğu yangında hayatını kaybetti",
-    "source": "Euronews",
-    "time": "23/03/2026 20:05",
-    "link": "http://tr.euronews.com/2026/03/23/nhl-muhabiri-ve-uc-cocugu-yanginda-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "37 yaşındaki Jessi Pierce, son 10 yıldır NHL.com adına Minnesota Wild takımının muhabirliğini yürütüyordu.",
     "image": null,
     "keyword": null
   }
