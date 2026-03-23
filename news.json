@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d5e11478",
+    "title": "İsrail ordusu, Suriye’nin güneyinde ihlallerini sürdürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 22:25",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusu-suriye-nin-guneyinde-ihlallerini-surduruyor/3876386",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Suriye’nin güneyindeki Kuneytra ilinde ihlallerine devam ettiği belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e02ff4bb",
     "title": "Saudi Aramco, Hürmüz'deki aksamalara karşı Yenbu rotasını devreye aldığını bildirdi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Borç yükü ve işsizlik hızla artıyor, yurttaşın alım gücü düşüyor; CHP’li Şevkin, ekonomi politikalarına tepki gösterdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/167299.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_34d2e5d7",
-    "title": "Varto’daki JES Meclis gündeminde: 16 köyü etkileyecek",
-    "source": "Evrensel",
-    "time": "23/03/2026 21:25",
-    "link": "https://www.evrensel.net/haber/5976405/vartodaki-jes-meclis-gundeminde-16-koyu-etkileyecek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Varto’da planlanan jeotermal enerji projeleri TBMM gündeminde. DEM Partili Fırat, bölge halkının itirazlarını ve olası çevresel riskleri Bakan Bayraktar’a sordu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/337559.jpg",
     "keyword": null
   }
 ]
