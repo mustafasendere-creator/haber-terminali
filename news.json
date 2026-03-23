@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce144fb1",
+    "title": "Resmi Gazete’de yayımlandı: Adıyaman’da petrol projeleri için kamulaştırma",
+    "source": "Evrensel",
+    "time": "23/03/2026 13:02",
+    "link": "https://www.evrensel.net/haber/5976358/resmi-gazetede-yayimlandi-adiyamanda-petrol-projeleri-icin-kamulastirma",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TPAO’nun Adıyaman’daki boru hattı projesi için acele kamulaştırma ilanı ve özel şirketlerin petrol ruhsat sürelerini uzatma talepleri Resmi Gazete’de yayımlandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/338073.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9d0d15a3",
     "title": "Sergen Yalçın’dan net mesaj: 3 futbolcuya kapı gösterildi",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ve İsrail'in 28 Şubat'ta İran'a yönelik başlattığı saldırılarda 3 hafta geride kalırken, küresel piyasalarda enerji fiyatlarındaki sert dalgalanmalar devam ediyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d5447e73",
-    "title": "Yunanistan'da 57 kişinin öldüğü tren kazası davası başladı",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 12:23",
-    "link": "https://www.dw.com/tr/yunanistan-da-57-kişinin-öldüğü-tren-kazası-davası-başladı/a-76481529",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yunanistan'da 2023'te 57 kişinin hayatını kaybettiği tren kazasına yönelik dava, protesto ve grevler eşliğinde başladı. Yargılama süresince onlarca sanık hakim karşısına çıkacak.",
     "image": null,
     "keyword": null
   }
