@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haber Terminali v23.2</title>
+    <title>Haber Terminali v23.4</title>
     <style>
         :root { --bg: #f0f2f5; --card-bg: #ffffff; --text: #1c1e21; --muted: #65676b; --accent: #0084ff; }
         body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', Tahoma, sans-serif; margin: 0; padding: 20px; }
@@ -27,7 +27,7 @@
         .news-card { 
             background: var(--card-bg); border-radius: 12px; overflow: hidden; 
             box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: transform 0.2s; 
-            display: flex; flex-direction: column;
+            display: flex; flex-direction: column; height: 100%;
         }
         .news-card:hover { transform: translateY(-4px); box-shadow: 0 12px 20px rgba(0,0,0,0.12); }
         
@@ -44,17 +44,17 @@
         .tag img { width: 14px; height: 14px; margin-right: 5px; }
         
         .time { font-size: 11px; color: var(--muted); font-weight: 500; }
-        h3 { margin: 0 0 10px 0; font-size: 16px; line-height: 1.4; color: #050505; }
+        h3 { margin: 0 0 10px 0; font-size: 16px; line-height: 1.4; color: #050505; flex-grow: 0; }
         
         /* Özet Kutusu */
         .summary-box { 
             display: none; background: #f9f9f9; padding: 12px; border-left: 4px solid var(--accent);
-            font-size: 13px; color: #444; margin-bottom: 15px; line-height: 1.5; border-radius: 4px;
+            font-size: 13px; color: #444; margin: 10px 0; line-height: 1.5; border-radius: 4px;
         }
 
-        .footer-action { border-top: 1px solid #f0f2f5; padding-top: 12px; display: flex; justify-content: space-between; align-items: center; }
-        .btn-summary { background: none; border: none; color: var(--accent); cursor: pointer; font-weight: 700; font-size: 13px; }
-        .read-more { color: var(--muted); text-decoration: none; font-weight: 700; font-size: 13px; }
+        .footer-action { border-top: 1px solid #f0f2f5; padding-top: 12px; margin-top: auto; display: flex; justify-content: space-between; align-items: center; }
+        .btn-summary { background: none; border: none; color: var(--accent); cursor: pointer; font-weight: 700; font-size: 13px; padding: 5px; }
+        .read-more { color: #666; text-decoration: none; font-weight: 700; font-size: 13px; padding: 5px; }
         .read-more:hover { color: var(--accent); }
 
         @media (max-width: 600px) { body { padding: 10px; } .tab { padding: 8px 12px; font-size: 13px; } }
@@ -82,29 +82,35 @@
             return logos[type] || '';
         }
 
+        // Özet Açma/Kapama Fonksiyonu (ID Çakışması Fixli)
         function toggleSummary(id) {
             const s = document.getElementById('sum-' + id);
-            s.style.display = (s.style.display === 'block') ? 'none' : 'block';
+            if (s) {
+                const isHidden = s.style.display === 'none' || s.style.display === '';
+                s.style.display = isHidden ? 'block' : 'none';
+            }
         }
 
         function loadNews() {
             fetch('news.json?t=' + new Date().getTime())
                 .then(r => r.json())
                 .then(data => {
+                    // Sayfayı temizle
                     document.querySelectorAll('.news-container').forEach(c => c.innerHTML = '');
 
                     data.forEach(n => {
                         const container = document.getElementById(`news-${n.type}`);
                         if (!container) return;
 
-                        // undefined Prefix ve Resim Koruması
+                        // undefined korumaları
                         const safePrefix = n.prefix || '🔔';
-                        const safeImg = n.image || 'https://placehold.co/600x400?text=' + n.source;
+                        const safeImg = n.image || `https://placehold.co/600x400?text=${n.source}`;
+                        const safeID = n.id; // Python v23.4 artık "GND_hash" şeklinde benzersiz ID veriyor
 
                         const card = `
                             <div class="news-card">
                                 <div class="image-wrapper">
-                                    <img src="${safeImg}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Gorsel+Yok'">
+                                    <img src="${safeImg}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber+Resmi'">
                                 </div>
                                 <div class="news-content">
                                     <div class="source-bar">
@@ -113,10 +119,10 @@
                                     </div>
                                     <h3>${n.title}</h3>
                                     
-                                    <div id="sum-${n.id}" class="summary-box">${n.summary || 'Özet bulunamadı.'}</div>
+                                    <div id="sum-${safeID}" class="summary-box">${n.summary || 'Özet yüklenemedi.'}</div>
 
                                     <div class="footer-action">
-                                        <button class="btn-summary" onclick="toggleSummary('${n.id}')">📝 ÖZETİ OKU</button>
+                                        <button class="btn-summary" onclick="toggleSummary('${safeID}')">📝 ÖZETİ OKU</button>
                                         <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
                                     </div>
                                 </div>
@@ -125,16 +131,21 @@
                         container.innerHTML += card;
                     });
                 })
-                .catch(err => console.error("Hata:", err));
+                .catch(err => console.error("Haberler yüklenirken hata oluştu:", err));
         }
 
         function switchTab(evt, botType) {
+            // Aktif sekmeyi işaretle
             document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
             evt.currentTarget.classList.add('active');
+
+            // İlgili kutuyu göster, diğerlerini gizle
             document.querySelectorAll('.news-container').forEach(c => c.classList.remove('active'));
-            document.getElementById(`news-${botType}`).classList.add('active');
+            const activeContainer = document.getElementById(`news-${botType}`);
+            if (activeContainer) activeContainer.classList.add('active');
         }
 
+        // Başlangıçta haberleri yükle ve her 30 saniyede bir tazele
         loadNews();
         setInterval(loadNews, 30000);
     </script>
