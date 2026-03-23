@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_28014c11",
+    "title": "Trump, nükleer silah sahibi olmayacaklarına dair İran'la anlaşmaya vardıklarını savundu",
+    "source": "TRT Haber",
+    "time": "23/03/2026 21:26",
+    "link": "https://www.trthaber.com/haber/dunya/trump-nukleer-silah-sahibi-olmayacaklarina-dair-iranla-anlasmaya-vardiklarini-savundu-938825.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'ın anlaşma yapmak istediğini savunarak, \"Nükleer silah sahibi olmayacaklarına dair anlaşmaya vardılar ama göreceğiz. Bunu başarmak gerekiyor.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d1e7107b",
     "title": "İran: ABD'yle müzakere yapılmadı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Enerji Bakanı Chris Wright küresel petrol arzındaki aksamalara rağmen fiyatların henüz tüketimi ciddi oranda düşürecek seviyeye ulaşmadığını belirtti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/abd-enerji-bakani-wright-petrol-fiyatlari-henuz-talep-dususune-yol-acmadi-0ngd_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e293c558",
-    "title": "Fenerbahçe, kayıtlı sermaye tavanını 31 milyar 250 milyon liraya çıkardı",
-    "source": "Ekonomim",
-    "time": "23/03/2026 20:26",
-    "link": "https://www.ekonomim.com/sirketler/fenerbahce-kayitli-sermaye-tavanini-31-milyar-250-milyon-liraya-cikardi-haberi-883479",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe Futbol AŞ, kayıtlı sermaye tavanını 6 milyar 250 milyon liradan 31 milyar 250 milyon liraya çıkardı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/fenerbahce-kayitli-sermaye-tavanini-31-milyar-250-milyon-liraya-cikardi-i1dz_cover.jpg",
     "keyword": null
   }
 ]
