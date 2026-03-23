@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c487df57",
+    "title": "Artvin'de baraj altında kalan köy su seviyesi düşünce yeniden ortaya çıktı",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 15:48",
+    "link": "https://www.aa.com.tr/tr/guncel/artvinde-baraj-altinda-kalan-koy-su-seviyesi-dusunce-yeniden-ortaya-cikti/3875788",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Artvin'de 2012'de hizmete açılan Deriner Barajı ve Hidroelektrik Santrali (HES) suları altında kalan Narlık köyü, barajdaki su seviyesi azalınca gün yüzüne çıktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0be72c29",
     "title": "45. İstanbul Film Festivali, 9 Nisan'da başlıyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Elazığ’da Cumhuriyet Mahallesi’nde 3 aracın karıştığı zincirleme trafik kazasında 1 kişi yaralandı. Araçların kaldırılmasıyla cadde yeniden trafiğe açıldı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw656107-0-83qf_cover.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_382e8b3c",
-    "title": "Trabzonlu emekli jandarma pansiyon odasında ölü bulundu",
-    "source": "Haber61",
-    "time": "23/03/2026 15:09",
-    "link": "https://www.haber61.net/trabzon/trabzonlu-emekli-jandarma-pansiyon-odasinda-olu-bulundu-h627485.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Düzce’nin Akçakoca ilçesinde kayıp olarak aranan emekli jandarma Turgut Alp Düztepe, kaldığı pansiyon odasında ölü bulundu. Düztepe’nin Trabzon’un Vakfıkebir ilçesinden olduğu öğrenildi.",
-    "image": "https://resim.haber61.net/news/608955.jpg",
-    "keyword": "trabzon"
   }
 ]
