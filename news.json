@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce21b91a",
+    "title": "İstanbul güne sisle başladı",
+    "source": "Habertürk",
+    "time": "23/03/2026 22:26",
+    "link": "https://www.haberturk.com/istanbul-gune-sisle-basladi-3871424",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul bayramın üçüncü gününde sisle uyandı. Sabah saatlerinde etkili olan yoğun sis, görüş mesafesini azalttı",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774160320/3871424/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_59a6b558",
     "title": "Samsun'da içme suyu ana isale hattı patladı: O ilçelerde su kesintisi yaşanacak",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD&#039;de Air Canada Express&#039;e ait yolcu uçağının LaGuardia Havalimanı&#039;na iniş sırasında yer hizmeti aracına çarptığı anlara ait güvenlik kamerası görüntüleri ortaya çıktı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/yolcu-ucaginin-carpma-anlari-qpms.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bdc8f20a",
-    "title": "DMM açıkladı: \"Araç içi telefon tutucu\" yasak mı",
-    "source": "OdaTV",
-    "time": "23/03/2026 21:26",
-    "link": "https://www.odatv.com/guncel/dmm-acikladi-arac-ici-telefon-tutucu-yasak-mi-120140478",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, sosyal medyada yayılan &quot;araç içinde telefon tutucu ve koku yasaklandı&quot; iddialarına ilişkin açıklama yaptı. Açıklamada iddiaların gerçek olmadığı belirtilirken yönetmelik çalışmaları devam ediyor denildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/dmm-acikladi-arac-ici-telefon-tutucu-yasak-mi-toco.jpg",
     "keyword": null
   }
 ]
