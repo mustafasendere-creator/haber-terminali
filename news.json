@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e6b9b31b",
+    "title": "Avrupa borsaları günü İngiltere hariç yükselişle kapattı",
+    "source": "Ekonomim",
+    "time": "23/03/2026 21:06",
+    "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-gunu-ingiltere-haric-yukselisle-kapatti-haberi-883488",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa borsaları haftanın ilk işlem gününü İngiltere hariç yükselişle tamamladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/avrupa-borsalari-gunu-ingiltere-haric-yukselisle-kapatti-qn0k_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_89e5c8a0",
     "title": "ABD'li gazeteci Carlson'dan bir 'İsrail' iddiası daha",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uluslararası Ceza Mahkemesi (UCM) Taraf Devletler Meclisi Başkanlığı, Başsavcı Kerim Han hakkında taciz iddiasıyla başlatılan disiplin sürecinin devam ettiğini ve henüz hiçbir karar alınmadığını bildirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_e4b28db5",
-    "title": "Galatasaray’da Osimhen şoku! Trabzonspor derbisinde sahada olacak mı?",
-    "source": "Haber61",
-    "time": "23/03/2026 20:25",
-    "link": "https://www.haber61.net/trabzonspor/galatasarayda-osimhen-soku-trabzonspor-derbisinde-sahada-olacak-mi-h627507.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Süper Lig’in 28. haftasında Trabzonspor’a konuk olacak lider Galatasaray’da, yıldız golcü Victor Osimhen’den kötü haber geldi. Liverpool maçında sakatlanan ve ameliyat edilen Nijeryalı oyuncunun derbiye yetişmesi beklenmiyor.",
-    "image": "https://resim.haber61.net/news/608991.jpg",
     "keyword": null
   }
 ]
