@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2dc2f212",
+    "title": "İşgalci İsrail'den Beyrut'a yeni hava saldırısı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 22:45",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilden-beyruta-yeni-hava-saldirisi-938832.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İşgalci İsrail ordusu Lübnanın başkenti Beyrutun güneyindeki Dahiye bölgesine hava saldırıları düzenliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6b63d0a9",
     "title": "İran'dan İsrail'e yeni misilleme saldırısı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan Al Suud ile telefon görüşmesi gerçekleştirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_98562b54",
-    "title": "ABD Başkanı Trump'tan geri adım: İran'a beş gün ek süre",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 21:45",
-    "link": "https://www.dw.com/tr/abd-başkanı-trump-tan-geri-adım-iran-a-beş-gün-ek-süre/a-76485795",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump'ın ültimatomundan geri adım atarak İran'ın enerji altyapısına saldırıları ertelemesi tansiyonu düşürdü. Almanya Başbakanı Merz, Trump'a \"minnettar\" olduğunu belirtti.",
     "image": null,
     "keyword": null
   }
