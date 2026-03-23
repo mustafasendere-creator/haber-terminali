@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7bade941",
+    "title": "Fenerbahçe'de derbi mesaisi başladı",
+    "source": "OdaTV",
+    "time": "23/03/2026 15:10",
+    "link": "https://www.odatv.com/spor/fenerbahcede-besiktas-derbisi-mesaisi-basladi-120140441",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig&#039;in 28. haftasında 5 Nisan Pazar günü derbide Beşiktaş&#039;ı konuk edecek Fenerbahçe, hazırlıklarını günün ilk antrenmanıyla sürdürdü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/05/fenerbahce-macinda-isik-krizi-krizle-basladi-galibiyetle-bitti-64dm.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e7dff7d2",
     "title": "İran medyası: Trump geri adım attı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Genel Başkanı Özgür Özel’in İstanbul Beşiktaş’taki bir konutuna ilişkin “yıkım kararı” ve sonrasında yaşanan değer artışı iddiaları gündeme geldi. İddiaya göre, düşük bedelle satın alınan...Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/491de1/0/0/0/0/1711/936?u=https://iahbr.tmgrup.com.tr/2026/03/21/ozgur-ozelin-besiktastaki-eviyle-ilgili-deger-artisi-iddiasi-1774067348266.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b25e409a",
-    "title": "Türkiye - İran sınırında neler yaşanıyor? A Haber bölgeden aktardı",
-    "source": "A Haber",
-    "time": "23/03/2026 14:48",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/21/turkiye-iran-sinirinda-neler-yasaniyor-a-haber-bolgeden-aktardi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Orta Doğu'da tırmanan ABD-İsrail-İran gerilimi, Türkiye-İran sınırındaki hareketliliği de derinden etkiledi. Ramazan Bayramı'nın ikinci gününde Kapıköy Gümrük Kapısı'nda rutin ticari geçişler sorunsuz...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/704068/1200/1200/143/0/569/427?u=https://iahbr.tmgrup.com.tr/2026/03/21/turkiye-iran-sinirinda-neler-yasaniyor-a-haber-bolgeden-aktardi-1774078703017.png",
     "keyword": null
   }
 ]
