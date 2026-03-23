@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0dd0cbac",
+    "title": "İran basınına konuşan yetkili, ABD ile hiçbir müzakere olmadığını söyledi",
+    "source": "TRT Haber",
+    "time": "23/03/2026 16:04",
+    "link": "https://www.trthaber.com/haber/dunya/iran-basinina-konusan-yetkili-abd-ile-hicbir-muzakere-olmadigini-soyledi-938798.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran basınına konuşan bir Dışişleri Bakanlığı yetkilisi, Washington yönetimiyle hiçbir müzakerenin yapılmadığını ve ABD Başkanı Donald Trump'ın açıklamalarının enerji piyasalarının kötü durumunu düzeltmeye yönelik \"psikolojik operasyon\" olduğunu savundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ffc45e5b",
     "title": "Şehit olan ASELSAN teknisyenleri için cenaze töreni düzenlendi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "2026 Yerel Kalkınma Hamlesi kapsamında Bayburt için dört öncelikli yatırım alanı açıklandı. Başvurular 15 Mayıs 2026’ya kadar sürecek.",
     "image": "https://resim.haber61.net/news/608917.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_964b3194",
-    "title": "Bayburt’ta bahar temizliği başladı! Sokaklar yıkanıyor",
-    "source": "Haber61",
-    "time": "23/03/2026 15:50",
-    "link": "https://www.haber61.net/bolgesel/bayburtta-bahar-temizligi-basladi-sokaklar-yikaniyor-h627466.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bayburt Belediyesi ekipleri, havaların ısınmasıyla birlikte kent genelinde bahar temizliği çalışmalarına başladı. Sokaklar tazyikli suyla yıkanıyor.",
-    "image": "https://resim.haber61.net/news/608922.jpg",
     "keyword": null
   }
 ]
