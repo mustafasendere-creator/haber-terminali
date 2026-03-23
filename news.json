@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_00545c94",
+    "title": "Elazığ’da 3 araçlı zincirleme kaza! 1 kişi yaralandı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 15:09",
+    "link": "https://www.gazeteduvar.com.tr/elazigda-3-aracli-zincirleme-kaza-1-kisi-yaralandi-haber-1765703",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elazığ’da Cumhuriyet Mahallesi’nde 3 aracın karıştığı zincirleme trafik kazasında 1 kişi yaralandı. Araçların kaldırılmasıyla cadde yeniden trafiğe açıldı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw656107-0-83qf_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_382e8b3c",
     "title": "Trabzonlu emekli jandarma pansiyon odasında ölü bulundu",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'da Karagöz Meydanı projesi Mart ayı meclisinde gündeme gelmişti. CHP’li Zorlu’nun “beton” eleştirisine, Başkan Genç’ten  Haber61’e özel açıklama geldi.",
     "image": "https://resim.haber61.net/news/608947.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_fa945ea5",
-    "title": "Başkan Kul: 'Bizim pusulamız milletin rızasıdır'",
-    "source": "Taka Gazetesi",
-    "time": "23/03/2026 14:29",
-    "link": "https://www.takagazete.com.tr/baskan-kul-bizim-pusulamiz-milletin-rizasidir",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun'un Terme Belediye Başkanı Şenol Kul, geleneksel hale gelen 'halk günü' buluşmalarında hemşehrileriyle bir araya gelmeye devam ediyor. Vatandaşların taleplerini dinleyen Başkan Kul, 'Biz enerjimizi asılsız söylemlerden değil, milletimizin duasından alıyoruz' dedi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/baskan-kul-bizim-pusulamiz-milletin-rizasidir.jpg",
-    "keyword": null
   }
 ]
