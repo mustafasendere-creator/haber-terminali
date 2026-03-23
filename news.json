@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ec9abb39",
+    "title": "Köyün içerisine giren vaşak görüntülendi",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 17:04",
+    "link": "https://www.gazeteduvar.com.tr/koyun-icerisine-giren-vasak-goruntulendi-haber-1765730",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzincan’ın Refahiye ilçesine bağlı Baştosun köyünde, nesli tükenme tehlikesi altındaki vaşak görüntülendi.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-yq37_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b0f432de",
     "title": "Bayram dönüşü trafiğinde zincirleme kaza: 5 araç birbirine girdi",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "On bir ayın sultanı Ramazan ayını uğurladıktan sonra bayram günü geliyor. Bu sene Ramazan Bayramı 20 Mart 2026 Cuma gününe denk geliyor. Diyanet’e göre bayram günleri, oruç tutmanın yasak olduğu günlerin başında geliyor. İbadet etmek isteyenler ‘’Ramazan Bayramı’nda hangi dualar okunur, zikir ve tesbihler çekilir?’’ sorusuna yanıt arıyor. Peki bayramda yapılacak ibadetler nelerdir?",
     "image": "https://im.haberturk.com/l/2026/03/03/ver1774081401/3866536/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_388c883b",
-    "title": "Bayramda vapurlar ücretsiz mi?",
-    "source": "Habertürk",
-    "time": "23/03/2026 16:40",
-    "link": "https://www.haberturk.com/bayramda-vapurlar-ucretsiz-mi-ramazan-bayrami-nda-vapur-seferleri-bedava-mi-ucretli-mi-olacak-istanbul-da-toplu-tasima-tarifeleri-rmz06-3868022",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ramazan Bayramı’nın 20-22 Mart 2026 tarihleri arasında kutlanacak olmasıyla birlikte, milyonlarca vatandaş sevdiklerine ulaşmak için toplu taşıma seçeneklerini mercek altına aldı. Özellikle İstanbul'da yaşayanlar, bayram süresince vapurların ücretsiz olup olmadığını yakından takip ediyor. Peki, bayramda vapurlar ücretsiz mi? Ramazan Bayramı'nda vapur seferleri bedava mı?",
-    "image": "https://im.haberturk.com/l/2026/03/08/ver1774081401/3868022/jpg/1280x1280",
     "keyword": null
   }
 ]
