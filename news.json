@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_72c37d7c",
+    "title": "‘Savaş gelmiş neyime’",
+    "source": "A Haber",
+    "time": "23/03/2026 15:08",
+    "link": "https://www.ahaber.com.tr/yazarlar/salih-tuna/2026/03/21/savas-gelmis-neyime",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"Savaş yıllardır yanı başımızda. Rusya karşısında Ukrayna'yı; ABD'si, Avrupa Birliği'yle bütün Batı devletleri arkaladığı halde lehlerine hiçbir sonuç alamadı. Aynı Batı devletleri İsrail'in Gazze'ye...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_002a0923",
     "title": "Eski İngiliz komutandan itiraf: İran füzelerini durduramayız!",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Brent petrolün varil fiyatı, ABD Başkanı Donald Trump'ın İran'ın enerji altyapısına yönelik saldırıyı 5 gün erteleme kararının ardından yüzde 9 gerileyerek 96,96 dolar oldu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_022aba24",
-    "title": "Adana’da mezarlık sular altında! Vatandaş kabirlere ulaşamadı",
-    "source": "Haber61",
-    "time": "23/03/2026 14:28",
-    "link": "https://www.haber61.net/sehirler/adanada-mezarlik-sular-altinda-vatandas-kabirlere-ulasamadi-h627480.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Üç gündür etkili olan sağanak sonrası Kürkçüler Mezarlığı göle döndü. Ziyarete gelenler çamur ve su nedeniyle kabirlere ulaşmakta zorlandı.",
-    "image": "https://resim.haber61.net/news/608945.jpg",
     "keyword": null
   }
 ]
