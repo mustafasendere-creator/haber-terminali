@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0da49d6a",
+    "title": "Bordroda görünen gerçek: Yasal soygun",
+    "source": "Evrensel",
+    "time": "24/03/2026 00:45",
+    "link": "https://www.evrensel.net/haber/5976449/bordroda-gorunen-gercek-yasal-soygun",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"Biz işçilere gelince cebimizdeki son kuruşa kadar göz koyanlar, patronlara gelince kasaları yeter ki dolsun diye ‘Sen şu kadarını ver, bize yeter’ diyor.\"",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339972.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d201eb6f",
     "title": "Doç. Dr. Savaş Karabulut: Patlama doğal gaz kaynaklı ise vay halimize",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Akıbeti merak konusuydu! ABD'nin dev gemisinin nerede oldu ortaya çıktı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/abdgemijpg-MTQIzbxckE_9Q7QjGWKFtg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_70538eac",
-    "title": "Antalya Devlet Opera ve Balesi 'Don Giovanni' operasını sanatseverlerle buluşturacak",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 23:05",
-    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/antalya-devlet-opera-ve-balesi-don-giovanni-operasini-sanatseverlerle-bulusturacak-2489009",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Wolfgang Amadeus Mozart'ın ünlü operası \"Don Giovanni\" Antalya Devlet Opera ve Balesi tarafından sahnelenecek.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/953a0bbf-b9c5-474f-936a-58372fb8208e.jpg",
     "keyword": null
   }
 ]
