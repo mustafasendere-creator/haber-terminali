@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59f72752",
+    "title": "ABD'de ICE birimleri, personel eksikliği yaşanan büyük havalimanlarına konuşlandırılmaya başlandı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 18:06",
+    "link": "https://www.trthaber.com/haber/dunya/abdde-ice-birimleri-personel-eksikligi-yasanan-buyuk-havalimanlarina-konuslandirilmaya-baslandi-938808.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Göçmenlik ve Gümrük Muhafaza ICE birimleri, Başkan Donald Trumpın talimatı üzerine personel açığı bulunan havalimanlarında görev yapmaya başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_76ca9285",
     "title": "Suriye'de alkol yasağı tartışması: Konu sadece alkol mü?",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "TEKNOFEST 2025’te Türkiye birinciliği elde eden Trabzonlu öğrenciler, Büyükşehir Belediye Başkanı Ahmet Metin Genç tarafından ağırlanırken, “Bu başarı Trabzon’un gururudur” mesajı verildi.",
     "image": "https://resim.haber61.net/news/608974.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_12c87a0b",
-    "title": "Dünya Kupası yolunda ilk adım: Türkiye Romanya'yı ağırlayacak",
-    "source": "BBC Türkçe",
-    "time": "23/03/2026 17:45",
-    "link": "https://www.bbc.com/turkce/articles/cx2v7nvey9zo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, Dünya Kupası play-off yarı finalinde 26 Mart 2026 Perşembe günü saat 20.00'de oynanacak maçta Romanya ile karşılaşacak",
-    "image": null,
-    "keyword": null
   }
 ]
