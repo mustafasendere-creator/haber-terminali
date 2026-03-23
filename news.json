@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0bf90b56",
+    "title": "Antalya'da feci kaza: 2 ölü, 4 yaralı",
+    "source": "Habertürk",
+    "time": "23/03/2026 18:46",
+    "link": "https://www.haberturk.com/isparta-antalya-karayolu-nda-feci-kaza-2-olu-4-yarali-3871508",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Isparta-Antalya kara yolunda iki otomobil çarpıştı. Kazada 2 kişi hayatını kaybetti, 4 kişi yaralandı. Kaza sonrası olay yerine çok sayıda sağlık, itfaiye ve jandarma ekibi sevk edildi",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774189475/3871508/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_009c8290",
     "title": "'Kız arkadaşımla nasıl konuşursun' kavgası: Baskına gitti, kasığından vuruldu",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "Ana akım haberlerde yok ama sosyal medyada görmüşsünüzdür...\nKapı gibi CIA belgesi...\nYıllarca \"Hava durumunu kimyasallar püskürterek değiştiriyorlar\" diyenleri paranoyak deliler sınıfına sokanları...Devamı için tıklayınız",
     "image": "",
     "keyword": null
-  },
-  {
-    "id": "TKP_db4295f0",
-    "title": "Trabzonspor’un eski hocası ilaç olamadı…",
-    "source": "61 Saat",
-    "time": "23/03/2026 18:25",
-    "link": "https://www.61saat.com/trabzonsporun-eski-hocasi-ilac-olamadi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Bir dönem Trabzonspor’u da çalıştıran Vahid Halilhodzic, geçtiğimiz haftada kümede kalma mücadelesi veren Nantes ile sözleşme imzalamıştı. Tecrübeli teknik adam, dün çıktığı ilk maçta mağlubiyetle başladı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/manset-kopyasi-69.png",
-    "keyword": "trabzon"
   }
 ]
