@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_87e643aa",
+    "title": "Erzurum'da feci kaza; 2 ölü, 5 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 14:09",
+    "link": "https://www.gazeteduvar.com.tr/erzurumda-feci-kaza-2-olu-5-yarali-haber-1765740",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum’da bir araç seyir halinde iken yol kenarındaki ağaca çarptı, kazada 2 kişi hayatını kaybetti.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/basliksiz-1-9psz_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1af91da6",
     "title": "MEB duyurdu: Yarın tüm okullarda ilk ders ‘finansal okuryazarlık’",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Her iki şirketin de CEO’su olan Musk, Austin’de her türlü çipi üretmek ve test etmek için gerekli tüm ekipmana sahip bir “ileri teknoloji fabrikası” ile başlayacağını söyledi. Yarı iletken üretiminde geçmişi bulunmayan Musk, sektörün arzını artırmasına rağmen kendisinin ihtiyaç duyacağı çiplerin tedarikine yetişmekte çok yavaş hareket ettiğini belirtti. Musk, &#8220;Ya Terafab’ı inşa ederiz ya da [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c111a6c52b06.76441096.jpg",
     "keyword": null
-  },
-  {
-    "id": "SOC_53f454ea",
-    "title": "#GazetecilikSuçDeğildir “Gazetecilik bölümü ders 1: Gazetecilik Suç Değildir” başlıklı yazısı nedeniyle Erdoğan'a hakaretten tutuklanan Trabzon Halkevi Üyesi ve KTÜ Gazetecilik Bölümü öğrencisi Berivan Bila serbest bırakılsın! - x.com",
-    "source": "X",
-    "time": "23/03/2026 13:15",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01RVg3VXJqTmVoY3BYeDhKUnZMd0ZNVTlYNFFyd3QtMzdXTG5waFB2d2huNUU5WndSdEVhOFo0Zk04Q0xaSmN1YXRySmNoblVnUmJSd3hoc29od3lSMkl4czFmejNaak9tSzI4",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "#GazetecilikSuçDeğildir “Gazetecilik bölümü ders 1: Gazetecilik Suç Değildir” başlıklı yazısı nedeniyle Erdoğan'a hakaretten tutuklanan Trabzon Halkevi Üyesi ve KTÜ Gazetecilik Bölümü öğrencisi Berivan Bila serbest bırakılsın!  x.com",
-    "image": null,
-    "keyword": "trabzon halk evi"
   }
 ]
