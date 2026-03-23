@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a422a4fd",
+    "title": "Sivilcelerdeki 'olağan şüpheli' çikolata suçsuz olabilir mi?",
+    "source": "BBC Türkçe",
+    "time": "23/03/2026 12:42",
+    "link": "https://www.bbc.com/turkce/articles/cj4zr21r0gqo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çikolata, diğer tatlılarla birlikte uzun süredir sivilceye yol açabilecek muhtemel bir etken olarak görülüyor. Fakat bu kötü şöhret doğru olmayabilir.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4815e5ff",
     "title": "Rus Çarı 1. Petro'nun gemisi \"Shtandart\"ın kopyası Alanya'da gençler için yelken açıyor",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 107'si tutuklu, 5'i \"müşteki sanık\" olmak üzere 407 sanığın yargılandığı davanın sekizinci duruşması başladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_eefbcbcd",
-    "title": "İran: ABD ve İsrail Natanz nükleer tesisini vurdu",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 12:02",
-    "link": "https://www.dw.com/tr/iran-abd-ve-israil-natanz-nükleer-tesisini-vurdu/a-76469007",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran devlet medyası, ABD ve İsrail'in ülkenin en bilinen nükleer tesisi Natanz'a saldırdığını açıkladı. İran Atom Enerjisi Kurumu, tesisten \"herhangi bir radyoaktif madde sızıntısı\" olmadığını bildirdi.",
     "image": null,
     "keyword": null
   }
