@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_86ab796b",
+    "title": "Otomobil köprüden uçtu",
+    "source": "OdaTV",
+    "time": "24/03/2026 01:05",
+    "link": "https://www.odatv.com/guncel/otomobil-kopruden-uctu-120140495",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osmaniye’nin Düziçi ilçesinde kontrolden çıkan otomobilin köprüden aşağı düştüğü kazada, araçta sıkışan sürücü yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/otomobil-kopruden-uctu-g4gx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_850bc13c",
     "title": "Eski eşinin komşuları hastanelik etti",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Samsun'un İlkadım ilçesinde bir kişi, tartıştığı baldızını silahla öldürdükten sonra intihar etti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/324220.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ce6daff3",
-    "title": "İsrail’den Beyrut’a yeni hava saldırıları",
-    "source": "Evrensel",
-    "time": "23/03/2026 23:45",
-    "link": "https://www.evrensel.net/haber/5976453/israil-den-beyrut-a-yeni-hava-saldirilari",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un güneyindeki Dahiye bölgesine 3 hava saldırısı düzenledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339979.jpg",
     "keyword": null
   }
 ]
