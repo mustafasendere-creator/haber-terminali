@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d7362de5",
+    "title": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria’da 3 Filistinliyi yaraladı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 01:05",
+    "link": "https://www.aa.com.tr/tr/guncel/filistin-topraklarini-gasbeden-israilliler-isgal-altindaki-bati-seria-da-3-filistinliyi-yaraladi/3876510",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filistin topraklarını gasbeden İsraillilerin ordu koruması altında işgal altındaki Batı Şeria’da düzenledikleri saldırılarda 3 Filistinli yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1d0d5c9f",
     "title": "Premier Lig takımlarının kadro genişletme talebi UEFA'da kabul görmedi",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Adalet Bakanı Akın Gürlek, Hakimler ve Savcılar Kurulu HSK üyeleri ve personeliyle buluştu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1fe1e9fc",
-    "title": "TEKNOFEST FPV Drone İzleme Yarışmasına başvurular sürüyor",
-    "source": "TRT Haber",
-    "time": "23/03/2026 23:25",
-    "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofest-fpv-drone-izleme-yarismasina-basvurular-suruyor-938836.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TEKNOFEST kapsamında düzenlenen FPV Drone İzleme Tracking Yarışması için son başvuru tarihi 25 Mart olarak belirlendi. Yarışmada birincilik elde eden takım 300 bin TL, ikinci olan takım 250 bin TL, üçüncü olan takım ise 200 bin TL ödül kazanacak.",
     "image": null,
     "keyword": null
   }
