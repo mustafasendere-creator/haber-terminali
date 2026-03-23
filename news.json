@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3133eff8",
+    "title": "İstanbul yolunda ağır vasıta araçlara kısıtlama",
+    "source": "Sözcü",
+    "time": "23/03/2026 12:23",
+    "link": "https://www.sozcu.com.tr/istanbul-yolunda-agir-vasita-araclara-kisitlama-p303660",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul yolunda ağır vasıta araçlara kısıtlama",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/2/trafik-polisi-aa-123321jpg-oa5xkFQVnUK931UMW5BNEw.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_60e12a45",
     "title": "En önemli geçiş noktasıydı! Önce tehdit ettiler, sonra havaya uçurdular",
     "source": "Sözcü",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul'un Fatih ilçesi Ayvansaray Mahallesi'nde doğal gaz kaynaklı olduğu değerlendirilen patlama sonrasında bitişik nizamdaki iki binanın çöktü. Olayda bir kişi öldü, biri ağır 10 kişi ise yaralı olarak enkazdan çıkarıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_df61fa46",
-    "title": "Borsada bazı kıymetli metal bazlı yatırım araçlarında fiyat limit sınırları genişletildi",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 12:01",
-    "link": "https://www.aa.com.tr/tr/guncel/borsada-bazi-kiymetli-metal-bazli-yatirim-araclarinda-fiyat-limit-sinirlari-genisletildi/3875477",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul'da işlem gören bazı kıymetli metal bazlı yatırım araçlarında aşağı yönlü fiyat sınırları bugün için genişletildi.",
     "image": null,
     "keyword": null
   }
