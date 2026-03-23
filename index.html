@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haber Terminali v23.4</title>
+    <title>Trabzon Haber Terminali</title>
     <style>
         :root { --bg: #f0f2f5; --card-bg: #ffffff; --text: #1c1e21; --muted: #65676b; --accent: #0084ff; }
         body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', Tahoma, sans-serif; margin: 0; padding: 20px; }
@@ -91,46 +91,51 @@
             }
         }
 
-        function loadNews() {
-            fetch('news.json?t=' + new Date().getTime())
-                .then(r => r.json())
-                .then(data => {
-                    // Sayfayı temizle
-                    document.querySelectorAll('.news-container').forEach(c => c.innerHTML = '');
+function loadNews() {
+    fetch('news.json?t=' + new Date().getTime())
+        .then(r => r.json())
+        .then(data => {
+            document.querySelectorAll('.news-container').forEach(c => c.innerHTML = '');
 
-                    data.forEach(n => {
-                        const container = document.getElementById(`news-${n.type}`);
-                        if (!container) return;
+            data.forEach(n => {
+                const container = document.getElementById(`news-${n.type}`);
+                if (!container) return;
 
-                        // undefined korumaları
-                        const safePrefix = n.prefix || '🔔';
-                        const safeImg = n.image || `https://placehold.co/600x400?text=${n.source}`;
-                        const safeID = n.id; // Python v23.4 artık "GND_hash" şeklinde benzersiz ID veriyor
+                const safePrefix = n.prefix || '🔔';
+                const safeImg = n.image || `https://placehold.co/600x400?text=${n.source}`;
+                
+                // ANAHTAR KELİME ETİKETİ (Eğer varsa gösterir)
+                const keywordLabel = n.keyword ? 
+                    `<span style="background:#e1f5fe; color:#01579b; padding:4px 10px; border-radius:12px; font-size:11px; margin-right:8px; font-weight:bold; border:1px solid #b3e5fc;">#${n.keyword.toUpperCase()}</span>` : '';
 
-                        const card = `
-                            <div class="news-card">
-                                <div class="image-wrapper">
-                                    <img src="${safeImg}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber+Resmi'">
-                                </div>
-                                <div class="news-content">
-                                    <div class="source-bar">
-                                        <span class="tag"><img src="${getLogo(n.type)}"> ${safePrefix} ${n.source}</span>
-                                        <span class="time">${n.time}</span>
-                                    </div>
-                                    <h3>${n.title}</h3>
-                                    
-                                    <div id="sum-${safeID}" class="summary-box">${n.summary || 'Özet yüklenemedi.'}</div>
-
-                                    <div class="footer-action">
-                                        <button class="btn-summary" onclick="toggleSummary('${safeID}')">📝 ÖZETİ OKU</button>
-                                        <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
-                                    </div>
-                                </div>
+                const card = `
+                    <div class="news-card">
+                        <div class="image-wrapper">
+                            <img src="${safeImg}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber+Resmi'">
+                        </div>
+                        <div class="news-content">
+                            <div class="source-bar">
+                                <span class="tag">
+                                    <img src="${getLogo(n.type)}"> 
+                                    ${keywordLabel} ${n.source}
+                                </span>
+                                <span class="time">${n.time}</span>
                             </div>
-                        `;
-                        container.innerHTML += card;
-                    });
-                })
+                            <h3>${n.title}</h3>
+                            
+                            <div id="sum-${n.id}" class="summary-box">${n.summary || 'Özet yüklenemedi.'}</div>
+
+                            <div class="footer-action">
+                                <button class="btn-summary" onclick="toggleSummary('${n.id}')">📝 ÖZETİ OKU</button>
+                                <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                container.innerHTML += card;
+            });
+        });
+}
                 .catch(err => console.error("Haberler yüklenirken hata oluştu:", err));
         }
 
