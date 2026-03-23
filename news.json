@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e73bc0e",
+    "title": "TTB'den İran çağrısı: \"Uluslararası sağlık kurumları harekete geçmeli\"",
+    "source": "Evrensel",
+    "time": "23/03/2026 15:09",
+    "link": "https://www.evrensel.net/haber/5976390/ttbden-iran-cagrisi-uluslararasi-saglik-kurumlari-harekete-gecmeli",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail’in İran’a saldırılarına ilişkin açıklama yapan TTB, sağlık altyapısındaki yıkıma dikkat çekerken uluslararası ağlık kurumlarına çağrı yaptı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/324043.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_a2ec833a",
     "title": "Deplasmanda Fatih Tekke etkisi zirveye taşıdı",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABDİsrail saldırılarının hedefindeki İran'ın başkenti Tahran'da art arda patlamalar meydana gelirken, hava saldırıları sonrası başkentin bazı noktalarından dumanlar yükseldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6e6b7fea",
-    "title": "Japonya, Hürmüz Boğazı'na donanma desteği göndereceğine ilişkin ABD'nin iddiasını yalanladı",
-    "source": "TRT Haber",
-    "time": "23/03/2026 14:29",
-    "link": "https://www.trthaber.com/haber/dunya/japonya-hurmuz-bogazina-donanma-destegi-gonderecegine-iliskin-abdnin-iddiasini-yalanladi-938787.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Japonya, ABD'nin Birleşmiş Milletler BM Daimi Temsilcisi Mike Waltz'un, Tokyo yönetiminin Hürmüz Boğazı'ndan geçen gemileri korumak için \"donanmasının bir kısmını\" tahsis edeceği yönündeki iddiasını yalanladı.",
     "image": null,
     "keyword": null
   }
