@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b9c430be",
+    "title": "Dışişleri Bakanı Fidan, Alman mevkidaşı Wadephul ile telefonda görüştü",
+    "source": "TRT Haber",
+    "time": "24/03/2026 00:05",
+    "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-alman-mevkidasi-wadephul-ile-telefonda-gorustu-938837.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Almanya Dışişleri Bakanı Johann Wadephul ile telefonda görüştü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6f6adfcf",
     "title": "Tahran'da zehirli bulutlar: 'Kalıcı sağlık sorunlarına yol açabilir'",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İşgalci İsrail ordusu Lübnanın başkenti Beyrutun güneyindeki Dahiye bölgesine hava saldırıları düzenliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6b63d0a9",
-    "title": "İran'dan İsrail'e yeni misilleme saldırısı",
-    "source": "TRT Haber",
-    "time": "23/03/2026 22:45",
-    "link": "https://www.trthaber.com/haber/dunya/irandan-israile-yeni-misilleme-saldirisi-938833.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, İsrail'in güneyini hedef alan bir misilleme başlattı.",
     "image": null,
     "keyword": null
   }
