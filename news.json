@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b16347c4",
+    "title": "İstanbul Havalimanı günlük 1322 uçuşla Avrupa'nın en yoğun havalimanı oldu",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 13:14",
+    "link": "https://www.aa.com.tr/tr/guncel/istanbul-havalimani-gunluk-1322-ucusla-avrupanin-en-yogun-havalimani-oldu/3875647",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Havalimanı, 9-15 Mart arasında günlük ortalama 1322 uçuşla Avrupa'nın en yoğun havalimanı olarak kayıtlara geçti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_228e8e17",
     "title": "Ordu’da kıyıda bulunan insansız deniz aracı imha edildi",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Kurt Dere Cami Boğazı güzergâhında yolu açan ekiplerin ardından oluşan kar kütleleri, araç boyunu aşarak tünel görünümü oluşturdu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/a-r-a-b-a.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ed8bf723",
-    "title": "Hemzemin geçitte facia: Tren pikaba çarptı!",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 12:42",
-    "link": "https://www.gazeteduvar.com.tr/hemzemin-gecitte-facia-tren-pikaba-carpti-haber-1765719",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin’in Tarsus ilçesinde hemzemin geçitte pikaba tren çarptı. Kazada araçta hasar meydana gelirken olayla ilgili inceleme başlatıldı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/10/20260309aw658461-0-ycog_cover.jpg",
-    "keyword": null
   }
 ]
