@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eaa3ad90",
+    "title": "İnan Güney hakkında iddianame tamamlandı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 16:20",
+    "link": "https://www.trthaber.com/haber/turkiye/inan-guney-hakkinda-iddianame-tamamlandi-938800.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Görevinden uzaklaştırılan Beyoğlu Belediye Başkanı İnan Güney'in de aralarında bulunduğu 7 şüpheli hakkında \"suç işlemek amacıyla kurulan örgüte üye olmamakla birlikte yardım etme\" ve \"kamu kurum ve kuruluşlarının zararına dolandırıcılık\" suçlarından 31 yıl 8'er aya kadar hapis cezası istemiyle iddianame düzenlendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_3a055256",
     "title": "CHP’li Trabzon Milletvekili Sibel Suiçmez’den Tepki: “Tarihi Alanlar Korunmuyor”",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Eskişehir&#039;de yakınındaki üst geçit yerine çevre yolunda karşıdan karşıya geçmeye çalışan yaşlı adam, otomobil çarpması sonucu hayatını kaybetti.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-4hzt_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_29e10077",
-    "title": "Kahramanmaraş'ta yaban keçileri görüntülendi",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 16:04",
-    "link": "https://www.gazeteduvar.com.tr/kahramanmarasta-yaban-kecileri-goruntulendi-haber-1765739",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş&#039;ta dağlık bölgelerde yaşayan yaban keçileri görüntülendi.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-prca_cover.jpg",
     "keyword": null
   }
 ]
