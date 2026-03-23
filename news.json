@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_590a0dbb",
+    "title": "TEM'deki feci kaza anı kamerada",
+    "source": "OdaTV",
+    "time": "23/03/2026 20:46",
+    "link": "https://www.odatv.com/guncel/temdeki-feci-kaza-ani-kamerada-120140476",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TEM Otoyolu İzmit geçişinde 8 kişinin yaralandığı kaza, otobüs kamerasına saniye saniye yansıdı. Yolun kapandığını gören onlarca sürücü, TEM Otoyolu&#039;nda ters giderek adeta ölüme davetiye çıkardı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/temdeki-feci-kaza-ani-kamerada-a8rv.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0dac9295",
     "title": "Ticaret Bakanlığından 'Ankara'da bayat ekmek 6 liradan satılıyor paylaşımlarına ilişkin açıklama",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tutuklu BirGün gazetesi muhabiri İsmail Arı, götürüldüğü Sincan Cezaevi’nden mesaj gönderdi. Arı, “Gazetecilere ve iyi gazeteciliğe sahip çıkın” dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339745.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_22972195",
-    "title": "Evli olduğu Semanur'u katleden şüpheli tutuklandı",
-    "source": "Evrensel",
-    "time": "23/03/2026 20:06",
-    "link": "https://www.evrensel.net/haber/5976432/evli-oldugu-semanuru-katleden-supheli-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’da evli olduğu Semanur Akgül'ü katlettikten sonra evi ateşe veren H.A. tutuklandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339957.jpg",
     "keyword": null
   }
 ]
