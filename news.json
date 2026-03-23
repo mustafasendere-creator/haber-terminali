@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3135b04e",
+    "title": "Çevre yolunda otomobilin çarptığı yaşlı adam hayatını kaybetti",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 16:04",
+    "link": "https://www.gazeteduvar.com.tr/cevre-yolunda-otomobilin-carptigi-yasli-adam-hayatini-kaybetti-haber-1765738",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir&#039;de yakınındaki üst geçit yerine çevre yolunda karşıdan karşıya geçmeye çalışan yaşlı adam, otomobil çarpması sonucu hayatını kaybetti.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-4hzt_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_29e10077",
     "title": "Kahramanmaraş'ta yaban keçileri görüntülendi",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yeni modelle birlikte istasyon sayısı ve muayene hatları artırılarak bekleme sürelerinin azaltılması hedefleniyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339921.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9c28a6c3",
-    "title": "İsrail'in Gazze Şeridi'ne saldırılarında can kaybı 72 bin 263'e yükseldi",
-    "source": "Evrensel",
-    "time": "23/03/2026 15:49",
-    "link": "https://www.evrensel.net/haber/5976399/israilin-gazze-seridine-saldirilarinda-can-kaybi-72-bin-263e-yukseldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 263'e yükseldi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339922.jpg",
     "keyword": null
   }
 ]
