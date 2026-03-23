@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_143c18f3",
+    "title": "Çiftçinin elektrik yükü ağırlaşıyor: 4 yılda 75 bine yakın abonenin elektriği kesildi",
+    "source": "Evrensel",
+    "time": "23/03/2026 11:38",
+    "link": "https://www.evrensel.net/haber/5976335/ciftcinin-elektrik-yuku-agirlasiyor-4-yilda-75-bine-yakin-abonenin-elektrigi-kesildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tarımsal sulamada artan elektrik maliyetleri nedeniyle son dört yılda yaklaşık 75 bin çiftçinin elektriği borç nedeniyle kesildi. Üretimde maliyet baskısı büyüyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/334287.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a7502de9",
     "title": "İSKİ duyurdu: İstanbul barajlarında doluluk arttı",
     "source": "Evrensel",
@@ -885,17 +897,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, ABD-İsrail ve İran arasında 28 Şubat’ta başlayan savaşın ardından ilk kapsamlı diplomatik turunu, gerilimin en yüksek olduğu Körfez bölgesine gerçekleştirdi. İran’ın saldırılarına maruz kalan Suudi Arabistan, Katar ve BAE’ye destek açıklamasında bulunan Fidan, savaşın İsrail tarafından başlatıldığını, ancak sona ermesi sürecinde ABD’nin tavrının kilit rol oynayacağını kaydetti.",
-    "image": null
-  },
-  {
-    "id": "GND_4240296e",
-    "title": "İsrail, Hizbullah'a kara saldırılarını yoğunlaştırıyor",
-    "source": "BBC Türkçe",
-    "time": "23/03/2026 11:23",
-    "link": "https://www.bbc.com/turkce/articles/cq6jl2zg122o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu, Hizbullah'a karşı kara ve hava saldırılarının genişletilmesi planını onaylandı.",
     "image": null
   }
 ]
