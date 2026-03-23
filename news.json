@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1f118297",
+    "title": "Rheinland-Pfalz seçimleri: AfD'nin yükselişi hız kesmiyor",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 17:05",
+    "link": "https://www.dw.com/tr/rheinland-pfalz-seçimleri-afd-nin-yükselişi-hız-kesmiyor/a-76479821",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rheinland-Pfalz'da CDU adayı Gordon Schnieder yeni başbakan olması beklenen isim. Aşırı sağcı AfD iki hafta arayla bir Batı eyaletinde daha oylarını ikiye katladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bf34d2ca",
     "title": "Muş'ta leylekler 44 yıldır aynı evin çatısına konuyor",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzon camiasını yasa boğan kayıp! Dernek başkanı duyurdu  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1315b780",
-    "title": "Video İran'ın vurduğu İsrail uçağının BAE'ye düştüğünü mü gösteriyor?",
-    "source": "Teyit.org",
-    "time": "23/03/2026 16:40",
-    "link": "https://teyit.org/analiz/video-iranin-vurdugu-israil-ucaginin-baeye-dustugunu-mu-gosteriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bir videonun  İran'ın vurduğu İsrail'e ait uçağın BAE'ye düştüğünü gösterdiği öne sürüldü.",
-    "image": "https://md.teyit.org/2026/03/bae-ucak-dusme-kapak.webp",
-    "keyword": null
   }
 ]
