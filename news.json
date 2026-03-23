@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_57a5b125",
+    "title": "İstanbul Newrozu'nda gözaltına alınmışlardı: 26 kişiden 25'i serbest",
+    "source": "Evrensel",
+    "time": "23/03/2026 14:09",
+    "link": "https://www.evrensel.net/haber/5976375/istanbul-newrozunda-gozaltina-alinmislardi-26-kisiden-25i-serbest",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Newroz'da gözaltına alınan 26 kişiden 25'i serbest bırakılırken, Rojavalı bir kişinin ise İstanbul Yabancılar Şube Müdürlüğü'nde tutulduğu öğrenildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339815.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_97f6f7d6",
     "title": "Liverpool maçında sakatlanmıştı: Osimhen ameliyata alındı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Konya’nın Ereğli ilçesinde mısır yüklü tır ile traktörün çarpıştığı kazada her iki sürücü yaralandı. Traktörün ikiye bölündüğü kaza sonrası trafik kontrollü sağlandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/09/20260309aw658212-0-xxi1_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f98f3d0f",
-    "title": "Bursa Orhangazi’de zincirleme kaza: 5 yaralı",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 13:15",
-    "link": "https://www.gazeteduvar.com.tr/bursa-orhangazide-zincirleme-kaza-5-yarali-haber-1765716",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa’nın Orhangazi ilçesinde tırın motosiklet ve kamyona çarpması sonucu meydana gelen zincirleme kazada 5 kişi yaralandı. Yaralılar hastaneye kaldırıldı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/09/20260309aw658228-0-yrvl_cover.jpg",
     "keyword": null
   }
 ]
