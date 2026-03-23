@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4909423d",
+    "title": "Fenerbahçe'den dev sermaye artışı",
+    "source": "OdaTV",
+    "time": "24/03/2026 00:25",
+    "link": "https://www.odatv.com/spor/fenerbahceden-dev-sermaye-artisi-120140491",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe&#039;nin sermaye artış başvurusu kabul edildi. Kulübün kayıtlı sermaye tavanı 31 milyar 250 milyon liraya yükseltildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/fenerbahceden-dev-sermaye-artisi-wxdq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a7124d77",
     "title": "Faiz artırım fiyatlamaları başladı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Makine ve Kimya Endüstrisi AŞ MKE, TOLGA yakın hava savunma sisteminin İHA ve kamikaze dronları etkisiz hale getirdiği görüntüleri paylaştı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7767ad63",
-    "title": "Osmaniye'de 9,2 milyar liralık bahis çetesi çökertildi",
-    "source": "Evrensel",
-    "time": "23/03/2026 23:05",
-    "link": "https://www.evrensel.net/haber/5976448/osmaniyede-92-milyar-liralik-bahis-cetesi-cokertildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Osmaniye'de yasa dışı bahis üzerinden 9,2 milyar lira kayıt dışı para akışını yöneten 18 şüpheli tespit edildi. Şüphelilerin mal varlıklarına el konuldu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/332618.jpg",
     "keyword": null
   }
 ]
