@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_099cab0b",
+    "title": "Asansörde zehirlenme şüphesi",
+    "source": "Habertürk",
+    "time": "23/03/2026 21:46",
+    "link": "https://www.haberturk.com/asansorde-zehirlenme-suphesi-3871436",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da bir aile asansörde mahsur kaldı. İçeride bir süre kalan aile kendi imkanlarıyla çıkmayı başardı. Evlerine dönen aile ise bir süre sonra hastanelik oldu",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774163968/3871436/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_a823de8c",
     "title": "Atlara eziyete temizlik cezası!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’un eski futbolcusu Abdullah Ercan, bordo-mavililerin 1995-96 sezonundaki kadrosuna dikkat çekerek çarpıcı değerlendirmelerde bulundu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/mansetler-1-256.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_2ca808dd",
-    "title": "MHP lideri Devlet Bahçeli'den bayram mesajı: Vakit Türkiye'nin tedbir ve temkinle hareket etme vaktidir",
-    "source": "A Haber",
-    "time": "23/03/2026 21:05",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/19/mhp-lideri-devlet-bahceliden-bayram-mesaji",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Lideri Devlet Bahçeli, Ramazan Bayramı vesilesiyle yayımladığı mesajda iç cephenin önemine vurgu yaptı. Bahçeli, \"Vakit Türkiye'nin tedbir ve temkinle hareket etme vaktidir. Vakit barış ve huzur...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/4804e9/1200/1200/179/0/665/486?u=https://iahbr.tmgrup.com.tr/2026/03/19/mhp-lideri-devlet-bahceliden-ic-cephe-vurgusu-vakit-turkiyenin-tedbir-ve-temkinle-hareket-etme-vaktidir-1773911709436.jpeg",
     "keyword": null
   }
 ]
