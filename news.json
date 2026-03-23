@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aed0e944",
+    "title": "Tutuklanan İsmail Arı'dan mesaj var",
+    "source": "OdaTV",
+    "time": "23/03/2026 21:46",
+    "link": "https://www.odatv.com/guncel/tutuklanan-ismail-aridan-mesaj-var-120140481",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gözaltına alındıktan sonra tutuklanan gazeteci İsmail Arı, cezaevinden gönderdiği ilk mesajında, &quot;İyi gazeteciliğe sahip çıkın. Gazetecilik kazanacak” dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/21/gazeteci-ismail-ari-gozaltina-alindi-wjss.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_586b11f5",
     "title": "Şehit olan ASELSAN teknisyenleri için cenaze töreni düzenlendi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "ABD Başkanı Trump'ın İran ile 5 gün içinde anlaşma olabileceği açıklamasına Tahran'dan yalanlama geldi. Orta Doğu'da tansiyonu yükselten son dakika gelişmeleri.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/abd-iran.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e1724115",
-    "title": "Görevinden uzaklaştırılan Beyoğlu Belediye Başkanı İnan Güney hakkında 35 yıla kadar hapis istendi",
-    "source": "BBC Türkçe",
-    "time": "23/03/2026 21:05",
-    "link": "https://www.bbc.com/turkce/articles/c2087pgjz82o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yolsuzluk iddiasıyla tutuklanan ve görevinden uzaklaştırılan Beyoğlu Belediye Başkanı İnan Güney hakkında 35 yıla kadar hapis cezası istendi.",
-    "image": null,
     "keyword": null
   }
 ]
