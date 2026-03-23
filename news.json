@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bdf2a506",
+    "title": "BM: Geçen yıla göre bu yıl şubatta Ukrayna'da sivil ölümlerde yüzde 45'lik artış yaşandı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 00:05",
+    "link": "https://www.aa.com.tr/tr/guncel/bm-gecen-yila-gore-bu-yil-subatta-ukraynada-sivil-olumlerde-yuzde-45lik-artis-yasandi/3876484",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler (BM), şubat 2022’den bu yana, Ukrayna’da 15 binden fazla sivilin öldürüldüğünü belirterek, bu yılın şubat ayında, geçen yılın aynı dönemine göre sivil ölümlerde yüzde 45'lik artış yaşandığına dikkati çekti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b90817bb",
     "title": "ABD ve TotalEnergies açık deniz rüzgar enerjisi projelerini sonlandırma konusunda anlaştı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan ile İran Dışişleri Bakanı Abbas Erakçi arasında yapılan telefon görüşmesinde \"savaşın gidişatı\" ele alındı.Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/bbf66b/1200/1200/91/0/430/339?u=https://iahbr.tmgrup.com.tr/2026/03/18/bakan-fidan-iranli-mevkidasi-arakci-ile-gorustu-1773862547270.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7208ed35",
-    "title": "Başkan Erdoğan baba ocağı Rize'de! Birlik ve beraberlik mesajı",
-    "source": "A Haber",
-    "time": "23/03/2026 22:45",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/18/baskan-erdogan-baba-ocagi-rizede",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Recep Tayyip Erdoğan bayram tatilini memleketi Rize'de geçirecek. Erdoğan akşam iftar programı sonrası baba ocağı Rize'ye geçti. Rize'de birlik ve beraberlik çağrısında bulunan Erdoğan \"Hep...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/f7c814/0/0/0/0/1528/2048?u=https://iahbr.tmgrup.com.tr/2026/03/18/baskan-erdogan-baba-ocagi-rizede-birlik-ve-beraberlik-mesaji-1773867343568.jpg",
     "keyword": null
   }
 ]
