@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9218d911",
+    "title": "Almanya'nın iş gücü çıkmazı: Yeni ittifak çözüm olacak mı?",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 11:43",
+    "link": "https://www.dw.com/tr/almanya-nın-iş-gücü-çıkmazı-yeni-ittifak-çözüm-olacak-mı/a-76454490",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya nitelikli iş gücü açığını yurt dışından kapatmak ve yabancı çalışanların ülkede kalıcılığını artırmak istiyor. Kalkınma Bakanlığı bu amaçla yeni bir ittifak kurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ff074764",
     "title": "Trump'tan İran'a yeni tehdit: 48 saat süre verdi",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da lise öğrencileri, “Kuzeyden Güneye Yeşil Yol Projesi” kapsamında 20 bin tohum topu hazırlayarak yangınlardan zarar gören alanlar için doğaya katkı sundu.",
     "image": "https://resim.haber61.net/news/608921.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8e68ebec",
-    "title": "Trump, 'İran Savaşı'nda yol ayrımında'",
-    "source": "BBC Türkçe",
-    "time": "23/03/2026 11:38",
-    "link": "https://www.bbc.com/turkce/articles/cn9qdwznwwro",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trump’ın çelişkili mesajları ve sahadaki gelişmeler, ABD’nin İran savaşında kritik bir yol ayrımına geldiğini gösteriyor",
-    "image": null,
-    "keyword": null
   }
 ]
