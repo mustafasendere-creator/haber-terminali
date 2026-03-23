@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_78e1099a",
+    "title": "Uyuşturucu operasyonu: 3 tutuklama",
+    "source": "Habertürk",
+    "time": "23/03/2026 21:06",
+    "link": "https://www.haberturk.com/sanliurfa-da-uyusturucu-operasyonunda-3-zanli-tutuklandi-3871456",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa’da düzenlenen uyuşturucu operasyonunda 3 şüpheli gözaltına alındı. Adreste yapılan aramada çeşitli miktarda uyuşturucu ve materyal ele geçirildi. Şüpheliler, çıkarıldıkları mahkemece tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774169966/3871456/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_358be4d4",
     "title": "Süreçte gözler hukuki adımlarda",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig’in 28. haftasında Trabzonspor’a konuk olacak lider Galatasaray’da, yıldız golcü Victor Osimhen’den kötü haber geldi. Liverpool maçında sakatlanan ve ameliyat edilen Nijeryalı oyuncunun derbiye yetişmesi beklenmiyor.",
     "image": "https://resim.haber61.net/news/608991.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_0b320d8a",
-    "title": "COP31 süreci için dijital katılım platformu hayata geçirildi",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 20:25",
-    "link": "https://www.aa.com.tr/tr/guncel/cop31-sureci-icin-dijital-katilim-platformu-hayata-gecirildi/3876300",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sıfır Atık Vakfı tarafından hayata geçirilen COP31 Dijital Koordinasyon Merkezi, iklim diplomasisi sürecine daha geniş katılım sağlanması amacıyla faaliyetlerine başladı.",
-    "image": null,
-    "keyword": null
   }
 ]
