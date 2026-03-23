@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d959ab4f",
+    "title": "Yolcu uçağının çarpma anları",
+    "source": "OdaTV",
+    "time": "23/03/2026 21:26",
+    "link": "https://www.odatv.com/guncel/yolcu-ucaginin-carpma-anlari-120140477",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD&#039;de Air Canada Express&#039;e ait yolcu uçağının LaGuardia Havalimanı&#039;na iniş sırasında yer hizmeti aracına çarptığı anlara ait güvenlik kamerası görüntüleri ortaya çıktı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/yolcu-ucaginin-carpma-anlari-qpms.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bdc8f20a",
     "title": "DMM açıkladı: \"Araç içi telefon tutucu\" yasak mı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İngiltere sağlık makamlarına göre, Kent’teki meningokok B salgınında doğrulanmış vaka sayısı, laboratuvar yeniden sınıflandırmasının ardından 29’a geriledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bbe081a7",
-    "title": "Uydurma yapay zeka alıntıları Avrupalı gazeteciyi koltuğundan etti",
-    "source": "Euronews",
-    "time": "23/03/2026 20:45",
-    "link": "http://tr.euronews.com/next/2026/03/23/kidemli-avrupali-gazeteci-yapay-zeka-alintilari-nedeniyle-uzaklastirildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hollanda merkezli Mediahuis’ta çalışan gazeteci Peter Vandermeersch’in kaleme aldığı 53 haberin 15’inde AI tarafından üretilen uydurma uzman alıntıları kullandığı iddia edildi.",
     "image": null,
     "keyword": null
   }
