@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d70c6db7",
+    "title": "İran savaşı Kıbrıs'taki askeri dengeyi nasıl etkileyebilir?",
+    "source": "BBC Türkçe",
+    "time": "23/03/2026 16:04",
+    "link": "https://www.bbc.com/turkce/articles/c62d20xkn32o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kıbrıs'taki bir İngiliz üssünün 1 Mart'ta insansız hava aracı tarafından hedef alınmasının ardından adaya AB ülkeleri ve Türkiye tarafından askeri sevkiyat yapıldı. BBC Türkçe'ye konuşan uzmanlar, bu sevkiyatın adada yeni gelişmelere yol açabileceğini söylüyor ama Doğu Akdeniz için \"felaket tellalığı\" yapılmaması uyarısında bulunuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a3e0afb7",
     "title": "Trump: İran'la görüşüyoruz, saldırıları beş gün süreyle erteliyoruz",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Batman’ın Gercüş ilçesinde seyir halindeki minibüs kontrolden çıkarak takla attı. Kazada sürücü yaralandı, hastaneye kaldırıldı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655423-0-x6ng_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a5c87c3f",
-    "title": "Kartal’da keci kaza: Otomobil durağa girdi, facia ucuz atlatıldı!",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 15:48",
-    "link": "https://www.gazeteduvar.com.tr/kartalda-keci-kaza-otomobil-duraga-girdi-facia-ucuz-atlatildi-haber-1765699",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kartal Sahili’nde sürücüsünün direksiyon hakimiyetini kaybettiği otomobil durağa daldı. Kazada 2 yolcu hafif yaralandı, durakta yolcu bulunmaması muhtemel bir facianın önüne geçti.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw655855-0-0wpy_cover.jpg",
     "keyword": null
   }
 ]
