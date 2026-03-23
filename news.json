@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef3b7140",
+    "title": "İtalya'da çığ düştü: 2 kişi öldü!",
+    "source": "Habertürk",
+    "time": "23/03/2026 21:46",
+    "link": "https://www.haberturk.com/italya-da-cig-dustu-2-kisi-oldu-3871434",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'nın Alto-Adige Bölgesi'ndeki Ridanna Vadisi'nde çığ düştü. Olayda 2 kişinin hayatını kaybettiği, 5 kişinin yaralandığı açıklandı",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774163426/3871434/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_099cab0b",
     "title": "Asansörde zehirlenme şüphesi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Lübnan hükümeti, İsrail'in saldırı tehdidi karşısında ülke içinde zorla yerinden edilenlerin resmi sayısının 1 milyon 162 bin 237'ye yükseldiğini açıkladı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_235d6119",
-    "title": "Efsane kadro için çarpıcı iddia! \"Şampiyon olabilseydik...\"",
-    "source": "61 Saat",
-    "time": "23/03/2026 21:05",
-    "link": "https://www.61saat.com/efsane-kadro-icin-carpici-iddia-sampiyon-olabilseydik",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un eski futbolcusu Abdullah Ercan, bordo-mavililerin 1995-96 sezonundaki kadrosuna dikkat çekerek çarpıcı değerlendirmelerde bulundu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/mansetler-1-256.png",
     "keyword": null
   }
 ]
