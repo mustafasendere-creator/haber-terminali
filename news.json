@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_205e55be",
+    "title": "İzmir'de devredilmek istenen Meslek Fabrikası önünde nöbet başladı: Mahkeme yürütmeyi durdurdu",
+    "source": "Evrensel",
+    "time": "24/03/2026 01:05",
+    "link": "https://www.evrensel.net/haber/5976392/izmir-de-devredilmek-istenen-meslek-fabrikasi-onunde-nobet-basladi-mahkeme-yurutmeyi-durdurdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'de Meslek Fabrikası'nın devrine karşı nöbet başladı. Tahliye kararının hukuksuz olduğu belirtilen açıklamada, binanın kamusal işlevinin korunması için mücadele vurgusu yapıldı. Ardından mahkeme yürütmeyi durdurma kararı verdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339910.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d7362de5",
     "title": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria’da 3 Filistinliyi yaraladı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Deneyimli Teknik Direktör Jürgen Klopp, hakkında çıkan Real Madrid iddialarına ilişkin bir açıklama yayımladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7c04fcc2-aa59-4223-a15b-46ec4b5e41f2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_04e7e188",
-    "title": "Adalet Bakanı Gürlek, HSK üyeleri ve personeliyle bir araya geldi",
-    "source": "TRT Haber",
-    "time": "23/03/2026 23:25",
-    "link": "https://www.trthaber.com/haber/gundem/adalet-bakani-gurlek-hsk-uyeleri-ve-personeliyle-bir-araya-geldi-938834.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Akın Gürlek, Hakimler ve Savcılar Kurulu HSK üyeleri ve personeliyle buluştu.",
-    "image": null,
     "keyword": null
   }
 ]
