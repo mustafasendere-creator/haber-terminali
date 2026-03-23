@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b63d0a9",
+    "title": "İran'dan İsrail'e yeni misilleme saldırısı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 22:45",
+    "link": "https://www.trthaber.com/haber/dunya/irandan-israile-yeni-misilleme-saldirisi-938833.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, İsrail'in güneyini hedef alan bir misilleme başlattı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8bda70d0",
     "title": "İstanbul Newrozu'nda gözaltına alınmışlardı: 26 kişiden 25'i serbest",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump'ın ültimatomundan geri adım atarak İran'ın enerji altyapısına saldırıları ertelemesi tansiyonu düşürdü. Almanya Başbakanı Merz, Trump'a \"minnettar\" olduğunu belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a45aa3fd",
-    "title": "Trump'ın iddialı İran açıklamaları: Savaş sona mı eriyor?",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 21:45",
-    "link": "https://www.dw.com/tr/trump-ın-iddialı-iran-açıklamaları-savaş-sona-mı-eriyor/a-76494759",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Trump'n İran açıklamaları Ortadoğu için dönüm noktası mı? Piyasaları sarsan, dünyayı ağır bir ekonomik krizin eşiğine getiren savaş sona mı eriyor? İran ne diyor?",
     "image": null,
     "keyword": null
   }
