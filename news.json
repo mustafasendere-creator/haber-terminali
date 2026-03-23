@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b1a075d0",
+    "title": "Teyitçilik yanlış bilgiye karşı ne kadar etkili?",
+    "source": "Teyit.org",
+    "time": "23/03/2026 16:06",
+    "link": "https://teyit.org/teyitpedia/teyitcilik-yanlis-bilgiye-karsi-ne-kadar-etkili",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Onlarca bilimsel çalışma, teyitçiliğin yanlış bilgiye olan inancı azalttığını ve paylaşım davranışını değiştirdiğini ortaya koyuyor.",
+    "image": "https://md.teyit.org/2026/03/teyitcilik-fayda-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_0a5d27e3",
     "title": "İran'daki toplu mezarı gösteren fotoğraf güncel ve gerçek mi?",
     "source": "Teyit.org",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Samsun’un Bafra ilçesinde otomobilin minibüse çarpması sonucu meydana gelen kazada minibüs sürücüsü yaralandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655273-0-result-result-tdxm_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_66227a34",
-    "title": "15 yaşındaki çocuk motosikletle takla attı, hayatını kaybetti!",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 15:51",
-    "link": "https://www.gazeteduvar.com.tr/15-yasindaki-cocuk-motosikletle-takla-atti-hayatini-kaybetti-haber-1765695",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Balıkesir’in İvrindi ilçesinde motosikletin devrilmesi sonucu 15 yaşındaki sürücü Şerif Emre Görmezoğlu hayatını kaybetti.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655345-0-val5_cover.jpg",
     "keyword": null
   }
 ]
