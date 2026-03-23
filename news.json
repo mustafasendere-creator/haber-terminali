@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_14dd6435",
+    "title": "Bakanlıktan Ankara'da bayat ekmek 6 liradan satılıyor paylaşımlarına ilişkin açıklama",
+    "source": "TRT Haber",
+    "time": "23/03/2026 21:26",
+    "link": "https://www.trthaber.com/haber/turkiye/bakanliktan-ankarada-bayat-ekmek-6-liradan-satiliyor-paylasimlarina-iliskin-aciklama-938824.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ticaret Bakanlığı, Ankara'da bir işletmede 6 liradan satıldığı belirtilen ekmeklerin bayat değil, bir gün önce üretilmiş ekmekler olduğunu belirterek, bu ekmeklerin genellikle besiciler ve mandıracılarca düşük bedelle alındığını, normal satışa sunulan ekmeklerin ise belirlenen resmi tarifeye uygun şekilde 15 liradan satıldığını belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_28014c11",
     "title": "Trump, nükleer silah sahibi olmayacaklarına dair İran'la anlaşmaya vardıklarını savundu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli Güvenlik Kurulu Genel Sekreterliği’ne ilişkin Cumhurbaşkanlığı kararnamesiyle düzenlemeler yapıldı. MGK bünyesinde İç Güvenlik Araştırma ve Değerlendirmeleri, Dış Güvenlik Araştırma ve...Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/7f86e6/1200/1200/203/0/689/486?u=https://iahbr.tmgrup.com.tr/2026/03/19/mgkya-3-yeni-birim-guvenlikte-yeni-vizyon-1773927549455.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_28e73f48",
-    "title": "ABD Enerji Bakanı Wright: Petrol fiyatları henüz talep düşüşüne yol açmadı",
-    "source": "Ekonomim",
-    "time": "23/03/2026 20:26",
-    "link": "https://www.ekonomim.com/sektorler/enerji/abd-enerji-bakani-wright-petrol-fiyatlari-henuz-talep-dususune-yol-acmadi-haberi-883471",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Enerji Bakanı Chris Wright küresel petrol arzındaki aksamalara rağmen fiyatların henüz tüketimi ciddi oranda düşürecek seviyeye ulaşmadığını belirtti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/abd-enerji-bakani-wright-petrol-fiyatlari-henuz-talep-dususune-yol-acmadi-0ngd_cover.jpg",
     "keyword": null
   }
 ]
