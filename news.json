@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_1440ae7a",
+    "title": "Hafif ticari araç tırın altına girdi: 2 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 14:48",
+    "link": "https://www.gazeteduvar.com.tr/hafif-ticari-arac-tirin-altina-girdi-2-yarali-haber-1765708",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Giresun’un Keşap ilçesinde kantara girmek için yavaşlayan tıra arkadan çarpan hafif ticari araçta bulunan iki kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw656384-0-lbou_cover.jpg",
+    "keyword": null
+  },
+  {
+    "id": "GND_4b577f1d",
+    "title": "Osimhen ameliyat oldu",
+    "source": "10Haber",
+    "time": "23/03/2026 14:48",
+    "link": "https://10haber.net/spor/osimhen-ameliyat-oldu-689234/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şampiyonlar Ligi’nde oynanan Liverpool maçında kolu kırılan Osimhen ameliyata alındı. Sarı kırmızılılardan yapılan açıklama şu şekilde: &#160;&#8220;Futbolcumuz Victor Osimhen kolundaki kırık nedeniyle ameliyata alınmıştır. Gerekli açıklama ameliyat sonrası resmi kanallarımızdan yapılacaktır&#8221; Galatasaray&#8217;ın yıldızı Victor Osimhen, UEFA Şampiyonlar Ligi son 16 turundaki Liverpool maçında kolundan sakatlanmıştı. İlk yarıyı tamamlayan ancak devre arasında oyundan alınan Osimhen&#8217;in kolunda [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c125a0b04bb5.62850340.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_48082b47",
     "title": "‘Alaylı klima tamircisi’ne kötü haber: Mesleki Yeterlilik Belgesi artık zorunlu",
     "source": "10Haber",
@@ -932,30 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fransa'da Sosyalist Parti, aşırı sağın hedeflediği büyükşehirlerden zaferle çıktı. Yerel seçimler, gelecek yıl düzenlenecek cumhurbaşkanlığı seçimleri için öncü gösterge kabul ediliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4c9d7760",
-    "title": "İran'dan bir rest daha: Basra Körfezi'ni mayınlarız",
-    "source": "Diken",
-    "time": "23/03/2026 14:09",
-    "link": "https://www.diken.com.tr/irandan-bir-rest-daha-basra-korfezini-mayinlariz/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'dan bir rest daha: Basra Körfezi'ni mayınlarız 23.03.2026 Dikenİran, kıyı ve adalarına olası bir saldırı girişiminde Basra Körfezi'ne 'mayın döşeyeceğini' duyurdu.\nThe post İran'dan bir rest daha: Basra Körfezi'ni mayınlarız appeared first on #site_linkat 23.03.2026 .",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bf34d2ca",
-    "title": "Muş'ta leylekler 44 yıldır aynı evin çatısına konuyor",
-    "source": "Diken",
-    "time": "23/03/2026 14:09",
-    "link": "https://www.diken.com.tr/musta-leylekler-44-yildir-ayni-evin-catisina-konuyor/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muş'ta leylekler 44 yıldır aynı evin çatısına konuyor 23.03.2026 DikenMuş'ta leylekler 44 yıldır her baharda aynı evin çatısına konuyor.\nThe post Muş'ta leylekler 44 yıldır aynı evin çatısına konuyor appeared first on #site_linkat 23.03.2026 .",
     "image": null,
     "keyword": null
   }
