@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0d61780c",
+    "title": "Meteoroloji tarih vererek uyardı: Yeni yağışlı sistem geliyor",
+    "source": "Ekonomim",
+    "time": "23/03/2026 22:06",
+    "link": "https://www.ekonomim.com/gundem/meteoroloji-tarih-vererek-uyardi-yeni-yagisli-sistem-geliyor-haberi-883454",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteorolojiye göre yağışlı hava bu hafta da yurt genelinde etkisini sürdürecek. Sağanaklar hafta ortasında ülke geneline yayılacak, ardından ise hafta sonu yeni yağışlar etkili olacak.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/meteoroloji-tarih-vererek-uyardi-yeni-yagisli-sistem-geliyor-ndff_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3c3f33cb",
     "title": "36 ilaç geri ödeme kapsamına alındı",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’de sezonun en kritik karşılaşmalarından biri için geri sayım başladı. 4 Nisan’da sahasında lider Galatasaray’ı konuk edecek Trabzonspor, sadece 3 puan değil, adeta sezonun kaderini belirleyecek bir mücadeleye çıkacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/1dcc03ec-3533-4126-890d-50a604f6ab1b.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8eec2ac0",
-    "title": "Ramazan bitince defteri kapatmayın",
-    "source": "A Haber",
-    "time": "23/03/2026 21:25",
-    "link": "https://www.ahaber.com.tr/yazarlar/nihat-hatipoglu/2026/03/19/ramazan-bitince-defteri-kapatmayin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ramazanda orucumuzu tuttuk, namazımızı kıldık, hayır ve hasenatımızı çoğalttık. Şimdi yeni bir koşuşturmaca başlayacak. Bu hengâmede yüce Allah’a verdiğimiz sözü unutmayalımDevamı için tıklayınız",
-    "image": "",
-    "keyword": null
   }
 ]
