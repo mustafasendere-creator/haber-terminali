@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d0b5826",
+    "title": "Refah çağının paradoksu: Dünya zenginleşirken gençler neden mutsuzlaşıyor?",
+    "source": "BBC Türkçe",
+    "time": "23/03/2026 12:42",
+    "link": "https://www.bbc.com/turkce/articles/c9dn7geq441o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya hiç bu kadar zengin ve fırsatlara açık olmamıştı. Yine de gençler mutluluklarının azaldığını söylüyorlar. Peki, bunun nedeni ne?",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a422a4fd",
     "title": "Sivilcelerdeki 'olağan şüpheli' çikolata suçsuz olabilir mi?",
     "source": "BBC Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Rekabet Kurulu, yumuşak şeker sektöründe faaliyet gösteren Haribo Şekerleme San. ve Tic. Ltd. Şti. hakkında soruşturma açılmasına karar verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_09a79c85",
-    "title": "İmamoğlu Suç Örgütü davasında 8. duruşma",
-    "source": "TRT Haber",
-    "time": "23/03/2026 12:02",
-    "link": "https://www.trthaber.com/haber/gundem/imamoglu-suc-orgutu-davasinda-8-durusma-938773.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 107'si tutuklu, 5'i \"müşteki sanık\" olmak üzere 407 sanığın yargılandığı davanın sekizinci duruşması başladı.",
     "image": null,
     "keyword": null
   }
