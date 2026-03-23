@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5449a37",
+    "title": "Ankara'da zehir taciri 28 kişi tutuklandı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 11:43",
+    "link": "https://www.trthaber.com/haber/turkiye/ankarada-zehir-taciri-28-kisi-tutuklandi-938763.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da ekipler zehir tacirlerine göz açtırmıyor. Kent genelinde düzenlenen uyuşturucu operasyonunda gözaltına alınan 60 şüpheliden 28'i tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_17516254",
     "title": "Tarımda zararlılarla mücadelede yöntem önerileri",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Süper Lig’de deplasman performansıyla zirveye yerleşti. Bordo-mavililer, 1 galibiyet daha alırsa şampiyonluk sezonu rakamlarını yakalayacak.",
     "image": "https://resim.haber61.net/news/608919.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b86f9968",
-    "title": "İran'dan İsrail'e kapsamlı füze saldırısı: ‘Çok ağır bir tablo’",
-    "source": "BBC Türkçe",
-    "time": "23/03/2026 11:38",
-    "link": "https://www.bbc.com/turkce/articles/cdj7ekgm11jo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrailli yetkililer, İran'ın İsrail'in güneyindeki Dimona ve Arad kentlerine düzenlediği füze saldırılarında 175'ten fazla kişinin yaralandığını açıkladı.",
-    "image": null,
-    "keyword": null
   }
 ]
