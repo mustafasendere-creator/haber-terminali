@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_519ad062",
+    "title": "Batman Gercüş’te minibüs takla attı: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 15:48",
+    "link": "https://www.gazeteduvar.com.tr/batman-gercuste-minibus-takla-atti-1-yarali-haber-1765698",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Batman’ın Gercüş ilçesinde seyir halindeki minibüs kontrolden çıkarak takla attı. Kazada sürücü yaralandı, hastaneye kaldırıldı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655423-0-x6ng_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a5c87c3f",
     "title": "Kartal’da keci kaza: Otomobil durağa girdi, facia ucuz atlatıldı!",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İnan Güney hakkında 35 yıla kadar hapis talebi 23.03.2026 DikenBeyoğlu Belediye Başkanı İnan Güney hakkında 35 yıla kadar hapis cezası isteniyor.\nThe post İnan Güney hakkında 35 yıla kadar hapis talebi appeared first on #site_linkat 23.03.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d0967ed3",
-    "title": "FIFA'dan Adana Demirspor'a puan silme cezası",
-    "source": "Evrensel",
-    "time": "23/03/2026 15:09",
-    "link": "https://www.evrensel.net/haber/5976389/fifadan-adana-demirspora-puan-silme-cezasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "FIFA Disiplin Komitesi, Adana Demirspor’a 6 puan silme cezası verdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339908.jpg",
     "keyword": null
   }
 ]
