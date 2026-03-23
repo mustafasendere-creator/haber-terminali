@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef8f2816",
+    "title": "Dönüş yolunda akıcı yoğunluk",
+    "source": "Habertürk",
+    "time": "23/03/2026 20:46",
+    "link": "https://www.haberturk.com/donus-yolunda-akici-yogunluk-3871461",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bayram tatilinin son gününde Anadolu Otoyolu'nun İstanbul istikametinde akıcı yoğunluk yaşanıyor. Trafik yoğunluğunun öğleden sonra artarak devam etmesi bekleniyor",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774171411/3871461/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_873c88ea",
     "title": "İstanbul Fatih'te bitişik iki bina çöktü!",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "🏥 Trabzon’da dikkat çeken açıklama! ⚽ Sağlık Bakanı Memişoğlu, stat sesine ilişkin “Şampiyon olalım, istediği kadar olsun” dedi 📅 2026’da açılması planlanan şehir hastanesi için geri sayım sürüyor 💬 Açıklama sosyal medyada gündem oldu 🔥 Trabzonspor v  x.com",
     "image": null,
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "GND_dac63cc3",
-    "title": "AB'den Macaristan'a 'Rusya'ya sızıntı' uyarısı: 'Endişe verici iddiaları açıklığa kavuşturun'",
-    "source": "Euronews",
-    "time": "23/03/2026 20:05",
-    "link": "http://tr.euronews.com/my-europe/2026/03/23/abden-macaristana-rusyaya-sizinti-uyarisi-endise-verici-iddialari-acikliga-kavusturun",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AB üye devletlerinin 'dürüst iş birliği' ilkesine bağlı olması ve kapalı kapılar ardındaki toplantı içeriklerinin gizli tutulması kuralı nedeniyle bu iddialar Brüksel'de infiale yol açtı.",
-    "image": null,
-    "keyword": null
   }
 ]
