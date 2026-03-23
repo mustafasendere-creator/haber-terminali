@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d76229b4",
+    "title": "Trump'ın açıklamasının ardından İsrail, İran'a saldırdı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 15:29",
+    "link": "https://www.trthaber.com/haber/dunya/trumpin-aciklamasinin-ardindan-israil-irana-saldirdi-938797.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trumpın, İranın enerji altyapısına saldırı planını 5 günlüğüne ertelediğini açıklamasının ardından, İsrail ordusu Tahrana yeni bir saldırı başlattığını duyurdu",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_7f99604a",
     "title": "#SONDAKİKA Victor Osimhen, Trabzonspor maçında kesin olarak forma giyemeyecek. Galatasaray: “Futbolcumuz Victor Osimhen kolundaki kırık nedeniyle ameliyata alınmıştır. Gerekli açıklama ameliyat sonrası resmi kanallarımızdan yapılacaktır\" - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ramazan Bayramı yaklaşırken en çok merak edilen konular arasında “Gratis bayramda açık mı?” sorusu yer alıyor. Kozmetik ve kişisel bakım ürünleri alışverişi yapmak isteyenler, Gratis bayram çalışma saatlerini mercek altına aldı. Peki, Gratis bayramda açık mı, kapalı mı? İşte 2026 Ramazan Bayramı’nda Gratis Çalışma saatleri...",
     "image": "https://im.haberturk.com/l/2026/03/17/ver1773778406/3870506/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_459c8de4",
-    "title": "Ramazan Bayramı’nda AVM’ler açık mı?",
-    "source": "Habertürk",
-    "time": "23/03/2026 14:49",
-    "link": "https://www.haberturk.com/ramazan-bayraminda-avmler-acik-mi-kapali-mi-bayramda-avm-calisma-saatleri-nasil-olacak-rmz06-3870513",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ramazan Bayramı yaklaşırken en çok merak edilen konulardan biri de “Ramazan Bayramı’nda AVM’ler açık mı?” sorusu oldu. Bayram alışverişi yapmak isteyen birçok kişi bayramda AVM'lerin çalışma saatlerini araştırmaya başladı. Peki, Ramazan Bayramı’nda AVM’ler açık mı? Bayramda AVM çalışma saatleri nasıl olacak? İşte bayramda AVM çalışma saatleri...",
-    "image": "https://im.haberturk.com/l/2026/03/17/ver1773779491/3870513/jpg/1280x1280",
     "keyword": null
   }
 ]
