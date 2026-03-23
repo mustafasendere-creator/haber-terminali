@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a5c87c3f",
+    "title": "Kartal’da keci kaza: Otomobil durağa girdi, facia ucuz atlatıldı!",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 15:48",
+    "link": "https://www.gazeteduvar.com.tr/kartalda-keci-kaza-otomobil-duraga-girdi-facia-ucuz-atlatildi-haber-1765699",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kartal Sahili’nde sürücüsünün direksiyon hakimiyetini kaybettiği otomobil durağa daldı. Kazada 2 yolcu hafif yaralandı, durakta yolcu bulunmaması muhtemel bir facianın önüne geçti.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw655855-0-0wpy_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_e43f5334",
     "title": "Atabarı Kayak Merkezi kayak sezonunu açtı",
     "source": "Karadeniz'de Sonnokta",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "FIFA Disiplin Komitesi, Adana Demirspor’a 6 puan silme cezası verdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339908.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3e73bc0e",
-    "title": "TTB'den İran çağrısı: \"Uluslararası sağlık kurumları harekete geçmeli\"",
-    "source": "Evrensel",
-    "time": "23/03/2026 15:09",
-    "link": "https://www.evrensel.net/haber/5976390/ttbden-iran-cagrisi-uluslararasi-saglik-kurumlari-harekete-gecmeli",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail’in İran’a saldırılarına ilişkin açıklama yapan TTB, sağlık altyapısındaki yıkıma dikkat çekerken uluslararası ağlık kurumlarına çağrı yaptı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/324043.jpg",
     "keyword": null
   }
 ]
