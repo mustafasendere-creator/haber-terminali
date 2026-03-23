@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b63218e7",
+    "title": "İtalya'da yargı reformuna 'hayır' çıktı: Meloni yenilgiyi kabul etti",
+    "source": "Euronews",
+    "time": "23/03/2026 22:05",
+    "link": "http://tr.euronews.com/my-europe/2026/03/23/italyada-yargi-reformuna-hayir-cikti-meloni-yenilgiyi-kabul-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sayımı tamamlanan oylara göre, anayasa reformu seçmenlerin yaklaşık yüzde 55'i tarafından reddedilirken, 'evet' oyları yüzde 45'te kaldı. Referanduma katılım oranı ise yüzde 59 olarak gerçekleşti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_eecb112e",
     "title": "Cüneyt Zorlu’dan Seyit Hisoğlu’na sert çıkış: Açık cevap ver!",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "DMM, 'araç içinde telefon tutucu ve koku yasaklandı' iddialarına ilişkin açıklama yaptı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6c1c2dcd-393e-4d65-b789-0dbf766c870f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_02fe6806",
-    "title": "Milli takımın eski antrenörü Çetin Güler yaşamını yitirdi",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 21:06",
-    "link": "https://www.cumhuriyet.com.tr/spor/milli-takimin-eski-antrenoru-cetin-guler-yasamini-yitirdi-2489032",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Futbol Takımı'nın eski antrenörlerinden Çetin Güler, 85 yaşında hayatını kaybetti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0b2eec0a-7af6-492d-ad24-87ab6cb9bafd.jpg",
     "keyword": null
   }
 ]
