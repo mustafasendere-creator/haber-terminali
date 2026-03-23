@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_76ca9285",
+    "title": "Suriye'de alkol yasağı tartışması: Konu sadece alkol mü?",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 18:06",
+    "link": "https://www.dw.com/tr/suriye-de-alkol-yasağı-tartışması-konu-sadece-alkol-mü/a-76492337",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye'nin başkenti Şam'da üç Hristiyan mahallesi dışında alkol satışı yasaklandı. Yasağa \"kamu ahlâkı\" gerekçe gösterildi. Müslümanlar da Hristiyanlar da tepkili. Peki asıl konu alkol mü?",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9a4a028a",
     "title": "İletişim Başkanlığı, 'araçta telefon tutucu ve koku yasağı'nı  yalanladı",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Türkiye, Dünya Kupası play-off yarı finalinde 26 Mart 2026 Perşembe günü saat 20.00'de oynanacak maçta Romanya ile karşılaşacak",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_d88f3255",
-    "title": "Trabzonsporlu oyuncu hakkında kritik süreç! MR’a giriyor! Ya oynayacak ya da sezonu kapatacak",
-    "source": "Haber61",
-    "time": "23/03/2026 17:45",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporlu-oyuncu-hakkinda-kritik-surec-mra-giriyor-ya-oynayacak-ya-h627497.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’da Arseniy Batagov’un sakatlığıyla ilgili belirsizlik sürüyor. Ukraynalı savunma oyuncusunun bu hafta sonu ya da önümüzdeki hafta başında MR’a gireceği, çıkacak sonuca göre sezonunun şekilleneceği öğrenildi.",
-    "image": "https://resim.haber61.net/news/608975.jpg",
-    "keyword": "trabzon"
   }
 ]
