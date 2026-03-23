@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a66e95c",
+    "title": "Altın fiyatlarında düşüş sürüyor",
+    "source": "BBC Türkçe",
+    "time": "23/03/2026 15:28",
+    "link": "https://www.bbc.com/turkce/articles/c5y7gpp19y5o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a karşı başlattığı savaşın da etkisiyle değer kaybeden altın yeni haftada da düşüşünü sürdürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c7b7f933",
     "title": "Bankacılık sektörünün mevduatı geçen hafta arttı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bilecik’te kırmızı ışık ihlali yapan kamyonet ile halk minibüsünün çarpışması sonucu meydana gelen kazada biri ağır 9 kişi yaralandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw656292-0-result-2isg_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1440ae7a",
-    "title": "Hafif ticari araç tırın altına girdi: 2 yaralı",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 14:48",
-    "link": "https://www.gazeteduvar.com.tr/hafif-ticari-arac-tirin-altina-girdi-2-yarali-haber-1765708",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Giresun’un Keşap ilçesinde kantara girmek için yavaşlayan tıra arkadan çarpan hafif ticari araçta bulunan iki kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw656384-0-lbou_cover.jpg",
     "keyword": null
   }
 ]
