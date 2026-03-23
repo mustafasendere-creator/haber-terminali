@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5701d8d8",
+    "title": "İngiltere Lig Kupası’nı Manchester City kazandı",
+    "source": "10Haber",
+    "time": "23/03/2026 11:38",
+    "link": "https://10haber.net/spor/ingiltere-lig-kupasini-manchester-city-kazandi-689150/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Londra&#8217;daki Wembley Stadı&#8217;nda oynanan maçta Manchester City, Nico O&#8217;Reilly&#8217;nin 60 ve 64. dakikalarda attığı gollerle Arsenal&#8217;i 2-0 mağlup etti ve kupayı müzesine götürdü. Bu sonuçla Pep Guardiola bu kupayı beş kez kazanan ilk teknik direktör oldu.",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c0f91b27ab66.79657202.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5329e6c2",
     "title": "Uçak iniş sırasında itfaiye aracına çarptı",
     "source": "10Haber",
@@ -880,16 +892,5 @@
     "prefix": "🔔",
     "summary": "Beyaz Kıta'daki kalıcı bilim üssü aracılığıyla oluşturulabilecek bir Türk varlığı hem kıtadaki işbirliği çabalarına katkı sunabilecek hem de Türkiye'nin uluslararası sorunlara yönelik imajını önemli oranda güçlendirebilecektir.",
     "image": null
-  },
-  {
-    "id": "GND_2cfd7694",
-    "title": "O çocuklar niye orada?",
-    "source": "A Haber",
-    "time": "23/03/2026 11:23",
-    "link": "https://www.ahaber.com.tr/yazarlar/hasmet-babaoglu/2026/03/23/o-cocuklar-niye-orada",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beyrut...\nKaldırımlara kurulmuş derme çatma çadırların arasında boyundan büyük oyuncak ayısına sarılıp uyuya kalmış kız çocuğu...\nTers çevrilmiş park bankını mutfak tezgahı yapmış gaz ocağında mama...Devamı için tıklayınız",
-    "image": ""
   }
 ]
