@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bb0b23ea",
+    "title": "CHP'li Şevkin: ‘Hem borç hem işsizlik artıyor’",
+    "source": "Evrensel",
+    "time": "23/03/2026 16:24",
+    "link": "https://www.evrensel.net/haber/5976403/chpli-sevkin-hem-borc-hem-issizlik-artiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borç yükü ve işsizlik hızla artıyor, yurttaşın alım gücü düşüyor; CHP’li Şevkin, ekonomik politikalarına tepki gösterdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/167299.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ef7a4d42",
     "title": "Direksiyon hakimiyetini kaybeden sürücü ağaca çarptı: 1 yaralı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "İstanbul Sarıyer’de 16. kattan düşen ünlü yapımcı Erol Köse yaşamını yitirdi. Olayın nedeni araştırılıyor.",
     "image": "https://resim.haber61.net/news/608963.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b1a075d0",
-    "title": "Teyitçilik yanlış bilgiye karşı ne kadar etkili?",
-    "source": "Teyit.org",
-    "time": "23/03/2026 16:06",
-    "link": "https://teyit.org/teyitpedia/teyitcilik-yanlis-bilgiye-karsi-ne-kadar-etkili",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Onlarca bilimsel çalışma, teyitçiliğin yanlış bilgiye olan inancı azalttığını ve paylaşım davranışını değiştirdiğini ortaya koyuyor.",
-    "image": "https://md.teyit.org/2026/03/teyitcilik-fayda-kapak.webp",
     "keyword": null
   }
 ]
