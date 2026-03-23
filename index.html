@@ -107,8 +107,8 @@ async function checkPass() {
     const hashArray = Array.from(new Uint8Array(hashBuffer));
     const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 
-    // "Trabzon.,61" (Büyük T, nokta, virgül, 61) şifresinin tam karşılığı budur:
-    const target = "332f91599813296069904944d32026725287e07664f33b1e39a3111b11b711ea";
+    // Şifre:
+    const target = "73e87877299a92440b82f8d388656784869680327f12e16d414a3875697669d0";
 
     if (hashHex === target) {
         overlay.style.display = 'none';
