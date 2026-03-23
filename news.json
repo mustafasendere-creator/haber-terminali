@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e15b5aa6",
+    "title": "Bilecik’te halk minibüsü ile kamyonet çarpıştı: 9 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 14:48",
+    "link": "https://www.gazeteduvar.com.tr/bilecikte-halk-minibusu-ile-kamyonet-carpisti-9-yarali-haber-1765707",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik’te kırmızı ışık ihlali yapan kamyonet ile halk minibüsünün çarpışması sonucu meydana gelen kazada biri ağır 9 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw656292-0-result-2isg_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1440ae7a",
     "title": "Hafif ticari araç tırın altına girdi: 2 yaralı",
     "source": "Gazete Duvar",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Almanya'da kadına karşı dijital şiddet, bir oyuncunun eski eşine yönelik suçlamalarıyla yeniden gündemde. Hükümet, cinsel ya da şiddet içerikli fotoğraf ve videolara karşı yasal düzenleme için harekete geçiyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c0a4b03a",
-    "title": "Fransa yerel seçimleri: Aşırı sağ istediğini alamadı",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 14:09",
-    "link": "https://www.dw.com/tr/fransa-yerel-seçimleri-aşırı-sağ-istediğini-alamadı/a-76482630",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa'da Sosyalist Parti, aşırı sağın hedeflediği büyükşehirlerden zaferle çıktı. Yerel seçimler, gelecek yıl düzenlenecek cumhurbaşkanlığı seçimleri için öncü gösterge kabul ediliyor.",
     "image": null,
     "keyword": null
   }
