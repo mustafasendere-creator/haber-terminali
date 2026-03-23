@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d3847b5",
+    "title": "İçişleri Bakanlığı, bayram bilançosunu açıkladı",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 23:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-bayram-bilancosunu-acikladi-2489008",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, dört günlük Ramazan Bayramı tatilinde 2 bin 753 trafik kazası meydana geldiğini açıkladı. Bakanlık, kazalarda 31 kişinin hayatını kaybettiğini, 4 bin 861 kişinin yaralandığını bildirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/237010e8-0ac6-4d9b-b9e5-644a1bdb3d80.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3702278a",
     "title": "Apartman girişinde dehşet: Baldızını öldüren erkek, intihar etti",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Erokspor galibiyetiyle zirvedeki yerini sağlamlaştıran Erzurumspor, Süper Lig’e bir adım daha yaklaştı. Bu yükseliş Trabzonspor taraftarını da yakından ilgilendiriyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/d1e19a76-e8b2-46b4-aaf3-3a21f286d247.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_d7a60bb5",
-    "title": "Erzurumspor Süper Lig’in Eşiğinde! Trabzon İçin de Kritik Senaryo",
-    "source": "Taka Gazetesi",
-    "time": "23/03/2026 22:25",
-    "link": "https://www.takagazete.com.tr/erzurumspor-super-ligin-esiginde-trabzon-icin-de-kritik-senaryo",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Erokspor galibiyetiyle zirvedeki yerini sağlamlaştıran Erzurumspor, Süper Lig’e bir adım daha yaklaştı. Bu yükseliş Trabzonspor taraftarını da yakından ilgilendiriyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/d1e19a76-e8b2-46b4-aaf3-3a21f286d247.jpg",
-    "keyword": "trabzon"
   }
 ]
