@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c79df9a",
+    "title": "İngiltere Başbakanı Starmer: İran savaşı bir süre daha sürebilir",
+    "source": "TRT Haber",
+    "time": "23/03/2026 20:26",
+    "link": "https://www.trthaber.com/haber/dunya/ingiltere-basbakani-starmer-iran-savasi-bir-sure-daha-surebilir-938819.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiltere Başbakanı Keir Starmer, ABDİsrail ve İran çatışmasının bir süre daha sürebileceğini belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_72617e04",
     "title": "Mardin'de yolcu midibüsü devrildi: 21 kişi yaralandı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hacettepe Tıp mezunu olan Köse, “Komedi Dans Üçlüsü” ile tanındı, ardından müzik yapımcılığı kariyeriyle sektörde öne çıktı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339932.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b4179b0f",
-    "title": "Gazeteci İsmail Arı tutuklandı: Niyet var hukuk yok",
-    "source": "Evrensel",
-    "time": "23/03/2026 19:46",
-    "link": "https://www.evrensel.net/haber/5976427/gazeteci-ismail-ari-tutuklandi-niyet-var-hukuk-yok",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BirGün muhabiri İsmail Arı'nın tutuklanmasından, ABD-İsrail'in İran'a saldırısına kadar, gündemde öne çıkan gelişmeleri Hakkı Özdal, Evrensel Youtube kanalında değerlendirdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339710.jpg",
     "keyword": null
   }
 ]
