@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ab378784",
+    "title": "Türkiye'nin petrol ithalatı ocakta yüzde 2 azaldı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 12:23",
+    "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-petrol-ithalati-ocakta-yuzde-2-azaldi-938775.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin toplam petrol ve petrol ürünleri ithalatı, ocakta geçen yılın aynı ayına göre yüzde 2 azalarak 3 milyon 706 bin 358 tona geriledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_396ceb6a",
     "title": "Savaşın 3. haftası: Enerji piyasalarında sert dalgalanmalar sürüyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Katar açıklarında rutin bir görev sırasında meydana gelen helikopter kazası faciayla sonuçlandı. Milli Savunma Bakanlığı, bir Türk Silahlı Kuvvetleri personeli ile ASELSAN personeli iki teknisyenin...Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/aa2d3d/0/0/0/0/2048/1365?u=https://iahbr.tmgrup.com.tr/2026/03/22/katarda-helikopter-faciasi-6-kisi-hayatini-kaybetti-1774168390858.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b7b17780",
-    "title": "Görüntü Tel Aviv'deki Mossad araştırma binasının yıkımını mı gösteriyor?",
-    "source": "Teyit.org",
-    "time": "23/03/2026 11:44",
-    "link": "https://teyit.org/analiz/goruntu-tel-avivdeki-mossad-arastirma-binasinin-yikimini-mi-gosteriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medyada paylaşılan görüntülerde İran’ın Tel Aviv’deki Mossad araştırma binasını vurduğu iddia edildi.",
-    "image": "https://md.teyit.org/2026/03/mossad-binasi-iddiasi-kapak.webp",
     "keyword": null
   }
 ]
