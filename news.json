@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff074764",
+    "title": "Trump'tan İran'a yeni tehdit: 48 saat süre verdi",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 11:43",
+    "link": "https://www.dw.com/tr/trump-tan-iran-a-yeni-tehdit-48-saat-süre-verdi/a-76472727",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trump, İran'da savaşın bitebileceğine işaret eden açıklamalarının ardından tansiyonu yeniden yükselterek Tahran'ı enerji santrallerini vurmakla tehdit etti. İran'dan tehditlere yanıt gecikmedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_948c5c67",
     "title": "43 yılın en kötü haftası: Altın fiyatları neden düşüyor?",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Trump’ın çelişkili mesajları ve sahadaki gelişmeler, ABD’nin İran savaşında kritik bir yol ayrımına geldiğini gösteriyor",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6df8fade",
-    "title": "Körfez ülkeleri neden İran'a misillemede bulunmuyor?",
-    "source": "BBC Türkçe",
-    "time": "23/03/2026 11:38",
-    "link": "https://www.bbc.com/turkce/articles/c4gxmlwjwxgo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uzmanlar, Körfez ülkelerinin savaşa doğrudan dahil olmaktan çekindiklerini ancak süresiz saldırıya uğramayı da kabul etmeyeceklerini söylüyor.",
     "image": null,
     "keyword": null
   }
