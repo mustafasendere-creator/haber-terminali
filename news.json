@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_27486faa",
+    "title": "LaGuardia Havalimanı'nda yolcu uçağı ve yer aracı çarpıştı: 2 pilot öldü",
+    "source": "Euronews",
+    "time": "23/03/2026 21:05",
+    "link": "http://tr.euronews.com/video/2026/03/23/laguardiada-air-canada-ucagi-aracla-carpisti-iki-pilot-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "New York’taki LaGuardia Havalimanı’nda bir uçağın yer aracıyla çarpışması sonucu 2 pilot hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2bb0aa70",
     "title": "İran savaşı: Trump, saldırılara 5 gün ara verildiğini açıkladı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kolombiya Hava Kuvvetleri&#039;ne ait, içerisinde 110 askeri personelin bulunduğu C-130 Hercules tipi nakliye uçağı düştü.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/kolombiyada-askeri-nakliye-ucagi-dustu-l1af_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c8bcecbb",
-    "title": "Turkcell'den 5G yatırımları için 1 milyar dolarlık anlaşması",
-    "source": "Ekonomim",
-    "time": "23/03/2026 20:06",
-    "link": "https://www.ekonomim.com/sirketler/turkcellden-5g-yatirimlari-icin-1-milyar-dolarlik-anlasmasi-haberi-883480",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Turkcell, 5G dönüşümü öncesinde, uluslararası piyasalardan 1 milyar dolarlık dev bir murabaha sendikasyon kredisi sağladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/13/turkcell-ve-asfat-arasinda-isbirligi-anlasmasi-o3iu_cover.jpg",
     "keyword": null
   }
 ]
