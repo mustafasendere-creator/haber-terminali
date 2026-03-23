@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eddee373",
+    "title": "Yapımcı Erol Köse, 16. kattan düşerek hayatını kaybetti",
+    "source": "Ekonomim",
+    "time": "23/03/2026 16:21",
+    "link": "https://www.ekonomim.com/gundem/yapimci-erol-kose-16-kattan-duserek-hayatini-kaybetti-haberi-883449",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yapımcı Erol Köse, Sarıyer Maslak’taki Ağaoğlu 1453 Konutları’nda 16. kattan düşerek hayatını kaybetti. Olayın nedeni henüz netleşmezken, ölüm “şüpheli” olarak kayda geçti; intihar ihtimali üzerinde durulurken İstanbul Emniyeti’nin incelemesi sürüyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/yapimci-erol-kose-16-kattan-duserek-hayatini-kaybetti-pqtv_cover.png",
+    "keyword": null
+  },
+  {
     "id": "GND_0754013b",
     "title": "ABD Başkanı Donald Trump: İran anlaşması 5 gün içinde sağlanabilir",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail ordusu, Tahran’ın “kalbinde” İran rejimine ait altyapı hedeflerine yönelik yeni hava saldırıları başlattığını açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7aae045c-4352-4b8c-962e-fb83fa6e4482.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d76229b4",
-    "title": "Trump'ın açıklamasının ardından İsrail, İran'a saldırdı",
-    "source": "TRT Haber",
-    "time": "23/03/2026 16:05",
-    "link": "https://www.trthaber.com/haber/dunya/trumpin-aciklamasinin-ardindan-israil-irana-saldirdi-938797.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Trumpın, İranın enerji altyapısına saldırı planını 5 günlüğüne ertelediğini açıklamasının ardından, İsrail ordusu Tahrana yeni bir saldırı başlattığını duyurdu",
-    "image": null,
     "keyword": null
   }
 ]
