@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trabzon Haber Terminali v24.3</title>
+    <title>Trabzon Haber Terminali</title>
     <style>
         :root { --bg: #f0f2f5; --card-bg: #ffffff; --text: #1c1e21; --muted: #65676b; --accent: #0084ff; }
         body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', Tahoma, sans-serif; margin: 0; padding: 20px; }
@@ -14,57 +14,64 @@
         .login-card input { width: 100%; padding: 12px; margin: 20px 0; border: 2px solid #ddd; border-radius: 8px; font-size: 16px; outline: none; box-sizing: border-box; }
         .login-card button { width: 100%; padding: 12px; background: var(--accent); color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; }
 
-        /* Ana İçerik */
         #main-content { display: none; }
-        .header-area { display: flex; flex-direction: column; align-items: center; margin-bottom: 30px; }
+        .header-area { display: flex; flex-direction: column; align-items: center; margin-bottom: 35px; }
         
-        /* LOGO ALANI */
+        /* ANA LOGO ALANI */
         .logo-box { 
-            background: white; padding: 10px; border-radius: 50%; 
+            background: white; padding: 5px; border-radius: 50%; 
             box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-bottom: 15px; 
             width: 100px; height: 100px; display: flex; align-items: center; justify-content: center;
         }
-        .logo-box img { width: 80px; height: 80px; object-fit: contain; }
+        .logo-box img { width: 90px; height: 90px; object-fit: contain; }
 
-        h1 { text-align: center; color: var(--text); margin: 0; font-weight: 900; font-size: 26px; text-transform: uppercase; letter-spacing: -1px; }
-        
-        /* Sekme Menüsü */
-        .tabs { display: flex; justify-content: center; gap: 10px; margin-bottom: 30px; flex-wrap: wrap; }
+        h1 { text-align: center; color: var(--text); margin: 0; font-weight: 900; font-size: 24px; text-transform: uppercase; letter-spacing: -1px; }
+
+        /* YENİ DAİRESEL SEKME TASARIMI */
+        .tabs { display: flex; justify-content: center; gap: 15px; margin-bottom: 40px; flex-wrap: wrap; }
         .tab { 
-            background: #e4e6eb; padding: 12px 20px; border-radius: 20px; cursor: pointer; 
-            font-weight: 600; display: flex; align-items: center; transition: 0.2s; border: none;
+            background: white; 
+            width: 65px; height: 65px; /* Tam kare boyut */
+            border-radius: 50%; /* Tam yuvarlak */
+            cursor: pointer; 
+            display: flex; align-items: center; justify-content: center; 
+            transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); 
+            border: none;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
         }
-        .tab img { width: 20px; height: 20px; margin-right: 8px; border-radius: 4px; }
-        .tab.active { background: var(--accent); color: white; box-shadow: 0 4px 12px rgba(0, 132, 255, 0.3); }
+        .tab img { 
+            width: 35px; height: 35px; /* İkonlar artık daha büyük ve okunur */
+            object-fit: contain;
+            transition: 0.3s;
+        }
+        .tab:hover { transform: scale(1.1); box-shadow: 0 6px 15px rgba(0,0,0,0.1); }
+        .tab.active { background: var(--accent); box-shadow: 0 8px 20px rgba(0, 132, 255, 0.4); }
+        .tab.active img { filter: brightness(0) invert(1); } /* Aktif ikonu beyaz yapar */
 
         /* Haber Kartları */
         .news-container { display: none; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; }
         .news-container.active { display: grid; }
-        .news-card { background: var(--card-bg); border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: 0.2s; display: flex; flex-direction: column; height: 100%; }
-        .news-card:hover { transform: translateY(-4px); box-shadow: 0 12px 20px rgba(0,0,0,0.12); }
-        
-        .image-wrapper { width: 100%; height: 180px; background: #eee; overflow: hidden; }
+        .news-card { background: var(--card-bg); border-radius: 16px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); transition: 0.3s; display: flex; flex-direction: column; height: 100%; border: 1px solid rgba(0,0,0,0.03); }
+        .news-card:hover { transform: translateY(-5px); box-shadow: 0 15px 30px rgba(0,0,0,0.1); }
+        .image-wrapper { width: 100%; height: 190px; background: #eee; overflow: hidden; }
         .news-image { width: 100%; height: 100%; object-fit: cover; }
-        
-        .news-content { padding: 15px; flex-grow: 1; display: flex; flex-direction: column; }
+        .news-content { padding: 18px; flex-grow: 1; display: flex; flex-direction: column; }
         .source-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-        .tag { background: #f0f2f5; color: var(--muted); padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 700; display: flex; align-items: center; }
-        .tag img { width: 14px; height: 14px; margin-right: 5px; }
-        
-        .summary-box { display: none; background: #f9f9f9; padding: 12px; border-left: 4px solid var(--accent); font-size: 13px; color: #444; margin: 10px 0; line-height: 1.5; border-radius: 4px; }
-        
-        .footer-action { border-top: 1px solid #f0f2f5; padding-top: 12px; margin-top: auto; display: flex; justify-content: space-between; align-items: center; }
-        .btn-summary { background: none; border: none; color: var(--accent); cursor: pointer; font-weight: 700; font-size: 13px; }
-        .read-more { color: var(--muted); text-decoration: none; font-weight: 700; font-size: 13px; }
+        .tag { background: #f0f2f5; color: var(--muted); padding: 5px 12px; border-radius: 8px; font-size: 11px; font-weight: 700; display: flex; align-items: center; }
+        .tag img { width: 14px; height: 14px; margin-right: 6px; }
+        .summary-box { display: none; background: #f8f9fa; padding: 15px; border-left: 5px solid var(--accent); font-size: 13.5px; color: #333; margin: 12px 0; line-height: 1.6; border-radius: 6px; }
+        .footer-action { border-top: 1px solid #f0f2f5; padding-top: 15px; margin-top: auto; display: flex; justify-content: space-between; align-items: center; }
+        .btn-summary { background: none; border: none; color: var(--accent); cursor: pointer; font-weight: 800; font-size: 13px; letter-spacing: 0.5px; }
+        .read-more { color: var(--muted); text-decoration: none; font-weight: 800; font-size: 13px; }
 
-        @media (max-width: 600px) { .tab { padding: 8px 12px; font-size: 13px; } }
+        @media (max-width: 600px) { .tab { width: 55px; height: 55px; } .tab img { width: 28px; height: 28px; } }
     </style>
 </head>
 <body>
 
     <div id="login-overlay">
         <div class="login-card">
-            <img src="logo.png" style="width: 80px; margin-bottom: 10px;" onerror="this.src='https://cdn-icons-png.flaticon.com/512/6195/6195696.png'">
+            <img src="logo.png" style="width: 90px; margin-bottom: 10px;" onerror="this.src='https://cdn-icons-png.flaticon.com/512/6195/6195696.png'">
             <h2>Terminal Erişimi</h2>
             <input type="password" id="pass-input" placeholder="Şifre..." onkeypress="if(event.key==='Enter') checkPass()">
             <button onclick="checkPass()">GİRİŞ YAP</button>
@@ -75,17 +82,16 @@
     <div id="main-content">
         <div class="header-area">
             <div class="logo-box">
-                <img src="logo.png" alt="Trabzon Haber Logo" onerror="this.src='https://cdn-icons-png.flaticon.com/512/21/21601.png'">
+                <img src="logo.png" alt="Logo" onerror="this.src='https://cdn-icons-png.flaticon.com/512/21/21601.png'">
             </div>
             <h1><span style="color: var(--accent);">TRABZON</span> HABER TERMİNALİ</h1>
-            <div style="width: 60px; height: 4px; background: var(--accent); border-radius: 2px; margin-top: 10px;"></div>
         </div>
         
         <div class="tabs">
-            <div id="tab-GND" class="tab active" onclick="switchTab('GND')"><img src="ulusal.png"> Ulusal</div>
-            <div id="tab-YRL" class="tab" onclick="switchTab('YRL')"><img src="yerel.png"> Yerel</div>
-            <div id="tab-TKP" class="tab" onclick="switchTab('TKP')"><img src="anahtar.png"> Takip</div>
-            <div id="tab-SOC" class="tab" onclick="switchTab('SOC')"><img src="sosyal.png"> Sosyal</div>
+            <button id="tab-GND" class="tab active" onclick="switchTab('GND')" title="Ulusal"><img src="ulusal.png"></button>
+            <button id="tab-YRL" class="tab" onclick="switchTab('YRL')" title="Yerel"><img src="yerel.png"></button>
+            <button id="tab-TKP" class="tab" onclick="switchTab('TKP')" title="Takip"><img src="anahtar.png"></button>
+            <button id="tab-SOC" class="tab" onclick="switchTab('SOC')" title="Sosyal"><img src="sosyal.png"></button>
         </div>
 
         <div id="news-GND" class="news-container active"></div>
@@ -95,15 +101,12 @@
     </div>
 
     <script>
-        // ŞİFRE VE GÜVENLİK
         async function checkPass() {
             const input = document.getElementById('pass-input').value.trim();
             const msgBuffer = new TextEncoder().encode(input);
             const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
             const hashArray = Array.from(new Uint8Array(hashBuffer));
             const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-
-            // Şifre
             const target = "d9daf48bb0f518882e3b670721ba7f126a6bcf988ac7e33816292999bd9a1729";
 
             if (hashHex === target) {
@@ -125,7 +128,6 @@
             }
         };
 
-        // HABER FONKSİYONLARI
         function getLogo(type) {
             const logos = { 'GND': 'ulusal.png', 'YRL': 'yerel.png', 'TKP': 'anahtar.png', 'SOC': 'sosyal.png' };
             return logos[type] || '';
@@ -151,9 +153,7 @@
                     data.forEach(n => {
                         const container = document.getElementById(`news-${n.type}`);
                         if (!container) return;
-
-                        const kwLabel = n.keyword ? `<span style="background:#e3f2fd; color:#0d47a1; padding:2px 6px; border-radius:4px; font-size:10px; margin-right:5px; font-weight:bold;">#${n.keyword.toUpperCase()}</span>` : '';
-
+                        const kwLabel = n.keyword ? `<span style="background:#e3f2fd; color:#0d47a1; padding:2px 8px; border-radius:6px; font-size:10px; margin-right:5px; font-weight:bold;">#${n.keyword.toUpperCase()}</span>` : '';
                         container.innerHTML += `
                             <div class="news-card">
                                 <div class="image-wrapper">
@@ -164,8 +164,8 @@
                                         <span class="tag"><img src="${getLogo(n.type)}">${kwLabel}${n.source}</span>
                                         <span style="font-size:10px; color:#999;">${n.time}</span>
                                     </div>
-                                    <h3 style="font-size:15px; line-height:1.4; margin:0 0 10px 0; color:#050505;">${n.title}</h3>
-                                    <div id="sum-${n.id}" class="summary-box">${n.summary || 'Özet bulunamadı.'}</div>
+                                    <h3 style="font-size:15px; line-height:1.4; margin:0 0 10px 0; color:#050505; font-weight:700;">${n.title}</h3>
+                                    <div id="sum-${n.id}" class="summary-box">${n.summary || 'Özet yüklenemedi.'}</div>
                                     <div class="footer-action">
                                         <button class="btn-summary" onclick="toggleSummary('${n.id}')">📝 ÖZETİ OKU</button>
                                         <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
