@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aca270e5",
+    "title": "İstanbul'da barajların doluluk oranı yüzde 50'yi geçti",
+    "source": "TRT Haber",
+    "time": "23/03/2026 12:43",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-938778.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'a su sağlayan barajların ortalama doluluk oranı, yağışların ardından yükselişini sürdürerek yüzde 51,01 olarak belirlendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_33aa5f99",
     "title": "HRW'den İBB duruşmalarına \"erişim kısıtlaması\" eleştirisi",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Haydarpaşa ve Sirkeci Garlarında yürütülen müze, sergi ve tasarım projeleri, dünyaca ünlü küratör Luca Molinari’nin katkılarıyla şekilleniyor. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, projeye ilişkin önemli açıklamalarda bulundu.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/bakan-ersoy-duyurdu-sirkeci-ve-haydarpasa-geri-donuyor-q92t.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_846cd94e",
-    "title": "Yabani sarımsağın kısa ama güçlü mevsimi başladı",
-    "source": "OdaTV",
-    "time": "23/03/2026 12:03",
-    "link": "https://www.odatv.com/gastroda/yabani-sarimsak-sezonu-basladi-120140413",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İlkbaharın en aromatik hediyelerinden biri olan yabani sarımsak, sağlık üzerindeki etkileriyle dikkat çekiyor. Ancak doğadan toplarken yapılacak küçük bir hata ciddi riskler doğurabilir.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/yabani-sarimsak-sezonu-basladi-pj88.jpg",
     "keyword": null
   }
 ]
