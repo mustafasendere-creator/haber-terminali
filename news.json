@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_adddf2fc",
+    "title": "Muhalefet, tuzağa dikkat!",
+    "source": "Sözcü",
+    "time": "23/03/2026 12:43",
+    "link": "https://www.sozcu.com.tr/muhalefet-tuzaga-dikkat-p303621",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muhalefet, tuzağa dikkat!",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/mesutparlakpng-ycCySPd93UyqZiiXRkLiYA.png",
+    "keyword": null
+  },
+  {
     "id": "GND_65a08740",
     "title": "Dimona yeniden hedefte: İsrail’in nükleer sırrı tartışılıyor",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Trendyol 1. Lig'de 32. hafta heyecanının geride kaldığı 2025-2026 sezonunda lider Erzurumspor FK, son 6 haftaya üçüncü sıradaki Esenler Erokspor'un 6 puan önünde, Süper Lig yolunda avantajlı girdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_78cadc1c",
-    "title": "Trabzonspor, geçen sezon sonundaki puanından daha fazlasını topladı",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 12:21",
-    "link": "https://www.aa.com.tr/tr/guncel/trabzonspor-gecen-sezon-sonundaki-puanindan-daha-fazlasini-topladi/3875561",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig'in 27. haftası sonunda 60 puanla 3. sırada yer alan Trabzonspor, teknik direktör Fatih Tekke yönetiminde geçen sezon sonundaki puanından daha fazlasını topladı.",
     "image": null,
     "keyword": null
   }
