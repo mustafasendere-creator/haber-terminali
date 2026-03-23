@@ -94,19 +94,20 @@
 
     <script>
         // ŞİFRELEME VE GÜVENLİK
-        async function checkPass() {
+async function checkPass() {
     const inputField = document.getElementById('pass-input');
-    const input = inputField.value.trim(); // Boşlukları otomatik siler
+    // .trim() ile yanlışlıkla basılan boşlukları temizliyoruz
+    const input = inputField.value.trim(); 
     const overlay = document.getElementById('login-overlay');
     const error = document.getElementById('error-msg');
 
-    // Şifreleme İşlemi
+    // SHA-256 Kriptolama İşlemi
     const msgBuffer = new TextEncoder().encode(input);
     const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
     const hashArray = Array.from(new Uint8Array(hashBuffer));
     const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 
-    //  şifresinin GERÇEK ve TEK SHA-256 kodu budur:
+    // "Trabzon.,61" (Büyük T, nokta, virgül, 61) şifresinin tam karşılığı budur:
     const target = "332f91599813296069904944d32026725287e07664f33b1e39a3111b11b711ea";
 
     if (hashHex === target) {
@@ -117,7 +118,8 @@
     } else {
         error.style.display = 'block';
         inputField.value = "";
-        console.log("Girilen Hash:", hashHex); // Hata ayıklama için konsola yazar
+        // Hangi kodu ürettiğini görmek için (Sadece sen gör diye)
+        console.log("Üretilen Kod:", hashHex); 
     }
 }
 
