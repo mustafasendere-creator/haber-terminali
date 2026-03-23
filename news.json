@@ -1,5 +1,16 @@
 [
   {
+    "id": "GND_fe37b3c2",
+    "title": "İzmir'de trafik kavgası... Telefonu elinden almaya çalıştı: Sürücüye saldırı anları kamerada",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 11:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/izmir-de-trafik-kavgasi-telefonu-elinden-almaya-calisti-surucuye-saldiri-anlari-kamerada-2488875",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'de trafikte çıkan tartışmada bir sürücü ile yanındaki eşi saldırıya uğradı. Aracından inen sürücünün kameraya müdahale etmesi dikkat çekti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1c44c988-efa8-4753-98b0-5ea41cf32a29.jpg"
+  },
+  {
     "id": "GND_02264230",
     "title": "AFAD kusurlu bulunmuştu! Arıkan Sitesi davasında kritik gelişme: Yeni bilirkişi raporu alınmasına karar verildi",
     "source": "Cumhuriyet",
@@ -867,16 +878,5 @@
     "prefix": "🌊",
     "summary": "Ortahisar’da yaşayan Onur Yılmaz, ani kalp krizi sonrası hayatını kaybetti. Fatih Devlet Hastanesi’ne götürülürken ambulasta kalbi duran Yılmaz kurtarılamadı.",
     "image": "https://resim.haber61.net/news/608907.jpg"
-  },
-  {
-    "id": "b5fd6742c8",
-    "title": "Tarımda su uyarısı: Verim artıyor, risk büyüyor",
-    "source": "Haber61",
-    "time": "23/03/2026 11:13",
-    "link": "https://www.haber61.net/trabzon/tarimda-su-uyarisi-verim-artiyor-risk-buyuyor-h627458.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ziraat Yüksek Mühendisi Ali Çankaya, 22 Mart Dünya Su Günü’nde tarımda suyun kritik rolüne dikkat çekti. Tasarruf sağlanmazsa gelecekte ciddi riskler oluşabileceğini vurguladı.",
-    "image": "https://resim.haber61.net/news/608910.jpg"
   }
 ]
