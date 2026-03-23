@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bfd702dd",
+    "title": "Altındaki düşüş Trump'ın açıklamaları sonrası yavaşladı",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 17:03",
+    "link": "https://www.aa.com.tr/tr/guncel/altindaki-dusus-trumpin-aciklamalari-sonrasi-yavasladi/3875959",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altın ve gümüşün ons fiyatı, ABD Başkanı Donald Trump'ın açıklamaları sonrasında Orta Doğu kaynaklı jeopolitik risk algısının değişmesi ve enflasyon beklentilerinin yumuşayabileceğine dair öngörülerin güçlenmesiyle toparlanma eğilimi gösteriyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_525aa138",
     "title": "İstanbul Havalimanı bayram tatilinde 873 bin 851 yolcuya hizmet verdi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "HRW, İBB Başkanı Ekrem İmamoğlu’nun yargılandığı davada gazeteci, avukat ve kamuoyuna yönelik getirilen erişim kısıtlamalarını keyfi olarak değerlendirirken, duruşmaların şeffaflığına dair endişelerini dile getirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339185.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_26a66ed6",
-    "title": "Küba’ya karşı abluka sürüyor, ablukaya karşı dayanışma büyüyor",
-    "source": "Evrensel",
-    "time": "23/03/2026 16:39",
-    "link": "https://www.evrensel.net/haber/5976401/kuba-ya-karsi-abluka-suruyor-ablukaya-karsi-dayanisma-buyuyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD’nin Küba’ya uyguladığı yakıt ambargosu elektrik kesintilerini artırırken yaşamı zorlaştırdı. 38 ülkeden aktivistlerin oluşturduğu yardım konvoyu gıda ve tıbbi destekle Havana’ya ulaştı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339926.jpg",
     "keyword": null
   }
 ]
