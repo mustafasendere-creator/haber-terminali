@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4240296e",
+    "title": "İsrail, Hizbullah'a kara saldırılarını yoğunlaştırıyor",
+    "source": "BBC Türkçe",
+    "time": "23/03/2026 16:04",
+    "link": "https://www.bbc.com/turkce/articles/cq6jl2zg122o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Hizbullah'a karşı kara ve hava saldırılarının genişletilmesi planını onaylandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d70c6db7",
     "title": "İran savaşı Kıbrıs'taki askeri dengeyi nasıl etkileyebilir?",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Samsun’un Canik ilçesinde Şehir Hastanesi kavşağında meydana gelen kazada Tofaş Şahin ile otomobil çarpıştı. Araçlarda maddi hasar oluşurken yaralanan olmadı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655402-0-fte8_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_519ad062",
-    "title": "Batman Gercüş’te minibüs takla attı: 1 yaralı",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 15:48",
-    "link": "https://www.gazeteduvar.com.tr/batman-gercuste-minibus-takla-atti-1-yarali-haber-1765698",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Batman’ın Gercüş ilçesinde seyir halindeki minibüs kontrolden çıkarak takla attı. Kazada sürücü yaralandı, hastaneye kaldırıldı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655423-0-x6ng_cover.jpg",
     "keyword": null
   }
 ]
