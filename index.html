@@ -63,28 +63,33 @@
     </div>
 
     <script>
-        async function checkPass() {
-            const input = document.getElementById('pass-input').value.trim();
-            const msgBuffer = new TextEncoder().encode(input);
-            const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
-            const hashArray = Array.from(new Uint8Array(hashBuffer));
-            const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  async function checkPass() {
+    const inputField = document.getElementById('pass-input');
+    const input = inputField.value.trim(); // Boşlukları temizler
+    const overlay = document.getElementById('login-overlay');
+    const error = document.getElementById('error-msg');
 
-            // TrabzonHaber6161 şifresinin parmak izi
-            const target = "73e87877299a92440b82f8d388656784869680327f12e16d414a3875697669d0";
+    // SHA-256 Kriptolama İşlemi
+    const msgBuffer = new TextEncoder().encode(input);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 
-            if (hashHex === target) {
-                document.getElementById('login-overlay').style.display = 'none';
-                document.getElementById('main-content').style.display = 'block';
-                sessionStorage.setItem('auth_key', 'true');
-                loadNews();
-            } else {
-                document.getElementById('error-msg').style.display = 'block';
-                // Debug: Hata alırsan bu alert'teki kodu bana söyle
-                alert("Hata! Yazılan: " + input + "\nKod: " + hashHex);
-                document.getElementById('pass-input').value = "";
-            }
-        }
+    // TrabzonHaber6161 şifresinin GERÇEK kodu (Ekran görüntüsündeki kodla eşleşti)
+    const target = "d9daf48bb0f518882e3b670721ba7f126a6bcf988ac7e33816292999bd9a1729";
+
+    if (hashHex === target) {
+        overlay.style.display = 'none';
+        document.getElementById('main-content').style.display = 'block';
+        sessionStorage.setItem('auth_key', 'true');
+        loadNews();
+    } else {
+        error.style.display = 'block';
+        inputField.value = "";
+        // Hata durumunda hala uyarı verirse kodu kontrol etmek için:
+        console.log("Girilen Kod:", hashHex);
+    }
+}
 
         window.onload = function() {
             if (sessionStorage.getItem('auth_key') === 'true') {
