@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b7c729ac",
+    "title": "A Milli Takımın acı kaybı",
+    "source": "OdaTV",
+    "time": "23/03/2026 23:26",
+    "link": "https://www.odatv.com/spor/a-milli-takimin-aci-kaybi-120140485",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımı&#039;nın eski antrenörlerinden Çetin Güler, hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/a-milli-takimin-aci-kaybi-l1cs.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bdae3cc7",
     "title": "Arıkan’dan akaryakıt çıkışı: KDV yüzde 1’e düşürülmelidir",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ortadoğu’daki savaş, dokuz ülkedeki 40’tan fazla enerji varlığına 'ağır' zarar verdiğini, küresel ekonomi için büyüyen riskler konusunda uyaran Uluslararası Enerji Ajansı Başkanı belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6f74ef00",
-    "title": "Portekiz'de hükümet enerji fiyatlarına müdahale etmeye hazırlanıyor",
-    "source": "Euronews",
-    "time": "23/03/2026 22:25",
-    "link": "http://tr.euronews.com/business/2026/03/23/portekizde-hukumet-enerji-fiyatlarina-mudahale-etmeye-hazirlaniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çevre ve Enerji Bakanı Maria da Graça Carvalho, mevcut durumun devam etmesi halinde hükümetin piyasaya doğrudan müdahale edebileceği uyarısında bulundu.",
     "image": null,
     "keyword": null
   }
