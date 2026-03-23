@@ -3,70 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trabzon Haber Terminali v24.0</title>
+    <title>Trabzon Haber Terminali</title>
     <style>
         :root { --bg: #f0f2f5; --card-bg: #ffffff; --text: #1c1e21; --muted: #65676b; --accent: #0084ff; }
         body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', Tahoma, sans-serif; margin: 0; padding: 20px; }
         
-        /* Giriş Paneli Tasarımı */
-        #login-overlay {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: var(--bg); display: flex; align-items: center; justify-content: center;
-            z-index: 10000;
-        }
-        .login-card {
-            background: white; padding: 40px; border-radius: 20px; 
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1); text-align: center; width: 320px;
-        }
-        .login-card input {
-            width: 100%; padding: 12px; margin: 20px 0; border: 2px solid #ddd;
-            border-radius: 8px; font-size: 16px; outline: none; box-sizing: border-box;
-        }
-        .login-card button {
-            width: 100%; padding: 12px; background: var(--accent); color: white;
-            border: none; border-radius: 8px; font-weight: bold; cursor: pointer;
-        }
+        /* Giriş Paneli */
+        #login-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: var(--bg); display: flex; align-items: center; justify-content: center; z-index: 10000; }
+        .login-card { background: white; padding: 40px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); text-align: center; width: 320px; }
+        .login-card input { width: 100%; padding: 12px; margin: 20px 0; border: 2px solid #ddd; border-radius: 8px; font-size: 16px; outline: none; box-sizing: border-box; }
+        .login-card button { width: 100%; padding: 12px; background: var(--accent); color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; }
 
-        /* Ana İçerik (Başta Gizli) */
+        /* Ana İçerik */
         #main-content { display: none; }
-
         .header-area { display: flex; flex-direction: column; align-items: center; margin-bottom: 30px; }
-        .header-area img { width: 80px; height: 80px; margin-bottom: 10px; border-radius: 12px; }
-        h1 { text-align: center; color: var(--text); margin: 0; font-weight: 800; font-size: 26px; }
+        .header-area img { width: 100px; height: 100px; margin-bottom: 10px; }
+        h1 { text-align: center; color: var(--text); margin: 0; font-weight: 900; font-size: 28px; text-transform: uppercase; }
         
-        /* Sekme Menüsü */
         .tabs { display: flex; justify-content: center; gap: 10px; margin-bottom: 30px; flex-wrap: wrap; }
-        .tab { 
-            background: #e4e6eb; padding: 12px 20px; border-radius: 20px; cursor: pointer; 
-            font-weight: 600; display: flex; align-items: center; transition: 0.2s; border: none;
-        }
-        .tab img { width: 20px; height: 20px; margin-right: 8px; border-radius: 4px; }
-        .tab.active { background: var(--accent); color: white; box-shadow: 0 4px 12px rgba(0, 132, 255, 0.3); }
-
+        .tab { background: #e4e6eb; padding: 12px 20px; border-radius: 20px; cursor: pointer; font-weight: 600; border: none; }
+        .tab.active { background: var(--accent); color: white; }
         .news-container { display: none; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; }
         .news-container.active { display: grid; }
-        .news-card { background: var(--card-bg); border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: 0.2s; display: flex; flex-direction: column; }
-        .news-card:hover { transform: translateY(-4px); box-shadow: 0 12px 20px rgba(0,0,0,0.12); }
-        .image-wrapper { width: 100%; height: 180px; background: #eee; overflow: hidden; }
-        .news-image { width: 100%; height: 100%; object-fit: cover; }
-        .news-content { padding: 15px; flex-grow: 1; display: flex; flex-direction: column; }
-        .source-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-        .tag { background: #f0f2f5; color: var(--muted); padding: 4px 10px; border-radius: 6px; font-size: 12px; font-weight: 700; display: flex; align-items: center; }
-        .tag img { width: 14px; height: 14px; margin-right: 5px; }
-        .summary-box { display: none; background: #f9f9f9; padding: 12px; border-left: 4px solid var(--accent); font-size: 13px; color: #444; margin: 10px 0; line-height: 1.5; }
-        .footer-action { border-top: 1px solid #f0f2f5; padding-top: 12px; display: flex; justify-content: space-between; align-items: center; }
-        .btn-summary { background: none; border: none; color: var(--accent); cursor: pointer; font-weight: 700; font-size: 13px; }
-        .read-more { color: var(--muted); text-decoration: none; font-weight: 700; font-size: 13px; }
-
-        @media (max-width: 600px) { .tab { padding: 8px 12px; font-size: 13px; } }
+        .news-card { background: var(--card-bg); border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); display: flex; flex-direction: column; }
+        .news-content { padding: 15px; }
+        .summary-box { display: none; background: #f9f9f9; padding: 12px; border-left: 4px solid var(--accent); margin: 10px 0; font-size: 13px; }
+        .footer-action { border-top: 1px solid #f0f2f5; padding-top: 12px; display: flex; justify-content: space-between; }
     </style>
 </head>
 <body>
 
     <div id="login-overlay">
         <div class="login-card">
-            <img src="logo.png" style="width: 60px; margin-bottom: 10px;" onerror="this.src='https://cdn-icons-png.flaticon.com/512/6195/6195696.png'">
-            <h2>Terminal Erişimi</h2>
+            <img src="logo.svg" style="width: 80px;" onerror="this.src='https://cdn-icons-png.flaticon.com/512/6195/6195696.png'">
+            <h2>Terminal Girişi</h2>
             <input type="password" id="pass-input" placeholder="Şifre..." onkeypress="if(event.key==='Enter') checkPass()">
             <button onclick="checkPass()">GİRİŞ YAP</button>
             <p id="error-msg" style="color: red; font-size: 13px; margin-top: 10px; display: none;">Hatalı Şifre!</p>
@@ -75,15 +45,15 @@
 
     <div id="main-content">
         <div class="header-area">
-            <img src="logo.png" alt="Logo" onerror="this.style.display='none'">
+            <img src="logo.svg" alt="Logo" onerror="this.style.display='none'">
             <h1>TRABZON HABER TERMİNALİ</h1>
         </div>
         
         <div class="tabs">
-            <div id="tab-GND" class="tab active" onclick="switchTab('GND')"><img src="ulusal.png"> Ulusal</div>
-            <div id="tab-YRL" class="tab" onclick="switchTab('YRL')"><img src="yerel.png"> Yerel</div>
-            <div id="tab-TKP" class="tab" onclick="switchTab('TKP')"><img src="anahtar.png"> Takip</div>
-            <div id="tab-SOC" class="tab" onclick="switchTab('SOC')"><img src="sosyal.png"> Sosyal</div>
+            <div id="tab-GND" class="tab active" onclick="switchTab('GND')">Ulusal</div>
+            <div id="tab-YRL" class="tab" onclick="switchTab('YRL')">Yerel</div>
+            <div id="tab-TKP" class="tab" onclick="switchTab('TKP')">Takip</div>
+            <div id="tab-SOC" class="tab" onclick="switchTab('SOC')">Sosyal</div>
         </div>
 
         <div id="news-GND" class="news-container active"></div>
@@ -93,52 +63,42 @@
     </div>
 
     <script>
-        // ŞİFRELEME VE GÜVENLİK
-async function checkPass() {
-    const inputField = document.getElementById('pass-input');
-    const input = inputField.value.trim(); // Boşlukları temizle
-    const overlay = document.getElementById('login-overlay');
-    const error = document.getElementById('error-msg');
+        async function checkPass() {
+            const input = document.getElementById('pass-input').value.trim();
+            const msgBuffer = new TextEncoder().encode(input);
+            const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 
-    // SHA-256 Kriptolama İşlemi
-    const msgBuffer = new TextEncoder().encode(input);
-    const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
-    const hashArray = Array.from(new Uint8Array(hashBuffer));
-    const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+            // TrabzonHaber6161 şifresinin parmak izi
+            const target = "73e87877299a92440b82f8d388656784869680327f12e16d414a3875697669d0";
 
-    // TrabzonHaber6161 şifresinin kriptolu karşılığı
-    const target = "73e87877299a92440b82f8d388656784869680327f12e16d414a3875697669d0";
-
-    // KONTROL PANELİ (Hata varsa burada yakalayacağız)
-    console.log("Yazılan Şifre:", input);
-    console.log("Üretilen Kod:", hashHex);
-
-    if (hashHex === target) {
-        console.log("Giriş Başarılı!");
-        overlay.style.display = 'none';
-        document.getElementById('main-content').style.display = 'block';
-        sessionStorage.setItem('auth', 'true');
-        // loadNews() fonksiyonu hata verirse giriş engellenmesin diye try-catch ekledik
-        try { loadNews(); } catch(e) { console.error("Haberler yüklenemedi:", e); }
-    } else {
-        console.warn("Hatalı Şifre Denemesi!");
-        error.style.display = 'block';
-        inputField.value = "";
-    }
-}
+            if (hashHex === target) {
+                document.getElementById('login-overlay').style.display = 'none';
+                document.getElementById('main-content').style.display = 'block';
+                sessionStorage.setItem('auth_key', 'true');
+                loadNews();
+            } else {
+                document.getElementById('error-msg').style.display = 'block';
+                // Debug: Hata alırsan bu alert'teki kodu bana söyle
+                alert("Hata! Yazılan: " + input + "\nKod: " + hashHex);
+                document.getElementById('pass-input').value = "";
+            }
+        }
 
         window.onload = function() {
-            if (sessionStorage.getItem('auth') === 'true') {
+            if (sessionStorage.getItem('auth_key') === 'true') {
                 document.getElementById('login-overlay').style.display = 'none';
                 document.getElementById('main-content').style.display = 'block';
                 loadNews();
             }
         };
 
-        // HABER MOTORU
-        function getLogo(type) {
-            const logos = { 'GND': 'ulusal.png', 'YRL': 'yerel.png', 'TKP': 'anahtar.png', 'SOC': 'sosyal.png' };
-            return logos[type] || '';
+        function switchTab(type) {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.getElementById('tab-' + type).classList.add('active');
+            document.querySelectorAll('.news-container').forEach(c => c.classList.remove('active'));
+            document.getElementById('news-' + type).classList.add('active');
         }
 
         function toggleSummary(id) {
@@ -146,46 +106,30 @@ async function checkPass() {
             if (s) s.style.display = (s.style.display === 'block') ? 'none' : 'block';
         }
 
-        function switchTab(botType) {
-            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-            document.getElementById('tab-' + botType).classList.add('active');
-            document.querySelectorAll('.news-container').forEach(c => c.classList.remove('active'));
-            document.getElementById('news-' + botType).classList.add('active');
-        }
-
         function loadNews() {
-            fetch('news.json?t=' + new Date().getTime())
+            fetch('news.json?t=' + Date.now())
                 .then(r => r.json())
                 .then(data => {
                     document.querySelectorAll('.news-container').forEach(c => c.innerHTML = '');
                     data.forEach(n => {
                         const container = document.getElementById(`news-${n.type}`);
                         if (!container) return;
-                        const keywordLabel = n.keyword ? `<span style="background:#e1f5fe; color:#01579b; padding:2px 8px; border-radius:10px; font-size:10px; margin-right:5px; font-weight:bold; border:1px solid #b3e5fc;">#${n.keyword.toUpperCase()}</span>` : '';
-                        
+                        const kw = n.keyword ? `<span style="background:#e3f2fd; color:#0d47a1; padding:2px 6px; border-radius:4px; font-size:10px; margin-right:5px;">#${n.keyword.toUpperCase()}</span>` : '';
                         container.innerHTML += `
                             <div class="news-card">
-                                <div class="image-wrapper">
-                                    <img src="${n.image || 'https://placehold.co/600x400?text='+n.source}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber+Resmi'">
-                                </div>
                                 <div class="news-content">
-                                    <div class="source-bar">
-                                        <span class="tag"><img src="${getLogo(n.type)}">${keywordLabel}${n.source}</span>
-                                        <span class="time">${n.time}</span>
-                                    </div>
-                                    <h3>${n.title}</h3>
-                                    <div id="sum-${n.id}" class="summary-box">${n.summary || 'Özet yüklenemedi.'}</div>
+                                    <div style="font-size:11px; color:#666; margin-bottom:5px;">${kw}${n.source} • ${n.time}</div>
+                                    <h3 style="font-size:15px; margin:0 0 10px 0;">${n.title}</h3>
+                                    <div id="sum-${n.id}" class="summary-box">${n.summary || 'Özet yok.'}</div>
                                     <div class="footer-action">
-                                        <button class="btn-summary" onclick="toggleSummary('${n.id}')">📝 ÖZETİ OKU</button>
-                                        <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
+                                        <button onclick="toggleSummary('${n.id}')" style="background:none; border:none; color:#0084ff; cursor:pointer; font-weight:700; font-size:12px;">📝 ÖZET</button>
+                                        <a href="${n.link}" target="_blank" style="text-decoration:none; color:#666; font-weight:700; font-size:12px;">HABERE GİT →</a>
                                     </div>
                                 </div>
-                            </div>
-                        `;
+                            </div>`;
                     });
                 });
         }
-        setInterval(loadNews, 40000);
     </script>
 </body>
 </html>
