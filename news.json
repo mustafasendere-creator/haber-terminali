@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ddc5a33c",
+    "title": "BİRTEK-SEN: Türkmen Antep'teki sömürü düzenini teşhir ettiği için tutuklandı",
+    "source": "Evrensel",
+    "time": "23/03/2026 18:06",
+    "link": "https://www.evrensel.net/haber/5976414/birtek-sen-turkmen-antep-teki-somuru-duzenini-teshir-ettigi-icin-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antep'te son 13 yılda en az 555 işçinin iş cinayetlerinde hayatını kaybetmesinin kader değil, denetimsizlik ve sömürü politikalarının sonucu olduğunu vurgulayan Mikail Kılıçalp, çözümün örgütlenme ve mücadeleden geçtiğini söyledi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/213482.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_25ddf2ec",
     "title": "Tülay Hatimoğulları: “DEM Partinin talebi Kürt halkının bütün haklarının tanınması”",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Haber61’de yayınlanan Spor Gündemi programında Trabzonspor’un kalan haftalardaki şampiyonluk ihtimali ve fikstürü değerlendirildi. Gazeteci Haluk Ayyıldız, bordo-mavili ekip için “Şampiyon olabilir mi? Olmaz diye bir şey yok” dedi.",
     "image": "https://resim.haber61.net/news/608980.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_51cd64d8",
-    "title": "DMM: Araç içi kullanım ve ekipmanlara ilişkin yönetmelik çalışmaları devam etmektedir",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 17:45",
-    "link": "https://www.aa.com.tr/tr/guncel/dmm-arac-ici-kullanim-ve-ekipmanlara-iliskin-yonetmelik-calismalari-devam-etmektedir/3876097",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Trafik Kanunu'nda yapılan değişikliklere ilişkin sosyal medyada çok sayıda yanıltıcı içeriğin dolaşıma sokulduğunun tespit edildiğini bildirdi.",
-    "image": null,
-    "keyword": null
   }
 ]
