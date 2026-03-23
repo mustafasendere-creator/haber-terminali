@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a7502de9",
+    "title": "İSKİ duyurdu: İstanbul barajlarında doluluk arttı",
+    "source": "Evrensel",
+    "time": "23/03/2026 11:38",
+    "link": "https://www.evrensel.net/haber/5976334/iski-duyurdu-istanbul-barajlarinda-doluluk-artti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul barajlarındaki doluluk oranı, son yağışlarla yüzde 51.01’e yükseldi; en yüksek seviye Elmalı’da, en düşük Pabuçdere’de ölçüldü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336966.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_22f83381",
     "title": "Feci kaza! Hafif ticari araç kamyonla çarpıştı: 1 kişi hayatını kaybetti",
     "source": "Gazete Duvar",
@@ -885,16 +897,5 @@
     "prefix": "🔔",
     "summary": "İsrail ordusu, Hizbullah'a karşı kara ve hava saldırılarının genişletilmesi planını onaylandı.",
     "image": null
-  },
-  {
-    "id": "YRL_a6f90607",
-    "title": "Ortahisar’da siyasi gerilim: Zorlu’dan Hisoğlu’na cevap!",
-    "source": "Haber61",
-    "time": "23/03/2026 11:23",
-    "link": "https://www.haber61.net/trabzon/ortahisarda-siyasi-gerilim-zorludan-hisogluna-cevap-h627460.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Ortahisar Belediye Başkan Yardımcısı Cüneyt Zorlu, AK Parti Ortahisar İlçe Başkanı Seyit Hisoğlu’nun Belediye Başkanı Ahmet Kaya’ya yönelik açıklamalarına sosyal medya üzerinden sert tepki gösterdi.",
-    "image": "https://resim.haber61.net/news/608914.jpg"
   }
 ]
