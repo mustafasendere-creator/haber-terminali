@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1b14c831",
+    "title": "İstanbul Havalimanı bayramda 873 bin 851 yolcuya hizmet verdi",
+    "source": "TRT Haber",
+    "time": "23/03/2026 18:06",
+    "link": "https://www.trthaber.com/haber/ekonomi/istanbul-havalimani-bayramda-873-bin-851-yolcuya-hizmet-verdi-938804.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Havalimanı'nda Ramazan Bayramı tatilinde 5 bin 871 uçuş gerçekleştirilirken, 873 bin 851 yolcuya hizmet verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_59f72752",
     "title": "ABD'de ICE birimleri, personel eksikliği yaşanan büyük havalimanlarına konuşlandırılmaya başlandı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "İstanbul'da 21 yaşındaki futbolcu Kubilay Kaan Kundakçı'nın öldürüldüğü saldırıyla ilgili gözaltına alınan 10 kişi adliyeye sevk edildi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_f04e7ef1",
-    "title": "TEKNOFEST şampiyonlarından Başkan Genç’e ziyaret",
-    "source": "Haber61",
-    "time": "23/03/2026 17:45",
-    "link": "https://www.haber61.net/trabzon/teknofest-sampiyonlarindan-baskan-gence-ziyaret-h627496.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "TEKNOFEST 2025’te Türkiye birinciliği elde eden Trabzonlu öğrenciler, Büyükşehir Belediye Başkanı Ahmet Metin Genç tarafından ağırlanırken, “Bu başarı Trabzon’un gururudur” mesajı verildi.",
-    "image": "https://resim.haber61.net/news/608974.jpg",
-    "keyword": "trabzon"
   }
 ]
