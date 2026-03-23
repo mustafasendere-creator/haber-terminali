@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_34dc0aa3",
+    "title": "İki tır çarpıştı: Yol savaş alanına döndü",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 20:26",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/iki-tir-carpisti-yol-savas-alanina-dondu-2489019",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "D-650 kara yolu Sakarya geçişinde çarpışan iki tırdan biri alev aldı. Karşı yönden gelen otomobilin parçalanan beton bariyere çarpması sonucu karı-koca yaralanırken, yolda uzun araç kuyrukları oluştu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/402bbb84-b570-4717-807c-a2a7a874f50a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_78077600",
     "title": "Kuantum bataryaların ilk çalışan prototipi üretildi: Saniyeler içinde şarj olacak",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Milli Eğitim Bakanlığınca LGS kapsamında 14 Haziran'da yapılacak merkezi sınavın başvuruları \"eOkul\" üzerinden bugünden itibaren 10 Nisan'a kadar alınacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6f5eddfb",
-    "title": "İmamoğlu çıkar amaçlı suç örgütü davasının sekizinci duruşması sona erdi",
-    "source": "TRT Haber",
-    "time": "23/03/2026 19:46",
-    "link": "https://www.trthaber.com/haber/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-sekizinci-durusmasi-sona-erdi-938815.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 107'si tutuklu, 5'i \"müşteki sanık\" olmak üzere 407 sanığın yargılandığı davanın sekizinci duruşması tamamlandı.",
     "image": null,
     "keyword": null
   }
