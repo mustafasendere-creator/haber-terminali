@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef7a4d42",
+    "title": "Direksiyon hakimiyetini kaybeden sürücü ağaca çarptı: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 16:24",
+    "link": "https://www.gazeteduvar.com.tr/direksiyon-hakimiyetini-kaybeden-surucu-agaca-carpti-1-yarali-haber-1765735",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik’in Söğüt ilçesinde direksiyon hakimiyetini kaybeden sürücünün ağaca çarpması sonucu meydana gelen trafik kazasında 1 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-1iku_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_49209d6c",
     "title": "Alkollü genç ortalığı birbirine kattı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Onlarca bilimsel çalışma, teyitçiliğin yanlış bilgiye olan inancı azalttığını ve paylaşım davranışını değiştirdiğini ortaya koyuyor.",
     "image": "https://md.teyit.org/2026/03/teyitcilik-fayda-kapak.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_0a5d27e3",
-    "title": "İran'daki toplu mezarı gösteren fotoğraf güncel ve gerçek mi?",
-    "source": "Teyit.org",
-    "time": "23/03/2026 16:06",
-    "link": "https://teyit.org/analiz/irandaki-toplu-mezari-gosteren-fotograf-guncel-ve-gercek-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bir fotoğrafın İranlı öğrenciler için yapılan toplu mezarı gösterdiği iddia edildi.",
-    "image": "https://md.teyit.org/2026/03/iran-toplu-mezar-kapak.webp",
     "keyword": null
   }
 ]
