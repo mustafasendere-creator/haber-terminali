@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_27aa7495",
+    "title": "İsrail basınından çarpıcı iddia: ABD'nin İran'a saldırıları ne zaman bitecek?",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 22:26",
+    "link": "https://www.cumhuriyet.com.tr/dunya/israil-basinindan-carpici-iddia-abd-nin-iran-a-saldirilari-ne-zaman-bitecek-2489048",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail basını, ABD Başkanı Donald Trump’ın İran’a yönelik saldırıları 9 Nisan’da sona erdirmeyi planladığını iddia etti. İşte ayrıntılar...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a2a27ed9-a332-46bd-acf5-edb7206a488f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ff631eec",
     "title": "Kültür ve Turizm Bakanı Ersoy, Kuzey Makedonyalı mevkidaşıyla bir araya geldi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Orta Doğu&#039;daki sıvılaştırılmış doğal gaz (LNG) arzının büyük ölçüde sekteye uğraması sonrası Avrupa&#039;ya gitmesi planlanan 11 LNG kargosu yönünü Asya&#039;ya çevirdi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/avrupa-ve-asya-arasinda-sivi-dogal-gaz-rekabeti-artiyor-fqnt_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8b1f52eb",
-    "title": "Çin, petrol fiyatlarındaki artışa karşı akaryakıt fiyatlarına müdahale etti",
-    "source": "Ekonomim",
-    "time": "23/03/2026 21:26",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/cin-petrol-fiyatlarindaki-artisa-karsi-akaryakit-fiyatlarina-mudahale-etti-haberi-883489",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin, ABD ve İsrail&#039;in saldırıları ve İran&#039;ın misillemeleriyle Orta Doğu&#039;da tırmanan gerilimin uluslararası petrol fiyatlarında yol açtığı ani artış nedeniyle benzin ve motorinin perakende satış fiyatlarında düzenlemeye gitti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/cin-petrol-fiyatlarindaki-artisa-karsi-akaryakit-fiyatlarina-mudahale-etti-zbme_cover.jpg",
     "keyword": null
   }
 ]
