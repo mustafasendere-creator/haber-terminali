@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_87e643aa",
+    "title": "Erzurum'da feci kaza; 2 ölü, 5 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 16:04",
+    "link": "https://www.gazeteduvar.com.tr/erzurumda-feci-kaza-2-olu-5-yarali-haber-1765740",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum’da bir araç seyir halinde iken yol kenarındaki ağaca çarptı, kazada 2 kişi hayatını kaybetti.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/basliksiz-1-9psz_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f086100b",
     "title": "Beyoğlu Belediye Başkanı İnan Güney için 35 yıl ceza istendi",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Altın fiyatları küresel piyasalarda sert düşerken, gram ve çeyrek altın TL bazında da geriledi. Ons altındaki düşüş ve tahvil getirilerindeki yükseliş, altın üzerinde baskı oluşturuyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/336563.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_9c993cae",
-    "title": "Down sendromlu çocuklara enerji sektörü tanıtıldı",
-    "source": "Taka Gazetesi",
-    "time": "23/03/2026 15:49",
-    "link": "https://www.takagazete.com.tr/down-sendromlu-cocuklara-enerji-sektoru-tanitildi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Yeşilırmak Elektrik Dağıtım A.Ş. (YEDAŞ) tarafından, Dünya Down Sendromu Farkındalık Günü kapsamında düzenlenen etkinlikte down sendromlu çocuklara enerji sektörü tanıtıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/down-sendromlu-cocuklara-enerji-sektoru-tanitildi.jpg",
     "keyword": null
   }
 ]
