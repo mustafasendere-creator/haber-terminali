@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c621a98d",
+    "title": "Trump’tan İran açıklaması: Enerji tesislerine saldırıyı 5 gün erteledik",
+    "source": "Evrensel",
+    "time": "23/03/2026 15:28",
+    "link": "https://www.evrensel.net/haber/5976396/trump-iranin-enerji-tesislerine-saldirilar-5-gun-ertelendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald, İran’daki enerji altyapısına yönelik askeri saldırıların 5 gün süreyle ertelendiğini açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/337338.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e409ef54",
     "title": "8 ton hamsi taşıyan kamyon takla attı: 1 yaralı",
     "source": "Gazete Duvar",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İnsan Hakları İzleme Örgütü (HRW) devam eden İBB davasında basına yönelik \"keyfi kısıtlamaları\" eleştirdi. \"Aleni duruşma ilkesi gereği duruşmalar halka açık olmalı\" denildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7626537c",
-    "title": "Kadına karşı dijital şiddet: Almanya'da yeni yasa hazırlığı",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 14:49",
-    "link": "https://www.dw.com/tr/kadına-karşı-dijital-şiddet-almanya-da-yeni-yasa-hazırlığı/a-76482421",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'da kadına karşı dijital şiddet, bir oyuncunun eski eşine yönelik suçlamalarıyla yeniden gündemde. Hükümet, cinsel ya da şiddet içerikli fotoğraf ve videolara karşı yasal düzenleme için harekete geçiyor.",
     "image": null,
     "keyword": null
   }
