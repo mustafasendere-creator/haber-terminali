@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0be72c29",
+    "title": "45. İstanbul Film Festivali, 9 Nisan'da başlıyor",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 15:48",
+    "link": "https://www.aa.com.tr/tr/guncel/45-istanbul-film-festivali-9-nisanda-basliyor/3875803",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen 45. İstanbul Film Festivali, 9-19 Nisan'da gerçekleştirilecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9e935a28",
     "title": "Görevinden uzaklaştırılan Beyoğlu Belediye Başkanı Güney ile 6 şüpheliye iddianame",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Düzce’nin Akçakoca ilçesinde kayıp olarak aranan emekli jandarma Turgut Alp Düztepe, kaldığı pansiyon odasında ölü bulundu. Düztepe’nin Trabzon’un Vakfıkebir ilçesinden olduğu öğrenildi.",
     "image": "https://resim.haber61.net/news/608955.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c50e10d6",
-    "title": "Otomobil ile pikap çarpıştı. Biri çocuk 3 yaralı",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 15:09",
-    "link": "https://www.gazeteduvar.com.tr/otomobil-ile-pikap-carpisti-biri-cocuk-3-yarali-haber-1765704",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Edirne’de otomobil ile pikabın çarpıştığı kazada biri çocuk üç kişi yaralandı. İtfaiye ekipleri otomobilde sıkışan yaralıları kurtararak sağlık ekiplerine teslim etti.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/20260306aw656126-0-qbjk_cover.jpg",
-    "keyword": null
   }
 ]
