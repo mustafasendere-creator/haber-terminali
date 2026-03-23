@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_21f3ef56",
+    "title": "İsrail'den Lübnan'daki evlerin yıkımı için orduya talimat",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 11:39",
+    "link": "https://www.dw.com/tr/israil-den-lübnan-daki-evlerin-yıkımı-için-orduya-talimat/a-76474925",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Savunma Bakanı Katz, \"İsrail topluluklarına yönelik tehditleri sona erdirmek için\" Lübnan'ın \"ön cephe köyleri\"ndeki evlerin yıkımını hızlandıracaklarını söyledi. BM, Lübnan'da insani krizin ağırlaştığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9128429b",
     "title": "Resmi Gazete: 40 meslek için belgesiz çalışma yasağı",
     "source": "Diken",
@@ -891,16 +903,5 @@
     "prefix": "🌊",
     "summary": "Trabzon Ortahisar Belediye Başkan Yardımcısı Cüneyt Zorlu, AK Parti Ortahisar İlçe Başkanı Seyit Hisoğlu’nun Belediye Başkanı Ahmet Kaya hakkındaki açıklamalarına sosyal medya üzerinden sert bir yanıt verdi. Zorlu, Hisoğlu'nu iç siyasi tartışmalara ilişkin sorularla hedef aldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2024/12/arsiv/cuneyt-zorlu.jpeg"
-  },
-  {
-    "id": "YRL_6379d25c",
-    "title": "Alkolden işlem yapılan sürücü yeniden direksiyona geçip kaza yaptı! Yaralılar var",
-    "source": "61 Saat",
-    "time": "23/03/2026 11:23",
-    "link": "https://www.61saat.com/alkolden-islem-yapilan-surucu-yeniden-direksiyona-gecip-kaza-yapti-yaralilar-var",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun’da 2.40 promil alkollü yakalanıp hakkında işlem yapılan sürücü, tekrar direksiyon başına geçince kaza yaptı, 4 kişi yaralandı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ekran-resmi-2026-03-23-102140.png"
   }
 ]
