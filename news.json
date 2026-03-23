@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e16eca2",
+    "title": "Gençlere hem meslek hem maaş",
+    "source": "A Haber",
+    "time": "23/03/2026 21:45",
+    "link": "https://www.ahaber.com.tr/yazarlar/faruk-erdem/2026/03/19/genclere-hem-meslek-hem-maas",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İŞKUR tarafından başlatılan programlar ile işsizlere hem mesleki eğitim veriliyor hem de ödeme yapılıyor. Üstelik 15 yaş üstü herkes bundan faydalanabiliyorDevamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "SOC_c6e96b9a",
     "title": "🚨SON DAKİKA Liverpool maçında sakatlanan Victor Osimhen bugün ameliyat oldu. Kulüpten yapılan resmi açıklamaya göre Nijeryalı futbolcu 6 hafta sahalardan uzak kalacak. Osimhen bu süre içinde Trabzon ve Fenerbahçe maçlarında forma giyemeyecek. - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı, dört günlük Ramazan Bayramı tatilinde 2 bin 753 trafik kazası meydana geldiğini açıkladı. Bakanlık, kazalarda 31 kişinin hayatını kaybettiğini, 4 bin 861 kişinin yaralandığını bildirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339655.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d794e13c",
-    "title": "Yeni seçilen Paris Belediye Başkanı Emmanuel Gregoire makamına bisikletle gitti",
-    "source": "Euronews",
-    "time": "23/03/2026 20:45",
-    "link": "http://tr.euronews.com/video/2026/03/23/parisin-yeni-belediye-baskani-gregoire-zaferin-ardindan-bisikletle-belediyeye-gitti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa'nın başkenti Paris'te belediye başkanlığı seçimini kazanan Emmanuel Gregoire, zaferinin ardından kiralık bir bisikletle Paris belediye binasına gitti.",
-    "image": null,
     "keyword": null
   }
 ]
