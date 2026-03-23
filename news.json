@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6f74ef00",
+    "title": "Portekiz'de hükümet enerji fiyatlarına müdahale etmeye hazırlanıyor",
+    "source": "Euronews",
+    "time": "23/03/2026 22:25",
+    "link": "http://tr.euronews.com/business/2026/03/23/portekizde-hukumet-enerji-fiyatlarina-mudahale-etmeye-hazirlaniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çevre ve Enerji Bakanı Maria da Graça Carvalho, mevcut durumun devam etmesi halinde hükümetin piyasaya doğrudan müdahale edebileceği uyarısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_d7a60bb5",
     "title": "Erzurumspor Süper Lig’in Eşiğinde! Trabzon İçin de Kritik Senaryo",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ticaret Bakanlığı, Ankara'da bir işletmede 6 liradan satıldığı belirtilen ekmeklerin bayat değil, bir gün önce üretilmiş ekmekler olduğunu belirterek, bu ekmeklerin genellikle besiciler ve mandıracılarca düşük bedelle alındığını, normal satışa sunulan ekmeklerin ise belirlenen resmi tarifeye uygun şekilde 15 liradan satıldığını belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_28014c11",
-    "title": "Trump, nükleer silah sahibi olmayacaklarına dair İran'la anlaşmaya vardıklarını savundu",
-    "source": "TRT Haber",
-    "time": "23/03/2026 21:26",
-    "link": "https://www.trthaber.com/haber/dunya/trump-nukleer-silah-sahibi-olmayacaklarina-dair-iranla-anlasmaya-vardiklarini-savundu-938825.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran'ın anlaşma yapmak istediğini savunarak, \"Nükleer silah sahibi olmayacaklarına dair anlaşmaya vardılar ama göreceğiz. Bunu başarmak gerekiyor.\" dedi.",
     "image": null,
     "keyword": null
   }
