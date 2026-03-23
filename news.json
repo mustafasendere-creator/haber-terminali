@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d49e09b9",
+    "title": "Japonya’da 35 yılın en güçlü ücret artışı",
+    "source": "Ekonomim",
+    "time": "23/03/2026 11:44",
+    "link": "https://www.ekonomim.com/kuresel-ekonomi/japonyada-35-yilin-en-guclu-ucret-artisi-haberi-883370",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rengo verilerine göre Japon şirketleri çalışanlarına ortalama yüzde 5,26 oranında maaş artışı teklif etti. Bu artış, son 35 yılın en yüksek seviyesine işaret ediyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2021/11/22/japon-yeni-2Kmg_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c089af65",
     "title": "Japonya Merkez Bankası faizi artırır mı?",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Millî Savunma Bakanlığı, Katar'da düşen bir askerî helikopterdeki bir Türk askeri ve iki ASELSAN teknisyeninin hayatını kaybettiğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_21f3ef56",
-    "title": "İsrail'den Lübnan'daki evlerin yıkımı için orduya talimat",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 11:39",
-    "link": "https://www.dw.com/tr/israil-den-lübnan-daki-evlerin-yıkımı-için-orduya-talimat/a-76474925",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Savunma Bakanı Katz, \"İsrail topluluklarına yönelik tehditleri sona erdirmek için\" Lübnan'ın \"ön cephe köyleri\"ndeki evlerin yıkımını hızlandıracaklarını söyledi. BM, Lübnan'da insani krizin ağırlaştığını duyurdu.",
     "image": null,
     "keyword": null
   }
