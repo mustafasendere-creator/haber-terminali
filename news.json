@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef519ab2",
+    "title": "Ayrıntılar gelmeye başladı: Üniversite affı kapıda",
+    "source": "Evrensel",
+    "time": "24/03/2026 00:05",
+    "link": "https://www.evrensel.net/haber/5976372/ayrintilar-gelmeye-basladi-universite-affi-kapida",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Üniversiteden kaydı düşmüş ya da düşürülmüş öğrencilerin yükseköğretime geri dönmesini hedefleyen 'üniversite affının' detayları paylaşılmaya başlandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/266750.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_09ea341d",
     "title": "Airbnb vergilendirmesinde yeni süreç: Danıştay itirazı kabul etti",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Newroz'da gözaltına alınan 26 kişiden 25'i serbest bırakılırken, Rojavalı bir kişinin ise İstanbul Yabancılar Şube Müdürlüğü'nde tutulduğu öğrenildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339815.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b302cf94",
-    "title": "Bayram dönüşü otobüs kazası: 3'ü ağır 14 kişi yaralandı",
-    "source": "Evrensel",
-    "time": "23/03/2026 22:45",
-    "link": "https://www.evrensel.net/haber/5976381/bayram-donusu-otobus-kazasi-3u-agir-14-kisi-yaralandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Konya'nın Seydişehir ilçesinde devrilen yolcu otobüsündeki 3'ü ağır 14 kişi yaralandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/321302.jpg",
     "keyword": null
   }
 ]
