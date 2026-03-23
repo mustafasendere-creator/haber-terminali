@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aff962a5",
+    "title": "Kahta'da otomobil şarampole devrildi: 1 ölü, 4 yaralı",
+    "source": "Habertürk",
+    "time": "23/03/2026 11:40",
+    "link": "https://www.haberturk.com/kahta-da-otomobil-sarampole-devrildi-1-olu-4-yarali-3871562",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman Kahta'da sürücüsünün kontrolünden çıkan otomobilin şarampole devrilmesi sonucu 1 kişi öldü, 4 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774219519/3871562/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_accc4ba9",
     "title": "El freni çekilmeyen araç kaza yaptı! 1 ölü, 3 yaralı",
     "source": "Habertürk",
@@ -907,17 +919,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kars'ta kızıl tilki görüldü 23.03.2026 DikenKızıl tilki, Kars'ta görüntülendi.\nThe post Kars'ta kızıl tilki görüldü appeared first on #site_linkat 23.03.2026 .",
-    "image": null
-  },
-  {
-    "id": "GND_202f21f6",
-    "title": "Gümüş fiyatında kayıp yüzde 5'e yaklaştı",
-    "source": "Diken",
-    "time": "23/03/2026 11:24",
-    "link": "https://www.diken.com.tr/gumus-fiyatinda-kayip-yuzde-5e-yaklasti/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gümüş fiyatında kayıp yüzde 5'e yaklaştı 23.03.2026 DikenOns gümüş fiyatı yüzde 4,6 kayıpla sert düştü.\nThe post Gümüş fiyatında kayıp yüzde 5'e yaklaştı appeared first on #site_linkat 23.03.2026 .",
     "image": null
   }
 ]
