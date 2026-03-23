@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a8a6f180",
+    "title": "Samsun'da kadın cinayeti: Baldızını öldüren erkek intihar etti",
+    "source": "Evrensel",
+    "time": "23/03/2026 23:45",
+    "link": "https://www.evrensel.net/haber/5976444/samsunda-kadin-cinayeti-baldizini-olduren-erkek-intihar-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun'un İlkadım ilçesinde bir kişi, tartıştığı baldızını silahla öldürdükten sonra intihar etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/324220.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ce6daff3",
     "title": "İsrail’den Beyrut’a yeni hava saldırıları",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail basını, ABD Başkanı Donald Trump’ın İran’a yönelik saldırıları 9 Nisan’da sona erdirmeyi planladığını iddia etti. İşte ayrıntılar...",
     "image": "https://media.cumhuriyet.com.tr/Archive/a2a27ed9-a332-46bd-acf5-edb7206a488f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ff631eec",
-    "title": "Kültür ve Turizm Bakanı Ersoy, Kuzey Makedonyalı mevkidaşıyla bir araya geldi",
-    "source": "TRT Haber",
-    "time": "23/03/2026 22:26",
-    "link": "https://www.trthaber.com/haber/gundem/kultur-ve-turizm-bakani-ersoy-kuzey-makedonyali-mevkidasiyla-bir-araya-geldi-938827.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Kuzey Makedonya Kültür ve Turizm Bakanı Zoran Ljutkov ile bir araya geldi.",
-    "image": null,
     "keyword": null
   }
 ]
