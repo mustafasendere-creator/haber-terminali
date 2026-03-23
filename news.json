@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9aa0aee5",
+    "title": "Lufthansa'nın Ortadoğu uçuşları sonbahara dek iptal",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 22:25",
+    "link": "https://www.dw.com/tr/lufthansa-nın-ortadoğu-uçuşları-sonbahara-dek-iptal/a-76495211",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya'nın en büyük havayolu işletmesi Lufthansa, 24 Ekim'e dek Ortadoğu'da çok sayıda kente uçuşların iptal edildiğini duyurdu. Dubai ve Tel Aviv uçuşlarına ise şimdilik 31 Mayıs'a dek ara verildiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d75244bb",
     "title": "47 yıllık taşımacılık devi iflasın eşiğinde: 136 milyon dolarlık dava şirketi vurdu",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Giresun'da korkunç bir kaza meydana geldi. Olayda dereye devrilen hafif ticari araçtaki 3 kişi öldü, 2 kişi yaralandı",
     "image": "https://im.haberturk.com/l/2026/03/22/ver1774168276/3871442/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_71daaf4e",
-    "title": "Polisten kaçan sürücüye rekor ceza",
-    "source": "Habertürk",
-    "time": "23/03/2026 21:26",
-    "link": "https://www.haberturk.com/antalya-da-polisten-kacan-surucuye-200-bin-tl-ceza-3871445",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya’da polisin ‘dur’ ihtarına uymayan sürücü, yaklaşık 10 kilometrelik takibin ardından yakalandı. Araçta yapılan aramada uyuşturucu madde kalıntısı tespit edilirken, sürücünün 3 farklı uyuşturucu kullandığı belirlendi. Gözaltına alınan sürücüye 200 bin TL ceza uygulanırken, ehliyetine el konulup aracı trafikten menedildi. Olayla ilgili adli işlem başlatıldı",
-    "image": "https://im.haberturk.com/l/2026/03/22/ver1774167730/3871445/jpg/1280x1280",
     "keyword": null
   }
 ]
