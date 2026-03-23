@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b0732d01",
+    "title": "İstanbul'da barajların doluluk oranı yüzde 50'yi geçti",
+    "source": "Ekonomim",
+    "time": "23/03/2026 13:03",
+    "link": "https://www.ekonomim.com/gundem/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-haberi-883399",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul&#039;a su sağlayan barajların ortalama doluluk oranı, yağışların ardından yükselişini sürdürerek yüzde 51,01 olarak belirlendi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/01/01/istanbulda-baraj-doluluk-oranlari-aciklandi-iski-genel-muduru-tasarrufa-devam-soao_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e0355655",
     "title": "Avrupa'da doğal gaz fiyatı yükseldi",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig'in 27. haftası sonunda 60 puanla 3. sırada yer alan Trabzonspor, teknik direktör Fatih Tekke yönetiminde geçen sezon sonundaki puanından daha fazlasını topladı.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9b58bbb5",
-    "title": "Başkan Erdoğan'dan Down Sendromu Farkındalık Günü paylaşımı",
-    "source": "A Haber",
-    "time": "23/03/2026 12:41",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/21/baskan-erdogandan-down-sendromu-farkindalik-gunu-paylasimi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Recep Tayyip Erdoğan, 21 Mart Dünya Down Sendromu Farkındalık Günü dolayısıyla paylaşımda bulundu.Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/ac54a2/1200/1200/211/0/561/349?u=https://iahbr.tmgrup.com.tr/2026/03/21/baskan-erdogandan-down-sendromu-farkindalik-gunu-paylasimi-1774110282270.jpeg",
-    "keyword": null
   }
 ]
