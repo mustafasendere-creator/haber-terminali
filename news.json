@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4aba6e75",
+    "title": "Cumhurbaşkanı Erdoğan'dan şehit ailelerine taziye mesajı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 15:49",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-sehit-ailelerine-taziye-mesaji-938796.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Erdoğan; Katar'daki helikopter kazasında şehit olan Binbaşı Sinan Taştekin ile ASELSAN teknisyenleri Süleyman Cemre Kahraman ve İsmail Enes Can'ın ailelerine taziye mesajı iletti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0dd0cbac",
     "title": "İran basınına konuşan yetkili, ABD ile hiçbir müzakere olmadığını söyledi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "2026 Ramazan Bayramı’nda İstanbul, Ankara ve İzmir’de şehir içi otobüslerin çalışma saatleri vatandaşların merak ettiği konular arasında yer alıyor. Bayram öncesi ve bayram süresince toplu taşıma ile yolculuk yapacak vatandaşlar, sefer saatleri ve ücret uygulamalarını öğrenmek istiyor. Peki, bayramda otobüs saatleri nasıl olacak, otobüsler ücretsiz mi olacak? İşte tüm detaylar...",
     "image": "https://im.haberturk.com/l/2026/03/11/ver1774081368/3868858/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_3464ecae",
-    "title": "Ramazan Bayramında metro seferleri",
-    "source": "Habertürk",
-    "time": "23/03/2026 15:10",
-    "link": "https://www.haberturk.com/bayramda-metro-saatleri-2026-ramazan-bayraminda-istanbul-ankara-izmirde-metro-ucretsiz-mi-metro-seferleri-nasil-olacak-rmz06-3868877",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ramazan Bayramı yaklaşırken İstanbul, Ankara ve İzmir’de metro seferlerinin nasıl düzenleneceği vatandaşlar tarafından gündeme geldi. Bayram süresince toplu taşıma kullanacak olan vatandaşlar, metro hatlarının hangi saatlerde çalışacağını araştırıyor. Peki, 2026 Ramazan Bayramı boyunca metro seferleri nasıl olacak, üç büyükşehirde metro ücretsiz hizmet verecek mi? İşte tüm detaylar...",
-    "image": "https://im.haberturk.com/l/2026/03/11/ver1774081333/3868877/jpg/1280x1280",
     "keyword": null
   }
 ]
