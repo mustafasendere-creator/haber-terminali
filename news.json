@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c7f70408",
+    "title": "Hürmüz krizi derinleşiyor... Korkutan tahmin",
+    "source": "OdaTV",
+    "time": "23/03/2026 13:16",
+    "link": "https://www.odatv.com/ekonomi/enerji/hurmuz-krizi-derinlesiyor-korkutan-tahmin-120140312",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fitch, Hürmüz&#039;deki trafiğin durağan kalması durumunda brent petrolün 170 dolara çıkabileceğini konusunda uyarırken IEA ise rezervdeki petrolü, tarihin en büyük hacmiyle devreye almaya hazırlandıklarını duyurdu. Ancak Bank of America, rezervlerin Hürmüz&#039;ü telafi edemeyeceği görüşünde.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/22/hurmuz-kordugum-oldu-korkutan-tahmin-mq3k.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e5b264c1",
     "title": "CNBC-e logo değiştirdi... Tavus kuşu tarih oldu",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Beşiktaş Teknik Direktörü Sergen Yalçın, yeni sezon planlaması kapsamında 3 futbolcuyla yolları ayırma kararı aldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339618.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_1846e7f2",
-    "title": "Trabzonlu başkandan Osimhen iddialarına net cevap: \"Öyle bir şey olamaz\"",
-    "source": "Haber61",
-    "time": "23/03/2026 13:02",
-    "link": "https://www.haber61.net/spor/trabzonlu-baskandan-osimhen-iddialarina-net-cevap-oyle-bir-sey-olamaz-h627473.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Osimhen’in İstanbulspor’u satın alacağı iddiaları gündem oldu. Trabzonlu Kulüp Başkanı Ecmel Faik Sarıalioğlu’ndan açıklama geldi.",
-    "image": "https://resim.haber61.net/news/608932.jpg",
-    "keyword": "trabzon"
   }
 ]
