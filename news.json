@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b86f9968",
+    "title": "İran'dan İsrail'e kapsamlı füze saldırısı: ‘Çok ağır bir tablo’",
+    "source": "BBC Türkçe",
+    "time": "23/03/2026 11:38",
+    "link": "https://www.bbc.com/turkce/articles/cdj7ekgm11jo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrailli yetkililer, İran'ın İsrail'in güneyindeki Dimona ve Arad kentlerine düzenlediği füze saldırılarında 175'ten fazla kişinin yaralandığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_90e3436b",
     "title": "Trabzon’da öğrencilerden doğaya destek! 20 bin tohum topu hazırlandı",
     "source": "Haber61",
@@ -876,16 +888,5 @@
     "prefix": "🔔",
     "summary": "Onlarca bilimsel çalışma, teyitçiliğin yanlış bilgiye olan inancı azalttığını ve paylaşım davranışını değiştirdiğini ortaya koyuyor.",
     "image": "https://md.teyit.org/2026/03/teyitcilik-fayda-kapak.webp"
-  },
-  {
-    "id": "0a5d27e3c0",
-    "title": "İran'daki toplu mezarı gösteren fotoğraf güncel ve gerçek mi?",
-    "source": "Teyit.org",
-    "time": "23/03/2026 11:15",
-    "link": "https://teyit.org/analiz/irandaki-toplu-mezari-gosteren-fotograf-guncel-ve-gercek-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bir fotoğrafın İranlı öğrenciler için yapılan toplu mezarı gösterdiği iddia edildi.",
-    "image": "https://md.teyit.org/2026/03/iran-toplu-mezar-kapak.webp"
   }
 ]
