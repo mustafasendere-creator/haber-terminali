@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4bf951b7",
+    "title": "İran medyası: Trump geri adım attı",
+    "source": "10Haber",
+    "time": "23/03/2026 16:24",
+    "link": "https://10haber.net/dunya/iran-medyasi-trump-geri-adim-atti-689264/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MEHR ajansının İran Dışişleri Bakanlığı’na dayandırdığı haberine göre, ABD Başkanı Donald Trump’ın son açıklamalarının enerji fiyatlarını düşürmeye ve askeri planları için zaman kazanmaya yönelik olduğu öne sürüldü. Bakanlık, gerilimi azaltmaya dönük girişimler olduğunu, ancak savaşın başlatıcısı olmadıkları için muhatabın&#160; kendileri olmadığını vurguladı. Tasnim ajansı ise bir İran yetkilisine atıfla Hürmüz Boğazı’nın savaş öncesi koşullara dönmeyeceğini [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c1353bcdc3b9.81049071.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8e68ebec",
     "title": "Trump, 'İran savaşında yol ayrımında'",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türk yapımcı Erol Köse, Ağaoğlu 1453&#039;teki evinin 16. katından düşerek 61 yaşında hayatını kaybetti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/erol-kose-hayatini-kaybetti-neden-oldu-saglik-durumu-ne-kimdir-jguh.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d2aa0f35",
-    "title": "Trump açıklaması sonrası Avrupa tahvillerinde düşüş",
-    "source": "Ekonomim",
-    "time": "23/03/2026 16:05",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/trump-aciklamasi-sonrasi-avrupa-tahvillerinde-dusus-haberi-883443",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trump&#039;ın ateşkes açıklamasının ardından Avrupa tahvil faizleri geriledi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/11/19/italya-hazinesinden-tahvil-geri-alimi-cpeh_cover.jpg",
     "keyword": null
   }
 ]
