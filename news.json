@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2a189b91",
+    "title": "Beykoz'da cami yangını",
+    "source": "Habertürk",
+    "time": "23/03/2026 22:26",
+    "link": "https://www.haberturk.com/beykoz-da-cami-yangini-3871416",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beykoz’da bulunan Mahmud Efendi Camisi’nde yangın çıktı. Alevler itfaiye ekiplerinin müdahalesiyle kısa sürede söndürüldü",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774145351/3871416/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_16e7727c",
     "title": "Temizlik görevlisi okulda ölü bulundu",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "İŞKUR tarafından başlatılan programlar ile işsizlere hem mesleki eğitim veriliyor hem de ödeme yapılıyor. Üstelik 15 yaş üstü herkes bundan faydalanabiliyorDevamı için tıklayınız",
     "image": "",
     "keyword": null
-  },
-  {
-    "id": "SOC_c6e96b9a",
-    "title": "🚨SON DAKİKA Liverpool maçında sakatlanan Victor Osimhen bugün ameliyat oldu. Kulüpten yapılan resmi açıklamaya göre Nijeryalı futbolcu 6 hafta sahalardan uzak kalacak. Osimhen bu süre içinde Trabzon ve Fenerbahçe maçlarında forma giyemeyecek. - x.com",
-    "source": "X",
-    "time": "23/03/2026 21:26",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EeFpSbGNGUUp5WXd6QjloeGlqZWhfOXRldGZHS2xCV05wUFNubTVoaFpvdXVvSmJkRjVDR20zLU5yclcwYklPUUJVemVCcW9TVEN4Uzh5U2pndWd0RmNadXdSWkw",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "🚨SON DAKİKA Liverpool maçında sakatlanan Victor Osimhen bugün ameliyat oldu. Kulüpten yapılan resmi açıklamaya göre Nijeryalı futbolcu 6 hafta sahalardan uzak kalacak. Osimhen bu süre içinde Trabzon ve Fenerbahçe maçlarında forma giyemeyecek.  x.com",
-    "image": null,
-    "keyword": "trabzon son dakika"
   }
 ]
