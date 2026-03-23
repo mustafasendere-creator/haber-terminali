@@ -1,5 +1,17 @@
 [
   {
+    "id": "TKP_fb4d1b5e",
+    "title": "Trabzon’da Peş Peşe Kazalar, 1 Ölü, 4 Yaralı",
+    "source": "Karadeniz Gazetesi",
+    "time": "23/03/2026 17:46",
+    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-pes-pese-kazalar-1-olu-4-yarali/606405",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzon’un Ortahisar ve Araklı ilçelerinde meydana gelen trafik kazalarında 1 kişi hayatını kaybetti, 4 kişi yaralandı.",
+    "image": null,
+    "keyword": "trabzon"
+  },
+  {
     "id": "TKP_586ede13",
     "title": "Trabzon'da bugün hava nasıl olacak?",
     "source": "Karadeniz Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İtalya, yargıda önemli değişiklikler öngören anayasa değişikliği için referanduma gitti. Başbakan Meloni hükümeti reformun yargıyı daha bağımsız kılacağını savunuyor. Ancak aksini iddia edenler de bir hayli fazla.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_049bf4c2",
-    "title": "Bayramda gözaltına alınan gazeteci İsmail Arı tutuklandı",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 17:05",
-    "link": "https://www.dw.com/tr/bayramda-gözaltına-alınan-gazeteci-ismail-arı-tutuklandı/a-76472712",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bayramda aile ziyareti için gittiği Tokat'ta gözaltına alınan BirGün muhabiri İsmail Arı \"Halkı yanıltıcı bilgiyi alenen yayma\" suçlamasıyla sevk edildiği hakimlikçe tutuklandı.",
     "image": null,
     "keyword": null
   }
