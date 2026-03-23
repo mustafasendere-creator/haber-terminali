@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3fd9342d",
+    "title": "Hakkari'de faciadan dönüldü",
+    "source": "OdaTV",
+    "time": "24/03/2026 00:25",
+    "link": "https://www.odatv.com/guncel/hakkaride-faciadan-donuldu-120140490",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari&#039;nin Çukurca ilçesine bağlı Üzümlü köyü ile sınır kapısı arasındaki yolda kısa süre önce tamamlanmasına rağmen birçok noktada çökme meydana geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/hakkaride-faciadan-donuldu-sl76.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4909423d",
     "title": "Fenerbahçe'den dev sermaye artışı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dünyanın en büyük petrol ihracatçısı Saudi Aramco, ABD ve İsrail'in İran'a yönelik saldırıları sonrası Hürmüz Boğazı'nda yaşanan kesintilere karşı Suudi Arabistan'ın batı kıyısındaki Yenbu Limanı üzerinden alternatif sevkiyat rotalarını devreye alarak enerji arzını güvence altına aldıklarını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_50007183",
-    "title": "TOLGA'dan gövde gösterisi: İHA ve kamikaze dronları etkisiz hale getirdi",
-    "source": "TRT Haber",
-    "time": "23/03/2026 23:05",
-    "link": "https://www.trthaber.com/haber/savunma/tolgadan-govde-gosterisi-iha-ve-kamikaze-dronlari-etkisiz-hale-getirdi-938830.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Makine ve Kimya Endüstrisi AŞ MKE, TOLGA yakın hava savunma sisteminin İHA ve kamikaze dronları etkisiz hale getirdiği görüntüleri paylaştı.",
     "image": null,
     "keyword": null
   }
