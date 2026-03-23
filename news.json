@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_776323e1",
+    "title": "Ahşap direk yüklü traktör devrildi, sürücü ağır yaralandı!",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 14:28",
+    "link": "https://www.gazeteduvar.com.tr/ahsap-direk-yuklu-traktor-devrildi-surucu-agir-yaralandi-haber-1765711",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu’da D-100 kara yolunda ahşap elektrik direği yüklü traktör devrildi. Kazada sürücü İ.T (24) ağır yaralandı, hastanede tedavisi sürüyor.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/09/372893107-1778561259-result-gwkw_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_d0fe058b",
     "title": "Mal veya hizmet alımlarına ilişkin ödemelerde yeni dönem başladı",
     "source": "Karadeniz'de Sonnokta",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/03/whatsapp-image-2026-03-19-at-141522.jpeg",
     "keyword": null
-  },
-  {
-    "id": "TKP_5574fa13",
-    "title": "Trabzon’da peş peşe kalp krizleri Ortahisar’da bir ölüm daha",
-    "source": "Taka Gazetesi",
-    "time": "23/03/2026 13:34",
-    "link": "https://www.takagazete.com.tr/trabzonda-pes-pese-kalp-krizleri-ortahisarda-bir-olum-daha",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da son günlerde art arda gelen ani kalp krizi kaynaklı ölüm haberlerine bir yenisi daha eklendi. Ortahisar ilçesine bağlı Yenimahalle’de yaşayan 37 yaşındaki Onur Yılmaz, geçirdiği ani kalp krizi sonrası yaşamını yitirdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/aci-7.jpg",
-    "keyword": "trabzon"
   }
 ]
