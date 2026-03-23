@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_16e7727c",
+    "title": "Temizlik görevlisi okulda ölü bulundu",
+    "source": "Habertürk",
+    "time": "23/03/2026 22:26",
+    "link": "https://www.haberturk.com/nevsehir-de-temizlik-gorevlisi-okulda-olu-bulundu-3871417",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nevşehir'in Avanos ilçesinde çalıştığı okula giden temizlik görevlisi kazan dairesinde ölü bulundu",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774150676/3871417/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ce21b91a",
     "title": "İstanbul güne sisle başladı",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "🚨SON DAKİKA Liverpool maçında sakatlanan Victor Osimhen bugün ameliyat oldu. Kulüpten yapılan resmi açıklamaya göre Nijeryalı futbolcu 6 hafta sahalardan uzak kalacak. Osimhen bu süre içinde Trabzon ve Fenerbahçe maçlarında forma giyemeyecek.  x.com",
     "image": null,
     "keyword": "trabzon son dakika"
-  },
-  {
-    "id": "GND_d959ab4f",
-    "title": "Yolcu uçağının çarpma anları",
-    "source": "OdaTV",
-    "time": "23/03/2026 21:26",
-    "link": "https://www.odatv.com/guncel/yolcu-ucaginin-carpma-anlari-120140477",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD&#039;de Air Canada Express&#039;e ait yolcu uçağının LaGuardia Havalimanı&#039;na iniş sırasında yer hizmeti aracına çarptığı anlara ait güvenlik kamerası görüntüleri ortaya çıktı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/yolcu-ucaginin-carpma-anlari-qpms.jpg",
-    "keyword": null
   }
 ]
