@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c9502206",
+    "title": "Borsa günü yükselişle tamamladı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 19:26",
+    "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-yukselisle-tamamladi-938812.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,92 değer kazanarak 13.168,16 puandan tamamladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3f09fa31",
     "title": "MEB: Merkezi sınav başvuruları 10 Nisan'a kadar eOkul'dan alınacak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yargıtay 3. Hukuk Dairesi, iki kişi arasındaki alacağın altın mı yoksa Türk lirası cinsinden mi olduğuna dair açılan alacak davasında, yerel mahkemenin WhatsApp yazışmalarını dikkate alarak verdiği kararı hukuka uygun buldu.",
     "image": "https://im.haberturk.com/l/2026/03/22/ver1774190433/3871512/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_1b60d117",
-    "title": "İstanbul su kesintisi sorgulama ekranı",
-    "source": "Habertürk",
-    "time": "23/03/2026 18:27",
-    "link": "https://www.haberturk.com/istanbul-su-kesintisi-sorgulama-ekrani-23-mart-2026-pazartesi-istanbul-da-sular-ne-zaman-gelecek-3871514",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’da planlı su kesintilerine ilişkin ayrıntılar, İSKİ’nin son duyurusuyla netlik kazandı. İstanbul Su ve Kanalizasyon İdaresi, 23 Mart Pazartesi günü bakım ve altyapı çalışmaları kapsamında su kesintisi uygulanacak ilçe ve mahalleleri açıkladı. Anadolu ve Avrupa Yakası’nı kapsayan kesintilere ilişkin bölge ve saat bilgileri, İSKİ’nin resmi internet sitesi üzerinden sorgulanabiliyor. İşte İstanbul’da su kesintisi yaşanacak bölgeler ve öne çıkan detaylar…",
-    "image": "https://im.haberturk.com/l/2026/03/22/ver1774190888/3871514/jpg/1280x1280",
     "keyword": null
   }
 ]
