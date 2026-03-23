@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4349f33c",
+    "title": "Kadıköy'de denizde erkek cesedi bulundu",
+    "source": "OdaTV",
+    "time": "23/03/2026 11:40",
+    "link": "https://www.odatv.com/guncel/istanbul-kadikoyde-denizde-erkek-cesedi-bulundu-120140408",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Kadıköy rıhtımında sabah saatlerinde denizde bir erkek cesedi bulundu. İncelemelerin ardından cesedin cesedin 62 yaşındaki C.K. olduğu belirlendi. Konuya ilişkin soruşturma başlatıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/istanbul-kadikoyde-denizde-erkek-cesedi-bulundu-ihfh.png",
+    "keyword": null
+  },
+  {
     "id": "GND_fd75d12f",
     "title": "Pizza değil, sınırların lezzeti; flammekueche’nin köylü sofrasından gastronomi sahnesine yolculuğu",
     "source": "OdaTV",
@@ -913,17 +925,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Tekirdağ'ın Hayrabolu ilçesinde yağ fabrikasındaki buhar kazanının patlamasına ilişkin güvenlik kamerası görüntüsü ortaya çıktı.",
-    "image": null
-  },
-  {
-    "id": "GND_3a3e0f72",
-    "title": "Gümülcine'de bir cami daha provokatif saldırının hedefi oldu",
-    "source": "TRT Haber",
-    "time": "23/03/2026 11:25",
-    "link": "https://www.trthaber.com/haber/dunya/gumulcinede-bir-cami-daha-provokatif-saldirinin-hedefi-oldu-938767.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Batı Trakya'da geçmişte de benzer örnekleri görülen cami ve azınlık kurumlarına yönelik provokatif saldırılara bir yenisi eklendi.",
     "image": null
   }
 ]
