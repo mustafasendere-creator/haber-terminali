@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c5545123",
+    "title": "Körfez ülkelerinde sağanak ve fırtına etkili oldu",
+    "source": "Euronews",
+    "time": "23/03/2026 22:45",
+    "link": "http://tr.euronews.com/video/2026/03/23/korfez-ulkelerinde-saganak-ve-firtina-etkili-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BAE yetkilileri, bu hafta ülkeyi vurması beklenen şiddetli yağış, kuvvetli rüzgar ve toz fırtınaları nedeniyle teyakkuz halinde.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d40a542c",
     "title": "MKE, hava savunma sistemi TOLGA'nın İHA ve kamikaze dronları etkisiz hale getirdiği görüntüleri paylaştı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Buffy the Vampire Slayer’da Xander Harris rolüyle tanınan Nicholas Brendon uykusunda doğal nedenlerle yaşamını yitirdi. 54 yaşındaydı. Hafta sonu Buffy’deki rol arkadaşları onu andı: “Bazı insanlar çaba göstermeden iz bırakır.”",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b22a1c3f",
-    "title": "İran savaşının enerji faturası: Avrupa durdurulamayan fiyat artışlarına karşı harekete geçiyor",
-    "source": "Euronews",
-    "time": "23/03/2026 21:45",
-    "link": "http://tr.euronews.com/2026/03/23/iran-savasinin-enerji-faturasi-avrupa-durdurulamayan-fiyat-artislarina-karsi-harekete-geci",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hürmüz Boğazı’nın kapatılmasının ardından Brent petrolün varil fiyatı 100 euro barajını geçti. Brüksel’den ortak bir AB yanıtı gelmezken, üye ülke başkentleri vergi indirimleri, tavan fiyat uygulamaları veya somut adımları erteleme yoluna gidiyor.",
     "image": null,
     "keyword": null
   }
