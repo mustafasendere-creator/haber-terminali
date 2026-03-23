@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a61bb7b4",
+    "title": "Askere gidecek genç, asker eğlencesinde yaralandı",
+    "source": "Habertürk",
+    "time": "23/03/2026 11:44",
+    "link": "https://www.haberturk.com/corum-da-askere-gidecek-genc-asker-eglencesinde-yaralandi-3871557",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çorum'da askere gidecek bir genç, kendisi için düzenlenen asker eğlencesinde silahla yaralandı. Kaçan şüphelinin yakalanması için çalışma başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774217086/3871557/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_dc4a5cf9",
     "title": "Guterres’in yerine Jared Kushner geçecek",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çin’den ithal kapı kilitlerine uygulanan anti-damping vergisinin sürüp sürmeyeceği yeniden incelemeye alındı; Ticaret Bakanlığı, yerli üreticilerin başvurusu üzerine “haksız rekabet” iddialarıyla soruşturma başlattı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334594.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_143c18f3",
-    "title": "Çiftçinin elektrik yükü ağırlaşıyor: 4 yılda 75 bine yakın abonenin elektriği kesildi",
-    "source": "Evrensel",
-    "time": "23/03/2026 11:38",
-    "link": "https://www.evrensel.net/haber/5976335/ciftcinin-elektrik-yuku-agirlasiyor-4-yilda-75-bine-yakin-abonenin-elektrigi-kesildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tarımsal sulamada artan elektrik maliyetleri nedeniyle son dört yılda yaklaşık 75 bin çiftçinin elektriği borç nedeniyle kesildi. Üretimde maliyet baskısı büyüyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/334287.jpg",
     "keyword": null
   }
 ]
