@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_78dcd8a4",
+    "title": "New York borsası günü yükselişle kapattı",
+    "source": "Ekonomim",
+    "time": "24/03/2026 00:45",
+    "link": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-yukselisle-kapatti-haberi-883523",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "New York borsası haftanın ilk işlem gününü yükselişle tamamladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/new-york-borsasi-gunu-yukselisle-kapatti-m6b5_cover.gif",
+    "keyword": null
+  },
+  {
     "id": "GND_2cbfd4ad",
     "title": "İmamoğlu: Gelecek yıl Nevruz'da, hep birlikte Diyarbakır'da büyük bir coşku ve heyecanla buluşmayı sabırla ve umutla temenni ediyorum",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, milli aranın ardından Papara Park’ta Galatasaray’ı ağırlayacak. Bilet fiyatlarının ne kadar olacağı ise merak konusu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/mansetler-1-258.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_f7180d03",
-    "title": "ABD medyası: Macar makamları yıllarca Kremlin’e gizli bilgi aktardı",
-    "source": "Euronews",
-    "time": "23/03/2026 23:25",
-    "link": "http://tr.euronews.com/2026/03/23/abd-medyasi-macar-makamlari-yillarca-kremline-gizli-bilgi-aktardi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Washington Post'a göre, Macaristan Dışişleri Bakanı Peter Szijjarto'nun AB Konseyi toplantılarından gizli bilgileri Rusya'ya aktardığı iddia ediliyor. Budapeşte  ise suçlamaları reddediyor.",
-    "image": null,
     "keyword": null
   }
 ]
