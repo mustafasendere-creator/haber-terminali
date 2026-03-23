@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7a76ac7b",
+    "title": "Gazete Pazar yeniden yayında",
+    "source": "OdaTV",
+    "time": "23/03/2026 18:27",
+    "link": "https://www.odatv.com/guncel/gazete-pazar-yeniden-yayinda-120140469",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gazete Pazar, haftalık ulusal formatıyla yeniden yayın hayatına başladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/gazete-pazar-yeniden-yayinda-b3gi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_403f0d6b",
     "title": "Peaky Blinders otomobilleri Rahmi Koç Müzesi’nde",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Düzköy’de yapımı süren ileri biyolojik arıtma tesisiyle ilçenin atık yönetimi sorununu kökten çözeceklerini açıkladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/a-l-t-y-a-p-i-7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9eb0852e",
-    "title": "Alman armatörlerden \"Basra Körfezi\" uyarısı",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 18:05",
-    "link": "https://www.aa.com.tr/tr/guncel/alman-armatorlerden-basra-korfezi-uyarisi/3876076",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alman Armatörler Birliği (VDR), Basra Körfezi'nde ticari taşımacılığın büyük bir tehdit altında olduğunu bildirerek, bölgede mahsur kalan binlerce denizcinin can güvenliğine ilişkin acil uyarıda bulundu.",
-    "image": null,
     "keyword": null
   }
 ]
