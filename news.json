@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_266000ec",
+    "title": "İran: Basra Körfezine mayın döşemeye ihtiyaç duymuyoruz",
+    "source": "TRT Haber",
+    "time": "23/03/2026 23:45",
+    "link": "https://www.trthaber.com/haber/dunya/iran-basra-korfezine-mayin-dosemeye-ihtiyac-duymuyoruz-938835.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusuna bağlı Hatemül Enbiya Merkez Karargahı Sözcüsü Albay İbrahim Zülfikari, Umman Denizi ile Hürmüz Boğazını tamamen kontrol altında tuttuklarını dolayısıyla Basra Körfezine mayın döşemeye ihtiyaç duymadıklarını belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c867d3f3",
     "title": "Erol Köse'nin evinde not bulundu: 'ALS hastalığımdan dolayı mecburdum, sorumluluk benim'",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul bayramın üçüncü gününde sisle uyandı. Sabah saatlerinde etkili olan yoğun sis, görüş mesafesini azalttı",
     "image": "https://im.haberturk.com/l/2026/03/22/ver1774160320/3871424/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_59a6b558",
-    "title": "Samsun'da içme suyu ana isale hattı patladı: O ilçelerde su kesintisi yaşanacak",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 22:26",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/samsun-da-icme-suyu-ana-isale-hatti-patladi-o-ilcelerde-su-kesintisi-yasanacak-2489043",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsun’un İlkadım ilçesinde yürütülen çalışma sırasında içme suyu ana isale hattının zarar görmesiyle kent genelinde su kesintisi yaşanacağı duyuruldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b9b24af0-617c-4b28-8215-a874e6628105.jpg",
     "keyword": null
   }
 ]
