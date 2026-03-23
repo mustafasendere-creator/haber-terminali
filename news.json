@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d01714d1",
+    "title": "Bilecik'te kaygan yol kazaya sebep oldu : 2 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 12:42",
+    "link": "https://www.gazeteduvar.com.tr/bilecikte-kaygan-yol-kazaya-sebep-oldu-2-yarali-haber-1765733",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik&#039;in Söğüt ilçesinde kaygan yol nedeniyle meydana gelen trafik kazasında 2 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-d3ci_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_37690d1c",
     "title": "Otomotiv devi duyurdu: Markanın yarısı Türkiye’ye ayrıldı",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trump'ın Hürmüz tehdidi sonrası İran'dan bölge ülkelerini tedirgin eden açıklama",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/fuzejpg-nYMcrF3FMkm6Fvb30OFDsA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_85406f2a",
-    "title": "Kadınlar Kupa Voley'de 25. kupa, Ankara'da sahibini bulacak",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 12:03",
-    "link": "https://www.cumhuriyet.com.tr/spor/kadinlar-kupa-voley-de-25-kupa-ankara-da-sahibini-bulacak-2488887",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kadınlar Kupa Voley'de 25. kupanın sahibi, başkent Ankara'da belli olacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1e50989e-e40c-4260-946e-9562cfb80964.jpg",
     "keyword": null
   }
 ]
