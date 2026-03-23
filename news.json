@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_78ed6eeb",
+    "title": "Haseke'de sel: 400 ev zarar gördü, 500 aile tahliye edildi",
+    "source": "Evrensel",
+    "time": "24/03/2026 00:05",
+    "link": "https://www.evrensel.net/haber/5976454/hasekede-sel-400-ev-zarar-gordu-500-aile-tahliye-edildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye’nin Haseke ilinde etkili olan şiddetli yağışların yol açtığı sel nedeniyle 400 ev zarar gördü. 500 aile tahliye edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339980.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_a20b0bd5",
     "title": "Trabzon’da 18 Mart Şehitleri Anma Günü ve Çanakkale Deniz Zaferi’nin 111. yıl dönümü dolayısıyla tören düzenlendi. 🇹🇷 Başta Gazi Mustafa Kemal Atatürk olmak üzere kahraman ecdadımızı ve tüm şehitlerimizi rahmet, minnet ve şükranla anıyoruz. Detaylar - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Netanyahu hakkında tutuklama kararı veren UCM yargıcı Nicolas Guillou, ABD yaptırımları sonrası finansal kısıtlamalarla karşılaştı; kredi kartları kullanıma kapatıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339899.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fdd89a61",
-    "title": "Piton kanındaki bulgular kilo verme, kas sağlığı ve bağırsak bakterilerine ışık tuttu",
-    "source": "Euronews",
-    "time": "23/03/2026 22:45",
-    "link": "http://tr.euronews.com/saglik/2026/03/23/piton-kanindaki-bulgular-kilo-verme-kas-sagligi-ve-bagirsak-bakterilerine-isik-tuttu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Piton yılanlarının sıra dışı metabolizması, yeni nesil obezite tedavilerine ilham kaynağı olabilir.",
-    "image": null,
     "keyword": null
   }
 ]
