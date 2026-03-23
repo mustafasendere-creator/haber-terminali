@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5b13d2ed",
+    "title": "A Milli Futbol Takımı'nın yeni formaları tanıtıldı",
+    "source": "OdaTV",
+    "time": "23/03/2026 11:40",
+    "link": "https://www.odatv.com/spor/a-milli-futbol-takiminin-yeni-formalari-belli-oldu-120140411",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 Dünya Kupası&#039;nda mücadele etmek için play-off oynayacak A Milli Takım&#039;ın yeni formaları belli oldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/a-milli-futbol-takiminin-yeni-formalari-belli-oldu-t1mh.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0c5d71a0",
     "title": "Futbolcu Kaan Kundakçı cinayetinde 8 kişi adliyeye sevk edildi",
     "source": "Ekonomim",
@@ -911,17 +923,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul'daki Nevruz kutlamalarında Öcalan'a özgürlük çağrısı yapan DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, \"Ankara barışın sesine kulak vermelidir, yasal adımlar atmalıdır\" dedi.",
-    "image": null
-  },
-  {
-    "id": "GND_119449d9",
-    "title": "İtalya'da referandum: Meloni'nin yargı reformu oylanıyor",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 11:24",
-    "link": "https://www.dw.com/tr/italya-da-referandum-meloni-nin-yargı-reformu-oylanıyor/a-76476581",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İtalya, yargıda önemli değişiklikler öngören anayasa değişikliği için referanduma gitti. Başbakan Meloni hükümeti reformun yargıyı daha bağımsız kılacağını savunuyor. Ancak aksini iddia edenler de bir hayli fazla.",
     "image": null
   }
 ]
