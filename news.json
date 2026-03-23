@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_458e8537",
+    "title": "Mürettebatsız Rus tankeri Akdeniz’de sürükleniyor",
+    "source": "Euronews",
+    "time": "23/03/2026 22:45",
+    "link": "http://tr.euronews.com/video/2026/03/23/goruntuler-akdenizde-basibos-suruklenen-insansiz-rus-tankerini-gosterdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sivil toplum kuruluşu Sea-Watch'ın pazar günü yayınladığı görüntüler, mürettebatsız bir Rus LNG tankerinin 2 haftadır Akdeniz'de sürüklendiğini ve Libya'ya yaklaştığını gösteriyor. Yetkililer, henüz gaz sızıntısı saptanmasa da ciddi çevre riski uyarısında bulunuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c5545123",
     "title": "Körfez ülkelerinde sağanak ve fırtına etkili oldu",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Urfa'da Türkmeydanı Mahallesi'ndeki trafoda patlama meydana geldi. Trafo yakınlarındaki 4 araç zarar gördü.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/208742.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f132b278",
-    "title": "Buffy oyuncuları Nicholas Brendon'ı 'Seni gördüm Nicky' sözleriyle andı",
-    "source": "Euronews",
-    "time": "23/03/2026 21:45",
-    "link": "http://tr.euronews.com/kultur/2026/03/23/buffy-oyunculari-nicholas-brendoni-seni-gordum-nicky-sozleriyle-andi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Buffy the Vampire Slayer’da Xander Harris rolüyle tanınan Nicholas Brendon uykusunda doğal nedenlerle yaşamını yitirdi. 54 yaşındaydı. Hafta sonu Buffy’deki rol arkadaşları onu andı: “Bazı insanlar çaba göstermeden iz bırakır.”",
-    "image": null,
     "keyword": null
   }
 ]
