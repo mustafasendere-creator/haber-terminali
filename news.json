@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d5447e73",
+    "title": "Yunanistan'da 57 kişinin öldüğü tren kazası davası başladı",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 12:23",
+    "link": "https://www.dw.com/tr/yunanistan-da-57-kişinin-öldüğü-tren-kazası-davası-başladı/a-76481529",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yunanistan'da 2023'te 57 kişinin hayatını kaybettiği tren kazasına yönelik dava, protesto ve grevler eşliğinde başladı. Yargılama süresince onlarca sanık hakim karşısına çıkacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d1ee06da",
     "title": "ABD, tüm vatandaşlarını uyardı: Daha dikkatli olun",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sosyal medyada paylaşılan görüntülerde İran’nın Katar’daki ABD üssüne saldırısının gösterildiği iddia edildi.",
     "image": "https://md.teyit.org/2026/03/qatar-abd-ussu-kapak.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_336787e4",
-    "title": "Saraybosna'da Netanyahu protestosu: 'Soykırımcı aranıyor'",
-    "source": "OdaTV",
-    "time": "23/03/2026 11:44",
-    "link": "https://www.odatv.com/dunya/saraybosnada-netanyahu-protestosu-soykirimci-araniyor-120140407",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Saraybosna&#039;da kentin farklı noktalarına asılan &quot;Soykırımcı ve savaş suçlusu Netanyahu aranıyor&quot; afişleri sosyal medyada gündem oldu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/saraybosnada-netanyahu-protestosu-soykirimci-araniyor-6vdz.jpg",
     "keyword": null
   }
 ]
