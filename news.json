@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_42c298bd",
+    "title": "Rusya: İran'daki nükleer santrallere saldırıların düzenlenmesi son derece tehlikeli",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 14:08",
+    "link": "https://www.aa.com.tr/tr/guncel/rusya-irandaki-nukleer-santrallere-saldirilarin-duzenlenmesi-son-derece-tehlikeli/3875685",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kremlin Sözcüsü Dmitriy Peskov, İran'daki nükleer santrallere saldırıların düzenlenmesinin son derece tehlikeli olduğunu belirterek, \"Bu, telafisi mümkün olmayan sonuçlar doğurabilir.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0539719c",
     "title": "ABD'nin yaptırım uyguladığı Fransız yargıç Guillou, banka kartını kullanamadığını söyledi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), elektrikli araçlara yönelik şarj hizmetlerini düzenleyen yönetmelikte değişikliğe gitti. Düzenlemeyle şarj ağı işletmecilerinin yetki ve yükümlülükleri genişletildi. Ayrıca düzenlemeyle, şarj istasyonlarının farklı işletmeciler arasında devrine ilişkin süreçler netleştirilirken, şarj hizmeti fiyatlandırmasına ilişkin kurallar da yeniden düzenlendi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/u-c-r-e-t.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_9062e14d",
-    "title": "\"Türkiye'nin akciğerleri\" kadın ormancılara emanet",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 13:14",
-    "link": "https://www.aa.com.tr/tr/guncel/turkiyenin-akcigerleri-kadin-ormancilara-emanet/3875606",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa Orman Bölge Müdürlüğünün kadın çalışanları, \"Türkiye'nin akciğerleri\" olan ormanların korunması için gece gündüz demeden sahada görev yapıyor.",
-    "image": null,
     "keyword": null
   }
 ]
