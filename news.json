@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ac73fee6",
+    "title": "EMEP Ordu İl Örgütü: TARSİM sigortası yeni dönem fındık fiyatının habercisi mi?",
+    "source": "Evrensel",
+    "time": "23/03/2026 15:51",
+    "link": "https://www.evrensel.net/haber/5976397/emep-ordu-il-orgutu-tarsim-sigortasi-yeni-donem-findik-fiyatinin-habercisi-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "EMEP Ordu İl Örgütü, TARSİM’in açıkladığı sigorta bedellerinin yeni sezon fındık fiyatını işaret ettiğini belirtti. Verilere göre fiyatın 250 TL civarında açıklanabileceği ifade edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/194781.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e0b65470",
     "title": "Samsun Bafra’da otomobil minibüse çarptı: 1 yaralı",
     "source": "Gazete Duvar",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Konya'nın Seydişehir ilçesinde devrilen yolcu otobüsündeki 3'ü ağır 20 kişi yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a1cb8682",
-    "title": "32 ilde FETÖ operasyonu: 41 tutuklama",
-    "source": "TRT Haber",
-    "time": "23/03/2026 15:29",
-    "link": "https://www.trthaber.com/haber/turkiye/32-ilde-feto-operasyonu-41-tutuklama-938794.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, 32 ilde FETÖye yönelik jandarma tarafından düzenlenen operasyonlarda 64 şüphelinin yakalandığını, 41inin tutuklandığını açıkladı.",
     "image": null,
     "keyword": null
   }
