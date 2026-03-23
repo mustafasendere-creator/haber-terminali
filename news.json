@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e02ff4bb",
+    "title": "Saudi Aramco, Hürmüz'deki aksamalara karşı Yenbu rotasını devreye aldığını bildirdi",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 22:25",
+    "link": "https://www.aa.com.tr/tr/guncel/saudi-aramco-hurmuzdeki-aksamalara-karsi-yenbu-rotasini-devreye-aldigini-bildirdi/3876405",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünyanın en büyük petrol ihracatçısı Saudi Aramco, Hürmüz Boğazı'nda yaşanan kesintilere karşı Suudi Arabistan'ın batı kıyısındaki Yenbu Limanı üzerinden alternatif rotaların devreye alarak enerji arzını güvence altına aldıklarını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_a61b4288",
     "title": "Trabzonspor’un transfer gündemindeki oyuncudan kötü haber: Milli takım kadrosundan çıkarıldı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Varto’da planlanan jeotermal enerji projeleri TBMM gündeminde. DEM Partili Fırat, bölge halkının itirazlarını ve olası çevresel riskleri Bakan Bayraktar’a sordu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/337559.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_11a72022",
-    "title": "Avrupa Türk Gazeteciler Birliği'nden çağrı: Gazeteci İsmail Arı derhal serbest bırakılsın",
-    "source": "Evrensel",
-    "time": "23/03/2026 21:25",
-    "link": "https://www.evrensel.net/haber/5976439/avrupa-turk-gazeteciler-birliginden-cagri-gazeteci-ismail-ari-derhal-serbest-birakilsin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Türk Gazeteciler Birliği Başkanı Recai Aksu, Birgün gazetesi muhabiri İsmail Arı’nın Tokat’ta tutuklanmasına tepki göstererek, “Gazetecilik suç değildir; İsmail Arı derhal serbest bırakılmalıdır” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339966.jpg",
     "keyword": null
   }
 ]
