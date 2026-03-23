@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce6daff3",
+    "title": "İsrail’den Beyrut’a yeni hava saldırıları",
+    "source": "Evrensel",
+    "time": "23/03/2026 23:45",
+    "link": "https://www.evrensel.net/haber/5976453/israil-den-beyrut-a-yeni-hava-saldirilari",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un güneyindeki Dahiye bölgesine 3 hava saldırısı düzenledi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339979.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_821ab971",
     "title": "Banksy’nin gizem balonu patladı: 'Sihirbazlık numarası artık bozuldu mu?'",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Kuzey Makedonya Kültür ve Turizm Bakanı Zoran Ljutkov ile bir araya geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6c5c1525",
-    "title": "Tahran Acil Durum Merkezi: Tahranda 28 Şubat'tan bu yana süren çatışmalarda 636 kişi hayatını kaybetti",
-    "source": "TRT Haber",
-    "time": "23/03/2026 22:26",
-    "link": "https://www.trthaber.com/haber/dunya/tahran-acil-durum-merkezi-tahranda-28-subattan-bu-yana-suren-catismalarda-636-kisi-hayatini-kaybetti-938828.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tahran Acil Durum Merkezi Başkanı Muhammed İsmail Tevekkuli, ABD ve İsrail saldırılarının başladığı 28 Şubat'tan bu yana Tahran'da 636 kişinin hayatını kaybettiğini duyurdu.",
     "image": null,
     "keyword": null
   }
