@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7a8d7926",
+    "title": "Bayram izni işçiye değil, patrona göre belirleniyor",
+    "source": "Evrensel",
+    "time": "23/03/2026 14:48",
+    "link": "https://www.evrensel.net/haber/5976383/bayram-izni-isciye-degil-patrona-gore-belirleniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "“Fabrikalarda bayram iznine çıkmak ya da çıkmamak işçinin moral motivasyonu ve ihtiyacı üzerinden değil, üretimin ikbali üzerinden belirleniyor.”",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339905.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ea5caa70",
     "title": "Dönel kavşakta motosiklet ile otomobil çarpıştı",
     "source": "Gazete Duvar",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Mesleki Yeterlilik Kurumu MYK tarafından aralarında ekskavatör operatörü, beton pompa operatörü, iş makinesi bakım ve onarımcısı, hibrit araç bakım onarımcısının da bulunduğu 40 meslek için Mesleki Yeterlilik Belgesi zorunluluğu getirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0e821801",
-    "title": "Ramazan Bayramı'nda otoyol ve köprülerden 12,3 milyon araç geçti",
-    "source": "TRT Haber",
-    "time": "23/03/2026 14:09",
-    "link": "https://www.trthaber.com/haber/turkiye/ramazan-bayraminda-otoyol-ve-koprulerden-123-milyon-arac-gecti-938782.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Ramazan Bayramı döneminde otoyol ve köprülerden toplam 12 milyon 338 bin 48 araç geçişi gerçekleştiğini açıkladı.",
     "image": null,
     "keyword": null
   }
