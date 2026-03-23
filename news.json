@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e5fb8fd",
+    "title": "Al Jazeera Netanyahu'nun hayatını kaybettiği anları mı yayınladı?",
+    "source": "Teyit.org",
+    "time": "23/03/2026 11:40",
+    "link": "https://teyit.org/analiz/al-jazeera-netanyahunun-hayatini-kaybettigi-anlari-mi-yayinladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Katar merkezli haber kanalı Al Jazeera’nin Netanyahu'nun hayatını kaybettiği anları haber bülteninde yayınladığı öne sürüldü.",
+    "image": "https://md.teyit.org/2026/03/netanyahu-el-cezire-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_9a74002f",
     "title": "Görüntü İran tarafından vurulan USS Abraham Lincoln uçak gemisini mi gösteriyor?",
     "source": "Teyit.org",
@@ -916,16 +928,5 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş'ta 6 Şubat depremlerinde yıkılan ve 112 kişinin hayatını kaybettiği Arıkan Sitesi davasında, müşteki avukatı Hüseyin Gökot, ikinci bilirkişi raporunda AFAD'ın kusurlu bulunduğuna dikkati çekerek, \"Bununla ilgili mahkeme suç duyurusunda bulunacak mı?\" diye sordu. Mahkeme heyeti, dosyada yer alan bilirkişi raporlarında çelişkiler bulunduğu gerekçesiyle yeni bir bilirkişi raporu hazırlanmasına karar verdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/03601433-77a9-4779-9d45-a3643ca32e29.jpg"
-  },
-  {
-    "id": "GND_a6caa158",
-    "title": "Anka Çocuk Destek Programı'ndan yaklaşık 18 bin 860 çocuk yararlandı",
-    "source": "TRT Haber",
-    "time": "23/03/2026 11:25",
-    "link": "https://www.trthaber.com/haber/ekonomi/anka-cocuk-destek-programindan-yaklasik-18-bin-860-cocuk-yararlandi-938764.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çocukların travmalarını azaltma ve toplumsal uyumlarını güçlendirmek amacıyla yürütülen Anka Çocuk Destek Programı'ndan bugüne kadar yaklaşık 18 bin 860 çocuk yararlandı.",
-    "image": null
   }
 ]
