@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c9fdf08e",
+    "title": "BM: Geçen yıla göre bu yıl şubatta Ukrayna'da sivil ölümlerde yüzde 45'lik artış yaşandı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 00:45",
+    "link": "https://www.trthaber.com/haber/dunya/bm-gecen-yila-gore-bu-yil-subatta-ukraynada-sivil-olumlerde-yuzde-45lik-artis-yasandi-938838.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler BM, şubat 2022den bu yana, Ukraynada 15 binden fazla sivilin öldürüldüğünü belirterek, bu yılın şubat ayında, geçen yılın aynı dönemine göre sivil ölümlerde yüzde 45'lik artış yaşandığına dikkati çekti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0bd3cd3d",
     "title": "İlk AB ülkesi: Slovenya, akaryakıt alımını günlük 50 litreyle sınırladı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "New York LaGuardia Havalimanı’nda bir uçak ve yer aracının çarpıştığı bildirildi. ABD medyasına yansıyan haberlere göre, kazada uçağın kaptan pilotu ve yardımcı pilotu hayatını kaybetti, en az 2 kişi de yaralandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ba1153bf",
-    "title": "MKE, TOLGA'nın İHA ve kamikaze dronları etkisiz hale getirdiği görüntüleri paylaştı",
-    "source": "Ekonomim",
-    "time": "23/03/2026 23:06",
-    "link": "https://www.ekonomim.com/sektorler/savunma-sanayi/mke-tolganin-iha-ve-kamikaze-dronlari-etkisiz-hale-getirdigi-goruntuleri-paylasti-haberi-883496",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Makine ve Kimya Endüstrisi AŞ (MKE), TOLGA yakın hava savunma sisteminin İHA ve kamikaze dronları etkisiz hale getirdiği görüntüleri paylaştı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/mke-tolganin-iha-ve-kamikaze-dronlari-etkisiz-hale-getirdigi-goruntuleri-paylasti-y8uy_cover.jpg",
     "keyword": null
   }
 ]
