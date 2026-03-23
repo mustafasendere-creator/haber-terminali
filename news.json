@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa3ea0cc",
+    "title": "IEA: İran savaşı küresel ekonomi için büyük tehdit oluşturdu",
+    "source": "Euronews",
+    "time": "23/03/2026 22:25",
+    "link": "http://tr.euronews.com/business/2026/03/23/iea-iran-savasi-kuresel-ekonomi-icin-buyuk-tehdit-olusturdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ortadoğu’daki savaş, dokuz ülkedeki 40’tan fazla enerji varlığına 'ağır' zarar verdiğini, küresel ekonomi için büyüyen riskler konusunda uyaran Uluslararası Enerji Ajansı Başkanı belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6f74ef00",
     "title": "Portekiz'de hükümet enerji fiyatlarına müdahale etmeye hazırlanıyor",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusu, ABD Başkanı Donald Trump'ın İran ile müzakere yürüttükleri açıklamasına atıfla siyasi kademe yeni talimat verene kadar İran'a saldırıları sürdüreceği mesajı verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_14dd6435",
-    "title": "Bakanlıktan Ankara'da bayat ekmek 6 liradan satılıyor paylaşımlarına ilişkin açıklama",
-    "source": "TRT Haber",
-    "time": "23/03/2026 21:26",
-    "link": "https://www.trthaber.com/haber/turkiye/bakanliktan-ankarada-bayat-ekmek-6-liradan-satiliyor-paylasimlarina-iliskin-aciklama-938824.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanlığı, Ankara'da bir işletmede 6 liradan satıldığı belirtilen ekmeklerin bayat değil, bir gün önce üretilmiş ekmekler olduğunu belirterek, bu ekmeklerin genellikle besiciler ve mandıracılarca düşük bedelle alındığını, normal satışa sunulan ekmeklerin ise belirlenen resmi tarifeye uygun şekilde 15 liradan satıldığını belirtti.",
     "image": null,
     "keyword": null
   }
