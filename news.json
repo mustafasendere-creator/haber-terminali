@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_279ea58f",
+    "title": "AB: Orta Doğu'daki gelişmelere ilişkin her türlü itidal mesajını memnuniyetle karşılıyoruz",
+    "source": "TRT Haber",
+    "time": "23/03/2026 15:51",
+    "link": "https://www.trthaber.com/haber/dunya/ab-orta-dogudaki-gelismelere-iliskin-her-turlu-itidal-mesajini-memnuniyetle-karsiliyoruz-938795.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa Birliği AB Dış İlişkiler Sözcüsü Anouar El Anouni, ABD Başkanı Donald Trump'ın İran enerji santrallerine ve enerji altyapısına yönelik her türlü askeri saldırıyı 5 gün erteleme talimatının ardından \"Her türlü itidal mesajını memnuniyetle karşılıyoruz.\" açıklamasında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_27d89304",
     "title": "İnan Güney hakkında yaklaşık 32 yıla kadar hapis talebi",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Fotomaç (@fotomac) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "GND_b7f85094",
-    "title": "Altınordu’da Down Sendromu Farkındalık Günü’ne özel renkli kortej",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 15:29",
-    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/altinordu-da-down-sendromu-farkindalik-gunu-ne-ozel-renkli-kortej-2488947",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Altınordu Belediyesi, 21 Mart Down Sendromu Farkındalık Günü kapsamında ‘Renklerimizle Güzeliz’ etkinliği düzenledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2890c4c0-95e0-4d1a-979f-5c0ef7462d28.jpg",
-    "keyword": null
   }
 ]
