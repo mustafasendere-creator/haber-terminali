@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2b0fa0da",
+    "title": "İki otomobil kafa kafaya çarpıştı, araçlar hurdaya döndü!",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 15:51",
+    "link": "https://www.gazeteduvar.com.tr/iki-otomobil-kafa-kafaya-carpisti-araclar-hurdaya-dondu-haber-1765696",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tokat’ın Artova ilçesi girişinde iki otomobilin kafa kafaya çarpıştığı kazada 4 kişi yaralandı. Araçlar hurdaya dönerken yaralılar hastaneye kaldırıldı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655389-0-result-ylq8_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4a490ff9",
     "title": "Rusya: İran’daki nükleer santrale saldırılar son derece tehlikeli",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "#SONDAKİKA Victor Osimhen, Trabzonspor maçında kesin olarak forma giyemeyecek. Galatasaray: “Futbolcumuz Victor Osimhen kolundaki kırık nedeniyle ameliyata alınmıştır. Gerekli açıklama ameliyat sonrası resmi kanallarımızdan yapılacaktır\"  x.com",
     "image": null,
     "keyword": "trabzon sondakika"
-  },
-  {
-    "id": "GND_bcf757fe",
-    "title": "İsrail Dışişleri Bakanı ve Alman Büyükelçi arasında tartışma",
-    "source": "DW Türkçe",
-    "time": "23/03/2026 15:29",
-    "link": "https://www.dw.com/tr/israil-dışişleri-bakanı-ve-alman-büyükelçi-arasında-tartışma/a-76485749",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Dışişleri Bakanı Gideon Saar, Almanya Büyükelçisi Steffen Seibert'in \"yerleşimci\" açıklamasına sert çıktı. Tartışmaya bakanlık da dahil oldu.",
-    "image": null,
-    "keyword": null
   }
 ]
