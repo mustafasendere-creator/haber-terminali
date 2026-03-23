@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b9e6a1c8",
+    "title": "Savaş Trump’ın kontrolünden çıkıyor",
+    "source": "A Haber",
+    "time": "23/03/2026 12:01",
+    "link": "https://www.ahaber.com.tr/yazarlar/melih-altinok/2026/03/22/savas-trumpin-kontrolunden-cikiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin, İran savaşında bundan sonra nasıl hareket edeceğini Trump'ın açıklamaları üzerinden anlamaya çalışmak imkânsız.\nÖrneğin cuma günü sosyal medya hesabından paylaştığı mesajında, Orta Doğu'daki...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_51037b35",
     "title": "ABD’yi yavaş yavaş öldüren savaşlar",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail devlet televizyonunda savaşın seyrini değiştirecek iddia: Ordu zorda, eski mühimmatları kullanıyor",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/israilaskerjpg-tR5oR08LIkKfdUVWQO2agw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2c1f192c",
-    "title": "Akın Gürlek açıkladı: Bir ayda 2 bine yakın kişi tutuklandı",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 11:39",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/akin-gurlek-acikladi-bir-ayda-2-bine-yakin-kisi-tutuklandi-2488880",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Akın Gürlek, şubatta 81 ilde uyuşturucu, yasa dışı bahis ve sanal kumar suçlarına yönelik düzenlenen 787 operasyonda 6 bin 121 şüpheli hakkında işlem yapıldığını bildirdi. Operasyonlar kapsamında 1877 şüpheli tutuklandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f0c2135d-0f5f-4b22-8611-b944643d9dbc.jpg",
     "keyword": null
   }
 ]
