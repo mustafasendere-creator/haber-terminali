@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c28a6c3",
+    "title": "İsrail'in Gazze Şeridi'ne saldırılarında can kaybı 72 bin 263'e yükseldi",
+    "source": "Evrensel",
+    "time": "23/03/2026 15:49",
+    "link": "https://www.evrensel.net/haber/5976399/israilin-gazze-seridine-saldirilarinda-can-kaybi-72-bin-263e-yukseldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 263'e yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339922.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_03053d1b",
     "title": "Altın neden düşüyor, nereye kadar gerileyebilir? Uzmanlar açıkladı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika haberi... Tutuklu Beyoğlu Belediye Başkanı İnan Güney hakkında yürütülen soruşturmaya ilişkin iddianame hazırlandı. Güney hakkında 35 yıl hapis talep edilirken dosyanın İBB davasıyla birleştirilmesi talep edildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/f8cb2a43-7606-4c23-b8a7-db60a140277e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_be719d92",
-    "title": "Toroslar Belediye Başkanı Yıldız, esnafla buluşuyor",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 15:10",
-    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/toroslar-belediye-baskani-yildiz-esnaflarla-bulusuyor-2488940",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Toroslar Belediye Başkanı Abdurrahman Yıldız, kent genelindeki esnaf ve sanatkârlar odalarına ziyaretler gerçekleştiriyor. Seçim sürecini tamamlayan oda başkanları ve yönetimlerine ‘hayırlı olsun’ dileklerini ileten Başkan Yıldız, esnaf temsilcileriyle bir araya gelerek görüş alışverişinde bulunuyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/cb06ed15-ea84-4e21-b092-d93a89305797.jpg",
     "keyword": null
   }
 ]
