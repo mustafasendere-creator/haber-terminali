@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e0b8e7d6",
+    "title": "Gürlek'ten bilirkişi sistemi paylaşımı",
+    "source": "Habertürk",
+    "time": "23/03/2026 20:26",
+    "link": "https://www.haberturk.com/son-dakika-adalet-bakani-akin-gurlek-ten-bilirkisi-sistemiyle-ilgili-paylasim-3871469",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adalet Bakanı Akın Gürlek, bilirkişi sisteminde yapılan yeni düzenlemelerle rapor hazırlama süresinin 110 günden 29 güne indirildiğini açıkladı. Aylık dosya sayısına sınır getirildiğini belirten Gürlek, bu sayede bilirkişilerin iş yükünün dengelendiğini ifade etti",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774174046/3871469/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_34dc0aa3",
     "title": "İki tır çarpıştı: Yol savaş alanına döndü",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ChatGPT'nin geliştirici şirketi OpenAI için yeni bir iddia ortaya atıldı. Buna göre şirket çalışan sayısını iki katına çıkartabilir.",
     "image": "https://media.cumhuriyet.com.tr/Archive/83f1925a-170e-4a7e-8d9e-e6fc7c17ffed.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bac9f912",
-    "title": "MEB: LGS merkezi sınav başvuruları 10 Nisan'a kadar eOkul'dan alınacak",
-    "source": "TRT Haber",
-    "time": "23/03/2026 19:46",
-    "link": "https://www.trthaber.com/haber/egitim/meb-lgs-merkezi-sinav-basvurulari-10-nisana-kadar-e-okuldan-alinacak-938813.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Eğitim Bakanlığınca LGS kapsamında 14 Haziran'da yapılacak merkezi sınavın başvuruları \"eOkul\" üzerinden bugünden itibaren 10 Nisan'a kadar alınacak.",
-    "image": null,
     "keyword": null
   }
 ]
