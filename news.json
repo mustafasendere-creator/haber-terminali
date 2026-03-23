@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f559d2f6",
+    "title": "Tırdaki yolcu bıçakla saldırdı",
+    "source": "OdaTV",
+    "time": "23/03/2026 22:06",
+    "link": "https://www.odatv.com/guncel/tirdaki-yolcu-bicakla-saldirdi-120140482",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana’da trafikte çıkan tartışmada tırda bulunan yolcu, otomobil sürücüsünün önünü kesip bıçakla saldırarak, araca zarar verdi. Yaşananlar araç kamerasına yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/tirdaki-yolcu-bicakla-saldirdi-ybos.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a7ce55e0",
     "title": "Yapımcı Erol Köse, 16. kattan düşerek hayatını kaybetti: Soruşturma başlatıldı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trendyol Süper Lig’de sezonun en kritik karşılaşmalarından biri için geri sayım başladı. 4 Nisan’da sahasında lider Galatasaray’ı konuk edecek Trabzonspor, sadece 3 puan değil, adeta sezonun kaderini belirleyecek bir mücadeleye çıkacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/1dcc03ec-3533-4126-890d-50a604f6ab1b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1673e1e6",
-    "title": "İran’a yönelik saldırılar sonrası rota değişiklikleri Kenya Havayollarına talebi arttırdı",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 21:25",
-    "link": "https://www.aa.com.tr/tr/guncel/-iran-a-yonelik-saldirilar-sonrasi-rota-degisiklikleri-kenya-havayollarina-talebi-arttirdi-/3876355",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kenya Havayolları, İran ve Lübnan'a yönelik saldırıların küresel hava ulaşımında rota değişikliklerine neden olduğunu belirterek, Kenya Havayollarına olan talepte artış yaşandığını bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
