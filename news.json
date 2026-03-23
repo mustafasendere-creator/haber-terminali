@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ea4171f8",
+    "title": "Mars’ta piramit mi var? Bilim insanlarından açıklama geldi",
+    "source": "Evrensel",
+    "time": "23/03/2026 15:29",
+    "link": "https://www.evrensel.net/haber/5976394/marsta-piramit-mi-var-bilim-insanlarindan-aciklama-geldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medyada yayılan görüntüler “Mars’ta piramit mi var?” sorusunu gündeme taşıdı. Bilimsel veriler ise farklı bir tablo çiziyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339915.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_70579213",
     "title": "Bölgedeki enerji faaliyetleri Meclis gündeminde: \"5 yılda 350 bin dönüm tarım arazisi kaybedildi\"",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dünya Meteoroloji Örgütü WMO, iklim sisteminin \"tarihte hiç olmadığı kadar dengesiz hale geldiği\" uyarısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_35bb5d3f",
-    "title": "Brent petrolün varili yüzde 9 gerileyerek 96,96 dolar oldu",
-    "source": "TRT Haber",
-    "time": "23/03/2026 14:49",
-    "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-yuzde-9-gerileyerek-9696-dolar-oldu-938790.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Brent petrolün varil fiyatı, ABD Başkanı Trump'ın İran'ın enerji altyapısına yönelik saldırıyı 5 gün erteleme kararının ardından yüzde 9 gerileyerek 96,96 dolar oldu",
     "image": null,
     "keyword": null
   }
