@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59351a16",
+    "title": "Kültür seçkisi: Avrupa’da haftanın öne çıkan kültür etkinlikleri",
+    "source": "Euronews",
+    "time": "23/03/2026 22:25",
+    "link": "http://tr.euronews.com/kultur/2026/03/23/seytani-korkular-atesli-isvec-popu-bu-hafta-avrupada-one-cikan-etkinlikler",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir temizlikçi 'Seni Öldürecekler' filminde şeytani bir tarikatla mücadele ederken, Liza Minnelli ise ilişkileri ve bağımlılıklarını açık yüreklilikle anlatıyor. İşte bu hafta radarınıza almanız gerekenler.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_aa3ea0cc",
     "title": "IEA: İran savaşı küresel ekonomi için büyük tehdit oluşturdu",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kolombiya’da içerisinde 110 askerin bulunduğu C-130 Hercules tipi askeri kargo uçağı düştü.",
     "image": "https://media.cumhuriyet.com.tr/Archive/3a78a184-601f-454f-ad2b-f77e07bb26a9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_765c3f21",
-    "title": "İsrail ordusu, yeni bir talimat gelene kadar İran'a saldırıları sürdüreceği mesajı verdi",
-    "source": "TRT Haber",
-    "time": "23/03/2026 21:26",
-    "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-yeni-bir-talimat-gelene-kadar-irana-saldirilari-surdurecegi-mesaji-verdi-938822.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu, ABD Başkanı Donald Trump'ın İran ile müzakere yürüttükleri açıklamasına atıfla siyasi kademe yeni talimat verene kadar İran'a saldırıları sürdüreceği mesajı verdi.",
-    "image": null,
     "keyword": null
   }
 ]
