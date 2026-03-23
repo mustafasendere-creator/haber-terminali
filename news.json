@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_20a30058",
+    "title": "İran: Düşman olmayan tüm gemilere Hürmüz açık",
+    "source": "Habertürk",
+    "time": "23/03/2026 21:26",
+    "link": "https://www.haberturk.com/iran-dan-abd-ye-dusman-olmayan-tum-gemilere-hurmuz-bogazi-acik-3871441",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump’ın, Hürmüz Boğazı 48 saat içinde “tamamen açılmazsa” İran’ın enerji santrallerini hedef alacağı tehdidinde bulunmasının ardından, İran’ın BM temsilcisi, Hürmüz Boğazı’nın “İran’ın düşmanlarıyla bağlantılı” gemiler hariç tüm gemilere açık olduğunu belirtti.",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774167204/3871441/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_50b1c362",
     "title": "Giresun'da korkunç kaza! 3 can kaybı var!",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’de milli maçlar nedeniyle verilen aranın ardından gözler 4 Nisan Cumartesi günü oynanacak dev derbiye çevrildi. Trabzonspor, sahasında lider Galatasaray’ı konuk etmeye hazırlanırken, Bordo-Mavililer için bu karşılaşma adeta sezonun kırılma noktası olacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/h-a-s-r-e-t-10.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_6881ca83",
-    "title": "LGS başvuruları başladı",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 20:45",
-    "link": "https://www.aa.com.tr/tr/guncel/lgs-basvurulari-basladi/3876211",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Eğitim Bakanlığınca (MEB) 14 Haziran'da düzenlenecek Liselere Geçiş Sistemi (LGS) kapsamındaki merkezi sınavın başvuruları, 10 Nisan'a kadar \"e-Okul\" üzerinden yapılacak.",
-    "image": null,
-    "keyword": null
   }
 ]
