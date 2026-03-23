@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f952840e",
+    "title": "İran'dan yeni tehdit: Basra Körfezi'ne mayın döşenecek",
+    "source": "TRT Haber",
+    "time": "23/03/2026 12:03",
+    "link": "https://www.trthaber.com/haber/dunya/irandan-yeni-tehdit-basra-korfezine-mayin-dosenecek-938771.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Savunma Konseyi: ABDİsrail, İran adalarına ve kıyılarına saldırırsa Basra Körfezi'ne mayın döşenecek",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_50516d75",
     "title": "Rekabet Kurulu Haribo hakkında soruşturma açtı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sivas’ta geçen yıl 112’ye gelen 616 bin 606 çağrının yüzde 29’u vakaya dönüşmezken, uçurumdan düşen ineği için helikopter isteği ve uzaklaştırma kararı olan eşiyle barışma talebi de kayıtlara geçti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_dc9d8861",
-    "title": "İsrail televizyonu: Trump, Netanyahu'ya af çıkarması için baskı yaptığı Herzog'u \"acınası\" olmakla suçladı",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 11:41",
-    "link": "https://www.aa.com.tr/tr/guncel/israil-televizyonu-trump-netanyahuya-af-cikarmasi-icin-baski-yaptigi-herzogu-acinasi-olmakla-sucladi/3875495",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump'ın, İsrail Cumhurbaşkanı Isaac Herzog'u yolsuzluk suçlamasıyla yargılanan Başbakan Binyamin Netanyahu'yu henüz affetmediği için \"zayıf ve acınası\" olmakla suçladığı aktarıldı.",
     "image": null,
     "keyword": null
   }
