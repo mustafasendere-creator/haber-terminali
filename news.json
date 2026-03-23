@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32cd792a",
+    "title": "Kuşadası Belediye Başkanı Günel'in yerine Demirtaş getirildi",
+    "source": "Ekonomim",
+    "time": "23/03/2026 21:06",
+    "link": "https://www.ekonomim.com/gundem/kusadasi-belediye-baskani-gunelin-yerine-demirtas-getirildi-haberi-883486",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuşadası Belediye Başkanı Ömer Günel&#039;in tutuklu yargılanmasına devam edilirken, Kuşadası Belediyesi Meclisi tek gündem maddesiyle olağanüstü toplanarak seçim yaptı. Yapılan seçim sonucu Ömer Günel&#039;in yerine CHP&#039;den Tahsin Demirtaş seçildi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/kusadasi-belediye-baskani-gunelin-yerine-demirtas-getirildi-qabv_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6181b28b",
     "title": "AB’den Nijerya’ya 288 milyon Euro'luk destek paketi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "TÜİK ve TCMB verilerine göre tüketici güven endeksi mart ayında yüzde 0,8 azalarak 85,0 seviyesine geriledi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/tuketici-guveni.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b1f359ed",
-    "title": "Borsa günü yükselişle tamamladı",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 20:25",
-    "link": "https://www.aa.com.tr/tr/guncel/borsa-gunu-yukselisle-tamamladi/3876172",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,92 değer kazanarak 13.168,16 puandan tamamladı.",
-    "image": null,
     "keyword": null
   }
 ]
