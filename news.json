@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_73d5b93d",
+    "title": "Bingöl-Diyarbakır yolunda kaza: Otomobil devrildi, 4 yaralı",
+    "source": "Sözcü",
+    "time": "23/03/2026 12:23",
+    "link": "https://www.sozcu.com.tr/bingol-diyarbakir-yolunda-kaza-otomobil-devrildi-4-yarali-p303646",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bingöl-Diyarbakır yolunda kaza: Otomobil devrildi, 4 yaralı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/aa202603224089777040897767bingoldedevrilenotomobildeki4kisiyaralandijpg-WDX74cU9FEKc0lUF81PB2Q.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3133eff8",
     "title": "İstanbul yolunda ağır vasıta araçlara kısıtlama",
     "source": "Sözcü",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Milli Savunma Bakanlığı (MSB), Katar'da eğitim faaliyetleri sırasında bir askeri helikopterin teknik arıza nedeniyle denize düşerek kaza-kırıma uğradığını açıkladı. Kazada ikisi ASELSAN, biri de Türk Silahlı Kuvvetleri personeli olmak üzere yedi kişi hayatını kaybetti",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_77589851",
-    "title": "İstanbul Fatih'te iki bina çöktü: Bir kişi öldü",
-    "source": "BBC Türkçe",
-    "time": "23/03/2026 12:01",
-    "link": "https://www.bbc.com/turkce/articles/cgqk8jg3lnno",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'un Fatih ilçesi Ayvansaray Mahallesi'nde doğal gaz kaynaklı olduğu değerlendirilen patlama sonrasında bitişik nizamdaki iki binanın çöktü. Olayda bir kişi öldü, biri ağır 10 kişi ise yaralı olarak enkazdan çıkarıldı.",
     "image": null,
     "keyword": null
   }
