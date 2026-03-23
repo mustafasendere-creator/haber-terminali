@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b7b17780",
+    "title": "Görüntü Tel Aviv'deki Mossad araştırma binasının yıkımını mı gösteriyor?",
+    "source": "Teyit.org",
+    "time": "23/03/2026 11:44",
+    "link": "https://teyit.org/analiz/goruntu-tel-avivdeki-mossad-arastirma-binasinin-yikimini-mi-gosteriyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medyada paylaşılan görüntülerde İran’ın Tel Aviv’deki Mossad araştırma binasını vurduğu iddia edildi.",
+    "image": "https://md.teyit.org/2026/03/mossad-binasi-iddiasi-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_116ea37c",
     "title": "Görüntü Katar’daki ABD üssüne yapılan saldırıyı mı gösteriyor?",
     "source": "Teyit.org",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Limonun tazeleyici aroması ve haşhaşın eşsiz dokusuyla hazırlanan bu kek, çay saatlerine hafif ve şık bir dokunuş katıyor. İşte, enfes aromasıyla limonlu haşhaşlı kek tarifi...",
     "image": "https://media.cumhuriyet.com.tr/Archive/2ff5997d-ccb0-4a87-891d-445d3217e731.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_002c7c90",
-    "title": "İsrail ordusu Lübnan'ın güneyini ikiye ayıran Litani Nehri'ndeki bir köprüyü daha vurdu",
-    "source": "TRT Haber",
-    "time": "23/03/2026 11:39",
-    "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-lubnanin-guneyini-ikiye-ayiran-litani-nehrindeki-bir-kopruyu-daha-vurdu-938765.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun, Lübnan'ın güneyini ikiye ayıran Litani Nehri üzerindeki bir köprüyü daha hedef alarak yerle bir ettiği belirtildi.",
-    "image": null,
     "keyword": null
   }
 ]
