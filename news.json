@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a3d226e6",
+    "title": "Çevremiz alev alev",
+    "source": "A Haber",
+    "time": "23/03/2026 12:21",
+    "link": "https://www.ahaber.com.tr/yazarlar/bulent-erandac/2026/03/22/cevremiz-alev-alev",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni bir dünya kurulurken, yakın coğrafyamız yanıyor. Türkiye, ateş çemberi içinde \"huzur ve güven adası!\" Cumhurbaşkanımız Tayyip Recep Tayyip Erdoğan'ın liderliğinde Türkiye, bir taraftan...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_cf2917fd",
     "title": "Pabuç pahalı!..",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Milli Savunma Üniversitesi mezuniyetindeki kılıçlı yemin töreni sonrası TSK'dan ihraç edilen Ebru Eroğlu'nun göreve iade davası, Ankara 4. İdare Mahkemesi tarafından reddedildi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/ebrujpg-gk0t-am1-v-jkeli-h99356dw.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_b0f432de",
-    "title": "Bayram dönüşü trafiğinde zincirleme kaza: 5 araç birbirine girdi",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 11:42",
-    "link": "https://www.gazeteduvar.com.tr/bayram-donusu-trafiginde-zincirleme-kaza-5-arac-birbirine-girdi-haber-1765732",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TEM Otoyolu&#039;nun Bolu geçişinde bayram tatili dönüşü trafiğinde 5 aracın karıştığı zincirleme trafik kazasında yaralanan olmazken, kısa süreli trafik yoğunluğu oluştu.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-oq8z_cover.jpg",
     "keyword": null
   }
 ]
