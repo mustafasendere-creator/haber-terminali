@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d4131b50",
+    "title": "İran medyası: Trump geri adım attı",
+    "source": "10Haber",
+    "time": "23/03/2026 16:04",
+    "link": "https://10haber.net/gundem/iran-medyasi-trump-geri-adim-atti-689264/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MEHR ajansının İran Dışişleri Bakanlığı’na dayandırdığı haberine göre, ABD Başkanı Donald Trump’ın son açıklamalarının enerji fiyatlarını düşürmeye ve askeri planları için zaman kazanmaya yönelik olduğu öne sürüldü. Bakanlık, gerilimi azaltmaya dönük girişimler olduğunu, ancak savaşın başlatıcısı olmadıkları için muhatabın&#160; kendileri olmadığını vurguladı. Tasnim ajansı ise bir İran yetkilisine atıfla Hürmüz Boğazı’nın savaş öncesi koşullara dönmeyeceğini [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c1353bcdc3b9.81049071.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4240296e",
     "title": "İsrail, Hizbullah'a kara saldırılarını yoğunlaştırıyor",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun'un İlkadım Belediye Başkanı İhsan Kurnaz, Ramazan ayı boyunca ilçedeki 24 farklı mahallede düzenlenen buluşma programlarında, vatandaşlarla bir araya geldi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/baskan-ihsan-kurnaz-24-mahallede-vatandasla-bulustu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a80886b2",
-    "title": "Hastane kavşağında yine kaza: Tofaş kağıt gibi katlandı",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 15:49",
-    "link": "https://www.gazeteduvar.com.tr/hastane-kavsaginda-yine-kaza-tofas-kagit-gibi-katlandi-haber-1765697",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsun’un Canik ilçesinde Şehir Hastanesi kavşağında meydana gelen kazada Tofaş Şahin ile otomobil çarpıştı. Araçlarda maddi hasar oluşurken yaralanan olmadı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655402-0-fte8_cover.jpg",
     "keyword": null
   }
 ]
