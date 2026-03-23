@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2c1f192c",
+    "title": "Akın Gürlek açıkladı: Bir ayda 2 bine yakın kişi tutuklandı",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 11:39",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/akin-gurlek-acikladi-bir-ayda-2-bine-yakin-kisi-tutuklandi-2488880",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adalet Bakanı Akın Gürlek, şubatta 81 ilde uyuşturucu, yasa dışı bahis ve sanal kumar suçlarına yönelik düzenlenen 787 operasyonda 6 bin 121 şüpheli hakkında işlem yapıldığını bildirdi. Operasyonlar kapsamında 1877 şüpheli tutuklandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f0c2135d-0f5f-4b22-8611-b944643d9dbc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c57ef52a",
     "title": "Hazine ve Maliye Bakanlığı düğmeye bastı: 16 bin 300 kişiye tebligat gönderildi",
     "source": "Cumhuriyet",
@@ -899,16 +911,5 @@
     "prefix": "🔔",
     "summary": "Edirne’nin Fatih Mahallesi’nde iki otomobilin çarpışması sonucu meydana gelen kazada 2 kişi yaralandı. Yaralılar hastaneye kaldırıldı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/10/20260310aw658542-0-pfw1_cover.jpg"
-  },
-  {
-    "id": "GND_151355a6",
-    "title": "Otomobil hafif ticari araca çarptı: 4 kişi yaralandı!",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 11:24",
-    "link": "https://www.gazeteduvar.com.tr/otomobil-hafif-ticari-araca-carpti-4-kisi-yaralandi-haber-1765724",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsun’un Çarşamba ilçesinde otomobilin hafif ticari araca arkadan çarpması sonucu meydana gelen kazada 4 kişi yaralandı. Yaralıların sağlık durumlarının iyi olduğu öğrenildi.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/10/20260310aw658626-0-lvs6_cover.jpg"
   }
 ]
