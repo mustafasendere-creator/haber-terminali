@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_935b21f3",
+    "title": "Muse'dan yeni albüm",
+    "source": "OdaTV",
+    "time": "23/03/2026 18:07",
+    "link": "https://www.odatv.com/kultur-sanat/musedan-yeni-album-120140463",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muse, yeni albümü &quot;The WOW! Signal&quot;ı 26 Haziran&#039;da dinleyicilerine sunmayı planlıyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/musedan-yeni-album-jucd.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7f91af73",
     "title": "Edebiyatseverler buluşuyor: Cumartesi saat 14.00",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Soma maden katliamına ilişkin kamu görevlilerinin yargılandığı davada istinaf mahkemesi, zaman aşımı nedeniyle davaların düşmesine karar verdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339944.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_25a28adf",
-    "title": "KTÜ’de Nevruz Coşkusu Ateş Üzerinden Atlayarak Bahar Karşılandı",
-    "source": "Karadeniz Gazetesi",
-    "time": "23/03/2026 17:46",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/ktude-nevruz-coskusu-ates-uzerinden-atlayarak-bahar-karsilandi/606483",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da Karadeniz Teknik Üniversitesi’nde düzenlenen Nevruz etkinliğinde öğrenciler kültürlerini tanıttı ve ateş üzerinden atlayarak baharı kutladı.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
