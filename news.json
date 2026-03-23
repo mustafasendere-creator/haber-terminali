@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_03677952",
+    "title": "Kapalıçarşı’da altın yoğunluğu: “Patronum yolladı, inşallah zarar eder”",
+    "source": "Evrensel",
+    "time": "23/03/2026 18:06",
+    "link": "https://www.evrensel.net/haber/5976420/kapalicarsida-altin-yogunlugu-patronum-yolladi-insallah-zarar-eder",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altın fiyatlarında yaşanan düşüşün ardından Kapalıçarşı’da yoğunluk oluştu. Düşük fiyattan altın almak isteyenler kuyumcuların önünde uzun süre kuyrukta beklemek zorunda kaldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339946.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_fb4d1b5e",
     "title": "Trabzon’da Peş Peşe Kazalar, 1 Ölü, 4 Yaralı",
     "source": "Karadeniz Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Fransa'da iki turlu yerel seçimlerde solcu adaylar büyük kentlerde, aşırı sağcı adaylar ise küçük ve orta büyüklükteki farklı kentlerde galip gelirken, seçim sonuçları siyaset arenasındaki parçalı tabloyu gözler önüne serdi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_0c9cb53e",
-    "title": "Trabzon Üniversitesi Dekanı’ndan canlı yayında dikkat çeken sözler!",
-    "source": "Haber61",
-    "time": "23/03/2026 17:45",
-    "link": "https://www.haber61.net/trabzon/trabzon-universitesi-dekanindan-canli-yayinda-dikkat-ceken-sozler-h627501.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Üniversitesi Siyasal Bilgiler Fakültesi Dekanı Prof. Dr. Nihat Yılmaz, Bengü Türk canlı yayınında İsrail-İran gerilimi ve Türkiye’nin savunma politikalarına ilişkin konuştu. Yılmaz: \"Savaştan sonra Türkiye'nin kapısını çalacaklar.\" dedi.",
-    "image": "https://resim.haber61.net/news/608982.jpg",
-    "keyword": "trabzon"
   }
 ]
