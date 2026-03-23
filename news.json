@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_396ceb6a",
+    "title": "Savaşın 3. haftası: Enerji piyasalarında sert dalgalanmalar sürüyor",
+    "source": "TRT Haber",
+    "time": "23/03/2026 12:23",
+    "link": "https://www.trthaber.com/haber/ekonomi/savasin-3-haftasi-enerji-piyasalarinda-sert-dalgalanmalar-suruyor-938776.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in 28 Şubat'ta İran'a yönelik başlattığı saldırılarda 3 hafta geride kalırken, küresel piyasalarda enerji fiyatlarındaki sert dalgalanmalar devam ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d5447e73",
     "title": "Yunanistan'da 57 kişinin öldüğü tren kazası davası başladı",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sosyal medyada paylaşılan görüntülerde İran’ın Tel Aviv’deki Mossad araştırma binasını vurduğu iddia edildi.",
     "image": "https://md.teyit.org/2026/03/mossad-binasi-iddiasi-kapak.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_116ea37c",
-    "title": "Görüntü Katar’daki ABD üssüne yapılan saldırıyı mı gösteriyor?",
-    "source": "Teyit.org",
-    "time": "23/03/2026 11:44",
-    "link": "https://teyit.org/analiz/goruntu-katardaki-abd-ussune-yapilan-saldiriyi-mi-gosteriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medyada paylaşılan görüntülerde İran’nın Katar’daki ABD üssüne saldırısının gösterildiği iddia edildi.",
-    "image": "https://md.teyit.org/2026/03/qatar-abd-ussu-kapak.webp",
     "keyword": null
   }
 ]
