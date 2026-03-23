@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_68d1d451",
+    "title": "Feci kaza anı kamerada",
+    "source": "OdaTV",
+    "time": "24/03/2026 00:45",
+    "link": "https://www.odatv.com/guncel/feci-kaza-ani-kamerada-120140493",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osmaniye’de kamyonun çarptığı motosikletin sürücüsü hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/feci-kaza-ani-kamerada-9uts.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_570f3270",
     "title": "Meraya cezaevi köylüleri ayağa kaldırdı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP’nin 20. Dönem Muğla Milletvekili Zeki Çakıroğlu, 73 yaşında hayatını kaybetti. Çakıroğlu’nun kalp krizi geçirdiği değerlendiriliyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339970.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_679719b8",
-    "title": "İsrail ordusu, Devrim Muhafızlarının ana karargahını vurduğunu iddia etti",
-    "source": "Evrensel",
-    "time": "23/03/2026 23:25",
-    "link": "https://www.evrensel.net/haber/5976446/israil-ordusu-devrim-muhafizlarinin-ana-karargahini-vurdugunu-iddia-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu, İran’ın başkenti Tahran'a düzenlenen saldırı dalgasının bir parçası olarak Devrim Muhafızları Ordusu'nun (DMO) ana karargahını vurduğunu iddia etti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339971.jpg",
     "keyword": null
   }
 ]
