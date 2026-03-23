@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_71daaf4e",
+    "title": "Polisten kaçan sürücüye rekor ceza",
+    "source": "Habertürk",
+    "time": "23/03/2026 21:26",
+    "link": "https://www.haberturk.com/antalya-da-polisten-kacan-surucuye-200-bin-tl-ceza-3871445",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya’da polisin ‘dur’ ihtarına uymayan sürücü, yaklaşık 10 kilometrelik takibin ardından yakalandı. Araçta yapılan aramada uyuşturucu madde kalıntısı tespit edilirken, sürücünün 3 farklı uyuşturucu kullandığı belirlendi. Gözaltına alınan sürücüye 200 bin TL ceza uygulanırken, ehliyetine el konulup aracı trafikten menedildi. Olayla ilgili adli işlem başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774167730/3871445/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_cb407a87",
     "title": "Milli takıma çağrılmıştı: Hollanda'dan Noa Lang açıklaması!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kolombiya’nın güneyindeki Putumayo yönetim bölgesinde, 110’dan fazla kişiyi taşıyan askeri nakliye uçağının kalkıştan kısa süre sonra düştüğü bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0787addc",
-    "title": "İran, İsrail ile ABD'nin bölgedeki bazı üslerini hedef aldıklarını duyurdu",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 20:45",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-israil-ile-abdnin-bolgedeki-bazi-uslerini-hedef-aldiklarini-duyurdu/3876320",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, İsrail’in kuzey, güney ve merkezdeki bölgeleri ile ABD’nin bölge ülkelerindeki üslerine misilleme saldırısında bulunduğunu bildirdi.",
     "image": null,
     "keyword": null
   }
