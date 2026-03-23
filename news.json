@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cae4e6a9",
+    "title": "Çin’den ithal kapı kilitlerine inceleme: ‘Haksız rekabet’ soruşturması",
+    "source": "Evrensel",
+    "time": "23/03/2026 11:38",
+    "link": "https://www.evrensel.net/haber/5976331/cinden-ithal-kapi-kilitlerine-inceleme-haksiz-rekabet-sorusturmasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin’den ithal kapı kilitlerine uygulanan anti-damping vergisinin sürüp sürmeyeceği yeniden incelemeye alındı; Ticaret Bakanlığı, yerli üreticilerin başvurusu üzerine “haksız rekabet” iddialarıyla soruşturma başlattı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/334594.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_143c18f3",
     "title": "Çiftçinin elektrik yükü ağırlaşıyor: 4 yılda 75 bine yakın abonenin elektriği kesildi",
     "source": "Evrensel",
@@ -887,16 +899,5 @@
     "prefix": "🌊",
     "summary": "Saadet Partisi Şalpazarı İlçe Başkanı Nusret Özendi, belediye harcamalarına tepki göstererek, kamu kaynaklarının siyasi reklamlarda kullanılmasını eleştirdi.",
     "image": "https://resim.haber61.net/news/608912.jpg"
-  },
-  {
-    "id": "GND_30147372",
-    "title": "Dışişleri Bakanı Fidan, üç günlük Körfez turunda hangi mesajları verdi?",
-    "source": "BBC Türkçe",
-    "time": "23/03/2026 11:23",
-    "link": "https://www.bbc.com/turkce/articles/cz78wq4qg2go",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, ABD-İsrail ve İran arasında 28 Şubat’ta başlayan savaşın ardından ilk kapsamlı diplomatik turunu, gerilimin en yüksek olduğu Körfez bölgesine gerçekleştirdi. İran’ın saldırılarına maruz kalan Suudi Arabistan, Katar ve BAE’ye destek açıklamasında bulunan Fidan, savaşın İsrail tarafından başlatıldığını, ancak sona ermesi sürecinde ABD’nin tavrının kilit rol oynayacağını kaydetti.",
-    "image": null
   }
 ]
