@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9b5e3440",
+    "title": "Şehirdeki yıkımı gösteren video İsrail'den mi?",
+    "source": "Teyit.org",
+    "time": "23/03/2026 11:40",
+    "link": "https://teyit.org/analiz/sehirdeki-yikimi-gosteren-video-israilden-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şehirdeki yıkımı gösteren videonun İsrail’den olduğu iddia edildi.",
+    "image": "https://md.teyit.org/2026/03/tel-aviv-yikim-iddiasi-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_7e5fb8fd",
     "title": "Al Jazeera Netanyahu'nun hayatını kaybettiği anları mı yayınladı?",
     "source": "Teyit.org",
@@ -917,16 +929,5 @@
     "prefix": "🔔",
     "summary": "İzmir'de trafikte çıkan tartışmada bir sürücü ile yanındaki eşi saldırıya uğradı. Aracından inen sürücünün kameraya müdahale etmesi dikkat çekti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/1c44c988-efa8-4753-98b0-5ea41cf32a29.jpg"
-  },
-  {
-    "id": "GND_02264230",
-    "title": "AFAD kusurlu bulunmuştu! Arıkan Sitesi davasında kritik gelişme: Yeni bilirkişi raporu alınmasına karar verildi",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 11:25",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/afad-kusurlu-bulunmustu-arikan-sitesi-davasinda-kritik-gelisme-yeni-bilirkisi-raporu-alinmasina-karar-verildi-2488876",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş'ta 6 Şubat depremlerinde yıkılan ve 112 kişinin hayatını kaybettiği Arıkan Sitesi davasında, müşteki avukatı Hüseyin Gökot, ikinci bilirkişi raporunda AFAD'ın kusurlu bulunduğuna dikkati çekerek, \"Bununla ilgili mahkeme suç duyurusunda bulunacak mı?\" diye sordu. Mahkeme heyeti, dosyada yer alan bilirkişi raporlarında çelişkiler bulunduğu gerekçesiyle yeni bir bilirkişi raporu hazırlanmasına karar verdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/03601433-77a9-4779-9d45-a3643ca32e29.jpg"
   }
 ]
