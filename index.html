@@ -95,25 +95,31 @@
     <script>
         // ŞİFRELEME VE GÜVENLİK
         async function checkPass() {
-            const input = document.getElementById('pass-input').value;
-            const msgBuffer = new TextEncoder().encode(input);
-            const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
-            const hashArray = Array.from(new Uint8Array(hashBuffer));
-            const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    const inputField = document.getElementById('pass-input');
+    const input = inputField.value.trim(); // Boşlukları otomatik siler
+    const overlay = document.getElementById('login-overlay');
+    const error = document.getElementById('error-msg');
 
-            // "Trabzon.,61" şifresinin SHA-256 karşılığı
-            const target = "332f91599813296069904944d32026725287e07664f33b1e39a3111b11b711ea";
+    // Şifreleme İşlemi
+    const msgBuffer = new TextEncoder().encode(input);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 
-            if (hashHex === target) {
-                document.getElementById('login-overlay').style.display = 'none';
-                document.getElementById('main-content').style.display = 'block';
-                sessionStorage.setItem('auth', 'true');
-                loadNews();
-            } else {
-                document.getElementById('error-msg').style.display = 'block';
-                document.getElementById('pass-input').value = "";
-            }
-        }
+    //  şifresinin GERÇEK ve TEK SHA-256 kodu budur:
+    const target = "332f91599813296069904944d32026725287e07664f33b1e39a3111b11b711ea";
+
+    if (hashHex === target) {
+        overlay.style.display = 'none';
+        document.getElementById('main-content').style.display = 'block';
+        sessionStorage.setItem('auth', 'true');
+        loadNews();
+    } else {
+        error.style.display = 'block';
+        inputField.value = "";
+        console.log("Girilen Hash:", hashHex); // Hata ayıklama için konsola yazar
+    }
+}
 
         window.onload = function() {
             if (sessionStorage.getItem('auth') === 'true') {
