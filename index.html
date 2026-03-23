@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trabzon Haber Terminali</title>
+    <title>Haber Terminali v23.5</title>
     <style>
         :root { --bg: #f0f2f5; --card-bg: #ffffff; --text: #1c1e21; --muted: #65676b; --accent: #0084ff; }
         body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', Tahoma, sans-serif; margin: 0; padding: 20px; }
@@ -27,37 +27,22 @@
         .news-card { 
             background: var(--card-bg); border-radius: 12px; overflow: hidden; 
             box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: transform 0.2s; 
-            display: flex; flex-direction: column; height: 100%;
+            display: flex; flex-direction: column;
         }
         .news-card:hover { transform: translateY(-4px); box-shadow: 0 12px 20px rgba(0,0,0,0.12); }
-        
         .image-wrapper { width: 100%; height: 180px; background: #eee; overflow: hidden; }
         .news-image { width: 100%; height: 100%; object-fit: cover; }
-        
         .news-content { padding: 15px; flex-grow: 1; display: flex; flex-direction: column; }
         .source-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-        
-        .tag { 
-            background: #f0f2f5; color: var(--muted); padding: 4px 10px; border-radius: 6px; 
-            font-size: 12px; font-weight: 700; display: flex; align-items: center;
-        }
+        .tag { background: #f0f2f5; color: var(--muted); padding: 4px 10px; border-radius: 6px; font-size: 12px; font-weight: 700; display: flex; align-items: center; }
         .tag img { width: 14px; height: 14px; margin-right: 5px; }
-        
-        .time { font-size: 11px; color: var(--muted); font-weight: 500; }
-        h3 { margin: 0 0 10px 0; font-size: 16px; line-height: 1.4; color: #050505; flex-grow: 0; }
-        
-        /* Özet Kutusu */
-        .summary-box { 
-            display: none; background: #f9f9f9; padding: 12px; border-left: 4px solid var(--accent);
-            font-size: 13px; color: #444; margin: 10px 0; line-height: 1.5; border-radius: 4px;
-        }
+        .summary-box { display: none; background: #f9f9f9; padding: 12px; border-left: 4px solid var(--accent); font-size: 13px; color: #444; margin: 10px 0; line-height: 1.5; }
 
-        .footer-action { border-top: 1px solid #f0f2f5; padding-top: 12px; margin-top: auto; display: flex; justify-content: space-between; align-items: center; }
-        .btn-summary { background: none; border: none; color: var(--accent); cursor: pointer; font-weight: 700; font-size: 13px; padding: 5px; }
-        .read-more { color: #666; text-decoration: none; font-weight: 700; font-size: 13px; padding: 5px; }
-        .read-more:hover { color: var(--accent); }
+        .footer-action { border-top: 1px solid #f0f2f5; padding-top: 12px; display: flex; justify-content: space-between; align-items: center; }
+        .btn-summary { background: none; border: none; color: var(--accent); cursor: pointer; font-weight: 700; font-size: 13px; }
+        .read-more { color: var(--muted); text-decoration: none; font-weight: 700; font-size: 13px; }
 
-        @media (max-width: 600px) { body { padding: 10px; } .tab { padding: 8px 12px; font-size: 13px; } }
+        @media (max-width: 600px) { .tab { padding: 8px 12px; font-size: 13px; } }
     </style>
 </head>
 <body>
@@ -65,10 +50,10 @@
     <h1>📰 HABER TERMİNALİ</h1>
     
     <div class="tabs">
-        <div class="tab active" onclick="switchTab(event, 'GND')"><img src="ulusal.png"> Ulusal</div>
-        <div class="tab" onclick="switchTab(event, 'YRL')"><img src="yerel.png"> Yerel</div>
-        <div class="tab" onclick="switchTab(event, 'TKP')"><img src="anahtar.png"> Takip</div>
-        <div class="tab" onclick="switchTab(event, 'SOC')"><img src="sosyal.png"> Sosyal</div>
+        <div id="tab-GND" class="tab active" onclick="switchTab('GND')"><img src="ulusal.png"> Ulusal</div>
+        <div id="tab-YRL" class="tab" onclick="switchTab('YRL')"><img src="yerel.png"> Yerel</div>
+        <div id="tab-TKP" class="tab" onclick="switchTab('TKP')"><img src="anahtar.png"> Takip</div>
+        <div id="tab-SOC" class="tab" onclick="switchTab('SOC')"><img src="sosyal.png"> Sosyal</div>
     </div>
 
     <div id="news-GND" class="news-container active"></div>
@@ -82,77 +67,60 @@
             return logos[type] || '';
         }
 
-        // Özet Açma/Kapama Fonksiyonu (ID Çakışması Fixli)
         function toggleSummary(id) {
             const s = document.getElementById('sum-' + id);
-            if (s) {
-                const isHidden = s.style.display === 'none' || s.style.display === '';
-                s.style.display = isHidden ? 'block' : 'none';
-            }
+            if (s) s.style.display = (s.style.display === 'block') ? 'none' : 'block';
         }
 
-function loadNews() {
-    fetch('news.json?t=' + new Date().getTime())
-        .then(r => r.json())
-        .then(data => {
-            document.querySelectorAll('.news-container').forEach(c => c.innerHTML = '');
-
-            data.forEach(n => {
-                const container = document.getElementById(`news-${n.type}`);
-                if (!container) return;
-
-                const safePrefix = n.prefix || '🔔';
-                const safeImg = n.image || `https://placehold.co/600x400?text=${n.source}`;
-                
-                // ANAHTAR KELİME ETİKETİ (Eğer varsa gösterir)
-                const keywordLabel = n.keyword ? 
-                    `<span style="background:#e1f5fe; color:#01579b; padding:4px 10px; border-radius:12px; font-size:11px; margin-right:8px; font-weight:bold; border:1px solid #b3e5fc;">#${n.keyword.toUpperCase()}</span>` : '';
-
-                const card = `
-                    <div class="news-card">
-                        <div class="image-wrapper">
-                            <img src="${safeImg}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber+Resmi'">
-                        </div>
-                        <div class="news-content">
-                            <div class="source-bar">
-                                <span class="tag">
-                                    <img src="${getLogo(n.type)}"> 
-                                    ${keywordLabel} ${n.source}
-                                </span>
-                                <span class="time">${n.time}</span>
-                            </div>
-                            <h3>${n.title}</h3>
-                            
-                            <div id="sum-${n.id}" class="summary-box">${n.summary || 'Özet yüklenemedi.'}</div>
-
-                            <div class="footer-action">
-                                <button class="btn-summary" onclick="toggleSummary('${n.id}')">📝 ÖZETİ OKU</button>
-                                <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
-                            </div>
-                        </div>
-                    </div>
-                `;
-                container.innerHTML += card;
-            });
-        });
-}
-                .catch(err => console.error("Haberler yüklenirken hata oluştu:", err));
-        }
-
-        function switchTab(evt, botType) {
-            // Aktif sekmeyi işaretle
+        // SEKMELER ARASI GEÇİŞ (Düzeltilen Ana Fonksiyon)
+        function switchTab(botType) {
+            // 1. Tüm tabların 'active' sınıfını kaldır
             document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-            evt.currentTarget.classList.add('active');
-
-            // İlgili kutuyu göster, diğerlerini gizle
+            // 2. Seçilen taba 'active' sınıfını ekle
+            document.getElementById('tab-' + botType).classList.add('active');
+            
+            // 3. Tüm haber konteynerlarını gizle
             document.querySelectorAll('.news-container').forEach(c => c.classList.remove('active'));
-            const activeContainer = document.getElementById(`news-${botType}`);
-            if (activeContainer) activeContainer.classList.add('active');
+            // 4. Seçilen konteynerı göster
+            document.getElementById('news-' + botType).classList.add('active');
         }
 
-        // Başlangıçta haberleri yükle ve her 30 saniyede bir tazele
+        function loadNews() {
+            fetch('news.json?t=' + new Date().getTime())
+                .then(r => r.json())
+                .then(data => {
+                    document.querySelectorAll('.news-container').forEach(c => c.innerHTML = '');
+                    data.forEach(n => {
+                        const container = document.getElementById(`news-${n.type}`);
+                        if (!container) return;
+
+                        const keywordLabel = n.keyword ? `<span style="background:#e1f5fe; color:#01579b; padding:2px 8px; border-radius:10px; font-size:10px; margin-right:5px; font-weight:bold; border:1px solid #b3e5fc;">#${n.keyword.toUpperCase()}</span>` : '';
+
+                        container.innerHTML += `
+                            <div class="news-card">
+                                <div class="image-wrapper">
+                                    <img src="${n.image || 'https://placehold.co/600x400?text='+n.source}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber+Resmi'">
+                                </div>
+                                <div class="news-content">
+                                    <div class="source-bar">
+                                        <span class="tag"><img src="${getLogo(n.type)}">${keywordLabel}${n.source}</span>
+                                        <span class="time">${n.time}</span>
+                                    </div>
+                                    <h3>${n.title}</h3>
+                                    <div id="sum-${n.id}" class="summary-box">${n.summary || 'Özet yüklenemedi.'}</div>
+                                    <div class="footer-action">
+                                        <button class="btn-summary" onclick="toggleSummary('${n.id}')">📝 ÖZETİ OKU</button>
+                                        <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
+                                    </div>
+                                </div>
+                            </div>
+                        `;
+                    });
+                });
+        }
+
         loadNews();
-        setInterval(loadNews, 30000);
+        setInterval(loadNews, 40000);
     </script>
 </body>
 </html>
