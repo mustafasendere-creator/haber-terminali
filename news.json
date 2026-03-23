@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_96529a73",
+    "title": "Suriye'nin Haseke ilinde sel: 400 ev zarar gördü, 500 aile tahliye edildi",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 21:25",
+    "link": "https://www.aa.com.tr/tr/guncel/suriyenin-haseke-ilinde-sel-400-ev-zarar-gordu-500-aile-tahliye-edildi/3876314",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye'nin Haseke ilinde etkili olan şiddetli yağışların yol açtığı sel nedeniyle 400 ev zarar gördü, 500 aile güvenli bölgelere tahliye edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_f5496e8e",
     "title": "Trabzon’da Derbi Öncesi Hakem Krizi! Gözler O İsimlerde",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Orta Doğu'daki sıvılaştırılmış doğal gaz LNG arzının büyük ölçüde sekteye uğraması sonrası Avrupa'ya gitmesi planlanan 11 LNG kargosu yönünü Asya'ya çevirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bb133aa1",
-    "title": "Trafik Kanunu'nuyla ilgili dezenformasyon yapanlara adli ve idari işlem başlatılacak",
-    "source": "TRT Haber",
-    "time": "23/03/2026 20:26",
-    "link": "https://www.trthaber.com/haber/turkiye/trafik-kanununuyla-ilgili-dezenformasyon-yapanlara-adli-ve-idari-islem-baslatilacak-938818.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trafik Kanunu'ndaki değişiklikler üzerinden dezenformasyon yapan sosyal medya hesapları ve içerik üreticilerine adli ve idari işlem başlatılacak.",
     "image": null,
     "keyword": null
   }
