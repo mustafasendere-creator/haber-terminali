@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4fdf9987",
+    "title": "Ekrem İmamoğlu’ndan ‘Nevruz’ mesajı",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 00:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/ekrem-imamoglu-ndan-nevruz-mesaji-2489080",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tutuklu cumhurbaşkanı adayı Ekrem İmamoğlu, \"Gelecek yıl Nevruz'da, hep birlikte Diyarbakır'da büyük bir coşku ve heyecanla buluşmayı sabırla ve umutla temenni ediyorum.\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ee0cafaa-d87d-482e-ab89-6e79a65b612f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8b650d5b",
     "title": "'ABD heyeti görüşmeler için Pakistan'a gidecek' iddiası: 'İran henüz hazır değil'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Pazartesi günü yaşanan kazada ölü ve yaralı sayısı henüz netlik kazanmazken, yetkililer en az 48 kişinin sağ olarak kurtarıldığını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_86b96548",
-    "title": "Tahran yönetimi karşıtı İran Kürdistan Demokrat Partisi'nin Erbil'deki kampına İHA saldırısı düzenlendi",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 23:05",
-    "link": "https://www.aa.com.tr/tr/guncel/tahran-yonetimi-karsiti-iran-kurdistan-demokrat-partisinin-erbildeki-kampina-iha-saldirisi-duzenlendi/3876416",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Irak'ın Erbil kentinin Bahrika nahiyesinde, İran Kürdistan Demokrat Partisi’nin (IKDP) Gırdeçal Kampı’na kamikaze insansız hava aracıyla (İHA) saldırı düzenlendiği bildirildi.",
     "image": null,
     "keyword": null
   }
