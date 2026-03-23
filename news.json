@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dfaa5efd",
+    "title": "Sporda Haftanın Özeti",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 21:25",
+    "link": "https://www.aa.com.tr/tr/guncel/sporda-haftanin-ozeti/3876362",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Spor dünyasında bir hafta böyle geçti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_f5496e8e",
     "title": "Trabzon’da Derbi Öncesi Hakem Krizi! Gözler O İsimlerde",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mardin'in Midyat ilçesinde yolcu midibüsünün devrilmesi sonucu 21 kişi yaralandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339958.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b9500de4",
-    "title": "Artvin'de İsmail Arı'ya destek eylemi: Gazeteciler susmayacak",
-    "source": "Evrensel",
-    "time": "23/03/2026 20:26",
-    "link": "https://www.evrensel.net/haber/5976434/artvinde-ismail-ariya-destek-eylemi-gazeteciler-susmayacak",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklanan BirGün gazetesi muhabiri İsmail Arı'nın serbest bırakılması talebiyle BirGün gazetesi Okur İnisiyatifi Hopa'da açıklama yaptı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339959.jpg",
     "keyword": null
   }
 ]
