@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3702278a",
+    "title": "Apartman girişinde dehşet: Baldızını öldüren erkek, intihar etti",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 23:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/apartman-girisinde-dehset-baldizini-olduren-erkek-intihar-etti-2489060",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun’da bir şahıs, baldızını tabancayla vurarak öldürdükten sonra intihar etti. Polis olayla ilgili inceleme başlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e248dd3f-45cd-43fa-bed1-89c9c6cdb937.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d3c0b260",
     "title": "Jürgen Klopp'tan Real Madrid iddialarına yanıt: 'Çıkan haberlerin hepsi...'",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Erokspor galibiyetiyle zirvedeki yerini sağlamlaştıran Erzurumspor, Süper Lig’e bir adım daha yaklaştı. Bu yükseliş Trabzonspor taraftarını da yakından ilgilendiriyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/d1e19a76-e8b2-46b4-aaf3-3a21f286d247.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d5e11478",
-    "title": "İsrail ordusu, Suriye’nin güneyinde ihlallerini sürdürüyor",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 22:25",
-    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusu-suriye-nin-guneyinde-ihlallerini-surduruyor/3876386",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Suriye’nin güneyindeki Kuneytra ilinde ihlallerine devam ettiği belirtildi.",
-    "image": null,
-    "keyword": null
   }
 ]
