@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3135b04e",
+    "title": "Çevre yolunda otomobilin çarptığı yaşlı adam hayatını kaybetti",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 12:02",
+    "link": "https://www.gazeteduvar.com.tr/cevre-yolunda-otomobilin-carptigi-yasli-adam-hayatini-kaybetti-haber-1765738",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir&#039;de yakınındaki üst geçit yerine çevre yolunda karşıdan karşıya geçmeye çalışan yaşlı adam, otomobil çarpması sonucu hayatını kaybetti.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-4hzt_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_29e10077",
     "title": "Kahramanmaraş'ta yaban keçileri görüntülendi",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Futbolcu Kaan Kundakçı cinayetiyle ilgili aralarında şarkıcı Aleyna Kalaycıoğlu ile annesinin de bulunduğu toplam 8 kişi adliyeye sevk edildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/futbolcu-kaan-kundakci-cinayetinde-8-kisi-adliyeye-sevk-edildi-b9zt_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bbe74814",
-    "title": "Elon Musk’ın yeni hedefi devasa çip fabrikası",
-    "source": "Ekonomim",
-    "time": "23/03/2026 11:40",
-    "link": "https://www.ekonomim.com/dunya/elon-muskin-yeni-hedefi-devasa-cip-fabrikasi-haberi-883376",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elon Musk, robotik, yapay zeka ve uzay veri merkezleri için kendi çiplerini üretmeyi hedefleyen Terafab projesinin Austin’de inşa edileceğini ve Tesla ile SpaceX tarafından ortaklaşa işletileceğini açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/01/06/elon-musktan-venezuelaya-bir-ay-bedava-internet-nfdn_cover.jpg",
     "keyword": null
   }
 ]
