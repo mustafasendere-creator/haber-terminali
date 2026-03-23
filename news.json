@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_29e10077",
+    "title": "Kahramanmaraş'ta yaban keçileri görüntülendi",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 16:04",
+    "link": "https://www.gazeteduvar.com.tr/kahramanmarasta-yaban-kecileri-goruntulendi-haber-1765739",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş&#039;ta dağlık bölgelerde yaşayan yaban keçileri görüntülendi.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-prca_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_87e643aa",
     "title": "Erzurum'da feci kaza; 2 ölü, 5 yaralı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 263'e yükseldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339922.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_03053d1b",
-    "title": "Altın neden düşüyor, nereye kadar gerileyebilir? Uzmanlar açıkladı",
-    "source": "Evrensel",
-    "time": "23/03/2026 15:49",
-    "link": "https://www.evrensel.net/haber/5976400/altin-neden-dusuyor-nereye-kadar-gerileyebilir-uzmanlar-acikladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Altın fiyatları küresel piyasalarda sert düşerken, gram ve çeyrek altın TL bazında da geriledi. Ons altındaki düşüş ve tahvil getirilerindeki yükseliş, altın üzerinde baskı oluşturuyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/336563.jpg",
     "keyword": null
   }
 ]
