@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c3c6946b",
+    "title": "AirDrop artık Samsung cihazlarda kullanılabiliyor",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 23:45",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/airdrop-artik-samsung-cihazlarda-kullanilabiliyor-2489073",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni yapılan güncelleme ile Samsung Galaxy S26 telefonlara AirDrop ile iPhone'lardan dosya aktarımı sunuldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c4a9a29a-8d78-43c3-ae78-4aa059f88ddc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_20461ea5",
     "title": "Spor yaparken fenalaştı: Hemşire, hayatını kaybetti",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Beykoz’da bulunan Mahmud Efendi Camisi’nde yangın çıktı. Alevler itfaiye ekiplerinin müdahalesiyle kısa sürede söndürüldü",
     "image": "https://im.haberturk.com/l/2026/03/22/ver1774145351/3871416/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_16e7727c",
-    "title": "Temizlik görevlisi okulda ölü bulundu",
-    "source": "Habertürk",
-    "time": "23/03/2026 22:26",
-    "link": "https://www.haberturk.com/nevsehir-de-temizlik-gorevlisi-okulda-olu-bulundu-3871417",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nevşehir'in Avanos ilçesinde çalıştığı okula giden temizlik görevlisi kazan dairesinde ölü bulundu",
-    "image": "https://im.haberturk.com/l/2026/03/22/ver1774150676/3871417/jpg/1280x1280",
     "keyword": null
   }
 ]
