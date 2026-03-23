@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17a04eec",
+    "title": "JONY'den İstanbul'da ilk konser",
+    "source": "OdaTV",
+    "time": "23/03/2026 15:30",
+    "link": "https://www.odatv.com/kultur-sanat/jonyden-istanbulda-ilk-konser-120140443",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rus sanatçı JONY, Türkiye’deki ilk solo konserini Bostancı Gösteri Merkezi’nde gerçekleştirdi. üç bin 200 kişilik salon tamamen dolarken, Rus sanatçılar arasında bilet satışlarında rekor oldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/jonyden-istanbulda-ilk-konser-q0ls.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2b100fb0",
     "title": "MHP Genel Başkanı Bahçeli, Yazıcıoğlu'nun kabrini ziyaret etti",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’un Çaykara ilçesinde düğünde yaşanan ve 1 kişinin hayatını kaybettiği olayla ilgili davada, olay yerinde keşif gerçekleştirildi.",
     "image": "https://resim.haber61.net/news/608954.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a95fbd70",
-    "title": "Anadolu Efes, Basketbol Avrupa Ligi'nde yarın Barcelona ile deplasmanda karşılaşacak",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 15:08",
-    "link": "https://www.aa.com.tr/tr/guncel/anadolu-efes-basketbol-avrupa-liginde-yarin-barcelona-ile-deplasmanda-karsilasacak/3875722",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anadolu Efes, Basketbol Avrupa Ligi'nin 33. haftasında yarın deplasmanda İspanya'nın Barcelona takımıyla mücadele edecek.",
-    "image": null,
     "keyword": null
   }
 ]
