@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8e68ebec",
+    "title": "Trump, 'İran savaşında yol ayrımında'",
+    "source": "BBC Türkçe",
+    "time": "23/03/2026 16:24",
+    "link": "https://www.bbc.com/turkce/articles/cn9qdwznwwro",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trump’ın çelişkili mesajları ve sahadaki gelişmeler, ABD’nin İran savaşında kritik bir yol ayrımına geldiğini gösteriyor",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_27c93640",
     "title": "İBB davasında üçüncü hafta: Ağaç A.Ş. genel müdürü savunma yapıyor",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trump&#039;ın ateşkes açıklamasının ardından Avrupa tahvil faizleri geriledi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/11/19/italya-hazinesinden-tahvil-geri-alimi-cpeh_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bf7e06fc",
-    "title": "Trump açıklaması sonrası Bitcoin’de sert toparlanma",
-    "source": "Ekonomim",
-    "time": "23/03/2026 16:05",
-    "link": "https://www.ekonomim.com/finans/kripto-para/trump-aciklamasi-sonrasi-bitcoinde-sert-toparlanma-haberi-883445",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bitcoin, Trump&#039;ın İran açıklamasının ardından 70 bin doların üzerine çıktı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/trump-aciklamasi-sonrasi-bitcoinde-sert-toparlanma-j5va_cover.gif",
     "keyword": null
   }
 ]
