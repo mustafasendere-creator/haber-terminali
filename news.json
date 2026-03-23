@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ceef0002",
+    "title": "Karaman’da trafik kazası: 2 yaralı, kaza anı kamerada",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 14:09",
+    "link": "https://www.gazeteduvar.com.tr/karamanda-trafik-kazasi-2-yarali-kaza-ani-kamerada-haber-1765712",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karaman’da kontrolden çıkan otomobil park halindeki araca çarptı. Kazada 2 kişi yaralanırken, kaza anı güvenlik kamerasına yansıdı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/09/20260309aw658049-0-gmjh_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c1b53607",
     "title": "Minibüs refüje yan yattı: Gaziantep’te 4 kişi yaralandı!",
     "source": "Gazete Duvar",
@@ -946,17 +958,5 @@
     "summary": "26 Mart 2021... Cinayetten 14 yıl sonra 131. duruşmada karar verildi. Hrant Dink cinayeti davasında Eski Trabzon Emniyet Müdürü Reşat Altay beraat etti. Eski emniyet müdürleri Ramazan Akyürek ve Ali Fuat Yılmazer’e ağırlaştırılmış müebbet hapis verildi. Esk  x.com",
     "image": null,
     "keyword": "trabzon istihbarat"
-  },
-  {
-    "id": "GND_6f9ba80d",
-    "title": "Yurt dışı üretici fiyatları yüzde 35,55 arttı",
-    "source": "10Haber",
-    "time": "23/03/2026 13:15",
-    "link": "https://10haber.net/ekonomi/yurt-disi-uretici-fiyatlari-yuzde-3555-artti-689170/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye İstatistik Kurumu şubat ayına ilişkin YD-ÜFE verilerini açıkladı. Buna göre YD-ÜFE geçen ay bir önceki aya kıyasla yüzde 2,38, geçen yılın aynı ayına göre yüzde 35,55, geçen yılın aralık ayına göre yüzde 6,53 ve 12 aylık ortalamalara kıyasla yüzde 28,9 yükseldi. Sanayinin iki sektörünün yıllık değişimlerine bakıldığında, madencilik ve taş ocakçılığında yüzde 56,66, imalatta [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c1073e6c1126.80214573.jpg",
-    "keyword": null
   }
 ]
