@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d73a732",
+    "title": "Ezanla birlikte uluyan köpek dikkat çekti",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 11:38",
+    "link": "https://www.gazeteduvar.com.tr/ezanla-birlikte-uluyan-kopek-dikkat-cekti-haber-1765729",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş&#039;ta cami görevlisinin dışarıda mikrofonla ezan okuduğu sırada bir köpeğin ezanla birlikte uluması dikkat çekti.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-cvz0_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5cb86c11",
     "title": "DSÖ: Sudan’da hastaneye saldırıldı, 13’ü çocuk en az 64 kişi öldü",
     "source": "10Haber",
@@ -881,17 +893,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun, Lübnan'ın güneyini ikiye ayıran Litani Nehri üzerindeki bir köprüyü daha hedef alarak yerle bir ettiği belirtildi.",
-    "image": null
-  },
-  {
-    "id": "GND_e4b06322",
-    "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının sekizinci duruşması başladı",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 11:23",
-    "link": "https://www.aa.com.tr/tr/guncel/imamoglu-cikar-amacli-suc-orgutu-davasinin-sekizinci-durusmasi-basladi/3875487",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 107'si tutuklu, 5'i \"müşteki sanık\" olmak üzere 407 sanığın yargılandığı davanın sekizinci duruşması başladı.",
     "image": null
   }
 ]
