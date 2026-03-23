@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83d23e18",
+    "title": "İran’dan İsrail’in güneyine füze saldırısı: 160’tan fazla yaralı",
+    "source": "Euronews",
+    "time": "23/03/2026 23:25",
+    "link": "http://tr.euronews.com/2026/03/23/irandan-israilin-guneyine-fuze-saldirisi-160tan-fazla-yarali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Başbakanı Netanyahu, ilk yardım ekiplerinin bildirdiğine göre 84 kişinin yaralandığı Arad kentini ziyaret etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_1c9192e3",
     "title": "Erol Köse ölümünde sır perdesi aralanıyor: İşte yeni detaylar",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteorolojiye göre yağışlı hava bu hafta da yurt genelinde etkisini sürdürecek. Sağanaklar hafta ortasında ülke geneline yayılacak, ardından ise hafta sonu yeni yağışlar etkili olacak.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/meteoroloji-tarih-vererek-uyardi-yeni-yagisli-sistem-geliyor-ndff_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3c3f33cb",
-    "title": "36 ilaç geri ödeme kapsamına alındı",
-    "source": "Habertürk",
-    "time": "23/03/2026 22:06",
-    "link": "https://www.haberturk.com/36-ilac-geri-odeme-kapsamina-alindi-3871425",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sağlık Bakanı Kemal Memişoğlu, diyabet, hemofili, enfeksiyon hastalıkları, alerji aşıları ve kan ürünleri başta olmak üzere 36 ilacın geri ödeme kapsamına alındığını bildirdi",
-    "image": "https://im.haberturk.com/l/2026/03/22/ver1774160666/3871425/jpg/1280x1280",
     "keyword": null
   }
 ]
