@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_be787d35",
+    "title": "İsrail ordusu Lübnan'da köprüleri hedef alarak ülkenin güneyini izole etmeyi amaçlıyor",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 19:25",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusu-lubnanda-kopruleri-hedef-alarak-ulkenin-guneyini-izole-etmeyi-amacliyor/3876187",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın güneyindeki Litani Nehri üzerindeki köprüleri hedef alması, halihazırda yoğun saldırılarına maruz kalan ülkenin güneyini kuzeyinden izole etmeyi amaçlıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c3b7dc00",
     "title": "LGS kapsamında 14 Haziran'da yapılacak merkezi sınavın başvuruları alınmaya başladı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Orta Doğu'daki çatışmanın değerli metalleri desteklemesi bekleniyordu. Ancak petrol ve faiz endişeleri gümüşü yüzde 40 çökertti, altın da nasibini alıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_891b89a4",
-    "title": "Londra’da Yahudi ambulanslarına kundaklama şüphesi: Havadan görüntülendi",
-    "source": "Euronews",
-    "time": "23/03/2026 18:26",
-    "link": "http://tr.euronews.com/video/2026/03/23/londrada-yahudi-ambulanslarina-kundaklama-suphesi-havadan-goruntulendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Londra’da bir Yahudi kuruluşuna ait gönüllü ambulansların kundaklanmasının ardından olay yerine çok sayıda itfaiye ve sağlık ekibi sevk edildi.",
     "image": null,
     "keyword": null
   }
