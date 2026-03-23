@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_13f0019f",
+    "title": "Bayramda IKEA açık mı?",
+    "source": "Habertürk",
+    "time": "23/03/2026 15:52",
+    "link": "https://www.haberturk.com/2026-ikea-calisma-saatleri-bayramda-ikea-acik-mi-2026-ramazan-bayrami-tatilinde-ikea-magazalari-acik-olacak-mi-rmz06-3868324",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ramazan Bayramına geri sayım devam ederken, bayram tatilinde hangi mağazaların açık olup olmadığını araştırıyor. Resmi tatil olarak sayılan Ramazan Bayramı’nda IKEA mağazalarında alışveriş yapmak vatandaşlar, IKEA mağazalarının çalışma durumunu merak ediyor. İşte “Ramazan Bayramı’nda IKEA mağazası açık mı?” sorusunun cevabı haberimizde...",
+    "image": "https://im.haberturk.com/l/2026/03/09/ver1774002012/3868324/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f4b8627a",
     "title": "Bayram mesai ücreti nasıl hesaplanır?",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "@TrabzonEmniyet Müdürlüğümüz Terörle Mücadele Şube Müdürlüğü ve İstihbarat Şube Müdürlüklerimizce yapılan müşterek çalışmalarda;  x.com",
     "image": null,
     "keyword": "trabzon istihbarat"
-  },
-  {
-    "id": "GND_5419857a",
-    "title": "Moskova Borsası, Trump'ın İran açıklamalarıyla düştü",
-    "source": "Ekonomim",
-    "time": "23/03/2026 15:30",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/moskova-borsasi-trumpin-iran-aciklamalariyla-dustu-haberi-883436",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Moskova Borsası, Trump&#039;ın İran ile &quot;verimli görüşmeler yapıldığı&quot; açıklamasının ardından düşüşe geçti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/moskova-borsasi-trumpin-iran-aciklamalariyla-dustu-ezpi_cover.jpg",
-    "keyword": null
   }
 ]
