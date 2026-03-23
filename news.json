@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce5fdb19",
+    "title": "Komşular arasında bıçaklı ve sopalı kavga: Yaralılar var!",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 12:23",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/komsular-arasinda-bicakli-ve-sopali-kavga-yaralilar-var-2488894",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çorum'da husumetli olan iki komşu arasında çıkan bıçak ve sopalı kavgada 6 kişi yaralandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5278d152-53cd-4d97-b961-5463874f26ba.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8e78016f",
     "title": "Kulübü satın alacağı iddia edilmişti... İstanbulspor cephesinden Victor Osimhen açıklaması!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İranlı yönetmen ve yapımcı Mecid Mecidi, İsrail ve ABD'nin İran'a yönelik saldırılarına tepki gösterdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b9e6a1c8",
-    "title": "Savaş Trump’ın kontrolünden çıkıyor",
-    "source": "A Haber",
-    "time": "23/03/2026 12:01",
-    "link": "https://www.ahaber.com.tr/yazarlar/melih-altinok/2026/03/22/savas-trumpin-kontrolunden-cikiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin, İran savaşında bundan sonra nasıl hareket edeceğini Trump'ın açıklamaları üzerinden anlamaya çalışmak imkânsız.\nÖrneğin cuma günü sosyal medya hesabından paylaştığı mesajında, Orta Doğu'daki...Devamı için tıklayınız",
-    "image": "",
     "keyword": null
   }
 ]
