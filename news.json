@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_40f37f40",
+    "title": "Borç stoku 14,39 trilyon TL oldu",
+    "source": "Ekonomim",
+    "time": "23/03/2026 18:07",
+    "link": "https://www.ekonomim.com/ekonomi/borc-stoku-1439-trilyon-tl-oldu-haberi-883466",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Merkezi yönetim brüt borç stoku, şubat sonu itibarıyla 14 trilyon 395,8 milyar lira olarak belirlendi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/08/20/merkezi-yonetim-borc-stoku-temmuzda-1205-trilyon-tl-oldu-b8cz_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bd1878e0",
     "title": "Cumhurbaşkanı Erdoğan, komşularıyla bayramlaştı",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediyesi’nin hayata geçirdiği TRAMAR, Ramazan ayında vatandaşların yoğun ilgisiyle karşılaştı. Büyükşehir’in bünyesindeki TRAMAR’DAN 31 bini aşkın kişi alışveriş yaparken, kırmızı et satışları 66 tonu geçti.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1100652e",
-    "title": "İsrail'in güney Lübnan'daki kritik köprüyü vurduğu an kamerada",
-    "source": "Euronews",
-    "time": "23/03/2026 17:46",
-    "link": "http://tr.euronews.com/video/2026/03/23/israilin-guney-lubnandaki-kritik-kopruyu-vurdugu-an-kamerada",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail hava saldırısı, Lübnan'ın güneyindeki Kasmiye Köprüsü'nü vurdu; Sur kenti yakınındaki önemli ulaşım hattında hasar meydana geldi.",
-    "image": null,
-    "keyword": null
   }
 ]
