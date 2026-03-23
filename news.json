@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cb59204f",
+    "title": "Hakkari'de 82 yerleşim yerinin yolu ulaşıma kapandı",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 12:03",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/hakkari-de-82-yerlesim-yerinin-yolu-ulasima-kapandi-2488889",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari'de dün etkili olan yoğun kar yağışı nedeniyle 82 yerleşim yerinin yolu ulaşıma kapandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/732fd944-e940-491d-a5e0-ceb1db9a4581.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f952840e",
     "title": "İran'dan yeni tehdit: Basra Körfezi'ne mayın döşenecek",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da lise öğrencileri, “Kuzeyden Güneye Yeşil Yol Projesi” kapsamında 20 bin tohum topu hazırlayarak yangınlardan zarar gören alanlar için doğaya katkı sundu.",
     "image": "https://resim.haber61.net/news/608921.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6d72d885",
-    "title": "İneği için Sikorsky helikopter talep eden de eşiyle barışmak isteyen de 112'yi aramış",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 11:41",
-    "link": "https://www.aa.com.tr/tr/guncel/inegi-icin-sikorsky-helikopter-talep-eden-de-esiyle-barismak-isteyen-de-112yi-aramis/3875490",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sivas’ta geçen yıl 112’ye gelen 616 bin 606 çağrının yüzde 29’u vakaya dönüşmezken, uçurumdan düşen ineği için helikopter isteği ve uzaklaştırma kararı olan eşiyle barışma talebi de kayıtlara geçti.",
-    "image": null,
     "keyword": null
   }
 ]
