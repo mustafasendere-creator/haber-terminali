@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d76229b4",
+    "title": "Trump'ın açıklamasının ardından İsrail, İran'a saldırdı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 16:05",
+    "link": "https://www.trthaber.com/haber/dunya/trumpin-aciklamasinin-ardindan-israil-irana-saldirdi-938797.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trumpın, İranın enerji altyapısına saldırı planını 5 günlüğüne ertelediğini açıklamasının ardından, İsrail ordusu Tahrana yeni bir saldırı başlattığını duyurdu",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0dd0cbac",
     "title": "İran basınına konuşan yetkili, ABD ile hiçbir müzakere olmadığını söyledi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Artvin’in Şavşat ilçesinde bir anne boz ayı ve sırtındaki yavrusu dron kamerasına yansıdı. Doğada nadir görülen görüntüler kısa sürede ilgi gördü.",
     "image": "https://resim.haber61.net/news/608916.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_25cade3e",
-    "title": "Bayburt’a 4 büyük yatırım! 240 milyon TL destek",
-    "source": "Haber61",
-    "time": "23/03/2026 15:50",
-    "link": "https://www.haber61.net/bolgesel/bayburta-4-buyuk-yatirim-240-milyon-tl-destek-h627463.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "2026 Yerel Kalkınma Hamlesi kapsamında Bayburt için dört öncelikli yatırım alanı açıklandı. Başvurular 15 Mayıs 2026’ya kadar sürecek.",
-    "image": "https://resim.haber61.net/news/608917.jpg",
     "keyword": null
   }
 ]
