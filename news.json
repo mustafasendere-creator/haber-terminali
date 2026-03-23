@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e0b65470",
+    "title": "Samsun Bafra’da otomobil minibüse çarptı: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 15:51",
+    "link": "https://www.gazeteduvar.com.tr/samsun-bafrada-otomobil-minibuse-carpti-1-yarali-haber-1765694",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun’un Bafra ilçesinde otomobilin minibüse çarpması sonucu meydana gelen kazada minibüs sürücüsü yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/05/20260305aw655273-0-result-result-tdxm_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_66227a34",
     "title": "15 yaşındaki çocuk motosikletle takla attı, hayatını kaybetti!",
     "source": "Gazete Duvar",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı, 32 ilde FETÖye yönelik jandarma tarafından düzenlenen operasyonlarda 64 şüphelinin yakalandığını, 41inin tutuklandığını açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d76229b4",
-    "title": "Trump'ın açıklamasının ardından İsrail, İran'a saldırdı",
-    "source": "TRT Haber",
-    "time": "23/03/2026 15:29",
-    "link": "https://www.trthaber.com/haber/dunya/trumpin-aciklamasinin-ardindan-israil-irana-saldirdi-938797.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Trumpın, İranın enerji altyapısına saldırı planını 5 günlüğüne ertelediğini açıklamasının ardından, İsrail ordusu Tahrana yeni bir saldırı başlattığını duyurdu",
     "image": null,
     "keyword": null
   }
