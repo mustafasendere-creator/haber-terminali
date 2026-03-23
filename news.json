@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64b647bd",
+    "title": "Yapımcı Erol Köse'nin hayatını kaybetmesine ilişkin soruşturma",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 18:25",
+    "link": "https://www.aa.com.tr/tr/guncel/yapimci-erol-kosenin-hayatini-kaybetmesine-iliskin-sorusturma/3876143",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yapımcı Erol Köse'nin yüksekten düşerek hayatını kaybetmesine ilişkin resen soruşturma başlatıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5d1ef596",
     "title": "Hürmüz kördüğümü: Kıyametin eşiğinde miyiz?",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "340 kilo bozuk et bulundu: Bir gözaltı 23.03.2026 DikenKırşehir'de bir kamyonette 340 kilo bozulmuş kırmızı ve beyaz et bulundu, bir kişi gözaltına alındı.\nThe post 340 kilo bozuk et bulundu: Bir gözaltı appeared first on #site_linkat 23.03.2026 .",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_2643786a",
-    "title": "TRABZON’DA BAYRAM ÇİLESİ! Mezarlıkta Otopark ve Trafik İsyanı",
-    "source": "Karadeniz Gazetesi",
-    "time": "23/03/2026 17:46",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-bayram-cilesi-mezarlikta-otopark-ve-trafik-isyani/606360",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da bayram mezarlık ziyaretleri çileye dönüştü. Otopark sorunu, trafik yoğunluğu ve altyapı eksiklikleri vatandaşları isyan ettirdi.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
