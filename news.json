@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_89542b69",
+    "title": "Altın fiyatları düştü, yurttaşlar kuyumculara akın etti: Yoğunluğu görüntüleyen gazeteci darbedildi",
+    "source": "Cumhuriyet",
+    "time": "23/03/2026 16:20",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/altin-fiyatlari-dustu-yurttaslar-kuyumculara-akin-etti-yogunlugu-goruntuleyen-gazeteci-darbedildi-2488975",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altın fiyatlarındaki düşüşün ardından bir kuyumcu dükkanının önündeki yoğunluğu görüntüleyen 21 yaşındaki gazeteci Yağız Ekmen, iş yeri sahibi K.Y. tarafından darbedildi. Olayın ardından kaçan K.Y., polis tarafından yakalanıp, gözaltına alındı. Bolu Gazeteci ve Yazarlar Derneği’nden yapılan açıklamada ise gazeteci Yağız Ekmen’e yönelik fiziksel saldırı kınandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e1862ccc-fe3a-4ab8-addf-21dce1c5e661.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2935cec7",
     "title": "Boşanma aşamasındaki eşinin dükkanını soyan şüpheliden sürpriz yaptım savunması",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Altın fiyatları küresel piyasalarda sert düşerken, gram ve çeyrek altın TL bazında da geriledi. Ons altındaki düşüş ve tahvil getirilerindeki yükseliş, altın üzerinde baskı oluşturuyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/336563.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_26a66ed6",
-    "title": "Küba’ya karşı abluka sürüyor, ablukaya karşı dayanışma büyüyor",
-    "source": "Evrensel",
-    "time": "23/03/2026 16:04",
-    "link": "https://www.evrensel.net/haber/5976401/kuba-ya-karsi-abluka-suruyor-ablukaya-karsi-dayanisma-buyuyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD’nin Küba’ya uyguladığı yakıt ambargosu elektrik kesintilerini artırırken yaşamı zorlaştırdı. 38 ülkeden aktivistlerin oluşturduğu yardım konvoyu gıda ve tıbbi destekle Havana’ya ulaştı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339926.jpg",
     "keyword": null
   }
 ]
