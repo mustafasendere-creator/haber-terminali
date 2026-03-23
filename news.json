@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_995407e5",
+    "title": "İzmir'de devredilmek istenen Meslek Fabrikası önünde nöbet başladı",
+    "source": "Evrensel",
+    "time": "23/03/2026 15:51",
+    "link": "https://www.evrensel.net/haber/5976392/izmirde-devredilmek-istenen-meslek-fabrikasi-onunde-nobet-basladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'de Meslek Fabrikası'nın devrine karşı nöbet başladı. Tahliye kararının hukuksuz olduğu belirtilen açıklamada, binanın kamusal işlevinin korunması için mücadele vurgusu yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339910.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_090d3177",
     "title": "Trump’tan İran açıklaması: Enerji tesislerine saldırıyı 5 gün erteledik",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Fatih'te dün meydana gelen patlamanın ardından çöken iki bina ve çevresinde hasar tespit çalışması başlatıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/342e20e1-08a2-48c9-983e-d4efbe345a11.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad50c422",
-    "title": "Cemil Tugay'dan, AKP'nin İzmir milletvekillerine sert eleştiri: 'Ne yapıyorsunuz siz Allah aşkına?'",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 15:29",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/cemil-tugay-dan-akp-nin-izmir-milletvekillerine-sert-elestiri-ne-yapiyorsunuz-siz-allah-askina-2488949",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir Büyükşehir Belediyesi yönetiminin, Vakıflar Genel Müdürlüğü’nün tahliye talebine karşı Meslek Fabrikası önündeki nöbeti sürerken Başkan Cemil Tugay, sürece tepki göstererek, AKP'nin İzmir milletvekillerine çağrıda bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b552d70d-764d-42b2-ba1f-1168013f6234.jpg",
     "keyword": null
   }
 ]
