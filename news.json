@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ede29592",
+    "title": "Hatalı sollama faciaya yol açtı: 4 araç birbirine girdi!",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 13:02",
+    "link": "https://www.gazeteduvar.com.tr/hatali-sollama-faciaya-yol-acti-4-arac-birbirine-girdi-haber-1765718",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sarıyer’de hatalı sollama sonucu meydana gelen zincirleme kazada 1 kişi hayatını kaybetti, 4 kişi yaralandı. Kazada iki araç kullanılamaz hale geldi.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/09/20260309aw658402-0-48tc_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fdab4558",
     "title": "Bilecik’te iki otomobil çarpıştı: 1 yaralı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Batman'ın Gercüş ilçesinde etkili olan sağanak sırasında bir evin bir bölümü çöktü.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339864.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a4f71900",
-    "title": "Mardin'de köprü çöktü: \"En uzun adam\" yolda kaldı",
-    "source": "Evrensel",
-    "time": "23/03/2026 12:23",
-    "link": "https://www.evrensel.net/haber/5976350/mardinde-kopru-coktu-en-uzun-adam-yolda-kaldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mardin’in Derik ilçesinde sağanak sırasında köprünün bir bölümü yıkılırken, ‘dünyanın en uzun boylu adamı’ Sultan Kösen de aracıyla yolda kaldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339868.jpg",
     "keyword": null
   }
 ]
