@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_462867d1",
+    "title": "Kamyon tıra arkadan çarptı: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 15:28",
+    "link": "https://www.gazeteduvar.com.tr/kamyon-tira-arkadan-carpti-1-yarali-haber-1765701",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konya’nın Kulu ilçesinde kamyonun tırın dorsesine arkadan çarpması sonucu meydana gelen kazada sürücü yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/06/245-konyada-kamyon-tira-arkadan-car-7w7y_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_47557113",
     "title": "17 yaşındaki ehliyetsiz motosikletliye 202 bin 500 TL ceza!",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Petrol, Trump'ın İran duyurusuyla sert düştü 23.03.2026 DikenBrent petrol, ABD Başkanı Donald Trump'ın İran'ın enerji altyapısına saldırının beş gün ertelendiğini duyurmasının ardından 96,96 dolara kadar geriledi.\nThe post Petrol, Trump'ın İran duyurusuyla sert düştü appeared first on #site_linkat 23.03.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b6573050",
-    "title": "Mersin'de Mezitli Belediye Başkanı Tuncer, restoranda çıkan kavgada darbedildi",
-    "source": "Evrensel",
-    "time": "23/03/2026 14:48",
-    "link": "https://www.evrensel.net/haber/5976384/mersinde-mezitli-belediye-baskani-tuncer-restoranda-cikan-kavgada-darbedildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mezitli Belediye Başkanı Ahmet Serkan Tuncer’in restoranda çıkan kavgada darbedildiği anlar güvenlik kamerasına yansıdı. Olayla ilgili soruşturma başlatıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339904.jpg",
     "keyword": null
   }
 ]
