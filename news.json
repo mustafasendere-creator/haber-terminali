@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b9500de4",
+    "title": "Artvin'de İsmail Arı'ya destek eylemi: Gazeteciler susmayacak",
+    "source": "Evrensel",
+    "time": "23/03/2026 20:26",
+    "link": "https://www.evrensel.net/haber/5976434/artvinde-ismail-ariya-destek-eylemi-gazeteciler-susmayacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tutuklanan BirGün gazetesi muhabiri İsmail Arı'nın serbest bırakılması talebiyle BirGün gazetesi Okur İnisiyatifi Hopa'da açıklama yaptı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339959.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5d6af4b5",
     "title": "İzmir Büyükşehir Belediyesi kamulaştırdı, restore etti; Vakıflar el koydu: Tarihi Namazgâh Hamamı’na da göz diktiler",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Elon Musk, SpaceX ile Tesla'nın ortak işleteceği çip üretim tesisi 'Terafab' için planları cumartesi günü açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_22ce49b0",
-    "title": "Renanya-Palatina'da seçim: Aşırı sağcı AfD Almanya'nın batısında rekor oy aldı",
-    "source": "Euronews",
-    "time": "23/03/2026 19:45",
-    "link": "http://tr.euronews.com/2026/03/23/renanya-palatinada-secim-asiri-sagci-afd-almanyanin-batisinda-rekor-oy-aldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Renanya-Palatina’daki eyalet seçimlerinde Hristiyan Demokratlar, tahminlere göre oyların biraz üzeri yüzde 30’unu aldı. Sosyal Demokratları belirgin biçimde geride bırakan parti, böylece büyük olasılıkla bir sonraki hükümet başkanını çıkaracak.",
     "image": null,
     "keyword": null
   }
