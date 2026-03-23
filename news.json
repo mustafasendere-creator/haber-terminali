@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0d0946ab",
+    "title": "İran'dan ABD üslerindeki enerji santrallerini vurma sözü",
+    "source": "Euronews",
+    "time": "23/03/2026 19:45",
+    "link": "http://tr.euronews.com/2026/03/23/irandan-abd-uslerindeki-enerji-santrallerini-vurma-sozu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pazartesi günü erken saatlerde İran devlet televizyonunda, Devrim Muhafızları'nın bir açıklaması okundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_5cd2809e",
     "title": "Trabzon'da bugün hava nasıl olacak?",
     "source": "Karadeniz Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran savaşının ortaya çıkardığı tablo, veri akışının da tıpkı petrol gibi belirli dar boğazlara ve kırılgan hatlara bağımlı olduğunu gösteriyor. Karasal veri yarışında ise kilit ülke Türkiye olabilir.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_636b527c",
-    "title": "Trabzon'da Dev viyadükler yükseliyor",
-    "source": "Karadeniz Gazetesi",
-    "time": "23/03/2026 18:46",
-    "link": "https://www.karadenizgazete.com.tr/video-galeri/trabzonda-dev-viyadukler-yukseliyor/606326",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon'da şehir içi ve transit trafiği rahatlatmak amacıyla hayata geçirilen Güney Çevre Yolu Projesi'nde çalışmalar sürüyor.",
     "image": null,
     "keyword": null
   }
