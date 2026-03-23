@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_207336da",
+    "title": "Sağanaktan köyün bir bölümü çöktü!",
+    "source": "Habertürk",
+    "time": "23/03/2026 20:06",
+    "link": "https://www.haberturk.com/sirnak-ta-etkili-saganak-nedeniyle-koyun-bir-bolumu-coktu-evler-bosaltildi-3871477",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şırnak’ın Bolağaç köyünde günlerdir süren şiddetli yağış nedeniyle köyün bir bölümü çöktü. Heyelan riskinin sürdüğü bölgede 5 ev ve 4 ahır zarar görürken, bazı yollar da kullanılamaz hale geldi. Evlerini boşaltan vatandaşlar anaokuluna sığınırken, yetkililerden yardım talep etti",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774176874/3871477/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e9ca4fcb",
     "title": "Kolombiya'da askeri uçak düştü: 90 kişi hayatını kaybetti",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sarıyer&#039;de yapımcı Erol Köse (61), bulunduğu binanın 16’ncı katından düşerek hayatını kaybetti. &#039;Erol Köse intihar mı etti, yoksa düştü mü?&#039; tartışmaları sürerken evinden bir not çıktığı öğrenildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/erol-kosenin-olumundeki-sir-aydinlandi-iste-biraktigi-notta-yazanlar-5qlu_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4d2f96b2",
-    "title": "Ramazan Bayramı tatilinin trafik bilançosu açıklandı",
-    "source": "Ekonomim",
-    "time": "23/03/2026 19:26",
-    "link": "https://www.ekonomim.com/gundem/ramazan-bayrami-tatilinin-trafik-bilancosu-aciklandi-haberi-883472",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, Ramazan Bayramı tatili süresince meydana gelen trafik kazalarına ilişkin 31 kişinin hayatını kaybettiğini, 4 bin 861 kişinin yaralandığını açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/ramazan-bayrami-tatilinin-trafik-bilancosu-aciklandi-ryzr_cover.jpg",
     "keyword": null
   }
 ]
