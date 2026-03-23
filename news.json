@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aff962a5",
+    "title": "Kahta'da otomobil şarampole devrildi: 1 ölü, 4 yaralı",
+    "source": "Habertürk",
+    "time": "23/03/2026 16:45",
+    "link": "https://www.haberturk.com/kahta-da-otomobil-sarampole-devrildi-1-olu-4-yarali-3871562",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman Kahta'da sürücüsünün kontrolünden çıkan otomobilin şarampole devrilmesi sonucu 1 kişi öldü, 4 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774219519/3871562/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_accc4ba9",
     "title": "El freni çekilmeyen araç kaza yaptı! 1 ölü, 3 yaralı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kuşadası Belediye Başkanı Ömer Günel’in tutuklanmasının ardından belediye meclisi yeni başkanvekilini belirledi. Mecliste çoğunluğu elinde bulunduran CHP’nin adayı Tahsin Demirtaş, yapılan oylama sonucunda Kuşadası Belediye Başkanvekili seçildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/omer-gunelin-ardindan-kusadasi-belediyesinin-yeni-baskanvekili-tahsin-demirtas-oldu-wj1s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2022c005",
-    "title": "İsmail Arı için dokuz ilde eylem çağrısı",
-    "source": "OdaTV",
-    "time": "23/03/2026 16:25",
-    "link": "https://www.odatv.com/gundem/tutuklanan-gazeteci-ismail-ari-icin-dokuz-ilde-eylem-cagrisi-120140454",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazeteci İsmail Arı’nın tutuklanmasına tepki gösteren BirGün Okur İnsiyatifi, Artvin, Denizli, Bursa, Mersin, Uşak, İzmir, Antalya, Eskişehir ve Malatya&#039;da eylem çağrısı yaptı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/21/gazeteci-ismail-ari-gozaltina-alindi-wjss.jpg",
     "keyword": null
   }
 ]
