@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_116ea37c",
+    "title": "Görüntü Katar’daki ABD üssüne yapılan saldırıyı mı gösteriyor?",
+    "source": "Teyit.org",
+    "time": "23/03/2026 11:44",
+    "link": "https://teyit.org/analiz/goruntu-katardaki-abd-ussune-yapilan-saldiriyi-mi-gosteriyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medyada paylaşılan görüntülerde İran’nın Katar’daki ABD üssüne saldırısının gösterildiği iddia edildi.",
+    "image": "https://md.teyit.org/2026/03/qatar-abd-ussu-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_336787e4",
     "title": "Saraybosna'da Netanyahu protestosu: 'Soykırımcı aranıyor'",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun, Lübnan'ın güneyini ikiye ayıran Litani Nehri üzerindeki bir köprüyü daha hedef alarak yerle bir ettiği belirtildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_cc238cc4",
-    "title": "Kar martta geri döndü: 3 ilde 103 yol kapalı",
-    "source": "TRT Haber",
-    "time": "23/03/2026 11:39",
-    "link": "https://www.trthaber.com/haber/turkiye/kar-martta-geri-dondu-3-ilde-103-yol-kapali-938768.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Van, Hakkari ve Bitliste kar ve tipi nedeniyle 103 yerleşim yerine ulaşım sağlanamıyor.",
     "image": null,
     "keyword": null
   }
