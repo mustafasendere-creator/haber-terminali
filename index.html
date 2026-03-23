@@ -96,8 +96,7 @@
         // ŞİFRELEME VE GÜVENLİK
 async function checkPass() {
     const inputField = document.getElementById('pass-input');
-    // .trim() ile yanlışlıkla basılan boşlukları temizliyoruz
-    const input = inputField.value.trim(); 
+    const input = inputField.value.trim(); // Boşlukları temizle
     const overlay = document.getElementById('login-overlay');
     const error = document.getElementById('error-msg');
 
@@ -107,19 +106,24 @@ async function checkPass() {
     const hashArray = Array.from(new Uint8Array(hashBuffer));
     const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 
-    // Şifre:
+    // TrabzonHaber6161 şifresinin kriptolu karşılığı
     const target = "73e87877299a92440b82f8d388656784869680327f12e16d414a3875697669d0";
 
+    // KONTROL PANELİ (Hata varsa burada yakalayacağız)
+    console.log("Yazılan Şifre:", input);
+    console.log("Üretilen Kod:", hashHex);
+
     if (hashHex === target) {
+        console.log("Giriş Başarılı!");
         overlay.style.display = 'none';
         document.getElementById('main-content').style.display = 'block';
         sessionStorage.setItem('auth', 'true');
-        loadNews();
+        // loadNews() fonksiyonu hata verirse giriş engellenmesin diye try-catch ekledik
+        try { loadNews(); } catch(e) { console.error("Haberler yüklenemedi:", e); }
     } else {
+        console.warn("Hatalı Şifre Denemesi!");
         error.style.display = 'block';
         inputField.value = "";
-        // Hangi kodu ürettiğini görmek için (Sadece sen gör diye)
-        console.log("Üretilen Kod:", hashHex); 
     }
 }
 
