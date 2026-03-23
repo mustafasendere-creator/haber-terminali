@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eefbcbcd",
+    "title": "İran: ABD ve İsrail Natanz nükleer tesisini vurdu",
+    "source": "DW Türkçe",
+    "time": "23/03/2026 12:02",
+    "link": "https://www.dw.com/tr/iran-abd-ve-israil-natanz-nükleer-tesisini-vurdu/a-76469007",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran devlet medyası, ABD ve İsrail'in ülkenin en bilinen nükleer tesisi Natanz'a saldırdığını açıkladı. İran Atom Enerjisi Kurumu, tesisten \"herhangi bir radyoaktif madde sızıntısı\" olmadığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e16ea97e",
     "title": "Öcalan'dan Nevruz mesajı: Bugün artık yeni bir sayfa açılmıştır",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "İstanbul Hasdal ile İstanbul Havalimanı arasında kurulan 5G destekli akıllı ulaşım koridorunda test aşamasına geçiliyor. 40 kilometrelik hatta kurulan sistem, trafik güvenliği ve ulaşım verimliliğini...Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/06046c/0/0/0/0/1714/932?u=https://iahbr.tmgrup.com.tr/2026/03/22/istanbulda-5gli-akilli-yol-test-sureci-basliyor-1774170593956.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_a3065da3",
-    "title": "Trabzon'da uluslararası öğrencilerin katılımıyla futbol turnuvası düzenlenecek",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 11:41",
-    "link": "https://www.aa.com.tr/tr/guncel/trabzonda-uluslararasi-ogrencilerin-katilimiyla-futbol-turnuvasi-duzenlenecek/3875511",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Uluslararası Öğrenci Derneği ve Türkiye Gençlik Vakfı (TÜGVA) işbirliğiyle 2. Uluslararası Futbol Turnuvası yapılacak.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
