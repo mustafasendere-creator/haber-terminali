@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c28a6c3",
+    "title": "İsrail'in Gazze Şeridi'ne saldırılarında can kaybı 72 bin 263'e yükseldi",
+    "source": "Evrensel",
+    "time": "23/03/2026 16:24",
+    "link": "https://www.evrensel.net/haber/5976399/israilin-gazze-seridine-saldirilarinda-can-kaybi-72-bin-263e-yukseldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 263'e yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339922.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_716f51b2",
     "title": "Fatih'te katledilen Semanur Algül toprağa verildi: \"Kadınlar hapsetmeye çalıştığınız evlerde öldürülüyor\"",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’da Marcquise Reed, Beşiktaş maçını 17 sayı ve 10 asistle tamamladı. ABD’li oyuncunun double-double performansı mağlubiyeti önleyemedi.",
     "image": "https://resim.haber61.net/news/608902.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_e925c81e",
-    "title": "KTÜ’de Nevruz coşkusu: Kardeşlik ateşi yakıldı",
-    "source": "Haber61",
-    "time": "23/03/2026 16:14",
-    "link": "https://www.haber61.net/trabzon/ktude-nevruz-coskusu-kardeslik-atesi-yakildi-h627488.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da düzenlenen Nevruz etkinliğinde farklı ülkelerden öğrenciler kültürlerini tanıttı, ateş üzerinden atlayarak baharın gelişini kutladı.",
-    "image": "https://resim.haber61.net/news/608961.jpg",
     "keyword": null
   }
 ]
