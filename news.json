@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5a1f95dc",
+    "title": "Bayram tatili sonrası yollarda dönüş yoğunluğu!",
+    "source": "Habertürk",
+    "time": "23/03/2026 17:06",
+    "link": "https://www.haberturk.com/kilit-kavsakta-donus-yogunlugu-3871503",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ramazan Bayramı tatilinin sona ermesiyle birlikte milyonlarca kişi dönüş yoluna çıktı. Türkiye genelinde kritik bağlantı noktalarında trafik yoğunluğu oluştu",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774216714/3871503/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3c71c069",
     "title": "Tülay Hatimoğulları: Ankara onurlu barışa hazır mısın?",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bilecik&#039;in Söğüt ilçesinde kaygan yol nedeniyle meydana gelen trafik kazasında 2 kişi yaralandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-d3ci_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_59c0bb76",
-    "title": "Seyir halindeki araç bir anda alev aldı",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 16:44",
-    "link": "https://www.gazeteduvar.com.tr/seyir-halindeki-arac-bir-anda-alev-aldi-haber-1765734",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bilecik’in Bozüyük ilçesinde seyir halindeki bir araç bir anda alev aldı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-gjxv_cover.jpg",
     "keyword": null
   }
 ]
