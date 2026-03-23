@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_254b010d",
+    "title": "Balıkesir'de ATV kazası: 2 yaralı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 11:38",
+    "link": "https://www.gazeteduvar.com.tr/balikesirde-atv-kazasi-2-yarali-haber-1765728",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir’in Edremit ilçesine bağlı Altınoluk Mahallesi’nde meydana gelen ATV kazasında 2 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-hehm_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1d73a732",
     "title": "Ezanla birlikte uluyan köpek dikkat çekti",
     "source": "Gazete Duvar",
@@ -883,16 +895,5 @@
     "prefix": "🌊",
     "summary": "Selçuk Bayraktar ve eşi Sümeyye Erdoğan Bayraktar, Sürmene Belediye Başkanı Hüseyin Azizoğlu ile birlikte Sürmene’de Bilim Merkezi projesini yerinde inceledi.",
     "image": "https://resim.haber61.net/news/608915.jpg"
-  },
-  {
-    "id": "GND_8492c199",
-    "title": "İsrail ordusu Lübnan'ın güneyini ikiye ayıran Litani Nehri'ndeki bir köprüyü daha vurdu",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 11:23",
-    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusu-lubnanin-guneyini-ikiye-ayiran-litani-nehrindeki-bir-kopruyu-daha-vurdu/3875480",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun, Lübnan'ın güneyini ikiye ayıran Litani Nehri üzerindeki bir köprüyü daha hedef alarak yerle bir ettiği belirtildi.",
-    "image": null
   }
 ]
