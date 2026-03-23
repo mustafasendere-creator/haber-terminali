@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf2917fd",
+    "title": "Pabuç pahalı!..",
+    "source": "A Haber",
+    "time": "23/03/2026 12:21",
+    "link": "https://www.ahaber.com.tr/yazarlar/ekrem-kiziltas/2026/03/22/pabuc-pahali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çayları dağıtan İhsan, Melih Bey'e:\n\n- Başlangıçta herhalde en çok bir hafta 10 günde İran'ın işini bitireceklerini hesaplayan ABD ve İsrail sert kayaya çarptılar. Sürekli bitirdik bitiriyoruz...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_6cad4782",
     "title": "Bakan Ersoy duyurdu: Sirkeci ve Haydarpaşa geri dönüyor",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TEM Otoyolu&#039;nun Bolu geçişinde bayram tatili dönüşü trafiğinde 5 aracın karıştığı zincirleme trafik kazasında yaralanan olmazken, kısa süreli trafik yoğunluğu oluştu.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-oq8z_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_037aaa04",
-    "title": "Emet'te otomobil şarampole yuvarlandı: 4 yaralı",
-    "source": "Gazete Duvar",
-    "time": "23/03/2026 11:42",
-    "link": "https://www.gazeteduvar.com.tr/emette-otomobil-sarampole-yuvarlandi-4-yarali-haber-1765731",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kütahya&#039;nın Emet ilçesinde otomobilin şarampole yuvarlanması sonucu meydana gelen trafik kazasında 4 kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-0t3j_cover.jpg",
     "keyword": null
   }
 ]
