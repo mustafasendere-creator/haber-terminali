@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e380d49a",
+    "title": "T.C. ANTALYA 10. SULH HUKUK MAHKEMESİ HAKİMLİĞİ",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 00:05",
+    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-antalya-10-sulh-hukuk-mahkemesi-hakimligi-2489003",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "T.C. ANTALYA 10. SULH HUKUK MAHKEMESİ HAKİMLİĞİ",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e3c12cf2-f5c3-4c88-981f-32d463d57415.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b9c430be",
     "title": "Dışişleri Bakanı Fidan, Alman mevkidaşı Wadephul ile telefonda görüştü",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında hayatını kaybedenlerin sayısının 10 artarak 1039'a yükseldiğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2dc2f212",
-    "title": "İşgalci İsrail'den Beyrut'a yeni hava saldırısı",
-    "source": "TRT Haber",
-    "time": "23/03/2026 22:45",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilden-beyruta-yeni-hava-saldirisi-938832.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İşgalci İsrail ordusu Lübnanın başkenti Beyrutun güneyindeki Dahiye bölgesine hava saldırıları düzenliyor.",
     "image": null,
     "keyword": null
   }
