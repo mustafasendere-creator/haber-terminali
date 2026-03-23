@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dac63cc3",
+    "title": "AB'den Macaristan'a 'Rusya'ya sızıntı' uyarısı: 'Endişe verici iddiaları açıklığa kavuşturun'",
+    "source": "Euronews",
+    "time": "23/03/2026 20:05",
+    "link": "http://tr.euronews.com/my-europe/2026/03/23/abden-macaristana-rusyaya-sizinti-uyarisi-endise-verici-iddialari-acikliga-kavusturun",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AB üye devletlerinin 'dürüst iş birliği' ilkesine bağlı olması ve kapalı kapılar ardındaki toplantı içeriklerinin gizli tutulması kuralı nedeniyle bu iddialar Brüksel'de infiale yol açtı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_48c02ab8",
     "title": "NHL muhabiri ve üç çocuğu yangında hayatını kaybetti",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Seçilmek, toplumsal karşılık üretmeyi gerektirir; yönetmek ise kurumsal kapasiteyi. Esas mesele, protesto kültürünün kurumsal yönetime dönüşüp dönüşemeyeceği.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_65be2563",
-    "title": "Avrupalı kruvaziyer şirketi, ilk hidrojenle çalışan gemiyi suya indirmeye bir adım yaklaştı",
-    "source": "Euronews",
-    "time": "23/03/2026 19:25",
-    "link": "http://tr.euronews.com/gezi/2026/03/23/avrupali-kruvaziyer-sirketi-ilk-hidrojenle-calisan-gemiyi-suya-indirmeye-bir-adim-yaklasti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Viking Libra, tahrikinde sıvılaştırılmış hidrojenle çalışan yakıt hücrelerine de dayanan, çevreci hibrit bir sistem kullanacak.",
     "image": null,
     "keyword": null
   }
