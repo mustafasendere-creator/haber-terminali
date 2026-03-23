@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7f91af73",
+    "title": "Edebiyatseverler buluşuyor: Cumartesi saat 14.00",
+    "source": "OdaTV",
+    "time": "23/03/2026 18:07",
+    "link": "https://www.odatv.com/kultur-sanat/edebiyatseverler-bulusuyor-cumartesi-saat-1400-120140464",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Dil ve Edebiyat Derneği’nin düzenlediği “Cumartesi Buluşmaları”, akademisyen ve yazarları edebiyatseverlerle bir araya getirmeye devam ediyor. Mart ve nisan ayı boyunca birbirinden farklı konular ele alınacak.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/tdedden-istanbulda-edebiyat-bulusmalari-gjyk.png",
+    "keyword": null
+  },
+  {
     "id": "GND_328cd715",
     "title": "Soyunma Odası açıklıyor: Sakatlanan Osimhen'de esas tehlike",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da Karadeniz Teknik Üniversitesi’nde düzenlenen Nevruz etkinliğinde öğrenciler kültürlerini tanıttı ve ateş üzerinden atlayarak baharı kutladı.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_016afea8",
-    "title": "TTB İnsan Hakları Kolu: Sağlık hizmetine müdahale ve hasta hakları ihlali kabul edilemez",
-    "source": "Evrensel",
-    "time": "23/03/2026 17:46",
-    "link": "https://www.evrensel.net/haber/5976417/ttb-insan-haklari-kolu-saglik-hizmetine-mudahale-ve-hasta-haklari-ihlali-kabul-edilemez",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TTB İnsan Hakları Kolu, Kocaeli'de Newroz kutlamaları sonrası yaralanan bir hastanın hastaneden zorla çıkarıldığı iddialarına ilişkin açıklama yaptı. TTB, olayın hasta hakları ve hekimlik ilkeleri açısından ciddi ihlaller içerdiğini vurguladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/324043.jpg",
-    "keyword": null
   }
 ]
