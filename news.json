@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cd58018c",
+    "title": "Tavşanlı'da iki otomobil çarpıştı 1 bebek 3 kişi yaralandı",
+    "source": "Gazete Duvar",
+    "time": "23/03/2026 16:24",
+    "link": "https://www.gazeteduvar.com.tr/tavsanlida-iki-otomobil-carpisti-1-bebek-3-kisi-yaralandi-haber-1765737",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya’nın Tavşanlı ilçesinde iki otomobilin kavşakta çarpışması sonucu meydana gelen trafik kazasında, aynı aileden biri bebek olmak üzere 3 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/23/f5haber-ttvb_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d2b63705",
     "title": "Dünya Meteoroloji Örgütü: İklim sistemi tarihteki en dengesiz döneminde",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sosyal medyada paylaşılan görüntülerde ABD’ye ait bir yakıt ikmal uçağının İran tarafından düşürüldüğü iddia edildi.",
     "image": "https://md.teyit.org/2026/03/kenya-ucak-kapak.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad11989e",
-    "title": "Avrupa Birliğinden şok suçlama: Ajan Orban",
-    "source": "OdaTV",
-    "time": "23/03/2026 16:05",
-    "link": "https://www.odatv.com/dunya/avrupa-birliginden-sok-suclama-ajan-victor-orban-120140449",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan Başbakanı Victor Orban&#039;ın dışişleri bakanı Peter Szijjarto&#039;nun Avrupa Birliği toplantılarında konuşulanları Rus mevkidaşı Sergey Lavrov&#039;a sızdırdığı iddia edildi. Polonya Başbakanı Donald Tusk, &quot;Ben zaten toplantılarda fazla konuşmuyordum&quot; çıkışında bulundu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/avrupa-birliginden-sok-suclama-ajan-victor-orban-x4rc.jpg",
     "keyword": null
   }
 ]
