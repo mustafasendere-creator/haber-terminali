@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_89e5c8a0",
+    "title": "ABD'li gazeteci Carlson'dan bir 'İsrail' iddiası daha",
+    "source": "Habertürk",
+    "time": "23/03/2026 21:06",
+    "link": "https://www.haberturk.com/abd-li-gazeteci-carlson-savas-abd-deki-israil-yanlilarinin-baskisiyla-basladi-3871455",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'li gazeteci Tucker Carlson, ABD'nin İran'a yönelik saldırılara, İsrail ve ABD'deki İsrail yanlısı çevrelerin baskısıyla başladığını belirterek, bu durumun Başkan Donald Trump'ın \"Önce Amerika\" yaklaşımıyla çeliştiğini söyledi. Carlson savaşın başlangıcında, Körfez ülkelerindeki bazı İran saldırılarının aslında İsrail tarafından İran'a saldırılara haklılık zemini oluşturması için yapıldığı iddiasını paylaşmıştı.",
+    "image": "https://im.haberturk.com/l/2026/03/22/ver1774170259/3871455/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_78e1099a",
     "title": "Uyuşturucu operasyonu: 3 tutuklama",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig’in 28. haftasında Trabzonspor’a konuk olacak lider Galatasaray’da, yıldız golcü Victor Osimhen’den kötü haber geldi. Liverpool maçında sakatlanan ve ameliyat edilen Nijeryalı oyuncunun derbiye yetişmesi beklenmiyor.",
     "image": "https://resim.haber61.net/news/608991.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_e4b28db5",
-    "title": "Galatasaray’da Osimhen şoku! Trabzonspor derbisinde sahada olacak mı?",
-    "source": "Haber61",
-    "time": "23/03/2026 20:25",
-    "link": "https://www.haber61.net/trabzonspor/galatasarayda-osimhen-soku-trabzonspor-derbisinde-sahada-olacak-mi-h627507.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig’in 28. haftasında Trabzonspor’a konuk olacak lider Galatasaray’da, yıldız golcü Victor Osimhen’den kötü haber geldi. Liverpool maçında sakatlanan ve ameliyat edilen Nijeryalı oyuncunun derbiye yetişmesi beklenmiyor.",
-    "image": "https://resim.haber61.net/news/608991.jpg",
-    "keyword": "trabzon"
   }
 ]
