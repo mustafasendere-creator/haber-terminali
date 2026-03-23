@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b9c60021",
+    "title": "LGS başvuruları başladı",
+    "source": "TRT Haber",
+    "time": "23/03/2026 20:06",
+    "link": "https://www.trthaber.com/haber/egitim/lgs-basvurulari-basladi-938813.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Eğitim Bakanlığınca MEB 14 Haziran'da düzenlenecek Liselere Geçiş Sistemi LGS kapsamındaki merkezi sınavın başvuruları, 10 Nisan'a kadar \"eOkul\" üzerinden yapılacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2c2043b8",
     "title": "Bakan Fidan, KİK üyesi ülkelerin ve Ürdün'ün büyükelçilerini kabul etti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Trump'ın, Tahran yönetiminden üst düzey isimle görüştüğünü ileri sürmesinin ardından İran'dan yalanlama geldi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e70a49b3",
-    "title": "45. İstanbul Film Festivali, 9 Nisan'da başlıyor",
-    "source": "Cumhuriyet",
-    "time": "23/03/2026 19:26",
-    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/45-istanbul-film-festivali-9-nisan-da-basliyor-2489014",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bu yıl 47'ncisi düzenlenecek olan İstanbul Film Festivali 9-19 Nisan'da gerçekleştirilecek.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/09c9104a-7fcc-4fb1-9676-d5fc0581af42.jpg",
     "keyword": null
   }
 ]
