@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dbd6d91c",
+    "title": "Yine trafik kavgası... Ailesinin yanında saldırıya uğradı",
+    "source": "OdaTV",
+    "time": "23/03/2026 13:03",
+    "link": "https://www.odatv.com/guncel/yine-trafik-kavgasi-ailesinin-yaninda-saldiriya-ugradi-120140423",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Bayraklı’da trafikte yaşanan tartışma, bir sürücünün ailesiyle birlikte saldırıya uğramasıyla son buldu. Olay, cep telefonu kamerasına yansıdı ve sosyal medyada gündem oldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/yine-trafik-kavgasi-ailesinin-yaninda-saldiriya-ugradi-fygv.png",
+    "keyword": null
+  },
+  {
     "id": "GND_b0732d01",
     "title": "İstanbul'da barajların doluluk oranı yüzde 50'yi geçti",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Bilecik'te, 20 yıldır işlettiği kuaför dükkanının bir bölümünü atölyeye dönüştüren Bilgehan Yeşil, müşteri olmadığı zamanlarda resim yapıyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_78cadc1c",
-    "title": "Trabzonspor, geçen sezon sonundaki puanından daha fazlasını topladı",
-    "source": "Anadolu Ajansı",
-    "time": "23/03/2026 12:41",
-    "link": "https://www.aa.com.tr/tr/guncel/trabzonspor-gecen-sezon-sonundaki-puanindan-daha-fazlasini-topladi/3875561",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'in 27. haftası sonunda 60 puanla 3. sırada yer alan Trabzonspor, teknik direktör Fatih Tekke yönetiminde geçen sezon sonundaki puanından daha fazlasını topladı.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
