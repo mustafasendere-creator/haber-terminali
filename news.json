@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9eb0852e",
+    "title": "Alman armatörlerden \"Basra Körfezi\" uyarısı",
+    "source": "Anadolu Ajansı",
+    "time": "23/03/2026 18:05",
+    "link": "https://www.aa.com.tr/tr/guncel/alman-armatorlerden-basra-korfezi-uyarisi/3876076",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman Armatörler Birliği (VDR), Basra Körfezi'nde ticari taşımacılığın büyük bir tehdit altında olduğunu bildirerek, bölgede mahsur kalan binlerce denizcinin can güvenliğine ilişkin acil uyarıda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_4d94089a",
     "title": "TEKNOFEST şampiyonlarından Başkan Genç’e ziyaret",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun’un Atakum ilçesinde sürücünün hayatını kaybettiği motosiklet kazasının güvenlik kamarası görüntüsü ortaya çıktı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/o-l-u-m-l-u-1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_7747d1c9",
-    "title": "Enkaz Altından Böyle Kurtarıldı! İstanbul'da Can Pazarı",
-    "source": "Taka Gazetesi",
-    "time": "23/03/2026 17:35",
-    "link": "https://www.takagazete.com.tr/video/enkaz-altindan-boyle-kurtarildi-istanbulda-can-pazari",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Fatih Ayvansaray'da patlama sonrası 2 binanın çökmesiyle 9 kişi enkaz altında kalmış. 7 kişi kurtarılmıştı. Enkaz altında kalan 1 kişiye daha ulaşıldı. Ekipler hassas ses cihazlarıyla arama kurtarma çalışmalarına devam ediyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/enkaz-1.jpg",
     "keyword": null
   }
 ]
