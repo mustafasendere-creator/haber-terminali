@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_75522f36",
+    "title": "Referandum yenilgisinin ardından... Meloni hükümetinde istifalar gelmeye başladı",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 00:52",
+    "link": "https://www.cumhuriyet.com.tr/dunya/referandum-yenilgisinin-ardindan-meloni-hukumetinde-istifalar-gelmeye-basladi-2489346",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'da Giorgia Meloni liderliğindeki sağ koalisyon hükümetinde referandum yenilgisinin ardından isimleri son dönemde farklı suçlamalarla gündeme gelen, Adalet Bakanlığından iki üst düzey isim istifa ederken, Başbakan Meloni ayrıca Turizm Bakanı Daniela Santanche'nin de istifa etmesini istedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/16e67528-16e9-4089-9bd8-6a63c46be341.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6f08cd39",
     "title": "6 Arap ülkesinde fırtına ve sel uyarısı yapıldı: Eğitime ara verildi",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "EuroLeague'in 33. haftasında Fenerbahçe Beko, Maccabi'ye 94-89 mağlup oldu.  Sarı-Lacivertliler, ligde son 4 maçta 3. kez mağlup oldu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/fenerbahce-maccabi-rapyde-5-sayi-farkla-yenildi-rgkh.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2f980df0",
-    "title": "İfo: Doğumla Alman vatandaşı olan genç erkekler daha az suç işliyor",
-    "source": "DW Türkçe",
-    "time": "24/03/2026 23:12",
-    "link": "https://www.dw.com/tr/ifo-doğumla-alman-vatandaşı-olan-genç-erkekler-daha-az-suç-işliyor/a-76513320",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İfo Enstitüsü'nün araştırmasına göre, doğuştan itibaren Alman vatandaşı olan göçmen kökenli genç erkekler, Alman vatandaşı olmayan göçmen genç erkeklere oranla yüzde 70 daha az suç işliyor.",
-    "image": null,
     "keyword": null
   }
 ]
