@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d0e813dd",
+    "title": "FBI: Rus hackerlar Signal ve WhatsApp hesaplarını hedef aldı",
+    "source": "Euronews",
+    "time": "24/03/2026 19:32",
+    "link": "http://tr.euronews.com/next/2026/03/24/fbi-rus-hackerlar-signal-ve-whatsapp-hesaplarini-hedef-aldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Saldırganlar, mesajlaşma platformlarında resmi destek hesaplarını taklit ederek kullanıcıları, zararlı bağlantılara tıklamaları için kandırıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_439b94f6",
     "title": "Türkiye-Romanya maçına Fransız hakem",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye, 2026-2027 sezonunda UEFA Şampiyonlar Ligi, UEFA Avrupa Ligi ve UEFA Konferans Ligi'nde 5 takımla mücadele edecek.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_677c7266",
-    "title": "İran Dışişleri Bakanı Erakçi'den \"Hürmüz Boğazı, savaşanlar hariç herkese açıktır\" mesajı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 18:31",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-disisleri-bakani-erakciden-hurmuz-bogazi-savasanlar-haric-herkese-aciktir-mesaji/3877494",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD ve İsrail'in saldırılarıyla tırmanan gerilim nedeniyle gemi trafiğinde kesintilerin yaşandığı Hürmüz Boğazı'nın, kendileriyle savaşan ülkelerin gemileri dışında tüm gemilere açık olduğu mesajını verdi.",
     "image": null,
     "keyword": null
   }
