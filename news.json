@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_677c7266",
+    "title": "İran Dışişleri Bakanı Erakçi'den \"Hürmüz Boğazı, savaşanlar hariç herkese açıktır\" mesajı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 18:31",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-disisleri-bakani-erakciden-hurmuz-bogazi-savasanlar-haric-herkese-aciktir-mesaji/3877494",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD ve İsrail'in saldırılarıyla tırmanan gerilim nedeniyle gemi trafiğinde kesintilerin yaşandığı Hürmüz Boğazı'nın, kendileriyle savaşan ülkelerin gemileri dışında tüm gemilere açık olduğu mesajını verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_460b8e92",
     "title": "Trabzon'da vatandaşlar kuyumculara akın etti! \"Taleplere yetişemiyoruz\"",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MHP Genel Başkan Yardımcısı Feti Yıldız, tutuklu İBB Başkanı Ekrem İmamoğlu’nun yer aldığı bir gazete manşetini sosyal medyada paylaştı. Kısa süre sonra silinen paylaşımın danışman kaynaklı olduğu açıklandı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/mhpli-feti-yildizdan-ekrem-imamoglu-paylasimi-danismanim-yapmis-txje.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_6771323b",
-    "title": "Devrim Muhafızları Komutanı: Trump o ülkelere sığındı",
-    "source": "OdaTV",
-    "time": "24/03/2026 17:33",
-    "link": "https://www.odatv.com/dunya/devrim-muhafizlari-komutani-ali-abdullahi-trump-o-ulkelere-sigindi-120140621",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları Ordusu&#039;na bağlı Hatemül Enbiya Merkez Karargahı Komutanı Tümgeneral Abdullahi, ABD Başkanı Trump&#039;ın, savaştan çıkmak için bazı ülkelerin liderlerine sığındığını iddia etti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/devrim-muhafizlari-komutani-ali-abdullahi-trump-o-ulkelere-sigindi-oqcq.jpg",
     "keyword": null
   }
 ]
