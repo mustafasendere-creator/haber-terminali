@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4090e0f1",
+    "title": "Gün içinde ne kadar esniyorsunuz?",
+    "source": "Habertürk",
+    "time": "24/03/2026 11:26",
+    "link": "https://www.haberturk.com/gun-icinde-ne-kadar-esniyorsunuz-ne-kadar-esnediginiz-sagliginizla-ilgili-cok-sey-anlatabilir-bakin-uzmanlar-ne-diyor-3871367",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gün içinde sık sık esniyor ve bunun sadece yorgunluktan kaynaklandığını mı düşünüyorsunuz? Uzmanlara göre bu masum refleks, vücudunuzun size verdiği gizli bir alarm olabilir. İşte esnemenin sağlığımız hakkında fısıldadığı o çarpıcı gerçekler, detaylar haberimizin devamında...",
+    "image": "https://im.haberturk.com/l/2026/03/21/ver1774219952/3871367/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b63a8f6a",
     "title": "Buzdolabını doğru yerleştirme taktikleri!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD yönetiminin, İran Meclis Başkanı Muhammed Bakır Kalibaf'ı \"uzlaşılabilir bir figür\" ve \"potansiyel lider adayı\" olarak değerlendirdiği iddia edildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_0f5272f1",
-    "title": "Trabzon'da kaçak bungalov uyarısı: Turizmde “bunga kondu” tehlikesi",
-    "source": "Haber61",
-    "time": "24/03/2026 10:45",
-    "link": "https://www.haber61.net/trabzon/trabzonda-kacak-bungalov-uyarisi-turizmde-bunga-kondu-tehlikesi-h627549.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Doğu Karadeniz Oteller Birliği (DOKOB), Rize başta olmak üzere bölgede hızla artan plansız bungalov yapılaşmasının turizm için ciddi risk oluşturduğunu açıkladı. Kayıt dışı tesislerin hem güvenlik hem de ekonomi açısından tehdit yarattığı belirtildi.",
-    "image": "https://resim.haber61.net/news/609064.jpg",
     "keyword": null
   }
 ]
