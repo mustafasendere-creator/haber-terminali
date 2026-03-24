@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2267a1d9",
+    "title": "Kabine Toplantısı başladı",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 02:52",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kabine-toplantisi-basladi-2489241",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanlığı Kabinesi, AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/eb167052-6532-440c-89f5-947db029dd56.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f1c9d95d",
     "title": "İtalyan mutfağının ferah aroması: Pesto sosu tarifi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ünlülere yönelik uyuşturucu soruşturması kapsamında Beşiktaş'ın eski başkanı Fikret Orman gözaltına alındı.",
     "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_d016eb69",
-    "title": "Mobilya atölyesinde korkutan yangın",
-    "source": "Haber Global",
-    "time": "25/03/2026 01:12",
-    "link": "https://haberglobal.com/yasam/mobilya-atolyesinde-korkutan-yangin-515071",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Edirne Sanayi Sitesi'ndeki bir mobilya atölyesinde yangın çıktı. Yangın, diğer iş yerlerine sıçramadan kontrol altına alındı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/mobilya-atolyesinde-korkutan-yangin-qsbf.jpg",
     "keyword": null
   }
 ]
