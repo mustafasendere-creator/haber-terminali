@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70faae30",
+    "title": "Yapay zeka ile görsel üretiminde yeni bir model: Uni-1",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 01:32",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-zeka-ile-gorsel-uretiminde-yeni-bir-model-uni-1-2489274",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yapay zeka ile görsel üretmek artık oldukça basit. Pek çok amaca hizmet eden farklı şirketlerin modelleri bulunuyor. Luma AI tarafından geliştirilen Uni-1 diğer popüler araçlara alternatif sunuyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9f877fd9-602a-4f4e-9d10-82f72f57f806.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_40233b23",
     "title": "TFF açıkladı: İşte Süper Lig kulüplerinin Avrupa yolu!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD&#039;li haber sitesi Axios, ABD&#039;nin İran&#039;la perşembe günü üst düzey barış görüşmeleri yapabileceğini iddia etti. Haberde, Washington&#039;un Tahran’dan resmi yanıt beklediği ifade edildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/abd-ve-iran-persembe-gunu-baris-gorusmesi-yapabilir-hil1_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d1a246e9",
-    "title": "İzmir’de taksici esnafı isyanda: Yüzde 15’lik zam daha cebe girmeden eridi",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 23:52",
-    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/izmir-de-taksici-esnafi-isyanda-yuzde-15-lik-zam-daha-cebe-girmeden-eridi-2489276",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir’de taksi ücretlerine yapılan yüzde 15’lik zam, akaryakıt fiyatlarındaki önlenemez artış karşısında kısa sürede eridi. İzmir Şoförler ve Otomobilciler Esnaf Odası Başkanı Erkan Özkan, esnafın dayanacak gücü kalmadığını söyledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/35a6c70d-a568-4636-93d9-c7c9e04fc9aa.jpeg",
     "keyword": null
   }
 ]
