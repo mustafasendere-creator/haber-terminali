@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de8085ad",
+    "title": "Hürmüz Boğazı'ndan 23 günde geçen gemi sayısı savaş öncesi bir günlük seviyeye denk geldi",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 11:25",
+    "link": "https://www.aa.com.tr/tr/guncel/hurmuz-bogazindan-23-gunde-gecen-gemi-sayisi-savas-oncesi-bir-gunluk-seviyeye-denk-geldi/3876860",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel ticaretin kritik noktası Hürmüz Boğazı'ndan 1-23 Mart'ta sadece 144 gemi geçerken, bu rakam savaş öncesinde tek bir günde ulaşılan seviyeye denk geliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_52dfab4f",
     "title": "WSJ: Körfez ülkeleri İran'a saldırılara dahil olmanın eşiğinde",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor ile Galatasaray arasında oynanacak kritik mücadele öncesi tribünlerde tansiyon şimdiden yükseldi. Bordo-mavili taraftar grubu VİRA’nın hazırladığı koreografi ve pankart çalışmasıyla ilgili ortaya atılan iddialar, derbiye damga vuracak gelişmelerin habercisi oldu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/u-g-u-r-c-a-n-83.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4e03087d",
-    "title": "Fenerbahçe’de sezon sonu planı: İki oyuncu gidiyor, biri kiralanıyor",
-    "source": "Evrensel",
-    "time": "24/03/2026 10:25",
-    "link": "https://www.evrensel.net/haber/5976478/fenerbahcede-sezon-sonu-plani-iki-oyuncu-gidiyor-biri-kiralaniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe’de yeni sezon öncesi kadro şekilleniyor. Çağlar Söyüncü ve Oğuz Aydın’la yolların ayrılması planlanırken, Yiğit Efe Demir kiralanacak.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340003.jpg",
     "keyword": null
   }
 ]
