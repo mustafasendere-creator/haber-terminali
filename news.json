@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fc5c3d48",
+    "title": "Hakimlikten Meclis’e: Emine Ülker Tarhan kimdir?",
+    "source": "Evrensel",
+    "time": "24/03/2026 22:12",
+    "link": "https://www.evrensel.net/haber/5976556/hakimlikten-meclis-e-emine-ulker-tarhan-kimdir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eski hâkim ve siyasetçi Emine Ülker Tarhan, 12 yıl aranın ardından yeniden CHP’ye katıldı. Peki Tarhan kimdir?",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340083.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d5b0337f",
     "title": "ATK 3 kere “hapishanede kalabilir” raporu vermişti: Hasta mahpus Mehmet Edip Taşar yaşamını yitirdi",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İpsala Sınır Kapısı'nda düzenlenen iki ayrı operasyonda toplam 35 kilo 392 gram uyuşturucu ele geçirildi, 2 şüpheli gözaltına alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_45cb4cca",
-    "title": "Elektrik üretiminde güneşin gücü 641 kat arttı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 21:12",
-    "link": "https://www.trthaber.com/haber/ekonomi/elektrik-uretiminde-gunesin-gucu-641-kat-artti-938897.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'nin toplam elektrik kurulu gücü şubat sonu itibarıyla 123 bin 320 megavat olurken, güneş enerjisi kurulu gücün yüzde 21'ini oluşturdu. Güneş enerjisi kurulu gücü, son 12 yılda 641 kat artarak 25 bin 827 megavata yükseldi.",
     "image": null,
     "keyword": null
   }
