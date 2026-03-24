@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dca895f3",
+    "title": "WSJ: Pentagon, 82. Hava İndirme Tümeni'nden yaklaşık 3 bin askeri Orta Doğu'ya göndermeye hazırlanıyor",
+    "source": "TRT Haber",
+    "time": "24/03/2026 21:32",
+    "link": "https://www.trthaber.com/haber/dunya/wsj-pentagon-82-hava-indirme-tumeninden-yaklasik-3-bin-askeri-orta-doguya-gondermeye-hazirlaniyor-938941.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD medyası, Savunma Bakanlığının Pentagon, 82. Hava İndirme Tümeni'nden yaklaşık 3 bin askeri \"İran'la savaş\" dolayısıyla Orta Doğu'ya göndermeye hazırlandığını iddia etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_43ee3a2e",
     "title": "Ağrı'da askeri araç kazasında bir asker yaşamını yitirdi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ümraniye&#039;de silahlı saldırıda öldürülen futbolcu Kubilay Kaan Kundakçı cinayetine ilişkin güvenlik kamerası görüntüleri ortaya çıktı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/futbolcu-kubilay-kaan-kundakci-cinayetinin-goruntuleri-ortaya-cikti-tuqh_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f9857c7c",
-    "title": "Filipinler, \"ulusal enerji acil durumu\" ilan etti",
-    "source": "Ekonomim",
-    "time": "24/03/2026 20:33",
-    "link": "https://www.ekonomim.com/dunya/filipinler-ulusal-enerji-acil-durumu-ilan-etti-haberi-883724",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filipinler’de, Orta Doğu’da devam eden çatışmaların ülke enerji tedariki üzerinde oluşturduğu &quot;yakın tehlike&quot; gerekçesiyle &quot;ulusal enerji acil durumu&quot; ilan edildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/filipinler-ulusal-enerji-acil-durumu-ilan-etti-b5pf_cover.jpg",
     "keyword": null
   }
 ]
