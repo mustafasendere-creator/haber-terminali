@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b2f0206b",
+    "title": "Kuşadası Başkan Vekili belli oldu",
+    "source": "Habertürk",
+    "time": "24/03/2026 12:46",
+    "link": "https://www.haberturk.com/kusadasi-belediyesi-baskan-vekili-tahsin-demirtas-oldu-3871752",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü ‘rüşvet’ ve ‘irtikap’ soruşturması kapsamında tutuklanıp, görevden uzaklaştırılan Aydın’ın Kuşadası Belediye Başkanı Ömer Günel’in yerine başkan vekili olarak Tahsin Demirtaş seçildi",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774274590/3871752/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b4aa97d8",
     "title": "Fatih'te bir yaralı entübe edildi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Beyaz Saray ile Fed arasında eşine az rastlanır bir mevzi savaşı yaşanıyor. Görev süresi mayıs ayında dolacak olan Fed Başkanı Jerome Powell, halefi Kevin Warsh’ın Senato onayı gecikirse koltuğu bırakmayacağını ilan ederek Trump yönetimine yasal rest çekti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/31559568-93ac-4249-a44e-da442d6b146f.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_57460614",
-    "title": "Makas atan sürücü bariyere çarptı: O anlar kamerada",
-    "source": "TRT Haber",
-    "time": "24/03/2026 12:06",
-    "link": "https://www.trthaber.com/haber/turkiye/makas-atan-surucu-bariyere-carpti-o-anlar-kamerada-938881.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Arnavutköy'de iddiaya göre sürücüsünün makas attığı sırada direksiyon hakimiyetini kaybettiği otomobil bariyere çarptı. Kazada yaralanan sürücü hastaneye kaldırılırken, kaza anı başka bir araç içi kamerasına yansıdı.",
-    "image": null,
     "keyword": null
   }
 ]
