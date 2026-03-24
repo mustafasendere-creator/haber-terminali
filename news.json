@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_90ddc4e0",
+    "title": "340 kilo kırmızı ve beyaz et ele geçirildi",
+    "source": "Habertürk",
+    "time": "24/03/2026 12:26",
+    "link": "https://www.haberturk.com/340-kilo-kirmizi-ve-beyaz-et-ele-gecirildi-3871773",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırşehir'de bir kamyonette yapılan aramada 340 kilo bozulmuş kırmızı ve beyaz et ele geçirildi",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774281002/3871773/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b5797001",
     "title": "TIR’ı tamir ederken can verdi",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İTÜ'lü uzmanların, yapay zeka kullanarak hazırladığı sel riski analizine göre, İstanbul'da sel tehlikesinin en yüksek olduğu ilçeler Fatih, Gaziosmanpaşa, Bağcılar, Güngören ve Beyoğlu oldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_623d59d9",
-    "title": "ABD'nin müdahaleleri petrol fiyatını dizginlemeye yetmedi",
-    "source": "TRT Haber",
-    "time": "24/03/2026 11:46",
-    "link": "https://www.trthaber.com/haber/ekonomi/abdnin-mudahaleleri-petrol-fiyatini-dizginlemeye-yetmedi-938885.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD yönetimi, Orta Doğu'da tırmanan gerilimle birlikte yükselen enerji maliyetlerini kontrol altına almak amacıyla stratejik rezervlerin kullanımından yaptırımların esnetilmesine kadar uzanan çeşitli önlemleri hayata geçirirken, ülkede akaryakıt fiyatlarındaki artış eğilimi devam ediyor.",
     "image": null,
     "keyword": null
   }
