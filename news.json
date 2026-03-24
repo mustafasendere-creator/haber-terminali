@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c58b861f",
+    "title": "Borsa günü düşüşle tamamladı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 19:52",
+    "link": "https://www.aa.com.tr/tr/guncel/borsa-gunu-dususle-tamamladi/3877502",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,81 değer kaybederek 12.930,16 puandan tamamladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_479bc2a5",
     "title": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar: İran'dan gaz akışı devam ediyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar İran’dan Türkiye’ye gaz kesildi iddiasına yanıt vererek, \"Öyle birşey yok. Doğal gaz arzında sıkıntı yok. Depolama tesisleri yüzde 71 dolu.\" dediDevamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/7c0a58/1200/1200/145/0/630/486?u=https://iahbr.tmgrup.com.tr/2026/03/24/bakan-bayraktar-dogal-gaz-arzinda-sorun-yok-1774367058847.jpeg",
     "keyword": null
-  },
-  {
-    "id": "TKP_8218d052",
-    "title": "Derbi Kırılma Maçı! Trabzonspor Kazanırsa Yarış Yeniden Yazılacak",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 18:39",
-    "link": "https://www.takagazete.com.tr/derbi-kirilma-maci-trabzonspor-kazanirsa-yaris-yeniden-yazilacak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig’de milli aranın ardından oynanacak Trabzonspor–Galatasaray derbisi, şampiyonluk yarışının kaderini belirleyebilecek kritik bir eşik haline geldi. Bordo-mavililer sahadan galibiyetle ayrılması halinde zirve mücadelesine yeni bir boyut kazandırabilir.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/b-u-n-l-a-r.jpg",
-    "keyword": "trabzon"
   }
 ]
