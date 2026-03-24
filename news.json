@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e358ce2",
+    "title": "İsrail’in Lübnan’a saldırıları sürüyor: Hamul bölgesi fosfor bombasıyla hedef alındı",
+    "source": "Evrensel",
+    "time": "25/03/2026 02:32",
+    "link": "https://www.evrensel.net/haber/5976536/israilin-lubnana-saldirilari-suruyor-hamul-bolgesi-fosfor-bombasiyla-hedef-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Sur kentine bağlı Hamul bölgesini fosfor bombalarıyla hedef aldığı bildirildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339365.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c4af69d0",
     "title": "Menemen'deki tarım arazileri hafriyata boğuluyor",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kuveyt Petrol Kurumu, Hürmüz Boğazı'ndaki geçişlerin hedef alınması nedeniyle ham petrol üretiminde yeniden kısıtlamaya gidildiğini duyurarak, tam kapasite üretime dönülmesinin savaşın sona ermesi halinde 4 ay süreceğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_84744a0a",
-    "title": "6 Arap ülkesinde fırtına ve sel uyarısı yapıldı",
-    "source": "TRT Haber",
-    "time": "25/03/2026 00:52",
-    "link": "https://www.trthaber.com/haber/dunya/6-arap-ulkesinde-firtina-ve-sel-uyarisi-yapildi-938948.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Umman, Mısır, Suudi Arabistan, Birleşik Arap Emirlikleri BAE, Irak ile Suriye'de fırtına ve sel uyarısı yapıldı, bazı ülkelerde eğitime ara verildi. Umman'da dünden bu yana şiddetli yağış sonucu meydana gelen sellerde ölenlerin sayısı 7'ye yükseldi.",
     "image": null,
     "keyword": null
   }
