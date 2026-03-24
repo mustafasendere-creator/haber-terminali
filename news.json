@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_56712401",
+    "title": "İran Atom Enerjisi Kurumu: Buşehr Nükleer Enerji Santrali sahasına füze isabet etti",
+    "source": "TRT Haber",
+    "time": "24/03/2026 23:52",
+    "link": "https://www.trthaber.com/haber/dunya/iran-atom-enerjisi-kurumu-busehr-nukleer-enerji-santrali-sahasina-fuze-isabet-etti-938944.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Atom Enerjisi Kurumu, ABDİsrail'in Buşehr Nükleer Enerji Santrali'ne düzenlediği saldırıda santral sahasına füze isabet ettiğini, saldırıda teknik hasar ya da can kaybı yaşanmadığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0e48f6f2",
     "title": "Trump topu yine savunma bakanına attı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trump’ın “İran’da üst düzey yetkili ile görüşüyoruz” açıklamasının ardından gündeme gelen Muhammed Bakır Kalibaf, Devrim Muhafızları kökenli olup emniyet, belediye ve Meclis başkanlığı gibi görevlerde bulundu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340078.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_74b7cb28",
-    "title": "İzmirli gazeteci Okan Yüksel mezarı başında anıldı",
-    "source": "Evrensel",
-    "time": "24/03/2026 22:31",
-    "link": "https://www.evrensel.net/haber/5976555/izmirli-gazeteci-okan-yuksel-mezari-basinda-anildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazeteci Okan Yüksel, ölümünün birinci yılında İzmir’de mezarı başında düzenlenen törenle anıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340079.jpg",
     "keyword": null
   }
 ]
