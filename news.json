@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_45acacba",
+    "title": "İstanbul dahil 24 ile sağanak, 11 ile kar yağışı uyarısı",
+    "source": "10Haber",
+    "time": "24/03/2026 11:45",
+    "link": "https://10haber.net/gundem/istanbul-dahil-24-ile-saganak-11-ile-kar-yagisi-uyarisi-689395/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bugün İstanbul dahil 24 ilde sağanak, 11 ilde kar yağışı bekleniyor. Meteoroloji Genel Müdürlüğü’nün (MGM) tahminlerine göre sağanak yağış beklenen iller şunlar: Edirne İstanbul Kırklareli Kocaeli Afyonkarahisar Denizli İzmir Muğla Adana Antalya Hatay Mersin Ankara Eskişehir Konya Nevşehir Düzce Zonguldak Amasya Samsun Tokat Siirt Gaziantep Şanlıurfa Yağışın Antalya’da kuvvet olacağı tahmin ediliyor. Kar yağışı beklenen [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c24e2b92ac80.96240115.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2161629a",
     "title": "Askeri uçak kazası: Ölü sayısı 66’ya yükseldi",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "TEKNOFEST kapsamında, Hepsiburada iş birliğiyle düzenlenen \"Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması\", genç yetenekleri lojistik süreçleri dönüştürecek yaratıcı projeler geliştirmeye davet ediyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_837a8d56",
-    "title": "NBA'de Rockets, Alperen Şengün'ün \"triple-double\" yaptığı maçta Bulls'a yenildi",
-    "source": "İHA Trabzon",
-    "time": "24/03/2026 10:46",
-    "link": "https://www.aa.com.tr/tr/guncel/nbade-rockets-alperen-sengunun-triple-double-yaptigi-macta-bullsa-yenildi/3876788",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Amerikan Basketbol Ligi'nde (NBA) milli oyuncu Alperen Şengün'ün \"triple-double\" yaptığı maçta Houston Rockets, Chicago Bulls'a 132-124 yenildi.",
     "image": null,
     "keyword": null
   }
