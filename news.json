@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_880708d4",
+    "title": "Almanya'da gençler \"hastalık seviyesinde\" video bağımlısı",
+    "source": "DW Türkçe",
+    "time": "24/03/2026 15:41",
+    "link": "https://www.dw.com/tr/almanya-da-gençler-hastalık-seviyesinde-video-bağımlısı/a-76502212",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni bir araştırmaya göre, Almanya'da çocuk ve gençlerde online video izleme bağımlılığı hızla artıyor. Gençlerin yüzde 4'ü için bu durum artık \"hastalık seviyesinde\".",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_59f81ed7",
     "title": "İsveç'te göçmenlere \"dürüst yaşam\" şartı",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzon, uluslararası bir organizasyona daha ev sahipliği yaparak adeta futbolun ve kardeşliğin merkezi haline geldi. Trabzon Büyükşehir Belediyesi koordinasyonunda düzenlenen “2. Uluslararası Futbol Turnuvası”, 16 ülkeden 192 öğrencinin katılımıyla başladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/a-h-m-e-t-m-e-t-i-n-17.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_a5804bfe",
-    "title": "Başkan Genç'ten 'Su' Uyarısı!",
-    "source": "Karadeniz Gazetesi",
-    "time": "24/03/2026 14:19",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/baskan-gencten-su-uyarisi-/606613",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "22 Mart Dünya Su Günü nedeniyle düzenlenen etkinliğe katılan Büyükşehir Belediye Başkanı Ahmet Metin Genç, suyun önemine vurgu yaparak, \"Yeni su kaynakları için çalışıyoruz ancak tasarruf da çok önemli. Tasarruf bilincini toplumun tamamına yaymak istiyoruz\" dedi.",
-    "image": null,
-    "keyword": null
   }
 ]
