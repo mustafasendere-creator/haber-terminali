@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d0685e16",
+    "title": "Suriye'nin Rakka vilayetinde aşırı yağışlar nedeniyle nehrin taşması sonucu araziler su altında kaldı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 22:31",
+    "link": "https://www.aa.com.tr/tr/guncel/suriyenin-rakka-vilayetinde-asiri-yagislar-nedeniyle-nehrin-tasmasi-sonucu-araziler-su-altinda-kaldi/3877841",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye'de aşırı yağışlar sonrası Rakka vilayetindeki Balikh Nehri'nin taşmasıyla binlerce dönüm arazi su altında kaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_a13d2895",
     "title": "Trabzonspor’da 50 Milyon Euroluk Yıldız! Avrupa Devleri Peşinde",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Avrupa Polis Teşkilatı (Europol), Avrupa Birliği (AB) üye ülkelerine istihbarat, koordinasyon ve operasyon desteğinde bulunacak yeni bir göçmen kaçakçılığıyla mücadele merkezi kurulduğunu bildirdi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_5080528c",
-    "title": "Trabzon’da Derbi Ateşi! 882 Günlük Hasret Bitecek mi?",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 21:19",
-    "link": "https://www.takagazete.com.tr/trabzonda-derbi-atesi-882-gunluk-hasret-bitecek-mi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’da sezonun en kritik sınavı için geri sayım başladı. Süper Lig’in 28. haftasında 4 Nisan Cumartesi günü Papara Park’ta lider Galatasaray’ı konuk edecek bordo-mavililer, hem zirve yarışını yeniden şekillendirmek hem de uzun süredir süren derbi hasretine son vermek istiyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/d-e-r-b-i-a-t-e-s-i-2.jpg",
-    "keyword": "trabzon"
   }
 ]
