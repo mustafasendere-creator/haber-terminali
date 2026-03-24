@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6a4fa703",
+    "title": "Çin’de altın kalmadı: Bankalarda \"stok yok\" uyarısı",
+    "source": "Ekonomim",
+    "time": "24/03/2026 21:32",
+    "link": "https://www.ekonomim.com/finans/haberler/altin/cinde-altin-kalmadi-bankalarda-stok-yok-uyarisi-haberi-883689",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin’de bankalarda fiziki altın bulmak zorlaşırken, özellikle küçük gramajlı ürünlerin tükendiği ve bazı şubelerde yalnızca 50 ve 100 gramlık altınların kaldığı bildirildi. Bankaların dijital uygulamalarında birçok üründe “stokta yok” uyarısı görülürken, siparişlerin teslimi için de rezervasyon ve bekleme süresi gerekiyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/cinde-altin-kalmadi-bankalarda-stok-yok-uyarisi-f4ky_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a1e1d5c1",
     "title": "WSJ: ABD, Orta Doğu'ya 3 bin asker gönderecek",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dünyanın en çok satan Kanadalı müzisyeni, bu yılın ilerleyen döneminde sahnelere dönmeye hazırlanıyor. Céline Dion, 2020’deki pandemiden bu yana tam konser vermedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_47116993",
-    "title": "Çin’den kritik vergi adımı: Afrika’da yenilenebilir enerjiye darbe",
-    "source": "Euronews",
-    "time": "24/03/2026 20:52",
-    "link": "http://tr.euronews.com/2026/03/24/afrikada-gunes-enerjisi-patlamasini-ucuz-cin-panelleri-tetikledi-o-donem-sona-erdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Güneş enerjisi, Afrika’nın en ucuz enerji kaynağı. Çin ithalatına yönelik fiyat teşviklerindeki değişiklikler maliyetleri yükseltebilir.",
     "image": null,
     "keyword": null
   }
