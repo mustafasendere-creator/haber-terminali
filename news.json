@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_38e77966",
+    "title": "İran savaşı Orta Doğu dışındaki turizm merkezlerini nasıl etkiledi?",
+    "source": "Euronews",
+    "time": "24/03/2026 20:12",
+    "link": "http://tr.euronews.com/gezi/2026/03/24/iran-krizi-ortadogu-disindaki-turizm-merkezlerini-de-vurdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Asya ülkelerinin çoğu, Hürmüz Boğazı’ndan geçen petrole büyük ölçüde bağımlı. Çatışma dördüncü haftasına girerken bazı gözde tatil merkezleri yakıt tüketimini kısmaya yönelik önlemler alıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e1d37c57",
     "title": "ABD-İran görüşmeleri beklentisiyle hisse senetleri düşüşle açıldı, petrol 100 doların üstünde",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Lübnan Cumhurbaşkanı Joseph Avn, ülkesinin kendi topraklarında \"başkalarının savaşlarını yürütmesinin mümkün olmadığını\" belirterek, \"İsrail işgal ettiği topraklardan çekilme çağrılarına ve ateşkes anlaşmasına uysaydı savaş önlenebilirdi.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_33b3bdcd",
-    "title": "CNN: İranlı kaynak, ABD'nin Tahran yönetimiyle görüşmek için temas girişiminde bulunduğunu söyledi",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 19:31",
-    "link": "https://www.aa.com.tr/tr/guncel/cnn-iranli-kaynak-abdnin-tahran-yonetimiyle-gorusmek-icin-temas-girisiminde-bulundugunu-soyledi/3877550",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD-İsrail'in İran'a saldırıları devam ederken İran kanadından, ABD'nin görüşme için temaslarda bulunduğu bildirildi.",
     "image": null,
     "keyword": null
   }
