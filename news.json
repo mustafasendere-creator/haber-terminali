@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_725b568f",
+    "title": "33 kaçak göçmen yakalandı",
+    "source": "Habertürk",
+    "time": "24/03/2026 15:41",
+    "link": "https://www.haberturk.com/bodrum-da-33-kacak-gocmen-yakalandi-9-organizator-tutuklandi-3871730",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla’nın Bodrum ilçesinde 33 kaçak göçmen yakalandı. Gözaltına alınan 9 organizatör şüphelisi tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774270115/3871730/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_c2319cdb",
     "title": "Bakan Fidan'dan 'İran' görüşmeleri",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Atletizmde il birinciliği, futsalda ise takım halinde il üçüncülüğü elde eden Nazım Kayhan Mesleki ve Teknik Anadolu Lisesi özel eğitim öğrencileri, Düzköy Kaymakamı Yunus Polat’ı makamında ziyaret etti.",
     "image": "https://resim.haber61.net/news/609109.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_da2b373b",
-    "title": "Trabzon Emniyeti’nden çocuklara trafik eğitimi! Mattia Ahmet Minguzzi alanında buluştular",
-    "source": "Haber61",
-    "time": "24/03/2026 14:59",
-    "link": "https://www.haber61.net/trabzon/trabzon-emniyetinden-cocuklara-trafik-egitimi-mattia-ahmet-minguzzi-h627575.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Emniyet Müdürlüğü, TOKİ İlkokulu öğrencileriyle Mattia Ahmet Minguzzi trafik eğitim alanında bir araya geldi. Programda çocuklara genel güvenlik ve trafik kuralları hakkında bilgilendirme yapıldı.",
-    "image": "https://resim.haber61.net/news/609110.jpg",
     "keyword": null
   }
 ]
