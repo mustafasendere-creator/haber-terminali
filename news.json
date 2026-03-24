@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3cddc06b",
+    "title": "Trafoda başlayan yangın kömür deposuna sıçradı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 07:05",
+    "link": "https://www.trthaber.com/haber/turkiye/trafoda-baslayan-yangin-komur-deposuna-sicradi-938854.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sultangazi'de elektrik trafosunda başlayıp bir iş yerinin kömür deposuna sıçrayan yangın itfaiye ekiplerince söndürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_30da655e",
     "title": "‘TCK 217/A gazetecilere karşı sopa olarak kullanılıyor’",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fransa yerel seçimlerinin ikinci turunda büyük şehirlerin çoğunu sol adaylar kazandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0d665773-339c-473c-a693-f4a869bfa62f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d34812d6",
-    "title": "CENTCOM: İran'da 9 binden fazla hedef vuruldu",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 04:05",
-    "link": "https://www.aa.com.tr/tr/guncel/centcom-iranda-9-binden-fazla-hedef-vuruldu/3876590",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik saldırıların başlamasından bu yana ülkede 9 binden fazla hedefin vurulduğunu bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
