@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_34f24119",
+    "title": "Atakum'da 'Tiyatro Günleri' başlıyor",
+    "source": "Taka Gazetesi",
+    "time": "24/03/2026 09:45",
+    "link": "https://www.takagazete.com.tr/atakumda-tiyatro-gunleri-basliyor",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "31 Mart tarihleri arasında Ata Sahne'de tiyatroseverleri ağırlayacak.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/atakumda-tiyatro-gunleri-basliyor.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_f99c024e",
     "title": "Fındık Fiyatları Neden Yükselmiyor? İl İl Güncel Rakamlar",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupalı gezginler, macera ile kültürel etkileşimi birleştiren; doğa, spor, tarih ve mutfağa yönelik etkinlikler içeren seyahatleri giderek daha çok istiyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8a590182",
-    "title": "Yapay zekâ şirketi Anthropic, ABD Savunma Bakanlığı'nı mahkemeye verdi",
-    "source": "Euronews",
-    "time": "24/03/2026 09:05",
-    "link": "http://tr.euronews.com/next/2026/03/24/yapay-zeka-sirketi-anthropic-abd-savunma-bakanligini-mahkemeye-verdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anthropic, ABD hükümetinin kendisini ulusal güvenlik riski olarak kara listeye alma kararına karşı ihtiyati tedbir talep etmek üzere salı günü San Francisco’daki federal mahkemeye gidiyor.",
     "image": null,
     "keyword": null
   }
