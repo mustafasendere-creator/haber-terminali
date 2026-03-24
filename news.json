@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e95705c3",
+    "title": "24 Mart hava durumu",
+    "source": "Habertürk",
+    "time": "24/03/2026 06:05",
+    "link": "https://www.haberturk.com/24-mart-hava-durumu-nasil-24-mart-sali-istanbul-da-yagis-var-mi-meteoroloji-den-kuvvetli-yagis-uyarisi-3871806",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji'den yapılan açıklamalar kapsamında, hava sıcaklıklarının doğu kesimlerde 3 ila 5 derece artacağı, diğer yerlerde önemli bir değişiklik beklenmediği tahmin ediliyor. Bazı bölgeler için ise kuvvetli yağış uyarıları yapıldı. Peki, 24 Mart Salı hava nasıl? İşte 24 Mart Salı Meteoroloji'den yapılan güncel hava durumu tahminleri...",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774294113/3871806/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_4f2660ad",
     "title": "Laiklik nedir?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Pakistan Milli Günü töreni, Ankara’da gerçekleşti. Etkinlikte Milli Gün’ün anlamına değinildi. Pakistan’ın Ankara Büyükelçisi Yusuf Cüneyd ise, “Bugün tüm dünya büyük bir krizle karşı karşıya. Daha çok çalışmalıyız” dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/353f7814-8250-42fe-96ea-7f10dc48a067.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f911c68f",
-    "title": "Sezon başında 5 yıllık sözleşme imzalanmıştı... Beşiktaş'ta yeni transfer takımdan ayrılıyor!",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 02:45",
-    "link": "https://www.cumhuriyet.com.tr/spor/sezon-basinda-5-yillik-sozlesme-imzalanmisti-besiktas-ta-yeni-transfer-takimdan-ayriliyor-2488982",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beşiktaş Teknik Direktörü Sergen Yalçın'ın sezon başında büyük umutlarla transfer edilen Taylan Bulut'u gözden çıkardığı ve siyah beyazlı yönetimin de ayrılığa izin verdiği iddia edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/9ed26a04-4e63-4023-8130-5983904e07bd.jpg",
     "keyword": null
   }
 ]
