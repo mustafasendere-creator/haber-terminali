@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3f7cef49",
+    "title": "TKP'den Dışişleri Bakanlığı önünde protesto: 'O bildiriden ülkemizin adını derhal çıkaracaksınız'",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 20:12",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/tkp-den-disisleri-bakanligi-onunde-protesto-o-bildiriden-ulkemizin-adini-derhal-cikaracaksiniz-2489293",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TKP'liler Türkiye’nin İran'a karşı tutumunu protesto ederek, \"Utanç verici bildiriye ülkemiz imza attı. Metin boyunca suçlanan kişi, suçlanan yer, suçlanan halk İran. Bir kere katil İsrail'in adı geçmez mi? Bizim safımız kardeş İran halkının yanındadır. O bildiriye ülkemiz adına, Türkiye adına imza atma meşruiyetiniz, yetkiniz yok. Hakkınız da değil, o bildiriden ülkemizin adını derhal çıkaracaksınız\" açıklamasını yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0b7c7c49-cc67-4766-9f48-74e99151ade8.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e4a7389c",
     "title": "Nazillispor'dan sahadan çekilme kararı: 12-0 gerideydi...",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, \"İran'dan gaz akışında herhangi bir kesinti yok, depolama tesislerimizin yüzde 71'i dolu\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_46385fcf",
-    "title": "Kuveyt: Son 24 saatte ülkeye 17 balistik füze ile 13 İHA atıldı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 19:32",
-    "link": "https://www.trthaber.com/haber/dunya/kuveyt-son-24-saatte-ulkeye-17-balistik-fuze-ile-13-iha-atildi-938936.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuveyt Savunma Bakanlığı, son 24 saatte ülkenin 17 balistik füze ve 13 insansız hava aracıyla İHA hedef alındığını bildirdi.",
     "image": null,
     "keyword": null
   }
