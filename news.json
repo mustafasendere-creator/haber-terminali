@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_112f0412",
+    "title": "İran Dışişleri Bakanı Arakçi: Uluslararası hukuk ölmüştür",
+    "source": "TRT Haber",
+    "time": "25/03/2026 00:12",
+    "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-uluslararasi-hukuk-olmustur-938946.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanı Abbas Arakçi, Batı ülkelerini İrana yönelik saldırılar karşısında sessiz kalmakla suçlayarak, \"Uluslararası hukuk ölmüştür.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d0746db6",
     "title": "İsrail'de Ultra-Ortodoks Yahudi iki kardeş İran adına casuslukla suçlanıyor",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Oyak Çimento, 10 milyar TL tutarına kadar borçlanma aracı ihraç etmek için Sermaye Piyasası Kurulu&#039;na (SPK) başvuru kararı aldı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/11/04/oyak-cimentodan-2025in-3-ceyreginde-34-milyar-lira-net-kar-qb5t_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b675f8e8",
-    "title": "Beşiktaş, Trabzonspor dahil 4 kulüp PFDK'ye sevk edildi",
-    "source": "Ekonomim",
-    "time": "24/03/2026 22:32",
-    "link": "https://www.ekonomim.com/spor/besiktas-trabzonspor-dahil-4-kulup-pfdkye-sevk-edildi-haberi-883746",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Futbol Federasyon Hukuk Müşavirliği Beşiktaş, Trabzonspor, Kayserispor ve Kasımpaşa&#039;yı Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/12/tffden-bahis-operasyonu-510-gorevli-pfdkya-sevk-edildi-o5jq_cover.jpg",
     "keyword": null
   }
 ]
