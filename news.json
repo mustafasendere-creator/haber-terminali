@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_be41d01c",
+    "title": "Kolombiya'da askerî uçak düştü: En az 66 ölü",
+    "source": "DW Türkçe",
+    "time": "24/03/2026 20:52",
+    "link": "https://www.dw.com/tr/kolombiya-da-askerî-uçak-düştü-en-az-66-ölü/a-76513578",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kolombiya Hava Kuvvetleri'ne ait bir nakliye uçağının düşmesi sonucu 58'i asker, en az 66 kişi hayatını kaybetti. Kazada 81 kişinin de yaralandığı bildiriliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b092544f",
     "title": "Enerji bakanı, 'İran Türkiye'ye doğalgazı kesti' haberini yalanladı",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Birleşik Krallık'ın Ankara Büyükelçisi Jill Morris, kaydedilmesi gereken çok ilerleme olduğunu belirterek, \"Kadınlar, üst düzey ekonomik pozisyonlarda hala ciddi şekilde az temsil edilmektedir.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_168ea943",
-    "title": "Cumhurbaşkanı Erdoğan, Kazakistan Cumhurbaşkanı Tokayev ile telefonda görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 20:11",
-    "link": "https://www.aa.com.tr/tr/guncel/cumhurbaskani-erdogan-kazakistan-cumhurbaskani-tokayev-ile-telefonda-gorustu/3877693",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev ile telefon görüşmesi gerçekleştirdi.",
     "image": null,
     "keyword": null
   }
