@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1d37c57",
+    "title": "ABD-İran görüşmeleri beklentisiyle hisse senetleri düşüşle açıldı, petrol 100 doların üstünde",
+    "source": "Euronews",
+    "time": "24/03/2026 20:12",
+    "link": "http://tr.euronews.com/business/2026/03/24/abd-iran-gorusmeleri-beklentisiyle-hisse-senetleri-dususle-acildi-petrol-100-dolarin-ustun",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD hisse senetleri salı günü hafif düşüşle açılırken, petrol fiyatları ise ABD Başkanı Trump'ın görüşmelerde ilerleme kaydedildiği sinyalini vermesine rağmen İran savaşına ilişkin belirsizliğin devam etmesiyle yükseldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a4785f23",
     "title": "Katar: 'Arabuluculuk yapamıyoruz, fırtınanın merkezindeyiz'",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail'in İran'a saldırıları devam ederken İran kanadından, ABD'nin görüşme için temaslarda bulunduğu bildirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7786c6f7",
-    "title": "Başkan Erdoğan'dan petrol fiyatlarına ilişkin mesaj: Farklı tedbirler alıyoruz",
-    "source": "A Haber",
-    "time": "24/03/2026 19:31",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/24/baskan-erdogandan-petrol-fiyatlarina-iliskin-mesaj-farkli-tedbirler-aliyoruz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Erdoğan Kabine toplantısı sonrası yaptığı açıklamada son dönemde sık sık gündeme gelen APP plakalar ve savaş nedneiyle dalgalanan petrol fiyatlarına ilişkin de mesajlar verdi. Erdoğan plakalara...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/40a4ba/1200/1200/170/0/530/360?u=https://iahbr.tmgrup.com.tr/2026/03/24/baskan-erdogandan-petrol-fiyatlarina-iliskin-mesaj-tedbirleri-gundeme-aliyoruz-1774369623283.jpg",
     "keyword": null
   }
 ]
