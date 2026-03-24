@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ddb528bc",
+    "title": "Şanlıurfa’da trafik kazası: 2’si ağır 5 yaralı",
+    "source": "Gazete Duvar",
+    "time": "24/03/2026 12:45",
+    "link": "https://www.gazeteduvar.com.tr/sanliurfada-trafik-kazasi-2si-agir-5-yarali-haber-1765747",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa’nın Siverek ilçesinde meydana gelen trafik kazasında 2’si ağır 5 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/24/basliksiz-1-qtou_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7fe098cd",
     "title": "Amasya’da otomobilin çarptığı motosikletli havada takla attı",
     "source": "Gazete Duvar",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ve İsrail’in İran'da rejimi düşürme, Tahran’ın nükleer ve balistik füze programlarına darbe vurma gibi müşterek amaçları bulunsa da İran’la süren savaşta örtüşen ve ayrışan hassasiyetlerinin olduğunun altını çizmek gerekiyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_621e7e43",
-    "title": "Trabzonspor, gol sayısında şampiyonluk sezonunun önünde",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 12:05",
-    "link": "https://www.aa.com.tr/tr/guncel/trabzonspor-gol-sayisinda-sampiyonluk-sezonunun-onunde/3876892",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig'de zirve mücadelesi veren Trabzonspor'un gol üretkenliği ön plana çıkıyor.",
     "image": null,
     "keyword": null
   }
