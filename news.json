@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d34812d6",
+    "title": "CENTCOM: İran'da 9 binden fazla hedef vuruldu",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 04:05",
+    "link": "https://www.aa.com.tr/tr/guncel/centcom-iranda-9-binden-fazla-hedef-vuruldu/3876590",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik saldırıların başlamasından bu yana ülkede 9 binden fazla hedefin vurulduğunu bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7e360643",
     "title": "Meloni'ye şok: Seçmen 'hayır' dedi",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir'de Meslek Fabrikası'nın devrine karşı nöbet başladı. Tahliye kararının hukuksuz olduğu belirtilen açıklamada, binanın kamusal işlevinin korunması için mücadele vurgusu yapıldı. Ardından mahkeme yürütmeyi durdurma kararı verdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339910.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d7362de5",
-    "title": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria’da 3 Filistinliyi yaraladı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 01:05",
-    "link": "https://www.aa.com.tr/tr/guncel/filistin-topraklarini-gasbeden-israilliler-isgal-altindaki-bati-seria-da-3-filistinliyi-yaraladi/3876510",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filistin topraklarını gasbeden İsraillilerin ordu koruması altında işgal altındaki Batı Şeria’da düzenledikleri saldırılarda 3 Filistinli yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
