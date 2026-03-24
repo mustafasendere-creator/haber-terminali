@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e316f6f",
+    "title": "İran saldırılarının durmasının ardından Katar’da yüz yüze çalışmaya yeniden başlandı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 18:11",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-saldirilarinin-durmasinin-ardindan-katar-da-yuz-yuze-calismaya-yeniden-baslandi/3877443",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Katar'da, son günlerde İran saldırılarının durmasının ardından yaklaşık 3 hafta süren uzaktan çalışma uygulaması sona erdirilerek kamu kurumlarında yüz yüze çalışmaya yeniden başlandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_56a99b06",
     "title": "BM Filistin Özel Raportörü Albanese'den ülkelere İsrail ile bağlarını koparma çağrısı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Militer Enstitü (@militerenstitu) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon fetö"
-  },
-  {
-    "id": "GND_1c12ee39",
-    "title": "Avrupa’nın yüksek hızlı tren bağlantı noktası \"Midi\"de \"şüpheli paket\" alarmı 300 seferi iptal etti",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 17:31",
-    "link": "https://www.aa.com.tr/tr/guncel/avrupa-nin-yuksek-hizli-tren-baglanti-noktasi-midide-supheli-paket-alarmi-300-seferi-iptal-etti/3877381",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa’nın önemli ulaşım merkezlerinden Brüksel Güney (Midi) Tren İstasyonu’nda bulunan şüpheli paketler nedeniyle 300 seferin iptal edilmesi ulaşımda ciddi aksamalara yol açarken demir yolu şirketleri de ekonomik zarara uğradı.",
-    "image": null,
-    "keyword": null
   }
 ]
