@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f2467b2",
+    "title": "Gözaltına alındığı Tokat'ta İsmail Arı'nın tutuklanmasına karşı eylem: “Gazetecilik suç değildir”",
+    "source": "Evrensel",
+    "time": "24/03/2026 19:52",
+    "link": "https://www.evrensel.net/haber/5976594/gozaltina-alindigi-tokatta-ismail-arinin-tutuklanmasina-karsi-eylem-gazetecilik-suc-degildir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BirGün muhabiri İsmail Arı'nın serbest bırakılması talebiyle, gözaltına alındığı Tokat'ta basın açıklaması düzenlendi. Açıklamada, gazeteciliğin suç sayılamayacağı vurgulandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340112.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0a245010",
     "title": "Edremit'te tutuklamalara protesto: “Gerçeği yazmak ve söylemek suç değildir”",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "TÜRK-İŞ (@turkiskonf) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon memur"
-  },
-  {
-    "id": "GND_4d41c32a",
-    "title": "Hava kirliliği artınca sağlığı korumanın 5 yolu sıralandı",
-    "source": "Euronews",
-    "time": "24/03/2026 19:12",
-    "link": "http://tr.euronews.com/saglik/2026/03/24/hava-kirliligi-artinca-sagligi-korumanin-5-yolu-siralandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Günlük rutininizde yapacağınız küçük değişiklikler, sandığınızdan çok daha fazla maruziyeti azaltabilir.",
-    "image": null,
-    "keyword": null
   }
 ]
