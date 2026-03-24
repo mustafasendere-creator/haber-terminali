@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4faeed6a",
+    "title": "Samsun'da 6 araçlık kaza: 19 yaralı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 10:26",
+    "link": "https://www.trthaber.com/haber/turkiye/samsunda-6-araclik-kaza-19-yarali-938868.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun'un Vezirköprü ilçesinde altı aracın karıştığı trafik kazasında ilk belirlemelere göre 19 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_395c11e0",
     "title": "Kabine yoğun gündemle toplanacak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Denizli Büyükşehir Belediyesinin düzenlediği Nevruz Bayramı kutlamaları büyük bir coşkuya sahne oldu. Binlerce yıllık geleneklerin yaşatıldığı, Başkan Çavuşoğlu’nun ateşin üzerinden atlayıp demir dövdüğü programda, Orta Asya Türk müziğinin sevilen grubu Mesai, Denizli’de rüzgar gibi esti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/832b16e9-36a7-4802-9c8c-f30fce748b46.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fbdd425e",
-    "title": "Çin’den İsrail’deki vatandaşlarına ‘derhal ayrılın’ çağrısı",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 09:46",
-    "link": "https://www.cumhuriyet.com.tr/dunya/cin-den-israil-deki-vatandaslarina-derhal-ayrilin-cagrisi-2489100",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin, Orta Doğu'da süren çatışmanın güvenlik risklerinin artması nedeniyle İsrail'deki vatandaşlarına ülkeyi en kısa zamanda terk etmeleri çağrısında bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/53c3bcec-a838-414a-a3fc-27186cff5e11.jpg",
     "keyword": null
   }
 ]
