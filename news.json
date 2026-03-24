@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_628f37a2",
+    "title": "Gazeteci Hakan Tosun cinayeti soruşturmasında iddianame hazırlandı: Duruşma tarihi belli oldu!",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 10:06",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/gazeteci-hakan-tosun-cinayeti-sorusturmasinda-iddianame-hazirlandi-durusma-tarihi-belli-oldu-2489109",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gazeteci Hakan Tosun cinayeti soruşturmasında iddianame tamamlandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/fd2723d5-7636-42de-93f6-5cf2aa56fbca.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bcb1d2ee",
     "title": "UEFA'dan Şampiyonlar Ligi kadro genişletme talebi için karar!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İranın gece yarısından bu yana yaptığı 5inci misilleme İsrailin güneyini hedef aldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_84fe17ea",
-    "title": "Doğu Karadeniz turizminde kriz alarmı, Rezervasyon iptalleri ve belirsizlik sektörü sarstı",
-    "source": "Karadeniz Gazetesi",
-    "time": "24/03/2026 09:26",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/dogu-karadeniz-turizminde-kriz-alarmi-rezervasyon-iptalleri-ve-belirsizlik-sektoru-sarsti/606529",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Doğu Karadeniz’de turizm, savaş ve krizlerin etkisiyle rezervasyon iptalleri ve yaz sezonu belirsizliğiyle kritik sürece girdi.",
     "image": null,
     "keyword": null
   }
