@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_50942d3b",
+    "title": "Öğrenci servisi dahil 7 araç birbirine girdi, 18 yaralı",
+    "source": "Gazete Duvar",
+    "time": "24/03/2026 12:25",
+    "link": "https://www.gazeteduvar.com.tr/ogrenci-servisi-dahil-7-arac-birbirine-girdi-18-yarali-haber-1765742",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun&#039;un Vezirköprü ilçesinde sabah saatlerinde meydana gelen zincirleme trafik kazasında ilk belirlemelere göre 18 kişi yaralandı. Kazada öğrenci servisi de yer aldı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/24/basliksiz-1-wcsb_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7e1b04d4",
     "title": "Kaldırıma çıkan otomobil ağaca çarptı: 2 yaralı",
     "source": "Gazete Duvar",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Mısır istihbarat yetkililerinin, İran Devrim Muhafızları ile bir iletişim kanalı kurmayı başardığı ve taraflara ateşkes için güven ortamı oluşturmak amacıyla çatışmaların 5 gün süreyle durdurulmasını önerdiği öne sürüldü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f077db88",
-    "title": "ABD'nin İran'a kara operasyonu ihtimali: Riskler ve maliyetler",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 11:45",
-    "link": "https://www.aa.com.tr/tr/guncel/abdnin-irana-kara-operasyonu-ihtimali-riskler-ve-maliyetler/3876893",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın batısında veya Hürmüz hattında bir kara operasyonu, ABD için askeri, ekonomik veya siyasi açıdan sürdürülebilir değildir.",
     "image": null,
     "keyword": null
   }
