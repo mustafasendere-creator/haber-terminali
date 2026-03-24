@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_49fcbdc5",
+    "title": "Türkiye ve dünya gündemi",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 09:25",
+    "link": "https://www.aa.com.tr/tr/guncel/turkiye-ve-dunya-gundemi/3876688",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye ve dünya gündemi, lider programları, etkinlikler ile bir bakışta bugünün gündemi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_99f2bb08",
     "title": "Savaş sonrası Trabzon’un turizminde yeni rotası belli oldu",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji Genel Müdürlüğü (MGM), 24 Mart Salı gününe ilişkin hava durumu raporunu yayımladı. Rapora göre Marmara, Ege, Akdeniz ve Karadeniz bölgelerinde sağanak yağış beklenirken hava sıcaklıkların, doğu kesimlerde 3 ila 5 derece artacağı öngörülüyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d93fe616-3c18-438b-a5f0-16f7ab39675b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e8c8f306",
-    "title": "İstanbul'da IŞİD operasyonu... Ailelere para aktarıldığı belirlendi: 9 gözaltı!",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 08:25",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-isid-operasyonu-ailelere-para-aktarildigi-belirlendi-9-gozalti-2489085",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul ve Yalova'da, IŞİD silahlı terör örgütüne finans sağladığı belirlenen şüphelilere yönelik düzenlenen operasyonda 9 kişi gözaltına alındı. Şüphelilerin, çatışma bölgelerinde örgüt adına faaliyet yürüten kişilerin ailelerine para aktardığı tespit edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b2ad3d0b-7230-47b6-9586-45ed0ece419a.jpg",
     "keyword": null
   }
 ]
