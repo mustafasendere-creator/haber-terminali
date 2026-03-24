@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f200b5a1",
+    "title": "Dünya Tiyatro Günü’nde çağrı: “Tiyatro bir direnç alanıdır”",
+    "source": "Evrensel",
+    "time": "24/03/2026 20:52",
+    "link": "https://www.evrensel.net/haber/5976565/dunya-tiyatro-gununde-cagri-tiyatro-bir-direnc-alanidir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tiyatro Kooperatifi, 27 Mart Dünya Tiyatro Günü’nde yayımladığı mesajda, tiyatronun yalnızca bir sanat alanı değil, adaletsizliklere karşı söz söyleyen bir direnç alanı olduğunu vurguladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336769.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_61a260ec",
     "title": "Dilovası katliamı davasında 1. gün: “Asıl sorumlular nerede?”",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'da oynanan olaylı Trabzonspor-Fenerbahçe derbisinin ardından açılan davada mahkeme, futbolcular ve taraftarlar hakkında adli para cezası kararı vererek hükmün açıklanmasını geri bıraktı.",
     "image": "https://resim.haber61.net/news/609150.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_95417453",
-    "title": "Trabzonspor’un Yıldızı Milli Takımda Şans Bekliyor! Gözler Romanya Maçında",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 19:59",
-    "link": "https://www.takagazete.com.tr/trabzonsporun-yildizi-milli-takimda-sans-bekliyor-gozler-romanya-macinda",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un son dönemdeki çıkışıyla dikkat çeken isimlerinden Mustafa Eskihellaç, A Milli Takım’da daha fazla süre almak için gün sayıyor. Genç oyuncu, Perşembe günü oynanacak Romanya karşılaşmasında teknik direktör Vincenzo Montella’dan forma bekliyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/m-u-s-t-a-f-a-24.jpg",
-    "keyword": null
   }
 ]
