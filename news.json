@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e403a028",
+    "title": "Osimhen ve Noa Lang'a ilişkin Yener İnce'den açıklama",
+    "source": "Evrensel",
+    "time": "24/03/2026 09:05",
+    "link": "https://www.evrensel.net/haber/5976470/osimhen-ve-noa-langa-iliskin-yener-inceden-aciklama",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray’da Osimhen yaklaşık 5-6 hafta sahalardan uzak kalacak, Lang ise özel programla Hollanda Milli Takımı maçlarının ardından forma dönmeyi hedefliyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339998.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d3dd8c60",
     "title": "İsrail, Lübnan’ın Aley ilçesini vurdu: 2 kişi yaşamını yitirdi, 5 kişi yaralandı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Süleyman Soylu’nun “300-400 bin şehit veririz” açıklaması kamuoyunda tepki çekti. Özellikle Çanakkale Savaşı ile kıyaslanan ifade, birçok kesim tarafından “aşırı ve talihsiz” bulundu.",
     "image": "https://resim.haber61.net/news/609022.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_8019801b",
-    "title": "İnşallah Trabzon'da o sirenler devreye girmez",
-    "source": "Haber61",
-    "time": "24/03/2026 08:25",
-    "link": "https://www.haber61.net/trabzon/insallah-trabzonda-o-sirenler-devreye-girmez-h627521.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Yanı başımızdaki jeopolitik risklere rağmen Türkiye’nin en güvenli bölgelerinden biri olan Trabzon’da, olası afet ve savaş senaryolarına karşı kurulan sivil savunma sistemleri dikkat çekiyor.",
-    "image": "https://resim.haber61.net/news/609020.jpg",
-    "keyword": "trabzon"
   }
 ]
