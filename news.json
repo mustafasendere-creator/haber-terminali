@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f22f6f3b",
+    "title": "IŞİD operasyonu: Dokuz kişi gözaltına alındı",
+    "source": "10Haber",
+    "time": "24/03/2026 12:05",
+    "link": "https://10haber.net/gundem/isid-operasyonu-dokuz-kisi-gozaltina-alindi-689405/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul ve Yalova’da IŞİD’e finans sağladığı belirlenen 9 kişi gözaltına alındı. Şüphelilerin, çatışma bölgelerinde örgüt adına faaliyet yürüten kişilerin ailelerine para aktardığı tespit edildi; adreslerinde dijital materyal ve belgeler ele geçirildi. İstanbul Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü ekipleri, İstanbul Cumhuriyet Başsavcılığı koordinesinde yürütülen çalışmalar kapsamında IŞİD&#8217;e finansman sağlayan şüphelilerin tespit edilerek yakalanması için çalışma [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c252f7bf1a06.95755591.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0a62b80e",
     "title": "Newroz soruşturması: 38 kişi gözaltında",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ve İran arasında müzakere olasılığına ilişkin başkentlerden birbirleriyle çelişkili açıklamalar geliyor. Buna karşın İran Dışişleri Bakanlığı'ndan üst düzey bir yetkili arabulucular aracılığıyla ABD'den bazı \"notların\" kendilerine ulaştırıldığını söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_de8085ad",
-    "title": "Hürmüz Boğazı'ndan 23 günde geçen gemi sayısı savaş öncesi bir günlük seviyeye denk geldi",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 11:25",
-    "link": "https://www.aa.com.tr/tr/guncel/hurmuz-bogazindan-23-gunde-gecen-gemi-sayisi-savas-oncesi-bir-gunluk-seviyeye-denk-geldi/3876860",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küresel ticaretin kritik noktası Hürmüz Boğazı'ndan 1-23 Mart'ta sadece 144 gemi geçerken, bu rakam savaş öncesinde tek bir günde ulaşılan seviyeye denk geliyor.",
     "image": null,
     "keyword": null
   }
