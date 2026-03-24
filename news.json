@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f62a674f",
+    "title": "SunExpress’ten yurt dışı uçuşlara 10 Euro yakıt ek ücreti alacak",
+    "source": "Ekonomim",
+    "time": "24/03/2026 22:52",
+    "link": "https://www.ekonomim.com/havacilik/sunexpressten-yurt-disi-ucuslara-10-euro-yakit-ek-ucreti-alacak-haberi-883749",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SunExpress Havayolları, artan yakıt maliyetleri nedeniyle 1 Mayıs’tan itibaren yurt dışı kalkışlı uçuşlar için yakıt ek ücreti uygulayacağını açıkladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/12/sunexpress-kolnden-adana-elazig-ve-trabzona-ucuslara-basliyor-kb7j_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_850821ea",
     "title": "Kars'ta 15 yaşındaki Rojhat'tan 3 gündür haber alınamıyor",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bankacılık Düzenleme ve Denetleme Kurumunun BDDK konut kredilerine yönelik geçen ayın başında hayata geçirdiği yeni düzenlemeler etkisini göstermeye başlarken, şubatta ipotekli konut satışlarının toplam içindeki payı 33 ayın ardından ilk kez yüzde 20'yi aştı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_15820d1d",
-    "title": "Trumptan İran açıklaması: Liderleri yok, anlaşma istiyorlar",
-    "source": "TRT Haber",
-    "time": "24/03/2026 21:52",
-    "link": "https://www.trthaber.com/haber/dunya/trumptan-iran-aciklamasi-liderleri-yok-anlasma-istiyorlar-938942.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran saldırılarını \"büyük bir başarı\" olarak nitelendirerek, \"İranın şu an bir lideri yok, anlaşma yapmak istiyorlar\" dedi.",
     "image": null,
     "keyword": null
   }
