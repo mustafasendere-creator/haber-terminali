@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83a9f2b7",
+    "title": "Cumhurbaşkanı Erdoğan: Savaş Netanyahu'nun ikbal savaşı ama ceremesini 8 milyar çekiyor",
+    "source": "TRT Haber",
+    "time": "24/03/2026 19:52",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-savas-netanyahunun-ikbal-savasi-ama-ceremesini-8-milyar-cekiyor-938929.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Son 25 gün şunu göstermiştir, savaş İsrail'in savaşı olmakla birlikte bedelini dünya ödüyor. Savaş Netanyahu'nun ikbal savaşı ama ceremesini 8 milyar çekiyor\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b14a252f",
     "title": "İranlı kaynak, ABD'nin Tahran yönetimiyle görüşmek için temas girişiminde bulunduğunu söyledi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sincan Cezaevi’nde tutulan gazeteci İsmail Arı gönderdiği mesajda, “Haberlerim kimleri rahatsız etti” diye sordu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339710.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a4f4865c",
-    "title": "İran Kızılay'ı: \"81 binden fazla yapı zarar gördü\"",
-    "source": "Evrensel",
-    "time": "24/03/2026 19:12",
-    "link": "https://www.evrensel.net/haber/5976591/iran-kizilayi-81-binden-fazla-yapi-zarar-gordu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Kızılay'ı, ABD ve İsrail’in düzenlediği saldırılarda hasar gören binalara ilişkin açıklama yaptı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340110.jpg",
     "keyword": null
   }
 ]
