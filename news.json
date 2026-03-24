@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5a99961f",
+    "title": "Kuveyt, petrol üretiminde yeni bir kısıtlamaya gidildiğini duyurdu",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 02:31",
+    "link": "https://www.aa.com.tr/tr/guncel/kuveyt-petrol-uretiminde-yeni-bir-kisitlamaya-gidildigini-duyurdu/3877934",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Petrol Kurumu, Hürmüz Boğazı'ndaki geçişlerin hedef alınması nedeniyle ham petrol üretiminde yeniden kısıtlamaya gidildiğini duyurarak, tam kapasite üretime dönülmesinin savaşın sona ermesi halinde 4 ay süreceğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_81e6417f",
     "title": "Erbil'de insansız hava araçlarıyla birden fazla noktaya saldırı düzenlendi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "OpenAI, video uygulaması Sora'yı kapatıyor 25.03.2026 DikenChatGPT'nin üreticisi OpenAI, altı ay önce piyasaya sürdüğü kısa video uygulaması Sora’yı kapatacağını açıkladı.\nThe post OpenAI, video uygulaması Sora'yı kapatıyor appeared first on #site_linkat 25.03.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ad8db0f3",
-    "title": "Soma Katliamı davasında istinaftan zaman aşımı kararı | EMEP: İş cinayetlerinde cezasızlık sürüyor",
-    "source": "Evrensel",
-    "time": "25/03/2026 00:52",
-    "link": "https://www.evrensel.net/haber/5976544/soma-katliami-davasinda-istinaftan-zaman-asimi-karari-emep-is-cinayetlerinde-cezasizlik-suruyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstinaf mahkemesi, Soma Maden Katliamı'nda yargılanan kamu görevlileri hakkında zaman aşımı kararı verdi. Emek Partisi, “Soma düzeni öldürüyor, 'cezasızlık düzeni' failleri koruyor\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/335807.jpg",
     "keyword": null
   }
 ]
