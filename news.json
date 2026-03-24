@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e30682b",
+    "title": "Sultangazi'de iki katlı iş yerinde yangın: Trafoda başlayıp kömür deposuna sıçradı",
+    "source": "Evrensel",
+    "time": "24/03/2026 07:45",
+    "link": "https://www.evrensel.net/haber/5976461/sultangazide-iki-katli-is-yerinde-yangin-trafoda-baslayip-komur-deposuna-sicradi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sultangazi'de elektrik trafosunda başlayıp bir iş yerinin kömür deposuna sıçrayan yangın söndürüldü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339992.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_414bd253",
     "title": "Fransa’da Paris yine ‘sol’ dedi",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "📌 Trabzon Büyükşehir Belediyemizin düzenlediği bayramlaşma programında kıymetli hemşehrilerimizle bir araya geldik. Bayramın bereketini, birlik ve beraberliğin sıcaklığını hep birlikte paylaştık. Gönüller bir, muhabbet daim… Hayırlı bayramlar 💫 📍 @Trabzo  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_50d1a2be",
-    "title": "Eşitsizliğin dayanılmaz ağırlığı!",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 05:05",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-sakir-ors/esitsizligin-dayanilmaz-agirligi-2489051",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İki hafta önceki “Ekonomi-Politik”te enflasyonun ve hayat pahalılığının günlük hayatımızla etkileşimlerini irdelemiştik.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar475_cover.jpeg",
-    "keyword": null
   }
 ]
