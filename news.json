@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_60acaa1c",
+    "title": "Savunma ve havacılık sektörü Ankara'da bir araya gelecek",
+    "source": "TRT Haber",
+    "time": "24/03/2026 20:12",
+    "link": "https://www.trthaber.com/haber/savunma/savunma-ve-havacilik-sektoru-ankarada-bir-araya-gelecek-938903.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "OSTİM Savunma ve Havacılık Kümelenmesi OSSA tarafından 2013 yılından bu yana düzenlenen \"Savunma ve Havacılıkta Endüstriyel İşbirliği Günleri ICDDA\", \"IDA Türkiye\" adıyla daha geniş kapsamlı bir şekilde sektörün küresel aktörlerini buluşturacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0efde0e4",
     "title": "Japonya'da bir kişi Çin'in Tokyo Büyükelçiliğine girerek diplomatları tehdit etti",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Orta Doğu'daki çatışmalar, Avrupa ekonomisini son yılların en sert bileşimiyle karşı karşıya bıraktı: Stagflasyon. Girdi maliyetleri hızla artarken üretim yavaşlıyor, güven geriliyor ve Avrupa Merkez Bankası’nın istikrar alanı daralıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_967b9fb3",
-    "title": "'Trump’la görüşme' iddiasını reddeden İran yeni füze dalgası başlattı",
-    "source": "Euronews",
-    "time": "24/03/2026 19:32",
-    "link": "http://tr.euronews.com/2026/03/24/trumpla-gorusme-iddiasini-reddeden-iran-yeni-fuze-dalgasi-baslatti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tahran, Trump’ın iki taraf arasında İran savaşını sona erdirmeye yönelik 'çok iyi' görüşmeler yapıldığı yönündeki iddialarını reddetmesinin ardından salı günü de bölgedeki hedeflere saldırılarını sürdürdü. Son gelişmeler için canlı blogumuzu takip edin.",
     "image": null,
     "keyword": null
   }
