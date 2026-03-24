@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bfa58ced",
+    "title": "Euro Bölgesi'ne savaş freni",
+    "source": "TRT Haber",
+    "time": "24/03/2026 20:32",
+    "link": "https://www.trthaber.com/haber/ekonomi/euro-bolgesine-savas-freni-938901.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Euro Bölgesi'nde mart ayında büyüme, Orta Doğu'da yaşanan gelişmelerin enflasyon artışını körüklemesiyle neredeyse durma noktasına geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0916ac4c",
     "title": "'Dur' ihtarına uymayan sürücüye 425 bin TL ceza",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Federal Polis, paketlerden birinin saat 17:20 sıralarında 20 numaralı peronda, diğerinin ise 18 numaralı peronda tespit edildiğini bildirdi. Önlem amacıyla hem metro hem de tren istasyonları tamamen boşaltıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_711a0558",
-    "title": "Rusya bahar taarruzuna başladı: Ukrayna barış görüşmeleri çıkmazda",
-    "source": "Euronews",
-    "time": "24/03/2026 19:52",
-    "link": "http://tr.euronews.com/2026/03/24/rusya-bahar-taarruzuna-basladi-ukrayna-baris-gorusmeleri-cikmazda",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya’nın Ukrayna’ya karşı yürüttüğü savaşı sonlandırmayı amaçlayan diplomatik süreç, İran savaşının başlamasından bu yana durma noktasına geldi. Kiev yönetimi, bu yeni cephenin \"Rusya'nın özgüvenini artırdığını\" iddia ediyor.",
     "image": null,
     "keyword": null
   }
