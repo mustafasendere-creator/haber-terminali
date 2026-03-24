@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3396b45f",
+    "title": "Tahran'da art arda patlamalar meydana geldi",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 02:51",
+    "link": "https://www.aa.com.tr/tr/guncel/tahranda-art-arda-patlamalar-meydana-geldi/3878000",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail saldırılarının sürdüğü İran'ın başkenti Tahran'da art arda patlamalar meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6c77eb42",
     "title": "Ham petrolden rafine kâra",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Altın fiyatlarında savaşla birlikte başlayan düşüş Merkez Bankası brüt rezervlerinde 20.5 milyar dolar, net uluslararası rezervlerinde ise 14.5 milyar dolar kayba uğrattı. Rezervlerin büyük kısmını altın olarak tutmanın riskli olduğunu vurgulayan uzmanlar portföy çeşitlenmesine gidilmesi gerektiğini kaydetti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/net-rezervde-altin-hasari-145-milyar-dolar-wdr1_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_40da4cb8",
-    "title": "Tüm cephelerde ilerleme yavaş, durdu ya da geriledi",
-    "source": "Ekonomim",
-    "time": "25/03/2026 00:53",
-    "link": "https://www.ekonomim.com/ekonomi/tum-cephelerde-ilerleme-yavas-durdu-ya-da-geriledi-haberi-883729",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Çalışma Örgütü (ILO), IMF ve Dünya Bankası’nın yıllık toplantısı öncesi, 2015’de BM’de kabul edilen “Sürdürülebilir Kalkınma Hedefleri” nin 10. yılı nedeniyle bir çalışma yayınladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/tum-cephelerde-ilerleme-yavas-durdu-ya-da-geriledi-jvne_cover.jpg",
     "keyword": null
   }
 ]
