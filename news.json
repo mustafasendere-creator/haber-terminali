@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fbc8e058",
+    "title": "Vietnam'da artan yakıt fiyatları nedeniyle hava yolu şirketleri bazı uçuşları durdurmaya hazırlanıyor",
+    "source": "TRT Haber",
+    "time": "24/03/2026 10:06",
+    "link": "https://www.trthaber.com/haber/dunya/vietnamda-artan-yakit-fiyatlari-nedeniyle-hava-yolu-sirketleri-bazi-ucuslari-durdurmaya-hazirlaniyor-938865.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Vietnam'da hava yolu şirketleri, Orta Doğu'daki gerilimin yol açtığı jet yakıtı fiyatlarında yaşanan artış nedeniyle bazı uçuşlarını durdurma veya sefer sıklığını azaltma hazırlığı yapıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3e12d71b",
     "title": "Kolombiya'da düşen askeri uçak: Ölü sayısı 66'ya yükseldi",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor ile Trabzon Merkez Fen Lisesi arasında eğitim ve teknoloji alanında iş birliği protokolü imzalandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/trabzonspor-ile-trabzon-merkez-fen-lisesi-arasinda-is-birligi-protokolu-imzalandi.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_a4aa63bb",
-    "title": "Trabzonspor ile Trabzon Merkez Fen Lisesi arasında iş birliği protokolü imzalandı",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 09:25",
-    "link": "https://www.takagazete.com.tr/trabzonspor-ile-trabzon-merkez-fen-lisesi-arasinda-is-birligi-protokolu-imzalandi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor ile Trabzon Merkez Fen Lisesi arasında eğitim ve teknoloji alanında iş birliği protokolü imzalandı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/trabzonspor-ile-trabzon-merkez-fen-lisesi-arasinda-is-birligi-protokolu-imzalandi.jpg",
-    "keyword": "trabzon"
   }
 ]
