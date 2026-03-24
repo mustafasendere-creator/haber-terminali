@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_290cd83a",
+    "title": "Elazığ’daki zincirleme kazada 4 araç hasar gördü",
+    "source": "Gazete Duvar",
+    "time": "24/03/2026 13:05",
+    "link": "https://www.gazeteduvar.com.tr/elazigdaki-zincirleme-kazada-4-arac-hasar-gordu-haber-1765744",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elazığ’da iki otomobilin çarpışması sonucu savrulan araçlar, park halindeki iki otomobile daha çarptı. Zincirleme kazada 4 araçta maddi hasar oluştu.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/24/basliksiz-1-vbsv_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f2ee1dc2",
     "title": "Osmaniye’de otomobil köprüden uçtu: 1 yaralı",
     "source": "Gazete Duvar",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un köklü tarihi, zengin kültürel mirası ve eşsiz lezzetleri; 9–12 Nisan tarihleri arasında Ankara Başkent Millet Bahçesi’nde düzenlenecek Trabzon Tanıtım Günleri’nde Başkentlilerle buluşacak.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/t-a-n-i-t-i-m.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_86f498e6",
-    "title": "Başkentte barajların doluluk oranı geçen yıla göre yüzde 1,34 azaldı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 12:25",
-    "link": "https://www.aa.com.tr/tr/guncel/baskentte-barajlarin-doluluk-orani-gecen-yila-gore-yuzde-1-34-azaldi/3876967",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkente su sağlayan barajlarda doluluk oranı geçen yıla göre yüzde 1,34 düşüşle yüzde 28,09 olarak ölçüldü.",
-    "image": null,
-    "keyword": null
   }
 ]
