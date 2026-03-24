@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7a6c9200",
+    "title": "Ailesi ve arkadaşlarından Atalay'a doğum günü mesajı: 'Senin sesin adaletin sesi'",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 04:05",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/ailesi-ve-arkadaslarindan-atalay-a-dogum-gunu-mesaji-senin-sesin-adaletin-sesi-2489074",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gezi Direnişi davasında 18 yıl hapis cezasına çarptırılan Türkiye İşçi Partisi Hatay Milletvekili Can Atalay için ailesi ve arkadaşları, doğum günü dolayısıyla dayanışma mektubu yayımladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b088721d-7ae6-4a52-aae5-11d48630b55f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1bc01b1b",
     "title": "Fransa'da yerel seçimler: Paris yine ‘sol’ dedi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çorum’da Newroz’da yapılan açıklamada savaşlara, yoksullaşmaya ve baskılara dikkat çekildi; emekçilerin mücadelesinin büyüdüğü vurgulanarak barış, kardeşlik ve özgürlük çağrısı yapıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339889.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_60891d52",
-    "title": "Avrupa'nın çöpünü ithal ederken, kendi plastiğimizi yasaklamak çözüm mü?",
-    "source": "Evrensel",
-    "time": "24/03/2026 01:05",
-    "link": "https://www.evrensel.net/haber/5976370/avrupanin-copunu-ithal-ederken-kendi-plastigimizi-yasaklamak-cozum-mu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Prof. Dr. Sedat Gündoğdu, tek kullanımlık plastik yasağının tek başına yeterli olmayacağını belirterek, üretimin kısıtlanması ve plastik atık ithalatının sonlandırılması gerektiğini vurguladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/338277.jpg",
     "keyword": null
   }
 ]
