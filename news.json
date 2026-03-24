@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ae720370",
+    "title": "Borsa güne düşüşle başladı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 10:05",
+    "link": "https://www.aa.com.tr/tr/guncel/borsa-gune-dususle-basladi/3876733",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,48 azalışla 13.104,59 puandan başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_17bec34e",
     "title": "Pentagon, mahkemenin anayasaya aykırı bulduğu basın mensuplarına yönelik politikasını değiştirdi",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "İran'ın gece yarısından bu yana düzenlediği 6'ncı misilleme saldırısında İsrail'in orta kesimi hedef alınırken, bir binaya düşen füze parçaları nedeniyle 4 kişi hafif şekilde yaralandı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_99f2bb08",
-    "title": "Savaş sonrası Trabzon’un turizminde yeni rotası belli oldu",
-    "source": "Haber61",
-    "time": "24/03/2026 09:25",
-    "link": "https://www.haber61.net/trabzon/savas-sonrasi-trabzonun-turizminde-yeni-rotasi-belli-oldu-h627535.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Ticaret ve Sanayi Odası Başkanı Erkut Çelebi, turizmde Körfez ülkelerine alternatif olarak Orta Asya pazarına yöneldiklerini açıkladı.",
-    "image": "https://resim.haber61.net/news/609045.jpg",
-    "keyword": "trabzon"
   }
 ]
