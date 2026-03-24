@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3766275c",
+    "title": "Kuveyt petrol üretiminde kısıtlamaya gitti",
+    "source": "Ekonomim",
+    "time": "25/03/2026 00:32",
+    "link": "https://www.ekonomim.com/sektorler/enerji/kuveyt-petrol-uretiminde-kisitlamaya-gitti-haberi-883770",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Petrol Kurumu, Hürmüz Boğazı&#039;ndaki gerilim nedeniyle petrol üretiminde yeniden kısıtlamaya gittiğini duyurdu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/kuveyt-petrol-uretiminde-kisitlamaya-gitti-dlm5_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_65f72031",
     "title": "Kısa haberler",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Lideri Mücteba Hamaney’in Savunma Konseyi’ndeki temsilcisi Ali Ekber Ahmediyan, “Yıllardır ABD’lilerin buraya gelmesini bekliyoruz. Yaklaşın.” ifadelerini kullandı. ABD medyası, Savunma Bakanlığının (Pentagon), 82. Hava İndirme Tümeni'nden yaklaşık 3 bin askeri \"İran'la savaş\" dolayısıyla Ortadoğu'ya göndermeye hazırlandığını iddia etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2ec91bc9-522e-462f-8538-f9834bac4d25.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ff56985b",
-    "title": "Fenerbahçe Beko deplasmanda kayıp: Son 4 maçta 3. mağlubiyet!",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 22:52",
-    "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-beko-deplasmanda-kayip-son-4-macta-3-maglubiyet-2489323",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe Beko, EuroLeague'in 33. haftasında deplasmanda karşılaştığı Maccabi Rapyd'e 94-89 mağlup oldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0007fc80-e4d3-4a5f-b7a6-73b857023304.jpg",
     "keyword": null
   }
 ]
