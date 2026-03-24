@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9dbe2997",
+    "title": "Trump’tan diyalog açıklaması, İsrail’den saldırı: Tahran yeniden vuruldu",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 03:25",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-diyalog-aciklamasi-israil-den-saldiri-tahran-yeniden-vuruldu-2488970",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Tahran’ın “kalbinde” İran rejimine ait altyapı hedeflerine yönelik yeni hava saldırıları başlattığını açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7aae045c-4352-4b8c-962e-fb83fa6e4482.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_30c4488f",
     "title": "Trafikte saldırıya ceza yağdı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "\"Biz işçilere gelince cebimizdeki son kuruşa kadar göz koyanlar, patronlara gelince kasaları yeter ki dolsun diye ‘Sen şu kadarını ver, bize yeter’ diyor.\"",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339972.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d201eb6f",
-    "title": "Doç. Dr. Savaş Karabulut: Patlama doğal gaz kaynaklı ise vay halimize",
-    "source": "Evrensel",
-    "time": "24/03/2026 00:45",
-    "link": "https://www.evrensel.net/haber/5976413/doc-dr-savas-karabulut-patlama-dogal-gaz-kaynakli-ise-vay-halimize",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gebze Teknik Üniversite İnşaat Mühendisliği Öğretim Üyesi Doç. Dr. Savaş Karabulut, Türkiye’nin sadece doğal değil yapay tehlikelere bile hazırlıklı olmadığını belirterek “Türkiye’nin hiçbir ili, ilçesi hatta mahallesi bile depreme hazır değil” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339940.jpg",
     "keyword": null
   }
 ]
