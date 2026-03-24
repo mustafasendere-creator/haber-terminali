@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8774a0f4",
+    "title": "ABDİsrail ve İran Savaşı petrol piyasasında 500 milyon varillik kayba sebep oldu",
+    "source": "TRT Haber",
+    "time": "24/03/2026 18:32",
+    "link": "https://www.trthaber.com/haber/dunya/abd-israil-ve-iran-savasi-petrol-piyasasinda-500-milyon-varillik-kayba-sebep-oldu-938908.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hürmüz Boğazı'nın ticari gemilerin büyük çoğunluğuna fiilen kapalı olması nedeniyle sevkiyatların yapılamaması ve depoları dolan petrol üreticilerinin üretimlerinde kesintiye girmek zorunda kalması nedeniyle petrol piyasasındaki kaybın 500 milyon varili bulduğu hesaplanıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_71a0ee02",
     "title": "İran'ın Bahreyn'e saldırısında BAE Silahlı Kuvvetlerinden sivil bir personel hayatını kaybetti",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kamboçya, yıllar süren titiz koruma çalışmalarının ardından, Koh Ker'den 10 binden fazla parçadan yeniden birleştirilen 10. yüzyıla ait Dans Eden Şiva heykelini yeniden gün yüzüne çıkardı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e0c52596",
-    "title": "Rusya’dan Ukrayna’ya yoğun saldırı: Bahar harekâtı sinyali",
-    "source": "Euronews",
-    "time": "24/03/2026 17:52",
-    "link": "http://tr.euronews.com/2026/03/24/rusyadan-ukraynaya-yogun-saldiri-bahar-harekati-sinyali",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya, gece saatlerinde Ukrayna’ya yaklaşık 400 uzun menzilli insansız hava aracıyla saldırı düzenledi. Ukrayna Hava Kuvvetleri, bunun son haftaların en büyük saldırısı olduğunu açıkladı. Saldırılar salı günü de devam ederken, onlarca İHA gündüz saatlerinde başkent Kiev’i hedef aldı.",
     "image": null,
     "keyword": null
   }
