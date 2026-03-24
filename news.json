@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_395c11e0",
+    "title": "Kabine yoğun gündemle toplanacak",
+    "source": "TRT Haber",
+    "time": "24/03/2026 10:26",
+    "link": "https://www.trthaber.com/haber/gundem/kabine-yogun-gundemle-toplanacak-938869.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kabine toplantısı, bugün Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında Beştepe'de yapılacak. Toplantının öncelikli gündemi, ABDİsrail İran savaşı ve bölgeye yansımaları olacak. Savaşa dair tüm gelişmeler Kabine toplantısında ele alınacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_797ec57c",
     "title": "Meloni'ye darbe: İtalyan HSK'sında reform girişimine ret",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çin, Orta Doğu'da süren çatışmanın güvenlik risklerinin artması nedeniyle İsrail'deki vatandaşlarına ülkeyi en kısa zamanda terk etmeleri çağrısında bulundu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/53c3bcec-a838-414a-a3fc-27186cff5e11.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_620aafb6",
-    "title": "Brent petrolün varili 99,52 dolardan işlem görüyor",
-    "source": "TRT Haber",
-    "time": "24/03/2026 09:46",
-    "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9952-dolardan-islem-goruyor-938861.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Brent petrolün varili uluslararası vadeli piyasalarda 99,52 dolardan satılıyor.",
-    "image": null,
     "keyword": null
   }
 ]
