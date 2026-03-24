@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_97be8040",
+    "title": "İran, Suudi Arabistan, BAE, Kuveyt ve Bahreyn'deki bazı noktaları hedef aldı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 02:52",
+    "link": "https://www.trthaber.com/haber/dunya/iran-suudi-arabistan-bae-kuveyt-ve-bahreyndeki-bazi-noktalari-hedef-aldi-938951.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan, Birleşik Arap Emirlikleri BAE, Kuveyt ve Bahreyn, İran'dan fırlatılan füze ve insansız hava araçlarını İHA engellediklerini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6b28322a",
     "title": "İran'dan atılan füzeler nedeniyle İsrail'de geniş bir alanda sirenler çaldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "UEFA ülke puanı sıralamasında elde edilen başarının ardından, 2026-2027 sezonunda Türkiye takımlarının Avrupa kupalarına katılım formatı resmiyet kazandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340119.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c4a5159c",
-    "title": "19 parlamenterden Suriye'de kaçırılan gazeteciler için Avrupa kurumlarına çağrı",
-    "source": "Evrensel",
-    "time": "25/03/2026 01:12",
-    "link": "https://www.evrensel.net/haber/5976617/19-parlamenterden-suriyede-kacirilan-gazeteciler-icin-avrupa-kurumlarina-cagri",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Parlamentosundan 19 milletvekili, 18 Ocak’ta Suriye’nin Rakka kentinde HTŞ güçleri tarafından kaçırılan gazeteciler Eva Maria Michelmann ve Ahmet Polad için Avrupa Birliği kurumlarını harekete geçmeye çağırdı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340132.jpg",
     "keyword": null
   }
 ]
