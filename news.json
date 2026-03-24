@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3f884b14",
+    "title": "Özgür Özel'den tapu açıklaması: ID numaraları yalanlanmadı",
+    "source": "DW Türkçe",
+    "time": "24/03/2026 17:32",
+    "link": "https://www.dw.com/tr/özgür-özel-den-tapu-açıklaması-id-numaraları-yalanlanmadı/a-76507963",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP lideri Özgür Özel, Adalet Bakanı Akın Gürlek'e ait olduğunu söylediği tapu kayıtlarına ilişkin ID numaralarının yalanlanmadığını dile getirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_075001f5",
     "title": "İsrail Savunma Bakanı: Lübnan'ın güneyini işgal edeceğiz",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "UEFA Avrupa Ligi finali bu sezon Beşiktaş Park'ta oynanacak. Türkiye Futbol Federasyonu, Beşiktaş'ın Türkiye Kupası'nda yarı finale yükselmesi halinde Avrupa Ligi finali nedeniyle kupadaki maçını daha erken bir tarihte oynayacağını açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5634671c-9101-4c26-9502-e069a793180b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8a9287d3",
-    "title": "Fenerbahçe Beşiktaş maçı ne zaman, saat kaçta? FB BJK muhtemel 11'ler!",
-    "source": "Haber Global",
-    "time": "24/03/2026 16:53",
-    "link": "https://haberglobal.com/spor/fenerbahce-besiktas-maci-ne-zaman-saat-kacta-fb-bjk-muhtemel-11ler-515007",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe ile Beşiktaş Süper Lig maçında karşı karşıya gelecek. Fenerbahçe'nin sahasında Beşiktaş ile karşılaşacağı maçın ne zaman, saat kaçta oynanacağı merak ediliyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/fenerbahce-besiktas-maci-ne-zaman-saat-kacta-fb-bjk-muhtemel-11ler-me6q.jpg",
     "keyword": null
   }
 ]
