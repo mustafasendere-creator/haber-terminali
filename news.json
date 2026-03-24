@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9734d46c",
+    "title": "Otopark kavgası dehşetle bitti: Kızının gözü önünde katledildi",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 20:52",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/otopark-kavgasi-dehsetle-bitti-kizinin-gozu-onunde-katledildi-2489303",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pendik’te komşular arasında çıkan otopark tartışması dehşetle noktalandı. Bina sakinlerinden Hüseyin Teke (44), bina otoparkına ticari araçlarını park eden galeri sahibi S.B.'yi (41) uyarmasının ardından yaşanan arbede sırasında kızının gözü önünde vurularak öldürüldü. Polis ekipleri tarafından olayla ilgili inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c71268ee-b89f-4e1d-a9ae-d3f05988a9d5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_53511bac",
     "title": "Trabzonspor - Galatasaray maçının bilet fiyatları açıklandı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Asya ülkelerinin çoğu, Hürmüz Boğazı’ndan geçen petrole büyük ölçüde bağımlı. Çatışma dördüncü haftasına girerken bazı gözde tatil merkezleri yakıt tüketimini kısmaya yönelik önlemler alıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e1d37c57",
-    "title": "ABD-İran görüşmeleri beklentisiyle hisse senetleri düşüşle açıldı, petrol 100 doların üstünde",
-    "source": "Euronews",
-    "time": "24/03/2026 20:12",
-    "link": "http://tr.euronews.com/business/2026/03/24/abd-iran-gorusmeleri-beklentisiyle-hisse-senetleri-dususle-acildi-petrol-100-dolarin-ustun",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD hisse senetleri salı günü hafif düşüşle açılırken, petrol fiyatları ise ABD Başkanı Trump'ın görüşmelerde ilerleme kaydedildiği sinyalini vermesine rağmen İran savaşına ilişkin belirsizliğin devam etmesiyle yükseldi.",
     "image": null,
     "keyword": null
   }
