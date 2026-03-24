@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a245010",
+    "title": "Edremit'te tutuklamalara protesto: “Gerçeği yazmak ve söylemek suç değildir”",
+    "source": "Evrensel",
+    "time": "24/03/2026 19:52",
+    "link": "https://www.evrensel.net/haber/5976595/edremitte-tutuklamalara-protesto-gercegi-yazmak-ve-soylemek-suc-degildir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir'de tutuklanan sendikacı Mehmet Türkmen ve gazeteci İsmail Arı'nın serbest bırakılması talebiyle eylem ve basın açıklaması düzenlendi. Açıklamada gerçeği söylemenin ve yazmanın suç olmadığı vurgulandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340113.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f8bc01e2",
     "title": "Ankara'da meslek örgütleri eylem yaptı: İsmail Arı özgür bırakılsın",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Günlük rutininizde yapacağınız küçük değişiklikler, sandığınızdan çok daha fazla maruziyeti azaltabilir.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1d3fb5a8",
-    "title": "Danimarka’da erken seçim: Başbakan Frederiksen koltuğunu koruyabilecek mi?",
-    "source": "Euronews",
-    "time": "24/03/2026 19:12",
-    "link": "http://tr.euronews.com/my-europe/2026/03/24/danimarkada-erken-secim-basbakan-frederiksen-koltugunu-koruyabilecek-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Danimarkalılar, Mette Frederiksen'in üçüncü dönem için aday olduğu erken seçimde oy kullanırken, anketler parçalı bir parlamento ve sıkı bir sol-sağ yarışı öngörüyor.",
     "image": null,
     "keyword": null
   }
