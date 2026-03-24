@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e49102a3",
+    "title": "Bakan Bayraktar: İrandan gelen gaz akışında kesinti yok",
+    "source": "TRT Haber",
+    "time": "24/03/2026 19:32",
+    "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-irandan-gelen-gaz-akisinda-kesinti-yok-938935.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, \"İran'dan gaz akışında herhangi bir kesinti yok, depolama tesislerimizin yüzde 71'i dolu\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_46385fcf",
     "title": "Kuveyt: Son 24 saatte ülkeye 17 balistik füze ile 13 İHA atıldı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Macar muhalefet lideri Peter Magyar, anketlerin partisinin kazanabileceğini gösterdiği 12 Nisan seçimlerine birkaç hafta kala basında çıkan haberlere atıfta bulunarak, ülkenin gizli servislerini Tisza Partisi'nin bilişim sistemlerini hedef almakla suçladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_dfdcba44",
-    "title": "Almanya'da karaya oturan kambur balinayı kurtarma umutları azaldı",
-    "source": "Euronews",
-    "time": "24/03/2026 18:32",
-    "link": "http://tr.euronews.com/video/2026/03/24/almanyada-karaya-oturan-kambur-balinayi-kurtarma-umutlari-azaldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Memeliyi kurtarma çalışmaları sürüyor; balinanın yeniden derin sulara dönebilmesi için dalga oluşturmak amacıyla tekneler de kullanılıyor.",
     "image": null,
     "keyword": null
   }
