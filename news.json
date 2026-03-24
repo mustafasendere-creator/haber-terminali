@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b202ac4b",
+    "title": "ABD, Ortadoğu'ya 3 bin paraşütçü gönderiyor: İran'a kara saldırısı hazırlığı mı?",
+    "source": "Evrensel",
+    "time": "24/03/2026 22:31",
+    "link": "https://www.evrensel.net/haber/5976606/abd-ortadoguya-3-bin-parasutcu-gonderiyor-irana-kara-saldirisi-hazirligi-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD, kara saldırılarında kullanılan 82. Hava İndirme Tümeni'ne bağlı 3 bin askeri Ortadoğu'ya gönderme kararı aldı. Bu birlik, daha önce Irak ve Afganistan işgallerinde yer almıştı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340124.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d0685e16",
     "title": "Suriye'nin Rakka vilayetinde aşırı yağışlar nedeniyle nehrin taşması sonucu araziler su altında kaldı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "AK Parti Genel Başkan yardımcıları, CHP Genel Başkanı Özgür Özel'in partisinin grup toplantısında yaptığı konuşmasındaki Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik sözlerine tepki gösterdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_58eebaa0",
-    "title": "Europol, göçmen kaçakçılığıyla mücadele için yeni merkez kurdu",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 21:31",
-    "link": "https://www.aa.com.tr/tr/guncel/europol-gocmen-kacakciligiyla-mucadele-icin-yeni-merkez-kurdu/3877784",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Polis Teşkilatı (Europol), Avrupa Birliği (AB) üye ülkelerine istihbarat, koordinasyon ve operasyon desteğinde bulunacak yeni bir göçmen kaçakçılığıyla mücadele merkezi kurulduğunu bildirdi.",
     "image": null,
     "keyword": null
   }
