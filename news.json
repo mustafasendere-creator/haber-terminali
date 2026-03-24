@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_87e6f99c",
+    "title": "Yapay zeka devi OpenAI, video uygulaması Sora'yı kapatıyor",
+    "source": "Evrensel",
+    "time": "25/03/2026 01:32",
+    "link": "https://www.evrensel.net/haber/5976619/yapay-zeka-devi-openai-video-uygulamasi-sorayi-kapatiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ChatGPT’nin üreticisi OpenAI, olası bir halka arzın zeminini hazırlarken bir dönem popüler olan kısa video uygulaması Sora’yı kapatacağını duyurdu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340134.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e8ca414d",
     "title": "İran: Erbil Havalimanı’ndaki ABD üssünü hedef aldık",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD, kara saldırılarında kullanılan 82. Hava İndirme Tümeni'ne bağlı 3 bin askeri Ortadoğu'ya gönderme kararı aldı. Bu birlik, daha önce Irak ve Afganistan işgallerinde yer almıştı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340124.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_86771889",
-    "title": "Saliha Aydeniz, Meclisteki görevinden istifa etti",
-    "source": "Evrensel",
-    "time": "24/03/2026 23:51",
-    "link": "https://www.evrensel.net/haber/5976612/saliha-aydeniz-meclisteki-gorevinden-istifa-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DEM Parti Mardin Milletvekili Saliha Aydeniz'in TBMM İdare Amiri görevinden istifasına dair dilekçesi TBMM Başkanlığına ulaştı ve Genel Kurula bilgilendirme yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340129.jpg",
     "keyword": null
   }
 ]
