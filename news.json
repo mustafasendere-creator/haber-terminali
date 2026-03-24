@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8cc62b9c",
+    "title": "Pakistan'da ABD-İran görüşmesi hazırlığı iddiası",
+    "source": "Evrensel",
+    "time": "24/03/2026 17:32",
+    "link": "https://www.evrensel.net/haber/5976578/pakistanda-abd-iran-gorusmesi-hazirligi-iddiasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trump’ın İran ile görüşmeler yaptıklarını açıklamalarının ardından “arabulucu” olarak öne çıkan Pakistan'da görüşme hazırlıkları yapıldığı ileri sürüldü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340094.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_84f0f4dd",
     "title": "Pentagon Hark Adası’na ‘hava indirme birliği’ göndermeyi değerlendiriyor",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bugün Türkiye'deki tüm okul kademelerinde \"finansal okuryazarlık\" dersi işlendi. Peki Millî Eğitim Bakanlığının duyurduğu bu dersin içeriği ve amacı ne?",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2a2f444f",
-    "title": "ABD'de Maduro'yu yargılayan hâkimin yaşı tartışma yarattı",
-    "source": "DW Türkçe",
-    "time": "24/03/2026 16:52",
-    "link": "https://www.dw.com/tr/abd-de-maduro-yu-yargılayan-hâkimin-yaşı-tartışma-yarattı/a-76500586",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Venezuela'nın devrik lideri Maduro Perşembe günü ikinci kez yargıç karşısına çıkıyor. 92 yaşındaki federal yargıç Alvin Hellerstein'in yıllar sürebilecek bu davaya ne kadar uygun olduğu ise ABD'de tartışma konusu.",
     "image": null,
     "keyword": null
   }
