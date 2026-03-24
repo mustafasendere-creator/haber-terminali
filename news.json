@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f97245c0",
+    "title": "İstanbul merkezli terör örgütü DEAŞ operasyonunda 9 zanlı yakalandı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 09:06",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-teror-orgutu-deas-operasyonunda-9-zanli-yakalandi-938857.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul ve Yalova'da terör örgütü DEAŞ'a yönelik düzenlenen operasyonda 9 şüpheli gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ffa3055d",
     "title": "Çin'den İsrail'deki vatandaşlarına ülkeyi terk etmeleri uyarısı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un geleceği turizmdir. Bunu artık 7’den 70’e biliyor bu dillendiriyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/u-u-u-1.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_55002d21",
-    "title": "Trabzonspor'da o mevkiler güven veriyor! Denge sağlandı",
-    "source": "Haber61",
-    "time": "24/03/2026 08:25",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-o-mevkiler-guven-veriyor-denge-saglandi-h627520.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’da kale de hücum da emin ellerde olunca bulunulan kponum sürpriz olmadı.",
-    "image": "https://resim.haber61.net/news/609018.jpg",
-    "keyword": null
   }
 ]
