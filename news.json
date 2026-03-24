@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_a07f7c68",
+    "title": "Twit Bakanı (@TwitBakani) / Posts / X - x.com",
+    "source": "X",
+    "time": "24/03/2026 22:52",
+    "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBZcXlWMFNnLU84RkhBaFJ6eGhKRzl1WnlVRXl0YkpKckRkdkt3MGVhVlIxUmZ1TldHeHJmbQ",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "Twit Bakanı (@TwitBakani) / Posts / X  x.com",
+    "image": null,
+    "keyword": "trabzon bakan"
+  },
+  {
     "id": "GND_de78264b",
     "title": "SES yöneticilerinin yargılandığı dava 5. yılında: \"Sendikal haklar, sağlık hakkı ve kadın mücadelesi yargılanamaz",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Galatasaray, Trabzonspor maçı hazırlıklarına bugün başladı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/mansetler-1-261.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_1a2ca3c4",
-    "title": "MEB’den öğretmenlere müjde: 2026 takvimi yayınlandı",
-    "source": "Haber61",
-    "time": "24/03/2026 21:39",
-    "link": "https://www.haber61.net/gundem/mebden-ogretmenlere-mujde-2026-takvimi-yayinlandi-h627598.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Milli Eğitim Bakanlığı, öğretmenlerin merakla beklediği alan değişikliğine bağlı yer değiştirme takvimini ve başvuru şartlarını resmen duyurdu.",
-    "image": "https://resim.haber61.net/news/609154.jpg",
     "keyword": null
   }
 ]
