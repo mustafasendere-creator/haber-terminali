@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dd69270c",
+    "title": "Otomobil refüjdeki dubalara çarptı: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "24/03/2026 12:25",
+    "link": "https://www.gazeteduvar.com.tr/otomobil-refujdeki-dubalara-carpti-1-yarali-haber-1765741",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karaman&#039;da otomobilin refüjdeki beton dubalara çarpması sonucu meydana gelen kazada 1 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/24/basliksiz-1-sb6l_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_50942d3b",
     "title": "Öğrenci servisi dahil 7 araç birbirine girdi, 18 yaralı",
     "source": "Gazete Duvar",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Orta Doğu’da tırmanan askeri gerilimin tetiklediği enerji fiyatlarındaki keskin artış, Avrupa genelinde ciddi bir ekonomik darboğazı beraberinde getirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_37b4314b",
-    "title": "\"Mısır istihbaratının İran Devrim Muhafızlarıyla temas kurduğu ve taraflara ateşkes önerdiği\" iddiası",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 11:45",
-    "link": "https://www.aa.com.tr/tr/guncel/misir-istihbaratinin-iran-devrim-muhafizlariyla-temas-kurdugu-ve-taraflara-ateskes-onerdigi-iddiasi/3876878",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mısır istihbarat yetkililerinin, İran Devrim Muhafızları ile bir iletişim kanalı kurmayı başardığı ve taraflara ateşkes için güven ortamı oluşturmak amacıyla çatışmaların 5 gün süreyle durdurulmasını önerdiği öne sürüldü.",
     "image": null,
     "keyword": null
   }
