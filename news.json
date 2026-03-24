@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_37b4314b",
+    "title": "\"Mısır istihbaratının İran Devrim Muhafızlarıyla temas kurduğu ve taraflara ateşkes önerdiği\" iddiası",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 11:45",
+    "link": "https://www.aa.com.tr/tr/guncel/misir-istihbaratinin-iran-devrim-muhafizlariyla-temas-kurdugu-ve-taraflara-ateskes-onerdigi-iddiasi/3876878",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mısır istihbarat yetkililerinin, İran Devrim Muhafızları ile bir iletişim kanalı kurmayı başardığı ve taraflara ateşkes için güven ortamı oluşturmak amacıyla çatışmaların 5 gün süreyle durdurulmasını önerdiği öne sürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f077db88",
     "title": "ABD'nin İran'a kara operasyonu ihtimali: Riskler ve maliyetler",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MHP lideri Devlet Bahçeli, partisinin grup toplantısında konuşuyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/335533.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_9a9802b3",
-    "title": "Trabzonspor’dan Genç Stoper Hamlesi! Yeni Batagov Adayı Gündemde",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 10:45",
-    "link": "https://www.takagazete.com.tr/trabzonspordan-genc-stoper-hamlesi-yeni-batagov-adayi-gundemde",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, yeni sezon planlamasına erkenden başlayarak savunma hattı için dikkat çeken bir ismi gündemine aldı. Bordo-mavililerin, Norveç Ligi’nde forma giyen 20 yaşındaki Ethan Amundsen-Day’i yakından takip ettiği iddia edildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/aday-8.jpg",
     "keyword": null
   }
 ]
