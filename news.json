@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_51f9b1d5",
+    "title": "ABD: İran'da 9 binden fazla hedef vuruldu",
+    "source": "TRT Haber",
+    "time": "24/03/2026 06:45",
+    "link": "https://www.trthaber.com/haber/dunya/abd-iranda-9-binden-fazla-hedef-vuruldu-938852.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı, İran'a yönelik saldırıların başlamasından bu yana ülkede 9 binden fazla hedefin vurulduğunu açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0888a2bf",
     "title": "Ehliyet, muayene ve sigorta yok: 83 bin TL ceza",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/cari-acik-ve-enflasyonda-artis-ueri_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4b46e571",
-    "title": "Ömer Günel tutuklanmıştı: Kuşadası Belediyesi'nde başkanvekili belli oldu",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 03:25",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/omer-gunel-tutuklanmisti-kusadasi-belediyesi-nde-baskanvekili-belli-oldu-2488968",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’li Ömer Günel’in tutuklanmasının ardından Kuşadası Belediyesi’nde meclis yeni başkanvekilini seçti. Yapılan seçimde Tahsin Demirtaş başkanvekili oldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e54fa1e2-a684-46b4-b314-a78e4db1f775.jpg",
     "keyword": null
   }
 ]
