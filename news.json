@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6fd3cf1d",
+    "title": "ABD-İsrail-İran gerilimi 24. gününde: Savaş sahadan masaya taşındı",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 22:32",
+    "link": "https://www.cumhuriyet.com.tr/dunya/abd-israil-iran-gerilimi-24-gununde-savas-sahadan-masaya-tasindi-2489317",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siyaset bilimci ve iletişim uzmanı Kadriye Şahin, ABD–İsrail–İran hattında 24 gündür devam eden çatışmaları çok boyutlu bir güç mücadelesi olarak değerlendirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/27855156-748a-4d69-844b-2ddda2dd99d4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ecb4efae",
     "title": "Kedilerini yangından kurtarmak isteyen çift, dumandan etkilendi",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun Gazze Şeridi'nin güneyinde yerinden edilenlerin sığındığı çadır kamplara düzenlediği saldırılarda bir çocuğun yaşamını yitirdiği, 7 sivilin yaralandığı bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4b8491c8",
-    "title": "Ukrayna: Rusya son bir günde 1000'e yakın İHA ile saldırı düzenledi",
-    "source": "TRT Haber",
-    "time": "24/03/2026 21:32",
-    "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusya-son-bir-gunde-1000e-yakin-iha-ile-saldiri-duzenledi-938939.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ukrayna, Rus ordusunun, son bir gün içerisinde ülkeye yönelik hava saldırılarında 1000'e yakın silahlı insansız hava aracı İHA kullandığını bildirdi.",
     "image": null,
     "keyword": null
   }
