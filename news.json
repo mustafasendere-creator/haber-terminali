@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_56ad13a1",
+    "title": "Kazakistanda uluslararası Kökpar turnuvası düzenlendi",
+    "source": "TRT Haber",
+    "time": "24/03/2026 11:26",
+    "link": "https://www.trthaber.com/haber/turk-dunyasi/kazakistanda-uluslararasi-kokpar-turnuvasi-duzenlendi-938878.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kazakistanın Türkistan kentinde, Türk halklarının kadim sporlarından Kökparın uluslararası turnuvası gerçekleştirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f3c821ac",
     "title": "Arz güvenliği Avrupa'nın bir numaralı gündem maddesi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Amerikalı lise öğrencisi Mia Heller, içme suyundaki mikroplastiklerin %96’sını temizleyebilen yenilikçi bir filtre tasarladı. Üstelik bu sistem, pahalı ve zahmetli membranlara ihtiyaç duymuyor.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/18-yasindaki-bir-ogrenci-mikroplastiklere-karsi-yeni-bir-cozum-gelistirdi-xyzw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c0ebfd8f",
-    "title": "Asya borsaları Orta Doğu'ya yönelik iyimserlikle pozitif seyrediyor",
-    "source": "Ekonomim",
-    "time": "24/03/2026 10:26",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/asya-borsalari-orta-doguya-yonelik-iyimserlikle-pozitif-seyrediyor-haberi-883595",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Asya borsaları, Orta Doğu&#039;daki çatışmaların bitebileceğine yönelik iyimser beklentilerle pozitif bir seyir izlerken, bölgedeki haber akışı yakından takip edilmeye devam ediyor.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/asya-borsalari-orta-doguya-yonelik-iyimserlikle-pozitif-seyrediyor-vlfc_cover.jpg",
     "keyword": null
   }
 ]
