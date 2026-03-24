@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_850821ea",
+    "title": "Kars'ta 15 yaşındaki Rojhat'tan 3 gündür haber alınamıyor",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 22:52",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kars-ta-15-yasindaki-rojhat-tan-3-gundur-haber-alinamiyor-2489319",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kars'ın Selim ilçesinde 3 gündür haber alınamayan çocuk için arama çalışması başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/968fdcba-744b-41b7-b09a-12076207a29c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5625a2d9",
     "title": "ABD medyasından '82'inci Hava İndirme Tümeni' iddiası: İranlı yetkiliden 'yıllardık buraya gelmelerini bekliyoruz' yanıtı geldi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İran saldırılarını \"büyük bir başarı\" olarak nitelendirerek, \"İranın şu an bir lideri yok, anlaşma yapmak istiyorlar\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_605f6688",
-    "title": "LGBTİ derneği üyeleri için dünya çapında “Acil Eylem” çağrısı",
-    "source": "Evrensel",
-    "time": "24/03/2026 21:52",
-    "link": "https://www.evrensel.net/haber/5976561/lgbti-dernegi-uyeleri-icin-dunya-capinda-acil-eylem-cagrisi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Genç LGBTİ+ Derneği üyelerine yönelik suçlamalar ve fesih kararı uluslararası insan hakları tartışmasını gündeme getirdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/335845.jpg",
     "keyword": null
   }
 ]
