@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b4df06f",
+    "title": "Esat Hâl ‘Tasarım Pazarı’ ile başkentlileri ağırladı",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 04:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/esat-hal-tasarim-pazari-ile-baskentlileri-agirladi-2489067",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Büyükşehir Belediyesi tarafından yenilenen Esat Hâl, kültür ve sanat merkezi olarak yeniden açıldı. Mekânda kurulan Tasarım Pazarı’nı bir günde yaklaşık 5 bin kişi ziyaret etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/fae52990-2ede-428c-80fb-0ab634c0877d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c83d81b5",
     "title": "Mamak’ta ilkokul öğrencilerine ekolojik eğitim",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sosyal medyada yayılan “oto kokusu cezası” iddiaları tartışma yarattı. Mevcut düzenlemeye göre her koku cezaya neden olmuyor ancak görüşü engelleyen aksesuarlar yaptırım kapsamında.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339884.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_87e1f275",
-    "title": "Yasa dışı bahis soruşturması: 1 milyar TL değerindeki varlığa el konuldu",
-    "source": "Evrensel",
-    "time": "24/03/2026 01:25",
-    "link": "https://www.evrensel.net/haber/5976457/yasa-disi-bahis-sorusturmasi-1-milyar-tl-degerindeki-varliga-el-konuldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Osmaniye'de düzenlenen yasa dışı bahis operasyonunda, şebekenin işlem hacminin 9,2 milyar TL olduğu belirlendi. Şüphelilerin mal varlıklarına el konuldu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339984.jpg",
     "keyword": null
   }
 ]
