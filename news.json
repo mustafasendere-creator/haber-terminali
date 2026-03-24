@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b0ea935b",
+    "title": "Bağcılar'da iş yerinde yangın tüpü dolumu sırasında zehirlenme: 2 işçi, 6 sağlık görevlisi zehirlendi",
+    "source": "Evrensel",
+    "time": "24/03/2026 20:12",
+    "link": "https://www.evrensel.net/haber/5976577/bagcilar-da-is-yerinde-yangin-tupu-dolumu-sirasinda-zehirlenme-2-isci-6-saglik-gorevlisi-zehirlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Bağcılar’da yangın söndürme tüpü dolumu yapılan iş yerinde 2 işçi zehirlendi. Ardından ihbar üzerine olay yerine gelen sağlık ekiplerinden 6 kişinin daha zehirlendiği belirlendi. Zehirlenen 8 kişi ambulansla hastaneye kaldırıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340106.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ce03d44b",
     "title": "EMEP'li Sevda Karaca: İktidar bir tek kendi yalanları konuşulsun istiyor",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sağlık personeli Mustafa ve hemşire eşi Ayşe Ercura&#8217;nın ikiz çocukları Melih (27) ve Semih (27) ile kızları Rümeysa (31), anne ve babaları gibi sağlık alanında hizmet vermek istedi. Tıp fakültesini bitiren üç kardeş babalarının görev yaptığı Kütahya Şehir Hastanesine atanarak göreve başladı. Baba Mustafa Ercura AA muhabirine eşinin de Kütahya Sağlık Bilimleri Üniversitesi Evliya Çelebi [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c26c028a1c68.63352916.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_43510e01",
-    "title": "Trabzonspor-Fenerbahçe maçı sonrası yaşanan olaylarla ilgili karar çıktı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 19:31",
-    "link": "https://www.aa.com.tr/tr/guncel/trabzonspor-fenerbahce-maci-sonrasi-yasanan-olaylarla-ilgili-karar-cikti/3877506",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trabzon'da 17 Mart 2024'te oynanan Trabzonspor-Fenerbahçe maçının ardından çıkan olaylarla ilgili 3 futbolcu ile 3 taraftar hakkında karar verildi.",
-    "image": null,
     "keyword": null
   }
 ]
