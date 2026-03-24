@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88f0d231",
+    "title": "ABD'de petrol rafinerisinde patlama",
+    "source": "OdaTV",
+    "time": "24/03/2026 08:46",
+    "link": "https://www.odatv.com/guncel/abdde-petrol-rafinerisinde-patlama-120140520",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD’nin Teksas eyaletindeki Valero petrol rafinerisinde bir patlama meydana geldi ve yangın çıktı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/abdde-petrol-rafinerisinde-patlama-gpm7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0665f59e",
     "title": "AYM'den üç siyasi partiye suç duyurusu",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Karadeniz Bölgesi genelinde bahar mevsiminin değişken yüzü kendini gösterecek. Bölgenin büyük bir kısmında çok bulutlu bir hava hakim olurken, özellikle Doğu Karadeniz'in kıyı şeridinde aralıklı ve hafif yağış geçişleri bekleniyor. Hava sıcaklıkları ise mevsim normallerinde seyredecek.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/09/yagmurrr-8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f1ee892c",
-    "title": "Hahn, AB’nin Kıbrıs Özel Temsilciliği görevinden istifa etti",
-    "source": "Euronews",
-    "time": "24/03/2026 08:05",
-    "link": "http://tr.euronews.com/my-europe/2026/03/24/hahn-abnin-kibris-ozel-temsilciligi-gorevinden-istifa-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Johannes Hahn, Güney Kıbrıs liderliği ve ülke cumhurbaşkanının Avrupa Birliği’nin Kıbrıs sorununa daha etkin katılım sağlaması yönündeki aylar süren girişimlerinin ardından Mayıs 2025’te özel temsilci olarak atanmıştı.",
-    "image": null,
     "keyword": null
   }
 ]
