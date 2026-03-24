@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7297e409",
+    "title": "Pluribus'ta 2. sezon belirsizliği: Hayranları üzecek açıklamalar",
+    "source": "Evrensel",
+    "time": "24/03/2026 09:45",
+    "link": "https://www.evrensel.net/haber/5976480/pluribusta-2-sezon-belirsizligi-hayranlari-uzecek-aciklamalar",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pluribus’un ikinci sezonu için bekleyiş uzuyor. Yaratıcı Vince Gilligan, sürecin tahmin edilenden daha yavaş ilerlediğini açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340006.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_7bbdeb7e",
     "title": "Akçaabat’ta uluslararası sanat buluşması, 22 ülkeden 132 sanatçı aynı sergide",
     "source": "Karadeniz Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail’in Lübnan’ın Aley ilçesine bağlı Beşamun kasabasına düzenlediği hava saldırısında ilk belirlemelere göre 2 kişi hayatını kaybetti, 5 kişi yaralandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339841.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_74721330",
-    "title": "ABD'de petrol rafinerisinde patlama: 'Evden çıkmayın' uyarısı yapıldı",
-    "source": "Evrensel",
-    "time": "24/03/2026 09:05",
-    "link": "https://www.evrensel.net/haber/5976472/abdde-petrol-rafinerisinde-patlama-evden-cikmayin-uyarisi-yapildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin Texas eyaletine bağlı Port Arthur kentindeki bir petrol rafinerisinde patlama meydana geldi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339999.jpg",
     "keyword": null
   }
 ]
