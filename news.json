@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5797001",
+    "title": "TIR’ı tamir ederken can verdi",
+    "source": "Habertürk",
+    "time": "24/03/2026 12:26",
+    "link": "https://www.haberturk.com/tiri-tamir-ederken-rahatsizlanan-sofor-yasamini-yitirdi-3871784",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum’da arıza yapan bims yüklü TIR’ını tamir ederken rahatsızlanan Gürcistan uyruklu şoför Vakhtang Mskhaladze (60), hayatını kaybetti. Kalp krizi geçirdiği üzerinde durulan Mskhaladze'in ölüm nedeni, yapılacak otopsinin ardından kesinlik kazanacak.",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774286067/3871784/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b8d2c1d1",
     "title": "İran’ın gölge ağları: Körfez’deki istihbarat teşkilatları, savaşın uyandırdığı “uyuyan hücreleri” çökertiyor",
     "source": "Independent",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD yönetimi, Orta Doğu'da tırmanan gerilimle birlikte yükselen enerji maliyetlerini kontrol altına almak amacıyla stratejik rezervlerin kullanımından yaptırımların esnetilmesine kadar uzanan çeşitli önlemleri hayata geçirirken, ülkede akaryakıt fiyatlarındaki artış eğilimi devam ediyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9ff26135",
-    "title": "İmamoğlu çıkar amaçlı suç örgütü davasında 9. duruşma",
-    "source": "TRT Haber",
-    "time": "24/03/2026 11:46",
-    "link": "https://www.trthaber.com/haber/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-9-durusma-938886.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 107'si tutuklu, 5'i \"müşteki sanık\" olmak üzere 407 sanığın yargılandığı davanın dokuzuncu duruşması başladı.",
     "image": null,
     "keyword": null
   }
