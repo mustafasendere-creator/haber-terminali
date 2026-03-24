@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b28322a",
+    "title": "İran'dan atılan füzeler nedeniyle İsrail'de geniş bir alanda sirenler çaldı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 02:52",
+    "link": "https://www.trthaber.com/haber/dunya/irandan-atilan-fuzeler-nedeniyle-israilde-genis-bir-alanda-sirenler-caldi-938952.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail'in ortak saldırılar düzenlediği İran'dan atılan füzeler nedeniyle işgal altındaki Batı Şeria'dan İsrail'in liman kenti Aşdod'a kadar geniş bir alanda sirenler çaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4fcb7a15",
     "title": "AYM’de görev değişimi: Gökcan başkanvekilliği görevini Fidan’a devretti",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avrupa Parlamentosundan 19 milletvekili, 18 Ocak’ta Suriye’nin Rakka kentinde HTŞ güçleri tarafından kaçırılan gazeteciler Eva Maria Michelmann ve Ahmet Polad için Avrupa Birliği kurumlarını harekete geçmeye çağırdı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340132.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_07fa500f",
-    "title": "Ağrı'da askeri araç kaza yaptı: Hayatını kaybeden asker sayısı ikiye yükseldi",
-    "source": "Evrensel",
-    "time": "25/03/2026 01:11",
-    "link": "https://www.evrensel.net/haber/5976616/agri-da-askeri-arac-kaza-yapti-hayatini-kaybeden-asker-sayisi-ikiye-yukseldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ağrı'da meydana gelen askeri araç kazasında Piyade Uzman Çavuş Yusuf Açay ve Ulaştırma Uzman Çavuş Selman Akarsel hayatını kaybetti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340131.jpg",
     "keyword": null
   }
 ]
