@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41eb6765",
+    "title": "Kırkpınar Er Meydanı için kamulaştırma süreci sürüyor",
+    "source": "Habertürk",
+    "time": "24/03/2026 12:26",
+    "link": "https://www.haberturk.com/kirkpinar-er-meydani-icin-kamulastirma-sureci-suruyor-3871767",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne Valisi Yunus Sezer, Tarihi Kırkpınar Yağlı Güreşleri'nin yapıldığı er meydanının taşınmasının planlandığı alandaki kamulaştırma çalışmalarının sürdüğünü belirtti",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774279751/3871767/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_90ddc4e0",
     "title": "340 kilo kırmızı ve beyaz et ele geçirildi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İtalya Serie A ekiplerinden Napoli'nin Galatasaray forması giyen Barış Alper Yılmaz'ı radarına aldığı iddia edildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/ae1a3a94-225b-4c5e-9a81-2534fd621a13.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_549c946b",
-    "title": "İstanbul'da ilçelere göre sel riski haritası hazırlandı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 11:46",
-    "link": "https://www.trthaber.com/haber/gundem/istanbulda-ilcelere-gore-sel-riski-haritasi-hazirlandi-938883.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İTÜ'lü uzmanların, yapay zeka kullanarak hazırladığı sel riski analizine göre, İstanbul'da sel tehlikesinin en yüksek olduğu ilçeler Fatih, Gaziosmanpaşa, Bağcılar, Güngören ve Beyoğlu oldu.",
-    "image": null,
     "keyword": null
   }
 ]
