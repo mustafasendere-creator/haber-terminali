@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3dd8c60",
+    "title": "İsrail, Lübnan’ın Aley ilçesini vurdu: 2 kişi yaşamını yitirdi, 5 kişi yaralandı",
+    "source": "Evrensel",
+    "time": "24/03/2026 09:05",
+    "link": "https://www.evrensel.net/haber/5976473/israil-lubnanin-aley-ilcesini-vurdu-2-kisi-yasamini-yitirdi-5-kisi-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail’in Lübnan’ın Aley ilçesine bağlı Beşamun kasabasına düzenlediği hava saldırısında ilk belirlemelere göre 2 kişi hayatını kaybetti, 5 kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339841.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_74721330",
     "title": "ABD'de petrol rafinerisinde patlama: 'Evden çıkmayın' uyarısı yapıldı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Yanı başımızdaki jeopolitik risklere rağmen Türkiye’nin en güvenli bölgelerinden biri olan Trabzon’da, olası afet ve savaş senaryolarına karşı kurulan sivil savunma sistemleri dikkat çekiyor.",
     "image": "https://resim.haber61.net/news/609020.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3e3f5fd9",
-    "title": "Ekspertiz verileri açıklandı: 2025'te 861 bin rapor düzenlendi",
-    "source": "OdaTV",
-    "time": "24/03/2026 08:06",
-    "link": "https://www.odatv.com/ekonomi/otomotiv/ekspertiz-verileri-aciklandi-2025te-861-bin-rapor-duzenlendi-120140513",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2025’te trafik sigortasında 861 bin hasar dosyasında ortalama maliyet 66,6 bin TL oldu. Hasarlar çoğunlukla düşük tutarlı olsa da yük parça ve işçilikte yoğunlaştı. Raporların dörtte biri İstanbul’da düzenlenirken, onarımlar ağırlıkla anlaşmasız ve yetkisiz servislerde yapıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/ekspertiz-verileri-aciklandi-2025te-861-bin-rapor-duzenlendi-idtw.jpg",
-    "keyword": null
   }
 ]
