@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e0c52596",
+    "title": "Rusya’dan Ukrayna’ya yoğun saldırı: Bahar harekâtı sinyali",
+    "source": "Euronews",
+    "time": "24/03/2026 17:52",
+    "link": "http://tr.euronews.com/2026/03/24/rusyadan-ukraynaya-yogun-saldiri-bahar-harekati-sinyali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya, gece saatlerinde Ukrayna’ya yaklaşık 400 uzun menzilli insansız hava aracıyla saldırı düzenledi. Ukrayna Hava Kuvvetleri, bunun son haftaların en büyük saldırısı olduğunu açıkladı. Saldırılar salı günü de devam ederken, onlarca İHA gündüz saatlerinde başkent Kiev’i hedef aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_612e6db8",
     "title": "Ayşe Tokyaz’ın katili Ejegül’ü de mi öldürdü?",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "THY'den memnuniyet oranı yüzde 87 24.03.2026 DikenTürk Hava Yolları (THY), yolcuların memnuniyet oranının yüzde 87 olduğunu bildirdi.\nThe post THY'den memnuniyet oranı yüzde 87 appeared first on #site_linkat 24.03.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e1ead9f5",
-    "title": "İran, Türkiye'ye gaz akışını durdurdu",
-    "source": "Evrensel",
-    "time": "24/03/2026 17:12",
-    "link": "https://www.evrensel.net/haber/5976574/iran-turkiyeye-gaz-akisini-durdurdu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, geçen hafta İsrail’in Güney Pars gaz sahasına düzenlediği saldırı sonrası Türkiye’ye gaz akışını durdurdu. Türkiye geçen yıl doğal gaz ihtiyacının yaklaşık yüzde 14’ünü İran’dan karşıladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/322484.jpg",
     "keyword": null
   }
 ]
