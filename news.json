@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0efde0e4",
+    "title": "Japonya'da bir kişi Çin'in Tokyo Büyükelçiliğine girerek diplomatları tehdit etti",
+    "source": "TRT Haber",
+    "time": "24/03/2026 20:12",
+    "link": "https://www.trthaber.com/haber/dunya/japonyada-bir-kisi-cinin-tokyo-buyukelciligine-girerek-diplomatlari-tehdit-etti-938904.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Japonya'da aktif görevde asker olduğunu iddia eden bir kişinin, Çin'in Tokyo Büyükelçiliğine girerek diplomatları tehdit ettiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d1d9add1",
     "title": "İsrail, Lübnan'da Litani Nehri üzerindeki köprüyü ikinci kez bombalayarak tamamen yıktı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Tahran, Trump’ın iki taraf arasında İran savaşını sona erdirmeye yönelik 'çok iyi' görüşmeler yapıldığı yönündeki iddialarını reddetmesinin ardından salı günü de bölgedeki hedeflere saldırılarını sürdürdü. Son gelişmeler için canlı blogumuzu takip edin.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d0e813dd",
-    "title": "FBI: Rus hackerlar Signal ve WhatsApp hesaplarını hedef aldı",
-    "source": "Euronews",
-    "time": "24/03/2026 19:32",
-    "link": "http://tr.euronews.com/next/2026/03/24/fbi-rus-hackerlar-signal-ve-whatsapp-hesaplarini-hedef-aldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Saldırganlar, mesajlaşma platformlarında resmi destek hesaplarını taklit ederek kullanıcıları, zararlı bağlantılara tıklamaları için kandırıyor.",
     "image": null,
     "keyword": null
   }
