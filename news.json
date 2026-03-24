@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_673e8b27",
+    "title": "Rusya son 24 saate Ukrayna'ya 1000'e yakın İHA'yla saldırdı",
+    "source": "Euronews",
+    "time": "25/03/2026 00:11",
+    "link": "http://tr.euronews.com/2026/03/24/rusya-son-24-saate-ukraynaya-1000e-yakin-ihayla-saldirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bölgesel yetkililerin açıklamalarına göre, gece düzenlenen saldırılarda en az 4 kişi hayatını kaybederken 21 kişi yaralandı. Gün ışığında devam eden saldırılarda ise en az 3 kişi daha yaşamını yitirdi, 30’dan fazla kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_535648a1",
     "title": "sırrısakık (@sakiksirri) / Posts / X - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Almanya Cumhurbaşkanı Frank-Walter Steinmeier, ABD ve İsrail'in İran'a yönelik saldırılarına sert tepki gösterdi. Steinmeier, \"Bu savaş uluslararası hukuka aykırıdır. Bu savaş siyasi açıdan feci bir hatadır. Eğer savaşın amacı İran'ı nükleer bomba yolunda durdurmaksa bu savaş gerçekten önlenebilir, gereksiz bir savaştır\" diye konuştu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/almanyadan-abdye-sert-iran-tepkisi-savas-felaket-bir-hata-itci.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f1c903d0",
-    "title": "Ukrayna duyurdu: Rusya 1000'e yakın İHA ile saldırı düzenledi",
-    "source": "Haber Global",
-    "time": "24/03/2026 22:32",
-    "link": "https://haberglobal.com/dunya/ukrayna-duyurdu-rusya-1000e-yakin-iha-ile-saldiri-duzenledi-515053",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ukrayna Hava Kuvvetleri Komutanlığı Rus ordusunun, son bir gün içerisinde ülkeye yönelik hava saldırılarında 1000'e yakın silahlı insansız hava aracı (İHA) kullandığını açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/ukrayna-duyurdu-rusya-1000e-yakin-iha-ile-saldiri-duzenledi-zgyr.jpg",
     "keyword": null
   }
 ]
