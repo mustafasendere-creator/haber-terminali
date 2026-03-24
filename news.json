@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c855c4b7",
+    "title": "Bağcılar'da iş yerinde yangın tüpü dolumu sırasında zehirlenme: 2 işçi, 3 sağlık görevlisi zehirlendi",
+    "source": "Evrensel",
+    "time": "24/03/2026 17:52",
+    "link": "https://www.evrensel.net/haber/5976577/bagcilar-da-is-yerinde-yangin-tupu-dolumu-sirasinda-zehirlenme-2-isci-3-saglik-gorevlisi-zehirlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Bağcılar’da bir iş yerinde yangın tüpü dolumu sırasında 2 işçi zehirlendi. İhbar üzerine olay yerine yerine gelen sağlık ekibinden 3 kişi daha zehirlendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340093.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9b953088",
     "title": "Divriği maden işçileri OYAK önünden seslendi: “Mücadelemizi sürdüreceğiz”",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ramazan Bayramı tatilinde kazaların yarıya yakını hız ihlalinden kaynaklandı. Kazalara karışan araç türlerinde otomobiller yüzde 62,6 ile ilk sırada yer aldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c5ffcccc",
-    "title": "Ömer Çelik: Siyasi fitnelere geçit vermeyeceğiz",
-    "source": "TRT Haber",
-    "time": "24/03/2026 17:12",
-    "link": "https://www.trthaber.com/haber/gundem/omer-celik-siyasi-fitnelere-gecit-vermeyecegiz-938919.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AK Parti Sözcüsü Çelik, \"Cumhurbaşkanımıza yapılan saldırılara en güçlü siyasetle cevap vermeye devam edeceğiz. Dünyanın bu zor zamanlarında dıştan gelen provokasyonlara da, içimizde üretilmeye çalışılan siyasi fitnelere de geçit vermeyeceğiz\" dedi.",
     "image": null,
     "keyword": null
   }
