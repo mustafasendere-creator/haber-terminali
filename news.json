@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1bc01b1b",
+    "title": "Fransa'da yerel seçimler: Paris yine ‘sol’ dedi",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 04:05",
+    "link": "https://www.cumhuriyet.com.tr/dunya/fransa-da-yerel-secimler-paris-yine-sol-dedi-2489064",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa yerel seçimlerinin ikinci turunda büyük şehirlerin çoğunu sol adaylar kazandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0d665773-339c-473c-a693-f4a869bfa62f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d34812d6",
     "title": "CENTCOM: İran'da 9 binden fazla hedef vuruldu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Prof. Dr. Sedat Gündoğdu, tek kullanımlık plastik yasağının tek başına yeterli olmayacağını belirterek, üretimin kısıtlanması ve plastik atık ithalatının sonlandırılması gerektiğini vurguladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/338277.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_205e55be",
-    "title": "İzmir'de devredilmek istenen Meslek Fabrikası önünde nöbet başladı: Mahkeme yürütmeyi durdurdu",
-    "source": "Evrensel",
-    "time": "24/03/2026 01:05",
-    "link": "https://www.evrensel.net/haber/5976392/izmir-de-devredilmek-istenen-meslek-fabrikasi-onunde-nobet-basladi-mahkeme-yurutmeyi-durdurdu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir'de Meslek Fabrikası'nın devrine karşı nöbet başladı. Tahliye kararının hukuksuz olduğu belirtilen açıklamada, binanın kamusal işlevinin korunması için mücadele vurgusu yapıldı. Ardından mahkeme yürütmeyi durdurma kararı verdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339910.jpg",
     "keyword": null
   }
 ]
