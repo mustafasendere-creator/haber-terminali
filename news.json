@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cb340010",
+    "title": "Ankara'da karbonmonoksitten zehirlenen öğretmen ve kızı hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "24/03/2026 16:52",
+    "link": "https://www.trthaber.com/haber/turkiye/ankarada-karbonmonoksitten-zehirlenen-ogretmen-ve-kizi-hayatini-kaybetti-938917.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Başkentte doğal gaz sızıntısından kaynaklandığı değerlendirilen karbonmonoksit gazından zehirlenen matematik öğretmeni ile zihinsel engelli kızı yaşamını yitirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d695e44a",
     "title": "Küresel ham çelik üretimi şubatta azaldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dilovası katliamı davasının ilk duruşması Kandıra'da başladı. Basına telefon yasağı getirilirken ve kitle örgütlerinin davaya katılması engellendi, İstanbul Barosu Yönetim Kurulu Üyesi Ahmet Ergin, aleniyet ilkesine uyulmadığını belirtti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340080.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fbf43523",
-    "title": "Perihan Koca direnişteki işçileri ziyaret etti: “Mersin liman işçileri kazanacak”",
-    "source": "Evrensel",
-    "time": "24/03/2026 15:40",
-    "link": "https://www.evrensel.net/haber/5976559/perihan-koca-direnisteki-iscileri-ziyaret-etti-mersin-liman-iscileri-kazanacak",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sendikalaştıkları için işten atılan ve direnişe geçen Mersin Liman işçilerini ziyaret eden DEM Parti Mersin Milletvekili Perihan Koca, “İşçilerin direnişlerinin, haklı talepleri ve onurlu mücadelelerinin yanındayız” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340084.jpg",
     "keyword": null
   }
 ]
