@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d88214d2",
+    "title": "Kolombiya'da askeri uçağın düşmesinin ardından yanan enkaz görüntülendi",
+    "source": "Euronews",
+    "time": "24/03/2026 11:45",
+    "link": "http://tr.euronews.com/video/2026/03/24/kolombiyada-askeri-ucagin-dusmesinin-ardindan-yanan-enkaz-goruntulendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Olay yerinden gelen görüntüler, uçağın kopmuş kuyruğunun etrafında tırmanmaya çalışan sivilleri, ağaçların üzerinde duman ve alevler yükselirken gösteriyordu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_4eecedd3",
     "title": "Japonya Başbakanı Sanae Takaichi'nin ilginç anları",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Millî Eğitim Bakanlığı ile Sermaye Piyasası Kurulu iş birliğinde hazırlanan “Finansal Okuryazarlık” dersi, Türkiye genelindeki tüm okullarda ilk ders saatinde uygulanmaya başlandı.  Peki, MEB Finansal Okuryazarlık dersi nedir? Finansal Okuryazarlık ders konuları neler?",
     "image": "https://media.cumhuriyet.com.tr/Archive/9dc9a5d0-3980-4b1a-9713-b958d0ac90f1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_13f394a6",
-    "title": "MSÜ Askeri Öğrenci Aday Belirleme Sınavı sonuçları açıklandı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 10:46",
-    "link": "https://www.trthaber.com/haber/egitim/msu-askeri-ogrenci-aday-belirleme-sinavi-sonuclari-aciklandi-938870.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ÖSYM, Milli Savunma Üniversitesi Askeri Öğrenci Aday Belirleme Sınavı  sonuçlarını açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
