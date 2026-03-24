@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_28b2a753",
+    "title": "Okullarda ilk ders finansal okuryazarlık oldu",
+    "source": "TRT Haber",
+    "time": "24/03/2026 12:46",
+    "link": "https://www.trthaber.com/haber/egitim/okullarda-ilk-ders-finansal-okuryazarlik-oldu-938876.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne, Kırklareli ve Tekirdağ'daki okullarda ilk derste finansal okuryazarlık işlendi, öğrencilere dijital finansal riskler, harcama yönetimi ve yasa dışı bahis ile sanal kumarın tehlikeleri anlatıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e31940fe",
     "title": "Vurulan enerji altyapısı: Yerine koymak yıllar alacak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran’a yönelik saldırı kararını anlatan ABD Başkanı Trump, sorumluluğu Savunma Bakanı Hegseth’e yükleyerek, “İlk konuşan sendin ve ‘hadi yapalım’ dedin” ifadelerini kullandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340026.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c1f85169",
-    "title": "Antalya'da inşaat malzemesi deposu yandı",
-    "source": "Evrensel",
-    "time": "24/03/2026 12:05",
-    "link": "https://www.evrensel.net/haber/5976510/antalyada-insaat-malzemesi-deposu-yandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Serik ilçesinde inşaat malzemelerinin bulunduğu depo, çıkan yangında küle döndü. Park halindeki midibüs de kısmen zarar gördü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340028.jpg",
     "keyword": null
   }
 ]
