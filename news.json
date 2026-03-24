@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bdb17b63",
+    "title": "Apple'ın yeni WWDC 2026 etkinliği ne zaman gerçekleşecek?",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 19:52",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-in-yeni-wwdc-2026-etkinligi-ne-zaman-gerceklesecek-2489287",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Apple'ın Dünya Geliştiriciler Konferansı, yani kısaca WWDC 2026 etkinliği 8 Haziran'da başlayacak ve 12 Haziran'a kadar sürecek.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a5bb9741-1647-4f61-8cfc-a4a1f747a166.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_80c1dd7f",
     "title": "DEM Partili Aydeniz TBMM İdare Amirliği görevinden istifa etti",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Katar, İranın komşu ülkelere yönelik hava saldırılarını sürdürdüğü bir süreçte, savaşın Körfez bölgesindeki güvenlik sistemi anlayışında çöküşe yol açtığını belirterek, sorunun diplomatik yollarla çözülmesi çağrısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_80fff718",
-    "title": "Katar'da şehit olan binbaşı Taştekin son yolculuğuna uğurlandı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 19:12",
-    "link": "https://www.trthaber.com/haber/gundem/katarda-sehit-olan-binbasi-tastekin-son-yolculuguna-ugurlandi-938932.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Katar'da helikopterin düşmesi sonucu şehit olan Hava Savunma Binbaşı Sinan Taştekin'in cenazesi, Isparta'da defnedildi.",
     "image": null,
     "keyword": null
   }
