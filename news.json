@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d016eb69",
+    "title": "Mobilya atölyesinde korkutan yangın",
+    "source": "Haber Global",
+    "time": "25/03/2026 01:12",
+    "link": "https://haberglobal.com/yasam/mobilya-atolyesinde-korkutan-yangin-515071",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne Sanayi Sitesi'ndeki bir mobilya atölyesinde yangın çıktı. Yangın, diğer iş yerlerine sıçramadan kontrol altına alındı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/mobilya-atolyesinde-korkutan-yangin-qsbf.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_087e215c",
     "title": "Süper Lig şampiyonu, Şampiyonlar Ligi'nde eleme oynayacak mı?",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TBMM Yapay Zeka Araştırma Komisyonu Başkanı ve AK Parti Eskişehir Milletvekili Fatih Dönmez, \"Etrafımızda savaşın dumanı tüm şiddetiyle tüterken, enerji piyasalarında yaşanan depremin sarsıntılarını tüm dünya hissediyor.\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_927cce67",
-    "title": "‘Mutlu insanların şehri’ Denizli’de belediye işçileri mutsuz!",
-    "source": "Evrensel",
-    "time": "24/03/2026 23:31",
-    "link": "https://www.evrensel.net/haber/5976548/mutlu-insanlarin-sehri-denizlide-belediye-iscileri-mutsuz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Denizli Büyükşehir ve Pamukkale belediyelerinde işçilerin toplu sözleşmeleri 3 aydır imzalanmadı. İşçiler, Belediye Başkanının sloganına gönderme yaparak, “Mutlu insanların şehri Denizli'de işçiler mutsuz” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340073.jpg",
     "keyword": null
   }
 ]
