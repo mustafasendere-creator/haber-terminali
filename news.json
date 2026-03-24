@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6d30d7a9",
+    "title": "Brezilya'da Rio Negro'ya 1.500 Amazon kaplumbağası bırakıldı",
+    "source": "Euronews",
+    "time": "24/03/2026 12:25",
+    "link": "http://tr.euronews.com/video/2026/03/24/brezilyada-rio-negroya-1500-amazon-kaplumbagasi-birakildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amazon yağmur ormanlarının kalbinde, Rio Negro kıyısında, 1500'den fazla Amazon kaplumbağası yavrusu (Podocnemis expansa) ortak bir koruma çalışmasıyla doğaya salındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_dd69270c",
     "title": "Otomobil refüjdeki dubalara çarptı: 1 yaralı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "1 Temmuz itibarıyla restoran ve kafelerde yeni bir dönem başlıyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/f-k-m-g-d-k-f-g-m-k-d-f-g-k-m.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_feee69fb",
-    "title": "Hürmüz Boğazı'ndaki blokaj enerji krizini Avrupa'nın merkezine taşıdı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 11:45",
-    "link": "https://www.aa.com.tr/tr/guncel/hurmuz-bogazindaki-blokaj-enerji-krizini-avrupanin-merkezine-tasidi/3876873",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Orta Doğu’da tırmanan askeri gerilimin tetiklediği enerji fiyatlarındaki keskin artış, Avrupa genelinde ciddi bir ekonomik darboğazı beraberinde getirdi.",
-    "image": null,
     "keyword": null
   }
 ]
