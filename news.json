@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_68389beb",
+    "title": "Adana'da evin duvarına çarpan otomobil takla attı: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "24/03/2026 13:05",
+    "link": "https://www.gazeteduvar.com.tr/adanada-evin-duvarina-carpan-otomobil-takla-atti-1-yarali-haber-1765746",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana&#039;nın Kozan ilçesinden kontrolden çıkan otomobil, bir evin duvarına çarpıp takla attı. Kazada yaralanan sürücü hastaneye kaldırılarak tedavi altına alındı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/24/basliksiz-1-3h0d_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3bea0ce8",
     "title": "Erol Köse’nin vasiyeti ortaya çıktı",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail ordusunun Gazze Şeridi ile Lübnan'a düzenlediği saldırıların İsrail ekonomisine maliyetinin 57 milyar doları aştığı belirtildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_cee4ae86",
-    "title": "Olmayan bilgileri kaynak gösteriyor: Yapay zekanın gizli veri havuzu... Kimden besleniyor... Osman Demircan Odatv'ye anlattı",
-    "source": "OdaTV",
-    "time": "24/03/2026 12:07",
-    "link": "https://www.odatv.com/guncel/olmayan-bilgileri-kaynak-gosteriyor-yapay-zekanin-gizli-veri-havuzu-kimden-besleniyor-osman-demircan-odatvye-anlatti-120140558",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bir bilgiyi araştırmak için kullandığımız yapay zeka uygulamaları artık bizi &quot;hayalet kaynakça&quot;yla kandırıyor. Uygulamaya verilen bilgileri derleyerek &quot;hayalet kaynakça&quot; oluşturan yapay zekaya karşı korunmanın yollarını Odatv, Siber Güvenlik Uzmanı Osman Demircan&#039;a sordu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/olmayan-bilgileri-kaynak-gosteriyor-yapay-zekanin-gizli-veri-havuzu-kimden-besleniyor-osman-demircan-odatvye-anlatti-93ln.jpg",
     "keyword": null
   }
 ]
