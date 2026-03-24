@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6629e86a",
+    "title": "Halı sahada dehşet: 17 yaşındaki çocuk akranını pompalı tüfekle vurdu",
+    "source": "10Haber",
+    "time": "24/03/2026 19:52",
+    "link": "https://10haber.net/gundem/hali-sahada-dehset-17-yasindaki-cocuk-akranini-pompali-tufekle-vurdu-689467/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Olay dün öğleden sonra Kurtuluş Mahallesi Eski TOKİ Konutları’ndaki parkta meydana geldi. İddiaya göre T.A. parkta olduğunu öğrendiği H.G.’nin yanına pompalı tüfekle giderek ateş açtı. H.G. kaçmaya çalışırken o sırada halı sahada oyun oynayan çocuklar da silah sesleriyle büyük panik yaşayıp etrafa dağıldı. Bölgede bulunan Aile Sağlığı Merkezi’nde görevli polis ekipleri olaya hızla müdahale etti. [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c26ac7220339.24988478.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0c197140",
     "title": "Emine Ülker Tarhan CHP'ye geri döndü: 'Omuz vermeye geldim'",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail'in İran'a saldırıları devam ederken İran kanadından, ABD'nin görüşme için temaslarda bulunduğu bildirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9cebfeb0",
-    "title": "A Haber görüntüledi: Batı Şeria’da yerleşim alanına çok yakın füze düştü",
-    "source": "A Haber",
-    "time": "24/03/2026 19:11",
-    "link": "https://www.ahaber.com.tr/ozel-haberler/2026/03/24/a-haber-goruntuledi-bati-seriada-yerlesim-alanina-cok-yakin-fuze-dustu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’ın İsrail’e yönelik başlattığı devasa misilleme operasyonları sonrası bölge tam anlamıyla bir ateş çemberine dönerken, çatışmaların şiddeti Batı Şeria’yı da vurdu. İşgal altındaki topraklarda yer...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/ab2001/1200/1200/298/0/724/425?u=https://iahbr.tmgrup.com.tr/2026/03/24/a-haber-goruntuledi-bati-seriada-yerlesim-alanina-cok-yakin-fuze-dustu-1774366360447.jpg",
     "keyword": null
   }
 ]
