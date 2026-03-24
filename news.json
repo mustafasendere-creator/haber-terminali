@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_070cdc11",
+    "title": "Kolombiya'da askeri nakliye uçağının düşmesi sonucu can kaybı 66'ya yükseldi",
+    "source": "Evrensel",
+    "time": "24/03/2026 08:25",
+    "link": "https://www.evrensel.net/haber/5976463/kolombiyada-askeri-nakliye-ucaginin-dusmesi-sonucu-can-kaybi-66ya-yukseldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kolombiya'da 112'si asker toplam 128 kişiyi taşıyan C-130 tipi nakliye uçağı, kalkış sırasında kaza kırıma uğradı. Kazada 66 kişi hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339993.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b8e932bd",
     "title": "Ticaret Bakanlığından '6 liraya satılan bayat ekmekler'e ilişkin açıklama",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sultangazi'de elektrik trafosunda başlayıp bir iş yerinin kömür deposuna sıçrayan yangın itfaiye ekiplerince söndürüldü.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_30da655e",
-    "title": "‘TCK 217/A gazetecilere karşı sopa olarak kullanılıyor’",
-    "source": "Evrensel",
-    "time": "24/03/2026 07:05",
-    "link": "https://www.evrensel.net/haber/5976416/tck-217-a-gazetecilere-karsi-sopa-olarak-kullaniliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": ": İsmail Arı’nın Avukatı Taylan Arı sansür yasası olarak bilinen TCK 217/A maddesinden ceza bile verilmemesi gerektiğini belirterek, yasanın gazeteciler ve topluma karşı sopa olarak kullanıldığını söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339710.jpg",
     "keyword": null
   }
 ]
