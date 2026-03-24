@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_84744a0a",
+    "title": "6 Arap ülkesinde fırtına ve sel uyarısı yapıldı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 00:52",
+    "link": "https://www.trthaber.com/haber/dunya/6-arap-ulkesinde-firtina-ve-sel-uyarisi-yapildi-938948.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Umman, Mısır, Suudi Arabistan, Birleşik Arap Emirlikleri BAE, Irak ile Suriye'de fırtına ve sel uyarısı yapıldı, bazı ülkelerde eğitime ara verildi. Umman'da dünden bu yana şiddetli yağış sonucu meydana gelen sellerde ölenlerin sayısı 7'ye yükseldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c3572a67",
     "title": "Resul Ekrem Şahan'ın savunmasına İstanbul Valiliği'nden yanıt",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Muhalifler, anlaşmanın halihazırda tartışmalı olan Mercosur anlaşmasıyla kabul edilen ithalata ek olarak hassas ürünlerin girişine kapı araladığını ve bazı bölgesel AB ürünlerini yeterince korumadığını savunuyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_55025137",
-    "title": "Muhammed Salah, sezon sonunda Liverpool'dan ayrılacak",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 23:11",
-    "link": "https://www.aa.com.tr/tr/guncel/muhammed-salah-sezon-sonunda-liverpooldan-ayrilacak/3877871",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere Premier Lig ekibi Liverpool, Mısırlı futbolcu Muhammed Salah'ın sezon sonunda takımdan ayrılacağını açıkladı.",
     "image": null,
     "keyword": null
   }
