@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b245e74c",
+    "title": "Kırıkkale'de iş cinayeti: Montajını yaptığı çatıdan düşen işçi öldü",
+    "source": "Evrensel",
+    "time": "24/03/2026 16:52",
+    "link": "https://www.evrensel.net/haber/5976569/kirikkalede-is-cinayeti-montajini-yaptigi-catidan-dusen-isci-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırıkkale'nin Delice ilçesinde tuz fabrikasında çatı montajı sırasında çatıdan düşen Ozan T. adlı işçi hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/311982.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3dbd9a03",
     "title": "Laricani’nin görevine Muhammed Bakır Zülkadir getirildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da Dünya Down Sendromu Farkındalık Günü kapsamında düzenlenen yürüyüşte, down sendromlu bireyler ve aileleri farkındalık oluşturdu.",
     "image": "https://resim.haber61.net/news/609114.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_463de8d4",
-    "title": "Trabzon’da kokarca alarmı: 100 bin hanede ilaçlama hedefi",
-    "source": "Haber61",
-    "time": "24/03/2026 15:40",
-    "link": "https://www.haber61.net/trabzon/trabzonda-kokarca-alarmi-100-bin-hanede-ilaclama-hedefi-h627578.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da kahverengi kokarca ile mücadele 2026 yılı için erkene alındı. 35 bin haneye biyosidal ürün dağıtılırken, yıl sonuna kadar 100 bin hanede ilaçlama hedefleniyor.",
-    "image": "https://resim.haber61.net/news/609117.jpg",
     "keyword": "trabzon"
   }
 ]
