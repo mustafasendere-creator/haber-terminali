@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_75f8581d",
+    "title": "Otobüs devrildi! Yaralılar var!",
+    "source": "Habertürk",
+    "time": "24/03/2026 17:53",
+    "link": "https://www.haberturk.com/son-dakika-otobus-devrildi-yaralilar-var-3871688",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konya-Antalya kara yolunda bir yolcu otobüsü devrildi. Olayda 2'si ağır, 15 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774265360/3871688/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_bca449c4",
     "title": "Tutuklu gazeteci İsmail Arı cezaevinden sordu: 'Haberlerim kimleri rahatsız etti?'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Katar'da helikopter kazası sonucu şehit olan ASELSAN teknisyenleri Süleyman Cemre Kahraman ve İsmail Enes Can için, başkentte Ahmet Hamdi Akseki Camii'nde cenaze töreni düzenlendi",
     "image": "https://im.haberturk.com/l/2026/03/23/ver1774267958/3871714/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_bb497404",
-    "title": "Sevgilisi \"İntihar etti\" dedi... Gerçek çok başka çıktı!",
-    "source": "Habertürk",
-    "time": "24/03/2026 17:13",
-    "link": "https://www.haberturk.com/son-dakika-aleyna-yaray-intihar-etti-dedi-gercek-cok-baska-cikti-diyarbakir-haberler-3871715",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır’da, kız arkadaşı 22 yaşındaki Aleyna Yaray’ı öldürdüğü suçlamasıyla tutuklanan Cafer Başeğmez’in 112 Acil Çağrı Merkezi'ne ‘intihar’ ihbarı yaptığı, tabancanın cesedin yanında değil, lavabonun altında bulunduğu ortaya çıktı",
-    "image": "https://im.haberturk.com/l/2026/03/23/ver1774268263/3871715/jpg/1280x1280",
     "keyword": null
   }
 ]
