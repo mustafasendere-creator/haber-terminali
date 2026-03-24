@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_edb0a357",
+    "title": "Kentsel dönüşüm yıkımında kaza: İş makinesi yandaki apartmana zarar verdi, ev sallanıyor",
+    "source": "Evrensel",
+    "time": "24/03/2026 23:51",
+    "link": "https://www.evrensel.net/haber/5976550/kentsel-donusum-yikiminda-kaza-is-makinesi-yandaki-apartmana-zarar-verdi-ev-sallaniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küçükçekmece'de kentsel dönüşüm kapsamında yapılan yıkım sırasında, bitişikteki bina zarar gördü. Apartmanın en üst katındaki dairede hasar oluştu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340075.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_508d97d5",
     "title": "ABD, Ortadoğu'ya 3 bin paraşütçü gönderiyor: İran'a kara saldırısı hazırlığı mı?",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD, kara saldırılarında kullanılan 82. Hava İndirme Tümeni'ne bağlı 3 bin askeri Ortadoğu'ya gönderme kararı aldı. Bu birlik, daha önce Irak ve Afganistan işgallerinde yer almıştı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340124.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d0685e16",
-    "title": "Suriye'nin Rakka vilayetinde aşırı yağışlar nedeniyle nehrin taşması sonucu araziler su altında kaldı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 22:31",
-    "link": "https://www.aa.com.tr/tr/guncel/suriyenin-rakka-vilayetinde-asiri-yagislar-nedeniyle-nehrin-tasmasi-sonucu-araziler-su-altinda-kaldi/3877841",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suriye'de aşırı yağışlar sonrası Rakka vilayetindeki Balikh Nehri'nin taşmasıyla binlerce dönüm arazi su altında kaldı.",
-    "image": null,
     "keyword": null
   }
 ]
