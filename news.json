@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0ef21a44",
+    "title": "Trump'tan, İran'a saldırı planlarına ilk desteğin ABD Savunma Bakanı Hegseth'ten geldiği mesajı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 20:31",
+    "link": "https://www.aa.com.tr/tr/guncel/trumptan-irana-saldiri-planlarina-ilk-destegin-abd-savunma-bakani-hegsethten-geldigi-mesaji/3877714",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İsrail ile 28 Şubat'ta İran'a başlattıkları saldırılardan önce yönetimi içerisinde planlarını destekleyen ilk kişinin ABD Savunma Bakanı Pete Hegseth olduğu mesajını verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_587cb7ef",
     "title": "Muhit dergisi mart sayısında \"Sadece Mustafa Kutlu\" dosyasıyla okurları selamladı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ağrı'nın Doğubayazıt ilçesinde devriye görevi yapan askeri aracın kaza yapması sonucu iki asker şehit düştü.",
     "image": "https://resim.haber61.net/news/609144.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2d8e8b5c",
-    "title": "Bloomberg'ten 'Merkez Bankası'nda swap hazırlığı' iddiası",
-    "source": "OdaTV",
-    "time": "24/03/2026 19:33",
-    "link": "https://www.odatv.com/ekonomi/bloomberg-iddiasi-turkiye-cumhuriyet-merkez-bankasinda-swap-hazirligi-londradaki-altinlar-masada-120140602",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bloomberg News&#039;in haberine göre, Türkiye Cumhuriyet Merkez Bankası&#039;nın Londra&#039;daki altınları swapla dövize çevirmeyi düşünüyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/01/12/mehmet-cetingulec-yazdi-merkez-bankasi-altindan-15-milyar-dolar-kazandi-rmkv.jpg",
     "keyword": null
   }
 ]
