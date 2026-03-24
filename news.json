@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2b0fe93c",
+    "title": "Ağrı'da meydana gelen askeri araç kazasında ağır yaralanan asker şehit oldu",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 19:11",
+    "link": "https://www.aa.com.tr/tr/guncel/agrida-meydana-gelen-askeri-arac-kazasinda-agir-yaralanan-asker-sehit-oldu/3877529",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ağrı'nın Doğubayazıt ilçesinde meydana gelen askeri araç kazasında ağır yaralanan Ulaştırma Uzman Çavuş Selman Akarsel, şehit oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6f999b2a",
     "title": "İranlı kaynak, ABD'nin Tahran yönetimiyle görüşmek için temas girişiminde bulunduğunu söyledi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türk futbolunun önemli isimlerinden, eski milli takım antrenörü Çetin Güler hayatını kaybetti. Cenazesi yarın Büyükada’da toprağa verilecek.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/milli-takimin-aci-gunu-cetin-guler-hayatini-kaybetti-2npl.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0a0d0a85",
-    "title": "Manisa'da kayıp dağcı 4 gün sonra bulundu",
-    "source": "OdaTV",
-    "time": "24/03/2026 17:53",
-    "link": "https://www.odatv.com/guncel/manisada-kayip-dagci-4-gun-sonra-bulundu-120140625",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa Salihli’de kaybolan 53 yaşındaki amatör dağcı Umut Tanrıkulu, İzmir Kiraz’da bir bağ evinde sağ olarak bulundu. İlk müdahalesi yapılan Tanrıkulu’nun hastanede tedavisi sürerken, durumunun iyi olduğu öğrenildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/manisada-kayip-dagci-4-gun-sonra-bulundu-zaxq.jpg",
     "keyword": null
   }
 ]
