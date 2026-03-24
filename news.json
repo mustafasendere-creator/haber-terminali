@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b24ab6c",
+    "title": "Türk Toraks Derneği: Tüberkülozu sonlandırabiliriz",
+    "source": "Evrensel",
+    "time": "24/03/2026 10:45",
+    "link": "https://www.evrensel.net/haber/5976490/turk-toraks-dernegi-tuberkulozu-sonlandirabiliriz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk Toraks Derneği, Türkiye’de görülen tüberküloz vakalarının azaldığını ve başarının sağlık çalışanlarının emeğiyle sağlandığını açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340018.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_87a771a8",
     "title": "CHP'li Bulut'tan İBB davasında gazetecilere yönelik kısıtlamalara tepki: Halkın haber alma hakkı engelleniyor",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Altının gramı, güne düşüşle başlamasının ardından 6 bin 212 liradan işlem görüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4695077c",
-    "title": "Yenidoğan Çetesi davası devam ediyor",
-    "source": "TRT Haber",
-    "time": "24/03/2026 10:06",
-    "link": "https://www.trthaber.com/haber/gundem/yenidogan-cetesi-davasi-devam-ediyor-938864.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "63 sanığın yargılandığı \"Yenidoğan Çetesi\" davasına devam ediliyor. Bakırköy 22. Ağır Ceza Mahkemesi, son duruşmada tutuklu sanıklardan 3'ünün tahliyesine hükmetmişti. Dava, bugün kaldığı yerden görülmeye devam ediyor.",
     "image": null,
     "keyword": null
   }
