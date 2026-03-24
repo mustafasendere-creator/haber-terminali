@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_549c946b",
+    "title": "İstanbul'da ilçelere göre sel riski haritası hazırlandı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 11:46",
+    "link": "https://www.trthaber.com/haber/gundem/istanbulda-ilcelere-gore-sel-riski-haritasi-hazirlandi-938883.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İTÜ'lü uzmanların, yapay zeka kullanarak hazırladığı sel riski analizine göre, İstanbul'da sel tehlikesinin en yüksek olduğu ilçeler Fatih, Gaziosmanpaşa, Bağcılar, Güngören ve Beyoğlu oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_623d59d9",
     "title": "ABD'nin müdahaleleri petrol fiyatını dizginlemeye yetmedi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yapımcı Erol Köse’nin hayatını kaybetmesinin ardından cenaze programına ilişkin detaylar netlik kazandı. Öte yandan vasiyetinde, cenazesinin tören yapılmadan defnedilmesini istediği öğrenildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/erol-kose-hayatini-kaybetti-lj2x_cover.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_8d958d23",
-    "title": "Restoranlarda yeni dönem: Detaylı menü uygulaması geliyor",
-    "source": "Ekonomim",
-    "time": "24/03/2026 10:46",
-    "link": "https://www.ekonomim.com/gundem/restoranlarda-yeni-donem-detayli-menu-uygulamasi-geliyor-haberi-883600",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Restoran ve kafelerdeki menülerde &quot;ayrıntı&quot; dönemi başlıyor. 1 Temmuz itibarıyla kafe ve restoranlarda detaylı menü uygulaması hayata geçiyor. İşletmeler, yemeklerin içeriğini herkesin anlayacağı şekilde geniş geniş yazacak ve karekod sistemini uygulayacak.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/restoranlarda-yeni-donem-detayli-menu-uygulamasi-geliyor-i00h_cover.jpg",
     "keyword": null
   }
 ]
