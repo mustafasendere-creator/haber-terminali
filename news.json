@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a49a5c2",
+    "title": "Dünyada yalnızca 13 ülke temiz hava soludu, üçü Avrupa'da",
+    "source": "Euronews",
+    "time": "24/03/2026 07:05",
+    "link": "http://tr.euronews.com/2026/03/24/dunyada-yalnizca-13-ulke-temiz-hava-soludu-ucu-avrupada",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "IQAir'ın yeni yayımladığı Küresel Hava Kalitesi Raporu'na göre, dünyanın en kirli kentine ev sahipliği yapan ülke Hindistan.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9eea2331",
     "title": "Bu savaş kimin savaşı ve ne zaman biter?",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Samsun’un İlkadım ilçesinde yürütülen çalışma sırasında içme suyu ana isale hattının zarar görmesiyle kent genelinde su kesintisi yaşanacağı duyuruldu.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/samsuna-kotu-haber-153p.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0f84d596",
-    "title": "“Türkiye, tarım teknolojilerinin gelişimi için stratejik bir merkez”",
-    "source": "Ekonomim",
-    "time": "24/03/2026 03:45",
-    "link": "https://www.ekonomim.com/kose-yazisi/turkiye-tarim-teknolojilerinin-gelisimi-icin-stratejik-bir-merkez/883519",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/turkiye-tarim-teknolojilerinin-gelisimi-icin-stratejik-bir-merkez-zkga_cover.jpg",
     "keyword": null
   }
 ]
