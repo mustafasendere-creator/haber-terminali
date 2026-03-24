@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dfdcba44",
+    "title": "Almanya'da karaya oturan kambur balinayı kurtarma umutları azaldı",
+    "source": "Euronews",
+    "time": "24/03/2026 18:32",
+    "link": "http://tr.euronews.com/video/2026/03/24/almanyada-karaya-oturan-kambur-balinayi-kurtarma-umutlari-azaldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Memeliyi kurtarma çalışmaları sürüyor; balinanın yeniden derin sulara dönebilmesi için dalga oluşturmak amacıyla tekneler de kullanılıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_af962a70",
     "title": "Estée Lauder ile Puig, 35 milyar euroluk birleşme için masaya oturdu",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, 2015 yılında atık yağların lavaboya, kanalizasyona dökülmesini yasaklayan \"Bitkisel Atık Yağların Kontrolü Yönetmeliği\"nde değişiklik hazırlığı yapıyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_bc026ff7",
-    "title": "Trabzon Limanı için flaş açıklama: \"Artık bir karar vermemiz lazım\"",
-    "source": "Haber61",
-    "time": "24/03/2026 17:39",
-    "link": "https://www.haber61.net/trabzon/trabzon-limani-icin-flas-aciklama-artik-bir-karar-vermemiz-lazim-h627590.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da liman çevresindeki kömür depolama ve toz sorunu yeniden gündemde. AK Parti İl Başkanı Sezgin Mumcu, hem Çömlekçi hem Çağlayan’da yaşanan durum için “insanların sağlığını düşünmek lazım” dedi.",
-    "image": "https://resim.haber61.net/news/609137.jpg",
-    "keyword": "trabzon"
   }
 ]
