@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e8ca414d",
+    "title": "İran: Erbil Havalimanı’ndaki ABD üssünü hedef aldık",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 01:31",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-erbil-havalimani-ndaki-abd-ussunu-hedef-aldik/3877931",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Ordusu, Irak’ta Erbil Havalimanı’ndaki ABD üssüne karadan karaya füzelerle saldırı yapıldığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a64b7661",
     "title": "İsrail ordusu, Batı Şeria'nın Cenin kentine baskın düzenleyerek bir dükkandaki mallara el koydu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "DEM Parti Mardin Milletvekili Saliha Aydeniz'in TBMM İdare Amiri görevinden istifasına dair dilekçesi TBMM Başkanlığına ulaştı ve Genel Kurula bilgilendirme yapıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340129.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c26198a0",
-    "title": "Filistin'den Gazze Şeridi'nde açlık krizinin derinleştiği uyarısı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 23:51",
-    "link": "https://www.aa.com.tr/tr/guncel/filistinden-gazze-seridinde-aclik-krizinin-derinlestigi-uyarisi/3877908",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filistin hükümeti işgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırılarının durdurulması ve sorumluların hesap vermesi için uluslararası topluma \"ciddi ve acil\" önlem alınması çağrısı yaptı.",
-    "image": null,
     "keyword": null
   }
 ]
