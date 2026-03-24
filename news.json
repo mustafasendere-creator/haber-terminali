@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_28f11cb0",
+    "title": "Kabine toplantısı başladı!  Ana gündem: Savaş, ekonomi ve terör",
+    "source": "A Haber",
+    "time": "24/03/2026 16:51",
+    "link": "https://www.ahaber.com.tr/gundem/2026/03/24/kabinenin-gundemi-savas-ekonomi-ve-teror",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanlığı Kabinesi, Başkan Recep Tayyip Erdoğan liderliğinde iki haftalık aranın ardından toplandı. Orta Doğu’daki savaşın Türkiye’ye etkileri en kritik gündem maddesi oldu.Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/b6e01c/0/0/0/0/2048/1457?u=https://iahbr.tmgrup.com.tr/2026/03/23/1774264667877.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_389aea08",
     "title": "Bakan Güler İngiltere yolcusu! Gündem: Eurofighter Typhonn savaş uçağının tedariki",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor ile Galatasaray Süper Lig maçında karşı karşıya gelecek. Peki, Trabzonspor Galatasaray maçı ne zaman, saat kaçta, hangi kanalda? İşte Trabzonspor Galatasaray maçı muhtemel 11'leri ve önemli detaylar!",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/trabzonspor-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-ts-gs-muhtemel-11ler-mtuh.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ec39c679",
-    "title": "Dilovası'ndaki parfüm fabrikası yangını davası başladı",
-    "source": "BBC Türkçe",
-    "time": "24/03/2026 15:39",
-    "link": "https://www.bbc.com/turkce/articles/cy81n621lqlo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kocaeli'nin Dilovası ilçesinde bir parfüm fabrikasında yedi kişinin yaşamını yitirdiği yangınla ilgili davanın ilk duruşması Kandıra'da bulunan Kocaeli Ceza İnfaz Kurumları Kampüsü'nde başladı.",
-    "image": null,
-    "keyword": null
   }
 ]
