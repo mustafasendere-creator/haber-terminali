@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88f7c86f",
+    "title": "Trump yönetimi, TotalEnergies'e ABD açık deniz rüzgarından vazgeçmesi için 1 milyar dolar verdi",
+    "source": "Euronews",
+    "time": "24/03/2026 11:25",
+    "link": "http://tr.euronews.com/business/2026/03/24/trump-yonetimi-totalenergiese-abd-acik-deniz-ruzgarindan-vazgecmesi-icin-1-milyar-dolar-ve",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Washington, bir Fransız enerji devine ABD açık deniz rüzgar projelerinden çekilmesi için geri ödeme yapacak; bu adım çevre gruplarının tepkisini çekiyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c5df3b78",
     "title": "Moldova, Rusya’yı suçladı: ‘Savaş suçu işliyorsun’",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ekonomi Koordinasyon Kurulu EKK, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4faeed6a",
-    "title": "Samsun'da 6 araçlık kaza: 19 yaralı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 10:26",
-    "link": "https://www.trthaber.com/haber/turkiye/samsunda-6-araclik-kaza-19-yarali-938868.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsun'un Vezirköprü ilçesinde altı aracın karıştığı trafik kazasında ilk belirlemelere göre 19 kişi yaralandı.",
     "image": null,
     "keyword": null
   }
