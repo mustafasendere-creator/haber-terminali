@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2a2f444f",
+    "title": "ABD'de Maduro'yu yargılayan hâkimin yaşı tartışma yarattı",
+    "source": "DW Türkçe",
+    "time": "24/03/2026 16:52",
+    "link": "https://www.dw.com/tr/abd-de-maduro-yu-yargılayan-hâkimin-yaşı-tartışma-yarattı/a-76500586",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Venezuela'nın devrik lideri Maduro Perşembe günü ikinci kez yargıç karşısına çıkıyor. 92 yaşındaki federal yargıç Alvin Hellerstein'in yıllar sürebilecek bu davaya ne kadar uygun olduğu ise ABD'de tartışma konusu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0d9ec338",
     "title": "Özgür Özel'den tapu açıklaması: ID'ler yalanlanmadı",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da 2026 yılı kahverengi kokarca ile mücadele çalışmaları erkene alındı. İl Tarım ve Orman Müdürlüğü, 100 bin hanede ilaçlama hedefiyle sahada kapsamlı bir mücadele yürütüyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/detyy-7-kopya-3.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_6c32f112",
-    "title": "Danimarka usulü şıklık: Kopenhag'ın 'It-Girl onaylı' 5 vintage dükkanı",
-    "source": "Euronews",
-    "time": "24/03/2026 15:40",
-    "link": "http://tr.euronews.com/kultur/2026/03/24/danimarka-usulu-siklik-kopenhagin-it-girl-onayli-5-vintage-dukkani",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İster zamansız İskandinav minimalizminin, ister hikayesi olan iddialı parçaların peşinde olun, Kopenhag aradığınızı sunuyor. Danimarkalı kadınlar, hikayeli parçaların zahmetsiz stil yarattığını kanıtlıyor.",
-    "image": null,
-    "keyword": null
   }
 ]
