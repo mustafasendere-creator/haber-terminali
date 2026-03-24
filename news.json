@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e807248f",
+    "title": "Katil İsrail'in Lübnan'a düzenlediği saldırılarda hayatını kaybedenlerin sayısı 1072'ye yükseldi",
+    "source": "TRT Haber",
+    "time": "24/03/2026 19:12",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israilin-lubnana-duzenledigi-saldirilarda-hayatini-kaybedenlerin-sayisi-1072ye-yukseldi-938933.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında hayatını kaybedenlerin sayısının 33 artarak 1072'ye çıktığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6ced12e8",
     "title": "ABD İran savaşında Ramstein'ı kullanabilir mi?",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İnternetteki çocuk cinsel istismarı materyallerini (CSAM) kaldırmaya adanmış İngiliz menşeli sivil toplum kuruluşu IWF, geçtiğimiz yıl kullanıcı raporlarından 8 binden fazla yapay zeka üretimi görsel ve video tespit etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8efd6c81",
-    "title": "Avrupa'nın patent yarışında zirveye hangi ülke çıktı",
-    "source": "Euronews",
-    "time": "24/03/2026 18:12",
-    "link": "http://tr.euronews.com/next/2026/03/24/avrupanin-patent-yarisinda-zirveye-hangi-ulke-cikti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya, dünyanın iki numaralı aktörü ve Avrupa kıtasının lideri olarak Avrupa’nın temel direği olmayı sürdürüyor. Ancak yapay zeka başlıca teknoloji değildi.",
     "image": null,
     "keyword": null
   }
