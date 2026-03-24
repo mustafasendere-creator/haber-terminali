@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_015c8b42",
+    "title": "İran'da ABD-İsrail saldırıları nedeniyle 230 öğrenci ve öğretmen öldü",
+    "source": "Haber Global",
+    "time": "24/03/2026 18:12",
+    "link": "https://haberglobal.com/dunya/iranda-abd-israil-saldirilari-nedeniyle-230-ogrenci-ve-ogretmen-oldu-515021",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, ABD-İsrail saldırılarının başlamasından bu yana 230 öğrenci ve öğretmenin öldürüldüğünü, 177 öğrenci ve eğitim personelinin yaralandığını ve 600'den fazla eğitim ve kültür tesisinin hasar gördüğünü açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/iranda-abd-israil-saldirilari-nedeniyle-230-ogrenci-ve-ogretmen-oldu-m9lc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_16049ba8",
     "title": "Pakistan Başbakanı Şerif: \"ABD-İran görüşmelerine ev sahipliği yapmaya hazırız\"",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sağlık Bakanı Kemal Memişoğlu, bu yılın başından itibaren faaliyete geçen \"Üreten Sağlık Portalı\"na 3 ayda 390 fikir geldiğini söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4c3060d5",
-    "title": "AB krizlere hazırlıklılıkta toplumun tamamını sürece dahil etmeyi hedefliyor",
-    "source": "TRT Haber",
-    "time": "24/03/2026 17:32",
-    "link": "https://www.trthaber.com/haber/dunya/ab-krizlere-hazirliklilikta-toplumun-tamamini-surece-dahil-etmeyi-hedefliyor-938921.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği AB Komisyonunun Eşitlik, Hazırlıklılık ve Kriz Yönetiminden Sorumlu Üyesi Hadja Lahbib, ABde krizlere karşı hazırlıklılığın toplumun tüm kesimlerini kapsayan, esnek ve koordineli bir yaklaşımla güçlendirilmesi gerektiğini belirtti.",
     "image": null,
     "keyword": null
   }
