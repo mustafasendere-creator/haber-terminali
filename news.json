@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_24fe179e",
+    "title": "Lübnan, İran büyükelçisini \"istenmeyen kişi\" ilan etti",
+    "source": "DW Türkçe",
+    "time": "24/03/2026 15:40",
+    "link": "https://www.dw.com/tr/lübnan-iran-büyükelçisini-istenmeyen-kişi-ilan-etti/a-76506681",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan, İran büyükelçisinin akreditasyonunu iptal ederek ülkeyi terk etmesini istedi. İki ülke arasında gerginliğin temelinde Hizbullah'ın çatışmalara dahil olması yatıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8057bdab",
     "title": "Konyasporlu Alassane Ndao için tahliye kararı",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Tanıtım Günleri Ankara’da düzenleniyor. 9–12 Nisan’da Başkent Millet Bahçesi’nde kültür, lezzet ve turizm bir araya gelecek.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/baskent-trabzon-1.jpeg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_d390364c",
-    "title": "Trabzon’da Dünya Su Günü etkinliği, Başkan Genç su tasarrufuna dikkat çekti",
-    "source": "Karadeniz Gazetesi",
-    "time": "24/03/2026 14:19",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-dunya-su-gunu-etkinligi-baskan-genc-su-tasarrufuna-dikkat-cekti/606623",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediyesi, Dünya Su Günü kapsamında Hami Yıldırım İlkokulu’nda etkinlik düzenledi. Başkan Ahmet Metin Genç, yeni su kaynakları ve tasarruf bilincinin önemine vurgu yaptı.",
-    "image": null,
-    "keyword": null
   }
 ]
