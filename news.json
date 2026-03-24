@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_16ea0d1c",
+    "title": "İran'dan Tel Aviv'e misilleme: 6 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 12:26",
+    "link": "https://www.trthaber.com/haber/dunya/irandan-tel-avive-misilleme-6-kisi-yaralandi-938889.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın gece yarısından bu yana düzenlediği ve İsrail'in orta kesimini hedef alan 6'ncı misillemede, 6 kişi hafif şekilde yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_27ab8d40",
     "title": "ABD'li Senatör Van Hollen: Trump İran ile görüşmeler konusunda yalan söylüyor",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig’de zirve mücadelesi veren Trabzonspor, 27 haftada attığı 53 golle son yılların en golcü performansını sergiliyor. Bordo-mavililerde Paul Onuachu’nun katkısı öne çıkıyor.",
     "image": "https://resim.haber61.net/news/609082.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d88214d2",
-    "title": "Kolombiya'da askeri uçağın düşmesinin ardından yanan enkaz görüntülendi",
-    "source": "Euronews",
-    "time": "24/03/2026 11:45",
-    "link": "http://tr.euronews.com/video/2026/03/24/kolombiyada-askeri-ucagin-dusmesinin-ardindan-yanan-enkaz-goruntulendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Olay yerinden gelen görüntüler, uçağın kopmuş kuyruğunun etrafında tırmanmaya çalışan sivilleri, ağaçların üzerinde duman ve alevler yükselirken gösteriyordu.",
-    "image": null,
-    "keyword": null
   }
 ]
