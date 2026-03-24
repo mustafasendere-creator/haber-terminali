@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e360643",
+    "title": "Meloni'ye şok: Seçmen 'hayır' dedi",
+    "source": "OdaTV",
+    "time": "24/03/2026 03:45",
+    "link": "https://www.odatv.com/guncel/meloniye-sok-secmen-hayir-dedi-120140501",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sayımı tamamlanan oylara göre, anayasa reformu seçmenlerin yaklaşık yüzde 55&#039;i tarafından reddedilirken, &#039;evet&#039; oyları yüzde 45&#039;te kaldı. Referanduma katılım oranı ise yüzde 59 olarak gerçekleşti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/05/27/meloniye-yerel-secim-soku-jnm7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7733cc8b",
     "title": "Che tişörtlü Henry yine gündemde",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Filistin topraklarını gasbeden İsraillilerin ordu koruması altında işgal altındaki Batı Şeria’da düzenledikleri saldırılarda 3 Filistinli yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1d0d5c9f",
-    "title": "Premier Lig takımlarının kadro genişletme talebi UEFA'da kabul görmedi",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 01:05",
-    "link": "https://www.aa.com.tr/tr/guncel/premier-lig-takimlarinin-kadro-genisletme-talebi-uefada-kabul-gormedi/3876511",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere Premier Lig ekiplerinin Şampiyonlar Ligi kadrolarını 28 kişiye çıkarma talebinin İspanyol takımlarının da itirazıyla UEFA tarafından reddedildiği iddia edildi.",
     "image": null,
     "keyword": null
   }
