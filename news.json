@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1167c079",
+    "title": "Yurt genelinde yağış sürecek, sıcaklıklar kademeli artacak",
+    "source": "TRT Haber",
+    "time": "24/03/2026 18:32",
+    "link": "https://www.trthaber.com/haber/gundem/yurt-genelinde-yagis-surecek-sicakliklar-kademeli-artacak-938907.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurt genelinde hakim olan yağışlı sistem, hafta boyunca etkisini sürdürecek. Hava sıcaklıklarının pazar gününe kadar kademeli olarak artacağı tahmin ediliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8774a0f4",
     "title": "ABDİsrail ve İran Savaşı petrol piyasasında 500 milyon varillik kayba sebep oldu",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Meta CEO'sunun, şirkette yapay zekânın günlük işleyişe entegre edilmesini hedefleyen daha geniş bir hamlenin parçası olarak, kendi görevlerine yardımcı olacak bir yapay zekâ asistanı geliştirdiği bildiriliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_66aa0ca1",
-    "title": "Kamboçya 1000 yıllık 'Dans Eden Şiva' heykelini yeniden sergiledi",
-    "source": "Euronews",
-    "time": "24/03/2026 17:52",
-    "link": "http://tr.euronews.com/kultur/2026/03/24/kambocya-1000-yillik-dans-eden-siva-heykelini-yeniden-sergiledi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kamboçya, yıllar süren titiz koruma çalışmalarının ardından, Koh Ker'den 10 binden fazla parçadan yeniden birleştirilen 10. yüzyıla ait Dans Eden Şiva heykelini yeniden gün yüzüne çıkardı.",
     "image": null,
     "keyword": null
   }
