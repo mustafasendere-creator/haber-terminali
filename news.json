@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_302d2f5a",
+    "title": "Son Dakika... Fikret Orman gözaltına alındı",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 01:12",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-fikret-orman-gozaltina-alindi-2489349",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "'Uyuşturucu' soruşturması kapsamında Fikret Orman gözaltına alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_433f58fe",
     "title": "Gabriel Sara'dan Brezilya Milli Takımı açıklaması: Okan Buruk ve Carlo Ancelotti sözleri...",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Dışişleri Bakanı Marco Rubio, Venezuela hükümeti adına \"lobi faaliyeti yürütmekle\" suçlanan eski Florida Eyalet Meclis Üyesi David Rivera'nın yargılanması kapsamında ifade verdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/aa2414e9-a7db-4e35-a82e-4ed6dd95bc13.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_db54e93b",
-    "title": "CHP'li Emir'den iddialara yanıt: Malvarlığını açıkladı",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 23:32",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-emir-den-iddialara-yanit-malvarligini-acikladi-2489328",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Grup Başkanvekili Murat Emir, kişisel taşınmazlarına ilişkin ortaya atılan iddiaların \"yalan ve iftira\" olduğunu belirterek, tapu kayıtlarının incelenmesine açık olduğunu ifade etti. Emir, mal varlığına dair tüm bilgilerin şeffaf olduğunu vurguladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8ecf52d0-81f7-435a-baba-5b012bb957f4.jpg",
     "keyword": null
   }
 ]
