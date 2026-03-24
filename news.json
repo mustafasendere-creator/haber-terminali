@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_52230634",
+    "title": "ABD-İsrail ve İran'ın karşılıklı saldırıları devam ediyor",
+    "source": "BBC Türkçe",
+    "time": "24/03/2026 15:39",
+    "link": "https://www.bbc.com/turkce/articles/cre1zgqv98zo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İran arasında müzakere olasılığına ilişkin başkentlerden çelişkili açıklamalar gelirken, karşılıklı saldırılar da devam ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_57f6b6b1",
     "title": "Orta Doğu’daki çatışmalar Alman ekonomisinde ivme kaybına yol açtı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Bahçeşehir Koleji maçı öncesi hücum istatistiklerinde öne çıktı. Bahçeşehir ise savunma ve ribaund verilerinde daha iyi bir görüntü sergiledi.",
     "image": "https://resim.haber61.net/news/609097.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_082c4409",
-    "title": "Ordu’da trafik denetimleri: 18 bin araç kontrol edildi, binlerce ceza kesildi",
-    "source": "Haber61",
-    "time": "24/03/2026 13:39",
-    "link": "https://www.haber61.net/bolgesel/orduda-trafik-denetimleri-18-bin-arac-kontrol-edildi-binlerce-ceza-kesildi-h627566.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu’da son bir haftada yapılan trafik denetimlerinde 18 bin 725 araç kontrol edildi. 3 bin 138 sürücüye işlem yapılırken, 39 araç trafikten men edildi.",
-    "image": "https://resim.haber61.net/news/609096.jpg",
-    "keyword": null
   }
 ]
