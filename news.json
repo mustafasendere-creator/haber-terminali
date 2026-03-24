@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3517fa41",
+    "title": "Edirne’de iki iş yerini etkileyen yangın söndürüldü",
+    "source": "Haber Global",
+    "time": "25/03/2026 01:52",
+    "link": "https://haberglobal.com/gundem/edirnede-iki-is-yerini-etkileyen-yangin-sonduruldu-515072",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne’de sanayi sitesindeki pimapen dükkanında çıkan ve bitişikteki orman malzemeleri imalathanesine sıçrayan yangın, itfaiye ekiplerince söndürüldü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/edirnede-iki-is-yerini-etkileyen-yangin-sonduruldu-t4us.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f9e919c9",
     "title": "Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüştü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. ERDEK SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU",
     "image": "https://media.cumhuriyet.com.tr/Archive/71f1ceb1-4ade-4173-b6f6-70303d179b01.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b261bd9e",
-    "title": "TARSUS BELEDİYE BAŞKANLIĞI",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 00:12",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/tarsus-belediye-baskanligi-2489240",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TARSUS BELEDİYE BAŞKANLIĞI",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a6e24b98-2edf-4d4f-a72f-aa4431966ad0.jpg",
     "keyword": null
   }
 ]
