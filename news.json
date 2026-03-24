@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_991451af",
+    "title": "Bilecik'te yabancı uyruklu kişi evinde ölü bulundu",
+    "source": "Evrensel",
+    "time": "24/03/2026 18:32",
+    "link": "https://www.evrensel.net/haber/5976587/bilecikte-yabanci-uyruklu-kisi-evinde-olu-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik'te yabancı uyruklu bir kişi evinde ölü bulundu. Yapılan ilk incelemelerde kişinin cesedinde darp izlerine rastlandığı bildirildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340108.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_208a9efd",
     "title": "Macaristan’da seçim öncesi casusluk krizi: Peter Magyar’dan 'derin devlet' iddiası",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İtalya'da 22-23 Mart'ta yapılan referandumda yargı reformunun reddedilmesinin, Meloni liderliğindeki sağ ittifak için \"net bir yenilgi\" olduğu, muhalefetteki sol partileri ise gelecek genel seçimler için \"umutlandırdığı\" belirtildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_81a0cd7b",
-    "title": "AB, Rusya'dan petrol ithalatını tamamen yasaklayacak teklifi erteledi",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 17:51",
-    "link": "https://www.aa.com.tr/tr/guncel/ab-rusyadan-petrol-ithalatini-tamamen-yasaklayacak-teklifi-erteledi/3877412",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği (AB), Orta Doğu'daki gelişmelerin tetiklediği enerji fiyatlarındaki artış ve üye ülkeler arasındaki görüş ayrılıkları nedeniyle Rusya'dan petrol ithalatını kalıcı olarak yasaklamayı öngören yasa teklifini erteledi.",
     "image": null,
     "keyword": null
   }
