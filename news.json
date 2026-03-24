@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4aa97d8",
+    "title": "Fatih'te bir yaralı entübe edildi",
+    "source": "Habertürk",
+    "time": "24/03/2026 12:46",
+    "link": "https://www.haberturk.com/fatih-te-bir-yarali-entube-edildi-3871760",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Fatih'te dün çöken bitişik iki binanın enkazından çıkarılan 2 yaralı taburcu edildi. Tedavisi devam eden 8 yaralıdan birinin ise entübe edildiği öğrenildi",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774277092/3871760/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e8dde341",
     "title": "Konyaaltı'nda toplanma alanları oluşturuldu",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Arnavutköy'de iddiaya göre sürücüsünün makas attığı sırada direksiyon hakimiyetini kaybettiği otomobil bariyere çarptı. Kazada yaralanan sürücü hastaneye kaldırılırken, kaza anı başka bir araç içi kamerasına yansıdı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ce24c160",
-    "title": "Türk Devletleri Teşkilatı Zirvesi Türkistan'da yapılacak",
-    "source": "TRT Haber",
-    "time": "24/03/2026 12:06",
-    "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-devletleri-teskilati-zirvesi-turkistanda-yapilacak-938882.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev, Türkistan şehrinde mayıs ayında Türk Devletleri Teşkilatı Devlet Başkanlarının Olağanüstü Zirvesine ev sahipliği yapacaklarını açıkladı.",
     "image": null,
     "keyword": null
   }
