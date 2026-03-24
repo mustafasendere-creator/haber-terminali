@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cb212c31",
+    "title": "Ortalık savaş alanına döndü! Kazan patladı, 1 kişi öldü!",
+    "source": "Habertürk",
+    "time": "24/03/2026 18:32",
+    "link": "https://www.haberturk.com/ortalik-savas-alanina-dondu-kazan-patladi-1-kisi-oldu-3871675",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tekirdağ'da 5 gün önce yaşanan dehşette yeni bir gelişme yaşandı. Olayda bir kişinin öldüğü yağ fabrikasındaki patlamanın görüntüsü ortaya çıktı",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774260349/3871675/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_d0fb1f5c",
     "title": "Kıskanmak dizisinin yeni bölümü ne zaman? Kıskanmak dizisinin son bölümünde ne oldu?",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Meteoroloji Genel Müdürlüğü, yarın sabah saatlerinden itibaren Hakkari genelinde ve Şırnak'ın doğu kesimlerinde kuvvetli yağış ve yoğun kar beklendiğini duyurarak vatandaşları olumsuzluklara karşı uyardı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8ee315c0",
-    "title": "Ege Denizi için fırtına uyarısı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 17:52",
-    "link": "https://www.trthaber.com/haber/turkiye/ege-denizi-icin-firtina-uyarisi-938923.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji Genel Müdürlüğü MGM, Ege Denizi'nin kuzey ve güney kesimlerinde yarın fırtına beklendiğini duyurdu.",
     "image": null,
     "keyword": null
   }
