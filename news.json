@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a4660bc",
+    "title": "İran Dışişleri Bakanı Arakçi: Hürmüz Boğazı, savaşanlar hariç herkese açıktır",
+    "source": "TRT Haber",
+    "time": "24/03/2026 19:32",
+    "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-hurmuz-bogazi-savasanlar-haric-herkese-aciktir-938930.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD ve İsrail'in saldırılarıyla tırmanan gerilim nedeniyle gemi trafiğinde kesintilerin yaşandığı Hürmüz Boğazı'nın, kendileriyle savaşan ülkelerin gemileri dışında tüm gemilere açık olduğu mesajını verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e49102a3",
     "title": "Bakan Bayraktar: İrandan gelen gaz akışında kesinti yok",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bilecik'te yabancı uyruklu bir kişi evinde ölü bulundu. Yapılan ilk incelemelerde kişinin cesedinde darp izlerine rastlandığı bildirildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340108.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_208a9efd",
-    "title": "Macaristan’da seçim öncesi casusluk krizi: Peter Magyar’dan 'derin devlet' iddiası",
-    "source": "Euronews",
-    "time": "24/03/2026 18:32",
-    "link": "http://tr.euronews.com/my-europe/2026/03/24/macaristanda-secim-oncesi-casusluk-krizi-peter-magyardan-derin-devlet-iddiasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macar muhalefet lideri Peter Magyar, anketlerin partisinin kazanabileceğini gösterdiği 12 Nisan seçimlerine birkaç hafta kala basında çıkan haberlere atıfta bulunarak, ülkenin gizli servislerini Tisza Partisi'nin bilişim sistemlerini hedef almakla suçladı.",
-    "image": null,
     "keyword": null
   }
 ]
