@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59f81ed7",
+    "title": "İsveç'te göçmenlere \"dürüst yaşam\" şartı",
+    "source": "DW Türkçe",
+    "time": "24/03/2026 15:41",
+    "link": "https://www.dw.com/tr/isveç-te-göçmenlere-dürüst-yaşam-şartı/a-76505150",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsveç hükümeti \"dürüst olmayan\" göçmenleri sınır dışı etmeyi planlıyor. Yasa tasarısına göre, \"borçlarını ödemeyen veya sosyal yardım sistemini suistimal edenler\" sınır dışı edilecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_24fe179e",
     "title": "Lübnan, İran büyükelçisini \"istenmeyen kişi\" ilan etti",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "22 Mart Dünya Su Günü nedeniyle düzenlenen etkinliğe katılan Büyükşehir Belediye Başkanı Ahmet Metin Genç, suyun önemine vurgu yaparak, \"Yeni su kaynakları için çalışıyoruz ancak tasarruf da çok önemli. Tasarruf bilincini toplumun tamamına yaymak istiyoruz\" dedi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_fa945741",
-    "title": "Trabzon Tanıtım Günleri Ankara’da Başlıyor: Kültür ve Lezzet Buluşması",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 14:19",
-    "link": "https://www.takagazete.com.tr/trabzon-tanitim-gunleri-ankarada-basliyor-kultur-ve-lezzet-bulusmasi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Tanıtım Günleri Ankara’da düzenleniyor. 9–12 Nisan’da Başkent Millet Bahçesi’nde kültür, lezzet ve turizm bir araya gelecek.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/baskent-trabzon-1.jpeg",
-    "keyword": "trabzon"
   }
 ]
