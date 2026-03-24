@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_43ee3a2e",
+    "title": "Ağrı'da askeri araç kazasında bir asker yaşamını yitirdi",
+    "source": "Evrensel",
+    "time": "24/03/2026 21:32",
+    "link": "https://www.evrensel.net/haber/5976562/agrida-askeri-arac-kazasinda-bir-asker-yasamini-yitirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MSB, Doğubayazıt’ta meydana gelen askeri araç kazasında Piyade Uzman Çavuş Yusuf Açay’ın hayatını kaybettiğini açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/323685.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1bea8e4e",
     "title": "Pomza madeni için verilen ÇED iznine karşı dava: “Toprağımıza, suyumuza ve geleceğimize sahip çıkacağız”",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Filipinler’de, Orta Doğu’da devam eden çatışmaların ülke enerji tedariki üzerinde oluşturduğu &quot;yakın tehlike&quot; gerekçesiyle &quot;ulusal enerji acil durumu&quot; ilan edildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/filipinler-ulusal-enerji-acil-durumu-ilan-etti-b5pf_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b142b365",
-    "title": "Sayıştay 1. Daire Başkanlığına Mustafa Mis seçildi",
-    "source": "Ekonomim",
-    "time": "24/03/2026 20:33",
-    "link": "https://www.ekonomim.com/gundem/sayistay-1-daire-baskanligina-mustafa-mis-secildi-haberi-883723",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sayıştay Genel Kurulu 1. Daire Üyesi Mustafa Mis, Daire Başkanlığı görevine seçildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/sayistay-1-daire-baskanligina-mustafa-mis-secildi-i4hh_cover.jpg",
     "keyword": null
   }
 ]
