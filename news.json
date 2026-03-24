@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e174e15a",
+    "title": "Yangından cinayet çıktı!",
+    "source": "Habertürk",
+    "time": "24/03/2026 11:46",
+    "link": "https://www.haberturk.com/kirklareli-de-evdeki-yanginda-olumun-cinayet-oldugu-ortaya-cikti-3871810",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırklareli'de evde çıkan yangında hayatını kaybeden Mehmet Erol'un cinayete kurban gittiği ortaya çıktı. Yangını şüpheli bulan polisin çalışmasıyla yakalanan ve yangını kendisinin çıkardığını itiraf eden G.Ö, tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774297911/3871810/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_82d93e6f",
     "title": "Müdahaleler, yaptırımlar ve savaşlar",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da yaşayan Mesut Yılmaz, sanal medyada gördüğü satılık ev ilanı üzerinden 2020 yılında 106 bin TL ödeme yaptığını, ancak aradan geçen sürede evin teslim edilmediğini belirterek suç duyurusunda bulundu.",
     "image": "https://resim.haber61.net/news/609068.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_a0f73252",
-    "title": "Artvin Borçka’da TIR devrildi: Sürücü ağır yaralı",
-    "source": "Haber61",
-    "time": "24/03/2026 11:05",
-    "link": "https://www.haber61.net/bolgesel/artvin-borckada-tir-devrildi-surucu-agir-yarali-h627552.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Artvin’in Borçka ilçesinde kontrolden çıkan TIR’ın devrilmesi sonucu sürücü ağır yaralandı. Kazayla ilgili inceleme başlatıldı.",
-    "image": "https://resim.haber61.net/news/609069.jpg",
-    "keyword": null
   }
 ]
