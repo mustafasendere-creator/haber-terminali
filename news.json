@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_74a34ca8",
+    "title": "Kayıp öğretmen ölü bulundu",
+    "source": "Habertürk",
+    "time": "24/03/2026 17:33",
+    "link": "https://www.haberturk.com/kayip-olarak-araniyordu-antalya-da-29-yasindaki-ogretmen-adayinin-irmakta-cansiz-bedeni-bulundu-3871703",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya’da yürüyüşe çıktıktan sonra kaybolan 29 yaşındaki Rümeysa Güven için arama çalışması başlatıldı. Ailesinin kayıp başvurusunun ardından ekiplerin ırmak çevresinde yaptığı aramada genç kadının cansız bedeni bulundu. Olayla ilgili soruşturma başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774266488/3871703/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b8bd9b30",
     "title": "ABD, ithal internet yönlendiricilerini yasakladı",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD&#039;de tarım dışı iş gücü verimliliğinde geçen yılın dördüncü çeyreğinde kaydedilen artış yüzde 2,8&#039;den yüzde 1,8&#039;e revize edildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/01/08/abdde-issizlik-sigortasi-basvurulari-beklentinin-altinda-artti-kt3t_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1fe8e9dc",
-    "title": "FETÖ operasyonu: 64 gözaltı",
-    "source": "Habertürk",
-    "time": "24/03/2026 16:53",
-    "link": "https://www.haberturk.com/32-ilde-feto-operasyonu-64-gozalti-3871722",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı tarafından yapılan açıklamada, “32 ilde FETÖ’ye yönelik jandarmamız tarafından düzenlenen operasyonlarda 64 şüpheli yakalandı” denildi",
-    "image": "https://im.haberturk.com/l/2026/03/23/ver1774268519/3871722/jpg/1280x1280",
     "keyword": null
   }
 ]
