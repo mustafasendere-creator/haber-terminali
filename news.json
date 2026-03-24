@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_42d6c6e4",
+    "title": "İran Atom Enerjisi Kurumu: ABD-İsrail saldırısında Buşehr Nükleer Enerji Santrali sahasına füze isabet etti",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 23:11",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-atom-enerjisi-kurumu-abd-israil-saldirisinda-busehr-nukleer-enerji-santrali-sahasina-fuze-isabet-etti/3877880",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Atom Enerjisi Kurumu, ABD-İsrail'in Buşehr Nükleer Enerji Santrali'ne düzenlediği saldırıda santral sahasına füze isabet ettiğini, saldırıda teknik hasar ya da can kaybı yaşanmadığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7a7d58b3",
     "title": "CHP'li Tuncer'den genç kadına skandal teklif iddiası",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "U18 Milli Futbol Takımı, Avrupa U18 Şampiyonası Elemeleri 1. Tur B Ligi'nde karşılaştığı Cebelitarık'ı 7-0 mağlup etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/735d8a21-f2b4-4a4a-a083-8087f4338f18.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_057b0797",
-    "title": "Epic Games, binin üzerinde çalışanını işten çıkarıyor",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 21:52",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/epic-games-binlerce-calisanini-isten-cikariyor-2489289",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Epic Games, Fortnite'a olan ilginin azalmasını gerekçe göstererek çalışanıyla yollarını ayıracak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4943b083-875f-4f9c-80ef-b445f40ad240.jpg",
     "keyword": null
   }
 ]
