@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b3d0164e",
+    "title": "Mamak’ta işçi alımı kurası çekildi: 90 asil, 12 yedek aday belirlendi",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 17:12",
+    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/mamak-ta-isci-alimi-kurasi-cekildi-90-asil-12-yedek-aday-belirlendi-2489247",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mamak Belediyesi’nin İŞKUR üzerinden gerçekleştireceği 90 geçici temizlik işçisi alımı için kura çekimi yapıldı. Kura sonucunda 90 asil ve 12 yedek aday belirlendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/20c85fa6-45cb-40c9-9ee2-d97dc05c8d08.png",
+    "keyword": null
+  },
+  {
     "id": "GND_6422c514",
     "title": "Kabine yoğun gündemle toplandı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediyesi’nin Down sendromu farkındalık etkinliğinde özel bireyler belediye çalışmalarına katıldı, “Biz de varız” mesajı verdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/down-sendrom-trabzon-3.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_d04e950f",
-    "title": "Ordu'da spor kompleksinin inşası devam ediyor",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 16:19",
-    "link": "https://www.takagazete.com.tr/orduda-spor-kompleksinin-insasi-devam-ediyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu'nun Altınordu ilçesinde Eskipazar Spor Kompleksi'nin yapımı sürüyor. Büyükşehir Belediyesinden yapılan yazılı açıklamada, Büyükşehir Belediye Başkanı Mehmet Hilmi Güler öncülüğünde Eskipazar Mahallesi'nde değişim ve dönüşüm yaşanmaya devam ettiği belirtildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/orduda-spor-kompleksinin-insasi-devam-ediyor.jpg",
     "keyword": null
   }
 ]
