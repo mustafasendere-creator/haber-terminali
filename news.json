@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d6315b66",
+    "title": "Erdoğan: ‘Hamdolsun ki, tarihimizin hiçbir döneminde oyuna gelmedik’",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 21:12",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-hamdolsun-ki-tarihimizin-hicbir-doneminde-oyuna-gelmedik-2489306",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Erdoğan, 28 Şubat'ta İsrail ve ABD'nin İran'a saldırıları ve İran'ın misilleme saldırılarıyla devam eden çatışmalara ilişkin, \"Türkiye, bölgemizi kan ve barut kokusuna boğan bu süreci ilk günden itibaren doğru okuyan, doğru analiz eden, devlet aklının temsilcisi olarak adından övgüyle söz ettiren ülkelerin en başında yer alıyor. Hamdolsun ki, tarihimizin hiçbir döneminde oyuna gelmedik. Bugün de birilerinin bizi çekmek istediği tuzaklara düşmüyoruz”\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/30b08a02-8fed-4258-94cb-f36101b8c0cf.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_20e61013",
     "title": "Samsun’da zincirleme kaza: Çok sayıda yaralı var",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İsrail ile 28 Şubat'ta İran'a başlattıkları saldırılardan önce yönetimi içerisinde planlarını destekleyen ilk kişinin ABD Savunma Bakanı Pete Hegseth olduğu mesajını verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_587cb7ef",
-    "title": "Muhit dergisi mart sayısında \"Sadece Mustafa Kutlu\" dosyasıyla okurları selamladı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 20:31",
-    "link": "https://www.aa.com.tr/tr/guncel/muhit-dergisi-mart-sayisinda-sadece-mustafa-kutlu-dosyasiyla-okurlari-selamladi/3877718",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şair ve yazar İbrahim Tenekeci yönetiminde yayımlanan Muhit dergisi, bu ay çıkan 75. sayısını Türk edebiyatının usta kalemi Mustafa Kutlu'ya armağan etti.",
     "image": null,
     "keyword": null
   }
