@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_90b83e12",
+    "title": "Adıyaman'da zincirleme kaza: 4 yaralı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 05:05",
+    "link": "https://www.trthaber.com/haber/turkiye/adiyamanda-zincirleme-kaza-4-yarali-938843.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AdıyamanGölbaşı kara yolunda meydana gelen zincirleme trafik kazasında 4 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a9986fe3",
     "title": "Ankara Barosu Başkanı Av. Köroğlu, gazetecilerin gözaltına alınmasını ve AYM’nin ihlal kararlarını değerlendirdi: ‘Burada yapısal arıza var!’",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Afyon'da Eber Gölü ve Karamık Gölü başta olmak üzere bölgedeki sulak alanlar hızla kururken, içme suyu temininin de ciddi risk altında olduğu kaydedildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/247989.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a1bd16bb",
-    "title": "Göklerin yeni muhafızı MKE TOLGA sahnede: Kamikaze dronları böyle parçaladı",
-    "source": "A Haber",
-    "time": "24/03/2026 01:45",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/24/goklerin-yeni-muhafizi-mke-tolga-sahnede-kamikaze-dronlari-boyle-parcaladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk savunma sanayisinin yerli ve milli gücü Makine ve Kimya Endüstrisi AŞ (MKE), hava savunma mimarisinin yeni \"yakın\" koruması TOLGA'nın gövde gösterisini dünya ile paylaştı. Mini ve mikro...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/46bfb9/0/0/0/0/2048/1152?u=https://iahbr.tmgrup.com.tr/2026/03/24/goklerin-yeni-muhafizi-mke-tolga-sahnede-kamikaze-dronlari-boyle-parcaladi-1774304470395.jpeg",
     "keyword": null
   }
 ]
