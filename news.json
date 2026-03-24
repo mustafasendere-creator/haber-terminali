@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_95fc8f06",
+    "title": "Ankara'da barajların doluluk oranı geçen yıla göre yüzde 1,34 azaldı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 15:41",
+    "link": "https://www.trthaber.com/haber/turkiye/ankarada-barajlarin-doluluk-orani-gecen-yila-gore-yuzde-134-azaldi-938909.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Başkente su sağlayan barajlarda doluluk oranı geçen yıla göre yüzde 1,34 düşüşle yüzde 28,09 olarak ölçüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ccdd7031",
     "title": "Bakan Gürlek, CHP'li Emir'e açtığı davadan kazandığı tazminatı AFAD'a bağışladı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "AK Parti Trabzon İl Başkanı Sezgin Mumcu, şehir hastanesi üzerinden yapılan eleştirilere tepki gösterdi. Mumcu, tartışmalar için “Boş polemikler; gerçekten boş” dedi.",
     "image": "https://resim.haber61.net/news/609105.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_c7e29b6e",
-    "title": "Akçaabat’ta offroad heyecanı başlıyor! Türkiye Şampiyonası 1. ayak yarışları yapılacak",
-    "source": "Haber61",
-    "time": "24/03/2026 14:39",
-    "link": "https://www.haber61.net/spor/akcaabatta-offroad-heyecani-basliyor-turkiye-sampiyonasi-1-ayak-yarislari-h627572.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Petlas Türkiye Offroad Şampiyonası 1. Ayak Trabzon Yarışları, 10-11-12 Nisan tarihlerinde Akçaabat’ta düzenlenecek. Organizasyonda seremonik start, mukavemet etabı ve seyirci etabı gerçekleştirilecek.",
-    "image": "https://resim.haber61.net/news/609106.jpg",
     "keyword": null
   }
 ]
