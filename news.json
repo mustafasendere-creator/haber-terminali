@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80fff718",
+    "title": "Katar'da şehit olan binbaşı Taştekin son yolculuğuna uğurlandı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 19:12",
+    "link": "https://www.trthaber.com/haber/gundem/katarda-sehit-olan-binbasi-tastekin-son-yolculuguna-ugurlandi-938932.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Katar'da helikopterin düşmesi sonucu şehit olan Hava Savunma Binbaşı Sinan Taştekin'in cenazesi, Isparta'da defnedildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e807248f",
     "title": "Katil İsrail'in Lübnan'a düzenlediği saldırılarda hayatını kaybedenlerin sayısı 1072'ye yükseldi",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Almanya, Polonya’daki Eurofighter savaş uçaklarını geri çekerek önemli bir NATO görevini sonlandırıyor. Malbork’tan yaklaşık 150 asker ülkeye dönüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f6bbefb3",
-    "title": "İnternet Gözlem Vakfı raporu: Yapay zeka destekli çocuk istismarı görsellerinde artış",
-    "source": "Euronews",
-    "time": "24/03/2026 18:12",
-    "link": "http://tr.euronews.com/next/2026/03/24/internet-gozlem-vakfi-raporu-yapay-zeka-destekli-cocuk-istismari-gorsellerinde-artis",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İnternetteki çocuk cinsel istismarı materyallerini (CSAM) kaldırmaya adanmış İngiliz menşeli sivil toplum kuruluşu IWF, geçtiğimiz yıl kullanıcı raporlarından 8 binden fazla yapay zeka üretimi görsel ve video tespit etti.",
     "image": null,
     "keyword": null
   }
