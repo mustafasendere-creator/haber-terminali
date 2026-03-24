@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3fc031c9",
+    "title": "Bayram yolundaki kazaların baş nedeni hız ihlali",
+    "source": "TRT Haber",
+    "time": "24/03/2026 17:12",
+    "link": "https://www.trthaber.com/haber/gundem/bayram-yolundaki-kazalarin-bas-nedeni-hiz-ihlali-938915.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ramazan Bayramı tatilinde kazaların yarıya yakını hız ihlalinden kaynaklandı. Kazalara karışan araç türlerinde otomobiller yüzde 62,6 ile ilk sırada yer aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c5ffcccc",
     "title": "Ömer Çelik: Siyasi fitnelere geçit vermeyeceğiz",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "3. Lig’deki Trabzon ekiplerinden Sebat Gençlikspor, ilk yarıda Samet’in attığı golle Amasyaspor’u yenerek şampiyonluk yolunda dev adım attı",
     "image": "https://resim.haber61.net/news/609128.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_1b726f97",
-    "title": "Trabzon'da Dünya Down Sendromu Farkındalık Günü dolayısıyla yürüyüş düzenlendi",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 15:59",
-    "link": "https://www.takagazete.com.tr/trabzonda-dunya-down-sendromu-farkindalik-gunu-dolayisiyla-yuruyus-duzenlendi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'da, Dünya Down Sendromu Farkındalık Günü etkinlikleri kapsamında yürüyüş gerçekleştirildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/trabzonda-dunya-down-sendromu-farkindalik-gunu-dolayisiyla-yuruyus-duzenlendi.jpg",
-    "keyword": "trabzon"
   }
 ]
