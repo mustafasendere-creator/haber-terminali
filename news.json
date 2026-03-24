@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_117cd203",
+    "title": "Muhabir, kuyumcu tarafından darp edildi",
+    "source": "Habertürk",
+    "time": "24/03/2026 15:41",
+    "link": "https://www.haberturk.com/bolu-da-haber-takibi-yapan-muhabir-darp-edildi-3871735",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu'da altın fiyatlarındaki düşüş nedeniyle kuyumcuda oluşan yoğunluğu görüntülemek isteyen muhabir Yağız Ekmen, işletme sahibi tarafından darp edildi",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774271712/3871735/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_834713e6",
     "title": "Dervişoğlu’ndan Bahçeli’ye 'kırmızı hat'  yanıtı: İmralı'dan talimat geliyor",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da Dünya Su Günü etkinliğinde konuşan Başkan Ahmet Metin Genç, su tasarrufu bilincinin toplumun tamamına yayılması gerektiğini vurguladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/dunya-su-gunu-2.jpeg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_cd391bb1",
-    "title": "Trabzon judo şampiyonasına hazırlanıyor! Büyük gün 28 Mart! Avrupa Yolu Trabzon’dan geçecek",
-    "source": "Haber61",
-    "time": "24/03/2026 14:39",
-    "link": "https://www.haber61.net/spor/trabzon-judo-sampiyonasina-hazirlaniyor-buyuk-gun-28-mart-avrupa-yolu-h627570.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon, Spor Toto Gençler Türkiye Judo Şampiyonası’na ev sahipliği yapacak. Beşirli Çok Amaçlı Spor Salonu’ndaki organizasyona 40 ilden 700 sporcunun kayıt yaptırdığı, antrenör ve katılımcılarla birlikte sayının 1200-1300 kişiye ulaşmasının bekleniyor.",
-    "image": "https://resim.haber61.net/news/609103.jpg",
     "keyword": "trabzon"
   }
 ]
