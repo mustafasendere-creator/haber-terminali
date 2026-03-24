@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a8f15fa9",
+    "title": "Evinde ölü bulundu: Cesette darp izleri tespit edildi",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 18:12",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/evinde-olu-bulundu-cesette-darp-izleri-tespit-edildi-2489268",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik'te yabancı uyruklu bir kişi evinde ölü bulundu. Yapılan ilk incelemelerde kişinin cesedinde darp izlerine rastlandığı bildirildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ed45584e-433f-4b75-82fd-04f12a3fa1a3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ca215f94",
     "title": "Yenidoğan Çetesi davasında yeni gelişme: Bir sanık hayatını kaybetti",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MHP Genel Başkanı Devlet Bahçeli, partisinin TBMM Grup Toplantısı'nda yaptığı konuşmada bazı İslam ülkeleri de dahil olmak üzere ülkeleri İspanya Başbakanı Pedro Sanchez'den ilham almaya davet etti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/devlet-bahceli-ulke-liderlerine-seslendi-pedro-sanchezde-ilham-alin-lswe.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fc573d21",
-    "title": "Bakan Güler, Eurofighter Typhonn savaş uçağı tedarikini görüşmek üzere İngiltere'ye gidecek",
-    "source": "TRT Haber",
-    "time": "24/03/2026 17:32",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-guler-eurofighter-typhonn-savas-ucagi-tedarikini-gorusmek-uzere-ingiltereye-gidecek-938913.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Savunma Bakanı Yaşar Güler, İngiltere Savunma Bakanı John Healey'in resmi davetlisi olarak bugün İngiltere'yi ziyaret ederek, Eurofighter Typhonn savaş uçağı tedarikine ilişkin görüşmede bulunacak.",
-    "image": null,
     "keyword": null
   }
 ]
