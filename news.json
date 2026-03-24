@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_042831c3",
+    "title": "Küresel piyasalar Orta Doğu gündeminde netlik arıyor",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 09:05",
+    "link": "https://www.aa.com.tr/tr/guncel/kuresel-piyasalar-orta-dogu-gundeminde-netlik-ariyor/3876684",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel piyasalar, Orta Doğu'daki gerilimlere ilişkin taraflardan gelen çelişkili mesajların etkisiyle karışık bir seyir izlerken, gözler bugün dünya genelinde açıklanacak Satınalma Yönetici Endeksi (PMI) verilerine çevrildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_10c21617",
     "title": "Akaryakıta dev zam: Cumhuriyet tarihinin rekoru",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul ve Kocaeli'de Newroz etkinliğinde \"terör örgütü propagandası\" yaptıkları ileri sürülen çok sayıda kişi gözaltına alındı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339827.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a74aa5ad",
-    "title": "Akaryakıtta zam dalgası sürüyor: Motorin ve benzin fiyatlarında yeni artış",
-    "source": "Evrensel",
-    "time": "24/03/2026 08:05",
-    "link": "https://www.evrensel.net/haber/5976465/akaryakitta-zam-dalgasi-suruyor-motorin-ve-benzin-fiyatlarinda-yeni-artis",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Benzinin litre fiyatına 1 lira, motorine ise 6 lira 58 kuruş zam geldi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/335341.jpg",
     "keyword": null
   }
 ]
