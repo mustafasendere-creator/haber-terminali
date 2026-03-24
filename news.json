@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_84ae2ef5",
+    "title": "CBS televizyonu: İran, ABD'li arabulucularla teması doğruladı",
+    "source": "BBC Türkçe",
+    "time": "24/03/2026 11:25",
+    "link": "https://www.bbc.com/turkce/articles/c0mjz37el77o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İran arasında müzakere olasılığına ilişkin başkentlerden birbirleriyle çelişkili açıklamalar geliyor. Buna karşın İran Dışişleri Bakanlığı'ndan üst düzey bir yetkili arabulucular aracılığıyla ABD'den bazı \"notların\" kendilerine ulaştırıldığını söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_de8085ad",
     "title": "Hürmüz Boğazı'ndan 23 günde geçen gemi sayısı savaş öncesi bir günlük seviyeye denk geldi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "KVKK’nın ilke kararına göre, açık rıza ile aydınlatma metinleri tek metinde birleştirilemeyecek; veri sorumluları bu iki süreci ayrı, açık ve onaya dayalı olmayan biçimde düzenlemek zorunda olacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339996.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_ae5b0db1",
-    "title": "Trabzon’da Derbi Öncesi Gerilim! VİRA’dan Çok Konuşulacak Pankart İddiası",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 10:25",
-    "link": "https://www.takagazete.com.tr/trabzonda-derbi-oncesi-gerilim-viradan-cok-konusulacak-pankart-iddiasi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor ile Galatasaray arasında oynanacak kritik mücadele öncesi tribünlerde tansiyon şimdiden yükseldi. Bordo-mavili taraftar grubu VİRA’nın hazırladığı koreografi ve pankart çalışmasıyla ilgili ortaya atılan iddialar, derbiye damga vuracak gelişmelerin habercisi oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/u-g-u-r-c-a-n-83.jpg",
     "keyword": null
   }
 ]
