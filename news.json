@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dd38e8ad",
+    "title": "Kuveyt: Düşen şarapneller nedeniyle 7 elektrik hattı devre dışı kaldı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 05:45",
+    "link": "https://www.trthaber.com/haber/dunya/kuveyt-dusen-sarapneller-nedeniyle-7-elektrik-hatti-devre-disi-kaldi-938848.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt, hava savunma sistemlerinin faaliyeti sırasında düşen şarapnel parçalarının neden olduğu hasar sebebiyle 7 elektrik hattının hizmet dışı kaldığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f6d1595d",
     "title": "Suudi Arabistan, gece boyunca İran'dan fırlatılan 19 İHA'yı engelledi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Manisa'nın Salihli ilçesinde kaybolan amatör dağcı Umut Tanrıkulu'nu (53) arama ve kurtarma çalışmaları 2’nci günde sürüyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0c9e12a3-3062-4f56-a2a9-73e4d292c8cd.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cf26bb1b",
-    "title": "Çalışma ve Sosyal Güvenlik Bakanlığı duyurdu: 40 mesleğe belge zorunluluğu yolda",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 02:05",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/calisma-ve-sosyal-guvenlik-bakanligi-duyurdu-40-meslege-belge-zorunlulugu-yolda-2488986",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çalışma ve Sosyal Güvenlik Bakanlığı, Mesleki Yeterlilik Belgesi zorunluluğuna ilişkin yeni düzenlemeyi yürürlüğe aldı. Uygulama, tehlikeli ve çok tehlikeli işlerde çalışanları kapsıyor. Kurallar ve istisnalar netleştirildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/726f4006-9476-4269-b219-9cf183d0b59f.jpg",
     "keyword": null
   }
 ]
