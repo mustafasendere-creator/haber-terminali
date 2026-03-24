@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b194918d",
+    "title": "Meteoroloji hangi illeri uyardı? Bu hafta da yağış var, cuma günü yeni dalga geliyor",
+    "source": "Evrensel",
+    "time": "24/03/2026 16:52",
+    "link": "https://www.evrensel.net/haber/5976571/meteoroloji-hangi-illeri-uyardi-bu-hafta-da-yagis-var-cuma-gunu-yeni-dalga-geliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji’ye göre Türkiye bu hafta da yağışlı havanın etkisinde kalacak; cuma gününden itibaren sıcaklıklar düşüşe geçecek.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/337287.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a5a5e345",
     "title": "139 yıldır denizin dibindeydi, amatör kaşifler sadece iki saatte buldu",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediyesi’nin bütün çocukların kitaplarla buluşmasını sağlamak ve okuma alışkanlığını güçlendirmek amacıyla başlattığı ‘Bir Kitap, Bin Umut’ kampanyasına destekler sürüyor. Yeşiltepe İlkokulu öğrencileri, kendi aralarında topladıkları okuma kitaplarını kampanyaya bağışlayarak anlamlı bir destek verdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3d3694d7",
-    "title": "Bahisten tutuklanmıştı: Ndao tahliye edildi",
-    "source": "10Haber",
-    "time": "24/03/2026 15:40",
-    "link": "https://10haber.net/spor/bahisten-tutuklanmisti-ndao-tahliye-edildi-689517/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Aralık 2025’te tutuklanan Alassane Ndao mahkeme karşısına çıktı. Hakkında &#8220;bahis ve şike&#8221; suçlamasıyla 13 yıla kadar hapis istemiyle dava açılan futbolcu bugün ilk duruşmada serbest bırakıldı. İddianamede Ndao&#8217;nun 20 Ekim 2024&#8217;te Beşiktaş ile Konyaspor arasında oynanan ve 2-0 Beşiktaş&#8217;ın galibiyetiyle sonuçlanan karşılaşmaya bahis oynadığı öne sürüldü. Soruşturmada verdiği [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c2840c2005c5.08825872.jpg",
     "keyword": null
   }
 ]
