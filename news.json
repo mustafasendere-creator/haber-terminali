@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_25a0ab2c",
+    "title": "İtalya’da Meloni hükümeti referandumu kaybetti",
+    "source": "10Haber",
+    "time": "24/03/2026 08:05",
+    "link": "https://10haber.net/dunya/italyada-meloni-hukumeti-referandumu-kaybetti-689348/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya&#8217;da yargı sisteminde reform öngören bir anayasa değişikliğini oylamak için 22-23 Mart&#8217;ta yapılan referandumdan ret kararı çıktı. Başbakan Giorgia Meloni, oy sayımı sürerken yenilgiyi kabul etti. İçişleri Bakanlığı&#8217;nın paylaştığı kısmi sonuçlara göre &#8220;hayır&#8221; oyları yüzde 53 ile öndeydi. Referanduma katılım oranı yüzde 58,9 oldu. Bu sonuçlar üzerine Başbakan Meloni sosyal medyada bir video yayımlayarak yenilgiyi [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c213744b2b34.65039948.webp",
+    "keyword": null
+  },
+  {
     "id": "TKP_6f5b3a17",
     "title": "Trabzonspor'da büyük dönüşüm! 52 yıllık tarihte görülmemiş olay",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe’de sakatlığı süren Milan Skriniar Slovakya’nın Dünya Kupası Play-Off\nkarşılaşmaları için aday kadroya alındı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c250a101-0f4f-415a-8705-5c9e3c387b96.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d0d0d644",
-    "title": "‘Savaş’ ve ‘süreç’ 2023’te değil 2001’de başladı",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 05:45",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/savas-ve-surec-2023-te-degil-2001-de-basladi-2489047",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’a saldırı ile iyice tırmandırılmış olan Ortadoğu Savaşı 7 Ekim 2023’de Hamas’ın İsrail’e yaptığı saldırı ile başlamadı: Ortadoğu Savaşı 11 Eylül 2001’de Usame Bin Ladin liderliğindeki El Kaide’nin ABD’ye yaptığı İkiz Kuleler saldırısı ile başladı!",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar22_cover.jpeg",
     "keyword": null
   }
 ]
