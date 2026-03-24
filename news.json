@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3dbd9a03",
+    "title": "Laricani’nin görevine Muhammed Bakır Zülkadir getirildi",
+    "source": "Evrensel",
+    "time": "24/03/2026 16:52",
+    "link": "https://www.evrensel.net/haber/5976572/laricani-nin-gorevine-muhammed-bakir-zulkadir-getirildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail saldırılarında hayatını kaybeden İran Ulusal Yüksek Güvenlik Konseyi Sekreteri Ali Laricani'nin yerine Muhammed Bakır Zülkadir atandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340089.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b194918d",
     "title": "Meteoroloji hangi illeri uyardı? Bu hafta da yağış var, cuma günü yeni dalga geliyor",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da kahverengi kokarca ile mücadele 2026 yılı için erkene alındı. 35 bin haneye biyosidal ürün dağıtılırken, yıl sonuna kadar 100 bin hanede ilaçlama hedefleniyor.",
     "image": "https://resim.haber61.net/news/609117.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_0d0f5105",
-    "title": "Trabzon'da 'Bir Kitap Bin Umut' Kampanyasına Destek Sürüyor",
-    "source": "Karadeniz Gazetesi",
-    "time": "24/03/2026 15:40",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-bir-kitap-bin-umut-kampanyasina-destek-suruyor/606636",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ortahisar Belediyesi’nin bütün çocukların kitaplarla buluşmasını sağlamak ve okuma alışkanlığını güçlendirmek amacıyla başlattığı ‘Bir Kitap, Bin Umut’ kampanyasına destekler sürüyor. Yeşiltepe İlkokulu öğrencileri, kendi aralarında topladıkları okuma kitaplarını kampanyaya bağışlayarak anlamlı bir destek verdi.",
-    "image": null,
-    "keyword": null
   }
 ]
