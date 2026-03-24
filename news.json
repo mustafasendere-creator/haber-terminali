@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8ee315c0",
+    "title": "Ege Denizi için fırtına uyarısı",
+    "source": "TRT Haber",
+    "time": "24/03/2026 17:52",
+    "link": "https://www.trthaber.com/haber/turkiye/ege-denizi-icin-firtina-uyarisi-938923.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü MGM, Ege Denizi'nin kuzey ve güney kesimlerinde yarın fırtına beklendiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_544ea1d6",
     "title": "Devrim Muhafızları: Trump, sahadaki gerçekleri anladıktan sonra bazı ülkelerin liderlerine sığındı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kabine, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında Beştepe'de toplandı. Toplantının öncelikli gündemi ABD-İsrail İran savaşı ve bölgeye yansımaları...",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/kabine-yogun-gundemle-toplanacak-yon0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_54d33bf2",
-    "title": "Pendik’te korkunç olay: Baba, 11 yaşındaki kızının gözü önünde öldürüldü",
-    "source": "Haber Global",
-    "time": "24/03/2026 17:12",
-    "link": "https://haberglobal.com/gundem/pendikte-korkunc-olay-baba-11-yasindaki-kizinin-gozu-onunde-olduruldu-515013",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pendik’te oto galeri işletmecisi Seyfettin B. (41), iş yerinde yer kalmayınca bazı araçları yaşadığı apartmanın otoparkına park etti. Aynı binada oturan Hüseyin Teke (44), kendi aracına yer bulamayınca komşusu Seyfettin B.’yi telefonla arayarak tartıştı. Bir süre sonra bina önünde karşılaşan ikili arasında çıkan silahlı kavgada Seyfettin B., Hüseyin Teke’yi 11 yaşındaki kızının gözü önünde vurarak öldürdü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/pendikte-korkunc-olay-baba-11-yasindaki-kizinin-gozu-onunde-olduruldu-wzkh.jpg",
     "keyword": null
   }
 ]
