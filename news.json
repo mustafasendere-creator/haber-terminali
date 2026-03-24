@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f5bd75ca",
+    "title": "“Satın alma, sahiplen” çağrısı",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 12:06",
+    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/satin-alma-sahiplen-cagrisi-2489148",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Büyükşehir Belediyesi, bakımevlerinde bulunan sahipsiz hayvanların sıcak bir yuvaya kavuşması için yurttaşlara “satın alma, sahiplen” çağrısında bulundu. Kentteki bakımevlerinde yaklaşık 2 bin 300 patili dost yeni sahiplerini beklerken, uzmanlar hayvan sahiplenmenin “bir heves değil, bir ömürlük sorumluluk” olduğuna dikkat çekiyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5f3e0e93-22cf-433c-8867-e32f348e4963.png",
+    "keyword": null
+  },
+  {
     "id": "GND_f3b26aae",
     "title": "Beyaz Saray ile Fed arasında 'koltuk' savaşı: Powell’dan Trump’a yasal rest!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Suriye'nin başkenti Şam'da üç Hristiyan mahallesi dışında içki satışı yasaklandı. Yasağa \"kamu ahlâkı\" gerekçe gösterildi. Müslümanlar da Hristiyanlar da tepkili. Peki asıl konu alkol mü?",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6177905b",
-    "title": "Lufthansa'nın birçok Ortadoğu uçuşu sonbahara dek iptal",
-    "source": "DW Türkçe",
-    "time": "24/03/2026 11:26",
-    "link": "https://www.dw.com/tr/lufthansa-nın-birçok-ortadoğu-uçuşu-sonbahara-dek-iptal/a-76495211",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'nın en büyük havayolu işletmesi Lufthansa, 24 Ekim'e dek Ortadoğu'da çok sayıda kente uçuşların iptal edildiğini duyurdu. Dubai ve Tel Aviv uçuşlarına ise şimdilik 31 Mayıs'a dek ara verildiği bildirildi.",
     "image": null,
     "keyword": null
   }
