@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fad85ea7",
+    "title": "Ağrı'da askeri araç kaza yaptı: Hayatını kaybeden asker sayısı ikiye yükseldi",
+    "source": "Evrensel",
+    "time": "25/03/2026 00:31",
+    "link": "https://www.evrensel.net/haber/5976616/agrida-askeri-arac-kaza-yapti-hayatini-kaybeden-asker-sayisi-ikiye-yukseldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ağrı'da meydana gelen askeri araç kazasında Piyade Uzman Çavuş Yusuf Açay ve Ulaştırma Uzman Çavuş Selman Akarsel hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340130.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9b8ddd79",
     "title": "Özgür Özel- Akın Gürlek tartışması 'nasıl habercilik' sorusunu gündeme getirdi",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Twit Bakanı (@TwitBakani) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon bakan"
-  },
-  {
-    "id": "GND_de78264b",
-    "title": "SES yöneticilerinin yargılandığı dava 5. yılında: \"Sendikal haklar, sağlık hakkı ve kadın mücadelesi yargılanamaz",
-    "source": "Evrensel",
-    "time": "24/03/2026 22:52",
-    "link": "https://www.evrensel.net/haber/5976552/ses-yoneticilerinin-yargilandigi-dava-5-yilinda-sendikal-haklar-saglik-hakki-ve-kadin-mucadelesi-yargilanamaz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "SES, 5 yıldır görülen, dönemin SES Eş Genel Başkanı ve MYK üyesi 8 sendikacı hakkında açılan davanın 18. duruşması ile ilgili açıklama yaparak “5 yıllık hukuksuzluk son bulsun” denildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340077.jpg",
-    "keyword": null
   }
 ]
