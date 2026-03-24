@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0d6dcdfa",
+    "title": "Ankara'da öğrencilere müdahale",
+    "source": "OdaTV",
+    "time": "24/03/2026 23:12",
+    "link": "https://www.odatv.com/guncel/ankarada-ogrencilere-mudahale-120140639",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "19 Mart İBB Başkanı Ekrem İmamoğlu&#039;na yönelik operasyonlara karşı eylemlerinin birinci yılında üniversite öğrencileri Ankara&#039;da bir araya geldi. Polis, üniversitelilerin yürüyüşünü engellemeye çalışsa da öğrenciler yürüyüşü gerçekleştirdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/ankarada-ogrencilere-mudahale-t009.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3ce94602",
     "title": "Volkswagen ve İsrailli Rafael'den iş birliği iddiası",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Eski hâkim ve siyasetçi Emine Ülker Tarhan, 12 yıl aranın ardından yeniden CHP’ye katıldı. Peki Tarhan kimdir?",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340083.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d5b0337f",
-    "title": "ATK 3 kere “hapishanede kalabilir” raporu vermişti: Hasta mahpus Mehmet Edip Taşar yaşamını yitirdi",
-    "source": "Evrensel",
-    "time": "24/03/2026 22:12",
-    "link": "https://www.evrensel.net/haber/5976558/atk-3-kere-hapishanede-kalabilir-raporu-vermisti-hasta-mahpus-mehmet-edip-tasar-yasamini-yitirdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adli Tıp Kurumu'nun 3 kere “hapishanede kalabilir” raporu verdiği 70 yaşındaki ağır hasta mahpus Mehmet Edip Taşar yaşamını yitirdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/336564.jpg",
     "keyword": null
   }
 ]
