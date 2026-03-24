@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_52dfab4f",
+    "title": "WSJ: Körfez ülkeleri İran'a saldırılara dahil olmanın eşiğinde",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 11:25",
+    "link": "https://www.aa.com.tr/tr/guncel/wsj-korfez-ulkeleri-irana-saldirilara-dahil-olmanin-esiginde/3876862",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Körfez ülkelerinin İran'a yönelik olası bir saldırıya her geçen gün daha fazla yaklaştığı ve ABD'ye verdiği desteği kademeli olarak artırdığı iddia edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9eed3e83",
     "title": "Konutta kredili satışların payı 33 ayın ardından ilk kez yüzde 20'yi geçti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe’de yeni sezon öncesi kadro şekilleniyor. Çağlar Söyüncü ve Oğuz Aydın’la yolların ayrılması planlanırken, Yiğit Efe Demir kiralanacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340003.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_1222c8ca",
-    "title": "Motorine Dev Zam Geliyor mu? İstanbul, Ankara, Trabzon Pompa Fiyatları",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 10:25",
-    "link": "https://www.takagazete.com.tr/motorine-dev-zam-geliyor-mu-istanbul-ankara-trabzon-pompa-fiyatlari",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Akaryakıt fiyatlarında hareketlilik yaşanırken, motorin grubuna gelmesi beklenen zam araç sahiplerini endişelendiriyor. Küresel petrol fiyatlarındaki artış ve döviz kurundaki dalgalanmalar, yurt içi pompa fiyatlarına zam olarak yansımaya devam ediyor. Bugün itibarıyla benzin ve LPG fiyatları durağan seyrini korurken, motorinin litre fiyatında önemli bir artış bekleniyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/motorin-zam.jpg",
     "keyword": null
   }
 ]
