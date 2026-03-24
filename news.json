@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_54767a8a",
+    "title": "Nevşehir’de iki otomobil çarpıştı: 3 yaralı",
+    "source": "Gazete Duvar",
+    "time": "24/03/2026 12:45",
+    "link": "https://www.gazeteduvar.com.tr/nevsehirde-iki-otomobil-carpisti-3-yarali-haber-1765749",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nevşehir-Kayseri kara yolunda iki otomobilin çarpışması sonucu meydana gelen trafik kazasında 3 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/24/basliksiz-1-ylny_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e6698d78",
     "title": "FETÖ operasyonu: 25 şüpheli yakalandı",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "İsrail ordusu, ABD ile ortak saldırılar düzenlediği İran'da 28 Şubat'tan bu yana 3 binden fazla hedefi vurduğunu iddia etti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_621e7e43",
-    "title": "Trabzonspor, gol sayısında şampiyonluk sezonunun önünde",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 12:04",
-    "link": "https://www.aa.com.tr/tr/guncel/trabzonspor-gol-sayisinda-sampiyonluk-sezonunun-onunde/3876892",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'de zirve mücadelesi veren Trabzonspor'un gol üretkenliği ön plana çıkıyor.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
