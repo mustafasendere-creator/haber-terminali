@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e512544e",
+    "title": "Savaş ekonomisi!",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 05:45",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/savas-ekonomisi-2489052",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Savaş tanımları olumlu içerik taşımaz.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar61_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_dd38e8ad",
     "title": "Kuveyt: Düşen şarapneller nedeniyle 7 elektrik hattı devre dışı kaldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Isparta-Antalya karayolunda meydana gelen trafik kazasında hayatını kaybeden ve kazadan sadece bir gün önce sözlendikleri öğrenilen Burdurlu çift, gözyaşları içinde son yolculuklarına uğurlandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/ff638c6c-6d1e-4464-8bc5-713c2ba2e7de.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7fa14961",
-    "title": "Manisa'da kayıp dağcı aranıyor: Çukur kazıp geceyi içinde geçirmiş!",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 02:05",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/manisa-da-kayip-dagci-araniyor-cukur-kazip-geceyi-icinde-gecirmis-2488984",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa'nın Salihli ilçesinde kaybolan amatör dağcı Umut Tanrıkulu'nu (53) arama ve kurtarma çalışmaları 2’nci günde sürüyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0c9e12a3-3062-4f56-a2a9-73e4d292c8cd.jpg",
     "keyword": null
   }
 ]
