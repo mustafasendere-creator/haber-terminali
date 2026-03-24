@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_50475793",
+    "title": "CENTCOM, İran'a yönelik saldırıları açıkladı: 9 binden fazla hedef vuruldu",
+    "source": "Evrensel",
+    "time": "24/03/2026 10:05",
+    "link": "https://www.evrensel.net/haber/5976483/centcom-irana-yonelik-saldirilari-acikladi-9-binden-fazla-hedef-vuruldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’a yönelik saldırılarda 9 binden fazla hedefin vurulduğunu bildirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340010.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_aa88ec2a",
     "title": "Trabzon’da Günlük Hayat Aksayacak! Saatler Sürecek Su Kesintisi Detayları",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'da bugün planlı bakım, onarım ve yatırım çalışmaları nedeniyle 5 ilçeyi etkileyecek elektrik kesintileri yaşanacak. Gece yarısından başlayıp gün boyu sürecek kesintiler nedeniyle vatandaşların tedbirli olması gerekiyor. İşte kesintiden etkilenecek ilçe ve mahallelerin tam listesi...",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/trabzon-elektrik-kesintisi-4.png",
     "keyword": null
-  },
-  {
-    "id": "TKP_3c67d9af",
-    "title": "Trabzon Dikkat! O İlçelerde Saatlerce Elektrik Olmayacak!",
-    "source": "Taka Gazetesi",
-    "time": "24/03/2026 09:25",
-    "link": "https://www.takagazete.com.tr/trabzon-dikkat-o-ilcelerde-saatlerce-elektrik-olmayacak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'da bugün planlı bakım, onarım ve yatırım çalışmaları nedeniyle 5 ilçeyi etkileyecek elektrik kesintileri yaşanacak. Gece yarısından başlayıp gün boyu sürecek kesintiler nedeniyle vatandaşların tedbirli olması gerekiyor. İşte kesintiden etkilenecek ilçe ve mahallelerin tam listesi...",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/trabzon-elektrik-kesintisi-4.png",
-    "keyword": "trabzon"
   }
 ]
