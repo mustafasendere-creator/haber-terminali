@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f96726c",
+    "title": "Yangında 50 küçükbaş hayvan öldü",
+    "source": "Habertürk",
+    "time": "24/03/2026 19:32",
+    "link": "https://www.haberturk.com/kocaeli-de-ahirda-cikan-yanginda-50-kucukbas-oldu-3871649",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli'nin Dilovası ilçesinde ahırda çıkan yangında 50 küçükbaş hayvan öldü",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774254331/3871649/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2943eab1",
     "title": "Karşıyaka'da yol ayrımı: Resmen açıklandı!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Yurt genelinde hakim olan yağışlı sistem, hafta boyunca etkisini sürdürecek. Hava sıcaklıklarının pazar gününe kadar kademeli olarak artacağı tahmin ediliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8774a0f4",
-    "title": "ABDİsrail ve İran Savaşı petrol piyasasında 500 milyon varillik kayba sebep oldu",
-    "source": "TRT Haber",
-    "time": "24/03/2026 18:32",
-    "link": "https://www.trthaber.com/haber/dunya/abd-israil-ve-iran-savasi-petrol-piyasasinda-500-milyon-varillik-kayba-sebep-oldu-938908.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hürmüz Boğazı'nın ticari gemilerin büyük çoğunluğuna fiilen kapalı olması nedeniyle sevkiyatların yapılamaması ve depoları dolan petrol üreticilerinin üretimlerinde kesintiye girmek zorunda kalması nedeniyle petrol piyasasındaki kaybın 500 milyon varili bulduğu hesaplanıyor.",
     "image": null,
     "keyword": null
   }
