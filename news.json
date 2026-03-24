@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e86ac8cf",
+    "title": "Yer: Mardin! Silahlı kavgada kardeşini öldürdü",
+    "source": "Habertürk",
+    "time": "24/03/2026 12:06",
+    "link": "https://www.haberturk.com/mardin-de-silahli-kavgada-kardesini-oldurdu-3871800",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mardin’in Mazıdağı ilçesinde kardeşler arasında çıkan silahlı kavgada bir kişi öldü.",
+    "image": "https://im.haberturk.com/l/2026/03/23/ver1774292670/3871800/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2a73e944",
     "title": "Meta'da yeni dönem: Zuckerberg'ün yerini yapay zeka mı alacak?",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trabzon'da yaşayan Mesut Yılmaz (34) 2020 yılında sosyal medyadan gördüğü satılık ev ilanı üzerinden iletişime geçtiği kişi tarafından 106 bin TL dolandırıldığı iddiasıyla suç duyurusunda bulundu. Yılmaz, “Paranın kalanını evi teslim alırken verecektik. 6 ay dediler ama o 6 ay hiç dolmadı, 6 yıl oldu. Belki evlenip barklanacaktım ama bu olay bizi dibe çekti” dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/dc11bb7f-04c0-4c72-a25e-8751bd8ebebf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_deebbaf7",
-    "title": "Akın Gürlek'in 'tapu' kayıtlarını sorgulayan memur gözaltına alındı",
-    "source": "Cumhuriyet",
-    "time": "24/03/2026 11:26",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/akin-gurlek-in-tapu-kayitlarini-sorgulayan-memur-gozaltina-alindi-2489136",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Gürlek’in tapu kayıtlarını sorguladığı iddia edilen 3 kamu görevlisi açığa alındı. Haklarında soruşturma başlatılırken, Kaş Tapu Müdürlüğü’nde çalışan bir memur gözaltına alındı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d7fe9196-64ed-4036-9119-21e65e34111b.jpg",
     "keyword": null
   }
 ]
