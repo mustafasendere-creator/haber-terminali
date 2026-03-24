@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_29eb330d",
+    "title": "Macron'dan İsrail'e destek",
+    "source": "OdaTV",
+    "time": "25/03/2026 02:52",
+    "link": "https://www.odatv.com/guncel/macrondan-israile-destek-120140648",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, İsrail Cumhurbaşkanı Isaac Herzog ile gerçekleştirdiği görüşmenin ardından yaptığı açıklamada, Fransa’nın İsrail halkıyla &quot;tam dayanışma içinde&quot; olduğunu bildirdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/macrondan-israile-destek-k1ul.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8c7efe22",
     "title": "Fon yatırımında en çok yapılan hata: Zamanlama",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Beşiktaş eski başkanı Fikret Orman, İstanbul Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şube Müdürlüğü ekiplerince gözaltına alındı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/fikret-orman-gozaltina-alindi-nee1_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bee759e9",
-    "title": "Ergin Ataman'ın ekibi Panathinaikos doludizgin!",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 01:12",
-    "link": "https://www.cumhuriyet.com.tr/spor/ergin-ataman-in-ekibi-panathinaikos-doludizgin-2489347",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ergin Ataman yönetimindeki Panathinaikos, EuroLeague'in 33. haftasında deplasmanda karşılaştığı Dubai Basketball'u 107-104 mağlup etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f2250c0e-ef9a-42ac-a109-d2d270bd3229.jpg",
     "keyword": null
   }
 ]
