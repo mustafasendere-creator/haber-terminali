@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f6d1595d",
+    "title": "Suudi Arabistan, gece boyunca İran'dan fırlatılan 19 İHA'yı engelledi",
+    "source": "TRT Haber",
+    "time": "24/03/2026 05:45",
+    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-gece-boyunca-irandan-firlatilan-19-ihayi-engelledi-938850.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan, ülkenin doğusundaki Şarkiyye'de gece yarısından bu yana 19 insansız hava aracının İHA etkisiz hale getirildiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cf3ab9a8",
     "title": "Kolombiya'da askeri nakliye uçağının düşmesi sonucu ölenlerin sayısı 34'e yükseldi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çalışma ve Sosyal Güvenlik Bakanlığı, Mesleki Yeterlilik Belgesi zorunluluğuna ilişkin yeni düzenlemeyi yürürlüğe aldı. Uygulama, tehlikeli ve çok tehlikeli işlerde çalışanları kapsıyor. Kurallar ve istisnalar netleştirildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/726f4006-9476-4269-b219-9cf183d0b59f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c0fe45dc",
-    "title": "Pendik'te gişelere çarpan otomobil devrildi: 2 yaralı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 02:05",
-    "link": "https://www.trthaber.com/haber/turkiye/pendikte-giselere-carpan-otomobil-devrildi-2-yarali-938844.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pendik'te, Kuzey Marmara Otoyolu'ndaki gişelere çarpan otomobilin devrilmesi sonucu 2 kişi yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
