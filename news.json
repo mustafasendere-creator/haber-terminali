@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f526459f",
+    "title": "Samsun'a kötü haber",
+    "source": "OdaTV",
+    "time": "24/03/2026 03:45",
+    "link": "https://www.odatv.com/guncel/samsuna-kotu-haber-120140503",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun’un İlkadım ilçesinde yürütülen çalışma sırasında içme suyu ana isale hattının zarar görmesiyle kent genelinde su kesintisi yaşanacağı duyuruldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/samsuna-kotu-haber-153p.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0f84d596",
     "title": "“Türkiye, tarım teknolojilerinin gelişimi için stratejik bir merkez”",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kolombiya’da askeri uçak düştü, 125 kişiden 77’si kurtarıldı, 1 kişi hayatını kaybetti, diğerlerinin durumu ise belirsiz.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/kolombiyada-askeri-ucak-dustu-reck.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_68d1d451",
-    "title": "Feci kaza anı kamerada",
-    "source": "OdaTV",
-    "time": "24/03/2026 00:45",
-    "link": "https://www.odatv.com/guncel/feci-kaza-ani-kamerada-120140493",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Osmaniye’de kamyonun çarptığı motosikletin sürücüsü hayatını kaybetti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/24/feci-kaza-ani-kamerada-9uts.jpg",
     "keyword": null
   }
 ]
