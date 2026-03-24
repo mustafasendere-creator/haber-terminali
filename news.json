@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4924d3d5",
+    "title": "Futbolcu Kubilay Kundakçı cinayetinin görüntüleri ortaya çıktı",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 20:12",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/futbolcu-kubilay-kundakci-cinayetinin-goruntuleri-ortaya-cikti-2489291",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Ümraniye ilçesinde silahlı saldırıda öldürülen genç futbolcu Kaan Kundakçı'nın öldürüldüğü ana ait görüntüler ortaya çıktı. Soruşturma kapsamında Aleyna Kalaycıoğlu, Alaattin Kadayıfçıoğlu ve İzzet Yıldızhan’ın da aralarında bulunduğu 7 şüpheli tutuklanmıştı. Cinayet görüntüleri ortaya çıktı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/56a80b8b-9588-4acf-b07f-d908dba39043.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3f7cef49",
     "title": "TKP'den Dışişleri Bakanlığı önünde protesto: 'O bildiriden ülkemizin adını derhal çıkaracaksınız'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD ve İsrail'in saldırılarıyla tırmanan gerilim nedeniyle gemi trafiğinde kesintilerin yaşandığı Hürmüz Boğazı'nın, kendileriyle savaşan ülkelerin gemileri dışında tüm gemilere açık olduğu mesajını verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e49102a3",
-    "title": "Bakan Bayraktar: İrandan gelen gaz akışında kesinti yok",
-    "source": "TRT Haber",
-    "time": "24/03/2026 19:32",
-    "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-irandan-gelen-gaz-akisinda-kesinti-yok-938935.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, \"İran'dan gaz akışında herhangi bir kesinti yok, depolama tesislerimizin yüzde 71'i dolu\" dedi.",
     "image": null,
     "keyword": null
   }
