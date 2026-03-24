@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d876c1ca",
+    "title": "İstanbul'da FETÖ operasyonunda 25 şüpheli yakalandı",
+    "source": "Anadolu Ajansı",
+    "time": "24/03/2026 10:05",
+    "link": "https://www.aa.com.tr/tr/guncel/istanbulda-feto-operasyonunda-25-supheli-yakalandi/3876731",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da Fetullahçı Terör Örgütü'ne (FETÖ) yönelik operasyonda, aralarında 7 kamu çalışanının da bulunduğu 25 şüpheli gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ae720370",
     "title": "Borsa güne düşüşle başladı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, gelecek sezonun kadro planlamasında yerli rotasyonunu güçlendirmek için çalışmalarını sürdürüyor. Bordo-mavililerin Aral Şimşir ile Silas Sinan Andersen’i yakından takip ettiği öğrenildi.",
     "image": "https://resim.haber61.net/news/609042.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9e55691b",
-    "title": "İran İsrail'e gece yarısından bu yana 6 misilleme saldırısı düzenledi",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 09:25",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-israile-gece-yarisindan-bu-yana-6-misilleme-saldirisi-duzenledi/3876682",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın gece yarısından bu yana düzenlediği 6'ncı misilleme saldırısında İsrail'in orta kesimi hedef alınırken, bir binaya düşen füze parçaları nedeniyle 4 kişi hafif şekilde yaralandı.",
-    "image": null,
-    "keyword": null
   }
 ]
