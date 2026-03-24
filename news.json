@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e1fd5a4",
+    "title": "İran füzesinin Tel Aviv’e isabet ettiği anlar ortaya çıktı",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 00:52",
+    "link": "https://www.cumhuriyet.com.tr/dunya/iran-fuzesinin-tel-aviv-e-isabet-ettigi-anlar-ortaya-cikti-2489344",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’ın sabah saatlerinde düzenlediği saldırıda bir füzenin İsrail’in başkenti Tel Aviv’e isabet ettiği anlar ortaya çıktı. Füzenin isabet ettiği sokakta bir araç ters döndü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1b0e2106-8695-4c95-be00-91074ca34a34.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9f29c59d",
     "title": "Anadolu Efes İspanyollara direnemedi: Temsilcimizden kötü seri!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İspanya'nın başkenti Madrid'de, Euroleague'in 33. haftasında bugün oynanan Real Madrid-Hapoel Tel Aviv maçı öncesinde İsrail'in protesto edildiği gösteri düzenlendi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/real-madrid-hapoel-tel-aviv-maci-oncesi-israil-protesto-edildi-xdlt.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b116b32d",
-    "title": "İran'dan İsrail'e füze saldırısı: Çok sayıda yaralı var",
-    "source": "Haber Global",
-    "time": "24/03/2026 23:12",
-    "link": "https://haberglobal.com/gundem/irandan-israile-fuze-saldirisi-cok-sayida-yarali-var-515058",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın İsrail'e düzenlediği füze saldırısında en az 7 kişi yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/24/irandan-israile-fuze-saldirisi-cok-sayida-yarali-var-qj2a.jpg",
     "keyword": null
   }
 ]
