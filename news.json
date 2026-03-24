@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fbdd425e",
+    "title": "Çin’den İsrail’deki vatandaşlarına ‘derhal ayrılın’ çağrısı",
+    "source": "Cumhuriyet",
+    "time": "24/03/2026 09:46",
+    "link": "https://www.cumhuriyet.com.tr/dunya/cin-den-israil-deki-vatandaslarina-derhal-ayrilin-cagrisi-2489100",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin, Orta Doğu'da süren çatışmanın güvenlik risklerinin artması nedeniyle İsrail'deki vatandaşlarına ülkeyi en kısa zamanda terk etmeleri çağrısında bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/53c3bcec-a838-414a-a3fc-27186cff5e11.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_620aafb6",
     "title": "Brent petrolün varili 99,52 dolardan işlem görüyor",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul ve Yalova'da terör örgütü DEAŞ'a yönelik düzenlenen operasyonda 9 şüpheli gözaltına alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ffa3055d",
-    "title": "Çin'den İsrail'deki vatandaşlarına ülkeyi terk etmeleri uyarısı",
-    "source": "TRT Haber",
-    "time": "24/03/2026 09:06",
-    "link": "https://www.trthaber.com/haber/dunya/cinden-israildeki-vatandaslarina-ulkeyi-terk-etmeleri-uyarisi-938859.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin, Orta Doğu'da süren çatışmanın güvenlik risklerinin artması nedeniyle İsrail'deki vatandaşlarına ülkeyi en kısa zamanda terk etmeleri çağrısında bulundu.",
     "image": null,
     "keyword": null
   }
