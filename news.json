@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0c908ca3",
+    "title": "Türkiye UEFA organizasyonlarında 5 takımla yer alacak",
+    "source": "TRT Haber",
+    "time": "24/03/2026 19:52",
+    "link": "https://www.trthaber.com/haber/gundem/turkiye-uefa-organizasyonlarinda-5-takimla-yer-alacak-938927.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye, 20262027 sezonunda UEFA Şampiyonlar Ligi, UEFA Avrupa Ligi ve UEFA Konferans Ligi'nde 5 takımla mücadele edecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_83a9f2b7",
     "title": "Cumhurbaşkanı Erdoğan: Savaş Netanyahu'nun ikbal savaşı ama ceremesini 8 milyar çekiyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tutuklanan Birgün gazetesi muhabiri İsmail Arı'nın ailesi, Sincan Cezaevi önünde açıklama yaptı. Aile, “Benim oğlumun suçu ne? Oğlum ne yaptı?” diye sordu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339720.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d18ecd2d",
-    "title": "Gazeteci İsmail Arı: Beni kimler susturmak istedi?",
-    "source": "Evrensel",
-    "time": "24/03/2026 19:12",
-    "link": "https://www.evrensel.net/haber/5976590/gazeteci-ismail-ari-beni-kimler-susturmak-istedi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sincan Cezaevi’nde tutulan gazeteci İsmail Arı gönderdiği mesajda, “Haberlerim kimleri rahatsız etti” diye sordu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339710.jpg",
     "keyword": null
   }
 ]
