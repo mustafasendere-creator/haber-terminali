@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_67018afc",
+    "title": "Almanya'da karaya oturan kambur balinayı kurtarma umutları tükeniyor",
+    "source": "Euronews",
+    "time": "24/03/2026 20:32",
+    "link": "http://tr.euronews.com/2026/03/24/almanyada-karaya-oturan-kambur-balinayi-kurtarma-umutlari-tukeniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yaklaşık 9 metre uzunluğundaki dev memeli, Baltık Denizi’nin sığ sularında mahsur kalırken, düşük gelgit seviyeleri hayvanın derin sulara dönme çabalarını sekteye uğratıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ae5c3918",
     "title": "Enerji krizinin gölgesinde geri adım: AB, Rus petrolünü yasaklama önerisini askıya aldı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ile İran'a saldırılarını sürdüren İsrail'de aşırı sağcı hükümet \"Hahamlık mahkemelerinin\" yetkilerini önemli ölçüde artıran tasarıyı meclisten geçirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a13321c1",
-    "title": "Başkan Erdoğan'dan trafik denetimlerine ilişkin mesaj: Mağduriyetlere yol açmamalı",
-    "source": "A Haber",
-    "time": "24/03/2026 19:51",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/24/baskan-erdogandan-trafik-denetimlerine-iliskin-mesaj-magduriyetlere-yol-acmamali",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Erdoğan Kabine toplantısı sonrası yaptığı açıklamada son dönemde sık sık gündeme gelen APP plakalar ve savaş nedneiyle dalgalanan petrol fiyatlarına ilişkin de mesajlar verdi. Erdoğan plakalara...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/40a4ba/1200/1200/170/0/530/360?u=https://iahbr.tmgrup.com.tr/2026/03/24/baskan-erdogandan-petrol-fiyatlarina-iliskin-mesaj-tedbirleri-gundeme-aliyoruz-1774369623283.jpg",
     "keyword": null
   }
 ]
