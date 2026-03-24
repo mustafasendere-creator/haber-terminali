@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d5c52f5a",
+    "title": "İran savaşı Avrupa'yı stagflasyona mı sürükledi?",
+    "source": "Euronews",
+    "time": "24/03/2026 19:32",
+    "link": "http://tr.euronews.com/business/2026/03/24/iran-savasi-avrupayi-stagflasyon-krizine-mi-surukledi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Orta Doğu'daki çatışmalar, Avrupa ekonomisini son yılların en sert bileşimiyle karşı karşıya bıraktı: Stagflasyon. Girdi maliyetleri hızla artarken üretim yavaşlıyor, güven geriliyor ve Avrupa Merkez Bankası’nın istikrar alanı daralıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_967b9fb3",
     "title": "'Trump’la görüşme' iddiasını reddeden İran yeni füze dalgası başlattı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye&#8217;nin &#8220;erkek şiddeti&#8221; sorunu sadece kadın cinayetleriyle kendini göstermiyor. Sık sık ülkemizde &#8220;yan bakma&#8221; kavgaları, bıçaklamaları yaşanıyor, &#8220;Sevgilime baktı&#8221; diye cinayet bile işlendiği oldu. Son cinayet, konuyla uzaktan ilgisi olan bir genci, 21 yaşındaki futbolcu Kubilay Kaan Kundakçı&#8217;yı aramızdan aldı. Onun ölümü, günlerdir konuşuluyor. Olayda şimdilik 7 kişi tutuklandı bile. Ama o tutuklulardan en önemli [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/cinayet.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_08796818",
-    "title": "Katar'da şehit olan binbaşı Taştekin, Isparta'da son yolculuğuna uğurlandı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 18:31",
-    "link": "https://www.aa.com.tr/tr/guncel/katarda-sehit-olan-binbasi-tastekin-ispartada-son-yolculuguna-ugurlandi/3877419",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Katar'da helikopterin düşmesi sonucu şehit olan Hava Savunma Binbaşı Sinan Taştekin'in cenazesi, Isparta'da defnedildi.",
-    "image": null,
     "keyword": null
   }
 ]
