@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f4ef9773",
+    "title": "Kolombiya'da askeri uçak düştü: En az 66 kişi hayatını kaybetti",
+    "source": "Euronews",
+    "time": "24/03/2026 20:32",
+    "link": "http://tr.euronews.com/2026/03/24/kolombiyada-askeri-ucak-dustu-en-az-66-kisi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kolombiya silahlı kuvvetleri komutanına göre, Pazartesi günü kalkış sırasında bir askeri uçağın düşmesi sonucu en az 66 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_67018afc",
     "title": "Almanya'da karaya oturan kambur balinayı kurtarma umutları tükeniyor",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, İran'dan Türkiye'ye doğal gaz akışının kesilmediğini belirterek, \"İran'dan gaz akışı devam ediyor. Depolama tesislerimiz yüzde 71 dolu şu anda.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_64981e0d",
-    "title": "İsrail'de \"Hahamlık mahkemelerinin\" yetkisini artıran tartışmalı tasarı yasalaştı",
-    "source": "Anadolu Ajansı",
-    "time": "24/03/2026 19:51",
-    "link": "https://www.aa.com.tr/tr/guncel/israilde-hahamlik-mahkemelerinin-yetkisini-artiran-tartismali-tasari-yasalasti/3877684",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ile İran'a saldırılarını sürdüren İsrail'de aşırı sağcı hükümet \"Hahamlık mahkemelerinin\" yetkilerini önemli ölçüde artıran tasarıyı meclisten geçirdi.",
     "image": null,
     "keyword": null
   }
