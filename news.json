@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d05b5504",
+    "title": "Irak Savunma Bakanlığı: Hava saldırında 7 asker öldü",
+    "source": "TRT Haber",
+    "time": "25/03/2026 11:12",
+    "link": "https://www.trthaber.com/haber/dunya/irak-savunma-bakanligi-hava-saldirinda-7-asker-oldu-939007.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak Savunma Bakanlığı: Enbar'daki Habbaniye Askeri Dispanseri'ne düzenlenen hava saldırında 7 asker öldü, 13 asker yaralandı",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_aef393ec",
     "title": "Savaşta fırlatılmış 2100 yıllık 'Dersini al' yazılı taş bulundu",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İBB davasının 10. gününde iki kez kanser hastalığı atlatan, cezaevinde 20 kilo kaybettiği için doktor reçetesi ile ek gıda takviyesi alan Beylikdüzü Belediye Mehmet Murat Çalık’ın ifade vermesi bekleniyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340154.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_446edf5a",
-    "title": "NBA'de Nuggets, Jokic'in \"triple-double\" performansıyla kazandı",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 10:32",
-    "link": "https://www.aa.com.tr/tr/guncel/nbade-nuggets-jokicin-triple-double-performansiyla-kazandi/3878177",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Amerikan Basketbol Ligi'nde (NBA) Denver Nuggets, Nikola Jokic'in \"triple-double\" yaptığı maçta Phoenix Suns'ı 125-123 yendi.",
-    "image": null,
     "keyword": null
   }
 ]
