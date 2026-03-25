@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2a60137f",
+    "title": "Ankara'da FETÖ/PDY soruşturması: 9 şüpheli hakkında gözaltı kararı verildi!",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 09:12",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-da-feto-pdy-sorusturmasi-9-supheli-hakkinda-gozalti-karari-verildi-2489369",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen FETÖ/PDY soruşturması kapsamında 9 şüpheli için gözaltı kararı verildi. Şüphelilerin yakalanması için operasyon başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/6a6730c7-e60b-48a0-9b74-cbe50e1b06f0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_492fcebf",
     "title": "Avrupa panikte! Hangi ülkeler menzile giriyor?",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un penaltıları hücum gücünden kaynaklanıyor, naş aktör ise Felipe Augusto oluyor.",
     "image": "https://resim.haber61.net/news/609173.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_72493863",
-    "title": "Luka Doncic vites yükseltti: 5 maçta 201 sayı",
-    "source": "OdaTV",
-    "time": "25/03/2026 08:13",
-    "link": "https://www.odatv.com/spor/los-angeles-lakersta-luka-doncic-vites-yukseltti-5-macta-201-sayi-120140622",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Los Angeles Lakers&#039;ta forma giyen Luka Doncic, Mart ayında sergilediği üstün bireysel oyunla takımını ayakta tutmaya devam ediyor. Doncic, çıktığı son 5 beş maçta toplamda 201 sayı kaydetti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/los-angeles-lakersta-luka-doncic-vites-yukseltti-5-macta-201-sayi-u1mz.jpg",
-    "keyword": null
   }
 ]
