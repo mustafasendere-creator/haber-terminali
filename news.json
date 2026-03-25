@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9a2947cc",
+    "title": "İsrail’den İran’a yeni saldırı dalgası (Video)",
+    "source": "Ekonomim",
+    "time": "25/03/2026 07:53",
+    "link": "https://www.ekonomim.com/dunya/israilden-irana-yeni-saldiri-dalgasi-video-haberi-883780",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, İran’ın başkenti Tahran’da bulunan rejime ait hedeflere karşı yeni bir saldırı dalgasının başlatıldığını duyurdu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/israilden-irana-yeni-saldiri-dalgasi-video-fmkm_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4332c020",
     "title": "ŞOK 25 Mart aktüel kataloğu",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yeni çözüm sürecinde silah bırakanlarla ilgili yasal düzenlemelerin ne olacağı tartışılırken, muhalefet tutuklu gazetecileri anımsatarak komisyonun ortak raporundaki demokratikleşme adımlarının da unutulmaması gerektiğini vurguluyor. “Halkı yanıltıcı bilgiyi alenen yayma”, “cumhurbaşkanına hakaret” gibi suçlarda düzenleme bekliyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/07325a16-ed12-4b01-a097-265b0efa2d05.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad3fee5c",
-    "title": "Edirne'de sanayi sitesini alevler sardı",
-    "source": "TRT Haber",
-    "time": "25/03/2026 06:32",
-    "link": "https://www.trthaber.com/haber/turkiye/edirnede-sanayi-sitesini-alevler-sardi-938957.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Edirnede sanayi sitesindeki pimapen dükkanında başlayan yangın kısa sürede yan dükkana sıçradı. Ekiplerin hızlı müdahalesi faciayı önledi.",
-    "image": null,
     "keyword": null
   }
 ]
