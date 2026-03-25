@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_adbc49fa",
+    "title": "Erdoğan'a seslenmişti: Yasemin Minguzzi'yi tehdit eden şüpheliye tutuklama talebi!",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 03:32",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-a-seslenmisti-yasemin-minguzzi-yi-tehdit-eden-supheliye-tutuklama-talebi-2489231",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bıçaklanarak hayatını kaybeden Mattia Ahmet Minguzzi’nin annesi Yasemin Minguzzi’ye tehdit içerikli mesajlar gönderen M.E.U. isimli şüpheli Yalova’da gözaltına alındı. Bakırköy Adliyesi’ne getirilen şüpheli tutuklama talebi ile hakimliğe sevk edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/46ea08a8-796e-4372-aadb-e4eb832c5346.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c505a310",
     "title": "Bağcılar'da işyerinde yangın tüpü dolumu sırasında 8 kişi zehirlendi!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Gazze Barış Kurulu Yüksek Temsilcisi Nickolay Mladenov, Gazze'de 10 Ekim 2025'te yürürlüğe giren ateşkesle \"önemli ölçüde iyileşmeler\" yaşandığını ancak bölgede durumun hala çok zor olduğunu belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bb6c8365",
-    "title": "BM yetkilisi, işgal altındaki Filistin topraklarına saldırıların \"endişe verici oranda\" arttığını belirtti",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 01:51",
-    "link": "https://www.aa.com.tr/tr/guncel/bm-yetkilisi-isgal-altindaki-filistin-topraklarina-saldirilarin-endise-verici-oranda-arttigini-belirtti/3877966",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BM Orta Doğu Barış Süreci Özel Koordinatörlüğü (UNSCO) Özel Koordinatör Yardımcısı Ramiz Alakbarov, işgal altındaki Filistin topraklarında İsrail tarafından gerçekleştirilen hak ihlalleri ve saldırıların \"endişe verici oranda\" arttığını söyledi",
     "image": null,
     "keyword": null
   }
