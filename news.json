@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c1888bab",
+    "title": "Ortadoğu’da şiddetli fırtına uyarısı: Sel, dolu ve hortum riski",
+    "source": "Evrensel",
+    "time": "25/03/2026 13:10",
+    "link": "https://www.evrensel.net/haber/5976683/ortadoguda-siddetli-firtina-uyarisi-sel-dolu-ve-hortum-riski",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Washington Post’a göre Ortadoğu, nadir bir sistemle şiddetli fırtınalara hazırlanıyor. Sel, yıkıcı rüzgar ve hortum riski öne çıkarken Dubai ve Abu Dabi’de birkaç günde yıllık yağış görülebilir.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/334343.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_93f0957a",
     "title": "CANLI YAYIN: Trabzonspor'da son gelişmeler Saha Kenarı programında ele alınıyor",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail basını, ABD’nin İran’a yönelik devam eden savaşı sona erdirmek için 9 Nisan tarihini olası hedef olarak belirlediğini bildirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/israil-basini-abdnin-iran-savasini-bitirecegi-tarihi-acikladi-avpp.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c76033d4",
-    "title": "Sosyal medyada gündem olan vatandaş yangında hayatını kaybetti",
-    "source": "Haber Global",
-    "time": "25/03/2026 12:31",
-    "link": "https://haberglobal.com/gundem/sosyal-medyada-gundem-olan-vatandas-yanginda-hayatini-kaybetti-515173",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Giresun'da bir evde çıkan yangında 62 yaşındaki vatandaş hayatını kaybetti. Şahıs, daha önce kendini bir aracın önüne atarak kaza süsü verdiği iddiasıyla gündeme gelmişti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/sosyal-medyada-gundem-olan-vatandas-yanginda-hayatini-kaybetti-7o7y.jpg",
     "keyword": null
   }
 ]
