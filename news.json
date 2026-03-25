@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_82a8f13b",
+    "title": "İzmir'de sanayi sitesinde yangın: 7 iş yeri zarar gördü",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 10:33",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/izmir-de-sanayi-sitesinde-yangin-7-is-yeri-zarar-gordu-2489409",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'in Buca ilçesindeki sanayi sitesinde orman ürünleri deposunda çıktığı öne sürülen yangın, diğer iş yerlerine de sıçradı. İtfaiyeciler alevleri 6 saatte kontrol altına aldı, toplam 7 iş yerinde zarar meydana geldi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/659a7841-db7e-4a1e-a4b1-f1ebe189281e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b5ce4ac2",
     "title": "Premier Lig ekipleri, Gabriel Sara için sıraya girdi! Sezon sonunda Galatasaray'ın kapısını çalacaklar",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Pendik'te otopark tartışmasında Hüseyin Teke, Seyfettin B. tarafından 11 yaşındaki kızının yanında silahla vurularak öldürüldü.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340149.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_37acf0e8",
-    "title": "Adını ilk kez duyduğum bir İBB sanığının beni çok çarpan savunması",
-    "source": "10Haber",
-    "time": "25/03/2026 09:51",
-    "link": "https://10haber.net/yazarlar/ismet-berkan/adini-ilk-kez-duydugum-bir-ibb-saniginin-beni-cok-carpan-savunmasi-689645/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ekrem İmamoğlu’nun bir numaralı sanık olduğu İBB davalarında toplam 407 kişi yargılanıyor. Bu kişilerden 107’si halen tutuklu. Bu kadar kalabalık bir davada, haberleri çok yakından takibe çalışsam da, ne bütün sanıkları biliyorum ne de tek tek her sanığa hangi suçlamanın yöneltildiğini. O yüzden dün Altan Ertürk’ün adını duymak sürpriz oldu benim için; çünkü bu ismi [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/imamoglu.jpg",
     "keyword": null
   }
 ]
