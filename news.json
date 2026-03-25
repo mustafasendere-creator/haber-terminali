@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da447e7e",
+    "title": "Kütahya'da silahlı saldırı: 1 yaralı",
+    "source": "Haber Global",
+    "time": "25/03/2026 03:32",
+    "link": "https://haberglobal.com/gundem/kutahyada-silahli-saldiri-1-yarali-515074",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya'da iş yerinin önünde silahlı saldırıya uğrayan kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/kutahyada-silahli-saldiri-1-yarali-gke2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4a0580f0",
     "title": "Tahran'da art arda patlamalar meydana geldi",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD-İsrail'in ortak saldırılar düzenlediği İran'dan atılan füzeler nedeniyle işgal altındaki Batı Şeria'dan İsrail'in liman kenti Aşdod'a kadar geniş bir alanda sirenler çaldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_a4db1c3b",
-    "title": "6 Arap ülkesinde fırtına ve sel uyarısı yapıldı",
-    "source": "İHA Trabzon",
-    "time": "25/03/2026 01:39",
-    "link": "https://www.aa.com.tr/tr/guncel/6-arap-ulkesinde-firtina-ve-sel-uyarisi-yapildi/3877933",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Umman, Mısır, Suudi Arabistan, Birleşik Arap Emirlikleri (BAE), Irak ile Suriye'de fırtına ve sel uyarısı yapıldı, bazı ülkelerde eğitime ara verildi.",
     "image": null,
     "keyword": null
   }
