@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba880c4d",
+    "title": "İzmir'de ekmeğe yüzde 16,5'lik zam",
+    "source": "OdaTV",
+    "time": "25/03/2026 14:50",
+    "link": "https://www.odatv.com/ekonomi/zam-haberleri/izmirde-ekmege-zam-yeni-fiyat-belli-oldu-yuzde-165-artis-120140727",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir&#039;de 200 gram ekmeğin satış fiyatı, 1 Nisan 2026 tarihinden itibaren geçerli olmak üzere 17,50 TL olarak belirlendi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/izmirde-ekmege-zam-yeni-fiyat-belli-oldu-yuzde-165-artis-xnrh.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_723c36e8",
     "title": "Konu: Olası müzakereler... Tarih verildi: İran'dan yanıt geldi",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Amazon, herkes için 'güvenli ve eğlenceli robotlar' geliştirmeyi hedefleyen teknoloji şirketi Fauna Robotics'i bünyesine kattı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_bfc7a316",
-    "title": "Trabzon heyeti Ankara’da: Kritik projeler ve yatırımlar masada",
-    "source": "Haber61",
-    "time": "25/03/2026 14:29",
-    "link": "https://www.haber61.net/trabzon/trabzon-heyeti-ankarada-kritik-projeler-ve-yatirimlar-masada-h627654.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon heyeti, Ankara’da İçişleri ve Adalet bakanlıklarına ziyaret gerçekleştirdi. Görüşmelerde güvenlik, göç, AFAD, adalet hizmetleri ve adliye yatırımları masaya yatırıldı.",
-    "image": "https://resim.haber61.net/news/609256.jpg",
     "keyword": null
   }
 ]
