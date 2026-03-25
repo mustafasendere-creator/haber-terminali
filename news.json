@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dc474d53",
+    "title": "İsrail'in Lübnan'ın güneyine düzenlediği saldırıda üç kişi hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "25/03/2026 07:12",
+    "link": "https://www.evrensel.net/haber/5976622/israilin-lubnanin-guneyine-duzenledigi-saldirida-uc-kisi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırıda üç kişi yaşamını yitirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339841.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_164056d2",
     "title": "📌Malatya HAYDer’den Miçink yemeği ▪️Malatya Ermenilerinin hemşehri derneği Malatya HAYDer, geleneksel Miçink yemeği düzenledi. Paskalya’da Büyük Oruç döneminin tam ortasına denk gelen Miçink’de, Malatya yöresine özgü yemekler hazırlandı. agos - x.com",
     "source": "X",
@@ -946,17 +958,5 @@
     "summary": "İçişleri Bakanlığı'nın \"Polis Meslek Kanunu\" taslağı hazırlığını yakından takip ediyoruz. Yıllardır meclis kürsüsünden haykırdığımız bu ihtiyaç ertelenemez bir gerçektir. İktidarın hazırladığı bu kanun bir vitrin düzenlemesi değil, sahadan gelen gerçeklere dayalı y  x.com",
     "image": null,
     "keyword": "polis intihar"
-  },
-  {
-    "id": "GND_1dfd1744",
-    "title": "İran milli takımı Antalya'da",
-    "source": "OdaTV",
-    "time": "25/03/2026 04:32",
-    "link": "https://www.odatv.com/guncel/iran-milli-takimi-antalyada-120140654",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Milli Takımı, hazırlık süreci kapsamında Antalya’da kampa girerek Nijerya ve Kosta Rika ile önemli maçlara çıkacak.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/iran-milli-takimi-antalyada-y96h.jpg",
-    "keyword": null
   }
 ]
