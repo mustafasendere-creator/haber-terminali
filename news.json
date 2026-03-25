@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_40171461",
+    "title": "Pakistanlı kaynaklar: İran, füze kapasitesi sınırlamasını reddediyor ve tazminat istiyor",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 13:08",
+    "link": "https://www.aa.com.tr/tr/guncel/pakistanli-kaynaklar-iran-fuze-kapasitesi-sinirlamasini-reddediyor-ve-tazminat-istiyor/3878573",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AA'ya konuşan Pakistanlı kaynaklar, \"Güvence arayışındaki İran, füze kapasitesi sınırlamasını reddediyor ve tazminat istiyor. Müzakereler için 48 saat zarfında hamle bekleniyor.\" ifadelerini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ae3bacb6",
     "title": "Güreşe ağabeyleri sayesinde başlayan milli sporcunun hedefi Avrupa şampiyonluğu",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "2025-26 sezonu ara transfer döneminde kadrosuna 3 oyuncu katarken 5 isimle yollarını ayıran Trabzonspor’da yapılan hamlelerin sahaya yansıması dikkat çekti. Kadroya katılan isimlerin kısa sürede takıma verdiği katkı öne çıktı.",
     "image": "https://resim.haber61.net/news/609225.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_0b900bf7",
-    "title": "Adalet Bakanı Gürlek duyurdu: “e-Avukat” uygulaması başlıyor",
-    "source": "Evrensel",
-    "time": "25/03/2026 12:29",
-    "link": "https://www.evrensel.net/haber/5976675/adalet-bakani-gurlek-duyurdu-e-avukat-uygulamasi-basliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Akın Gürlek, hükümlü ve tutukluların, avukatlarıyla görüntülü görüşebilmesine imkan sağlayacak e-Avukat uygulamasını kullanıma açtıklarını duyurdu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340040.jpg",
-    "keyword": null
   }
 ]
