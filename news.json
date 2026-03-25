@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c6018f1c",
+    "title": "İsrail'in Gazze'nin orta kesimine düzenlediği saldırıda 4 Filistinli hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 09:32",
+    "link": "https://www.aa.com.tr/tr/guncel/israilin-gazzenin-orta-kesimine-duzenledigi-saldirida-4-filistinli-hayatini-kaybetti/3878115",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Gazze Şeridi'nin orta kesiminde düzenlediği hava saldırısında 4 Filistinli yaşamını yitirdi, çok sayıda kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_276b4dd8",
     "title": "2026 FIFA Dünya Kupası Avrupa Elemeleri play-off turu yarı finalleri yarın oynanacak",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bahar aylarının yaklaşmasıyla birlikte Hıdırellez tarihi merak ediliyor. Ülkemizde geleneksel bayram olarak kutlanan Hıdırellez, baharın gelişini simgeliyor. Her yıl Mayıs ayında kutlanan bu bayram için yurt genelinde şenlikler düzenlenir ve ritüeller yapılır. Peki, 2026 Hıdırellez ne zaman başlayacak, ritüelleri neler? İşte tüm ayrıntılar...",
     "image": "https://im.haberturk.com/l/2026/03/24/ver1774359864/3872005/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_d26c5682",
-    "title": "Dilek İmamoğlu'ndan İBB davası açıklaması: 'Basının bu süreci takip etmesi engelleniyor'",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 08:32",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/dilek-imamoglu-ndan-ibb-davasi-aciklamasi-basinin-bu-sureci-takip-etmesi-engelleniyor-2489365",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Basının İBB davasını takip etmekte zorlandığını ifade eden Ekrem İmamoğlu’nun eşi Dilek Kaya İmamoğlu, tüm engellere rağmen gazetecilerin görevini sürdürdüğünü kaydetti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1a505843-4903-430b-a562-22c4ea09f1f3.jpg",
     "keyword": null
   }
 ]
