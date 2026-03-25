@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2aad6f26",
+    "title": "İstanbul'da kaçak silah ticareti şüphelilerine operasyon",
+    "source": "TRT Haber",
+    "time": "25/03/2026 07:32",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kacak-silah-ticareti-suphelilerine-operasyon-938970.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Sancaktepe ve Kartalda düzenlenen operasyonda 122 tabanca ve çok sayıda silah parçası ele geçirildi, 2 şüpheli gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_811475ae",
     "title": "İran'dan Trump'ın müzakere iddialarına sert yalanlama",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AKUT Vakfı, Everest Alliance Nepal temsilcilerini ağırlayarak Türkiye’de dağcılık kültürü ve doğa koruma bilincini bir araya getirdi. Etkinlikte, Himalayalar ve ülkemizdeki dağ ekosistemlerinin sürdürülebilirliği ön plana çıkarıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c44b9926-1e61-46f0-926a-7877c0945d48.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2cde57a8",
-    "title": "Türkiye’den ve dünyadan çevre gündemi",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 05:52",
-    "link": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-den-ve-dunyadan-cevre-gundemi-2489363",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'den ve dünyadan çevre gündemlerini sizler için derledik...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/deaa1e4d-ae89-4f67-84ee-0f64d4b38f12.jpg",
     "keyword": null
   }
 ]
