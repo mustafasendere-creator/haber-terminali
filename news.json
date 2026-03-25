@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3fc6656e",
+    "title": "Osmaniye’de alt geçitte kaza",
+    "source": "Gazete Duvar",
+    "time": "25/03/2026 14:49",
+    "link": "https://www.gazeteduvar.com.tr/osmaniyede-alt-gecitte-kaza-haber-1765757",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osmaniye’de hızlı tren alt geçidi çıkışında otomobil ile minibüsün çarpıştığı trafik kazası güvenlik kamerasına yansıdı. Kazada şans eseri yaralanan olmazken, araçlarda maddi hasar meydana geldi.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/25/f5haber-6eaj_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0843db09",
     "title": "Elazığ’da kamyonet direğe çarptı: 1 yaralı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Büyükşehir Belediyesi iştiraki İZBETON AŞ’ye yönelik usulsüzlük iddiaları kapsamında yürütülen davada savcı görevden alındı. Önceki dönem İzmir Büyükşehir Belediye Başkanı Tunç Soyer ve İZBETON eski Genel Müdürü Heval Savaş Kaya hakkında verilen tahliye kararının ardından, dosyayı iki yılı aşkın süredir yürüten cumhuriyet savcısının değiştirilmesi yargı sürecine ilişkin tartışmaları yeniden gündeme taşıdı. Avukatlar yapılan görev değişikliklerine tepki gösterdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/1d8070d2-eb3e-4f96-8712-8100d63ce195.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_e49ec7f2",
-    "title": "Z Kuşağı erkeklerinde 'geleneksel' dönüş: İtaat beklentisi 'Boomer' kuşağını ikiye katladı",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 14:09",
-    "link": "https://www.cumhuriyet.com.tr/yasam/z-kusagi-erkeklerinde-geleneksel-donus-itaat-beklentisi-boomer-kusagini-ikiye-katladi-2489491",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 yılı verilerine göre Z Kuşağı erkekleri, aile içi otorite ve kadın hakları konusunda 'Baby Boomer' kuşağından çok daha muhafazakar bir tutum sergiliyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/95a160e2-0fac-4114-89df-7ba583a4b6d5.jpg",
     "keyword": null
   }
 ]
