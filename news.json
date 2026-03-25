@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_84c5a2b8",
+    "title": "Kuveyt ordusu, füze ve İHA saldırılarına karşılık verdiğini duyurdu",
+    "source": "TRT Haber",
+    "time": "25/03/2026 08:12",
+    "link": "https://www.trthaber.com/haber/dunya/kuveyt-ordusu-fuze-ve-iha-saldirilarina-karsilik-verdigini-duyurdu-938959.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt ordusu, hava savunma sistemlerinin füze ve insansız hava aracı İHA saldırılarına karşı müdahale ettiğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c4ef24da",
     "title": "Soykırımcı İsrail'den Filistinli mahkumlara idam cezası onayı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü soruşturma kapsamında 16 adrese eş zamanlı operasyon düzenlendi, 14 şüpheli yakalandı. 2 kişi hakkında yakalama kararı çıkartıldı. Soruşturma kapsamında Fikret Orman gözaltına alındı. Hakan Sabancı, Burak Elmas, Hande Erçel, Didem Soydan, Kerim Sabancı ve Güzide Duran da gözaltına alındı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/hakan-sabanci-hande-ercel-fikret-orman-guzide-duran-didem-soydan-ve-burak-elmas-dahil-16-gozalti-ketf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c0cc0160",
-    "title": "Freni boşalan tır 4 araca çarpıp elektrik direğini devirdi",
-    "source": "TRT Haber",
-    "time": "25/03/2026 06:52",
-    "link": "https://www.trthaber.com/haber/turkiye/freni-bosalan-tir-4-araca-carpip-elektrik-diregini-devirdi-938960.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsunun İlkadım ilçesinde freni boşalan tır, seyir halindeki 4 araca çarpıp refüjdeki elektrik direğini de devirerek durabildi. Zincirleme kazada 6 kişi yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
