@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f7867cf",
+    "title": "Video İran'ın saldırısı sonrası Tel Aviv'deki yangına mı ait?",
+    "source": "Teyit.org",
+    "time": "25/03/2026 13:12",
+    "link": "https://teyit.org/analiz/video-iranin-saldirisi-sonrasi-tel-avivdeki-yangina-mi-ait",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir videonun İran'ın saldırısı sonrası Tel Aviv'deki yangını gösterdiği öne sürüldü.",
+    "image": "https://md.teyit.org/2026/03/tel-aviv-yangin-misir-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_f62e2fe1",
     "title": "AySay yeni albümü 'Mal' ile İstanbul'a geliyor",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bahis ve şike iddialarıyla yargılanan Galatasaraylı futbolcu Metehan Baltacı hakkında tahliye kararı verildi, duruşma ertelendi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/s-s-d-s-d-s-d-s-d-s-d-s-d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c29a9d8c",
-    "title": "ABD ve İsrail saldırılarına devam ediyor: İran'da sinemacı Abbas Kiyarüstemi’nin evi vuruldu",
-    "source": "Evrensel",
-    "time": "25/03/2026 12:49",
-    "link": "https://www.evrensel.net/haber/5976682/abd-ve-israil-saldirilarina-devam-ediyor-iranda-sinemaci-abbas-kiyarusteminin-evi-vuruldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri, ABD-İsrail saldırılarında yönetmen Abbas Kiyarüstemi’nin Tahran’daki evinin vurulduğunu açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340173.jpg",
     "keyword": null
   }
 ]
