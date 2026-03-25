@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a2c338d",
+    "title": "Libya’da yangın çıkan petrol boru hattı yakınında Rus yapımı bomba kalıntıları bulundu",
+    "source": "Evrensel",
+    "time": "25/03/2026 09:12",
+    "link": "https://www.evrensel.net/haber/5976627/libyada-yangin-cikan-petrol-boru-hatti-yakininda-rus-yapimi-bomba-kalintilari-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Libya’da 18 Mart'ta yangın çıkan petrol boru hattı yakınında Rus yapımı M-62 uçak bombası kalıntıları bulundu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/338249.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eceaaded",
     "title": "Gökbilimciler genç bir yıldızın çevresinde oluşan iki dev gaz gezegen tespit etti",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kuveyt ordusu, hava savunma sistemlerinin füze ve insansız hava aracı İHA saldırılarına karşı müdahale ettiğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c4ef24da",
-    "title": "Soykırımcı İsrail'den Filistinli mahkumlara idam cezası onayı",
-    "source": "TRT Haber",
-    "time": "25/03/2026 08:12",
-    "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilden-filistinli-mahkumlara-idam-cezasi-onayi-938963.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Meclisi Ulusal Güvenlik Komitesi, Filistinli mahkumlara yönelik tartışmalı idam cezası tasarısını onaylayarak meclis genel kuruluna gönderdi.",
     "image": null,
     "keyword": null
   }
