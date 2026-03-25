@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_efe0d6d8",
+    "title": "FSB’den kritik operasyon: Patlayıcı düzenekli tabanlıklar ele geçirildi",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 11:13",
+    "link": "https://www.cumhuriyet.com.tr/dunya/fsb-den-kritik-operasyon-patlayici-duzenekli-tabanliklar-ele-gecirildi-2489425",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya Federal Güvenlik Servisi (FSB), cephedeki Rus askerlerine gönderilmek üzere hazırlanmış yüzlerce tuzaklı bot tabanlığının ele geçirildiğini duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ddade344-96d7-4821-96cd-0ec989843ce7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_794b50ae",
     "title": "İzmir Barosu'ndan, Soma maden faciası davasında 'zamanaşımı' kararına tepki: 'Cezasızlık politikalarındaki ısrarın sonucu!'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Edirne'nin Lalapaşa ilçesinde yasa dışı köpek üretimi yapan çiftlik sahibine 2 milyon 144 bin lira idari para cezası uygulandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_47e864f7",
-    "title": "Yalova'da işçi servisi devrildi: 1 ölü, 20 yaralı",
-    "source": "TRT Haber",
-    "time": "25/03/2026 10:32",
-    "link": "https://www.trthaber.com/haber/turkiye/yalovada-isci-servisi-devrildi-1-olu-20-yarali-938995.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yalova'da işçileri taşıyan servis midibüsünün devrilmesi sonucu 1 kişi hayatını kaybetti, 20 kişi yaralandı.",
     "image": null,
     "keyword": null
   }
