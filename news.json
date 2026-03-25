@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4e05c4e",
+    "title": "Mbappe az önce duyurdu: Artık geride kaldı",
+    "source": "Haber Global",
+    "time": "25/03/2026 10:12",
+    "link": "https://haberglobal.com/spor/kylian-mbappe-az-once-duyurdu-artik-geride-kaldi-515121",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Real Madrid’in yıldız futbolcusu Kylian Mbappé, haftalardır gündemde olan diz sakatlığıyla ilgili net konuştu. Fransız oyuncu, “Artık tamamen geride kaldı” diyerek hem Real Madrid cephesine hem de Fransa Milli Takımı’na rahat bir nefes aldırdı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/kylian-mbappe-az-once-duyurdu-artik-geride-kaldi-pvkb.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_62c0f8c7",
     "title": "Panathinaikos, Ergin Ataman'la tartışan Richaun Holmes'u takımdan gönderdi",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mısırlı oyuncu Mohammed Salah, sezon sonunda İngiltere Premier Lig ekibi Liverpool'dan ayrılacağını duyurdu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340146.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4ef87bdd",
-    "title": "İsrail'den Gazze Şeridi'ne hava saldırısı: Dört Filistinli hayatını kaybetti",
-    "source": "Evrensel",
-    "time": "25/03/2026 09:32",
-    "link": "https://www.evrensel.net/haber/5976631/israilden-gazze-seridine-hava-saldirisi-dort-filistinli-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in Gazze Şeridi'nin orta kesiminde düzenlediği hava saldırısında dört Filistinli yaşamını yitirdi; çok sayıda kişi yaralandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340145.jpg",
     "keyword": null
   }
 ]
