@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d11de3dd",
+    "title": "Yalova’da işçileri taşıyan midibüs devrildi: 1 ölü, 20 yaralı",
+    "source": "Ekonomim",
+    "time": "25/03/2026 11:13",
+    "link": "https://www.ekonomim.com/gundem/yalovada-iscileri-tasiyan-midibus-devrildi-1-olu-20-yarali-haberi-883860",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yalova&#039;da işçileri taşıyan servis midibüsü henüz bilinemeyen nedenle devrildi. Devrilme sonucu Gülcan U. isimli işçi hayatını kaybetti, 20 kişi yaralandı. Kazaya ilişkin adli tahkikat başlatıldı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/yalovada-iscileri-tasiyan-midibus-devrildi-1-olu-20-yarali-jtd6_cover.png",
+    "keyword": null
+  },
+  {
     "id": "GND_90db1475",
     "title": "Bakır fiyatları Orta Doğu’daki gerilimin azalması umutlarıyla yükseldi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TCMB açıkladı: Tüm kesimlerde enflasyon beklentisi yükseldi",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/son-dakikajpg-2AidBsStV0GE7IOBJWnytQ.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7fa76e2c",
-    "title": "İSKİ açıkladı: 25 Mart İstanbul baraj doluluk oranı yüzde kaç?",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 10:33",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/iski-acikladi-25-mart-istanbul-baraj-doluluk-orani-yuzde-kac-2489407",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İSKİ İstanbul baraj doluluk oranını duyurmaya devam ediyor. Yaz ve kış aylarında yağışların azalmasıyla birlikte, büyükşehirlerde su azalması yaşanabiliyor. İstanbul’daki barajların doluluk oranlarındaki son durum için gözler İSKİ baraj doluluk oranlarına çevrildi. Peki, 25 Mart İstanbul baraj doluluk oranı yüzde kaç?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d1e7456a-756e-432b-b1d3-6f04e361f9a4.jpg",
     "keyword": null
   }
 ]
