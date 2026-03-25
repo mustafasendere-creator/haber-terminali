@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80807733",
+    "title": "ABD'li Senatör Sanders, İran'a yönelik saldırılar için 200 milyar dolarlık ek bütçe talebini desteklemeyecek",
+    "source": "TRT Haber",
+    "time": "25/03/2026 11:12",
+    "link": "https://www.trthaber.com/haber/dunya/abdli-senator-sanders-irana-yonelik-saldirilar-icin-200-milyar-dolarlik-ek-butce-talebini-desteklemeyecek-939005.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'li Senatör Bernie Sanders, ülkesinin İran'a yönelik saldırıları finanse etmek için kullanılacak 200 milyar dolarlık ek bütçe talebini \"kesinlikle\" desteklemeyeceğini belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d05b5504",
     "title": "Irak Savunma Bakanlığı: Hava saldırında 7 asker öldü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ASLAB tarafından hazırlanan ‘Türkiye Şiddet Haritası’ raporuna göre şiddet oranı bir yılda 2 bin 289’a yükselirken, faillerin yüzde 95,5’inin erkek olduğu kaydedildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340153.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8109fa2b",
-    "title": "İBB davasında 10. gün: Mehmet Murat Çalık savunma yapacak",
-    "source": "Evrensel",
-    "time": "25/03/2026 10:32",
-    "link": "https://www.evrensel.net/haber/5976645/ibb-davasinda-10-gun-mehmet-murat-calik-savunma-yapacak",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB davasının 10. gününde iki kez kanser hastalığı atlatan, cezaevinde 20 kilo kaybettiği için doktor reçetesi ile ek gıda takviyesi alan Beylikdüzü Belediye Mehmet Murat Çalık’ın ifade vermesi bekleniyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340154.jpg",
     "keyword": null
   }
 ]
