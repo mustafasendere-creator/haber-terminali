@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fd894b44",
+    "title": "TCMB anketi: Hanehalkı enflasyon beklentisi yüzde 50 sınırına dayandı",
+    "source": "Euronews",
+    "time": "25/03/2026 12:09",
+    "link": "http://tr.euronews.com/business/2026/03/25/tcmb-anketi-hanehalki-enflasyon-beklentisi-yuzde-50-sinirina-dayandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Merkez Bankası’nın mart ayı anketine göre hanehalkının 12 ay sonrası enflasyon beklentisi yüzde 49,89’a çıktı. Ankete katılanların büyük bölümü enflasyonun daha da yüksek seyredeceğini düşünürken, fiyat baskısında gıda ve enerji başı çekti, yatırım tercihlerinde altın açık ara ilk sırada kaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_29fe13be",
     "title": "Kürekli kadının öfkesi: Lüks otomobili hurdaya çevirdi",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bayram tatili dönüşünde vatandaşların telefonlarına gelen sahte HGS mesajları, kredi kartı bilgilerini çalmayı amaçlıyor. Uzmanlar, resmi kanallar dışında hiçbir ödeme talebine itibar edilmemesi gerektiğini belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d9d241b2",
-    "title": "eAvukat uygulaması kullanıma açıldı",
-    "source": "TRT Haber",
-    "time": "25/03/2026 11:30",
-    "link": "https://www.trthaber.com/haber/gundem/e-avukat-uygulamasi-kullanima-acildi-939011.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Akın Gürlek, kullanıma açılacak eAvukat uygulamasıyla hükümlü ve tutukluların avukatlarıyla görüntülü görüşebileceğini açıkladı.",
     "image": null,
     "keyword": null
   }
