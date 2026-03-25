@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4afe0e5",
+    "title": "AİHM Kavala başvurusu için toplanıyor: İkinci başvuru görüşülecek",
+    "source": "Evrensel",
+    "time": "25/03/2026 11:12",
+    "link": "https://www.evrensel.net/haber/5976655/aihm-kavala-basvurusu-icin-toplaniyor-ikinci-basvuru-gorusulecek",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AİHM Büyük Dairesi, Osman Kavala’nın ikinci başvurusunu görüşmek üzere toplanıyor. Kararın önümüzdeki aylarda açıklanması bekleniyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/215732.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_86178c76",
     "title": "21 yaşındaki futbolcunun ölümünde İzzet Yıldızhan neden tutuklandı? Cinayet sonrası “kaçış trafiği” iddiası",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İspanya'da azınlık sol koalisyon hükümetinin, Orta Doğu'daki çatışmalar nedeniyle enerji fiyatlarındaki yükseliş ve gübre dahil arz sorunlarına yanıt olarak alınan tedbirler kapsamında tarım ve hayvancılık sektörünü de destekleyecek.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7d3cdc5a",
-    "title": "Ağrı'da askeri araç kazasında şehit olan Uzman Çavuş Akarsel için tören düzenlendi",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 10:31",
-    "link": "https://www.aa.com.tr/tr/guncel/agrida-askeri-arac-kazasinda-sehit-olan-uzman-cavus-akarsel-icin-toren-duzenlendi/3878181",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ağrı'nın Doğubayazıt ilçesinde askeri araç kazasında ağır yaralandıktan sonra şehit olan Ulaştırma Uzman Çavuş Selman Akarsel'in naaşı, törenle memleketi Konya'ya uğurlandı.",
     "image": null,
     "keyword": null
   }
