@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a73e2589",
+    "title": "Almanya’da 55 yıllık tütün fabrikası kapanıyor",
+    "source": "Evrensel",
+    "time": "25/03/2026 15:09",
+    "link": "https://www.evrensel.net/haber/5976712/almanyada-55-yillik-tutun-fabrikasi-kapaniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tütün üreticisi Reemtsma, artan maliyetler ve düşük kapasite kullanımını gerekçe göstererek Langenhagen’deki üretimini sonlandırma kararı aldı. 1971’den bu yana faaliyet gösteren fabrikanın 2027’ye kadar tamamen kapanması planlanıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340200.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_c8bbe929",
     "title": "Trabzon'da İlginç Dolandırılma!; Büyü Yaptırmak İstedi Binlerce Parasından Oldu!",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Lübnan'a yoğun saldırılar düzenleyen İsrail ordusunun, ülkenin güneyinde kara saldırılarını genişleteceği bildirildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/israil-lubnana-kara-saldirilarini-genisletiyor-iki-tumen-daha-katliama-hazirlaniyor-ppms.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d4b33e47",
-    "title": "Meta, çocuk güvenliği davasında 375 milyon dolar para cezası ödeyecek",
-    "source": "TRT Haber",
-    "time": "25/03/2026 14:29",
-    "link": "https://www.trthaber.com/haber/dunya/meta-cocuk-guvenligi-davasinda-375-milyon-dolar-para-cezasi-odeyecek-939041.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'de mahkeme, Facebook ve Instagram'ın çatı şirketi Meta'nın, platformlarındaki çocuk güvenliği önlemleri konusunda kullanıcıları yanılttığı gerekçesiyle 375 milyon dolar para cezası ödemesine karar verdi.",
-    "image": null,
     "keyword": null
   }
 ]
