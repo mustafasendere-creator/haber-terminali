@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2cde57a8",
+    "title": "Türkiye’den ve dünyadan çevre gündemi",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 05:52",
+    "link": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-den-ve-dunyadan-cevre-gundemi-2489363",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'den ve dünyadan çevre gündemlerini sizler için derledik...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/deaa1e4d-ae89-4f67-84ee-0f64d4b38f12.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d5682c60",
     "title": "Adalet ve hakem",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Anayasa Mahkemesi üyeliği görev süresi sona eren Hasan Tahsin Gökcan, yürüttüğü başkanvekilliği görevini İrfan Fidan'a devretti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340041.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_57a28a08",
-    "title": "21 yaşındaki futbolcunun ölümü: Alaattin Kadayıfçıoğlu’nun ifadesi ortaya çıktı",
-    "source": "Evrensel",
-    "time": "25/03/2026 02:52",
-    "link": "https://www.evrensel.net/haber/5976533/21-yasindaki-futbolcunun-olumu-alaattin-kadayifcioglunun-ifadesi-ortaya-cikti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alaattin Kadayıfçıoğlu ifadesinde, “silah boğuşma sırasında patladı” diyerek ateş etmediğini savundu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340042.jpg",
     "keyword": null
   }
 ]
