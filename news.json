@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_54318dfb",
+    "title": "Kremlin Sözcüsü Peskov, Ukrayna müzakerelerinin \"çözüm için önemli\" olduğunu söyledi",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 13:48",
+    "link": "https://www.aa.com.tr/tr/guncel/kremlin-sozcusu-peskov-ukrayna-muzakerelerinin-cozum-icin-onemli-oldugunu-soyledi/3878654",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kremlin Sözcüsü Dmitriy Peskov, ABD’nin Ukrayna konusundaki çabalarını memnuniyetle karşıladıklarını belirterek, \"Yapılan her müzakere turu, gerçekten bir çözüm formülü bulma yolunda atılmış bir adımdır.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_8b77be14",
     "title": "Kız arkadaşına büyü yaptırmak istedi, 495 bin 600 lirasını kaptırdı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bakan Alparslan Bayraktar açıkladı... 1 Nisan öncesi enerji maliyetleri ve faturalara yansıyacak destek paketi detayları haberimizde.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/d-o-g-a-l-g-a-z-10.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b7516ddd",
-    "title": "OpenAI video uygulaması Sora'nın fişini çekti",
-    "source": "DW Türkçe",
-    "time": "25/03/2026 13:10",
-    "link": "https://www.dw.com/tr/openai-video-uygulaması-sora-nın-fişini-çekti/a-76518778",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "OpenAI, gerçekçi videolar oluşturabilen Sora uygulamasını kapatma kararı aldı. Şirketin eğlence devi Disney'le imzaladığı anlaşma da böylelikle iptal oldu.",
-    "image": null,
     "keyword": null
   }
 ]
