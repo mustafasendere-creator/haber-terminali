@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1630e0a5",
+    "title": "AB'den artan orman yangınlarıyla mücadele için yeni strateji",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 15:28",
+    "link": "https://www.aa.com.tr/tr/guncel/abden-artan-orman-yanginlariyla-mucadele-icin-yeni-strateji/3878806",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa Birliği (AB) Komisyonu, kıta genelinde giderek daha sık, daha büyük ve daha yıkıcı hale gelen orman yangınlarıyla mücadele etmek için yeni bir strateji açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_060bfb5d",
     "title": "Bakan Fidan'dan barış diplomasisi! 3 ülkenin bakanlarıyla görüştü",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bayburt’ta tüm eğitim kademelerinde öğrencilere finansal okuryazarlık eğitimi verildi. Eğitimlerde bütçe yönetimi, tasarruf ve bilinçli tüketim konuları ele alındı.",
     "image": "https://resim.haber61.net/news/609264.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_53081f46",
-    "title": "Süreçte 'teyit-tespit' düğümü: İktidar temkinli, DEM Parti yasal zemin istiyor",
-    "source": "BBC Türkçe",
-    "time": "25/03/2026 14:48",
-    "link": "https://www.bbc.com/turkce/articles/cgj06nv5306o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM'de kurulan Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu'nun hazırladığı raporun üzerinden bir ay geçmesine rağmen yasal takvim netleşmedi. İktidar kanadı, yasal düzenleme için PKK'nın \"silah bıraktığının teyit ve tespiti\"ni önkoşul olarak getirirken, DEM Parti süreç yasaları için hızla adım atılmasını istiyor.",
-    "image": null,
     "keyword": null
   }
 ]
