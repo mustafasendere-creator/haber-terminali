@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1f557545",
+    "title": "Uluslararası yatırım pozisyonu verileri açıklandı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 11:12",
+    "link": "https://www.trthaber.com/haber/ekonomi/uluslararasi-yatirim-pozisyonu-verileri-aciklandi-939004.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin net Uluslararası Yatırım Pozisyonu UYP, ocak ayı itibarıyla eksi 345,2 milyar dolar olarak kaydedildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_80807733",
     "title": "ABD'li Senatör Sanders, İran'a yönelik saldırılar için 200 milyar dolarlık ek bütçe talebini desteklemeyecek",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hülya Özdemir Nutku Uluslararası İzmir Tiyatro Festivali, 27 Mart–11 Nisan tarihleri arasında düzenlenecek.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340152.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0346f10d",
-    "title": "ASLAB'ın şiddet raporu: Bir yılda yüzde 75 arttı",
-    "source": "Evrensel",
-    "time": "25/03/2026 10:32",
-    "link": "https://www.evrensel.net/haber/5976643/aslabin-siddet-raporu-bir-yilda-yuzde-75-artti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ASLAB tarafından hazırlanan ‘Türkiye Şiddet Haritası’ raporuna göre şiddet oranı bir yılda 2 bin 289’a yükselirken, faillerin yüzde 95,5’inin erkek olduğu kaydedildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340153.jpg",
     "keyword": null
   }
 ]
