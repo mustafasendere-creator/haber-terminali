@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dfbd27dc",
+    "title": "İddia: Volkswagen İsrail için fırlatma rampası üretecek",
+    "source": "10Haber",
+    "time": "25/03/2026 14:28",
+    "link": "https://10haber.net/gundem/iddia-volkswagen-israil-icin-firlatma-rampasi-uretecek-689755/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Financial Times&#8217;ın konuya yakın kaynaklara dayandırdığı habere göre işbirliği kapsamında &#8220;Demir Kubbe&#8221; hava savunma sistemine ait fırlatma rampaları ve nakliye araçları gibi bileşenlerin bu tesiste üretilmesi planlanıyor. Alman hükümetinin desteklediği projeyle 2 bin 300 istihdamın korunması hedefleniyor. AA muhabirinin konuya ilişkin sorularını yönelttiği Volkswagen yetkililerinden ise henüz resmi açıklama gelmedi.",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c3c5dc6a8ca2.29623131.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2db0b7eb",
     "title": "Almanya Cumhurbaşkanı: İran’la savaş uluslararası hukuka aykırı va siyasi açıdan feci bir hata",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Apple CEO'su Tim Cook, insanların akıllı telefonlarına bakmak yerine dışarıda daha çok vakit geçirmesini istedi. Ekrana kilitlenenler ironiyi kaçırmadı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_476ee8ba",
-    "title": "ABD'li yargıç, Anthropic yasağının cezalandırma amacı taşıyıp taşımadığını sorguladı",
-    "source": "Euronews",
-    "time": "25/03/2026 13:49",
-    "link": "http://tr.euronews.com/next/2026/03/25/abdli-yargic-anthropic-yasaginin-cezalandirma-amaci-tasiyip-tasimadigini-sorguladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bilgisayar bilimci Ben Goertzel, Euronews'e 'O (Başkan Trump) yapay zeka sektörünü herkes gibi hizaya sokmaya çalışıyor' diyor.",
     "image": null,
     "keyword": null
   }
