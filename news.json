@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4cd2226f",
+    "title": "Nakliyeciler mazot zamlarından yakındı: 'Mazot zammı bizi öldürdü'",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 10:33",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/nakliyeciler-mazot-zamlarindan-yakindi-mazot-zammi-bizi-oldurdu-2489408",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osmaniye'de nakliyeciler, özellikle yaptıkları anlaşmaların ardından mazota gelen zamların kendilerini zarara soktuğunu dile getirdiler. Kamyoncu Adem Kalın, \"Ankara'ya mesela 35 bin liraya gidiyoruz. Akşam haber geliyor mazota 5-6 lira zam gelmiş. Biz bunu adama yansıtamıyoruz çünkü anlaşmışız. O yüzden böyle çekiyoruz, zarar ediyoruz\" dedi. Nakliyatçı Ahmet Çevik ise \"mazot zammının kendilerini öldürdüğünü\" söyledi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/aa8f7111-142a-4572-a4bd-af5c84443b13.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_82a8f13b",
     "title": "İzmir'de sanayi sitesinde yangın: 7 iş yeri zarar gördü",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Devrim Muhafızları Sözcüsü Zülfikari, Trump’ın “müzakere yürütülüyor” açıklamasını reddederek, İran’ın ABD ile anlaşma yapmayacağını söyledi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/338889.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_74f1f3ef",
-    "title": "Pendik'te otopark tartışmasında cinayet: Çocuğunun yanında silahla vurularak öldürüldü",
-    "source": "Evrensel",
-    "time": "25/03/2026 09:52",
-    "link": "https://www.evrensel.net/haber/5976635/pendikte-otopark-tartismasinda-cinayet-cocugunun-yaninda-silahla-vurularak-olduruldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Pendik'te otopark tartışmasında Hüseyin Teke, Seyfettin B. tarafından 11 yaşındaki kızının yanında silahla vurularak öldürüldü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340149.jpg",
     "keyword": null
   }
 ]
