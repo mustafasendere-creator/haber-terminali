@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a27b391f",
+    "title": "WSJ: Körfez İran'a saldırılara dahil olmanın eşiğinde",
+    "source": "Habertürk",
+    "time": "25/03/2026 13:50",
+    "link": "https://www.haberturk.com/wsj-korfez-iran-a-saldirilara-dahil-olmanin-esiginde-3871957",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Wall Street Journal'ın haberinde, Körfez ülkelerinin İran'a yönelik olası bir saldırıya her geçen gün daha fazla yaklaştığı öne sürüldü",
+    "image": "https://im.haberturk.com/l/2026/03/24/ver1774351428/3871957/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e0b7b79c",
     "title": "Yapay zeka güvenliğinde çığır açan gelişme: \"Nöron dondurma\"",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "AK Parti İl Başkanı Sezgin Mumcu’nun şehir hastanesine personel alımıyla ilgili açıklamaları tartışma yarattı. İYİ Parti Trabzon İl Başkanı Muhammet Erkan’dan tepki geldi.",
     "image": "https://resim.haber61.net/news/609244.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_2e1b4f9c",
-    "title": "Trabzon’da personel alımı açıklaması gündem oldu: Başkan Erkan’dan Mumcu’ya sert eleştiri",
-    "source": "Haber61",
-    "time": "25/03/2026 13:28",
-    "link": "https://www.haber61.net/trabzon/trabzonda-personel-alimi-aciklamasi-gundem-oldu-baskan-erkandan-mumcuya-h627647.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "AK Parti İl Başkanı Sezgin Mumcu’nun şehir hastanesine personel alımıyla ilgili açıklamaları tartışma yarattı. İYİ Parti Trabzon İl Başkanı Muhammet Erkan’dan tepki geldi.",
-    "image": "https://resim.haber61.net/news/609244.jpg",
-    "keyword": "trabzon"
   }
 ]
