@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80c146fd",
+    "title": "Altın fiyatları ne kadar? İşte rakamlar...",
+    "source": "TRT Haber",
+    "time": "25/03/2026 10:12",
+    "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlari-ne-kadar-iste-rakamlar-938987.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altının gramı, güne yükselişle başlamasının ardından 6 bin 491 liradan işlem görüyor. Çeyrek altın 11 bin 610 liradan, Cumhuriyet altını 45 bin 820 liradan satılıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_18ce1a16",
     "title": "BIST 100 endeksi güne 13.029,32 puandan başladı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa'nın en kirli ve en temiz havasına sahip kentlerini listeleyen ilk 10'larda iki ülke başı çekiyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6a05c81b",
-    "title": "Trump: İran savaşı kazanıldı, müzakereler sürüyor",
-    "source": "Euronews",
-    "time": "25/03/2026 09:32",
-    "link": "http://tr.euronews.com/2026/03/25/trump-iran-savasi-kazanildi-muzakereler-suruyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD’nin İran’a savaşı sona erdirmeye yönelik 15 maddelik bir plan sunduğunu aktarıldı.",
     "image": null,
     "keyword": null
   }
