@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8be67dae",
+    "title": "Muhittin Böcek'in şoförleri gözaltına alındı",
+    "source": "OdaTV",
+    "time": "25/03/2026 15:30",
+    "link": "https://www.odatv.com/guncel/ikinci-operasyon-muhittin-bocekin-soforleri-gozaltina-alindi-120140717",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya Büyükşehir Belediye Başkanı Muhittin Böcek&#039;in şoförleri gözaltına alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/14/muhittin-bocek-10uncu-kez-hastaneye-kaldirildi-pozv.png",
+    "keyword": null
+  },
+  {
     "id": "GND_aa8e6d31",
     "title": "Bingöl'de okulda kar spreyi paniği: 30 öğrenci hastanelik oldu",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gıda etiketleme yönetmeliğinde yapılan revizyonla; yanıltıcı ifadeler, gerçeği yansıtmayan görseller ve çocukları olumsuz etkileyebilecek ambalajlar yasaklandı. Buna göre ‘yüzde 100 doğal’, ‘en doğal’, ‘hakiki’ gibi abartılı ifadelerin kullanımı kaldırıldı. ‘Günlük’ ifadesi raf ömrü 24 saat olan ürünlerde kullanılabilecek. Ambalajlı ürünlerde ‘taze sıkılmış’, ‘fırından taze’ gibi ifadeler yasaklandı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/gida-etiketleme-yonetmeliginde-revizyon-gunluk-ifadesine-24-saat-siniri-geldi-o-ifadeler-yasaklandi-vc31_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_38342efa",
-    "title": "Cumhurbaşkanı Erdoğan, Muhsin Yazıcıoğlu'nu andı",
-    "source": "Ekonomim",
-    "time": "25/03/2026 14:50",
-    "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogan-muhsin-yazicioglunu-andi-haberi-883925",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Muhsin Yazıcıoğlu’nu vefatının 17’nci yıl dönümünde yayımladığı mesajla anarak, “Şehadetinin yıl dönümünde rahmetle yad ediyorum” ifadelerini kullandı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/cumhurbaskani-erdogan-muhsin-yazicioglunu-andi-kysk_cover.png",
     "keyword": null
   }
 ]
