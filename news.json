@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_38b55d65",
+    "title": "TBMM Başkanı Kurtulmuş Hırvatistan Başbakanı ile görüştü",
+    "source": "TRT Haber",
+    "time": "25/03/2026 15:49",
+    "link": "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-hirvatistan-basbakani-ile-gorustu-939034.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Hırvatistan Başbakanı Andrej Plenkovic ile bir araya geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0f851f6d",
     "title": "İsrail, Lübnan'ın güneyinde kara saldırılarını genişletiyor",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Akçaabat sahil bandını modern yaşam alanlarıyla buluşturarak denizle bütünleştirecek Yıldızlı-Söğütlü Sahil Projesi’nin ihalesini Nisan ayı içerisinde gerçekleştireceklerini ve ardından hızlı bir şekilde çalışmalara başlayacaklarını ifade etti.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1b4e473b",
-    "title": "İran Meclis Başkanı: ABD askerleri Netanyahu’nun hayallerinin kurbanı olacak",
-    "source": "Evrensel",
-    "time": "25/03/2026 15:09",
-    "link": "https://www.evrensel.net/haber/5976711/iran-meclis-baskani-abd-askerleri-netanyahunun-hayallerinin-kurbani-olacak",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin bölgedeki hareketlerini ve asker konuşlandırmalarını yakından takip ettiklerini belirterek, \"Topraklarımızı savunma kararlılığımızı sınamayın\" ifadelerini kullandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340078.jpg",
-    "keyword": null
   }
 ]
