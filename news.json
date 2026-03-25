@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0c998dd3",
+    "title": "Son Dakika... MSB duyurdu: Türkiye ve İngiltere 'Eurofighter' uçakları sözleşmesini bugün imzalayacak",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 13:30",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-msb-duyurdu-turkiye-ve-ingiltere-eurofighter-ucaklari-sozlesmesini-bugun-imzalayacak-2489477",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberi... Milli Savunma Bakanlığı, Eurofighter Typhoon Projesi kapsamında uçakların idame ve işletmesine yönelik teknik ve lojistik destek sözleşmesinin imzalanması hususunda mutabakata varıldığını açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/09e6e55f-36f4-460d-8fd1-fbe6f2583f28.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_331b0766",
     "title": "Haaretz: İran, İsrailli yetkililere suikast için ülkedeki kameraları hacklemeye çalışıyor",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran, ABD Başkanı Donald Trump’ın Washington ile Tahran’ın 'şu anda müzakere halinde' olduğunu söylemesinden yalnızca birkaç saat sonra Orta Doğu genelinde bir füze salvosu başlattı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0f4c7244",
-    "title": "OpenAI, deepfake tepkileri sonrası Sora video uygulamasını aniden kapattı",
-    "source": "Euronews",
-    "time": "25/03/2026 13:09",
-    "link": "http://tr.euronews.com/next/2026/03/25/openai-deepfake-tepkileri-sonrasi-sora-video-uygulamasini-aniden-kapatti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kullanıcıların 200’den fazla Disney karakteriyle video üretmesine izin veren Walt Disney Company ile üç yıllık anlaşma imzalamasına rağmen OpenAI, viral video uygulaması Sora’yı kapatıyor.",
     "image": null,
     "keyword": null
   }
