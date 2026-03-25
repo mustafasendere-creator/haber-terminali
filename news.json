@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5fa69453",
+    "title": "STRATCOM başlıyor: Orta Doğu'daki savaş masaya yatırılacak",
+    "source": "TRT Haber",
+    "time": "25/03/2026 11:30",
+    "link": "https://www.trthaber.com/haber/gundem/stratcom-basliyor-orta-dogudaki-savas-masaya-yatirilacak-939012.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığı tarafından bu yıl beşincisi düzenlenecek Stratejik İletişim Zirvesi'nde STRATCOM, Orta Doğu'daki savaşın yanı sıra uluslararası sisteme yönelik en güçlü sorgulamalar ele alınacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_8a54b1cd",
     "title": "Milliler Tarihi Maça Çıkıyor! 24 Yıllık Hasret İçin İlk Engel Romanya",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran, ABD basınında yer alan Orta Doğu'ya 3 bin asker gönderileceği iddialarına ilişkin açıklama yaptı. İran'ın yeni dini lideri Mücteba Hamaney'in Savunma Konseyi'ndeki temsilcisi Ali Ekber Ahmediyan, \"Yıllardır ABD’lilerin belirlenen noktalara gelmesini bekliyorduk. Daha da yaklaşın\" dedi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/iran-abdnin-asker-sevkiyati-iddialarina-meydan-okudu-daha-da-yaklasin-d2vr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c4dd7aed",
-    "title": "İsrail, İran'ın denizden atılan seyir füzesi üretim tesislerini vurduğunu iddia etti",
-    "source": "TRT Haber",
-    "time": "25/03/2026 10:52",
-    "link": "https://www.trthaber.com/haber/dunya/israil-iranin-denizden-atilan-seyir-fuzesi-uretim-tesislerini-vurdugunu-iddia-etti-938999.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu, İran'ın başkenti Tahran'da denizden atılan seyir füzelerinin üretildiği iki ana merkezi hedef aldığını öne sürdü.",
-    "image": null,
     "keyword": null
   }
 ]
