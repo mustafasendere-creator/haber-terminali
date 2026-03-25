@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8d650e6c",
+    "title": "BAE'de şiddetli yağış: Sharjah sokaklarını su bastı",
+    "source": "Euronews",
+    "time": "25/03/2026 15:29",
+    "link": "http://tr.euronews.com/video/2026/03/25/baede-siddetli-yagis-sharjah-sokaklarini-su-basti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri ve komşu Umman’ı etkileyen fırtınalar sürerken, şiddetli yağışların ardından Şarika’da araçlar suyla kaplı yollarda ilerliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2deb3fbe",
     "title": "Katar'daki aksamalar helyum arzını vurdu, MR hizmetlerini riske soktu",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Osmaniye’de hızlı tren alt geçidi çıkışında otomobil ile minibüsün çarpıştığı trafik kazası güvenlik kamerasına yansıdı. Kazada şans eseri yaralanan olmazken, araçlarda maddi hasar meydana geldi.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/25/f5haber-6eaj_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0843db09",
-    "title": "Elazığ’da kamyonet direğe çarptı: 1 yaralı",
-    "source": "Gazete Duvar",
-    "time": "25/03/2026 14:49",
-    "link": "https://www.gazeteduvar.com.tr/elazigda-kamyonet-direge-carpti-1-yarali-haber-1765758",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elazığ’da sürücüsünün direksiyon hakimiyetini kaybettiği kamyonet, aydınlatma direğine çarptı. Kazada 1 kişi hafif yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/25/f5haber-oizf_cover.jpg",
     "keyword": null
   }
 ]
