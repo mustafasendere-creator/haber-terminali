@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a1dba965",
+    "title": "UAEA: İran, Buşehr Nükleer Enerji Santrali tesislerine bir başka füzenin isabet ettiğini bildirdi",
+    "source": "TRT Haber",
+    "time": "25/03/2026 07:13",
+    "link": "https://www.trthaber.com/haber/dunya/uaea-iran-busehr-nukleer-enerji-santrali-tesislerine-bir-baska-fuzenin-isabet-ettigini-bildirdi-938967.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Atom Enerjisi Ajansı UAEA, İran'ın, Buşehr Nükleer Enerji Santrali tesislerine bir başka füzenin isabet ettiğini bildirdiğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f9f5c0ee",
     "title": "Suudi Arabistan, gece boyunca 27 İHA saldırısını engelledi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "“Çetenin, TSK içinde üç tür faaliyet gösterdiği belirlendi...",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar434_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bc7c0440",
-    "title": "Kurtuluş Savaşı'nda Nevruz Bayramları: “Ergenekon-Nevruz İlişkisinin Anlamı”",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 04:51",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/sinan-meydan/kurtulus-savasi-nda-nevruz-bayramlari-ergenekon-nevruz-iliskisinin-anlami-2489342",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“Bugün Türklerin tarihi kurtuluş gününe yani Ergenekon’a tesadüf ettiği için Ankara’da sevinç gösterileri yapıldı...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar463_cover.jpeg",
     "keyword": null
   }
 ]
