@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f18d68ac",
+    "title": "Meteoroloji'den fırtına uyarısı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 09:33",
+    "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-firtina-uyarisi-938981.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü MGM, Ege Denizi'nin kuzey ve güney kesimlerinde yarın fırtına beklendiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_050de17b",
     "title": "Barolardan gazetecilerin tutuklanmasına ortak tepki",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da gözler yine Ankara’da. Büyükşehir Belediye Başkanı Ahmet Metin Genç ve AK Parti Trabzon Milletvekilleri bugün başkentte yoğun bir mesaiye hazırlanıyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/mkkmdskfmsdf.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_2fffb977",
-    "title": "Trabzon'da parası olan bile alamadı",
-    "source": "61 Saat",
-    "time": "25/03/2026 08:39",
-    "link": "https://www.61saat.com/trabzonda-parasi-olan-bile-alamadi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Gram altının 6 bin 225 TL seviyesine gerilemesiyle birlikte Trabzon’da vatandaş sabahın erken saatlerinde kuyumculara akın etti. Ancak birçok kişi altın bulamadan geri döndü.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/papapapa.png",
     "keyword": "trabzon"
   }
 ]
