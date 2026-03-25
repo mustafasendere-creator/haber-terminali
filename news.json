@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_18ce1a16",
+    "title": "BIST 100 endeksi güne 13.029,32 puandan başladı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 10:12",
+    "link": "https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gune-1302932-puandan-basladi-938990.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,77 artışla 13.029,32 puandan başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_309b7b40",
     "title": "Danimarka: Trump'ın gölgesindeki seçimden belirsizlik çıktı",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD’nin İran’a savaşı sona erdirmeye yönelik 15 maddelik bir plan sunduğunu aktarıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_23062fe0",
-    "title": "Polonya Başbakanı Tusk: Litvanya, NATO toplantısından Macaristan’ın çıkarılmasını istedi",
-    "source": "Euronews",
-    "time": "25/03/2026 09:32",
-    "link": "http://tr.euronews.com/2026/03/25/polonya-basbakani-tusk-litvanya-nato-toplantisindan-macaristanin-cikarilmasini-istedi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Polonya Başbakanı Donald Tusk, Litvanya’nın 2019 yılında, gizli bilgilerin Moskova’ya aktarılmış olabileceği endişesiyle Macar bir heyetin NATO toplantısından dışlanmasını talep ettiğini açıkladı.",
     "image": null,
     "keyword": null
   }
