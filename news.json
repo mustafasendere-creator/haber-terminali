@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e10ad839",
+    "title": "AKOM tarih verdi: İstanbul’da sıcaklıklar yükseliyor",
+    "source": "10Haber",
+    "time": "25/03/2026 12:49",
+    "link": "https://10haber.net/gundem/akom-tarih-verdi-istanbulda-sicakliklar-yukseliyor-689703/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKOM&#8217;un paylaştığı &#8220;Dikkat&#8221; notuna göre İstanbul&#8217;da Cuma akşam saatlerine kadar yağış beklenmiyor ve parçalı bulutlu bir gökyüzü hakim olacak. Sıcaklıkların Perşembe gününden itibaren artışa geçerek hafta sonuna kadar 15°C&#8217;lerin üstüne çıkması öngörülüyor. Cuma günü sıcaklık 17°C&#8217;yi bulacak. Cuma akşamı başlayacak olan yağmur (3-7 kg), Cumartesi günü yerini 5-12 kg&#8217;lık sağanak yağışa bırakacak. Pazar ve Pazartesi [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c3acf0e98e56.29456465.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_883f7e75",
     "title": "Apple CEO’su Tim Cook ‘akıllı telefona mola’ tavsiye etti",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'un Çaykara ilçesinde Hz. Muhammed'in doğumunun hicri 1500. yılı etkinlikleri çerçevesinde 'Hüsn-i Hat ve Ebru' sergisi açıldı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/caykarada-husn-i-hat-ve-ebru-sergisi-acildi.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3404995b",
-    "title": "İran Kızılayı: Savaşın başından beri 5 yaşın altında 66 çocuk hayatını kaybetti",
-    "source": "TRT Haber",
-    "time": "25/03/2026 12:10",
-    "link": "https://www.trthaber.com/haber/dunya/iran-kizilayi-savasin-basindan-beri-5-yasin-altinda-66-cocuk-hayatini-kaybetti-939019.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Kızılayı Başkanı Kulivand, ABDİsrail'in İran saldırılarının başlangıcından bu yana 5 yaşın altında 66 çocuğun hayatını kaybettiğini açıkladı.",
-    "image": null,
-    "keyword": null
   }
 ]
