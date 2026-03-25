@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7b331415",
+    "title": "Enerji acil durumu nedir? Enerji acil durumu nasıl ilan edilir?",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 13:50",
+    "link": "https://www.cumhuriyet.com.tr/dunya/enerji-acil-durumu-nedir-enerji-acil-durumu-nasil-ilan-edilir-2489486",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enerji tedarikini sekteye uğratan İran savaşı, Filipinler'de \"acil enerji durumu\" ilan edilmesine yol açtı. Peki, enerji acil durumu nedir?",
+    "image": "https://media.cumhuriyet.com.tr/Archive/6f8e5072-4079-466b-9722-72374a3a72a2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8b77be14",
     "title": "Kız arkadaşına büyü yaptırmak istedi, 495 bin 600 lirasını kaptırdı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediyesi, Yıldızlı-Söğütlü Sahil Projesi için Nisan ayında ihaleye çıkıyor. Proje tamamlandığında sahil bandı modern yaşam alanlarıyla yeniden düzenlenecek.",
     "image": "https://resim.haber61.net/news/609243.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c9998d86",
-    "title": "Boğaziçi Üniversitesi, QS Alan Bazlı Dünya Üniversite Sıralamaları'nda yükselişini sürdürüyor",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 13:28",
-    "link": "https://www.aa.com.tr/tr/guncel/bogazici-universitesi-qs-alan-bazli-dunya-universite-siralamalarinda-yukselisini-surduruyor/3878588",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Boğaziçi Üniversitesi, Quacquarelli Symonds (QS) 2026 Alan Bazlı Dünya Üniversite Sıralamaları'nda \"sosyal bilimler ve yönetim\" alanında 217'nci, \"mühendislik ve teknoloji\" alanında 236'ncı sıraya yükseldi.",
-    "image": null,
-    "keyword": null
   }
 ]
