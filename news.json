@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d9d241b2",
+    "title": "eAvukat uygulaması kullanıma açıldı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 11:30",
+    "link": "https://www.trthaber.com/haber/gundem/e-avukat-uygulamasi-kullanima-acildi-939011.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adalet Bakanı Akın Gürlek, kullanıma açılacak eAvukat uygulamasıyla hükümlü ve tutukluların avukatlarıyla görüntülü görüşebileceğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5fa69453",
     "title": "STRATCOM başlıyor: Orta Doğu'daki savaş masaya yatırılacak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yalova'da işçileri taşıyan servis midibüsünün devrilmesi sonucu 1 kişi hayatını kaybetti, 20 kişi yaralandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/iscileri-tasiyan-servis-midibusu-devrildi-1-olu-20-yarali-kpxc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0e16ae59",
-    "title": "İran, ABD’nin asker sevkiyatı iddialarına meydan okudu: “Daha da yaklaşın\"",
-    "source": "Haber Global",
-    "time": "25/03/2026 10:52",
-    "link": "https://haberglobal.com/dunya/iran-abdnin-asker-sevkiyati-iddialarina-meydan-okudu-daha-da-yaklasin-515134",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, ABD basınında yer alan Orta Doğu'ya 3 bin asker gönderileceği iddialarına ilişkin açıklama yaptı. İran'ın yeni dini lideri Mücteba Hamaney'in Savunma Konseyi'ndeki temsilcisi Ali Ekber Ahmediyan, \"Yıllardır ABD’lilerin belirlenen noktalara gelmesini bekliyorduk. Daha da yaklaşın\" dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/iran-abdnin-asker-sevkiyati-iddialarina-meydan-okudu-daha-da-yaklasin-d2vr.jpg",
     "keyword": null
   }
 ]
