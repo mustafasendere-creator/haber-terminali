@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4d13db57",
+    "title": "Rus İHA'sı Estonya'daki enerji santralinin bacasına isabet etti",
+    "source": "Euronews",
+    "time": "25/03/2026 11:29",
+    "link": "http://tr.euronews.com/2026/03/25/rus-ihasi-estonyadaki-enerji-santralinin-bacasina-isabet-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Estonya İç Güvenlik Servisi, Rusya’ya ait bir insansız hava aracının ülkenin kuzeydoğusundaki bir enerji santralinin bacasına isabet ettiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_1e7984e2",
     "title": "Rusya'ya giden THY uçağı piste inemeden geri döndü! Pilottan kritik manevra",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'nin net Uluslararası Yatırım Pozisyonu (UYP), ocak ayı itibarıyla eksi 345,2 milyar dolar olarak kaydedildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c21bdb40",
-    "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 10'uncu duruşması başladı",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 10:51",
-    "link": "https://www.aa.com.tr/tr/guncel/imamoglu-cikar-amacli-suc-orgutu-davasinin-10uncu-durusmasi-basladi/3878262",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 107'si tutuklu, 5'i \"müşteki sanık\" olmak üzere 407 sanığın yargılandığı davanın 10'uncu duruşması başladı.",
     "image": null,
     "keyword": null
   }
