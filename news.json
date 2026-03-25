@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_abeb4401",
+    "title": "'Mobbing' iddiasıyla ihtar çekti, işten çıkarıldı: 'Fesih kodu farklı gösterilmiş'",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 13:11",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/mobbing-iddiasiyla-ihtar-cekti-isten-cikarildi-fesih-kodu-farkli-gosterilmis-2489471",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da özel bir şirkette çalışan E.A. (38), mobbing, baskı ve ayrımcılık yaşadığı iddiasıyla işverene ihtarname göndermesinin ardından, İş Kanunu'nun 'İşçinin, işverene veya ailesine hakaret etmesi, şeref ve haysiyet kırıcı asılsız ihbarlarda bulunması'nı ifade eden maddesi gerekçe gösterilerek işten çıkarıldı. E.A., işe iade davası açtı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9b2331e6-d776-4a48-a431-bfd398e5309e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ea7e5ee3",
     "title": "Mobbing iddiasıyla ihtar çekti, işten çıkarıldı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sivas'ta iki kardeş, Organize Sanayi Bölgesi'ndeki (OSB) fabrikalarında talebe göre özel ürettikleri ahşap evleri Avrupa ülkelerine ihraç ediyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_28f662e0",
-    "title": "AB Komisyonu Üyesi Kubilius, ABD ve Körfez’in 5 günde yıllık Patriot üretiminden fazlasını kullandığını söyledi",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 12:48",
-    "link": "https://www.aa.com.tr/tr/guncel/ab-komisyonu-uyesi-kubilius-abd-ve-korfez-in-5-gunde-yillik-patriot-uretiminden-fazlasini-kullandigini-soyledi/3878555",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği (AB) Komisyonunun Savunmadan Sorumlu Üyesi Andrius Kubilius, ABD ve İsrail'in İran'a saldırılarıyla başlayan sürecin ilk 5 gününde, ABD ve Körfez ülkelerinin, bir yıllık Patriot üretimini aşan miktarda füze kullandığını belirtti.",
     "image": null,
     "keyword": null
   }
