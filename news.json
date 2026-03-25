@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_62cd9815",
+    "title": "Üsküdar'da spor salonunda yangın paniği!",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 15:09",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/uskudar-da-spor-salonunda-yangin-panigi-2489505",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Üsküdar’da bir spor salonunun sauna bölümünde henüz bilinmeyen bir nedenle yangın çıktı. Bir kişinin dumandan etkilendiği yangın itfaiye ekiplerinin 1 saatlik çalışmasıyla söndürüldü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8c189b00-b3b0-479e-acc0-42cb94f682ba.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9ab40b7c",
     "title": "Kazada ölen tıp öğrencisi Yaren’in sözleri yürek burktu: “Tüm Türkiye ismimi duyacak”",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD’de mortgage başvuruları, yükselen tahvil getirileri ve artan faizlerin etkisiyle sert geriledi. Konut kredisi faizlerinin son ayların zirvesine çıkması hem alım hem de refinansman talebinde belirgin yavaşlamaya yol açtı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/10/abdde-mortgage-basvurulari-gecen-hafta-artti-mjn5_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_947fe80b",
-    "title": "Petrolde net mesaj: Hürmüz açılmadan fiyatlar düşmez",
-    "source": "Ekonomim",
-    "time": "25/03/2026 14:30",
-    "link": "https://www.ekonomim.com/sektorler/enerji/petrolde-net-mesaj-hurmuz-acilmadan-fiyatlar-dusmez-haberi-883919",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Amerikan Petrol Enstitüsü CEO’su Sommers, petrol ve gaz fiyatlarını düşürmenin en kritik yolunun Hürmüz Boğazı’nın yeniden trafiğe açılması olduğunu söyledi. Sommers, boğaz kapalı kaldıkça küresel fiyat baskısının süreceğini vurguladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/petrolde-net-mesaj-hurmuz-acilmadan-fiyatlar-dusmez-yjfn_cover.jpg",
     "keyword": null
   }
 ]
