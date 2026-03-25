@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64249ee9",
+    "title": "Petrol fiyatlarına sert fren: Rakamlar o seviyenin altına indi",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 09:52",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/petrol-fiyatlarina-sert-fren-rakamlar-o-seviyenin-altina-indi-2489392",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump’ın İran ile müzakerelere ilişkin açıklamaları petrol fiyatlarında düşüşü beraberinde getirdi. İran ile ilgili gelişmeler piyasada arz endişelerini hafifletti. Brent petrol ve WTI fiyatları geriledi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0c1b3c76-30c8-41af-bb70-f0d443df28ff.png",
+    "keyword": null
+  },
+  {
     "id": "GND_9c461a87",
     "title": "Kayıp köpeğini vurulmuş olarak buldu: Şüpheli tutuklandı",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İzmir'in Karabağlar ilçesinde başlayan yangın, 3 atölye ve 2 depoya yayıldı. Ekipler söndürme çalışmalarını sürdürüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a00ce2c8",
-    "title": "Beşiktaş ve Galatasaray'ın eski başkanları gözaltına alındı",
-    "source": "DW Türkçe",
-    "time": "25/03/2026 09:12",
-    "link": "https://www.dw.com/tr/beşiktaş-ve-galatasaray-ın-eski-başkanları-gözaltına-alındı/a-76516094",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uyuşturucu kullandıkları iddiasıyla Beşiktaş ve Galatasaray'ın eski başkanları Fikret Orman ve Burak Elmas ile iş insanı Hakan Sabancı, oyuncu Hande Erçel ve sunucu Güzide Duran gözaltına alındı.",
     "image": null,
     "keyword": null
   }
