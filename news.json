@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f9f5c0ee",
+    "title": "Suudi Arabistan, gece boyunca 27 İHA saldırısını engelledi",
+    "source": "TRT Haber",
+    "time": "25/03/2026 07:13",
+    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-gece-boyunca-27-iha-saldirisini-engelledi-938968.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan'da gece boyunca ülkenin doğusuna yönelik 27 insansız hava aracı İHA saldırısının hava savunma sistemleri tarafından engellendiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_abcc727d",
     "title": "İran'da 10 yaşındaki çocuk patlama sesi nedeniyle hayatını kaybetti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "“Bugün Türklerin tarihi kurtuluş gününe yani Ergenekon’a tesadüf ettiği için Ankara’da sevinç gösterileri yapıldı...",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar463_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a57a0971",
-    "title": "İklim sözlüğü: Gezegensel sınırlar",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 04:51",
-    "link": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iklim-sozlugu-gezegensel-sinirlar-2489362",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gezegensel sınırlar nedir?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/48b63c46-451c-43fc-8ab0-72f52c78185f.jpg",
     "keyword": null
   }
 ]
