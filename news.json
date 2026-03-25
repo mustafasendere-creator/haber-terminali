@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_28dd64c0",
+    "title": "Avrupa'nın en kirli 10 kentinin 5'i Türkiye'de çıktı",
+    "source": "Euronews",
+    "time": "25/03/2026 09:32",
+    "link": "http://tr.euronews.com/2026/03/25/avrupanin-en-kirli-10-kentinin-5i-turkiyede-cikti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa'nın en kirli ve en temiz havasına sahip kentlerini listeleyen ilk 10'larda iki ülke başı çekiyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6a05c81b",
     "title": "Trump: İran savaşı kazanıldı, müzakereler sürüyor",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kolombiya&#039;nın güneyinde askeri nakliye uçağının kalkıştan kısa süre sonra düşmesi sonucu 69 kişinin ölmesinin ardından ülkede 3 günlük ulusal yas ilan edildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/kolombiyada-3-gunluk-ulusal-yas-ilan-edildi-68zc_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_90bfcd44",
-    "title": "İsrail basını yazdı: Trump'tan İran'a saldırıları durdurmak için 15 maddelik plan",
-    "source": "Ekonomim",
-    "time": "25/03/2026 08:32",
-    "link": "https://www.ekonomim.com/dunya/israil-basini-yazdi-trumptan-irana-saldirilari-durdurmak-icin-15-maddelik-plan-haberi-883789",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump&#039;ın İran&#039;a saldırıları sonlandırmak için 15 maddelik bir plan önerisinde bulunduğu ve bunun müzakereleri için de bir aylık geçici ateşkes teklif ettiği iddia edildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/israil-basini-yazdi-trumptan-irana-saldirilari-durdurmak-icin-15-maddelik-plan-dtzd_cover.jpg",
     "keyword": null
   }
 ]
