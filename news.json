@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_75108eab",
+    "title": "Ay'da yaşam için düğmeye basıldı, Mars için ise nükleer uzayı aracı geliyor",
+    "source": "Haber Global",
+    "time": "25/03/2026 10:32",
+    "link": "https://haberglobal.com/bilim-teknoloji/ayda-yasam-icin-dugmeye-basildi-mars-icin-ise-nukleer-uzayi-araci-geliyor-515129",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NASA, önümüzdeki yıllara damga vuracak dev bir uzay programını duyurdu. ABD Uzay Ajansı, Ay’da kalıcı bir üs kurmak için 20 milyar dolarlık yatırım planlarken, Mars’a insanlı görevler için tamamen yeni bir uzay aracı geliştireceğini açıkladı. Bu hamle, insanlığın uzaydaki geleceği açısından son yılların en kritik adımlarından biri olarak değerlendiriliyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/ayda-yasam-icin-dugmeye-basildi-mars-icin-ise-nukleer-uzayi-araci-geliyor-mqmq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1d7c1812",
     "title": "Bizim Çocukların Dünya Kupası yolundaki rakibi Romanya",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul merkezli 3 ilde izinsiz sermaye piyasası faaliyeti gerçekleştirenlere yönelik operasyonda 5 şüpheli gözaltına alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b9e466c4",
-    "title": "İran: Dünya ekonomisindeki durum ABD-İsrail'in dayattığı pervasız ve hukuksuz savaştan kaynaklanıyor",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 09:51",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-dunya-ekonomisindeki-durum-abd-israilin-dayattigi-pervasiz-ve-hukuksuz-savastan-kaynaklaniyor/3878145",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Bakanlığı Sözcüsü Bekayi, ABD-İsrail'in ülkesine açtığı savaşın ardından dünya ekonomisindeki olumsuz sonuçların \"Washington ve Tel Aviv yönetimlerinin İran ve bölgeye dayattığı pervasız ve hukuksuz savaştan kaynaklandığını\" söyledi.",
     "image": null,
     "keyword": null
   }
