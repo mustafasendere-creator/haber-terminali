@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d7c1812",
+    "title": "Bizim Çocukların Dünya Kupası yolundaki rakibi Romanya",
+    "source": "TRT Haber",
+    "time": "25/03/2026 10:32",
+    "link": "https://www.trthaber.com/haber/turkiye/bizim-cocuklarin-dunya-kupasi-yolundaki-rakibi-romanya-938993.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımı, 2026 FIFA Dünya Kupası Avrupa Elemeleri playoff turu yarı finalinde yarın İstanbul'da Romanya ile karşı karşıya gelecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_46ffb4c4",
     "title": "Yasa dışı köpek üretimine 2,1 milyon lira ceza",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "İran Dışişleri Bakanlığı Sözcüsü Bekayi, ABD-İsrail'in ülkesine açtığı savaşın ardından dünya ekonomisindeki olumsuz sonuçların \"Washington ve Tel Aviv yönetimlerinin İran ve bölgeye dayattığı pervasız ve hukuksuz savaştan kaynaklandığını\" söyledi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_3ad6a19e",
-    "title": "Trabzon'da hava bugün nasıl olacak?",
-    "source": "Karadeniz Gazetesi",
-    "time": "25/03/2026 09:39",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-hava-bugun-nasil-olacak/606674",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Meteoroloji Genel Müdürlüğünden alınan tahminlere göre, yurdun genelinin parçalı ve çok bulutlu, Marmara'nın batısı ve Kuzey Ege kıyıları dışında kalan bütün bölgelerin yağışlı geçeceği tahmin ediliyor.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
