@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_508a61cb",
+    "title": "Adana'da yağışların ardından yol çöktü",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 13:31",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/adana-da-yagislarin-ardindan-yol-coktu-2489475",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da yağışların ardından yol çöktü",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b35491ec-036f-44be-8c8a-2c2b535ea49f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5fab4109",
     "title": "'APP' plakasını değiştirmek için 150 TL 'hizmet bedeli' istendi: Suç duyurusunda bulundu!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Akçaabat sahil bandını modern yaşam alanlarıyla buluşturarak denizle bütünleştirecek Yıldızlı-Söğütlü Sahil Projesi’nin ihalesini Nisan ayı içerisinde gerçekleştireceklerini ve ardından hızlı bir şekilde çalışmalara başlayacaklarını ifade etti.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ghlofglohflgohfgh.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_07cb7c17",
-    "title": "SpaceX'in 1,61 trilyon avro değerlemeyle rekor halka arzı bu hafta gündeme geldi",
-    "source": "Euronews",
-    "time": "25/03/2026 13:09",
-    "link": "http://tr.euronews.com/business/2026/03/25/spacexin-161-trilyon-avro-degerlemeyle-rekor-halka-arzi-bu-hafta-gundeme-geldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elon Musk'ın roket ve uydu şirketi, Suudi Aramco'nun 2019'daki rekor halka arzını gölgede bırakabilecek bir borsa kotasyonu için ABD düzenleyicilerine daha bu hafta başvuruda bulunabilir.",
-    "image": null,
     "keyword": null
   }
 ]
