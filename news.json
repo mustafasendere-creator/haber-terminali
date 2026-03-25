@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_405775a4",
+    "title": "ABD, İran sınırına binlerce ek asker sevk ediyor",
+    "source": "TRT Haber",
+    "time": "25/03/2026 06:52",
+    "link": "https://www.trthaber.com/haber/dunya/abd-iran-sinirina-binlerce-ek-asker-sevk-ediyor-938962.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump'ın Tahran ile \"verimli\" görüşmeler yapıldığını açıklamasının ardından Pentagon, bölgeye 3 bin ila 4 bin ek asker göndermeye hazırlanıyor. Reuters'ın isimsiz yetkililere dayandırdığı habere göre, bu sevkiyat 82. Hava İndirme Tümeni'nden 2 bin kişiyi kapıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4da5a8b3",
     "title": "Meteoroloji'den sarı kodlu uyarı: Doğuda kuvvetli yağış, Marmara ve Ege'de fırtına bekleniyor",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Genel Başkanı Özgür Özel, partisinin grup toplantısında, İBB davasında itirafçı olan Murat Kapki'nin mahkemeye başvurduğunu ve \"Baskı gördüm, tahliye vaadine kandım\" dediğini aktardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0b09c7b7-dfcd-4c2e-a3b6-211327ae946a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_adbc49fa",
-    "title": "Erdoğan'a seslenmişti: Yasemin Minguzzi'yi tehdit eden şüpheliye tutuklama talebi!",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 03:32",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-a-seslenmisti-yasemin-minguzzi-yi-tehdit-eden-supheliye-tutuklama-talebi-2489231",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bıçaklanarak hayatını kaybeden Mattia Ahmet Minguzzi’nin annesi Yasemin Minguzzi’ye tehdit içerikli mesajlar gönderen M.E.U. isimli şüpheli Yalova’da gözaltına alındı. Bakırköy Adliyesi’ne getirilen şüpheli tutuklama talebi ile hakimliğe sevk edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/46ea08a8-796e-4372-aadb-e4eb832c5346.jpg",
     "keyword": null
   }
 ]
