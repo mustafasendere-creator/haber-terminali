@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4bbd3a1",
+    "title": "Son depremler listesi",
+    "source": "Habertürk",
+    "time": "25/03/2026 07:13",
+    "link": "https://www.haberturk.com/son-dakika-deprem-mi-oldu-en-son-nerede-ve-ne-zaman-deprem-oldu-buyuklugu-kac-25-mart-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3871832",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika deprem haberleri yakından takip ediliyor. Yaşadıkları bölgede veya çevrelerinde herhangi bir deprem olup olmadığını merak eden vatandaşlar, AFAD ve Kandilli Rasathanesi tarafından paylaşılan son depremler listelerini araştırıyor. Bu listeler sayesinde en son depremin büyüklüğü, merkez üssü ve derinliği gibi detaylar öğrenilebiliyor. Peki, bugün deprem oldu mu, en son nerede ve ne zaman deprem oldu, kaç büyüklüğünde? İşte, 25 Mart 2026 AFAD ve Kandilli Rasathanesi son depremler listesi!",
+    "image": "https://im.haberturk.com/l/2026/03/24/ver1774387508/3871832/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_7c6c2072",
     "title": "Altın fiyatlarında dalgalı seyir",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ucu cinayete varan mesele aslında incir çekirdeğini doldurmaz bazen. 21 yaşında bir gencin, Kubilay Kaan Kundakçı’nın hayatı; bir bakış, bir ego, bir ilişki gerilimi ve birkaç dakikalık kontrol kaybı arasında sönüyor. Ve biz yine aynı soruyu soruyoruz: Bu nasıl bu kadar kolay oluyor? “Erkek şiddeti” elbette bu hikâyenin ana gövdesi. Ancak o gövdeyi besleyen, büyüten [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/aleyna.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7e150b38",
-    "title": "Gazeteci Tosun’un ölümüne ilişkin iddianame tamamlandı",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 05:12",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/gazeteci-tosun-un-olumune-iliskin-iddianame-tamamlandi-2489354",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’da sokak ortasında öldürülen gazeteci Hakan Tosun’a ilişkin iddianame kabul edildi. Şüphelilerin maktule defalarca tekme attığı kamera görüntüleriyle tespit edilirken iki kişi hakkında kasten öldürme suçundan ceza talep edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d8f75329-1c32-45e4-aba2-abf0d4e5449c.jpg",
     "keyword": null
   }
 ]
