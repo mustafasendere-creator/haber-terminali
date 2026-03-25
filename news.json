@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5f9f58c6",
+    "title": "FT: Volkswagen İsrail için füze ekipmanı üretmeyi planlıyor",
+    "source": "DW Türkçe",
+    "time": "25/03/2026 14:09",
+    "link": "https://www.dw.com/tr/ft-volkswagen-israil-için-füze-ekipmanı-üretmeyi-planlıyor/a-76519582",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Financial Times, Alman otomotiv devi Volkswagen'in (VW) İsrail menşeli Demir Kubbe hava savunma sistemi için füze ekipmanı üretmeye hazırlandığını yazdı. İddiaya göre, üretim VW'nin Osnabrück fabrikasında yapılacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7e102f5a",
     "title": "İBB soruşturması: Muhittin Böcek'in iki şoförü gözaltında",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adana'da yağışların ardından yol çöktü",
     "image": "https://media.cumhuriyet.com.tr/Archive/b35491ec-036f-44be-8c8a-2c2b535ea49f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5fab4109",
-    "title": "'APP' plakasını değiştirmek için 150 TL 'hizmet bedeli' istendi: Suç duyurusunda bulundu!",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 13:31",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/app-plakasini-degistirmek-icin-150-tl-hizmet-bedeli-istendi-suc-duyurusunda-bulundu-2489476",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Konya’da, kamuoyunda 'APP' olarak bilinen plakasını değiştirmek için gittiği Karapınar Şoförler ve Otomobilciler Esnaf Odası'nda kendisinden 'Hizmet bedeli' adı altında 150 TL alınan Furkan Baktemur, Konya Cumhuriyet Başsavcılığı'nı suç duyurusunda bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/96bca511-fb9a-4b2c-bdbc-c5b3dce296c4.jpg",
     "keyword": null
   }
 ]
