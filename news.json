@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7aff0683",
+    "title": "Katil İsrail'in Gazze'nin orta kesimine düzenlediği saldırıda 4 Filistinli hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "25/03/2026 09:52",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzenin-orta-kesimine-duzenledigi-saldirida-4-filistinli-hayatini-kaybetti-938975.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Soykırımcı İsrail ordusunun Gazze Şeridi'nin orta kesiminde düzenlediği hava saldırısında 4 Filistinli yaşamını yitirdi, çok sayıda kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_36b0422e",
     "title": "İran'ın, ABD ile müzakere sürecini Başkan Yardımcısı Vance ile yürütmeyi tercih ettiği öne sürüldü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Libya’da 18 Mart'ta yangın çıkan petrol boru hattı yakınında Rus yapımı M-62 uçak bombası kalıntıları bulundu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/338249.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_eceaaded",
-    "title": "Gökbilimciler genç bir yıldızın çevresinde oluşan iki dev gaz gezegen tespit etti",
-    "source": "Euronews",
-    "time": "25/03/2026 09:12",
-    "link": "http://tr.euronews.com/next/2026/03/25/gokbilimciler-genc-bir-yildizin-cevresinde-olusan-iki-dev-gaz-gezegen-tespit-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ESO’nun Çok Büyük Teleskobu’nu kullanan bilim insanları, genç bir yıldızın çevresinde, yeni bir gezegen sistemi oluşurken iki dev gaz gezegenin doğuşunu gözledi.",
-    "image": null,
     "keyword": null
   }
 ]
