@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c505a310",
+    "title": "Bağcılar'da işyerinde yangın tüpü dolumu sırasında 8 kişi zehirlendi!",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 03:32",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/bagcilar-da-isyerinde-yangin-tupu-dolumu-sirasinda-8-kisi-zehirlendi-2489232",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bağcılar'da 5 katlı binanın bodrum katındaki yangın söndürme tüpü dolumu yapılan iş yerinde 2 işçi zehirlendi. Ardından ihbar üzerine olay yerine gelen sağlık ekiplerinden 6 kişinin daha zehirlendiği belirlendi. Zehirlenen 8 kişi ambulansla hastaneye kaldırıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/6d845b80-1194-44c8-a11c-3ffbccecdb0d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_da447e7e",
     "title": "Kütahya'da silahlı saldırı: 1 yaralı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "BM Orta Doğu Barış Süreci Özel Koordinatörlüğü (UNSCO) Özel Koordinatör Yardımcısı Ramiz Alakbarov, işgal altındaki Filistin topraklarında İsrail tarafından gerçekleştirilen hak ihlalleri ve saldırıların \"endişe verici oranda\" arttığını söyledi",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_624dad78",
-    "title": "İran'dan atılan füzeler nedeniyle İsrail'de geniş bir alanda sirenler çaldı",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 01:51",
-    "link": "https://www.aa.com.tr/tr/guncel/irandan-atilan-fuzeler-nedeniyle-israilde-genis-bir-alanda-sirenler-caldi/3877972",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD-İsrail'in ortak saldırılar düzenlediği İran'dan atılan füzeler nedeniyle işgal altındaki Batı Şeria'dan İsrail'in liman kenti Aşdod'a kadar geniş bir alanda sirenler çaldı.",
     "image": null,
     "keyword": null
   }
