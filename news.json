@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6ba26d68",
+    "title": "FETÖ soruşturması: Dokuz gözaltı kararı",
+    "source": "10Haber",
+    "time": "25/03/2026 11:48",
+    "link": "https://10haber.net/gundem/feto-sorusturmasi-dokuz-gozalti-karari-689692/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Başsavcılıktan yapılan açıklamaya göre Terör Suçları Soruşturma Bürosunca örgütün sivil yapılanmasına yönelik yürütülen soruşturmalarda haklarında örgütsel faaliyetlerde bulundukları ve ByLock kullandıkları tespit edilen 9 şüpheli için Ankara merkezli iki ilde gözaltı kararı verildi. Şüphelilerin yakalanmasına yönelik çalışmalara Ankara Emniyet Müdürlüğü Mali Suçlarla Mücadele Şube Müdürlüğü ekiplerince devam ediliyor.",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c3a1507a7e91.87496621.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4245f289",
     "title": "5G'ye geçiş için 31 Mart'ta tören düzenlenecek",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "On binlerce kişi bugün, Arjantin'deki 1976 askeri darbesinin 50. yılını anmak için başkent Buenos Aires'te bir araya geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b590e743",
-    "title": "Gazze’de 'bozuk para' çıkmazı: Küçük banknotlar kayboldu, fiyatlar katlandı",
-    "source": "Euronews",
-    "time": "25/03/2026 11:12",
-    "link": "http://tr.euronews.com/2026/03/25/gazzede-bozuk-para-cikmazi-kucuk-banknotlar-kayboldu-fiyatlar-katlandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazzelilerin Euronews’e verdiği bilgilere göre, Şerit genelinde yaşanan küçük meblağlı şekel banknotu sıkıntısı günlük ticareti felç ediyor. Bölge halkı, para üstü yerine istemedikleri ürünleri kabul etmek veya fahiş nakit komisyonları ödemek zorunda kalıyor.",
     "image": null,
     "keyword": null
   }
