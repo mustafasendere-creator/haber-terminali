@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9d307419",
+    "title": "Galatasaray'a set vermedi: Kupa Voley'de ilk finalist VakıfBank!",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 03:12",
+    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-a-set-vermedi-kupa-voley-de-ilk-finalist-vakifbank-2489235",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Voleybol Kadınlar AXA Sigorta Kupa Voley yarı final maçında VakıfBank, Galatasaray Daikin'i 3-0 mağlup etti ve finale yükseldi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/60ddd81f-0b17-4ee4-9a55-6942530e1aee.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b9f6f7c0",
     "title": "İstanbul'daki uyuşturucu soruşturmasında Fikret Orman gözaltına alındı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ChatGPT’nin üreticisi OpenAI, olası bir halka arzın zeminini hazırlarken bir dönem popüler olan kısa video uygulaması Sora’yı kapatacağını duyurdu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340134.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e8ca414d",
-    "title": "İran: Erbil Havalimanı’ndaki ABD üssünü hedef aldık",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 01:31",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-erbil-havalimani-ndaki-abd-ussunu-hedef-aldik/3877931",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Ordusu, Irak’ta Erbil Havalimanı’ndaki ABD üssüne karadan karaya füzelerle saldırı yapıldığını duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
