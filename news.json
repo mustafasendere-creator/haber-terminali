@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9390a386",
+    "title": "İfo: Doğuştan Alman vatandaşı göçmenler daha az suç işliyor",
+    "source": "DW Türkçe",
+    "time": "25/03/2026 08:32",
+    "link": "https://www.dw.com/tr/ifo-doğuştan-alman-vatandaşı-göçmenler-daha-az-suç-işliyor/a-76513320",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İfo Enstitüsü'nün araştırmasına göre, doğuştan itibaren Alman vatandaşı olan göçmen kökenli genç erkekler, Alman vatandaşı olmayan göçmen genç erkeklere oranla yüzde 70 daha az suç işliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_23772ba9",
     "title": "Alaattin Aktaş: Sanayici 'Gidişat fena' diyor",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Savunma sanayisinin siyasetin üstünde tutulması gerektiğini vurgulayan Bağcıoğlu, askeri sağlık sisteminin yeniden yapılandırılması çağrısında bulundu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/51a5f676-b322-4a14-a830-0abb3d6a6b95.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a1dba965",
-    "title": "UAEA: İran, Buşehr Nükleer Enerji Santrali tesislerine bir başka füzenin isabet ettiğini bildirdi",
-    "source": "TRT Haber",
-    "time": "25/03/2026 07:13",
-    "link": "https://www.trthaber.com/haber/dunya/uaea-iran-busehr-nukleer-enerji-santrali-tesislerine-bir-baska-fuzenin-isabet-ettigini-bildirdi-938967.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Atom Enerjisi Ajansı UAEA, İran'ın, Buşehr Nükleer Enerji Santrali tesislerine bir başka füzenin isabet ettiğini bildirdiğini açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
