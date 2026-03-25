@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d453124",
+    "title": "Brent petrolün varili 96,68 dolardan işlem görüyor",
+    "source": "TRT Haber",
+    "time": "25/03/2026 09:33",
+    "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9668-dolardan-islem-goruyor-938979.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Brent petrolün varili uluslararası vadeli piyasalarda 96,68 dolardan satılıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b4c7d0a4",
     "title": "Meteoroloji'den kuvvetli yağış uyarısı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "ABD Başkanı Donald Trump'ın İran'a saldırıları sonlandırmak için 15 maddelik bir plan önerisinde bulunduğu ve bunun müzakereleri için de bir aylık geçici ateşkes teklif ettiği iddia edildi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_4cb8495f",
-    "title": "Fındık Fiyatları Artacak Mı? Uzmanlardan Kritik Açıklama",
-    "source": "Taka Gazetesi",
-    "time": "25/03/2026 08:39",
-    "link": "https://www.takagazete.com.tr/findik-fiyatlari-artacak-mi-uzmanlardan-kritik-aciklama",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Fındık fiyatları 25.03.2026 itibarıyla ne kadar oldu, Trabzon Giresun Ordu fındık fiyatları kaç TL, yağlı sivri yabani fındık fiyatları ne kadar, fındık fiyatları yükselir mi düşer mi, üretici fındığı şimdi satmalı mı gibi soruların yanıtları araştırılırken Karadeniz genelinde fiyatlar 195 TL ile 220 TL arasında şekillendi ve özellikle kaliteli fındıkta artış dikkat çekti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/findik-96.jpg",
-    "keyword": "trabzon"
   }
 ]
