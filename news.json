@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ed0cd7b6",
+    "title": "Kuveyt Uluslararası Havalimanı'nda yakıt deposuna İHA saldırısı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 08:32",
+    "link": "https://www.trthaber.com/haber/dunya/kuveyt-uluslararasi-havalimaninda-yakit-deposuna-iha-saldirisi-938956.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Sivil Havacılık Genel Kurumu, insansız hava araçlarının İHA Kuveyt Uluslararası Havalimanı'ndaki bir yakıt deposunu hedef aldığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c6019bdc",
     "title": "Bahreyn'de sirenler çaldı, halk güvenli bölgelere yönlendirildi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kömür, petrol ve doğalgaz gibi fosil yakıtlar, küresel sera gazı emisyonlarının yüzde 75’inden fazlasını ve karbondioksit emisyonlarının yaklaşık yüzde 90’ını oluşturuyor. İklim krizinin merkezindeki bu tablo karşısında yenilenebilir enerji, en güçlü dönüşüm alanlarından biri olarak öne çıkıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6ce29407-e555-4244-b1cc-bed032c54b6c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_566403d1",
-    "title": "Dünya (su) savaşı!",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 07:13",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/arif-kizilyalin/dunya-su-savasi-2489337",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Su, vazgeçilmez bir yapı taşı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar11_cover.jpeg",
     "keyword": null
   }
 ]
