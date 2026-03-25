@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e084801",
+    "title": "Yumurtayı yıllardır yanlış saklıyorsunuz",
+    "source": "OdaTV",
+    "time": "25/03/2026 09:14",
+    "link": "https://www.odatv.com/gastroda/yumurta-nasil-saklanmali-120140671",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir mutfakta yumurtalar buzdolabında, diğerinde tezgahta… Peki hangisi doğru? Yanıt düşündüğünüz kadar basit değil. Aslında mesele nerede sakladığınızdan çok, yumurtanın size ulaşana kadar geçirdiği yolculukta gizli.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/yumurta-nasil-saklanmali-ssgo.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_761b6e32",
     "title": "Atık reçinelerde yeni dönem: İleri dönüşüm yöntemi",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bahreyn genelinde sirenler çaldı ve halkın güvenli bölgelere yönelmesi istendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9390a386",
-    "title": "İfo: Doğuştan Alman vatandaşı göçmenler daha az suç işliyor",
-    "source": "DW Türkçe",
-    "time": "25/03/2026 08:32",
-    "link": "https://www.dw.com/tr/ifo-doğuştan-alman-vatandaşı-göçmenler-daha-az-suç-işliyor/a-76513320",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İfo Enstitüsü'nün araştırmasına göre, doğuştan itibaren Alman vatandaşı olan göçmen kökenli genç erkekler, Alman vatandaşı olmayan göçmen genç erkeklere oranla yüzde 70 daha az suç işliyor.",
     "image": null,
     "keyword": null
   }
