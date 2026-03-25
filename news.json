@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0d2cc827",
+    "title": "Sahte HGS mesajlarına dikkat: Kart bilgileriniz çalınabilir",
+    "source": "TRT Haber",
+    "time": "25/03/2026 11:30",
+    "link": "https://www.trthaber.com/haber/turkiye/sahte-hgs-mesajlarina-dikkat-kart-bilgileriniz-calinabilir-939010.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bayram tatili dönüşünde vatandaşların telefonlarına gelen sahte HGS mesajları, kredi kartı bilgilerini çalmayı amaçlıyor. Uzmanlar, resmi kanallar dışında hiçbir ödeme talebine itibar edilmemesi gerektiğini belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d9d241b2",
     "title": "eAvukat uygulaması kullanıma açıldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Euroleague'de normal sezonun 34. haftasında oynanacak karşılaşmada Anadolu Efes deplasmanda İspanyol ekibi Real Madrid ile mücadele edecek.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/anadolu-efes-euroleaguede-real-madrid-deplasmaninda-zep0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_94ee0441",
-    "title": "İşçileri taşıyan servis midibüsü devrildi; 1 ölü, 20 yaralı",
-    "source": "Haber Global",
-    "time": "25/03/2026 10:52",
-    "link": "https://haberglobal.com/gundem/iscileri-tasiyan-servis-midibusu-devrildi-1-olu-20-yarali-515133",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yalova'da işçileri taşıyan servis midibüsünün devrilmesi sonucu 1 kişi hayatını kaybetti, 20 kişi yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/iscileri-tasiyan-servis-midibusu-devrildi-1-olu-20-yarali-kpxc.jpg",
     "keyword": null
   }
 ]
