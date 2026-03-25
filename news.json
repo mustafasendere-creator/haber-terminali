@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce54e760",
+    "title": "Diyarbakır’da trafik kazası: 4 yaralı",
+    "source": "Gazete Duvar",
+    "time": "25/03/2026 14:49",
+    "link": "https://www.gazeteduvar.com.tr/diyarbakirda-trafik-kazasi-4-yarali-haber-1765759",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır’da sürücüsünün direksiyon hakimiyetini kaybettiği hafif ticari araç yoldan çıkarak takla attı. Kazada 4 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/25/f5haber-uwew_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_030b27b0",
     "title": "AK Parti heyetinden Trabzon'da yoğun mesai...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adana'nın Saimbeyli ilçesinde 13 yaşındaki İklim Nur İnce'den dünden beri haber alınamıyor. Küçük kızın bulunması için ekiplerce arama çalışması başlatıldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/13-yasindaki-iklim-adanada-kayboldu-ne81.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bb05b1ee",
-    "title": "İSKİ İstanbul'da Perşembe günü (26 Mart 2026) su kesintisi olacak ilçeleri açıkladı",
-    "source": "Haber Global",
-    "time": "25/03/2026 14:09",
-    "link": "https://haberglobal.com/gundem/iski-istanbulda-persembe-gunu-26-mart-2026-su-kesintisi-olacak-ilceleri-acikladi-515122",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İSKİ, 26 Mart 2026 Perşembe günü İstanbul’da planlı su kesintisi yapılacak ilçe ve mahalleleri duyurdu. Bakım ve onarım çalışmaları nedeniyle bazı bölgelere su verilemeyecek. İşte su kesintisi yaşanacak ilçe ve mahalleler...",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/iski-istanbulda-persembe-gunu-26-mart-2026-su-kesintisi-olacak-ilceleri-acikladi-pgzd.jpg",
     "keyword": null
   }
 ]
