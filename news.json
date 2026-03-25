@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_9eeacc10",
+    "title": "Karadeniz’de Sis Alarmı: Yüksek Kesimler Beyaza Büründü",
+    "source": "Taka Gazetesi",
+    "time": "25/03/2026 11:30",
+    "link": "https://www.takagazete.com.tr/foto-galeri/karadenizde-sis-alarmi-yuksek-kesimler-beyaza-burundu",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Rize’nin yüksek kesimlerinde sis etkili oldu. Güneysu ilçesinde yoğun sis görüş mesafesini düşürdü, doğa adeta beyaz örtüyle kaplandı.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-3-252.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_4d96bee3",
     "title": "Son 21 Yılın En Düşük Seviyesinde! TÜİK Verileri Açıkladı",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'nin ilk yerli ve milli doğuştan zırhlı SUV aracı TULGA 4x4'ün teslimatları başladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ba4dfef7",
-    "title": "Bakan Kurum BM Genel Kurulu'nda Türkiye'nin COP31 vizyonunu anlatacak",
-    "source": "TRT Haber",
-    "time": "25/03/2026 10:52",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-bm-genel-kurulunda-turkiyenin-cop31-vizyonunu-anlatacak-939001.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 27 Martta BM Genel Kurulu'na hitap edecek. Türkiyenin COP31 ev sahipliği sürecine dair bilgilendirme yapacak olan Kurum, \"Uygulama COP'u\" vizyonunun detaylarını paylaşacak.",
     "image": null,
     "keyword": null
   }
