@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba8d63eb",
+    "title": "Yalnız Kovboy: Dağhan Baydur",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 05:12",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/evin-ilyasoglu/yalniz-kovboy-daghan-baydur-2489325",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzzeddin Çalışlar’ın Oya Başak biyografisi “Kahkahanın Derinliği” kitabını okurken renkli anlatımına hayran kalmıştım.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar30_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_83f3b113",
     "title": "Gazetecilik ve derin çürüme",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Menemen Çavuşköy'deki kaçak hafriyat sahası tarım arazilerini ve tarım işletmelerini tehdit ediyor. Kaçak hafriyat sahasının yarattığı çevresel zararlara tepki gösteren bölge halkı ve tarım işletmeleri ihbarlarından sonuç alamadıklarından yakınıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340045.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a4db1c3b",
-    "title": "6 Arap ülkesinde fırtına ve sel uyarısı yapıldı",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 02:31",
-    "link": "https://www.aa.com.tr/tr/guncel/6-arap-ulkesinde-firtina-ve-sel-uyarisi-yapildi/3877933",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Umman, Mısır, Suudi Arabistan, Birleşik Arap Emirlikleri (BAE), Irak ile Suriye'de fırtına ve sel uyarısı yapıldı, bazı ülkelerde eğitime ara verildi.",
-    "image": null,
     "keyword": null
   }
 ]
