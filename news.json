@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_101ab1e1",
+    "title": "Terör örgütü DEAŞ'a yönelik 24 ildeki operasyonlarda 88 şüpheli yakalandı",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 13:48",
+    "link": "https://www.aa.com.tr/tr/guncel/teror-orgutu-deasa-yonelik-24-ildeki-operasyonlarda-88-supheli-yakalandi/3878649",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, 24 ilde terör örgütü DEAŞ'a yönelik düzenlenen operasyonlarda 88 şüphelinin yakalandığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_54318dfb",
     "title": "Kremlin Sözcüsü Peskov, Ukrayna müzakerelerinin \"çözüm için önemli\" olduğunu söyledi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Rusya Devlet Nükleer Enerji Kuruluşu Rosatom'un Genel Müdürü Alexey Likhachev, İran'da yer alan Buşehr Nükleer Santralindeki personelin üçüncü etap tahliyesine hazırlandıklarını belirterek, \"Santraldeki durum olumsuz senaryo doğrultusunda ilerliyor.\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_28c3a178",
-    "title": "Bakan Bayraktar'dan 1 Nisan Mesajı: Elektrik ve Gaza Yeni Ayar mı Geliyor?",
-    "source": "Taka Gazetesi",
-    "time": "25/03/2026 13:10",
-    "link": "https://www.takagazete.com.tr/bakan-bayraktardan-1-nisan-mesaji-elektrik-ve-gaza-yeni-ayar-mi-geliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bakan Alparslan Bayraktar açıkladı... 1 Nisan öncesi enerji maliyetleri ve faturalara yansıyacak destek paketi detayları haberimizde.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/d-o-g-a-l-g-a-z-10.jpg",
     "keyword": null
   }
 ]
