@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e29ad55",
+    "title": "Katil İsrail'in Lübnan'ın güneyine düzenlediği saldırıda 3 kişi hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "25/03/2026 03:12",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israilin-lubnanin-guneyine-duzenledigi-saldirida-3-kisi-hayatini-kaybetti-938953.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Katil İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırıda 3 kişi yaşamını yitirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4478df5f",
     "title": "EMEP'li Karaca'dan İsmail Arı için dayanışma çağrısı: Daha fazla bir arada olmaya, dayanışmaya ihtiyacımız var",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'nın kuzeyinde yer alan Cenin kent merkezine baskın düzenlediği belirtildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d5993668",
-    "title": "Ukrayna Devlet Başkanı Zelenskiy: Rusya barışa yönelik ilerlemek istemiyor",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 01:31",
-    "link": "https://www.aa.com.tr/tr/guncel/ukrayna-devlet-baskani-zelenskiy-rusya-barisa-yonelik-ilerlemek-istemiyor/3877945",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşın sona erdirilmesi yönünde devam eden görüşmelerde \"henüz gerçek bir ilerlemenin\" kaydedilmediğini belir​​​​​​​tti.",
     "image": null,
     "keyword": null
   }
