@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1960313d",
+    "title": "TRT dizisi dekoru 'tarihi eser' olarak müzeye kaldırılmış: Ahşaba taş demişler",
+    "source": "Evrensel",
+    "time": "25/03/2026 14:09",
+    "link": "https://www.evrensel.net/haber/5976696/trt-dizisi-dekoru-tarihi-eser-olarak-muzeye-kaldirilmis-ahsaba-tas-demisler",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TRT'de yayınlanan Tozkoparan İskender dizisinde kullanılan dekor menzil taşı, tarihi eser olarak kaydedilip müzeye kaldırıldı. Gerçeği dekoru hazırlayan akademisyen açıkladı!",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340180.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4416a172",
     "title": "CHP'li Fahri Özkan: Kırklareli'nde, Trakya'da nükleer santral istemiyoruz",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Borsa İstanbul'da BIST 100 endeksi, günün ilk yarısında yüzde 0,91 değer kazanarak 13.047,44 puana çıktı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/borsa-gunun-ilk-yarisinda-yukseldi-u8rj.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_aaefcba9",
-    "title": "Kemik Tümörlerinde Uzuv Koruyucu Cerrahiyle Yeni Dönem",
-    "source": "Karadeniz Gazetesi",
-    "time": "25/03/2026 13:30",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/kemik-tumorlerinde-uzuv-koruyucu-cerrahiyle-yeni-donem/606723",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "KTÜ Farabi Hastanesi’nden Doç. Dr. Muhammet Salih Ayas, kemik tümörlerinde erken teşhis ve doğru cerrahi planlamayla uzuv kayıplarının önlenebildiğini açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
