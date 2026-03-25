@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_903320f5",
+    "title": "Türkiye'nin ilk yerli ve milli zırhlı SUV aracı TULGA 4x4 göreve başladı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 10:52",
+    "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-yerli-ve-milli-zirhli-suv-araci-tulga-4x4-goreve-basladi-939000.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin ilk yerli ve milli doğuştan zırhlı SUV aracı TULGA 4x4'ün teslimatları başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ba4dfef7",
     "title": "Bakan Kurum BM Genel Kurulu'nda Türkiye'nin COP31 vizyonunu anlatacak",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fransız bir gazetecinin ölümünü istismar eden ve İsrail’in Gazze haberlerini susturmak için onu öldürdüğünü öne süren sahte bir sosyal medya kampanyası son günlerde ortaya çıktı. Ailesi ve arkadaşlarına göre bu iddiaların hiçbir temeli yok.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b68df0f2",
-    "title": "İsrail'in Lübnan'a düzenlediği saldırılarda 1 kişi daha hayatını kaybetti",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 10:11",
-    "link": "https://www.aa.com.tr/tr/guncel/israilin-lubnana-duzenledigi-saldirilarda-1-kisi-daha-hayatini-kaybetti/3878155",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Lübnan'a düzenlediği hava saldırılarında 1 kişinin daha hayatını kaybettiği belirtildi.",
     "image": null,
     "keyword": null
   }
