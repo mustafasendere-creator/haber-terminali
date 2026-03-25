@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32505b45",
+    "title": "'Uçağınızı bombalayacağız' diyen yolcu hakkında flaş karar!",
+    "source": "Haber Global",
+    "time": "25/03/2026 14:50",
+    "link": "https://haberglobal.com/gundem/ucaginizi-bombalayacagiz-diyen-yolcu-hakkinda-flas-karar-515211",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri-İstanbul seferini yapan yolcu uçağında 'Beni upgrade yapmadınız. Uçağınızı bombalayacağız' deyip yolcular arasında paniğe neden olan ve 'Ulaşım araçlarını kaçırma veya alıkoyma' suçundan hakkında dava açılan Gediz Solgançok’a, yerel mahkeme tarafından verilen 10 ay hapis cezası kararı istinaf tarafından bozuldu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/ucaginizi-bombalayacagiz-diyen-yolcu-hakkinda-flas-karar-ubaq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dfb28352",
     "title": "Slovakya-Türkiye maçında dikkat çeken an! Milli futbolcular, İstiklal Marşı sırasında duruşlarını değiştirdi",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Milli Savunma Bakanı Yaşar Güler ile İngiltere Savunma Bakanı John Healey, Eurofighter Typhoon Projesi kapsamında, uçakların idame ve işletmesine yönelik teknik ve lojistik destek sözleşmesini imzaladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_db36d2ed",
-    "title": "\"İdeal Kilonu Öğren, Sağlıklı Yaşa\" kampanyasında en çok kilo verilen il İstanbul oldu",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 14:28",
-    "link": "https://www.aa.com.tr/tr/guncel/ideal-kilonu-ogren-saglikli-yasa-kampanyasinda-en-cok-kilo-verilen-il-istanbul-oldu/3878698",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sağlık Bakanlığınca yürütülen \"İdeal Kilonu Öğren, Sağlıklı Yaşa\" kampanyası kapsamında en çok kilo verilen iller, İstanbul, Denizli ve Van oldu.",
     "image": null,
     "keyword": null
   }
