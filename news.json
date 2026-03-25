@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_153bf655",
+    "title": "Milyonlarca sürücüyü ilgilendiriyor... HGS kullanıcılarına 'sahte mesaj' uyarısı",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 11:30",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/milyonlarca-surucuyu-ilgilendiriyor-hgs-kullanicilarina-sahte-mesaj-uyarisi-2489429",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uzmanlar, hızlı geçiş sistemi (HGS) kullanıcılarını hedef alan \"sahte borç ve geçiş ücreti\" mesajlarına karşı yurttaşları uyardı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1e2ed8a0-ec29-48b1-aed2-25af13904df1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cd6b6452",
     "title": "Modern iş dünyasında 'açık ofis' tuzağı: Verimliliği değil zorbalığı artırıyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Orta Doğu’daki savaşın yarattığı arz şoku küresel akaryakıt piyasasını sarsmaya devam ediyor. Asya’nın ardından Avrupa da risk altına giriyor. Shell CEO’su Sawan, İran’daki savaşın tetiklediği akaryakıt arz sıkıntısının Asya’dan sonra Avrupa’ya da yayılabileceğini söyledi. Avustralya’da yüzlerce istasyon stoksuz kalırken, havacılık sektöründe zam uyarıları geldi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/dunya-devi-uyardi-akaryakit-sikintisi-avrupaya-sicrayacak-jgfi_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_31e9b8a9",
-    "title": "İngiltere'de enflasyon şubatta yükseldi",
-    "source": "Ekonomim",
-    "time": "25/03/2026 10:53",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/ingilterede-enflasyon-subatta-yukseldi-haberi-883849",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere&#039;de yıllık enflasyon şubatta piyasa beklentilerine paralel şekilde yüzde 3 olarak gerçekleşti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/23/cari-acik-ve-enflasyonda-artis-ueri_cover.jpg",
     "keyword": null
   }
 ]
