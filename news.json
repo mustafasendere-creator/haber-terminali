@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a41a2d87",
+    "title": "AYM'nin siyasi parti mali denetim kararları Resmi Gazete'de",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 03:31",
+    "link": "https://www.aa.com.tr/tr/guncel/aymnin-siyasi-parti-mali-denetim-kararlari-resmi-gazetede/3878018",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anayasa Mahkemesinin (AYM) 10 siyasi partinin mali denetimlerine ilişkin kararları, Resmi Gazete'de yayımlandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4a16e32d",
     "title": "ABD'de 43 yıl sonra bir ilk",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yapay zeka ile görsel üretmek artık oldukça basit. Pek çok amaca hizmet eden farklı şirketlerin modelleri bulunuyor. Luma AI tarafından geliştirilen Uni-1 diğer popüler araçlara alternatif sunuyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9f877fd9-602a-4f4e-9d10-82f72f57f806.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_40233b23",
-    "title": "TFF açıkladı: İşte Süper Lig kulüplerinin Avrupa yolu!",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 01:32",
-    "link": "https://www.cumhuriyet.com.tr/spor/tff-acikladi-iste-super-lig-kuluplerinin-avrupa-yolu-2489275",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Futbol Federasyonu (TFF), Süper Lig kulüplerinin 2026/2027 sezonunda UEFA turnuvalarına katılım şartlarını duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/64af92c8-cf5f-419f-8cca-f464da2cbe0c.jpg",
     "keyword": null
   }
 ]
