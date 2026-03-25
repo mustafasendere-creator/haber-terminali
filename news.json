@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3fed877c",
+    "title": "Benzin ve motorinde fiyat geriledi",
+    "source": "Evrensel",
+    "time": "25/03/2026 11:29",
+    "link": "https://www.evrensel.net/haber/5976658/benzin-ve-motorinde-fiyat-geriledi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Petrol fiyatlarının 100 doların altına gerilemesiyle benzine 58 kuruş, motorine 3,7 TL indirim geldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339840.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_21bc5ca8",
     "title": "Yalova'da servis midibüsü devrildi: 1 kadın işçi hayatını kaybetti, şoför ve 19 işçi yaralandı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "58. SİYAD Ödülleri’nde yılın en iyileri belli oldu. “Gündüz Apollon Gece Athena” dört ödülle gecenin en çok kazanan yapımı olurken, “Yeni Şafak Solarken” ve “O da Bir Şey mi” üçer ödül aldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340155.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_82089d38",
-    "title": "Altın güne yükselişle başladı: Gramı 6 bin 491 liradan işlem görüyor",
-    "source": "Evrensel",
-    "time": "25/03/2026 10:52",
-    "link": "https://www.evrensel.net/haber/5976650/altin-gune-yukselisle-basladi-grami-6-bin-491-liradan-islem-goruyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Altının gramı, güne yükselişle başladı. Gram altın 6.491 liradan işlem görürken, çeyrek altın 11.610 liradan, Cumhuriyet altını 45.820 liradan satılıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/338561.jpg",
     "keyword": null
   }
 ]
