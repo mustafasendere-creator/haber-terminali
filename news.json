@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_21bc5ca8",
+    "title": "Yalova'da servis midibüsü devrildi: 1 kadın işçi hayatını kaybetti, şoför ve 19 işçi yaralandı",
+    "source": "Evrensel",
+    "time": "25/03/2026 11:29",
+    "link": "https://www.evrensel.net/haber/5976660/yalovada-servis-midibusu-devrildi-1-kadin-isci-hayatini-kaybetti-sofor-ve-19-isci-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yalova’da tekstil firmasında çalışan işçileri taşıyan midibüsün devrilmesi sonucu Gülcan U. (57) isimli kadın işçi hayatını kaybetti, sürücü ve 19 işçi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340161.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_52a7d6bb",
     "title": "Kayseri pastırması AB'den  coğrafi işaret  tescili aldı",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Altının gramı, güne yükselişle başladı. Gram altın 6.491 liradan işlem görürken, çeyrek altın 11.610 liradan, Cumhuriyet altını 45.820 liradan satılıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/338561.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8fc46dac",
-    "title": "Avrupa’nın nükleer liderleri: En fazla üretimi hangi ülkeler yapıyor?",
-    "source": "Euronews",
-    "time": "25/03/2026 10:52",
-    "link": "http://tr.euronews.com/business/2026/03/25/avrupanin-nukleer-liderleri-en-fazla-uretimi-hangi-ulkeler-yapiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nükleer enerji, AB’nin enerji karışımının yüzde 12’sini oluşturuyor. Ancak son dönemdeki artışlara rağmen, toplam nükleer enerji üretimi genel olarak düşüş eğiliminde.",
-    "image": null,
     "keyword": null
   }
 ]
