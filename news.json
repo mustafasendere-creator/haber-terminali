@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5804a044",
+    "title": "İzmir'de ekmeğe zam geldi",
+    "source": "Ekonomim",
+    "time": "25/03/2026 12:51",
+    "link": "https://www.ekonomim.com/ekonomi/izmirde-ekmege-zam-geldi-haberi-883892",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir&#039;de 200 gram ekmeğin satış fiyatı, 1 Nisan 2026 tarihinden itibaren geçerli olmak üzere 17,50 TL olarak belirlendi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/10/09/izmirde-halk-ekmeke-zam-210-gram-ekmek-10-tl-oldu-pjbn_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6b7f8831",
     "title": "Avrupa borsaları pozitif seyrediyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "KTÜ Farabi Hastanesi’nden Doç. Dr. Muhammet Salih Ayas, erken teşhis ve modern cerrahiyle uzuv kaybının büyük ölçüde önlenebildiğini açıkladı",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/4cedb0dd-a1c2-49a2-8e24-fa40717d75cc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0b1d7a15",
-    "title": "ABD jürisi, Meta'nın çocukların ruh sağlığına bilerek zarar verdiğine hükmetti",
-    "source": "Euronews",
-    "time": "25/03/2026 12:29",
-    "link": "http://tr.euronews.com/next/2026/03/25/abd-jurisi-metanin-cocuklarin-ruh-sagligina-bilerek-zarar-verdigine-hukmetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'deki bir jüriye göre Meta, çocukların kırılganlığını ve deneyimsizliğini sömüren, 'vicdansız' sayılabilecek ticari uygulamalara başvurdu.",
-    "image": null,
     "keyword": null
   }
 ]
