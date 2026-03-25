@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e6e6f3b5",
+    "title": "Vekillerin tatili bitmedi",
+    "source": "OdaTV",
+    "time": "25/03/2026 03:32",
+    "link": "https://www.odatv.com/guncel/vekillerin-tatili-bitmedi-120140650",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ramazan Bayramı nedeniyle yaklaşık 10 gündür çalışmalarına ara veren TBMM, dün (Salı) de toplantı yeter sayısı bulunamadığından erken saatte kapandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/vekillerin-tatili-bitmedi-wula.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f39394a4",
     "title": "İran Atom Enerjisi Kurumu: Buşehr Nükleer Enerji Santrali sahasına füze isabet etti",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile  telefonda görüştü. Görüşmede, bölgedeki son gelişmeler ele alındı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ee64d58a",
-    "title": "ABD’de maaş alamayan güvenlikçiler iş bıraktı: ICE memurları göreve çağrıldı",
-    "source": "Evrensel",
-    "time": "25/03/2026 01:52",
-    "link": "https://www.evrensel.net/haber/5976542/abdde-maas-alamayan-guvenlikciler-is-birakti-ice-memurlari-goreve-cagrildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD’de maaşlarını alamayan havalimanı güvenlik görevlileri iş bıraktı. Oluşan boşluğu doldurmak için ICE memurları 14 havalimanına konuşlandırıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340054.jpg",
     "keyword": null
   }
 ]
