@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d0fa6e45",
+    "title": "İran Deniz Kuvvetleri Komutanı ABD'nin Lincoln gemisini füze menziline girdiğinde hedef alacaklarını söyledi",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 13:48",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-deniz-kuvvetleri-komutani-abdnin-lincoln-gemisini-fuze-menziline-girdiginde-hedef-alacaklarini-soyledi/3878630",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Deniz Kuvvetleri Komutanı Tuğamiral Şehram İrani, ABD'nin bölgede konuşlandırdığı USS Abraham Lincoln uçak gemisinin sürekli gözetim altında olduğunu ve İran'ın füze menziline girmesi halinde hedef alacaklarını ifade etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_101ab1e1",
     "title": "Terör örgütü DEAŞ'a yönelik 24 ildeki operasyonlarda 88 şüpheli yakalandı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Sakarya Üniversitesi’nden iki akademisyen, Trabzon İl Tarım ve Orman Müdürü İsa Kaplan’ı ziyaret etti. Görüşmede kahverengi kokarca zararlısına karşı yürütülen çalışmalar masaya yatırılırken, bilimsel ve pratik çözümler için iş birliği fırsatları ele alındı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/basliksiz-4-kopya.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_505735ca",
-    "title": "Rosatom: İran'ın Buşehr Nükleer Santralindeki durum olumsuz ilerliyor",
-    "source": "TRT Haber",
-    "time": "25/03/2026 13:10",
-    "link": "https://www.trthaber.com/haber/dunya/rosatom-iranin-busehr-nukleer-santralindeki-durum-olumsuz-ilerliyor-939033.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Devlet Nükleer Enerji Kuruluşu Rosatom'un Genel Müdürü Alexey Likhachev, İran'da yer alan Buşehr Nükleer Santralindeki personelin üçüncü etap tahliyesine hazırlandıklarını belirterek, \"Santraldeki durum olumsuz senaryo doğrultusunda ilerliyor.\" dedi.",
-    "image": null,
-    "keyword": null
   }
 ]
