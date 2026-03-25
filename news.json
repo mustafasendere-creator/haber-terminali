@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aee39264",
+    "title": "'Kızım öldürülmedi': Fransız gazetecinin ailesi kızlarının ölümünde İsrail’in rolü olduğunu reddetti",
+    "source": "Euronews",
+    "time": "25/03/2026 10:12",
+    "link": "http://tr.euronews.com/2026/03/25/kizim-oldurulmedi-fransiz-gazetecinin-ailesi-kizlarinin-olumunde-israilin-rolu-oldugunu-re",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransız bir gazetecinin ölümünü istismar eden ve İsrail’in Gazze haberlerini susturmak için onu öldürdüğünü öne süren sahte bir sosyal medya kampanyası son günlerde ortaya çıktı. Ailesi ve arkadaşlarına göre bu iddiaların hiçbir temeli yok.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b68df0f2",
     "title": "İsrail'in Lübnan'a düzenlediği saldırılarda 1 kişi daha hayatını kaybetti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bir kavanoz turşu biber açılıyor, içindekiler kullanılıyor ve geriye kalan o keskin, ekşi su çoğu zaman lavaboya dökülüyor. Oysa şeflere göre bu sıvı, tek başına bir sos kadar güçlü; asit, tuz ve acılığı aynı anda sunan hazır bir lezzet bombası.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/tursu-suyu-ile-ne-yapilir-i-tursu-suyu-tariflerde-kullanilir-mi-x3j2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2a099aa5",
-    "title": "Yurt içinde veriler yoğun: Küresel piyasalarda Orta Doğu temkinli iyimserliği izleniyor",
-    "source": "Ekonomim",
-    "time": "25/03/2026 09:13",
-    "link": "https://www.ekonomim.com/ekonomi/yurt-icinde-veriler-yogun-kuresel-piyasalarda-orta-dogu-temkinli-iyimserligi-izleniyor-haberi-883797",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küresel piyasalarda, Orta Doğu&#039;daki gerilimlerin kısa vadede sona erebileceğine yönelik güçlü mesajlara rağmen jeopolitik risklerin tamamen ortadan kalkmaması yatırımcıları temkinli davranmaya yöneltiyor.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/06/kuresel-piyasalar-abdde-aciklanacak-tarim-disi-istihdam-verisine-odaklandi-mu3q_cover.jpg",
     "keyword": null
   }
 ]
