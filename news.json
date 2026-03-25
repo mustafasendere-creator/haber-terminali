@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e896e518",
+    "title": "Hindistan'da \"petrol sıkıntısı olabileceği\" iddiası, akaryakıt istasyonlarında uzun kuyruklara yol açtı",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 13:08",
+    "link": "https://www.aa.com.tr/tr/guncel/hindistanda-petrol-sikintisi-olabilecegi-iddiasi-akaryakit-istasyonlarinda-uzun-kuyruklara-yol-acti/3878580",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hindistan'da petrol şirketlerinin ödeme sistemlerindeki değişiklik ve Orta Doğu'da tırmanan gerilim sonucu akaryakıt sıkıntısı yaşanabileceğine yönelik çıkan iddialar üzerine ülke genelindeki istasyonlarda uzun kuyruklar oluştuğu belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7f9036c2",
     "title": "Icardi-Torreira: Masadaki kulüp",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Türkiye 5G teknolojisine geçiyor! Cumhurbaşkanı Erdoğan 31 Mart'ta resmen ilan edecek.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/diyanet-2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b29c36dd",
-    "title": "Dilovası Katliamı davası: Basiretli katillerin sahipsiz maktulleri",
-    "source": "Evrensel",
-    "time": "25/03/2026 12:29",
-    "link": "https://www.evrensel.net/haber/5976677/dilovasi-katliami-davasi-basiretli-katillerin-sahipsiz-maktulleri",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"7 işçiyi öldüren, kaçarken üzerinde pasaportuyla yakalanan fabrika sahibi, aslında kaçmadığını; ölen işçilerin aileleri yüzünden can güvenliği olmadığı için saklandığını iddia etti. Neredeyse öldükleri için işçiler suçlanacaktı.\"",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340169.jpg",
     "keyword": null
   }
 ]
