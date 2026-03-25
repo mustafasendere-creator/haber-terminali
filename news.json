@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f1d1eba6",
+    "title": "Çorum'da polis aracı ile otomobil çarpıştı: Yaralılar var!",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 09:12",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/corum-da-polis-araci-ile-otomobil-carpisti-yaralilar-var-2489368",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çorum'da polis aracı ile otomobilin çarpışması sonucu biri polis memuru 3 kişi yaralandı. Hastaneye kaldırılan yaralıların sağlık durumlarının iyi olduğu öğrenildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a3de158a-f9fb-49d6-8e28-db30554f4ad5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2a60137f",
     "title": "Ankara'da FETÖ/PDY soruşturması: 9 şüpheli hakkında gözaltı kararı verildi!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "İstanbul’daki Trabzon Dernekleri Federasyonu’nun organize ettiği Trabzon Günleri, 26–29 Mart tarihleri arasında Atatürk Havalimanı Millet Bahçesi’nde kapılarını açacak.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/mkdakmsdkmasd-1.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_6e0bb188",
-    "title": "Trabzonspor'un hücum hareketliliği Penaltıya dönüşüyor!",
-    "source": "Haber61",
-    "time": "25/03/2026 08:19",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-hucum-hareketliligi-penaltiya-donusuyor-h627604.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un penaltıları hücum gücünden kaynaklanıyor, naş aktör ise Felipe Augusto oluyor.",
-    "image": "https://resim.haber61.net/news/609173.jpg",
     "keyword": "trabzon"
   }
 ]
