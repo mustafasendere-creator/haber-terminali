@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3296779d",
+    "title": "İtalya'da referandum yenilgisinin ardından Meloni hükümetinde istifalar gelmeye başladı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 07:52",
+    "link": "https://www.trthaber.com/haber/dunya/italyada-referandum-yenilgisinin-ardindan-meloni-hukumetinde-istifalar-gelmeye-basladi-938965.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'da Giorgia Meloni liderliğindeki sağ koalisyon hükümetinde referandum yenilgisinin ardından isimleri son dönemde farklı suçlamalarla gündeme gelen, Adalet Bakanlığından iki üst düzey isim istifa ederken, Başbakan Meloni ayrıca Turizm Bakanı Daniela Santanche'nin de istifa etmesini istedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1c1a928e",
     "title": "Uyuşturucu soruşturmasında 14 ünlü isim gözaltında",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avrupa İnsan Hakları Mahkemesi (AİHM), bir kez daha Osman Kavala için toplanıyor. AİHM'nin temyiz organı olarak görev yapan 17 yargıçlı Büyük Daire'de, Kavala'nın ikinci başvurusunu ele almak üzere duruşma yapılıyor. Kararın önümüzdeki aylarda açıklanması bekleniyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bc9c4789",
-    "title": "Grönland'da 86 yıl sonra bir ilk... 'Kan torbalı' Trump hazırlığı: 'Pistleri havaya uçurma' planı",
-    "source": "OdaTV",
-    "time": "25/03/2026 06:13",
-    "link": "https://www.odatv.com/dunya/gronlandda-86-yil-sonra-bir-ilk-kan-torbali-trump-hazirligi-pistleri-havaya-ucurma-plani-120140447",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Danimarka&#039;nın, Grönland&#039;da olası ABD işgaline dair hazırlıkları ortaya çıktı. Çatışma ihtimaline karşı askeri birliklerle kan torbalarının gönderildiği ifade edilirken, &quot;Trump&#039;ın Grönland&#039;ı işgal etmesi durumunda Danimarka, Grönland pistlerini havaya uçurmaya hazırdı&quot; denildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/23/gronlandda-86-yil-sonra-bir-ilk-kan-torbali-trump-hazirligi-pistleri-havaya-ucurma-plani-stil.jpg",
     "keyword": null
   }
 ]
