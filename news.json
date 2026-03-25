@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e2dbb73e",
+    "title": "Bugün hava nasıl olacak?",
+    "source": "Habertürk",
+    "time": "25/03/2026 05:52",
+    "link": "https://www.haberturk.com/bugun-hava-nasil-olacak-25-mart-carsamba-istanbul-ankara-izmir-hava-durumu-tahminleri-3872068",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye geneli hava durumu tahminleri her gün olduğu gibi bugün de Meteoroloji Genel Müdürlüğü (MGM) tarafından yayımlandı. Mart ayının son haftasına girilirken yağışlı hava yurt genelinde etkisini sürdürmeye devam ediyor. 25 Mart Çarşamba günü için plan yapanlar, \"Bugün hava nasıl olacak?\" sorusunun yanıtını aramaya başladı. İşte 25 Mart İstanbul, Ankara, İzmir hava durumu tahminleri...",
+    "image": "https://im.haberturk.com/l/2026/03/24/ver1774376959/3872068/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_1989d8a8",
     "title": "25 Mart Resmi Gazete kararları yayımlandı!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Taze fesleğen, zeytinyağı ve parmesan peynirinin uyumuyla hazırlanan pesto sosu, makarnalardan sandviçlere kadar birçok yemekte kullanılan pratik ve lezzetli bir sostur.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2ad5519a-2652-4a8a-a19f-eb35a813fcb8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_97be8040",
-    "title": "İran, Suudi Arabistan, BAE, Kuveyt ve Bahreyn'deki bazı noktaları hedef aldı",
-    "source": "TRT Haber",
-    "time": "25/03/2026 02:52",
-    "link": "https://www.trthaber.com/haber/dunya/iran-suudi-arabistan-bae-kuveyt-ve-bahreyndeki-bazi-noktalari-hedef-aldi-938951.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suudi Arabistan, Birleşik Arap Emirlikleri BAE, Kuveyt ve Bahreyn, İran'dan fırlatılan füze ve insansız hava araçlarını İHA engellediklerini açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
