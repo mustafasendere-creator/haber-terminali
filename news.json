@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e073187",
+    "title": "Ne yaptığını bilmemek",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 06:53",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/ahmet-suha-umar/ne-yaptigini-bilmemek-2489320",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mustafa Kemal Atatürk ve arkadaşlarının kurduğu Türkiye Cumhuriyeti, emperyalizme karşı zafer kazanan tek devlettir.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar479_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_533bb97a",
     "title": "Hakan Sabancı, Hande Erçel, Fikret Orman, Güzide Duran, Didem Soydan ve Burak Elmas dahil 16 gözaltı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Muharrem Bayraktar (@muharrembayrak4) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon intihar"
-  },
-  {
-    "id": "GND_e6e6f3b5",
-    "title": "Vekillerin tatili bitmedi",
-    "source": "OdaTV",
-    "time": "25/03/2026 03:32",
-    "link": "https://www.odatv.com/guncel/vekillerin-tatili-bitmedi-120140650",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ramazan Bayramı nedeniyle yaklaşık 10 gündür çalışmalarına ara veren TBMM, dün (Salı) de toplantı yeter sayısı bulunamadığından erken saatte kapandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/vekillerin-tatili-bitmedi-wula.jpg",
-    "keyword": null
   }
 ]
