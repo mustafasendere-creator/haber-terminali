@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_46371f99",
+    "title": "Mardin'de karton yüklü tır devrildi: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "25/03/2026 15:08",
+    "link": "https://www.gazeteduvar.com.tr/mardinde-karton-yuklu-tir-devrildi-1-yarali-haber-1765756",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mardin&#039;in Nusaybin ilçesinde karton yüklü tırın devrilmesi sonucu meydana gelen trafik kazasında 1 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/25/f5haber-s8dk_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_04947d40",
     "title": "Trabzon'dan Ankara çıkarması!",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Almanya Cumhurbaşkanı Frank-Walter Steinmeier'in İran savaşı nedeniyle ABD'yi eleştirdiği açıklamalarına iktidardaki Birlik Partileri mesafe koydu. Tahran ve AfD'den ise destek geldi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_174d1c6e",
-    "title": "Minik kalplerden  anlamlı etkinlik",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "25/03/2026 14:29",
-    "link": "https://www.karadenizdesonnokta.com.tr/minik-kalplerden-anlamli-etkinlik",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/03/minik-kalplerden-2.jpg",
     "keyword": null
   }
 ]
