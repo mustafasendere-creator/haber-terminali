@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_706a2f92",
+    "title": "Antalya’da belediye araçları çarpıştı: 7 işçi yaralandı",
+    "source": "Evrensel",
+    "time": "25/03/2026 13:09",
+    "link": "https://www.evrensel.net/haber/5976685/antalyada-belediye-araclari-carpisti-7-isci-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Manavgat ilçesinde belediyeye ait çöp kamyonu ile kamyonetin çarpıştığı kazada 7 işçi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340175.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_dac057e8",
     "title": "Sosyal medyada gündem olan vatandaş yangında hayatını kaybetti!",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Merhum Yazıcıoğlu; hem sarsılmaz iradesi, tavizsiz duruşu, vatanına ve milletine olan derin bağlılığıyla; hem de gönüllere hitap eden siyasi üslubuyla Türk Milletinin hafızasında müstesna bir yer edinmiştir.\" dedi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_d0e133c8",
-    "title": "Trabzon Tramvay Projesi ihaleye çıkıyor: 8 firma davet edilecek",
-    "source": "Karadeniz Gazetesi",
-    "time": "25/03/2026 12:31",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzon-tramvay-projesi-ihaleye-cikiyor-8-firma-davet-edilecek/606706",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Tramvay Hattı 1. Etap projesi için ihale süreci başladı. Ön yeterlik aşamasını geçen 8 firma teklif vermeye davet edilecek.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
