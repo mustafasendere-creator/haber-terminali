@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_29e2fd31",
+    "title": "Dışişleri Bakanı Fidan, Suriyeli, Katarlı ve Özbek mevkidaşlarıyla telefonda görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 15:48",
+    "link": "https://www.aa.com.tr/tr/guncel/disisleri-bakani-fidan-suriyeli-katarli-ve-ozbek-mevkidaslariyla-telefonda-gorustu/3878812",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Suriye Dışişleri Bakanı Esad Hasan Şeybani, Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani ve Özbekistan Dışişleri Bakanı Bahtiyor Saidov ile telefon görüşmeleri gerçekleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_425410d4",
     "title": "İsrail hükümeti, orduya 400 bin yedek askeri silah altına alma izni verdi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avrupa Birliği (AB) Komisyonu, savunma teknolojilerinin daha hızlı geliştirilmesi ve kullanılabilir hale getirilmesi amacıyla 115 milyon avroluk yeni bir program önerdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ba880c4d",
-    "title": "İzmir'de ekmeğe yüzde 16,5'lik zam",
-    "source": "OdaTV",
-    "time": "25/03/2026 14:50",
-    "link": "https://www.odatv.com/ekonomi/zam-haberleri/izmirde-ekmege-zam-yeni-fiyat-belli-oldu-yuzde-165-artis-120140727",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir&#039;de 200 gram ekmeğin satış fiyatı, 1 Nisan 2026 tarihinden itibaren geçerli olmak üzere 17,50 TL olarak belirlendi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/izmirde-ekmege-zam-yeni-fiyat-belli-oldu-yuzde-165-artis-xnrh.jpg",
     "keyword": null
   }
 ]
