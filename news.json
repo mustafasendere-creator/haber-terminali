@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4dd7aed",
+    "title": "İsrail, İran'ın denizden atılan seyir füzesi üretim tesislerini vurduğunu iddia etti",
+    "source": "TRT Haber",
+    "time": "25/03/2026 10:52",
+    "link": "https://www.trthaber.com/haber/dunya/israil-iranin-denizden-atilan-seyir-fuzesi-uretim-tesislerini-vurdugunu-iddia-etti-938999.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, İran'ın başkenti Tahran'da denizden atılan seyir füzelerinin üretildiği iki ana merkezi hedef aldığını öne sürdü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_903320f5",
     "title": "Türkiye'nin ilk yerli ve milli zırhlı SUV aracı TULGA 4x4 göreve başladı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İZKİTAP – 7. İzmir Kitap Fuarı, 17–26 Nisan tarihleri arasında Kültürpark’ta başlıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334664.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_aee39264",
-    "title": "'Kızım öldürülmedi': Fransız gazetecinin ailesi kızlarının ölümünde İsrail’in rolü olduğunu reddetti",
-    "source": "Euronews",
-    "time": "25/03/2026 10:12",
-    "link": "http://tr.euronews.com/2026/03/25/kizim-oldurulmedi-fransiz-gazetecinin-ailesi-kizlarinin-olumunde-israilin-rolu-oldugunu-re",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransız bir gazetecinin ölümünü istismar eden ve İsrail’in Gazze haberlerini susturmak için onu öldürdüğünü öne süren sahte bir sosyal medya kampanyası son günlerde ortaya çıktı. Ailesi ve arkadaşlarına göre bu iddiaların hiçbir temeli yok.",
-    "image": null,
     "keyword": null
   }
 ]
