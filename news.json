@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9b4e11d0",
+    "title": "Evden ayrıldıktan sonra bir daha haber alınamadı: 13 yaşındaki İklim her yerde aranıyor!",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 15:49",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/evden-ayrildiktan-sonra-bir-daha-haber-alinamadi-13-yasindaki-iklim-her-yerde-araniyor-2489513",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da dün evden çıktıktan sonra bir daha haber alınamayan 13 yaşındaki İklim Nur İnce için arama çalışması başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d830448e-5990-48b0-a63e-573834d7d7c9.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ee4a1cad",
     "title": "Hipertansiyona karşı doğal kalkan: Bilim dünyası her gün bir bardak içilmesini öneriyor",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "TBMM Başkanı Numan Kurtulmuş, çok merkezli bir dünya düzeninin şekillendiği bir sürece şahitlik edildiğini belirterek, \"Değerlerimizin ve ilkelerimizin kaba kuvvet ve keyfilik karşısında korunması, stratejik bakış açısıyla şekillenen, ülkelerimiz arasında daha etkin ve sonuç odaklı bir işbirliğini zaruri kılmaktadır\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bc88f55d",
-    "title": "Emtiada jeopolitik fay hattı: Ürün bazlı ayrışmalar kapıda",
-    "source": "TRT Haber",
-    "time": "25/03/2026 15:09",
-    "link": "https://www.trthaber.com/haber/ekonomi/emtiada-jeopolitik-fay-hatti-urun-bazli-ayrismalar-kapida-939052.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail'in İran'a saldırılarının başlamasından kaynaklı jeopolitik gerilimler emtia piyasasında ürün bazlı ayrışmalara neden oldu.",
     "image": null,
     "keyword": null
   }
