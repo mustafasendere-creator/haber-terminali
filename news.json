@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_908d92b7",
+    "title": "Kepez'e Otizm Parkı yapılıyor",
+    "source": "Habertürk",
+    "time": "25/03/2026 12:51",
+    "link": "https://www.haberturk.com/kepez-e-otizm-parki-yapiliyor-3871984",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Kepez ilçesinde otizmli bireylerin fiziksel, duyusal ve sosyal gelişimlerini destekleyecek park yapılıyor",
+    "image": "https://im.haberturk.com/l/2026/03/24/ver1774355212/3871984/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_144ee6a4",
     "title": "Okul önünde saç başa kavgaya tutuştular! Çocukları bile arabada unuttular",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "Mart ayı başında marteniçka bilekliğini takanlar \"Marteniçka ne zaman çıkarılır?\" sorusunun yanıtını merak ediyor. Peki, Marteniçka ne zaman çıkarılır? Leylek görmeden marteniçka bilekliği çıkarılır mı?",
     "image": "https://media.cumhuriyet.com.tr/Archive/ad05c9cd-498f-4a6a-bd49-1b7de5a2642f.jpg",
     "keyword": "taka"
-  },
-  {
-    "id": "GND_b3068217",
-    "title": "Barış Alper Yılmaz iş dünyasına atıldı",
-    "source": "10Haber",
-    "time": "25/03/2026 12:29",
-    "link": "https://10haber.net/spor/baris-alper-yilmaz-is-dunyasina-atildi-689682/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray&#8217;da bu sezon Abdülkerim Bardakcı&#8217;nın ardından en çok süre alan futbolcu olan Barış Alper Yılmaz, aynı zamanda kariyerinin en skorer sezonunu da yaşıyor. Milli futbolcu Süper Lig ve Avrupa&#8217;daki performansıyla taliplerini artırmaya devam ediyor. Ancak son dönemde saha dışındaki yatırımlarıyla da dikkat çekiyor. Takvim&#8217;in haberine göre yakın zamanda 175 milyon TL değerinde bir ev satın [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c39f59ed0de4.84016405.jpg",
-    "keyword": null
   }
 ]
