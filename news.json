@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_47e864f7",
+    "title": "Yalova'da işçi servisi devrildi: 1 ölü, 20 yaralı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 10:32",
+    "link": "https://www.trthaber.com/haber/turkiye/yalovada-isci-servisi-devrildi-1-olu-20-yarali-938995.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yalova'da işçileri taşıyan servis midibüsünün devrilmesi sonucu 1 kişi hayatını kaybetti, 20 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4eea9ab1",
     "title": "Deniz Zeyrek: 'Zirveye oynuyor' algısı Akın Gürlek'i çok zor durumda bırakabilir",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Valisi Tahir Şahin, Trabzon Gazeteciler Cemiyeti'ni (TGC) ziyaret etti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/trabzon-valisi-sahinden-trabzon-gazeteciler-cemiyetine-ziyaret.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_f91aa2bd",
-    "title": "Trabzon'da '13. Uluslararası Erol Günaydın Tiyatro Günleri' bugün başlayacak",
-    "source": "Taka Gazetesi",
-    "time": "25/03/2026 09:39",
-    "link": "https://www.takagazete.com.tr/trabzonda-13-uluslararasi-erol-gunaydin-tiyatro-gunleri-bugun-baslayacak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'un Akçaabat ilçesinde 25-31 Mart'ta '13. Uluslararası Erol Günaydın Tiyatro Günleri' düzenlenecek.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/01/perdetiyatro-1476004.jpg",
     "keyword": "trabzon"
   }
 ]
