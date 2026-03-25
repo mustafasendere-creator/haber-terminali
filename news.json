@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f851f6d",
+    "title": "İsrail, Lübnan'ın güneyinde kara saldırılarını genişletiyor",
+    "source": "TRT Haber",
+    "time": "25/03/2026 15:49",
+    "link": "https://www.trthaber.com/haber/dunya/israil-lubnanin-guneyinde-kara-saldirilarini-genisletiyor-939055.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan'a yoğun saldırılar düzenleyen İsrail ordusunun, ülkenin güneyinde kara saldırılarını genişleteceği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e35f708e",
     "title": "Bakan Gürlek'in kayıtlarını sorgulayan ilçe tapu müdürü tutuklandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin bölgedeki hareketlerini ve asker konuşlandırmalarını yakından takip ettiklerini belirterek, \"Topraklarımızı savunma kararlılığımızı sınamayın\" ifadelerini kullandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340078.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a73e2589",
-    "title": "Almanya’da 55 yıllık tütün fabrikası kapanıyor",
-    "source": "Evrensel",
-    "time": "25/03/2026 15:09",
-    "link": "https://www.evrensel.net/haber/5976712/almanyada-55-yillik-tutun-fabrikasi-kapaniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tütün üreticisi Reemtsma, artan maliyetler ve düşük kapasite kullanımını gerekçe göstererek Langenhagen’deki üretimini sonlandırma kararı aldı. 1971’den bu yana faaliyet gösteren fabrikanın 2027’ye kadar tamamen kapanması planlanıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340200.jpg",
     "keyword": null
   }
 ]
