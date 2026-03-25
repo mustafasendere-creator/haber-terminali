@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9a53bfe5",
+    "title": "İzmir'de sanayi sitesinde yangın: 7 iş yeri zarar gördü",
+    "source": "Evrensel",
+    "time": "25/03/2026 12:09",
+    "link": "https://www.evrensel.net/haber/5976670/izmirde-sanayi-sitesinde-yangin-7-is-yeri-zarar-gordu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Buca’daki sanayi sitesinde çıkan yangın, 6 saatte kontrol altına alındı. Orman ürünleri deposundan başlayan yangın, çevredeki 7 iş yerine zarar verdi; çıkış nedeni araştırılıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340166.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b01d926f",
     "title": "Irak'ta askeri dispansere hava saldırısı: 7 asker öldü, 13 yaralı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Amerikan Basketbol Ligi'nde (NBA) Denver Nuggets, Nikola Jokic'in \"triple-double\" yaptığı maçta Phoenix Suns'ı 125-123 yendi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2923b1c8",
-    "title": "İran'dan çarpıcı açıklama: ABD kendi kendisiyle müzakere yapıyor",
-    "source": "Haber Global",
-    "time": "25/03/2026 11:30",
-    "link": "https://haberglobal.com/dunya/irandan-carpici-aciklama-abd-kendi-kendisiyle-muzakere-yapiyor-515156",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’ın en üst düzey askeri karar alma organlarından Hatemu’l Enbiya Merkez Karargâhı, yayımladığı son açıklamada ABD ve müttefiklerine yönelik sert ifadeler kullandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/irandan-carpici-aciklama-abd-kendi-kendisiyle-muzakere-yapiyor-xqpu.jpg",
     "keyword": null
   }
 ]
