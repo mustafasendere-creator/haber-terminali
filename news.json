@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d2f2c0ff",
+    "title": "Muhittin Böcek'in şoförleri gözaltında",
+    "source": "TRT Haber",
+    "time": "25/03/2026 13:11",
+    "link": "https://www.trthaber.com/haber/gundem/muhittin-bocekin-soforleri-gozaltinda-939032.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Cumhuriyet Başsavcılığının talimatıyla Antalya Büyükşehir Belediye Başkanı Muhittin Böcek'in şoförleri Aydın Günaydın ve Özer Aydın gözaltına alındı. Antalya KOM tarafından alınan iki ismin İstanbula getirileceği öğrenildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_1ffe603f",
     "title": "Trabzon'da üreticilerin korkulu rüyası! Akademik çözüm geliyor...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Küresel ticaretin can damarlarında yaşanan lojistik tıkanıklık, üretim üssü Çin’in maliyet yönetimini nisan ayı itibarıyla yeni bir testle baş başa bıraktı. Mart ayı boyunca tırmanan navlun ve sigorta giderlerini artık süspanse edemeyen sanayi devleri, nisan siparişlerini ‘savaş zammı’ yansımalarıyla güncelleyerek enflasyon denklemini baştan kuruyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/kuresel-ticarette-mart-bilancosu-cinden-nisan-teslimatlarina-lojistik-ayari-hlr4_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_94c3500a",
-    "title": "Bakan Gürlek’in tapu kayıtlarıyla iİgili bir şüpheli daha gözaltına alındı",
-    "source": "Ekonomim",
-    "time": "25/03/2026 12:32",
-    "link": "https://www.ekonomim.com/gundem/bakan-gurlekin-tapu-kayitlariyla-iigili-bir-supheli-daha-gozaltina-alindi-haberi-883886",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya&#039;nın Kaş ilçesinde Adalet Bakanı Akın Gürlek&#039;in tapu kayıtlarının usulsüz şekilde sorgulanmasına ilişkin bir şüpheli daha gözaltına alındı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/18/akin-gurlek-mal-varligi-iddialarina-yanit-verdi-belgeler-sahte-dort-tasinmazim-var-rnqy_cover.png",
     "keyword": null
   }
 ]
