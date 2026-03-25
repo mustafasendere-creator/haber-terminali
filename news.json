@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83f3b113",
+    "title": "Gazetecilik ve derin çürüme",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 05:12",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/zulal-kalkandelen/gazetecilik-ve-derin-curume-2489334",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gerçekleri yazdıkları için tutuklanan gazeteciler arasına son olarak Alican Uludağ ve İsmail Arı’nın da katılması, Türkiye’de düşünceyi ifade etme özgürlüğü ile halkın haber alma hakkının rafa kaldırıldığının yeni bir kanıtı oldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar381_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_8f480625",
     "title": "Erol Köse kimlerle çalıştı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Umman, Mısır, Suudi Arabistan, Birleşik Arap Emirlikleri (BAE), Irak ile Suriye'de fırtına ve sel uyarısı yapıldı, bazı ülkelerde eğitime ara verildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5a99961f",
-    "title": "Kuveyt, petrol üretiminde yeni bir kısıtlamaya gidildiğini duyurdu",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 02:31",
-    "link": "https://www.aa.com.tr/tr/guncel/kuveyt-petrol-uretiminde-yeni-bir-kisitlamaya-gidildigini-duyurdu/3877934",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuveyt Petrol Kurumu, Hürmüz Boğazı'ndaki geçişlerin hedef alınması nedeniyle ham petrol üretiminde yeniden kısıtlamaya gidildiğini duyurarak, tam kapasite üretime dönülmesinin savaşın sona ermesi halinde 4 ay süreceğini açıkladı.",
     "image": null,
     "keyword": null
   }
