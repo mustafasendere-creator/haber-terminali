@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d5682c60",
+    "title": "Adalet ve hakem",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 05:52",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/hayri-guner/adalet-ve-hakem-2489322",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2025-2026 Süper Lig Mehmet Ali Yılmaz Sezonu’nda artık son düzlüğe giriliyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar35_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_432819e0",
     "title": "Ünlülere yönelik uyuşturucu soruşturmasında Fikret Orman ve Burak Elmas gözaltına alındı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Alaattin Kadayıfçıoğlu ifadesinde, “silah boğuşma sırasında patladı” diyerek ateş etmediğini savundu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340042.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_533431cb",
-    "title": "Eski Beşiktaş Başkanı Fikret Orman gözaltına alındı",
-    "source": "Evrensel",
-    "time": "25/03/2026 02:51",
-    "link": "https://www.evrensel.net/haber/5976618/eski-besiktas-baskani-fikret-orman-gozaltina-alindi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’da ünlülere dönük başlatılan \"yasaklı madde\" soruşturması kapsamında eski Beşiktaş Başkanı Fikret Orman gözaltına alındı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340133.jpg",
     "keyword": null
   }
 ]
