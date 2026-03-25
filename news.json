@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a0580f0",
+    "title": "Tahran'da art arda patlamalar meydana geldi",
+    "source": "TRT Haber",
+    "time": "25/03/2026 03:32",
+    "link": "https://www.trthaber.com/haber/dunya/tahranda-art-arda-patlamalar-meydana-geldi-938954.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail saldırılarının sürdüğü İran'ın başkenti Tahran'da art arda patlamalar meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7aa0a5c9",
     "title": "İstanbul'daki uyuşturucu soruşturmasında ünlü isimler için gözaltı kararı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Umman, Mısır, Suudi Arabistan, Birleşik Arap Emirlikleri (BAE), Irak ile Suriye'de fırtına ve sel uyarısı yapıldı, bazı ülkelerde eğitime ara verildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d757e513",
-    "title": "İran füzesinin vurduğu anlar çıktı",
-    "source": "OdaTV",
-    "time": "25/03/2026 01:32",
-    "link": "https://www.odatv.com/guncel/iran-fuzesinin-vurdugu-anlar-cikti-120140644",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’ın sabah saatlerinde düzenlediği saldırıda bir füzenin İsrail’in başkenti Tel Aviv’e isabet ettiği anlar ortaya çıktı. Füzenin isabet ettiği sokakta bir araç ters döndü.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/iran-fuzesinin-vurdugu-anlar-cikti-vdgw.jpg",
     "keyword": null
   }
 ]
