@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b33f888",
+    "title": "Ölü bulunmuştu: Cinayete kurban gitmiş",
+    "source": "Habertürk",
+    "time": "25/03/2026 13:12",
+    "link": "https://www.haberturk.com/bilecik-te-evinde-olu-bulunan-sahsin-cinayete-kurban-gittigi-ogrenildi-3871970",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik'te kardeşinin ulaşamadığı ve evinde ölü olarak bulunan gencin ilk tespitlere göre cinayete kurban gittiği öğrenildi",
+    "image": "https://im.haberturk.com/l/2026/03/24/ver1774353786/3871970/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f0fab235",
     "title": "Acı Hayat İstanbul Film Festivali’nde yeniden beyaz perdede",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun’un Vezirköprü ilçesinde kanyon yolunda kontrolden çıkan otomobilin ormanlık alana yuvarlanması sonucu 7 kişi yaralandı. Yaralıların hastaneye kaldırıldığı kazayla ilgili inceleme başlatıldı.",
     "image": "https://resim.haber61.net/news/609231.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_08ee38a9",
-    "title": "Artvin’de cezaevi firarisi kısa sürede yakalandı",
-    "source": "Haber61",
-    "time": "25/03/2026 12:48",
-    "link": "https://www.haber61.net/bolgesel/artvinde-cezaevi-firarisi-kisa-surede-yakalandi-h627642.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ardanuç’ta açık ceza infaz kurumundan firar eden hükümlü, polis ekiplerinin KGYS destekli çalışmasıyla kayalık alanda saklanırken yakalandı.",
-    "image": "https://resim.haber61.net/news/609232.jpg",
     "keyword": null
   }
 ]
