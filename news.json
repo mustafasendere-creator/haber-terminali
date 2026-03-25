@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b3832b61",
+    "title": "İran Cumhurbaşkanı Pezeşkiyan'dan Cumhurbaşkanı Erdoğan'a ve Türk milletine hitaben Türkçe mesaj",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 14:08",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-cumhurbaskani-pezeskiyandan-cumhurbaskani-erdogana-ve-turk-milletine-hitaben-turkce-mesaj/3878687",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pezeşkiyan mesajında, \"Türkiye Cumhuriyeti Cumhurbaşkanı, aziz kardeşim Sayın Recep Tayyip Erdoğan'ın saldırgan Siyonist rejimi (İsrail) kınama konusundaki kararlı tutumu takdire şayandır.\" ifadesini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4ef5abff",
     "title": "Bakan Kurum BM Genel Kurulu’nda daimi temsilcilere COP31’i anlatacak",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon 1. Amatör Küme Play-Off Grubu 4. hafta mücadelesinde 23 Mart 2026 tarihinde Akyazı Sahası’nda oynanan Çaykaraspor–Araklıspor karşılaşmasının ardından tartışmalar alevlendi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/g-g-i-o-g-i-o-g-g-o.PNG",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c65e65f3",
-    "title": "Resul Emrah Şahan’ın avukatı: “Etkin pişmanlık beyanları delil olarak sunuluyor”",
-    "source": "Evrensel",
-    "time": "25/03/2026 13:29",
-    "link": "https://www.evrensel.net/haber/5976692/resul-emrah-sahanin-avukati-etkin-pismanlik-beyanlari-delil-olarak-sunuluyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB davasının 10. gününde savunma yapan Şişli Belediye Başkanı Resul Emrah Şahan’ın avukatı Doğa Şanlıoğlu, iddianamedeki etkin pişmanlık beyanlarının tek delil olarak sunulduğunu belirtti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/306979.jpg",
-    "keyword": null
   }
 ]
