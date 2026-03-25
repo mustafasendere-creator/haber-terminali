@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41d51c70",
+    "title": "Kenya'da toplu mezar paniği: 32 ceset çıkarıldı",
+    "source": "OdaTV",
+    "time": "25/03/2026 12:32",
+    "link": "https://www.odatv.com/dunya/kenyada-toplu-mezar-panigi-32-ceset-cikarildi-120140710",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kenya’nın Kericho kasabasında ihbar üzerine başlatılan çalışmada bir toplu mezardan 32 ceset çıkarıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/kenyada-toplu-mezar-panigi-32-ceset-cikarildi-wulj.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d1213c50",
     "title": "Kazakistan'ın unutulan mirası Kartal Dansı gündem oldu",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Münih ve Kuzey İtalya’da kiraz çiçekleri ziyaretçi akınına uğruyor; parklar ve tarihi bahçeler pembe çiçeklerle dolup taşarken insanlar fotoğraf çekip bu kısa ömürlü güzelliğin tadını çıkarıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fd894b44",
-    "title": "TCMB anketi: Hanehalkı enflasyon beklentisi yüzde 50 sınırına dayandı",
-    "source": "Euronews",
-    "time": "25/03/2026 12:09",
-    "link": "http://tr.euronews.com/business/2026/03/25/tcmb-anketi-hanehalki-enflasyon-beklentisi-yuzde-50-sinirina-dayandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Merkez Bankası’nın mart ayı anketine göre hanehalkının 12 ay sonrası enflasyon beklentisi yüzde 49,89’a çıktı. Ankete katılanların büyük bölümü enflasyonun daha da yüksek seyredeceğini düşünürken, fiyat baskısında gıda ve enerji başı çekti, yatırım tercihlerinde altın açık ara ilk sırada kaldı.",
     "image": null,
     "keyword": null
   }
