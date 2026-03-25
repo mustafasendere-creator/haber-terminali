@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff6d561f",
+    "title": "Almanya'da gündem Cumhurbaşkanı Steinmeier'in açıklamaları",
+    "source": "DW Türkçe",
+    "time": "25/03/2026 14:29",
+    "link": "https://www.dw.com/tr/almanya-da-gündem-cumhurbaşkanı-steinmeier-in-açıklamaları/a-76521171",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya Cumhurbaşkanı Frank-Walter Steinmeier'in İran savaşı nedeniyle ABD'yi eleştirdiği açıklamalarına iktidardaki Birlik Partileri mesafe koydu. Tahran ve AfD'den ise destek geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_174d1c6e",
     "title": "Minik kalplerden  anlamlı etkinlik",
     "source": "Karadeniz'de Sonnokta",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika haberine göre, İran Cumhurbaşkanı Mesud Pezeşkiyan, sosyal medya hesabından yayımladığı Türkçe mesajla, Cumhurbaşkanı Erdoğan'a Siyonist rejim karşısındaki kararlı tutumundan dolayı teşekkür etti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/son-dakika-iran-cumhurbaskani-pezeskiyandan-cumhurbaskani-erdogana-tesekkur-0dbk.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b7a0e6bf",
-    "title": "Google, Mart 2026 spam güncellemesini yayınladı",
-    "source": "Haber Global",
-    "time": "25/03/2026 13:50",
-    "link": "https://haberglobal.com/bilim-teknoloji/google-mart-2026-spam-guncellemesini-yayinladi-515195",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Google, 24 Mart 2026 tarihinde spam güncellemesini duyurdu. Güncelleme küresel olarak ve tüm dillerde geçerli olacak ve dağıtım birkaç gün sürecek.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/google-mart-2026-spam-guncellemesini-yayinladi-oe7c.jpg",
     "keyword": null
   }
 ]
