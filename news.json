@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_52c1b1b7",
+    "title": "İzin ve onay hiç istemedim",
+    "source": "10Haber",
+    "time": "25/03/2026 05:52",
+    "link": "https://10haber.net/yazarlar/mehmet-ogutcu/izin-ve-onay-hic-istemedim-689586/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hayatım boyunca herhangi bir makamdan ya da kişiden izin ve onay istemeyi hiç sevmedim. Çok mecbur kaldıysam elbette istisnalar oldu… ama bu benim tercih ettiğim yol değildi. Bu, kurallara karşı bir başkaldırı değildi. Disiplinsizlik hiç değildi. Aksine, bana sorarsanız derin bir sorumluluk anlayışının sonucuydu. Çünkü erken yaşta şunu fark ettim: İzin ya da onay istemek [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/izin.png",
+    "keyword": null
+  },
+  {
     "id": "GND_39763b2d",
     "title": "Trump’ın Manipülasyon Çabaları",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Irak'ın Erbil kentinde birden fazla noktaya kamikaze tipindeki insansız hava araçlarıyla (İHA) saldırı düzenlendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_adc5eb0f",
-    "title": "Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile telefonda görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 02:51",
-    "link": "https://www.aa.com.tr/tr/guncel/cumhurbaskani-erdogan-katar-emiri-al-sani-ile-telefonda-gorustu/3877990",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile telefonda görüştü.",
     "image": null,
     "keyword": null
   }
