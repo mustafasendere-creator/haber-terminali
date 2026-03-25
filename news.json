@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4758f27",
+    "title": "DEM'li vekil istifa etti",
+    "source": "OdaTV",
+    "time": "25/03/2026 04:52",
+    "link": "https://www.odatv.com/guncel/demli-vekil-istifa-etti-120140657",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DEM Parti Mardin Milletvekili Salihe Aydeniz, TBMM İdare Amiri görevinden istifasına ilişkin yazısını TBMM Başkanlığına sundu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/demli-vekil-istifa-etti-1dob.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_084bef05",
     "title": "Kim bu Cevheri Güven?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Irak'ın Erbil kentinde insansız hava araçlarıyla birden fazla noktaya saldırı düzenlendi, vurulan bir binada yangın çıktı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bd1f3a12",
-    "title": "Savaş ortamında altın neden düşer?",
-    "source": "Ekonomim",
-    "time": "25/03/2026 02:12",
-    "link": "https://www.ekonomim.com/kose-yazisi/savas-ortaminda-altin-neden-duser/883748",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/24/savas-ortaminda-altin-neden-duser-pika_cover.jpg",
     "keyword": null
   }
 ]
