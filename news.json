@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_811475ae",
+    "title": "İran'dan Trump'ın müzakere iddialarına sert yalanlama",
+    "source": "TRT Haber",
+    "time": "25/03/2026 07:32",
+    "link": "https://www.trthaber.com/haber/dunya/irandan-trumpin-muzakere-iddialarina-sert-yalanlama-938971.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Hatemü'lEnbiya Merkez Karargahı Sözcüsü Yarbay İbrahim Zolfaghari, ABD Başkanı Donald Trump'ın iki ülke arasında müzakerelerin sürdüğü yönündeki açıklamalarını sert bir dille yalanladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1f49ced5",
     "title": "Kolombiya'da 69 kişinin öldüğü uçak kazasının ardından üç günlük ulusal yas ilan edildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye'den ve dünyadan çevre gündemlerini sizler için derledik...",
     "image": "https://media.cumhuriyet.com.tr/Archive/deaa1e4d-ae89-4f67-84ee-0f64d4b38f12.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d5682c60",
-    "title": "Adalet ve hakem",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 05:52",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/hayri-guner/adalet-ve-hakem-2489322",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2025-2026 Süper Lig Mehmet Ali Yılmaz Sezonu’nda artık son düzlüğe giriliyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar35_cover.jpeg",
     "keyword": null
   }
 ]
