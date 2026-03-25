@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ca2fd41c",
+    "title": "İyi haber: Elektrikli araç yükselişi petrol talebini düşürüyor",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 06:12",
+    "link": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iyi-haber-elektrikli-arac-yukselisi-petrol-talebini-dusuruyor-2489359",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ember’in analizine göre küresel elektrikli araç filosu 2025’te İran’ın petrol ihracatının yüzde 70’ine eşdeğer tüketimi ortadan kaldırdı. Yenilenebilir enerji büyümesi de doğalgaz talebini önemli ölçüde düşürdü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2258540f-257c-4869-b878-66a6b3489fdc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_115abc58",
     "title": "Meteoroloji uyardı: Sağanak ve kar yağışı 5 gün daha devam edecek",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Scout Eray Can Gencer: \"Trabzonspor'un yaratmaya çalıştığı süreç şuydu: Bir marka oluşturmak isteniyordu. Bu marka inşa edilirken aynı zamanda rekabetçi bir kimlik de gerekiyordu; çünkü ne Trabzonspor'a ne de Trabzon şehrine 'Biz yarışamıyoruz' diyemez  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_29eb330d",
-    "title": "Macron'dan İsrail'e destek",
-    "source": "OdaTV",
-    "time": "25/03/2026 02:52",
-    "link": "https://www.odatv.com/guncel/macrondan-israile-destek-120140648",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, İsrail Cumhurbaşkanı Isaac Herzog ile gerçekleştirdiği görüşmenin ardından yaptığı açıklamada, Fransa’nın İsrail halkıyla &quot;tam dayanışma içinde&quot; olduğunu bildirdi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/macrondan-israile-destek-k1ul.jpg",
-    "keyword": null
   }
 ]
