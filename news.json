@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8be8adbb",
+    "title": "Adana'da yağışlar barajların doluluk oranını artırdı",
+    "source": "Anadolu Ajansı",
+    "time": "25/03/2026 12:08",
+    "link": "https://www.aa.com.tr/tr/guncel/adanada-yagislar-barajlarin-doluluk-oranini-artirdi/3878461",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da geçen yıl kuraklığın etkisiyle su seviyeleri düşen Yedigöze, Çatalan, Seyhan, Kozan ve Nergizlik barajlarının doluluk oranları mevsim yağışlarıyla arttı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_657af53a",
     "title": "İletişim Başkanlığı, COP31 kapsamında ilk kez çevre ve iklim medya turları düzenleyecek",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Rize’nin yüksek kesimlerinde sis etkili oldu. Güneysu ilçesinde yoğun sis görüş mesafesini düşürdü, doğa adeta beyaz örtüyle kaplandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-3-252.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_4d96bee3",
-    "title": "Son 21 Yılın En Düşük Seviyesinde! TÜİK Verileri Açıkladı",
-    "source": "Taka Gazetesi",
-    "time": "25/03/2026 11:30",
-    "link": "https://www.takagazete.com.tr/son-21-yilin-en-dusuk-seviyesinde-tuik-verileri-acikladi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TÜİK 2025 işsizlik verilerini açıkladı. İşsizlik oranı %8,3 ile son 21 yılın en düşük seviyesine gerilerken, geniş tanımlı işsizlikteki dev artış dikkat çekti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/son-21a.jpg",
     "keyword": null
   }
 ]
