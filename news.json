@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e150b38",
+    "title": "Gazeteci Tosun’un ölümüne ilişkin iddianame tamamlandı",
+    "source": "Cumhuriyet",
+    "time": "25/03/2026 05:12",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/gazeteci-tosun-un-olumune-iliskin-iddianame-tamamlandi-2489354",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da sokak ortasında öldürülen gazeteci Hakan Tosun’a ilişkin iddianame kabul edildi. Şüphelilerin maktule defalarca tekme attığı kamera görüntüleriyle tespit edilirken iki kişi hakkında kasten öldürme suçundan ceza talep edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d8f75329-1c32-45e4-aba2-abf0d4e5449c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ba8d63eb",
     "title": "Yalnız Kovboy: Dağhan Baydur",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail ordusunun Sur kentine bağlı Hamul bölgesini fosfor bombalarıyla hedef aldığı bildirildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339365.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c4af69d0",
-    "title": "Menemen'deki tarım arazileri hafriyata boğuluyor",
-    "source": "Evrensel",
-    "time": "25/03/2026 02:31",
-    "link": "https://www.evrensel.net/haber/5976535/menemendeki-tarim-arazileri-hafriyata-boguluyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Menemen Çavuşköy'deki kaçak hafriyat sahası tarım arazilerini ve tarım işletmelerini tehdit ediyor. Kaçak hafriyat sahasının yarattığı çevresel zararlara tepki gösteren bölge halkı ve tarım işletmeleri ihbarlarından sonuç alamadıklarından yakınıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340045.jpg",
     "keyword": null
   }
 ]
