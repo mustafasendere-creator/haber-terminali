@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b9f6f7c0",
+    "title": "İstanbul'daki uyuşturucu soruşturmasında Fikret Orman gözaltına alındı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 03:12",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-uyusturucu-sorusturmasinda-fikret-orman-gozaltina-alindi-938950.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'daki uyuşturucu ve fuhuş soruşturmasında iş insanı Fikret Orman gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5e29ad55",
     "title": "Katil İsrail'in Lübnan'ın güneyine düzenlediği saldırıda 3 kişi hayatını kaybetti",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Ordusu, Irak’ta Erbil Havalimanı’ndaki ABD üssüne karadan karaya füzelerle saldırı yapıldığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a64b7661",
-    "title": "İsrail ordusu, Batı Şeria'nın Cenin kentine baskın düzenleyerek bir dükkandaki mallara el koydu",
-    "source": "Anadolu Ajansı",
-    "time": "25/03/2026 01:31",
-    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusu-bati-serianin-cenin-kentine-baskin-duzenleyerek-bir-dukkandaki-mallara-el-koydu/3877932",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'nın kuzeyinde yer alan Cenin kent merkezine baskın düzenlediği belirtildi.",
     "image": null,
     "keyword": null
   }
