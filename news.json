@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c6019bdc",
+    "title": "Bahreyn'de sirenler çaldı, halk güvenli bölgelere yönlendirildi",
+    "source": "TRT Haber",
+    "time": "25/03/2026 08:32",
+    "link": "https://www.trthaber.com/haber/dunya/bahreynde-sirenler-caldi-halk-guvenli-bolgelere-yonlendirildi-938958.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bahreyn genelinde sirenler çaldı ve halkın güvenli bölgelere yönelmesi istendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9390a386",
     "title": "İfo: Doğuştan Alman vatandaşı göçmenler daha az suç işliyor",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Su, vazgeçilmez bir yapı taşı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar11_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8e9f4c7e",
-    "title": "CHP’li Bağcıoğlu: 'Savunma sanayisi siyasetin üstünde tutulmalı'",
-    "source": "Cumhuriyet",
-    "time": "25/03/2026 07:13",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-bagcioglu-savunma-sanayisi-siyasetin-ustunde-tutulmali-2489357",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Savunma sanayisinin siyasetin üstünde tutulması gerektiğini vurgulayan Bağcıoğlu, askeri sağlık sisteminin yeniden yapılandırılması çağrısında bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/51a5f676-b322-4a14-a830-0abb3d6a6b95.jpg",
     "keyword": null
   }
 ]
