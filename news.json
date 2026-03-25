@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_84ded1d8",
+    "title": "İstanbul'daki uyuşturucu soruşturmasında ünlü isimler hakkında gözaltı kararı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 05:32",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-uyusturucu-sorusturmasinda-unlu-isimler-hakkinda-gozalti-karari-938955.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'daki uyuşturucu ve fuhuş soruşturmasında aralarında iş insanları ve ünlülerin bulunduğu 6 kişi hakkında gözaltı kararı verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2a691920",
     "title": "Toksik kadınlar",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Alparslan Bayraktar (@aBayraktar1) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon bakan"
-  },
-  {
-    "id": "GND_7f82290e",
-    "title": "Ayşe Tokyaz’ın katilinin yargılandığı Ejegül Ovezova davası ertelendi: Bilirkişi raporu eklendi",
-    "source": "Evrensel",
-    "time": "25/03/2026 02:32",
-    "link": "https://www.evrensel.net/haber/5976534/ayse-tokyaz-in-katilinin-yargilandigi-ejegul-ovezova-davasi-ertelendi-bilirkisi-raporu-eklendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır’da Ejegül Ovezova’nın ölümüne ilişkin davada yeni bilirkişi raporu dosyaya eklendi. Mahkeme, Ayşe Tokyaz cinayetinde de yargılanan Cemil Koç'un duruşmasının bugün görüldüğünü gerekçe göstererek duruşmayı erteledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340043.jpg",
-    "keyword": null
   }
 ]
