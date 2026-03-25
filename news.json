@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2a520694",
+    "title": "İsrail, Lübnan'a kara saldırılarını genişletiyor! İki tümen daha katliama hazırlanıyor",
+    "source": "Haber Global",
+    "time": "25/03/2026 14:29",
+    "link": "https://haberglobal.com/dunya/israil-lubnana-kara-saldirilarini-genisletiyor-iki-tumen-daha-katliama-hazirlaniyor-515205",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan'a yoğun saldırılar düzenleyen İsrail ordusunun, ülkenin güneyinde kara saldırılarını genişleteceği bildirildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/israil-lubnana-kara-saldirilarini-genisletiyor-iki-tumen-daha-katliama-hazirlaniyor-ppms.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d4b33e47",
     "title": "Meta, çocuk güvenliği davasında 375 milyon dolar para cezası ödeyecek",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Wall Street Journal'ın haberinde, Körfez ülkelerinin İran'a yönelik olası bir saldırıya her geçen gün daha fazla yaklaştığı öne sürüldü",
     "image": "https://im.haberturk.com/l/2026/03/24/ver1774351428/3871957/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_e0b7b79c",
-    "title": "Yapay zeka güvenliğinde çığır açan gelişme: \"Nöron dondurma\"",
-    "source": "Independent",
-    "time": "25/03/2026 13:50",
-    "link": "https://www.indyturk.com/node/774733/bi%CC%87li%CC%87m/yapay-zeka-g%C3%BCvenli%C4%9Finde-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7an-geli%C5%9Fme-n%C3%B6ron-dondurma",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yapay zeka araştırmacıları, ChatGPT ve diğer popüler sohbet botlarını daha güvenli hale getirmek için yenilikçi bir teknik geliştirdi.\n\n\"Nöron dondurma\" adı verilen bu yöntem, kullanıcıların yapay zeka araçlarının temelindeki büyük dil modellerine (BDM) yerleştirilen güvenlik filtrelerini atlatmasını engelliyor.\n\nBu BDM'ler halihazırda güvenliği, bir yanıt oluşturmaya başlarken ikili bir kontrol noktası olarak ele alıyor; bir sorgu güvenli görünüyorsa yapay zeka devam ediyor ancak tehlikeli görünüyorsa yanıt vermeyi reddediyor.\n\nKullanıcılar, zararlı komutları farklı bağlamlarda sunarak bu kontrolleri atlatmanın yollarını bulmayı başarıyor. Örneğin geçen yıl yapılan bir araştırma, kötü niyetli bir komutun şiir biçiminde yeniden yazılmasıyla yapay zeka güvenlik önlemlerinin atlatılabileceğini saptamıştı.\n\n\nfazla oku\n\nBu bölüm, konuyla ilgili referans noktalarını içerir. (Related Nodes field)\n\n\nBu atlatma yöntemlerinin düzeltilmesi için aracın yeniden eğitilmesi veya tek tek yamalar yapılması gerekiyor ancak yeni araştırma, kötüye kullanımı önlemek için etik sınırları BDM'lere kalıcı olarak kodlamanın yolunu sunuyor.\n\nNorth Carolina Eyalet Üniversitesi'nden bir ekibin geliştirdiği çığır açıcı yöntem, sinir ağı içindeki güvenlik açısından kritik öneme sahip belirli \"nöronları\" tespit edip kullanıcı görevi nasıl tanımlarsa tanımlasın, modelin güvenlik özelliklerini koruyacak şekilde bu nöronları sabitlemeyi içeriyor.\n\nNorth Carolina Eyalet Üniversitesi'nden araştırmayı yöneten doktora öğrencisi Jianwei Li, \"Bu çalışmadaki amacımız, mevcut güvenlik uyumu sorunlarını daha iyi anlayarak BDM'ler için yüzeysel olmayan bir güvenlik uyumunun nasıl uygulanacağına dair yeni bir rota çizmekti\" diyor.\n\n\nİnce ayar sürecinde belirli nöronları 'dondurmanın', modelin spesifik bir alandaki yeni görevlere adapte olurken orijinal modelin güvenlik özelliklerini korumasına olanak tanıdığını tespit ettik.\n\n\nNorth Carolina Eyalet Üniversitesi'nde bilgisayar bilimi alanında yardımcı doçent olan Jung-Eun Kim şöyle ekliyor: \n\n\nBuradaki genel tablo şu: BDM'lerde güvenlik uyumuyla ilgili zorlukları anlamada kavramsal bir çerçeve görevi gören bir hipotez geliştirdik, bu çerçeveyi kullanarak bu zorluklardan birini çözmemizi sağlayacak bir teknik belirledik ve ardından bu tekniğin işe yaradığını gösterdik.\n\n\nAraştırmacılar, bu çalışmanın yapay zeka modellerinin yanıt üretirken akıl yürütmelerinin güvenli olup olmadığını sürekli değerlendirebilmesini sağlayacak yeni tekniklerin geliştirilmesine temel oluşturmasını umuyor.\n\nBu çığır açıcı gelişme, gelecek ay Brezilya'da düzenlenecek 14. Uluslararası Öğrenme Temsilleri Konferansı'nda (ICLR2026) sunulacak \"Superficial safety alignment hypothesis\" (Yüzeysel güvenlik uyumu hipotezi) başlıklı makalede detaylandırılıyor.\n\n\n\n*İçerik orijinal haline bağlı kalınarak çevrilmiştir. Independent Türkçe'nin editöryal politikasını yansıtmayabilir.\n\nindependent.co.uk/tech\n\nIndependent Türkçe için çeviren: Büşra Ağaç\nçeviriYAPAY ZEKAteknolojiYeni araştırma, ChatGPT gibi yapay zeka modellerinde yaşanan güvenlik endişelerine çözüm sunuyorAnthony CuthbertsonÇarşamba, Mart 25, 2026 - 12:45Main image: \n  &lt;p&gt;Araştırmacılar, OpenAI&#039;ın ChatGPT&#039;si ve Google&#039;ın Gemini&#039;ı gibi uygulamalara güç veren büyük dil modelleri için yeni bir güvenlik önlemi yöntemi keşfetti (Unsplash)&lt;/p&gt;\n\nBİLİMrelated nodes: &quot;En zararlı&quot; yapay zekalar listelendiYapay zekayla cinsel içerikli görüntü üreten ergenlerin oranı endişe yarattıLabel: ÇEVİRİType: newsSEO Title: Yapay zeka güvenliğinde çığır açan gelişme: &quot;Nöron dondurma&quot;copyright Independentturkish: original url: https://www.independent.co.uk/tech/ai-safety-neuron-freezing-chatgpt-b2944654.html",
-    "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/03/25/1368087-837865375.jpg",
     "keyword": null
   }
 ]
