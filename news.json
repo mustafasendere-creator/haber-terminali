@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_183d9f60",
+    "title": "Yatırım vaadiyle dolandırıcılık soruşturması: 65 gözaltı kararı",
+    "source": "TRT Haber",
+    "time": "25/03/2026 11:50",
+    "link": "https://www.trthaber.com/haber/gundem/yatirim-vaadiyle-dolandiricilik-sorusturmasi-65-gozalti-karari-939015.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen soruşturmada, borsa yatırımı ve halka arz vaadiyle dolandırıcılık yaptıkları gerekçesiyle 65 şüpheli hakkında gözaltı kararı verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_867833aa",
     "title": "Trabzon’da Su Kesintisi Kapıda! Arsin’de İki Mahalle İçin Kritik Saatler",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig ekiplerinden Trabzonspor'un teknik direktörü Fatih Tekke, Bordo-mavililerde kariyerini zirveye taşıdı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/asdas-ksnt.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_562680ba",
-    "title": "Benzin, dizel, hibrit, elektrikli: Hangi yakıt tipli araçlar daha az yakıt yakıyor",
-    "source": "OdaTV",
-    "time": "25/03/2026 11:13",
-    "link": "https://www.odatv.com/ekonomi/benzin-dizel-hibrit-elektrikli-hangi-yakit-tipli-araclar-daha-az-yakit-yakiyor-120140695",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Akaryakıt fiyatlarında artış yaşanırken, en ucuz yolculuğun hangi yakıt tipine sahip araçla yapılabileceği merak uyandırdı. Benzinli, dizel, hibrit araçların kilometre başına yakıt giderleri ile elektrikli otomobillerin enerji maliyetleri karşılaştırıldığında, hangisi daha ekonomik? İşte detaylar...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/benzin-dizel-hibrit-elektrikli-hangi-araclar-daha-az-yakit-yakiyor-tqmn.jpg",
-    "keyword": null
   }
 ]
