@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de88391a",
+    "title": "Üniversite mezunu işsizliği dikkat çekiyor: Türkiye, Avrupa’da ilk sırada",
+    "source": "Evrensel",
+    "time": "25/03/2026 13:09",
+    "link": "https://www.evrensel.net/haber/5976684/universite-mezunu-issizligi-dikkat-cekiyor-turkiye-avrupada-ilk-sirada",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TEDMEM'in 2025 Eğitim Değerlendirme Raporu'na göre, 25–34 yaş grubundaki işsizlerin yüzde 49,2'si yükseköğretim mezunu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340174.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_4d2282cd",
     "title": "Trabzon’da çocuk dilenciler için kritik toplantı!",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'nin birçok bölgesinde ilkbahar mevsimi yaşanırken, Bitlis'te İl Özel İdaresi ekipleri, kar kalınlığının yer yer 23 metreye ulaştığı köy yollarında karla mücadele çalışması yürütüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9f50adb7",
-    "title": "Okuldan eve dönen 6 yaşındaki çocuğa başıboş köpekler saldırdı",
-    "source": "TRT Haber",
-    "time": "25/03/2026 12:31",
-    "link": "https://www.trthaber.com/haber/turkiye/okuldan-eve-donen-6-yasindaki-cocuga-basibos-kopekler-saldirdi-939018.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eyüpsultan'da okuldan servisle eve dönen 6 yaşındaki kız çocuğu araçtan indikten sonra başıboş köpeklerin saldırısına uğradı. Hastaneye kaldırılan kız, tedavinin ardından taburcu edildi.",
     "image": null,
     "keyword": null
   }
