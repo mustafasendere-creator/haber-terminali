@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f14c2b4e",
+    "title": "Axios: Trump, Netanyahu'nun İranlıları rejime karşı sokağa çağırma teklifini reddetti",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 08:24",
+    "link": "https://www.aa.com.tr/tr/guncel/axios-trump-netanyahunun-iranlilari-rejime-karsi-sokaga-cagirma-teklifini-reddetti/3879426",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump'ın İsrail Başbakanı Binyamin Netanyahu'nun İranlıları rejime karşı sokağa çağırma önerisini geri çevirdiği iddia edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_b569f2c5",
     "title": "Trabzonspor'da Felipe Augusto Galatasaray maçını kafasında bitirdi! Hazırım mesajı verdi",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Meteoroloji Genel Müdürlüğü, 26 Mart Perşembe gününe ilişkin hava durumu raporunu yayımladı. Rapora göre; yağışların gece saatlerinde Doğu Anadolu'nun güneydoğusunda yer yer kuvvetli olmak üzere genellikle yağmur ve sağanak, Güney Ege ve Akdeniz kıyılarında yer yer gök gürültülü sağanak, Akdeniz’in Toroslar mevkii, Doğu Karadeniz’in iç kesimlerinin yüksekleri ve Doğu Anadolu’nun doğusunda karla karışık yağmur ve kar şeklinde olması bekleniyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/3b0725cf-2a88-4b4f-a61e-9a291087eaf8.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_0af90880",
-    "title": "Kadim şehir Trabzon, tüm değerleriyle Başkent Ankara’da!",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "26/03/2026 07:47",
-    "link": "https://www.karadenizdesonnokta.com.tr/kadim-sehir-trabzon-tum-degerleriyle-baskent-ankarada",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/03/lllkkkkkkkkk.jpg",
-    "keyword": "trabzon"
   }
 ]
