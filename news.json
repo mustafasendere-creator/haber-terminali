@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17d072c4",
+    "title": "Snapchat hakkında soruşturma başlatıldı",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 18:05",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/snapchat-hakkinda-sorusturma-baslatildi-2489838",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa Birliği (AB) Komisyonu, sosyal medya platformu Snapchat'in çocukların çevrim içi güvenliği, gizliliği ve korunmasına ilişkin kurallara uyup uymadığını incelemek üzere resmi soruşturma başlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/79dc3f63-339a-4eb9-8b2d-b474a91ea38d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_81b0b8db",
     "title": "Çin, uzaya iki yeni uydu gönderdi",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Rus yönetmen Kirill Sokolov'un ABD yapımı filmi \"Seni Öldürecekler\" korku, gerilim ve komedinin bir arada harmanlandığı bir hikayeyi beyaz perdeye taşıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_69b83072",
-    "title": "İran basını: Tahran yönetimi ABD’ye verdiği yanıtta, savaşın tekrarlanmaması ve İran’a tazminat ödenmesini istedi",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 17:21",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-basini-tahran-yonetimi-abd-ye-verdigi-yanitta-savasin-tekrarlanmamasi-ve-iran-a-tazminat-odenmesini-istedi/3880479",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
     "image": null,
     "keyword": null
   }
