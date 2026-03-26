@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_00ad39ab",
+    "title": "Maduro, New York'ta ikinci kez hakim karşısına çıkarıldı",
+    "source": "TRT Haber",
+    "time": "26/03/2026 23:44",
+    "link": "https://www.trthaber.com/haber/dunya/maduro-new-yorkta-ikinci-kez-hakim-karsisina-cikarildi-939225.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin 3 Ocak'ta Venezuela'da askeri müdahaleyle alıkoyduğu Devlet Başkanı Nicolas Maduro ve eşi Cilia Flores, ikinci kez hakim karşısına çıktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e3bb65d2",
     "title": "Trump İran'a olası saldırıyı yine erteledi",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "TFF Profesyonel Futbol Disiplin Kurulu (PFDK), Trendyol Süper Lig&#039;den Beşiktaş, Trabzonspor, Kayserispor ve Kasımpaşa&#039;ya ceza verdi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/26/pfdkden-4-super-lig-ekibine-ceza-dq8k_cover.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a3139714",
-    "title": "NATO Genel Sekreteri Rutte: 'NATO, Trump yönetiminde daha güvende'",
-    "source": "Euronews",
-    "time": "26/03/2026 22:44",
-    "link": "http://tr.euronews.com/my-europe/2026/03/26/nato-genel-sekreteri-rutte-nato-trump-yonetiminde-daha-guvende",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rutte, Trump'ın NATO'yu güçlendirdiği konusunda ısrarcı. Rutte, Trump'ın müttefikler üzerinde savunma harcamalarını artırmaları için kurduğu baskıyı haklı bulurken, Putin'i müzakere masasına çekme yeteneğini de övdü.",
-    "image": null,
-    "keyword": null
   }
 ]
