@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fab25bd4",
+    "title": "İtalya, Avrupa'nın ilk insan H9N2 kuş gribi vakasını doğruladı",
+    "source": "Euronews",
+    "time": "26/03/2026 16:05",
+    "link": "http://tr.euronews.com/saglik/2026/03/26/italya-avrupanin-ilk-insan-h9n2-kus-gribi-vakasini-dogruladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa'da H9N2 tipi kuş gribine yakalanan ilk insan vakası, kıta dışından gelen bir kişinin İtalya'da teşhis edilmesiyle saptandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_58167530",
     "title": "BTP heyetinden TESOB'a ziyaret",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Orhan Pamuk'un komşularıyla davalık olduğu Taray Apartmanı için karar verildi",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/126jpg-ZUX7y_J97USaZlqSySqnSg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_234822a7",
-    "title": "Anadolu mutfağının unutulmaya yüz tutan lezzeti: Bezirgani tarifi",
-    "source": "Cumhuriyet",
-    "time": "26/03/2026 15:26",
-    "link": "https://www.cumhuriyet.com.tr/gurme/anadolu-mutfaginin-unutulmaya-yuz-tutan-lezzeti-bezirgani-tarifi-2489766",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuru ekmek, ceviz ve baharatların eşsiz uyumuyla hazırlanan bezirgani, hem ekonomik hem de doyurucu bir lezzet sunuyor. İşte, enfes bezirgani tarifi...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/09ba3dc2-ea96-4c11-9e7a-c81475784433.jpg",
     "keyword": null
   }
 ]
