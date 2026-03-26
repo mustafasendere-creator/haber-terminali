@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cecfe14a",
+    "title": "Bakan Işıkhan: İşsizlik oranı, 2012 yılından itibaren en düşük seviyesine geriledi",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 14:44",
+    "link": "https://www.aa.com.tr/tr/guncel/bakan-isikhan-issizlik-orani-2012-yilindan-itibaren-en-dusuk-seviyesine-geriledi/3880122",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan,\"Geçen yıl yüzde 8,3 olarak gerçekleşen işsizlik oranı, 2012 yılından itibaren en düşük seviyesine geriledi.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_079ca643",
     "title": "Ateşkes denildiği yerde bitiyor... İsrail yine yaptı yapacağını",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Avrupa Komisyonu, yetişkinlerin Snapchat’te genç kullanıcı kılığına girerek onları yasa dışı faaliyetlere çektiğinden ya da cinsel istismar ettiğinden şüpheleniyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_7fa2b5b7",
-    "title": "Ortahisar Belediyesi’nden Trabzon’un hafızasına ışık tutan eser",
-    "source": "Haber61",
-    "time": "26/03/2026 14:05",
-    "link": "https://www.haber61.net/trabzon/ortahisar-belediyesinden-trabzonun-hafizasina-isik-tutan-eser-h627746.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ortahisar Belediyesi tarafından hazırlanan “Doğudan Doğan Şehir: Trabzon” adlı kitap, kentin tarihsel ve kültürel mirasını nadir fotoğraflarla kayıt altına aldı",
-    "image": "https://resim.haber61.net/news/609412.jpg",
-    "keyword": "trabzon"
   }
 ]
