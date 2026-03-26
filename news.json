@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_715e40f9",
+    "title": "Uzaklaştırma kararını kaldırttığı kocası tarafından bıçaklandı",
+    "source": "Habertürk",
+    "time": "26/03/2026 14:26",
+    "link": "https://www.haberturk.com/mersin-de-kocasinin-bicakladigi-kadin-agir-yaralandi-3872382",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin’in Tarsus ilçesinde bir kadın, uzaklaştırma kararını kaldırttığı kocası tarafından bıçaklanarak ağır yaralandı. Şüpheli kısa sürede yakalanarak gözaltına alındı.",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774470792/3872382/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_c9ec8a38",
     "title": "John Wick evreni büyüyor: \"Çok farklı bir aksiyon kahramanı\"",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sosyal medya üzerinden suç örgütü propagandası yapan, suç ve suçluyu öven şüphelilere yönelik 81 ilde düzenlenen eş zamanlı operasyonlarda 358 kişi gözaltına alındı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_75556603",
-    "title": "İletişim Başkanı Duran: Türkiye kararlı yürüyüşünü sürdürecek",
-    "source": "A Haber",
-    "time": "26/03/2026 14:04",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/26/iletisim-baskani-duran-turkiye-kararli-yuruyusunu-surdurecek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın güçlü liderliğinde Türkiye, bölgesinde ve dünyada söz sahibi, etkinliği giderek artan bir ülke...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/d414f1/1200/1200/183/0/668/486?u=https://iahbr.tmgrup.com.tr/2026/03/26/iletisim-baskani-duran-1774521961136.jpeg",
     "keyword": null
   }
 ]
