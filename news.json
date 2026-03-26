@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9ecbff4e",
+    "title": "Hakikat yargılanamaz",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 08:46",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/hakikat-yargilanamaz-2489620",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Peş peşe birbirini izleyen olaylara bakınca, insan çıldırmadan nasıl bu ülkede yaşayabilir diye şaşmadan edemiyorum.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar96_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_97597cac",
     "title": "Savcı dosyadan alınmıştı: Kooperatif davasında beşinci duruşma!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Tahran yönetimi, İsrail ve Körfez ülkelerine yönelik saldırılarını arttırırken 'tazminat' ve 'Hürmüz'ün kontrolü' başlıklarını da içeren kendi şartlarını öne sürdü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_10b6de51",
-    "title": "LNG kargoları Asya’ya yöneliyor, Avrupa pazarda zemin kaybediyor",
-    "source": "Euronews",
-    "time": "26/03/2026 08:25",
-    "link": "http://tr.euronews.com/business/2026/03/26/lng-kargolari-asyaya-yoneliyor-avrupa-pazarda-zemin-kaybediyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Orta Doğu’daki savaşın Katar’daki tesisleri etkilemesi ve fiyatları yükseltmesiyle birlikte Avrupa, LNG sevkiyatlarını Asya’ya kaptırıyor. İtalya, Polonya ve Belçika ise son derece rekabetçi hale gelen piyasada alternatif tedarik kaynakları bulmak için harekete geçti.",
     "image": null,
     "keyword": null
   }
