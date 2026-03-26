@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0182b40c",
+    "title": "Danimarka'da hükümet kurma görevi yeniden Mette Frederiksen'e verildi",
+    "source": "Euronews",
+    "time": "26/03/2026 09:45",
+    "link": "http://tr.euronews.com/my-europe/2026/03/25/danimarkada-hukumet-kurma-gorevi-yeniden-mette-frederiksene-verildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Frederiksen, partisinin 1903'ten bu yana en düşük oy oranını almasına rağmen, 179 sandalyeli parlamentoda 38 koltukla birinci parti konumunu korumayı başardı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_f83fb0c7",
     "title": "Trabzonspor'da nokta atışı dokunuşlar...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AFAD, Kandilli deprem son dakika haberleri anbean güncelleniyor. Yaşadığı bölgede sarsıntı hisseden vatandaşlar deprem mi oldu, az önce deprem nerede oldu? sorularına yanıt arıyor. İşte 26 Mart 2026 AFAD son depremler, Kandilli Rasathanesi son dakika deprem listesi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/son-dakika-deprem-oldu-afad-kandilli-deprem-listesi-yiw9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0fd01a8b",
-    "title": "İsrailli aşırı sağcı vekil, Filistinli çocukların öldürülmesini savundu",
-    "source": "TRT Haber",
-    "time": "26/03/2026 09:05",
-    "link": "https://www.trthaber.com/haber/dunya/israilli-asiri-sagci-vekil-filistinli-cocuklarin-oldurulmesini-savundu-939107.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrailli aşırı sağcı milletvekili Yitzhak Kroizer, İsrail ordusunun, geçen haftalarda işgal altındaki Batı Şeria'nın Cenin kentinin güneyinde Tubas'a bağlı Tammun beldesinde 2'si çocuk 4 Filistinliyi öldürmesini, \"Cenin'de masum çocuk yok.\" sözleriyle savundu.",
-    "image": null,
     "keyword": null
   }
 ]
