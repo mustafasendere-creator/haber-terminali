@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f939155",
+    "title": "Irak’ın Salahaddin kentinde Haşdi Şabi karargahına hava saldırısı düzenlendi",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 15:24",
+    "link": "https://www.aa.com.tr/tr/guncel/irak-in-salahaddin-kentinde-hasdi-sabi-karargahina-hava-saldirisi-duzenlendi/3880201",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak’ın Salahaddin kentinde bulunan Haşdi Şabi karargahının hedef alındığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d7a33573",
     "title": "24 yıllık hasret için İlk rakip Romanya: Dolmabahçe'deki gizemli çuvallar",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun'un Salıpazarı ilçesinde Orman Haftası dolayısıyla fidan dikim etkinliği gerçekleştirildi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/salipazarinda-orman-haftasi-kapsaminda-fidan-dikim-etkinligi-yapildi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_de574afb",
-    "title": "Melania Trump eğitim zirvesine insansı robot ve yapay zekâ sınıf vizyonu getirdi",
-    "source": "Euronews",
-    "time": "26/03/2026 14:45",
-    "link": "http://tr.euronews.com/next/2026/03/26/melania-trump-egitim-zirvesine-insansi-robot-ve-yapay-zeka-sinif-vizyonu-getirdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "First Lady, küresel eğitim ve teknoloji konulu Beyaz Saray zirvesini beklenmedik biçimde, humanoid robot Figure 3 ile salona girerek başlattı.",
-    "image": null,
     "keyword": null
   }
 ]
