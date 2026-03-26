@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d1202198",
+    "title": "Lübnan'daki hastaneler, İsrail saldırıları ve tedarik zorluklarının baskısı altında",
+    "source": "TRT Haber",
+    "time": "26/03/2026 16:45",
+    "link": "https://www.trthaber.com/haber/dunya/lubnandaki-hastaneler-israil-saldirilari-ve-tedarik-zorluklarinin-baskisi-altinda-939172.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İşgalci İsrail'in saldırıları altındaki Lübnan'da güney ve doğu bölgelerindeki hastaneler, artan yaralı ve yerinden edilen sayısı ile tedarik sıkıntılarının oluşturduğu baskı altında hizmet vermeye çalışıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_615c7d7c",
     "title": "Cumhurbaşkanı Erdoğan: Kimse bu Türkiye'ye diz çöktüremeyecek",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şırnak-Hakkari kara yolu, çığ düşmesi sonucu ulaşıma kapandı. Ekipler, mahsur kalan araçların kurtarılması için çalışma başlattı",
     "image": "https://im.haberturk.com/l/2026/03/25/ver1774452814/3872326/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_6d3b8e7a",
-    "title": "İzmir'de ekmeğe zam",
-    "source": "Habertürk",
-    "time": "26/03/2026 16:06",
-    "link": "https://www.haberturk.com/izmir-de-ekmege-zam-3872329",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir'de 200 gramı 15 TL olan ekmeğin satış fiyatı 17.50 TL'ye çıktı",
-    "image": "https://im.haberturk.com/l/2026/03/25/ver1774453510/3872329/jpg/1280x1280",
     "keyword": null
   }
 ]
