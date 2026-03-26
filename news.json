@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_50cf59eb",
+    "title": "ABD Dışişleri Bakanı Rubio'dan \"Hürmüz Boğazı'nda menfaati olan ülkeler bu sorunu çözmeli\" mesajı",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 23:44",
+    "link": "https://www.aa.com.tr/tr/guncel/abd-disisleri-bakani-rubiodan-hurmuz-bogazinda-menfaati-olan-ulkeler-bu-sorunu-cozmeli-mesaji/3880865",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Dışişleri Bakanı Marco Rubio, ABD'nin Hürmüz Boğazı'ndan geçen petrole ihtiyacının olmadığını belirterek, \"boğazdan menfaati olan ülkelerin harekete geçmeleri gerektiğini\" savundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d45b6b96",
     "title": "Fars Haber Ajansı: 350’den fazla tanker Hürmüz Boğazı'ndan geçiş için İran’dan izin bekliyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ankara’da sosyal medya uygulaması üzerinden tanıştıkları vatandaşları restorana çağırıp fahiş hesap ödeten 7 kişi gözaltına alındı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/ankarada-ilginc-gozaltilar-gpii.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_64dff1da",
-    "title": "A Milli Takım finalde",
-    "source": "OdaTV",
-    "time": "26/03/2026 22:05",
-    "link": "https://www.odatv.com/spor/a-milli-takim-finalde-120140936",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Futbol Takımı, 2026 Dünya Kupası Avrupa Elemeleri play-off turu yarı finalinde Romanya’yı 1-0 mağlup ederek adını finale yazdırdı. Milliler, bu sonuçla Dünya Kupası yolunda büyük bir avantaj elde etti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/a-milli-takim-finalde-xoke.jpg",
     "keyword": null
   }
 ]
