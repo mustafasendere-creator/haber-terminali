@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_709ed090",
+    "title": "Küresel piyasalar Orta Doğu'daki gelişmelere odaklandı",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 09:24",
+    "link": "https://www.aa.com.tr/tr/guncel/kuresel-piyasalar-orta-dogudaki-gelismelere-odaklandi-/3879597",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel piyasalar, ABD-İran hattından gelen çelişkili mesajların sürmesi ve Orta Doğu'daki gerilimin, görece şiddeti azalsa da temel tedirginlik unsuru olmasından kaynaklı haber akışı üzerinden ilerliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_295a02bc",
     "title": "Bakan Fidan, ABD/İsrail-İran Savaşı'nı sonlandırmaya yönelik telefon diplomasisini sürdürüyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Liderlerin üzerinde mutabık kaldığı projeler arasında kaya gazı çıkarımı ve açık deniz arama faaliyetleri de yer alıyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_ba04975c",
-    "title": "Alt liglerden gelen tecrübe, bordo-mavili kulüpte başarıya dönüştü… Tekke’nin yükselişi dikkat çekiyor",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 08:45",
-    "link": "https://www.takagazete.com.tr/alt-liglerden-gelen-tecrube-bordo-mavili-kulupte-basariya-donustu-tekkenin-yukselisi-dikkat-cekiyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, kariyerinde yıllar içinde adım adım inşa ettiği tecrübeyi bordo-mavili takımda başarıya dönüştürerek dikkatleri üzerine çekti. Alt liglerden başlayıp Süper Lig’e uzanan teknik adamlık yolculuğunda önemli virajlardan geçen Tekke, bugün Trabzonspor’un başında zirve yarışının en güçlü isimlerinden biri.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/t-e-k-k-e-79.jpg",
     "keyword": null
   }
 ]
