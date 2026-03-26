@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_12cf72d2",
+    "title": "Su kesintisi sorgulama ekranı",
+    "source": "Habertürk",
+    "time": "26/03/2026 14:26",
+    "link": "https://www.haberturk.com/istanbul-su-kesintisi-sorgulama-26-mart-istanbul-da-sular-ne-zaman-gelecek-3872381",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da 26 Mart planlı su kesintileri gündemde. İSKİ’nin duyurusuna göre, bakım ve onarım çalışmaları kapsamında Anadolu ve Avrupa yakasında yer alan bazı mahallelerde geçici su kesintisi yaşanacak. Kesintilerin saat aralıkları ve etkilenecek bölgelerle ilgili ayrıntılar, İSKİ’nin resmi sorgulama ekranında paylaşılıyor. İşte su kesintisi yaşanacak ilçeler ve mahalleler…",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774470271/3872381/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_715e40f9",
     "title": "Uzaklaştırma kararını kaldırttığı kocası tarafından bıçaklandı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, Karadeniz'de seyrederken saldırıya uğradığını bildiren geminin makine dairesinde patlama gerçekleştiğini, 27 mürettebatın sağlık durumunun iyi olduğunu bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ec63437a",
-    "title": "Sosyal medyada suç örgütü propagandası yapan 358 şüpheli gözaltına alındı",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 14:04",
-    "link": "https://www.aa.com.tr/tr/guncel/sosyal-medyada-suc-orgutu-propagandasi-yapan-358-supheli-gozaltina-alindi/3880081",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medya üzerinden suç örgütü propagandası yapan, suç ve suçluyu öven şüphelilere yönelik 81 ilde düzenlenen eş zamanlı operasyonlarda 358 kişi gözaltına alındı.",
     "image": null,
     "keyword": null
   }
