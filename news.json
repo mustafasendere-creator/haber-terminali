@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_586924b7",
+    "title": "Çocuk çakmakla oynarken evi yaktı: 2 kişi dumandan etkilendi",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 13:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/cocuk-cakmakla-oynarken-evi-yakti-2-kisi-dumandan-etkilendi-2489744",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun'un İlkadım ilçesindeki evde tek başınayken çakmakla oynayan çocuğun battaniyeyi tutuşturması sonucu çıktığı iddia edilen yangın, itfaiye ekipleri tarafından söndürüldü. Ekipler gelmeden önce yangını söndürmeye çalışırken dumandan etkilenen 2 kişi ise hastaneye kaldırıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ab82b3c5-e62a-40f0-80ad-05c41bcc07cc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_895b38c0",
     "title": "Gazeteci İsmail Arı cezaevinden yazdı: 'Beni neden susturmak istediler?'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Sürmene Belediye Başkanı Hüseyin Azizoğlu, 96 yaşındaki Fikriye Bodur’u ziyaret ederek uzun süredir arızalı olan ev telefonunu yeniden çalışır hale getirdi.",
     "image": "https://resim.haber61.net/news/609397.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_98568177",
-    "title": "Gürcistan’ın en büyük turizm fuarı EBIT 2026’ya hazırlanıyor",
-    "source": "Haber61",
-    "time": "26/03/2026 13:24",
-    "link": "https://www.haber61.net/trabzon/gurcistanin-en-buyuk-turizm-fuari-ebit-2026ya-hazirlaniyor-h627739.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Gürcistan’ın Batum kentinde bu yıl 17’ncisi düzenlenecek Uluslararası Turizm ve Otel Ekipmanları Fuarı EBIT, 30 Nisan–2 Mayıs 2026 tarihleri arasında gerçekleştirilecek. Fuara yerli ve yabancı çok sayıda firmanın katılması bekleniyor.",
-    "image": "https://resim.haber61.net/news/609399.jpg",
     "keyword": null
   }
 ]
