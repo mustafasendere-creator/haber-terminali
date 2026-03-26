@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_19c225e5",
+    "title": "İBB duruşmasında gözaltına alınan kişi için tutuklama talebi",
+    "source": "Evrensel",
+    "time": "26/03/2026 15:45",
+    "link": "https://www.evrensel.net/haber/5976877/ibb-durusmasinda-gozaltina-alinan-kisi-icin-tutuklama-talebi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB davasında salonda fotoğraf çekimi yaptığı gerekçesiyle gözaltına alınan E.Y.T. tutuklama talebiyle adliyeye sevk edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340370.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_f732fa71",
     "title": "Milletvekili Yavuz Aydın’dan Trabzon’daki kamu yöneticilerine sert uyarı",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca ÖSYM, 2026Yabancı Dil Bilgisi Seviye Tespit Sınavı 2026YDS/1 giriş belgeleri erişime açıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c2fbedb0",
-    "title": "ABDden Iraktaki vatandaşlarına derhal ayrılın çağrısı",
-    "source": "TRT Haber",
-    "time": "26/03/2026 15:06",
-    "link": "https://www.trthaber.com/haber/dunya/abdden-iraktaki-vatandaslarina-derhal-ayrilin-cagrisi-939179.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin Bağdat Büyükelçiliği, Irak'taki vatandaşlarına derhal ülkeyi terk etmeleri çağrısında bulundu.",
     "image": null,
     "keyword": null
   }
