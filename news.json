@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dc53df18",
+    "title": "Trump, İran'ın anlaşma yapmak istediğini ancak bunu açıklamaktan çekindiğini savundu",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 09:04",
+    "link": "https://www.aa.com.tr/tr/guncel/trump-iranin-anlasma-yapmak-istedigini-ancak-bunu-aciklamaktan-cekindigini-savundu/3879579",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'ın anlaşma yapmak istediğini ancak bunu kamuoyuna açıklamaktan çekindiğini ileri sürdü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_38b62617",
     "title": "Türkiye ve dünya gündemi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İngiliz basınının Batılı istihbarat kaynaklarına dayandırdığı habere göre; Rusya’nın İran'a insansız hava aracı (İHA) sevkiyatına başladığı iddia edildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/rusyanin-irana-iha-sevkiyatina-basladigi-iddiasi-hanx.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b538ce7d",
-    "title": "İstanbul’da “siyah şapkalı hacker” operasyonu! Milyonlarca kişinin şifrelerini ele geçirmişler",
-    "source": "Haber Global",
-    "time": "26/03/2026 08:26",
-    "link": "https://haberglobal.com/gundem/son-dakika-istanbulda-siyah-sapkali-hacker-operasyonu-milyonlarca-kisinin-sifrelerini-ele-gecirmisler-515320",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü soruşturma kapsamında, milyonlarca kişinin verisini ele geçirdiği belirlenen hacker grubuna operasyon düzenlendi. 7 şüpheli yakalanarak gözaltına alındı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/son-dakika-istanbulda-siyah-sapkali-hacker-operasyonu-milyonlarca-kisinin-sifrelerini-ele-gecirmisler-wykd.jpg",
     "keyword": null
   }
 ]
