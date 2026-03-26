@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_384e55fe",
+    "title": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
+    "source": "Haber Global",
+    "time": "26/03/2026 16:05",
+    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-515484",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Genişletilmiş İl Başkanları Toplantısı'nda açıklamalarda bulunuyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
+    "keyword": null
+  },
+  {
     "id": "GND_c665b91c",
     "title": "İstanbul'da 27 Mart Cuma büyük elektrik kesintileri olacak!",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'da tedavi gördüğü hastanede beyin ölümü gerçekleşen 23 yaşındaki kadının organları, 3 hastaya nakledilecek.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_bedf6a2c",
-    "title": "Eski savcı Çallı'ya \"rüşvet almak\" ve \"gizliliği ihlal\" suçlarından dava",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 15:44",
-    "link": "https://www.aa.com.tr/tr/guncel/eski-savci-calliya-rusvet-almak-ve-gizliligi-ihlal-suclarindan-dava/3880208",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İlk derece mahkemesi sıfatıyla Yargıtay 5. Ceza Dairesi'nde görülen davada \"rüşvete aracılık\" iddiasıyla tutuklu yargılanan eski savcı Cengiz Çallı hakkında, 6 yıl 10 aydan 22 yıl 6 aya kadar hapis istemiyle iddianame hazırlandı.",
-    "image": null,
-    "keyword": null
   }
 ]
