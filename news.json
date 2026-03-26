@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fba6643b",
+    "title": "Mahkeme 'Yenidoğan Çetesi' davasında ara kararını açıkladı!",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 16:06",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/mahkeme-yenidogan-cetesi-davasinda-ara-kararini-acikladi-2489783",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "“Yenidoğan Çetesi” davasının 42. duruşmasında mahkeme heyeti ara kararını açıkladı. Tutuklu yargılanan 10 sanığın “tutukluluk halinin devamı” yönünde karar verilirken, bir sonraki duruşma 10 Temmuz tarihine ertelendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5c5269b6-89e9-497c-a3d8-36c071d89735.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_384e55fe",
     "title": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "İYİ Parti Trabzon Milletvekili Yavuz Aydın, TBMM’de yaptığı konuşmada Trabzon’daki kamu kurumlarına yönelik eleştirilerde bulundu. Aydın, “Kamu görevi siyasi hesaplaşma alanı değildir” dedi.",
     "image": "https://resim.haber61.net/news/609425.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_2244473c",
-    "title": "Genç kadının organları 3 kişiye umut oldu",
-    "source": "TRT Haber",
-    "time": "26/03/2026 15:44",
-    "link": "https://www.trthaber.com/haber/saglik/genc-kadinin-organlari-3-kisiye-umut-oldu-939183.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'da tedavi gördüğü hastanede beyin ölümü gerçekleşen 23 yaşındaki kadının organları, 3 hastaya nakledilecek.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
