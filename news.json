@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4628f55",
+    "title": "Almanya'da Volkswagen’ın İsrail için silah üreteceği haberleri bölge sakinlerini tedirgin etti",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 12:24",
+    "link": "https://www.aa.com.tr/tr/guncel/almanyada-volkswagen-in-israil-icin-silah-uretecegi-haberleri-bolge-sakinlerini-tedirgin-etti/3879927",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman otomotiv firması Volkswagen’ın (VW) Almanya’daki Osnabrück fabrikasında İsrail için silah üreteceği iddiası, şehir sakinlerini rahatsız etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b297193e",
     "title": "MSB duyurdu! TSK personeli Bağdat'tan tahliye edildi",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Bakan Uraloğlu, 5G'ye geçiş tarihini açıkladı... Türkiye'de kaç kişi 5G uyumlu telefon kullanıyor? Trabzonlu olan Bakan Uraloğlu, babasından örnek verdi...",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/5g.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_37f15620",
-    "title": "Musk, X'te içerik üreticilerine yönelik yeni ödeme planını askıya aldı",
-    "source": "Euronews",
-    "time": "26/03/2026 11:45",
-    "link": "http://tr.euronews.com/next/2026/03/25/tepkiler-sonrasi-musk-xte-icerik-ureticilerine-odeme-kuralini-askiya-aldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Normal şartlarda bu perşembe günü yürürlüğe girmesi beklenen yeni kurallar, platformun içerik üreticilerine yaptığı ödemelerin hesaplanma yönteminde köklü bir değişiklik öngörüyordu.",
-    "image": null,
-    "keyword": null
   }
 ]
