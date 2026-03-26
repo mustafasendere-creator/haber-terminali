@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fc2d42ff",
+    "title": "Liverpool'da bir devrin sonu: Salah sezon sonunda takımdan ayrılıyor",
+    "source": "Euronews",
+    "time": "26/03/2026 10:45",
+    "link": "http://tr.euronews.com/2026/03/25/liverpoolda-bir-devrin-sonu-salah-sezon-sonunda-takimdan-ayriliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Liverpool, 33 yaşındaki Salah'ın sözleşmesinin bitmesine bir yıl kala takımdan ayrılmak üzere kulüple \"anlaşmaya vardığını\" açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_4546a7ea",
     "title": "İşsizlik oranı yüzde 7,6 seviyesinde",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'nin uydu teknolojileri alanında faaliyet gösteren firmaları TÜRKSAT, Türk Havacılık ve Uzay Sanayii TUSAŞ, ASELSAN ve PROFEN, dünya uydu ekosisteminin önde gelen organizasyonlarından biri olan Satellite 2026'da ürün ve hizmetlerini tanıttı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1a4d9310",
-    "title": "Uyuşturucu soruşturmasında gözaltına alınan 14 ünlü isim adliyede",
-    "source": "TRT Haber",
-    "time": "26/03/2026 10:05",
-    "link": "https://www.trthaber.com/haber/gundem/uyusturucu-sorusturmasinda-gozaltina-alinan-14-unlu-isim-adliyede-939128.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da düzenlenen uyuşturucu soruşturmasında gözaltına alınan 14 şüpheli adliyeye sevk edildi.",
     "image": null,
     "keyword": null
   }
