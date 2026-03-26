@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_588929a2",
+    "title": "Kano devrildi saatlerce mahsur kaldı",
+    "source": "OdaTV",
+    "time": "27/03/2026 00:05",
+    "link": "https://www.odatv.com/guncel/kano-devrildi-saatlerce-mahsur-kaldi-120140920",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya&#039;da kano ile denize açılan ve dengesini kaybederek suya düşen bir kişi, akıntıya kapılarak denizde yaklaşık 3 saat mahsur kaldı. Yüzerek hayatta kalmaya çalışan şahıs, deniz polisinin müdahalesiyle bota alınıp kurtarıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/kano-devrildi-saatlerce-mahsur-kaldi-to5t.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_88b6e348",
     "title": "NATO'dan Türkiye çıkışı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dünya Bankası Grubu, Orta Doğu'daki çatışmanın yol açtığı krizde ülkelere yardımcı olmak için hızla harekete geçildiğini, hükümetleri, firmaları ve hane halklarını desteklemek için eldeki tüm araçlardan yararlanılacağını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_81e17e95",
-    "title": "Maduro, New York'ta ikinci kez hakim karşısına çıkarıldı",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 23:24",
-    "link": "https://www.aa.com.tr/tr/guncel/maduro-new-yorkta-ikinci-kez-hakim-karsisina-cikarildi/3880906",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin 3 Ocak'ta Venezuela'da askeri müdahaleyle alıkoyduğu Devlet Başkanı Nicolas Maduro ve eşi Cilia Flores, ikinci kez hakim karşısına çıktı.",
     "image": null,
     "keyword": null
   }
