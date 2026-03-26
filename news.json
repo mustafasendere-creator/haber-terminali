@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_829a6338",
+    "title": "Dolmuşta doğum yapan anne firarda: Bakanlık devreye girdi",
+    "source": "OdaTV",
+    "time": "26/03/2026 14:06",
+    "link": "https://www.odatv.com/guncel/izmirde-dolmusta-dogum-yapan-anne-firarda-bakanlik-devreye-girdi-120140860",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Bornova’da dolmuşta doğum yapan kadın, hastaneden kimseye haber vermeden firar etti. Bebeğin bakımı için bakanlık devreye girdi ve devlet korumasına alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/izmirde-dolmusta-dogum-yapan-anne-firarda-bakanlik-devreye-girdi-dtow.png",
+    "keyword": null
+  },
+  {
     "id": "GND_36aab1c0",
     "title": "Frankfurt’ta alarm çanları: Enerji hattındaki kırılma Euro Bölgesi’ni sarsıyor",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "İran’ın yeni füzeler fırlatması üzerine sağlık ekipleri, beş kişinin yaralandığı ve yeni saldırı korkularını artıran Kafr Kasım’daki vurulan yerleşim bölgesine koştu.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_4e4b30aa",
-    "title": "Başkan Genç: \" Trabzon'u daha ileri taşıyacağız\"",
-    "source": "Haber61",
-    "time": "26/03/2026 13:45",
-    "link": "https://www.haber61.net/trabzon/baskan-genc-trabzonu-daha-ileri-tasiyacagiz-h627744.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, AK Parti Genel Merkezi’nde düzenlenen toplantıda Trabzon’daki yatırımlar ve yeni projeleri değerlendirdi.",
-    "image": "https://resim.haber61.net/news/609409.jpg",
-    "keyword": "trabzon"
   }
 ]
