@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e5e63101",
+    "title": "Epic Games, 1000'den fazla çalışanını işten çıkarıyor",
+    "source": "Evrensel",
+    "time": "26/03/2026 12:05",
+    "link": "https://www.evrensel.net/haber/5976826/epic-games-1000den-fazla-calisanini-isten-cikariyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Epic Games, Fortnite'ta kullanıcı etkileşiminin azalması nedeniyle 1000'den fazla çalışanını işten çıkaracak.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340321.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_6eca0f3b",
     "title": "Trabzon’da Fabrika Yangını Kontrol Altına Alındı Soğutma İşlemleri Devam Ediyor: İnceleme Başlatıldı",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ülke genelinde, baharda sıcaklıkların mevsim normallerinin üzerinde seyretmesi bekleniyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1d4274e5",
-    "title": "Bandrollü ürünlere yönelik 29 bin denetim yapıldı",
-    "source": "TRT Haber",
-    "time": "26/03/2026 11:25",
-    "link": "https://www.trthaber.com/haber/ekonomi/bandrollu-urunlere-yonelik-29-bin-denetim-yapildi-939147.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı GİB, bandrollü ürünlere yönelik geçen yıl 28 bin 777 denetim yaparken, makaronda 828 milyon, tütün ve alkollü içkilerde 24 milyon 238 bin 873 ürün incelendi.",
     "image": null,
     "keyword": null
   }
