@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bda5195f",
+    "title": "Zonguldak’ta patpat devrildi: Ölü ve yaralı var",
+    "source": "Haber Global",
+    "time": "27/03/2026 02:24",
+    "link": "https://haberglobal.com/yasam/zonguldakta-patpat-devrildi-olu-ve-yarali-var-515525",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zonguldak’ın Karadeniz Ereğli ilçesinde halk arasında \"patpat\" olarak bilinen tarım aracının devrilmesi sonucu 1 kişi hayatını kaybetti, 1 kişi de ağır yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/zonguldakta-patpat-devrildi-olu-ve-yarali-var-5lt7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_56045b51",
     "title": "Sinema salonlarında bu hafta: Altın Ayı ödüllü “Sarı Zarflar” vizyonda",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dilovası davasının üçüncü duruşmasında dinlenen tanıklar, atölyeye ilişkin ihmal ve usulsüzlük iddialarını gözler önüne serdi. Tanık ifadelerine göre zabıta ekiplerinin işletmeyle yakın ilişki içinde olduğu, denetimlerin yapılmadığı ve CİMER’e yapılan şikayetlerin sonuçsuz kaldığı öne sürüldü.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/27/dilovasi-davasinda-skandal-ifadeler-ravive-kozmetik-parfum-fabrikasi-yangini-oqil.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ab38d277",
-    "title": "Akde Demir Çelik, 2025’i 1 milyar TL ciro ile kapattı",
-    "source": "Ekonomim",
-    "time": "27/03/2026 00:44",
-    "link": "https://www.ekonomim.com/ekonomi/akde-demir-celik-2025i-1-milyar-tl-ciro-ile-kapatti-haberi-884239",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayseri OSB’de 4 bin metrekaresi kapalı, İncesu OSB’de ise 10 bin metrekaresi kapalı alandan oluşan iki ayrı fabrikada hizmet veren Akde Demir Çelik, boru, profil ve sac ticareti ile başladığı sektörde hayata geçirdiği yeni yatırımlarla birlikte üretici konuma geldi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/26/akde-demir-celik-2025i-1-milyar-tl-ciro-ile-kapatti-26gy_cover.jpg",
     "keyword": null
   }
 ]
