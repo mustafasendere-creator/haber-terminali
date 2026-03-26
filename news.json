@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3997af79",
+    "title": "Gazze: Deir el-Belah yakınındaki çadırlara saldırı, en az bir kişi öldü",
+    "source": "Euronews",
+    "time": "26/03/2026 11:45",
+    "link": "http://tr.euronews.com/video/2026/03/26/gazze-deir-el-belah-yakinindaki-cadirlara-saldiri-en-az-bir-kisi-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Olay yerinden gelen görüntüler, patlamanın kampa çok yakın düştüğünü, dumanların yükselip yangın çıktığını, halk ve sağlık ekiplerinin yaralıları taşımak için koşuşturduğunu gösteriyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_59c8eb66",
     "title": "Gümrük savaşının en büyük kazanan ve kaybedenleri: Yapay zekâ ticareti hızla arttı",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Meteoroloji Genel Müdürlüğü (MGM) ikisi sarı kodlu 19 ile kar ve sağanak yağış uyarısında bulundu. MGM’nin sağanak yağış beklediği iller şöyle: Sivas Kayseri Niğde Karaman Samsun Trabzon Antalya Hatay Mersin Adana Malatya Diyarbakır Gaziantep Siirt Mardin (sarı kodlu) Şanlıurfa (sarı kodlu) Kar yağışı beklenen illerse şunlar: Van Erzurum Kars Yağışların gece saatlerinde Doğu Anadolu’nun güneydoğusunda [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c4e5892e8f97.26581014.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9b39363a",
-    "title": "Osman Hamdi Bey'in 'Cami Kapısında' 217 milyon liraya satıldı",
-    "source": "OdaTV",
-    "time": "26/03/2026 10:47",
-    "link": "https://www.odatv.com/kultur-sanat/osman-hamdi-beyin-cami-kapisinda-217-milyon-liraya-satildi-120140824",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Osman Hamdi Bey’in “Cami Kapısında” adlı eseri, Londra’daki müzayedede 3 milyon 678 bin sterline satılarak yaklaşık 217 milyon TL’ye alıcı buldu. Eser, 131 yıl sonra ilk kez açık artırmaya çıktı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/osman-hamdi-beyin-cami-kapisinda-217-milyon-liraya-satildi-ensa.png",
-    "keyword": null
   }
 ]
