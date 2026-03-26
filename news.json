@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_04093801",
+    "title": "Edirne'de \"mini savunma fuarı\" yoğun katılımla gerçekleşti",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 18:04",
+    "link": "https://www.aa.com.tr/tr/guncel/edirnede-mini-savunma-fuari-yogun-katilimla-gerceklesti/3880440",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne Valisi Yunus Sezer, Balkan Şehitlerini Anma Günü kapsamında düzenlenen \"Trakya Yerli ve Milli Sistemleri Edirne'de buluşuyor\" etkinliğiyle kentte mini bir savunma fuarının gerçekleştirildiğini belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fe5e352b",
     "title": "Lübnan resmi haber ajansı: İsrail ordusu Lübnan'ın güneyine fosfor bombasıyla saldırdı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "beOnd, Maldivler’de faaliyet gösteren çok sayıdaki yabancı havayolundan, yalnızca business sınıfı sunan lüks tatil uçuşlarıyla ayrışmayı hedefliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_917c944b",
-    "title": "AirBaltic, Londra, Berlin ve Riga'dan Laponya'ya kış uçuşlarını genişletti",
-    "source": "Euronews",
-    "time": "26/03/2026 17:05",
-    "link": "http://tr.euronews.com/gezi/2026/03/26/airbaltic-londra-berlin-ve-rigadan-laponyaya-kis-ucuslarini-genisletti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AirBaltic’in Finlandiya Laponyası’na açtığı yeni hatların, bölgenin gözde bir kış kayağı ve tatil rotası olarak artan cazibesini öne çıkarması bekleniyor.",
     "image": null,
     "keyword": null
   }
