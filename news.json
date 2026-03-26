@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d6a2e09b",
+    "title": "Trump'a destek yüzde 36 ile en düşük seviyede",
+    "source": "TRT Haber",
+    "time": "26/03/2026 09:05",
+    "link": "https://www.trthaber.com/haber/dunya/trumpa-destek-yuzde-36-ile-en-dusuk-seviyede-939120.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Reuters/Ipsos tarafından yapılan son kamuoyu yoklaması, ABD Başkanı Donald Trumpa olan halk desteğinin, İran ile başlayan savaş ve hızla artan akaryakıt fiyatlarının etkisiyle yüzde 36ya gerileyerek en düşük seviyesine ulaştığını ortaya koydu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a682798d",
     "title": "Deniz trafiğinde son durum ne?",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran'ın yeni misillemesinin ardından başta Tel Aviv olmak üzere İsrail'in birçok bölgesinde sirenler çaldı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_7b3ca1ee",
-    "title": "Akçaabat Söğütlü’de araç takla attı!",
-    "source": "Haber61",
-    "time": "26/03/2026 08:44",
-    "link": "https://www.haber61.net/trabzon/akcaabat-sogutlude-arac-takla-atti-h627706.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Akçaabat ilçesinde meydana gelen kazada bir araç takla attı. Araçta bulunan kişi kazayı yara almadan atlatırken, olay bölgede kısa süreli paniğe neden oldu.",
-    "image": "https://resim.haber61.net/news/609341.jpg",
     "keyword": null
   }
 ]
