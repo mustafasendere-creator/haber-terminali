@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d65cfda",
+    "title": "Vazgeçilen pişmanlığın bilinmeyen öyküsü",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 08:26",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-terkoglu/vazgecilen-pismanligin-bilinmeyen-oykusu-2489607",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uçup gitti sandığın, doğanın asla kaybetmediği varlıktır.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar380_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_65eba493",
     "title": "Yanlış anlaşılan milli irade",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran askeri yönetimi, Hürmüz Boğazı’nda geçiş kurallarının tek taraflı olarak yeniden belirlendiğini açıklayarak ABD ve İsrail bağlantılı hiçbir unsura geçiş izni verilmeyeceğini duyurdu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340158.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c51de9bc",
-    "title": "Üsküdar'da işçilerin kaldığı konteynerde çıkan yangın söndürüldü",
-    "source": "Evrensel",
-    "time": "26/03/2026 08:05",
-    "link": "https://www.evrensel.net/haber/5976777/uskudarda-iscilerin-kaldigi-konteynerde-cikan-yangin-sonduruldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Üsküdar'da inşaat alanındaki işçi konteynerinde çıkan yangın söndürüldü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340277.jpg",
     "keyword": null
   }
 ]
