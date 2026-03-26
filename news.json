@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_adccc384",
+    "title": "NBA’den genişleme adımı: Seattle ve Las Vegas için resmi süreç başladı",
+    "source": "Evrensel",
+    "time": "26/03/2026 09:25",
+    "link": "https://www.evrensel.net/haber/5976793/nbaden-genisleme-adimi-seattle-ve-las-vegas-icin-resmi-surec-basladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NBA, Seattle ve Las Vegas’a genişleme ihtimalini resmen araştırmaya başladı. Yönetim Kurulu kararıyla iki yeni takım için ilk adım atıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/330908.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_b83ff977",
     "title": "Almanya’dan Sınır Dışı Edildiğini İddia Eden Trabzonlu Gazi Reise Sesini Duyurmak İstiyor",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump'ın İsrail Başbakanı Binyamin Netanyahu'nun İranlıları rejime karşı sokağa çağırma önerisini geri çevirdiği iddia edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_277e83e7",
-    "title": "ABD'li oyuncu Mark Ruffalo Batı Şeria'daki Filistin topraklarını gasbeden İsraillileri eleştirdi",
-    "source": "TRT Haber",
-    "time": "26/03/2026 08:46",
-    "link": "https://www.trthaber.com/haber/dunya/abdli-oyuncu-mark-ruffalo-bati-seriadaki-filistin-topraklarini-gasbeden-israillileri-elestirdi-939109.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'li oyuncu Mark Ruffalo, Batı Şeria'daki Filistin topraklarını gasbeden İsraillileri eleştirerek, \"Öldürme ve toprak çalma konusunda tam anlamıyla kanunsuz. Hem içeride hem dışarıda.\" ifadelerini kullandı.",
     "image": null,
     "keyword": null
   }
