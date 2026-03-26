@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dc2f5f84",
+    "title": "Denizde 3 saat bekledi: Yardımına deniz polisi yetişti!",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 16:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/denizde-3-saat-bekledi-yardimina-deniz-polisi-yetisti-2489793",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'da denize açıldığı sırada çıkan rüzgarın etkisiyle devrilen sup boarda (kürek sörfü bordu) tutunarak yardım bekleyen Turgay T., devriye görevindeki deniz polisi tarafından fark edilip, 3 saat sonra kurtarıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/56032e45-d1d5-42c8-9961-4c186c3584f7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d20e893e",
     "title": "Galatasaray'da tüm gözler Carlos Cuesta'da!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avrupa Kulüpler Birliği (EFC) ve EA SPORTS FC™, futbolun toplumsal değişim gücünü ödüllendiren “Değişimin Sembolü” hibeleri kapsamında Samsunspor’un 100 bin Euro değerindeki büyük ödüle layık görüldüğünü duyurdu.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/samsunsporun-mor-forma-projesine-avrupadan-buyuk-odul-2n0i.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6e73a786",
-    "title": "Erdoğan ne mesaj verecek",
-    "source": "OdaTV",
-    "time": "26/03/2026 16:06",
-    "link": "https://www.odatv.com/siyaset/erdogan-ne-mesaj-verecek-120140888",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Erdoğan, AK Parti Genişletilmiş İl Başkanları Toplantısı’nda konuşuyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/erdogan-ne-mesaj-verecek-yxoh.jpg",
     "keyword": null
   }
 ]
