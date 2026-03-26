@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_94a5d27c",
+    "title": "İsrail, İran Devrim Muhafızları Deniz Kuvvetleri Komutanı Tengsiri'nin öldüğünü iddia etti",
+    "source": "Evrensel",
+    "time": "27/03/2026 01:44",
+    "link": "https://www.evrensel.net/haber/5976871/israil-iran-devrim-muhafizlari-deniz-kuvvetleri-komutani-tengsiri-nin-oldugunu-iddia-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Savunma Bakanı Yisrael Katz, İran Devrim Muhafızları Ordusu Deniz Kuvvetleri Komutanı Ali Rıza Tengsiri'nin hava saldırısında öldürüldüğünü iddia etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340364.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1636e808",
     "title": "İsrail, Lübnan’da sağlık çalışanlarını özellikle hedef alıyor",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Romanya Milli Takımı Teknik Direktörü Mircea Lucescu, Türkiye maçı öncesi 23 kişilik kadroyu belirlerken 4 futbolcuyu liste dışında bıraktı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340367.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0a66dfaa",
-    "title": "Formula 1’de basın toplantısı gerilimi: Verstappen gazeteciyi kovdu",
-    "source": "Evrensel",
-    "time": "27/03/2026 00:24",
-    "link": "https://www.evrensel.net/haber/5976924/formula-1de-basin-toplantisi-gerilimi-verstappen-gazeteciyi-kovdu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Max Verstappen, Japonya Grand Prix'si öncesi düzenlenen basın toplantısında Guardian muhabiri Giles Richards'ı odadan kovdu. Richards, Abu Dabi'deki yarışın ardından Verstappen'e George Russell ile çarpıştığı kaza için \"Pişman mısın\" diye sormuştu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340419.jpg",
     "keyword": null
   }
 ]
