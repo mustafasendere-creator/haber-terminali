@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_867299f4",
+    "title": "Orhan Pamuk’un apartman davasında karar",
+    "source": "Evrensel",
+    "time": "26/03/2026 17:22",
+    "link": "https://www.evrensel.net/haber/5976880/orhan-pamukun-apartman-davasinda-karar",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyoğlu’nda Orhan Pamuk’un da dairelerinin bulunduğu Taray Apartmanı için mahkeme, güçlendirme talebini reddetti. Kararla birlikte binanın yıkılmasının önünde engel kalmadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/335559.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b4275cb2",
     "title": "Avcılar’da yıkımı yapılan binanın 4'üncü katından düşerek hayatını kaybetti: Geri dönüşüm malzemelerini sökmek için girmiş",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun’un Canik ilçesinde aralarında husumet bulunan iki kişi arasında çıkan tartışma silahlı saldırıya dönüştü. Tüfekle vurulan genç ağır yaralanırken, şüpheli kısa sürede yakalandı.",
     "image": "https://resim.haber61.net/news/609437.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e55a824c",
-    "title": "Epstein'in Norveç bağlantılarına ilişkin ülkede son 20 yılda görev yapmış dışişleri bakanları ifade verecek",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 16:44",
-    "link": "https://www.aa.com.tr/tr/guncel/epsteinin-norvec-baglantilarina-iliskin-ulkede-son-20-yilda-gorev-yapmis-disisleri-bakanlari-ifade-verecek/3880260",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Jeffrey Epstein'in Norveçli bazı isimlerle ilişkisinin ortaya çıkması üzerine Norveç'te son 20 yılda görev yapan dışişleri bakanlarının ifade vereceği duyuruldu.",
-    "image": null,
     "keyword": null
   }
 ]
