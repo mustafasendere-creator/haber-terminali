@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_234822a7",
+    "title": "Anadolu mutfağının unutulmaya yüz tutan lezzeti: Bezirgani tarifi",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 15:26",
+    "link": "https://www.cumhuriyet.com.tr/gurme/anadolu-mutfaginin-unutulmaya-yuz-tutan-lezzeti-bezirgani-tarifi-2489766",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuru ekmek, ceviz ve baharatların eşsiz uyumuyla hazırlanan bezirgani, hem ekonomik hem de doyurucu bir lezzet sunuyor. İşte, enfes bezirgani tarifi...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/09ba3dc2-ea96-4c11-9e7a-c81475784433.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2c5f89de",
     "title": "Tavuğun enfes değişimi: Louisiana Gumbo",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "İş insanı Ahmet Kazaz, Haber61 TV’de katıldığı programda istifa sürecini anlattı. Kazaz, “Rollere değil faydaya odaklandım” dedi.",
     "image": "https://resim.haber61.net/news/609419.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_240e3627",
-    "title": "Almanya'da elektrik fiyatları \"ABD/İsrail-İran Savaşı\" ile yükseldi",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 15:04",
-    "link": "https://www.aa.com.tr/tr/guncel/almanyada-elektrik-fiyatlari-abd-israil-iran-savasi-ile-yukseldi/3880105",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD/İsrail-İran Savaşı ve enerji piyasalarındaki belirsizlik, Almanya'da elektrik fiyatlarını doğrudan etkiliyor.",
-    "image": null,
     "keyword": null
   }
 ]
