@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4d08d971",
+    "title": "Marmaris Belediyesi’ne gece yarısı polis baskını!",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 02:04",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/marmaris-belediyesi-ne-gece-yarisi-polis-baskini-2489946",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla’nın Marmaris ilçesinde yürütülen soruşturma kapsamında belediye binasına gece yarısı operasyon düzenlendi. Önceki dönem belediyede görev yapan bazı yetkililerin de belediyeye getirildiği öğrenilirken, belediye çevresi abluka altına alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2650372f-b87e-4589-979b-ac7537c916d9.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_271ec3f7",
     "title": "Erzurum'da 3,2 büyüklüğünde deprem",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kıbrıs Türk Öğretmenler Sendikası (KTÖS) Genel Sekreteri Burak Maviş ile İran'a yönelik ABD-İsrail saldırılarıyla başlayan savaşın adayı ve halkları nasıl etkilediğini konuştuk",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340383.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a565900f",
-    "title": "Akınal Sentetik işçileri mezbaha düzenini anlattı: ‘Biz uzuvlarımızı kaybediyoruz, Türkmen bunu söylediği için tutuklu’",
-    "source": "Evrensel",
-    "time": "27/03/2026 00:44",
-    "link": "https://www.evrensel.net/haber/5976922/akinal-sentetik-iscileri-mezbaha-duzenini-anlatti-biz-uzuvlarimizi-kaybediyoruz-turkmen-bunu-soyledigi-icin-tutuklu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Akınal Sentetik’te iş kazası yaşayan iki işçi mezbaha düzenini anlattı. İş güvenliği konusunda defalarca uyarıda bulunan, üretim baskısı nedeniyle iş kazalarının ‘göz göre göre’ geldiğini anlatan işçiler “Yıllar geçti, hâlâ iş güvenliği yok” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340416.jpg",
     "keyword": null
   }
 ]
