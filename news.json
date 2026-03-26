@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_519842da",
+    "title": "Gerilim azalmadı, petrol fiyatları arttı",
+    "source": "TRT Haber",
+    "time": "26/03/2026 08:26",
+    "link": "https://www.trthaber.com/haber/dunya/gerilim-azalmadi-petrol-fiyatlari-artti-939119.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın, ABD Başkanı Donald Trumpın \"taraflar arasında çatışmayı sona erdirmek için müzakereler yürütüldüğü\" yönündeki iddiasını yalanlamasının ardından, savaşta gerilimin düşeceği umutlarının azalmasıyla petrol fiyatları yeniden yükselişe geçti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_810b8385",
     "title": "Almanya Cumhurbaşkanı'nın ABD çıkışına İran ve AfD'den övgü",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Alkolik (@alkolikyorumlar) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon sol"
-  },
-  {
-    "id": "GND_0bebc935",
-    "title": "Kölelik BM'de 'İnsanlığa karşı en ağır suç' diye tanımlandı",
-    "source": "BBC Türkçe",
-    "time": "26/03/2026 08:05",
-    "link": "https://www.bbc.com/turkce/articles/cjw8l5wdj21o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler Genel Kurulu, köleliği \"insanlığa karşı işlenmiş en ağır suç\" olarak ilan eden bir kararı onayladı. Karar ayrıca, kültürel eserlerin \"derhal ve engelsiz iadesini\" de öngörüyor.",
-    "image": null,
-    "keyword": null
   }
 ]
