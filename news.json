@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6332ca51",
+    "title": "ABD Başkanı Trump, piyasaların İran'a tepkisinin beklediği şiddette olmadığını savundu",
+    "source": "TRT Haber",
+    "time": "26/03/2026 21:44",
+    "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-piyasalarin-irana-tepkisinin-bekledigi-siddette-olmadigini-savundu-939212.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran gündemi dolayısıyla petrol fiyatlarının daha fazla artacağını ve borsanın daha fazla düşeceğini düşündüğünü belirterek, \"Durum, tahmin ettiğim kadar ağır olmadı.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b7b2de16",
     "title": "Sivas'ta 125 kişi umre vaadiyle dolandırıldı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "CHP Karabük Milletvekili Cevdet Akay, son 13 yılda 18,6 milyar liralık vergi ve ceza borcunun silindiğini belirterek iktidarın vergide adalet söylemini eleştirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340404.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_d32e7e1c",
-    "title": "Samsunspor’dan Trabzonspor Mesajı: Suat Çakır, tansiyonu yükseltti",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 20:44",
-    "link": "https://www.takagazete.com.tr/samsunspordan-trabzonspor-mesaji-suat-cakir-tansiyonu-yukseltti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Türkiye Kupası çeyrek finalinde Trabzonspor’un rakibi olan Samsunspor, kupaya Avrupa’nın çıkış kapısı olarak görüyor. Kırmızı-Beyazlı ekibin Basın Sözcüsü ve İcra Kurulu Üyesi Suat Çakır kupaya dair açıklamasında Trabzonspor’u mağlup ederek Galatasaray-Gençlerbirliği galibi ile yarı finalde karşılaşmak istediklerini açıkladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/bilendi.jpg",
-    "keyword": "trabzon"
   }
 ]
