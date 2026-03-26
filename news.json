@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6d2611d7",
+    "title": "Trump, \"İran'ın elektrik santrallerini hedef alma\" kararını 6 Nisan'a kadar ertelediğini açıkladı",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 00:24",
+    "link": "https://www.aa.com.tr/tr/guncel/trump-iranin-elektrik-santrallerini-hedef-alma-kararini-6-nisana-kadar-erteledigini-acikladi/3880935",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, \"İran'ın elektrik santrallerini hedef alma\" kararını 6 Nisan'a kadar durdurduğunu ve müzakerelerin \"çok iyi gittiğini\" belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a6e9ed05",
     "title": "Rusya Dışişleri Bakanı Lavrov, Putin ve Trump'ın birbirlerine saygı duyduğunu söyledi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "2026 FIFA Dünya Kupası Avrupa Elemeleri play-off turu yarı finalinde Slovakya, Kosova'yı konuk ediyor. Mücadelenin galibi finalde Türkiye'nin rakibi olacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/337310.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fc32c13b",
-    "title": "ABD medyası: Pentagon, Ukrayna'ya ayrılan askeri yardımı Orta Doğu'ya yönlendirmeyi değerlendiriyor",
-    "source": "Euronews",
-    "time": "26/03/2026 23:24",
-    "link": "http://tr.euronews.com/2026/03/26/abd-medyasi-pentagon-ukraynaya-ayrilan-askeri-yardimi-orta-doguya-yonlendirmeyi-degerlendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD basınında perşembe günü yer alan haberlere göre, İran savaşının sona ereceğine dair hiçbir belirti göstermeyen ABD, sadece odaklanma ve ilgi açısından değil, askeri yardım açısından da Orta Doğu'ya Ukrayna'dan daha fazla öncelik verebilir.",
-    "image": null,
     "keyword": null
   }
 ]
