@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3f8c05a0",
+    "title": "Fenerbahçe Beko, Avrupa Ligi'nde yarın Zalgiris'i ağırlayacak",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 10:24",
+    "link": "https://www.aa.com.tr/tr/guncel/fenerbahce-beko-avrupa-liginde-yarin-zalgirisi-agirlayacak/3879659",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Beko, Basketbol Avrupa Ligi'nin (EuroLeague) 34. haftasında yarın Litvanya'nın Zalgiris takımını konuk edecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1fd7191d",
     "title": "İstanbul'da kişisel verileri ele geçirip satan hacker grubuna yönelik operasyonda 7 zanlı yakalandı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Ara transfer döneminde kadrosuna 3 oyuncu katarken 5 isimle yollarını ayıran Trabzonspor’da yapılan hamlelerin sahaya yansıması dikkat çekti.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ts-kurtarzxildi-kopya-130.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_5e29a9f5",
-    "title": "Kuzey Kore, Lukaşenko'yu Pyongyang'da törenle karşıladı",
-    "source": "Euronews",
-    "time": "26/03/2026 09:45",
-    "link": "http://tr.euronews.com/video/2026/03/25/kuzey-kore-lukasenkoyu-pyongyangda-torenle-karsiladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Belarus Cumhurbaşkanı Aleksandr Lukaşenko, resmî bir ziyaret ve Kuzey Kore lideri Kim Jong Un ile görüşme için Pyongyang'a geldi.",
-    "image": null,
-    "keyword": null
   }
 ]
