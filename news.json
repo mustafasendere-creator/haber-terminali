@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a565900f",
+    "title": "Akınal Sentetik işçileri mezbaha düzenini anlattı: ‘Biz uzuvlarımızı kaybediyoruz, Türkmen bunu söylediği için tutuklu’",
+    "source": "Evrensel",
+    "time": "27/03/2026 00:44",
+    "link": "https://www.evrensel.net/haber/5976922/akinal-sentetik-iscileri-mezbaha-duzenini-anlatti-biz-uzuvlarimizi-kaybediyoruz-turkmen-bunu-soyledigi-icin-tutuklu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akınal Sentetik’te iş kazası yaşayan iki işçi mezbaha düzenini anlattı. İş güvenliği konusunda defalarca uyarıda bulunan, üretim baskısı nedeniyle iş kazalarının ‘göz göre göre’ geldiğini anlatan işçiler “Yıllar geçti, hâlâ iş güvenliği yok” dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340416.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_84240c4f",
     "title": "‘Telefonla çağrılsa ifadeye gidecekler’ (mi?)",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Yeni bir analiz, 1990'dan bu yana ABD kaynaklı emisyonların küresel ekonomiye 10 trilyon dolardan (8,65 trilyon avro) fazla zarara yol açtığını ortaya koydu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a2aa0cc6",
-    "title": "İsrail: İran Deniz Kuvvetleri Komutanı Alireza Tangsiri öldürüldü",
-    "source": "Euronews",
-    "time": "26/03/2026 23:44",
-    "link": "http://tr.euronews.com/2026/03/26/israil-iran-deniz-kuvvetleri-komutani-alireza-tangsiri-olduruldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Savunma Bakanı Israel Katz, Tangsiri'nin diğer üst düzey deniz kuvvetleri komutanlarıyla birlikte 'hassas ve ölümcül bir operasyonla' bir gecede öldürüldüğünü belirtti.",
     "image": null,
     "keyword": null
   }
