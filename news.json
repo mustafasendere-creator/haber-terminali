@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6464cc65",
+    "title": "Lübnan sınır hattında son durum ne?",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 10:44",
+    "link": "https://www.aa.com.tr/tr/guncel/lubnan-sinir-hattinda-son-durum-ne/3879709",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_000aacc1",
     "title": "Türkiye Sigorta Basketbol Süper Ligi'nde 24. hafta yarın başlayacak",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İnsani Araştırma Laboratuvarı İcra Direktörü Nathaniel Raymond, \"Bu çalışma, söz konusu şirketlerin Rusya'nın sistematik çocuk sınır dışı etme ve ideolojik aşılama kampanyasına doğrudan dahil olduğunun ilk kamuya açık kanıtıdır,\" ifadelerini kullandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_446cc26d",
-    "title": "Türk gemisine İstanbul'a ramak kala çifte saldırı: İHA ve İDA ile vuruldu",
-    "source": "Euronews",
-    "time": "26/03/2026 10:05",
-    "link": "http://tr.euronews.com/2026/03/26/turk-gemisine-istanbula-ramak-kala-cifte-saldiri-iha-ve-ida-ile-vuruldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Haberdenizde'nin bildirdiğine göre, çok sayıda yaptırım altındaki gemi insansız hava ve deniz araçlarıyla vuruldu. Gemi Rusya'dan yola çıkmıştı ve İstanbul'a 14 deniz mili kala orijini henüz tespit edilemeyen unsurların saldırısına uğradı.",
     "image": null,
     "keyword": null
   }
