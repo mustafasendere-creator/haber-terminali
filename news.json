@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b0937ccd",
+    "title": "İstanbul'da 'sahte içki' operasyonu: 32 gözaltı",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 13:06",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-sahte-icki-operasyonu-32-gozalti-2489737",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da yılbaşından bu yana sahte içki üretimi ve satışına yönelik düzenlenen 19 operasyonda 32 kişi gözaltına alındı. Şüphelilerden 7'si tutuklandı. Operasyonlarda ele geçirilen malzemelerle yaklaşık 130 bin şişe sahte içki üretiminin engellendiği belirtildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d7ba348a-f39a-4a01-8618-8eccd110d73f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3104414f",
     "title": "'Sihirli Flüt Şefika Kutluer'den AKM'de konser",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ağrı'da yüksek rakımlı mezralardaki besiciler, küçükbaş hayvanlarını karlı dağlar arasında \"tek sıra\" halinde beslenme alanlarına götürüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b08cee94",
-    "title": "Yağışlar ve alternatif kaynaklarla beslenen Sapanca Gölü'nde kuraklığın izleri siliniyor",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 12:44",
-    "link": "https://www.aa.com.tr/tr/guncel/yagislar-ve-alternatif-kaynaklarla-beslenen-sapanca-golunde-kurakligin-izleri-siliniyor/3879906",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ocak ayında 28,41 metreyle tarihinin en düşük seviyelerinden birini gören Sapanca Gölü'ndeki su kotu, kentte etkili olan yağışlar ve alternatif su kaynaklarıyla beslenmesi sonucu 67 santimetre yükselerek 29,08 metreye yükseldi.",
     "image": null,
     "keyword": null
   }
