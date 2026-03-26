@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_240e3627",
+    "title": "Almanya'da elektrik fiyatları \"ABD/İsrail-İran Savaşı\" ile yükseldi",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 15:04",
+    "link": "https://www.aa.com.tr/tr/guncel/almanyada-elektrik-fiyatlari-abd-israil-iran-savasi-ile-yukseldi/3880105",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD/İsrail-İran Savaşı ve enerji piyasalarındaki belirsizlik, Almanya'da elektrik fiyatlarını doğrudan etkiliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f9ddfd64",
     "title": "KKM bakiyesindeki düşüş devam ediyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Türkiye Seyahat Acenteleri Birliği (TÜRSAB) Doğu Karadeniz Bölge Başkanlığı'nca, Trabzon ve Rize temsilcilerinin katılımıyla istişare toplantısı düzenlendi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/tursab-dogu-karadeniz-bolge-baskanligi-istisare-toplantisi-yapti.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_880295e4",
-    "title": "Ablayı darp iddiasına adli kontrol",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 14:25",
-    "link": "https://www.takagazete.com.tr/ablayi-darp-iddiasina-adli-kontrol",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun'un İlkadım ilçesinde ablasını darp ettiği iddia edilen genç, çıkarıldığı mahkemece adli kontrol şartıyla serbest bırakıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/ablayi-darp-iddiasina-adli-kontrol.jpg",
-    "keyword": null
   }
 ]
