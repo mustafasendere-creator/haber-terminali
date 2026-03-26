@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2746f1eb",
+    "title": "İsrail gazetesi: Tel Aviv yönetimi Trump'ın Tahran ile ateşkes yapma ihtimalinden endişeli",
+    "source": "TRT Haber",
+    "time": "26/03/2026 13:46",
+    "link": "https://www.trthaber.com/haber/dunya/israil-gazetesi-tel-aviv-yonetimi-trumpin-tahran-ile-ateskes-yapma-ihtimalinden-endiseli-939144.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrailli yetkililerin, ABDİran anlaşmasının pek olası olmadığı görüşünde olsa da Başkan Donald Trump'ın görüşmeler devam ederken geçici bir ateşkes ilan edebileceğinden endişe ettiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1504e702",
     "title": "İstanbulda sahte içki alarmı: Binlerce litre ele geçirildi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MSB, NATO’nun Irak Misyonu’ndan çekilme kararı kapsamında Bağdat’taki Türk askerinin tahliye edildiğini açıkladı. Eurofighter sürecinde yeni anlaşma imzalanırken, Ordu’da bulunan İDA hakkında da bilgi verildi. Katar’daki helikopter kazasında ise teknik arıza ihtimali öne çıktı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/natodan-irak-karari-turk-askeri-de-tahliye-edildi-katar-ucaginda-ariza-suphesi-ordudaki-idaya-ne-oldu-fs0s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_16dadd15",
-    "title": "Leyla Alaton'dan 'Truva Atı' davası: Şirketlerin içini boşalttılar",
-    "source": "OdaTV",
-    "time": "26/03/2026 13:07",
-    "link": "https://www.odatv.com/ekonomi/is-insani-leyla-alatondan-truva-ati-davasi-sirketlerin-icini-bosalttilar-120140852",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İş insanı Leyla Alaton’a ait şirketlerin varlıklarını usulsüz işlemlerle kendi hesaplarına aktarmakla suçlanan, aralarında eski CEO Ahmet Özcan’ın da bulunduğu 6 kişi hakkında &quot;güveni kötüye kullanma&quot; ve &quot;kara para aklama&quot; suçlarından dava açıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/is-insani-leyla-alatondan-truva-ati-davasi-sirketlerin-icini-bosalttilar-hlly.jpg",
     "keyword": null
   }
 ]
