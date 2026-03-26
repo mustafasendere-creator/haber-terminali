@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_432b87cc",
+    "title": "Osnabrück halkı Volkswagen'in İsrail'e silah üretmesine karşı",
+    "source": "Evrensel",
+    "time": "26/03/2026 20:45",
+    "link": "https://www.evrensel.net/haber/5976913/osnabruck-halki-volkswagen-in-israil-e-silah-uretmesine-karsi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osnabrück halkı, Volkswagen’ın İsrail için silah üretme planına karşı çıktı. İşçiler ve vatandaşlar, bunun savaşı körükleyeceğini ve istihdama çözüm olmadığını söyleyerek alternatif talep etti. Projeye geniş tepki var.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340402.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_66af7e5b",
     "title": "CHP Kars Milletvekili Alp: Sanal kumar gençlerimizi hayattan koparıyor",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran'ın gece yarısından bu yana İsrail'e yaptığı 9'ncu dalga misillemenin ardından başta Tel Aviv olmak üzere İsrail'in merkez bölgesinde ve işgal altındaki Batı Şeria'da sirenler çaldı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_46559898",
-    "title": "Karadeniz’de Şaşırtan Gelişme: Karayemiş Ağacı Erken Hasat Verdi",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 19:04",
-    "link": "https://www.takagazete.com.tr/video/karadenizde-sasirtan-gelisme-karayemis-agaci-erken-hasat-verdi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu Altınordu’da karayemiş ağacı mevsiminden 3 ay önce meyve verdi. Erken olgunlaşan karayemiş hem şaşırttı hem de ilgi odağı oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-1-431.jpg",
     "keyword": null
   }
 ]
