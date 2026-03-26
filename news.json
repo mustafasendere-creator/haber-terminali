@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_446b8225",
+    "title": "Gazze'de işgalci İsrail saldırıları nedeniyle yerinden edilenlerin çadırlarını su bastı",
+    "source": "TRT Haber",
+    "time": "26/03/2026 12:25",
+    "link": "https://www.trthaber.com/haber/dunya/gazzede-isgalci-israil-saldirilari-nedeniyle-yerinden-edilenlerin-cadirlarini-su-basti-939165.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in 2 yıldan fazla süren saldırılarında evlerini kaybeden Gazze Şeridindeki Filistinlilerin çadırlarını aşırı yağışlar nedeniyle su bastı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a748236f",
     "title": "ABD'de sosyal medya şirketlerine \"bağımlılık\" cezası",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CANLI| İBB davasında 11'inci duruşma",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/461jpg-rcPWVn7Smk_yxXzWnN5cSg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7dcbc4df",
-    "title": "LGS'de yeni uygulama: Beslenme paketinde velilerin onayı alınacak",
-    "source": "Cumhuriyet",
-    "time": "26/03/2026 11:46",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/lgs-de-yeni-uygulama-beslenme-paketinde-velilerin-onayi-alinacak-2489712",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "LGS sınavında öğrencilere verilecek beslenme paketinde velilerin onayı alınacak. Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürü Erdal Kılınç, \"e-Okul\" üzerinden yapılacak LGS kapsamındaki merkezi sınav başvurularında iki oturum arasında öğrencilere verilecek beslenme paketinde veli onayının alınacağını bildirdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b8795a68-a6e9-48d3-81b9-7b314963ffc5.jpg",
     "keyword": null
   }
 ]
