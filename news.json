@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_81d34651",
+    "title": "Ağrı'da küçükbaş hayvanların karlı dağlarda \"tek sıra\" beslenme yolculuğu",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 12:44",
+    "link": "https://www.aa.com.tr/tr/guncel/agrida-kucukbas-hayvanlarin-karli-daglarda-tek-sira-beslenme-yolculugu/3879888",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ağrı'da yüksek rakımlı mezralardaki besiciler, küçükbaş hayvanlarını karlı dağlar arasında \"tek sıra\" halinde beslenme alanlarına götürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b08cee94",
     "title": "Yağışlar ve alternatif kaynaklarla beslenen Sapanca Gölü'nde kuraklığın izleri siliniyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Arsin ilçesindeki fındık fabrikasında çıkan yangın yaklaşık 4 saatte kontrol altına alındı. Olayda 3 kişi hafif yaralanırken, bölgede soğutma çalışmaları sürüyor.",
     "image": "https://resim.haber61.net/news/609395.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_5c54c85f",
-    "title": "Türkiye'de kaç telefon 5G uyumlu? Bakan Uraloğlu, geçiş tarihini açıkladı...",
-    "source": "61 Saat",
-    "time": "26/03/2026 12:05",
-    "link": "https://www.61saat.com/turkiyede-kac-telefon-5g-uyumlu-bakan-uraloglu-gecis-tarihini-acikladi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bakan Uraloğlu, 5G'ye geçiş tarihini açıkladı... Türkiye'de kaç kişi 5G uyumlu telefon kullanıyor? Trabzonlu olan Bakan Uraloğlu, babasından örnek verdi...",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/5g.webp",
-    "keyword": null
   }
 ]
