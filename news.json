@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a3c43613",
+    "title": "Elektrik kesintisi programı",
+    "source": "Habertürk",
+    "time": "26/03/2026 08:06",
+    "link": "https://www.haberturk.com/istanbul-da-20-ilcede-elektrik-kesintisi-bedas-duyurusu-ile-26-mart-2026-persembe-istanbul-da-elektrikler-ne-zaman-gelecek-saat-kacta-3872345",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Boğaziçi Elektrik Dağıtım A.Ş (BEDAŞ), İstanbul'da 26 Mart Perşembe günü 20 ilçede elektrik kesintisi yaşanacağını duyurdu. Böylelikle kesinti yaşanacak ilçeler ve mahalleler belli oldu. Peki, elektrikler ne zaman gelecek, elektrik saat kaçta kesilecek? İşte 26 Mart 2026 Perşembe İstanbul'da elektrik kesintisi yaşanacak ilçeler...",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774459215/3872345/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_16a4f502",
     "title": "Resmi Gazete yayımlandı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "ABD Ulaşım Güvenliği İdaresi (TSA), hükümet kapanmasının uzaması halinde ülkedeki bazı havaalanlarının kapatılabileceğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_edd2eba0",
-    "title": "Suça sürüklenen çocuklar: \"Ceza indirimi olmasın\"",
-    "source": "DW Türkçe",
-    "time": "26/03/2026 07:46",
-    "link": "https://www.dw.com/tr/suça-sürüklenen-çocuklar-ceza-indirimi-olmasın/a-76531433",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM'de kurulan suça sürüklenen çocuklar komisyonunda konuşan Başsavcı Vekili, çocuk suçlarından indirimin kaldırılmasını istedi, para cezası içeren bazı suçların da aileye kesilmesini önerdi.",
     "image": null,
     "keyword": null
   }
