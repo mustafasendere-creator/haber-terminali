@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32863766",
+    "title": "Arkadaşı bayıldı, kendisi hayatını kaybetti!",
+    "source": "Habertürk",
+    "time": "26/03/2026 16:46",
+    "link": "https://www.haberturk.com/arkadasi-bayildi-kendisi-hayatini-kaybetti-3872311",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'da bir orman ürünleri fabrikasında facia yaşandı. Olayda bayılan arkadaşının ardından yarım kalan temizlik için kazana giren Mikail Aktaş, gazdan zehirlenip yaşamını yitirdi",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774449442/3872311/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e23c1365",
     "title": "İBB davasındaki görüntülere soruşturma",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Diyarbakır'ın Kulp ilçesinde inşası süren viyadükte iskelenin çökmesi sonucu 4 işçinin yaşamını yitirdiği, 1 işçinin ağır yaralandığı olaya ilişkin 3'ü tutuklu 10 sanık hakkında 2'şer yıldan 15'er yıla kadar hapis cezası istemiyle dava açıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ab7157e4",
-    "title": "\"Yenidoğan çetesi\" davasında ara karar açıklandı",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 16:24",
-    "link": "https://www.aa.com.tr/tr/guncel/yenidogan-cetesi-davasinda-ara-karar-aciklandi/3880291",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Davada, tüm tutuklu sanıkların bu hallerinin devamına karar verilirken, duruşma 10 Temmuz'a ertelendi.",
     "image": null,
     "keyword": null
   }
