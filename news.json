@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b7b2de16",
+    "title": "Sivas'ta 125 kişi umre vaadiyle dolandırıldı",
+    "source": "TRT Haber",
+    "time": "26/03/2026 21:44",
+    "link": "https://www.trthaber.com/haber/turkiye/sivasta-125-kisi-umre-vaadiyle-dolandirildi-939217.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sivas'ta yaşayan 125 kişi, umreye götürülme vaadiyle dolandırıldıkları gerekçesiyle polise başvurarak şikayetçi oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e205858f",
     "title": "Viyadük inşaatındaki iş cinayetinin iddianamesi hazırlandı: 4 işçinin öldüğü çökmeye ilişkin 10 sanık hakkında 15'er yıla kadar hapis istemi",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Türkiye Kupası çeyrek finalinde Trabzonspor’un rakibi olan Samsunspor, kupaya Avrupa’nın çıkış kapısı olarak görüyor. Kırmızı-Beyazlı ekibin Basın Sözcüsü ve İcra Kurulu Üyesi Suat Çakır kupaya dair açıklamasında Trabzonspor’u mağlup ederek Galatasaray-Gençlerbirliği galibi ile yarı finalde karşılaşmak istediklerini açıkladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/bilendi.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_605abd25",
-    "title": "Dijital çağda analog savaş: İran'da gizemli 'sayı istasyonu' yayını ortaya çıktı",
-    "source": "Euronews",
-    "time": "26/03/2026 20:44",
-    "link": "http://tr.euronews.com/next/2026/03/26/dijital-cagda-analog-savas-iranda-gizemli-sayi-istasyonu-yayini-ortaya-cikti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gizemli yayında bir adam Farsça 'Tavajoh! Tavajoh! Tavajoh!' (Dikkat!) diye sesleniyor ve ardından ritmik bir şekilde sayı dizilerini okuyor. Yayın, düzenli aralıklarla tekrar ediyor.",
-    "image": null,
-    "keyword": null
   }
 ]
