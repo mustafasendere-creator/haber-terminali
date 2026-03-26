@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1b0399aa",
+    "title": "Bugün maç var mı?",
+    "source": "Habertürk",
+    "time": "26/03/2026 12:06",
+    "link": "https://www.haberturk.com/bugun-mac-var-mi-25-mart-2026-carsamba-bugun-hangi-maclar-var-kimin-maci-var-saat-kacta-ve-hangi-kanalda-iste-gunun-maclari-3872216",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli maçlar nedeniyle Trendyol Süper Lig ve Trendyol 1. Lig karşılaşmalarına ara verildi. Gözler ise yabancı liglere çevrildi. Bu kapsamda futbolseverler ‘’Bugün maç var mı?’’ sorusunu gündeme taşıdı. Milli maçlar sebebiyle yabancı lig müsabakaları yapılmayacak. Bugün futbolda heyecan Nesine 2. Lig, Nesine 3. Lig maçları ile basketbolda ise EuroLeague karşılaşmaları ile devam edecek. Peki, bugün hangi maçlar var, kimin maçı var, saat kaçta ve hangi kanalda? İşte 25 Mart 2026 bugünkü maçlar listesi ve başlangıç saatleri!",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774432062/3872216/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_d8031c4b",
     "title": "EKPSS sınavı ne zaman?",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "MEB Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürü Erdal Kılınç, Liselere Geçiş Sistemi (LGS) kapsamındaki merkezi sınav başvurularında iki oturum arasında öğrencilere verilecek beslenme paketinde veli onayının alınacağını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_18460093",
-    "title": "Arzu Karabulut'un gurbetten Türk Milli Takımı'na uzanan futbol yolculuğu",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 11:44",
-    "link": "https://www.aa.com.tr/tr/guncel/arzu-karabulutun-gurbetten-turk-milli-takimina-uzanan-futbol-yolculugu/3879839",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Turkcell Kadın Futbol Süper Ligi ekiplerinden Ankara Büyükşehir Belediyesi (ABB) FOMGET'in tecrübeli oyuncusu Arzu Karabulut, en büyük hayalinin futbola daha çok kadın sporcu kazandırmak olduğunu söyledi.",
     "image": null,
     "keyword": null
   }
