@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fa09ebf0",
+    "title": "TBMM Başkanı Kurtulmuş, Romanya Başbakanı ile görüştü",
+    "source": "TRT Haber",
+    "time": "26/03/2026 23:24",
+    "link": "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-romanya-basbakani-ile-gorustu-939206.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TBMM Başkanı Numan Kurtulmuş, resmi ziyaret gerçekleştirdiği Bükreş'te, Romanya Başbakanı Ilie Bolojan ile bir araya geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5246af8e",
     "title": "İBB'ye yönelik yolsuzluk soruşturmasında Muhittin Böcek'in 2 şoförü tutuklandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kültür ve Turizm Bakanlığının düzenlediği Türk Dünyası Yayıncılık Kongresi 27-29 Mart’ta Ankara’da başlıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340392.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c82fdecb",
-    "title": "CHP Bursa Milletvekili Orhan Sarıbal: Bütçe faize, 86 milyon yoksulluğa sürüklendi",
-    "source": "Evrensel",
-    "time": "26/03/2026 22:04",
-    "link": "https://www.evrensel.net/haber/5976916/chp-bursa-milletvekili-orhan-saribal-butce-faize-86-milyon-yoksulluga-suruklendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sarıbal’dan bütçe tepkisi: Kaynaklar faize, 86 milyon yoksulluğa ve borç sarmalına sürükleniyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/302004.jpg",
     "keyword": null
   }
 ]
