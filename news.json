@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d88fae9e",
+    "title": "ABD Başkanı Trump'tan İran'a \"Geri dönüşü olmaz\" uyarısı",
+    "source": "DW Türkçe",
+    "time": "26/03/2026 16:25",
+    "link": "https://www.dw.com/tr/abd-başkanı-trump-tan-iran-a-geri-dönüşü-olmaz-uyarısı/a-76544660",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'ı \"çok geç olmadan ciddiyete\" davet etti, \"Yoksa geri dönüşü olmaz!\" diye uyardı. Pakistan ise Türkiye ve Mısır destekli dolaylı arabuluculuk girişimine açıklık getirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_69c2d69f",
     "title": "İBB davası: Sahte basın kartı yapan CHP'li meclis üyesi tutuklandı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Murat Çalık dün savunma yaptıktan sonra hastaneye kaldırılmış",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/963jpg-yAWR8VNczkWMmwrYi2FWHQ.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6cd8dfb9",
-    "title": "Yazar Orhan Pamuk'un 9 dairesi bulunuyor: Taray Apartmanı davasında karar",
-    "source": "Cumhuriyet",
-    "time": "26/03/2026 15:46",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/yazar-orhan-pamuk-un-9-dairesi-bulunuyor-taray-apartmani-davasinda-karar-2489771",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nobel ödüllü yazar Orhan Pamuk'un Beyoğlu'nda 9 daire sahibi olduğu ve riskli yapı kapsamında yıkılmasını istemesi üzerine komşularıyla mahkemelik olduğu Taray Apartmanı davasında güçlendirme talebinin reddine karar verildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/ceb60f35-152b-40af-ad19-a7711afcbd89.jpg",
     "keyword": null
   }
 ]
