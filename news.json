@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3a3d429e",
+    "title": "STRATCOM Zirvesi yarın başlıyor",
+    "source": "TRT Haber",
+    "time": "26/03/2026 17:05",
+    "link": "https://www.trthaber.com/haber/gundem/stratcom-zirvesi-yarin-basliyor-939190.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığının ev sahipliğinde düzenlenen, dünyanın dört bir yanından politika yapıcıları, diplomatları, iletişim uzmanları, medya profesyonellerini bir araya getiren Uluslararası Stratejik İletişim Zirvesi STRATCOM yarın başlıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cee09fb8",
     "title": "Gökçeada ve Bozcaada feribot seferlerine fırtına engeli",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, NATO üyesi ülkelerin, ABD ve İsrail'in İran'a yönelik saldırıları esnasında hiçbir şey yapmadıklarını savunarak, NATO'dan gelecek hiçbir şeye ihtiyaçlarının olmadığını yineledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d5b440bd",
-    "title": "Eurofighter anlaşması Yunan basınında: Ankaradan güç gösterisi",
-    "source": "TRT Haber",
-    "time": "26/03/2026 16:25",
-    "link": "https://www.trthaber.com/haber/dunya/eurofighter-anlasmasi-yunan-basininda-ankaradan-guc-gosterisi-939187.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye ile İngiltere arasında imzalanan Eurofighter Typhoon anlaşması, özellikle Yunan basını tarafından mercek altına alındı; \"Devasa anlaşma\" başlıkları atıldı, \"Ankaradan Yunanistana güç gösterisi\" yorumları yapıldı.",
     "image": null,
     "keyword": null
   }
