@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_df904f30",
+    "title": "Eski Fransız polis, iki kadını öldürüp gömdüğü şüphesiyle Portekiz'de yakalandı",
+    "source": "Euronews",
+    "time": "26/03/2026 12:45",
+    "link": "http://tr.euronews.com/my-europe/2026/03/26/eski-fransiz-polis-iki-kadini-oldurup-gomdugu-suphesiyle-portekizde-yakalandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eski polis, eski ve şimdiki eşini öldürmekle suçlanıyor; cesetler Bragança’daki Serra da Nogueira’da bulundu. Adam, iki çocuğuyla seyir halindeyken Guarda iline bağlı Mêda’da jandarma GNR tarafından durduruldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_1204fe2c",
     "title": "Galatasaray'da Trabzonspor maçı öncesi İcardi krizi...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Arsin’deki fındık fabrikasında çıkan yangın kontrol altına alındı. 3 kişi hafif yaralandı, bölgede soğutma çalışmaları devam ediyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-4-214.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c8defd63",
-    "title": "Avukattan açıklama: Ayşegül Eraslan’ın kanlı mektubu el yazısıyla uyumlu değil",
-    "source": "Evrensel",
-    "time": "26/03/2026 12:05",
-    "link": "https://www.evrensel.net/haber/5976825/avukattan-aciklama-aysegul-eraslan-in-kanli-mektubu-el-yazisiyla-uyumlu-degil",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ayşegül Eraslan'ın ölümüne ilişkin olay yerinde bazı alanlardan parmak izi alınmadığı ve eve giren kişinin bir saatten fazla içeride kaldığı iddia ediliyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340320.jpg",
-    "keyword": null
   }
 ]
