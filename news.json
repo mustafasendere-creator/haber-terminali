@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_43ee35e0",
+    "title": "İzmir Körfezi'nin kirliliği uluslararası konferansta tartışılıyor",
+    "source": "Evrensel",
+    "time": "27/03/2026 02:04",
+    "link": "https://www.evrensel.net/haber/5976854/izmir-korfezinin-kirliligi-uluslararasi-konferansta-tartisiliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzBB’nin düzenlediği 28 Mart'a kadar sürecek olan İzmir Körfezine ilişkin uluslararası konferans başladı. Açılış konuşmasında körfez kirliliğinin yerel bir kirlilik sorunu olmadığı vurgulandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340340.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a181f776",
     "title": "Asya’dan Avrupa’ya yakıt krizi derinleşiyor: ABD-İsrail saldırganlığı tüm dünyayı etkiliyor",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Yükseköğretim Kurulu (YÖK) ile Tarım Teknolojileri Kümelenmesi (TÜME) arasında, 11 üniversitede kurulacak 20 yapay zeka destekli otonom eğitim ve AR-GE çiftliği hibe projesini içeren işbirliği protokolü imzalandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6547d507",
-    "title": "Bakan Kurum: İklim krizi bir ihtimal değildir, şu anda yaşadığımız gerçeğin ta kendisidir",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 00:44",
-    "link": "https://www.aa.com.tr/tr/guncel/bakan-kurum-iklim-krizi-bir-ihtimal-degildir-su-anda-yasadigimiz-gercegin-ta-kendisidir/3880822",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, iklim krizinin bir ihtimal, uyarı veya senaryo olmadığını, bilakis şu anda yaşanılan gerçeğin ta kendisi olduğunu söyledi.",
     "image": null,
     "keyword": null
   }
