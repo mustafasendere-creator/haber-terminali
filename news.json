@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1db9db8d",
+    "title": "Rusya Devlet Başkanı Putin: Orta Doğu’daki çatışmanın sonuçları öngörülemez",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 18:04",
+    "link": "https://www.aa.com.tr/tr/guncel/rusya-devlet-baskani-putin-orta-dogu-daki-catismanin-sonuclari-ongorulemez/3880373",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya Devlet Başkanı Vladimir Putin, petrol fiyatlarının yükseldiğini, küresel piyasaların çalkalandığını belirterek, \"Orta Doğu’daki çatışmanın sonuçları şimdilik öngörülemez. Bana kalırsa, çatışmanın tarafları bile öngöremiyor.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_04093801",
     "title": "Edirne'de \"mini savunma fuarı\" yoğun katılımla gerçekleşti",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un ara transfer döneminde Avusturya temsilcisi Wolfsberger’den kadrosuna kattığı Chibuike Nwaiwu, kısa sürede takıma adapte olarak savunmada önemli bir rol üstlendi. 22 yaşındaki Nijeryalı oyuncu, özellikle fizik gücü ve mücadeleci yapısıyla öne çıktı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/n-i-v-u-a-a-a.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_5f2269e6",
-    "title": "Lüks havayolu beOnd, Maldivler’e Londra ve Paris seferlerini duyurdu",
-    "source": "Euronews",
-    "time": "26/03/2026 17:05",
-    "link": "http://tr.euronews.com/gezi/2026/03/26/luks-havayolu-beond-maldivlere-londra-ve-paris-seferlerini-duyurdu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "beOnd, Maldivler’de faaliyet gösteren çok sayıdaki yabancı havayolundan, yalnızca business sınıfı sunan lüks tatil uçuşlarıyla ayrışmayı hedefliyor.",
-    "image": null,
-    "keyword": null
   }
 ]
