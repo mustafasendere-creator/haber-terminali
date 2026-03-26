@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1994db80",
+    "title": "Mehmet Murat Çalık dün savunma yaptıktan sonra hastaneye kaldırılmış",
+    "source": "Evrensel",
+    "time": "27/03/2026 01:44",
+    "link": "https://www.evrensel.net/haber/5976878/mehmet-murat-calik-dun-savunma-yaptiktan-sonra-hastaneye-kaldirilmis",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB davasında tutuklu yargılanan Beylikdüzü Belediye Başkanı Murat Çalık, dünkü savunmasının ardından gece rahatsızlanarak hastaneye kaldırıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340154.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_94a5d27c",
     "title": "İsrail, İran Devrim Muhafızları Deniz Kuvvetleri Komutanı Tengsiri'nin öldüğünü iddia etti",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tutuklu gazeteci İsmail Arı, cezaevinden gönderdiği mektupta gözaltı ve tutuklanma sürecini anlatarak “Yargının bana bayram tebriği bu oldu” dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340105.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ba3bdd93",
-    "title": "Türkiye maçı öncesi sürpriz: Lucescu 4 oyuncuyu Romanya kadrosundan çıkardı",
-    "source": "Evrensel",
-    "time": "27/03/2026 00:24",
-    "link": "https://www.evrensel.net/haber/5976874/turkiye-maci-oncesi-surpriz-lucescu-4-oyuncuyu-romanya-kadrosundan-cikardi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Romanya Milli Takımı Teknik Direktörü Mircea Lucescu, Türkiye maçı öncesi 23 kişilik kadroyu belirlerken 4 futbolcuyu liste dışında bıraktı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340367.jpg",
     "keyword": null
   }
 ]
