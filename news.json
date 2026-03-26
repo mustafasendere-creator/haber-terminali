@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_45f99505",
+    "title": "İran Hürmüz Boğazı'ndan geçiş ücreti almaya hazırlanıyor",
+    "source": "TRT Haber",
+    "time": "26/03/2026 08:05",
+    "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazindan-gecis-ucreti-almaya-hazirlaniyor-939112.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fars ve Tasnim haber ajanslarının bildirdiğine göre İran parlamentosu, Hürmüz Boğazı'ndan geçen gemilerden geçiş ücreti alınmasını öngören bir yasa tasarısını yasalaştırmaya çalışıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e2909cc0",
     "title": "ABD ve İran şartlarını ortaya koydu: Barış için kim ne talep ediyor?",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Arsin ilçesinde bir fındık fabrikasında akşam saatlerinde yangın çıktı.",
     "image": "https://resim.haber61.net/news/609293.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_48cd09d3",
-    "title": "Trabzon'un Akçaabat sahiline yeni proje",
-    "source": "Karadeniz Gazetesi",
-    "time": "26/03/2026 07:46",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonun-akcaabat-sahiline-yeni-proje/606746",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Akçaabat sahil bandını modern yaşam alanlarıyla buluşturarak denizle bütünleştirecek Yıldızlı-Söğütlü Sahil Projesi’nin ihalesini Nisan ayı içerisinde gerçekleştireceklerini ve ardından hızlı bir şekilde çalışmalara başlayacaklarını ifade etti.",
-    "image": null,
-    "keyword": null
   }
 ]
