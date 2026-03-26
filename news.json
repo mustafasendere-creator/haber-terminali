@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e23c1365",
+    "title": "İBB davasındaki görüntülere soruşturma",
+    "source": "Habertürk",
+    "time": "26/03/2026 16:46",
+    "link": "https://www.haberturk.com/ibb-davasindaki-goruntulere-sorusturma-3872313",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bakırköy Cumhuriyet Başsavcılığı, \"İmamoğlu çıkar amaçlı suç örgütü\" davasının duruşmasında görüntü çekilerek sosyal medyada paylaşılmasına ilişkin soruşturma başlatıldığını bildirdi.",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774449800/3872313/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ba70ffa8",
     "title": "Max Verstappen, medya gününde muhabiri kovdu",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Davada, tüm tutuklu sanıkların bu hallerinin devamına karar verilirken, duruşma 10 Temmuz'a ertelendi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5cac942d",
-    "title": "Uçak bileti fiyatlarında yüzde 560'a varan artış",
-    "source": "OdaTV",
-    "time": "26/03/2026 16:06",
-    "link": "https://www.odatv.com/ekonomi/turizm-tehdit-altinda-ucak-bileti-fiyatlarinda-yuzde-560a-varan-artis-120140886",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail&#039;in başlattığı savaş nedeniyle Asya ile Avrupa’yı birbirine bağlayan başlıca güzergahlardaki uçak bileti fiyatları bu ay yüzde 560’a varan artışlar kaydetti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/06/ajetten-yurt-disina-ucuz-ucak-bileti-kampanyasi-ibbj.gif",
     "keyword": null
   }
 ]
