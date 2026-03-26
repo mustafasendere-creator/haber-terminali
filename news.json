@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2af61bee",
+    "title": "Küresel finans devleri Fed tahminlerini güncelledi",
+    "source": "Ekonomim",
+    "time": "26/03/2026 19:06",
+    "link": "https://www.ekonomim.com/ekonomi/kuresel-finans-devleri-fed-tahminlerini-guncelledi-haberi-884213",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel finans devleri, Orta Doğu’da patlak veren savaşın enerji fiyatlarını tetiklemesiyle ABD Merkez Bankası&#039;na (Fed) yönelik faiz indirimi beklentilerini öteleyerek tahminlerini güncelledi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/20/fed-haziranda-faiz-indirimlerine-yeniden-baslayabilir-5ps5_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d2237c19",
     "title": "AK Partili İleri'den kripto paralara yönelik vergi düzenlemesine ilişkin yeni açıklama",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Hırvatistan merkezli girişim Verne ile Çin merkezli Pony.ai ve Uber'in işbirliği, Avrupa yollarına, Zagreb'den başlayarak robotaksileri getiriyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_798762f5",
-    "title": "Çin'deki McDonald's insanlar yerine robotları mı çalıştırmaya başladı?",
-    "source": "Euronews",
-    "time": "26/03/2026 18:04",
-    "link": "http://tr.euronews.com/next/2026/03/26/cindeki-mcdonalds-insanlar-yerine-robotlari-mi-calistirmaya-basladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanghay'da çekilen videoda, üzerinde tam takım McDonald’s üniforması bulunan insansı bir robotun müşterileri karşıladığı ve sipariş aldığı görülüyor.",
     "image": null,
     "keyword": null
   }
