@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0dd98412",
+    "title": "Giresun'da 2 katlı evde yangın: 1 kişi hayatını kaybetti, 1 kişi yaralı",
+    "source": "Evrensel",
+    "time": "26/03/2026 09:45",
+    "link": "https://www.evrensel.net/haber/5976799/giresunda-2-katli-evde-yangin-1-kisi-hayatini-kaybetti-1-kisi-yarali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Giresun’da, 2 katlı evde çıkan yangında Fevzi Demiray hayatını kaybetti; onu kurtarmaya çalışan yakını Sadullah Başaran ise yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340301.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_0c919341",
     "title": "Ortahisar, Engelsiz Yaşam Merkezi’ne Kavuşuyor",
     "source": "Karadeniz'de Sonnokta",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Altın yatırımcıları İran'dan gelecek ateşkes haberini bekliyor. Ancak sinyaller karışık. Hal böyle iken altın fiyatları sakin seyrini korumaya başladı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/26-mart-gram-altin-kac-lira-ceyrek-altin-ne-kadar-yxqk.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad81d7ec",
-    "title": "Koç Holding, 9.3 milyar TL'lik Tüpraş hissesi sattı",
-    "source": "Haber Global",
-    "time": "26/03/2026 09:06",
-    "link": "https://haberglobal.com/ekonomi/koc-holding-93-milyar-tllik-tupras-hissesi-satti-515326",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Koç Holding, Tüpraş'taki yüzde 2,1'lik payını hızlandırılmış talep toplama yöntemiyle kurumsal yabancı ve yerli yatırımcılara sattı. Holding, satıştan 9,3 milyar TL gelir elde etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/koc-holding-93-milyar-tllik-tupras-hissesi-satti-fwuj.jpg",
     "keyword": null
   }
 ]
