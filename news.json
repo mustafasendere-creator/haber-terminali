@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d295ef15",
+    "title": "Bilecik'te köy yolu çevresinde çöp dağları",
+    "source": "Habertürk",
+    "time": "26/03/2026 16:26",
+    "link": "https://www.haberturk.com/kanal-boyunu-copluge-cevirdiler-3872315",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik'te köy yolu çevresinde hafriyat ve plastik atıklı çöp dağlarıyla çevre kirliliği yaşanıyor",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774449767/3872315/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f3d49231",
     "title": "AHESEN için bina çağrısı",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Mahir Özkan I Մհեր Պեքարեան (@mhrzkn) / Posts / X  x.com",
     "image": null,
     "keyword": "agos"
-  },
-  {
-    "id": "GND_3840dc18",
-    "title": "Tel Aviv'deki kuşları gösteren video gerçek ve güncel mi?",
-    "source": "Teyit.org",
-    "time": "26/03/2026 15:47",
-    "link": "https://teyit.org/analiz/tel-avivdeki-kuslari-gosteren-video-gercek-ve-guncel-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bir videonun Tel Aviv’de gökyüzündeki kargaları gösterdiği iddia edildi.",
-    "image": "https://md.teyit.org/2026/03/tel-aviv-kus-istilasi-kapak.webp",
-    "keyword": null
   }
 ]
