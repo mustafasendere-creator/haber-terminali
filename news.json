@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c38c1ed7",
+    "title": "SPK’nin suç duyurusu vardı; eski AKP milletvekili gözaltına alındı",
+    "source": "Evrensel",
+    "time": "26/03/2026 08:05",
+    "link": "https://www.evrensel.net/haber/5976775/spk-nin-suc-duyurusu-vardi-eski-akp-milletvekili-gozaltina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eski AKP Milletvekili ve MÜSİAD eski başkanı Bayram Ali Bayramoğlu Ankara’da, Mali Suçlarla Mücadele Şubesince gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340276.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1d686fbd",
     "title": "İran’dan Hürmüz Boğazı açıklaması: Geçiş hakkı bizim kararımızda",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Urfa'da etkisini sürdüren şiddet sağanak yağış nedeniyle dört ilçede okul tatil edildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340279.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_da14da43",
-    "title": "Trabzon’da fabrika yangını devam ediyor: Ekipler seferber oldu, müdahale sürüyor",
-    "source": "Haber61",
-    "time": "26/03/2026 07:46",
-    "link": "https://www.haber61.net/trabzon/trabzonda-fabrika-yangini-devam-ediyor-ekipler-seferber-oldu-mudahale-h627693.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Arsin ilçesindeki Organize Sanayi Bölgesi’nde bulunan bir fındık fabrikasında çıkan yangın kısa sürede tüm binayı sardı, itfaiyenin müdahalesi sürüyor.",
-    "image": "https://resim.haber61.net/news/609321.jpg",
-    "keyword": "trabzon"
   }
 ]
