@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_81b0b8db",
+    "title": "Çin, uzaya iki yeni uydu gönderdi",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 18:05",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/cin-uzaya-iki-yeni-uydu-gonderdi-2489839",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin’in Wenchang Uzay Fırlatma Üssü'nden uzaya iki yeni uydu gönderdiği bildirildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2e306a8d-4062-4639-b499-e7abb3682e81.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f33ef956",
     "title": "ABD Başkanı Trump: İran'la anlaşmayı benim istediğim iddiaları yalan",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_512ff41b",
-    "title": "Alman sinemacı ve yazar Alexander Kluge hayatını kaybetti",
-    "source": "OdaTV",
-    "time": "26/03/2026 17:06",
-    "link": "https://www.odatv.com/kultur-sanat/alman-sinemaci-ve-yazar-alexander-kluge-hayatini-kaybetti-120140892",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya’nın ünlü sinemacı ve yazarı Alexander Kluge, 94 yaşında Münih’te yaşamını yitirdi. Kluge, hem film yönetmenliği hem yazarlığı hem de filozof ve avukat kimliğiyle tanınıyordu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/alman-sinemaci-ve-yazar-alexander-kluge-hayatini-kaybetti-76xv.png",
     "keyword": null
   }
 ]
