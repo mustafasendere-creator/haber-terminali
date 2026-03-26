@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1ae92b7f",
+    "title": "Trump, İran'ın 'hediyesini' açıkladı: 'O haberi görünce dedim ki...'",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 22:05",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-iran-in-hediyesini-acikladi-o-haberi-gorunce-dedim-ki-2489874",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'ın ABD'ye gönderdiğini söylediği hediyenin, İranlıların \"8 petrol tankerinin Hürmüz Boğazı'ndan geçişine izin vermeleri\" olduğunu söyledi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b32a8bfb-14c1-48ea-acb9-9685eb3bab88.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_04641082",
     "title": "İran'dan İsrail'e füze dalgası: Tel Aviv'e 10'uncu misilleme",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Irak’ın Kerkük kentinde Şii milis gücü Haşdi Şabi'ye ait iki askeri karargaha hava saldırısı gerçekleştirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fbf0be72",
-    "title": "PFDK'den 4 Süper Lig kulübüne ceza",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 21:24",
-    "link": "https://www.aa.com.tr/tr/guncel/pfdkden-4-super-lig-kulubune-ceza/3880792",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), Trendyol Süper Lig'den 4 kulübe çeşitli cezalar verdi.",
     "image": null,
     "keyword": null
   }
