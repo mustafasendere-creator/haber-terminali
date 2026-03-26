@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ecf87bf4",
+    "title": "Lübnan Sağlık Bakanlığı: İsrail saldırılarında hayatını kaybedenlerin sayısı 1116'ya yükseldi",
+    "source": "TRT Haber",
+    "time": "26/03/2026 22:05",
+    "link": "https://www.trthaber.com/haber/dunya/lubnan-saglik-bakanligi-israil-saldirilarinda-hayatini-kaybedenlerin-sayisi-1116ya-yukseldi-939207.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda yaşamını yitirenlerin sayısı 22 artarak 1116'ya, yaralı sayısı ise 3 bin 229'a ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_65cc3708",
     "title": "İsrail Genelkurmay Başkanı: Personel krizine çözüm bulmazsak İsrail ordusu çökecek",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Ankara’da gerçekleştirilen kritik toplantıda Trabzon teşkilatının başarısını gündeme taşıdı. Recep Tayyip Erdoğan başkanlığında yapılan 178. Genişletilmiş İl Başkanları Toplantısı’nda Ramazan ayı boyunca yürütülen saha çalışmaları değerlendirilirken, Trabzon’un elde ettiği sonuçlar dikkat çekti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/whatsapp-image-2026-03-26-at-203853-1-1.jpeg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_1b6125eb",
-    "title": "Başkan Genç, AK Parti Trabzon teşkilatını tebrik etti",
-    "source": "Haber61",
-    "time": "26/03/2026 21:04",
-    "link": "https://www.haber61.net/trabzon/baskan-genc-ak-parti-trabzon-teskilatini-tebrik-etti-h627774.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Cumhurbaşkanı Erdoğan başkanlığındaki toplantıya katılan Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, saha çalışmalarında başarı sağlayan Trabzon teşkilatını kutladı.",
-    "image": "https://resim.haber61.net/news/609463.jpg",
     "keyword": "trabzon"
   }
 ]
