@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_831775e6",
+    "title": "Hatay'da sağanak: Cadde ve sokaklar göle döndü",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 00:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/hatay-da-saganak-cadde-ve-sokaklar-gole-dondu-2489926",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'ın İskenderun ilçesinde etkili olan sağanak nedeniyle bazı cadde ve sokaklarda su birikintisi oluştu, sürücüler trafikte zor anlar yaşadı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/51a8dad6-eac3-4d1a-b63f-98f429a99fca.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a97efa2c",
     "title": "Beyaz Saray'dan bir garip sansürlü paylaşım",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD'nin 3 Ocak'ta Venezuela'da askeri müdahaleyle alıkoyduğu Devlet Başkanı Nicolas Maduro ve eşi Cilia Flores, ikinci kez hakim karşısına çıktı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e3bb65d2",
-    "title": "Trump İran'a olası saldırıyı yine erteledi",
-    "source": "TRT Haber",
-    "time": "26/03/2026 23:44",
-    "link": "https://www.trthaber.com/haber/dunya/trump-irana-olasi-saldiriyi-yine-erteledi-939226.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Donald Trump, İran hükümetinin talebi üzerine bir enerji santralinin yıkımını 10 gün ertelediğini ve yeni tarihin 6 Nisan 2026 olduğunu açıkladı. Trump, görüşmelerin \"oldukça iyi ilerlediğini\" savundu.",
     "image": null,
     "keyword": null
   }
