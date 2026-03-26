@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_73d3020b",
+    "title": "Çanakkale'de yolcu minibüsü devrildi: Yaralılar var!",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 09:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/canakkale-de-yolcu-minibusu-devrildi-yaralilar-var-2489665",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çanakkale İzmir Karayolu üzerinde seyir halinde olan bir ilçe minibüsü ile otomobil çarpıştı. Kazada 8 kişi yaralandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ecb8b4d6-3c18-4b44-a5df-faea71f45560.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5d2d159b",
     "title": "The Traitors Türkiye ne zaman başlıyor? The Traitors Türkiye hangi kanalda yayımlanacak? The Traitors Türkiye yarışmacıları kimler?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bakan Fidan, 18-20 Mart'ta Suudi Arabistan, Katar ve Birleşik Arap Emirlikleri'ni ziyaretinin ardından ABD ile İsrail’in İran’a saldırılarıyla başlayan savaşı sona erdirmeye yönelik telefon diplomasisine devam ediyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_da49eeb7",
-    "title": "İstanbul yolundaki tankere saldırı: 140 bin ton petrol taşıyor",
-    "source": "A Haber",
-    "time": "26/03/2026 09:24",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/26/istanbul-yolundaki-tankere-saldiri-140-bin-ton-petrol-tasiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya’nın Novorossiysk Limanı’ndan İstanbul’a ulaşmak üzere demir alan Pergamon Denizcilik bünyesindeki \"Altura\" isimli ham petrol tankeri, gece yarısı sularında kimliği henüz belirlenemeyen bir...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/568beb/1200/1200/221/0/971/750?u=https://iahbr.tmgrup.com.tr/2026/03/26/1774505574584.jpeg",
     "keyword": null
   }
 ]
