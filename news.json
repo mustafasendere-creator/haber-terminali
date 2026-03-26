@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7c32e993",
+    "title": "Isadora Duncan",
+    "source": "10Haber",
+    "time": "26/03/2026 10:24",
+    "link": "https://10haber.net/yazarlar/serdar-turgut/isadora-duncan-689836/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kadının karşısına çıkarılan kültürel engeller her sanat dalında vardı ama bale bu konuda biraz daha esnek gibiydi.  Dans sanatı, tanım gereği dans edenden bir zariflik, estetik bir vücut dengesi ve uyumu beklediğinden balenin kapılarının da kadına kapatılmasının öyle kolay olmayacağı başından belliydi.  Ancak söylediğim gibi balenin felsefesini ve dilini 17. yüzyıl boyunca oluşturan Fransa bu [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/iso.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_3f8c05a0",
     "title": "Fenerbahçe Beko, Avrupa Ligi'nde yarın Zalgiris'i ağırlayacak",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Frederiksen, partisinin 1903'ten bu yana en düşük oy oranını almasına rağmen, 179 sandalyeli parlamentoda 38 koltukla birinci parti konumunu korumayı başardı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_f83fb0c7",
-    "title": "Trabzonspor'da nokta atışı dokunuşlar...",
-    "source": "61 Saat",
-    "time": "26/03/2026 09:45",
-    "link": "https://www.61saat.com/trabzonsporda-nokta-atisi-dokunuslar",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ara transfer döneminde kadrosuna 3 oyuncu katarken 5 isimle yollarını ayıran Trabzonspor’da yapılan hamlelerin sahaya yansıması dikkat çekti.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ts-kurtarzxildi-kopya-130.webp",
-    "keyword": "trabzon"
   }
 ]
