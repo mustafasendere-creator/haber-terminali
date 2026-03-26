@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_283beb13",
+    "title": "AP Milletvekili Botenga, Avrupa'nın \"İsrail yanlısı yaklaşımına\" sert eleştirilerde bulundu",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 00:04",
+    "link": "https://www.aa.com.tr/tr/guncel/ap-milletvekili-botenga-avrupanin-israil-yanlisi-yaklasimina-sert-elestirilerde-bulundu/3880925",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Botenga, İsrail'de meclis komitesinde Filistinli mahkumlara yönelik idam cezası tasarısının onaylandığı gün AP'de İran'daki idam cezalarıyla alakalı oturum düzenlenmesini sert şekilde eleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_04cbdb3c",
     "title": "AKÇAABAT ÇARŞI BÖLGESİ 2. ETAP SOKAK SAĞLIKLAŞTIRMA PROJESİ",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Arsin ilçesinde bulunan Organize Sanayi Bölgesi’ndeki fındık fabrikasında çıkan yangın, hem bölgede hem de kamuoyunda büyük üzüntü yarattı. TMMOB Makina Mühendisleri Odası Trabzon Şubesi tarafından yapılan açıklamada, yaşanan olayın yalnızca bir kaza olmadığına dikkat çekilerek yangın güvenliği konusundaki eksiklikler gündeme taşındı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/whatsapp-image-2026-03-26-at-193156.jpeg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_0749e61f",
-    "title": "Dışişleri: Karadeniz'de vurulan gemi Türk MEB'i içindeydi",
-    "source": "DW Türkçe",
-    "time": "26/03/2026 22:45",
-    "link": "https://www.dw.com/tr/dışişleri-karadeniz-de-vurulan-gemi-türk-meb-i-içindeydi/a-76554531",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri, Karadeniz'de Boğazlar'a yakın mesafede saldırıya hedef olan geminin Türk MEB'i içinde bulunduğunu açıkladı. Ham petrol taşıyan geminin AB ve İngiltere'nin yaptırım listesinde yer aldığı belirtiliyor.",
-    "image": null,
-    "keyword": null
   }
 ]
