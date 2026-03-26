@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32a244af",
+    "title": "WSJ: Trump, ABDİsrail ile İran arasındaki savaşı hızla bitirmek istiyor",
+    "source": "TRT Haber",
+    "time": "26/03/2026 14:46",
+    "link": "https://www.trthaber.com/haber/dunya/wsj-trump-abd-israil-ile-iran-arasindaki-savasi-hizla-bitirmek-istiyor-939129.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump'ın, yakınındaki yetkililere ABDİsrail ile İran arasındaki savaşı daha önce belirtilen 4 ila 6 haftalık plana uyarak hızla bitirmek istediğini söylediği iddia edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bb329533",
     "title": "Çanakkale'de öğrencilerin de bulunduğu minibüs devrildi: 8 yaralı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avrupa ekonomisinin kalbinde hesaplar değişti. Küresel enerji koridorlarındaki hareketlilik, Avrupa Merkez Bankası’nın (ECB) yıl sonu büyüme ve enflasyon denkleminde radikal bir sapmaya neden oldu.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/26/frankfurtta-alarm-canlari-enerji-hattindaki-kirilma-euro-bolgesini-sarsiyor-tfoc_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_c39dab59",
-    "title": "Turkcell’in 5G iletişiminde reklam yüzü basketbol efsanesi Shaquille O'Neal oldu",
-    "source": "Ekonomim",
-    "time": "26/03/2026 14:06",
-    "link": "https://www.ekonomim.com/sirketler/turkcellin-5g-iletisiminde-reklam-yuzu-basketbol-efsanesi-shaquille-oneal-oldu-haberi-884146",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Turkcell, 5G sinyalinin verilmesine günler kala sürprizlerinden birini, basketbol efsanesi Shaquille O’Neal ile gerçekleştirdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/26/turkcellin-5g-iletisiminde-reklam-yuzu-basketbol-efsanesi-shaquille-oneal-c5md_cover.jpg",
     "keyword": null
   }
 ]
