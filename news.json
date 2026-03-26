@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17dc10c6",
+    "title": "Sakarya sahilinde bulundu: Ekipler harekete geçti",
+    "source": "OdaTV",
+    "time": "26/03/2026 22:05",
+    "link": "https://www.odatv.com/guncel/sakarya-sahilinde-bulundu-ekipler-harekete-gecti-120140934",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaali’de sahile vuran cismin insansız hava aracına ait kanat parçası olduğu değerlendiriliyor. Jandarma ve sahil güvenlik ekipleri inceleme başlattı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/sakarya-sahilinde-bulundu-ekipler-harekete-gecti-tx1p.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ebed76ad",
     "title": "Ankara'da ilginç gözaltılar",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Perşembe günü Gasparri, Senato’daki Forza Italia grup başkanlığı görevinden istifa etti; yerine Stefania Craxi geldi. İstifa, 20 Forza Italia senatöründen 14’ünün görevden alınmasını isteyen mektubunun ardından geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_993e4fa9",
-    "title": "Trump: ABD'nin İran'a yönelik operasyonları 'programın son derece ilerisinde'",
-    "source": "Euronews",
-    "time": "26/03/2026 21:24",
-    "link": "http://tr.euronews.com/2026/03/26/trump-abdnin-irana-yonelik-operasyonlari-programin-son-derece-ilerisinde",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin Orta Doğu Özel Temsilcisi Witkoff, İran'ın bir barış anlaşması yapmaya ikna edilebileceğine dair 'güçlü işaretler' olduğunu belirterek, Washington'ın Pakistan arabuluculuğunda Tahran'a 15 maddelik bir plan ilettiğini doğruladı.",
     "image": null,
     "keyword": null
   }
