@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3bb65d2",
+    "title": "Trump İran'a olası saldırıyı yine erteledi",
+    "source": "TRT Haber",
+    "time": "26/03/2026 23:44",
+    "link": "https://www.trthaber.com/haber/dunya/trump-irana-olasi-saldiriyi-yine-erteledi-939226.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Donald Trump, İran hükümetinin talebi üzerine bir enerji santralinin yıkımını 10 gün ertelediğini ve yeni tarihin 6 Nisan 2026 olduğunu açıkladı. Trump, görüşmelerin \"oldukça iyi ilerlediğini\" savundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4d4f936b",
     "title": "Diyarbakır Valiliği: Yol kenarına bırakılan el yapımı patlayıcı sivil polis aracı geçerken patladı",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Rutte, Trump'ın NATO'yu güçlendirdiği konusunda ısrarcı. Rutte, Trump'ın müttefikler üzerinde savunma harcamalarını artırmaları için kurduğu baskıyı haklı bulurken, Putin'i müzakere masasına çekme yeteneğini de övdü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d4e99880",
-    "title": "Türkiye, FIBA Kadınlar Avrupa Şampiyonası Elemeleri kura çekimine ilk torbadan katılacak",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 22:44",
-    "link": "https://www.aa.com.tr/tr/guncel/turkiye-fiba-kadinlar-avrupa-sampiyonasi-elemeleri-kura-cekimine-ilk-torbadan-katilacak/3880846",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, FIBA Kadınlar Avrupa Basketbol Şampiyonası Elemeleri ikinci tur kura çekimine ilk torbadan katılacak.",
     "image": null,
     "keyword": null
   }
