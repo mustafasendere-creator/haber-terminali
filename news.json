@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_36394354",
+    "title": "Savaş deniz ticaretini vurdu: İhracat alarmda",
+    "source": "OdaTV",
+    "time": "26/03/2026 08:27",
+    "link": "https://www.odatv.com/ekonomi/savas-deniz-ticaretini-vurdu-ihracat-alarm-veriyor-120140802",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DTO İzmir Şube Başkanı Yusuf Öztürk, İsrail–ABD–İran geriliminin denizcilik ve turizmi olumsuz etkilediğini belirtti. Öztürk, kruvaziyerde aksamalar, artan navlun ve sigorta maliyetleriyle ihracatın zorlaşacağını ve tedarik zincirinin risk altında olduğunu söyledi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/savas-deniz-ticaretini-vurdu-ihracat-alarm-veriyor-ffym.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_57b3b6ba",
     "title": "İran Dışişleri Bakanı Arakçi: ABD ile müzakere yok",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji 26 Mart hava durumu raporunu yayımladı. Yeni rapora göre Ege'nin güneybatısı, Akdeniz, İç Anadolu'nun güney ve doğusu, Orta Karadeniz kıyıları, Doğu Karadeniz, Doğu ve Güneydoğu Anadolu'nun yağışlı geçeceği tahmin ediliyor. Akdeniz’in Toroslar mevkii, Doğu Karadeniz’in iç kesimlerinin yüksekleri ve Doğu Anadolu’nun doğusunda karla karışık yağmur ve kar şeklinde olması bekleniyor. Marmara'da ise sağanak ve sis hakim olacak.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/kisliklarinizi-kaldirmayi-erteleyin-meteorolojiden-5-gunluk-yeni-soguk-yagmur-ve-karli-hava-uyarisi-ftsu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_45f99505",
-    "title": "İran Hürmüz Boğazı'ndan geçiş ücreti almaya hazırlanıyor",
-    "source": "TRT Haber",
-    "time": "26/03/2026 08:05",
-    "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazindan-gecis-ucreti-almaya-hazirlaniyor-939112.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fars ve Tasnim haber ajanslarının bildirdiğine göre İran parlamentosu, Hürmüz Boğazı'ndan geçen gemilerden geçiş ücreti alınmasını öngören bir yasa tasarısını yasalaştırmaya çalışıyor.",
-    "image": null,
     "keyword": null
   }
 ]
