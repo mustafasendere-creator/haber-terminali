@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fc23d9ca",
+    "title": "Havayolunda kriz sinyali: Uçak bileti fiyatlarındaki artışlar yüzde 560'ı buldu!",
+    "source": "Ekonomim",
+    "time": "26/03/2026 10:26",
+    "link": "https://www.ekonomim.com/ekonomi/havayolunda-kriz-sinyali-ucak-bileti-fiyatlarindaki-artislar-yuzde-560i-buldu-haberi-884087",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Basra Körfezi’nde savaş kaynaklı aksaklıklar küresel hava trafiğini vurdu. Asya-Avrupa uçuşlarında bilet fiyatları yüzde 560’a varan artış gösterdi. Sidney-Londra arası bir biletin fiyatı şu anda geçen yıla göre iki kat artışla ortalama bin 500 doların üzerine çıktı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/26/havayolunda-kriz-sinyali-ucak-bileti-fiyatlarindaki-artislar-yuzde-560i-buldu-pumh_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ca59a8e8",
     "title": "Ortadoğu’daki çatışma yeni bir aşamaya girebilir",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ), küresel uzay ve uydu endüstrisinin en önemli buluşmalarından biri olan \"Satellite 2026\"da Türkiye'nin uzay alanındaki yeteneklerini dünya sahnesinde tanıttı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7dcc1b81",
-    "title": "Borsa güne düşüşle başladı",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 10:04",
-    "link": "https://www.aa.com.tr/tr/guncel/borsa-gune-dususle-basladi/3879656",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,40 azalışla 12.911,44 puandan başladı.",
     "image": null,
     "keyword": null
   }
