@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c31a788",
+    "title": "İran, savaştaki tutumu nedeniyle İspanya bağlantılı gemilerin Hürmüz'den geçişine izin veriyor",
+    "source": "Euronews",
+    "time": "27/03/2026 00:24",
+    "link": "http://tr.euronews.com/2026/03/26/iran-savasi-tutumu-nedeniyle-ispanyaya-hurmuz-gecisinde-ayricalik-tanindi-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hürmüz Boğazı, dünyanın en önemli enerji güzergâhlarından biri olup, savaştan önce küresel petrol arzının yaklaşık beşte birini ve Körfez'den yapılan stratejik sıvılaştırılmış doğal gaz (LNG) ihracatını taşıyordu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6d2611d7",
     "title": "Trump, \"İran'ın elektrik santrallerini hedef alma\" kararını 6 Nisan'a kadar ertelediğini açıkladı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Dünya Kupası Elemeleri yarı final mücadelesinde Polonya ile karşılaşan Arnavutluk’ta, Trabzonspor forması giyen Ernest Muçi maça kulübede başladı.",
     "image": "https://resim.haber61.net/news/609472.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_24c2984a",
-    "title": "Slovakya - Kosova maçı: Türkiye'nin rakibi belli oluyor",
-    "source": "Evrensel",
-    "time": "26/03/2026 23:24",
-    "link": "https://www.evrensel.net/haber/5976921/slovakya-kosova-maci-turkiye-nin-rakibi-belli-oluyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 FIFA Dünya Kupası Avrupa Elemeleri play-off turu yarı finalinde Slovakya, Kosova'yı konuk ediyor. Mücadelenin galibi finalde Türkiye'nin rakibi olacak.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/337310.jpg",
-    "keyword": null
   }
 ]
