@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ea8793c",
+    "title": "Bu gece akaryakıt ucuzluyor",
+    "source": "10Haber",
+    "time": "26/03/2026 09:24",
+    "link": "https://10haber.net/ekonomi/bu-gece-akaryakit-ucuzluyor-689872/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ile İran arasında diplomatik müzakerelerin güçlenmesi ve ateşkes umutlarıyla uluslararası petrol fiyatlarındaki düşüş, Türkiye’de akaryakıt fiyatlarına indirim olarak yansıyor. Perşembe’yi Cuma’ya bağlayan gece motorine 5 lira 44 kuruş, benzine ise 95 kuruş indirim bekleniyor. Ortadoğu’da haftalardır süren -İran geriliminde diplomasi ve ateşkes umutlarının güçlenmesi, uluslararası piyasalarında sert düşüşleri beraberinde getirdi. Bu gelişme ’de fiyatlarına [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c4aecb191279.31069048.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_13f8998e",
     "title": "İran'ın düzenlediği füze saldırısında İsrail'in orta kesiminde 5 kişi yaralandı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yunanistan’ın Ropoto köyündeki eğik kilise, sıra dışı eğimi ve sunduğu benzersiz deneyim sayesinde her yıl çok sayıda ziyaretçiyi kendine çekiyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_579b2877",
-    "title": "Dünya Kupası Yolunda Kritik Gece! Türkiye’nin Kader Maçı İstanbul’da",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 08:45",
-    "link": "https://www.takagazete.com.tr/dunya-kupasi-yolunda-kritik-gece-turkiyenin-kader-maci-istanbulda",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "A Milli Futbol Takımı, 2026 FIFA Dünya Kupası Play-Off turu yarı finalinde kritik bir sınava çıkıyor. Türkiye, Perşembe akşamı İstanbul’da Romanya ile karşı karşıya gelecek. Beşiktaş Park’ta oynanacak mücadele saat 20.00’de başlayacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/a-m-i-l-l-i-l-e-r-7.jpg",
     "keyword": null
   }
 ]
