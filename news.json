@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b3bad94c",
+    "title": "Köpek balığı pozitif çıktı! Kanında kokain var!",
+    "source": "Haber Global",
+    "time": "26/03/2026 13:06",
+    "link": "https://haberglobal.com/bilim-teknoloji/kopek-baligi-pozitif-cikti-kaninda-kokain-var-515423",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bahamalarda yapılan bir araştırmada köpekbalıklarının kanında kokain ve kafein izlerine rastlandı. 85 örnek üzerinde yürütülen çalışmada ayrıca parasetamol ve diklofenak gibi ilaç kalıntıları da bulundu. Bunun nedeni ise çevre kirliliği.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/kopek-baligi-pozitif-cikti-kaninda-kokain-var-4lay.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4fbc0091",
     "title": "Vücudunuzda sıklıkla morluklar oluşuyorsa bunun bir nedeni var",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor'da, milli ara sonrasında oynanacak olan Galatasaray maçının hazırlıkları sürüyor. Bordo mavililer, rakibini mağlup ederek galibiyet serisini 6 maça çıkarmayı hedefliyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/468be300-07e1-40a6-a62c-f0121c2be7bf.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8f609429",
-    "title": "PKK ve FETÖ iltisaklı hesaplara erişim engeli",
-    "source": "A Haber",
-    "time": "26/03/2026 12:44",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/26/pkk-ve-feto-iltisakli-hesaplara-erisim-engeli",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'ye yönelik algı ve karalama kampanyası yürüten etki ajanlarının faaliyetlerine karşı mücadele hız kesmeden sürüyor.Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/a411b4/1200/1200/245/0/730/486?u=https://iahbr.tmgrup.com.tr/2026/03/26/pkk-ve-feto-iltisakli-hesaplara-erisim-engeli-1774517367164.jpeg",
-    "keyword": null
   }
 ]
