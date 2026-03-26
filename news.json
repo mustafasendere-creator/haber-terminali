@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_86b2f258",
+    "title": "Kayseri'de akıllara durgunluk veren olay! Kulağından uyuşturucu çıktı",
+    "source": "Haber Global",
+    "time": "26/03/2026 23:25",
+    "link": "https://haberglobal.com/gundem/kayseride-akillara-durgunluk-veren-olay-kulagindan-uyusturucu-cikti-515543",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'de polisin şüphe üzerine durdurduğu ve hastanede beden muayenesi yapılan bir kişinin kulak iç kanal kısımlarına gizlenmiş 0,25 gram uyuşturucu ele geçirildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/kayseride-akillara-durgunluk-veren-olay-kulagindan-uyusturucu-cikti-cnhj.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_88cf2bfd",
     "title": "ABD Başkanı Trump: İran'ın talebi üzerine saldırıları 10 gün daha erteledim",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail Genelkurmay Başkanı Eyal Zamir, İsrail ordusunun büyük bir personel krizi içerisinde olduğunu belirterek \"Personel krizine çözüm bulmazsak ordu çökecek\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7d6c6a49",
-    "title": "Bizim Çocuklar'dan Dünya Kupası için dev adım",
-    "source": "TRT Haber",
-    "time": "26/03/2026 22:05",
-    "link": "https://www.trthaber.com/haber/spor/bizim-cocuklardan-dunya-kupasi-icin-dev-adim-939218.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Futbol Takımımız, Dünya Kupası Elemeleri'nde Romanya'yı 10 yenerek playoff turu finaline yükseldi.",
     "image": null,
     "keyword": null
   }
