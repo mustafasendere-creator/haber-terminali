@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cc399a33",
+    "title": "ABD-İsrail'in İran'a açtığı savaş, uçak bileti fiyatlarını artırdı",
+    "source": "Evrensel",
+    "time": "26/03/2026 17:22",
+    "link": "https://www.evrensel.net/haber/5976893/abd-israilin-irana-actigi-savas-ucak-bileti-fiyatlarini-artirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail’in İran’a saldırısı sonrası Asya-Avrupa uzun mesafe uçak biletleri yüzde 560’a kadar yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/337804.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dba9c1fd",
     "title": "DEM Parti İmralı Heyeti Abdullah Öcalan’la görüşecek",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun’un İlkadım ilçesinde 3 yaşındaki çocuğun çakmakla battaniyeyi yakması sonucu evde yangın çıktı. Olayda dumandan etkilenen 3 kişi hastaneye kaldırıldı.",
     "image": "https://resim.haber61.net/news/609438.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_473f5e8e",
-    "title": "NATO Genel Sekreteri Rutte, İran’ın İttifak için artan bir tehdit oluşturduğunu söyledi",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 16:44",
-    "link": "https://www.aa.com.tr/tr/guncel/nato-genel-sekreteri-rutte-iran-in-ittifak-icin-artan-bir-tehdit-olusturdugunu-soyledi/3880374",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "NATO Genel Sekreteri Mark Rutte, İran’ın İttifak için artan bir tehdit oluşturduğuna dikkati çekerek NATO'nun tüm müttefiklerinin yanında sağlam şekilde yer aldığını vurguladı.",
-    "image": null,
     "keyword": null
   }
 ]
