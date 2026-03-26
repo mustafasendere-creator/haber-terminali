@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c2779845",
+    "title": "MAÇ SONUCU | Brezilya 1-2 Fransa",
+    "source": "Haber Global",
+    "time": "27/03/2026 02:04",
+    "link": "https://haberglobal.com/spor/mac-ozeti-brezilya-1-2-fransa-gabriel-sara-ilk-kez-oynadi-515534",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa, 2026 FIFA Dünya Kupası hazırlıkları kapsamında oynanan karşılaşmada Brezilya'yı 2-1 yendi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/brezilya-fransa-maci-canli-izle-xzo7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_43ee35e0",
     "title": "İzmir Körfezi'nin kirliliği uluslararası konferansta tartışılıyor",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7985952e",
-    "title": "YÖK ve TÜME arasında yapay zeka destekli otonom çiftlik işbirliği protokolü imzalandı",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 00:44",
-    "link": "https://www.aa.com.tr/tr/guncel/yok-ve-tume-arasinda-yapay-zeka-destekli-otonom-ciftlik-isbirligi-protokolu-imzalandi/3880762",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yükseköğretim Kurulu (YÖK) ile Tarım Teknolojileri Kümelenmesi (TÜME) arasında, 11 üniversitede kurulacak 20 yapay zeka destekli otonom eğitim ve AR-GE çiftliği hibe projesini içeren işbirliği protokolü imzalandı.",
     "image": null,
     "keyword": null
   }
