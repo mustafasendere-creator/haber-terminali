@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9f01628a",
+    "title": "Türk tankerine boğaz açıklarında insansız hava aracı isabet etti",
+    "source": "BBC Türkçe",
+    "time": "26/03/2026 09:04",
+    "link": "https://www.bbc.com/turkce/articles/c5yxvyej7k5o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altura adlı ham petrol yüklü tankere İstanbul Boğazı'nın 15 mil açığında Karadeniz'de insansız hava aracı isabet etti. Geminin güvertesinde ve makine dairesinde hasar oluştu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bc035564",
     "title": "İran Dışişleri Bakanı Erakçi: ABD ile müzakere yok",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Günümüz evrensel ve çağdaş demokrasisinde önemli olan sayısal demokrasi değil, çoğulcu ve katılımcı demokrasidir.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar396_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b9f29a56",
-    "title": "Avrupa'da konut krizi alarmı: \"Yeni nesil ev sahibi olamayabilir\"",
-    "source": "Haber Global",
-    "time": "26/03/2026 08:26",
-    "link": "https://haberglobal.com/yazarlar/avrupada-konut-krizi-alarmi-yeni-nesil-ev-sahibi-olamayabilir-515318",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa genelinde artan kira ve konut fiyatları, özellikle gençler için barınmayı giderek zorlaştırıyor. Uzmanlar, “yeni neslin ev sahibi olamayabileceği” uyarısında bulunuyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/avrupada-konut-krizi-alarmi-yeni-nesil-ev-sahibi-olamayabilir-nttu.jpg",
     "keyword": null
   }
 ]
