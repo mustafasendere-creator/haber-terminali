@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a2364a99",
+    "title": "Gazze: Deyr el Belah'taki çadırların yakınındaki saldırıda en az bir kişi öldü",
+    "source": "Euronews",
+    "time": "26/03/2026 12:45",
+    "link": "http://tr.euronews.com/video/2026/03/26/gazze-deyr-el-belahtaki-cadirlarin-yakinindaki-saldirida-en-az-bir-kisi-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Olay yerinden gelen görüntülerde, patlamanın kampa çok yakın düştüğü, dumanların gökyüzüne yükseldiği ve yangın çıkınca halk ile sağlık ekiplerinin yaralıları taşımak için koştuğu görülüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_df904f30",
     "title": "Eski Fransız polis, iki kadını öldürüp gömdüğü şüphesiyle Portekiz'de yakalandı",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Tirebolu İlçe Sağlık Müdürlüğü ekipleri, “Sağlıkta Erken Teşhis Hayat Kurtarır” anlayışıyla Kuzgun Köyü’nde kapsamlı bir sağlık taraması gerçekleştirdi. Köy meydanında kurulan mobil sağlık noktası sayesinde vatandaşlar, sağlık hizmetlerine kolayca erişim sağladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/k-u-z-g-u-n-n-n.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_6eca0f3b",
-    "title": "Trabzon’da Fabrika Yangını Kontrol Altına Alındı Soğutma İşlemleri Devam Ediyor: İnceleme Başlatıldı",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 12:05",
-    "link": "https://www.takagazete.com.tr/trabzonda-fabrika-yangini-kontrol-altina-alindi-sogutma-islemleri-devam-ediyor-inceleme-baslatildi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Arsin’deki fındık fabrikasında çıkan yangın kontrol altına alındı. 3 kişi hafif yaralandı, bölgede soğutma çalışmaları devam ediyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-4-214.jpg",
-    "keyword": "trabzon"
   }
 ]
