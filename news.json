@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef6a742a",
+    "title": "Milli yıldızlardan galibiyet açıklaması: 'Ferdi ağabey ile bunu konuştuk'",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 22:45",
+    "link": "https://www.cumhuriyet.com.tr/spor/milli-yildizlardan-galibiyet-aciklamasi-ferdi-agabey-ile-bunu-konustuk-2489899",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli oyunculardan Arda Güler, Ferdi Kadıoğlu ve Kenan Yıldız, 1-0 kazandıkları Romanya maçının ardından görüşlerini aktardı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7b932c1d-67e5-4cb8-894c-67159091290c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d8819888",
     "title": "Aleyna Kalaycıoğlu'nun annesi ifadesi ortaya çıktı: 'Canbay kızıma şiddet uyguluyordu'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Diyarbakır’ın Kulp ilçesinde viyadük inşasında 4 işçinin öldüğü, 1 işçinin ağır yaralandığı iş cinayetiyle ilgili iddianame kabul edildi. 10 sanık hakkında 2 yıldan 15’er yıla kadar hapis cezası istemiyle dava açıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340396.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e935656d",
-    "title": "Trump nükleer silah sahibi olmayacaklarına dair İran’la anlaşmaya vardıklarını iddia etti",
-    "source": "Evrensel",
-    "time": "26/03/2026 21:44",
-    "link": "https://www.evrensel.net/haber/5976904/trump-nukleer-silah-sahibi-olmayacaklarina-dair-iranla-anlasmaya-vardiklarini-iddia-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran rejimiyle nükleer silah sahibi olmayacaklarına dair bir mutabakata vardıklarını ileri sürdü. Trump, son askeri operasyonlarla İran’ın kapasitesini yerle bir ettiklerini iddia etti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340303.jpg",
     "keyword": null
   }
 ]
