@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ca8d685c",
+    "title": "BM'den uyarı: Ortadoğu'da savaş kontrolden çıktı",
+    "source": "DW Türkçe",
+    "time": "26/03/2026 07:46",
+    "link": "https://www.dw.com/tr/bm-den-uyarı-ortadoğu-da-savaş-kontrolden-çıktı/a-76531700",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BM Genel Sekreteri Antonio Guterres, İran savaşının dünyayı daha büyük bir savaşın eşiğine getirdiği uyarısı yaparak ABD ve İsrail'i savaşa son vermeye çağırdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_03b9a3d5",
     "title": "Trabzon’daki yangınla ilgili son dakika açıklaması!",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Pedro Sánchez, Orta Doğu'da \"Irak'tan çok daha kötü\" bir senaryonun gündeme gelebileceği ve İran'a karşı savaş nedeniyle \"mutlak bir felaket\" yaşanabileceği uyarısında bulunuyor: 'Dünyanın ihtiyacı olan son şey bir başka savaştı.'",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4361e04e",
-    "title": "United Airlines uzun uçuşlarda yatağa dönüşen ekonomi sınıfı koltuklarını tanıttı",
-    "source": "Euronews",
-    "time": "25/03/2026 15:49",
-    "link": "http://tr.euronews.com/gezi/2026/03/25/united-airlines-uzun-ucuslarda-yataga-donusen-ekonomi-sinifi-koltuklarini-tanitti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "United Airlines, 2027'den itibaren 'Relax Row' adlı yeni koltukları sunacak; kaldırılabilir ayak dayanaklarıyla daha geniş, yatağa yakın bir dinlenme alanı sağlanacak.",
     "image": null,
     "keyword": null
   }
