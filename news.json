@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_19d090b3",
+    "title": "Dünya kupasına son bir maç",
+    "source": "OdaTV",
+    "time": "26/03/2026 23:45",
+    "link": "https://www.odatv.com/spor/dunya-kupasina-son-bir-mac-120140936",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımı, 2026 Dünya Kupası Avrupa Elemeleri play-off turu yarı finalinde Romanya’yı 1-0 mağlup ederek büyük avantaj sağladı. Milliler, bu sonuçla Dünya Kupası yolunda büyük bir avantaj elde etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/a-milli-takim-finalde-xoke.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6ea58b4a",
     "title": "Bloomberg: Fiyatlar Türkiye yüzünden düştü",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Alman Bertelsmann Vakfı'nın 2026 Dönüşüm Endeksinde Türkiye yine otokratik yönetilen ülkeler arasında yer aldı. Raporda demokratik ülkelerde de otokratikleşme eğilimlerinin arttığı uyarısı yapıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2e69c070",
-    "title": "Romanya'yı eleyen Türkiye Dünya Kupası'na bir maç uzaklıkta",
-    "source": "DW Türkçe",
-    "time": "26/03/2026 22:45",
-    "link": "https://www.dw.com/tr/romanya-yı-eleyen-türkiye-dünya-kupası-na-bir-maç-uzaklıkta/a-76554558",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye A Millî Futbol Takımı, 2026 Dünya Kupası Avrupa Elemeleri play-off turu yarı finalinde Romanya'yı 1-0 yenerek finale kaldı. Türkiye finaldeki rakibini de yenerse 24 yıllık aradan sonra Dünya Kupası'na gidecek.",
     "image": null,
     "keyword": null
   }
