@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_182c5478",
+    "title": "Borsa günün ilk yarısında geriledi",
+    "source": "Haber Global",
+    "time": "26/03/2026 13:46",
+    "link": "https://haberglobal.com/ekonomi/borsa-gunun-ilk-yarisinda-geriledi-515440",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, günün ilk yarısında yüzde 0,94 değer kaybederek 12.842,20 puana indi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/borsa-gunun-ilk-yarisinda-geriledi-furp.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0c311fdb",
     "title": "Bilim insanları açıkladı: Yaşam ihtimali olan 45 gezegen bulundu",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ve İsrail'in İran'a yönelik saldırıları enerjiden tarıma bazı kritik emtia fiyatlarını yukarı taşıdı, buna karşın yaşanan arz şokunun Rusya tarafından artan gelirlerine rağmen sınırlı ölçüde karşılanması bekleniyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e9ef072d",
-    "title": "Uzmanlara göre Sudan'daki çatışmalar sınır ötesine taşınarak bölgesel güvenlik riskini artırıyor",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 13:24",
-    "link": "https://www.aa.com.tr/tr/guncel/uzmanlara-gore-sudandaki-catismalar-sinir-otesine-tasinarak-bolgesel-guvenlik-riskini-artiriyor/3880018",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sudan'da 2023'te başlayan çatışmaların Doğu ve Orta Afrika'da istikrarsızlık riskini artırdığı belirtiliyor. Çad'ın sürece daha fazla dahil olması, iç istikrarsızlığı yükseltirken bölgesel rekabet ve jeopolitik gerilimleri de derinleştiriyor.",
     "image": null,
     "keyword": null
   }
