@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1dd33641",
+    "title": "Anadolu Efes, Real Madrid deplasmanında kayıp!",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 01:44",
+    "link": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-real-madrid-deplasmaninda-kayip-2489930",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anadolu Efes, EuroLeague'in 34. haftasında deplasmanda karşılaştığı Real Madrid'e 82-71 mağlup oldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8fbfb019-d232-41e9-a8cc-b9801ad55529.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5dc15578",
     "title": "Ankara İl Milli Eğitim Müdürlüğünden Mimar Kemal Ortaokulunun kapatılacağı iddialarına ilişkin açıklama: ‘Okulun kapatılması gibi bir durum bulunmamaktadır’",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Karabük'ün Safranbolu ilçesinde cam seyir terasından kendini boşluğa bırakan 21 yaşındaki üniversite öğrencisi hayatını kaybetti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/genc-kiz-80-metre-yuksekligindeki-cam-terastan-kendini-bosluga-birakti-qqrf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e7fb19c0",
-    "title": "Almanya'da elektrik fiyatları ABD/İsrailİran Savaşı ile yükseldi",
-    "source": "TRT Haber",
-    "time": "27/03/2026 00:24",
-    "link": "https://www.trthaber.com/haber/ekonomi/almanyada-elektrik-fiyatlari-abdisrail-iran-savasi-ile-yukseldi-939189.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD/İsrailİran Savaşı ve enerji piyasalarındaki belirsizlik, Almanya'da elektrik fiyatlarını doğrudan etkiliyor.",
-    "image": null,
     "keyword": null
   }
 ]
