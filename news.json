@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8de1939a",
+    "title": "Ortadoğu cehennemi ve iktidarın teslimiyeti",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 08:06",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/ahmet-saltik/ortadogu-cehennemi-ve-iktidarin-teslimiyeti-2489615",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Savaşın şiddeti azalmış görünse de siyasal belirsizlik ve karşılıklı misilleme döngüsü sürüyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar473_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_f7b30915",
     "title": "Kaplan-Kuneralp cephesi",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Amerikan teknoloji şirketi Google'ın eski yöneticisi Matt Brittin, ABD Başkanı Donald Trump ile davalık olan BBC'ye Genel Müdür oldu.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_acf14e6b",
-    "title": "Fırtına öncesi sessizlik! “Trabzonspor'un gardını düşürmeye çalışacaklar, hazır olun!\"",
-    "source": "Haber61",
-    "time": "26/03/2026 07:46",
-    "link": "https://www.haber61.net/trabzonspor/firtina-oncesi-sessizlik-trabzonsporun-gardini-dusurmeye-calisacaklar-h627686.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Haber61’de yayınlanan Saha Kenarı programında, Trabzonspor’un Galatasaray ile oynayacağı maçın ardından oluşabilecek medya atmosferi de değerlendirildi. Okan Çıtlak ile Gökmen Şahin, özellikle İstanbul basınından gelebilecek olası baskıya dikkat çekti.",
-    "image": "https://resim.haber61.net/news/609305.jpg",
-    "keyword": "trabzon"
   }
 ]
