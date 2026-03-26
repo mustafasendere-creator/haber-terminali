@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_74b5c38b",
+    "title": "ABD uçak gemisi \"USS Gerald R. Ford\" Girit'teki Suda Üssü'nden ayrıldı",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 19:04",
+    "link": "https://www.aa.com.tr/tr/guncel/abd-ucak-gemisi-uss-gerald-r-ford-giritteki-suda-ussunden-ayrildi/3880642",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'ye ait \"USS Gerald R. Ford\" uçak gemisinin Girit'teki Suda Üssü'nden ayrılarak Hırvatistan'ın Split kentine doğru hareket ettiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
+    "id": "GND_c912db2b",
+    "title": "ABD Başkanı Trump, anlaşma yapıp yapmama kararının \"artık İran'a kaldığını\" söyledi",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 19:04",
+    "link": "https://www.aa.com.tr/tr/guncel/abd-baskani-trump-anlasma-yapip-yapmama-kararinin-artik-irana-kaldigini-soyledi/3880653",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trump, İran'la devam eden müzakerelerin sonucunun artık Tahran'a bağlı olduğunu belirterek, \"İran'ın nükleer emellerinden kalıcı olarak vazgeçme ve yeni bir yol çizme şansı artık kendi elinde. Bunu yapmak isteyip istemediklerini göreceğiz.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
+    "id": "YRL_fc131005",
+    "title": "Ağır Suçlarda Yaş İndirimi Kalkıyor mu? Başsavcıdan Radikal Çağrı...",
+    "source": "Taka Gazetesi",
+    "time": "26/03/2026 19:04",
+    "link": "https://www.takagazete.com.tr/agir-suclarda-yas-indirimi-kalkiyor-mu-bassavcidan-radikal-cagri",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Ankara Başsavcı Vekili Pınar Akdoğan, 15-18 yaş grubundaki ağır suçlar için yaş indiriminin kaldırılmasını istedi. Suçun caydırıcılığı için yeni yasal düzenleme kapıda.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agir-suclar-1.jpg",
+    "keyword": null
+  },
+  {
+    "id": "GND_419c9a82",
+    "title": "Dışişleri Bakanı Fidan'dan savaş teması: Arakçi ile görüştü",
+    "source": "A Haber",
+    "time": "26/03/2026 19:04",
+    "link": "https://www.ahaber.com.tr/gundem/2026/03/26/disisleri-bakani-fidandan-savas-temasi-arakci-ile-gorustu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan Orta Doğu'daki İran savaşına yönelik diplomasi trafiğini hız kesmeden sürdürüyor. Son günlerde sık sık önemli temaslar gerçekleştiren Bakan Fidan son olarak İranlı...Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/bce921/1200/1200/72/0/431/359?u=https://iahbr.tmgrup.com.tr/2026/03/26/1774539236213.jpg",
+    "keyword": null
+  },
+  {
+    "id": "YRL_e6c95fda",
+    "title": "Chibuike Nwaiwu'ya milli davet!",
+    "source": "61 Saat",
+    "time": "26/03/2026 19:04",
+    "link": "https://www.61saat.com/chibuike-nwaiwuya-milli-davet",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trabzonsporlu Nwaiwu’ya Nijerya Milli Takımı’ndan davet aldı.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/nnn-4.png",
+    "keyword": null
+  },
+  {
+    "id": "GND_8eb376f6",
+    "title": "Ünlülerin savcılıktaki ifadeleri ortaya çıktı! Didem Soydan’dan şok savunma: “Yanlışlıkla bir nefes çektim”",
+    "source": "A Haber",
+    "time": "26/03/2026 19:04",
+    "link": "https://www.ahaber.com.tr/gundem/2026/03/26/unlulerin-savciliktaki-ifadeleri-ortaya-cikti-didem-soydandan-sok-savunma-yanlislikla-bir-nefes-cektim",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Cumhuriyet Başsavcılığı koordinesinde yürütülen dev uyuşturucu operasyonunda magazin ve spor dünyasının ünlü isimleri hakim karşısına çıktı. Aralarında Fikret Orman, Burak Elmas ve Sabancı...Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/0a5a5e/0/0/0/0/1666/2048?u=https://iahbr.tmgrup.com.tr/2026/03/26/unlulerin-savciliktaki-ifadeleri-ortaya-cikti-didem-soydandan-sok-savunma-yanlislikla-bir-nefes-cektim-1774540528560.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_6541663d",
     "title": "A Milli Takım'ın Romanya maçı ilk 11'i belli oldu",
     "source": "Haber61",
@@ -885,78 +957,6 @@
     "prefix": "🌊",
     "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından düzenlenen uyuşturucu operasyonu kapsamında gözaltına alınan 14 şüpheli, emniyetteki işlemlerinin ardından adliyeye sevk edildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/69c4e4e190f69869-w1200xh799.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_99941291",
-    "title": "CHP Trabzon İl Başkanı Mustafa Bak: Haksızlıkları, kamuoyuna aktarmak bizim görevimiz...",
-    "source": "61 Saat",
-    "time": "26/03/2026 17:24",
-    "link": "https://www.61saat.com/chp-trabzon-il-baskani-mustafa-bak-haksizliklari-kamuoyuna-aktarmak-bizim-gorevimiz",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İBB Davasını yakından takip eden CHP Trabzon İl Başkanı Mustafa Bak, açıklamalarda bulundu. Bak, \"Yaşanan haksızlıkları kamuoyuna aktarmak da bir görevimiz. Hepsini bir arada yapmamız gerekiyor\" dedi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/il-baskani.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_5eb96233",
-    "title": "Canlı yayında resmi adaylık açıklaması: “Doğru zamanı bekliyoruz”",
-    "source": "Haber61",
-    "time": "26/03/2026 17:24",
-    "link": "https://www.haber61.net/trabzon/canli-yayinda-resmi-adaylik-aciklamasi-dogru-zamani-bekliyoruz-h627756.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İş insanı Ahmet Kazaz, Haber61 TV’de adaylık sürecine ilişkin dikkat çeken açıklamalarda bulundu. Kazaz, resmi açıklama için şehrin şartlarının uygun hale gelmesini beklediklerini söyledi.",
-    "image": "https://resim.haber61.net/news/609426.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_ce510135",
-    "title": "Boynunda kemoterapiyle nöbette: Hekimden hayran bırakan mücadele",
-    "source": "Haber61",
-    "time": "26/03/2026 17:24",
-    "link": "https://www.haber61.net/bolgesel/boynunda-kemoterapiyle-nobette-hekimden-hayran-birakan-mucadele-h627763.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun’da akciğer ve pankreas kanseriyle mücadele eden Acil Tıp Hekimi Bendegül Kuruçelik, kemoterapi tedavisine rağmen görevine devam ederek dikkat çekiyor. Boynuna bağlı cihazla ilaç alırken çalışan hekim, mesleğine olan bağlılığıyla örnek oluyor.",
-    "image": "https://resim.haber61.net/news/609440.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_06166cce",
-    "title": "Ahmet Kazaz Trabzon gündemini Haber61 ekranlarında değerlendirdi: “Potansiyelini fırsata dönüştüremiyor”",
-    "source": "Haber61",
-    "time": "26/03/2026 17:24",
-    "link": "https://www.haber61.net/trabzon/ahmet-kazaz-trabzon-gundemini-haber61-ekranlarinda-degerlendirdi-h627764.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İş insanı Ahmet Kazaz, Haber61 TV’de yayınlanan Bakış programında ticaret ve sanayi odalarının rolünden Trabzon’un ekonomik tablosuna kadar birçok başlıkta dikkat çeken değerlendirmelerde bulundu.",
-    "image": "https://resim.haber61.net/news/609442.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0386ef7f",
-    "title": "Yenidoğan Çetesi davasında ara karar",
-    "source": "OdaTV",
-    "time": "26/03/2026 17:23",
-    "link": "https://www.odatv.com/guncel/yenidogan-cetesi-davasinda-ara-karar-tutuksuz-saniklarin-adli-kontrolleri-kaldirildi-120140898",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’da bebekleri anlaşmalı hastanelere yönlendirerek haksız kazanç sağlayan “Yenidoğan Çetesi” davasında ara karar açıklandı. 5 tutuksuz sanığın adli kontrol tedbirleri kaldırılırken, çete lideri olduğu öne sürülen Fırat Sarı dahil 10 sanığın tutukluluk halleri devam edecek.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/yenidogan-cetesi-davasinda-ara-karar-yxgh.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_881dcd95",
-    "title": "TürkMedya'da üst düzey atama: Ziyad Varol",
-    "source": "OdaTV",
-    "time": "26/03/2026 17:23",
-    "link": "https://www.odatv.com/ekonomi/is-dunyasi/turkmedyada-ust-duzey-atama-trtden-ayrilan-ziyad-varol-goreve-basladi-120140899",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TRT Genel Müdür Yardımcılığı görevinden ayrılan Ziyad Varol, TürkMedya bünyesinde İcra Kurulu Üyesi olarak göreve başladı. Medya ve içerik yönetimindeki tecrübesiyle TürkMedya’nın stratejik hedeflerine katkı sağlayacak.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/turkmedyada-ust-duzey-atama-trtden-ayrilan-ziyad-varol-goreve-basladi-gvzd.jpg",
     "keyword": null
   }
 ]
