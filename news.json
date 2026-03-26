@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_16552591",
+    "title": "Şanlıurfa'da selde mahsur kalan 10 kişilik aile kurtarıldı",
+    "source": "TRT Haber",
+    "time": "26/03/2026 07:47",
+    "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-selde-mahsur-kalan-10-kisilik-aile-kurtarildi-939116.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'da sağanak nedeniyle su baskınında mahsur kalan 10 kişilik aile, ekipler tarafından kurtarıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_29ecaee4",
     "title": "Arsin OSB’de yangın! Başkan açıkladı... Çıkış nedeni ne?",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Hırvatistan Başbakanı Andrej Plenkovic ile bir araya geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0f851f6d",
-    "title": "İsrail, Lübnan'ın güneyinde kara saldırılarını genişletiyor",
-    "source": "TRT Haber",
-    "time": "25/03/2026 15:49",
-    "link": "https://www.trthaber.com/haber/dunya/israil-lubnanin-guneyinde-kara-saldirilarini-genisletiyor-939055.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan'a yoğun saldırılar düzenleyen İsrail ordusunun, ülkenin güneyinde kara saldırılarını genişleteceği bildirildi.",
     "image": null,
     "keyword": null
   }
