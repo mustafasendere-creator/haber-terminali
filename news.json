@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5130e494",
+    "title": "‘Ağaç tavuğu’ dedi, çıtır çıtır iguana yedi: Yere kendiliğinden düşüyor",
+    "source": "10Haber",
+    "time": "26/03/2026 17:22",
+    "link": "https://10haber.net/populer/agac-tavugu-dedi-citir-citir-iguana-yedi-yere-kendiliginden-dusuyor-690019/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güney Florida’da kış kapıyı çaldığında gökyüzünden sadece kar taneleri değil bazen donmuş iguanalar düşer. Sosyal medyada viral olan bir videoda elinde yeşil bir iguana tutan Davis, durumu şöyle açıklıyor: &#8220;Yeşil iguanalar burada, Güney Florida&#8217;da istilacı bir tür&#8230; Bu soğuk hava dalgaları geldiğinde çok soğuyorlar ve ağaçlardan paldır küldür düşüyorlar&#8230; Pek çok insan, popülasyondaki sayıyı kontrol [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c5152aeb94b2.05502401.png",
+    "keyword": null
+  },
+  {
     "id": "GND_f0a3428f",
     "title": "O şehir 700 yıldır kayıptı: Haritaya eklenirse herkes oraya koşacak",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhurbaşkanlığı İletişim Başkanlığının ev sahipliğinde düzenlenen, dünyanın dört bir yanından politika yapıcıları, diplomatları, iletişim uzmanları, medya profesyonellerini bir araya getiren STRATCOM yarın başlıyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ab84a803",
-    "title": "Başkan Erdoğan'dan net mesaj: Kimse Türkiye'ye diz çöktüremeyecek",
-    "source": "A Haber",
-    "time": "26/03/2026 16:44",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/26/baskan-erdogandan-net-mesaj-kimse-turkiyeye-diz-cokturemeyecek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Recep Tayyip Erdoğan, AK Parti Kongre Merkezi'nde düzenlenen Genişletilmiş İl Başkanları Toplantısı'nda önemli açıklamalarda bulundu. Orta Doğu'daki gerilime ilişkin net mesaj veren Erdoğan,...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/7ffeff/1200/1200/137/0/696/558?u=https://iahbr.tmgrup.com.tr/2026/03/26/baskan-erdogandan-ankarada-onemli-aciklamalar-1774507414550.jpeg",
     "keyword": null
   }
 ]
