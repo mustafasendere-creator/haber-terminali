@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da49eeb7",
+    "title": "İstanbul yolundaki tankere saldırı: 140 bin ton petrol taşıyor",
+    "source": "A Haber",
+    "time": "26/03/2026 09:24",
+    "link": "https://www.ahaber.com.tr/gundem/2026/03/26/istanbul-yolundaki-tankere-saldiri-140-bin-ton-petrol-tasiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya’nın Novorossiysk Limanı’ndan İstanbul’a ulaşmak üzere demir alan Pergamon Denizcilik bünyesindeki \"Altura\" isimli ham petrol tankeri, gece yarısı sularında kimliği henüz belirlenemeyen bir...Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/568beb/1200/1200/221/0/971/750?u=https://iahbr.tmgrup.com.tr/2026/03/26/1774505574584.jpeg",
+    "keyword": null
+  },
+  {
     "id": "SOC_bc41e849",
     "title": "Trabzonspor’un eski kalecisi Uğurcan Çakır, 5 Nisan 1996’da Trabzonlu bir baba ile Antalyalı bir annenin evladı olarak Antalya’da dünyaya gelmiştir. Futbol kariyerine 12 yaşında İstanbul’un amatör takımlarından Çekmeköyspor’da başlamış, ardından kariyeri - x.com",
     "source": "X",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'un ve Trabzonspor'un gündeminde yaşananları sizler için derledik.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/26-8.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1d26ed6f",
-    "title": "Rusya, enerji konusunda Avrupa’yı küçümsemek için eski bir enerji tasarrufu kampanyasını gündeme getirdi",
-    "source": "Euronews",
-    "time": "26/03/2026 08:45",
-    "link": "http://tr.euronews.com/2026/03/25/rusya-enerji-konusunda-avrupayi-kucumsemek-icin-eski-bir-enerji-tasarrufu-kampanyasini-gun",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ile İran arasındaki savaşa rağmen Rus enerjisine dönmeyi reddeden Avrupa 'kendi kendini mi mahkum ediyor?' Rusya Dışişleri Bakanlığı Sözcüsü, AB’nin enerji sıkıntısıyla alay etmek için 2021 tarihli Hollanda enerji tasarrufu kampanyasını kullanıyor.",
-    "image": null,
-    "keyword": null
   }
 ]
