@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0749e61f",
+    "title": "Dışişleri: Karadeniz'de vurulan gemi Türk MEB'i içindeydi",
+    "source": "DW Türkçe",
+    "time": "26/03/2026 22:45",
+    "link": "https://www.dw.com/tr/dışişleri-karadeniz-de-vurulan-gemi-türk-meb-i-içindeydi/a-76554531",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri, Karadeniz'de Boğazlar'a yakın mesafede saldırıya hedef olan geminin Türk MEB'i içinde bulunduğunu açıkladı. Ham petrol taşıyan geminin AB ve İngiltere'nin yaptırım listesinde yer aldığı belirtiliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_cec1f22f",
     "title": "Trabzonspor’da Derbi Mesaisi: Gözler Ozan Tufan’da",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kanada, İran'ın \"askeri kapasitesine destek sağladığı\" gerekçesiyle bazı kişi ve kuruluşlara yönelik yaptırım uygulandığını açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c8aa2aa1",
-    "title": "Türkiye'nin stratejik iletişim alanındaki vizyonunun ve kurumsal kapasitesinin bir yansıması: STRATCOM Zirvesi",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 21:44",
-    "link": "https://www.aa.com.tr/tr/guncel/turkiyenin-stratejik-iletisim-alanindaki-vizyonunun-ve-kurumsal-kapasitesinin-bir-yansimasi-stratcom-zirvesi/3880810",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İetişim Başkanı Duran, \"Türkiye, son yıllarda yürüttüğü çok boyutlu dış politika ve aktif diplomasi ile yalnızca bir bölgesel güç değil, aynı zamanda küresel ölçekte dengeleyici ve kolaylaştırıcı bir aktör olarak öne çıkmaktadır.\" ifadesini kullandı.",
     "image": null,
     "keyword": null
   }
