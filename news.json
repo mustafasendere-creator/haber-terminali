@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eb79d2c8",
+    "title": "Valilik duyurdu… Diyarbakır’da patlama: ‘Sivil polis aracı üzerinden geçti’",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 23:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/valilik-duyurdu-diyarbakir-da-patlama-sivil-polis-araci-uzerinden-gecti-2489905",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır Valiliği “Olay sırasında bölgeden geçmekte olan sivil bir polis aracının, yol kenarına bırakılan ve içerisinde el yapımı patlayıcı (EYP) bulunduğu değerlendirilen bir poşetin üzerinden geçtiği esnada patlamanın meydana geldiği anlaşılmıştır” açıklamasını yaptı. İşte ayrıntılar...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_61242fbc",
     "title": "Portekiz’de kiliseden 57 cinsel istismar mağduruna 1,6 milyon euro tazminat",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hazırlık maçında heyecan! Brezilya ile Fransa karşı karşıya gelecek. Mücadele öncesinde merak edilen konular arasında maçın yayın saati, kanalı da yer alıyor...",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/canli-yayin-brezilya-fransa-maci-trt-spor-canli-izle-cxx0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ecf87bf4",
-    "title": "Lübnan Sağlık Bakanlığı: İsrail saldırılarında hayatını kaybedenlerin sayısı 1116'ya yükseldi",
-    "source": "TRT Haber",
-    "time": "26/03/2026 22:05",
-    "link": "https://www.trthaber.com/haber/dunya/lubnan-saglik-bakanligi-israil-saldirilarinda-hayatini-kaybedenlerin-sayisi-1116ya-yukseldi-939207.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda yaşamını yitirenlerin sayısı 22 artarak 1116'ya, yaralı sayısı ise 3 bin 229'a ulaştı.",
-    "image": null,
     "keyword": null
   }
 ]
