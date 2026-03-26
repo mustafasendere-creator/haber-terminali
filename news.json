@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c51de9bc",
+    "title": "Üsküdar'da işçilerin kaldığı konteynerde çıkan yangın söndürüldü",
+    "source": "Evrensel",
+    "time": "26/03/2026 08:05",
+    "link": "https://www.evrensel.net/haber/5976777/uskudarda-iscilerin-kaldigi-konteynerde-cikan-yangin-sonduruldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Üsküdar'da inşaat alanındaki işçi konteynerinde çıkan yangın söndürüldü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340277.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_30837d7c",
     "title": "TAYFUN balistik ve SOM seyir füzesinin teslimatları hız kesmeden sürüyor",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Dolarda güvenli liman alımları döneminin kapandığına yönelik işaretler geliyor. Yatırımcılar, Orta Doğu’da bir savaşın çıkmasının ve enerji fiyatlarının yükselmesinin normal şartlarda dolarını desteklemesini beklerler.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/guvenli-liman.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5fa21780",
-    "title": "İsrailli aşırı sağcı Milletvekili Kroizer, Filistinli çocukların öldürülmesini savundu",
-    "source": "Evrensel",
-    "time": "26/03/2026 07:45",
-    "link": "https://www.evrensel.net/haber/5976780/israilli-asiri-sagci-milletvekili-kroizer-filistinli-cocuklarin-oldurulmesini-savundu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrailli aşırı sağcı Milletvekili Yitzhak Kroizer, İsrail'in saldırısında Filistinli bir aileden 2'si çocuk dört kişinin öldürülmesine destek verdi; \"Cenin'de masum çocuk yok\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340280.jpg",
     "keyword": null
   }
 ]
