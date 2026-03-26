@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a36bb14",
+    "title": "Caracas’ta devriyelerde robot köpekler kullanılmaya başlandı",
+    "source": "Euronews",
+    "time": "26/03/2026 11:25",
+    "link": "http://tr.euronews.com/video/2026/03/26/caracasta-devriyelerde-robot-kopekler-kullanilmaya-baslandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Caracas’ın en zengin semtlerinden birinde artık iki robot köpek kamu alanlarında devriye geziyor. Yetkililere göre teknoloji, sahadaki polislerin yerini almak değil, onlara destek olmak için kullanılıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3d0f3007",
     "title": "Veracruz'da petrol sızıntısı: Meksika kıyıyı temizlemeye çalıştı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Rize'nin Ardeşen ilçesinde gökyüzünde sürü halinde süzülen şahinler, vatandaşlar tarafından cep telefonu kamerasıyla görüntülendi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/gdkmfgdmkfgkmdfg.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_f0318ca8",
-    "title": "NBA'de Alperen Şengün'ün çabası galibiyete yetmedi",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 10:44",
-    "link": "https://www.aa.com.tr/tr/guncel/nbade-alperen-sengunun-cabasi-galibiyete-yetmedi/3879700",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Amerikan Basketbol Ligi'nde (NBA) uzatmaya giden maçta Minnesota Timberwolves, sahasında Houston Rockets'ı 110-108 mağlup etti.",
-    "image": null,
     "keyword": null
   }
 ]
