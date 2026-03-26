@@ -1,5 +1,29 @@
 [
   {
+    "id": "TKP_623f1bfd",
+    "title": "Trabzon’da Acı Kayıp Umuda Dönüştü: 3 Hastaya Organ Nakli",
+    "source": "Taka Gazetesi",
+    "time": "26/03/2026 16:45",
+    "link": "https://www.takagazete.com.tr/trabzonda-aci-kayip-umuda-donustu-3-hastaya-organ-nakli",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzon’da beyin ölümü gerçekleşen 23 yaşındaki kadının organları 3 hastaya umut oldu. Ailenin aldığı karar takdir topladı.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-10-113.jpg",
+    "keyword": "trabzon"
+  },
+  {
+    "id": "GND_c95734e3",
+    "title": "Edremit’te hayvan katliamı protestosu: “Adalet sağlanana kadar sokakları terk etmeyeceğiz”",
+    "source": "Evrensel",
+    "time": "26/03/2026 16:45",
+    "link": "https://www.evrensel.net/haber/5976890/edremitte-hayvan-katliami-protestosu-adalet-saglanana-kadar-sokaklari-terk-etmeyecegiz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir’in Edremit ilçesinde Eminkuyu çöplüğünde onlarca hayvana ait cesedin bulunması üzerine hayvan hakları savunucuları ve yurttaşlar sokaklara çıkarak tepkilerini gösterdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340382.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2842c4de",
     "title": "Orta Doğu savaşından etkilenen son kruvaziyer şirketi Explora Journeys oldu",
     "source": "Euronews",
@@ -932,30 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Geçtiğimiz yıl otomotiv üretimimiz 1 milyon 446 bine ulaştı. İhracatımız 41,5 milyar dolarla rekor tazeledi. 2026'nın ilk iki ayında otomotiv ihracatında olumlu bir tabloyla karşı karşıyayız\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_523141e3",
-    "title": "İletişim Başkanı Duran: Türkiye, emin ellerde, ilkeli ve kararlı yürüyüşünü aynı azim ve istikrarla sürdürecektir",
-    "source": "TRT Haber",
-    "time": "26/03/2026 16:05",
-    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-turkiye-emin-ellerde-ilkeli-ve-kararli-yuruyusunu-ayni-azim-ve-istikrarla-surdurecektir-939174.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanı Burhanettin Duran, \"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın güçlü liderliğinde Türkiye, bölgesinde ve dünyada söz sahibi, etkinliği giderek artan bir ülke konumuna gelmiştir\" ifadesini kullandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_61722637",
-    "title": "Yanlışlıkla çöpe atılan 1 milyon 200 bin lira değerindeki altınlar sahibine teslim edildi",
-    "source": "TRT Haber",
-    "time": "26/03/2026 16:05",
-    "link": "https://www.trthaber.com/haber/turkiye/yanlislikla-cope-atilan-1-milyon-200-bin-lira-degerindeki-altinlar-sahibine-teslim-edildi-939185.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Esenyurtta yanlışlıkla çöpe atılan yaklaşık 1 milyon 200 bin lira değerindeki 26 tam ve 2 yarım altın, atık tesisinde yapılan aramada bulunarak sahibine teslim edildi.",
     "image": null,
     "keyword": null
   }
