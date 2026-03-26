@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_678e3414",
+    "title": "Kuveyt ordusu: Hava savunma sistemleri füze ve İHA saldırılarına müdahale ediyor",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 02:44",
+    "link": "https://www.aa.com.tr/tr/guncel/kuveyt-ordusu-hava-savunma-sistemleri-fuze-ve-iha-saldirilarina-mudahale-ediyor/3881064",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt ordusu, ülkenin hava savunma sistemlerinin İran’dan atılan füze ve insansız hava aracı (İHA) saldırılarına karşı koyduğunu duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_d37df139",
     "title": "Trabzon İl Tarım ve Orman Müdürlüğü (@Trabzontarimil) on X - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Karaman'da 3 gündür kendisinden haber alınamayan Nermin Duruk (33), ihbar üzerine eve giren polis ekibi tarafından ölü bulundu. Vücudunda darp ve yara izi bulunmayan Duruk'un kesin ölüm nedeni yapılacak otopsi sonucu belirlenecek.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/3-gundur-haber-alinamayan-kadin-evinde-olu-bulundu-xa8g.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0c26966b",
-    "title": "Fransa Eğitim Bakanı, TikTok algoritması hakkında suç duyurusunda bulundu",
-    "source": "TRT Haber",
-    "time": "27/03/2026 01:04",
-    "link": "https://www.trthaber.com/haber/dunya/fransa-egitim-bakani-tiktok-algoritmasi-hakkinda-suc-duyurusunda-bulundu-939230.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa Eğitim Bakanı Edouard Geffray, intihara teşvik ettiği gerekçesiyle Çinli sosyal paylaşım platformu TikTok'un algoritması hakkında suç duyurusunda bulunduğunu belirtti.",
-    "image": null,
     "keyword": null
   }
 ]
