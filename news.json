@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8fb89c23",
+    "title": "TUSAŞ \"Satellite 2026\"da Türkiye'nin uzaydaki gücünü sergiledi",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 10:04",
+    "link": "https://www.aa.com.tr/tr/guncel/tusas-satellite-2026da-turkiyenin-uzaydaki-gucunu-sergiledi/3879651",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ), küresel uzay ve uydu endüstrisinin en önemli buluşmalarından biri olan \"Satellite 2026\"da Türkiye'nin uzay alanındaki yeteneklerini dünya sahnesinde tanıttı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7dcc1b81",
     "title": "Borsa güne düşüşle başladı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Anayasa Mahkemesinin dokuz siyasi partinin mali denetimlerine ilişkin kararları, Resmi Gazete'de yayımlandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339985.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_adccc384",
-    "title": "NBA’den genişleme adımı: Seattle ve Las Vegas için resmi süreç başladı",
-    "source": "Evrensel",
-    "time": "26/03/2026 09:25",
-    "link": "https://www.evrensel.net/haber/5976793/nbaden-genisleme-adimi-seattle-ve-las-vegas-icin-resmi-surec-basladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "NBA, Seattle ve Las Vegas’a genişleme ihtimalini resmen araştırmaya başladı. Yönetim Kurulu kararıyla iki yeni takım için ilk adım atıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/330908.jpg",
     "keyword": null
   }
 ]
