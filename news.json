@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5dc15578",
+    "title": "Ankara İl Milli Eğitim Müdürlüğünden Mimar Kemal Ortaokulunun kapatılacağı iddialarına ilişkin açıklama: ‘Okulun kapatılması gibi bir durum bulunmamaktadır’",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 01:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-il-milli-egitim-mudurlugunden-mimar-kemal-ortaokulunun-kapatilacagi-iddialarina-iliskin-aciklama-okulun-kapatilmasi-gibi-bir-durum-bulunmamaktadir-2489931",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara İl Milli Eğitim Müdürlüğü, Çankaya'daki Mimar Kemal Ortaokulunun kapatılacağına yönelik basında yer alan haberlere ilişkin yaptığı açıklamada okulun kapatılmayacağını, A Blok'un Çankaya İlçe Milli Eğitim Müdürlüğü hizmet binası olarak kullanılacağını bildirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/124a90d3-03b8-4ceb-9c42-d394777c98a2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3c6d2c03",
     "title": "Lübnan'da İsrail saldırılarında ölenlerin sayısı 1116'ya yükseldi",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD/İsrailİran Savaşı ve enerji piyasalarındaki belirsizlik, Almanya'da elektrik fiyatlarını doğrudan etkiliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_437b0883",
-    "title": "İran, ABD'nin teklifine resmi yanıt verdi",
-    "source": "TRT Haber",
-    "time": "27/03/2026 00:24",
-    "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-teklifine-resmi-yanit-verdi-939193.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran basını: Tahran yönetimi ABDnin teklifine verdiği resmi yanıtta, savaşın tekrarlanmaması ve İrana tazminat ödenmesinin garanti altına alınmasını istedi.",
     "image": null,
     "keyword": null
   }
