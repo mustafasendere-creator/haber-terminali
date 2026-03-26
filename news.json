@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c73515ba",
+    "title": "İsrail askeri sahada çuvalladı: Donma tahliyesi",
+    "source": "OdaTV",
+    "time": "26/03/2026 13:07",
+    "link": "https://www.odatv.com/dunya/israil-askeri-sahada-cuvalladi-donma-tahliyesi-120140853",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan’da hava sıcaklığı ortalama 13-14 derece. Fakat dağlar soğuk. İsrail askeri bölgedeki sert kış koşullarına dayanamadı. İsrail ordusu Lübnan sınırındaki operasyonları sırasında 15 askerinin hipotermi şüphesiyle tahliye edildiğini duyurdu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/israil-askeri-sahada-cuvalladi-donma-tahliyesi-ioy3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_67a07d9e",
     "title": "İngiltere Merkez Bankası için faiz artış beklentileri yükseldi",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Aşağı Saksonya’daki Lingen kentinde bulunan bir fabrikada, Rus reaktör tipleri için yakıt elemanları üretilecek; proje, devlet şirketi Rosatom’la ortak yürütülecek ve siyasi ile hukuki açıdan tartışmalı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a2364a99",
-    "title": "Gazze: Deyr el Belah'taki çadırların yakınındaki saldırıda en az bir kişi öldü",
-    "source": "Euronews",
-    "time": "26/03/2026 12:45",
-    "link": "http://tr.euronews.com/video/2026/03/26/gazze-deyr-el-belahtaki-cadirlarin-yakinindaki-saldirida-en-az-bir-kisi-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Olay yerinden gelen görüntülerde, patlamanın kampa çok yakın düştüğü, dumanların gökyüzüne yükseldiği ve yangın çıkınca halk ile sağlık ekiplerinin yaralıları taşımak için koştuğu görülüyor.",
     "image": null,
     "keyword": null
   }
