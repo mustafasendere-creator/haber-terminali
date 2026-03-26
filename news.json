@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a3139714",
+    "title": "NATO Genel Sekreteri Rutte: 'NATO, Trump yönetiminde daha güvende'",
+    "source": "Euronews",
+    "time": "26/03/2026 22:44",
+    "link": "http://tr.euronews.com/my-europe/2026/03/26/nato-genel-sekreteri-rutte-nato-trump-yonetiminde-daha-guvende",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rutte, Trump'ın NATO'yu güçlendirdiği konusunda ısrarcı. Rutte, Trump'ın müttefikler üzerinde savunma harcamalarını artırmaları için kurduğu baskıyı haklı bulurken, Putin'i müzakere masasına çekme yeteneğini de övdü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d4e99880",
     "title": "Türkiye, FIBA Kadınlar Avrupa Şampiyonası Elemeleri kura çekimine ilk torbadan katılacak",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa Birliği AB Dış İlişkiler Sözcüsü Anouar El Anouni, İsrail'de meclis komitesinde onaylanan Filistinli mahkumlara yönelik idam cezası tasarısının \"büyük endişe uyandırdığını\" belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_97d8cd00",
-    "title": "İsrail ordusu: Tahran ve çevresindeki hedeflere dünkü hava saldırılarında 150'nin üzerinde mühimmat kullandık",
-    "source": "TRT Haber",
-    "time": "26/03/2026 21:25",
-    "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-tahran-ve-cevresindeki-hedeflere-dunku-hava-saldirilarinda-150nin-uzerinde-muhimmat-kullandik-939215.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu, ABD ile ortak saldırılar düzenledikleri İran'ın başkenti Tahran'a dün 60 savaş uçağıyla 150'den fazla bombayla hava saldırıları düzenlediğini ileri sürdü.",
     "image": null,
     "keyword": null
   }
