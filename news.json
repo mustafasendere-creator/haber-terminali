@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4c4ead3b",
+    "title": "Afyonkarahisar'da kayıp olarak aranan kadın ölü bulundu",
+    "source": "Evrensel",
+    "time": "26/03/2026 15:45",
+    "link": "https://www.evrensel.net/haber/5976879/afyonkarahisarda-kayip-olarak-aranan-kadin-olu-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayıp başvurusu yapılan 84 yaşındaki alzheimer hastası Ayşe Kutluay, arama çalışmalarının ardından su kanalında ölü bulundu; olayla ilgili inceleme başlatıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/321615.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_29843aed",
     "title": "Trabzonspor, transfer için düğmeye bastı… Scout ekibi 3 ülkede tarama yaptı!",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları KKM bakiyesi geçen hafta 355 milyon lira azalarak 1 milyar 567 milyon liraya gerilerken, toplam mevduat içindeki payı yüzde 0,01e düştü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_90c4644d",
-    "title": "İmamoğlu sordu, Çalık yanıtladı: \"Ortada suç örgütü yok\"",
-    "source": "DW Türkçe",
-    "time": "26/03/2026 15:05",
-    "link": "https://www.dw.com/tr/imamoğlu-sordu-çalık-yanıtladı-ortada-suç-örgütü-yok/a-76541879",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB davasında örgüt üyesi olarak suçlanan Beylikdüzü Belediye Başkanı Mehmet Murat Çalık, Ekrem İmamoğlu'nun talimat ve hiyerarşi iddialarını sorgulayan sorularını yanıtladı. Herhangi bir yönlendirme olmadığını söyledi.",
     "image": null,
     "keyword": null
   }
