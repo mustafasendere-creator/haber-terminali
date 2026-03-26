@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_129ff8b0",
+    "title": "Heyelan karayolunu yuttu!",
+    "source": "Habertürk",
+    "time": "26/03/2026 15:06",
+    "link": "https://www.haberturk.com/yuksekovada-heyelan-karayolunu-yuttu-3872348",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari'nin Yüksekova ilçesini Van, Hakkari ve çevre illere bağlayan tek ana arter olan Yeniköprü mevkii, meydana gelen heyelan nedeniyle ulaşıma kapandı.",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774460706/3872348/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_7894026b",
     "title": "Sağlık Bakanlığı açıkladı! İşte en çok kilo veren il",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Giresun'da cenaze kalabalığının arasına giren kamyonun çarpması sonucu ağır yaralanan kadın, hastanede verdiği 30 günlük yaşam mücadelesini kaybetti.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/cen-1.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_cbedf572",
-    "title": "Ceyda Düvenci ve Güçlü Mete’den net yanıt: Her şey yolunda",
-    "source": "10Haber",
-    "time": "26/03/2026 14:45",
-    "link": "https://10haber.net/populer/ceyda-duvenci-ve-guclu-meteden-net-yanit-her-sey-yolunda-690017/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ayrıldıkları iddia edilen Ceyda Düvenci ve Güçlü Mete çifti, çıkan haberlerle ilgili ilk kez konuştu. Ünlü çift, 2 yıldır devam eden ilişkilerinin sorunsuz olduğunu ve söylentilerin gerçeği yansıtmadığını açıkladı. Sözcü’den Hakan Kanburoğlu’nun haberine göre Mete ayrılık iddialarını şu sözlerle yalanladı: “Ne böyle bir ayrılık oldu, ne de buna benzer bir şey. Nereden çıkıyor bu haberler [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c514788d3648.48399339.jpg",
     "keyword": null
   }
 ]
