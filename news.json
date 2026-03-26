@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c736c851",
+    "title": "Gökçeada açıklarında 5.1'lik deprem",
+    "source": "Habertürk",
+    "time": "26/03/2026 14:26",
+    "link": "https://www.haberturk.com/gokceada-aciklarinda-51-buyuklugunde-deprem-3872378",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AFAD'ın internet sitesinde yer alan bilgilere göre, Çanakkale'nin Gökçeada açıklarında 5.1 büyüklüğünde deprem oldu",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774468975/3872378/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_12cf72d2",
     "title": "Su kesintisi sorgulama ekranı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Savunma Bakanlığının (Pentagon) ABD ve İsrail'in İran'a saldırılarıyla başlayan savaşta çatışmaları sonlandırmak üzere \"büyük bir son vuruş\" hazırlığında olduğu iddia edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3bc6d5d4",
-    "title": "Bakan Uraloğlu, Karadeniz'de saldırıya uğrayan gemiye ilişkin açıklamada bulundu",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 14:04",
-    "link": "https://www.aa.com.tr/tr/guncel/bakan-uraloglu-karadenizde-saldiriya-ugrayan-gemiye-iliskin-aciklamada-bulundu/3880070",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, Karadeniz'de seyrederken saldırıya uğradığını bildiren geminin makine dairesinde patlama gerçekleştiğini, 27 mürettebatın sağlık durumunun iyi olduğunu bildirdi.",
     "image": null,
     "keyword": null
   }
