@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70fb8ce7",
+    "title": "Alev alan otomobilindeki kedisini son anda kurtardı",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 13:26",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/alev-alan-otomobilindeki-kedisini-son-anda-kurtardi-2489741",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'da seyir halindeyken duman çıkan otomobilinin motor kısmını kontrol eden Salih Türk (55), alevlerin bir anda kapladığı araçtaki kedisini son anda kurtardı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f10b2f0c-0b67-465f-a60a-c36861f4479a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7a69da89",
     "title": "CHP Gaziantep İl Başkanı Açar: 'Gaziantep halkı en pahalı suyu tüketiyor'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ordu’nun Ulubey ilçesinde meydana gelen trafik kazasında iki araç çarpıştı. Kazada 3 kişi yaralanırken, bölgede trafik bir süre kontrollü sağlandı.",
     "image": "https://resim.haber61.net/news/609404.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9c009061",
-    "title": "Türkiye'den 11 üniversite QS'in alan bazlı sıralamalarında ilk 500'e girdi",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 13:04",
-    "link": "https://www.aa.com.tr/tr/guncel/turkiyeden-11-universite-qsin-alan-bazli-siralamalarinda-ilk-500e-girdi/3879969",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yükseköğretim Kurulu (YÖK), Quacquarelli Symonds'ın (QS) 2026 alan bazlı sıralamalarında 11 Türk üniversitesinin ilk 500'e girdiğini bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
