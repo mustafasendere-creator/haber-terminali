@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_13f8998e",
+    "title": "İran'ın düzenlediği füze saldırısında İsrail'in orta kesiminde 5 kişi yaralandı",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 09:24",
+    "link": "https://www.aa.com.tr/tr/guncel/iranin-duzenledigi-fuze-saldirisinda-israilin-orta-kesiminde-5-kisi-yaralandi/3879572",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'dan peş peşe iki misilleme yapılmasının ardından İsrail'in orta kesimine füze parçalarının isabet etmesi sonucu 5 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_709ed090",
     "title": "Küresel piyasalar Orta Doğu'daki gelişmelere odaklandı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "A Milli Futbol Takımı, 2026 FIFA Dünya Kupası Play-Off turu yarı finalinde kritik bir sınava çıkıyor. Türkiye, Perşembe akşamı İstanbul’da Romanya ile karşı karşıya gelecek. Beşiktaş Park’ta oynanacak mücadele saat 20.00’de başlayacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/a-m-i-l-l-i-l-e-r-7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7e38bc1f",
-    "title": "İtalya ve Cezayir arasında enerji ittifakı: Meloni gaz sevkiyatını artırmayı hedefliyor",
-    "source": "Euronews",
-    "time": "26/03/2026 08:45",
-    "link": "http://tr.euronews.com/my-europe/2026/03/25/italya-ve-cezayir-arasinda-enerji-ittifaki-meloni-gaz-sevkiyatini-artirmayi-hedefliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Liderlerin üzerinde mutabık kaldığı projeler arasında kaya gazı çıkarımı ve açık deniz arama faaliyetleri de yer alıyor.",
-    "image": null,
     "keyword": null
   }
 ]
