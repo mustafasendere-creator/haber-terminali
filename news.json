@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_b2c2ee12",
+    "title": "\"#PolisinMeslekKanunu\" - Results on X | Live Posts & Updates - x.com",
+    "source": "X",
+    "time": "26/03/2026 10:05",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HcFJPMjF0UU5jM0V1Zkc3b192UUNuZkRBejJ5VHJCLVVjY2YxN3Bhd2NQQXM4b2hkbElpdEptZmo5Q1BzeUwxOElybFFFcWs2RjRpVWQxWW9UV2F6WUs5Z0ptamZteUU5V1Yw",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "\"#PolisinMeslekKanunu\" - Results on X | Live Posts & Updates  x.com",
+    "image": null,
+    "keyword": "polis intihar"
+  },
+  {
     "id": "GND_b075c272",
     "title": "BDDK’dan Siemens Finansman AŞ’ye faaliyet izni",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran savaşında yapay zeka kullanımı\n\nİran savaşı (2026, ABD-İsrail-İran çatışması) yapay zekanın (AI) askeri alanlarda yoğun şekilde test edildiği ve kullanıldığı modern bir çatışma olarak öne çıkıyor. AI, hem saldıran taraf (ABD ve İsrail) hem de savunan taraf (İran ve vekil güçleri) tarafından farklı şekillerde devreye giriyor. \n\n\n1. İstihbarat analizi ve büyük veri işleme\n\n\n\tAI, uydu görüntüleri, drone kayıtları, sinyal istihbaratı (SIGINT), sosyal medya ve iletişim verilerini saniyeler içinde tarayıp analiz ediyor.\n\tHedef önceliklendirme ve pattern tanıma için kullanılıyor (örneğin, İran liderliğinin hareketlerini takip etmek).\n\tABD’de Palantir Maven Smart System ve Anthropic Claude gibi araçlar, CENTCOM operasyonlarında veri “gürültüsünü” temizleyerek hızlı karar desteği sağlıyor.\n\tİsrail’de Gospel (Habsora) ve Lavender sistemleri, altyapı hedefleri ve şüpheli kişileri otomatik olarak belirliyor; binlerce hedefi kısa sürede listeleyebiliyor.\n\n\n2. Hedef belirleme ve “Kill Chain” hızlandırma\n\n\n\tAI, hedef tespitini, izlemeyi, vurmayı ve değerlendirmeyi (find-fix-track-target-engage-assess) dramatik şekilde hızlandırıyor.\n\tBilgisayarlı görme (computer vision) ile araç, füze rampası veya bina gibi nesneleri gerçek zamanlı tanıyor.\n\tOperasyonlarda “düşünme hızında” vuruş imkanı yaratıyor; eskiden günler/haftalar süren süreçler saatlere iniyor.\n\tİran tarafında da AI destekli hedefleme, füze ve drone dalgalarında kullanılıyor.\n\n\n3. Otonom ve yarı otonom drone/sürü teknolojileri (Autonomous Drone Swarms)\n\n\n\tDrone sürüleri (swarm), AI ile koordineli uçuyor, hedef arıyor, çarpışmadan kaçınıyor ve vuruş yapıyor.\n\tİsrail, “ana fırlatıcı” platformlardan AI destekli mikro-drone sürüleri dağıtıyor; İran güvenlik güçlerini hedef alıyor.\n\tABD’de Anduril Lattice ve Bolt-M/Anvil gibi otonom saldıran/önleyen drone’lar kullanılıyor.\n\tİran ve Husi’ler, AI navigasyonlu kamikaze drone’lar (Shahed benzeri) ve USV’ler (insansız deniz araçları) ile saldırılar düzenliyor; GPS’siz AI navigasyon öne çıkıyor.\n\n\n4. Hava ve füze savunma sistemleri \n\n\n\tRadar verilerini filtreleme, tehdit önceliklendirme ve önleme füzelerini otomatik yönlendirme.\n\tDemir Kubbe gibi sistemlerde AI, gelen tehditleri hızla tespit edip yanıt veriyor.\n\tİran’ın saturasyon atakları (yoğun drone ve füze dalgaları) karşısında AI, savunma verimliliğini artırıyor.\n\n\n5. Lojistik, tedarik ve bakım optimizasyonu \n\n\n\tMühimmat, yedek parça ve silah seçimini AI optimize ediyor.\n\tSavaş alanında lojistik akışını hızlandırıyor ve bakım tahminleri yapıyor.\n\n\n6. Siber harp ve psikolojik operasyonlar\n\n\n\tAI, siber saldırılarda hedef seçimi, ağ analizi ve propaganda üretimi için kullanılıyor.\n\tMobil uygulamaların hack’lenip AI destekli mesaj gönderilmesi, sahte medya içeriği üretimi gibi örnekler var.\n\tİran tarafında da AI, propaganda ve tespit kaçınma için vekil (proxy) gruplarda (Husi, Hizbullah) devrede.\n\n\n7. Savaş planlaması ve simülasyon\n\n\n\tAI chatbot’lar ve modeller, senaryo simülasyonu, operasyon planlaması ve risk analizi yapıyor.\n\tPalantir gibi sistemler, istihbaratı sentezleyip komutanlara öneriler sunuyor.\n\n\nGenel\n\n\n\tABD/İsrail tarafı daha çok karar destek, hedefleme ve otonom sistemlerde ileri gitmiş durumda (Project Maven uzantıları, Unit 8200 teknolojileri).\n\tİran tarafı ise daha ucuz, kitlesel drone/füze saldırılarında AI navigasyon ve swarm koordinasyonuna odaklanıyor; ambargolara rağmen önemli ilerleme kaydetmiş.\n\tBu savaş, “ilk AI savaşı” olarak nitelendiriliyor çünkü AI, insan müdahalesini azaltarak hız ve ölçek getiriyor ancak etik riskler (sivil kayıplar, otomasyon hataları) tartışılıyor. Nihai kararlar genellikle insan denetiminde kalıyor.\n\n\nBu alanlar hızla evriliyor; gelecekte hipersonik füzeler, lazer silahları ve tam otonom sistemlerle daha da entegre olması bekleniyor. \n\n \n\n \n\n*Bu içerik serbest gazeteci veya konuk yazarlar tarafından hazırlanmıştır. Bu içerikte yer alan görüş ve ifadeler yazara aittir ve Independent Türkçe'nin editöryal politikasını yansıtmayabilir.\nYAPAY ZEKAGürsel TokmakoğluGürsel Tokmakoğlu Independent Türkçe için yazdıGürsel TokmakoğluPerşembe, Mart 26, 2026 - 09:15Main image: \n  &lt;p&gt;İllüstrasyon: The Times&lt;/p&gt;\n\nTÜRKİYE&#039;DEN SESLERType: newsSEO Title: İlk yapay zeka savaşıcopyright Independentturkish:",
     "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/03/26/1368134-1948267886.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_df074bac",
-    "title": "Türkiye - Romanya maçı ne zaman, saat kaçta, hangi kanalda? Şifresiz mi?",
-    "source": "Cumhuriyet",
-    "time": "26/03/2026 09:26",
-    "link": "https://www.cumhuriyet.com.tr/spor/turkiye-romanya-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2489651",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye A Milli Futbol Takımı, 2026 Dünya Kupası yolundaki kritik maçta Romanya ile karşı karşıya gelecek. Mücadele TSİ 20.00'de başlayacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8b0b0c68-ad07-4747-8ac0-a1209adff14b.jpg",
     "keyword": null
   }
 ]
