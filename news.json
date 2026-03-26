@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_160a76dc",
+    "title": "Rapor: Gazprom ve Rosneft Kievli çocukların kaçırılmasıyla bağlantılı",
+    "source": "Euronews",
+    "time": "26/03/2026 10:05",
+    "link": "http://tr.euronews.com/2026/03/25/rapor-gazprom-ve-rosneft-kievli-cocuklarin-kacirilmasiyla-baglantili",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İnsani Araştırma Laboratuvarı İcra Direktörü Nathaniel Raymond, \"Bu çalışma, söz konusu şirketlerin Rusya'nın sistematik çocuk sınır dışı etme ve ideolojik aşılama kampanyasına doğrudan dahil olduğunun ilk kamuya açık kanıtıdır,\" ifadelerini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_446cc26d",
     "title": "Türk gemisine İstanbul'a ramak kala çifte saldırı: İHA ve İDA ile vuruldu",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Futbolseverler bugün spora doyacak! Birbirinden önemli maçların oynanacağı 26 Mart Perşembe günü şifresiz yayınlanacak karşılaşmalar belli oldu. Peki, TRT Spor'da bugün hangi maçlar şifresiz yayınlanacak? İşte TRT ekranlarında bugün yayınlanacak maçlar...",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/trtde-bugun-26-mart-persembe-hangi-maclar-sifresiz-yayinlanacak-axyd.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_60f3bb72",
-    "title": "Kuveyt ordusu, füze ve İHA saldırılarına karşılık verdiğini duyurdu",
-    "source": "TRT Haber",
-    "time": "26/03/2026 09:25",
-    "link": "https://www.trthaber.com/haber/dunya/kuveyt-ordusu-fuze-ve-iha-saldirilarina-karsilik-verdigini-duyurdu-939105.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuveyt ordusu, hava savunma sistemlerinin füze ve insansız hava aracı İHA saldırılarına karşı müdahale ettiğini açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
