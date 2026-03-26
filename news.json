@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c009061",
+    "title": "Türkiye'den 11 üniversite QS'in alan bazlı sıralamalarında ilk 500'e girdi",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 13:04",
+    "link": "https://www.aa.com.tr/tr/guncel/turkiyeden-11-universite-qsin-alan-bazli-siralamalarinda-ilk-500e-girdi/3879969",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yükseköğretim Kurulu (YÖK), Quacquarelli Symonds'ın (QS) 2026 alan bazlı sıralamalarında 11 Türk üniversitesinin ilk 500'e girdiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_802cc4c0",
     "title": "YKS'ye 2 milyon 425 bin 560 aday başvurdu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avustralya, İran vatandaşlarının ülkeye girişini altı ay yasakladı. Gerekçe savaş nedeniyle ülkelerine geri dönmeme ihtimali. Hükümetin bugün yürürlüğe koyduğu karara göre İran pasaportlu kişiler ellerinde turist ya da çalışma vizeleri olsa dahi Avustralya’ya seyahat edemeyecek. Avustralya İçişleri Bakanlığı ülkeye giren bazı İranlıların vize süreleri dolduktan sonra savaş gerekçesiyle ülkelerine dönmek istemeyebileceğini, kararı bu riski ortadan [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c4fac6a31f48.46264677.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_10567e1a",
-    "title": "Makine sektörünün ihracatı ilk iki ayda 4,4 milyar dolara yükseldi",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 12:24",
-    "link": "https://www.aa.com.tr/tr/guncel/makine-sektorunun-ihracati-ilk-iki-ayda-4-4-milyar-dolara-yukseldi/3879907",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Makine sektörünün ihracatı ocak-şubat döneminde yıllık bazda yüzde 4,5 artarak 4,4 milyar dolara yükseldi.",
-    "image": null,
     "keyword": null
   }
 ]
