@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d29ecbcf",
+    "title": "Meteoroloji'den Güneydoğu illerine sarı alarm: Mardin ve Urfa'ya şiddetli sağanak yağış geliyor (26.03.2026)",
+    "source": "Evrensel",
+    "time": "26/03/2026 08:25",
+    "link": "https://www.evrensel.net/haber/5976781/meteoroloji-den-guneydogu-illerine-sari-alarm-mardin-ve-urfa-ya-siddetli-saganak-yagis-geliyor-26-03-2026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğünün son raporuna göre; yurt genelinde yağış etkili olacak. Bazı bölgeler için kuvvetli sağanak yağış ve çığ uyarısı yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/337287.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a9fafbdb",
     "title": "İran ABD'nin 15 maddelik planını reddetti, İsrail ve Körfez'e saldırılarını artırdı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tel Aviv'den doğrudan bilgi verdiği iddia edilen kişinin gerçek olduğu öne sürüldü.",
     "image": "https://md.teyit.org/2026/03/tel-aviv-yz-adam-iddia-kapak-1.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_ff29598f",
-    "title": "Video İsrail'deki kuş istilasını mı gösteriyor?",
-    "source": "Teyit.org",
-    "time": "26/03/2026 07:48",
-    "link": "https://teyit.org/analiz/video-israildeki-kus-istilasini-mi-gosteriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bir videonun İsrail’deki kuş istilasını gösterdiği öne sürüldü.",
-    "image": "https://md.teyit.org/2026/03/israil-kus-istilasi-kapak.webp",
     "keyword": null
   }
 ]
