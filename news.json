@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c6d2c03",
+    "title": "Lübnan'da İsrail saldırılarında ölenlerin sayısı 1116'ya yükseldi",
+    "source": "Haber Global",
+    "time": "27/03/2026 01:44",
+    "link": "https://haberglobal.com/dunya/lubnanda-israil-saldirilarinda-olenlerin-sayisi-1116ya-yukseldi-515527",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan Sağlık Bakanlığı, İsrail ordusunun 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda ölenlerin sayısının 1116'ya yükseldiğini açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/lubnanda-israil-saldirilarinda-olenlerin-sayisi-1116ya-yukseldi-gmyx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ff80476f",
     "title": "İran’ın başkenti Tahran’da art arda patlamalar meydana geldi",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran basını: Tahran yönetimi ABDnin teklifine verdiği resmi yanıtta, savaşın tekrarlanmaması ve İrana tazminat ödenmesinin garanti altına alınmasını istedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_103411f7",
-    "title": "STRATCOM Zirvesi bugün başlıyor",
-    "source": "TRT Haber",
-    "time": "27/03/2026 00:24",
-    "link": "https://www.trthaber.com/haber/gundem/stratcom-zirvesi-bugun-basliyor-939228.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanlığının ev sahipliğinde düzenlenen, dünyanın dört bir yanından politika yapıcıları, diplomatları, iletişim uzmanları, medya profesyonellerini bir araya getiren Uluslararası Stratejik İletişim Zirvesi STRATCOM bugün başlıyor.",
     "image": null,
     "keyword": null
   }
