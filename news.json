@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88b6e348",
+    "title": "NATO'dan Türkiye çıkışı",
+    "source": "OdaTV",
+    "time": "27/03/2026 00:05",
+    "link": "https://www.odatv.com/guncel/natodan-turkiye-cikisi-120140921",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NATO Genel Sekreteri Mark Rutte, Orta Doğu&#039;daki savaş nedeniyle Avrupa&#039;daki NATO müttefiklerine yönelik tehditlere ilişkin, &quot;NATO çok güçlü bir ittifak ve bunu Türkiye&#039;ye yönelen üç füze konusunda gördünüz&quot; dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/25/nato-genel-sekreteri-rutte-putinin-parasi-bitiyor-xk0s.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_48747c4a",
     "title": "Bilal Erdoğan’ın Bosna sözleri tartışma yarattı: Dilipak’tan Bilal Erdoğan'a tepki",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD'nin 3 Ocak'ta Venezuela'da askeri müdahaleyle alıkoyduğu Devlet Başkanı Nicolas Maduro ve eşi Cilia Flores, ikinci kez hakim karşısına çıktı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2370b73b",
-    "title": "Yemen'deki Husiler, gerekirse ABD-İsrail ile İran arasındaki savaşa müdahil olacaklarını açıkladı",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 23:24",
-    "link": "https://www.aa.com.tr/tr/guncel/yemendeki-husiler-gerekirse-abd-israil-ile-iran-arasindaki-savasa-mudahil-olacaklarini-acikladi/3880911",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yemen’deki Husilerin lideri Abdulmelik el-Husi, ülkesinin ABD ve İsrail’in İran’a yönelik saldırıları karşısında tarafsız olmadığını belirterek, gelişmelere bağlı olarak gerekirse askeri müdahalede bulunabileceklerini söyledi.",
     "image": null,
     "keyword": null
   }
