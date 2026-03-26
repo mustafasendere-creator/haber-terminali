@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32823adb",
+    "title": "Hürmüz Boğazı kriziyle gelirleri artan Rusya’nın emtia üretimi sınırlı kalıyor",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 13:24",
+    "link": "https://www.aa.com.tr/tr/guncel/hurmuz-bogazi-kriziyle-gelirleri-artan-rusya-nin-emtia-uretimi-sinirli-kaliyor/3880012",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a yönelik saldırıları enerjiden tarıma bazı kritik emtia fiyatlarını yukarı taşıdı, buna karşın yaşanan arz şokunun Rusya tarafından artan gelirlerine rağmen sınırlı ölçüde karşılanması bekleniyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e9ef072d",
     "title": "Uzmanlara göre Sudan'daki çatışmalar sınır ötesine taşınarak bölgesel güvenlik riskini artırıyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Nesine 2. Lig Kırmızı Grup’ta mücadele eden 1461 Trabzon FK, sezonun en önemli dönemlerinden birine girerken çalışmalarını hız kesmeden sürdürüyor. Lacivert-kırmızılı ekip, 30. hafta kapsamında sahasında oynayacağı Arnavutköy Belediyespor karşılaşmasına odaklandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/o-c-v-c-c-v-c-o-v-c-c.PNG",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_38b15cca",
-    "title": "Savaş semt pazarlarını vurdu: Esnaf tezgah açamıyor, satışlar taneyle",
-    "source": "Evrensel",
-    "time": "26/03/2026 12:45",
-    "link": "https://www.evrensel.net/haber/5976834/savas-semt-pazarlarini-vurdu-esnaf-tezgah-acamiyor-satislar-taneyle",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara'da Tuzluçayır pazarında esnafın yarısı artan maliyet ve düşük satışlar nedeniyle tezgah açamıyor. Alışverişe çıkan yurttaşlar da taneyle alışveriş yapmak zorunda kalıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340328.jpg",
-    "keyword": null
   }
 ]
