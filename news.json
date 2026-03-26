@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59a2fa94",
+    "title": "İran’ın başkenti Tahran’da art arda patlamalar meydana geldi",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 20:44",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-in-baskenti-tahran-da-art-arda-patlamalar-meydana-geldi/3880741",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail saldırılarının hedefindeki İran’ın başkenti Tahran’da art arda şiddetli patlamalar yaşandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b6594f89",
     "title": "Dışişleri: Türk işletenli tankere Karadeniz'de gerçekleştirilen saldırıyı büyük endişeyle karşılıyoruz",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Asarcık Şehit Zafer Akkuş Anadolu Lisesi öğrencileri, 'Eğitim Günleri' kapsamında Ondokuz Mayıs Üniversitesini (OMÜ) gezdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/asarcikta-lise-ogrencilerinden-omuye-ziyaret.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_a3bc7b4b",
-    "title": "Gıda Etiketlerinde 'Doğal' Devri Bitti: Yeni Yasaklar Kapıda!",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 18:44",
-    "link": "https://www.takagazete.com.tr/gida-etiketlerinde-dogal-devri-bitti-yeni-yasaklar-kapida",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Tarım ve Orman Bakanlığı gıda etiketlerine savaş açtı! \"Yüzde 100 doğal\", \"günlük\" ve \"ev yapımı\" gibi yanıltıcı ifadeler tarih oluyor. İşte yeni düzenlemenin tüm detayları.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/bakanlik-devrede.jpg",
     "keyword": null
   }
 ]
