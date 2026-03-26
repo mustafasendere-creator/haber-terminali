@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3281e97f",
+    "title": "Gazeteci Furkan Karabay’ın ev hapsi kaldırıldı",
+    "source": "Evrensel",
+    "time": "27/03/2026 01:24",
+    "link": "https://www.evrensel.net/haber/5976873/gazeteci-furkan-karabayin-ev-hapsi-kaldirildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"Halkı yanıltıcı bilgiyi alenen yayma\" ve \"terörle mücadelede görev almış kişileri hedef gösterme\" suçlamasıyla 23 Ocak’ta gözaltına alınan gazeteci Furkan Karabay'ın ev hapsi kaldırıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/322857.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2eb7a1d4",
     "title": "Türkiye-Romanya maçı öncesi son dakika: 6 oyuncu kadro dışı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "A Milli Takım'ın kaptanı Hakan Çalhanoğlu, 2026 FIFA Dünya Kupası Avrupa Elemeleri'nde Romanya'yı 1-0 yenerek play-off turu finaline yükselmeleriyle ilgili, \"Bu mutluluğu kaybetmek istemiyoruz, hem kendimize hem de milletimize devamını yaşatmak istiyoruz.\" dedi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/hakan-calhanoglu-24-yil-sonra-dunya-kupasina-katilmak-istiyoruz-fk6c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_45a98353",
-    "title": "New York borsası günü düşüşle kapadı",
-    "source": "Haber Global",
-    "time": "27/03/2026 00:04",
-    "link": "https://haberglobal.com/ekonomi/new-york-borsasi-gunu-dususle-kapadi-515549",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "New York borsası Orta Doğu'daki gerilime dair belirsizliğin sürmesiyle günü düşüşle tamamladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/new-york-borsasi-gunu-dususle-kapadi-goap.jpg",
     "keyword": null
   }
 ]
