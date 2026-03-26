@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bd988a31",
+    "title": "Kıbrıslı sendikacı Burak Maviş: Kıbrıs, savaşın ileri karakolu haline getiriliyor",
+    "source": "Evrensel",
+    "time": "27/03/2026 00:44",
+    "link": "https://www.evrensel.net/haber/5976891/kibrisli-sendikaci-burak-mavis-kibris-savasin-ileri-karakolu-haline-getiriliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kıbrıs Türk Öğretmenler Sendikası (KTÖS) Genel Sekreteri Burak Maviş ile İran'a yönelik ABD-İsrail saldırılarıyla başlayan savaşın adayı ve halkları nasıl etkilediğini konuştuk",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340383.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a565900f",
     "title": "Akınal Sentetik işçileri mezbaha düzenini anlattı: ‘Biz uzuvlarımızı kaybediyoruz, Türkmen bunu söylediği için tutuklu’",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran savaşının başlamasından neredeyse bir ay sonra devlet tahvili piyasaları sert biçimde yeniden fiyatlandı. Yükselen petrol ve gaz maliyetleri enflasyon beklentilerini artırarak merkez bankası politikalarının yeniden gözden geçirilmesine yol açtı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c789915a",
-    "title": "Çalışma: ABD kaynaklı emisyonlar Avrupa'ya 1,2 trilyon avro zarar verdi",
-    "source": "Euronews",
-    "time": "26/03/2026 23:44",
-    "link": "http://tr.euronews.com/2026/03/26/calisma-abd-kaynakli-emisyonlar-avrupaya-12-trilyon-avro-zarar-verdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni bir analiz, 1990'dan bu yana ABD kaynaklı emisyonların küresel ekonomiye 10 trilyon dolardan (8,65 trilyon avro) fazla zarara yol açtığını ortaya koydu.",
     "image": null,
     "keyword": null
   }
