@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32bff225",
+    "title": "Araştırma: Çocuklukta DEHB ilacı ileride psikoz riskini azaltmış olabilir",
+    "source": "Euronews",
+    "time": "26/03/2026 13:05",
+    "link": "http://tr.euronews.com/saglik/2026/03/25/arastirma-cocuklukta-dehb-ilaci-ileride-psikoz-riskini-azaltmis-olabilir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Araştırma, yaygın kullanılan bir DEHB ilacının uzun vadede psikotik bozukluk riskini artırmadığını, hatta erken yaşta kullanıldığında koruyucu olabileceğini gösteren en net bulgulardan birini sunuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_3ae4ba1f",
     "title": "Antalya Devlet Tiyatrosu \"Buzlar Çözülmeden\" adlı oyunu Trabzon'da sahneleyecek",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ünlü senarist ve oyuncu Gülse Birsel, 9 yıl aradan sonra Aile Arasında filminin devamı için çekim hazırlıklarının başladığını açıkladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340318.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9d508431",
-    "title": "Hakkâri'de heyelan sonrası kapanan yol yeniden ulaşıma açıldı",
-    "source": "Evrensel",
-    "time": "26/03/2026 12:25",
-    "link": "https://www.evrensel.net/haber/5976823/hakkride-heyelan-sonrasi-kapanan-yol-yeniden-ulasima-acildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yüksekova ilçesinde dün meydana gelen heyelan sonrası kapanan yol, temizlik çalışmalarının ardından bugün yeniden trafiğe açıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340319.jpg",
     "keyword": null
   }
 ]
