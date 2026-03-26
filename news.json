@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32544128",
+    "title": "AYM'nin siyasi parti mali denetim kararları Resmi Gazete'de",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 07:44",
+    "link": "https://www.aa.com.tr/tr/guncel/aymnin-siyasi-parti-mali-denetim-kararlari-resmi-gazetede/3879553",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anayasa Mahkemesinin (AYM) 9 siyasi partinin mali denetimlerine ilişkin kararları, Resmi Gazete'de yayımlandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_36193e2b",
     "title": "Trabzon Büyükşehir Belediyesi İtfaiye Daire Başkanı Öztürk:\"Bir personelimiz...\"",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Bakanlıktan yapılan açıklamaya göre, Jandarma Genel Komutanlığı Terörle Mücadele Daire Başkanlığı ve cumhuriyet başsavcılıkları koordinesinde, il jandarma komutanlıklarınca 24 ilde terör örgütü DEAŞ&#8217;a yönelik çalışma yürütüldü. Bu kapsamda Adana, Ağrı, Ankara, Antalya, Balıkesir, Bursa, Çanakkale, Çankırı, Diyarbakır, Gaziantep, Hakkari, Hatay, İstanbul, İzmir, Kayseri, Kırıkkale, Kocaeli, Konya, Malatya, Mersin, Osmaniye, Siirt, Tekirdağ ve Yozgat&#8217;ta düzenlenen operasyonlarda [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c3d4db8d2612.56378224.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_fb2f2ae3",
-    "title": "Trabzon'da polis memuruna son görev: Emniyette tören düzenlendi",
-    "source": "Haber61",
-    "time": "25/03/2026 15:28",
-    "link": "https://www.haber61.net/trabzon/trabzonda-polis-memuruna-son-gorev-emniyette-toren-duzenlendi-h627663.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon İl Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü’nde görev yapan polis memuru Sedat Kaban kalp krizi nedeniyle hayatını kaybetti. Kaban için emniyet binasında tören gerçekleştirildi.",
-    "image": "https://resim.haber61.net/news/609269.jpg",
-    "keyword": "trabzon"
   }
 ]
