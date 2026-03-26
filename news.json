@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f9ddfd64",
+    "title": "KKM bakiyesindeki düşüş devam ediyor",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 15:04",
+    "link": "https://www.aa.com.tr/tr/guncel/kkm-bakiyesindeki-dusus-devam-ediyor/3880144",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları (KKM), geçen hafta 355 milyon lira azalarak 1 milyar 567 milyon liraya geriledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3c591d36",
     "title": "Merkez Bankası rezervleri 177,5 milyar dolar oldu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun'un İlkadım ilçesinde ablasını darp ettiği iddia edilen genç, çıkarıldığı mahkemece adli kontrol şartıyla serbest bırakıldı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/ablayi-darp-iddiasina-adli-kontrol.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8fb23efd",
-    "title": "SES Anadolu Şubesi’nden açıklama: “Doç. Dr. Erdoğan Dadaş’a yapılan kabul edilemez”",
-    "source": "Evrensel",
-    "time": "26/03/2026 14:25",
-    "link": "https://www.evrensel.net/haber/5976859/ses-anadolu-subesi-nden-aciklama-doc-dr-erdogan-dadas-a-yapilan-kabul-edilemez",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "SES Anadolu Şubesi, Doç. Dr. Erdoğan Dadaş’ın görev süresinin gerekçe gösterilmeden uzatılmamasına tepki göstererek, bunun liyakat ilkesine aykırı olduğunu vurguladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340344.jpg",
     "keyword": null
   }
 ]
