@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c469857d",
+    "title": "Türkiye'den 11 üniversite dünyada ilk 500'e girdi",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 11:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-den-11-universite-dunyada-ilk-500-e-girdi-2489713",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yükseköğretim Kurulu (YÖK) Türkiye'den 11 üniversitenin, Quacquarelli Symonds'un (QS) '2026 Alan Bazlı Dünya Üniversite Sıralaması'nda ilk 500'e girdiğini duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/60de3996-b197-4c92-be06-f0455d1a91ba.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6fe77e2f",
     "title": "Trump'tan petrol fiyatlarında yükseliş yorumu: 'Benim için önemli değil'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İLKE İlim Kültür Eğitim Vakfı, İslam İktisadı Araştırma Merkezi (İKAM) Direktörü Melih Turan, Türkiye'de katılım esaslı çalışan FinTeklerin sayısının arttığını ifade ederek \"Türkiye 8,4 milyar dolarlık büyüklüğü ile 7. sırada yer alıyor.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_026100bc",
-    "title": "Yapay zekanın denetimsiz kullanımı akademide özgünlük ve emeği riske atıyor",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 11:24",
-    "link": "https://www.aa.com.tr/tr/guncel/yapay-zekanin-denetimsiz-kullanimi-akademide-ozgunluk-ve-emegi-riske-atiyor/3879816",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Akademide yapay zeka teknolojileri ve büyük dil modellerinin (LLM) denetim mekanizması olmaksızın yaygınlaşması, bilimsel üretimde emek hırsızlığına ve eserlerde sorumluluk, özgünlük, güvenilirlik kavramları açısından etik problemlere yol açıyor.",
     "image": null,
     "keyword": null
   }
