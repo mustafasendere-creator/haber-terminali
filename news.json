@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8fe19efe",
+    "title": "Bizim Çocuklar'ın Dünya Kupası yolundaki rakibi Romanya",
+    "source": "TRT Haber",
+    "time": "26/03/2026 08:26",
+    "link": "https://www.trthaber.com/haber/gundem/bizim-cocuklarin-dunya-kupasi-yolundaki-rakibi-romanya-939111.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımımız, 2026 FIFA Dünya Kupası Avrupa Elemeleri playoff turu yarı finalinde bugün İstanbul'da Romanya ile karşılaşacak. Beşiktaş Park'ta oynanacak mücadele, saat 20.00'de başlayacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_85941140",
     "title": "Trump, İran'ın anlaşma yapmak istediğini ancak bunu açıklamaktan çekindiğini savundu",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "AİHM Büyük Dairesi, Osman Kavala’nın 2. başvurusunu görüşmek üzere toplandı. Kararın önümüzdeki aylarda açıklanması bekleniyor. Cumhuriyet Halk Partisi (CHP) Bartın Milletvekili Aysu Bankoğlu, Osman Kavala davasının Strazburg’daki Avrupa İnsan Hakları Mahkemesi (AİHM) Büyük Daire duruşmasını yerinde takip etti. 3 bin 64 gündür süren tutukluluğu büyük bir hukuksuzluk olarak niteleyerek Bankoğlu, “AYM kararlarını bile uygulamayan bir [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c4b53fa99267.11248928.webp",
     "keyword": null
-  },
-  {
-    "id": "TKP_adecc043",
-    "title": "Akaryakıtta Bugün Gözler Bu Rakamda! Fiyatlar Yeni Eşiğe Dayandı",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 08:05",
-    "link": "https://www.takagazete.com.tr/akaryakitta-bugun-gozler-bu-rakamda-fiyatlar-yeni-esige-dayandi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da bugün itibarıyla akaryakıt fiyatları araç sahiplerinin en çok konuştuğu konular arasında yer alıyor. Benzin, motorin ve LPG fiyatlarının yüksek seviyelerde seyretmesi, özellikle şehir içi ve şehirler arası ulaşımı doğrudan etkiliyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/10/benzin-36.jpg",
-    "keyword": "trabzon"
   }
 ]
