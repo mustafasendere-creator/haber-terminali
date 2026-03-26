@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_895b38c0",
+    "title": "Gazeteci İsmail Arı cezaevinden yazdı: 'Beni neden susturmak istediler?'",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 13:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/gazeteci-ismail-ari-cezaevinden-yazdi-beni-neden-susturmak-istediler-2489745",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bayram ziyareti için gittiği memleketinde gözaltına alınıp tutuklanan BirGün muhabiri İsmail Arı, o geceye dair tüm ayrıntıları paylaştı. Gözaltı sırasındaki hukuksuz uygulamalara ve adliyedeki gizli kapı trafiğine dikkat çeken Arı, \"Beni neden susturmak istiyorlar?\" diye sordu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b4e38bf5-c88b-4f33-8b8d-9aa17ef90ca1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_182c5478",
     "title": "Borsa günün ilk yarısında geriledi",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Gürcistan’ın Batum kentinde bu yıl 17’ncisi düzenlenecek Uluslararası Turizm ve Otel Ekipmanları Fuarı EBIT, 30 Nisan–2 Mayıs 2026 tarihleri arasında gerçekleştirilecek. Fuara yerli ve yabancı çok sayıda firmanın katılması bekleniyor.",
     "image": "https://resim.haber61.net/news/609399.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_32823adb",
-    "title": "Hürmüz Boğazı kriziyle gelirleri artan Rusya’nın emtia üretimi sınırlı kalıyor",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 13:24",
-    "link": "https://www.aa.com.tr/tr/guncel/hurmuz-bogazi-kriziyle-gelirleri-artan-rusya-nin-emtia-uretimi-sinirli-kaliyor/3880012",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail'in İran'a yönelik saldırıları enerjiden tarıma bazı kritik emtia fiyatlarını yukarı taşıdı, buna karşın yaşanan arz şokunun Rusya tarafından artan gelirlerine rağmen sınırlı ölçüde karşılanması bekleniyor.",
-    "image": null,
     "keyword": null
   }
 ]
