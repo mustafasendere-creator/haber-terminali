@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff29598f",
+    "title": "Video İsrail'deki kuş istilasını mı gösteriyor?",
+    "source": "Teyit.org",
+    "time": "26/03/2026 07:48",
+    "link": "https://teyit.org/analiz/video-israildeki-kus-istilasini-mi-gosteriyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir videonun İsrail’deki kuş istilasını gösterdiği öne sürüldü.",
+    "image": "https://md.teyit.org/2026/03/israil-kus-istilasi-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_86c65546",
     "title": "Esenyurt'ta 'kız meselesi' cinayeti: 19 yaşındaki Umut hayatını kaybetti",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Gökçeada açıklarında deprem meydana geldi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/sondakika-kopyasi-32.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_f5320276",
-    "title": "Muhtemel ABD-İran görüşmelerinden kim, neyi, neden istiyor?",
-    "source": "BBC Türkçe",
-    "time": "26/03/2026 07:45",
-    "link": "https://www.bbc.com/turkce/articles/cjd8nmv21v3o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İki taraf arasında dolaylı temas ve kanallar mevcut, ancak bir anlaşmaya varılması hala uzun zaman alabilir.",
-    "image": null,
     "keyword": null
   }
 ]
