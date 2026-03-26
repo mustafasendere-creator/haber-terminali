@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4151fd5c",
+    "title": "Eski AKP Milletvekili Bayramoğlu tutuklandı",
+    "source": "Evrensel",
+    "time": "27/03/2026 01:24",
+    "link": "https://www.evrensel.net/haber/5976927/eski-akp-milletvekili-bayramoglu-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eski MÜSİAD Başkanı ve eski AKP Milletvekili Bayram Ali Bayramoğlu, “izinsiz sermaye piyasası faaliyeti” suçundan tutuklandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340276.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d3ab15c8",
     "title": "Washington Post: Pentagon, Ukrayna'ya yapılacak askeri yardımı Orta Doğu'ya yönlendirmeyi değerlendiriyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/25/ihaleyeni5-jsbg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_197b1096",
-    "title": "Horoz dövüştüren 23 kişiye para cezası",
-    "source": "TRT Haber",
-    "time": "27/03/2026 00:04",
-    "link": "https://www.trthaber.com/haber/turkiye/horoz-dovusturen-23-kisiye-para-cezasi-939204.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muş'ta jandarma ekiplerince düzenlenen operasyonda horoz dövüştürdükleri tespit edilen 23 kişiye para cezası uygulandı.",
-    "image": null,
     "keyword": null
   }
 ]
