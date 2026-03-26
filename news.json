@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a73a2d5",
+    "title": "ABD'lilerin çoğunluğuna göre İran savaşı \"aşırıya kaçtı\"",
+    "source": "DW Türkçe",
+    "time": "26/03/2026 08:05",
+    "link": "https://www.dw.com/tr/abd-lilerin-çoğunluğuna-göre-iran-savaşı-aşırıya-kaçtı/a-76528635",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'lilerin çoğunluğu İran'daki askeri eylemlerin \"aşırıya kaçtığını\" düşünüyor. Anketlere göre enerji fiyatlarıyla ilgili endişeler artarken ABD Başkanı Trump'a destek azalıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_95fab956",
     "title": "Eurofighter anlaşması: Türk pilot ve teknisyenler İngiltere'de eğitilecek",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Arsin ilçesinde bulunan Organize Sanayi Bölgesi’ndeki bir fabrikada çıkan yangın panik yarattı. Olayda yaralanan ve dumandan etkilenen işçilerin sağlık durumuyla ilgili ilk resmi açıklama Trabzon Valiliği’nden geldi.",
     "image": "https://resim.haber61.net/news/609312.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_b4ca1e79",
-    "title": "Trabzon'da fındık fabrikasında yangın!",
-    "source": "Karadeniz Gazetesi",
-    "time": "26/03/2026 07:46",
-    "link": "https://www.karadenizgazete.com.tr/video-galeri/trabzonda-findik-fabrikasinda-yangin/606791",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Arsin Organize Sanayi Bölgesi’nde bulunan bir fındık fabrikasında çıkan yangına çok sayıda ekip müdahale ediyor. Olay yerine itfaiye ve sağlık ekipleri sevk edildi.",
-    "image": null,
-    "keyword": null
   }
 ]
