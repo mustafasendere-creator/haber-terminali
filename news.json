@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_10567e1a",
+    "title": "Makine sektörünün ihracatı ilk iki ayda 4,4 milyar dolara yükseldi",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 12:24",
+    "link": "https://www.aa.com.tr/tr/guncel/makine-sektorunun-ihracati-ilk-iki-ayda-4-4-milyar-dolara-yukseldi/3879907",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Makine sektörünün ihracatı ocak-şubat döneminde yıllık bazda yüzde 4,5 artarak 4,4 milyar dolara yükseldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5b2c92ae",
     "title": "MSB: Son bir haftada 2 PKK'lı terörist daha teslim oldu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD'de temyiz mahkemesi, göçmenlerin kefaletsiz olarak gözaltında tutulmaya devam edilebileceği yönünde karar verdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340316.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_74676b63",
-    "title": "5 gündür kayıp olarak aranıyordu: Alzheimer hastasının 5 gün sonra cansız bedeni bulundu",
-    "source": "Evrensel",
-    "time": "26/03/2026 11:45",
-    "link": "https://www.evrensel.net/haber/5976818/5-gundur-kayip-olarak-araniyordu-alzheimer-hastasinin-5-gun-sonra-cansiz-bedeni-bulundu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'nın Mustafakemalpaşa ilçesinde bayramın 2'nci gününde evinden çıkan ve bir daha kendisinden haber alınamayan Alzheimer hastası Zeki Karakuş'un cansız bedeni bulundu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340315.jpg",
     "keyword": null
   }
 ]
