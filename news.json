@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aad6f4db",
+    "title": "Mahfi Eğilmez kritik soruyu yanıtladı: Türkiye'de kriz var mı?",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 17:06",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/mahfi-egilmez-kritik-soruyu-yanitladi-turkiye-de-kriz-var-mi-2489803",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mahfi Eğilmez, Türkiye’de kriz tartışmasına ilişkin değerlendirmesinde gelir dağılımındaki bozulmanın etkilerine dikkat çekti. Eğilmez, ekonomik koşulların toplumun farklı kesimlerinde farklı biçimlerde hissedildiğini vurguladı. Üst, orta ve alt gelir grupları arasındaki kriz algısının belirgin şekilde ayrıştığını ortaya koydu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b4b4e105-d657-4429-ad10-96b30181f6d8.png",
+    "keyword": null
+  },
+  {
     "id": "GND_9e64f5b3",
     "title": "Sony ve Honda ortak elektrikli otomobil projesini durdurdu",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İtalya Serie A ekiplerinden Juventus'ta yeni sezon öncesinde kadroda çok ciddi bir operasyon yapılacağı ve 12 isimle yolların ayrılabileceği ifade edildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/kenan-yildizli-juventusta-yaprak-dokumu-spalletti-12-ismin-biletini-kesti-up2s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d465a032",
-    "title": "Z Kuşağı'nın beklediği haber: Dokunmatik ekranla uyumlu oje geliştirildi",
-    "source": "Haber Global",
-    "time": "26/03/2026 16:26",
-    "link": "https://haberglobal.com/bilim-teknoloji/z-kusaginin-bekledigi-haber-dokunmatik-ekranla-uyumlu-oje-gelistirildi-515491",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gen Z kuşağının uzun süredir beklediği çözüm sonunda geldi. Bilim insanları, uzun tırnakların dokunmatik ekranlarda kullanılmasını mümkün kılan şeffaf bir oje geliştirdi. Bu yenilik, özellikle akıllı telefon ve tablet kullanımında zorlanan kullanıcılar için önemli bir sorunu ortadan kaldırabilir.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/z-kusaginin-bekledigi-haber-dokunmatik-ekranla-uyumlu-oje-gelistirildi-7j2z.jpg",
     "keyword": null
   }
 ]
