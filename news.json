@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_13928d6b",
+    "title": "Yaptırımlara rağmen: Alman şirket, Putin'in atom deviyle nükleer yakıt üretimi planladı",
+    "source": "Euronews",
+    "time": "26/03/2026 12:45",
+    "link": "http://tr.euronews.com/2026/03/26/yaptirimlara-ragmen-alman-sirket-putinin-atom-deviyle-nukleer-yakit-uretimi-planladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aşağı Saksonya’daki Lingen kentinde bulunan bir fabrikada, Rus reaktör tipleri için yakıt elemanları üretilecek; proje, devlet şirketi Rosatom’la ortak yürütülecek ve siyasi ile hukuki açıdan tartışmalı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a2364a99",
     "title": "Gazze: Deyr el Belah'taki çadırların yakınındaki saldırıda en az bir kişi öldü",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Arsin ilçesindeki Organize Sanayi Bölgesi’nde faaliyet gösteren köklü sanayi kuruluşlarından Cirav Fındık fabrikasında çıkan yangın, gece saatlerinde bölgeyi adeta savaş alanına çevirdi. Depo bölümünde henüz belirlenemeyen bir nedenle başlayan alevler kısa sürede büyüyerek fabrikanın büyük bir kısmını sardı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/y-a-n-g-i-n-25.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_a947ea2b",
-    "title": "Köy Meydanında Sağlık Seferberliği: Tirebolu’da Örnek Uygulama",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 12:05",
-    "link": "https://www.takagazete.com.tr/koy-meydaninda-saglik-seferberligi-tireboluda-ornek-uygulama",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Tirebolu İlçe Sağlık Müdürlüğü ekipleri, “Sağlıkta Erken Teşhis Hayat Kurtarır” anlayışıyla Kuzgun Köyü’nde kapsamlı bir sağlık taraması gerçekleştirdi. Köy meydanında kurulan mobil sağlık noktası sayesinde vatandaşlar, sağlık hizmetlerine kolayca erişim sağladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/k-u-z-g-u-n-n-n.jpg",
-    "keyword": null
   }
 ]
