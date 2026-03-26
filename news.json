@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1fd7191d",
+    "title": "İstanbul'da kişisel verileri ele geçirip satan hacker grubuna yönelik operasyonda 7 zanlı yakalandı",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 10:24",
+    "link": "https://www.aa.com.tr/tr/guncel/istanbulda-kisisel-verileri-ele-gecirip-satan-hacker-grubuna-yonelik-operasyonda-7-zanli-yakalandi/3879667",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Facebook'un veri tabanına girerek 19,8 milyon kişiye ait verileri ele geçiren ve bazı kamu kurumlarının sistemlerinden ulaştıkları kişisel verileri sattıkları belirlenen örgüt elebaşı G.C.G'nin de aralarında bulunduğu 7 kişi gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a725b3be",
     "title": "Alanya ultra trail yarışına hazır",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Belarus Cumhurbaşkanı Aleksandr Lukaşenko, resmî bir ziyaret ve Kuzey Kore lideri Kim Jong Un ile görüşme için Pyongyang'a geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d7caf31a",
-    "title": "Beyaz Saray'dan İran'a gözdağı: 'Trump cehennemi yaşatmaya hazır'",
-    "source": "Euronews",
-    "time": "26/03/2026 09:45",
-    "link": "http://tr.euronews.com/2026/03/25/beyaz-saraydan-irana-gozdagi-trump-cehennemi-yasatmaya-hazir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beyaz Saray, İran'ın Orta Doğu'daki savaşı sona erdirecek bir barış anlaşmasını kabul etmemesi durumunda ABD Başkanı Donald Trump'ın \"cehennemi yaşatmaya\" hazır olduğu uyarısında bulundu.",
     "image": null,
     "keyword": null
   }
