@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_18a4f6dd",
+    "title": "Canlı | Türkiye - Romanya maçı: 1-0",
+    "source": "Evrensel",
+    "time": "26/03/2026 21:44",
+    "link": "https://www.evrensel.net/haber/5976908/canli-turkiye-romanya-maci-1-0",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye A Milli Futbol Takımı, 2026 FIFA Dünya Kupası Avrupa Elemeleri play-off turu yarı finalinde İstanbul’da Romanya'yı konuk ediyor. Karşılaşmanın ikinci yarısında Türkiye, Ferdi Kadıoğlu'nun golüyle öne geçti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340405.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_51571a83",
     "title": "Çevre tahribatı İran’ı yıllarca geriye götürdü, halk sağlığını tehdit altına aldı",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Yeni araştırma, deniz kirliliğinin ulaştığı ürkütücü boyutları gözler önüne sererken, yaban hayatının insan etkisinden kaçabileceği güvenli bir alanın neredeyse kalmadığını gösteriyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_a8cb024a",
-    "title": "Trabzonspor’da Galatasaray mesaisi sürüyor",
-    "source": "Haber61",
-    "time": "26/03/2026 20:44",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-galatasaray-mesaisi-suruyor-h627771.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig’in 28. haftasında dev maça çıkacak olan Trabzonspor, Galatasaray karşılaşmasının hazırlıklarını akşam saatlerinde yaptığı antrenmanla sürdürdü.",
-    "image": "https://resim.haber61.net/news/609457.jpg",
-    "keyword": "trabzon"
   }
 ]
