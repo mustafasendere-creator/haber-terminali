@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02ee1031",
+    "title": "KKM bakiyesi 1,5 milyar liraya geriledi",
+    "source": "TRT Haber",
+    "time": "26/03/2026 15:05",
+    "link": "https://www.trthaber.com/haber/ekonomi/kkm-bakiyesi-15-milyar-liraya-geriledi-939180.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları KKM bakiyesi geçen hafta 355 milyon lira azalarak 1 milyar 567 milyon liraya gerilerken, toplam mevduat içindeki payı yüzde 0,01e düştü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_90c4644d",
     "title": "İmamoğlu sordu, Çalık yanıtladı: \"Ortada suç örgütü yok\"",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bankacılık Düzenleme ve Denetleme Kurulu (BDDK), saatlerinde yapılacak transfer ve nakit avans işlemleri için getirilen &quot;NFC ile çipli kimlik doğrulaması&quot; zorunluluğu getirdi.Bu yöntem aslında son dönemde artan karmaşık siber saldırılara karşı alınmış bir &quot;fiziksel kilit&quot; önlemi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/konu-para-transferi-banka-hesabi-islenmerinde-nfc-ile-cipli-kimlik-dogrulamasi-nasil-yapilir-eski-nufus-cuzdani-olanlar-ne-yapacak-j8pc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0537f3f3",
-    "title": "Almanya'da elektrik fiyatları \"ABD/İsrail-İran Savaşı\" ile yükseldi",
-    "source": "Ekonomim",
-    "time": "26/03/2026 14:26",
-    "link": "https://www.ekonomim.com/sektorler/enerji/almanyada-elektrik-fiyatlari-abdisrail-iran-savasi-ile-yukseldi-haberi-884154",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail&#039;in İran&#039;a saldırılarıyla savaşın başlamasından bu yana ülkede yeni müşteriler için elektrik tarifeleri yaklaşık yüzde 16 artış gösterdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/26/almanyada-elektrik-fiyatlari-abdisrail-iran-savasi-ile-yukseldi-et5v_cover.jpg",
     "keyword": null
   }
 ]
