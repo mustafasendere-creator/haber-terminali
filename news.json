@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c2a30c45",
+    "title": "İtalya bir Türk vatandaşını sınır dışı etti",
+    "source": "Haber Global",
+    "time": "26/03/2026 11:45",
+    "link": "https://haberglobal.com/dunya/italya-bir-turk-vatandasini-sinir-disi-etti-515400",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'da düzensiz göçle mücadele kapsamında, geçtiğimiz günlerde Ancona Devlet Polisi,  30 yaşındaki bir Türk vatandaşını sınır dışı etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/italya-bir-turk-vatandasini-sinir-disi-etti-zcv3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_216bc271",
     "title": "İtalya'da silah dolu valiz vakası: Türk vatandaşına 2 yıl 4 ay hapis cezası",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon'un Arsin ilçesinde bir fındık fabrikasının deposunda çıkan yangın kontrol altına alındı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/image-383.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_79ff84de",
-    "title": "Fındıkta Büyük Şok: Fiyatlar Çakıldı, Üretici Karar Aşamasında",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 11:05",
-    "link": "https://www.takagazete.com.tr/findikta-buyuk-sok-fiyatlar-cakildi-uretici-karar-asamasinda",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da sezon başında 350 TL seviyelerine kadar yükselen fındık fiyatları, kısa sürede sert bir düşüş yaşayarak 250 TL’nin altına ve ardından 200 TL bandının da altına indi. Son olarak 170 TL seviyelerine kadar gerileyen fiyatlar, üretici cephesinde ciddi bir hayal kırıklığı yarattı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/findik-97.jpg",
     "keyword": "trabzon"
   }
 ]
