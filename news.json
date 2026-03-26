@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8892a1ee",
+    "title": "Cumhuriyet Silivri'den bildiriyor... İBB Davası'nda 11'inci gün: Basın mensuplarına yeni bir kontrol geldi",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 09:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/cumhuriyet-silivri-den-bildiriyor-ibb-davasi-nda-11-inci-gun-basin-mensuplarina-yeni-bir-kontrol-geldi-2489664",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB’ye yönelik aralarında tutuklu İBB Başkanı ve CHP'nin cumhurbaşkanı adayı Ekrem İmamoğlu’nun da bulunduğu 402 sanıklı davada 11'inci güne girildi. İşte dakika dakika Silivri'de yaşananlar...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/575edbdf-5a18-4f4e-a023-29bfc934aba5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_73d3020b",
     "title": "Çanakkale'de yolcu minibüsü devrildi: Yaralılar var!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Küresel piyasalar, ABD-İran hattından gelen çelişkili mesajların sürmesi ve Orta Doğu'daki gerilimin, görece şiddeti azalsa da temel tedirginlik unsuru olmasından kaynaklı haber akışı üzerinden ilerliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_295a02bc",
-    "title": "Bakan Fidan, ABD/İsrail-İran Savaşı'nı sonlandırmaya yönelik telefon diplomasisini sürdürüyor",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 09:24",
-    "link": "https://www.aa.com.tr/tr/guncel/bakan-fidan-abd-israil-iran-savasini-sonlandirmaya-yonelik-telefon-diplomasisini-surduruyor/3879616",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bakan Fidan, 18-20 Mart'ta Suudi Arabistan, Katar ve Birleşik Arap Emirlikleri'ni ziyaretinin ardından ABD ile İsrail’in İran’a saldırılarıyla başlayan savaşı sona erdirmeye yönelik telefon diplomasisine devam ediyor.",
     "image": null,
     "keyword": null
   }
