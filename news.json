@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf7adb42",
+    "title": "TBMM Başkanı Kurtulmuş, Romanya Senato Başkanı Abrudean ile görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 14:24",
+    "link": "https://www.aa.com.tr/tr/guncel/tbmm-baskani-kurtulmus-romanya-senato-baskani-abrudean-ile-gorustu/3880083",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TBMM Başkanı Numan Kurtulmuş, resmi ziyaret gerçekleştirdiği Bükreş’te Romanya Senato Başkanı Mircea Abrudean ile bir araya geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_785f60d7",
     "title": "İTO Başkanı Avdagiç: 2026'da yapay zekayı iş dünyasında yaygınlaştırmayı hedefliyoruz",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Ortahisar Belediyesi, Trabzon’un tarihsel, kültürel ve toplumsal yolculuğunu doğudan batıya uzanan bir anlatı diliyle kayıt altına alan “Doğudan Doğan Şehir Trabzon” isimli kitabı, kentin kültür hayatına kazandırdı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/yyy-2.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_bd1c985d",
-    "title": "Sendika.Org Yayın Kurulu Üyesi Ali Ergin Demirhan’a Charlie Hebdo haberi nedeniyle verilen ceza artırıldı",
-    "source": "Evrensel",
-    "time": "26/03/2026 13:45",
-    "link": "https://www.evrensel.net/haber/5976852/sendikaorg-yayin-kurulu-uyesi-ali-ergin-demirhana-charlie-hebdo-haberi-nedeniyle-verilen-ceza-artirildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sendika.Org’un 2015’te yayımlanan Charlie Hebdo haberi nedeniyle açılan davada, yayın kurulu üyesi Ali Ergin Demirhan hakkında verilen hapis cezası itiraz üzerine artırıldı. 3 ay 22 gün hapis cezası 5 aya yükseltildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/257000.jpg",
-    "keyword": null
   }
 ]
