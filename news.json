@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_012937ff",
+    "title": "Meteoroloji açıkladı: 26 Mart 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 07:47",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-26-mart-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2489641",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 26 Mart Perşembe gününe ilişkin hava durumu raporunu yayımladı. Rapora göre; yağışların gece saatlerinde Doğu Anadolu'nun güneydoğusunda yer yer kuvvetli olmak üzere genellikle yağmur ve sağanak, Güney Ege ve Akdeniz kıyılarında yer yer gök gürültülü sağanak, Akdeniz’in Toroslar mevkii, Doğu Karadeniz’in iç kesimlerinin yüksekleri ve Doğu Anadolu’nun doğusunda karla karışık yağmur ve kar şeklinde olması bekleniyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/3b0725cf-2a88-4b4f-a61e-9a291087eaf8.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_0af90880",
     "title": "Kadim şehir Trabzon, tüm değerleriyle Başkent Ankara’da!",
     "source": "Karadeniz'de Sonnokta",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye, 31 Mart’ta 5G’ye geçişini resmen ilan edecek. 1 Nisan’dan itibaren 81 ilde kademeli olarak başlayacak hizmet, akıllı ulaşım sistemlerinden tarım teknolojilerine kadar birçok alanda köklü değişim yaratacak.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/bakan-acikladi-turkiye-5g-cagina-giriyor-erdogan-duyuracak-dkeq.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_b054c13d",
-    "title": "AİHM’de kritik Kavala oturumu",
-    "source": "OdaTV",
-    "time": "25/03/2026 15:50",
-    "link": "https://www.odatv.com/guncel/aihmde-kritik-osman-kavala-oturumu-120140742",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gezi Davası hükümlüsü iş insanı Osman Kavala&#039;nın Avrupa İnsan Hakları Mahkemesi (AİHM) Büyük Daire&#039;ye yaptığı başvurunun duruşması yapıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/18/osman-kavala-milletvekillerinin-gorusme-icin-izin-alamadigini-soyledi-z9fq.jpg",
     "keyword": null
   }
 ]
