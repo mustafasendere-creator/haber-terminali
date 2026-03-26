@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_95fab956",
+    "title": "Eurofighter anlaşması: Türk pilot ve teknisyenler İngiltere'de eğitilecek",
+    "source": "DW Türkçe",
+    "time": "26/03/2026 08:05",
+    "link": "https://www.dw.com/tr/eurofighter-anlaşması-türk-pilot-ve-teknisyenler-ingiltere-de-eğitilecek/a-76529024",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye, satın aldığı Eurofighter jetleri için İngiltere ile eğitim ve destek sözleşmesi imzaladı. İngiltere, Türk pilot ve teknisyenleri eğitecek, Türk Hava Kuvvetleri'ne de uzun dönemli bakım desteği verecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0c23aa7d",
     "title": "İBB davasında 10. oturum: Rüşvet mi kamu yararı mı?",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Arsin Organize Sanayi Bölgesi’nde bulunan bir fındık fabrikasında çıkan yangına çok sayıda ekip müdahale ediyor. Olay yerine itfaiye ve sağlık ekipleri sevk edildi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_b3efb425",
-    "title": "Trabzonspor’un kardeş kulübü Drogheda United’da deprem",
-    "source": "Haber61",
-    "time": "26/03/2026 07:46",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-kardes-kulubu-drogheda-unitedda-deprem-h627690.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor ile kardeş kulüp olan İrlanda temsilcisi Drogheda United’da yönetim krizi patlak verdi; Eş Başkan Joanna Byrne’ın görevine son verildi.",
-    "image": "https://resim.haber61.net/news/609313.jpg",
-    "keyword": "trabzon"
   }
 ]
