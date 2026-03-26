@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_73622260",
+    "title": "Diyarbakır Valiliği: Sivil polis aracı geçtiği sırada EYP patlaması meydana geldi, can kaybı yaşanmadı",
+    "source": "Evrensel",
+    "time": "27/03/2026 00:04",
+    "link": "https://www.evrensel.net/haber/5976923/diyarbakir-valiligi-sivil-polis-araci-gectigi-sirada-eyp-patlamasi-meydana-geldi-can-kaybi-yasanmadi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır Valiliği, Kamışlo Bulvarı’nda sivil polis aracının geçişi sırasında meydana gelen patlamaya ilişkin açıklama yaptı: Can kaybı, yaralanma veya araç hasarının oluşmadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340418.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_efa5d710",
     "title": "Araştırma: Her beş genç Almanın biri ülkeyi terk etmeyi planladı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "2026 FIFA Dünya Kupası Avrupa Elemeleri play-off turu yarı finalinde Slovakya ile Kosova karşı karşıya geliyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/play-off-slovakya-kosova-maci-canli-izle-yikw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1430a1de",
-    "title": "Arda Güler ve Ferdi Kadıoğlu soyunma odası konuşmasını anlattı",
-    "source": "Haber Global",
-    "time": "26/03/2026 22:45",
-    "link": "https://haberglobal.com/spor/arda-guler-ve-ferdi-kadioglu-soyunma-odasi-konusmasini-anlatti-515539",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Romanya'yı 1-0 yenen A Milli Takım'da Ferdi Kadıoğlu ve Arda Güler maç sonunda açıklamalarda bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/26/arda-guler-ve-ferdi-kadioglu-soyunma-odasi-konusmasini-anlatti-wqp7.jpg",
     "keyword": null
   }
 ]
