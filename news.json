@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7dcc1b81",
+    "title": "Borsa güne düşüşle başladı",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 10:04",
+    "link": "https://www.aa.com.tr/tr/guncel/borsa-gune-dususle-basladi/3879656",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,40 azalışla 12.911,44 puandan başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8e6e75bd",
     "title": "Ünlülere uyuşturucu soruşturmasında yeni dalga! Şüpheliler adliyeye sevk edildi",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "NBA, Seattle ve Las Vegas’a genişleme ihtimalini resmen araştırmaya başladı. Yönetim Kurulu kararıyla iki yeni takım için ilk adım atıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/330908.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_b83ff977",
-    "title": "Almanya’dan Sınır Dışı Edildiğini İddia Eden Trabzonlu Gazi Reise Sesini Duyurmak İstiyor",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 09:25",
-    "link": "https://www.takagazete.com.tr/almanyadan-sinir-disi-edildigini-iddia-eden-trabzonlu-gazi-reise-sesini-duyurmak-istiyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonlu ter*r gazisi Emin Karamus, Almanya’dan haksız yere sınır dışı edildiğini öne sürerek yaşadığı mağduriyetin giderilmesi için Cumhurbaşkanı ile görüşmek istediğini açıkladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-8-139.jpg",
-    "keyword": "trabzon"
   }
 ]
