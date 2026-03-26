@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f5f2e5b1",
+    "title": "ABD Başkanı Trump: 'Anlaşma onların elinde, aksi halde en büyük kabus olacağız'",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 19:05",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/abd-baskani-trump-anlasma-onlarin-elinde-aksi-halde-en-buyuk-kabus-olacagiz-2489862",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran’la yürütülen nükleer müzakerelere ilişkin yaptığı açıklamada, anlaşmanın kaderinin artık Tahran’ın kararına bağlı olduğunu söyledi. Trump, İran’ın nükleer programdan vazgeçmesi gerektiğini vurgulayarak sert ifadeler kullandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/58e24cea-60ad-48ed-9bee-ac1ea14de818.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f41d26d3",
     "title": "NATO'dan dikkat çeken Türkiye açıklaması: İttifakımızın gücünü gördünüz",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail Savunma Bakanı Israel Katz, İran Devrim Muhafızları'na bağlı donanmanın komutanının ve bazı üst düzey yetkililerin öldürüldüğünü açıkladı. İsrail'in, Pakistan'ın talebi üzerine İran Dışişleri Bakanı ile Meclis Başkanı'nı hedef listesinden çıkardığı da bildiriliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1db9db8d",
-    "title": "Rusya Devlet Başkanı Putin: Orta Doğu’daki çatışmanın sonuçları öngörülemez",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 18:04",
-    "link": "https://www.aa.com.tr/tr/guncel/rusya-devlet-baskani-putin-orta-dogu-daki-catismanin-sonuclari-ongorulemez/3880373",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Devlet Başkanı Vladimir Putin, petrol fiyatlarının yükseldiğini, küresel piyasaların çalkalandığını belirterek, \"Orta Doğu’daki çatışmanın sonuçları şimdilik öngörülemez. Bana kalırsa, çatışmanın tarafları bile öngöremiyor.\" dedi.",
     "image": null,
     "keyword": null
   }
