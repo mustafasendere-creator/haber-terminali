@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f3d49231",
+    "title": "AHESEN için bina çağrısı",
+    "source": "Habertürk",
+    "time": "26/03/2026 16:26",
+    "link": "https://www.haberturk.com/aile-sagligi-merkezleri-asm-icin-bina-cagrisi-3872318",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aile Hekimliği Çalışanları Sendikası, (ASM) aile sağlığı merkezleri için kamuya bina çağrısında bulunuyor. Esra Toptaş yazdı…",
+    "image": "https://im.haberturk.com/l/2026/03/25/ver1774466765/3872318/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_d284a1c0",
     "title": "'Özel'in söylediklerinin hükmü yok'",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bir videonun Tel Aviv’de gökyüzündeki kargaları gösterdiği iddia edildi.",
     "image": "https://md.teyit.org/2026/03/tel-aviv-kus-istilasi-kapak.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_a9873ec1",
-    "title": "Ünlüler soruşturması... Kime tutuklama istendi, kime adli kontrol: Listede kimler var",
-    "source": "OdaTV",
-    "time": "26/03/2026 15:47",
-    "link": "https://www.odatv.com/guncel/unluler-sorusturmasi-kime-tutuklama-istendi-kime-adli-kontrol-listede-kimler-var-120140879",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ünlülere yönelik uyuşturucu soruşturmasında 8 kişi hakkında adli kontrol talep edilirken, 5 isme ise tutuklama talep edildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/26/unluler-sorusturmasi-kime-tutuklama-istendi-kime-adli-kontrol-listede-kimler-var-rwft.jpg",
     "keyword": null
   }
 ]
