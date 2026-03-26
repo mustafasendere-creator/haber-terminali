@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_217832df",
+    "title": "Çanakkale’de yolcu minibüsü menfeze devrildi: 8 yaralı!",
+    "source": "Sözcü",
+    "time": "26/03/2026 10:06",
+    "link": "https://www.sozcu.com.tr/canakkale-de-yolcu-minibusu-menfeze-devrildi-8-yarali-p304683",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çanakkale’de yolcu minibüsü menfeze devrildi: 8 yaralı!",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/yolcuminibusuyleotomobilcarpisti8y1229384365675jpg-VUajU0mtQ02xhurLw8gT9g.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_83218446",
     "title": "Futbolcu Kubilay Kaan Kundakçı cinayetinde yeni ayrıntılar... Rapçi Canbay'ın ifadesi ortaya çıktı: 'Temizlikçi' ayrıntısı dikkat çekti!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Fatih Tekke, teknik direktörlük kariyerinin en başarılı dönemini Trabzonspor’da yaşadı. Bordo-mavililer, 2025-26 sezonunda yakaladığı puan ortalamasıyla zirve yarışına ortak oldu.",
     "image": "https://resim.haber61.net/news/609364.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c49e7e74",
-    "title": "BDDK'den Siemens Finansman AŞ'ye faaliyet izni verildi",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 09:44",
-    "link": "https://www.aa.com.tr/tr/guncel/bddkden-siemens-finansman-asye-faaliyet-izni-verildi/3879624",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bankacılık Düzenleme ve Denetleme Kurumunca (BDDK), Siemens Finansman AŞ'ye faaliyet izni verilmesi kararı alındı.",
-    "image": null,
     "keyword": null
   }
 ]
