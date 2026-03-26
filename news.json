@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fe5e352b",
+    "title": "Lübnan resmi haber ajansı: İsrail ordusu Lübnan'ın güneyine fosfor bombasıyla saldırdı",
+    "source": "Anadolu Ajansı",
+    "time": "26/03/2026 18:04",
+    "link": "https://www.aa.com.tr/tr/guncel/lubnan-resmi-haber-ajansi-israil-ordusu-lubnanin-guneyine-fosfor-bombasiyla-saldirdi/3880488",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hizbullah, gece saatlerinden bu yana Lübnan'ın güneyindeki İsrail askerleri ve İsrail'in kuzeyindeki noktalara 40 saldırı düzenlediğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1d262157",
     "title": "Fikret Orman hakkında skandal itiraf: \"Yanımda kokain kullandı\"",
     "source": "A Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "AirBaltic’in Finlandiya Laponyası’na açtığı yeni hatların, bölgenin gözde bir kış kayağı ve tatil rotası olarak artan cazibesini öne çıkarması bekleniyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_78a6a265",
-    "title": "AB Komisyonu: Bazı porno siteleri çocukları korumada yetersiz kaldı",
-    "source": "Euronews",
-    "time": "26/03/2026 17:05",
-    "link": "http://tr.euronews.com/next/2026/03/26/ab-komisyonu-bazi-porno-siteleri-cocuklari-korumada-yetersiz-kaldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pornhub'un da aralarında bulunduğu internet siteleri, kullanıcıların 18 yaşından büyük olduklarını kendilerinin beyan etmesine güveniyor; ancak Avrupa Komisyonu bunun çocukları yeterince korumadığını söylüyor.",
     "image": null,
     "keyword": null
   }
