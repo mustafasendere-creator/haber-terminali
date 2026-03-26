@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7781c98b",
+    "title": "Son dakika... İstanbul Boğazı'na yaklaşan Türk petrol gemisi vuruldu!",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 08:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-istanbul-bogazi-na-yaklasan-turk-petrol-gemisi-vuruldu-2489645",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberi... İstanbul merkezli Pergamon Denizcilik'e ait 'Altura' adlı ham petrol tankerinin, gece yarısı İstanbul Boğazı'na 14 mil kala İHA ve İDA ile vurulduğu aktarıldı. 140 bin ton ham petrol yüklü olan tankerden yardım çağrısı yapılırken, kurtarma çalışmaları için Kıyı Emniyeti Genel Müdürlüğü'nün harekete geçtiği öğrenildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e9754996",
     "title": "İstanbul Boğazı'na yaklaşan Türk petrol gemisine drone isabet etti",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/eskavkator.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fe1a232a",
-    "title": "ABD ile İran arasında müzakere tartışması: Orta Doğu'da kriz derinleşiyor",
-    "source": "Euronews",
-    "time": "26/03/2026 08:25",
-    "link": "http://tr.euronews.com/2026/03/26/abd-ile-iran-arasinda-muzakere-tartismasi-orta-doguda-kriz-derinlesiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran’ın anlaşmaya istekli olduğunu savundu ancak Tahran yönetimi bu iddiayı reddetti. Taraflar karşılıklı taleplerini açıklarken bölgede çatışmalar şiddetleniyor.",
-    "image": null,
     "keyword": null
   }
 ]
