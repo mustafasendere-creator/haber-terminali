@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2c5f89de",
+    "title": "Tavuğun enfes değişimi: Louisiana Gumbo",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 15:26",
+    "link": "https://www.cumhuriyet.com.tr/gurme/tavugun-enfes-degisimi-louisiana-gumbo-2489767",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"Kutsal Üçlü\" (soğan, kereviz, biber) ve sabırla kavrulan meşhur \"Roux\" sosunun derinliğinde pişen Gumbo; deniz mahsulleri, tavuk ve tütsülenmiş sosisin baharatlı bir harmoni içinde buluştuğu efsanevi bir yahnidir.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/129333ae-a5d0-49ad-abe9-ed2b3cd36381.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9fff22f4",
     "title": "Lens itiraz etmişti: Paris Saint-Germain'in lig maçına erteleme!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD/İsrail-İran Savaşı ve enerji piyasalarındaki belirsizlik, Almanya'da elektrik fiyatlarını doğrudan etkiliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f9ddfd64",
-    "title": "KKM bakiyesindeki düşüş devam ediyor",
-    "source": "Anadolu Ajansı",
-    "time": "26/03/2026 15:04",
-    "link": "https://www.aa.com.tr/tr/guncel/kkm-bakiyesindeki-dusus-devam-ediyor/3880144",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları (KKM), geçen hafta 355 milyon lira azalarak 1 milyar 567 milyon liraya geriledi.",
     "image": null,
     "keyword": null
   }
