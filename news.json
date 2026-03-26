@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d82cd1a9",
+    "title": "Eski Google yöneticisi Matt Brittin BBC Genel Müdürü oldu",
+    "source": "BBC Türkçe",
+    "time": "26/03/2026 08:25",
+    "link": "https://www.bbc.com/turkce/articles/c4g4pr01wg3o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Google'ın Avrupa, Ortadoğu ve Afrika operasyonlarının eski başkanı Matt Brittin, BBC'nin yeni genel müdürü oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0e378e8c",
     "title": "Epstein'den kurtulanlar BBC'ye anlattı: 'Gözlerimizdeki korkudan zevk alıyordu'",
     "source": "BBC Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Karadeniz Bölgesi’nin en önemli tarım ürünlerinden biri olan fındıkta bugün itibarıyla hareketli bir piyasa dikkat çekiyor. Özellikle üretim bölgelerinde fiyatların yeniden yukarı yönlü ivme kazandığı gözlemleniyor. Trabzon, Ordu, Giresun ve Sakarya gibi şehirlerde serbest piyasada oluşan fiyatlar üreticiler tarafından yakından takip ediliyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/06/guncel-findik-fiyat.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_5169b410",
-    "title": "Akıllı cihazlar kaygıyı büyütüyor: ‘Takıntı haline gelebilir’",
-    "source": "Cumhuriyet",
-    "time": "26/03/2026 07:47",
-    "link": "https://www.cumhuriyet.com.tr/saglik/akilli-cihazlar-kaygiyi-buyutuyor-takinti-haline-gelebilir-2489627",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Prof. Dr. Nesrin Dilbaz, dijital sağlık verilerine aşırı odaklanmanın anksiyeteyi artırabileceğini ve “siberkondri”ye yol açabileceğini söyledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8eec1b1b-6e53-4c4a-a742-cbb161444c8c.jpg",
-    "keyword": null
   }
 ]
