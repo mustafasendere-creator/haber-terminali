@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e7fb19c0",
+    "title": "Almanya'da elektrik fiyatları ABD/İsrailİran Savaşı ile yükseldi",
+    "source": "TRT Haber",
+    "time": "27/03/2026 00:24",
+    "link": "https://www.trthaber.com/haber/ekonomi/almanyada-elektrik-fiyatlari-abdisrail-iran-savasi-ile-yukseldi-939189.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD/İsrailİran Savaşı ve enerji piyasalarındaki belirsizlik, Almanya'da elektrik fiyatlarını doğrudan etkiliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_437b0883",
     "title": "İran, ABD'nin teklifine resmi yanıt verdi",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "TBMM Başkanı Numan Kurtulmuş, resmi ziyaret gerçekleştirdiği Bükreş'te, Romanya Başbakanı Ilie Bolojan ile bir araya geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5246af8e",
-    "title": "İBB'ye yönelik yolsuzluk soruşturmasında Muhittin Böcek'in 2 şoförü tutuklandı",
-    "source": "TRT Haber",
-    "time": "26/03/2026 23:24",
-    "link": "https://www.trthaber.com/haber/turkiye/ibbye-yonelik-yolsuzluk-sorusturmasinda-muhittin-bocekin-2-soforu-tutuklandi-939219.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB'ye yönelik yolsuzluk soruşturması kapsamında gözaltına alınan, Antalya Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Muhittin Böcek'in 2 şoförü tutuklandı.",
     "image": null,
     "keyword": null
   }
