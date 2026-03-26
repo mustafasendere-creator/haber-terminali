@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_798762f5",
+    "title": "Çin'deki McDonald's insanlar yerine robotları mı çalıştırmaya başladı?",
+    "source": "Euronews",
+    "time": "26/03/2026 18:04",
+    "link": "http://tr.euronews.com/next/2026/03/26/cindeki-mcdonalds-insanlar-yerine-robotlari-mi-calistirmaya-basladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanghay'da çekilen videoda, üzerinde tam takım McDonald’s üniforması bulunan insansı bir robotun müşterileri karşıladığı ve sipariş aldığı görülüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_e9395ac6",
     "title": "İngiltere'nin dev ekibi Trabzonlu oyunun peşinde!",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kuzey Ege'de etkili olan olumsuz hava şartları nedeniyle Bozcaada hattında yarın yapılması planlanan tüm seferler ile Gökçeada hattındaki 4 sefer iptal edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0b56a526",
-    "title": "Yargıtay kontenjanından YSK üyeliğine seçilen ilk isim Mehmet Arı oldu",
-    "source": "TRT Haber",
-    "time": "26/03/2026 17:05",
-    "link": "https://www.trthaber.com/haber/gundem/yargitay-kontenjanindan-ysk-uyeligine-secilen-ilk-isim-mehmet-ari-oldu-939192.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yargıtay kontenjanından Yüksek Seçim Kurulu YSK üyeliğine, Yargıtay 4. Hukuk Dairesi Üyesi Mehmet Arı seçildi.",
     "image": null,
     "keyword": null
   }
