@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e771b04c",
+    "title": "Muhalefetin gübre krizine karşı önerileri AKP-MHP oylarıyla reddedildi",
+    "source": "Cumhuriyet",
+    "time": "26/03/2026 20:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/muhalefetin-gubre-krizine-karsi-onerileri-akp-mhp-oylariyla-reddedildi-2489877",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TBMM Genel Kurulu’nda muhalefet, artan maliyetler ve dışa bağımlılık nedeniyle gübre krizine dikkat çekerek hükümeti eleştirdi. İktidar ise Hürmüz riskine karşı önlem alındığını savundu; muhalefetin önerileri reddedildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7a2c8ba5-278d-496a-93d0-b93e3733a512.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b8fb8c7a",
     "title": "Camideki cinayette yeni gelişme: Tahrik indirimi verildi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gazeteciler, pazar günü İstanbul Kadıköy’de meslektaşlarının tutuklanmasına karşı basın özgürlüğü ve haber alma hakkı için yürüyecek. Yurttaşlara çağrı yapan gazeteciler, \"Biz sizi hiç yalnız bırakmadık; siz de gazetecileri yalnız bırakmayın\" dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340397.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8bc1e258",
-    "title": "Washington Post iddia etti: Ukrayna’ya gidecek silahlar Ortadoğu’ya mı kayıyor?",
-    "source": "Evrensel",
-    "time": "26/03/2026 19:05",
-    "link": "https://www.evrensel.net/haber/5976905/washington-post-iddia-etti-ukraynaya-gidecek-silahlar-ortadoguya-mi-kayiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Washington Post, ABD’nin İran’a saldırıları nedeniyle mühimmat sıkıntısı yaşadığını ve Ukrayna için ayrılan hava savunma füzelerini Ortadoğu’ya yönlendirmeyi planladığını iddia etti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339275.jpg",
     "keyword": null
   }
 ]
