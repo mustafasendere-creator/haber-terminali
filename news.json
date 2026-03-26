@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d686fbd",
+    "title": "İran’dan Hürmüz Boğazı açıklaması: Geçiş hakkı bizim kararımızda",
+    "source": "Evrensel",
+    "time": "26/03/2026 08:05",
+    "link": "https://www.evrensel.net/haber/5976776/iran-dan-hurmuz-bogazi-aciklamasi-gecis-hakki-bizim-kararimizda",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran askeri yönetimi, Hürmüz Boğazı’nda geçiş kurallarının tek taraflı olarak yeniden belirlendiğini açıklayarak ABD ve İsrail bağlantılı hiçbir unsura geçiş izni verilmeyeceğini duyurdu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340158.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c51de9bc",
     "title": "Üsküdar'da işçilerin kaldığı konteynerde çıkan yangın söndürüldü",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Arsin ilçesindeki Organize Sanayi Bölgesi’nde bulunan bir fındık fabrikasında çıkan yangın kısa sürede tüm binayı sardı, itfaiyenin müdahalesi sürüyor.",
     "image": "https://resim.haber61.net/news/609321.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_9ccd94c5",
-    "title": "Dolarda 'güvenli liman' günleri geride mi kalıyor?",
-    "source": "Taka Gazetesi",
-    "time": "26/03/2026 07:46",
-    "link": "https://www.takagazete.com.tr/dolarda-guvenli-liman-gunleri-geride-mi-kaliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Dolarda güvenli liman alımları döneminin kapandığına yönelik işaretler geliyor. Yatırımcılar, Orta Doğu’da bir savaşın çıkmasının ve enerji fiyatlarının yükselmesinin normal şartlarda dolarını desteklemesini beklerler.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/guvenli-liman.jpg",
-    "keyword": null
   }
 ]
