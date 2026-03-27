@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_799258b7",
+    "title": "Sakarya'da faciadan dönüldü... Karşı şeride geçen tanker, 2 otomobille çarpıştı: 3 yaralı",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 17:05",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/sakarya-da-faciadan-donuldu-karsi-seride-gecen-tanker-2-otomobille-carpisti-3-yarali-2490103",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sakarya'nın Akyazı ilçesinde, karşı şeride geçen tanker, 2 otomobille kafa kafaya çarpıştı. 3 kişinin yaralandığı kaza, çevredeki evin güvenlik kamerasına yansıdı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/fbf3c84e-3fbd-4361-aad4-016ce4756a6c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eb504688",
     "title": "Devon Hall'un yeni takımı belli oluyor!",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, bölgede gerçekleşen olaylara dikkati çekerek, \"Türkiye'nin hiçbir şekilde herhangi bir gıda arz güvenliği sorunu yoktur. Herhangi bir vatandaşımızın herhangi bir gıda ürününe ulaşmakla ilgili bir problemi yoktur\" dedi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_370c7057",
-    "title": "Trabzonspor’da Yeni Yıldız Adayı! Bojang A Takım Kapısında",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 16:05",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-yeni-yildiz-adayi-bojang-a-takim-kapisinda",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un genç yeteneği Assan Bojang, U19’daki performansıyla dikkat çekerek A Takım için umut verdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/dcfae0b7-0fe5-4264-8b39-e1961b0d910b.jpg",
-    "keyword": "trabzon"
   }
 ]
