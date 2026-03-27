@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5a847804",
+    "title": "Japonya, Orta Doğu'daki gerilim nedeniyle rezervlerindeki petrol stokunu kullanıma açtı",
+    "source": "TRT Haber",
+    "time": "27/03/2026 11:25",
+    "link": "https://www.trthaber.com/haber/dunya/japonya-orta-dogudaki-gerilim-nedeniyle-rezervlerindeki-petrol-stokunu-kullanima-acti-939287.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Japonya hükümeti, ABD ile İsrail'in İran'a yönelik saldırılarının tetiklediği enerji arz güvenliği endişeleri nedeniyle rezervlerindeki petrol stoklarını kullanıma açtı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_386f4b96",
     "title": "Türk dünyasının ortak mirası kitaplaştı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Netflix, ABD’de abonelik fiyatlarına zam yaptı. Tüm paketlerde artış yaşanırken yeni tarifeler kademeli olarak kullanıcılara yansıtılacak.",
     "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/12/netflix-intro-1.gif",
-    "keyword": null
-  },
-  {
-    "id": "YRL_86da0e45",
-    "title": "Trabzon’da Bugün Yürek Burkan Kayıplar: 26 Kişinin Vefat Listesi Açıklandı",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 10:44",
-    "link": "https://www.takagazete.com.tr/trabzonda-bugun-yurek-burkan-kayiplar-26-kisinin-vefat-listesi-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da bugün 26 kişi vefat etti. Büyükşehir Belediyesi tarafından paylaşılan vefat listesi ve defin bilgileri kamuoyuyla paylaşıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2024/12/vefat-arkaplan-7-2.jpg",
     "keyword": null
   }
 ]
