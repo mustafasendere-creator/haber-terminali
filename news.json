@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7d93548e",
+    "title": "YKS’ye kaç kişi başvurdu? En yaşlı aday kaç yaşında?",
+    "source": "Evrensel",
+    "time": "27/03/2026 03:24",
+    "link": "https://www.evrensel.net/haber/5976836/yks-ye-kac-kisi-basvurdu-en-yasli-aday-kac-yasinda",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "20-21 Haziran tarihlerinde yapılacak olan Yükseköğretim Kurumları Sınavı için 2 milyon 425 bin 560 aday başvurdu. Sınava başvuran kadın aday sayısı, erkek adayları geride bıraktı. En yaşlı aday 87 yaşında.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/164497.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_37b9b424",
     "title": "Babası tarafından yıllarca istismar, şiddet ve tehdit: N.E. yaşadıklarını anlattı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail Savunma Bakanı Yisrael Katz, İran Devrim Muhafızları Ordusu Deniz Kuvvetleri Komutanı Ali Rıza Tengsiri'nin hava saldırısında öldürüldüğünü iddia etti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340364.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1636e808",
-    "title": "İsrail, Lübnan’da sağlık çalışanlarını özellikle hedef alıyor",
-    "source": "Evrensel",
-    "time": "27/03/2026 01:44",
-    "link": "https://www.evrensel.net/haber/5976928/israil-lubnanda-saglik-calisanlarini-ozellikle-hedef-aliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail’in Lübnan’da sağlık çalışanlarını özellikle hedef aldığı belirtilerek uluslararası topluma çağrı yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340423.jpg",
     "keyword": null
   }
 ]
