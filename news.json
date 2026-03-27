@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c6ca935f",
+    "title": "Fransızlar ve Portekizliler ucuz akaryakıt için İspanya'ya geçiyor",
+    "source": "TRT Haber",
+    "time": "27/03/2026 17:45",
+    "link": "https://www.trthaber.com/haber/dunya/fransizlar-ve-portekizliler-ucuz-akaryakit-icin-ispanyaya-geciyor-939342.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a yönelik saldırılarının başladığı 28 Şubat'tan bu yana devam eden küresel enerji krizinde, vatandaşlarının mağduriyetini hafifletmek için İspanya hükümetinin, akaryakıt fiyatlarında yaptığı indirimden sınıra yakın olan Portekizliler ve Fransızlar da yararlanıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_406212e7",
     "title": "STRATCOM Zirvesi 2026'da Arabuluculuk Sürecinde Aktörler ve Lider Diplomasisi paneli yapıldı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Araklı ilçesinde ısınmak için ateşe benzin döken genç yaralandı. Hastaneye kaldırılan Yiğit Demir, tedavisinin ardından taburcu edildi.",
     "image": "https://resim.haber61.net/news/609572.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1b049387",
-    "title": "Aziz Nesin’lik vaka: Önce sokağa direk diktiler, sonra muhtara ceza kestiler",
-    "source": "Evrensel",
-    "time": "27/03/2026 17:04",
-    "link": "https://www.evrensel.net/haber/5977015/aziz-nesinlik-vaka-once-sokaga-direk-diktiler-sonra-muhtara-ceza-kestiler",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Divriği’de köy muhtarına, sokak lambalarında kaçak kullanım gerekçesiyle kesilen 19 bin TL’lik ceza yargıya taşındı. Muhtar Karademir, cezanın haksız olduğunu belirterek ödemenin iadesini talep etti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340495.jpg",
-    "keyword": null
   }
 ]
