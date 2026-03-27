@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bb52ef84",
+    "title": "ABD'de nükleer kapasiteli bombardıman uçaklarının bulunduğu üs üzerinde izinsiz uçan dronlar soruşturuluyor",
+    "source": "TRT Haber",
+    "time": "27/03/2026 21:25",
+    "link": "https://www.trthaber.com/haber/dunya/abdde-nukleer-kapasiteli-bombardiman-ucaklarinin-bulundugu-us-uzerinde-izinsiz-ucan-dronlar-sorusturuluyor-939371.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'de federal ve yerel kolluk kuvvetleri, nükleer silah taşıma kapasitesine sahip B52 bombardıman uçaklarının konuşlu olduğu Barksdale Hava Kuvvetleri Üssü üzerinde tespit edilen çok sayıda dronu soruşturuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0ef1dd1c",
     "title": "AB'nin resmi internet sitesine siber saldırı düzenlendi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Müzik Yorumcuları Meslek Birliği (MÜYORBİR) tarafından dün düzenlenen “45’liklerden Dijital Platformlara: Türkiye’de Popüler Müziğin Kültürel ve Sektörel Dönüşümü” başlıklı panelde; Türkiye’de popüler müziğin 45’lik plaklardan dijital platformlara uzanan dönüşümü, sanatçılar ve müzik profesyonellerinin katılımıyla ele alındı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/86545a7b-b66f-4678-a5e3-2ea2adf560c0.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_841bace4",
-    "title": "Beşiktaş'tan 102 sayılık galibiyet",
-    "source": "Haber Global",
-    "time": "27/03/2026 20:45",
-    "link": "https://haberglobal.com/spor/besiktastan-102-sayilik-galibiyet-515727",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Basketbol Süper Ligi'nin 24. haftasında oynanan maçta Beşiktaş, deplasmanda Manisa Basket'i 102-70 mağlup etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/besiktastan-102-sayilik-galibiyet-0m86.jpg",
     "keyword": null
   }
 ]
