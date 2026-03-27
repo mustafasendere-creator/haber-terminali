@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e53f1c1",
+    "title": "Trump: İran'la görüşmeler sürüyor",
+    "source": "TRT Haber",
+    "time": "28/03/2026 00:24",
+    "link": "https://www.trthaber.com/haber/dunya/trump-iranla-gorusmeler-suruyor-939383.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'la müzakerelerin devam ettiğini belirterek, \"Onlar bizimle anlaşma yapmak istiyor.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6a1e3a36",
     "title": "İletişim Başkanı Duran, KKTC Dışişleri Bakanı Ertuğruloğlu ile bir araya geldi",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 34. haftasında lider Fenerbahçe Beko, konuk ettiği Litvanya'nın Zalgiris takımına 92-82 yenildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9ecd0d3e",
-    "title": "Gemisavar füzesi ATMACA, kara hedefini tam isabetle vurdu",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 23:24",
-    "link": "https://www.aa.com.tr/tr/guncel/gemisavar-fuzesi-atmaca-kara-hedefini-tam-isabetle-vurdu/3882351",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CG Burgazada gemisinden ateşlenen gemisavar füzesi ATMACA'nın belirlenen kara koordinatı hedefini tam isabetle vurduğu bildirildi.",
     "image": null,
     "keyword": null
   }
