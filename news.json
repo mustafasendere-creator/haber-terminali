@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_56798dee",
+    "title": "ABDİran anlaşması için hangi yollar mümkün?",
+    "source": "TRT Haber",
+    "time": "27/03/2026 07:44",
+    "link": "https://www.trthaber.com/haber/dunya/abd-iran-anlasmasi-icin-hangi-yollar-mumkun-939254.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ile İran arasındaki savaşı sona erdirecek diplomatik bir anlaşma ihtimali şu an için zayıf görünse de bölge uzmanları, her iki tarafın da istekli olması durumunda bir uzlaşı yolunun bulunduğunu belirtiyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_13b792ae",
     "title": "ABD ve İsrail, İran'ın füze tehdidini vurdu ancak bitiremedi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "“Ve yeryüzünü unutmanın, aslında zamanı ve mekânı unutmak olduğu hiç aklımıza gelmedi.”",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar464_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3d14306e",
-    "title": "Anayasa Mahkemesi üyeliğine Şaban Kazdal seçildi",
-    "source": "TRT Haber",
-    "time": "27/03/2026 05:44",
-    "link": "https://www.trthaber.com/haber/gundem/anayasa-mahkemesi-uyeligine-saban-kazdal-secildi-939236.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anayasa Mahkemesi AYM üyeliğine Şaban Kazdal'ın seçilmesine ilişkin karar Resmi Gazete'de yayımlandı.",
-    "image": null,
     "keyword": null
   }
 ]
