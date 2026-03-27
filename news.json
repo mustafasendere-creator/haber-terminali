@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d68fa41e",
+    "title": "Saadet Partisi'nden Ankara'da ABD ve İsrail'e protesto",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 16:06",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/saadet-partisi-nden-ankara-da-abd-ve-israil-e-protesto-2490075",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Saadet Partisi Ankara il teşkilatı, ABD ve İsrail’in İran, Lübnan ve Gazz’ye yönelik saldırılarını protesto etti. Saadet Partisi Ankara İl Başkanı, \"Emperyalizmin kirli eli coğrafyamızdan ve bütün mazlumların üzerinden çekilene dek mücadelemiz, azmimiz ve kararlılığımız artarak devam edecektir\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8e9abecb-4e40-4f71-8b6d-9fc433afbaab.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6a8af516",
     "title": "Uşaklılardan Özkan Yalım'ın gözaltına alınmasına tepki: 'Halkın iradesini ayaklarla altına aldılar'",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Dünya Ticaret Merkezi ile alakalı beklenen haber geldi ve mahkemenin sonuçlandığı belirtildi.",
     "image": "https://resim.haber61.net/news/609563.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ae9bcf7c",
-    "title": "Tartışmalı ilk: Trump'ın imzası dolar banknotlarına eklenmesine karar verildi",
-    "source": "Euronews",
-    "time": "27/03/2026 15:45",
-    "link": "http://tr.euronews.com/business/2026/03/27/tartismali-ilk-trumpin-imzasi-dolar-banknotlarina-eklenmesine-karar-verildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Donald Trump yönetimindeki Hazine, ABD dolarının tüm kupürlerine Trump'ın imzasını eklemeyi planlıyor. Bu, başkan imzası taşıyan ilk Amerikan banknotu olacak.",
-    "image": null,
-    "keyword": null
   }
 ]
