@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0c06abc5",
+    "title": "Meteoroloji mühendisi 'ısı adası etkisi'ne dikkat çekti: İstanbul'da şiddetli yağışlar neden artıyor?",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 12:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-muhendisi-isi-adasi-etkisi-ne-dikkat-cekti-istanbul-da-siddetli-yagislar-neden-artiyor-2490024",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uzmanlar, İstanbul'da artan betonlaşmanın kent ısı adası etkisini güçlendirdiğini, bunun da hem sıcaklıkları yükselttiğini hem de yerel atmosferik süreçleri değiştirerek ani ve şiddetli yağışları artırdığını belirtiyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/fd8332bd-9026-4f28-83b0-77b29b820a26.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_075c881d",
     "title": "Son dakika... DEM Parti heyeti İmralı'ya gitti!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çorum'da kurulacak enerji iletim hattı kapsamında bazı taşınmazlar TEİAŞ Genel Müdürlüğü tarafından acele kamulaştırılacaktır.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/323300.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7492fd74",
-    "title": "\"Katil drone\" Portekiz'e geldi: bu güçlü silah hakkında bilinenler",
-    "source": "Euronews",
-    "time": "27/03/2026 11:24",
-    "link": "http://tr.euronews.com/my-europe/2026/03/27/katil-drone-portekize-geldi-bu-guclu-silah-hakkinda-bilinenler",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MQ-9 Reaper İHA'larının kurulacakları Lajes üssüne şimdiden varması bekleniyordu, ancak Portekiz önce teknik bileşenleri, pilotların sertifikalarını ve acil deniz iniş alanını öğrenmek istiyor.",
-    "image": null,
     "keyword": null
   }
 ]
