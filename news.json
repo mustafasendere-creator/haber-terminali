@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_77435e4e",
+    "title": "İstanbul'da trafik yoğunluğu yüzde 80",
+    "source": "Diken",
+    "time": "27/03/2026 20:45",
+    "link": "https://www.diken.com.tr/istanbulda-trafik-yogunlugu-yuzde-80-7/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da trafik yoğunluğu yüzde 80 27.03.2026 Dikenİstanbul'da haftanın son iş günü akşam saatlerinde trafik yoğunluğu yüzde 80'e kadar çıktı.\nThe post İstanbul'da trafik yoğunluğu yüzde 80 appeared first on #site_linkat 27.03.2026 .",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4f646102",
     "title": "Yatırımda haftalık tablo: Altın yüzde 5,4 düştü",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Türkiye Sigorta Basketbol Süper Ligi’nde heyecan devam ediyor. Ligde 4. sırada yer alan Trabzonspor Basketbol Kulübü, sahasında Bahçeşehir Koleji’ni ağırlıyor.",
     "image": "https://resim.haber61.net/news/609591.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_012af412",
-    "title": "İranlı askerin İsrail'e füze atılırken çektiği video gerçek mi?",
-    "source": "Teyit.org",
-    "time": "27/03/2026 17:46",
-    "link": "https://teyit.org/analiz/iranli-askerin-israile-fuze-atilirken-cektigi-video-gercek-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İranlı bir askerin İsrail’e füze atılırken video çektiği iddia edildi.",
-    "image": "https://md.teyit.org/2026/03/iranli-asker-kapak.webp",
     "keyword": null
   }
 ]
