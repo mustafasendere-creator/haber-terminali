@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7db50796",
+    "title": "Sağlıkta özelleştirme kıskacı",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 05:44",
+    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/saglikta-ozellestirme-kiskaci-2489913",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir’de kamu hastanelerinin akıbeti tartışılırken, birçok ilde hastane arazilerinin satışa çıkarılması tepki çekti. İzmir Tabip Odası Başkanı Dr. Yüce Ayhan, faal hastane arazilerinin dahi listeye alınmasına tepki göstererek “Bu satış politikası atıl bırakılan kamu hastaneleri açısından tehdit oluşturuyor” dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0b61ed4c-bfeb-4229-8e36-cb063e8b3bb0.png",
+    "keyword": null
+  },
+  {
     "id": "GND_cd93c43b",
     "title": "Eski MHP’li o davaya girseydi...",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "ABD Başkanı Donald Trump, bütçe anlaşmazlığı ve havalimanlarındaki aksaklıkların ardından Ulaştırma Güvenliği İdaresi (TSA) personeline ödeme yapılmasını sağlamak için talimat vereceğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_cc2d5fdd",
-    "title": "İsrail ordusu Gazze'yi ikiye ayıran \"Sarı Hat\" boyunca 7 yeni karakol ve 17 kilometrelik toprak bariyer inşa etti",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 03:04",
-    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusu-gazzeyi-ikiye-ayiran-sari-hat-boyunca-7-yeni-karakol-ve-17-kilometrelik-toprak-bariyer-insa-etti/3881038",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Gazze Şeridi'nde ateşkes anlaşmasıyla gerisine çekildiği \"Sarı Hat\" bölgesinde 7 yeni karakol ile 17 kilometrelik toprak bariyer inşa ettiği belirtildi.",
     "image": null,
     "keyword": null
   }
