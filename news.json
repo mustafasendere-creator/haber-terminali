@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b64e35c0",
+    "title": "Yatırım fonlarına yeni vergi düzenlemesi",
+    "source": "TRT Haber",
+    "time": "27/03/2026 08:04",
+    "link": "https://www.trthaber.com/haber/ekonomi/yatirim-fonlarina-yeni-vergi-duzenlemesi-939261.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yatırım fonu katılma paylarından elde edilen kazançlardaki stopaj yani tevkifat oranları yeniden düzenlendi. Özellikle hisse senedi yoğun fonlar ve serbest fonlar için getirilen yeni oranlar, yatırımcıların net kazancını doğrudan etkileyecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_039005cd",
     "title": "Fatih Ergin: Yoksa acele açılıma da mı şeytan karışır?",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "NTV Spor (@ntvspor) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "GND_0abbc4c3",
-    "title": "Bugün hava nasıl olacak?",
-    "source": "Habertürk",
-    "time": "27/03/2026 06:24",
-    "link": "https://www.haberturk.com/bugun-hava-nasil-olacak-27-mart-cuma-meteoroloji-ile-istanbul-izmir-ankara-hava-durumu-tahminleri-3872619",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mart ayının son günlerine girilirken yurt genelinde sıcaklıklar artmaya başladı. Mart ayında yağışlı hava etkili oldu. Yağışların önümüzdeki günlerde devam edip etmeyeceği merak konusu oldu. Hava sıcaklığının kuzey ve iç kesimlerde 4 ila 6 derce artacağı, diğer yerlerde önemli bir değişiklik olmayacağı tahmin ediliyor. Peki, \"Bugün hava nasıl olacak?\" İşte 27 Mart Cuma İstanbul, İzmir, Ankara hava durumu tahminleri",
-    "image": "https://im.haberturk.com/l/2026/03/26/ver1774547635/3872619/jpg/1280x1280",
-    "keyword": null
   }
 ]
