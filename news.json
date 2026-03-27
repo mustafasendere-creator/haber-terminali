@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d9eb89b",
+    "title": "Savaşın öğrettikleri",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 04:04",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/sertac-es/savasin-ogrettikleri-2489914",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yaklaşık bir aydır ABD-İsrail ikilisi İran’a saldırıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar415_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_86a89c8e",
     "title": "Bakan Bolat, DTÖ 14. Bakanlar Konferansı kapsamında ikili görüşmeler yaptı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Trump, İran’a karşı savaşında ABD’ye destek vermedikleri gerekçesiyle NATO ülkelerine tepki gösterdi. Trump, \"ABD’nin NATO’dan hiçbir şeye ihtiyacı yok, ancak bu çok önemli anı asla unutmayın\" dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/338180.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_797944cb",
-    "title": "EMEP'ten Dilovası Katliamı davasındaki yasaklamalara tepki: Duruşmalar fiilen kapalı hale getirildi",
-    "source": "Evrensel",
-    "time": "27/03/2026 02:24",
-    "link": "https://www.evrensel.net/haber/5976855/emep-ten-dilovasi-katliami-davasindaki-yasaklamalara-tepki-durusmalar-fiilen-kapali-hale-getirildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dilovası Katliamı davasıyla ilgili Bakan Işıkhan ve Gürlek'e iki ayrı soru önergesi veren EMEP Milletvekili İskender Bayhan, yasaklar ve engellemelerle duruşmaların artık fiilen kapalı hale getirildiğini vurguladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340080.jpg",
     "keyword": null
   }
 ]
