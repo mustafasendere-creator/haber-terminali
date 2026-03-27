@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_09d42a09",
+    "title": "Kandilli ve AFAD son depremler listesi",
+    "source": "Habertürk",
+    "time": "27/03/2026 16:06",
+    "link": "https://www.haberturk.com/son-depremler-listesi-26-mart-2026-kandilli-rasathanesi-ve-afad-son-dakika-verileri-ile-az-once-deprem-mi-oldu-nerede-kac-buyuklugunde-3872401",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ülkemizde meydana gelen küçük büyük tüm depremler Kandilli Rasathanesi ve AFAD tarafından listeleniyor. Bu listelerde depremlerin konumu, büyüklüğü ve derinliği gibi detaylar yer alıyor. Bulundukları bölgede en ufak bir sarsıntı hisseden vatandaşlar, deprem olup olmadığını öğrenmek için son depremler listesine göz atıyor. AFAD verilerine göre, Elazığ'da 4,3 büyüklüğünde deprem meydana geldi. Sarsıntı yerin 11,33 kilometre altında yaşandı. İşte 26 Mart 2026 Kandilli Rasathanesi ve AFAD son depremler listesi görüntüleme ekranı.",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774555510/3872401/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_57af4e85",
     "title": "TSK'dan ihraç edilen 2 teğmenin açtığı iptal davası reddedildi",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "TTSO Meclisi’nin mart toplantısında konuşan Başkan Erkut Çelebi, savaşın turizmi kısmen etkilediğini ancak yaz sezonunda Trabzon’un yeniden yükselişe geçeceğini söyledi. İran ile ticari ve lojistik iş birliklerinin de gündemde olduğunu belirtti.",
     "image": "https://resim.haber61.net/news/609561.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a09495ac",
-    "title": "Eutanazi öncesi verdiği röportaj, Noelia Castillo hakkında asılsız iddiaları tetikledi",
-    "source": "Euronews",
-    "time": "27/03/2026 15:45",
-    "link": "http://tr.euronews.com/2026/03/27/eutanazi-oncesi-verdigi-roportaj-noelia-castillo-hakkinda-asilsiz-iddialari-tetikledi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ötanazi uygulanmadan önceki televizyon yayını, sosyal medyada sağlık durumu, karar verme yetisi ve talebinin nedenleri hakkında yanlış yorumlar ve asılsız iddialar içeren bir mesaj seli doğurdu.",
-    "image": null,
-    "keyword": null
   }
 ]
