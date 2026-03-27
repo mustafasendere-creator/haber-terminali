@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2da6a1dc",
+    "title": "Tekirdağ'da fabrikada yangın",
+    "source": "TRT Haber",
+    "time": "27/03/2026 03:44",
+    "link": "https://www.trthaber.com/haber/turkiye/tekirdagda-fabrikada-yangin-939233.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tekirdağ'ın Çerkezköy ilçesinde bir fabrikanın bacasında çıkan yangın itfaiye ekiplerince söndürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_eeef1635",
     "title": "Kuveyt ordusu: Hava savunma sistemleri füze ve İHA saldırılarına müdahale ediyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İsrail’in İran’a saldırıları sebebiyle Hürmüz Boğazı'ndan geçişlerin kısıtlanması küresel yakıt krizini derinleştirdi. Asya ve Avrupa’da yakıt kıtlığı riski arttı; birçok ülke acil önlemlere, stok kullanımına ve enerji tasarrufuna yöneldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340355.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bd36d123",
-    "title": "Statta Kürtçe şarkı çalındı, futbol kulübüne ceza verildi",
-    "source": "Evrensel",
-    "time": "27/03/2026 02:04",
-    "link": "https://www.evrensel.net/haber/5976929/statta-kurtce-sarki-calindi-futbol-kulubune-ceza-verildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa 1965 Nurlupınar Gençlergücü Spor ile Manisaspor arasında oynanan maçta Nurlupınar Gençlergücü Spor’un statta Kürtçe şarkısı açtığı gerekçesiyle AFDK, tarafından kulübe puan silme ve 5 maç seyircisiz oynama cezası verildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340424.jpg",
     "keyword": null
   }
 ]
