@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f9013bd9",
+    "title": "İsveçli savcılar, Sudan’daki savaş suçu iddiaları nedeniyle petrol şirketi yöneticileri için hapis cezası talep etti",
+    "source": "Euronews",
+    "time": "27/03/2026 23:44",
+    "link": "http://tr.euronews.com/my-europe/2026/03/27/isvecli-savcilar-sudandaki-savas-sucu-iddialari-nedeniyle-petrol-sirketi-yoneticileri-icin",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Savcılar, Lundin Oil'in Sudan hükümetiyle güvenlikten orduyu sorumlu tutan anlaşmalar yapmış olması nedeniyle sanıkların suça iştirak ettiklerini belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1daaad32",
     "title": "İran'da nükleer tesisler vuruldu: Ağır su kompleksi ve 'sarı kek' hedefte",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MHP Genel Başkan Yardımcısı ve MYK Üyesi İzzet Ulvi Yönter, görevinden istifa ettiğini duyurdu. Yönter, “Gördüğüm lüzum üzerine görevimden istifa ediyorum” açıklamasını yaptı. Yönter’in istifası, kısa süre önce sosyal medyada yaptığı ve “MHP’ye sızan ajan” ifadelerini kullandığı paylaşımın ardından geldi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/769a039d-7d4e-4c75-8b78-4809f8a8e3e5.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_991e8c5c",
-    "title": "Novak Djokovic, Monte Carlo Masters'tan çekildi",
-    "source": "Cumhuriyet",
-    "time": "27/03/2026 22:45",
-    "link": "https://www.cumhuriyet.com.tr/spor/novak-djokovic-monte-carlo-masters-tan-cekildi-2490173",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "38 yaşındaki efsane tenisçi Novak Djokovic, sakatlığı nedeniyle Miami'nin ardından Monte Carlo Masters'tan da çekildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/335e0d21-33d8-4fa4-b430-bfd0c4ea0e3b.jpg",
     "keyword": null
   }
 ]
