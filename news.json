@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_12493080",
+    "title": "Marmaris'te belediyeye rüşvet soruşturması: 3 kişi gözaltına alındı",
+    "source": "TRT Haber",
+    "time": "27/03/2026 03:44",
+    "link": "https://www.trthaber.com/haber/turkiye/marmariste-belediyeye-rusvet-sorusturmasi-3-kisi-gozaltina-alindi-939235.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Marmaris ilçesinde belediyeye yönelik rüşvet ve usulsüzlük iddiaları kapsamında yürütülen soruşturmada 3 kişi gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cbb7e171",
     "title": "Dilovası İşçi Katliamı davasında 3. gün: Elektrik arızaları biliniyordu, yangın göz göre göre geldi",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Prof.Dr.Ulvi Saran (@ulvisaran) / Posts / X  x.com",
     "image": null,
     "keyword": "polis intihar"
-  },
-  {
-    "id": "GND_6528a3a2",
-    "title": "İspanyol kadın, babasıyla uzun hukuk mücadelesinden sonra ötenaziyle öldü",
-    "source": "BBC Türkçe",
-    "time": "27/03/2026 02:04",
-    "link": "https://www.bbc.com/turkce/articles/cg73zj9l77zo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa İnsan Hakları Mahkemesi (AİHM), bu hafta başında Noelia Castillo lehine karar vermişti.",
-    "image": null,
-    "keyword": null
   }
 ]
