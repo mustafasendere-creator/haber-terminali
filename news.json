@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_711709ef",
+    "title": "DEV Emekli Sen: Sandıkları size dar edene kadar durmayacağız",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 15:05",
+    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/dev-emekli-sen-sandiklari-size-dar-edene-kadar-durmayacagiz-2490061",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Devrimci Emekliler Sendikası (Dev Emekli-Sen), Balçova’da artan hayat pahalılığı ve ekonomik eşitsizliğe dikkat çekerek basın açıklaması yaptı. Emekliler, iktidarın kaynakları savaş ve silaha harcadığını, kendilerine ise “kaynak yok” denildiğini vurguladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b96fc6ee-d24a-4a4d-9920-ba0aefacd8db.png",
+    "keyword": null
+  },
+  {
     "id": "GND_8b56b77c",
     "title": "Ardahan’da yollar yenilenecek, çalışmalar sıcak havada başlayacak",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa'daki bazı online haber siteleri ve sosyal medya paylaşımları, kavramları karıştırarak İngiltere'nin doğuma dek kürtaja izin vereceğini ileri sürüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4a50d81a",
-    "title": "Google, kuantum çağıyla şifreleme tehditlerinin yaklaştığı konusunda uyardı",
-    "source": "Euronews",
-    "time": "27/03/2026 14:44",
-    "link": "http://tr.euronews.com/next/2026/03/27/google-kuantum-cagiyla-sifreleme-tehditlerinin-yaklastigi-konusunda-uyardi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Google, 2029’a kadar kuantum sonrası kriptografiye geçmek için bir takvim belirlediğini, kuantum bilgisayarlar mevcut şifrelemeyi kırmadan önce harekete geçilmesi gerektiğini söylüyor.",
     "image": null,
     "keyword": null
   }
