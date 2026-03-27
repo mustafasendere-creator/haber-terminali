@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b621c0fb",
+    "title": "CHP'li Cumhur Uzun: Ehliyet yenileme vatandaştan tahsilat kapısına dönüştürüldü",
+    "source": "Evrensel",
+    "time": "27/03/2026 11:24",
+    "link": "https://www.evrensel.net/haber/5976948/chpli-cumhur-uzun-ehliyet-yenileme-vatandastan-tahsilat-kapisina-donusturuldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'li Cumhur Uzun ehliyet yenileme ile vatandaşın önüne 3 bin liraya yakın bir yükün çıkarıldığını belirterek; “Ehliyet yenileme, vatandaştan yeni bir tahsilat kapısına dönüştürüldü” dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/300740.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e2c6ab7f",
     "title": "Enerjide acele kamulaştırma kararı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da sahipsiz hayvanların korunması amacıyla yeni bir birlik kuruluyor. Cumhurbaşkanı Kararı Resmi Gazete’de yayımlandı.",
     "image": "https://resim.haber61.net/news/609511.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_dba757fe",
-    "title": "Alman basınında Onuachu iddiası! Bundesliga kulüpleri Trabzonspor’un golcüsünü izliyor",
-    "source": "Haber61",
-    "time": "27/03/2026 10:44",
-    "link": "https://www.haber61.net/trabzonspor/alman-basininda-onuachu-iddiasi-bundesliga-kulupleri-trabzonsporun-h627799.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Alman basınında yer alan habere göre Trabzonspor’un golcüsü Paul Onuachu, Bundesliga ekiplerinin radarına girdi. Nijeryalı santrforun son haftalardaki performansının, Almanya’dan bazı kulüpler tarafından yakından takip edildiği öne sürüldü.",
-    "image": "https://resim.haber61.net/news/609508.jpg",
     "keyword": null
   }
 ]
