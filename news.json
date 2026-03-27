@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1eddcd5e",
+    "title": "Dışişleri Sözcüsü Keçeli'den Karadeniz'de saldırıya uğrayan gemiye ilişkin açıklama: ‘İlgili taraflarla temaslarımızı sürdürmekteyiz’",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 03:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/disisleri-sozcusu-keceli-den-karadeniz-de-saldiriya-ugrayan-gemiye-iliskin-aciklama-ilgili-taraflarla-temaslarimizi-surdurmekteyiz-2489893",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Karadeniz'de seyrederken saldırıya uğrayan Türk işletmeli gemiye ilişkin olarak, \"Savaşın Karadeniz sathına yayılmasının ve daha da tırmanmasının önlenmesini teminen, ilgili taraflarla temaslarımızı sürdürmekteyiz\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/30e01ef1-5bab-4088-9055-81db0f1b9686.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_72ed4cb7",
     "title": "Marmaris Belediyesi'nde rüşvet soruşturması: 13 gözaltı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fransa, 2026 FIFA Dünya Kupası hazırlıkları kapsamında oynanan karşılaşmada Brezilya'yı 2-1 yendi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/brezilya-fransa-maci-canli-izle-xzo7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_43ee35e0",
-    "title": "İzmir Körfezi'nin kirliliği uluslararası konferansta tartışılıyor",
-    "source": "Evrensel",
-    "time": "27/03/2026 02:04",
-    "link": "https://www.evrensel.net/haber/5976854/izmir-korfezinin-kirliligi-uluslararasi-konferansta-tartisiliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzBB’nin düzenlediği 28 Mart'a kadar sürecek olan İzmir Körfezine ilişkin uluslararası konferans başladı. Açılış konuşmasında körfez kirliliğinin yerel bir kirlilik sorunu olmadığı vurgulandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340340.jpg",
     "keyword": null
   }
 ]
