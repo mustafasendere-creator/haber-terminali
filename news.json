@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f951a07a",
+    "title": "3 saat sonra kurtarıldı",
+    "source": "Habertürk",
+    "time": "27/03/2026 23:05",
+    "link": "https://www.haberturk.com/antalya-da-denize-acildigi-kano-devrildi-suda-3-saat-beklerken-polis-boyle-kurtardi-3872557",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'da kano ile denize açılan ve dengesini kaybederek suya düşen bir kişi, akıntıya kapılarak denizde yaklaşık 3 saat mahsur kaldı. Yüzerek hayatta kalmaya çalışan şahıs, deniz polisinin müdahalesiyle bota alınıp kurtarıldı",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774531853/3872557/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3a5bef5d",
     "title": "Rusya, 1 Nisan’dan itibaren benzin ihracatını yasaklayacak",
     "source": "Independent",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Sözcüsü İbrahim Rızai, Nükleer Silahların Yayılmasının Önlenmesi Antlaşmasının NPT İranı nükleer güçlerin saldırısına karşı korumadığını belirterek, bu anlaşmaya üyeliğin devam etmesinin anlamı olmadığını belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d060c066",
-    "title": "Cumhurbaşkanı Erdoğan WEF Başkanı Fink'i kabul etti",
-    "source": "TRT Haber",
-    "time": "27/03/2026 22:04",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-wef-baskani-finki-kabul-etti-939364.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Dünya Ekonomik Forumu WEF ve BlackRock Başkanı Laurence Douglas Fink'i kabul etti.",
     "image": null,
     "keyword": null
   }
