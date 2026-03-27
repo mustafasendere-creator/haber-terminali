@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ebb8001",
+    "title": "Kapanan şirket sayısı artıyor: Ardahan ve Bayburt’ta tek bir dükkan bile açılmadı",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 11:25",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/kapanan-sirket-sayisi-artiyor-ardahan-ve-bayburt-ta-tek-bir-dukkan-bile-acilmadi-2490004",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TOBB’nin şubat ayı verilerine göre kurulan şirket sayısı azaldı. Kapanan şirketlerde sınırlı artış görüldü. Yıllık bazda ise farklı bir tablo ortaya çıktı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d278fd85-9031-4496-a650-5d38cc1865ef.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c12a1cfa",
     "title": "Vedat Muriqi: Türkiye'nin zayıf yönlerini biliyoruz",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Trabzon’un Ortahisar ilçesinde dükkanların önündek, üzerlerinde Donald Trump ve Benjamin Netanyahu’nun fotoğraflarının yer aldığı paspaslar görenlerin dikkatini çekti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6b140872",
-    "title": "Country müzik uluslararası seyahat trendine nasıl dönüştü",
-    "source": "Euronews",
-    "time": "27/03/2026 10:44",
-    "link": "http://tr.euronews.com/gezi/2026/03/27/country-muzik-uluslararasi-seyahat-trendine-nasil-donustu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“Müzik Şehri” Nashville yakında yeni bir Dolly Parton oteline ev sahipliği yapacak; öte yandan country müzik temalı bir kruvaziyer gelecek yıl Avrupa’da sefer yapacak.",
     "image": null,
     "keyword": null
   }
