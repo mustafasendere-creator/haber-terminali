@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff23077f",
+    "title": "BAE: İran'dan füze ve İHA saldırılarına karşı hava savunma sistemleri devreye girdi",
+    "source": "TRT Haber",
+    "time": "27/03/2026 15:25",
+    "link": "https://www.trthaber.com/haber/dunya/bae-irandan-fuze-ve-iha-saldirilarina-karsi-hava-savunma-sistemleri-devreye-girdi-939330.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri BAE, İran'dan yapılan misillemelerin ardından devreye giren hava savunma sistemlerinin 6 balistik füze ile 9 insansız hava aracını İHA engellediğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_318c76fe",
     "title": "Kars'ta bitkin halde bulunan kulaklı orman baykuşu tedaviye alındı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/03/savas-sigorta-sektorunde-derin-yaralar-aciyor-3rsv_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_53158f1c",
-    "title": "Çin'den ABD'ye 'ticaret engeli' soruşturması",
-    "source": "Ekonomim",
-    "time": "27/03/2026 14:46",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/cinden-abdye-ticaret-engeli-sorusturmasi-haberi-884399",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin, ABD&#039;nin tarifeleri yeni bir yasal zemine dayandırmak üzere başlattığı soruşturmalara karşı, bunların haksız ticaret engeli oluşturduğu gerekçesiyle soruşturma başlattı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/27/cinden-abdye-ticaret-engeli-sorusturmasi-tofp_cover.jpg",
     "keyword": null
   }
 ]
