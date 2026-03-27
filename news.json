@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1242cda",
+    "title": "Eğlence mekanına silahlı saldırı! 2 ölü, 3 yaralı",
+    "source": "Habertürk",
+    "time": "27/03/2026 07:45",
+    "link": "https://www.haberturk.com/kocaeli-de-eglence-mekanina-silahli-saldiri-2-olu-3-yarali-3872682",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli'nin merkez İzmit ilçesinde bir eğlence mekanına düzenlenen silahlı saldırıda 2 kişi hayatını kaybetti, 1'i ağır 3 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774574273/3872682/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_5ae5b27d",
     "title": "Sağlık Bakanlığı personel alımı ne zaman?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABDİsrail saldırıları altındaki İran'da çeşitli kentler hedef alınırken, Kum kentinde 6 kişinin öldüğü bildirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_66df5078",
-    "title": "Cem Yılmaz ve Kenan Doğulu önceki gece Otizm Vakfına kaç lira bağış yaptı?",
-    "source": "10Haber",
-    "time": "27/03/2026 06:04",
-    "link": "https://10haber.net/yazarlar/ertugrul-ozkok/cem-yilmaz-ve-kenan-dogulu-onceki-gece-otizm-vakfina-kac-lira-bagis-yapti-690108/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Üç hafta boyunca Marakeş, Los Angeles ve Londra’da dolaşıp yurda döner dönmez önceki akşam çok önem verdiğim bir davete katıldım. “Tohum Türkiye Otizm Erken Tanı ve Eğitim Vakfının” galasıydı katıldığım davet. Daha davetin başında öyle bir rakam açıklandı ki, hayretler içinde kaldım. Bunu birazdan size anlatacağım. Ama size önce Peninsula Otelin balo salonunda yapılan galanın [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-26-at-20.33.32-e1774579898304.jpeg",
     "keyword": null
   }
 ]
