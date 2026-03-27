@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b6446865",
+    "title": "Bursa için sarı alarm: Kuvvetli yağış geliyor",
+    "source": "Haber Global",
+    "time": "27/03/2026 21:25",
+    "link": "https://haberglobal.com/gundem/bursa-icin-sari-alarm-kuvvetli-yagis-geliyor-515731",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa Valiliği yaptığı açıklamada, 28 Mart Cumartesi günü için vatandaşlara kuvvetli sağanak yağış uyarısında bulundu",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/bursa-icin-sari-alarm-kuvvetli-yagis-geliyor-2efo.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bb52ef84",
     "title": "ABD'de nükleer kapasiteli bombardıman uçaklarının bulunduğu üs üzerinde izinsiz uçan dronlar soruşturuluyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sakarya’da terör örgütü IŞİD'e yönelik düzenlenen operasyonda gözaltına alınan yabancı uyruklu 5 şüpheliden 1'i tutuklandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/27ba2f11-062f-48e1-ae22-3fa9207b44c6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c5de6adf",
-    "title": "MÜYORBİR, 45’liklerden bugüne müziğin yolculuğunu konuştu",
-    "source": "Cumhuriyet",
-    "time": "27/03/2026 20:45",
-    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/muyorbir-45-liklerden-bugune-muzigin-yolculugunu-konustu-2490156",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Müzik Yorumcuları Meslek Birliği (MÜYORBİR) tarafından dün düzenlenen “45’liklerden Dijital Platformlara: Türkiye’de Popüler Müziğin Kültürel ve Sektörel Dönüşümü” başlıklı panelde; Türkiye’de popüler müziğin 45’lik plaklardan dijital platformlara uzanan dönüşümü, sanatçılar ve müzik profesyonellerinin katılımıyla ele alındı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/86545a7b-b66f-4678-a5e3-2ea2adf560c0.jpeg",
     "keyword": null
   }
 ]
