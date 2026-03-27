@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa448596",
+    "title": "4 ilde yasa dışı bahis operasyonu: 28 şüpheli yakalandı!",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 09:06",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/4-ilde-yasa-disi-bahis-operasyonu-28-supheli-yakalandi-2489951",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul, Şanlıurfa, Antalya ve Ağrı'da düzenlenen yasa dışı bahis operasyonunda 28 zanlı gözaltına alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/cf14c790-67b3-4b47-96c3-cbbce8e87bab.png",
+    "keyword": null
+  },
+  {
     "id": "GND_9b916e89",
     "title": "Motorine bir indirim daha geldi! İşte son fiyatlar",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusu, ABD ile ortak saldırıları sürdürdükleri İran'da şu ana kadar 1000'den fazla silah üretimiyle ilgili tesisi vurduklarını öne sürdü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a6a0a371",
-    "title": "İran'dan sporculara 'düşman ülkelere' seyahat yasağı",
-    "source": "TRT Haber",
-    "time": "27/03/2026 08:24",
-    "link": "https://www.trthaber.com/haber/dunya/irandan-sporculara-dusman-ulkelere-seyahat-yasagi-939262.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Spor Bakanlığı, milli takımların ve tüm spor kulüplerinin \"düşman\" olarak kabul edilen üllere seyahat etmesini ikinci bir duyuruya kadar yasakladı.",
     "image": null,
     "keyword": null
   }
