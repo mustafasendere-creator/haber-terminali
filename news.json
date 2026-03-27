@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1b985e70",
+    "title": "İran Meclis Başkanı: Enerji fiyatlarını düşürmek için o kadar çok sahte haber yaydılar ki piyasa uyuştu",
+    "source": "TRT Haber",
+    "time": "28/03/2026 00:44",
+    "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-enerji-fiyatlarini-dusurmek-icin-o-kadar-cok-sahte-haber-yaydilar-ki-piyasa-uyustu-939381.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, \"enerji fiyatlarını düşürmek için sahte haberler yapıldığını bu nedenle piyasanın uyuştuğunu\" söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b46707c3",
     "title": "İran Atom Enerjisi Kurumu: Buşehr Nükleer Enerji Santrali sahasına füze isabet etti",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ankara Filistin Dayanışma Platformu (ANFİDAP) mensubu sivil toplum kuruluşları, Mescid-i Aksa'nın İsrail tarafından kapalı tutulmasını protesto etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_050e3687",
-    "title": "Emircan Haney dünyada yılın en iyi okçusu seçildi",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 23:44",
-    "link": "https://www.aa.com.tr/tr/guncel/emircan-haney-dunyada-yilin-en-iyi-okcusu-secildi/3882367",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2025 Dünya Okçuluk Ödülleri'nin adayları arasındaki Emircan Haney, yılın okçusu seçildi.",
     "image": null,
     "keyword": null
   }
