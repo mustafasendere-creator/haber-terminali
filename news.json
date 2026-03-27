@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f449f411",
+    "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 16:04",
+    "link": "https://www.aa.com.tr/tr/guncel/canli-cumhurbaskani-erdogan-konusuyor/3881752",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Dolmabahçe Ofisi'nde Dünya Ekonomik Forumu (WEF) Türkiye Ülke Stratejisi Toplantısı'nda konuşuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_0d0a3765",
     "title": "Trabzon Şehir Hastanesi'ne personel alımı ne zaman yapılacak? Açıklama geldi",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ordu'nun coğrafi işaretli ürünlerini ve zengin mutfak kültürünü markalaştırmak amacıyla \"Ordu Gastronomi Festivali\" yapılacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a27c0f90",
-    "title": "Fahiş fiyat denetimleri sürüyor: Bibere fahiş fiyat uygulayan markete 1,8 milyon lira ceza",
-    "source": "TRT Haber",
-    "time": "27/03/2026 15:25",
-    "link": "https://www.trthaber.com/haber/turkiye/fahis-fiyat-denetimleri-suruyor-bibere-fahis-fiyat-uygulayan-markete-18-milyon-lira-ceza-939329.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanlığı, bedelini düşük beyan ettiği biberi fahiş fiyattan satan bir markete 1 milyon 806 bin 170 lira ceza uygulanacağını duyurdu.",
     "image": null,
     "keyword": null
   }
