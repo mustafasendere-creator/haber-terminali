@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_841bace4",
+    "title": "Beşiktaş'tan 102 sayılık galibiyet",
+    "source": "Haber Global",
+    "time": "27/03/2026 20:45",
+    "link": "https://haberglobal.com/spor/besiktastan-102-sayilik-galibiyet-515727",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Basketbol Süper Ligi'nin 24. haftasında oynanan maçta Beşiktaş, deplasmanda Manisa Basket'i 102-70 mağlup etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/besiktastan-102-sayilik-galibiyet-0m86.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5a79c098",
     "title": "Taşacak Bu Deniz 22. Bölüm full İzle... TRT 1 Taşacak Bu Deniz yeni bölüm tek parça izle!",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da akşam saatlerinde zincirleme trafik kazası yaşandı.",
     "image": "https://resim.haber61.net/news/609588.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_b68b2d25",
-    "title": "Trabzonspor Başkanı Ertuğrul Doğan camiaya seslendi! \"Tek bir isteğim var..\"",
-    "source": "Haber61",
-    "time": "27/03/2026 18:24",
-    "link": "https://www.haber61.net/trabzon/trabzonspor-baskani-ertugrul-dogan-camiaya-seslendi-tek-bir-istegim-var-h627847.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "İstanbul’da düzenlenen Trabzon Günleri’nde konuşan Trabzonspor Başkanı Ertuğrul Doğan, takımın performansı, taraftar desteği ve kulübe verilen desteklere ilişkin açıklamalarda bulundu",
-    "image": "https://resim.haber61.net/news/609586.jpg",
     "keyword": "trabzon"
   }
 ]
