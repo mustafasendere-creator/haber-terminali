@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_36665db3",
+    "title": "İngiltere'de bazı akaryakıt istasyonlarında geçici tedarik kısıtı yaşandığı bildirildi",
+    "source": "TRT Haber",
+    "time": "28/03/2026 02:04",
+    "link": "https://www.trthaber.com/haber/dunya/ingilterede-bazi-akaryakit-istasyonlarinda-gecici-tedarik-kisiti-yasandigi-bildirildi-939388.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiltere'de akaryakıt fiyatlarında artış sürerken, petrolde küresel çapta yaşanan arz aksaklıkları ve artan talep nedeniyle bazı akaryakıt istasyonlarında \"geçici tedarik kısıtı\" yaşandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_07191b02",
     "title": "TBMM Dışişleri Komisyonu Başkanı Oktay: Türkiye olarak savaşın durması için elimizden geleni yapacağız",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Atom Enerjisi Kurumu: ABDİsrail saldırılarında, Buşehr Nükleer Enerji Santrali sahasına füze isabet etti",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b838e19f",
-    "title": "Geçmişin bilgisini bugünle buluşturacağız",
-    "source": "Evrensel",
-    "time": "28/03/2026 00:44",
-    "link": "https://www.evrensel.net/haber/5977011/gecmisin-bilgisini-bugunle-bulusturacagiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazete Duvar’ın kapanmasının ardından ArkeoDuvar, yayın hayatını bağımsız web sitesi üzerinden sürdürme kararı aldı. Yayın Yönetmeni Nuray Pehlivan, amaçlarının bugünü anlamaya yardımcı olan bir düşünme biçimi sunmak olduğunu söyledi.'",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340489.jpg",
     "keyword": null
   }
 ]
