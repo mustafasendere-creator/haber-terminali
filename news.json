@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_190fb800",
+    "title": "İran, ABD-İsrail saldırılarına ait görüntüleri yayımladı; savaş endişesi arttı",
+    "source": "Euronews",
+    "time": "27/03/2026 17:44",
+    "link": "http://tr.euronews.com/video/2026/03/27/iran-abd-israil-saldirilarina-ait-goruntuleri-yayimladi-savas-endisesi-artti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, Cuma günü, Tahran’da ve ülkenin kuzeybatı eyaletinde iki noktadaki hasarı gösteren yeni görüntüler yayımladı; gece boyunca süren ABD-İsrail saldırıları, ülke liderliği ile altyapısı üzerindeki baskıyı artırmıştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_4e9349de",
     "title": "Trabzon’un geleceği için düğmeye basıldı! \"Trabzon için gece gündüz çalışıyoruz\"",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_ea3a9b32",
-    "title": "Trabzon'da ısınmak isterken faciadan döndü: Benzin dökünce alevler yükseldi",
-    "source": "Haber61",
-    "time": "27/03/2026 17:04",
-    "link": "https://www.haber61.net/trabzon/isinmak-isterken-faciadan-dondu-benzin-dokunce-alevler-yukseldi-h627838.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Araklı ilçesinde ısınmak için ateşe benzin döken genç yaralandı. Hastaneye kaldırılan Yiğit Demir, tedavisinin ardından taburcu edildi.",
-    "image": "https://resim.haber61.net/news/609572.jpg",
     "keyword": null
   }
 ]
