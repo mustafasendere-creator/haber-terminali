@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_05c119d4",
+    "title": "Ceza çok tutunca motoru yaktı",
+    "source": "Habertürk",
+    "time": "27/03/2026 21:07",
+    "link": "https://www.haberturk.com/mugla-da-50-bin-liralik-motoruna-204-bin-tl-ceza-yiyen-adam-motorunu-yakti-3872583",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla’da park halindeki motosikletine 203 bin 965 TL ceza kesilen Mehmet Öztürk, duruma tepki göstererek aracını ateşe verdi. Ehliyeti ve vizesi olmadığı gerekçesiyle ceza yazıldığını belirten Öztürk, cezayı ödeyemeyeceğini söyleyerek \"Asgari ücretle çalışan biriyim, bu cezayı ödemem mümkün değil\" isyanında bulundu",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774536481/3872583/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_5dbb6c5e",
     "title": "Tehlikeli Miras filmi konusu",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Dışişleri Bakanı Marco Rubio'nun, mevkidaşlarına İran'a yönelik saldırıların 2 ila 4 hafta daha süreceğini söylediği ileri sürüldü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fec606d7",
-    "title": "Volkswagen'in Üst Yöneticisi Blume, Osnabrück fabrikasının askeri üretime geçeceğini teyit etti",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 20:44",
-    "link": "https://www.aa.com.tr/tr/guncel/volkswagenin-ust-yoneticisi-blume-osnabruck-fabrikasinin-askeri-uretime-gececegini-teyit-etti/3882213",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alman otomotiv üreticisi Volkswagen'in Üst Yöneticisi (CEO) Oliver Blume, şirketin Osnabrück'teki fabrikasını, İsrail'in \"Demir Kubbe\" hava savunma sistemi için parça üretmek üzere dönüştürme çalışmaları yürüttüklerini teyit etti.",
     "image": null,
     "keyword": null
   }
