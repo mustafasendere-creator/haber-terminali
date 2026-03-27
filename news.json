@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9a5efa11",
+    "title": "Trump: Orta Doğu, İran'ın terör saldırılarından özgürleşmeye çok yakın",
+    "source": "TRT Haber",
+    "time": "28/03/2026 01:04",
+    "link": "https://www.trthaber.com/haber/dunya/trump-orta-dogu-iranin-teror-saldirilarindan-ozgurlesmeye-cok-yakin-939387.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trump: Orta Doğu, İranın terör saldırıları ve nükleer şantajından özgürleşmeye her zamankinden daha yakın",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3014cb9b",
     "title": "İtirafçılar konuştukça İBB davası dökülüyor",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "BBVA Research, Türkiye için 2026 sonu enflasyon tahminini %25 olarak sürdürdü. Ancak kurum yukarı yönlü risklerin de arttığını ifade etti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/27/bbva-turkiye-icin-enflasyon-tahminini-acikladi-yukari-yonlu-riskler-artti-2atx_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8851420f",
-    "title": "Borsa haftayı düşüşle tamamladı",
-    "source": "Ekonomim",
-    "time": "27/03/2026 23:45",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/borsa-haftanin-son-islem-gunune-yukselisle-basladi-haberi-884332",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, güne yüzde 0,60 artışla 12.802,98 puandan başlarken, gün kalanında düşüş eğiliminde hareket ederek haftayı kayıpla tamamladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/27/borsa-haftanin-son-islem-gunune-yukselisle-basladi-ubun_cover.jpg",
     "keyword": null
   }
 ]
