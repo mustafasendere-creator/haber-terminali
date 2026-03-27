@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4761d8b3",
+    "title": "İngiltere'de bazı akaryakıt istasyonlarında \"geçici tedarik kısıtı\" yaşandığı bildirildi",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 01:24",
+    "link": "https://www.aa.com.tr/tr/guncel/ingilterede-bazi-akaryakit-istasyonlarinda-gecici-tedarik-kisiti-yasandigi-bildirildi/3882458",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiltere'de akaryakıt fiyatlarında artış sürerken, petrolde küresel çapta yaşanan arz aksaklıkları ve artan talep nedeniyle bazı akaryakıt istasyonlarında \"geçici tedarik kısıtı\" yaşandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2d072d23",
     "title": "Trump'tan Başkan Erdoğan'a tarihi övgü: Harika bir lider Türkiye şahane",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "İsviçre'nin kamu yayın kuruluşu SRF, hükümetin teslimat gecikmesi nedeniyle Patriot hava savunma sistemi ödemelerini durdurmasına rağmen ABD'nin, F-35 savaş uçağı için yapılan ödemeleri kullanarak İsviçre'nin kararını etkisiz hale getirdiğini yazdı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_f10cd5da",
-    "title": "Doğu Akdeniz: Yüksek Gerilimde Enerji Oyunu",
-    "source": "10Haber",
-    "time": "28/03/2026 00:24",
-    "link": "https://10haber.net/yazarlar/mehmet-ogutcu/dogu-akdeniz-yuksek-gerilimde-enerji-oyunu-690401/",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Doğu Akdeniz artık bir enerji hikâyesi değil. Bir güç hikâyesi. Sondaj gemileri, lisans blokları, milyar dolarlık rezerv tahminleri… Bunlar buzdağının yalnızca görünen kısmı. Asıl mücadele, kimin konuşacağı, kimin karar vereceği ve en önemlisi kimin rotayı çizeceği üzerine kurulu. Ve bu oyunun merkezinde yine aynı ada duruyor: Kıbrıs. Magosa’dan Bakınca Görülen Gerçek Doğu Akdeniz’i anlamak için [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/dogu.jpg",
-    "keyword": "agos"
   }
 ]
