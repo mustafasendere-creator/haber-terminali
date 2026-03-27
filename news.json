@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bd256c69",
+    "title": "Husiler: İrana karşı savaşa katılan ittifaklara doğrudan müdahale ederiz",
+    "source": "TRT Haber",
+    "time": "28/03/2026 01:04",
+    "link": "https://www.trthaber.com/haber/dunya/husiler-irana-karsi-savasa-katilan-ittifaklara-dogrudan-mudahale-ederiz-939386.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yemen'deki İran destekli Husiler, herhangi bir ittifakın ABD veya İsrail ile birlikte İran'a karşı savaşa katılması ya da Kızıldeniz'in bu amaçla kullanılması halinde doğrudan askeri müdahalede bulunacaklarını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9a5efa11",
     "title": "Trump: Orta Doğu, İran'ın terör saldırılarından özgürleşmeye çok yakın",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak’ın 1 Nisan’dan itibaren benzin ihracatının yasaklanması talimatı verdiği bildirildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/27/rusyadan-benzin-karari-yasaklandi-0hvl.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c0f3d94d",
-    "title": "BBVA, Türkiye için enflasyon tahminini açıkladı: Yukarı yönlü riskler arttı",
-    "source": "Ekonomim",
-    "time": "27/03/2026 23:45",
-    "link": "https://www.ekonomim.com/ekonomi/bbva-turkiye-icin-enflasyon-tahminini-acikladi-yukari-yonlu-riskler-artti-haberi-884439",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BBVA Research, Türkiye için 2026 sonu enflasyon tahminini %25 olarak sürdürdü. Ancak kurum yukarı yönlü risklerin de arttığını ifade etti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/27/bbva-turkiye-icin-enflasyon-tahminini-acikladi-yukari-yonlu-riskler-artti-2atx_cover.jpg",
     "keyword": null
   }
 ]
