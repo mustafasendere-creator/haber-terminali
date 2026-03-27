@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_16a98b70",
+    "title": "UAEA: Saldırıya uğrayan İran'daki sarı kek üretim tesisinde radyasyon seviyesinde artış bildirilmedi",
+    "source": "TRT Haber",
+    "time": "28/03/2026 00:25",
+    "link": "https://www.trthaber.com/haber/dunya/uaea-saldiriya-ugrayan-irandaki-sari-kek-uretim-tesisinde-radyasyon-seviyesinde-artis-bildirilmedi-939382.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Atom Enerjisi Ajansı UAEA, İran'ın Yezd eyaletine bağlı Ardakan ilçesinde bulunan sarı kek üretim tesisinin bugün saldırıya uğradığını ve tesis dışındaki radyasyon seviyesinde artış bildirilmediğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3e53f1c1",
     "title": "Trump: İran'la görüşmeler sürüyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, Fox News kanalındaki The Five programına telefonla bağlanarak İran savaşını değerlendirmek üzere telefonu eline aldı. Ancak Trump&#8217;a zor bir soru sorulunca işi tatlıya bağlamak için ilginç bir taktik denedi. Fox News sunucusuyla yaşadığı &#8216;güzel anıları&#8217; anlatmaya başladı. Fox News sunucusu cevap ne diyeceğini bilemeyince ABD Başkanı konuşmasını sürdürdü, zor sorudan da [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c6563b5d8fe8.96332230.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_353d5c2a",
-    "title": "Fenerbahçe Beko, Zalgiris'e 92-82 yenildi",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 23:24",
-    "link": "https://www.aa.com.tr/tr/guncel/fenerbahce-beko-zalgirise-92-82-yenildi/3882343",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 34. haftasında lider Fenerbahçe Beko, konuk ettiği Litvanya'nın Zalgiris takımına 92-82 yenildi.",
-    "image": null,
     "keyword": null
   }
 ]
