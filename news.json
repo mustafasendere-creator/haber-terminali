@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bf29f154",
+    "title": "Haber Global Litani Nehri'nde",
+    "source": "Haber Global",
+    "time": "27/03/2026 11:25",
+    "link": "https://haberglobal.com/dunya/haber-global-litani-nehrinde-515614",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Lübnan’ın güneyinde yer alan Dellafe Köprüsü’nü ikinci kez hedef alarak tamamen kullanılamaz hale getirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/haber-global-litani-nehrinde-2m6v.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5a847804",
     "title": "Japonya, Orta Doğu'daki gerilim nedeniyle rezervlerindeki petrol stokunu kullanıma açtı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Japonya’da resmen kiraz çiçeği mevsimi başladı. Meteoroloji Ajansı, Tokyo’daki Yasukuni Tapınağı’nda Somei Yoshino ağaçlarının ilk açtığını duyurdu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_1b45b4c8",
-    "title": "Netflix abonelik ücretleri yükseldi: Yeni fiyatlar ve detaylar açıklandı",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 10:44",
-    "link": "https://www.takagazete.com.tr/netflix-abonelik-ucretleri-yukseldi-yeni-fiyatlar-ve-detaylar-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Netflix, ABD’de abonelik fiyatlarına zam yaptı. Tüm paketlerde artış yaşanırken yeni tarifeler kademeli olarak kullanıcılara yansıtılacak.",
-    "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/12/netflix-intro-1.gif",
     "keyword": null
   }
 ]
