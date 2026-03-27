@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b8a9a584",
+    "title": "İzmit'te bara silahlı saldırı: İki kişi hayatını kaybetti, üç kişi yaralandı",
+    "source": "Evrensel",
+    "time": "27/03/2026 06:44",
+    "link": "https://www.evrensel.net/haber/5976930/izmitte-bara-silahli-saldiri-iki-kisi-hayatini-kaybetti-uc-kisi-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmit'te The Castle Irish Pub adlı bara giden saldırganlar, silahla ateş açıp kaçtı. Saldırı nedeniyle iki kişi hayatını kaybetti; 1'i ağır, üç kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340425.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8c2e49df",
     "title": "İran neden ABD ile müzakerede bulunmayı reddediyor?",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Emek Partisi Milletvekili Sevda Karaca, 472 gündür sendikal hakları için direnişte olan Temel Conta işçilerini ziyaret etti. Karaca, işçilerle dayanışma çağrısında bulundu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340330.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9906b6ac",
-    "title": "Bakan Bolat, Dünya Ticaret Örgütü 14. Bakanlar Konferansı kapsamında ikili görüşmelerde bulundu",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 03:44",
-    "link": "https://www.aa.com.tr/tr/guncel/bakan-bolat-dunya-ticaret-orgutu-14-bakanlar-konferansi-kapsaminda-ikili-gorusmelerde-bulundu/3881078",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanı Ömer Bolat, Dünya Ticaret Örgütü (DTÖ) 14. Bakanlar Konferansı kapsamında ikili görüşmeler gerçekleştirdi.",
-    "image": null,
     "keyword": null
   }
 ]
