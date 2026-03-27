@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3b27035",
+    "title": "MSB'den siren açıklaması: Olumsuz bir durum yok",
+    "source": "OdaTV",
+    "time": "28/03/2026 00:45",
+    "link": "https://www.odatv.com/guncel/msbden-siren-aciklamasi-olumsuz-bir-durum-yok-120141021",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanlığı (MSB), sosyal medyada yer alan İncirlik&#039;te sirenlerin çaldığı yönündeki iddialara ilişkin açıklama yaptı. Bakanlık, herhangi bir saldırı ya da olumsuz durumun bulunmadığını belirtti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/27/msbden-siren-aciklamasi-olumsuz-bir-durum-yok-jprq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3c6b9c3b",
     "title": "Bir cezaevi aracı daha devrildi",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran'ın Birleşmiş Milletler BM Cenevre Ofisi nezdindeki Daimi Temsilcisi Büyükelçi Ali Bahreini, İran lideri Mücteba Hamaney'in güvenlik endişelerinden dolayı ortaya çıkmadığını söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4e35fcd4",
-    "title": "STRATCOM Zirvesi 2026'da 'İklim Diplomasisinde Yeni Öncelikler' paneli yapıldı",
-    "source": "TRT Haber",
-    "time": "27/03/2026 23:44",
-    "link": "https://www.trthaber.com/haber/gundem/stratcom-zirvesi-2026da-iklim-diplomasisinde-yeni-oncelikler-paneli-yapildi-939379.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"Uluslararası Stratejik İletişim Zirvesi 2026\" kapsamında \"İklim Diplomasisinde Yeni Öncelikler\" paneli düzenlendi.",
     "image": null,
     "keyword": null
   }
