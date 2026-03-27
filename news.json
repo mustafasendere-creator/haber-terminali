@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4194d595",
+    "title": "Muş'ta besicilerin kış mesaisi sürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 15:04",
+    "link": "https://www.aa.com.tr/tr/guncel/musta-besicilerin-kis-mesaisi-suruyor/3881643",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kış mevsiminin çetin geçtiği Muş'ta besiciler, zor koşullarda hayvanlarının bakımını yapıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8f1a9669",
     "title": "İran, Hürmüz Boğazı'nın ABD-İsrail ve destekçileriyle bağlantılı gemilere kapalı olduğunu yineledi",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzon, 28-29 Mart tarihlerinde Spor Toto Gençler Türkiye Judo Şampiyonası’na ev sahipliği yapacak. Beşirli Çok Amaçlı Spor Salonu’nda düzenlenecek organizasyona 50 ilden 787 sporcu katılacak.",
     "image": "https://resim.haber61.net/news/609540.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_4ed7e60a",
-    "title": "Ordu'da gastronomi festivali düzenlenecek",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 14:04",
-    "link": "https://www.takagazete.com.tr/orduda-gastronomi-festivali-duzenlenecek",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu'nun coğrafi işaretli ürünlerini ve zengin mutfak kültürünü markalaştırmak amacıyla 'Ordu Gastronomi Festivali' yapılacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/orduda-gastronomi-festivali-duzenlenecek.jpg",
-    "keyword": null
   }
 ]
