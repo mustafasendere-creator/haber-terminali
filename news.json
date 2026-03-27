@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a961acd",
+    "title": "Portekiz hükümeti akaryakıtta yeni indirimler, konutta vergi teşvikleri açıkladı",
+    "source": "Euronews",
+    "time": "27/03/2026 23:04",
+    "link": "http://tr.euronews.com/my-europe/2026/03/27/portekiz-hukumeti-akaryakitta-yeni-indirimler-konutta-vergi-tesvikleri-acikladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Portekiz başbakanı, Orta Doğu’daki savaş gerekçesiyle akaryakıt için olağanüstü destekler ve konutta yeni önlemler açıkladı; KDV indirimi gündemde değil.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4ed10d5d",
     "title": "Yeni X-Files kadrosu açıklandı: Mulder ve Scully'nin yerini kimler aldı",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Basketbol Başantrenörü Selçuk Ernak, Bahçeşehir Koleji mağlubiyetinin ardından yaptığı açıklamada, oyuncuların faul problemine girmesinin oyun planını bozduğunu belirtti.",
     "image": "https://resim.haber61.net/news/609613.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_f702673c",
-    "title": "Trabzon’da Derbi Ateşi! Papara Park’ta Tarihi Geceye Geri Sayım",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 21:44",
-    "link": "https://www.takagazete.com.tr/trabzonda-derbi-atesi-papara-parkta-tarihi-geceye-geri-sayim",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Milli maçlar nedeni ile lige verilen ara sonrası ligin 28.haftasında taraftarının önünde lider Galatasaray’ı konuk edecek olan Trabzonspor’da nefesler tutuldu. 4 Nisan Cumartesi günü oynanacak olan tarihi maça odaklanan Fırtına’da tüm hesaplar galibiyet üzerine yapıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/u-e-a-i-e-u-a-i-e-a.jpg",
-    "keyword": "trabzon"
   }
 ]
