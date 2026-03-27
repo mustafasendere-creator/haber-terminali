@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f093d5bb",
+    "title": "Savaş ekonomisine hazır mıyız?",
+    "source": "A Haber",
+    "time": "27/03/2026 07:24",
+    "link": "https://www.ahaber.com.tr/yazarlar/hilal-kaplan/2026/03/27/savas-ekonomisine-hazir-miyiz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'a ABD-İsrail saldırısı başladığından beri küresel ekonomi \"yumuşak iniş\" beklentisini sürdürse de alametler iki uca işaret ediyor: Ya enerji arzı genişleyecek ve sistem nefes alacak ya da...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "YRL_e9a80a96",
     "title": "Gümüşte Sert Düşüş Bitti mi? Analistlerden Korkutan Rekor Tahmini!",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "#PolisinMeslekKanunu ile intihar sorunu çözülsün istiyoruz.  x.com",
     "image": null,
     "keyword": "polis intihar"
-  },
-  {
-    "id": "GND_460c9737",
-    "title": "Anayasa Mahkemesi üyeliğine Şaban Kazdal seçildi",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 04:04",
-    "link": "https://www.aa.com.tr/tr/guncel/anayasa-mahkemesi-uyeligine-saban-kazdal-secildi/3881089",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anayasa Mahkemesi (AYM) üyeliğine Şaban Kazdal'ın seçilmesine ilişkin karar Resmi Gazete'de yayımlandı.",
-    "image": null,
-    "keyword": null
   }
 ]
