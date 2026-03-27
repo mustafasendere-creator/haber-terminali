@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a23390e",
+    "title": "Bahçelievler’de metrobüs bir kadını ezdi; kadın ağır yaralandı",
+    "source": "Evrensel",
+    "time": "27/03/2026 22:44",
+    "link": "https://www.evrensel.net/haber/5977055/bahcelievlerde-metrobus-bir-kadini-ezdi-kadin-agir-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bahçelievler’de metrobüse binmeye çalışırken dengesini kaybederek yola düşen S.K.K, metrobüsün altında kalarak ağır yaralandı. Kaza nedeniyle metrobüs hattında kısa süreli yoğunluk yaşandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340533.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_f9a22810",
     "title": "Recep Uçar: \"Trabzonspor maçı skorunun hakkı değildi\"",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Muğla'da üniversite öğrencisi İsmail Caymaz'ın yurt penceresinden atlayarak yaşamını yitirdiği olayda AFAD'ın kurduğu hava yastığının yetersiz olduğu iddiaları üzerine soruşturma başlatıldı. Soruşturma kapsamında güvenlik kameraları incelenecek.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340526.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_40cd53ec",
-    "title": "Ankara Üniversitesi'nde BirGün’e engel: ÖGB, öğrencilerin gazeteyi sokmalarına izin vermedi",
-    "source": "Evrensel",
-    "time": "27/03/2026 21:24",
-    "link": "https://www.evrensel.net/haber/5977049/ankara-universitesinde-birgune-engel-ogb-ogrencilerin-gazeteyi-sokmalarina-izin-vermedi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara Üniversitesi’nde ÖGB, öğrencilerin BirGün gazetesini kampüse sokmalarına müsaade etmedi. Öğrenciler, “BirGün’ü okumaya devam edeceğiz” diyerek tepki gösterdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339785.jpg",
     "keyword": null
   }
 ]
