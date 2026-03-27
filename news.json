@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6272afde",
+    "title": "Rusya'dan benzin kararı: Yasaklandı",
+    "source": "OdaTV",
+    "time": "27/03/2026 23:45",
+    "link": "https://www.odatv.com/guncel/rusyadan-benzin-karari-yasaklandi-120141059",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak’ın 1 Nisan’dan itibaren benzin ihracatının yasaklanması talimatı verdiği bildirildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/27/rusyadan-benzin-karari-yasaklandi-0hvl.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c0f3d94d",
     "title": "BBVA, Türkiye için enflasyon tahminini açıkladı: Yukarı yönlü riskler arttı",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Portekiz başbakanı, Orta Doğu’daki savaş gerekçesiyle akaryakıt için olağanüstü destekler ve konutta yeni önlemler açıkladı; KDV indirimi gündemde değil.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4ed10d5d",
-    "title": "Yeni X-Files kadrosu açıklandı: Mulder ve Scully'nin yerini kimler aldı",
-    "source": "Euronews",
-    "time": "27/03/2026 23:04",
-    "link": "http://tr.euronews.com/kultur/2026/03/27/yeni-x-files-kadrosu-aciklandi-mulder-ve-scullynin-yerini-kimler-aldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "'Sinners'ın yönetmeni Ryan Coogler'ın merakla beklenen doğaüstü hit diziyi yeniden başlatma projesi resmen onaylandı ve şimdi başrollerde yer alacak iki yıldız açıklandı...",
     "image": null,
     "keyword": null
   }
