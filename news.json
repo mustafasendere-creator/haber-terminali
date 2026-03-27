@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0916b08e",
+    "title": "Feci kaza! 6'sı çocuk, 9 yaralı",
+    "source": "Habertürk",
+    "time": "27/03/2026 21:25",
+    "link": "https://www.haberturk.com/bolu-da-hafriyat-kamyonunun-carptigi-otomobildeki-6-si-cocuk-9-kisi-yaralandi-3872578",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu’da hafriyat kamyonunun çarptığı otomobil devrildi. Kazada 6’sı çocuk 9 kişi yaralandı. D-100 kara yolunda meydana gelen kazada yaralılar hastaneye kaldırıldı. Olayla ilgili soruşturma başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774535749/3872578/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_6b7fb413",
     "title": "Bugün ne oldu? 26 Mart 2026'nın haberleri",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ünlülere yönelik ‘uyuşturucu’ soruşturması kapsamında ifadesi alınan oyuncu Hande Erçel, Adli Tıp Kurumu&#039;nda saç ve kan örneği verdi. Hande Erçel&#039;in daha sonra serbest bırakıldığı öğrenildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/27/sac-ve-kan-testi-veren-hande-ercel-hakkinda-karar-bd7u_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9db23ae0",
-    "title": "FBI Direktörü Patel'in e-postası, İran bağlantılı grup tarafından hacklendi",
-    "source": "Ekonomim",
-    "time": "27/03/2026 20:46",
-    "link": "https://www.ekonomim.com/dunya/fbi-direktoru-patelin-e-postasi-iran-baglantili-grup-tarafindan-hacklendi-haberi-884449",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Federal Soruşturma Bürosu (FBI) Direktörü Kash Patel&#039;in direktör olmadan önce kullandığı kişisel e-posta hesabının, İran bağlantılı bir grup tarafından hacklendiği bildirildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/27/fbi-direktoru-patelin-e-postasi-iran-baglantili-grup-tarafindan-hacklendi-zshg_cover.jpg",
     "keyword": null
   }
 ]
