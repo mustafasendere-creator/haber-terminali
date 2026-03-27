@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e555ab81",
+    "title": "İstanbul'da sular ne zaman gelecek?",
+    "source": "Habertürk",
+    "time": "27/03/2026 08:25",
+    "link": "https://www.haberturk.com/istanbul-su-kesintisi-sorgulama-ekrani-27-mart-2026-cuma-istanbul-da-sular-ne-zaman-gelecek-3872618",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İSKİ İstanbul'da su kesintisi olan ilçeler ve mahallelere ilişkin açıklamalarda bulundu. İstanbul'da su tedarik hizmeti veren İstanbul Su ve Kanalizasyon İdaresi (İSKİ) 27 Mart 2026 Cuma günü İstanbul Anadolu ve Avrupa Yakası'nda su kesintisi meydana gelecek ilçeler ve mahalleleri sorgulama ekranı sunuyor. İşte İSKİ tarafından yayınlanan güncel duyurular ile sorgulama sayfası...",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774546932/3872618/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_13830ab5",
     "title": "Marmaris Belediyesi'ne rüşvet soruşturması: 3 gözaltı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Enerji ve Tabii Kaynaklar Bakanlığı, nisan ayı itibarıyla elektrikte olduğu gibi doğalgazda da kademe uygulamasına geçmeyi hedefliyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/dogalgaz-faturalarinda-tarife-degisiyor-1-nisanda-baslayacak-her-ilde-farkli-olacak-3dim.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_731703c9",
-    "title": "Doğum izni ve sosyal medya düzenlemesi Komisyon'a geliyor",
-    "source": "TRT Haber",
-    "time": "27/03/2026 07:44",
-    "link": "https://www.trthaber.com/haber/gundem/dogum-izni-ve-sosyal-medya-duzenlemesi-komisyona-geliyor-939253.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AK Parti'nin, Sosyal Hizmetler Kanununda düzenlemeler içeren teklifi, gelecek hafta Meclis'teki komisyonda görüşülecek. Teklifle doğum izni 24 haftaya, babalık izni 10 güne çıkarılacak. Ayrıca, 15 yaşını doldurmayanların sosyal medya kullanmaları da engellenecek.",
-    "image": null,
     "keyword": null
   }
 ]
