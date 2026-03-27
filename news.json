@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_1b8ed473",
+    "title": "AA Genel Müdür Yardımcısı Peru, \"1920 Koşusu\"nun anlam ve önemine vurgu yaptı",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 21:04",
+    "link": "https://www.aa.com.tr/tr/guncel/aa-genel-mudur-yardimcisi-peru-1920-kosusunun-anlam-ve-onemine-vurgu-yapti/3882186",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AA Genel Müdür Yardımcısı ve Anadolu Ajansı Spor Kulübü Başkan Yardımcısı Peru, yerli ve yabancı sporcuların katılımıyla 5 Nisan'da Ankara'da düzenlenecek 10 kilometrelik \"1920 Koşusu\"na büyük bir ilgi olduğunu söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
+    "id": "GND_39ae144f",
+    "title": "AB'nin resmi internet sitesine siber saldırı düzenlendi",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 21:04",
+    "link": "https://www.aa.com.tr/tr/guncel/abnin-resmi-internet-sitesine-siber-saldiri-duzenlendi/3882232",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa Birliği (AB) Komisyonu, AB'nin \"Europa.eu\" alan adlı resmi internet sitesine siber saldırı düzenlendiğini, ilk belirlemelere göre saldırı sonucunda bazı verilerin çalındığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ef0c0d01",
     "title": "ABD'de nükleer kapasiteli bombardıman uçaklarının bulunduğu üs üzerinde izinsiz uçan dronlar soruşturuluyor",
     "source": "Anadolu Ajansı",
@@ -933,30 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon, Ordu ve Giresun'da İsrail'in Gazze'ye yönelik saldırılarını sürdürmesi protesto edildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ekran-resmi-2026-03-27-185605.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_bb576ba5",
-    "title": "Araklı’da genç, ateşi harlamak isterken alevler arasında kalarak hastanelik oldu!",
-    "source": "61 Saat",
-    "time": "27/03/2026 19:24",
-    "link": "https://www.61saat.com/araklida-genc-atesi-harlamak-isterken-alevler-arasinda-kalarak-hastanelik-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'da ısınmak amacıyla yanan ateşe benzin döken genç, bir anda yükselen alevler sonucu yaralandı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/mansetler-1-265.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_8ac728e2",
-    "title": "Karadeniz’in geleceği Trabzon’da şekilleniyor: Mavi Ekonomi Zirvesi kapılarını açtı",
-    "source": "Haber61",
-    "time": "27/03/2026 19:24",
-    "link": "https://www.haber61.net/trabzon/karadenizin-gelecegi-trabzonda-sekilleniyor-mavi-ekonomi-zirvesi-h627851.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon, Karadeniz’in ekonomik ve stratejik potansiyelini masaya yatıran dev bir organizasyona ev sahipliği yapıyor; Mavi Ekonomi Zirvesi protokolün katılımıyla başladı.",
-    "image": "https://resim.haber61.net/news/609597.jpg",
     "keyword": "trabzon"
   }
 ]
