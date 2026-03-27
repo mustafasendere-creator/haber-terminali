@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fdb71214",
+    "title": "STRATCOM Zirvesi başladı",
+    "source": "TRT Haber",
+    "time": "27/03/2026 17:05",
+    "link": "https://www.trthaber.com/haber/gundem/stratcom-zirvesi-basladi-939340.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığı'nın ev sahipliğinde düzenlenen, dünyanın dört bir yanından politika yapıcıları, diplomatları, iletişim uzmanları, medya profesyonellerini bir araya getiren STRATCOM başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_f245b107",
     "title": "Arsin yangını sonrası MMO’dan kritik uyarı: \"Alevler yükselmeden önlem alınmalı!\"",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Beklenen düzeltme: Tapuda avukat zorunluluğu için sınır 30 bin değil, 30 milyon lira 27.03.2026 DikenAdalet Bakanlığı, 'tapu işlemlerinde avukat zorunluluğu sınırının 30 bin lira olduğu' bilgisini geçtikten bir süre sonra düzeltme yaptı ve sınırın 30 milyon lira olduğunu duyurdu.\nThe post Beklenen düzeltme: Tapuda avukat zorunluluğu için sınır 30 bin değil, 30 milyon lira appeared first on #site_linkat 27.03.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5e3f1e10",
-    "title": "Bilim insanları İzmir Körfez kirliliğini mercek altına aldı",
-    "source": "Evrensel",
-    "time": "27/03/2026 16:05",
-    "link": "https://www.evrensel.net/haber/5976991/bilim-insanlari-izmir-korfez-kirliligini-mercek-altina-aldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“Sağlıklı Körfez” konferansında bilim insanları, küresel deneyimlerin yanında yenilikçi çözüm önerilerini değerlendirdi. Gediz'den yayılan kirliliğin de konuşulduğu oturumlarda Körfezin hangi yöntemlerle temizlenmesi gerektiği mercek altına alındı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340471.jpg",
     "keyword": null
   }
 ]
