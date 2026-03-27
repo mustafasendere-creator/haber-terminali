@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a96d06d2",
+    "title": "AKP'li Cumhurbaşkanı Erdoğan, BlackRock Başkanı Laurence Fink ile görüştü",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 00:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/akp-li-cumhurbaskani-erdogan-blackrock-baskani-laurence-fink-ile-gorustu-2490188",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKP’li Cumhurbaşkanı Erdoğan, Dünya Ekonomik Forumu ve BlackRock Başkanı Laurence Douglas Fink ile bir araya geldi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/52025ae4-2eb1-4523-81b7-a07e8f4e98a3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b9f263c1",
     "title": "İSTANBUL 6.BÖLGE KAMU HASTANELERİ HİZMETLERİ BAŞKANLIĞI",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Donald Trump yönetimindeki Hazine, ABD dolarının tüm kupürlerine Trump'ın imzasını eklemeyi planlıyor. Bu, başkan imzası taşıyan ilk Amerikan banknotu olacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b1622f70",
-    "title": "MHP'de üst düzey istifa: İzzet Ulvi Yönter görevinden istifa etti",
-    "source": "Euronews",
-    "time": "27/03/2026 23:24",
-    "link": "http://tr.euronews.com/2026/03/27/mhpde-ust-duzey-istifa-izzet-ulvi-yonter-gorevinden-istifa-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Genel Başkan Yardımcısı İzzet Ulvi Yönter, sosyal medyadan paylaştığı tartışmalı mesajların ardından görevinden istifa ettiğini açıkladı.",
     "image": null,
     "keyword": null
   }
