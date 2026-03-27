@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bd155f00",
+    "title": "Fatih'te kadın cinayeti: Evli olduğu erkeğin şiddeti sonucu hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "27/03/2026 10:44",
+    "link": "https://www.evrensel.net/haber/5976941/fatih-te-kadin-cinayeti-evli-oldugu-erkegin-siddeti-sonucu-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Fatih'te Cezayirli Nasıra Saigi, evli olduğu erkek Veli Cıngılea tarafından darbedilmesi sonucu hayatını kaybetti. Cıngılea ile birlikte evde misafir olan 3 kişi de gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/333900.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_2936b1ca",
     "title": "Trabzon esnafı Trump ve Netanyahu'yu paspas yaptı!",
     "source": "Karadeniz Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Mersin'in Erdemli ilçesinde ihbar üzerine bir apartmandaki daireye giren ekipler, 7 kamyonet dolusu çöp çıkarttı, hasta yaşlı kadın ise hastaneye kaldırıldı. Ekiplerin gaz maskesi takarak girdikleri evdeki çöplerin çıkarılması iki gün sürdü.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/gaz-maskesiyle-girilen-evden-7-kamyonet-cop-cikti-xwit.jpg",
     "keyword": "taka"
-  },
-  {
-    "id": "YRL_0f9671d8",
-    "title": "Minik eller fidanları toprakla buluşturdu",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 09:44",
-    "link": "https://www.takagazete.com.tr/minik-eller-fidanlari-toprakla-bulusturdu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun'un Vezirköprü ilçesinde, 21 Mart Dünya Ormancılık Günü ve Orman Haftası dolayısıyla düzenlenen etkinlikte öğrenciler fidan dikerek doğaya katkı sağladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/minik-eller-fidanlari-toprakla-bulusturdu.jpg",
-    "keyword": null
   }
 ]
