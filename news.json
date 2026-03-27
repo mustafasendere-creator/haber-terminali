@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_936ac350",
+    "title": "CHP’li Deniz Yavuzyılmaz: Türkiye motorin alım gücünde geride",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 01:04",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-deniz-yavuzyilmaz-turkiye-motorin-alim-gucunde-geride-2490197",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Genel Başkan Yardımcısı Deniz Yavuzyılmaz, Türkiye ile Avrupa ülkeleri arasında asgari ücretle motorin satın alma gücünü kıyasladı. Yavuzyılmaz, ”Türkiye’nin Motorin (dizel/mazot) satın alma gücünün düşük olması demek; otomobil, otobüs, kamyon, tır, traktör kullananlar, çiftçi, şoför, esnaf ve yolcular enflasyonun altında eziliyor demektir” dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7aa9097d-2498-4b9e-a9c0-09f1edc83720.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c3972e48",
     "title": "Rubio’dan İran açıklaması: Operasyon haftalar içinde tamamlanacak",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/reklamlar/karadeniz-teknik-universitesi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_68a87d42",
-    "title": "CHP Trabzon İl Başkanı Bak’tan Mumcu’ya sert tepki: İcraat yok algı var!",
-    "source": "Haber61",
-    "time": "28/03/2026 00:04",
-    "link": "https://www.haber61.net/trabzon/chp-trabzon-il-baskani-baktan-mumcuya-sert-tepki-icraat-yok-algi-var-h627862.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Cumhuriyet Halk Partisi (CHP) Trabzon İl Başkanı Mustafa Bak, AK Parti Trabzon İl Başkanı Sezgin Mumcu’nun açıklamalarına sert tepki göstererek, \"İcraat yok, hesap yok ama bol bol suçlama var\" dedi.",
-    "image": "https://resim.haber61.net/news/609618.jpg",
     "keyword": null
   }
 ]
