@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_04536068",
+    "title": "Kamu Kesimi Borçları",
+    "source": "10Haber",
+    "time": "28/03/2026 01:04",
+    "link": "https://10haber.net/yazarlar/mahfi-egilmez/kamu-kesimi-borclari-690414/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kamu kesimi borç stoku; belirli bir tarihte kamu kesiminin (merkezi yönetim, yerel yönetimler, kamu kuruluşları) toplam borç anaparasının büyüklüğüdür. Borç stoku anapara üzerinden ölçülür, işlemiş fakat henüz ödenmemiş faizler genellikle stok hesabına dahil edilmez (Kamu Kesimi Toplam Borç Stoku = Merkezi Yönetim İç Borç Stoku + Kamu Kesimi Dış Borç Stoku.) Türkiye’de durum şöyledir: Kamu [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/hazine.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_fc1289f6",
     "title": "Bakan Kurum: Türkiye’nin sıfır atık ve iklim kriziyle mücadelede bugün attığı adımlar, yarının dünyasını şekillendirecek",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İBB'nin Cep Trafik uygulaması verilerine göre, İstanbul'da haftanın son iş günü akşam saatlerinde trafik yoğunluğu yüzde 76'ya kadar yükseldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/istanbulda-trafik-yogunlugu-yuzde-76ya-cikti-nq9g.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cf0e1a99",
-    "title": "Erzurum’da sahte sağlık raporu soruşturması: 13 şüpheli tutuklandı",
-    "source": "Haber Global",
-    "time": "27/03/2026 23:45",
-    "link": "https://haberglobal.com/gundem/erzurumda-sahte-saglik-raporu-sorusturmasi-13-supheli-tutuklandi-515722",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Erzurum’da ÖTV muafiyetinden yararlanmak için sahte evrak düzenleyen ve polis ekipleri tarafından gözaltına alınan 22 şüpheliden 13'ü tutuklanırken, 7 şüpheli hakkında ise adli kontrol kararı verildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/erzurumda-sahte-saglik-raporu-sorusturmasi-13-supheli-tutuklandi-pzof.jpg",
     "keyword": null
   }
 ]
