@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ac6802fb",
+    "title": "MSB, gazetecilere Türkiye’nin savunmasını tanıtıyor",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 06:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/msb-gazetecilere-turkiye-nin-savunmasini-tanitiyor-2489894",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Millî Savunma Bakanlığı, Cumhuriyet’in de yer aldığı tanıtım programı kapsamında Ankara ve İzmir’de savunma araçlarını tanıttı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/3b4f96b3-60b4-44e1-b00f-f239e172aa20.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6c76811e",
     "title": "MEB, İlim Yayma Vakfı ile İlim Yayma Cemiyeti ‘Kutlu doğum haftası’ için ortak Umre ödüllü yapay zeka eğitimi verecek",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kuveyt ordusu, ülkenin hava savunma sistemlerinin İran'dan atılan füze ve insansız hava aracı İHA saldırılarına karşı koyduğunu duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_12493080",
-    "title": "Marmaris'te belediyeye rüşvet soruşturması: 3 kişi gözaltına alındı",
-    "source": "TRT Haber",
-    "time": "27/03/2026 03:44",
-    "link": "https://www.trthaber.com/haber/turkiye/marmariste-belediyeye-rusvet-sorusturmasi-3-kisi-gozaltina-alindi-939235.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla'nın Marmaris ilçesinde belediyeye yönelik rüşvet ve usulsüzlük iddiaları kapsamında yürütülen soruşturmada 3 kişi gözaltına alındı.",
     "image": null,
     "keyword": null
   }
