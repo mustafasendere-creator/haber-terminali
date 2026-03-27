@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a50d81a",
+    "title": "Google, kuantum çağıyla şifreleme tehditlerinin yaklaştığı konusunda uyardı",
+    "source": "Euronews",
+    "time": "27/03/2026 14:44",
+    "link": "http://tr.euronews.com/next/2026/03/27/google-kuantum-cagiyla-sifreleme-tehditlerinin-yaklastigi-konusunda-uyardi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Google, 2029’a kadar kuantum sonrası kriptografiye geçmek için bir takvim belirlediğini, kuantum bilgisayarlar mevcut şifrelemeyi kırmadan önce harekete geçilmesi gerektiğini söylüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d9d1bbaa",
     "title": "‘Muhbir vatandaş’ patlaması: 2025’te 142 ihbarcıya 12 milyon ödendi",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Nilüfer Belediyespor Hentbol Takımı, EHF Erkekler Avrupa Kupası çeyrek final ilk maçında Macaristan temsilcisi MOL Tatabanya ile deplasmanda karşı karşıya gelecek.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_9819a524",
-    "title": "Artvin'de öğretmen araç içinde ölü bulundu",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 13:44",
-    "link": "https://www.takagazete.com.tr/artvinde-ogretmen-arac-icinde-olu-bulundu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Artvin'de görev yapan bir öğretmen, köy yolunda aracında ölü bulunurken olayın nedeni araştırılıyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/artvinde-ogretmen-arac-icinde-olu-bulundu.jpg",
     "keyword": null
   }
 ]
