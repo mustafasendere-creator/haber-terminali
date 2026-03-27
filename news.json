@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8f41e1b",
+    "title": "Putin’in keyifler gıcır",
+    "source": "A Haber",
+    "time": "27/03/2026 07:44",
+    "link": "https://www.ahaber.com.tr/yazarlar/melih-altinok/2026/03/27/putinin-keyifler-gicir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Renk vermesine pek alışık olmadığımız Rusya Devlet Başkanı Putin son günlerde kameralara hiç olmadığı kadar neşeli yakalanıyor.\nSebebi malum, İran savaşı.\nZira bu ay Kremlin'in petrol ve gaz...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "YRL_865a8ee1",
     "title": "Bugün İçin Dikkat Çeken Uyarı Burçlar Bu Gelişmelere Hazır Olmalı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İ ktidarın ilk ve esas hedefinin, Demokratik, Laik ve Sosyal Hukuk Devleti olan Türkiye Cumhuriyeti’nin temel niteliklerini değiştirmek olduğu, hem kendi söylemlerinden ve eylemlerinden hem de AYM kararından öğrenilmişti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar22_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e9a429be",
-    "title": "Kayseri'de polisten kaçan 2 sürücüye 920 bin lira ceza",
-    "source": "TRT Haber",
-    "time": "27/03/2026 05:04",
-    "link": "https://www.trthaber.com/haber/turkiye/kayseride-polisten-kacan-2-surucuye-920-bin-lira-ceza-939239.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayseride polisin \"dur\" ihtarına uymayarak kaçan iki sürücü, kovalamaca sonucu yakalandı. Sürücülere toplam 920 bin lira para cezası kesilirken araçlar trafikten men edildi.",
-    "image": null,
     "keyword": null
   }
 ]
