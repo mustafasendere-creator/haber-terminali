@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3914832",
+    "title": "İran basını, BAE'den saldırı ihtimaline karşı bu ülkenin enerji altyapısının potansiyel hedef belirlendiğini yazdı",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 10:44",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-basini-baeden-saldiri-ihtimaline-karsi-bu-ulkenin-enerji-altyapisinin-potansiyel-hedef-belirlendigini-yazdi/3881206",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran basını, ülkeye Birleşik Arap Emirlikleri (BAE) üzerinden saldırı ihtimaline karşı bu ülkenin enerji tesislerinin potansiyel hedef olarak belirlendiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d0340fe7",
     "title": "TÜİK 2024-2025 dönemi bitkisel ürün denge tablolarını açıkladı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Meteoroloji’nin son tahminlerine göre Trabzon’da 27 Mart – 2 Nisan tarihleri arasında yağışlı hava etkili olacak. Yüksek kesimlerde karla karışık yağmur ve kar beklenirken, sıcaklıkların hafta başından itibaren düşeceği bildirildi.",
     "image": "https://resim.haber61.net/news/609498.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_965c1014",
-    "title": "Trabzonspor’un gündemine getirilen oyuncu ilk kez giydiği A Milli Takım formasında gol sevinci yaşadı",
-    "source": "Haber61",
-    "time": "27/03/2026 09:24",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-gundemine-getirilen-oyuncu-ilk-kez-giydigi-a-milli-takim-h627791.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ukrayna basınında son günlerde Trabzonspor ile anılan genç golcü Matviy Ponomarenko, Ukrayna Milli Takımı formasıyla İsveç karşısında skora katkı verdi. 77. dakikada oyuna giren 20 yaşındaki futbolcu, 90. dakikada fileleri havalandırdı.",
-    "image": "https://resim.haber61.net/news/609499.jpg",
     "keyword": "trabzon"
   }
 ]
