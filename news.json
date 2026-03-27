@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c079f7f9",
+    "title": "Araştırma: yapay zeka araçları sık onay vererek kullanıcıların yargısını çarpıtabileceğini gösterdi",
+    "source": "Euronews",
+    "time": "27/03/2026 09:05",
+    "link": "http://tr.euronews.com/next/2026/03/27/arastirma-yapay-zeka-araclari-sik-onay-vererek-kullanicilarin-yargisini-carpitabilecegini",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Araştırmaya göre, pohpohlayıcı bir sohbet robotuyla çok kısa bir etkileşim bile kişinin muhakemesini bozup özür dileme ve ilişkiyi onarma isteğini azaltabiliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_849d713d",
     "title": "Avrupa 2022'den bu yana en ağır gaz krizinin eşiğine geldi mi?",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, Galatasaray'ı yenerek 2.5 yıllık kabusu sonlandırmak istiyor.",
     "image": "https://resim.haber61.net/news/609483.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_8f46ce5c",
-    "title": "TTSO Başkanı Çelebi’den turizm mesajı: “Savaş bizi etkilemez, sezon iyi geçecek”",
-    "source": "Haber61",
-    "time": "27/03/2026 08:24",
-    "link": "https://www.haber61.net/trabzon/ttso-baskani-celebiden-turizm-mesaji-savas-bizi-etkilemez-sezon-iyi-gececek-h627784.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TTSO Başkanı Erkut Çelebi, bölgedeki savaşlara rağmen Trabzon’un güvenli bir destinasyon olduğunu belirterek turizm sezonunun iyi geçmesini beklediklerini söyledi.",
-    "image": "https://resim.haber61.net/news/609485.jpg",
     "keyword": null
   }
 ]
