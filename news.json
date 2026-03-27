@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c45762cf",
+    "title": "Uşak Belediye Başkanı gözaltına alındı",
+    "source": "Sözcü",
+    "time": "27/03/2026 10:45",
+    "link": "https://www.sozcu.com.tr/usak-belediye-baskani-gozaltina-alindi-p304948",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uşak Belediye Başkanı gözaltına alındı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/ozkan6jpg-8q4ewr0EWE2od3cGZx-Svw.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_649119a7",
     "title": "Asya mutfağının baharatlı imza lezzeti: Curry Laksa",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul merkezli dört ilde düzenlenen 'yasa dışı' bahis operasyonunda 28 kişi gözaltına alındı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/338574.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_38b7fd5a",
-    "title": "İsrail, askerlik süresini uzatacak: 36 aya çıkarılması tartışılıyor",
-    "source": "Evrensel",
-    "time": "27/03/2026 10:04",
-    "link": "https://www.evrensel.net/haber/5976940/israil-askerlik-suresini-uzatacak-36-aya-cikarilmasi-tartisiliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Başbakanı Binyamin Netanyahu, ordudaki personel açığı nedeniyle askerlik süresini uzatacaklarını söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339460.jpg",
     "keyword": null
   }
 ]
