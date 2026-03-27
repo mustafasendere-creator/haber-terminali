@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4f7fee04",
+    "title": "WSJ: ABD, Orta Doğu'ya 10 bin ek asker gönderecek!",
+    "source": "Haber Global",
+    "time": "27/03/2026 09:06",
+    "link": "https://haberglobal.com/dunya/wsj-abd-orta-doguya-10-bin-ek-asker-gonderecek-515571",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Savunma Bakanlığının (Pentagon), Orta Doğu'ya 10 bin asker daha konuşlandırmayı değerlendirdiği iddia edildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/wsj-abd-orta-doguya-10-bin-ek-asker-gonderecek-p2n3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fa5ab09c",
     "title": "Gram altın son 1 ayda yüzde 14 değer kaybetti",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "ABD-İsrail-İran hattındaki savaşın ardından Ortadoğu hava sahalarının kapanması Trabzon turizmini vurdu. Nevruz döneminde beklenen hareketlilik sağlanamazken, sektör yaz sezonu öncesi belirsizlik ve tedirginlikle karşı karşıya kaldı.",
     "image": "https://resim.haber61.net/news/609482.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_a9ebe343",
-    "title": "Trabzonspor'un sabrı taştı! Tek bir konuya odaklandı",
-    "source": "Haber61",
-    "time": "27/03/2026 08:24",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-sabri-tasti-tek-bir-konuya-odaklandi-h627783.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Galatasaray'ı yenerek 2.5 yıllık kabusu sonlandırmak istiyor.",
-    "image": "https://resim.haber61.net/news/609483.jpg",
     "keyword": "trabzon"
   }
 ]
