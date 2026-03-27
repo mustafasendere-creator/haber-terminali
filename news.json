@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f9b50ad9",
+    "title": "Yeryüzü kaygısı",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 05:44",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/feridun-andac/yeryuzu-kaygisi-2489917",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "“Ve yeryüzünü unutmanın, aslında zamanı ve mekânı unutmak olduğu hiç aklımıza gelmedi.”",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar464_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_3d14306e",
     "title": "Anayasa Mahkemesi üyeliğine Şaban Kazdal seçildi",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Filistin polisi, İran'ın İsrail'e yönelik füze saldırıları sırasında kopan 39 şarapnel parçasının işgal altındaki Batı Şeria'nın çeşitli bölgelerine düştüğünü bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_235c4e5b",
-    "title": "Trump, havalimanlarındaki aksaklıkların ardından TSA ödemeleri için talimat vereceğini duyurdu",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 03:04",
-    "link": "https://www.aa.com.tr/tr/guncel/trump-havalimanlarindaki-aksakliklarin-ardindan-tsa-odemeleri-icin-talimat-verecegini-duyurdu/3881069",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, bütçe anlaşmazlığı ve havalimanlarındaki aksaklıkların ardından Ulaştırma Güvenliği İdaresi (TSA) personeline ödeme yapılmasını sağlamak için talimat vereceğini açıkladı.",
     "image": null,
     "keyword": null
   }
