@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a0fa708a",
+    "title": "Bodrum'daki yat yangınına sabotaj merceği",
+    "source": "OdaTV",
+    "time": "27/03/2026 08:26",
+    "link": "https://www.odatv.com/magazin/bodrumdaki-yat-yanginina-sabotaj-mercegi-120140961",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bodrum&#039;daki Yalıkavak Marina&#039;da çıkan yat yangınıyla ilgili soruşturma başlatıldı. Başlatılan soruşturma kapsamında yangının teknik bir arızadan mı çıktığı yoksa sabotaj mı olduğu araştırılacak.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/27/bodrumdaki-yat-yanginina-sabotaj-mercegi-vokl.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6daf1200",
     "title": "Uşak Belediyesi'ne operasyon: Belediye başkanı ve 11 kişi gözaltında",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Suudi Arabistan, Körfez’deki limanları Ürdün ve kuzeydeki ülkelere bağlayacak uluslararası bir lojistik koridorunu devreye alacağını açıkladı",
     "image": "https://im.haberturk.com/l/2026/03/27/ver1774573289/3872681/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_e1242cda",
-    "title": "Eğlence mekanına silahlı saldırı! 2 ölü, 3 yaralı",
-    "source": "Habertürk",
-    "time": "27/03/2026 07:45",
-    "link": "https://www.haberturk.com/kocaeli-de-eglence-mekanina-silahli-saldiri-2-olu-3-yarali-3872682",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kocaeli'nin merkez İzmit ilçesinde bir eğlence mekanına düzenlenen silahlı saldırıda 2 kişi hayatını kaybetti, 1'i ağır 3 kişi yaralandı",
-    "image": "https://im.haberturk.com/l/2026/03/27/ver1774574273/3872682/jpg/1280x1280",
     "keyword": null
   }
 ]
