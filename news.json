@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_55a25809",
+    "title": "Maaşını alamadığı iddiasıyla işyerini ateşe verdi",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 11:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/maasini-alamadigi-iddiasiyla-isyerini-atese-verdi-2490003",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'da maaşını alamadığını öne süren Ali K. (44) gece bekçisi olarak çalıştığı iş yerini tiner döküp ateşe verdi. Yangın itfaiyenin müdahalesi ile büyümeden söndürüldü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b8f7b033-ca34-4939-b188-208da96b9aee.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3ebb8001",
     "title": "Kapanan şirket sayısı artıyor: Ardahan ve Bayburt’ta tek bir dükkan bile açılmadı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Fatih'te Cezayirli Nasıra Saigi, evli olduğu erkek Veli Cıngılea tarafından darbedilmesi sonucu hayatını kaybetti. Cıngılea ile birlikte evde misafir olan 3 kişi de gözaltına alındı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/333900.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_2936b1ca",
-    "title": "Trabzon esnafı Trump ve Netanyahu'yu paspas yaptı!",
-    "source": "Karadeniz Gazetesi",
-    "time": "27/03/2026 10:44",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzon-esnafi-trump-ve-netanyahuyu-paspas-yapti/606924",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Ortahisar ilçesinde dükkanların önündek, üzerlerinde Donald Trump ve Benjamin Netanyahu’nun fotoğraflarının yer aldığı paspaslar görenlerin dikkatini çekti.",
-    "image": null,
     "keyword": null
   }
 ]
