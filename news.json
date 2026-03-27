@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8f7d6c48",
+    "title": "Erdoğan'dan kritik görüşme",
+    "source": "OdaTV",
+    "time": "27/03/2026 22:45",
+    "link": "https://www.odatv.com/guncel/erdogandan-kritik-gorusme-120141054",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Dünya Ekonomik Forumu (WEF) ve BlackRock Başkanı Laurence Douglas Fink&#039;i kabul etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/27/erdogandan-kritik-gorusme-zswt.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4e6b7b6f",
     "title": "Avrupa borsaları düşüşle kapandı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Erzurum’da ÖTV muafiyetinden yararlanmak için sahte evrak düzenlendiği iddiasıyla başlatılan soruşturmada gözaltına alınan 22 şüpheliden 13&#039;ü tutuklanırken, 7 şüpheli hakkında ise adli kontrol kararı verildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/17/ankarada-29-tutuklama-hqrl.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4bdfafae",
-    "title": "Ford Otosan Driventure'la mobilite platformu Vignetim'e yatırım yaptı",
-    "source": "Ekonomim",
-    "time": "27/03/2026 21:25",
-    "link": "https://www.ekonomim.com/sektorler/otomotiv/ford-otosan-driventurela-mobilite-platformu-vignetime-yatirim-yapti-haberi-884445",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ford Otosan&#039;ın kurumsal girişim sermayesi şirketi Driventure, Avrupa&#039;da dijital yol hizmetleri sunan mobilite platformu Vignetim&#039;e yatırım yaptı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/27/ford-otosan-driventurela-mobilite-platformu-vignetime-yatirim-yapti-pd1l_cover.jpg",
     "keyword": null
   }
 ]
