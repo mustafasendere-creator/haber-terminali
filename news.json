@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_86a7a9e7",
+    "title": "Diyarbakır’da kolonlarda çatlama sesi duyulan bina boşaltıldı: 51 vatandaş tahliye edildi",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 00:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-kolonlarda-catlama-sesi-duyulan-bina-bosaltildi-51-vatandas-tahliye-edildi-2490189",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır’da Bağlar ilçesinde kolonlarından ses gelen apartman risk nedeniyle boşaltıldı. 51 kişi tedbir amaçlı tahliye edilirken, bina için detaylı inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2cdf16eb-7979-4d15-9869-cbb0e4034eff.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_175df174",
     "title": "Bakan Fidan'dan kritik temaslar",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Savcılar, Lundin Oil'in Sudan hükümetiyle güvenlikten orduyu sorumlu tutan anlaşmalar yapmış olması nedeniyle sanıkların suça iştirak ettiklerini belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1daaad32",
-    "title": "İran'da nükleer tesisler vuruldu: Ağır su kompleksi ve 'sarı kek' hedefte",
-    "source": "Euronews",
-    "time": "27/03/2026 23:44",
-    "link": "http://tr.euronews.com/2026/03/27/iranda-nukleer-tesisler-vuruldu-agir-su-kompleksi-ve-sari-kek-hedefte",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail cuma günü İran'daki çeşitli nükleer tesisleri, uranyum ve ağır su komplekslerini vurdu. Ancak saldırılarda radyasyon sızıntısı rapor edilmedi.",
     "image": null,
     "keyword": null
   }
