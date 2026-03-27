@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3bb7fb8e",
+    "title": "Yüksek kayalıklar ve berrak suyuyla ilgi görüyor",
+    "source": "Habertürk",
+    "time": "27/03/2026 15:05",
+    "link": "https://www.haberturk.com/kizilin-koyu-dogal-ve-tarihi-guzellikleriyle-dikkat-cekiyor-3872471",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman’ın Besni ilçesine bağlı Kızılin Köyü ve kanyonu  etkileyici görüntüler sunuyor",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774513981/3872471/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8115f8f0",
     "title": "Türkiye - Romanya maçı hangi kanalda?",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "İYİ Parti Trabzon Milletvekili Yavuz Aydın, Soylu’nun İsrail’e ilişkin sözlerini, \"Türk milletinin evlatlarını rakam gibi telaffuz etmekte, 300 bin-400 binden söz etmektedir. Bu nasıl bir zihniyettir? Bu nasıl bir gaflettir” diyerek eleştirdi.",
     "image": "https://resim.haber61.net/news/609547.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3f48a86a",
-    "title": "Göcek'te Osmanağa Koyu'na iş makineleri girdi: Yurttaşlar iş makinelerinin önüne geçerek çalışmayı engelledi",
-    "source": "Evrensel",
-    "time": "27/03/2026 14:45",
-    "link": "https://www.evrensel.net/haber/5976989/gocekte-osmanaga-koyuna-is-makineleri-girdi-yurttaslar-is-makinelerinin-onune-gecerek-calismayi-engelledi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla'nın Fethiye ilçesi Göcek Mahallesi Osmanağa Koyu'nda dün engellenen iş makineleri bugün de çalışınca yurttaşlar iş makinelerinin önüne geçti. Jandarma ve yurttaşlar arasındaki gerginlik sonrası şantiye çalışanları alandan uzaklaştı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340469.jpg",
-    "keyword": null
   }
 ]
