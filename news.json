@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b0453288",
+    "title": "Pamuk'un apartmanında karar",
+    "source": "Habertürk",
+    "time": "27/03/2026 17:46",
+    "link": "https://www.haberturk.com/yazar-orhan-pamuk-un-9-dairesinin-bulundugu-taray-apartmani-davasinda-karar-3872624",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nobel ödüllü yazar Orhan Pamuk'un Beyoğlu'nda 9 daire sahibi olduğu ve riskli yapı kapsamında yıkılmasını istemesi üzerine komşularıyla mahkemelik olduğu Taray Apartmanı davasında güçlendirme talebinin reddine karar verildi",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774548264/3872624/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_37f82137",
     "title": "ABD’nin sınır dışı ettiği Ukraynalılar derhal orduya alınıyor",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "İletişim Başkanlığı'nın ev sahipliğinde düzenlenen, dünyanın dört bir yanından politika yapıcıları, diplomatları, iletişim uzmanları, medya profesyonellerini bir araya getiren STRATCOM başladı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_f245b107",
-    "title": "Arsin yangını sonrası MMO’dan kritik uyarı: \"Alevler yükselmeden önlem alınmalı!\"",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 17:05",
-    "link": "https://www.takagazete.com.tr/arsin-yangini-sonrasi-mmodan-kritik-uyari-alevler-yukselmeden-onlem-alinmali",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Arsin OSB’deki fabrika yangını sonrası MMO Trabzon Şubesi uyardı. Yangın güvenliği için denetim ve periyodik kontrollerin artırılması istendi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/ca92df69-55fa-48fc-8a61-4b15fb7511fa.jpg",
-    "keyword": "trabzon"
   }
 ]
