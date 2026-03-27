@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_57571104",
+    "title": "Beyrut'un güneyindeki Dahiye bölgesinde 3 patlama meydana geldi",
+    "source": "TRT Haber",
+    "time": "27/03/2026 04:24",
+    "link": "https://www.trthaber.com/haber/dunya/beyrutun-guneyindeki-dahiye-bolgesinde-3-patlama-meydana-geldi-939237.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İşgalci İsrail ordusunun hedef aldığı Lübnan'ın başkenti Beyrut'un güneyindeki Dahiye bölgesinde 3 patlama sesi duyuldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_82bbfbd6",
     "title": "AYM'ye yeni üye seçildi",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. İNEBOLU 2. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/474e8526-bec3-475e-9ad5-8c467f22848a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e3c1e63f",
-    "title": "T.C.ULUDERE SULH HUKUK MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "27/03/2026 02:24",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-uludere-sulh-hukuk-mahkemesi-2489865",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C.ULUDERE SULH HUKUK MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e3c12cf2-f5c3-4c88-981f-32d463d57415.jpg",
     "keyword": null
   }
 ]
