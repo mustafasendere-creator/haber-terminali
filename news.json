@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_63db6b7c",
+    "title": "Sofrada ‘idare’ dönemi",
+    "source": "Evrensel",
+    "time": "28/03/2026 01:44",
+    "link": "https://www.evrensel.net/haber/5977059/sofrada-idare-donemi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir’de gıda fiyatlarındaki yüzde 50’ye varan artış, işçi ailelerin mutfağını vurdu. Sebze, meyve ve et tüketimi azalırken, sofralarda çeşit yerini makarna ve pilava bıraktı, alışveriş taneyle yapılır hale geldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/324030.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_65984c9b",
     "title": "Ömer Faruk Gergerlioğlu (@gergerliogluof) / Posts / X - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C.ESKİŞEHİR 5. SULH HUKUK MAHKEMESİ HAKİMLİĞİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/833de727-f43c-420a-a921-0810024b97d9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_794f0a8c",
-    "title": "T.C. ANKARA GAYRİMENKUL SATIŞ İCRA DAİRESİ MÜDÜRLÜĞÜ",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 00:25",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-ankara-gayrimenkul-satis-icra-dairesi-mudurlugu-2490106",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. ANKARA GAYRİMENKUL SATIŞ İCRA DAİRESİ MÜDÜRLÜĞÜ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c84f8772-f2f6-4137-b93a-83cc22047d87.jpg",
     "keyword": null
   }
 ]
