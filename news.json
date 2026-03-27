@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_095971f3",
+    "title": "Düzce’de kauçuk fabrikasında baca yangını",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 15:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/duzce-de-kaucuk-fabrikasinda-baca-yangini-2490072",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce’nin Kaynaşlı ilçesinde kauçuk ürünleri üretimi yapan fabrikada bacadan yangın çıktı. Düzce ve Kaynaşlı itfaiye ekipleri soğutma yapıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/6cea8528-cb1d-4c82-8cfb-6e703f5f0a95.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c380ffa2",
     "title": "Bağcılar'da 4 cezaevi sevk aracı kaza yaptı: 6 jandarma yaralandı",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Soprano Bengisu Yaman Koyuncu, Giuseppe Verdi’nin 'Un Ballo in Maschera' (Maskeli Balo) eserinde Amelia başrolünü üstlenerek Kahire Operası’nda bu seviyede sahne alan ilk Türk soprano olacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2ba43870",
-    "title": "AB, artan ticaret hacmi ve küresel belirsizliklerle karşı gümrük reformunu onayladı",
-    "source": "Euronews",
-    "time": "27/03/2026 15:24",
-    "link": "http://tr.euronews.com/my-europe/2026/03/27/ab-artan-ticaret-hacmi-ve-kuresel-belirsizliklerle-karsi-gumruk-reformunu-onayladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni gümrük reformu, AB'yi ABD kaynaklı belirsizlikler ile Güney Amerika ve Avustralya’yla yapılan yeni ticaret anlaşmaları ortamında artan ticaret hacmine uyarlamayı amaçlıyor.",
     "image": null,
     "keyword": null
   }
