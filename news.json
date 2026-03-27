@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bda25307",
+    "title": "Akran zorbalığına tutuklama",
+    "source": "Habertürk",
+    "time": "27/03/2026 17:06",
+    "link": "https://www.haberturk.com/ankara-da-akran-zorbaligina-2-tutuklama-3872636",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da bir çocuğun sokak ortasında bir grup çocuk tarafından kemer ve sopayla darbedilmesiyle ilgili gözaltına alınan 2 şüpheli tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774552169/3872636/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_5f2f934e",
     "title": "İBB yolsuzluk davası 30 Mart'a ertelendi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TFF, A Milli Takım kadrosuna davet edilen Semih Kılıçsoy'un Ümit Milli Takım kadrosuna geçtiğini açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/a240bf23-3bc2-40e0-9222-c7deeee87ee7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_603e0211",
-    "title": "Lisede deney sırasında patlama: Öğrencilerin elleri ve yüzleri yandı",
-    "source": "Haber Global",
-    "time": "27/03/2026 16:05",
-    "link": "https://haberglobal.com/gundem/lisede-deney-sirasinda-patlama-ogrencilerin-elleri-ve-yuzleri-yandi-515688",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Beylikdüzü'nde bir lisenin kimya laboratuvarında öğrencilerin deney yaptığı sırada patlama meydana geldi. Bazı öğrencilerin yüzleri ve elleri yandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/lisede-deney-sirasinda-patlama-ogrencilerin-elleri-ve-yuzleri-yandi-h4at.jpg",
     "keyword": null
   }
 ]
