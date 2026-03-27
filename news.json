@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6633f7f4",
+    "title": "Soma'da bir mahalle, heyelan tehlikesi gerekçesiyle başka yere taşınacak",
+    "source": "Evrensel",
+    "time": "27/03/2026 10:44",
+    "link": "https://www.evrensel.net/haber/5976943/soma-da-bir-mahalle-heyelan-tehlikesi-gerekcesiyle-baska-yere-tasinacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Soma'da bir mahallede oturanlar, heyelan riski gerekçesiyle başka bir yere nakledilecek.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340436.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_dba757fe",
     "title": "Alman basınında Onuachu iddiası! Bundesliga kulüpleri Trabzonspor’un golcüsünü izliyor",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Artvin’de 22 Mart Dünya Su Günü kapsamında düzenlenen etkinlikte çocuklara suyun önemi ve tasarruf bilinci anlatıldı. Programda öğrencilerin gösterileri ilgi görürken, kurulan stantlarda çevre farkındalığına dikkat çekildi.",
     "image": "https://resim.haber61.net/news/609503.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_9df307fe",
-    "title": "Artvin’de çığ felaketi: Günlerdir haber yok",
-    "source": "Haber61",
-    "time": "27/03/2026 10:04",
-    "link": "https://www.haber61.net/bolgesel/artvinde-cig-felaketi-gunlerdir-haber-yok-h627795.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Artvin’in Ardanuç ilçesinde 31 Aralık’ta meydana gelen çığ felaketinde kaybolan Bülent Gezer’e 86 gündür ulaşılamadı. Bölgede çığ riskinin devam etmesi nedeniyle arama çalışmaları kontrollü şekilde sürdürülüyor.",
-    "image": "https://resim.haber61.net/news/609505.jpg",
     "keyword": null
   }
 ]
