@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d860a143",
+    "title": "İYİ Partili başkan istifasını duyurdu",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 02:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/iyi-partili-baskan-istifasini-duyurdu-2490151",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa’nın Salihli ilçesinde İYİ Parti Salihli İlçe Başkanı Osman Özen, görevinden istifa ettiğini duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a47445a2-a188-4e8a-b32a-d57aacf0c47f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_99c06e7e",
     "title": "Numan Kurtulmuş: Bölgemiz huzur ve güvenlik istiyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. SİLİVRİ İCRA VE İFLAS MÜDÜRLÜĞÜ",
     "image": "https://media.cumhuriyet.com.tr/Archive/1ed58d39-64f9-48fc-9d82-08f31b5fbe87.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5502db80",
-    "title": "ESENYURT BELEDİYE BAŞKANLIĞI",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 01:04",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/esenyurt-belediye-baskanligi-2490121",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ESENYURT BELEDİYE BAŞKANLIĞI",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3482b690-9601-49b3-84ab-a3335e1dbc2e.jpg",
     "keyword": null
   }
 ]
