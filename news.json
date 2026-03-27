@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_06a67d04",
+    "title": "Axios: Rubio, mevkidaşlarına İran savaşının 2 ila 4 hafta daha süreceğini söyledi",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 20:44",
+    "link": "https://www.aa.com.tr/tr/guncel/axios-rubio-mevkidaslarina-iran-savasinin-2-ila-4-hafta-daha-surecegini-soyledi-/3882209",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Dışişleri Bakanı Marco Rubio'nun, mevkidaşlarına İran'a yönelik saldırıların 2 ila 4 hafta daha süreceğini söylediği ileri sürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fec606d7",
     "title": "Volkswagen'in Üst Yöneticisi Blume, Osnabrück fabrikasının askeri üretime geçeceğini teyit etti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şili'de Ultra muhafazakâr lider Kast’ın hükümeti, göreve hızlı bir başlangıç yapmayı hedeflerken, alınan kararlar kısa sürede siyasi maliyete dönüştü. Özellikle benzin ve dizel fiyatlarındaki tarihi artış, halkın tepkisini çekerken, hükümetin kriz dönemlerinde fiyatları dengelemek için kullanılan mekanizmayı devreye sokmaması eleştirilerin odağında yer aldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/sili-halkinin-yanlis-adami-baskan-sectigini-anlamasi-icin-2-hafta-yetti-r5mr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d5ef160b",
-    "title": "Katil İsrail askerleri, Doğu Kudüs'te bir Filistinliyi daha öldürdü",
-    "source": "TRT Haber",
-    "time": "27/03/2026 17:45",
-    "link": "https://www.trthaber.com/haber/dunya/katil-israil-askerleri-dogu-kuduste-bir-filistinliyi-daha-oldurdu-939341.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Katil İsrail askerlerinin, işgal altındaki Doğu Kudüs'ün kuzeyinde yer alan Kalendiya Mülteci Kampı'na düzenlediği ikinci baskında bir Filistinliyi daha öldürdüğü duyuruldu.",
-    "image": null,
     "keyword": null
   }
 ]
