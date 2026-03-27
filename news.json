@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17d390b4",
+    "title": "Eski AKP milletvekili tutuklandı",
+    "source": "10Haber",
+    "time": "27/03/2026 07:24",
+    "link": "https://10haber.net/gundem/eski-akp-milletvekili-tutuklandi-690132/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Cumhuriyet Başsavcılığı’nca yürütülen soruşturma kapsamında adliyeye sevk edilen eski MÜSİAD Başkanı ve eski AKP milletvekili Bayram Ali Bayramoğlu, çıkarıldığı nöbetçi hakimlikçe ’izinsiz sermaye piyasası faaliyeti’ suçundan tutuklandı. Sermaye Piyasası Kurulu (SPK) ocak ayında Bayramoğlu hakkında, &#8216;foreks piyasalarını domine ettiği’ iddiasıyla suç duyurusunda bulunmuştu. Bayramoğlu&#8217;na, “Yetkilisi olduğu şirket/şirketlerin banka hesaplarının kullandırılması suretiyle izinsiz sermaye piyasası [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c6033ddb18f1.51685276.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_07fd78ae",
     "title": "Gabriel Sara bir ilki yaşadı: Fransa, Brezilya’yı devirdi!",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Geçen hafta Berlin’in ünlü meydanlarından Alexanderplatz’da bir grubun eylem yaptığını görünce ne olduğunu anlamak için yanlarına gittim.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar381_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1d9eb89b",
-    "title": "Savaşın öğrettikleri",
-    "source": "Cumhuriyet",
-    "time": "27/03/2026 04:04",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/sertac-es/savasin-ogrettikleri-2489914",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yaklaşık bir aydır ABD-İsrail ikilisi İran’a saldırıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar415_cover.jpeg",
     "keyword": null
   }
 ]
