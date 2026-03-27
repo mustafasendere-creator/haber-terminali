@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1fa72128",
+    "title": "İsrail'de sirenler çaldı",
+    "source": "TRT Haber",
+    "time": "27/03/2026 14:45",
+    "link": "https://www.trthaber.com/haber/dunya/israilde-sirenler-caldi-939322.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın misillemesi nedeniyle başta Tel Aviv olmak üzere İsrail'in birçok bölgesinde sirenler çaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_330f43ee",
     "title": "Cana can katsın istedik: 23 yaşındaki Burcu 3 hastaya umut oldu",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Jeffrey Epstein'in kurbanları, Trump yönetiminin açıkladığı belgelerde \"kimliklerinin ifşa edildiğini\" söyleyerek ABD Adalet Bakanlığı ve Google'a dava açtı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c84debbd",
-    "title": "Shein, Temu, Alibaba: AB'den Çinli şirketlere baskı",
-    "source": "DW Türkçe",
-    "time": "27/03/2026 13:45",
-    "link": "https://www.dw.com/tr/shein-temu-alibaba-ab-den-çinli-şirketlere-baskı/a-76558998",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği (AB), çoğu Çin'den ithal, düşük değerli milyarlarca ürünün denetlenmesi için yeni ve sert tedbirler açıkladı.",
     "image": null,
     "keyword": null
   }
