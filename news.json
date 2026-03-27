@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_811aadb5",
+    "title": "‘ABD bağımlılığına kapı araladı’",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 04:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/abd-bagimliligina-kapi-araladi-2489939",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zafer Partisi Genel Başkan Yardımcısı ve Güvenlik Politikaları Uzmanı Dr. Fikret Bayır'a göre ABD Başkanı Trump ve Von der Leyen arasında yapılan anlaşma oylanacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a0039002-f0b8-42dc-a794-acf1e9ca826e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_75d69098",
     "title": "İsrail'den Lübnan'a yönelik yeni saldırılar",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ankara Su ve Kanalizasyon İdaresi (ASKİ) verilerine göre, başkentte barajların toplam doluluk oranı yüzde 29,37, kullanılabilir aktif su oranı ise yüzde 21,15’e geriledi. Bazı barajlarda doluluk yüzde 5’in altına düştü.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/336971.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9c34b573",
-    "title": "İSKİ’den son veriler: İstanbul'da su seviyesi son yağışlarla arttı (26.03.2026)",
-    "source": "Evrensel",
-    "time": "27/03/2026 02:44",
-    "link": "https://www.evrensel.net/haber/5976844/iskiden-son-veriler-istanbulda-su-seviyesi-son-yagislarla-artti-26032026",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre, İstanbul barajlarının doluluk oranı 26 Mart 2026 itibarıyla yüzde 53.12’ye yükseldi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/336968.jpg",
     "keyword": null
   }
 ]
