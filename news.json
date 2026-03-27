@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b06b6b89",
+    "title": "Sakarya’da IŞİD operasyonu: 1 tutuklama",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 20:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/sakarya-da-isid-operasyonu-1-tutuklama-2490155",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sakarya’da terör örgütü IŞİD'e yönelik düzenlenen operasyonda gözaltına alınan yabancı uyruklu 5 şüpheliden 1'i tutuklandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/27ba2f11-062f-48e1-ae22-3fa9207b44c6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c5de6adf",
     "title": "MÜYORBİR, 45’liklerden bugüne müziğin yolculuğunu konuştu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor Başkanı Ertuğrul Doğan, İstanbul’da düzenlenen Trabzon Günleri programında konuştu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/4-kopya-222.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_3b33654e",
-    "title": "Vakfıkebir TOKİ sakinleri isyan etti! Çamur nedeniyle evlerine ulaşamıyorlar",
-    "source": "Haber61",
-    "time": "27/03/2026 18:24",
-    "link": "https://www.haber61.net/trabzon/vakfikebir-toki-sakinleri-isyan-etti-camur-nedeniyle-evlerine-ulasamiyorlar-h627845.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Vakfıkebir ilçesindeki TOKİ 1. Kısım Konutları’nda yaşayan vatandaşlar, 1 aydır yolların çamur içinde olduğunu belirterek çözüm istedi. 380 hanenin bulunduğu bölgede özellikle yağışlı havalarda ulaşımın ciddi şekilde aksadığı ifade edildi.",
-    "image": "https://resim.haber61.net/news/609583.jpg",
     "keyword": "trabzon"
   }
 ]
