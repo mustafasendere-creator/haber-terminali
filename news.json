@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b82dfeaf",
+    "title": "2002’den günümüze hekimlik mesleği | Sağlık Olsun",
+    "source": "Evrensel",
+    "time": "27/03/2026 23:04",
+    "link": "https://www.evrensel.net/haber/5977044/2002-den-gunumuze-hekimlik-meslegi-saglik-olsun",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Tabip Odasının hekim profil araştırmasının sonuçlarını Ankara Tabip Odası Yönetim Kurulu Üyesi Dr. Kemal Oskay ile konuştuk.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340527.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0c4f6c72",
     "title": "Rus mahkemesi, Oscar ve BAFTA ödüllü 'Bay Hiçkimse, Putin'e Karşı' belgeselini yasakladı",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fransa’da hükümet, Hürmüz Boğazı’nda enerji akışının sekteye uğradığı Orta Doğu’daki gerilimin yol açtığı akaryakıt krizinden en çok etkilenen sektörler için 70 milyon avroluk yardım paketi açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_463cdef4",
-    "title": "Rusya, 1 Nisan’dan itibaren benzin ihracatını yasaklayacak",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 22:04",
-    "link": "https://www.aa.com.tr/tr/guncel/rusya-1-nisan-dan-itibaren-benzin-ihracatini-yasaklayacak/3882284",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak’ın 1 Nisan’dan itibaren benzin ihracatının yasaklanması talimatı verdiği bildirildi.",
     "image": null,
     "keyword": null
   }
