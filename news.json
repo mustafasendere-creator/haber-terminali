@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cb4c335c",
+    "title": "Irak ile ABD, \"Irak topraklarının saldırılarda kullanılmaması” yönünde anlaşmaya vardı",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 23:04",
+    "link": "https://www.aa.com.tr/tr/guncel/irak-ile-abd-irak-topraklarinin-saldirilarda-kullanilmamasi-yonunde-anlasmaya-vardi/3882328",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak ile ABD, Irak topraklarının sivillere, güvenlik güçlerine, stratejik tesislere, ABD personeline ve diplomatik misyonlara yönelik saldırılar için kullanılmaması konusunda mutabakat imzaladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8b9b4b1e",
     "title": "Yemen'de şiddetli yağışın neden olduğu sel felaketinde son 2 günde 8 kişi hayatını kaybetti",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "\"Buzlar Çözülmeden\" adlı oyun Antalya Devlet Tiyatrosu tarafından sahnelenmeye devam edecek.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0617f93a-4336-4233-b1d0-9c52f9591030.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_e2d0110c",
-    "title": "Üniversitelerde 4 Yıl Tarih Oluyor mu? YÖK Başkanı’ndan Kritik Açıklama",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 21:44",
-    "link": "https://www.takagazete.com.tr/universitelerde-4-yil-tarih-oluyor-mu-yok-baskanindan-kritik-aciklama",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Yükseköğretim Kurulu Başkanı Erol Özvar, lisans programlarının 3 yıla düşürülmesine yönelik çalışmaların önemli bir aşamaya geldiğini açıkladı. Erzurum’da gerçekleştirilen Üniversitelerarası Kurul toplantısında konuşan Özvar, artık somut adımların değerlendirildiğini ifade etti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/u-n-i-v-e-r-s-i-t-e-1.jpg",
-    "keyword": null
   }
 ]
