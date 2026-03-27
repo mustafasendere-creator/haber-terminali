@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ec9d21a",
+    "title": "6 il için sarı uyarı: Sağanak ve kar yağışına dikkat",
+    "source": "TRT Haber",
+    "time": "27/03/2026 10:05",
+    "link": "https://www.trthaber.com/haber/turkiye/6-il-icin-sari-uyari-saganak-ve-kar-yagisina-dikkat-939274.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurdun güneydoğusunda beklenen karla karışık yağmur ve kar yağışı nedeniyle 6 il için \"sarı\" kodlu uyarıda bulunuldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7bfe8fdc",
     "title": "Uşak Belediye Başkanı Özkan Yalım gözaltına alındı",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Akaryakıt fiyatlarında bugün yaşanan sert yükseliş Türkiye genelinde sürücülerin en çok konuştuğu konuların başında geliyor. Trabzon başta olmak üzere birçok şehirde benzin, motorin ve LPG fiyatları dikkat çeken seviyelere ulaştı. Bugün itibarıyla açıklanan rakamlar, piyasada güçlü bir artış trendinin oluştuğunu ortaya koyuyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2024/09/akaryakit-2.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a85b5fe5",
-    "title": "Marmaris Belediyesine operasyon: Başkan yardımcısı da dahil 13 kişi gözaltına alındı",
-    "source": "Evrensel",
-    "time": "27/03/2026 09:05",
-    "link": "https://www.evrensel.net/haber/5976931/marmaris-belediyesine-operasyon-baskan-yardimcisi-da-dahil-13-kisi-gozaltina-alindi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Marmaris Belediyesine \"rüşvet\" ve \"usulsüzlük\" iddiaları üzerine operasyon yapıldı; aralarında belediye başkan yardımcısı ve birim müdürlerinin de bulunduğu 13 kişi gözaltına alındı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340426.jpg",
-    "keyword": null
   }
 ]
