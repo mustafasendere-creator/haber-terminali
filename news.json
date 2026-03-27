@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5ff04428",
+    "title": "Hafta sonu yurt genelinde parçalı ve çok bulutlu hava görülecek",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 14:44",
+    "link": "https://www.aa.com.tr/tr/guncel/hafta-sonu-yurt-genelinde-parcali-ve-cok-bulutlu-hava-gorulecek/3881616",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurtta hafta sonu parçalı ve çok bulutlu bir hava hakim olacak. Mevsim normalleri civarında seyreden hava sıcaklıklarının pazar gününden itibaren yağışla birlikte güney ve batı kesimlerde azalması bekleniyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_146ffb5c",
     "title": "5G destekli akıllı yolda ilk test",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Tarım ve Orman Bakanlığı, Trabzon Limanı'nda, aralarında aslan, Nil timsahı, dağ zebrası ve su aygırı gibi yaban hayvanı trofelerinin yer aldığı 19 kargoya el konulduğunu bildirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_f7613dcb",
-    "title": "Otomobile çarpmamak isterken düşen motosiklet sürücüsü yaralandı",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 13:24",
-    "link": "https://www.takagazete.com.tr/otomobile-carpmamak-isterken-dusen-motosiklet-surucusu-yaralandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun'un İlkadım ilçesinde meydana gelen trafik kazasında motosiklet sürücüsü yaralandı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/otomobile-carpmamak-isterken-dusen-motosiklet-surucusu-yaralandi.jpg",
     "keyword": null
   }
 ]
