@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_08ee0cf5",
+    "title": "İran ürettiği füze ve tankları sergiledi",
+    "source": "Habertürk",
+    "time": "27/03/2026 15:06",
+    "link": "https://www.haberturk.com/iran-in-urettigi-fuze-ve-tanklar-tahran-da-sergilendi-3872463",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a yönelik 28 Şubat sabahı başlattığı saldırılar karşılıklı olarak devam ederken, İran ürettiği füze ve tankları Tahran'da sergiledi",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774513526/3872463/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3bb7fb8e",
     "title": "Yüksek kayalıklar ve berrak suyuyla ilgi görüyor",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Behçet Darğın yeni kitabı ‘Seçme Metinler: Edebi Portreler ve Yazılar’ ile dünya edebiyatının köşe taşlarını modern bir perspektifle mercek altına alıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340468.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_fff4bda3",
-    "title": "İYİ Parti Trabzon Milletvekili Yavuz Aydın’dan Süleyman Soylu’ya sert tepki: “Bu evlatlar sayı değil”",
-    "source": "Haber61",
-    "time": "27/03/2026 14:45",
-    "link": "https://www.haber61.net/trabzon/iyi-parti-trabzon-milletvekili-yavuz-aydindan-suleyman-soyluya-sert-tepki-h627823.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "İYİ Parti Trabzon Milletvekili Yavuz Aydın, Soylu’nun İsrail’e ilişkin sözlerini, \"Türk milletinin evlatlarını rakam gibi telaffuz etmekte, 300 bin-400 binden söz etmektedir. Bu nasıl bir zihniyettir? Bu nasıl bir gaflettir” diyerek eleştirdi.",
-    "image": "https://resim.haber61.net/news/609547.jpg",
-    "keyword": "trabzon"
   }
 ]
