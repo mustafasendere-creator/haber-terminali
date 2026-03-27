@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0691038d",
+    "title": "SON DAKİKA: İncirlik'te siren sesleri! MSB'den açıklama geldi",
+    "source": "Sözcü",
+    "time": "27/03/2026 15:46",
+    "link": "https://www.sozcu.com.tr/son-dakika-incirlik-te-siren-sesleri-msb-den-aciklama-geldi-p305141",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SON DAKİKA: İncirlik'te siren sesleri! MSB'den açıklama geldi",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/230jpg-SKS5QCCWY0eRqjcmXOB_AQ.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0d47cd4b",
     "title": "İstanbul'da 4 cezaevi sevk aracı kaza yaptı: Çok sayıda jandarma yaralı",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "AK Parti Trabzon İl Başkanı Sezgin Mumcu açıklamalarda bulunuyor.",
     "image": "https://resim.haber61.net/news/609555.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c2184536",
-    "title": "Google uyardı: Kuantum çağının tehditleri beklenenden daha yakın",
-    "source": "Euronews",
-    "time": "27/03/2026 15:24",
-    "link": "http://tr.euronews.com/next/2026/03/27/google-uyardi-kuantum-caginin-tehditleri-beklenenden-daha-yakin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Google, mevcut şifrelemeyi kırabilecek gelecekteki kuantum bilgisayarlara karşı harekete geçilmesi gerektiği uyarısıyla, 2029'a dek kuantum sonrası kriptografiye geçiş takvimi belirlediğini açıkladı.",
-    "image": null,
-    "keyword": null
   }
 ]
