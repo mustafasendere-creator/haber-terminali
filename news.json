@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_af4f8aca",
+    "title": "Tarım ve ormana yönelik düzenlemeleri de içeren kanun teklifi komisyonda kabul edildi",
+    "source": "TRT Haber",
+    "time": "27/03/2026 04:44",
+    "link": "https://www.trthaber.com/haber/gundem/tarim-ve-ormana-yonelik-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi-939238.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TBMM Tarım, Orman ve Köyişleri Komisyonunda, tarım ve ormana yönelik düzenlemeleri de içeren Toprak Koruma ve Arazi Kullanımı Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fc4fb21f",
     "title": "Netanyahu, personel krizi nedeniyle askerlik süresini uzatacaklarını belirtti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Özel hastane çetesi davasında tüm tutuklu sanıkların tutukluluk hallerinin devamına karar veren mahkeme, duruşmayı 10 Temmuz 2026'ya erteledi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340033.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ea460649",
-    "title": "2026 FIFA Dünya Kupası Avrupa Elemeleri play-off turu yarı final maçları tamamlandı",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 02:44",
-    "link": "https://www.aa.com.tr/tr/guncel/2026-fifa-dunya-kupasi-avrupa-elemeleri-play-off-turu-yari-final-maclari-tamamlandi/3881056",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 FIFA Dünya Kupası Avrupa Elemeleri'nde play-off turu yarı final maçları sona erdi.",
-    "image": null,
     "keyword": null
   }
 ]
