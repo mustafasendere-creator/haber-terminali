@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c2b7ab02",
+    "title": "İsrail ordusu 'Sarı Hat' boyunca 7 yeni karakol ve 17 kilometrelik toprak bariyer inşa etti",
+    "source": "TRT Haber",
+    "time": "27/03/2026 06:04",
+    "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-sari-hat-boyunca-7-yeni-karakol-ve-17-kilometrelik-toprak-bariyer-insa-etti-939241.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Gazze Şeridi'nde ateşkes anlaşmasıyla gerisine çekildiği \"Sarı Hat\" bölgesinde 7 yeni karakol ile 17 kilometrelik toprak bariyer inşa ettiği belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f6f0fdc7",
     "title": "İran medyası: ABDİsrail saldırıları altındaki İran'ın Kum kentinde 6 kişi öldü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli sporcular, Bulgaristan'da düzenlenen Uluslararası Dan Kolov-Nikola Petrov Turnuvası'nın ilk gününde altı madalya elde etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2756e8b8-7df1-4467-aa96-9c48ad3bc3ca.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cb32f41f",
-    "title": "T.C.VAN ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ İL MÜDÜRLÜĞÜ",
-    "source": "Cumhuriyet",
-    "time": "27/03/2026 03:04",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-van-cevre-sehircilik-ve-iklim-degisikligi-il-mudurlugu-2489854",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C.VAN ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ İL MÜDÜRLÜĞÜ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c84f8772-f2f6-4137-b93a-83cc22047d87.jpg",
     "keyword": null
   }
 ]
