@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2c19be2e",
+    "title": "'Yasa dışı' bahis operasyonu: 28 kişi gözaltına alındı",
+    "source": "Evrensel",
+    "time": "27/03/2026 10:04",
+    "link": "https://www.evrensel.net/haber/5976939/yasa-disi-bahis-operasyonu-28-kisi-gozaltina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul merkezli dört ilde düzenlenen 'yasa dışı' bahis operasyonunda 28 kişi gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/338574.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_38b7fd5a",
     "title": "İsrail, askerlik süresini uzatacak: 36 aya çıkarılması tartışılıyor",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Avrupa’da gaz fiyatları yüzde 70 arttı, depolar hızla boşalıyor. Arz kesintileri, yükselen enflasyon ve ECB’nin sıkılaşma olasılığı, 2022’deki enerji krizinin tekrarlanacağı endişesini artırıyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_5f9778cd",
-    "title": "Trabzon Günleri bu yıl Ankara’da farklı başlayacak",
-    "source": "Haber61",
-    "time": "27/03/2026 09:05",
-    "link": "https://www.haber61.net/trabzon/trabzon-gunleri-bu-yil-ankarada-farkli-baslayacak-h627786.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Geçmiş yıllarda beklenen ilgiyi göremeyen Trabzon Günleri, bu yıl daha kapsamlı ve profesyonel bir organizasyonla düzenlenecek.",
-    "image": "https://resim.haber61.net/news/609489.jpg",
-    "keyword": "trabzon"
   }
 ]
