@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0172fa16",
+    "title": "Beylikdüzü'ndeki fen lisesinde patlama: 4 öğrenci yaralandı",
+    "source": "OdaTV",
+    "time": "27/03/2026 23:45",
+    "link": "https://www.odatv.com/guncel/beylikduzundeki-fen-lisesinde-patlama-4-ogrenci-yaralandi-120141027",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beylikdüzü Yaşar Acar Fen Lisesi’nde laboratuvarda yapılan deney sırasında meydana gelen patlamada dört öğrenci hafif yaralandı. Okulda görev yapan yetkili olayla ilgili &#039;açıklama yapamayacaklarını&#039; ifade etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/27/beylikduzundeki-fen-lisesinde-patlama-4-ogrenci-yaralandi-lzbp.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6272afde",
     "title": "Rusya'dan benzin kararı: Yasaklandı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "'Bay Hiçkimse Putin’e Karşı,' öğretmen Pavel Talankin’in gizlice kaydettiği görüntüler aracılığıyla, Kremlin’in Ukrayna işgalinin ardından öğrenciler üzerinde nasıl bir ideolojik yönlendirme kurduğunu gözler önüne seriyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4a961acd",
-    "title": "Portekiz hükümeti akaryakıtta yeni indirimler, konutta vergi teşvikleri açıkladı",
-    "source": "Euronews",
-    "time": "27/03/2026 23:04",
-    "link": "http://tr.euronews.com/my-europe/2026/03/27/portekiz-hukumeti-akaryakitta-yeni-indirimler-konutta-vergi-tesvikleri-acikladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Portekiz başbakanı, Orta Doğu’daki savaş gerekçesiyle akaryakıt için olağanüstü destekler ve konutta yeni önlemler açıkladı; KDV indirimi gündemde değil.",
     "image": null,
     "keyword": null
   }
