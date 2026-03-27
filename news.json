@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_510cfcc5",
+    "title": "İzmir barajlarının güncel durumu",
+    "source": "Habertürk",
+    "time": "27/03/2026 15:25",
+    "link": "https://www.haberturk.com/izsu-acikladi-26-mart-2026-izmir-baraj-doluluk-orani-yuzde-kac-izmir-barajlarinda-son-durum-3872456",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir barajlarının son durumu, İzmirli vatandaşlar tarafından araştırılıyor. İzmir’e içme suyu sağlayan barajlardan Balçova ve Ürkmez barajlarının doluluk oranı, yüzde 90’ın üzerinde yer alıyor. İzmir Su ve Kanalizasyon İdaresi (İZSU) tarafından yayınlanan veriler ile İzmir barajlarının su seviyesi netlik kazandı. Peki, 26 Mart 2026 İzmir baraj doluluk oranı yüzde kaç oldu? İşte ayrıntılar...",
+    "image": "https://im.haberturk.com/l/2026/03/26/ver1774511734/3872456/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3db1733b",
     "title": "Zendaya: Umarım insanlar benden bıkmaz",
     "source": "Independent",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kış mevsiminin çetin geçtiği Muş'ta besiciler, zor koşullarda hayvanlarının bakımını yapıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8f1a9669",
-    "title": "İran, Hürmüz Boğazı'nın ABD-İsrail ve destekçileriyle bağlantılı gemilere kapalı olduğunu yineledi",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 15:04",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-hurmuz-bogazinin-abd-israil-ve-destekcileriyle-baglantili-gemilere-kapali-oldugunu-yineledi/3881650",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, Hürmüz Boğazı'ndan geçmeye çalışan ABD-İsrail ve destekçileriyle bağlantılı gemilerin vurulacağı uyarısını yineledi.",
     "image": null,
     "keyword": null
   }
