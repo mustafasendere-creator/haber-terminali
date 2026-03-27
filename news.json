@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f8f96330",
+    "title": "MSB’den \"İncirlik'te sirenler çalıyor\" paylaşımlar hakkında açıklama",
+    "source": "Evrensel",
+    "time": "27/03/2026 17:04",
+    "link": "https://www.evrensel.net/haber/5977013/msbden-incirlikte-sirenler-caliyor-paylasimlar-hakkinda-aciklama",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medyada İncirlik'te sirenlerin çaldığına dair paylaşımlar paylaşımları üzerine açıklama yapan MSB kaynakları “Herhangi bir saldırı veya olumsuz bir durum bulunmamaktadır. Yanlış alarm olduğu değerlendirilmektedir\" dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340494.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_ea3a9b32",
     "title": "Trabzon'da ısınmak isterken faciadan döndü: Benzin dökünce alevler yükseldi",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bu adım, bir Earthjustice avukatına göre, 'deniz kaplumbağaları, balinalar ve mercanların yok oluşuna onay vererek petrol endüstrisini zenginleştirebilir'.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4864d25b",
-    "title": "Lübnan İsrail operasyonları konusunda alarm veriyor: 'Bu bir işgaldir'",
-    "source": "Euronews",
-    "time": "27/03/2026 16:04",
-    "link": "http://tr.euronews.com/my-europe/2026/03/27/lubnan-israil-operasyonlari-konusunda-alarm-veriyor-bu-bir-isgaldir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Kültür Bakanı Ghassan Salame, Euronews’ün Europe Today programına yaptığı açıklamada, İsrail’in Lübnan'ın güneyindeki eylemlerinin 'işgal' anlamına geldiğini, köylerin tamamen yıkıldığını ve 1 milyondan fazla kişinin yerinden edildiğini belirtti.",
     "image": null,
     "keyword": null
   }
