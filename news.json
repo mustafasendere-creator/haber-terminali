@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5f998834",
+    "title": "İklim aktivistleri nehirle 'evlendi'",
+    "source": "Euronews",
+    "time": "27/03/2026 21:05",
+    "link": "http://tr.euronews.com/2026/03/27/iklim-aktivistleri-nehirle-evlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya Su Günü kapsamında düzenlenen \"Dünya Su Düğünü\" etkinliğinde, İngiltere'deki aktivistler nehirle sembolik olarak \"evlenerek\" onu kirliliğe karşı koruma sözü verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_44b79111",
     "title": "Müzayedede rekor satış: Tek örnek dendi, koleksiyoncular peşine düştü",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor, Trendyol Süper Lig Mehmet Ali Yılmaz Sezonu’nun 28. haftasında evinde oynayacağı Galatasaray maçı hazırlıklarını bugün 16.00’da yaptığı antrenmanla sürdürdü.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/s-a-a-t-y-i-108.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_dcd2ffed",
-    "title": "Trabzon’da korkutan yangın: Bina’da yangın çıktı",
-    "source": "Haber61",
-    "time": "27/03/2026 19:44",
-    "link": "https://www.haber61.net/trabzon/trabzonda-korkutan-yangin-binada-yangin-cikti-h627853.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Ortahisar ilçesi Çukurçayır Mahallesi’nde bir binada çıkan yangın paniğe neden olurken, bölgeye çok sayıda itfaiye ve sağlık ekibi sevk edildi.",
-    "image": "https://resim.haber61.net/news/609601.jpg",
     "keyword": "trabzon"
   }
 ]
