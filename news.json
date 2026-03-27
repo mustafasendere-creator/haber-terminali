@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5cf63989",
+    "title": "ABD'de federal yargıç, Pentagon'un Anthropic'i \"riskli\" ilan ettiği kararın yürütmesini durdurdu",
+    "source": "Anadolu Ajansı",
+    "time": "27/03/2026 10:04",
+    "link": "https://www.aa.com.tr/tr/guncel/abdde-federal-yargic-pentagonun-anthropici-riskli-ilan-ettigi-kararin-yurutmesini-durdurdu/3881178",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'de federal yargıç, Savunma Bakanlığının, teknolojisini \"tüm yasal askeri amaçlar\" için ordunun kullanımına açmayı reddeden yapay zeka firması Anthropic'i \"tedarik güvenliği açısından riskli\" ilan ettiği kararın yürütmesini geçici olarak durdurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d31e4281",
     "title": "Formula 1'de sıradaki durak Japonya",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Altın fiyatlarında bugün yaşanan hareketlilik yatırımcıların odağında kalmaya devam ediyor. Bugün gram altın, çeyrek altın ve ons altın başta olmak üzere tüm altın türlerinde dikkat çeken bir dalgalanma yaşanıyor. Piyasada oluşan yeni fiyat aralıkları, altının yüksek seviyelerde kalmayı sürdürdüğünü gösteriyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/altin-fiyatlari-10.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_a22b61a8",
-    "title": "Uşak ve Marmaris belediyelerine operasyon, Uşak Belediye Başkanı dahil 24 kişi gözaltında",
-    "source": "BBC Türkçe",
-    "time": "27/03/2026 09:04",
-    "link": "https://www.bbc.com/turkce/articles/cly0k1k87z2o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rüşvet ve usulsüzlük iddialarına ilişkin soruşturmada CHP'li Uşak ve Marmaris Belediyesi'ne operasyon düzenlendi. Uşak Belediye Başkanı Özkan Yalım ve Marmaris Belediye Başkan Yardımcısı dahil toplam 24 kişi gözaltına alındı.",
-    "image": null,
     "keyword": null
   }
 ]
