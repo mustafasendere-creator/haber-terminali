@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_72a27d3d",
+    "title": "İran basını: BAE'nin enerji altyapısı olası bir saldırıda hedef olarak belirlendi",
+    "source": "TRT Haber",
+    "time": "27/03/2026 10:45",
+    "link": "https://www.trthaber.com/haber/dunya/iran-basini-baenin-enerji-altyapisi-olasi-bir-saldirida-hedef-olarak-belirlendi-939282.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran basını, ülkeye Birleşik Arap Emirlikleri BAE üzerinden saldırı ihtimaline karşı bu ülkenin enerji tesislerinin potansiyel hedef olarak belirlendiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_86da0e45",
     "title": "Trabzon’da Bugün Yürek Burkan Kayıplar: 26 Kişinin Vefat Listesi Açıklandı",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Halkbank Kadınlar Basketbol Süper Ligi play-off final serisinin maç programı belli oldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5cf63989",
-    "title": "ABD'de federal yargıç, Pentagon'un Anthropic'i \"riskli\" ilan ettiği kararın yürütmesini durdurdu",
-    "source": "Anadolu Ajansı",
-    "time": "27/03/2026 10:04",
-    "link": "https://www.aa.com.tr/tr/guncel/abdde-federal-yargic-pentagonun-anthropici-riskli-ilan-ettigi-kararin-yurutmesini-durdurdu/3881178",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'de federal yargıç, Savunma Bakanlığının, teknolojisini \"tüm yasal askeri amaçlar\" için ordunun kullanımına açmayı reddeden yapay zeka firması Anthropic'i \"tedarik güvenliği açısından riskli\" ilan ettiği kararın yürütmesini geçici olarak durdurdu.",
     "image": null,
     "keyword": null
   }
