@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_075c881d",
+    "title": "Son dakika... DEM Parti heyeti İmralı'ya gitti!",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 12:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-dem-parti-heyeti-imrali-ya-gitti-2490025",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberi... DEM Parti İmralı Heyeti üyeleri, İmralı Adası’na gitti. DEM Parti Sözcüsü Ayşegül Doğan, DEM Parti İmralı Heyeti'nin terör örgütü PKK'nin lideri Abdullah Öcalan ile görüşmek üzere bugün İmralı Adası’na gideceğini duyurmuştu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4f5b0a20",
     "title": "Ölüme terk edilmiş ve korkudan titreyen köpek yavrularına sahip çıktı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "MQ-9 Reaper İHA'larının kurulacakları Lajes üssüne şimdiden varması bekleniyordu, ancak Portekiz önce teknik bileşenleri, pilotların sertifikalarını ve acil deniz iniş alanını öğrenmek istiyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_778c7e1c",
-    "title": "Paul McCartney 18. solo albümünü duyurdu: 'The Boys Of Dungeon Lane'",
-    "source": "Euronews",
-    "time": "27/03/2026 11:24",
-    "link": "http://tr.euronews.com/kultur/2026/03/27/paul-mccartney-18-solo-albumunu-duyurdu-the-boys-of-dungeon-lane",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Paul McCartney’nin yeni albümü, Liverpool’daki çocukluk yıllarından ve Beatlemania’dan önce George Harrison ve John Lennon’la ilişkisine dair anılardan besleniyor.",
     "image": null,
     "keyword": null
   }
