@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7bfe8fdc",
+    "title": "Uşak Belediye Başkanı Özkan Yalım gözaltına alındı",
+    "source": "DW Türkçe",
+    "time": "27/03/2026 10:05",
+    "link": "https://www.dw.com/tr/uşak-belediye-başkanı-özkan-yalım-gözaltına-alındı/a-76556041",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'li belediyelere yönelik operasyonlara bir yenisi eklendi, Uşak Belediye Başkanı Özkan Yalım gözaltına alındı. Soruşturmayı İstanbul Cumhuriyet Başsavcılığı yürütüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_91b42479",
     "title": "ABD'de bir ilk: Trump'ın imzası doların üzerinde olacak",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Marmaris Belediyesine \"rüşvet\" ve \"usulsüzlük\" iddiaları üzerine operasyon yapıldı; aralarında belediye başkan yardımcısı ve birim müdürlerinin de bulunduğu 13 kişi gözaltına alındı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340426.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fd9ec2b2",
-    "title": "Meteoroloji'den uyarı: Sağanak ve fırtına etkili olacak (27.03.26)",
-    "source": "Evrensel",
-    "time": "27/03/2026 09:05",
-    "link": "https://www.evrensel.net/haber/5976936/meteorolojiden-uyari-saganak-ve-firtina-etkili-olacak-270326",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bugün parçalı ve çok bulutlu bir hava öngörürken bazı bölgeler için kuvvetli yağış ve fırtına uyarısı yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340433.jpg",
     "keyword": null
   }
 ]
