@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0e81c10b",
+    "title": "Okullarda nisan ayı teması belli oldu",
+    "source": "TRT Haber",
+    "time": "27/03/2026 15:05",
+    "link": "https://www.trthaber.com/haber/egitim/okullarda-nisan-ayi-temasi-belli-oldu-939326.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Eğitim Bakanı Yusuf Tekin, nisan ayı için \"Maarifin Kalbinde Çocuk\" temasını planladıklarını belirterek, \"Temel Eğitim Genel Müdürlüğümüz bünyesinde Türkiye'deki bütün ilkokullarda ve ortaokullarda yaklaşık 11 milyon öğrencimiz, gencimiz bu temayla etkinlik yapacak\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c781a8ee",
     "title": "Türkiye'nin yollarında yeni milat: KAUS devrede",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'da beyin ölümü gerçekleşen genç kızın ailesi, acılarını başka hastalar için umuda dönüştürdü. Giresun'da son yolculuğuna uğurlanan Burcu'nun babasının \"Başka anne babalar ağlamasın\" diyerek aldığı bu karar, organ bağışının bir son değil, yeni hayatlar için bir başlangıç olduğunu bir kez daha gösterdi.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_3b32f75b",
-    "title": "Hande Erçel Türkiye’ye döndü: Soruşturmada ifade verdi",
-    "source": "Taka Gazetesi",
-    "time": "27/03/2026 14:44",
-    "link": "https://www.takagazete.com.tr/hande-ercel-turkiyeye-dondu-sorusturmada-ifade-verdi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "yasaklı madde soruşturması kapsamında adı geçen Hande Erçel Türkiye’ye döndü. İfade veren oyuncudan adli tıp için örnek alındı.",
-    "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/09/hande-ercel-ed-ser.gif",
-    "keyword": null
   }
 ]
