@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f32f49d",
+    "title": "Suudi Arabistan uluslararası lojistik koridoru oluşturacak",
+    "source": "Habertürk",
+    "time": "27/03/2026 07:45",
+    "link": "https://www.haberturk.com/suudi-arabistan-uluslararasi-lojistik-koridoru-olusturacak-3872681",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan, Körfez’deki limanları Ürdün ve kuzeydeki ülkelere bağlayacak uluslararası bir lojistik koridorunu devreye alacağını açıkladı",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774573289/3872681/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e1242cda",
     "title": "Eğlence mekanına silahlı saldırı! 2 ölü, 3 yaralı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun Gazze Şeridi'nde ateşkes anlaşmasıyla gerisine çekildiği \"Sarı Hat\" bölgesinde 7 yeni karakol ile 17 kilometrelik toprak bariyer inşa ettiği belirtildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f6f0fdc7",
-    "title": "İran medyası: ABDİsrail saldırıları altındaki İran'ın Kum kentinde 6 kişi öldü",
-    "source": "TRT Haber",
-    "time": "27/03/2026 06:04",
-    "link": "https://www.trthaber.com/haber/dunya/iran-medyasi-abd-israil-saldirilari-altindaki-iranin-kum-kentinde-6-kisi-oldu-939242.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABDİsrail saldırıları altındaki İran'da çeşitli kentler hedef alınırken, Kum kentinde 6 kişinin öldüğü bildirildi.",
     "image": null,
     "keyword": null
   }
