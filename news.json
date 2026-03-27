@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8fd2837",
+    "title": "Genç kadın evinde ölü bulundu",
+    "source": "Habertürk",
+    "time": "27/03/2026 08:05",
+    "link": "https://www.haberturk.com/karaman-da-genc-kadin-evinde-olu-bulundu-3872670",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karaman'da 3 gündür kendisinden haber alınamayan 33 yaşındaki Nermin Duruk, ihbar üzerine eve giren polis ekibi tarafından ölü bulundu",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774561169/3872670/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_83f96534",
     "title": "Restoranda fahiş hesap iddiası: 7 gözaltı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Siyasi iktidarın muhalif kentleri ve belediyeleri siyaseten kuşatma - kıskaca alma hamleleri devam ediyor. İzmir Büyükşehir Belediyesi (İzBB), yıllardır mülkiyetinde olan binalardan çıkarılmak isteniyor. O binalar ki her birinin oldukça köklü tarihçesi var. İşte bu nedenle, söz konusu binaları sıradan hizmet binaları olarak görmemek gerekiyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar475_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ac6802fb",
-    "title": "MSB, gazetecilere Türkiye’nin savunmasını tanıtıyor",
-    "source": "Cumhuriyet",
-    "time": "27/03/2026 06:44",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/msb-gazetecilere-turkiye-nin-savunmasini-tanitiyor-2489894",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Millî Savunma Bakanlığı, Cumhuriyet’in de yer aldığı tanıtım programı kapsamında Ankara ve İzmir’de savunma araçlarını tanıttı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3b4f96b3-60b4-44e1-b00f-f239e172aa20.jpg",
     "keyword": null
   }
 ]
