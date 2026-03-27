@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3945e68",
+    "title": "Kötülüğün sıradanlığı, vasatlığın iktidarı",
+    "source": "Cumhuriyet",
+    "time": "27/03/2026 04:44",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/ozlem-yuzak/kotulugun-siradanligi-vasatligin-iktidari-2489918",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Deveye sormuşlar “Neden boynun eğri?” diye.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar74_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_811aadb5",
     "title": "‘ABD bağımlılığına kapı araladı’",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Van Edremit'te polis ekiplerinin narkotik köpek yardımıyla bir kamyonette yapılan aramada, 90 kilo 600 gram uyuşturucu madde ele geçirildi, 1 şüpheli gözaltına alındı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/vanda-90-kilo-uyusturucu-ele-gecirildi-zebh.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ac49fec0",
-    "title": "ASKİ açıkladı: Ankara barajlarında doluluk kritik seviyede (26.03.2026)",
-    "source": "Evrensel",
-    "time": "27/03/2026 02:44",
-    "link": "https://www.evrensel.net/haber/5976841/aski-acikladi-ankara-barajlarinda-doluluk-kritik-seviyede-26032026",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara Su ve Kanalizasyon İdaresi (ASKİ) verilerine göre, başkentte barajların toplam doluluk oranı yüzde 29,37, kullanılabilir aktif su oranı ise yüzde 21,15’e geriledi. Bazı barajlarda doluluk yüzde 5’in altına düştü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/336971.jpg",
     "keyword": null
   }
 ]
