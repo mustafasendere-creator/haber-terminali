@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c6c85ac",
+    "title": "İran Sağlık Bakanlığı: Saldırılarda 230'dan fazla çocuk hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 00:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/iran-saglik-bakanligi-saldirilarda-230-dan-fazla-cocuk-hayatini-kaybetti-2490369",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, ABD-İsrail saldırılarının başladığı 28 Şubat'tan bu yana 230’dan fazla çocuk hayatını kaybettiğini duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c3ddcfc7-331f-4ce7-ab1e-c3bfde766856.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ea6b7f94",
     "title": "Bursa'da metruk binada çıkan yangın söndürüldü",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Zonguldak'ın Karadeniz Ereğli ilçesinde işçi servisi ile otomobilin çarpışması sonucu 12 kişi yaralandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d0e7b116-08bc-4552-89cd-74bde0b82a03.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_324af5fd",
-    "title": "Muğla’da balık tutarken akıntıya kapılan kişi hayatını kaybetti",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 23:25",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/mugla-da-balik-tutarken-akintiya-kapilan-kisi-hayatini-kaybetti-2490414",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla’nın Seydikemer ilçesinde balık tutarken suya düşerek akıntıya kapılan kişi yaşamını yitirdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/96ede201-24eb-4f96-aa7b-6877c9735de4.jpg",
     "keyword": null
   }
 ]
