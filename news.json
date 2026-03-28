@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_31bffb13",
+    "title": "Lüleburgaz'da zincirleme kaza: 2 yaralı",
+    "source": "TRT Haber",
+    "time": "28/03/2026 05:44",
+    "link": "https://www.trthaber.com/haber/turkiye/luleburgazda-zincirleme-kaza-2-yarali-939399.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırklarelinin Lüleburgaz ilçesinde meydana gelen zincirleme trafik kazasında 2 kişi yaralandı, 1 otomobil yanarak kullanılamaz hale geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3fb4cedf",
     "title": "Futbolcu Kubilay Kaan Kundakçı cinayeti: Otomobildeki üçüncü kişinin ifadesi ortaya çıktı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uşak Belediye Başkanı Özkan Yalım'ın da aralarında bulunduğu 13 kişinin gözaltına alınmasının ardından belediye önünde çadırlar kuruldu, demokrasi nöbeti başladı. CHP Uşak İl Başkanı Celalettin Çoban, Özkan Yalım ve diğer isimler serbest bırakılana kadar nöbet tutacaklarını açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5fde9596-c199-44c5-8ce4-91dc7dcfd4f4.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3e1303b9",
-    "title": "Hades II 14 Nisan'da konsollara gelecek",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 02:44",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/hades-ii-14-nisan-da-konsollara-gelecek-2490150",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Xbox Partner Preview etkinliğinde yapılan duyurulardan biri de Hades II'nin konsollara geleceği tarihin açıklanmasıydı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f81265da-631b-4a43-8179-528b753cc511.jpg",
     "keyword": null
   }
 ]
