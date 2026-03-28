@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_43d2a8ea",
+    "title": "İnan sana değil kastım",
+    "source": "A Haber",
+    "time": "28/03/2026 08:04",
+    "link": "https://www.ahaber.com.tr/yazarlar/salih-tuna/2026/03/28/inan-sana-degil-kastim",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Popüler \"mezhepçilik\" tartışmaları mı ahmaklık yapıyor, yoksa ahmaklar mı bu tartışmaları çok seviyor, bilemiyorum.\nBenim bildiğim şudur: Bir ahmakla tartışıyorsanız, \"İki ahmak tartışıyor\"...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_33e71f06",
     "title": "Terörsüz Türkiye sürecinde kritik eşik! AK Parti’den yasal düzenleme hamlesi",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABDİsrail saldırıları altındaki Tahran'da İran Bilim ve Teknoloji Üniversitesinin hedef alındığı bildirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_57dc0218",
-    "title": "İran'da ABD ve İsrail'in saldırılarında can kaybı bin 937'ye yükseldi",
-    "source": "Evrensel",
-    "time": "28/03/2026 05:24",
-    "link": "https://www.evrensel.net/haber/5976971/iranda-abd-ve-israilin-saldirilarinda-can-kaybi-bin-937ye-yukseldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'da ABD ve İsrail'in 28 Şubat'tan bu yana düzenlediği saldırılarda hayatını kaybedenlerin sayısı bin 937’ye ulaştı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340452.jpg",
     "keyword": null
   }
 ]
