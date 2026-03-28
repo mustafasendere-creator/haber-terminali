@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b93bef0",
+    "title": "Ürdün: Son bir haftada ülkeye 22 hava saldırısı düzenlendi",
+    "source": "TRT Haber",
+    "time": "28/03/2026 17:25",
+    "link": "https://www.trthaber.com/haber/dunya/urdun-son-bir-haftada-ulkeye-22-hava-saldirisi-duzenlendi-939461.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ürdün ordusu, son bir haftada ülkenin İran'dan atılan 22 füzeyle hedef alındığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fc646aa3",
     "title": "İran: BAE'de Ukrayna'ya ait İHA savunma deposunu vurduk",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Uluslararası Uzay İstasyonu’nda yaşanan ve nedeni açıklanamayan hastalık vakası derin uzay yolculuklarının en büyük risklerinden birini yeniden gündeme getirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_eba77dd6",
-    "title": "Üç Silahşörler'deki Dartanyan'a ilham veren asker sonunda bulunmuş olabilir",
-    "source": "Euronews",
-    "time": "28/03/2026 16:24",
-    "link": "http://tr.euronews.com/kultur/2026/03/28/uc-silahsorlerdeki-dartanyana-ilham-veren-asker-sonunda-bulunmus-olabilir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yetkililer, yeni bulunan kalıntıların Alexandre Dumas’nın ölümsüz eseri Üç Silahşörler’e ilham veren 17'inci yüzyıl Fransız askeri Charles de Batz de Castelmore’a, yani 'gerçek Dartanyan'a' ait olabileceğini belirtiyor.",
     "image": null,
     "keyword": null
   }
