@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_15a6cd1a",
+    "title": "Gebze'de çöken bina: Bilirkişiler sebep \"metro\" dedi",
+    "source": "DW Türkçe",
+    "time": "28/03/2026 12:45",
+    "link": "https://www.dw.com/tr/gebze-de-çöken-bina-bilirkişiler-sebep-metro-dedi/a-76575720",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli'nin Gebze ilçesinde 29 Ekim 2025'te dört kişinin hayatını kaybetmesine neden olan binanın yıkımında \"altından geçen metro inşaatının etkisi\" olduğu ortaya çıktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4618ebc2",
     "title": "Motorine büyük zam: Güncel akaryakıt fiyatları",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Birleşik Arap Emirlikleri, başkent Abu Dabi'ye atılan bir balistik füzenin imhası sırasında düşen şarapnel parçaları sebebiyle üçüncü kez yangın çıktığını ve olayda yaralı sayısının 6'ya çıktığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4caa0a8e",
-    "title": "Katil İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 268'e yükseldi",
-    "source": "TRT Haber",
-    "time": "28/03/2026 11:25",
-    "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-can-kaybi-72-bin-268e-yukseldi-939419.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 268'e ulaştı.",
     "image": null,
     "keyword": null
   }
