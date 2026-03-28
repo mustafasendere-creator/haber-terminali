@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_043d9927",
+    "title": "Hafta sonu hava durumu",
+    "source": "Habertürk",
+    "time": "28/03/2026 16:26",
+    "link": "https://www.haberturk.com/meteoroloji-tahminleri-ile-hafta-sonu-hava-durumu-28-29-mart-2026-istanbul-ankara-izmirde-hava-nasil-olacak-yagis-var-mi-3872809",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, yurt genelini etkileyecek yeni bir yağışlı hava sisteminin etkili olacağını açıkladı. Hafta sonu Türkiye genelinde hava parçalı ve çok bulutlu seyredecek. Özellikle Marmara Bölgesi ve Ege Bölgesi genelinde sağanak yağışların etkili olması bekleniyor. Peki, 27-28 Mart hafta sonu İstanbul, Ankara ve İzmir’de yapış olacak mı? İşte tüm detaylar...",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774605321/3872809/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_34af332b",
     "title": "27 Mart Cuma TV yayın akışı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor Galatasaray maçı öncesi heyecan zirvede. Bordo-Mavililer kazanırsa puan farkı 1’e inecek ve şampiyonluk yarışı yeniden şekillenecek.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-7-149.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_0acaa68d",
-    "title": "Bakan Uraloğlu ve Başkan Genç’ten geçmiş olsun ziyareti",
-    "source": "61 Saat",
-    "time": "28/03/2026 14:44",
-    "link": "https://www.61saat.com/bakan-uraloglu-ve-baskan-gencten-gecmis-olsun-ziyareti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu ile birlikte, geçtiğimiz günlerde meydana gelen yangında büyük hasar gören Arsin OSB'deki Cirav Fındık Fabrikası’nı ziyaret ederek işletme sahiplerine geçmiş olsun dileklerini iletti.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/bakan-35.png",
     "keyword": null
   }
 ]
