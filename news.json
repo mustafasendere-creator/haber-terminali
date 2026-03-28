@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c0d7c3ce",
+    "title": "MSB kaynaklarından İncirlik'te sirenlerin çaldığına ilişkin paylaşımlar hakkında açıklama",
+    "source": "TRT Haber",
+    "time": "28/03/2026 03:04",
+    "link": "https://www.trthaber.com/haber/gundem/msb-kaynaklarindan-incirlikte-sirenlerin-caldigina-iliskin-paylasimlar-hakkinda-aciklama-939344.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanlığı MSB kaynakları, \"Sosyal medyada İncirlik'te sirenlerin çaldığına dair paylaşımlar yapılmaktadır. Herhangi bir saldırı veya olumsuz bir durum bulunmamaktadır. Yanlış alarm olduğu değerlendirilmektedir.\" ifadelerini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8f733b4e",
     "title": "Bakan Kurum: Türkiyenin iklim kriziyle mücadelede bugün attığı adımlar, yarının dünyasını şekillendirecek",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Antalya'da kamp yapan İran Milli Futbol Takımı, Nijerya Milli Takımı ile oynadığı hazırlık maçının seremonisine, savaşta ölen çocuklara dikkati çekmek için çocuk sırt çantalarıyla çıktı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/iran-milli-takimindan-olen-cocuklar-icin-cocuk-sirt-cantali-mesaj-cay5.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_76b956b8",
-    "title": "RTÜK Başkanı Daniş: Dijital ekosistemin güvenilir şekilde işlemesi küresel bir dayanışmayla mümkün",
-    "source": "TRT Haber",
-    "time": "28/03/2026 01:24",
-    "link": "https://www.trthaber.com/haber/gundem/rtuk-baskani-danis-dijital-ekosistemin-guvenilir-sekilde-islemesi-kuresel-bir-dayanismayla-mumkun-939354.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "RTÜK Başkanı Mehmet Daniş, \"Dijital ekosistemin sağlıklı, adil ve güvenilir şekilde işlemesi, yalnızca ulusal politikalarla değil, bölgesel ve küresel bir dayanışmayla mümkündür. Dijital hegemonya kurmak isteyen yapıların karşısında kendi medeniyet değerlerimizden beslenen ortak bir iletişim ağını tahkim etmek zorundayız\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
