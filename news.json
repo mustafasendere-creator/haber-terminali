@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_af116006",
+    "title": "Katil İsrail ordusunun Lübnan'da ambulansa düzenlediği saldırıda 1 sağlık çalışanı öldü",
+    "source": "TRT Haber",
+    "time": "28/03/2026 04:04",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusunun-lubnanda-ambulansa-duzenledigi-saldirida-1-saglik-calisani-oldu-939394.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Katil İsrail ordusunun Lübnan'ın güneyindeki Nebatiye vilayetine bağlı Kefr Tebnit beldesinde bir ambulansı hedef alması sonucu 1 sağlık personeli hayatını kaybetti, 4 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_623bf301",
     "title": "Boşandığı erkek tarafından çocuklarının gözü önünde vuruldu; üstüne araba sürüldü: Ölmek istemiyorum",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Diyarbakır’ın merkez Bağlar ilçesinde kolonlarında çatlama sesi duyulan bina tedbir amaçlı olarak boşaltıldı. 51 vatandaş tahliye edildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/diyarbakirda-korkulu-anlar-kwlq.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_59c8dee8",
-    "title": "Halkbank ve İTÜ ARI Teknokent işbirliği: HUBrica’nın 3. dönem başvuruları başladı",
-    "source": "Ekonomim",
-    "time": "28/03/2026 01:44",
-    "link": "https://www.ekonomim.com/sirketler/halkbank-ve-itu-ari-teknokent-isbirligi-hubricanin-3-donem-basvurulari-basladi-haberi-884467",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Halkbank&#039;ın, İstanbul Teknik Üniversitesi (İTÜ) ARI Teknokent işbirliği ve İTÜ Çekirdek&#039;in bilgi birikimiyle hayata geçirdiği HUBrica Hızlandırma Programı&#039;nın yeni dönem takvimi belli oldu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/27/halkbank-ve-itu-ari-teknokent-isbirligi-hubricanin-3-donem-basvurulari-basladi-rtsm_cover.jpg",
     "keyword": null
   }
 ]
