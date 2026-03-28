@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c0c3aca3",
+    "title": "İran'da patlamalar meydana geldi",
+    "source": "TRT Haber",
+    "time": "28/03/2026 22:44",
+    "link": "https://www.trthaber.com/haber/dunya/iranda-patlamalar-meydana-geldi-939483.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail saldırılarının hedefindeki İran'ın başkenti Tahran'da patlamalar meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_bed9ea7c",
     "title": "Drăguș’u güldüren transfer sorusu",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Rusya’ya bağlı Dağıstan Özerk Cumhuriyeti’nde etkili olan kuvvetli yağışlar nedeniyle meydana gelen sel felaketi yüzlerce hanede su baskınına, elektrik kesintisine ve bölgede ulaşımın aksamasına neden oldu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/dagistanda-sel-felaketi-yuzlerce-evi-su-basti-mfat.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_375f4351",
-    "title": "Ömer Çelik: İnsanların hayatını tehdit eden şey soykırım şebekesinin başındaki Netanyahu'dur",
-    "source": "TRT Haber",
-    "time": "28/03/2026 21:05",
-    "link": "https://www.trthaber.com/haber/gundem/omer-celik-insanlarin-hayatini-tehdit-eden-sey-soykirim-sebekesinin-basindaki-netanyahudur-939470.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, \"Bugün Netanyahu hükümetinin değişmesi gerekiyor. Bugün hem bölge barışını hem insanların hayatını tehdit eden şey soykırım şebekesi ve soykırım şebekesinin başındaki Netanyahu'dur\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
