@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_524ec1d9",
+    "title": "DEM Parti’den Duhok ve Erbil’e yönelik saldırılarına kınama",
+    "source": "Evrensel",
+    "time": "29/03/2026 02:24",
+    "link": "https://www.evrensel.net/haber/5977174/dem-partiden-duhok-ve-erbile-yonelik-saldirilarina-kinama",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan, Duhok ve Erbil’e yönelik gerçekleştirilen saldırıları kınadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/295513.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_78f8b692",
     "title": "Zonguldak Ereğli’de zincirleme kaza: 12 yaralı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ankara CUMOK’un hikâyesi üzerinden, gazeteci-yazar Adnan Gerger tarafından kaleme alınan “Önce Cumhuriyet” kitabının tanıtımı gazetemizin Ankara Bürosu'nda yapıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/f603f4ee-7aa9-41c6-9841-322037db7979.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7b22fff9",
-    "title": "Özgür Özel’den Kuşadası mitingine çağrı!",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 00:44",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-kusadasi-mitingine-cagri-2490423",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Genel Başkanı Özgür Özel, Kuşadası Belediye Başkanı Ömer Günel’in tutuklanmasının ardından 29 Mart günü Kuşadası'nda düzenlenecek miting için çağrıda bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4f90ef90-cf00-405e-82ae-5d06c63fefbc.jpg",
     "keyword": null
   }
 ]
