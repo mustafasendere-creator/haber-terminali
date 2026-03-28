@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e5f805e4",
+    "title": "İçişleri Bakanlığı'ndan 'sarı' kodlu meteorolojik uyarı",
+    "source": "TRT Haber",
+    "time": "28/03/2026 20:24",
+    "link": "https://www.trthaber.com/haber/turkiye/icisleri-bakanligindan-sari-kodlu-meteorolojik-uyari-939476.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, yarın Sakarya, Düzce, Zonguldak, Bartın, Bolu, Karabük çevreleri ile Kastamonu'nun batı ve Ankara'nın kuzeybatı ilçeleri için \"sarı\" kodlu meteorolojik uyarıda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3f465ff5",
     "title": "Ali Bayramoğlu: 'Dezenformasyon yasası', Demokles'in kılıcı işlevini kararlı biçimde sürdürüyor",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Galatasaray derbisi öncesi Mehmet Ali Yılmaz Tesisleri’nde adeta kamp kurdu. Oyuncularıyla birebir görüşmeler yapan Tekke, kritik randevu öncesi takımı hem taktik hem de mental olarak hazırlıyor.",
     "image": "https://resim.haber61.net/news/609729.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_96d66b13",
-    "title": "Petrol Fiyatları Uçuşta! Hürmüz Krizi Piyasaları Sarsıyor",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 18:44",
-    "link": "https://www.takagazete.com.tr/petrol-fiyatlari-ucusta-hurmuz-krizi-piyasalari-sarsiyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Orta Doğu’da tırmanan savaş, küresel enerji piyasalarını derinden sarstı. Hürmüz Boğazı’ndaki akışın durma noktasına gelmesiyle petrol fiyatları son yılların en yüksek seviyesine çıktı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/benzin-38.jpg",
-    "keyword": null
   }
 ]
