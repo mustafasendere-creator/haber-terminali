@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_229eb664",
+    "title": "Tüpraş Stadı'nda sergi alanı açıldı",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 22:44",
+    "link": "https://www.aa.com.tr/tr/guncel/tupras-stadinda-sergi-alani-acildi/3883382",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beşiktaş'ın iç saha maçlarına ev sahipliği yapan Tüpraş Stadı'nda yapımı tamamlanan ve Antre 1903 adı verilen sergi alanının açılışı gerçekleştirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3eb87232",
     "title": "İletişim Başkanı Duran, STRATCOM Zirvesi kapsamında görüşmeler gerçekleştirdi",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor 16 maçtır derbi kazanamıyor. Şampiyonluk sezonu öncesinde oynadığı futbolla derbi maçlarında farklı bir kimlikle sahaya çıkan ve rakiplerini ezen Bordo-Mavililer şampiyonluk sezonunda ise derbi kaybetmemişti. Bordo-Mavili taraftarlar takımın Galatasaray’a karşı oynadığı 2018-2019 sezonundaki ilk yarıdaki maçı unutamıyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/d-e-r-b-i-i-i-i-2.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_2997eac3",
-    "title": "Kudüs yakınlarına füze saldırısı: İsrail hasarı inceledi",
-    "source": "Euronews",
-    "time": "28/03/2026 21:04",
-    "link": "http://tr.euronews.com/video/2026/03/28/kudus-yakinlarina-fuze-saldirisi-israil-hasari-inceledi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumartesi Kudüs yakınındaki Eshtaol’a düşen İran balistik füzesi, sakinleri yaraladı; evlere ve araçlara zarar verdi. Savaş bölgeyi ikinci ayında sarsıyor.",
-    "image": null,
-    "keyword": null
   }
 ]
