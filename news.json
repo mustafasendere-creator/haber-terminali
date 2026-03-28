@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fc5be4fa",
+    "title": "MSB'den 'yabancı cisim' açıklaması",
+    "source": "OdaTV",
+    "time": "28/03/2026 13:06",
+    "link": "https://www.odatv.com/guncel/msbden-yabanci-cisim-aciklamasi-120141115",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanlığı, Karadeniz&#039;de tespit edilen toplam 275 şüpheli cismin imha edildiğini bildirdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/msbden-yabanci-cisim-aciklamasi-4f7j.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c49c16f5",
     "title": "Stagflasyon kapıda: Savaş bugün bitse bile toparlanma en az 3-4 yıl sürecek!",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Cibuti'nin liman kenti Obock'tan 300'den fazla kişiyle yola çıkan tekne salı günü battığında Bab el-Mandeb Boğazı'nı geçmeye çalışıyordu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_faa866e0",
-    "title": "Araştırma: Köpekler insanlarla sanılandan 5 bin yıl önce yaşamış",
-    "source": "Euronews",
-    "time": "28/03/2026 12:44",
-    "link": "http://tr.euronews.com/kultur/2026/03/28/arastirma-kopekler-insanlarla-sanilandan-5-bin-yil-once-yasamis",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antik DNA, evcil köpeklerin insanlarla 15.000 yıldan daha uzun süre önce birlikte yaşadığını ortaya koyarak kökenleri ve toplumdaki önemine dair anlayışımızı değiştiriyor.",
     "image": null,
     "keyword": null
   }
