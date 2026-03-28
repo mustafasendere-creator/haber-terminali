@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_28eadde6",
+    "title": "Dicle Nehri'ne petrol karıştı",
+    "source": "OdaTV",
+    "time": "28/03/2026 22:45",
+    "link": "https://www.odatv.com/guncel/dicle-nehrine-petrol-karisti-120141155",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cizre’de TPAO boru hattından sızan ham petrol Dicle Nehri’ne karıştı; akış kesilirken bölgede çevre kirliliği ve kötü koku oluştu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/dicle-nehrine-petrol-karisti-4zlr.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5ee90723",
     "title": "Kosova - Türkiye maçının hakemi belli oldu",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Rize’de burnundan siyah akıntı gelmesi şikayetiyle hastaneye başvurulan 5 yaşındaki çocuğun burnundan metal zincir parçası çıkarıldı. Aile, daha önce gittikleri özel hastanede durumun fark edilmediğini iddia ederek hukuki süreç başlatacağını duyurdu.",
     "image": "https://resim.haber61.net/news/609742.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_01a50a4b",
-    "title": "Mersin’de yaralanan polis memuru şehit oldu! Trabzon Valiliği’nden taziye mesajı",
-    "source": "Haber61",
-    "time": "28/03/2026 21:24",
-    "link": "https://www.haber61.net/trabzon/mersinde-yaralanan-polis-memuru-sehit-oldu-trabzon-valiliginden-taziye-h627927.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Mersin’de meydana gelen trafik kazasında yaralanan polis memuru Serkan Ünal, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen kurtarılamayarak şehit oldu. Trabzon Valisi Aziz Yıldırım da yayımladığı taziye mesajıyla başsağlığı dileğinde bulundu.",
-    "image": "https://resim.haber61.net/news/609744.jpg",
     "keyword": null
   }
 ]
