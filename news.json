@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d7055a21",
+    "title": "ABD ve İsrail saldırılarının birinci ayı: İspanya'nın birçok kentinde savaş karşıtı gösteriler düzenlendi",
+    "source": "Evrensel",
+    "time": "28/03/2026 22:44",
+    "link": "https://www.evrensel.net/haber/5977184/abd-ve-israil-saldirilarinin-birinci-ayi-ispanyanin-bircok-kentinde-savas-karsiti-gosteriler-duzenlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a yönelik saldırılarının başlamasının birinci ayı olması dolayısıyla başkent Madrid başta olmak üzere İspanya'nın birçok kentinde \"savaşa hayır\" gösterileri düzenlendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340650.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a925a859",
     "title": "Rusya: ABD ile İsrail, İran’a saldırıları durdurmalı",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusu, İran'ın başkenti Tahran'da Denizcilik Sanayi Kurumu ve silah üretim tesislerinin hedef alındığı bir saldırı dalgasını tamamladığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d9ebccc3",
-    "title": "TİKA'nın desteğiyle El Salvador'da 'Türkiye Parkı' açıldı",
-    "source": "TRT Haber",
-    "time": "28/03/2026 21:04",
-    "link": "https://www.trthaber.com/haber/dunya/tikanin-destegiyle-el-salvadorda-turkiye-parki-acildi-939478.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı'nın finansmanıyla El Salvador'un başkenti San Salvadorda inşa edilen ve ay yıldız formundaki anıtla Gazi Mustafa Kemal Atatürk'ün büstünü barındıran \"Türkiye Plaza Türkiye Parkı\", dün ziyaretçilere kapılarını açtı.",
     "image": null,
     "keyword": null
   }
