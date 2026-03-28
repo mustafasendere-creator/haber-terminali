@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fdf2545d",
+    "title": "Yaralı İran daha güçlü",
+    "source": "A Haber",
+    "time": "28/03/2026 07:24",
+    "link": "https://www.ahaber.com.tr/yazarlar/melih-altinok/2026/03/28/yarali-iran-daha-guclu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Savaşın ironisi bazen sonucu kadar nettir. Zayıflatmak için bastırdıkça, rakibini tarif eder ve büyütürsün.\nBugün İran'ın başına gelen biraz bu.\nDış baskı, içerideki safları sıklaştırmakla kalmadı;...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_b4495b7b",
     "title": "“Bizim için sadece insan vardır!”",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bir zamanlar ritüelin parçası olan Türk kahvesi, bugün tatlı mutfağında yeniden yorumlanarak kekten muhallebiye uzanan geniş bir kullanım alanı kazanıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/65925354-50f1-4f1e-9417-53b1a5c653fe.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_69c80136",
-    "title": "Spor turizmi",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 04:24",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/feyzi-acikalin/spor-turizmi-2490194",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Spor turizminin Antik Çağ’daki oyunlarla başladığı varsayılır.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar137_cover.jpeg",
     "keyword": null
   }
 ]
