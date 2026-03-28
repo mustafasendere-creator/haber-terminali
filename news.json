@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4495b7b",
+    "title": "“Bizim için sadece insan vardır!”",
+    "source": "A Haber",
+    "time": "28/03/2026 07:24",
+    "link": "https://www.ahaber.com.tr/yazarlar/okan-muderrisoglu/2026/03/28/bizim-icin-sadece-insan-vardir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail kirli ittifakının İran'a karşı başlattığı, Körfez ülkelerini de doğrudan içine çeken savaş, \"askeri, ekonomik, stratejik\" tehditlerin yanında \"din ve mezhep\" temelli riskleri de...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_c6856a38",
     "title": "Haftanın notları: ‘Yahudileşmeyin!’",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Spor turizminin Antik Çağ’daki oyunlarla başladığı varsayılır.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar137_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ffa24d8b",
-    "title": "İranlı yetkili: ABDİsrail'in saldırılarında Zencan'da 5 kişi öldü, 7 kişi yaralandı",
-    "source": "TRT Haber",
-    "time": "28/03/2026 04:24",
-    "link": "https://www.trthaber.com/haber/dunya/iranli-yetkili-abd-israilin-saldirilarinda-zencanda-5-kisi-oldu-7-kisi-yaralandi-939395.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABDİsrail'in İran'ın kuzeyindeki Zencan eyaletine düzenlediği hava saldırısında 5 sivilin öldüğü, 7 kişinin yaralandığı bildirildi.",
-    "image": null,
     "keyword": null
   }
 ]
