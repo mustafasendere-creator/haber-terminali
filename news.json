@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9b280cb0",
+    "title": "Körfez’de sel felaketi: Çok sayıda ölü!",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 23:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/korfez-de-sel-felaketi-cok-sayida-olu-2490416",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Umman, BAE ve Katar başta olmak üzere birçok Körfez ülkesinde etkili olan şiddetli yağış ve sel hayatı felç etti. Umman’da ölü sayısı 11’e yükselirken, bölgede tahliyeler ve kurtarma çalışmaları sürüyor.",
+    "image": "https://media.cumhuriyet.com.tr/cumhuriyet-noimage.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0edcd2f2",
     "title": "Pakistan duyurdu: İran, 20 Pakistan gemisinin Hürmüz Boğazı'ndan geçişine izin verdi",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’da Batagov’un Galatasaray maçına yetişip yetişemeyeceği belirsizliğini koruyor. Savunmanın önemli ismi için 4 Nisan öncesi zaman giderek daralıyor.",
     "image": "https://resim.haber61.net/news/609751.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_f3fe2165",
-    "title": "TTSO Meclis Üyesi Kazaz, yazılım, bilgisayar ve telefon sektörünün sorunlarını dile getirdi",
-    "source": "61 Saat",
-    "time": "28/03/2026 22:24",
-    "link": "https://www.61saat.com/ttso-meclis-uyesi-kazaz-yazilim-bilgisayar-ve-telefon-sektorunun-sorunlarini-dile-getirdi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Ticaret ve Sanayi Odası’nın, bilgisayar, yazılım ve telefon firmalarının bulunduğu 17’nci Meslek Komitesi’nden Meclis Üyesi Ahmet Kazaz, sektörüyle ilgili değerlendirmelerde bulundu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ekran-resmi-2026-03-28-221547.png",
-    "keyword": null
   }
 ]
