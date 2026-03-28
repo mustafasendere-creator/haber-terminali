@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_351cbf45",
+    "title": "4 cezaevi aracı kaza yaptı: 15 yaralı",
+    "source": "Habertürk",
+    "time": "28/03/2026 23:25",
+    "link": "https://www.haberturk.com/tem-otoyolunda-4-cezaevi-nakil-araci-kaza-yapti-15-yarali-3872849",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Başakşehir’de TEM Otoyolu’nda 4 cezaevi nakil aracının karıştığı zincirleme kazada 6’sı jandarma, 9’u mahkum olmak üzere 15 kişi yaralandı. Yaralılar hastaneye kaldırılırken, kazanın duruşma sonrası nakil sırasında meydana geldiği belirtildi. Valilikten gelen açıklamada, yaralıların durumunun hafif olduğu bildirildi",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774619504/3872849/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_1c9df4ed",
     "title": "Okulda laboratuvarda patlama: 4 yaralı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Uluslararası Stratejik İletişim Zirvesi (STRATCOM) kapsamında görüşmeler gerçekleştirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_775f98f2",
-    "title": "Körfez ülkelerinde aşırı yağışlar ve sel, can kaybına neden oldu",
-    "source": "Anadolu Ajansı",
-    "time": "28/03/2026 22:44",
-    "link": "https://www.aa.com.tr/tr/guncel/korfez-ulkelerinde-asiri-yagislar-ve-sel-can-kaybina-neden-oldu/3883431",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Umman, Birleşik Arap Emirlikleri (BAE) ve Katar başta olmak üzere Körfez ülkeleri genelinde etkili olan şiddetli yağış ve sel, can kaybına yol açtı ve yaşamı olumsuz etkiledi.",
     "image": null,
     "keyword": null
   }
