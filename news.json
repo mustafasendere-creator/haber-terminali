@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_78e16c57",
+    "title": "Meteoroloji uyardı: Ege ve Batı Akdeniz’de kuvvetli yağış bekleniyor (28.03.26)",
+    "source": "Evrensel",
+    "time": "28/03/2026 08:04",
+    "link": "https://www.evrensel.net/haber/5977067/meteoroloji-uyardi-ege-ve-bati-akdenizde-kuvvetli-yagis-bekleniyor-280326",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bugün yağışlı hava etkili olurken, Ege ve Batı Akdeniz'de kuvvetli, yer yer şiddetli yağış; bölgede ayrıca kısa süreli fırtına bekleniyor. Meteoroloji, sel, su baskını ve çığ riskine karşı uyardı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340551.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_73c04d22",
     "title": "MEB'den ek atama duyurusu: Başvurular 28-30 Mart 2026 tarihleri arasında",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kırklarelinin Lüleburgaz ilçesinde meydana gelen zincirleme trafik kazasında 2 kişi yaralandı, 1 otomobil yanarak kullanılamaz hale geldi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3fb4cedf",
-    "title": "Futbolcu Kubilay Kaan Kundakçı cinayeti: Otomobildeki üçüncü kişinin ifadesi ortaya çıktı",
-    "source": "Evrensel",
-    "time": "28/03/2026 05:44",
-    "link": "https://www.evrensel.net/haber/5976970/futbolcu-kubilay-kaan-kundakci-cinayeti-otomobildeki-ucuncu-kisinin-ifadesi-ortaya-cikti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Amatör futbolcu Kubilay Kaan Kundakçı cinayeti ile ilgili araçta bulunan üç kişiden biri olan Yalçınay Yıldız’ın ifadesi ortaya çıktı. Yıldız, stüdyonun önüne Aleyna Kalaycıoğlu ile Canbay'ı barıştırmak için gittiklerini söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339522.jpg",
     "keyword": null
   }
 ]
