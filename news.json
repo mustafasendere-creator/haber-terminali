@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9b6a1426",
+    "title": "Ateşe benzin döktü, ölümden döndü!",
+    "source": "Habertürk",
+    "time": "28/03/2026 22:45",
+    "link": "https://www.haberturk.com/atese-benzin-doktu-olumden-dondu-3872894",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trabzon'da ısınmak amacıyla yanan ateşe benzin döken Yiğit Demir adlı genç, bir anda yükselen alevler sonucu yaralandı",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774621460/3872894/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_104e3213",
     "title": "Cinsel birliktelik ilanı ile dolandırıcılığa 11 tutuklama",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sakarya, Düzce, Zonguldak, Bartın, Bolu, Karabük ile Kastamonu ve Ankara’nın bazı ilçelerinde yarın kuvvetli yağış bekleniyor. Ani sel, su baskını, dolu ve fırtına riskine karşı dikkatli olunması gerekiyor.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/siddetli-yagis-uyarisi-bakanlik-sari-kod-verdi-ldfp.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d654a26d",
-    "title": "Adapazarı Belediye Başkanı Işıksu, AK Parti’den istifa etti",
-    "source": "Ekonomim",
-    "time": "28/03/2026 21:05",
-    "link": "https://www.ekonomim.com/gundem/adapazari-belediye-baskani-isiksu-ak-partiden-istifa-etti-haberi-884568",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yasak aşk iddialarıyla gündeme gelen AK Parti Adapazarı Belediye Başkanı Mutlu Işıksu, düzenlediği basın toplantısının ardından istifa ettiğini açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/adapazari-belediye-baskani-isiksu-ak-partiden-istifa-etti-vwiy_cover.jpg",
     "keyword": null
   }
 ]
