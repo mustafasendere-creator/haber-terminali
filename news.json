@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ac6a4008",
+    "title": "Manisa Salihli'de sağanak hayatı olumsuz etkiledi: Göbekli Çayı taştı, tarım arazileri sular altında kaldı",
+    "source": "Evrensel",
+    "time": "29/03/2026 01:04",
+    "link": "https://www.evrensel.net/haber/5977198/manisa-salihlide-saganak-hayati-olumsuz-etkiledi-gobekli-cayi-tasti-tarim-arazileri-sular-altinda-kaldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'nın Salihli ilçesinde gün boyu etkili olan sağanak nedeniyle Göbekli Çay'ı taştı; tarım arazileri ve bazı evlerde su baskınları yaşandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340661.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f9918071",
     "title": "Yemen'deki Husiler: İsrail'e seyir füzesi ve İHA'larla ikinci bir saldırı düzenledik",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CSO Ada Ankara, baharın gelişine özel düzenlenecek konserde sanatçı Suzan Kardeş'i ağırlayacak.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0ba3cfb2",
-    "title": "Niğde'de kan donduran olay: Eşini bıçakladı, ardından kendini yaraladı",
-    "source": "OdaTV",
-    "time": "28/03/2026 23:45",
-    "link": "https://www.odatv.com/guncel/nigdede-kan-donduran-olay-esini-bicakladi-ardindan-kendini-yaraladi-120141123",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Niğde&#039;de C.Y., boşanma aşamasındaki eşi 26 yaşındaki B.Z.Y.’yi bıçakladıktan sonra aynı bıçakla kendini yaraladı. Ağır yaralanan B.Z.Y. hastaneye kaldırıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/nigdede-kan-donduran-olay-esini-bicakladi-ardindan-kendini-yaraladi-8hwk.jpg",
     "keyword": null
   }
 ]
