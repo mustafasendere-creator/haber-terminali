@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c9df4ed",
+    "title": "Okulda laboratuvarda patlama: 4 yaralı",
+    "source": "Habertürk",
+    "time": "28/03/2026 23:25",
+    "link": "https://www.haberturk.com/okulda-laboratuvarda-patlama-4-yarali-3872852",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beylikdüzü’nde fen lisesinin kimya laboratuvarında deney sırasında patlama meydana geldi. Olayda 4 öğrenci hafif yaralandı",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774615080/3872852/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_742e2e0e",
     "title": "Özgür Özel: Kimse bu kara düzenden tek başına kurtulamaz ya hep birlikte başaracağız ya hepimiz perişan olacağız",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Umman, Birleşik Arap Emirlikleri (BAE) ve Katar başta olmak üzere Körfez ülkeleri genelinde etkili olan şiddetli yağış ve sel, can kaybına yol açtı ve yaşamı olumsuz etkiledi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_bed9ea7c",
-    "title": "Drăguș’u güldüren transfer sorusu",
-    "source": "61 Saat",
-    "time": "28/03/2026 22:44",
-    "link": "https://www.61saat.com/dragusu-gulduren-transfer-sorusu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor'un sezon başında Gaziantep FK'ya kiralık olarak gönderdiği Denis Drăguș, Romanya basınında FCSB'nin yaz transfer döneminde onu kadrosuna katmak istediği iddialarıyla gündeme gelmeye devam ediyor. Ancak, Drăguș bu transfer sorusuna gülerek yanıt verdi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/dd-20.png",
     "keyword": null
   }
 ]
