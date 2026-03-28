@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7a19a040",
+    "title": "Van-Hakkari karayolunda çığ",
+    "source": "Gazete Duvar",
+    "time": "28/03/2026 21:04",
+    "link": "https://www.gazeteduvar.com.tr/van-hakkari-karayolunda-cig-haber-1765763",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Van-Hakkari karayolu Güzeldere Geçidi mevkiinde meydana gelen çığ nedeniyle ulaşım durdu.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-2t53_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bf5de4e8",
     "title": "Vedat Muriqi: Türkiye bizden üstün bir milli takım",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Samsun&#039;da hafif ticari araç ile SUV tipi aracın kafa kafaya çarpıştığı kazada 4 kişi yaralandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-q5cf_cover.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_ea3c1373",
-    "title": "Trabzon'da Teknoloji Rüzgarı",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "28/03/2026 20:04",
-    "link": "https://www.karadenizdesonnokta.com.tr/trabzonda-teknoloji-ruzgari",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/03/whatsapp-image-2026-03-28-at-150932.jpeg",
-    "keyword": "trabzon"
   }
 ]
