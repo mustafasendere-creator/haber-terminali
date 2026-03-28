@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_23b30c07",
+    "title": "Yandaşlar 'soruşturma' diye duyurmuştu: ABB'den 'Mansur Yavaş' açıklaması",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 01:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/yandaslar-sorusturma-diye-duyurmustu-abb-den-mansur-yavas-aciklamasi-2490349",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İktidara yakınlığı ile bilinen gazetelerde “Mansur Yavaş hakkında üçüncü soruşturma izni verildi” başlıklı haberler servis edildi. ABB konuya ilişkin yaptığı açıklamada haberleri yalanladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0b0d693a-fdd1-403f-8db1-9e2aa76b4002.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_94b80cc4",
     "title": "Günlük Burç Yorumları: 29 Mart Pazar Kova Burcu Yorumu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "2023 ve 2024 yıllarında on binlerce işçinin katılımıyla büyüyen Antep'teki direniş dalgası yeniden alevlendi. İnsanca yaşam ve güvenli çalışma koşulları talep eden işçi sınıfının mücadelesi yargı eliyle durdurulmak isteniyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340384.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f3547d9e",
-    "title": "Ücretli kölelikle öğretmen açığı'yamanmıyor",
-    "source": "Evrensel",
-    "time": "29/03/2026 00:24",
-    "link": "https://www.evrensel.net/haber/5977159/ucretli-kolelikle-ogretmen-acigi-yamanmiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Büyüyen öğretmen açığını kapatmak için MEB'in güvencesiz, düşük ücretle çalıştırdığı ücretli öğretmen sayısı artıyor. 62 ilde ücretli öğretmen sayısı 71 bin 757 olurken sadece 55 ildeki öğretmen açığı sayısı ise 80 bin 449.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340622.jpg",
     "keyword": null
   }
 ]
