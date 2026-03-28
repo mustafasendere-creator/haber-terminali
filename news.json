@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3ba8e28",
+    "title": "Menülerde içerik belirtme zorunluluğunun ayrıntıları belli oldu",
+    "source": "TRT Haber",
+    "time": "28/03/2026 17:25",
+    "link": "https://www.trthaber.com/haber/ekonomi/menulerde-icerik-belirtme-zorunlulugunun-ayrintilari-belli-oldu-939460.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Restoran, kafe ve kantin gibi işletmeler, gıdaların içerikleri ile alerjen bilgilerini menüler, duvar tahtaları ve broşürlerin yanı sıra dijital ekranlar veya karekod QR aracılığıyla da sunabilecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6b93bef0",
     "title": "Ürdün: Son bir haftada ülkeye 22 hava saldırısı düzenlendi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail’in Lübnan’ın Cizzin ilçesinde gazetecileri taşıyan aracı hedef aldığı saldırıda 3 gazeteci hayatını kaybetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/170835.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a495dec4",
-    "title": "Uzayda gizemli hastalık: NASA’nın Ay planları risk altında mı?",
-    "source": "Euronews",
-    "time": "28/03/2026 16:24",
-    "link": "http://tr.euronews.com/next/2026/03/28/uzayda-gizemli-hastalik-nasanin-ay-planlari-risk-altinda-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Uzay İstasyonu’nda yaşanan ve nedeni açıklanamayan hastalık vakası derin uzay yolculuklarının en büyük risklerinden birini yeniden gündeme getirdi.",
-    "image": null,
     "keyword": null
   }
 ]
