@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b84dd808",
+    "title": "İran'ın Suudi Arabistan'daki üsse saldırısında en az 15 ABD askeri yaralandı",
+    "source": "TRT Haber",
+    "time": "28/03/2026 23:44",
+    "link": "https://www.trthaber.com/haber/dunya/iranin-suudi-arabistandaki-usse-saldirisinda-en-az-15-abd-askeri-yaralandi-939453.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, Suudi Arabistanda bulunan Prens Sultan Hava Üssüne yönelik füze ve İHA saldırısı düzenledi. Saldırıda 5i ağır olmak üzere en az 15 Amerikan askerinin yaralandığı, üsteki binaların ve yakıt ikmal uçaklarının ciddi hasar gördüğü bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_02f506c0",
     "title": "EMEP'li Sevda Karaca işçilerle buluştu: İşçi sınıfının da sermaye programına karşı bir programı olmalı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Pirincin, kuru meyvelerin ve lokum gibi kuzu etinin çıtır bir yufka zırhı içinde ağır ağır demlendiği Şah Pilavı; sadece bir yemek değil, Azerbaycan mutfak kültürünün en yüksek tescili ve bir kutlama sembolüdür.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7680e74f-d5c2-4535-be5a-2666ed0f5169.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5c840542",
-    "title": "AFAD’dan çok sayıda il için kritik uyarı: Sel, dolu ve fırtınaya dikkat",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 22:45",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/afad-dan-cok-sayida-il-icin-kritik-uyari-sel-dolu-ve-firtinaya-dikkat-2490390",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir, Manisa ve Antalya başta olmak üzere birçok il için kuvvetli yağış uyarısı yapıldı. AFAD, ani sel ve su baskınlarına karşı vatandaşları tedbirli olmaya çağırdı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5e14e875-9dfd-4a71-bb5c-c6fb06ad949a.jpg",
     "keyword": null
   }
 ]
