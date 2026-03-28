@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70ed661c",
+    "title": "İsrail polisi Tel Aviv'de savaş karşıtı protestoya müdahale etti",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 23:04",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-polisi-tel-avivde-savas-karsiti-protestoya-mudahale-etti/3883441",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail polisi, başkent Tel Aviv'de ABD-İsrail'in İran'a devam eden saldırılarını protesto etmek için toplanan kalabalığı güç kullanarak dağıttı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0f0bc087",
     "title": "Pakistan: İran, 20 Pakistan gemisinin Hürmüz Boğazı'ndan geçişine izin verdi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor eski yöneticilerinden Nevzat Aydın, dünya futbolunun önemli teknik adamlarından Jürgen Klopp’a Trabzonspor forması hediye etti.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/kk.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_01a50a4b",
-    "title": "Mersin’de yaralanan polis memuru şehit oldu! Trabzon Valiliği’nden taziye mesajı",
-    "source": "Haber61",
-    "time": "28/03/2026 21:24",
-    "link": "https://www.haber61.net/trabzon/mersinde-yaralanan-polis-memuru-sehit-oldu-trabzon-valiliginden-taziye-h627927.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Mersin’de meydana gelen trafik kazasında yaralanan polis memuru Serkan Ünal, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen kurtarılamayarak şehit oldu. Trabzon Valisi Aziz Yıldırım da yayımladığı taziye mesajıyla başsağlığı dileğinde bulundu.",
-    "image": "https://resim.haber61.net/news/609744.jpg",
     "keyword": "trabzon"
   }
 ]
