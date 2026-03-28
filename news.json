@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_07b11379",
+    "title": "Doğum izni: Süre uzuyor ama eşitlik sağlanıyor mu?",
+    "source": "DW Türkçe",
+    "time": "28/03/2026 16:25",
+    "link": "https://www.dw.com/tr/doğum-izni-süre-uzuyor-ama-eşitlik-sağlanıyor-mu/a-76577307",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meclis'te doğum izninin uzatılması tartışılırken, TÜİK verileri kadınların hâlâ iş gücünden uzak olduğunu gösteriyor. Uzmanlara göre asıl mesele ise izin süresi değil, bakım yükünün kim tarafından üstlenildiği.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b6431e8c",
     "title": "Pakistan'da kritik İran toplantısı: Hakan Fidan da katılıyor",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Devre arası transfer döneminde Trabzonspor’un kadrosuna katmak için yoğun çaba harcadığı Oğuz Aydın, Fenerbahçe’den ayrılmaya hazırlanıyor. Sarı-lacivertli kulüp ile yollarını ayıracak olan tecrübeli oyuncunun, yeni adresinin Rusya olacağı iddia ediliyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/oo-2.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_f43f4e35",
-    "title": "AK Parti Doğu Karadeniz Strateji Toplantısı Trabzon’da başladı",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 13:44",
-    "link": "https://www.takagazete.com.tr/ak-parti-dogu-karadeniz-strateji-toplantisi-trabzonda-basladi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Meta Açıklama: AK Parti Doğu Karadeniz Strateji Toplantısı Trabzon’da başladı. Liderlik, teşkilat yapısı ve 2053-2071 hedefleri masaya yatırıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-3-255.jpg",
-    "keyword": null
   }
 ]
