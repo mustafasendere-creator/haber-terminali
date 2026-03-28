@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2997eac3",
+    "title": "Kudüs yakınlarına füze saldırısı: İsrail hasarı inceledi",
+    "source": "Euronews",
+    "time": "28/03/2026 21:04",
+    "link": "http://tr.euronews.com/video/2026/03/28/kudus-yakinlarina-fuze-saldirisi-israil-hasari-inceledi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumartesi Kudüs yakınındaki Eshtaol’a düşen İran balistik füzesi, sakinleri yaraladı; evlere ve araçlara zarar verdi. Savaş bölgeyi ikinci ayında sarsıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_234bb5c4",
     "title": "2 aracın karıştığı kazada 4’ü çocuk 9 kişi yaralandı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Paris'teki Bastille Meydanı'nda toplanan yüzlerce kişi, Donald Trump karşıtı 'Kral Yok' eyleminde otoriterliği ve 'bitmeyen savaşları' kınıyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f609d28f",
-    "title": "Batman’da kontrolden çıkan otomobil ters döndü: 1 yaralı",
-    "source": "Gazete Duvar",
-    "time": "28/03/2026 20:04",
-    "link": "https://www.gazeteduvar.com.tr/batmanda-kontrolden-cikan-otomobil-ters-dondu-1-yarali-haber-1765764",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Batman kent merkezinde sürücüsünün kontrolünden çıkan otomobilin refüje çarparak ters döndüğü kazada 1 kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-berm_cover.jpg",
     "keyword": null
   }
 ]
