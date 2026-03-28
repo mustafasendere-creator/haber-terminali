@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fd0e367e",
+    "title": "Tuzla’da kuru yük gemisinde yangın paniği!",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 09:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/tuzla-da-kuru-yuk-gemisinde-yangin-panigi-2490222",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tuzla'da tersaneler bölgesinde demirli kuru yük gemisinde çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Yangının çıkış nedenine ilişkin inceleme başlatıldığı aktarıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0ec1507e-b751-45da-818d-f00919003119.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c65069fc",
     "title": "Kur baskısı güçleniyor, piyasa altın, dolar, savaş, üçgeninde",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump&#039;ın Orta Doğu Özel Temsilcisi Steve Witkoff, ABD ile İran arasında yakında görüşmeler yapılabileceğini belirterek, &quot;Başkan bir barış anlaşması istiyor. Ama baskı olmadan kimseyi masaya oturtamazsınız. Biz bu sorunu diplomatik yollarla çözmeye hazırız&quot; dedi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/trumpin-orta-dogu-ozel-temsilcisi-witkofftan-iranla-muzakere-sinyali-b96w_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e74846ab",
-    "title": "Trump: 'İran'la konuşuyoruz, anlaşma yapmak istiyorlar' (Video)",
-    "source": "Ekonomim",
-    "time": "28/03/2026 08:05",
-    "link": "https://www.ekonomim.com/dunya/trump-iranla-konusuyoruz-anlasma-yapmak-istiyorlar-video-haberi-884486",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran&#039;ın büyük bir yenilgiye uğradığını öne sürerek, &quot;Bizimle konuşuyorlar. Şu anda konuşuyoruz. Anlaşma yapmak istiyorlar&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/trump-iranla-konusuyoruz-anlasma-yapmak-istiyorlar-video-wrgl_cover.jpg",
     "keyword": null
   }
 ]
