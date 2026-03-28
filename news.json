@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8bb1444",
+    "title": "Kocaeli’de skandal: Bozuk et satan kasap mühürlendi",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 03:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kocaeli-de-skandal-bozuk-et-satan-kasap-muhurlendi-2490143",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli'nin Çayırova ilçesinde son kullanma tarihi geçmiş ve bozuk et sattığı tespit edilen kasap mühürlendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2bfdeaa9-4d8a-4a75-9da5-9bd14fff03fd.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_953e913b",
     "title": "Plastik kaplar yiyecek saklamak ve ısıtmak için güvenli mi?",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Ömer Faruk Gergerlioğlu (@gergerliogluof) / Posts / X  x.com",
     "image": null,
     "keyword": "polis intihar"
-  },
-  {
-    "id": "GND_7ae72c39",
-    "title": "Özçelik-İş Kayseri Şube Başkanlığına adaylığını açıkladı ‘hain’ ilan edildi",
-    "source": "Evrensel",
-    "time": "28/03/2026 01:44",
-    "link": "https://www.evrensel.net/haber/5977025/ozcelik-is-kayseri-sube-baskanligina-adayligini-acikladi-hain-ilan-edildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Özçelik-İş Kayseri Şube Başkanlığına adaylığını açıklayan Mustafa Çelikbilek, aday olduğu için sendika iş yeri temsilciliği görevinden alındığını ‘hain’ ilan edildiğini ve işten atıldığını anlattı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340509.jpg",
-    "keyword": null
   }
 ]
