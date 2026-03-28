@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5892ea23",
+    "title": "İran Pakistan gemilerinin Hürmüz Boğazı'ndan geçişine izin verdi",
+    "source": "TRT Haber",
+    "time": "28/03/2026 23:24",
+    "link": "https://www.trthaber.com/haber/dunya/iran-pakistan-gemilerinin-hurmuz-bogazindan-gecisine-izin-verdi-939485.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pakistan Dışişleri Bakanı Muhammed İshak Dar, İran'ın Pakistan bayraklı 20 geminin daha Hürmüz Boğazı'ndan geçişine izin verdiğini ve günlük 2 geminin boğazdan geçeceğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b3343b87",
     "title": "Türkiye-Kosova maçının hakemi belli oldu",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çin’in Taiyuan kentinde yüksek katlı bir binada çıkan yangında 1 kişi hayatını kaybederken, 25 kişi yaralandı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/cinde-korkunc-yangin-olu-ve-yaralilar-var-00ym.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ea9fb193",
-    "title": "Küresel tarımda sürpriz hamle: Pekin yönetimi kapılarını ABD’li devlere açıyor",
-    "source": "Ekonomim",
-    "time": "28/03/2026 22:05",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/kuresel-tarimda-surpriz-hamle-pekin-yonetimi-kapilarini-abdli-devlere-aciyor-haberi-884556",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin, kırsal bölgelerin modernizasyonu için rotayı batıya çevirdi. Pekin yönetimi, tarım teknolojilerinde dünya lideri olan ABD merkezli şirketlere stratejik iş birliği çağrısında bulunarak gıda güvenliğinde yeni bir dönem başlattı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/kuresel-tarimda-surpriz-hamle-pekin-yonetimi-kapilarini-abdli-devlere-aciyor-vdrb_cover.png",
     "keyword": null
   }
 ]
