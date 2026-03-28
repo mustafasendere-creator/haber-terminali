@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4b3e233a",
+    "title": "Gazetecilerden eylem çağrısı",
+    "source": "OdaTV",
+    "time": "28/03/2026 03:44",
+    "link": "https://www.odatv.com/guncel/gazetecilerden-eylem-cagrisi-120141072",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gazeteciler 29 Mart Pazar günü Kadıköy Mehmet Ayvalıtaş Parkı’nda bir araya gelecek.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/gazetecilerden-eylem-cagrisi-fy9d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_73954769",
     "title": "'Öğrencinin intiharında atlama yatağı yetersiz' iddiası... AFAD yetkilileri hakkında soruşturma!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C.BÜYÜKÇEKMECE 6. AİLE MAHKEMESİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/90632456-01ee-4b17-8a4e-5707709d1cda.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_dcca3362",
-    "title": "T.C. ELAZIĞ 2. ASLİYE HUKUK MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 01:44",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-elazig-2-asliye-hukuk-mahkemesi-2490118",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. ELAZIĞ 2. ASLİYE HUKUK MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0e1823cc-5368-414c-857e-ca47f8ee1b87.jpg",
     "keyword": null
   }
 ]
