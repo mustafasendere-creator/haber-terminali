@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_65b64a1f",
+    "title": "Şişli'de metrobüsün motor kısmında yangın çıktı",
+    "source": "Gazete Duvar",
+    "time": "28/03/2026 21:04",
+    "link": "https://www.gazeteduvar.com.tr/sislide-metrobusun-motor-kisminda-yangin-cikti-haber-1765762",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Şişli&#039;de seyir halinde olan metrobüsün motor kısmında yangın çıktı. Yangın olay yerine gelen itfaiye ekipleri tarafından söndürüldü.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-l7yu_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7a19a040",
     "title": "Van-Hakkari karayolunda çığ",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ümraniye&#039;de kadın şoförün kullandığı İETT otobüsü, şoförün direksiyon hakimiyetini kaybetmesi sonucu park halindeki araçlara çarptı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-eymv_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c8cc49e4",
-    "title": "Hafif ticari araç ile SUV tipi araç kafa kafaya çarpıştı: 4 yaralı",
-    "source": "Gazete Duvar",
-    "time": "28/03/2026 20:04",
-    "link": "https://www.gazeteduvar.com.tr/hafif-ticari-arac-ile-suv-tipi-arac-kafa-kafaya-carpisti-4-yarali-haber-1765766",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsun&#039;da hafif ticari araç ile SUV tipi aracın kafa kafaya çarpıştığı kazada 4 kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-q5cf_cover.jpg",
     "keyword": null
   }
 ]
