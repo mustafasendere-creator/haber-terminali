@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7ba92531",
+    "title": "Emniyetten vatandaşlara siber dolandırıcılık uyarısı",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 13:04",
+    "link": "https://www.aa.com.tr/tr/guncel/emniyetten-vatandaslara-siber-dolandiricilik-uyarisi/3882863",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Emniyet Genel Müdürlüğü (EGM), vatandaşları aldatıcı içeriklere ve sahte linklere karşı dikkatli olmaları konusunda uyardı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_7eff7088",
     "title": "24 Yıllık Hasret İçin Son 90 Dakika! A Milliler Kosova’da Tarih Yazmak İstiyor",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediyesi tarafından düzenlenen seminerde yapay zeka destekli dolandırıcılıklar ve siber tehditler ele alındı. Uzman isimler, vatandaşlara ve kamu personeline önemli uyarılarda bulundu.",
     "image": "https://resim.haber61.net/news/609674.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_fc8a00fd",
-    "title": "Ertuğrul Doğan’dan Galatasaray maçı öncesi dikkat çeken sözler! “Bu yılın kazananı Trabzonspor’dur”",
-    "source": "Haber61",
-    "time": "28/03/2026 12:04",
-    "link": "https://www.haber61.net/trabzonspor/ertugrul-dogandan-galatasaray-maci-oncesi-dikkat-ceken-sozler-bu-yilin-h627891.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Başkanı Ertuğrul Doğan, İstanbul’da düzenlenen Trabzon Günleri kapsamında Galatasaray maçı öncesi Fatih Tekke ve ekibine övgüde bulunurken, bordo-mavili kulüpte hedefin sağlam bir yapı kurmak olduğunu söyledi.",
-    "image": "https://resim.haber61.net/news/609676.jpg",
     "keyword": null
   }
 ]
