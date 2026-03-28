@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce31aa55",
+    "title": "İstanbul'da yağmur felç etti: Trafik yoğunluğu yüzde 70'i aştı!",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 01:04",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-yagmur-felc-etti-trafik-yogunlugu-yuzde-70-i-asti-2490363",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü ve İstanbul Valiliği'nin \"kuvvetli yağış\" uyarılarının ardından kentte beklenen yağmur etkisini göstermeye başladı. Yağışla birlikte İBB trafik yoğunluk haritası saat 16.00 itibarıyla yüzde 74 seviyesine ulaşırken, megakentte ana arterler adeta kilitlendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/bc8cb321-ad51-4431-bdc0-0df75ab4d18a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_34a92d1b",
     "title": "Son Dakika... AKP'li Adapazarı Belediye Başkanı Mutlu Işıksu partisinden istifa etti",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran, Birleşik Arap Emirlikleri'nin BAE Dubai kentinde Ukrayna'ya ait ve İran'ın insansız hava araçlarına İHA karşı bölgeye getirilen sistemlerin tutulduğu depoyu vurduğunu öne sürdü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d08e9a39",
-    "title": "İran: ABDİsrail bağlantılı unsurlara düzenlenen operasyonlarda 5 kişi öldürüldü, 19 kişi gözaltına alındı",
-    "source": "TRT Haber",
-    "time": "29/03/2026 00:04",
-    "link": "https://www.trthaber.com/haber/dunya/iran-abd-israil-baglantili-unsurlara-duzenlenen-operasyonlarda-5-kisi-olduruldu-19-kisi-gozaltina-alindi-939449.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, 3 eyalette düzenlenen operasyonlarda ABDİsrail ile bağlantılı \"ayrılıkçı bir gruba mensup 5 teröristin öldürüldüğünü ve 19 paralı unsurun\" da tespit edilerek gözaltına alındığını bildirdi.",
     "image": null,
     "keyword": null
   }
