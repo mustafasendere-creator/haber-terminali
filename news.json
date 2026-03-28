@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_49004517",
+    "title": "İran'da Anayasayı Koruyucular Konseyi Başkanı Cenneti'nin öldüğüne dair haberler yalanlandı",
+    "source": "Evrensel",
+    "time": "28/03/2026 23:04",
+    "link": "https://www.evrensel.net/haber/5977180/iran-da-anayasayi-koruyucular-konseyi-baskani-cenneti-nin-oldugune-dair-haberler-yalanlandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran basınında yer alan Anayasayı Koruyucular Konseyi Başkanı Ayetullah Ahmed Cenneti’nin öldüğüne dair haberler yine İran basını tarafından yalanlandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340646.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b52470d6",
     "title": "WSJ: İran'ın Suudi Arabistan'daki üsse yönelik drone saldırısında 12 ABD askeri yaralandı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Büyükşehir Belediyesi ev sahipliğinde düzenlenen 2’nci Uluslararası Futbol Turnuvası sona erdi. Final müsabakasının başlama vuruşunu Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu yaptı. Turnuvada şampiyon Libya olurken, ilk dört takıma ödülleri takdim edildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/tu-3.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_2d4de2fa",
-    "title": "Trabzon’da uluslararası futbol şöleni! Şampiyon Libya oldu",
-    "source": "Haber61",
-    "time": "28/03/2026 21:44",
-    "link": "https://www.haber61.net/trabzon/trabzonda-uluslararasi-futbol-soleni-sampiyon-libya-oldu-h627929.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediyesi ev sahipliğinde bu yıl ikincisi düzenlenen Uluslararası Futbol Turnuvası, heyecan dolu final müsabakasıyla tamamlandı. 27 ülkeden 192 sporcunun ter döktüğü organizasyonda kupayı müzesine götüren taraf Libya oldu.",
-    "image": "https://resim.haber61.net/news/609747.jpg",
     "keyword": "trabzon"
   }
 ]
