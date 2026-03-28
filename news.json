@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b52470d6",
+    "title": "WSJ: İran'ın Suudi Arabistan'daki üsse yönelik drone saldırısında 12 ABD askeri yaralandı",
+    "source": "Evrensel",
+    "time": "28/03/2026 23:04",
+    "link": "https://www.evrensel.net/haber/5977181/wsj-iranin-suudi-arabistandaki-usse-yonelik-drone-saldirisinda-12-abd-askeri-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın Suudi Arabistan'daki hava üssüne yaptığı drone saldırısında, 12 Amerikan askerinin yaralandığı ve ABD'ye ait E-3 Sentry havadan komuta ve kontrol uçağının hasar aldığı iddia edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339239.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_697a465a",
     "title": "Kocaeli'de Varto'daki JES projesine tepki: Halkın rızası alınmadan yapılan projelere karşı duracağız",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Büyükşehir Belediyesi ev sahipliğinde bu yıl ikincisi düzenlenen Uluslararası Futbol Turnuvası, heyecan dolu final müsabakasıyla tamamlandı. 27 ülkeden 192 sporcunun ter döktüğü organizasyonda kupayı müzesine götüren taraf Libya oldu.",
     "image": "https://resim.haber61.net/news/609747.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_98f9ce80",
-    "title": "Trabzonspor’un eski yöneticisi Nevzat Aydın, Klopp ile buluştu! Bordo-mavili forma hediye etti",
-    "source": "Haber61",
-    "time": "28/03/2026 21:44",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-eski-yoneticisi-nevzat-aydin-klopp-ile-bulustu-bordo-h627930.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor eski başkan yardımcısı ve iş insanı Nevzat Aydın, dünya futbolunun tanınan isimlerinden Jürgen Klopp ile bir araya geldi. Aydın’ın Klopp’a 4 numaralı Trabzonspor forması hediye ettiği anlar sosyal medyada paylaşıldı.",
-    "image": "https://resim.haber61.net/news/609749.jpg",
     "keyword": "trabzon"
   }
 ]
