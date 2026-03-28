@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5a389235",
+    "title": "DEM Parti İmralı heyeti Abdullah Öcalan ile görüşecek",
+    "source": "Evrensel",
+    "time": "28/03/2026 06:24",
+    "link": "https://www.evrensel.net/haber/5976964/dem-parti-imrali-heyeti-abdullah-ocalan-ile-gorusecek",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DEM Parti İmralı Heyeti üyeleri, Abdullah Öcalan ile görüşmek üzere İmralı'ya yola çıktı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/333409.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c7f36fdc",
     "title": "Son depremler listesi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "FIFA, 1. Lig&#039;de mücadele eden Amed Sportif Faaliyetler&#039;e “süresiz” transfer yasağı getirdi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/fifa-da-mi-kurt-dusmani-oldu-urn6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b325b2c1",
-    "title": "Golf efsanesi Tiger Woods tutuklandı",
-    "source": "OdaTV",
-    "time": "28/03/2026 03:04",
-    "link": "https://www.odatv.com/spor/golf-efsanesi-tiger-woods-tutuklandi-120141070",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Golf efsanesi Tiger Woods, Florida’da meydana gelen araç kazasının ardından alkollü araç kullanma şüphesiyle tutuklandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/golf-efsanesi-tiger-woods-tutuklandi-8emk.jpg",
     "keyword": null
   }
 ]
