@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fb8e0625",
+    "title": "İran’ın İsrail’e misillemesi: Beyt Şemeş yakınlarına isabet eden füze nedeniyle 3 kişi yaralandı",
+    "source": "Evrensel",
+    "time": "28/03/2026 17:24",
+    "link": "https://www.evrensel.net/haber/5977155/iranin-israile-misillemesi-beyt-semes-yakinlarina-isabet-eden-fuze-nedeniyle-3-kisi-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’ın yeni misillemesinin ardından İsrail'in orta kesimindeki Beyt Şemeş kenti yakınlarındaki bir yerleşime füzenin doğrudan isabet ettiği, 3 kişinin hafif yaralandığı bildirildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340616.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fe0f66c4",
     "title": "Nepal'de 'Z Kuşağı protestoları' soruşturması: Eski başbakan ve içişleri bakanı gözaltına alındı",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Meclis Başkanı Mohammad Bagher Ghalibaf, savaşın ortasında ABD ile yürütülebilecek olası müzakerelerde kilit bir isim olarak öne çıkıyor. Devrim Muhafızları kökenli sert bir figür olmasına rağmen, bazı Batılı yetkililer tarafından “çalışılabilir” bir muhatap olarak görülüyor",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b6d99e0b",
-    "title": "Milli Savunma Bakanı Güler, İran Savunma Bakan Vekili Rıza ile telefonda görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "28/03/2026 16:24",
-    "link": "https://www.aa.com.tr/tr/guncel/milli-savunma-bakani-guler-iran-savunma-bakan-vekili-riza-ile-telefonda-gorustu/3883119",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Savunma Bakanı Yaşar Güler, İran Savunma Bakan Vekili Tuğgeneral Seyyid Mecid İbn'ül Rıza ile telefonda görüştü.",
     "image": null,
     "keyword": null
   }
