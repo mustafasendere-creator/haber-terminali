@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e45f804",
+    "title": "İsrail Lübnan'da gazetecileri öldürdü",
+    "source": "DW Türkçe",
+    "time": "28/03/2026 18:25",
+    "link": "https://www.dw.com/tr/israil-lübnan-da-gazetecileri-öldürdü/a-76579044",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, Lübnan'ın Jezzine kentine düzenlediği saldırıda en az iki gazeteci hayatını kaybetti. İsrail ölen gazetecilerden Ali Şuayib'in, Hizbullah'a bağlı Rıdvan Gücü üyesi olduğunu öne sürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7362dbed",
     "title": "Sultan Özer: İki yargı muhabiri meslektaşınız içeride, tek bir sorunuz yok mu buna dair?",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı’nın Fethiye Göcek Osmanağa Koyu’nda hayata geçirmeyi planladığı projeye ilişkin detaylar netleşti. Yöre halkının tepki gösterdiği projede alanın ücretsiz olacağı, doğaya zarar verilmeden tuvalet, duş ve çevre düzenlemelerinin yapılacağı öğrenildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/yore-halki-tepki-gosterdi-osmanaga-koyu-halka-acik-olacak-dxlp.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c98a12d1",
-    "title": "Şehir içi lojistikte ezber bozan adım: A101’e 2 Nisan Perşembe Elektrikli Kamyonet geliyor!",
-    "source": "Ekonomim",
-    "time": "28/03/2026 17:25",
-    "link": "https://www.ekonomim.com/foto-galeri/aktuel/sehir-ici-lojistikte-ezber-bozan-adim-a101e-2-nisan-persembe-elektrikli-kamyonet-geliyor-s1-galeri-884558",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A101 2 Nisan 2026 Perşembe günü geçerli olacak yeni kataloğunda sınırları zorlayan bir ürüne yer verdi. Şehir içi kısa mesafeli taşımacılık ve lojistik çözümleri için tasarlanan elektrikli kamyonet, market raflarından yollara çıkmaya hazırlanıyor.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/sehir-ici-lojistikte-ezber-bozan-adim-a101e-2-nisan-persembe-elektrikli-kamyonet-geliyor-bsir_cover.gif",
     "keyword": null
   }
 ]
