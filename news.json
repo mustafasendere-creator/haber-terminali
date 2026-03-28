@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b08a082e",
+    "title": "Minibüs yaya geçidinde çarptı! Yaya hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 00:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/minibus-yaya-gecidinde-carpti-yaya-hayatini-kaybetti-2490374",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yaya geçidinde karşıya geçmeye çalışan 65 yaşındaki Neşe Kasımoğlu’na minibüs çarptı. Ağır yaralanan kadın hayatını kaybederken, sürücü tutuklandı; kaza anı kameraya yansıdı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/84160d7a-cc11-44c7-8502-c561c4446aae.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0ed78597",
     "title": "Aydın'da istinat duvarı çöktü! Otomobiller hasar gördü",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Umman, BAE ve Katar başta olmak üzere birçok Körfez ülkesinde etkili olan şiddetli yağış ve sel hayatı felç etti. Umman’da ölü sayısı 11’e yükselirken, bölgede tahliyeler ve kurtarma çalışmaları sürüyor.",
     "image": "https://media.cumhuriyet.com.tr/cumhuriyet-noimage.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0edcd2f2",
-    "title": "Pakistan duyurdu: İran, 20 Pakistan gemisinin Hürmüz Boğazı'ndan geçişine izin verdi",
-    "source": "Haber Global",
-    "time": "28/03/2026 23:24",
-    "link": "https://haberglobal.com/dunya/pakistan-duyurdu-iran-20-pakistan-gemisinin-hurmuz-bogazindan-gecisine-izin-verdi-515867",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medya hesabından paylaşımda bulunan Pakistan Dışişleri Bakanı Muhammed İshak Dar, İran'ın Pakistan bayraklı 20 geminin daha Hürmüz Boğazı'ndan geçişine izin verdiğini ve günlük 2 geminin boğazdan geçeceğini belirtti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/pakistan-duyurdu-iran-20-pakistan-gemisinin-hurmuz-bogazindan-gecisine-izin-verdi-cdmw.jpg",
     "keyword": null
   }
 ]
