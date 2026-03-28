@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_862dbdc0",
+    "title": "Kim Kime Dum Duma - 28 Mart 2026",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 06:04",
+    "link": "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-28-mart-2026-2490214",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": ".",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a0e8f2e2-9f86-4266-b7e8-b2e2098bed58.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_101db543",
     "title": "Özgür Özel: Türkiye'nin dört bir yanında saldırı altındayız",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum, \"Türkiyenin sıfır atık ve iklim kriziyle mücadelede bugün attığı adımlar, yarının dünyasını şekillendirecek.\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d1587624",
-    "title": "Haber-Sen Şube Başkanı Polat: PTT’de yeniden yapılanma mı, yoksa kadrolaşma mı?",
-    "source": "Evrensel",
-    "time": "28/03/2026 03:04",
-    "link": "https://www.evrensel.net/haber/5977012/haber-sen-sube-baskani-polat-ptt-de-yeniden-yapilanma-mi-yoksa-kadrolasma-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Haber-Sen 2 No’lu Şube Başkanı Yaşar Polat, PTT’deki “yeniden yapılanma”yı eleştirerek, liyakatsiz atamalar ve yetersiz personel nedeniyle kurumsal yapının zayıfladığını söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/336006.jpg",
     "keyword": null
   }
 ]
