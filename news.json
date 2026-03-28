@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2e25befe",
+    "title": "İtalya'da savaş karşıtı protestolar: Onların savaşına hayır",
+    "source": "Evrensel",
+    "time": "29/03/2026 02:04",
+    "link": "https://www.evrensel.net/haber/5977194/italya-da-savas-karsiti-protestolar-onlarin-savasina-hayir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'nın başkenti Roma'da geniş katılımlı savaş karşıtı protesto yürüyüşü düzenlenirken, Sicilya Adası'ndaki ABD'ye ait askeri uydu iletişim sistemi istasyonlarının bulunduğu merkez yakınlarında da gösteri yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340660.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_135db814",
     "title": "CHP Genel Başkanı Özgür Özel: “Cübbelerine düğme taktıranlara yazıklar olsun”",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Milli Savunma Bakanlığı MSB, Karadeniz'de bugüne kadar 275 şüpheli cismin belirlendiğini, bunlardan 10 mayın, 8 kamikaze insansız hava aracı İHA ve 11 kamikaze insansız deniz aracının İDA imha edildiğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2d43e593",
-    "title": "Bahçeli: İzzet Bey'in istifası küskünlük nedeniyle değil",
-    "source": "TRT Haber",
-    "time": "29/03/2026 00:44",
-    "link": "https://www.trthaber.com/haber/gundem/bahceli-izzet-beyin-istifasi-kuskunluk-nedeniyle-degil-939443.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, Genel Başkan Yardımcısı İzzet Ulvi Yönter'in görevinden istifasının akademik sebeplerle gerçekleştiğini söyledi. İstifanın herhangi bir küskünlüğe bağlı olmadığını belirten bahçeli, \"Milliyet Hareketi Partisinde kırılma, kırgınlık gibi kavramlar bize çok yabancıdır\" dedi.",
     "image": null,
     "keyword": null
   }
