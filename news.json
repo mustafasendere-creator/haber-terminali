@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aca3fe50",
+    "title": "Cibuti açıklarında göçmen teknesi battı: En az 9 ölü, 45 kişi kayıp",
+    "source": "Euronews",
+    "time": "28/03/2026 12:44",
+    "link": "http://tr.euronews.com/2026/03/28/cibuti-aciklarinda-gocmen-teknesi-batti-en-az-9-olu-45-kisi-kayip",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cibuti'nin liman kenti Obock'tan 300'den fazla kişiyle yola çıkan tekne salı günü battığında Bab el-Mandeb Boğazı'nı geçmeye çalışıyordu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_faa866e0",
     "title": "Araştırma: Köpekler insanlarla sanılandan 5 bin yıl önce yaşamış",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "YSK, 7 Haziran’da 5 beldede yapılacak seçimler için seçime katılma yeterliliği bulunan 41 siyasi partiye seçmen kütük listelerinin verilmesine karar verdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340571.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2d6f0a8d",
-    "title": "Amsterdam'da canlı klasik müzik seansları sınav döneminde öğrencilere odaklanmada yardımcı oldu",
-    "source": "Euronews",
-    "time": "28/03/2026 11:25",
-    "link": "http://tr.euronews.com/kultur/2026/03/28/amsterdamda-canli-klasik-muzik-seanslari-sinav-doneminde-ogrencilere-odaklanmada-yardimci",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Concertgebouw Gençlik Derneği’nin düzenlediği oturumlar, öğrencilerin odaklanmasına yardımcı olmayı ve gençleri klasik müzikle tanıştırmayı amaçlıyor.",
-    "image": null,
     "keyword": null
   }
 ]
