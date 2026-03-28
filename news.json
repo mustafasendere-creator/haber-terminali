@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5fa7bed2",
+    "title": "Pentagon’un bilançosu ortaya çıktı: Yaralı sayısı 300’ü aştı",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 07:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/pentagon-un-bilancosu-ortaya-cikti-yarali-sayisi-300-u-asti-2490136",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD’li yetkililer, İran’a yönelik saldırılarda 303 askerin yaralandığını açıkladı. Eski bir Pentagon yetkilisine göre operasyonların maliyeti 2,9 milyar dolara kadar ulaştı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c3ddcfc7-331f-4ce7-ab1e-c3bfde766856.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_29c1015e",
     "title": "Meteoroloji açıkladı: 28 Mart 2026 hava durumu raporu... Bugün hava nasıl olacak?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kanunlar karşısında kimsenin ayrıcalığı olamaz.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar194_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_29215170",
-    "title": "Ayşe Tokyaz’ın katilinin yargılandığı Ejegül Ovezova davası ertelendi",
-    "source": "Evrensel",
-    "time": "28/03/2026 04:44",
-    "link": "https://www.evrensel.net/haber/5976980/ayse-tokyazin-katilinin-yargilandigi-ejegul-ovezova-davasi-ertelendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ayşe Tokyaz cinayetinden tutuklu Cemil Koç’un, Diyarbakır’da Ejegül Ovezova’nın ölümüyle ilgili yargılandığı davada tanık komşu dinlendi. Duruşma, 14 Temmuz’a ertelendi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340043.jpg",
     "keyword": null
   }
 ]
