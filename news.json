@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_11b82e10",
+    "title": "Küba'ya yönelik abluka derinleşiyor: Saadet Partisi'nden dayanışma çağrısı",
+    "source": "Evrensel",
+    "time": "28/03/2026 05:44",
+    "link": "https://www.evrensel.net/haber/5976973/kubaya-yonelik-abluka-derinlesiyor-saadet-partisinden-dayanisma-cagrisi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD’nin Küba’ya uyguladığı abluka enerji ve sağlık alanında ağır sonuçlar doğururken, Saadet Partisi de Küba için dayanışma çağrısı yaptı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340273.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7ebe113d",
     "title": "Savaş-2: Bir barış romancısı",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye Büyük Millet Meclisi TBMM Başkanı Numan Kurtulmuş, \"Artık bu bölge huzur istiyor, güvenlik istiyor. Türkiye de bölgenin en güvenli ülkesi olarak, terörsüz Türkiye meselesini tamamıyla neticelendirecek bir güce, kuvvete, kudrete ama hepsinden önemlisi niyete sahiptir\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b36d7254",
-    "title": "İsrail'in Lübnan'a yönelik saldırılarında can kaybı 1142'ye yükseldi",
-    "source": "TRT Haber",
-    "time": "28/03/2026 02:44",
-    "link": "https://www.trthaber.com/haber/dunya/israilin-lubnana-yonelik-saldirilarinda-can-kaybi-1142ye-yukseldi-939346.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda can kaybı son 24 saatte 26 artarak 1142'ye yükseldi.",
     "image": null,
     "keyword": null
   }
