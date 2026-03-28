@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f0bc087",
+    "title": "Pakistan: İran, 20 Pakistan gemisinin Hürmüz Boğazı'ndan geçişine izin verdi",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 23:04",
+    "link": "https://www.aa.com.tr/tr/guncel/pakistan-iran-20-pakistan-gemisinin-hurmuz-bogazindan-gecisine-izin-verdi/3883453",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pakistan Dışişleri Bakanı Muhammed İshak Dar, İran'ın Pakistan bayraklı 20 geminin daha Hürmüz Boğazı'ndan geçişine izin verdiğini ve günlük 2 geminin boğazdan geçeceğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_df9810b2",
     "title": "MİT Başkanı İbrahim Kalın'dan Orta Doğu uyarısı: Fitne ateşine izin vermeyeceğiz",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Mersin’de meydana gelen trafik kazasında yaralanan polis memuru Serkan Ünal, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen kurtarılamayarak şehit oldu. Trabzon Valisi Aziz Yıldırım da yayımladığı taziye mesajıyla başsağlığı dileğinde bulundu.",
     "image": "https://resim.haber61.net/news/609744.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_7d67b5da",
-    "title": "Çocuğu Suç İşleyene Hapis Şoku! Ailelere Ağır Ceza Yolda",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 21:24",
-    "link": "https://www.takagazete.com.tr/cocugu-suc-isleyene-hapis-soku-ailelere-agir-ceza-yolda",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Çocuk suçluluğundaki artış sonrası Meclis düğmeye bastı. Çocuğunu suçtan uzak tutamayan ebeveynlere hapis cezası ve ağır yaptırımlar yolda.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/hapis-geliyuor.jpg",
-    "keyword": null
   }
 ]
