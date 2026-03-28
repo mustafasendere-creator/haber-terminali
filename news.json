@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e944341e",
+    "title": "İsrail ordusu, İran'ın başkenti Tahran'a yeni saldırı dalgası başlattığını duyurdu",
+    "source": "TRT Haber",
+    "time": "28/03/2026 07:04",
+    "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-iranin-baskenti-tahrana-yeni-saldiri-dalgasi-baslattigini-duyurdu-939401.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, ABD ile ortak saldırılar düzenledikleri İran'ın başkenti Tahran'a yönelik yeni bir saldırı dalgası başlattığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3c2c343a",
     "title": "Anahtar Deliği 28.03.2026 – Milli takım Trabzon’suz olabilir mi?",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Katil İsrail ordusunun Lübnan'ın güneyindeki Nebatiye vilayetine bağlı Kefr Tebnit beldesinde bir ambulansı hedef alması sonucu 1 sağlık personeli hayatını kaybetti, 4 kişi yaralandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_623bf301",
-    "title": "Boşandığı erkek tarafından çocuklarının gözü önünde vuruldu; üstüne araba sürüldü: Ölmek istemiyorum",
-    "source": "Evrensel",
-    "time": "28/03/2026 04:04",
-    "link": "https://www.evrensel.net/haber/5976988/bosandigi-erkek-tarafindan-cocuklarinin-gozu-onunde-vuruldu-ustune-araba-suruldu-olmek-istemiyorum",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Boşandığı erkek tarafından çocuklarının gözü önünde öldürülmek istenen kadın, \"İki çocuk ve bir anne katliamı yaşanabilirdi. Herkes sesimi duysun, ölmekten çok korkuyorum. Çocuklarımı bırakabileceğim kimsem yok\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340467.jpg",
     "keyword": null
   }
 ]
