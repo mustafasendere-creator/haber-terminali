@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bbd063b2",
+    "title": "4 bin dolar rüşvet alırken yakalandı",
+    "source": "Habertürk",
+    "time": "29/03/2026 01:24",
+    "link": "https://www.haberturk.com/marmaris-te-rusvet-sorusturmasi-13-gozalti-3872790",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Marmaris ilçesinde belediye çalışanlarına yönelik imar ve ruhsat işlerinde usulsüzlük iddialarına ilişkin yürütülen soruşturma kapsamında 13 şüpheli gözaltına alındı. Muğla Emniyet Müdürlüğü de, Marmaris Belediyesi İmar Müdürlüğü’nde görevli bir personelin 4 bin dolar rüşvet alırken suçüstü yakalandığını duyurdu. Öte yandan Marmaris Belediyesi’nde imar ile ruhsat işlemlerinde usulsüzlük yapıldığı ve rüşvet alındığı iddiasıyla polis tarafından düzenlenen operasyonun görüntüleri ortaya çıktı. Görüntülerde, belediyede görevli mühendis T.D.'ye 4 bin dolar rüşvet alırken suçüstü yapılması ve şüphelilerin evlerindeki aramalar yer alıyor",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774622768/3872790/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_4166688f",
     "title": "Eğlence mekanına kurşun yağmuru! Ölü sayısı 3'e çıktı!",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ülkenin altyapısı ve ekonomik merkezlerine saldırılara güçlü karşılık vereceklerini belirtirken bölge ülkelerine, topraklarını İran'a karşı saldırılarda kullandırmama çağrısını yineledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_af36826f",
-    "title": "Lübnan: İsrail'in düzenlediği saldırılar nedeniyle ekili alanların yüzde 22'si zarar gördü",
-    "source": "TRT Haber",
-    "time": "29/03/2026 00:24",
-    "link": "https://www.trthaber.com/haber/dunya/lubnan-israilin-duzenledigi-saldirilar-nedeniyle-ekili-alanlarin-yuzde-22si-zarar-gordu-939447.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Tarım Bakanlığı, İsrail'in 2 Mart'tan bu yana sürdürdüğü saldırılar nedeniyle ülkedeki ekili alanların yüzde 22'sinin zarar gördüğünü açıkladı.",
     "image": null,
     "keyword": null
   }
