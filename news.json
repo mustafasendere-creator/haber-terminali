@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d08e9a39",
+    "title": "İran: ABDİsrail bağlantılı unsurlara düzenlenen operasyonlarda 5 kişi öldürüldü, 19 kişi gözaltına alındı",
+    "source": "TRT Haber",
+    "time": "29/03/2026 00:04",
+    "link": "https://www.trthaber.com/haber/dunya/iran-abd-israil-baglantili-unsurlara-duzenlenen-operasyonlarda-5-kisi-olduruldu-19-kisi-gozaltina-alindi-939449.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, 3 eyalette düzenlenen operasyonlarda ABDİsrail ile bağlantılı \"ayrılıkçı bir gruba mensup 5 teröristin öldürüldüğünü ve 19 paralı unsurun\" da tespit edilerek gözaltına alındığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_543543fb",
     "title": "Cinayet soruşturmasında tutuklanan kadının 'cezaevi' iddialarına yalanlama",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Güller ve Günahlar dizisinin 22. bölümü 28 Mart 2026 Cumartesi günü Kanal D'de yayınlandı. Güller ve Günahlar'ın 22. bölümünü tek parça full izleyebileceğiniz link haberimizde.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/guller-ve-gunahlar-22-bolum-full-izle-kanal-d-guller-ve-gunahlar-yeni-bolum-tek-parca-izle-rhv2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_66464752",
-    "title": "Kerkük Havalimanı'nda Haşdi Şabi'ye ait merkeze hava saldırısı: Ölüler var",
-    "source": "Haber Global",
-    "time": "28/03/2026 23:04",
-    "link": "https://haberglobal.com/dunya/kerkuk-havalimaninda-hasdi-sabiye-ait-merkeze-hava-saldirisi-oluler-var-515854",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Irak'ın Kerkük vilayetinde bulunan Kerkük Uluslararası Havalimanı içerisindeki İran yanlısı Haşdi Şabi örgütünün istihbarat birimine ait bir merkeze düzenlenen hava saldırısında 2 kişi yaralandı.  Yerel kaynaklar, söz konusu merkezin bir savaş uçağından fırlatılan 3 güdümlü füze ile vurulduğunu aktardı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/kerkuk-havalimaninda-hasdi-sabiye-ait-merkeze-hava-saldirisi-yaralilar-var-gmsa.jpg",
     "keyword": null
   }
 ]
