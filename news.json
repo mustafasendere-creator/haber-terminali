@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_45e509ca",
+    "title": "Ukrayna Körfez ülkeleri ile savunma iş birliğini artırıyor",
+    "source": "DW Türkçe",
+    "time": "28/03/2026 20:05",
+    "link": "https://www.dw.com/tr/ukrayna-körfez-ülkeleri-ile-savunma-iş-birliğini-artırıyor/a-76578439",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Devlet Başkanı Zelenskiy, Suudi Arabistan, BAE ve Katar ile hava savunma alanında iş birliği anlaşmaları imzaladı. Körfez ülkeleri, İran'ın İHA saldırılarına karşı Ukrayna'nın tecrübesinden yararlanmak istiyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8f50e480",
     "title": "Arnavutköy'de bir at arabası iki araca çarptı",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Milli Mücadele kahramanlarından Ali Şükrü Bey’in hayatının ele alındığı sempozyumdaki 36 bilimsel tebliğin, belediye tarafından kalıcı bir eser haline getirilerek kitaplaştırılacağını açıkladı.",
     "image": "https://resim.haber61.net/news/609727.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a946f4f8",
-    "title": "Paris'teki Bank of America şubesi önünde bombalı saldırı engellendi",
-    "source": "Euronews",
-    "time": "28/03/2026 18:24",
-    "link": "http://tr.euronews.com/2026/03/28/paristeki-bank-of-america-subesi-onunde-bombali-saldiri-engellendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Terörle mücadele savcılığı, el yapımı bir patlayıcıyı patlatmak üzere olan bir kişinin tutuklanmasının ardından soruşturmayı üstlendi.",
-    "image": null,
-    "keyword": null
   }
 ]
