@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d7965ef6",
+    "title": "Pezeşkiyan: İran'ın altyapısına saldırılar ABD'ye güvensizliği daha da derinleştirdi",
+    "source": "TRT Haber",
+    "time": "28/03/2026 17:25",
+    "link": "https://www.trthaber.com/haber/dunya/pezeskiyan-iranin-altyapisina-saldirilar-abdye-guvensizligi-daha-da-derinlestirdi-939459.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABDİran arasında arabuluculuk yapmaya çalışan Pakistan Başbakanı Şahbaz Şerife, ABDnin İranın altyapısına saldırmayacağına dair vaatlerine rağmen bu merkezlerin hedef alındığını belirterek, söz konusu çelişkili tutumun İranın ABD'ye olan güvensizliğini daha da artırdığını söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d3ba8e28",
     "title": "Menülerde içerik belirtme zorunluluğunun ayrıntıları belli oldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Şehir Tiyatroları, 27 Mart Dünya Tiyatro Günü’nü aynı anda iki farklı sahnede ücretsiz olarak sahnelediği iki oyunla kutladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340604.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f16f5d26",
-    "title": "İsrail’in Lübnan'a saldırısında 3 gazeteci hayatını kaybetti",
-    "source": "Evrensel",
-    "time": "28/03/2026 16:24",
-    "link": "https://www.evrensel.net/haber/5977144/israilin-lubnana-saldirisinda-3-gazeteci-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail’in Lübnan’ın Cizzin ilçesinde gazetecileri taşıyan aracı hedef aldığı saldırıda 3 gazeteci hayatını kaybetti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/170835.jpg",
     "keyword": null
   }
 ]
