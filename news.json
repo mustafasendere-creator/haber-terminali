@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fc756637",
+    "title": "İran Atom Enerjisi Kurumu: Buşehr Nükleer Enerji Santrali sahasına füze isabet etti",
+    "source": "Evrensel",
+    "time": "28/03/2026 09:25",
+    "link": "https://www.evrensel.net/haber/5977074/iran-atom-enerjisi-kurumu-busehr-nukleer-enerji-santrali-sahasina-fuze-isabet-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Atom Enerjisi Kurumu, Buşehr Nükleer Enerji Santrali’nin ABD ve İsrail’in saldırılarında üçüncü kez hedef alındığını, sahaya füze isabet ettiğini açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340557.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_7881c74e",
     "title": "burak albayrak (@ulanburki) / Posts / X - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye’nin önemli turizm merkezlerinden Kapadokya bölgesinde sıcak hava balon turları, olumsuz hava şartları nedeniyle iptal edildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/kapadokyada-sicak-hava-balon-turlarina-ruzgar-engeli-trgc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_baa224c8",
-    "title": "Kolonlardan ses geldi, 51 kişinin olduğu bina boşaltıldı",
-    "source": "TRT Haber",
-    "time": "28/03/2026 08:04",
-    "link": "https://www.trthaber.com/haber/turkiye/kolonlardan-ses-geldi-51-kisinin-oldugu-bina-bosaltildi-939402.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakırın Bağlar ilçesinde kolonlardan ses geldiği ihbarı üzerine ekipler harekete geçti. Yapılan incelemenin ardından 6 katlı apartmanda yaşayan 51 kişi tedbir amaçlı tahliye edildi.",
-    "image": null,
     "keyword": null
   }
 ]
