@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f03e7776",
+    "title": "İran basınına göre Tahran, nükleer tesislere saldırı sonrası NPTden çekilmeyi değerlendiriyor",
+    "source": "TRT Haber",
+    "time": "28/03/2026 17:45",
+    "link": "https://www.trthaber.com/haber/dunya/iran-basinina-gore-tahran-nukleer-tesislere-saldiri-sonrasi-nptden-cekilmeyi-degerlendiriyor-939463.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın, ABDİsrail'in nükleer tesislere devam eden saldırıları nedeniyle Nükleer Silahların Yayılmasının Önlenmesi Anlaşması'ndan NPT çekilmeyi gündemine aldığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0d35986e",
     "title": "İran Sağlık Bakanlığı: Saldırılarda 230'dan fazla çocuk hayatını kaybetti",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Cizre’de polisin açtığı ateş 14 yaşındaki çocuğu öldürdü #ÜmitKurt agos.com.tr/tr/yazi/10162/…  x.com",
     "image": null,
     "keyword": "agos"
-  },
-  {
-    "id": "TKP_26704884",
-    "title": "Kupada Kritik Tarih Belli Oldu! Trabzonspor Samsun’da Sahaya Çıkıyor",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 16:44",
-    "link": "https://www.takagazete.com.tr/kupada-kritik-tarih-belli-oldu-trabzonspor-samsunda-sahaya-cikiyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ziraat Türkiye Kupası’nda Çeyrek Final maçlarının tarihleri açıklandı. TFF’den yapılan duyuruya göre Trabzonspor’un deplasmanda Samsunspor ile oynayacağı müsabaka 23 Nisan Perşembe günü oynanacağı açıklandı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/k-u-p-a-t-a-r-i-h-i.jpg",
-    "keyword": "trabzon"
   }
 ]
