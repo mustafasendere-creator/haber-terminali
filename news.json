@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2de80c4e",
+    "title": "Cumhurbaşkanı Erdoğan, Bosna Hersek Devlet Başkanlığı Konseyi Başkanı Becirovic'i resmi törenle karşıladı",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 17:24",
+    "link": "https://www.aa.com.tr/tr/guncel/cumhurbaskani-erdogan-bosna-hersek-devlet-baskanligi-konseyi-baskani-becirovici-resmi-torenle-karsiladi/3883173",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'yi ziyaret eden Bosna Hersek Devlet Başkanlığı Konseyi Başkanı Denis Becirovic'i resmi törenle karşıladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b3598b03",
     "title": "MHP lideri Bahçeli: Yönter'in istifası akademik kariyeriyle ilgili",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Ordu’nun Fatsa ilçesinde kamyon ile kamyonetin çarpıştığı kazada yaklaşık 2 ton fındık yola döküldü. Olay nedeniyle bölgede trafik kısa süreli aksadı.",
     "image": "https://resim.haber61.net/news/609712.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_ade8472f",
-    "title": "Trabzonspor'da transfer rotası belli oldu! Fatih Tekke o havuzdan seçecek",
-    "source": "Haber61",
-    "time": "28/03/2026 16:04",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-transfer-rotasi-belli-oldu-fatih-tekke-o-havuzdan-sececek-h627905.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Yeni sezon için erken harekete geçen Trabzonspor’da transfer stratejisi şekillendi. Scout ekibinin oluşturduğu geniş oyuncu havuzundan seçim yapılacak.",
-    "image": "https://resim.haber61.net/news/609706.jpg",
-    "keyword": "trabzon"
   }
 ]
