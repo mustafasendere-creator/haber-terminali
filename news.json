@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_775f98f2",
+    "title": "Körfez ülkelerinde aşırı yağışlar ve sel, can kaybına neden oldu",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 22:44",
+    "link": "https://www.aa.com.tr/tr/guncel/korfez-ulkelerinde-asiri-yagislar-ve-sel-can-kaybina-neden-oldu/3883431",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Umman, Birleşik Arap Emirlikleri (BAE) ve Katar başta olmak üzere Körfez ülkeleri genelinde etkili olan şiddetli yağış ve sel, can kaybına yol açtı ve yaşamı olumsuz etkiledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_bed9ea7c",
     "title": "Drăguș’u güldüren transfer sorusu",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa&#039;nın İnegöl ilçesinde meydana gelen kazada 2 araç çarpıştı: 4&#039;ü çocuk 9 kişi yaralandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-groq_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_65b64a1f",
-    "title": "Şişli'de metrobüsün motor kısmında yangın çıktı",
-    "source": "Gazete Duvar",
-    "time": "28/03/2026 21:04",
-    "link": "https://www.gazeteduvar.com.tr/sislide-metrobusun-motor-kisminda-yangin-cikti-haber-1765762",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Şişli&#039;de seyir halinde olan metrobüsün motor kısmında yangın çıktı. Yangın olay yerine gelen itfaiye ekipleri tarafından söndürüldü.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-l7yu_cover.jpg",
     "keyword": null
   }
 ]
