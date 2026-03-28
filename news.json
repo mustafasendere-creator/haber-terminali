@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c52385f",
+    "title": "DEM Heyeti İmralı'dan döndü",
+    "source": "Habertürk",
+    "time": "28/03/2026 21:05",
+    "link": "https://www.haberturk.com/dem-parti-imrali-heyeti-ocalan-la-gorusmenin-ardindan-geri-dondu-3872918",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DEM İmralı Heyeti üyeleri Pervin Buldan, Mithat Sancar ve Faik Özgür Erol'un İmralı'da Abdullah Öcalan ile gerçekleştirdikleri görüşme sonrasında adadan ayrıldığı bildirildi",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774629309/3872918/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_a7b32e6d",
     "title": "Kurum ABD'de 'sıfır atık'ı anlattı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kadıköylüler, Kadıköy Rıhtımı'na yapılması planlanan cami ve yer altı otoparkı projesine karşı ses yükseltti. Projeye tepki gösteren yurttaşlar “Proje; ideolojik simgeleştirme ve kültürel hegemonya kurma amacından kaynaklanmaktadır. Rıhtım, halkındır; rantçıların değil” dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7008d76f-b2c9-49a4-9fed-65c25462ca2f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d570dba3",
-    "title": "Muğla'da otomobil sele kapıldı, bir kişi hayatını kaybetti!",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 20:05",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/mugla-da-otomobil-sele-kapildi-bir-kisi-hayatini-kaybetti-2490382",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla'nın Milas ilçesinde sele kapılan otomobildeki 2 kişiden biri öldü, diğeri ekiplerce kurtarıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b429c80d-54ed-4dee-9316-973fd1ce2732.jpg",
     "keyword": null
   }
 ]
