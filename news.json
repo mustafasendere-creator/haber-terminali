@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_af396381",
+    "title": "Savaşın bedelinin en ağırını tarafı olmayanlar ödüyor",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 04:04",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/sukran-soner/savasin-bedelinin-en-agirini-tarafi-olmayanlar-oduyor-2490193",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hindistan, Japonya...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar84_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_24624816",
     "title": "Trump'tan NATO'ya: Onlar bizim yanımızda değilse, biz neden onların yanında olalım ki?",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türk-İş Genel Merkezi, geçtiğimiz hafta sonu İstanbul’daki sendikaların şube yönetimleri ile gerçekleştirilen toplantıda 2026 yılı 1 Mayıs’ını Edirne’de toplu miting şeklinde düzenleyeceğini duyurdu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340508.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_332eab2a",
-    "title": "Gabon'da yavru deniz kaplumbağaları yok olma riskiyle karşılaştı, koruma fonları azaldı",
-    "source": "Euronews",
-    "time": "28/03/2026 02:04",
-    "link": "http://tr.euronews.com/video/2026/03/27/gabonda-yavru-deniz-kaplumbagalari-yok-olma-riskiyle-karsilasti-koruma-fonlari-azaldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gabon, Aralık-Mart döneminde Atlantik kıyısında yuvalama sezonunun doruğa çıkmasıyla, hassas deniz kaplumbağası yavrularını koruma çabalarını artırıyor.",
-    "image": null,
     "keyword": null
   }
 ]
