@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4001155a",
+    "title": "'Bilmediğimiz yeni dünyaya giriyoruz'",
+    "source": "Habertürk",
+    "time": "29/03/2026 00:25",
+    "link": "https://www.haberturk.com/iletisim-baskani-duran-stratcom-zirvesinde-konustu-3872812",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhaneddin Duran, iletişimin medyadan dijitale, kültürden kamu diplomasisine uzanan geniş etki alanına sahip olduğunu belirterek, \"Bu alanı yönetenler sadece bizlerin gündemini değil, aynı geleceği de belirlemektedir\" dedi",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774605381/3872812/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_7e0f1118",
     "title": "7 gün sonra hayatını kaybetti",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Başakşehir’de TEM Otoyolu’nda 4 cezaevi nakil aracının karıştığı zincirleme kazada 6’sı jandarma, 9’u mahkum olmak üzere 15 kişi yaralandı. Yaralılar hastaneye kaldırılırken, kazanın duruşma sonrası nakil sırasında meydana geldiği belirtildi. Valilikten gelen açıklamada, yaralıların durumunun hafif olduğu bildirildi",
     "image": "https://im.haberturk.com/l/2026/03/27/ver1774619504/3872849/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_1c9df4ed",
-    "title": "Okulda laboratuvarda patlama: 4 yaralı",
-    "source": "Habertürk",
-    "time": "28/03/2026 23:25",
-    "link": "https://www.haberturk.com/okulda-laboratuvarda-patlama-4-yarali-3872852",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Beylikdüzü’nde fen lisesinin kimya laboratuvarında deney sırasında patlama meydana geldi. Olayda 4 öğrenci hafif yaralandı",
-    "image": "https://im.haberturk.com/l/2026/03/27/ver1774615080/3872852/jpg/1280x1280",
     "keyword": null
   }
 ]
