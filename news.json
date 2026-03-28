@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7ebe113d",
+    "title": "Savaş-2: Bir barış romancısı",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 05:24",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/oner-yagci/savas-2-bir-baris-romancisi-2490196",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edebiyat dünyamda Türk yazarlarından farklı olmayan biriydi Cengiz Aytmatov.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar350_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_b52797ca",
     "title": "Sakin mi, duyarsız mı?",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail'in 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda can kaybı son 24 saatte 26 artarak 1142'ye yükseldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ed93c85a",
-    "title": "Cumhurbaşkanı Erdoğan: Anlamsız savaşın faturasını tüm insanlık ödüyor",
-    "source": "TRT Haber",
-    "time": "28/03/2026 02:44",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-anlamsiz-savasin-faturasini-tum-insanlik-oduyor-939347.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Dolmabahçe Ofisi'nde Dünya Ekonomik Forumu Türkiye Ülke Stratejisi Toplantısı'na katıldı. Cumhurbaşkanı Erdoğan, \"Bir aydır bölgemizi derinden sarsan bu anlamsız, hukuksuz ve gereksiz savaşın faturasını çatışmaların tarafları kadar tüm insanlık da ödüyor.\" dedi.",
     "image": null,
     "keyword": null
   }
