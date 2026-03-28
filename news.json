@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bf695722",
+    "title": "Barzani’nin evi bombalandı",
+    "source": "Ekonomim",
+    "time": "28/03/2026 17:45",
+    "link": "https://www.ekonomim.com/dunya/barzaninin-evi-bombalandi-haberi-884563",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "IKBY Başkanı Neçirvan Barzani’nin Duhok’taki evi bombalandı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/17/ikby-basbakani-barzani-bagdatin-turkiye-uzerinden-petrol-ihrac-etmesinin-onunde-engel-degiliz-xty9_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9649f0a1",
     "title": "Reyting sonuçları açıklandı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Karadeniz’e uzanacak demiryolu projelerini Trabzon’da açıkladı. Samsun’dan Sarp’a kadar uzanacak hat için çalışmaların başladığını duyurdu.",
     "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_d1e08121",
-    "title": "ADD Trabzon konferansında dikkat çeken mesajlar: Çanakkale’den Orta Doğu’ya",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 17:04",
-    "link": "https://www.takagazete.com.tr/add-trabzon-konferansinda-dikkat-ceken-mesajlar-canakkaleden-orta-doguya",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "ADD Trabzon Şubesi’nin düzenlediği konferansta Türker Ertürk, Çanakkale Zaferi’nden güncel gelişmelere uzanan kritik değerlendirmelerde bulundu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-13-100.jpg",
     "keyword": "trabzon"
   }
 ]
