@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4f77e50c",
+    "title": "Cizre’de petrol boru hattı patladı: Dicle Nehri’ne tonlarca petrol aktı",
+    "source": "Evrensel",
+    "time": "29/03/2026 00:04",
+    "link": "https://www.evrensel.net/haber/5977175/cizrede-petrol-boru-hatti-patladi-dicle-nehrine-tonlarca-petrol-akti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şırnak’ın Cizre ilçesinde ham petrol boru hattında meydana gelen patlak, çevre felaketine neden oldu. Sızıntı sonucu tonlarca petrol Dicle Nehri’ne karışırken, nehrin yüzeyi petrol tabakasıyla kaplandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340638.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6c21266c",
     "title": "Muğla’da otomobil sel sularına kapıldı: 1 kişi hayatını kaybetti, 1 kişi sağ kurtarıldı",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "\"STRATCOM Uluslararası Stratejik İletişim Zirvesi 2026\" kapsamında \"Kadın Liderler Perspektifinden Küresel Krizler ve Gelecek Arayışı\" Paneli düzenlendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_11da228d",
-    "title": "İletişim Başkanı Duran, STRATCOM Zirvesi kapsamında görüşmeler gerçekleştirdi",
-    "source": "TRT Haber",
-    "time": "28/03/2026 23:04",
-    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-stratcom-zirvesi-kapsaminda-gorusmeler-gerceklestirdi-939481.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanı Burhanettin Duran, Uluslararası Stratejik İletişim Zirvesi STRATCOM kapsamında görüşmeler gerçekleştirdi.",
     "image": null,
     "keyword": null
   }
