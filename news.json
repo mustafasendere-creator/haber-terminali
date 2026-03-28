@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ffa24d8b",
+    "title": "İranlı yetkili: ABDİsrail'in saldırılarında Zencan'da 5 kişi öldü, 7 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "28/03/2026 04:24",
+    "link": "https://www.trthaber.com/haber/dunya/iranli-yetkili-abd-israilin-saldirilarinda-zencanda-5-kisi-oldu-7-kisi-yaralandi-939395.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail'in İran'ın kuzeyindeki Zencan eyaletine düzenlediği hava saldırısında 5 sivilin öldüğü, 7 kişinin yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_15e3cbaa",
     "title": "Çekmeköy'de 1 kişinin hayatını kaybettiği İETT otobüsü kazası: Motosiklet sürücüsü tahliye edildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gaziantep'te 2021 yılında silahlı saldırıya uğrayan 4 çocuk babası Cebrail Şahin'in ölümü ile ilgili açılan davada karar açıklandı. Mahkeme heyeti, sanık Halil İbrahim K.'yi 'kasten öldürme' suçundan müebbet hapis cezasına çarptırdı. Sanığın yargılama sürecindeki tutumu dikkate alınarak cezası indirime tabi tutuldu ve 25 yıl hapis cezasına düşürüldü. Heyet, sanığın 'öldürmeye teşebbüs' kapsamında değerlendirilen eylemi nedeniyle de 2 yıl 6 ay olmak üzere toplam 27 yıl 6 ay hapis cezası verdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/gaziantepte-4-cocuk-babasini-olduren-saniga-27-yil-hapis-x2gr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cd046d72",
-    "title": "Kayserispor'dan transfer yasağı açıklaması: \"Herhangi bir sorun yok\"",
-    "source": "Haber Global",
-    "time": "28/03/2026 02:04",
-    "link": "https://haberglobal.com/spor/kayserispordan-transfer-yasagi-aciklamasi-herhangi-bir-sorun-yok-515708",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig ekiplerinden Kayserispor'un başkanı Nurettin Açıkalın, kulübe gelen transfer yasağı hakkında açıklama yaptı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/kayserispordan-transfer-yasagi-aciklamasi-herhangi-bir-sorun-yok-ehgi.jpg",
     "keyword": null
   }
 ]
