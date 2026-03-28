@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7b22fff9",
+    "title": "Özgür Özel’den Kuşadası mitingine çağrı!",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 00:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-kusadasi-mitingine-cagri-2490423",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Genel Başkanı Özgür Özel, Kuşadası Belediye Başkanı Ömer Günel’in tutuklanmasının ardından 29 Mart günü Kuşadası'nda düzenlenecek miting için çağrıda bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4f90ef90-cf00-405e-82ae-5d06c63fefbc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fbae6596",
     "title": "Beşiktaş ile Galatasaray arasındaki 4-4'lük derbide kazanan çıkmadı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ateşkesi ihlal eden İsrail askerlerinin Gazze Şeridi'nde düzenlediği saldırılarda 2'si kardeş 3 Filistinli yaşamını yitirdi, 4 kişi yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_431db9c2",
-    "title": "24 haftalık doğum izni için ek madde: İşe dönenler de yararlanacak",
-    "source": "TRT Haber",
-    "time": "28/03/2026 23:44",
-    "link": "https://www.trthaber.com/haber/gundem/24-haftalik-dogum-izni-icin-ek-madde-ise-donenler-de-yararlanacak-939452.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, doğum iznine ilişkin, \"Yasal düzenlememiz çıktığı andan itibaren 24 haftayı tamamlamamış olup tekrar işe dönmek zorunda kalanların da 24 haftayı tamamlamasına yönelik bir ek madde ekledik. Süreç boyunca eğer ki o süreci tamamlamadılarsa ve 24 hafta içerisindelerse onlar da tamamlayabilecekler.\" dedi.",
     "image": null,
     "keyword": null
   }
