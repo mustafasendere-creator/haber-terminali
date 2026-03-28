@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fcacffa2",
+    "title": "Tekirdağ'da farklı suçlardan aranan 37 zanlı tutuklandı",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 12:44",
+    "link": "https://www.aa.com.tr/tr/guncel/tekirdagda-farkli-suclardan-aranan-37-zanli-tutuklandi/3882820",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tekirdağ'da polis ekiplerince yürütülen çalışmalar kapsamında farklı suçlardan aranan 37 şüpheli tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ac8211c4",
     "title": "Ankara Valiliğinden sağanak uyarısı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun Ondokuz Mayıs Üniversitesi'nde (OMÜ) görev yapan kadınlardan oluşan OMÜKAM Kadınlar Korosu, 'Anadolu'dan Ezgiler: Miras' temalı konserinde 15 eseri seslendirerek izleyicilere unutulmaz bir müzik şöleni sundu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/kadinlar-korosundan-miras-konseri.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ade05edd",
-    "title": "Hürmüz'den Malakka'ya küresel ticaret için en önemli beş boğaz",
-    "source": "BBC Türkçe",
-    "time": "28/03/2026 11:24",
-    "link": "https://www.bbc.com/turkce/articles/crm1nlevr0wo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD-İsrail ile İran arasında savaş, küresel bir sorunu günyüzüne çıkardı: Küresel ticaret sistemi, denizcilikte \"dargeçit\" olarak adlandırılan bir avuç deniz yolu üzerine kurulmuş durumda. İşte en önemli beş deniz yolu hakkında bilinenler.",
-    "image": null,
     "keyword": null
   }
 ]
