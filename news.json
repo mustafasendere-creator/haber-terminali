@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_92a44ebe",
+    "title": "Savaşın bir sonucu: Küresel kıtlık alarmı",
+    "source": "10Haber",
+    "time": "28/03/2026 06:44",
+    "link": "https://10haber.net/ekonomi/savasin-bir-sonucu-kuresel-kitlik-alarmi-690433/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail’in durduk yerde başlattığı ve artık beşinci haftasına giren İran savaşının en büyük ekonomik sonuçlarından biri de küresel gübre arzındaki ciddi azalma oldu. Gübre sevkiyatları Hürmüz Boğazı&#8217;nın yanlış tarafında birikti. Hindistan, Cezayir ve Slovakya&#8217;da gübre fabrikaları, yükselen doğalgaz fiyatları nedeniyle kapandı veya üretimlerini yavaşlattı. Çin ve Rusya gübre ihracatını kısıtladı. Avustralyalı buğday çiftçileri [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/gubre.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_ea8a4330",
     "title": "ATMACA, tam isabetle vurdu!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kocaeli'nin Çayırova ilçesinde son kullanma tarihi geçmiş ve bozuk et sattığı tespit edilen kasap mühürlendi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2bfdeaa9-4d8a-4a75-9da5-9bd14fff03fd.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_953e913b",
-    "title": "Plastik kaplar yiyecek saklamak ve ısıtmak için güvenli mi?",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 03:24",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/plastik-kaplar-yiyecek-saklamak-ve-isitmak-icin-guvenli-mi-2490144",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Plastik kaplar yiyecek ve içecekleri saklamak, dondurmak, ısıtmak ve taşımak için kullanılıyor. Bazı bilim insanları, plastikteki kimyasalların sağlığımıza zarar verme potansiyeline sahip olmasından endişeli.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/45bcfde4-cb20-48c6-a933-55dc2269f41e.jpg",
     "keyword": null
   }
 ]
