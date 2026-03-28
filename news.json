@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_53d47770",
+    "title": "Mazot yüklü tanker yandı: 1 ölü",
+    "source": "Habertürk",
+    "time": "28/03/2026 23:45",
+    "link": "https://www.haberturk.com/usak-ta-mazot-yuklu-tanker-alev-alev-yandi-1-olu-3872836",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir-Uşak kara yolunda kontrolden çıkan akaryakıt tankeri şarampole devrilerek alev aldı. Yangının söndürülmesinin ardından sürücü Saim Kurt’un hayatını kaybettiği belirlendi. Olayla ilgili inceleme başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774613352/3872836/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b0735c86",
     "title": "Galata Kulesi’nde kırmızı ışıkta umut",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa&#039;da seyir halindeki bir motosiklet sürücüsü aniden şerit değiştirirken başka bir motosiklet sürücüsüne çarptı. İşte o anlar...",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/bursada-yurekler-agza-geldi-serit-degistirdi-motosikletle-carpisti-lnno.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_28eadde6",
-    "title": "Dicle Nehri'ne petrol karıştı",
-    "source": "OdaTV",
-    "time": "28/03/2026 22:45",
-    "link": "https://www.odatv.com/guncel/dicle-nehrine-petrol-karisti-120141155",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cizre’de TPAO boru hattından sızan ham petrol Dicle Nehri’ne karıştı; akış kesilirken bölgede çevre kirliliği ve kötü koku oluştu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/dicle-nehrine-petrol-karisti-4zlr.jpg",
     "keyword": null
   }
 ]
