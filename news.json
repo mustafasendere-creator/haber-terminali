@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c2cb231d",
+    "title": "Denizli'de kuvvetli rüzgar: Ağaçlar devrildi, çatılar uçtu!",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 02:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/denizli-de-kuvvetli-ruzgar-agaclar-devrildi-catilar-uctu-2490340",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Denizli'de etkili olan kuvvetli rüzgar nedeniyle ağaçlar devrildi, çatılar uçtu, çok sayıda araç zarar gördü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/719f54fb-fdcc-41c8-b5c5-ef9f4c08f938.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3e51b69a",
     "title": "BAE hava savunma sistemleri İran'dan gelen füze ve İHA saldırılarına müdahale etti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa’nın İnegöl ilçesinde farklı döner işletmelerinden tavuk döner yiyen 25 kişi, zehirlenme şüphesiyle hastanelik oldu. Sağlık durumlarının iyi olduğu belirtilirken, polis olayla ilgili inceleme başlattı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/bursada-tavuk-doner-kabusu-25-kisi-hastanelik-oldu-uze8.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_e4725dfe",
-    "title": "Hulusi Akar’dan Kıbrıs mesajı: Yüzme bilmeyenler gelmesin",
-    "source": "OdaTV",
-    "time": "29/03/2026 00:45",
-    "link": "https://www.odatv.com/guncel/hulusi-akardan-kibris-mesaji-yuzme-bilmeyenler-gelmesin-120141159",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKP&#039;li vekil Hulusi Akar, Kıbrıs temasları sonrası paylaştığı videoda sert mesaj verdi: “Mehmetçik Ada’da bekliyor, yüzme bilmeyenler gelmesin!”",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/hulusi-akardan-kibris-mesaji-yuzme-bilmeyenler-gelmesin-oowb.jpg",
     "keyword": null
   }
 ]
