@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fc646aa3",
+    "title": "İran: BAE'de Ukrayna'ya ait İHA savunma deposunu vurduk",
+    "source": "DW Türkçe",
+    "time": "28/03/2026 17:25",
+    "link": "https://www.dw.com/tr/iran-bae-de-ukrayna-ya-ait-iha-savunma-deposunu-vurduk/a-76578439",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran ordusu, Dubai'de bulunan ve Ukrayna'ya ait olduğunu öne sürdüğü bir İHA savunma deposunu imha ettiğini duyurdu. Ukrayna ise söz konusu iddiayı yalanladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f3bf9bf2",
     "title": "Bahçeli: İzzet bey akademik kariyeri için müsaade istedi",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Yetkililer, yeni bulunan kalıntıların Alexandre Dumas’nın ölümsüz eseri Üç Silahşörler’e ilham veren 17'inci yüzyıl Fransız askeri Charles de Batz de Castelmore’a, yani 'gerçek Dartanyan'a' ait olabileceğini belirtiyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3ec15fcb",
-    "title": "ABD, İran'da bir aydır devam eden savaşta hedeflerine ulaşmada ne kadar başarılı oldu?",
-    "source": "Euronews",
-    "time": "28/03/2026 16:24",
-    "link": "http://tr.euronews.com/2026/03/28/abd-iranda-bir-aydir-devam-eden-savasta-hedeflerine-ulasmada-ne-kadar-basarili-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beyaz Saray, İran'da devam eden ve bir ayını dolduran operasyonlarında önemli başarılar elde ettiğini iddia etmeye devam ediyor. Savaşın hedefleri sürekli değişiyor gibi görünse de Washington şimdiye kadar ne kadar başarılı oldu?",
     "image": null,
     "keyword": null
   }
