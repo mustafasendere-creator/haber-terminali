@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4af2689",
+    "title": "İsrail'de otoparklar sığınak oldu",
+    "source": "Habertürk",
+    "time": "29/03/2026 01:04",
+    "link": "https://www.haberturk.com/iran-fuzeleri-nedeniyle-israil-de-bircok-kisi-yeraltina-indi-otoparklar-siginaga-donusturuldu-3872802",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in ABD'nin desteğiyle İran'a saldırmasıyla başlayan savaş, İran yönetiminin balistik füze ve drone saldırılarıyla İsrail'i hedef alması sonucu ülkedeki günlük hayatı yerle bir etti. İsrail'in başkenti Tel Aviv'de füzelerden korunmak isteyen halk, otoparklarda çadır kurmaya başladı.",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774602504/3872802/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ce31aa55",
     "title": "İstanbul'da yağmur felç etti: Trafik yoğunluğu yüzde 70'i aştı!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/27/bina3-resmi-ilan-me3d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_443170df",
-    "title": "İran: Dubai'de Ukrayna'ya ait İHA karşıtı sistem deposu imha edildi",
-    "source": "TRT Haber",
-    "time": "29/03/2026 00:04",
-    "link": "https://www.trthaber.com/haber/dunya/iran-dubaide-ukraynaya-ait-iha-karsiti-sistem-deposu-imha-edildi-939448.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, Birleşik Arap Emirlikleri'nin BAE Dubai kentinde Ukrayna'ya ait ve İran'ın insansız hava araçlarına İHA karşı bölgeye getirilen sistemlerin tutulduğu depoyu vurduğunu öne sürdü.",
-    "image": null,
     "keyword": null
   }
 ]
