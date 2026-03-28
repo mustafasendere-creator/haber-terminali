@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1fd60028",
+    "title": "Melen Çayı'nda rafting sezonu açıldı",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 18:24",
+    "link": "https://www.aa.com.tr/tr/guncel/melen-cayinda-rafting-sezonu-acildi/3883217",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin en önemli parkurlarından birine sahip Düzce'nin Cumayeri ilçesindeki Melen Çayı'nda rafting sezonu başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_f4abb4b6",
     "title": "Yeni Anayasa Mahkemesi üyesinden duygulandıran paylaşım",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ürdün ordusu, son bir haftada ülkenin İran'dan atılan 22 füzeyle hedef alındığını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fc646aa3",
-    "title": "İran: BAE'de Ukrayna'ya ait İHA savunma deposunu vurduk",
-    "source": "DW Türkçe",
-    "time": "28/03/2026 17:25",
-    "link": "https://www.dw.com/tr/iran-bae-de-ukrayna-ya-ait-iha-savunma-deposunu-vurduk/a-76578439",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran ordusu, Dubai'de bulunan ve Ukrayna'ya ait olduğunu öne sürdüğü bir İHA savunma deposunu imha ettiğini duyurdu. Ukrayna ise söz konusu iddiayı yalanladı.",
     "image": null,
     "keyword": null
   }
