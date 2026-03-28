@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0fec37ca",
+    "title": "İçişleri Bakanlığı bazı iller için \"sarı\" kodlu meteorolojik uyarı yaptı",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 20:04",
+    "link": "https://www.aa.com.tr/tr/guncel/icisleri-bakanligi-bazi-iller-icin-sari-kodlu-meteorolojik-uyari-yapti/3883351",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, yarın Sakarya, Düzce, Zonguldak, Bartın, Bolu, Karabük çevreleri ile Kastamonu'nun batı ve Ankara'nın kuzeybatı ilçeleri için \"sarı\" kodlu meteorolojik uyarıda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3a035fd9",
     "title": "Katil Bibi'ye Tel Aviv sokaklarında ağır tokat: \"Siyonizm ölümdür\"",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/03/whatsapp-image-2026-03-28-at-100017.jpeg",
     "keyword": null
-  },
-  {
-    "id": "TKP_7874cbf9",
-    "title": "Trabzonspor 1 gün arayla devam edecek!",
-    "source": "61 Saat",
-    "time": "28/03/2026 18:04",
-    "link": "https://www.61saat.com/trabzonspor-1-gun-arayla-devam-edecek",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Trendyol Süper Lig Mehmet Ali Yılmaz Sezonu’nun 28. haftasında oynayacağı Galatasaray maçı hazırlıklarını bugün saat 15.00’te yaptığı antrenmanla sürdürdü.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/trabzonspor-95.png",
-    "keyword": "trabzon"
   }
 ]
