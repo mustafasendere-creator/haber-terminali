@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_51627293",
+    "title": "Önder Kahveci Türkiye Kamu-Sen Genel Başkanlığına yeniden seçildi",
+    "source": "Ekonomim",
+    "time": "28/03/2026 18:26",
+    "link": "https://www.ekonomim.com/ekonomi/onder-kahveci-turkiye-kamu-sen-genel-baskanligina-yeniden-secildi-haberi-884565",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Kamu-Sen Genel Başkanı Önder Kahveci, yeniden genel başkanlığa seçildi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/onder-kahveci-turkiye-kamu-sen-genel-baskanligina-yeniden-secildi-vlal_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bbb39d55",
     "title": "Hürmüz Boğazı krizi nedeni ile Hindistan'da uzun tüp kuyrukları oluştu",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da tehdit ve hakaret iddiasıyla başlatılan soruşturmada taraflar uzlaştı. Şüpheli, TRAHAYKO’ya 40 bin TL bağış yaparak dosya kapandı.",
     "image": "https://resim.haber61.net/news/609722.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_bf800e10",
-    "title": "Yemen'de Husiler İsrail'i hedef alan ilk füze saldırısını 'başarıyla' gerçekleştirdiklerini açıkladı",
-    "source": "Euronews",
-    "time": "28/03/2026 17:44",
-    "link": "http://tr.euronews.com/2026/03/28/yemende-husiler-israili-hedef-alan-ilk-fuze-saldirisini-basariyla-gerceklestirdiklerini-ac",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yemen'deki İran destekli Husiler, İran ve Hizbullah'ın direniş çabalarını desteklemek amacıyla İsrail askeri mevzilerini hedef alan saldırılarını başlattıklarını açıkladı. Grup, İsrail tüm cephelerdeki askeri saldırılarını durdurana kadar saldırılarının devam edeceğini belirtti.",
-    "image": null,
-    "keyword": null
   }
 ]
