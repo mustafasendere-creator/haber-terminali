@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_67fa97df",
+    "title": "Halkçılık ve savaş",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 05:24",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/orsan-k-oymen/halkcilik-ve-savas-2490186",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Savaşlarda her zaman masum vatandaşlar da yaşamlarını yitirirler.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar382_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_9e75992e",
     "title": "İran medyası: Tahran'da İran Bilim ve Teknoloji Üniversitesi hedef alındı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Seçilmiş Şişli Belediye Başkanı Resul Emrah Şahan'ın avukatı Doğa Şanlıoğlu, müvekkilinin İBB davasında verdiği ifadenin masumiyetinin ortaya çıkmasına önemli katkı sağladığını söyledi ve \"Tahliyesi gerektiğine inanıyoruz\" dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340497.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0960bf22",
-    "title": "EMEP’li Sevda Karaca madenci aileleriyle bir araya geldi: '27 Nisan’da iş cinayetlerini Meclis’e taşıyacağız'",
-    "source": "Evrensel",
-    "time": "28/03/2026 02:44",
-    "link": "https://www.evrensel.net/haber/5977017/emep-li-sevda-karaca-madenci-aileleriyle-bir-araya-geldi-27-nisan-da-is-cinayetlerini-meclis-e-tasiyacagiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "EMEP Milletvekili Sevda Karaca, Soma’da madenci aileleriyle buluştu; 27 Nisan’da Meclis’te iş cinayetlerinde hayatını kaybeden işçilerin aileleriyle toplantı yapacaklarını ve cezasızlığa karşı adalet talebini Meclis’e taşıyacaklarını duyurdu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340496.jpg",
     "keyword": null
   }
 ]
