@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d0a74332",
+    "title": "Perpa Metrobüs Durağı'nda yangın",
+    "source": "Sözcü",
+    "time": "28/03/2026 16:25",
+    "link": "https://www.sozcu.com.tr/perpa-metrobus-duragi-nda-yangin-p305401",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Perpa Metrobüs Durağı'nda yangın",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/sondakika880x487uzunjpg-ijjPQCBX6k_w9Rk7uxOH6g.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_09b46177",
     "title": "Yola fırlayan çocuk kazadan son anda kurtuldu",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un golcü ismi Paul Onuachu’ya Avrupa ve Suudi Arabistan’dan yoğun ilgi sürerken, Nijeryalı yıldızın geleceğiyle ilgili tavrı netleşti.",
     "image": "https://resim.haber61.net/news/609691.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_a825fe92",
-    "title": "Trabzonspor'un yıldızları dün gece şoku yaşadı! 3 isim veda etti",
-    "source": "Haber61",
-    "time": "28/03/2026 14:04",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-yildizlari-dun-gece-soku-yasadi-3-isim-veda-etti-h627895.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un yıldızları Zubkov, Batagov ve Muçi dünya Kupası'na katılma şansını kaybettileri.",
-    "image": "https://resim.haber61.net/news/609686.jpg",
-    "keyword": "trabzon"
   }
 ]
