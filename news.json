@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ea6b7f94",
+    "title": "Bursa'da metruk binada çıkan yangın söndürüldü",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 00:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/bursa-da-metruk-binada-cikan-yangin-sonduruldu-2490370",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa’nın Mudanya ilçesinde 5 katlı metruk binada çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/68b83e4b-4a9a-42ac-8f1e-ba592f516666.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b08a082e",
     "title": "Minibüs yaya geçidinde çarptı! Yaya hayatını kaybetti",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Muğla’nın Seydikemer ilçesinde balık tutarken suya düşerek akıntıya kapılan kişi yaşamını yitirdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/96ede201-24eb-4f96-aa7b-6877c9735de4.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9b280cb0",
-    "title": "Körfez’de sel felaketi: Çok sayıda ölü!",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 23:25",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/korfez-de-sel-felaketi-cok-sayida-olu-2490416",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Umman, BAE ve Katar başta olmak üzere birçok Körfez ülkesinde etkili olan şiddetli yağış ve sel hayatı felç etti. Umman’da ölü sayısı 11’e yükselirken, bölgede tahliyeler ve kurtarma çalışmaları sürüyor.",
-    "image": "https://media.cumhuriyet.com.tr/cumhuriyet-noimage.jpg",
     "keyword": null
   }
 ]
