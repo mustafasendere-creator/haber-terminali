@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e75992e",
+    "title": "İran medyası: Tahran'da İran Bilim ve Teknoloji Üniversitesi hedef alındı",
+    "source": "TRT Haber",
+    "time": "28/03/2026 05:24",
+    "link": "https://www.trthaber.com/haber/dunya/iran-medyasi-tahranda-iran-bilim-ve-teknoloji-universitesi-hedef-alindi-939398.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail saldırıları altındaki Tahran'da İran Bilim ve Teknoloji Üniversitesinin hedef alındığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_57dc0218",
     "title": "İran'da ABD ve İsrail'in saldırılarında can kaybı bin 937'ye yükseldi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "EMEP Milletvekili Sevda Karaca, Soma’da madenci aileleriyle buluştu; 27 Nisan’da Meclis’te iş cinayetlerinde hayatını kaybeden işçilerin aileleriyle toplantı yapacaklarını ve cezasızlığa karşı adalet talebini Meclis’e taşıyacaklarını duyurdu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340496.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_260b588f",
-    "title": "CHP İzmir İl Başkanı Güç, Evrensel İzmir Bürosunu ziyaret etti: “Toplumun mutsuz olduğu bir dönemdeyiz”",
-    "source": "Evrensel",
-    "time": "28/03/2026 02:44",
-    "link": "https://www.evrensel.net/haber/5977021/chp-izmir-il-baskani-guc-evrensel-izmir-burosunu-ziyaret-etti-toplumun-mutsuz-oldugu-bir-donemdeyiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP İzmir İl Başkanı Çağatay Güç, gazetemizin İzmir bürosuna yapılan silahlı saldırının ardından büromuzu ziyaret etti. Görüşmede toplumun mutsuz olduğunu vurgulayan Güç, sosyal yaşamın yeniden güçlendirilmesi gerektiğini söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340507.jpg",
     "keyword": null
   }
 ]
