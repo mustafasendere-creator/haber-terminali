@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70feb057",
+    "title": "İran Sağlık Bakanlığı: ABD-İsrail saldırılarında 230'dan fazla çocuk hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "29/03/2026 02:24",
+    "link": "https://www.evrensel.net/haber/5977161/iran-saglik-bakanligi-abd-israil-saldirilarinda-230-dan-fazla-cocuk-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Sağlık Bakanlığı, ABD-İsrail saldırılarının başladığı 28 Şubat'tan bu yana 230'dan fazla çocuğun hayatını kaybettiğini duyurdu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339526.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eb51a4f5",
     "title": "Fetihtepe halkı: Dönüşüm dediler borç yükün altına soktular",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ayını doldurdu, savaş büyüyor! Füze ve diplomasi bir arada  | Savaşta 30'uncu gün",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/iran-savasi-2jpg-ESVvqPB2UUyxeVhBaY7zGg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c4ddc730",
-    "title": "Bursa'da kamyonet ile otomobil çarpıştı: 2'si bebek 9 yaralı",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 00:44",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/bursa-da-kamyonet-ile-otomobil-carpisti-2-si-bebek-9-yarali-2490364",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'nın İnegöl ilçesinde kamyonet ile otomobilin çarpıştığı kazada 2’si bebek, 2’si de çocuk olmak üzere toplam 9 kişi yaralandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/10171c91-92f8-46e1-833e-6d69a995e01b.jpg",
     "keyword": null
   }
 ]
