@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ee2ec3ac",
+    "title": "50 metrelik uçurumdan düşerek öldü",
+    "source": "Habertürk",
+    "time": "29/03/2026 00:05",
+    "link": "https://www.haberturk.com/sarmasik-toplarken-50-metrelik-ucurumdan-dusen-sahis-hayatini-kaybetti-3872820",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aydın’ın Köşk ilçesinde sarmaşık toplarken 50 metrelik uçurumdan düşen şahıs hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774607792/3872820/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_927ac6e6",
     "title": "Kısa haberler",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çinli araştırmacılar, aşırı sıcaklık koşullarında çalışabilen yeni bir lityum pil elektroliti geliştirdi. Yeni teknoloji, bataryalarda enerji yoğunluğunu iki-üç kat artırarak elektrikli araç menzilini 1.000 kilometreye kadar çıkarma potansiyeli taşıyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/cinden-dev-batarya-hamlesi-elektrikli-araclarda-menzil-iki-katina-cikabilir-ebgz_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_df37f9c3",
-    "title": "Cizre'de petrol Dicle Nehrine karıştı, ekipler arızayı giderdi",
-    "source": "Ekonomim",
-    "time": "28/03/2026 23:05",
-    "link": "https://www.ekonomim.com/gundem/cizrede-petrol-dicle-nehrine-karisti-ekipler-arizayi-giderdi-haberi-884578",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şırnak&#039;ın Cizre ilçesinde boru hattındaki sızıntı nedeniyle petrol Dicle Nehri&#039;ne karıştı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/cizrede-petrol-dicle-nehrine-karisti-ekipler-arizayi-giderdi-ltvn_cover.jpg",
     "keyword": null
   }
 ]
