@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_035ffad8",
+    "title": "Ankara’da baraj doluluk oranı yüzde 30’u aştı",
+    "source": "Evrensel",
+    "time": "28/03/2026 13:04",
+    "link": "https://www.evrensel.net/haber/5977095/ankarada-baraj-doluluk-orani-yuzde-30u-asti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Geçen haftaki yağışlarla Ankara’da baraj doluluk oranı yüzde 30’un üzerine çıktı. Ancak kullanılabilir aktif su oranının yüzde 22’de kalması su riskinin sürdüğünü gösteriyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/338571.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_fd4a13d6",
     "title": "Bakan Uraloğlu, Trabzon’da açıkladı! Yeni Trabzon Havalimanı ne zaman bitecek?  Karadeniz’e gelecek demiryolu…",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da su kesintisi bugün birçok ilçede vatandaşları zor durumda bıraktı. Su kesintisi kapsamında özellikle Ortahisar, Akçaabat ve Maçka ilçelerinde farklı saat aralıklarında suların kesildiği açıklandı. Şebeke hattında meydana gelen arızalar nedeniyle bazı mahallelerde saatler sürecek kesintiler yaşanıyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/01/3bf751d6-6a5a-424a-b15c-00b8886a3c7b.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_497e80a8",
-    "title": "Trabzon’da kritik seminer: Ortahisar Belediyesi'nde Dijital dolandırıcılık yöntemleri tek tek anlatıldı",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 12:04",
-    "link": "https://www.takagazete.com.tr/trabzonda-kritik-seminer-ortahisar-belediyesinde-dijital-dolandiricilik-yontemleri-tek-tek-anlatildi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ortahisar Belediyesi’nin düzenlediği siber güvenlik seminerinde yapay zekâ dolandırıcılığı ve dijital tehditlere karşı alınması gereken önlemler anlatıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/basliksiz-2-312.jpg",
     "keyword": "trabzon"
   }
 ]
