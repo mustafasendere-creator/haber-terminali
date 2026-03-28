@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de87faba",
+    "title": "Lübnan Sağlık Bakanlığı: İsrail saldırılarında ölenlerin sayısı 1.189'a yükseldi",
+    "source": "Evrensel",
+    "time": "28/03/2026 21:04",
+    "link": "https://www.evrensel.net/haber/5977164/lubnan-saglik-bakanligi-israil-saldirilarinda-olenlerin-sayisi-1189a-yukseldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana süren İsrail saldırılarında hayatını kaybedenlerin sayısının son 24 saatte 47 artarak 1.189'a yükseldi. Saldırılarda 51 sağlık çalışanı hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340628.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_46b0908e",
     "title": "Kadıköy’de sahile cami ve otopark projesine halk tepki gösterdi: İhtiyaç değil, kent suçu",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Federe Kürdistan Bölgesi’nin Erbil ve Duhok kentlerine yönelik gün içinde 6 kez İHA saldırısı düzenlendi. Saldırıda Neçirvan Barzani’nin evi de bombalandı",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/310901.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ed5ee67c",
-    "title": "Sermayenin damarları: Boğazlar ve kanallar…",
-    "source": "Evrensel",
-    "time": "28/03/2026 20:04",
-    "link": "https://www.evrensel.net/haber/5977163/sermayenin-damarlari-bogazlar-ve-kanallar",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünya boğazları ve kanalları, küresel kapitalizmin kılcal damarları olarak işlev görürken, tarih boyunca patlak veren savaşlar bu damarların tıkanmasına neden olan en büyük kırılma noktaları da oluşturdu…",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340627.jpg",
     "keyword": null
   }
 ]
