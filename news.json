@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4d26ea0",
+    "title": "Leroy Sane 11'de başladı: 7 gollü düelloyu Almanya kazandı!",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 09:26",
+    "link": "https://www.cumhuriyet.com.tr/spor/leroy-sane-11-de-basladi-7-gollu-duelloyu-almanya-kazandi-2490220",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya, hazırlık maçında İsviçre'yi 4-3 yendi. Almanya'da Leroy Sane, 63 dakika forma giydi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/45f76dd2-f678-4746-b9d7-54630f919518.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ad48714d",
     "title": "İspanya, Sırbistan karşısında 3 golle güldü",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Türk müziğinin unutulmaz ismi Volkan Konak, vefatının 1. yılında Trabzon Maçka’daki mezarı başında düzenlenecek programla anılacak.",
     "image": "https://resim.haber61.net/news/609625.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2083b1b6",
-    "title": "İran Atom Enerjisi Kurumu duyurdu: Buşehr Nükleer Enerji Santrali üçüncü kez hedef alındı",
-    "source": "Ekonomim",
-    "time": "28/03/2026 08:05",
-    "link": "https://www.ekonomim.com/dunya/iran-atom-enerjisi-kurumu-duyurdu-busehr-nukleer-enerji-santrali-ucuncu-kez-hedef-alindi-haberi-884484",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Atom Enerjisi Kurumu, ABD ve İsrail’in İran’a yönelik saldırılarında Buşehr Nükleer Enerji Santrali’nin üçüncü kez hedef alındığını belirterek, santral sahasına füze isabet ettiğini ve saldırıda herhangi bir can kaybı ya da hasar oluşmadığını duyurdu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/iran-atom-enerjisi-kurumu-duyurdu-busehr-nukleer-enerji-santrali-ucuncu-kez-hedef-alindi-k17e_cover.jpg",
     "keyword": null
   }
 ]
