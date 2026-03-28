@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff774c02",
+    "title": "İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırılarda 7 kişi yaşamını yitirdi",
+    "source": "Evrensel",
+    "time": "29/03/2026 00:44",
+    "link": "https://www.evrensel.net/haber/5977197/israil-ordusunun-lubnanin-guneyine-duzenledigi-saldirilarda-7-kisi-yasamini-yitirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun dün Lübnan'ın güneyindeki Deyr Zehrani beldesine düzenlediği saldırıda 7 kişi hayatını kaybetti, 8 kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339492.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bae7b105",
     "title": "Yüksel Yalova: Siyasetin, Akademinin ve Sahnenin Kesişiminde Bir  Değer",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İletişim Başkanı Duran, \"İsrail'in bölgedeki yayılmacılığını kabul edilemez görüyoruz. Bu konuda yaptığı faaliyetlerle bugün burada, STRATCOM'da yaptığımız faaliyetle bu barış ortamını, müzakere ortamını oluşturmaya çalışıyoruz.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_101705a4",
-    "title": "Sinema Genel Müdürlüğü, \"Series Mania\" ile işbirliğine imza attı",
-    "source": "Anadolu Ajansı",
-    "time": "28/03/2026 23:44",
-    "link": "https://www.aa.com.tr/tr/guncel/sinema-genel-mudurlugu-series-mania-ile-isbirligine-imza-atti/3883225",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü, Fransa'nın Lille kentinde düzenlenen dünyanın önemli dizi festivallerinden \"Series Mania\" ile işbirliğine imza attı.",
     "image": null,
     "keyword": null
   }
