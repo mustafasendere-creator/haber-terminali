@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ac8211c4",
+    "title": "Ankara Valiliğinden sağanak uyarısı",
+    "source": "Anadolu Ajansı",
+    "time": "28/03/2026 12:44",
+    "link": "https://www.aa.com.tr/tr/guncel/ankara-valiliginden-saganak-uyarisi/3882822",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Valiliği, yarın kentin kuzeybatı ilçelerinde sağanak beklendiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3c816d11",
     "title": "Galata Kulesi davasında karar! İBB’ye ret: Tartışma bitti",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail ile İran arasında savaş, küresel bir sorunu günyüzüne çıkardı: Küresel ticaret sistemi, denizcilikte \"dargeçit\" olarak adlandırılan bir avuç deniz yolu üzerine kurulmuş durumda. İşte en önemli beş deniz yolu hakkında bilinenler.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_cfd4b074",
-    "title": "Samsun'da bozulan tarım arazileri cezasız kalmadı: 48 işlem uygulandı",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 11:24",
-    "link": "https://www.takagazete.com.tr/samsunda-bozulan-tarim-arazileri-cezasiz-kalmadi-48-islem-uygulandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "SAMSUN (İHA) - Tarım ve Orman Bakanlığı, Samsun'da bozulan 16 bin 895 m2 tarımsal alan için 48 adet cezai işlem uyguladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/samsunda-bozulan-tarim-arazileri-cezasiz-kalmadi-48-islem-uygulandi.jpg",
     "keyword": null
   }
 ]
