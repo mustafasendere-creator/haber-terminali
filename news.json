@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c8589be0",
+    "title": "Lübnan: İsrail saldırılarında ölenlerin sayısı 1189'a yükseldi",
+    "source": "TRT Haber",
+    "time": "28/03/2026 22:44",
+    "link": "https://www.trthaber.com/haber/dunya/lubnan-israil-saldirilarinda-olenlerin-sayisi-1189a-yukseldi-939469.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana süren İsrail saldırılarında hayatını kaybedenlerin sayısının son 24 saatte 47 artarak 1189'a, yaralı sayısının ise 3 bin 427'ye çıktığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1ee37a46",
     "title": "KosovaTürkiye maçını İngiliz hakem Michael Oliver yönetecek",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı sosyal medya hesabından yaptığı açıklamada, yarın Sakarya, Düzce, Zonguldak, Bartın, Bolu, Karabük çevreleri ile Kastamonu'nun batı ve Ankara'nın kuzeybatı ilçeleri için \"sarı\" kodlu meteorolojik uyarıda bulundu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/icisleri-bakanligindan-vatandaslara-sari-kodlu-uyari-cnex.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4606dcfc",
-    "title": "U19 Milli Takımı, Elit Tur'da Macaristan'ı 3 golle devirdi",
-    "source": "Haber Global",
-    "time": "28/03/2026 21:05",
-    "link": "https://haberglobal.com/spor/u19-milli-takimi-elit-turda-macaristani-3-golle-devirdi-515855",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Avrupa U19 Şampiyonası Elit Tur ikinci maçında U19 Milli Futbol Takımı, Macaristan'ı 3-2 yendi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/u19-milli-takimi-elit-turda-macaristani-3-golle-devirdi-1hw4.jpg",
     "keyword": null
   }
 ]
