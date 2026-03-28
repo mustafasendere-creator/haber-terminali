@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ea8a4330",
+    "title": "ATMACA, tam isabetle vurdu!",
+    "source": "Habertürk",
+    "time": "28/03/2026 06:24",
+    "link": "https://www.haberturk.com/atmaca-gemisavar-fuzesi-tam-isabetle-vurdu-3872974",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ROKETSAN tarafından geliştirilen ATMACA gemisavar füzesi, TCG Burgazada gemisinden ateşlenerek belirlenen kara koordinatı hedefini tam isabetle vurdu",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774653549/3872974/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_82627edc",
     "title": "Kolonlarından ses gelen apartman boşaltıldı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Plastik kaplar yiyecek ve içecekleri saklamak, dondurmak, ısıtmak ve taşımak için kullanılıyor. Bazı bilim insanları, plastikteki kimyasalların sağlığımıza zarar verme potansiyeline sahip olmasından endişeli.",
     "image": "https://media.cumhuriyet.com.tr/Archive/45bcfde4-cb20-48c6-a933-55dc2269f41e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_dba8e3ff",
-    "title": "Kızılcık Şerbeti dizisinin yeni bölümü ne zaman? Kızılcık Şerbeti dizisinin son bölümünde ne oldu?",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 03:24",
-    "link": "https://www.cumhuriyet.com.tr/tv-rehberi/kizilcik-serbeti-dizisinin-yeni-bolumu-ne-zaman-kizilcik-serbeti-dizisinin-son-bolumunde-ne-oldu-2490139",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kızılcık Şerbeti dizisinin 130. bölümünün ne zaman yayımlanacağı merak ediliyor. Peki, Kızılcık Şerbeti dizisinin yeni bölümü ne zaman? Kızılcık Şerbeti dizisinin son bölümünde ne oldu?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/21862468-7823-4890-8c1d-eaadbadb6ac1.jpg",
     "keyword": null
   }
 ]
