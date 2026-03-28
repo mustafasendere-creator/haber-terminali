@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_68b80878",
+    "title": "İki otomobilin çarpıştığı kazada 3 kişi yaralandı",
+    "source": "Gazete Duvar",
+    "time": "28/03/2026 20:24",
+    "link": "https://www.gazeteduvar.com.tr/iki-otomobilin-carpistigi-kazada-3-kisi-yaralandi-haber-1765769",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karabük’te iki otomobilin çarpışması sonucu meydana gelen kazada 3 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-twgi_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2ea589cb",
     "title": "Maç bitti, Messi’yi sahada kovaladılar",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İKMİB’de seçim öncesi kulisler hareketlendi, Adil Pelister’in TİM planı Tayfun Demir’in evrak hamlesiyle sarsıldı. Sürpriz ittifak ve yeni liste iddiaları dengeleri değiştirebilir.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/28/ikmib-seciminde-surpriz-hamle-yeni-ittifak-sinyali-w005.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3480fc83",
-    "title": "ABD Kara Kuvvetleri'nden stratejik lazer revizyonu: Valkyrie programı sonlandırıldı",
-    "source": "Ekonomim",
-    "time": "28/03/2026 18:26",
-    "link": "https://www.ekonomim.com/sektorler/savunma-sanayi/abd-kara-kuvvetlerinden-stratejik-lazer-revizyonu-valkyrie-programi-sonlandirildi-s1-haberi-884564",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pentagon, katmanlı hava savunma mimarisinde doktrin değişikliğine gidiyor. IFPC-HEL (Valkyrie) projesini rafa kaldıran ABD Kara Kuvvetleri, ‘Golden Dome’ (Altın Kubbe) şemsiyesi altında Deniz Kuvvetleri ile müşterek lazer platformlarına yönelme kararı aldı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/abd-kara-kuvvetlerinden-stratejik-lazer-revizyonu-valkyrie-programi-sonlandirildi-veqa_cover.gif",
     "keyword": null
   }
 ]
