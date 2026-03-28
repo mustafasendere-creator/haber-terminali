@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bb130de3",
+    "title": "Sabahın ilk ışıklarıyla çamurlu arazilere giriyorlar: Kırıkhan’da hasat maratonu başladı...",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 13:05",
+    "link": "https://www.cumhuriyet.com.tr/yasam/sabahin-ilk-isiklariyla-camurlu-arazilere-giriyorlar-kirikhan-da-hasat-maratonu-basladi-2490281",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay’da havuç hasadı başladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/88ea3ef5-be49-4122-9ed4-931510b1e16c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f1ed61de",
     "title": "Dışişleri Bakanı Fidan: 'Bölge daha geniş bir savaşın eşiğine getirildi'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusu, İran'ın 3 ayrı bölgesine düzenlediği hava saldırılarında askeri altyapı ve tesisleri hedef aldığını ileri sürdü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fcacffa2",
-    "title": "Tekirdağ'da farklı suçlardan aranan 37 zanlı tutuklandı",
-    "source": "Anadolu Ajansı",
-    "time": "28/03/2026 12:44",
-    "link": "https://www.aa.com.tr/tr/guncel/tekirdagda-farkli-suclardan-aranan-37-zanli-tutuklandi/3882820",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tekirdağ'da polis ekiplerince yürütülen çalışmalar kapsamında farklı suçlardan aranan 37 şüpheli tutuklandı.",
     "image": null,
     "keyword": null
   }
