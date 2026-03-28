@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_29c1015e",
+    "title": "Meteoroloji açıkladı: 28 Mart 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+    "source": "Cumhuriyet",
+    "time": "28/03/2026 07:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-28-mart-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2490216",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 28 Mart Cumartesi gününe ilişkin hava durumu raporunu yayımladı. Rapora göre; Marmara, Ege, Akdeniz, İç Anadolu, Batı Karadeniz ile Çorum ve Siirt çevrelerinin yağmur ve sağanak, Ege ve Akdeniz kıyılarının yer yer gök gürültülü sağanak yağışlı, Hakkari ve Şırnak çevrelerinin karla karışık yağmur ve yer yer kar yağışlı geçeceği tahmin ediliyor. Yağışların, Ege ve Batı Akdeniz ile Balıkesir ve Bursa çevrelerinde kuvvetli, Aydın, Denizli ve Muğla çevrelerinde yer yer çok kuvvetli ve şiddetli olması bekleniyor. Rüzgarın ise; Ege ile Batı Akdeniz'de güney ve güneybatı yönlerden kuvvetli ve kısa süreli fırtına şeklinde eseceği tahmin ediliyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8eb325ef-cd13-41c2-bfa2-6328c920dc43.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7c58bd53",
     "title": "Rubio, “Savaş 2-4 hafta daha sürecek” deyince dünya piyasaları çöktü, petrol yeniden fırladı",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ayşe Tokyaz cinayetinden tutuklu Cemil Koç’un, Diyarbakır’da Ejegül Ovezova’nın ölümüyle ilgili yargılandığı davada tanık komşu dinlendi. Duruşma, 14 Temmuz’a ertelendi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340043.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a5ec1ac6",
-    "title": "Galatasaraylı Kazımcan Karataş'a çakmak atan taraftar ilk kez hâkim karşısına çıktı",
-    "source": "Evrensel",
-    "time": "28/03/2026 04:44",
-    "link": "https://www.evrensel.net/haber/5976981/galatasarayli-kazimcan-karatasa-cakmak-atan-taraftar-ilk-kez-hkim-karsisina-cikti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe-Galatasaray maçında sahaya attığı çakmakla Futbolcu Kazımcan Karataş'ın yaralanmasına sebep olan taraftar hakim karşısına çıktı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340459.jpg",
     "keyword": null
   }
 ]
