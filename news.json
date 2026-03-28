@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4caa0a8e",
+    "title": "Katil İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 268'e yükseldi",
+    "source": "TRT Haber",
+    "time": "28/03/2026 11:25",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-can-kaybi-72-bin-268e-yukseldi-939419.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 268'e ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ecfe86fc",
     "title": "Küresel enerji kriziyle hangi ülke nasıl başa çıkıyor?",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un ara transfer döneminde kadrosuna kattığı Chibuike Nwaiwu, Nijerya Milli Takımı formasını ilk kez giydi. İran ile oynanan hazırlık maçında süre alan 22 yaşındaki savunmacı, ortaya koyduğu performansla dikkat çekti.",
     "image": "https://resim.haber61.net/news/609651.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_3b0c107a",
-    "title": "Of'ta öğrenciler tiyatro oyunu izledi",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 09:44",
-    "link": "https://www.takagazete.com.tr/ofta-ogrenciler-tiyatro-oyunu-izledi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon'un Of ilçesinde, 27 Mart Dünya Tiyatrolar Günü dolayısıyla öğrencilere yönelik tiyatro oyunu sahnelendi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/ofta-ogrenciler-tiyatro-oyunu-izledi.jpg",
-    "keyword": null
   }
 ]
