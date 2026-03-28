@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_66464752",
+    "title": "Kerkük Havalimanı'nda Haşdi Şabi'ye ait merkeze hava saldırısı: Ölüler var",
+    "source": "Haber Global",
+    "time": "28/03/2026 23:04",
+    "link": "https://haberglobal.com/dunya/kerkuk-havalimaninda-hasdi-sabiye-ait-merkeze-hava-saldirisi-oluler-var-515854",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak'ın Kerkük vilayetinde bulunan Kerkük Uluslararası Havalimanı içerisindeki İran yanlısı Haşdi Şabi örgütünün istihbarat birimine ait bir merkeze düzenlenen hava saldırısında 2 kişi yaralandı.  Yerel kaynaklar, söz konusu merkezin bir savaş uçağından fırlatılan 3 güdümlü füze ile vurulduğunu aktardı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/kerkuk-havalimaninda-hasdi-sabiye-ait-merkeze-hava-saldirisi-yaralilar-var-gmsa.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f69990fb",
     "title": "İletişim Başkanlığından Cumhurbaşkanı Erdoğan'ın Denis Becirovic'le görüşmesine ilişkin açıklama",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "BM Genel Sekreter Sözcüsü Stephane Dujarric düzenlediği basın toplantısında Orta Doğu&#8217;daki gerilime değindi. Dujarric &#8220;Orta Doğu&#8217;daki çatışmanın tırmanmaya devam etmesi ve şiddetlenme tehlikesi yaratmasıyla birlikte, Hürmüz Boğazı&#8217;ndaki deniz ticaretindeki aksaklıklar, önümüzdeki aylarda insani yardım ihtiyaçlarını ve tarımsal üretimi etkileyecek bir domino etkisi yaratma riski taşıyor.&#8221; ifadesini kullandı. Bu konuda acil önlem alınmasının &#8220;hayati önem&#8221; taşıdığını [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c7bce0b727a6.60210852.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9e832f6f",
-    "title": "Avrupa'da İsrail'in Gazze, İran ve Lübnan'a yönelik saldırıları protesto edildi",
-    "source": "Anadolu Ajansı",
-    "time": "28/03/2026 22:04",
-    "link": "https://www.aa.com.tr/tr/guncel/avrupada-israilin-gazze-iran-ve-lubnana-yonelik-saldirilari-protesto-edildi-/3883386",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa’nın farklı şehirlerinde düzenlenen gösterilerde, İsrail’in Gazze, İran ve Lübnan’a yönelik saldırıları protesto edildi.",
-    "image": null,
     "keyword": null
   }
 ]
