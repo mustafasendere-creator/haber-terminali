@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1f85d2e2",
+    "title": "Fırın bacası tutuştu; 3 işçi dumandan etkilendi",
+    "source": "Evrensel",
+    "time": "28/03/2026 20:24",
+    "link": "https://www.evrensel.net/haber/5977170/firin-bacasi-tutustu-3-isci-dumandan-etkilendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli’de fırın bacasının tutuşması ile çıkan yangında, 3 kişi dumandan etkilendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340631.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_be0d617f",
     "title": "Varto'daki JES projelerine Çiğli'den tepki: Toprağımızı şirketlerin kâr hırsına teslim etmeyeceğiz",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Gümüşhane’de düzenlenen turizm toplantısında bölge turizminin geliştirilmesi için iş birliği vurgusu yapıldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ekran-resmi-2026-03-28-175015.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_131a3b46",
-    "title": "Fatih Tekke’den derbi motivasyonu!  Saha içerisinde durmak yok!",
-    "source": "Haber61",
-    "time": "28/03/2026 18:44",
-    "link": "https://www.haber61.net/trabzonspor/fatih-tekkeden-derbi-motivasyonu-saha-icerisinde-durmak-yok-h627920.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Galatasaray derbisi öncesi Mehmet Ali Yılmaz Tesisleri’nde adeta kamp kurdu. Oyuncularıyla birebir görüşmeler yapan Tekke, kritik randevu öncesi takımı hem taktik hem de mental olarak hazırlıyor.",
-    "image": "https://resim.haber61.net/news/609729.jpg",
     "keyword": null
   }
 ]
