@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_413d2140",
+    "title": "Ev sahiplerine uyarı: Kira geliri beyanı için son beş gün",
+    "source": "Evrensel",
+    "time": "28/03/2026 04:04",
+    "link": "https://www.evrensel.net/haber/5976992/ev-sahiplerine-uyari-kira-geliri-beyani-icin-son-bes-gun",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kira geliri elde eden mülk sahiplerinin 31 Mart'a kadar beyannamelerini vermesi gerekiyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/307063.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4b3e233a",
     "title": "Gazetecilerden eylem çağrısı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Survivor’da 27 Mart 2026 Cuma günü kimin eleme adayı olarak belirlendiği merak ediliyor. Peki, Survivor dokunulmazlık oyununu kim kazandı? 27 Mart 2026 Cuma günü Survivor'da hangi takım kazandı?",
     "image": "https://media.cumhuriyet.com.tr/Archive/bc049baa-451f-4149-be48-7f20319982c8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7498ac71",
-    "title": "T.C.BÜYÜKÇEKMECE 6. AİLE MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 01:44",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-buyukcekmece-6-aile-mahkemesi-2490108",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C.BÜYÜKÇEKMECE 6. AİLE MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/90632456-01ee-4b17-8a4e-5707709d1cda.jpg",
     "keyword": null
   }
 ]
