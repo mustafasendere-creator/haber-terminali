@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cdae149f",
+    "title": "Top darbesi sonrası ölüm!",
+    "source": "Habertürk",
+    "time": "29/03/2026 00:45",
+    "link": "https://www.haberturk.com/hali-sahada-top-darbesi-sonrasi-olum-3872806",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta halı sahada feci bir olay yaşandı. Kentte arkadaşlarıyla futbol oynayan 48 yaşındaki Selahittin Atlı, göğsüne aldığı top darbesinin ardından fenalaşarak hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774603946/3872806/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_d9f6ecfe",
     "title": "Sahilde İHA parçaları bulundu",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Duygusal bağ kurmanın ve samimiyetin bir ihtiyaç olduğu toplumsal ilişkilerde, bazı karakterler mesafe koymayı bir güvenlik önlemi veya bir yaşam biçimi olarak görüyor. Astrolojinin \"duygusal buzdağı\" olarak tanımlanan bu 4 burcu, dışarıdan bakıldığında soğuk, mesafeli ve ulaşılmaz tavırlarıyla dikkat çekiyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7253cf6f-7a73-4cee-83be-8c8f8d3756d9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_26b1a413",
-    "title": "Premier Lig devinin başına geçmesi bekleniyor... Xabi Alonso'nun hedefi Arda Güler!",
-    "source": "Cumhuriyet",
-    "time": "28/03/2026 23:45",
-    "link": "https://www.cumhuriyet.com.tr/spor/premier-lig-devinin-basina-gecmesi-bekleniyor-xabi-alonso-nun-hedefi-arda-guler-2490376",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son olarak İspanya LaLiga devi Real Madrid'i çalıştıran Xabi Alonso'nun Liverpool ile anlaştığı ve İspanyol çalıştırıcının, yeni takımına Arda Güler'i de götüreceği iddia edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5744679d-6fbf-4c37-898f-0bccf77ebd79.jpg",
     "keyword": null
   }
 ]
