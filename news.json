@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_234bb5c4",
+    "title": "2 aracın karıştığı kazada 4’ü çocuk 9 kişi yaralandı",
+    "source": "Gazete Duvar",
+    "time": "28/03/2026 21:04",
+    "link": "https://www.gazeteduvar.com.tr/2-aracin-karistigi-kazada-4u-cocuk-9-kisi-yaralandi-haber-1765761",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa&#039;nın İnegöl ilçesinde meydana gelen kazada 2 araç çarpıştı: 4&#039;ü çocuk 9 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-groq_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_65b64a1f",
     "title": "Şişli'de metrobüsün motor kısmında yangın çıktı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Batman kent merkezinde sürücüsünün kontrolünden çıkan otomobilin refüje çarparak ters döndüğü kazada 1 kişi yaralandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-berm_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_88e6fee7",
-    "title": "Ümraniye'de İETT otobüsü park halindeki araçlara çarptı",
-    "source": "Gazete Duvar",
-    "time": "28/03/2026 20:04",
-    "link": "https://www.gazeteduvar.com.tr/umraniyede-iett-otobusu-park-halindeki-araclara-carpti-haber-1765765",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ümraniye&#039;de kadın şoförün kullandığı İETT otobüsü, şoförün direksiyon hakimiyetini kaybetmesi sonucu park halindeki araçlara çarptı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/28/basliksiz-1-eymv_cover.jpg",
     "keyword": null
   }
 ]
