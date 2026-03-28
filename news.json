@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f16f5d26",
+    "title": "İsrail’in Lübnan'a saldırısında 3 gazeteci hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "28/03/2026 16:24",
+    "link": "https://www.evrensel.net/haber/5977144/israilin-lubnana-saldirisinda-3-gazeteci-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail’in Lübnan’ın Cizzin ilçesinde gazetecileri taşıyan aracı hedef aldığı saldırıda 3 gazeteci hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/170835.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a495dec4",
     "title": "Uzayda gizemli hastalık: NASA’nın Ay planları risk altında mı?",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Tanıtım Günleri, İstanbul’da yoğun katılımla başladı. Atatürk Havalimanı Millet Bahçesi’nde düzenlenen etkinlikte hem Trabzon kültürü tanıtıldı hem de şehrin geleceğine dair önemli projeler paylaşıldı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/fotogaleri-5.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_194bd32f",
-    "title": "Trabzon Ekonomisinde Büyük Hamle! Yatırım Adası, DTM ve Havalimanı İçin Kritik Tarihler Verildi",
-    "source": "Taka Gazetesi",
-    "time": "28/03/2026 13:24",
-    "link": "https://www.takagazete.com.tr/trabzon-ekonomisinde-buyuk-hamle-yatirim-adasi-dtm-ve-havalimani-icin-kritik-tarihler-verildi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Ticaret ve Sanayi Odası’nın Mart ayı toplantısında şehrin geleceğini doğrudan etkileyecek projeler masaya yatırıldı. Yatırım Adası’ndan Dünya Ticaret Merkezi’ne, lojistikten yeni havalimanına kadar birçok başlıkta dikkat çeken açıklamalar geldi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/ttso-3-6.jpg",
     "keyword": "trabzon"
   }
 ]
