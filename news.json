@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ed85279",
+    "title": "Şiddetli yağış İstanbul'u vurdu: 42 uçak inemedi",
+    "source": "OdaTV",
+    "time": "30/03/2026 00:05",
+    "link": "https://www.odatv.com/guncel/siddetli-yagis-istanbulu-vurdu-42-ucak-inemedi-120141228",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da etkili olan şiddetli yağmur nedeniyle Sabiha Gökçen Havalimanı’na iniş yapılamadı. 42 uçak çevre havalimanlarına yönlendirilirken Pegasus ve AJet’in seferlerinde aksama yaşandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/siddetli-yagis-istanbulu-vurdu-42-ucak-inemedi-dwcn.png",
+    "keyword": null
+  },
+  {
     "id": "GND_5b6a7cbe",
     "title": "İlk çeyreğin kaybettirenleri bankacılık, holdingler ve altın",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avrupa'nın büyük bölümünde yaz saati uygulamasına geçişle birlikte kış ayları boyunca 2 saat olan Türkiye-Avrupa saat farkı, pek çok ülke için 1 saate indi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340744.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6b0b3bd4",
-    "title": "Yurt genelinde alarm: 18 il için peş peşe yağış uyarıları geldi",
-    "source": "Evrensel",
-    "time": "29/03/2026 23:24",
-    "link": "https://www.evrensel.net/haber/5977273/yurt-genelinde-alarm-18-il-icin-pes-pese-yagis-uyarilari-geldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, 18 ilde etkili olması beklenen kar ve sağanak yağışlara karşı vatandaşları uyardı. Doğu illerinde kar, Akdeniz ve Karadeniz’de ise kuvvetli sağanak bekleniyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339081.jpg",
     "keyword": null
   }
 ]
