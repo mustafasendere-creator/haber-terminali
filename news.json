@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17f5fa22",
+    "title": "Antalya'nın yüksek kesimlerine kar yağdı",
+    "source": "TRT Haber",
+    "time": "29/03/2026 23:05",
+    "link": "https://www.trthaber.com/haber/turkiye/antalyanin-yuksek-kesimlerine-kar-yagdi-939545.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Korkuteli ilçesinin yüksek kesimlerinde kar etkili oldu, bazı kara yolları ulaşıma kapandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cc0e5218",
     "title": "ABD basını: İran'ın ABD üssüne saldırısında 15 asker yaralandı, yakıt ikmal uçakları ve bir AWACS hasar gördü",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, Mısır Dışişleri Bakanı Bedir Abdulati ile Pakistan'ın başkenti İslamabad'da bir araya geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3d15e056",
-    "title": "27 Mart kutlu olsun mu?",
-    "source": "Diken",
-    "time": "29/03/2026 21:44",
-    "link": "https://www.diken.com.tr/27-mart-kutlu-olsun-mu/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "27 Mart kutlu olsun mu? 29.03.2026 DikenKimin 27 Mart’ı bu kutlanan? Ortada gerçekten kutlanacak bir durum var mı? Sarı öküz çoktan verilmiş, herkes görmemek için kafasını çeviriyor.\nThe post 27 Mart kutlu olsun mu? appeared first on #site_linkat 29.03.2026 .",
     "image": null,
     "keyword": null
   }
