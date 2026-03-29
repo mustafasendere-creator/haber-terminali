@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_78f443b2",
+    "title": "Antalya’da şüpheli ölüm: Sera işçisi kadın evinde ölü bulundu",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 01:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/antalya-da-supheli-olum-sera-iscisi-kadin-evinde-olu-bulundu-2490647",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kepez’de yaşayan Suriye uyruklu sera işçisi Vahda Ş, evinde göğsünden vurulmuş halde ölü bulundu. Olay yerinde silah bulunamazken, eşi ifadesi alınmak üzere emniyete götürüldü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/88b94ca2-74b8-4487-ae7f-c525e9a7739e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_213e853d",
     "title": "Gaziantep’te tankerler kafa kafaya çarpıştı: Ölü ve yaralılar var",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Aksaray'da 20 yaşındaki genç, annesinin sevgilisini bıçakla göğsünden ve sırtından bıçakla ağır yaraladı. Gözaltına alınan oğlunun yanına gelen anne ise, hastanede saldırdığı polis memurunu tokatladı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/annesinin-sevgilisini-bicaklayip-ortaligi-birbirine-katti-z8i3.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7a15418d",
-    "title": "Antalya'da bir kadın evinde ölü bulundu",
-    "source": "Haber Global",
-    "time": "30/03/2026 00:44",
-    "link": "https://haberglobal.com/gundem/antalyada-bir-kadin-evinde-olu-bulundu-515996",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya'da sera işçisi olduğu öğrenilen yabancı uyruklu 25 yaşındaki kadın, evinde silahla vurulmuş halde ölü bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/antalyada-bir-kadin-evinde-olu-bulundu-dgyq.jpg",
     "keyword": null
   }
 ]
