@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dcbf8e1c",
+    "title": "Hindistan'a ait 2 LPG tankerinin Hürmüz Boğazı'nı geçtiği bildirildi",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 22:24",
+    "link": "https://www.aa.com.tr/tr/guncel/hindistana-ait-2-lpg-tankerinin-hurmuz-bogazini-gectigi-bildirildi/3884289",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hindistan bayraklı, sıvılaştırılmış petrol gazı (LPG) taşıyan iki tankerin Hürmüz Boğazı'nı geçerek ülkeye doğru ilerlediği duyuruldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_e0cf1626",
     "title": "Acı olay! 2 çocuk babası hayatına son verdi",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon'da 52 ilden 778 sporcunun katılımıyla organize edilen 2026 Spor Toto Gençler Türkiye Judo Şampiyonası tamamlandı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/asasdas-kurtarildi-131.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_7cc23155",
-    "title": "AK Parti Trabzon İl Başkanı Dr. Sezgin Mumcu: “Doğu Karadeniz için güçlü bir yol haritası oluşturduk”",
-    "source": "Haber61",
-    "time": "29/03/2026 20:44",
-    "link": "https://www.haber61.net/trabzon/ak-parti-trabzon-il-baskani-dr-sezgin-mumcu-dogu-karadeniz-icin-guclu-bir-h628007.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "AK Parti Bölge Strateji Toplantıları kapsamında Trabzon’un ev sahipliğinde gerçekleştirilen Doğu Karadeniz programı, teşkilat performansı ve ulaştırma yatırımlarının damga vurduğu oturumlarla sona erdi.",
-    "image": "https://resim.haber61.net/news/609877.jpg",
     "keyword": "trabzon"
   }
 ]
