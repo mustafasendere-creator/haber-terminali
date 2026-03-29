@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9ec5b091",
+    "title": "NYT: Musk, ABD/İsrail-İran Savaşı'na ilişkin Trump ile Modi arasındaki telefon görüşmesine katıldı",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 13:04",
+    "link": "https://www.aa.com.tr/tr/guncel/nyt-musk-abd-israil-iran-savasina-iliskin-trump-ile-modi-arasindaki-telefon-gorusmesine-katildi/3883812",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amerikalı milyarder Elon Musk'ın, ABD ile İsrail'in İran'a saldırılarıyla başlayan savaşa ilişkin, ABD Başkanı Donald Trump ile Hindistan Başbakanı Narendra Modi arasında gerçekleştirilen telefon görüşmesine dahil olduğu iddia edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_e2fae4ea",
     "title": "Trabzonspor'un Galatasaray maçı öncesi İstanbul karnesi",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun'un Ladik ilçesinde virajı alamayan motosiklet, karşı yönden gelen kamyonla çarpıştı. Kazada motosiklet sürücüsü hayatını kaybetti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/viraji-alamayan-motosiklet-kamyonla-carpisti-aci-haber.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ec6ca97a",
-    "title": "Sabahları sıcak su içmek gerçekten sağlığa faydalı mı?",
-    "source": "BBC Türkçe",
-    "time": "29/03/2026 11:44",
-    "link": "https://www.bbc.com/turkce/articles/cn9qg1ggq3lo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sabahları sıcak su içmek internette hızla yayılıyor. Peki, yüzyıllardır süregelen bu alışkanlık gerçekten sağlığınızı iyileştirebilir mi?",
-    "image": null,
     "keyword": null
   }
 ]
