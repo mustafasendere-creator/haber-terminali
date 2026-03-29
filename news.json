@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a4ecc3c2",
+    "title": "Meteoroloji saat verdi... 12 kent için \"sarı\" alarm! 7 bölgede yağış var!",
+    "source": "Habertürk",
+    "time": "30/03/2026 01:25",
+    "link": "https://www.haberturk.com/son-dakika-meteoroloji-saat-verdi-12-kent-icin-sari-alarm-7-bolgede-yagis-var-3872979",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MGM'den alınan bilgiye göre bugün, yurdun büyük bölümünde yağış bekleniyor. Yedi bölgede sağanak etkili olurken, Ege ve Akdeniz'de şiddetli beklenen yağış için 12 kente \"sarı\" alarm uyarısında bulunuldu. Sıcaklığın ise batıda 3 ilâ 5 derece azalacağı, kuzeydoğu kesimlerde 2 ilâ 4 derece artacağı tahmin ediliyor. İşte illerimizde hava durumu...",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774670483/3872979/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_97446b4a",
     "title": "Annesinin erkek arkadaşını bıçakladı! Dehşet anları kamerada",
     "source": "Sözcü",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İtalya 1. Futbol Ligi (Serie A) ekibi Atalanta forması giyen 24 yaşındaki Polonyalı oyuncu Nicola Zalewski, katıldığı bir YouTube kanalında Galatasaray'a gerçekleşmeyen transferi hakkında konuştu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/edf744af-b485-4610-8cbf-4ad0baf28085.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6b3057e6",
-    "title": "İstanbul Sabiha Gökçen Havalimanı'ndan 'uçuş' uyarısı",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 00:25",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-sabiha-gokcen-havalimani-ndan-ucus-uyarisi-2490655",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Sabiha Gökçen Havalimanı, bugün hava muhalefeti nedeniyle bazı uçuşlarda iptallerin yaşanabileceği uyarısında bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/be2ffe36-8e39-4e3c-9ef7-06f37a69c692.jpg",
     "keyword": null
   }
 ]
