@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0e85d103",
+    "title": "Samsun'da acı olay: 2 çocuk babası erkek intihar etti",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 22:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/samsun-da-aci-olay-2-cocuk-babasi-erkek-intihar-etti-2490611",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun'un Canik ilçesinde 2 çocuk babası şahıs, kendini asarak intihar etti. Otopsi işlemlerinin ardından cenaze ailesine teslim edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/946e3e6e-0c57-44c3-b0a7-ef4e1751bd7f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9a7a828a",
     "title": "Zafer Partisi’nden Beykoz’daki çok uluslu deniz gücü planına tepki",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "CHP'nin tutuklu Cumhurbaşkanı adayı Ekrem İmamoğlu'nun \"adil yargılamayı ve bilirkişi ile tanığı etkilemeye teşebbüs\" suçlamasıyla yargılandığı davanın duruşması yarın Silivri'de görülecek.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/323060.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_78fad16c",
-    "title": "876 Günlük Hasret Bitiyor mu? Trabzonspor Derbiye Kilitlendi",
-    "source": "Taka Gazetesi",
-    "time": "29/03/2026 21:24",
-    "link": "https://www.takagazete.com.tr/876-gunluk-hasret-bitiyor-mu-trabzonspor-derbiye-kilitlendi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig’de kritik Galatasaray derbisi öncesi Trabzonspor cephesinde tüm hesaplar galibiyet üzerine yapıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/ca6aa333-5043-48e9-b0e3-e5e4d4cc3523.jpg",
-    "keyword": "trabzon"
   }
 ]
