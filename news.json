@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8ee133c4",
+    "title": "Meteoroloji'den 10 il için kuvvetli yağış uyarısı",
+    "source": "TRT Haber",
+    "time": "29/03/2026 07:24",
+    "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-10-il-icin-kuvvetli-yagis-uyarisi-939501.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurdun kuzeybatı kesimleri ile Batı Akdeniz'de beklenen karla karışık yağmur ve sağanak nedeniyle 10 il için \"sarı\" kodlu uyarıda bulunuldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_afd88ace",
     "title": "Yeni haftada hava nasıl olacak?",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hakkari’de B.A. isimli kadın şüpheli bir şekilde yaşamını yitirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334100.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cae836ee",
-    "title": "Adıyaman’da tütün ekimi çiftçilere yasak, şirketlere devlet destekli",
-    "source": "Evrensel",
-    "time": "29/03/2026 04:44",
-    "link": "https://www.evrensel.net/haber/5977129/adiyamanda-tutun-ekimi-ciftcilere-yasak-sirketlere-devlet-destekli",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adıyaman’da tütün üreticileri artan maliyetler ve yasaklarla karşı karşıya. Üreticiler satışta cezalarla karşılaşırken, büyük şirketlerin devlet tarafından desteklenmesine tepki gösteriyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340593.jpg",
     "keyword": null
   }
 ]
