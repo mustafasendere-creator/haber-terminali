@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_33359b8e",
+    "title": "Yurt genelinde sağanak etkisi: Bugün hava nasıl olacak?",
+    "source": "Evrensel",
+    "time": "29/03/2026 07:44",
+    "link": "https://www.evrensel.net/haber/5977205/yurt-genelinde-saganak-etkisi-bugun-hava-nasil-olacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bugün (29 Mart Pazar), Türkiye'nin pek çok bölgesinde kuvvetli rüzgar ve sağanak yağış bekleniyor.'",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/320824.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a27cef79",
     "title": "Yanlış iliklenen ilk düğme…",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Polis Başmüfettişi 1.Sınıf Emniyet Müdürü Sayın Asım Bulat, İl Emniyet Müdürümüz Sayın Ali Loğoğlu'nu makamında ziyaret etti..  x.com",
     "image": null,
     "keyword": "trabzon emniyet"
-  },
-  {
-    "id": "GND_4fa778d2",
-    "title": "Dincilik, etnikçilik ve emperyalizm",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 05:04",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/dincilik-etnikcilik-ve-emperyalizm-2490394",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DİNCİ VE ETNİKÇİ POLİTİKALAR, DEMOKRATİK CUMHURİYETİ TEMELİNDEN YOK EDERLER...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar22_cover.jpeg",
-    "keyword": null
   }
 ]
