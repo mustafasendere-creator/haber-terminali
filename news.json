@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e6056709",
+    "title": "Bağdat’ta ABD üssüne İHA’lı saldırı",
+    "source": "Ekonomim",
+    "time": "30/03/2026 01:25",
+    "link": "https://www.ekonomim.com/dunya/bagdatta-abd-ussune-ihali-saldiri-haberi-884740",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak’ın başkenti Bağdat’ta bulunan ABD&#039;ye ait Victoria Üssü’ne insansız hava aracı (İHA) ile saldırı düzenlendi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/bagdatta-abd-ussune-ihali-saldiri-7mvo_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6ba68f9c",
     "title": "Çay ve kahve suyun yerine geçiyor mu?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, \"Bu savaş Netanyahu'nun bekaa savaşı. Bu anlamsız savaşın bir an önce bitmesi gerekiyor. Türkiye diplomasiyi seferber ediyor\" açıklamasını yaptı.",
     "image": "https://im.haberturk.com/l/2026/03/28/ver1774684464/3873001/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_1adbbdd7",
-    "title": "Dağların zirvelerine yaklaşık 150 tırmanış",
-    "source": "Habertürk",
-    "time": "30/03/2026 00:25",
-    "link": "https://www.haberturk.com/daglarin-zirvelerine-yaklasik-150-tirmanis-yapti-3873002",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayseri'nin Yahyalı ilçesinde yaşayan 33 yaşındaki İlhan Bayer, çocuk yaşta merak sardığı dağcılık tutkusu sayesinde yaklaşık 150 zirve tırmanışı yaptı",
-    "image": "https://im.haberturk.com/l/2026/03/28/ver1774683081/3873002/jpg/1280x1280",
     "keyword": null
   }
 ]
