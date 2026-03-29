@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9215599e",
+    "title": "İsrail'in Gazze'den alıkoyduğu 5 Filistinli serbest bırakıldı",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 19:04",
+    "link": "https://www.aa.com.tr/tr/guncel/israilin-gazzeden-alikoydugu-5-filistinli-serbest-birakildi/3884161",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Gazze Şeridi'nden alıkoyduğu 5 Filistinliyi serbest bıraktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1cb0003c",
     "title": "İBB soruşturmasında Antalya Büyükşehir Belediyesi personeli tutuklandı!",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/jnaxjnaxjn.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_ede344dd",
-    "title": "Kubilay Kaan Kundakçı Kars'ta 61 numaralı formayla anıldı",
-    "source": "Haber61",
-    "time": "29/03/2026 17:04",
-    "link": "https://www.haber61.net/gundem/kubilay-kaan-kundakci-karsta-61-numarali-formayla-anildi-h627992.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İstanbul’da hayatını kaybeden genç futbolcu Kubilay Kaan Kundakçı, Kars’ta oynanan maç öncesi anlamlı bir törenle anıldı. Takım arkadaşları sahaya özel tişörtlerle çıktı.",
-    "image": "https://resim.haber61.net/news/609851.jpg",
     "keyword": null
   }
 ]
