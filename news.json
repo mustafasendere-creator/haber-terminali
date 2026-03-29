@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_53396657",
+    "title": "Zabıta memuru pansiyonda ölü bulundu",
+    "source": "Habertürk",
+    "time": "29/03/2026 21:25",
+    "link": "https://www.haberturk.com/ereglide-emekli-zabita-memuru-pansiyonda-olu-bulundu-3873046",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konya’nın Ereğli ilçesinde emekli zabıta memuru, kaldığı pansiyon odasında hayatını kaybetmiş vaziyette bulundu",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774693672/3873046/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_6b5c50a7",
     "title": "Bahçeli'den Yönter'in istifası açıklaması: Küskünlüğe dayalı değil",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Konya Çumra’da ekonomik sıkıntılarını dile getiren bir çiftçi, İçişleri Bakanı Mustafa Çiftçi ile görüşmek isterken korumalar tarafından alandan uzaklaştırıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340741.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7af53dd2",
-    "title": "Danimarka usulü şıklık: Kopenhag'ın 'It-Girl onaylı' 5 vintage dükkanı",
-    "source": "Euronews",
-    "time": "29/03/2026 20:04",
-    "link": "http://tr.euronews.com/kultur/2026/03/29/danimarka-usulu-siklik-kopenhagin-it-girl-onayli-5-vintage-dukkani",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İster zamansız İskandinav minimalizminin, ister hikayesi olan iddialı parçaların peşinde olun, Kopenhag aradığınızı sunuyor. Danimarkalı kadınlar, hikayeli parçaların zahmetsiz stil yarattığını kanıtlıyor.",
-    "image": null,
     "keyword": null
   }
 ]
