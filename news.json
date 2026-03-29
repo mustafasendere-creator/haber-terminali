@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_224e1fbf",
+    "title": "Taşeron sağlık işçileri: Hayat kurtarıyoruz ama geçinemiyoruz!",
+    "source": "Evrensel",
+    "time": "30/03/2026 00:44",
+    "link": "https://www.evrensel.net/haber/5977280/taseron-saglik-iscileri-hayat-kurtariyoruz-ama-gecinemiyoruz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Sağlık-İş Sendikası, KHK ile sürekli işçi kadrosuna geçen 4D'li kamu işçilerinin çalışma yaşamı, tayin hakkı, meslek kodu gibi bir dizi talebin gerçekleştirilmesi ve güvenceye alınması için imza kampanyası başlattı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340748.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f386eb5e",
     "title": "Sosyetik ismin iğne ipliğe dönmüş hali korkuttu",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Batman’da iki otomobilin kafa kafaya çarpıştığı kazada 1 kişi yaralandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/batmanda-iki-otomobil-kafa-kafaya-carpisti-kept.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6ea7b114",
-    "title": "Bakan Çiftçi'den APP plaka açıklaması: Amacımız vatandaşa zorluk çıkarmak değil",
-    "source": "TRT Haber",
-    "time": "29/03/2026 23:44",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-ciftciden-app-plaka-aciklamasi-amacimiz-vatandasa-zorluk-cikarmak-degil-939542.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanı Mustafa Çiftçi, APP plaka düzenlemesiyle ilgili, \"Burada mesele vatandaşımıza zorluk çıkarmak değildir. Mesele, standardı korumaktır. Mesele, denetimi sağlıklı yürütmektir. Mesele, güvenlik sistemimizin her aşamasında açıklığı, doğruluğu ve güvenilirliği temin etmektir.\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
