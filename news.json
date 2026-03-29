@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_50d6160a",
+    "title": "ABD ve İsrail Benderpol İskelesine saldırdı: 5 kişi yaşamını yitirdi",
+    "source": "Evrensel",
+    "time": "29/03/2026 10:24",
+    "link": "https://www.evrensel.net/haber/5977209/abd-ve-israil-benderpol-iskelesine-saldirdi-5-kisi-yasamini-yitirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ile İsrail'in İran'ın güneyindeki Benderpol İskelesi'ne düzenledikleri saldırıda 5 kişi yaşamını yitirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340651.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_66e20fbd",
     "title": "Amerika 2500 askerle nereyi işgal edecek?",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Yomra’daki Kaşüstü Cumhuriyet İlkokulu’nun depreme dayanıksız olduğu gerekçesiyle boşaltılan binasında yıkım süreci başlatılmadı, bahçesi ise çöplüğe döndü.",
     "image": "https://resim.haber61.net/news/609768.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_9a818240",
-    "title": "Galatasaray maçı öncesi Trabzonspor'un endişesi: Oynayacak mı?",
-    "source": "Haber61",
-    "time": "29/03/2026 09:44",
-    "link": "https://www.haber61.net/trabzonspor/galatasaray-maci-oncesi-trabzonsporun-endisesi-oynayacak-mi-h627944.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’da sakatlığı bulunan Arseniy Batagov’un Galatasaray maçında oynayıp oynayamayacağı netleşmedi. 4 Nisan öncesi karar sağlık ekibinin raporuna bağlı olacak.",
-    "image": "https://resim.haber61.net/news/609775.jpg",
     "keyword": null
   }
 ]
