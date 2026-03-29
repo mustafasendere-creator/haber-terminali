@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_257e0513",
+    "title": "Gediz Nehri taştı, Manisa'da tarım arazileri su altında kaldı",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 21:44",
+    "link": "https://www.aa.com.tr/tr/guncel/gediz-nehri-tasti-manisada-tarim-arazileri-su-altinda-kaldi/3884209",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'nın Turgutlu ilçesinde Gediz Nehri'nin taşması sonucu tarım arazileri, bağ evleri ve hayvan damları zarar gördü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_cfa009ef",
     "title": "Trabzon’da Zirve Hesabı! Derbi Kazanılırsa Lig Yeniden Yazılacak",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Büyükşehir Belediyesine İBB yönelik yolsuzluk soruşturması kapsamında gözaltına alınan Antalya Büyükşehir Belediyesi personeli Yasin Yellice tutuklandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c1733c1f",
-    "title": "DMM, Koşuyolu Kalp ve Damar Hastanesi satılıyor iddiasını yalanladı",
-    "source": "TRT Haber",
-    "time": "29/03/2026 20:05",
-    "link": "https://www.trthaber.com/haber/gundem/dmm-kosuyolu-kalp-ve-damar-hastanesi-satiliyor-iddiasini-yalanladi-939558.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bazı basın organları ve sosyal medyada yer alan \"Koşuyolu Kalp ve Damar Hastanesi satılıyor\" yönündeki iddialar İletişim Başkanlığı tarafından yalanlandı.",
     "image": null,
     "keyword": null
   }
