@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8206327d",
+    "title": "Manisa'da sağanak: Araçlar mahsur kaldı, evleri su bastı",
+    "source": "TRT Haber",
+    "time": "29/03/2026 05:04",
+    "link": "https://www.trthaber.com/haber/turkiye/manisada-saganak-araclar-mahsur-kaldi-evleri-su-basti-939492.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'nın Turgutlu ve Salihli ilçelerinde etkili olan sağanak hayatı olumsuz etkiledi. Turgutlu'da yollarda oluşan su birikintileri nedeniyle sürücüler ilerlemekte güçlük çekti. Salihli'de ise çay taştı, tarım arazileri ve bazı evlerde su baskınları yaşandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3af5d9d8",
     "title": "İzmir’in tarihi mirası tehdit altında: ‘Vakıflar, belediyeden haksız mülk devri yapıyor’",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Pakistan Dışişleri Bakanı Muhammed İshak Dar, İran'ın Pakistan bayraklı 20 geminin daha Hürmüz Boğazı'ndan geçişine izin verdiğini ve günlük 2 geminin boğazdan geçeceğini bildirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340473.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b54ff5d4",
-    "title": "Hizbullah, İsrail ordusu hedeflerine yönelik 33 saldırı düzenlediğini duyurdu",
-    "source": "Evrensel",
-    "time": "29/03/2026 01:44",
-    "link": "https://www.evrensel.net/haber/5977203/hizbullah-israil-ordusu-hedeflerine-yonelik-33-saldiri-duzenledigini-duyurdu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hizbullah, Lübnan'ın güneyindeki İsrail askerleri ve araçları ile İsrail'in kuzeyindeki askeri üslere 33 saldırı düzenlediklerini açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/338768.jpg",
     "keyword": null
   }
 ]
