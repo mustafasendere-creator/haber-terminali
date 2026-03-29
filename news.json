@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6bb6d82e",
+    "title": "ABD Katar'daki vatandaşlarını uyardı",
+    "source": "TRT Haber",
+    "time": "30/03/2026 00:24",
+    "link": "https://www.trthaber.com/haber/dunya/abd-katardaki-vatandaslarini-uyardi-939566.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD yönetimi, Orta Doğu'da devam eden gelişmeler nedeniyle Katar'da bulunan vatandaşlarına dikkatli olmaları ve olası acil durumlara karşı hazırlıklı bulunmaları çağrısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_157683d6",
     "title": "Özkan Yalım'a ait işletmelere operasyon düzenlendi",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "HavaSosyalMedya  x.com",
     "image": null,
     "keyword": "trabzon son dakika"
-  },
-  {
-    "id": "GND_c20b92ce",
-    "title": "Irmakta can pazarı! Son anda...",
-    "source": "Habertürk",
-    "time": "29/03/2026 23:25",
-    "link": "https://www.haberturk.com/antalya-da-kontrolden-cikan-otomobil-irmaga-uctu-3873025",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya’nın Serik ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği otomobil ırmağa uçtu. Suya gömülen otomobildeki 3 kişi kendi imkanlarıyla çıkmayı başardı",
-    "image": "https://im.haberturk.com/l/2026/03/28/ver1774687648/3873025/jpg/1280x1280",
-    "keyword": null
   }
 ]
