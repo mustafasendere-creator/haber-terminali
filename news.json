@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_07a4b00e",
+    "title": "Ödemişİzmir yolunda su baskınları ulaşımı aksattı",
+    "source": "TRT Haber",
+    "time": "29/03/2026 05:24",
+    "link": "https://www.trthaber.com/haber/turkiye/odemis-izmir-yolunda-su-baskinlari-ulasimi-aksatti-939493.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'in Ödemiş ilçesinde gün boyu süren şiddetli yağış nedeniyle Ödemişİzmir kara yolunun bir bölümü suyla kaplandı, bazı araçlar yolda mahsur kaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e3c2a372",
     "title": "Soykırımcı İsrail'in Gazze Şeridi'ne düzenlediği saldırıda 3'ü polis 6 Filistinli öldü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanı Mustafa Çiftçi, Mersin'de meydana gelen trafik kazasında yaralanan polis memuru Serkan Ünal'ın kaldırıldığı hastanede şehit olduğunu açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/253f05e0-3e28-44d1-954c-c1f98e8ecf3e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_351df6ce",
-    "title": "Göç yolundaki pelikan sürüsü, Boğazköy Barajı'nda görüntülendi",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 01:44",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/goc-yolundaki-pelikan-surusu-bogazkoy-baraji-nda-goruntulendi-2490344",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'nın İnegöl ilçesindeki Boğazköy Barajı, bahar mevsimin gelmesi ile pelikanlara ev sahipliği yapmaya başladı. Göç yolunda mola veren pelikanlar, cep telefonu kamerası ile görüntülendi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/99894b0b-b82f-4f61-9d25-771182ede203.jpg",
     "keyword": null
   }
 ]
