@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_71c154a0",
+    "title": "Yenilgi sonrası Muğlaspor’da teknik direktör gitti",
+    "source": "Haber Global",
+    "time": "29/03/2026 21:25",
+    "link": "https://haberglobal.com/spor/yenilgi-sonrasi-muglasporda-teknik-direktor-gitti-515979",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğlaspor, teknik direktör Besim Durmuş’un görevinden ayrılma talebinin yönetim tarafından kabul edildiğini açıkladı. Karar, sahasında Altınordu’ya 1-0 mağlup olunan karşılaşmanın ardından geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/yenilgi-sonrasi-muglasporda-teknik-direktor-gitti-zsd2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8f9b6d35",
     "title": "Cumhurbaşkanı Erdoğan'dan şehit ailesine başsağlığı mesajı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "CHP Genel Başkanı Özgür Özel, Keçiören Belediye Başkanı Mesut Özarslan'ın AKP'ye katılacağını iddia etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a756c4bd",
-    "title": "Netanyahu'dan İsrail ordusuna Lübnan'ın güneyinde işgali genişletme talimatı",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 20:04",
-    "link": "https://www.aa.com.tr/tr/guncel/netanyahudan-israil-ordusuna-lubnanin-guneyinde-isgali-genisletme-talimati/3884145",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Başbakanı Binyamin Netanyahu, orduya Lübnan'ın güneyinde halkı zorla yerinden ettikleri bölgede işgali genişletme talimatı verdiğini açıkladı.",
     "image": null,
     "keyword": null
   }
