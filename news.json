@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a608b3d8",
+    "title": "ABD ile İsrail'in, İran'ın güneyindeki Benderpol İskelesi'ne düzenledikleri saldırıda 5 kişi öldü",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 08:44",
+    "link": "https://www.aa.com.tr/tr/guncel/abd-ile-israilin-iranin-guneyindeki-benderpol-iskelesine-duzenledikleri-saldirida-5-kisi-oldu/3883595",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ile İsrail'in, İran'ın güneyinde yer alan Hürmüzgan eyaletindeki Benderpol İskelesi'ne düzenledikleri saldırıda 5 kişinin yaşamını yitirdiği, 4 kişinin yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_358c85c4",
     "title": "İran'ın Körfez ülkelerine saldırıları sürüyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP’li Sezgin Tanrıkulu, TCK 217/A kapsamında gazetecilere yönelik işlemleri Meclis gündemine taşıdı. Tanrıkulu, düzenlemenin ifade özgürlüğü üzerinde baskı aracına dönüştüğünü söyledi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/332992.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6197c0d8",
-    "title": "Urfa'da karbonmonoksit zehirlenmesi: 5 kişi hastaneye kaldırıldı",
-    "source": "Evrensel",
-    "time": "29/03/2026 06:44",
-    "link": "https://www.evrensel.net/haber/5977107/urfada-karbonmonoksit-zehirlenmesi-5-kisi-hastaneye-kaldirildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Urfa'da bir evde, sobadan sızan karbonmonoksit gazından etkilenen 5 kişi hastaneye kaldırıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/336857.jpg",
     "keyword": null
   }
 ]
