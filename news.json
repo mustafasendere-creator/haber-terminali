@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5023b36d",
+    "title": "Bahçelievler'de depoda çıkan yangın söndürüldü",
+    "source": "TRT Haber",
+    "time": "29/03/2026 23:44",
+    "link": "https://www.trthaber.com/haber/turkiye/bahcelievlerde-depoda-cikan-yangin-sonduruldu-939565.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Bahçelievler'de binanın bitişiğindeki depoda çıkan yangın, itfaiye ekiplerince söndürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_72d93a6b",
     "title": "İran'a saldırı: Tahran ve Kerec'te bazı yerler elektriksiz kaldı",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig'in 28. haftasında kendi sahasında Galatasaray ile karşılaşacak Trabzonspor'da Arnavut oyuncu Ernest Muçi'nin milli takım kampından ayrılarak kente döneceği aktarıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c7102ea3-81bd-4802-8a4b-d6ad9c3b71e3.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_dc6242de",
-    "title": "İtalya'da Küresel Sumud Filosu'na katılacak tekneler toplanma noktasına gitmeye başladı",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 23:04",
-    "link": "https://www.aa.com.tr/tr/guncel/italyada-kuresel-sumud-filosuna-katilacak-tekneler-toplanma-noktasina-gitmeye-basladi/3884238",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ablukası altındaki Gazze'ye insani yardım götürmeyi amaçlayan Küresel Sumud Filosu'nun \"2026 Bahar Misyonu\"na İtalya'dan katılacak teknelerden bazıları, toplanma noktasına doğru hareket etmeye başladı.",
-    "image": null,
-    "keyword": null
   }
 ]
