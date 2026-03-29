@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cbdaf120",
+    "title": "Irak hava sahasını 3 gün daha kapattı",
+    "source": "Evrensel",
+    "time": "29/03/2026 04:24",
+    "link": "https://www.evrensel.net/haber/5977130/irak-hava-sahasini-3-gun-daha-kapatti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak, Ortadoğu’daki gerilim nedeniyle hava sahasını 72 saat daha uçuşlara kapatma kararı aldı; uygulamanın 31 Mart’a kadar süreceği açıklandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/335671.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3b2b5f0e",
     "title": "Niğde'de kadın cinayeti: Zeynep Yaylacı, boşanma aşamasında olduğu erkek tarafından bıçaklanarak öldürüldü",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sultanlar Ligi play-off 5-8'incilik ilk maçında Galatasaray deplasmanda Türk Hava Yolları'nı 3-0'lık skorla yenerek seride durumu 1-0'a getirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/galatasaray-thyyi-yenerek-seride-1-0-one-gecti-w3ph.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_74979488",
-    "title": "Emniyetten vatandaşlara siber dolandırıcılık uyarısı",
-    "source": "TRT Haber",
-    "time": "29/03/2026 01:24",
-    "link": "https://www.trthaber.com/haber/turkiye/emniyetten-vatandaslara-siber-dolandiricilik-uyarisi-939436.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Emniyet Genel Müdürlüğü EGM, vatandaşları aldatıcı içeriklere ve sahte linklere karşı dikkatli olmaları konusunda uyardı.",
-    "image": null,
     "keyword": null
   }
 ]
