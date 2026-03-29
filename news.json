@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0e6c8b16",
+    "title": "Tahran'ın bazı bölgelerinde elektrik kesildi",
+    "source": "TRT Haber",
+    "time": "29/03/2026 22:24",
+    "link": "https://www.trthaber.com/haber/dunya/tahranin-bazi-bolgelerinde-elektrik-kesildi-939563.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Enerji Bakanlığı, elektrik tesislerine yönelik saldırılar nedeniyle Tahranın bazı bölgeleri ile Elbruz eyaletinin bazı kesimlerinde kesintiler meydana geldiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d7b428e6",
     "title": "Emine Erdoğan'dan Uluslararası Sıfır Atık Günü paylaşımı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Haşdi Şabi tarafından yapılan yazılı açıklamaya göre, Musul kentindeki Haşdi Şabi Musul Operasyon Komutanlığı ve Dördüncü Tabur Komutanlığı karargahı hava saldırılarının hedefi oldu. Saldırıların ABD-İsrail tarafından yapıldığı ifade edilen açıklamada, karargahlarda maddi hasar olduğu aktarıldı.",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c913218144b5.66682233.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5b0a5ac0",
-    "title": "Yemen'in Taiz kentindeki sel felaketinde can kaybı 15'e yükseldi",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 21:24",
-    "link": "https://www.aa.com.tr/tr/guncel/yemenin-taiz-kentindeki-sel-felaketinde-can-kaybi-15e-yukseldi/3884225",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sel sularına kapılan 9 kişinin halen kayıp olduğu, selden 5 bin 883 ailenin zarar gördüğü kaydedildi.",
-    "image": null,
     "keyword": null
   }
 ]
