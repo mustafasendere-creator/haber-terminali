@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1b7b55d4",
+    "title": "İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 268'e yükseldi",
+    "source": "Evrensel",
+    "time": "29/03/2026 06:24",
+    "link": "https://www.evrensel.net/haber/5977109/israil-in-gazze-ye-saldirilarinda-can-kaybi-72-bin-268-e-yukseldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail’in Ekim 2023’ten bu yana Gazze’ye yönelik saldırılarında can kaybı 72 bin 268’e, yaralı sayısı 171 bin 995’e yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340584.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_59b9216a",
     "title": "EMEP’li Karaca iş cinayeti mağduru aileler ile bir araya geldi: “Adalet patronlardan yana işliyor”",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Esenyurt’ta Harmancı Etiket fabrikasında çalışan 38 yaşındaki işçi Mehmet Kaymaz, asansöre sıkışarak hayatını kaybetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340618.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6104fdc4",
-    "title": "İçişleri Bakanlığı açıkladı... 8 ilde 'dolandırıcılık' operasyonu: 50 tutuklama",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 02:44",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-acikladi-8-ilde-dolandiricilik-operasyonu-50-tutuklama-2490338",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, 8 ilde dolandırıcılık suçlarına yönelik operasyonlarda yakalanan 58 şüpheliden 50'sinin tutuklandığını açıkladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/34d0eb52-6f0c-4cc3-b046-7998cdf134ea.jpg",
     "keyword": null
   }
 ]
