@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e91a6f1d",
+    "title": "Husiler de İran savaşına girdi: İsrail'e ilk füze saldırısı",
+    "source": "DW Türkçe",
+    "time": "29/03/2026 10:04",
+    "link": "https://www.dw.com/tr/husiler-de-iran-savaşına-girdi-israil-e-ilk-füze-saldırısı/a-76576312",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran savaşının başından bu yana çatışmalardan uzak duran Yemen'deki Husi milisleri, ilk kez İsrail'e saldırıda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d48bd8b7",
     "title": "Zeynep Oral: 'Semiha Berksoy: Tüm Renklerin Aryası' sergisini birkaç kez gezdim, her seferinde farklı tatlar aldım",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "TKP",
     "prefix": "🎯",
     "summary": "Trabzon’da su kesintisi! Maçka ve Hayrat’ta sular ne zaman gelecek? İşte saatler ve mahalleler.",
-    "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_fef46429",
-    "title": "Trabzon’da bugün hava nasıl? Bu haberi evden çıkmadan önce mutlaka okuyun!",
-    "source": "Karadeniz Gazetesi",
-    "time": "29/03/2026 08:45",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-bugun-hava-nasil-bu-haberi-evden-cikmadan-once-mutlaka-okuyun/607123",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da bugün ve hafta sonu hava nasıl olacak? Yağmur var mı, sıcaklık kaç derece? Detaylar haberde.",
     "image": null,
     "keyword": "trabzon"
   }
