@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_01a10e30",
+    "title": "HaberLog (@LogHaber) / Posts / X - x.com",
+    "source": "X",
+    "time": "30/03/2026 02:44",
+    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5FdXZoc01ZVmtrcjBrMjNCSjhsY243VGlPbi1OMGNKaXhObGNIckh6dXJTQmhIQWpfQUE",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "HaberLog (@LogHaber) / Posts / X  x.com",
+    "image": null,
+    "keyword": "polis intihar"
+  },
+  {
     "id": "GND_2b983629",
     "title": "NATO'dan tepki toplayan 'zirve' paylaşımı: Anıtkabir, Saray, cami…",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kocaköy ilçesinde çıkan tartışmada M.D., av tüfeğiyle eşini öldürdü, dayısını ağır yaraladı. Şüpheli olayda kullandığı silahla yakalanırken, yaralı hastaneye kaldırıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8b4c20ac-f470-4dfd-bc67-eca073811c7b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_faf9f834",
-    "title": "Yaralı yakınları hastanede birbirine saldırdı",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 01:04",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/yarali-yakinlari-hastanede-birbirine-saldirdi-2490669",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adıyaman’da meydana gelen trafik kazası sonrası hastanede tedavi gören yaralıların yakınları hastanede birbirine saldırdı. Olayla ilgili soruşturma başlatıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/9691ae8b-6210-48de-bd0c-439b2d29a320.jpg",
     "keyword": null
   }
 ]
