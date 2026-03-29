@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_247a88c5",
+    "title": "Bas tuşa, haritada radarların yerini öğren",
+    "source": "10Haber",
+    "time": "29/03/2026 23:24",
+    "link": "https://10haber.net/gundem/bas-tusa-haritada-radarlarin-yerini-ogren-690796/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uygulama İçişleri Bakanlığı&#8217;nın internet sitesinde yer alıyor. Sürücüler yaklaşık 30 dakikada bir güncellenen haritaya ulaşabiliyor. Uygulamada sürücüler için &#8220;Nereden&#8221; ve &#8220;Nereye&#8221; olmak üzere iki ana bölüm yer alıyor. Bu alanlar yola çıkılacak il ve ilçe, gidilecek il ve ilçe şeklinde dolduruluyor. Ardından &#8216;Rota oluştur&#8217;a bastıktan sonra rota üzerindeki radar, hız koridoru ve kontrol noktaları görüntüleniyor. [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c8fa28b5f071.25297328.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cc1ed5db",
     "title": "Narman’da atlı safari: Bunlar da kızıl peri bacaları",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Bağdat Büyükelçiliği, İran'ın, Bağdat, Süleymaniye ve Duhok’taki Amerikan üniversitelerini ve ABD ile bağlantılı olduğu düşünülen diğer üniversiteleri hedeflediğini belirterek, ABD vatandaşlarına Irak’ı derhal terk etmeleri çağrısını yineledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_dcbf8e1c",
-    "title": "Hindistan'a ait 2 LPG tankerinin Hürmüz Boğazı'nı geçtiği bildirildi",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 22:24",
-    "link": "https://www.aa.com.tr/tr/guncel/hindistana-ait-2-lpg-tankerinin-hurmuz-bogazini-gectigi-bildirildi/3884289",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hindistan bayraklı, sıvılaştırılmış petrol gazı (LPG) taşıyan iki tankerin Hürmüz Boğazı'nı geçerek ülkeye doğru ilerlediği duyuruldu.",
     "image": null,
     "keyword": null
   }
