@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_760e3d1a",
+    "title": "Evde cansız bedeni bulundu",
+    "source": "Habertürk",
+    "time": "29/03/2026 21:45",
+    "link": "https://www.haberturk.com/cezaevinden-izinli-cikti-kaldigi-evde-olu-bulundu-3873045",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konya'nın Seydişehir ilçesinde cezaevinden izinli olarak çıktığı öğrenilen bir kişi yalnız yaşadığı evde ölü olarak bulundu",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774692873/3873045/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_156f47dd",
     "title": "Ankara Cumhuriyet Başsavcılığı, Özgür Özel hakkında soruşturma başlattı",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "Trabzon iş dünyasının ve çay sektörünün sevilen isimlerinden, Çay Sanayicisi ve İş adamları Derneği (ÇAYSİAD) Başkanı Mustafa Yılmaz Kar, son yolculuğuna uğurlandı.",
     "image": "https://resim.haber61.net/news/609876.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_086f8e16",
-    "title": "161 Haftalık Hasret Bitebilir! Trabzonspor Tarih Yazmanın Eşiğinde",
-    "source": "Taka Gazetesi",
-    "time": "29/03/2026 20:24",
-    "link": "https://www.takagazete.com.tr/161-haftalik-hasret-bitebilir-trabzonspor-tarih-yazmanin-esiginde",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trendyol Süper Lig’in 28. haftasında sahasında Galatasaray’ı konuk edecek olan Trabzonspor, sadece 3 puan için değil aynı zamanda tarihi bir başarı için sahaya çıkacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/010a8990-5bcf-43d4-9de7-3b4122d94c11.jpg",
-    "keyword": null
   }
 ]
