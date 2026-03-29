@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2dc8f0e7",
+    "title": "İran Dışişleri Bakanı Arakçi’den İsrail’e tepki: Bedelini ağır ödeteceğiz",
+    "source": "Evrensel",
+    "time": "29/03/2026 04:04",
+    "link": "https://www.evrensel.net/haber/5977134/iran-disisleri-bakani-arakci-den-israil-e-tepki-bedelini-agir-odetecegiz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanı Abbas Arakçi, İsrail'in ülkesindeki stratejik altyapı ve nükleer tesislere yönelik gerçekleştirdiği saldırılara ilişkin yaptığı açıklamada, “İran, İsrail'in işlediği suçların bedelini ağır bir şekilde ödetecek” dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340595.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9300898e",
     "title": "Katy Perry ve eski Başbakan Trudeau’nun 'yaş' testi gündem oldu!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, Orta Doğu’daki gerilimi azaltmaya yönelik temaslar kapsamında İslamabad’da Suudi Arabistan ve Mısırlı mevkidaşlarıyla bir araya gelerek bölgesel gelişmeleri görüşecek.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/disisleri-bakani-hakan-fidan-pakistanda-vks3.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_eab28e7f",
-    "title": "İsrail'den zincirleme vahşet: Gazetecilerin aracına 4 füze",
-    "source": "OdaTV",
-    "time": "29/03/2026 01:05",
-    "link": "https://www.odatv.com/guncel/israilden-zincirleme-vahset-gazetecilerin-aracina-4-fuze-120141161",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Hizbullah duvarını aşıp Lübnan’a yerleşmeye çalışıyor. Cephede etkili bir direnişle karşılaşan işgalciler yaşananları kayda geçiren ve dünyaya duyuran üç gazetecinin bulunduğu araca 4 füzeyle saldırdı. Yardıma koşanları ve ambulansı da vuran İsrail zincirleme katliam yaptı. İşte ayrıntılar...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/israilden-zincirleme-vahset-gazetecilerin-aracina-4-fuze-aonj.jpg",
     "keyword": null
   }
 ]
