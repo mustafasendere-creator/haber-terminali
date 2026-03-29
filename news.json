@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cae836ee",
+    "title": "Adıyaman’da tütün ekimi çiftçilere yasak, şirketlere devlet destekli",
+    "source": "Evrensel",
+    "time": "29/03/2026 04:44",
+    "link": "https://www.evrensel.net/haber/5977129/adiyamanda-tutun-ekimi-ciftcilere-yasak-sirketlere-devlet-destekli",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman’da tütün üreticileri artan maliyetler ve yasaklarla karşı karşıya. Üreticiler satışta cezalarla karşılaşırken, büyük şirketlerin devlet tarafından desteklenmesine tepki gösteriyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340593.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_9ea32be8",
     "title": "T.C. Tarım ve Orman Bakanlığı (@TCTarim) / Posts / X - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Aydın'ın Kuşadası ve Söke ilçelerine yılda 20 milyon 750 bin metreküp içme ve kullanma suyu sağlayacak olan Sarıçay Barajı için alınan acele kamulaştırma kararı Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kararı değerlendiren Aydın Büyükşehir Belediye Başkanı Özlem Çerçioğlu, \"Aydınımızın geleceği için hayata geçirilen proje için önemli bir adım daha atıldı\" dedi",
     "image": "https://im.haberturk.com/l/2026/03/27/ver1774602108/3872794/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_23b30c07",
-    "title": "Yandaşlar 'soruşturma' diye duyurmuştu: ABB'den 'Mansur Yavaş' açıklaması",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 01:24",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/yandaslar-sorusturma-diye-duyurmustu-abb-den-mansur-yavas-aciklamasi-2490349",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İktidara yakınlığı ile bilinen gazetelerde “Mansur Yavaş hakkında üçüncü soruşturma izni verildi” başlıklı haberler servis edildi. ABB konuya ilişkin yaptığı açıklamada haberleri yalanladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0b0d693a-fdd1-403f-8db1-9e2aa76b4002.jpg",
     "keyword": null
   }
 ]
