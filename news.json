@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c3da5bb",
+    "title": "Dikili'de \"Türkiye Nereye Gidiyor ve Çıkış Yolları\" başlıklı panel yapıldı",
+    "source": "Evrensel",
+    "time": "29/03/2026 23:04",
+    "link": "https://www.evrensel.net/haber/5977289/dikilide-turkiye-nereye-gidiyor-ve-cikis-yollari-baslikli-panel-yapildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beş partinin birlikte düzenlediği panelde konuşmacılar, dünyadaki değişim ve dönüşüme dikkat çekerek, ülkede tüm sorunların kaynağındaki AKP-MHP iktidarına karşı seçime havale etmeden örgütlü bir birleşik mücadeleyi örmeleri gerektiğini belirttiler.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340754.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_90351480",
     "title": "Trabzon'da feci kaza: Otomobil savruldu, yaralılar var",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Çin ile Kuzey Kore arasında, Kovid-19 salgının başlamasının ardından kesilen yolcu uçağı seferlerinin yarın yeniden başlatılacağı bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_257e0513",
-    "title": "Gediz Nehri taştı, Manisa'da tarım arazileri su altında kaldı",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 21:44",
-    "link": "https://www.aa.com.tr/tr/guncel/gediz-nehri-tasti-manisada-tarim-arazileri-su-altinda-kaldi/3884209",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa'nın Turgutlu ilçesinde Gediz Nehri'nin taşması sonucu tarım arazileri, bağ evleri ve hayvan damları zarar gördü.",
     "image": null,
     "keyword": null
   }
