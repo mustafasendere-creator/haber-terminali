@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_efa63c5f",
+    "title": "KESK Malatya Şubeler Platformu Kürecik Üssü'ne yürüdü: Güvenliği sağlayacak olan halkın ortak mücadelesidir",
+    "source": "Evrensel",
+    "time": "30/03/2026 01:04",
+    "link": "https://www.evrensel.net/haber/5977255/kesk-malatya-subeler-platformu-kurecik-ussu-ne-yurudu-guvenligi-saglayacak-olan-halkin-ortak-mucadelesidir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya Kürecik’te yürüyüş düzenleyen KESK, radar üssünün kapatılmasını istedi. Jandarma barikatıyla engellenen eylemde, NATO'nun bir savaş örgütü olduğu vurgulandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340727.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_987e1ccd",
     "title": "‘Devletin paraya ihtiyacı var’",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fransada, ABDİsrail saldırılarının ve İranın misillemelerinin akaryakıt fiyatlarında neden olduğu artışı protesto eden kamyon şoförleri, Lyonda eylem yaptı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_cec0e995",
-    "title": "Gazze'de yakıt sıkıntısı nedeniyle sağlık hizmetleri durabilir uyarısı",
-    "source": "TRT Haber",
-    "time": "30/03/2026 00:04",
-    "link": "https://www.trthaber.com/haber/dunya/gazzede-yakit-sikintisi-nedeniyle-saglik-hizmetleri-durabilir-uyarisi-939541.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazze Şeridi'ndeki Sağlık Bakanlığı, hastanelerdeki jeneratörler için gerekli yakıt ve yedek parça eksikliği nedeniyle hizmetlerin durma noktasına geldiğini; sağlık sektöründe zaten vahim olan durumun daha karmaşık bir hal aldığını belirtti.",
     "image": null,
     "keyword": null
   }
