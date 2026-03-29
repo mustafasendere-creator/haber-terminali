@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_23cfab27",
+    "title": "İddia: ABD İran'a kara saldırısına hazırlanıyor",
+    "source": "DW Türkçe",
+    "time": "29/03/2026 14:25",
+    "link": "https://www.dw.com/tr/iddia-abd-iran-a-kara-saldırısına-hazırlanıyor/a-76584073",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a yönelik bir aydır süren bombardımanına karşın rejim hâlâ ayakta. Pentagon'un \"nihai darbe\" için kara operasyonuna hazırlandığı iddia edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ccae58f2",
     "title": "Osman Kavala 3 bin 71 gündür hapiste",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Çay Sanayicisi ve İşadamları Derneği Genel Sekreteri Mustafa Yılmaz, geçirdiği kalp krizi sonucu vefat etti. Cenazesi bugün Of’ta defnedilecek.",
     "image": "https://resim.haber61.net/news/609785.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_f9773be6",
-    "title": "Bayburt’ta Polis Haftası’na özel futbol turnuvası",
-    "source": "Haber61",
-    "time": "29/03/2026 13:44",
-    "link": "https://www.haber61.net/bolgesel/bayburtta-polis-haftasina-ozel-futbol-turnuvasi-h627951.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Polis Haftası 2026 etkinlikleri kapsamında Bayburt’ta 5x5 mini futbol turnuvası düzenlenecek. Organizasyon 6-10 Nisan tarihleri arasında gerçekleştirilecek.",
-    "image": "https://resim.haber61.net/news/609786.jpg",
     "keyword": null
   }
 ]
