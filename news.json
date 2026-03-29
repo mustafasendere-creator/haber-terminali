@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_85ee6a51",
+    "title": "Milli motosikletçi Bahattin Sofuoğlu, Portekiz'deki ikinci yarışta kaza yaptı!",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 20:05",
+    "link": "https://www.cumhuriyet.com.tr/spor/milli-motosikletci-bahattin-sofuoglu-portekiz-deki-ikinci-yarista-kaza-yapti-2490589",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli sporcu Bahattin Sofuoğlu, Portekiz'de koşulan Dünya Superbike Şampiyonası'nın ikinci ayağındaki son yarışta kaza yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a8b79c83-2904-47eb-9e27-e487aa28ad60.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_87a54a30",
     "title": "İsmet Taşdemir: Rey Manaj'ın sakatlığı ciddi",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "İstanbul’da etkili olan olumsuz hava koşulları hava ulaşımını vurdu; Sabiha Gökçen varışlı ve kalkışlı çok sayıda uçuşla birlikte Trabzon seferleri de iptal edildi.",
     "image": "https://resim.haber61.net/news/609865.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_40bf7efa",
-    "title": "Bursa’da Dev Gıda Firması İflas Etti: Üretim Durdu!",
-    "source": "Taka Gazetesi",
-    "time": "29/03/2026 18:44",
-    "link": "https://www.takagazete.com.tr/bursada-dev-gida-firmasi-iflas-etti-uretim-durdu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bursa'da günlük 12 ton kapasiteyle üretim yapan Master Choco Gıda'nın konkordato talebi reddedildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/cikolata-dv.jpg",
-    "keyword": null
   }
 ]
