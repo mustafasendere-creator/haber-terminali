@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3c2a372",
+    "title": "Soykırımcı İsrail'in Gazze Şeridi'ne düzenlediği saldırıda 3'ü polis 6 Filistinli öldü",
+    "source": "TRT Haber",
+    "time": "29/03/2026 05:24",
+    "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-gazze-seridine-duzenledigi-saldirida-3u-polis-6-filistinli-oldu-939494.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Soykırımcı İsrail'in Gazze Şeridi'nin güneyindeki Han Yunus kentinde polis noktalarına düzenlediği hava saldırısında 3'ü polis 6 Filistinli hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_aae66f3c",
     "title": "Yargıtay’dan emekli çalışanlar için emsal karar: Eksik sigorta günleri tespit edilebilecek",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa'nın İnegöl ilçesindeki Boğazköy Barajı, bahar mevsimin gelmesi ile pelikanlara ev sahipliği yapmaya başladı. Göç yolunda mola veren pelikanlar, cep telefonu kamerası ile görüntülendi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/99894b0b-b82f-4f61-9d25-771182ede203.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f3145073",
-    "title": "Casemiro'dan Manchester United kararı!",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 01:44",
-    "link": "https://www.cumhuriyet.com.tr/spor/casemiro-dan-manchester-united-karari-2490345",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manchester United'ın deneyimli futbolcusu Casemiro sezon sonunda takımdan ayrılacak. Son haftalarda performansının artmasının ardından Manchester United'da kalabileceğine yönelik iddialara yanıt veren Brezilyalı futbolcu, ayrılık kararının değişmeyeceğini söyledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a4e59be6-5c00-4b5f-9b66-1abbe3a15a49.jpg",
     "keyword": null
   }
 ]
