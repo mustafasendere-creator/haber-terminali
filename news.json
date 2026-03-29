@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba845240",
+    "title": "Pentagon'un, İran'da haftalar sürecek kara harekatına hazırlandığı iddia edildi",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 10:04",
+    "link": "https://www.aa.com.tr/tr/guncel/pentagonun-iranda-haftalar-surecek-kara-harekatina-hazirlandigi-iddia-edildi/3883604",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Savunma Bakanlığının (Pentagon), İran'da haftalarca sürebilecek kara harekatı üzerinde hazırlık yaptığı iddia edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1c31ccb5",
     "title": "Ankara Adliyesinde gelecek hafta yoğun geçecek",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "İstanbul Beşiktaş'ta 4 katlı binanın giriş katında çıkan yangında 2 kişi dumandan etkilendi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/ebf73458-2956-4da9-b812-6d5a63abf57a.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_a66c4520",
-    "title": "CHP Trabzon'da açılış yapılacak mı?",
-    "source": "61 Saat",
-    "time": "29/03/2026 08:44",
-    "link": "https://www.61saat.com/chp-trabzonda-acilis-yapilacak-mi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "CHP Trabzon Ortahisar İlçe Başkanlığı’nın taşınacağını hafta içinde yine bu satırlardan duyurmuştuk…",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/2-kopyasi-2-kopya-51.webp",
-    "keyword": "trabzon"
   }
 ]
