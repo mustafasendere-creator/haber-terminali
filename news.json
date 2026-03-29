@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c5fef236",
+    "title": "İran'dan yapılan misilleme nedeniyle Doğu Kudüs ile İsrail'deki bazı bölgelerde sirenler çaldı",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 13:44",
+    "link": "https://www.aa.com.tr/tr/guncel/irandan-yapilan-misilleme-nedeniyle-dogu-kudus-ile-israildeki-bazi-bolgelerde-sirenler-caldi/3883850",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'dan yapılan misilleme nedeniyle işgal altındaki Doğu Kudüs ile İsrail'deki bazı bölgelerde sirenler çaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_950dbcca",
     "title": "Bakan Gürlek açıkladı! İşte cezaevlerindeki hafız sayısı",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Büyükşehir Belediyesi’nin ev sahipliğinde düzenlenen Spor Toto Gençler Türkiye Judo Şampiyonası’nın ilk günü nefes kesen mücadelelere sahne oldu. 50 ilden 787 sporcunun katıldığı organizasyon, bugün yapılacak müsabakalarla tamamlanacak.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ju-1.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_ccc4eb0f",
-    "title": "Trabzon’da judo şampiyonasında nefes kesen ilk gün",
-    "source": "Haber61",
-    "time": "29/03/2026 12:24",
-    "link": "https://www.haber61.net/trabzon/trabzonda-judo-sampiyonasinda-nefes-kesen-ilk-gun-h627965.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da düzenlenen Spor Toto Gençler Türkiye Judo Şampiyonası’nın ilk gününde kıyasıya mücadeleler yaşandı. Organizasyon bugün tamamlanacak.",
-    "image": "https://resim.haber61.net/news/609806.jpg",
     "keyword": "trabzon"
   }
 ]
