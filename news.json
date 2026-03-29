@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_60d882c0",
+    "title": "Hatay'da kadın cinayeti: Annesini darbetti, eşini katletti",
+    "source": "Evrensel",
+    "time": "30/03/2026 02:24",
+    "link": "https://www.evrensel.net/haber/5977246/hatayda-kadin-cinayeti-annesini-darbetti-esini-katletti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'da annesini darbeden Abdulsamet Akay (28), kendisini engel olmak isteyen eşi Emel Akay'ı (26) bıçaklayarak öldürdü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340716.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_255a81b6",
     "title": "Muğla'da yoğun yağmur: Bafa'daki göl çöktü",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Elçin Demiröz yazdı...",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/oslonun-kirli-yuzu-tek-tanigin-olduruldugu-bir-cinayet-harry-hole-9oj4.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_d18aee22",
-    "title": "Hendab Santralinde su tehlikesi",
-    "source": "OdaTV",
-    "time": "30/03/2026 00:45",
-    "link": "https://www.odatv.com/guncel/hendab-santralinde-su-tehlikesi-120141258",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA), İsrail’in 27 Mart Cuma günü İran’a düzenlediği hava saldırısında ağır hasar gören Hendab Ağır Su Kompleksi’nin artık faal olmadığını açıkladı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/hendab-santralinde-su-tehlikesi-208v.jpg",
     "keyword": null
   }
 ]
