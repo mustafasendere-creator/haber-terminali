@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_facb47b2",
+    "title": "Beşiktaş'ta 4 katlı binada korkutan yangın! 2 kişi dumandan etkilendi...",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 08:44",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/besiktas-ta-4-katli-binada-korkutan-yangin-2-kisi-dumandan-etkilendi-2490427",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beşiktaş'ta 4 katlı binanın giriş katında çıkan yangında 2 kişi dumandan etkilendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ebf73458-2956-4da9-b812-6d5a63abf57a.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_a66c4520",
     "title": "CHP Trabzon'da açılış yapılacak mı?",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bursa'nın Mudanya ilçesinde toprak kayması nedeniyle kapanan MudanyaAltıntaş sahil yolu, çalışmaların ardından ulaşıma açıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3d38752a",
-    "title": "Meteoroloji'den Akdeniz için kuvvetli fırtına uyarısı",
-    "source": "TRT Haber",
-    "time": "29/03/2026 07:04",
-    "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-akdeniz-icin-kuvvetli-firtina-uyarisi-939500.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji Genel Müdürlüğü MGM, Akdeniz için kuvvetli fırtına uyarısında bulundu. Batı Akdeniz'de rüzgarın hızının yer yer 90 kilometreye kadar çıkması bekleniyor.",
     "image": null,
     "keyword": null
   }
