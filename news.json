@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_129fb931",
+    "title": "Enerji şoku ve enflasyon kıskacı: Borsalarda satış baskısı derinleşti",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 03:24",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/enerji-soku-ve-enflasyon-kiskaci-borsalarda-satis-baskisi-derinlesti-2490334",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurt içinde enflasyon verilerine odaklanan Borsa İstanbul haftayı küresel satış dalgasının etkisiyle ekside kapatırken, altın fiyatları üzerindeki baskı ve yükselen ABD tahvil faizleri piyasalardaki belirsizliğin bir süre daha devam edeceğine işaret ediyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/09bd2de2-f01a-4a0f-917b-7276770b039e.png",
+    "keyword": null
+  },
+  {
     "id": "GND_4a0dc1fc",
     "title": "ABD ve İsrail’den Kirmanşah’ta yerleşim yerlerine saldırı: 8 kişi yaşamını yitirdi, 56 kişi yaralandı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD genelinde milyonlarca kişi, \"Krallara Hayır (No Kings)\" protestolarında bir araya gelerek, Başkan Donald Trump'ın politikalarına yönelik tepkilerini ortaya koydu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2e9ad54e-baf2-4dba-9f38-fb7348f1c31a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_47e22224",
-    "title": "Nefes kesen maçta Galatasaray, Erokspor'u mağlup etti",
-    "source": "Haber Global",
-    "time": "29/03/2026 01:04",
-    "link": "https://haberglobal.com/spor/nefes-kesen-macta-galatasaray-eroksporu-maglup-etti-515842",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Basketbol Süper Ligi'nin 24. haftasında oynanan karşılaşmada Galatasaray, deplasmanda Erokspor'u 86-85 mağlup etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/28/nefes-kesen-macta-galatasaray-eroksporu-maglup-etti-yh9g.jpg",
     "keyword": null
   }
 ]
