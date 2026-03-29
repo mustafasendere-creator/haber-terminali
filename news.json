@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ae5d5e9",
+    "title": "Afşin Elbistan Termik Santralinde 1000 işçi işten atıldı: Paylaşım yapan işçi de atıldı",
+    "source": "Evrensel",
+    "time": "29/03/2026 17:44",
+    "link": "https://www.evrensel.net/haber/5977254/afsin-elbistan-termik-santralinde-1000-isci-isten-atildi-paylasim-yapan-isci-de-atildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Afşin Elbistan Termik Santrali’nde son aylarda yaklaşık bin işçi işten çıkarıldı. Yerlerine yabancı işçiler getirildiği iddia edilirken, işçiler güvencesiz ve ağır koşullara tepki gösterdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340726.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_cdce864c",
     "title": "Trabzon'da sis uçuşları vurdu: Birçok sefer iptal",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Gümüşhane’nin Kürtün ilçesine bağlı yaylalarda artan ayı saldırıları, hem maddi kayıplara hem de güvenlik endişesine yol açtı. Yolun kapalı olması ise müdahaleyi zorlaştırıyor.",
     "image": "https://resim.haber61.net/news/609835.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_c027f905",
-    "title": "Trabzon’da judo şampiyonasında nefes kesen ilk gün",
-    "source": "Karadeniz Gazetesi",
-    "time": "29/03/2026 15:05",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-judo-sampiyonasinda-nefes-kesen-ilk-gun/607181",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da düzenlenen Spor Toto Gençler Türkiye Judo Şampiyonası’nın ilk gününde kıyasıya mücadeleler yaşandı. Organizasyon bugün tamamlanacak.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
