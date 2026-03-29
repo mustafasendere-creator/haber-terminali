@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_74620be3",
+    "title": "ABD'de milyonlarca kişi, Trump yönetimine karşı Krallara Hayır protestosu düzenledi",
+    "source": "TRT Haber",
+    "time": "29/03/2026 10:24",
+    "link": "https://www.trthaber.com/haber/dunya/abdde-milyonlarca-kisi-trump-yonetimine-karsi-krallara-hayir-protestosu-duzenledi-939508.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD genelinde milyonlarca kişi, \"Krallara Hayır No Kings\" protestolarında bir araya gelerek, Başkan Donald Trump'ın politikalarına yönelik tepkilerini ortaya koydu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_3ac84bdd",
     "title": "Fırtına Derbiye Gol Yağmuruyla Geliyor! Trabzonspor’un Hücum Hattı Göz Korkutuyor",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’un geçtiğimiz ay satışa sunduğu retro tişörtler inanılmaz ilgi görmüştü.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/sdkmfkmsdfkmsdf-2.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_ac754b3f",
-    "title": "Ateşkesi ihlal eden İsrail'in Gazze'deki saldırılarında 6 Filistinli hayatını kaybetti",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 09:44",
-    "link": "https://www.aa.com.tr/tr/guncel/ateskesi-ihlal-eden-israilin-gazzedeki-saldirilarinda-6-filistinli-hayatini-kaybetti/3883605",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Gazze Şeridi'nin güneyindeki Han Yunus kentinde insansız hava aracıyla (İHA) düzenlediği saldırıda 6 Filistinli yaşamını yitirdi, 4 kişi yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
