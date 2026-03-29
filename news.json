@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_40495bdd",
+    "title": "Bahçelievler'de korkutan depo yangını",
+    "source": "Haber Global",
+    "time": "29/03/2026 23:44",
+    "link": "https://haberglobal.com/gundem/bahcelievlerde-korkutan-depo-yangini-515987",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Bahçelievler’de hurda malzemelerin bulunduğu depoda yangın çıktı. Depodaki alevler bitişiğinde bulunan 3 katlı binanın 1. katına da sıçrarken, yangın itfaiye ekiplerince söndürüldü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/bahcelievlerde-korkutan-depo-yangini-owfa.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5152e0bc",
     "title": "3. Lig'de şampiyonluk yarışı kızıştı! İnegöl Kafkasspor, 12 Bingölspor, Sebat Gençlikspor ve Kütahyaspor lider",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Beş partinin birlikte düzenlediği panelde konuşmacılar, dünyadaki değişim ve dönüşüme dikkat çekerek, ülkede tüm sorunların kaynağındaki AKP-MHP iktidarına karşı seçime havale etmeden örgütlü bir birleşik mücadeleyi örmeleri gerektiğini belirttiler.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340754.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_90351480",
-    "title": "Trabzon'da feci kaza: Otomobil savruldu, yaralılar var",
-    "source": "Haber61",
-    "time": "29/03/2026 23:04",
-    "link": "https://www.haber61.net/trabzon/trabzonda-feci-kaza-otomobil-savruldu-yaralilar-var-h628012.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Ortahisar ilçesi Akyazı Tüneli içerisinde sürücüsünün direksiyon hakimiyetini kaybettiği otomobil kaza yaptı. İçerisinde bir ailenin bulunduğu araçta 1 kişi ağır yaralanırken, kaza sonrası tüneldeki yangın hattı patladı.",
-    "image": "https://resim.haber61.net/news/609886.jpg",
-    "keyword": "trabzon"
   }
 ]
