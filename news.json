@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_68bf87f6",
+    "title": "IKBY Başkanı Neçirvan Barzani'nin evine İHA saldırısı",
+    "source": "DW Türkçe",
+    "time": "29/03/2026 11:45",
+    "link": "https://www.dw.com/tr/ikby-başkanı-neçirvan-barzani-nin-evine-iha-saldırısı/a-76582848",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran savaşının başından bu yana füze ve İHA saldırılarına hedef olan Kuzey Irak'ta, Bölgesel Yönetim Başkanı Neçirvan Barzani'nin konutu hedef alındı. DEM Parti ve ABD'den saldırıya tepki geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_767b9b5d",
     "title": "Fatma Çelik: Adaletin yalnızca sağlanması yetmez, aynı zamanda sağlanıyor görünmesi gerekir",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "ABD genelinde milyonlarca kişi, \"Krallara Hayır No Kings\" protestolarında bir araya gelerek, Başkan Donald Trump'ın politikalarına yönelik tepkilerini ortaya koydu.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_3ac84bdd",
-    "title": "Fırtına Derbiye Gol Yağmuruyla Geliyor! Trabzonspor’un Hücum Hattı Göz Korkutuyor",
-    "source": "Taka Gazetesi",
-    "time": "29/03/2026 10:24",
-    "link": "https://www.takagazete.com.tr/firtina-derbiye-gol-yagmuruyla-geliyor-trabzonsporun-hucum-hatti-goz-korkutuyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'de 28. haftada sezonun kritik maçlarından birini evinde Galatasaray'a karşı oynayacak Trabzonspor'da hücum hattı beğeni topluyor. Galatasaray derbisinde taraftarlarına galibiyet hediye etmek istiyor. Fırtına'da özellikle hücum bölgesindeki formda yıldızlar dikkat çekiyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/e-l-i.jpg",
-    "keyword": "trabzon"
   }
 ]
