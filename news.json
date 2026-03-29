@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c403c241",
+    "title": "Newroz sonrası polisler hakkında suç duyurusu: ‘İşkence bir saat sürdü’",
+    "source": "Evrensel",
+    "time": "29/03/2026 07:04",
+    "link": "https://www.evrensel.net/haber/5977104/newroz-sonrasi-polisler-hakkinda-suc-duyurusu-iskence-bir-saat-surdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da Newroz’a katılan iki inşaat işçisi, ev baskınıyla gözaltına alındıktan sonra işkenceye maruz kaldıklarını belirterek polisler hakkında suç duyurusunda bulundu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340582.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9d27c2f7",
     "title": "Zeytinburnu’nda kadına şiddet: Darp raporu alan kadın şikayetçi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ATO’nun düzenlediği sempozyumda çocuk yoksulluğu ve sağlık politikaları tartışıldı. Dr. Erkan Müniroğlu, okullarda bir öğün ücretsiz yemeğin yıllık maliyetinin 171 milyar TL olduğunu açıkladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340597.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2dc8f0e7",
-    "title": "İran Dışişleri Bakanı Arakçi’den İsrail’e tepki: Bedelini ağır ödeteceğiz",
-    "source": "Evrensel",
-    "time": "29/03/2026 04:04",
-    "link": "https://www.evrensel.net/haber/5977134/iran-disisleri-bakani-arakci-den-israil-e-tepki-bedelini-agir-odetecegiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Bakanı Abbas Arakçi, İsrail'in ülkesindeki stratejik altyapı ve nükleer tesislere yönelik gerçekleştirdiği saldırılara ilişkin yaptığı açıklamada, “İran, İsrail'in işlediği suçların bedelini ağır bir şekilde ödetecek” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340595.jpg",
     "keyword": null
   }
 ]
