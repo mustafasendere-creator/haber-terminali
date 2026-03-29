@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b49cda3d",
+    "title": "MudanyaAltıntaş sahil yolu ulaşıma açıldı",
+    "source": "TRT Haber",
+    "time": "29/03/2026 07:04",
+    "link": "https://www.trthaber.com/haber/turkiye/mudanya-altintas-sahil-yolu-ulasima-acildi-939497.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın Mudanya ilçesinde toprak kayması nedeniyle kapanan MudanyaAltıntaş sahil yolu, çalışmaların ardından ulaşıma açıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3d38752a",
     "title": "Meteoroloji'den Akdeniz için kuvvetli fırtına uyarısı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": ".",
     "image": "https://media.cumhuriyet.com.tr/Archive/03f9cffa-e396-495c-bdf7-b69a2d541d05.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4731c5f6",
-    "title": "Ölümsüzlük (Bölüm II)",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 04:04",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/olumsuzluk-bolum-ii-2490419",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bilim dünyasında peş peşe yaşanan gelişmeler, insan zihninin dijital ortama taşınmasından yapay “insanlık simülasyonlarına” kadar uzanan yeni bir dönemin kapısını aralıyor. Bu dönüşüm, teknoloji ile gerçeklik arasındaki sınırları yeniden tartışmaya açıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4595ef4d-0e89-49eb-80a5-da53a0d5576a.jpg",
     "keyword": null
   }
 ]
