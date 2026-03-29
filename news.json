@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_00f7df9c",
+    "title": "Depremde yıkılan evde cinayet",
+    "source": "Habertürk",
+    "time": "29/03/2026 13:06",
+    "link": "https://www.haberturk.com/alkol-alirken-tartistiklari-adami-arkadasiyla-birlikte-basina-tasla-vurarak-oldurmus-3873104",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta metruk binada cansız bedeni bulunan Osman Doğan'ın darp edilerek öldürüldüğü ortaya çıktı. Polis ekipleri, 280 saatlik görüntüyü izleyerek 65 yaşındaki adamın katillerini yakaladı",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774715336/3873104/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f0bdffd0",
     "title": "Reytingler yetmedi: İki diziye birden veda",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "26. şampiyonluk hedefi doğrultusunda kritik viraja giren Galatasaray’da yönetim, Trabzonspor ve Göztepe maçları için 2 milyon euroluk galibiyet primi belirledi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/dursun-ozbek-keseyi-acti-iki-kritik-maca-2-milyon-euro-prim-nqgo.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_cd5a352f",
-    "title": "Britannica OpenAI’ye Dava Açtı: 100 Bin Makale İddiası Ortalığı Karıştırdı",
-    "source": "Taka Gazetesi",
-    "time": "29/03/2026 12:04",
-    "link": "https://www.takagazete.com.tr/britannica-openaiye-dava-acti-100-bin-makale-iddiasi-ortaligi-karistirdi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Britannica ve Merriam-Webster, içeriklerinin izinsiz kullanıldığı iddiasıyla OpenAI’ye dava açtı. ChatGPT’nin 100 bin makaleyi kopyaladığı öne sürüldü.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/1902438.jpg",
-    "keyword": null
   }
 ]
