@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f78692ba",
+    "title": "Bornova’da öğrenciler Orman Haftası’nda doğayla buluştu",
+    "source": "Evrensel",
+    "time": "29/03/2026 13:45",
+    "link": "https://www.evrensel.net/haber/5977217/bornovada-ogrenciler-orman-haftasinda-dogayla-bulustu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir’in Bornova ilçesinde Orman Haftası kapsamında düzenlenen etkinliklerde öğrenciler tohum topları hazırlayıp fidan dikti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340687.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fd44bfcb",
     "title": "Antrenman öncesi fenalaşan Lucescu hastaneye kaldırıldı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Galatasaray yönetimi, Trabzonspor deplasmanı öncesinde takıma özel prim hazırladı. Sarı-kırmızılı kulübün, kritik mücadele için 2 ya da 3 milyon Euro’luk prim belirlediği öne sürüldü.",
     "image": "https://resim.haber61.net/news/609814.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_4e3a905b",
-    "title": "Trabzon’da uçuş krizi! İptal ve gecikmeler peş peşe",
-    "source": "Karadeniz Gazetesi",
-    "time": "29/03/2026 12:44",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-ucus-krizi-iptal-ve-gecikmeler-pes-pese/607182",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Havalimanı’nda bazı uçuşlar iptal edilirken, bazı seferlerde gecikmeler yaşandı. Yolculara uyarı yapıldı.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
