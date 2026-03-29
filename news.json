@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_05e27aa7",
+    "title": "Adana'da bir binanın damında patlama: 1 ölü, 1 yaralı",
+    "source": "TRT Haber",
+    "time": "30/03/2026 00:44",
+    "link": "https://www.trthaber.com/haber/turkiye/adanada-bir-binanin-daminda-patlama-1-olu-1-yarali-939571.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da merkez Seyhan ilçesinde bir binanın damında çok sayıda torpil barutunun boşaltılması sırasında meydana gelen patlama sonucu 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_eb16800b",
     "title": "Kosova maçı öncesi Merih Demiral gelişmesi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Genel Başkan Yardımcısı Deniz Yavuzyılmaz, yap-işlet-devret modeliyle inşa edilen Zafer Havalimanı'nın üst üste 266 aydır zarar ettiğini ifade ederek, \"AKP, yap-işlet-devret modeliyle yapılan Zafer Havalimanı’nda üst üste 266 aydır zarar ederek, Dünya Guinness Rekorlar Kitabı'na girecek bir rekor daha kırdı\" dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c85581b6-5351-4768-a983-aea7c5cac1ba.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_40495bdd",
-    "title": "Bahçelievler'de korkutan depo yangını",
-    "source": "Haber Global",
-    "time": "29/03/2026 23:44",
-    "link": "https://haberglobal.com/gundem/bahcelievlerde-korkutan-depo-yangini-515987",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Bahçelievler’de hurda malzemelerin bulunduğu depoda yangın çıktı. Depodaki alevler bitişiğinde bulunan 3 katlı binanın 1. katına da sıçrarken, yangın itfaiye ekiplerince söndürüldü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/bahcelievlerde-korkutan-depo-yangini-owfa.jpg",
     "keyword": null
   }
 ]
