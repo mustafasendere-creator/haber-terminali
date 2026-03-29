@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8f37a202",
+    "title": "En çok kazandıran hisse belli oldu",
+    "source": "OdaTV",
+    "time": "29/03/2026 07:44",
+    "link": "https://www.odatv.com/ekonomi/borsa-istanbulda-en-cok-kazandiran-hisse-belli-oldu-120141169",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul’da BIST 100 endeksi, haftayı yüzde 2,68 düşüşle kapattı. Piyasalar yeni haftaya hazırlanırken Borsa İstanbul&#039;da en çok kazandıran hisse belli oldu",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/08/savasin-borsa-istanbula-faturasi-belli-oldu-1-trilyon-100-milyar-lira-lrxv.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f70e2123",
     "title": "Meteoroloji'den 10 il için sarı kodlu sağanak ve kar uyarısı! İşte il il hava durumu tahminleri...",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İktidara yakın HAK-İŞ Genel Başkanı Mahmut Arslan, hayalini açıklamış...",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar381_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e6456f10",
-    "title": "Semiha Berksoy: Kendi mitolojisini yaratan sanatçı",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 05:24",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/semiha-berksoy-kendi-mitolojisini-yaratan-sanatci-2490408",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Minicik bir kız çocuğu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar96_cover.jpeg",
     "keyword": null
   }
 ]
