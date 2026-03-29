@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_791010b1",
+    "title": "Çalkantılı zamanlarda ayakta kalmanın dokuz yolu",
+    "source": "BBC Türkçe",
+    "time": "29/03/2026 10:24",
+    "link": "https://www.bbc.com/turkce/articles/cew757wxdeeo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zor zamanlar kaygı, belirsizlik ve stresle baş etmeyi daha da güçleştirebilir. Ancak bilimsel araştırmalar, doğru yaklaşımlarla bu duyguları avantaja çevirmenin ve dayanıklılığı artırmanın mümkün olduğunu gösteriyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e9bdf39e",
     "title": "ABD'nin İran'da rejimi değiştirdiği darbe: 1953'te Musaddık nasıl devrildi?",
     "source": "BBC Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Akçaabat ilçesinde aylardır bozuk olan altgeçit yolu sürücülere zor anlar yaşatıyor. Vatandaşlar yetkililerden çözüm bekliyor.",
     "image": "https://resim.haber61.net/news/609771.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_a66c4520",
-    "title": "CHP Trabzon'da açılış yapılacak mı?",
-    "source": "61 Saat",
-    "time": "29/03/2026 09:24",
-    "link": "https://www.61saat.com/chp-trabzonda-acilis-yapilacak-mi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "CHP Trabzon Ortahisar İlçe Başkanlığı’nın taşınacağını hafta içinde yine bu satırlardan duyurmuştuk…",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/2-kopyasi-2-kopya-51.webp",
-    "keyword": null
   }
 ]
