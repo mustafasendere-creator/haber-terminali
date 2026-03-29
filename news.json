@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da9f6636",
+    "title": "Tahran'da İsrail saldırıları nedeniyle elektrik kesintileri yaşandı",
+    "source": "Haber Global",
+    "time": "29/03/2026 23:05",
+    "link": "https://haberglobal.com/dunya/tahranda-israil-saldirilari-nedeniyle-elektrik-kesintileri-yasandi-515985",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Enerji Bakanlığı, İsrail’in Elburz eyaletine yönelik hava saldırılarında elektrik şebekesinde meydana gelen hasar nedeniyle başkent Tahran ve Kerec kentlerinde elektrik kesintileri yaşandığını açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/tahranda-israil-saldirilari-nedeniyle-elektrik-kesintileri-yasandi-rpti.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1ab8d7db",
     "title": "İstanbul'da uçuşlara yağmur engeli",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Birleşik Arap Emirlikleri BAE hava savunma sistemlerinin, İran'dan ateşlenen füze ve insansız hava aracı İHA saldırılarına müdahale ettiği belirtildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2b8a5576",
-    "title": "İstanbulda sağanak yağış etkili oluyor",
-    "source": "TRT Haber",
-    "time": "29/03/2026 21:44",
-    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-saganak-yagis-etkili-oluyor-939549.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da dünden beri etkisini sürdüren yağış, bazı aksaklıklara neden oldu.",
     "image": null,
     "keyword": null
   }
