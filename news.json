@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9ffbe9be",
+    "title": "Bir ilaca bakacak hepsi...",
+    "source": "A Haber",
+    "time": "29/03/2026 07:44",
+    "link": "https://www.ahaber.com.tr/yazarlar/hasmet-babaoglu/2026/03/29/bir-ilaca-bakacak-hepsi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bulutlar yavaş yavaş dağılıyor...\nŞahane bir sabah güneşi...\nHer yer yemyeşil, çiçekler açıyor, kuşlar cıvıldıyor...\nTam karşıda küçük bir göl ve ardında orman var...\nÖzel seçilip oraya getirilen...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "YRL_f5643e08",
     "title": "Bugün Burç Yorumları Açıklandı Hangi Burçları Büyük Değişim Bekliyor",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meclis’te AKP’li milletvekillerinin oluşturduğu çember içinde yemin ederek göreve başlayan İçişleri ve Adalet bakanları, görevde geride bıraktıkları bir ay boyunca TBMM Başkanlığı’na sunulan hiçbir soru önergesini yanıtlamadı. İki bakana yöneltilen 100’den fazla önergenin süresi içinde yanıtlanmadığı Meclis kayıtlarına geçti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/82ad66b8-694b-4bd7-9c53-8e23a4903289.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8206327d",
-    "title": "Manisa'da sağanak: Araçlar mahsur kaldı, evleri su bastı",
-    "source": "TRT Haber",
-    "time": "29/03/2026 05:04",
-    "link": "https://www.trthaber.com/haber/turkiye/manisada-saganak-araclar-mahsur-kaldi-evleri-su-basti-939492.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa'nın Turgutlu ve Salihli ilçelerinde etkili olan sağanak hayatı olumsuz etkiledi. Turgutlu'da yollarda oluşan su birikintileri nedeniyle sürücüler ilerlemekte güçlük çekti. Salihli'de ise çay taştı, tarım arazileri ve bazı evlerde su baskınları yaşandı.",
-    "image": null,
     "keyword": null
   }
 ]
