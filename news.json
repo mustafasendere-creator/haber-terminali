@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2ab40848",
+    "title": "Adana'da bir binada patlama meydana geldi: 2 kişi yaralandı",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 01:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/adana-da-bir-binada-patlama-meydana-geldi-2-kisi-yaralandi-2490635",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'nın Seyhan ilçesinde bir binada meydana gelen patlamada 2 kişi yaralandı. Patlamanın boşaltılan torpil barutundan kaynaklandığı öğrenildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a8362cbe-d324-49e5-8a5a-aef7876e1707.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7db9b0fa",
     "title": "Survivor kim elendi, kim gitti? 29 Mart Pazar Survivor ödül oyununu kim kazandı?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adana'nın Seyhan ilçesinde bir binanın damında çok sayıda torpil barutunun boşaltılması sırasında meydana gelen 1 kişinin öldüğü, 1 kişinin de yaralandığı olayın ardından Adana Valiliği açıklama yaptı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/e4f10514-f1ce-418b-a01d-31d282c99575.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fc91645b",
-    "title": "Toprak Razgatlıoğlu, MotoGP'nin ABD'deki 3. etabını 15. sırada bitirdi",
-    "source": "Haber Global",
-    "time": "30/03/2026 00:44",
-    "link": "https://haberglobal.com/spor/toprak-razgatlioglu-motogpnin-abddeki-3-etabini-15-sirada-bitirdi-515994",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MotoGP Dünya Şampiyonası'nın üçüncü etabı olan ABD Grand Prix'ini, Prima Pramac Yamaha takımının milli sporcu Toprak Razgatlıoğlu, 15. sırada tamamladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/toprak-razgatlioglu-motogpnin-abddeki-3-etabini-15-sirada-bitirdi-yiqo.jpg",
     "keyword": null
   }
 ]
