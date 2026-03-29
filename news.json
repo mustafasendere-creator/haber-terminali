@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e7e2ea0",
+    "title": "Almanya ile Türkiye arasındaki saat farkı bire düştü",
+    "source": "DW Türkçe",
+    "time": "29/03/2026 10:24",
+    "link": "https://www.dw.com/tr/almanya-ile-türkiye-arasındaki-saat-farkı-bire-düştü/a-72087194",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa'nın büyük bölümünde bugün saatler bir saat ileri alınarak yaz saati uygulamasına geçildi. Almanya ile Türkiye arasındaki saat farkı ikiden bire indi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c1ae632b",
     "title": "Evrim Kepenek: Bursa'nın farklı ilçelerinden kadınların anlatımları",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’un ele avuca sığmayan yıldız oyuncusu Oulai, Trabzon şehrine adım attığı günden beri hayatının en özel ve günlerini geçiriyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/dkmfgdfmkg.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_48dbad64",
-    "title": "1920 Koşusu'na son 1 hafta",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 09:44",
-    "link": "https://www.aa.com.tr/tr/guncel/1920-kosusuna-son-1-hafta/3883606",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anadolu Ajansının (AA) kuruluşunun 106. yılı etkinlikleri kapsamında Ankara'da 5 Nisan Pazar günü düzenlenecek \"1920 Koşusu\" için geri sayım başladı.",
-    "image": null,
     "keyword": null
   }
 ]
