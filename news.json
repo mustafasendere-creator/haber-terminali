@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0d8bfd51",
+    "title": "İsveç’in sakin insanları...",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 06:04",
+    "link": "https://www.cumhuriyet.com.tr/pazar-yazilari/isvec-in-sakin-insanlari-2490415",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsveç’e ikinci gelişim.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4d0f6e9f-8ce4-4380-904e-fddc973666cd.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fd85f534",
     "title": "Yapay zeka işleri devraldı eğitim hâlâ fabrikada",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TÜİK’in milli gelir güncellemesi sonrası, 2025’ten sonra emekli olanların maaşları Nisan’da yeniden hesaplanacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334312.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bafe29a7",
-    "title": "Van-Hakkari kara yoluna çığ düştü: Çok sayıda araç mahsur kaldı",
-    "source": "Evrensel",
-    "time": "29/03/2026 02:44",
-    "link": "https://www.evrensel.net/haber/5977149/van-hakkari-kara-yoluna-cig-dustu-cok-sayida-arac-mahsur-kaldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Van-Hakkari kara yolu Kırmızıtaş mevkisine çığ düştü. Yol çift yönlü olarak ulaşıma kapanırken, bölgede çok sayıda araç mahsur kaldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340612.jpg",
     "keyword": null
   }
 ]
