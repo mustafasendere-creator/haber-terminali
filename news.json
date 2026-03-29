@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cfa9b2db",
+    "title": "Doktorun görüntüleriyle yapay zeka dolandırıcılığı: 500 kişi mağdur",
+    "source": "OdaTV",
+    "time": "29/03/2026 10:25",
+    "link": "https://www.odatv.com/guncel/doktorun-goruntuleriyle-yapay-zeka-dolandiriciligi-500-kisi-magdur-120141185",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun’da görev yapan Psikiyatri Uzmanı Akif Taşdemir’in adı ve görüntüleri kullanılarak yapay zekâ destekli sahte videolarla dolandırıcılık yapıldığı ortaya çıktı. Yüzlerce kişinin mağdur edildiği iddia edilirken, bir Alman kadının 9 milyon 276 bin lira gönderdiği öğrenildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/doktorun-goruntuleriyle-yapay-zeka-dolandiriciligi-500-kisi-magdur-ywyl.png",
+    "keyword": null
+  },
+  {
     "id": "GND_42f86849",
     "title": "Trafik ışığında bekleyen bebek arabasına motosiklet çarptı: İki yaşındaki Arya hayatını kaybetti",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da düzenlenen uluslararası futbol turnuvası büyük ilgiyle tamamlanırken, final maçının başlama vuruşunu Bakan Abdulkadir Uraloğlu yaptı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/surpriz-7.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1f680cd8",
-    "title": "Türkiye'nin küresel çevre hareketi: Sıfır Atık Projesi",
-    "source": "TRT Haber",
-    "time": "29/03/2026 09:45",
-    "link": "https://www.trthaber.com/haber/gundem/turkiyenin-kuresel-cevre-hareketi-sifir-atik-projesi-939503.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan'ın himayesinde 2017'de başlatılan ve küresel bir model haline gelen \"Sıfır Atık Projesi\" ile bugüne kadar 90 milyon ton atık geri dönüştürülerek ekonomiye 365 milyar liralık katkı sağlandı.",
-    "image": null,
-    "keyword": null
   }
 ]
