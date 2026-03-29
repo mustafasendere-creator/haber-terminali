@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_24adf939",
+    "title": "Bakan Kurum'dan \"Uluslararası Sıfır Atık Günü\" paylaşımı",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 23:24",
+    "link": "https://www.aa.com.tr/tr/guncel/bakan-kurumdan-uluslararasi-sifir-atik-gunu-paylasimi/3884318",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, \"Gıda israfı sadece bugünü değil, yarını da tüketir. Çöpe giden her gıda, bir çocuğun sofrasından çalıyor, boşa harcanan her damla su bir gölü kurutuyor.\" ifadesini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2c68706d",
     "title": "Rahatsızlığından dolayı hastaneye kaldırılan Mircea Lucescu'dan durumuyla ilgili açıklama",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bordo-mavili ekibin Arnavut yıldızı Ernest Muçi, milli takım kampında sakatlık yaşadı. Yıldız futbolcunun tedavisine Trabzon’da devam edilecek.",
     "image": "https://resim.haber61.net/news/609882.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_28fe9fbe",
-    "title": "Efsane Teknik Adam Lucescu hastanelik oldu! TFF’den Eski milli hoca için geçmiş olsun mesajı",
-    "source": "Haber61",
-    "time": "29/03/2026 22:04",
-    "link": "https://www.haber61.net/spor/efsane-teknik-adam-lucescu-hastanelik-oldu-tffden-eski-milli-hoca-icin-gecmis-h628010.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "2017-2019 Türkiye A Milli Takımı’nı da çalıştıran Romanya Teknik Direktörü Mircea Lucescu, antrenman sırasında rahatsızlanarak acil koduyla hastaneye kaldırıldı.",
-    "image": "https://resim.haber61.net/news/609880.jpg",
     "keyword": null
   }
 ]
