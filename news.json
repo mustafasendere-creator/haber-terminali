@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_69f41e81",
+    "title": "İzmir KYK Çiğli Kız Öğrenci Yurdu'ndaki taciz ve ihmaller protesto edildi: Güvenli barınma haktır",
+    "source": "Evrensel",
+    "time": "29/03/2026 23:04",
+    "link": "https://www.evrensel.net/haber/5977287/izmir-kyk-cigli-kiz-ogrenci-yurdundaki-taciz-ve-ihmaller-protesto-edildi-guvenli-barinma-haktir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bakırçay Üniversitesi öğrencileri, İzmir Çiğli KYK kız yurdunda yaşanan taciz ve güvenlik ihlallerini protesto etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340753.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_6e5bf4e9",
     "title": "Galatasaray maçı öncesi kötü haber: Yıldız oyuncu milli takımda sakatlandı!",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Olay, dün saat 15.00 sıralarında Palandöken ilçesi Adnan Menderes Mahallesi’nde meydana geldi. Çat Yolu üzerinde bulunan ve hafta sonu nedeniyle kapalı olan eczanenin önüne elinde kıyafet ve poşet olan bir kişi geldi. Yanında getirdiği mermer parçasını defalarca iş yerinin camına atan kişi, daha sonra yerden bulduğu parke taşını da art arda fırlattı. Camın kırılan bölümüne [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c910f4a248f7.70190101.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_69106c65",
-    "title": "Adana'da hafif raylı sistemin bir vagonu raydan çıktı",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 21:44",
-    "link": "https://www.aa.com.tr/tr/guncel/adanada-hafif-rayli-sistemin-bir-vagonu-raydan-cikti-/3884143",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adana'nın merkez Yüreğir ilçesinde hafif raylı sistemin bir vagonu raydan çıkarak elektrik iletim direğine çarptı.",
-    "image": null,
     "keyword": null
   }
 ]
