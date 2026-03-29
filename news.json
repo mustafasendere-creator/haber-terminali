@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4b707d4d",
+    "title": "Bebeğin cansız bedeni bulundu",
+    "source": "Habertürk",
+    "time": "29/03/2026 17:45",
+    "link": "https://www.haberturk.com/sancaktepede-yol-kenarinda-olu-bebek-bulundu-3873066",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Sancaktepe’de, yol kenarında bulunan yeşil alanda beze sarılı halde bulunan bebeğin hayatını kaybettiği belirlendi. Olayla ilgili geniş çaplı inceleme başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774702143/3873066/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_0e821e8a",
     "title": "ABD, Küba'dan doktor desteği alan Amerika ülkelerine baskı yapıyor",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Kanuni Spor Kulübü, U-14 Türkiye Şampiyonası yarı final maçlarında tüm rakiplerini yenerek Türkiye finallerine katılma hakkı kazandı. Kulüpten yapılan açıklamada, destek veren isimlere teşekkür edildi.",
     "image": "https://resim.haber61.net/news/609843.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_fe4caa31",
-    "title": "Trabzon Büyükşehir Belediyespor’dan güreşte 8 madalya! Muş’ta önemli başarı",
-    "source": "Haber61",
-    "time": "29/03/2026 16:24",
-    "link": "https://www.haber61.net/spor/trabzon-buyuksehir-belediyespordan-gureste-8-madalya-musta-onemli-basari-h627989.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediyespor sporcuları, Muş’ta düzenlenen Serbest Grekoromen Minikler Grup Şampiyonası’nda 3 altın, 2 gümüş ve 3 bronz madalya kazandı. Trabzon Büyükşehir Belediyesi, başarılı sporcuları tebrik etti.",
-    "image": "https://resim.haber61.net/news/609845.jpg",
     "keyword": null
   }
 ]
