@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8cc1cdd",
+    "title": "NY Times onun için 'savaşın mimarı' diyor... Trump’ın kulağına fısıldayan adam kim?",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 03:04",
+    "link": "https://www.cumhuriyet.com.tr/dunya/ny-times-onun-icin-savasin-mimari-diyor-trump-in-kulagina-fisildayan-adam-kim-2490335",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyaz Saray, İran’a karşı yürütülen savaşta nihai kararın ABD Başkanı Donald Trump’a ait olduğunu vurgulasa da, sahadaki askeri planlamanın merkezinde Pentagon yer alıyor. Bu süreçte Trump’a yön veren iki kilit isim öne çıkıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/73ecfa01-ae79-46f6-96f4-6ac24c80c911.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b34c2e20",
     "title": "Cengiz Kurtoğlu’ndan sağlık durumuyla ilgili açıklama",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Adıyaman'ın Çelikhan ilçesinde 3 gündür kayıp olarak aranan 8 yaşındaki otizmli çocuğun cansız bedenine ulaşıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_53e24327",
-    "title": "İşgalci İsrail ordusunun Lübnan'a geceden beri düzenlediği saldırılarda en az 7 kişi öldü",
-    "source": "TRT Haber",
-    "time": "29/03/2026 01:04",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-lubnana-geceden-beri-duzenledigi-saldirilarda-en-az-7-kisi-oldu-939440.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Lübnan'a gece saatlerinden bu yana düzenlediği saldırılarda en az 7 kişi hayatını kaybetti.",
     "image": null,
     "keyword": null
   }
