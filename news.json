@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3af6456e",
+    "title": "Elektrikler ne zaman gelecek?",
+    "source": "Habertürk",
+    "time": "29/03/2026 08:45",
+    "link": "https://www.haberturk.com/elektrik-kesinti-programi-29-mart-pazar-elektrikler-ne-zaman-gelecek-saat-kacta-kesilecek-3873125",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul genelinde yaşanacak bakım, onarım çalışmaları ve planlı elektrik kesintisi yapılacak ilçeler listesi her gün AYEDAŞ ve BEDAŞ tarafından duyurulmaya devam ediyor. BEDAŞ 29 Mart Pazar günü bazı ilçelerde elektrik kesintisi yaşanacağını duyurdu. AYEDAŞ Anadolu Yakası kesinti ve arıza işleriyle ilgilenirken, BEDAŞ ise Avrupa Yakası elektrik tedarik ve arızalarıyla ilgilenmektedir. İşte 29 Mart Pazar İstanbul planlı elektrik kesinti programı...",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774730671/3873125/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_84da9961",
     "title": "Karadeniz’de Bugün Hava Krizi Trabzon’da İlçe İlçe Yağış Uyarısı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran ordusu kendisinden üstün Osmanlı ordusuyla asimetrik muharebe usulleri ve İran coğrafyasının avantajlarından istifadeyle mücadele etti\n\nKendilerine doğal bir savunma sağlayan coğrafyanın...Devamı için tıklayınız",
     "image": "",
-    "keyword": null
-  },
-  {
-    "id": "GND_5c4a120e",
-    "title": "İsrail'de \"Netanyahu\" öfkesi büyüyor: Halk, savaşa karşı sokağa döküldü",
-    "source": "Haber Global",
-    "time": "29/03/2026 07:04",
-    "link": "https://haberglobal.com/dunya/israilde-netanyahu-ofkesi-buyuyor-halk-savasa-karsi-sokaga-dokuldu-515875",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in başkenti Tel-Aviv'de halk, İsrail ve ABD'nin İran'a karşı başlattığı savaşı protesto etmek için sokağa döküldü. İsrail polisi, savaş karşıtı protestocuları güç kullanarak dağıttı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/israilde-netanyahu-ofkesi-buyuyor-halk-savasa-karsi-sokaga-dokuldu-zqtk.jpg",
     "keyword": null
   }
 ]
