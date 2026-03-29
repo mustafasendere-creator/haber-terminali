@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9d07118f",
+    "title": "Türkiye'nin 5G yolculuğu 1 Nisan'da başlıyor",
+    "source": "TRT Haber",
+    "time": "29/03/2026 06:24",
+    "link": "https://www.trthaber.com/haber/gundem/turkiyenin-5g-yolculugu-1-nisanda-basliyor-939496.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'de çarşamba günü kullanıma sunulacak 5G teknolojisi, internet hızını en az 10 katına çıkaracak. Sadece cep telefonlarını değil; uzaktan robotik ameliyatları, kazaları önleyen otonom araçları, akıllı tarım ve 3 boyutlu eğitimi de kapsayan bu yeni nesil altyapı, sıfıra yakın gecikme süresiyle günlük yaşamın ritmini tamamen değiştirecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1b7b55d4",
     "title": "İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 268'e yükseldi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail ortaklığında İran’a yönelik savaş, Türkiye’de işçiler arasında “sırada Türkiye var” kaygısıyla tartışılıyor. Ancak asıl tehdit, Türkiye’yi emperyalist savaşlara angaje eden NATO üsleri ve askeri bağımlılık…",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340609.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4e7c3262",
-    "title": "Harmancı Etiket’te iş cinayeti: Asansöre sıkışan tekstil işçisi hayatını kaybetti",
-    "source": "Evrensel",
-    "time": "29/03/2026 03:04",
-    "link": "https://www.evrensel.net/haber/5977147/harmanci-etiket-te-is-cinayeti-asansore-sikisan-tekstil-iscisi-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Esenyurt’ta Harmancı Etiket fabrikasında çalışan 38 yaşındaki işçi Mehmet Kaymaz, asansöre sıkışarak hayatını kaybetti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340618.jpg",
     "keyword": null
   }
 ]
