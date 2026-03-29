@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3474e1b3",
+    "title": "Adana'da bir binanın damında meydana gelen patlamada 1 kişi öldü, 1 kişi yaralandı",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 00:24",
+    "link": "https://www.aa.com.tr/tr/guncel/adanada-bir-binanin-daminda-meydana-gelen-patlamada-1-kisi-oldu-1-kisi-yaralandi/3884367",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da merkez Seyhan ilçesinde bir binanın damında çok sayıda torpil barutunun boşaltılması sırasında meydana gelen patlama sonucu 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_e941e91b",
     "title": "Trabzon’da kaygan yol kabusu: Tır savrulup bariyere çarptı",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Azalt, paylaş, dönüştür. Gıda israfı sadece bugünü değil, yarını da tüketir. Çöpe giden her gıda, bir çocuğun sofrasından çalıyor, boşa harcanan her damla su bir gölü kurutuyor\" ifadesini kullandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_34fd3020",
-    "title": "İran misillemesi nedeniyle İsrail Meclisinde oturuma ara verildi: Milletvekilleri sığınaklara gitti",
-    "source": "TRT Haber",
-    "time": "29/03/2026 23:24",
-    "link": "https://www.trthaber.com/haber/dunya/iran-misillemesi-nedeniyle-israil-meclisinde-oturuma-ara-verildi-milletvekilleri-siginaklara-gitti-939568.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın İsrail'e yaptığı son misillemede çalan sirenler nedeniyle İsrail Meclisinde Knesset oturuma ara verildi ve milletvekilleri sığınaklara gitti.",
     "image": null,
     "keyword": null
   }
