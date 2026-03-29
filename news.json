@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b34c2e20",
+    "title": "Cengiz Kurtoğlu’ndan sağlık durumuyla ilgili açıklama",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 03:04",
+    "link": "https://www.cumhuriyet.com.tr/yasam/cengiz-kurtoglu-ndan-saglik-durumuyla-ilgili-aciklama-2490336",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hastaneye kaldırılan ünlü şarkıcı Cengiz Kurtoğlu, sağlık durumuna ilişkin yaptığı açıklamasında, \"Hepinizin içi rahat olsun\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9fdc6cd3-9ba7-4075-8215-dede29d9f8c7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_06371dc9",
     "title": "Dünya nefesini tutmuştu: 2032 asteroidi artık tehdit değil!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun Lübnan'a gece saatlerinden bu yana düzenlediği saldırılarda en az 7 kişi hayatını kaybetti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c7635372",
-    "title": "Myanmar'da akaryakıt fiyatları, 2021'deki darbeden bu yana zirve yaptı",
-    "source": "TRT Haber",
-    "time": "29/03/2026 01:04",
-    "link": "https://www.trthaber.com/haber/dunya/myanmarda-akaryakit-fiyatlari-2021deki-darbeden-bu-yana-zirve-yapti-939441.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Myanmar'da benzin istasyonlarındaki stokların yeniden tükenmesiyle akaryakıt fiyatları, 2021'deki askeri darbeden bu yana en yüksek seviyeye ulaştı.",
     "image": null,
     "keyword": null
   }
