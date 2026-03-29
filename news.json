@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_050c6778",
+    "title": "Çin ile Kuzey Kore arasında yolcu uçağı seferleri yeniden başlatılacak",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 21:44",
+    "link": "https://www.aa.com.tr/tr/guncel/cin-ile-kuzey-kore-arasinda-yolcu-ucagi-seferleri-yeniden-baslatilacak/3884197",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin ile Kuzey Kore arasında, Kovid-19 salgının başlamasının ardından kesilen yolcu uçağı seferlerinin yarın yeniden başlatılacağı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_257e0513",
     "title": "Gediz Nehri taştı, Manisa'da tarım arazileri su altında kaldı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Nesine 2. Lig Kırmızı Grup'ta 30, Beyaz Grup'ta da 33. hafta tamamlandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/2-ligde-batman-petrolspor-puan-farkini-acti-aknp.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f89f0ccf",
-    "title": "İBB soruşturmasında gözaltına alınan Antalya Büyükşehir Belediyesi personeli tutuklandı",
-    "source": "TRT Haber",
-    "time": "29/03/2026 20:05",
-    "link": "https://www.trthaber.com/haber/turkiye/ibb-sorusturmasinda-gozaltina-alinan-antalya-buyuksehir-belediyesi-personeli-tutuklandi-939557.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Büyükşehir Belediyesine İBB yönelik yolsuzluk soruşturması kapsamında gözaltına alınan Antalya Büyükşehir Belediyesi personeli Yasin Yellice tutuklandı.",
-    "image": null,
     "keyword": null
   }
 ]
