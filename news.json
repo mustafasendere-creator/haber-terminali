@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_93b716cb",
+    "title": "Kayseri’nin meşhur lezzeti: Nevzine tatlısı tarifi",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 23:45",
+    "link": "https://www.cumhuriyet.com.tr/gurme/kayseri-nin-meshur-lezzeti-nevzine-tatlisi-tarifi-2490640",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tahini, pekmezi ve ceviziyle fark yaratan nevzine tatlısı, Kayseri mutfağının en özel şerbetli tatlılarından biri olarak öne çıkıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/48e74581-ab7c-48c1-b7ea-65690b139d89.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_695b0694",
     "title": "CHP’li Yavuzyılmaz ‘bir rekor daha kırdı’ diyerek duyurdu: ‘Zafer Havalimanı üst üste 266 aydır zarar ediyor’",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Bakırçay Üniversitesi öğrencileri, İzmir Çiğli KYK kız yurdunda yaşanan taciz ve güvenlik ihlallerini protesto etti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340753.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_6e5bf4e9",
-    "title": "Galatasaray maçı öncesi kötü haber: Yıldız oyuncu milli takımda sakatlandı!",
-    "source": "Haber61",
-    "time": "29/03/2026 23:04",
-    "link": "https://www.haber61.net/trabzonspor/galatasaray-maci-oncesi-kotu-haber-yildiz-oyuncu-milli-takimda-h628009.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Bordo-mavili ekibin Arnavut yıldızı Ernest Muçi, milli takım kampında sakatlık yaşadı. Yıldız futbolcunun tedavisine Trabzon’da devam edilecek.",
-    "image": "https://resim.haber61.net/news/609882.jpg",
-    "keyword": "trabzon"
   }
 ]
