@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_358c85c4",
+    "title": "İran'ın Körfez ülkelerine saldırıları sürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 08:44",
+    "link": "https://www.aa.com.tr/tr/guncel/iranin-korfez-ulkelerine-saldirilari-suruyor/3883601",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın, ABD üslerinin bulunduğu Körfez ülkelerine yönelik saldırıları sürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_76096d16",
     "title": "Trabzon’da sıvasız ev tartışması büyüyor: Alışkanlık mı zorunluluk mu?",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Urfa'da bir evde, sobadan sızan karbonmonoksit gazından etkilenen 5 kişi hastaneye kaldırıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/336857.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_deef96e0",
-    "title": "Özel hastane çetesi davasında adı geçen hastaneler satışa çıkarıldı",
-    "source": "Evrensel",
-    "time": "29/03/2026 06:44",
-    "link": "https://www.evrensel.net/haber/5977111/ozel-hastane-cetesi-davasinda-adi-gecen-hastaneler-satisa-cikarildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Özel hastane çetesi soruşturması kapsamında TMSF’ye devredilen Reyap ve Royal Teos hastaneleri ile oteller, toplam 11,7 milyar lira muhammen bedelle satışa çıkarıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/333812.jpg",
     "keyword": null
   }
 ]
