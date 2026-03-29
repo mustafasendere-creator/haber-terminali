@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8ffa7408",
+    "title": "Tahran ve Tebriz'de patlamalar!",
+    "source": "Haber Global",
+    "time": "30/03/2026 01:04",
+    "link": "https://haberglobal.com/dunya/tahran-ve-tebrizde-patlamalar-515998",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran devlet televizyonu, Tahran’da Mihrabad Havalimanı ve Tebriz’de bir petrokimya tesisine saldırı düzenlendiğini bildirdi",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/tahran-ve-tebrizde-patlamalar-l4lt.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2958604d",
     "title": "Türkiye'nin doğal gaz depolarında doluluk oranı yüzde 71",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. HATAY İCRA DAİRESİ MÜDÜRLÜĞÜ",
     "image": "https://media.cumhuriyet.com.tr/Archive/71f1ceb1-4ade-4173-b6f6-70303d179b01.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_42d026c5",
-    "title": "T.C. SERİK 2. ASLİYE HUKUK MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 00:04",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-serik-2-asliye-hukuk-mahkemesi-2490645",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. SERİK 2. ASLİYE HUKUK MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4f44e3cf-931e-4177-a910-1a8e1b60dbe2.jpg",
     "keyword": null
   }
 ]
