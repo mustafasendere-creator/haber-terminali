@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1ab8d7db",
+    "title": "İstanbul'da uçuşlara yağmur engeli",
+    "source": "TRT Haber",
+    "time": "29/03/2026 23:05",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-ucuslara-yagmur-engeli-939544.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da etkili olan yağış hava trafiğini olumsuz etkiledi. Sabiha Gökçen Havalimanı'na iniş yapamayan uçaklar uzun süre havada tur attı. Çok sayıda uçak, başta İstanbul Havalimanı olmak üzere çevre havalimanlarına yönlendirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_17f5fa22",
     "title": "Antalya'nın yüksek kesimlerine kar yağdı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul'da dünden beri etkisini sürdüren yağış, bazı aksaklıklara neden oldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_54e14f18",
-    "title": "Dışişleri Bakanı Fidan, Mısırlı mevkidaşı Abdulati ile görüştü",
-    "source": "TRT Haber",
-    "time": "29/03/2026 21:44",
-    "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-misirli-mevkidasi-abdulati-ile-gorustu-939562.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, Mısır Dışişleri Bakanı Bedir Abdulati ile Pakistan'ın başkenti İslamabad'da bir araya geldi.",
     "image": null,
     "keyword": null
   }
