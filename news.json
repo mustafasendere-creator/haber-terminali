@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2958604d",
+    "title": "Türkiye'nin doğal gaz depolarında doluluk oranı yüzde 71",
+    "source": "TRT Haber",
+    "time": "30/03/2026 01:04",
+    "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-dogal-gaz-depolarinda-doluluk-orani-yuzde-71-939527.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel enerji piyasalarındaki dalgalanmalara karşı arz güvenliğini sağlamlaştırmak için çalışmalarını sürdüren Enerji ve Tabii Kaynaklar Bakanlığı, kış sezonu sonrasında kısmen boşalan doğal gaz depolarını yeniden dolduruyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_344b3a69",
     "title": "ABDİsrail'in İran'a saldırılarıyla başlayan savaş çok boyutlu krize dönüştü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. SERİK 2. ASLİYE HUKUK MAHKEMESİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/4f44e3cf-931e-4177-a910-1a8e1b60dbe2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_67bb0e38",
-    "title": "Manisa'da kazada yaralanan genç sürücü öldü",
-    "source": "Haber Global",
-    "time": "30/03/2026 00:04",
-    "link": "https://haberglobal.com/gundem/manisada-kazada-yaralanan-genc-surucu-oldu-515992",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa Alaşehir'de meydana gelen trafik kazasında ağır yaralı olarak hastaneye kaldırılan 19 yaşındaki sürücü hayatını kaybetti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/manisada-kazada-yaralanan-genc-surucu-oldu-3kpk.jpg",
     "keyword": null
   }
 ]
