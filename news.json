@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_058ed7ae",
+    "title": "İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırılarda 9 kişi öldü",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 10:24",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusunun-lubnanin-guneyine-duzenledigi-saldirilarda-9-kisi-oldu/3883655",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın güneyindeki beldelere düzenlediği hava saldırılarında 9 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3ac84bdd",
     "title": "Fırtına Derbiye Gol Yağmuruyla Geliyor! Trabzonspor’un Hücum Hattı Göz Korkutuyor",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Giresun’un Espiye ilçesinde düzenlenen genel kurulda 5 aday yarıştı. Mevcut başkanın aday olmadığı seçimde Halil Güç yeni başkan oldu.",
     "image": "https://resim.haber61.net/news/609769.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_1732b4dd",
-    "title": "Rize'de tartışma silahlı kavgaya dönüştü: 17 yaşındaki genç yaşamını yitirdi",
-    "source": "Haber61",
-    "time": "29/03/2026 09:24",
-    "link": "https://www.haber61.net/bolgesel/son-dakika-rizede-tartisma-silahli-kavgaya-donustu-17-yasindaki-genc-h627942.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rize’de babasına ait iş yerinde çıkan tartışmada silahla vurulan 17 yaşındaki Kerem Rahman Günaydın hayatını kaybetti. Olayla ilgili iki kişi gözaltına alındı.",
-    "image": "https://resim.haber61.net/news/609773.jpg",
     "keyword": null
   }
 ]
