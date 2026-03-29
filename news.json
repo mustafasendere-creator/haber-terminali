@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2e0208d1",
+    "title": "Baba dehşet saçtı! Oğlunu tüfekle öldürdü",
+    "source": "Habertürk",
+    "time": "29/03/2026 07:44",
+    "link": "https://www.haberturk.com/baba-dehset-sacti-oglunu-tufekle-oldurdu-3873136",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu’da bir baba, evde tartışma yaşadığı oğlunu av tüfeğiyle vurarak öldürdü. Olayın ardından baba gözaltına alındı.",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774744616/3873136/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_75bf8671",
     "title": "Günlük Burç Yorumları: 29 Mart Pazar Akrep Burcu Yorumu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Devlet Bahçeli, İzzet Ulvi Yönter’in istifasının küskünlükten değil akademik çalışmalar nedeniyle olduğunu söyledi; MHP’de kırgınlık iddialarını reddetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334458.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e9378a89",
-    "title": "CHP’li Kara: ‘KHK ile ihraç edilen kamu görevlileri görevlerine dönmeli’",
-    "source": "Evrensel",
-    "time": "29/03/2026 05:24",
-    "link": "https://www.evrensel.net/haber/5977122/chpli-kara-khk-ile-ihrac-edilen-kamu-gorevlileri-gorevlerine-donmeli",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’li Yıldırım Kara, KHK mağduru kamu görevlilerinin görevlerine dönmesi ve cezaevlerindeki aşırı kalabalığa çözüm getirilmesi gerektiğini söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/335603.jpg",
     "keyword": null
   }
 ]
