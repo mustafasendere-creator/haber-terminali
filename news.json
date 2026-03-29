@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a4db0eeb",
+    "title": "NATO'dan Türkiye'de düzenlenecek zirveye dair 100 gün kaldı paylaşımı",
+    "source": "TRT Haber",
+    "time": "30/03/2026 00:44",
+    "link": "https://www.trthaber.com/haber/dunya/natodan-turkiyede-duzenlenecek-zirveye-dair-100-gun-kaldi-paylasimi-939539.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NATO, Türkiye'de düzenlenecek 2026 NATO Zirvesi'ne 100 gün kaldığını belirten bir mesaj paylaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_05e27aa7",
     "title": "Adana'da bir binanın damında patlama: 1 ölü, 1 yaralı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tahini, pekmezi ve ceviziyle fark yaratan nevzine tatlısı, Kayseri mutfağının en özel şerbetli tatlılarından biri olarak öne çıkıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/48e74581-ab7c-48c1-b7ea-65690b139d89.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_695b0694",
-    "title": "CHP’li Yavuzyılmaz ‘bir rekor daha kırdı’ diyerek duyurdu: ‘Zafer Havalimanı üst üste 266 aydır zarar ediyor’",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 23:44",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-yavuzyilmaz-bir-rekor-daha-kirdi-diyerek-duyurdu-zafer-havalimani-ust-uste-266-aydir-zarar-ediyor-2490642",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Genel Başkan Yardımcısı Deniz Yavuzyılmaz, yap-işlet-devret modeliyle inşa edilen Zafer Havalimanı'nın üst üste 266 aydır zarar ettiğini ifade ederek, \"AKP, yap-işlet-devret modeliyle yapılan Zafer Havalimanı’nda üst üste 266 aydır zarar ederek, Dünya Guinness Rekorlar Kitabı'na girecek bir rekor daha kırdı\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c85581b6-5351-4768-a983-aea7c5cac1ba.jpg",
     "keyword": null
   }
 ]
