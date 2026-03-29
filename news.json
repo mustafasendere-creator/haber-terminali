@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_94121fb9",
+    "title": "Bursa'da zincirleme kaza: Üç kişi yaralandı",
+    "source": "Evrensel",
+    "time": "29/03/2026 08:04",
+    "link": "https://www.evrensel.net/haber/5977206/bursada-zincirleme-kaza-uc-kisi-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın Osmangazi ilçesinde 2 otomobil ve kamyonetin karıştığı zincirleme kazada 3 kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340682.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d429ee76",
     "title": "Beşiktaş'ta yangın: İki kişi dumandan etkilendi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mısır'da, İsrail ve ABD'nin İran'a yönelik saldırılarının sürmesiyle küresel petrol fiyatlarında yaşanan artışın etkileriyle mücadele amacıyla enerji tüketimini azaltmaya yönelik bir dizi hükümet önlemi uygulanmaya başlandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8750974f",
-    "title": "CHP’nin 100’üncü mitingi Çanakkale’de: Özel'den Özkan Yalım'ın gözaltı görüntülerine tepki",
-    "source": "Evrensel",
-    "time": "29/03/2026 05:44",
-    "link": "https://www.evrensel.net/haber/5977118/chp-nin-100-uncu-mitingi-canakkale-de-ozel-den-ozkan-yalim-in-gozalti-goruntulerine-tepki",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’nin “Millet İradesine Sahip Çıkıyor” mitinglerinin 100’üncüsü Çanakkale’de yapıldı. İmamoğlu’nun mektubu okunurken, Özgür Özel, Uşak Belediye Başkanı Yalım'ın gözaltına alınmasına ilişkin görüntülerin basına servis edilmesine tepki gösterdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340589.jpg",
     "keyword": null
   }
 ]
