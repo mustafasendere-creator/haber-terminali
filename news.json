@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_060f7ae2",
+    "title": "Bahar yorgunluğu bilimsel olarak kanıtlanamadı",
+    "source": "DW Türkçe",
+    "time": "29/03/2026 09:44",
+    "link": "https://www.dw.com/tr/bahar-yorgunluğu-bilimsel-olarak-kanıtlanamadı/a-76567176",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kıştan bahara geçerken birçok kişinin şikâyet ettiği bahar yorgunluğu gerçekten var mı? İsviçre'de 418 kişiyle yapılan araştırma bunun bir mit olabileceğini gösteriyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_9a818240",
     "title": "Galatasaray maçı öncesi Trabzonspor'un endişesi: Oynayacak mı?",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, dün Trabzon’da bir dizi ziyarette bulundu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/2-kopyasi-7-kopya-3.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_d0f32234",
-    "title": "Mehmet Ali Yılmaz Tesisleri neden taşınamıyor? İşte perde arkası",
-    "source": "Haber61",
-    "time": "29/03/2026 08:24",
-    "link": "https://www.haber61.net/trabzon/mehmet-ali-yilmaz-tesisleri-neden-tasinamiyor-iste-perde-arkasi-h627932.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Mehmet Ali Yılmaz Tesisleri için gündeme gelen taşınma iddialarının arkasında, saha kalitesi ve zemin yapısına ilişkin kritik nedenler bulunuyor. İşte detaylar...",
-    "image": "https://resim.haber61.net/news/609754.jpg",
     "keyword": "trabzon"
   }
 ]
