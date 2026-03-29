@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c1733c1f",
+    "title": "DMM, Koşuyolu Kalp ve Damar Hastanesi satılıyor iddiasını yalanladı",
+    "source": "TRT Haber",
+    "time": "29/03/2026 20:05",
+    "link": "https://www.trthaber.com/haber/gundem/dmm-kosuyolu-kalp-ve-damar-hastanesi-satiliyor-iddiasini-yalanladi-939558.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bazı basın organları ve sosyal medyada yer alan \"Koşuyolu Kalp ve Damar Hastanesi satılıyor\" yönündeki iddialar İletişim Başkanlığı tarafından yalanlandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5528eceb",
     "title": "Katil İsrail'in Lübnan'a saldırılarında 2 Mart'tan itibaren 1238 kişi öldü",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "İsmail Saymaz (@ismailsaymaz) / Posts / X  x.com",
     "image": null,
     "keyword": "polis intihar"
-  },
-  {
-    "id": "YRL_9eb03c1b",
-    "title": "Tarımda Büyük Destek Paketi: Mazotun Tamamı Bedavaya Geliyor!",
-    "source": "Taka Gazetesi",
-    "time": "29/03/2026 18:24",
-    "link": "https://www.takagazete.com.tr/tarimda-buyuk-destek-paketi-mazotun-tamami-bedavaya-geliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Tarım ve Orman Bakanlığı'ndan çiftçiye dev destek! Planlı üretimle mazot maliyetinin tamamı, gübrenin ise yarısı karşılanıyor. İşte yeni destekleme modelinin detayları.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/c-i-f-t-c-i-6.jpg",
-    "keyword": null
   }
 ]
