@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_987e1ccd",
+    "title": "‘Devletin paraya ihtiyacı var’",
+    "source": "Evrensel",
+    "time": "30/03/2026 01:04",
+    "link": "https://www.evrensel.net/haber/5977282/devletin-paraya-ihtiyaci-var",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Arabayla gezerken bile ne kadar yaktığını hesap etmek zulümken en basit kokuya bile ceza gelmesi bütün işçilerde tek bir düşünce yaratıyor: “Devletin paraya ihtiyacı var.”",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/323075.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fb4846be",
     "title": "17 derece eğimli kilise: Ziyaretçilerin başı dönüyor",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Gazze Şeridi'ndeki Sağlık Bakanlığı, hastanelerdeki jeneratörler için gerekli yakıt ve yedek parça eksikliği nedeniyle hizmetlerin durma noktasına geldiğini; sağlık sektöründe zaten vahim olan durumun daha karmaşık bir hal aldığını belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6cbb9380",
-    "title": "İran basını: Kesinti yaşanan bölgelere elektrik verilmeye başlandı",
-    "source": "TRT Haber",
-    "time": "30/03/2026 00:04",
-    "link": "https://www.trthaber.com/haber/dunya/iran-basini-kesinti-yasanan-bolgelere-elektrik-verilmeye-baslandi-939570.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın, Tahran ve Kerec kentlerinde kesinti yaşanan bölgelere elektrik verilmeye başlandığı belirtildi.",
     "image": null,
     "keyword": null
   }
