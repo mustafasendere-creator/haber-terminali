@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ff73253",
+    "title": "Körfez ülkeleri savaşa girer mi?",
+    "source": "A Haber",
+    "time": "29/03/2026 07:24",
+    "link": "https://www.ahaber.com.tr/yazarlar/melih-altinok/2026/03/29/korfez-ulkeleri-savasa-girer-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tarih Ortadoğu'da savaşların çoğu zaman cephelerde değil, başkentlerin tereddütlerinde büyüdüğünü gösteriyor.\nBugün de tablo bu. ABD ve İsrail'in İran'a yönelik hamleleriyle başlayan süreç, iki...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_fd96927c",
     "title": "CHP’de seks skandalı ve yolsuzlukların ‘ortak sırrı’",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": ".",
     "image": "https://media.cumhuriyet.com.tr/Archive/6a1cbdd5-aef0-445f-b3f7-89943ddb22b7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9e667e6b",
-    "title": "SSB Başkanı Görgün: Savunma kapasitemiz barışın teminatı olarak konumlandırılmıştır",
-    "source": "TRT Haber",
-    "time": "29/03/2026 04:24",
-    "link": "https://www.trthaber.com/haber/gundem/ssb-baskani-gorgun-savunma-kapasitemiz-barisin-teminati-olarak-konumlandirilmistir-939490.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanlığı Savunma Sanayii SSB Başkanı Haluk Görgün, güçlü bir savunma sanayisinin barışı tehdit etmediğini, aksine barışın üzerine kurulduğu zemini güçlendirdiğini belirterek, \"Savunma kapasitemiz, geçmişte, bugün ve gelecekte bu barışın teminatı olarak konumlandırılmıştır.\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
