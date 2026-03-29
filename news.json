@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3d38752a",
+    "title": "Meteoroloji'den Akdeniz için kuvvetli fırtına uyarısı",
+    "source": "TRT Haber",
+    "time": "29/03/2026 07:04",
+    "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-akdeniz-icin-kuvvetli-firtina-uyarisi-939500.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü MGM, Akdeniz için kuvvetli fırtına uyarısında bulundu. Batı Akdeniz'de rüzgarın hızının yer yer 90 kilometreye kadar çıkması bekleniyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_9567df78",
     "title": "Trabzon’da Yakıt Fiyatları Tırmandı Bugün Sürücüler Ne Yapacak",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bilim dünyasında peş peşe yaşanan gelişmeler, insan zihninin dijital ortama taşınmasından yapay “insanlık simülasyonlarına” kadar uzanan yeni bir dönemin kapısını aralıyor. Bu dönüşüm, teknoloji ile gerçeklik arasındaki sınırları yeniden tartışmaya açıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/4595ef4d-0e89-49eb-80a5-da53a0d5576a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_81f1a97b",
-    "title": "Zeytinliklerde doğa temelli dönüşüm: 'Toprak suyu tutarsa üretim sürer'",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 04:04",
-    "link": "https://www.cumhuriyet.com.tr/cevre/zeytinliklerde-doga-temelli-donusum-toprak-suyu-tutarsa-uretim-surer-2490417",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İklim krizi ve kuraklık zeytinlikleri tehdit ederken, Çanakkale Ezine’de hayata geçirilen proje, toprağın su tutma kapasitesini artırmayı ve üretimi doğa temelli yöntemlerle korumayı hedefliyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2807c31c-9baf-4838-9be3-de90a8600ea6.jpg",
     "keyword": null
   }
 ]
