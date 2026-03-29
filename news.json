@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70d8f74f",
+    "title": "Bakan Çiftçi'ye çiftçiden protesto",
+    "source": "OdaTV",
+    "time": "29/03/2026 17:46",
+    "link": "https://www.odatv.com/guncel/icisleri-bakani-mustafa-ciftciye-ciftciden-protesto-120141230",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konya&#039;da bir çiftçi, İçişleri Bakanı Mustafa Çiftçi&#039;ye mazot, gübre ve elektrik fiyatları üzerinden sitem etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/icisleri-bakani-mustafa-ciftciye-ciftciden-protesto-3z7v.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_662c1371",
     "title": "Trump kararları öncesi dev kazançlar: Piyasaya bilgi mi sızıyor",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Ortahisar Kanuni Spor Kulübü, U-14 Türkiye Şampiyonası yarı final maçlarında tüm rakiplerini yenerek Türkiye finallerine katılma hakkı kazandı. Kulüpten yapılan açıklamada, destek veren isimlere teşekkür edildi.",
     "image": "https://resim.haber61.net/news/609843.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_fe4caa31",
-    "title": "Trabzon Büyükşehir Belediyespor’dan güreşte 8 madalya! Muş’ta önemli başarı",
-    "source": "Haber61",
-    "time": "29/03/2026 16:24",
-    "link": "https://www.haber61.net/spor/trabzon-buyuksehir-belediyespordan-gureste-8-madalya-musta-onemli-basari-h627989.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediyespor sporcuları, Muş’ta düzenlenen Serbest Grekoromen Minikler Grup Şampiyonası’nda 3 altın, 2 gümüş ve 3 bronz madalya kazandı. Trabzon Büyükşehir Belediyesi, başarılı sporcuları tebrik etti.",
-    "image": "https://resim.haber61.net/news/609845.jpg",
     "keyword": "trabzon"
   }
 ]
