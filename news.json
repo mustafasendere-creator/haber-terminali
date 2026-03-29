@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_3b848d87",
+    "title": "HavaSosyalMedya - x.com",
+    "source": "X",
+    "time": "29/03/2026 23:25",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBnNlpSMGV0M1lXdEF1aXVtcTUzOFBNMkNmLUJPSjJ4NUlveldxdGFVaVptZzF4eGRIUTRsQlItUXZTLXM",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "HavaSosyalMedya  x.com",
+    "image": null,
+    "keyword": "trabzon son dakika"
+  },
+  {
     "id": "GND_c20b92ce",
     "title": "Irmakta can pazarı! Son anda...",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şanlıurfa'da günlerdir devam eden sağanak yağışla beraber kırsal mahallelerde etkisini artıran dolu, tarım alanlarında hasara yol açtı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/91ad00fc-c182-46ef-8be8-f11c1fa3a380.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0e85d103",
-    "title": "Samsun'da acı olay: 2 çocuk babası erkek intihar etti",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 22:25",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/samsun-da-aci-olay-2-cocuk-babasi-erkek-intihar-etti-2490611",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsun'un Canik ilçesinde 2 çocuk babası şahıs, kendini asarak intihar etti. Otopsi işlemlerinin ardından cenaze ailesine teslim edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/946e3e6e-0c57-44c3-b0a7-ef4e1751bd7f.jpg",
     "keyword": null
   }
 ]
