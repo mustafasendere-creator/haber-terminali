@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_53feb2ea",
+    "title": "İstanbul'da İsrail ve ABD'ye yönelik protesto yürüyüşü yapıldı",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 00:04",
+    "link": "https://www.aa.com.tr/tr/guncel/istanbulda-israil-ve-abdye-yonelik-protesto-yuruyusu-yapildi/3884348",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İHH İnsani Yardım Vakfı, Filistin'e Destek Platformu ve İslami Dayanışma Platformu öncülüğünde, \"Coğrafyamızda işgalci İsrail ve Amerikan askeri istemiyoruz\" sloganıyla Fatih Camisi'nden Beyazıt Meydanı'na yürüyüş düzenlendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2a81c8b0",
     "title": "KKTC Başbakanı Üstel: Kıbrıs’ta Türk varlığı ebediyen yaşayacaktır",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Manisa'nın Turgutlu ilçesinde yaşayan İbrahim Irgatcı'nın (46) sosyal medya üzerinden yaptığı çağrı, Türkiye'nin dört bir yanından gelen altın meraklılarını İzmir'de buluşturdu. Kırıntı madencilik etkinliğinin baş mimarı olan Irgatcı'nın öncülüğünde bir araya gelen altın avcıları, yağışlı ve soğuk havaya aldırış etmeden derede altın aradı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/altin-avcilari-81-ilden-izmire-akin-etti-dereden-topluyorlar-bhky.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_da9f6636",
-    "title": "Tahran'da İsrail saldırıları nedeniyle elektrik kesintileri yaşandı",
-    "source": "Haber Global",
-    "time": "29/03/2026 23:05",
-    "link": "https://haberglobal.com/dunya/tahranda-israil-saldirilari-nedeniyle-elektrik-kesintileri-yasandi-515985",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Enerji Bakanlığı, İsrail’in Elburz eyaletine yönelik hava saldırılarında elektrik şebekesinde meydana gelen hasar nedeniyle başkent Tahran ve Kerec kentlerinde elektrik kesintileri yaşandığını açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/tahranda-israil-saldirilari-nedeniyle-elektrik-kesintileri-yasandi-rpti.jpg",
     "keyword": null
   }
 ]
