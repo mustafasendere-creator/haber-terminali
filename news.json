@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f8161364",
+    "title": "Toprak Razgatlıoğlu, MotoGP'nin sprint yarışını motosikletindeki arıza nedeniyle tamamlayamadı",
+    "source": "Anadolu Ajansı",
+    "time": "29/03/2026 08:44",
+    "link": "https://www.aa.com.tr/tr/guncel/toprak-razgatlioglu-motogpnin-sprint-yarisini-motosikletindeki-ariza-nedeniyle-tamamlayamadi/3883594",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MotoGP Dünya Şampiyonası'nın 3. etabı olan ABD Grand Prix sprint yarışında Prima Pramac Yamaha takımının milli sporcusu Toprak Razgatlıoğlu, motosikletindeki mekanik problem nedeniyle yarışı bıraktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a608b3d8",
     "title": "ABD ile İsrail'in, İran'ın güneyindeki Benderpol İskelesi'ne düzenledikleri saldırıda 5 kişi öldü",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İsrail'in 28 Şubat'ta İran'a yönelik başlattığı saldırılarda 4 hafta geride kalırken, küresel piyasalarda enerji fiyatlarındaki sert dalgalanmalar devam ediyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b7d0a51a",
-    "title": "Tanrıkulu’ndan “yanıltıcı bilgi” maddesine tepki: Düzenleme fiili olarak ifade özgürlüğünü baskılama aracına dönüştürüldü",
-    "source": "Evrensel",
-    "time": "29/03/2026 06:44",
-    "link": "https://www.evrensel.net/haber/5977108/tanrikulundan-yaniltici-bilgi-maddesine-tepki-duzenleme-fiili-olarak-ifade-ozgurlugunu-baskilama-aracina-donusturuldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’li Sezgin Tanrıkulu, TCK 217/A kapsamında gazetecilere yönelik işlemleri Meclis gündemine taşıdı. Tanrıkulu, düzenlemenin ifade özgürlüğü üzerinde baskı aracına dönüştüğünü söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/332992.jpg",
     "keyword": null
   }
 ]
