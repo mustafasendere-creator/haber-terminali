@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c20b92ce",
+    "title": "Irmakta can pazarı! Son anda...",
+    "source": "Habertürk",
+    "time": "29/03/2026 23:25",
+    "link": "https://www.haberturk.com/antalya-da-kontrolden-cikan-otomobil-irmaga-uctu-3873025",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya’nın Serik ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği otomobil ırmağa uçtu. Suya gömülen otomobildeki 3 kişi kendi imkanlarıyla çıkmayı başardı",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774687648/3873025/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3c9d54c7",
     "title": "Galata Kulesi mülkiyetinde karar",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Samsun'un Canik ilçesinde 2 çocuk babası şahıs, kendini asarak intihar etti. Otopsi işlemlerinin ardından cenaze ailesine teslim edildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/946e3e6e-0c57-44c3-b0a7-ef4e1751bd7f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9a7a828a",
-    "title": "Zafer Partisi’nden Beykoz’daki çok uluslu deniz gücü planına tepki",
-    "source": "Cumhuriyet",
-    "time": "29/03/2026 22:25",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/zafer-partisi-nden-beykoz-daki-cok-uluslu-deniz-gucu-planina-tepki-2490612",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Zafer Partisi, Beykoz'da konuşlanması planlanan Çok Uluslu Deniz Unsur Komutanlığına ilişkin açıklama yaparak, kararın hukuki ve güvenlik boyutlarının netleştirilmesini istedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a3555646-52b7-4d02-b5ba-d0f89653e8c4.jpg",
     "keyword": null
   }
 ]
