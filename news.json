@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_97a669ba",
+    "title": "Uludere’de çığ düştü, yol kapandı",
+    "source": "Evrensel",
+    "time": "30/03/2026 01:24",
+    "link": "https://www.evrensel.net/haber/5977250/uluderede-cig-dustu-yol-kapandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şırnak'ın Uludere ilçesinde yola çığ düştü. Belediye ekipleri, kapanan yolu ulaşıma açmak için çalışma başlattı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340720.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8ff65560",
     "title": "Eskişehir’de Filistin eylemi: “İsrail’e ambargo uygulansın”",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İspanya’nın NATO üyeliğinde doğrudan payı olan PSOE gerçekten açıklamaların ötesinden gidebilir mi? Sanchez’in tutumu ülke içerisinde nasıl tartışılıyor? İspanya’dan araştırmacı gazeteci-yazar Miquel Ramos ile konuştuk",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340711.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_07d800bf",
-    "title": "Başkentte emekliler kuyruklarda: ‘Artık her kuyruğa giriyoruz’",
-    "source": "Evrensel",
-    "time": "30/03/2026 00:24",
-    "link": "https://www.evrensel.net/haber/5977288/baskentte-emekliler-kuyruklarda-artik-her-kuyruga-giriyoruz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkent Ankara'da iki kuyruk. Biri Tarihi Ulus Hali karşısında diğeri kent merkezinde. Emekliler cuma günleri “hayırseverlerin” dağıttığı ücretsiz yemek ve ucuz yumurta kuyruğunda bekliyorlar.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340751.jpg",
     "keyword": null
   }
 ]
