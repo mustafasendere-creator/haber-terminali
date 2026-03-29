@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d5860250",
+    "title": "Gardiyan kadın evinde ölü bulundu",
+    "source": "Habertürk",
+    "time": "29/03/2026 20:05",
+    "link": "https://www.haberturk.com/aydin-da-kadin-bas-gardiyan-evinde-olu-bulundu-3873052",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aydın'ın Nazilli ilçesinde kadın baş gardiyan evinde ölü bulundu",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774695126/3873052/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_97f800e0",
     "title": "Polisi öldürmüşlerdi! İstenen ceza belli oldu",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail Başbakanı Netanyahu, orduya Lübnan'ın güneyinde halkı zorla yerinden ettiği bölgede işgali genişletme talimatı verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9d1acef3",
-    "title": "Ticaret Bakanlığından \"İsrail ile ticaretin sürdüğü\" iddialarına ilişkin açıklama",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 19:04",
-    "link": "https://www.aa.com.tr/tr/guncel/ticaret-bakanligindan-israil-ile-ticaretin-surdugu-iddialarina-iliskin-aciklama/3884153",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanlığı, Türkiye'nin 2 Mayıs 2024'te aldığı kararla, tam 23 aydır Türkiye'den İsrail'e bütün ürün gruplarında ihracat, ithalat, serbest bölge ve transit ticaretin tamamen durdurulduğunu belirtti.",
     "image": null,
     "keyword": null
   }
