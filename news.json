@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b80889e9",
+    "title": "Şişli’de dönerciye silahlı saldırı kamerada; iş yeri basılınca kardeşine ateş açtırmış",
+    "source": "Cumhuriyet",
+    "time": "29/03/2026 09:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/sisli-de-donerciye-silahli-saldiri-kamerada-is-yeri-basilinca-kardesine-ates-actirmis-2490446",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şişli'de dönerciye düzenlenen silahlı saldırı sırasında pide kuyruğunda bekleyen S.K. (39) sırtından ve kolundan yaralandı. Şişli Asayiş Büro Amirliği'ne polis ekiplerinin yaptığı çalışmada, ilk olarak dönerci S.D.’nin olaydan önce H.K.’nin iş yerine gelerek silah çektiği, H.K.’nin de kardeşi B.K.’yi göndererek dönercinin iş yerine ateş açtırdığı ortaya çıktı. Gözaltına alınan 4 şüpheli tutuklandı. Şüphelilerin arasında yaklaşık 100 bin liralık alacak meselesi olduğu öğrenildi. Saldırı anına ait görüntüler de ortaya çıktı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9a58bc31-881a-4c98-802b-b07443fdb7f0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_06c113ba",
     "title": "Suudi Arabistan: İHA saldırılarını engelledik",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ile İsrail'in, İran'ın güneyinde yer alan Hürmüzgan eyaletindeki Benderpol İskelesi'ne düzenledikleri saldırıda 5 kişinin yaşamını yitirdiği, 4 kişinin yaralandığı bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_358c85c4",
-    "title": "İran'ın Körfez ülkelerine saldırıları sürüyor",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 08:44",
-    "link": "https://www.aa.com.tr/tr/guncel/iranin-korfez-ulkelerine-saldirilari-suruyor/3883601",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın, ABD üslerinin bulunduğu Körfez ülkelerine yönelik saldırıları sürüyor.",
     "image": null,
     "keyword": null
   }
