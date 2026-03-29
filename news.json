@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_22bda4d8",
+    "title": "Işıksu, partisinden istifa etti",
+    "source": "Habertürk",
+    "time": "29/03/2026 13:46",
+    "link": "https://www.haberturk.com/adapazari-belediye-baskani-mutlu-isiksu-ak-parti-den-istifa-etti-3873090",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adapazarı Belediye Başkanı Mutlu Işıksu, hakkındaki iddialara ilişkin olarak, \"Bu kumpası kuranlar, yayanlar ile siyasi bir linç ve operasyon aracı haline getirenleri Allah'a havale ediyorum. Davamızın ve partimizin bundan sonraki süreçte zarar görmemesi için mahkeme neticeleninceye kadar her zaman gönülden bağlı olduğum, üyesi ve neferi olmaktan onur ve gurur duyduğum partimden istifa ediyorum\" dedi",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774710571/3873090/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_72378169",
     "title": "BM’de \"Sıfır Atık Günü\" vurgusu",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Atılım Üniversitesi yönetmelik değişikliğine gidildi. Yeni yönetmeliğe göre öğretim ücretini ödeyemeyen öğrencilerin kaydı askıya alınacak ve geçen süre öğretim süresinden sayılacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340688.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_59eab41f",
-    "title": "Galatasaray’dan Trabzonspor maçı için rekor prim iddiası!",
-    "source": "Haber61",
-    "time": "29/03/2026 13:04",
-    "link": "https://www.haber61.net/trabzonspor/galatasaraydan-trabzonspor-maci-icin-rekor-prim-idfdiasi-h627970.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Galatasaray yönetimi, Trabzonspor deplasmanı öncesinde takıma özel prim hazırladı. Sarı-kırmızılı kulübün, kritik mücadele için 2 ya da 3 milyon Euro’luk prim belirlediği öne sürüldü.",
-    "image": "https://resim.haber61.net/news/609814.jpg",
-    "keyword": "trabzon"
   }
 ]
