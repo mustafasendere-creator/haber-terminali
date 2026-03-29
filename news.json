@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fd44bfcb",
+    "title": "Antrenman öncesi fenalaşan Lucescu hastaneye kaldırıldı",
+    "source": "Evrensel",
+    "time": "29/03/2026 13:45",
+    "link": "https://www.evrensel.net/haber/5977221/antrenman-oncesi-fenalasan-lucescu-hastaneye-kaldirildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Romanya Milli Takımı Teknik Direktörü Mircea Lucescu, takımının bugünkü antrenmanı öncesinde rahatsızlanması nedeniyle hastaneye kaldırıldı. Romanya Futbol Federasyonu açıklama yaptı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340689.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_eab7f29c",
     "title": "Av yasağı öncesi Trabzon’da balık tezgâhlarında son durum",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Havalimanı’nda bazı uçuşlar iptal edilirken, bazı seferlerde gecikmeler yaşandı. Yolculara uyarı yapıldı.",
     "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_b0778d90",
-    "title": "Trabzon’da Örnek Proje! Gençler Gelecek İçin Harekete Geçti",
-    "source": "Taka Gazetesi",
-    "time": "29/03/2026 12:44",
-    "link": "https://www.takagazete.com.tr/trabzonda-ornek-proje-gencler-gelecek-icin-harekete-gecti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da eğitim alanında dikkat çeken projelerden biri daha hayata geçirildi. Beşikdüzü Borsa İstanbul Fen Lisesi tarafından yürütülen “Gelecek İçin Bir Adım” projesi, çevre bilinci ve sürdürülebilir yaşam farkındalığını artırmayı hedefleyen örnek çalışmalar arasında yer aldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/y-a-b-a-n-c-i-4.jpeg",
     "keyword": "trabzon"
   }
 ]
