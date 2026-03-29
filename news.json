@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_813d1a0c",
+    "title": "Bir lider öldü, sistem yeniden kuruldu",
+    "source": "Habertürk",
+    "time": "30/03/2026 00:25",
+    "link": "https://www.haberturk.com/bir-lider-oldu-sistem-yeniden-kuruldu-iranda-gorunen-8-isim-gorunmeyen-guc-dengesi-3872999",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’da ABD ve İsrail ile tırmanan savaşın ilk gününde dini lider Ali Hamaney’in öldürülmesi, ilk etapta rejim açısından tarihsel bir kırılma ve potansiyel bir çöküş senaryosu olarak değerlendirildi. Ancak sahadaki askeri hareketlilik, karar alma süreçlerindeki hız ve Tahran’dan gelen kontrollü mesajlar, İran devletinin lider merkezli değil, kurumsal reflekslere dayalı bir yapı olduğunu bir kez daha ortaya koydu. Devrim sonrası inşa edilen çok katmanlı sistem; dini otorite, askeri yapı ve bürokratik mekanizmalar arasında kurulan denge sayesinde, lider kaybını bir krizden ziyade yeniden konumlanma fırsatına dönüştürdü. Bu süreçte özellikle Devrim Muhafızları’nın hem sahada hem de stratejik karar alma mekanizmalarında ağırlığını artırdığı dikkat çekti.",
+    "image": "https://im.haberturk.com/l/2026/03/28/ver1774683195/3872999/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8b089b4e",
     "title": "Bakan Fidan: Bu anlamsız savaş bir ana önce bitmeli",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Almanya merkezli tekstil devi Kik Avrupa genelindeki operasyonlarını yeniden yapılandırma kararı alarak kapsamlı bir küçülme planını devreye soktu. Şirket tarafından yapılan açıklamada 2026 yılı sonuna kadar Avrupa genelinde toplam 225 mağazanın kapatılacağı, bu şubelerin 135’inin ise markanın ana vatanı olan Almanya’da bulunduğu belirtildi. Artı49&#8217;da yer alan habere göre hızlı büyüme stratejisinden kârlılık odaklı bir modele [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69c8f8f6d9e1e4.10934971.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f781b3c4",
-    "title": "Mersin'de motokuryenin kız çocuğuna çarptığı kaza anı güvenlik kamerasında",
-    "source": "Anadolu Ajansı",
-    "time": "29/03/2026 23:44",
-    "link": "https://www.aa.com.tr/tr/guncel/mersinde-motokuryenin-kiz-cocuguna-carptigi-kaza-ani-guvenlik-kamerasinda/3884230",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin'in Yenişehir ilçesinde motokuryenin kız çocuğuna çarptığı kaza anı güvenlik kamerasınca kaydedildi.",
-    "image": null,
     "keyword": null
   }
 ]
