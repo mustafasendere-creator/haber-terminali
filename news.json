@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c0efd9cf",
+    "title": "Hangi et nasıl pişirilir?",
+    "source": "Habertürk",
+    "time": "30/03/2026 01:45",
+    "link": "https://www.haberturk.com/hangi-et-nasil-pisirilir-iste-sertlesmeden-ve-kurutmadan-dogru-et-pisirme-yontemleri-3872071",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Et pişirmek bir ustalık işidir derler, duymuşsunuzdur. Aslında tam da öyle değil. Evet et pişirmek gerçekten zordur. Eti kurutmadan, sertleştirmeden pişirmek ilk başta kulağa zor gelebilir ancak bilmeniz gereken bazı püf noktaları size yumuşacık ve sulu sulu bir et pişirmeyi öğretebilir.",
+    "image": "https://im.haberturk.com/l/2026/03/24/ver1774638601/3872071/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2ab40848",
     "title": "Adana'da bir binada patlama meydana geldi: 2 kişi yaralandı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli sporcu Deniz Öncü, ABD'de koşulan Moto2 Dünya Şampiyonası'nın üçüncü yarışında kaza yapmasına rağmen 20. sırada tamamladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6fb2c96d-ddf2-4be7-a12f-816205cfe075.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1e5e6df2",
-    "title": "1 kişi öldü, 1 kişi yaralandı: Patlamaya ilişkin Adana Valiliği'nden açıklama",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 00:44",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/1-kisi-oldu-1-kisi-yaralandi-patlamaya-iliskin-adana-valiligi-nden-aciklama-2490665",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adana'nın Seyhan ilçesinde bir binanın damında çok sayıda torpil barutunun boşaltılması sırasında meydana gelen 1 kişinin öldüğü, 1 kişinin de yaralandığı olayın ardından Adana Valiliği açıklama yaptı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e4f10514-f1ce-418b-a01d-31d282c99575.jpg",
     "keyword": null
   }
 ]
