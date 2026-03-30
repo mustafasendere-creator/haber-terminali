@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8745f4a9",
+    "title": "İtalya'da kaos: Meloni zor durumda",
+    "source": "Haber Global",
+    "time": "30/03/2026 14:46",
+    "link": "https://haberglobal.com/dunya/italyada-kaos-meloni-zor-durumda-516093",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'da Meloni'nin referandumdaki yenilginin ardından merkez sol partiler 2027 seçimleri için yeniden konumlanıyor. Meloni ise tartışmalı siyasi isimlerin istifalarıyla darbenin etkisini azaltmaya çalışıyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/italyada-kaos-meloni-zor-durumda-v9ev.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8b847059",
     "title": "Trump'tan İran'a 'Hürmüz Boğazı' tehdidi: Ticarete açılmazsa Hark Adası'nı havaya uçururuz",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da meydana gelen trafik kazasında, frenin patlaması sonucu araç yol kenarındaki duvara çarptı. Kazada 2 kişi yaralandı.",
     "image": "https://resim.haber61.net/news/609990.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f82a4e7f",
-    "title": "Trump, USS Gerald R. Ford uçak gemisi hakkında \"İran 17 yönden saldırdı\" dedi mi?",
-    "source": "Teyit.org",
-    "time": "30/03/2026 13:07",
-    "link": "https://teyit.org/analiz/trump-uss-gerald-r-ford-ucak-gemisi-hakkinda-iran-17-yonden-saldirdi-dedi-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump’ın bir açıklamasında İran’ın 17 yönden saldırdığını söylediği öne sürüldü.",
-    "image": "https://md.teyit.org/2026/03/trump-iran-aciklama-kapak.webp",
     "keyword": null
   }
 ]
