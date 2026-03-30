@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cd30e682",
+    "title": "Suudi Arabistan, Şarkiye bölgesini hedef alan füze saldırılarının engellendiğini açıkladı",
+    "source": "TRT Haber",
+    "time": "30/03/2026 04:24",
+    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-sarkiye-bolgesini-hedef-alan-fuze-saldirilarinin-engellendigini-acikladi-939578.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Savunma Bakanlığı, Şarkiye bölgesini hedef alan balistik ve seyir füzesi saldırılarının hava savunma sistemleri tarafından engellendiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9ae2c5c8",
     "title": "Trump: Çok yakında İran ile anlaşma görebiliriz",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Muğla'nın Milas ilçesinde, etkili olan kuvvetli yağmur sırasında Bafa-Gölköy mahallerini birbirine bağlayan köprü çöktü.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340717.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bea584b6",
-    "title": "Netanyahu, Katolik patriğin Kıyamet Kilisesi'ne girişini engelleme kararından geri adım attı",
-    "source": "Anadolu Ajansı",
-    "time": "30/03/2026 02:24",
-    "link": "https://www.aa.com.tr/tr/guncel/netanyahu-katolik-patrigin-kiyamet-kilisesine-girisini-engelleme-kararindan-geri-adim-atti/3884420",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Başbakanı Binyamin Netanyahu, gelen tepkiler üzerine Kudüs Latin Patriği Pierbattista Pizzaballa ve Kutsal Topraklar Muhafızı Başrahip Francesco Ielpo'nun Kıyamet (Kutsal Kabir) Kilisesi'ne girişini engelleme kararından geri adım attı.",
-    "image": null,
     "keyword": null
   }
 ]
