@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32857371",
+    "title": "Sakarya'da müstakil ev yangını",
+    "source": "Haber Global",
+    "time": "30/03/2026 04:24",
+    "link": "https://haberglobal.com/gundem/sakaryada-mustakil-ev-yangini-516001",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sakarya Adapazarı'nda gece saatlerinde müstakil evde çıkan yangın, itfaiye ekiplerinin çalışmaları neticesinde kontrol altına alınarak söndürüldü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/sakaryada-mustakil-ev-yangini-wvjp.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cd30e682",
     "title": "Suudi Arabistan, Şarkiye bölgesini hedef alan füze saldırılarının engellendiğini açıkladı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hatay'da annesini darbeden Abdulsamet Akay (28), kendisini engel olmak isteyen eşi Emel Akay'ı (26) bıçaklayarak öldürdü.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340716.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_255a81b6",
-    "title": "Muğla'da yoğun yağmur: Bafa'daki göl çöktü",
-    "source": "Evrensel",
-    "time": "30/03/2026 02:24",
-    "link": "https://www.evrensel.net/haber/5977247/muglada-yogun-yagmur-bafadaki-gol-coktu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla'nın Milas ilçesinde, etkili olan kuvvetli yağmur sırasında Bafa-Gölköy mahallerini birbirine bağlayan köprü çöktü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340717.jpg",
     "keyword": null
   }
 ]
