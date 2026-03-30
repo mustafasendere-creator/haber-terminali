@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c513acdf",
+    "title": "Savaşın gölgesinde dev kâr: TotalEnergies Orta Doğu petrolünden 1 milyar dolar kazandı",
+    "source": "Euronews",
+    "time": "30/03/2026 23:04",
+    "link": "http://tr.euronews.com/business/2026/03/30/savas-fiyatlari-sarsarken-totalenergies-orta-dogu-petrolunden-1-milyar-kazandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransız enerji devi, savaşın yol açtığı kesintilerin tacirlere tarihi bir fırsat sunduğu mart ayında, Orta Doğu ham petrol piyasasına hakim oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_80434a19",
     "title": "Zelenskiy: 'Her ev kadını Rheinmetall'in CEO'su olabilir'",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Beyaz Saray, Trump'ın İran'la olası savaşın maliyetini Arap ülkelerine yüklemeye sıcak baktığını açıkladı. Sözcü Leavitt, Tahran ile gizli görüşmelerin sürdüğünü ve kapalı kapılar ardında uzlaşıldığını iddia etti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340911.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_80e3f2c0",
-    "title": "Uşak Belediye Başkanı Özkan Yalım tutuklandı",
-    "source": "Euronews",
-    "time": "30/03/2026 21:44",
-    "link": "http://tr.euronews.com/2026/03/30/usak-belediye-baskani-ozkan-yalim-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uşak Belediye Başkanı Özkan Yalım ve beraberindeki 8 kişi çıkarıldıkları mahkemece tutuklandı.",
-    "image": null,
     "keyword": null
   }
 ]
