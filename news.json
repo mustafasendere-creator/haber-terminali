@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6c99b2ce",
+    "title": "Adana'da başıboş köpeklerin saldırdığı gebe kedi öldü",
+    "source": "TRT Haber",
+    "time": "30/03/2026 14:45",
+    "link": "https://www.trthaber.com/haber/turkiye/adanada-basibos-kopeklerin-saldirdigi-gebe-kedi-oldu-939661.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da Seyhan Belediyesi sınırlarındaki ikametin bahçesinde dolaşan evcil gebe kedi, sahipsiz köpeklerin saldırısı sonucu öldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_dc50966a",
     "title": "Almanya'da yeni akaryakıt uygulaması 1 Nisan'da başlıyor",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Şanlıurfa Milletvekili Mahmut Tanal, Kızıldere Katliamı’nın 54. yıl dönümü için sosyal medya hesabından paylaşımda bulundu. Tanal, hayatını kaybeden Mahir Çayan ve yoldaşlarını andı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/chp-sanliurfa-milletvekili-mahmut-tanaldan-kizildere-paylasimi-fmsb.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_f03f8b8e",
-    "title": "Önce kuraklık, sonra savaş... Buğday'da 'arz krizi' çanları",
-    "source": "OdaTV",
-    "time": "30/03/2026 13:07",
-    "link": "https://www.odatv.com/ekonomi/once-kuraklik-sonra-iran-savasi-bugdayda-arz-krizi-canlari-120141317",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran savaşı ve ABD’deki kuraklık, küresel tarım piyasalarında riskleri büyüttü. Hürmüz Boğazı’ndaki aksaklıklar gübre ve yakıt sevkiyatını sekteye uğratırken, buğday fiyatları yukarı yönlü hareket etti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/08/ata-tohumu-ahmet-bugdayi-yeniden-tarlada-eeme.jpg",
     "keyword": null
   }
 ]
