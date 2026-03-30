@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9b8976b4",
+    "title": "Artemis II misyonu: İnsanlık 53 yıl sonra Ay'a dönmeye hazırlanıyor",
+    "source": "Euronews",
+    "time": "31/03/2026 01:24",
+    "link": "http://tr.euronews.com/video/2026/03/30/artemis-ii-53-yil-sonra-ilk-ay-seferi-icin-firlatma-surecine-girdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Komutan Reid Wiseman ve mürettebatı Houston'dan gelerek, Artemis II fırlatmasına yönelik şimdiye kadarki en kritik aşamaya ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_80cbfc8e",
     "title": "Milyonluk soygun: İtalya'daki müzeden Cezanne, Matisse ve Renoir tabloları çalındı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray'ın Brezilyalı oyuncusu Gabriel Sara, katıldığı bir YouTube kanalında kariyerine dair dikkat çeken ifadeler kullandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/53f0119e-1120-47f1-9c25-3df6fcd3856f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c7e7bf8d",
-    "title": "Türkiye ve 7 ülkenin Dışişleri Bakanları'ndan İsrail'e ortak 'Kudüs' tepkisi",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 00:25",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/turkiye-ve-7-ulkenin-disisleri-bakanlari-ndan-israil-e-ortak-kudus-tepkisi-2490973",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, Mısır, Endonezya, Ürdün, Pakistan, Katar, Suudi Arabistan ve BAE Dışişleri Bakanları, İsrail'in Kudüs'te Müslümanlar ve Hristiyanlara yönelik ibadet kısıtlamalarını kınadı ve uygulamalara derhal son verilmesini talep etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1891360d-d4a8-4b8b-bf2b-ace37ea17b26.jpg",
     "keyword": null
   }
 ]
