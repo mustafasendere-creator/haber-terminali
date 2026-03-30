@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d6f2cb19",
+    "title": "Uzmanlardan petrol fiyatlarında 200 dolar senaryosu: 'Dünya için bir çöküş haline gelecek'",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 17:06",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/uzmanlardan-petrol-fiyatlarinda-200-dolar-senaryosu-dunya-icin-bir-cokus-haline-gelecek-2490885",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuzey Denizi Brent petrolünün 116 doları, ABD WTI ham petrolünün 100 doları aşması küresel piyasalarda endişeleri artırdı. Uzmanlar, Batı Asya gerilimi ve Hürmüz Boğazı’ndaki krizin sürmesi halinde petrol fiyatlarının sert yükseliş gösterebileceğini belirtiyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0c1b3c76-30c8-41af-bb70-f0d443df28ff.png",
+    "keyword": null
+  },
+  {
     "id": "TKP_bd949138",
     "title": "Trabzon’un en yüksek tepesindeki Türk bayrağı yenilendi",
     "source": "Karadeniz Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Büyükşehir Belediyesi Şehir Tiyatroları'ndaki iş akdi, 24 Mart 2025 tarihinde feshedilen Özlem Karabay, bir yıl sonra işe dönüş davasını kazandı.'",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340870.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cde952f8",
-    "title": "Füze enkazı İsrail'in güneyinde pestisit fabrikası yangınına yol açtı",
-    "source": "Euronews",
-    "time": "30/03/2026 16:25",
-    "link": "http://tr.euronews.com/video/2026/03/30/fuze-enkazi-israilin-guneyinde-pestisit-fabrikasi-yanginina-yol-acti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ve İran'ın karşılıklı saldırıları sürerken, vurulan İran füzesinin parçaları bir pestisit tankına düşünce İsrail'deki bir fabrikadan yoğun siyah dumanlar yükseldi.",
-    "image": null,
     "keyword": null
   }
 ]
