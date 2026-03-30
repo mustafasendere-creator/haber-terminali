@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4c597ddf",
+    "title": "Aksaray'da film gibi kovalamaca",
+    "source": "OdaTV",
+    "time": "31/03/2026 01:25",
+    "link": "https://www.odatv.com/guncel/aksarayda-film-gibi-kovalamaca-120141383",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aksaray’da film sahnelerini aratmayan kovalamaca kamerada. Gazeteciye &quot;Avukatım&quot;, polise ise &quot;Memleketi kurtardınız bravo&quot; diyerek alkışlayan sürücü tutuklandı...",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/aksarayda-film-gibi-kovalamaca-cfzt.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f25dd0c8",
     "title": "Yorgancılar: Türkiye’nin olmadığı bir plan AB için daha maliyetli hale gelir",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail ordusunun Lübnan'ın güneyinde bir pazar yeri ile evi bombalaması sonucu 8 kişi hayatını kaybetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339841.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_14d8c1d2",
-    "title": "Kimin malı kime satılıyor?",
-    "source": "Evrensel",
-    "time": "31/03/2026 00:44",
-    "link": "https://www.evrensel.net/haber/5977438/kimin-mali-kime-satiliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İnsanlığın ortak değeri ve halkın malı olan doğal kaynakların piyasa malı gibi el değiştirmesi kapitalizmin, pazar ekonomisinin bir sonucudur.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/333758.jpg",
     "keyword": null
   }
 ]
