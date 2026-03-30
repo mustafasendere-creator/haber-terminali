@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_42e5282a",
+    "title": "Cumhurbaşkanı Erdoğan'dan Özgür Özel hakkında tazminat davası ve suç duyurusu",
+    "source": "TRT Haber",
+    "time": "31/03/2026 02:05",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-ozgur-ozel-hakkinda-tazminat-davasi-ve-suc-duyurusu-939680.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın avukatı Hüseyin Aydın, CHP Genel Başkanı Özgür Özel hakkında, Kuşadası mitingindeki ifadeleri nedeniyle 500 bin liralık manevi tazminat davası açıldığını ve \"Cumhurbaşkanına hakaret\" suçundan suç duyurusunda bulunulduğunu bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4d81ac57",
     "title": "İstanbul'da piyasaya sürülmek üzere hazırlanan 306 kilogram at eti ele geçirildi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'un Çatalca ilçesinde düzenlenen operasyonda, piyasaya sürülmek üzere hazırlandığı değerlendirilen 306 kilogram at eti ele geçirildi, 3 şüpheli gözaltına alındı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c4e11459-1b7c-4e50-aa05-86c425e921ce.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c812cabb",
-    "title": "Termessos Antik Kenti nerededir? Kim Milyoner Olmak İster'de 300 bin TL'lik sorunun cevabı ne?",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 01:05",
-    "link": "https://www.cumhuriyet.com.tr/yasam/termessos-antik-kenti-nerededir-kim-milyoner-olmak-ister-de-300-bin-tl-lik-sorunun-cevabi-ne-2490984",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kim Milyoner Olmak İster bilgi yarışmasında 300 bin TL değerindeki soru açıldı. Peki, Termessos Antik Kenti nerededir? Kim Milyoner Olmak İster'de 300 bin TL'lik sorunun cevabı ne?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/6be92123-6754-46ec-9bc2-b62f9a24cf9c.jpg",
     "keyword": null
   }
 ]
