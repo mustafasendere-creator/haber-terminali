@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9bc62f4a",
+    "title": "\"Montella'dan telefon bekliyorum!\"",
+    "source": "Habertürk",
+    "time": "31/03/2026 02:45",
+    "link": "https://www.haberturk.com/omer-ali-sahiner-den-ht-spor-a-ozel-aciklamalar-montella-dan-telefon-bekliyorum-3873279-spor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sezgin Gelmez'in sunduğu Gelmez Dediğin Yerden programının dördüncü bölümüne Başakşehir FK kaptanı Ömer Ali Şahiner konuk oldu. İşte Ömer Ali Şahiner'in HT Spor'a özel açıklamaları...",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774810240/3873279/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_d83663d7",
     "title": "Beşiktaş'tan gündem yeniden Ferreirinha!",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Milli Savunma Bakanlığı, İran'dan ateşlenip Türk hava sahasına giren balistik mühimmatın, Doğu Akdeniz'de konuşlu NATO hava ve füze savunma unsurları tarafından etkisiz hale getirildiğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fda0741a",
-    "title": "CHP'de Özkan Yalımın üyeliği askıya alındı",
-    "source": "TRT Haber",
-    "time": "31/03/2026 01:44",
-    "link": "https://www.trthaber.com/haber/gundem/chpde-ozkan-yalimin-uyeligi-askiya-alindi-939682.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP'de Merkez Yönetim Kurulu kararıyla Uşak Belediye Başkanı Özkan Yalımın üyeliği askıya alındı.",
     "image": null,
     "keyword": null
   }
