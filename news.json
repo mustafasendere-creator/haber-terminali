@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e17ded6",
+    "title": "İzmir barajlarının güncel verileri",
+    "source": "Habertürk",
+    "time": "30/03/2026 20:06",
+    "link": "https://www.haberturk.com/izsu-29-mart-2026-baraj-doluluk-orani-izmir-barajlarinin-guncel-verileri-ile-su-seviyesi-yuzde-kac-oldu-izmir-barajlarinda-son-durum-3873168",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "29 Mart Pazar günü itibarıyla İzmir’deki barajların doluluk oranlarına ilişkin güncel veriler açıklandı. İzmir Su ve Kanalizasyon İdaresi (İZSU) tarafından paylaşılan bilgilere göre, kentin su ihtiyacını karşılayan Balçova, Ürkmez, Tahtalı, Gördes ve Alaçatı Kutlu Aktaş barajlarındaki seviyeler netlik kazandı. Peki, 29 Mart 2026 İzmir baraj doluluk oranı yüzde kaç oldu? İşte ayrıntılar…",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774769882/3873168/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_60b517fc",
     "title": "Uşak Belediye Başkanı Özkan Yalım ve 12 şüpheli tutuklama talebiyle hakimliğe sevk edildi",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Veri merkezi Mistral’a 44 megavat güç sağlayacak; bu da tipik bir veri merkezinin kullandığı enerjinin yaklaşık bir buçuk katına denk geliyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5be45078",
-    "title": "‘Baybaşin’ çetesine operasyon: Mal ve alacaklarına el kondu",
-    "source": "10Haber",
-    "time": "30/03/2026 18:44",
-    "link": "https://10haber.net/gundem/baybasin-cetesine-operasyon-mal-ve-alacaklarina-el-kondu-691137/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "EGM Kaçakçılık ve Organize Suçlarla Mücadele (KOM) Başkanlığı ve Europol işbirliğiyle İtalya, Polonya, Fransa, Birleşik Krallık ve İsviçre kolluk kuvvetleri, &#8220;Baybaşin&#8221; adıyla bilinen çeteye yönelik sigara kaçakçılığı operasyonu yapıldı. Ankara Cumhuriyet Başsavcılığı koordinasyonunda KOM Başkanlığı ve Mali Suçları Araştırma Kurulu (MASAK) örgüt elebaşı H.F.B. ve yöneticisi Ç.D&#8217;nin sigara kaçakçılığından elde ettikleri geliri Diyarbakır&#8217;da bulunan iki [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69ca73c5bf9521.39355113.jpg",
     "keyword": null
   }
 ]
