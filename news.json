@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c8b64cf2",
+    "title": "Kazada yaralanan polis şehit oldu",
+    "source": "Haber Global",
+    "time": "31/03/2026 02:25",
+    "link": "https://haberglobal.com/gundem/kazada-yaralanan-polis-sehit-oldu-516119",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Valiliği, Kuzey Marmara Otoyolu Başakşehir-Habipler bağlantı yolunda yaşanan kazada Mustafa Aydın isimli polis memurunun şehit olduğunu açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/kazada-yaralanan-polis-sehit-oldu-titr.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cf59763f",
     "title": "MSB açıkladı: İran'dan ateşlenen füze imha edildi",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son olarak Elazığspor'da görev yapan ve TFF 2. ile 3. Lig'de şampiyonluklarıyla tanınan teknik direktör Mustafa Sarıgül, Muğlaspor ile anlaşarak göreve başladı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/mustafa-sarigul-muglasporda-goreve-basladi-l6jq.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3e8c005d",
-    "title": "Katar: İran'dan İHA'larla saldırı düzenlendi",
-    "source": "TRT Haber",
-    "time": "31/03/2026 01:24",
-    "link": "https://www.trthaber.com/haber/dunya/katar-irandan-ihalarla-saldiri-duzenlendi-939684.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Katar Savunma Bakanlığı, İran'dan ülkeye insansız hava araçlarıyla İHA saldırılar düzenlendiğini bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
