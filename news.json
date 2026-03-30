@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ab0d77d6",
+    "title": "İran’dan Trump’a Hark Adası yanıtı",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 22:44",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-dan-trump-a-hark-adasi-yaniti/3885621",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Cumhurbaşkanı Pezeşkiyan’ın Birinci Yardımcısı Arif, ABD'nin Hark Adası'na çıkarma yapma hazırlıkları hakkında, \"Trump yalnızca (Hark adasına) asker gönderme kararı alabilir ancak askerlerin geri dönüşleri ile ilgili karar ona ait olmaz.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6ea8042c",
     "title": "Beyaz Saray: Kamuoyu önündeki farklı söylemlere rağmen İran anlaşmaya daha istekli",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "A Milli Futbol Takımı Kaptanı Hakan Çalhanoğlu, Kosova ile oynayacakları maç öncesi düzenlenen basın toplantısında açıklamalarda bulundu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0520eda5-3066-498c-9fc1-41cb444cf322.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f4c055f5",
-    "title": "Dikkat çeken iddia: 'Cumhuriyetçiler, ABD/İsrail-İran Savaşı'nı fonlamak için...'",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 20:45",
-    "link": "https://www.cumhuriyet.com.tr/dunya/dikkat-ceken-iddia-cumhuriyetciler-abd-israil-iran-savasi-ni-fonlamak-icin-2490933",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Kongresindeki Cumhuriyetçi Partili üyelerin, ABD ve İsrail'in İran'a saldırılarıyla başlayan savaşı ve ülkede göçmenlere yönelik operasyonları fonlayabilmek adına sağlık harcamalarını azaltmayı planladığı öne sürüldü.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c078e33d-0037-4c12-be83-fbb6da8f9852.jpg",
     "keyword": null
   }
 ]
