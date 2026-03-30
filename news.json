@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_35818295",
+    "title": "Fenerbahçe'den 600 milyon açıklaması",
+    "source": "OdaTV",
+    "time": "30/03/2026 23:06",
+    "link": "https://www.odatv.com/guncel/fenerbahceden-600-milyon-aciklamasi-120141371",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe, Passolig ile yapılan anlaşmaya dair çıkan haberler üzerine resmi bir açıklama yayımladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/fenerbahceden-600-milyon-aciklamasi-cqr0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ebb63f33",
     "title": "Erdoğan'dan Barzani'ye geçmiş olsun telefonu",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Türkiye genelinde mobil internet hızını 10 kat artıracak 5G teknolojisi için geri sayım başladı; 1 Nisan itibarıyla 81 ilde kademeli hizmet sunulacak.",
     "image": "https://resim.haber61.net/news/610058.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9294c703",
-    "title": "Mustafa Sarıgül imzayı attı",
-    "source": "OdaTV",
-    "time": "30/03/2026 21:46",
-    "link": "https://www.odatv.com/spor/mustafa-sarigul-imzayi-atti-120141366",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son olarak Elazığspor&#039;da görev yapan ve TFF 2. ile 3. Lig&#039;de şampiyonluklarıyla tanınan teknik direktör Mustafa Sarıgül, Muğlaspor ile anlaşarak göreve başladı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/mustafa-sarigul-imzayi-atti-jnmj.jpg",
     "keyword": null
   }
 ]
