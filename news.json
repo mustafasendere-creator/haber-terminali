@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f26cf291",
+    "title": "İsrail ordusu: İran'a hava saldırılarında Hazar Denizi kıyısındaki hava savunma sistemlerini hedef aldık",
+    "source": "TRT Haber",
+    "time": "30/03/2026 18:45",
+    "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-irana-hava-saldirilarinda-hazar-denizi-kiyisindaki-hava-savunma-sistemlerini-hedef-aldik-939686.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, İran'a dün gerçekleştirdiği hava saldırılarında Hazar Denizi yakınlarındaki hava savunma sistemlerini hedef aldığını iddia etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_40912cc9",
     "title": "Ürdün: İsrail'in ibadet yerlerini kapatması, din özgürlüğüne yönelik suçtur",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Belçika'da Orta Doğu'daki gelişmeler nedeniyle hızla yükselen dizel fiyatları bu gece yarısından itibaren litre başına 2,333 euroyla rekor seviyeye ulaşacak.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_c09ad148",
-    "title": "Sibel Suiçmez’den Trabzon Tarım İl Müdürlüğü için sert çıkış ; “Derhal gereği yapılmalı”",
-    "source": "Taka Gazetesi",
-    "time": "30/03/2026 17:05",
-    "link": "https://www.takagazete.com.tr/video/sibel-suicmezden-trabzon-tarim-il-mudurlugu-icin-sert-cikis-derhal-geregi-yapilmali",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "CHP Trabzon Milletvekili Sibel Suiçmez, Trabzon İl Tarım ve Orman Müdürlüğü’ndeki iddialarla ilgili yetkililere “derhal gereği yapılmalı” çağrısında bulundu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/sibel-suicmez-1.jpeg",
-    "keyword": "trabzon"
   }
 ]
