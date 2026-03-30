@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_74a33eae",
+    "title": "Adana'da sağanak esareti!",
+    "source": "Habertürk",
+    "time": "31/03/2026 00:45",
+    "link": "https://www.haberturk.com/adana-da-saganak-esareti-3873216",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da öğle saatlerinde etkili olan sağanak nedeniyle yollar göle döndü, bazı araçlar suda kalıp arızalandı",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774783605/3873216/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_a7db58e1",
     "title": "Anadolu mutfağının saklı lezzeti: Perde pilavı tarifi",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Beyaz Saray, İran ile yürütülen barış görüşmelerinin devam ettiğini ve olumlu ilerlediğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f1261fd2",
-    "title": "Ukrayna ile Bulgaristan arasında 10 yıllık savunma anlaşması",
-    "source": "Euronews",
-    "time": "31/03/2026 00:04",
-    "link": "http://tr.euronews.com/my-europe/2026/03/30/ukrayna-ile-bulgaristan-arasinda-10-yillik-savunma-anlasmasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Zelenskiy, Bulgaristan Başbakanı Andrey Gyurov'un Kiev ziyareti sırasında imzalanan anlaşmadan \"çok memnun\" olduğunu belirtti.",
     "image": null,
     "keyword": null
   }
