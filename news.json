@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7fd39a0c",
+    "title": "İstanbul'da hafta boyu yağmur sürecek",
+    "source": "Ekonomim",
+    "time": "30/03/2026 15:27",
+    "link": "https://www.ekonomim.com/gundem/istanbulda-hafta-boyu-yagmur-surecek-haberi-884877",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul&#039;da yağış, hafta boyu devam edecek. Meteoroloji Genel Müdürlüğü 5 günlük tahminlerine göre önümüzdeki günlerin de yağışlı olması bekleniyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/istanbulda-hafta-boyu-yagmur-surecek-ppbb_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e0938268",
     "title": "Genç sürücü feci kazada öldü!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Beşiktaş’ta işten çıkarılan bir kişi, eski çalıştığı banka şubesini basarak müdürü bıçakla rehin aldı; güvenliğin silahını alıp ateş açan saldırganın, daha önce 2 gün aynı şubede çalıştığı ve burada çalışan Cansu D.’ye aşık olduğu, kadını takıntı haline getirdiği için işten çıkarıldığı belirtildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/besiktasta-bankaya-silahli-soygun-girisimi-kacan-supheli-araniyor-jrjx_cover.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_ac59f6dc",
-    "title": "İsrail'de Savunma Bakanlığı'na 45 milyar dolar bütçe",
-    "source": "Habertürk",
-    "time": "30/03/2026 14:46",
-    "link": "https://www.haberturk.com/israil-de-savunma-bakanligi-na-45-milyar-dolar-butce-3873300",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Meclisi (Knesset), Savunma Bakanlığı harcamaları için 142 milyar İsrail şekeli (45,3 milyar Amerikan doları) pay ayrılan 2026 bütçesini onayladı",
-    "image": "https://im.haberturk.com/l/2026/03/30/ver1774828879/3873300/jpg/1280x1280",
     "keyword": null
   }
 ]
