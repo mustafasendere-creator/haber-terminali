@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a14f5b1f",
+    "title": "İstanbul'da uçuşlara yağmur engeli",
+    "source": "Habertürk",
+    "time": "31/03/2026 00:25",
+    "link": "https://www.haberturk.com/sabiha-gokcen-havalimani-nda-ucuslara-yagmur-engeli-42-ucak-divert-etti-3873221",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da etkili olan olumsuz hava koşulları hava trafiğini aksattı. Sabiha Gökçen Havalimanı’na iniş yapamayan ve yakıt kritiğine giren 42 uçak başka havalimanlarına yönlendirilirken, 32 uçak İstanbul Havalimanı’na divert etti. Meteorolojik şartlar nedeniyle 29-30 Mart tarihlerinde uçuş iptalleri yaşanacağı bildirildi. AJet ise 51 seferini iptal ettiğini açıkladı. Pegasus Hava Yolları da yaptığı açıklamada, Sabiha Gökçen Havalimanı kalkışlı ve varışlı 76 seferin karşılıklı iptal edildiğini duyurdu",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774784969/3873221/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_45c21545",
     "title": "Kısa haberler",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Meclisi Milli Güvenlik ve Dış Politika Komisyonu, Hürmüz Boğazı’ndan geçişlere kısıtlama, riyal bazlı ücret uygulaması ve bazı ülkelere yönelik yasaklar öngören yasa tasarısını onayladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/616f94be-6341-4bc5-91ea-8a326e0f3d3f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a8474f26",
-    "title": "Özgür Özel'den Barzani'ye 'geçmiş olsun' mektubu",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 23:05",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-barzani-ye-gecmis-olsun-mektubu-2490957",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Genel Başkanı Özgür Özel, konutuna saldırı düzenlenen IKBY Başkanı Neçirvan Barzani’ye gönderdiği mektupta saldırıyı kınayarak bölgesel istikrar vurgusu yaptı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1300e308-795a-47cd-afd8-aed2ac337d33.jpg",
     "keyword": null
   }
 ]
