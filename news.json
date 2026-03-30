@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3a178bbb",
+    "title": "DSÖ, \"Orta Doğu'da enerji santralleri ve sanayi bölgelerine saldırıların riskleri\" konusunda uyardı",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 20:44",
+    "link": "https://www.aa.com.tr/tr/guncel/dso-orta-doguda-enerji-santralleri-ve-sanayi-bolgelerine-saldirilarin-riskleri-konusunda-uyardi/3885498",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya Sağlık Örgütü, ABD ve İsrail'in İran'ı hedef almasının ardından Orta Doğu'da birçok ülkeye yayılan, enerji santralleri veya sanayi bölgelerine yapılan son saldırıların neden olduğu ciddi sağlık risklerine karşı uyarıda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9896ab00",
     "title": "İsrail saldırıları sırasında Gazze’den Mısır'a tahliye edilen prematüre bebekler 2,5 yılın ardından ailelerine kavuştu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Basketbol Süper Ligi ekibi Fenerbahçe Beko, 32 yaşındaki ABD doğumlu Türk oyuncu Scottie Wilbekin ile yolların ayrıldığını duyurdu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/853f35db-5e7d-4bfb-80fe-a87646dd7dcd.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_da928c55",
-    "title": "Kanserli köpeğe yapay zekayla üretilen aşıdan, yaşamın yapı taşlarına mart ayındaki bilimsel gelişmeler",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 18:45",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/kanserli-kopege-yapay-zekayla-uretilen-asidan-yasamin-yapi-taslarina-mart-ayindaki-bilimsel-gelismeler-2490916",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mart ayı, Avustralya'da kanser hastası bir köpeğe yapay zeka yardımıyla üretilen aşıya ilişkin bulguların paylaşılması ve Ryugu asteroidinde yaşamın temel yapı taşlarının keşfedilmesi başta olmak üzere birçok bilimsel gelişmeye sahne oldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f0e48605-51d9-472d-a7c3-895211ca4aa4.jpg",
     "keyword": null
   }
 ]
