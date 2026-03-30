@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_54aba15b",
+    "title": "BM Genel Sekreteri Guterres, BM barış gücü askerinin Lübnan'daki saldırılarda öldürülmesini kınadı",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 10:24",
+    "link": "https://www.aa.com.tr/tr/guncel/bm-genel-sekreteri-guterres-bm-baris-gucu-askerinin-lubnandaki-saldirilarda-oldurulmesini-kinadi/3884614",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, Endonezyalı barış gücü askerinin Lübnan'ın güneyindeki saldırılarda öldürülmesini şiddetle kınadı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_beed60a7",
     "title": "Ankara merkezli 22 ilde sahte borsacılara operasyon: 65 gözaltı",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Galatasaray, Trabzonspor maçı için 2 milyon euroluk prim belirledi.  Galatasaray Başkanı Dursun Özbek'in milli takımdaki oyuncuların dönmelerinin ardından primi açıklayacağı belirtildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/888334.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_d010056e",
-    "title": "Hava muhalefeti Trabzon’u etkiledi: Uçuş iptalleri yaşanıyor",
-    "source": "Haber61",
-    "time": "30/03/2026 09:24",
-    "link": "https://www.haber61.net/trabzon/hava-muhalefeti-trabzonu-etkiledi-ucus-iptalleri-yasaniyor-h628016.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da etkili olan sağanak yağış ve sis, etkili oldu. Dünden bu yana kentte etkisini sürdüren olumsuz hava koşulları, hava ulaşımını da olumsuz etkiledi. Görüş mesafesinin düşmesi nedeniyle çok sayıda uçak seferi iptal edildi.",
-    "image": "https://resim.haber61.net/news/609900.jpg",
     "keyword": "trabzon"
   }
 ]
