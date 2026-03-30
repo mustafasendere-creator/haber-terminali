@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_145e3cf4",
+    "title": "Devrilen motosikletin sürücüsü yaralandı",
+    "source": "Gazete Duvar",
+    "time": "30/03/2026 15:45",
+    "link": "https://www.gazeteduvar.com.tr/devrilen-motosikletin-surucusu-yaralandi-haber-1765774",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman’da motosikletin devrilmesi sonucu meydana gelen kazada 1 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/30/f5haber-p68p_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_963295b3",
     "title": "Elektrikli üç tekerlekli motosiklet alev alev yandı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’un orta saha oyuncusu Tim Folcarelli’nin sezon verileri dikkat çekti. Fransız oyuncu, hem süre istatistiği hem de yaşadığı sakatlıklar nedeniyle öne çıkarken Oulai’nin yokluğunda orta alanda kritik görev üstlenecek.",
     "image": "https://resim.haber61.net/news/610016.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_00247983",
-    "title": "Ünye’de Ayanikola Adası restore edilip turizme açılacak",
-    "source": "Haber61",
-    "time": "30/03/2026 15:24",
-    "link": "https://www.haber61.net/bolgesel/unyede-ayanikola-adasi-restore-edilip-turizme-acilacak-h628085.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu’nun Ünye ilçesinde yer alan ve tarihi kilise kalıntıları barındıran Ayanikola Adası için restorasyon projesi onaylandı. Ada, çalışmaların ardından turizme kazandırılacak.",
-    "image": "https://resim.haber61.net/news/610018.jpg",
     "keyword": null
   }
 ]
