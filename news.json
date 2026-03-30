@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02b94401",
+    "title": "Meteoroloji: Ankara, İstanbul ve İzmir’de üç gün yağış var",
+    "source": "10Haber",
+    "time": "30/03/2026 21:44",
+    "link": "https://10haber.net/cevre/meteoroloji-ankara-istanbul-ve-izmirde-uc-gun-yagis-var-691081/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü (MGM) Ankara, İstanbul ve İzmir dahil Türkiye genelinde gelecek üç gün boyunca yağış görüleceğini duyurdu. MGM’den hava tahmin uzmanı Fevzi Burak Tekin 31 Mart-2 Nisan’da ülke genelinde parçalı ve çok bulutlu havanın hakim olacağını, birçok bölgede aralıklarla sağanak görüleceğini söyledi. Yarın (31 Mart) Marmara, Kıyı Ege, Batı Akdeniz kıyıları ve Batı Karadeniz [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69ca68f46df350.53057392.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4a253bd8",
     "title": "İsrail Meclisi, Filistinli esirleri hedef alacak idam cezası yasasını onayladı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kuveyt Savunma Bakanlığı, ülkeye son 24 saat içinde 13 İHA ile düzenlenen saldırıda elektrik santrali hizmet binası ve su arıtma tesisinin hedef alınması sonucu bir çalışanın hayatını kaybettiğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1d744f16",
-    "title": "İspanya'da yer hizmetleri çalışanlarının grevi 12 havalimanında binlerce yolcuyu etkiledi",
-    "source": "TRT Haber",
-    "time": "30/03/2026 20:05",
-    "link": "https://www.trthaber.com/haber/dunya/ispanyada-yer-hizmetleri-calisanlarinin-grevi-12-havalimaninda-binlerce-yolcuyu-etkiledi-939692.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya'da havalimanlarında yer hizmetleri veren bir şirketin çalışanlarının başlattığı ve 12 havalimanında geçerli olan grev, binlerce yolcuyu etkiledi.",
     "image": null,
     "keyword": null
   }
