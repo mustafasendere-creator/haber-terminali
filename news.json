@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ae47dd38",
+    "title": "Şanlıurfa’da zincirleme trafik kazası: 1 ölü, 5 yaralı",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 03:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/sanliurfa-da-zincirleme-trafik-kazasi-1-olu-5-yarali-2490600",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa’nın Birecik ilçesinde bir tanker ile iki otomobilin karıştığı zincirleme trafik kazasında yabancı uyruklu 5 yaşındaki bir çocuk hayatını kaybederken, 5 kişi de yaralandı. Yaralılara ilk müdahaleyi ise aynı kazada yaralanan Şırnak İl Sağlık Müdürlüğünde görevli sağlık çalışanı yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b085da0e-f81f-4054-b7f5-ed4dceddd108.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b2911c1b",
     "title": "Pedro Sanchez'den Netanyahu'ya sert tepki",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sabah kahveyle başlayan, gün boyu çayla devam eden bir rutininiz varsa, aslında susuz kalıyor olabilirsiniz. Peki çay ve kahve gerçekten su ihtiyacını karşılıyor mu?",
     "image": "https://im.haberturk.com/l/2026/03/26/ver1774637026/3872548/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_08aaee0d",
-    "title": "Bebeğin aç olduğu nasıl fark edilir",
-    "source": "Habertürk",
-    "time": "30/03/2026 01:25",
-    "link": "https://www.haberturk.com/aglamadan-once-bebeginizin-ac-oldugunu-nasil-fark-edersiniz-3872892",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni anneler için “Bebeğim acıktı mı?” sorusu kafa karıştırıcı olabilir. İşte bebeğinizin verdiği erken ve net açlık sinyalleri…",
-    "image": "https://im.haberturk.com/l/2026/03/27/ver1774638910/3872892/jpg/1280x1280",
     "keyword": null
   }
 ]
