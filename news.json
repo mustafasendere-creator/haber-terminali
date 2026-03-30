@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_022c0b9d",
+    "title": "DSÖ duyurdu! İsrail'in Lübnan'a saldırılarında bir sağlık görevlisi daha hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 03:04",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/dso-duyurdu-israil-in-lubnan-a-saldirilarinda-bir-saglik-gorevlisi-daha-hayatini-kaybetti-2490609",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Tedros Adhanom Ghebreyesus, İsrail'in Lübnan'ın güneyindeki saldırıları sonucu bir sağlık görevlisinin daha yaşamını yitirdiğini bildirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/59d22c60-756f-4d43-83f2-18b0ef463e58.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0b67baa8",
     "title": "Kaygı nasıl azaltılır?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran devlet televizyonu, Tahran'da Mihrabad Havalimanı ve Tebriz'de bir petrokimya tesisine saldırı düzenlendiğini bildirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_97a669ba",
-    "title": "Uludere’de çığ düştü, yol kapandı",
-    "source": "Evrensel",
-    "time": "30/03/2026 01:24",
-    "link": "https://www.evrensel.net/haber/5977250/uluderede-cig-dustu-yol-kapandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şırnak'ın Uludere ilçesinde yola çığ düştü. Belediye ekipleri, kapanan yolu ulaşıma açmak için çalışma başlattı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340720.jpg",
     "keyword": null
   }
 ]
