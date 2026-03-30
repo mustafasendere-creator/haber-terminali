@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8601ee37",
+    "title": "Kayseri'de bıçaklı kavga! 1 yaralı",
+    "source": "Haber Global",
+    "time": "30/03/2026 23:05",
+    "link": "https://haberglobal.com/gundem/kayseride-bicakli-kavga-1-yarali-516147",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri Kocasinan'da akrabası Ü.T.'yi bıçakla yaralayan M.S., gözaltına alındı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/kayseride-bicakli-kavga-1-yarali-fx3p.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_19aa9bef",
     "title": "UNIFIL: Lübnan'ın güneyinde meydana gelen patlamada 2 barış gücü askeri öldü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Irak Kürt Bölgesel Yönetimi (IKBY) Başbakanı Neçirvan Barzani ile telefon görüşmesi gerçekleştirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/cumhurbaskani-erdogan-barzani-ile-gorustu-bolgede-catismalar-durmali-oh4v.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_aa290454",
-    "title": "Montella: Türk gibi yemek yiyorum, Türk gibi hareket ediyorum",
-    "source": "Haber Global",
-    "time": "30/03/2026 21:45",
-    "link": "https://haberglobal.com/spor/montella-turk-gibi-yemek-yiyorum-turk-gibi-hareket-ediyorum-516139",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 FIFA Dünya Kupası Avrupa Elemeleri play-off finalinde yarın deplasmanda Kosova ile karşılaşacak A Milli Futbol Takımı'nın teknik direktörü Vincenzo Montella, uzun süredir bekledikleri hayali gerçekleştirmek için ellerinden gelen her şeyi yapacaklarını söyledi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/montella-turk-gibi-yemek-yiyorum-turk-gibi-hareket-ediyorum-l0tz.jpg",
     "keyword": null
   }
 ]
