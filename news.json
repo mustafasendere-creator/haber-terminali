@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a253bd8",
+    "title": "İsrail Meclisi, Filistinli esirleri hedef alacak idam cezası yasasını onayladı",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 21:44",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-meclisi-filistinli-esirleri-hedef-alacak-idam-cezasi-yasasini-onayladi/3885535",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası kamuoyunun tepkisine yol açan yasa tasarısı Knesset Genel Kurulu'nda yapılan oylamada 48'e karşı 62 oyla kabul edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f5a63649",
     "title": "A Milli Futbol Takımı Kaptanı Hakan Çalhanoğlu: Sadece bir maçımız kaldı, çok yakınız, 90 dakikamız var",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İspanya'da havalimanlarında yer hizmetleri veren bir şirketin çalışanlarının başlattığı ve 12 havalimanında geçerli olan grev, binlerce yolcuyu etkiledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a08bed80",
-    "title": "ASELSAN'ın LUNA2 uydusu başarıyla fırlatıldı",
-    "source": "TRT Haber",
-    "time": "30/03/2026 20:05",
-    "link": "https://www.trthaber.com/haber/gundem/aselsanin-luna-2-uydusu-basariyla-firlatildi-939694.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Savunma sanayiinde sahip olduğu yüksek teknoloji birikimini uzay alanına da taşıyan ASELSAN, uzay tabanlı nesnelerin interneti IoT çözümü kapsamında geliştirilen serinin ikinci uydusu LUNA2'yi ABD'nin Kaliforniya eyaletinden SpaceX aracılığıyla başarıyla fırlattı.",
     "image": null,
     "keyword": null
   }
