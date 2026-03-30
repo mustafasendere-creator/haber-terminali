@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cd091d43",
+    "title": "Oğlunu av tüfeğiyle öldürdü!",
+    "source": "Habertürk",
+    "time": "31/03/2026 00:06",
+    "link": "https://www.haberturk.com/oglunu-av-tufegiyle-oldurdu-3873224",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu'da bir baba tartıştığı oğlunu av tüfeğiyle öldürdü. Zanlı, çıkarıldığı nöbetçi hakimlikçe tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774786537/3873224/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f141f8e6",
     "title": "Bakan Çiftçi'den polislerin mesai saatlerine ilişkin açıklama",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Valiliği, bir öğrenci yurdunda yaşanan güvenlik ihlali ve uygunsuz davranışlarla ilgili 1 kişinin tutuklandığını, yurt müdürünün ise görevden uzaklaştırıldığını duyurdu.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/izmir-valiligi-ciglideki-yurt-muduru-gorevden-uzaklastirildi-dtnf_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1637190b",
-    "title": "Feci kazada 1 kişi öldü, 4 kişi yaralandı",
-    "source": "Habertürk",
-    "time": "30/03/2026 22:46",
-    "link": "https://www.haberturk.com/ankara-da-trafik-kazasi-1-kisi-oldu-4-kisi-yaralandi-3873249",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara'da D140 kara yolunda meydana gelen kazada, Yunus Kılıç yönetimindeki hafif ticari araç ile bir otomobil çarpıştı. Kılıç olay yerinde hayatını kaybetti. Kazada yaralanan 4 kişi hastaneye kaldırıldı",
-    "image": "https://im.haberturk.com/l/2026/03/29/ver1774793990/3873249/jpg/1280x1280",
     "keyword": null
   }
 ]
