@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e9e3404",
+    "title": "BTB/Matlı: Savaşın faturası tarlaya çıkıyor, maliyetler büyüyor",
+    "source": "Ekonomim",
+    "time": "31/03/2026 01:05",
+    "link": "https://www.ekonomim.com/ekonomi/btbmatli-savasin-faturasi-tarlaya-cikiyor-maliyetler-buyuyor-haberi-884923",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Orta Doğu’da yükselen gerilim petrol, gübre ve lojistik maliyetlerini yukarı çekerken, BTB Başkanı Özer Matlı Türkiye’nin ithal girdiye bağımlı yapısı nedeniyle tarım ve gıda zincirinde yeni maliyet baskılarının kaçınılmaz hale geldiğini söyledi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/btbmatli-savasin-faturasi-tarlaya-cikiyor-maliyetler-buyuyor-bwdn_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e60f21e6",
     "title": "Mavi Ekonomi Zirvesi’nde Karadeniz'den daha fazla faydalanma çağrısı yapıldı",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sahte iddialar, yapay zeka ile üretilmiş videolar ve eski savaş görüntüleri, savaşın başından bu yana hem devlet propagandası hem de tık tuzağı paylaşımlar olarak internette dolaşıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_25abb2bb",
-    "title": "Kuzey Kafkasya’yı sel vurdu: Binlerce kişi tahliye ediliyor",
-    "source": "Euronews",
-    "time": "31/03/2026 00:24",
-    "link": "http://tr.euronews.com/video/2026/03/30/rusyanin-kuzey-kafkasyasinda-sel-binlerce-kisi-tahliye-edildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şiddetli yağışların yol açtığı sel baskınları, Rusya'nın güneyindeki Kuzey Kafkasya bölgesinde binlerce kişiyi evlerini terk etmeye zorladı.",
     "image": null,
     "keyword": null
   }
