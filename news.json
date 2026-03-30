@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_51788db3",
+    "title": "Fergani'nin beşinci uydusu uzayda",
+    "source": "TRT Haber",
+    "time": "30/03/2026 23:05",
+    "link": "https://www.trthaber.com/haber/bilim-teknoloji/ferganinin-besinci-uydusu-uzayda-939705.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fergani Uzayın tamamen milli imkanlarla geliştirdiği beşinci  deneme uydusu olan FGN100D3 uzaya çıktı. Haberleşme ve navigasyon yetenekleriyle donatılan 113 kilogram ağırlığındaki yeni nesil milli uydu, yörüngesine yerleşerek göreve başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_70728889",
     "title": "İsrail, Filistinli mahkumlara idam cezası yasasını onayladı",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Birleşmiş Milletler BM, işgal altındaki Batı Şeriada Filistinlilerin topraklarını gasbetmeye çalışan İsraillilerin uyguladığı şiddetin Filistinliler üzerinde evlerini ve topluluklarını terk etmeleri için sistematik bir baskı oluşturduğunu belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d3ab1216",
-    "title": "Aydın'da toprak kayması: 3 ev tahliye edildi",
-    "source": "TRT Haber",
-    "time": "30/03/2026 21:45",
-    "link": "https://www.trthaber.com/haber/turkiye/aydinda-toprak-kaymasi-3-ev-tahliye-edildi-939701.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aydın'ın Efeler ilçesinde toprak kayması nedeniyle 3 ev tahliye edildi.",
     "image": null,
     "keyword": null
   }
