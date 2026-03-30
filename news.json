@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fd554619",
+    "title": "MİT'ten sınır ötesinde casus operasyonu",
+    "source": "TRT Haber",
+    "time": "31/03/2026 02:24",
+    "link": "https://www.trthaber.com/haber/gundem/mitten-sinir-otesinde-casus-operasyonu-939675.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli İstihbarat Teşkilatı MİT ile Suriye İstihbarat Servisinin çalışması sonucu, Türkiye'ye karşı casusluk faaliyetleri yürüttüğü tespit edilen Önder Sığırcıkoğlu SuriyeLübnan sınırında yakalandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_09be9681",
     "title": "Pezeşkiyan: Savaşın sona ermesi İran halkının güvenliği ve çıkarlarının garanti altına alınmasına bağlı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tokat'ta Mahir Çayan ve arkadaşlarını anmak isteyen Devrimci Gençlik Dernekleri üyelerine Almus Kaymakamlığı'nın giriş yasağı nedeniyle izin verilmedi; güvenlik güçlerinin joplu, gazlı müdahalesiyle 78 kişi gözaltına alındı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340923.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0e266ee9",
-    "title": "8 ülke Dışişleri Bakanları'ndan İsrail'e ortak tepki: Kudüs'te ibadet özgürlüğü engellenemez",
-    "source": "Evrensel",
-    "time": "31/03/2026 01:24",
-    "link": "https://www.evrensel.net/haber/5977470/8-ulke-disisleri-bakanlarindan-israile-ortak-tepki-kuduste-ibadet-ozgurlugu-engellenemez",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, Mısır, Endonezya, Ürdün, Pakistan, Katar, Suudi Arabistan ve BAE Dışişleri Bakanları, İsrail'in Kudüs'te Müslümanlar ve Hristiyanlara yönelik ibadet kısıtlamalarını kınadı ve uygulamalara derhal son verilmesini talep etti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340924.jpg",
     "keyword": null
   }
 ]
