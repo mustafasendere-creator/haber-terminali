@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d309256",
+    "title": "Microsoft, Xbox Game Showcase etkinliği için tarih açıkladı",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 02:44",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/microsoft-xbox-game-showcase-etkinligi-icin-tarih-acikladi-2490925",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni oyunların duyurularından, fragmanlara kadar onlarca tanıtımın yapıldığı Xbox Games Showcase etkinliği 7 Haziran'da canlı olarak gerçekleştirilecek.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ca304d12-333e-4f13-82ba-cf8b564075d7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8da9b83f",
     "title": "IUCN kırmızı listesinde yer alıyor: 'Ormanın hayaleti' en net haliyle görüntülendi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Manisa'nın Yunusemre ilçesinde sağanak nedeniyle oluşan taşkınla mahsur kalan 10 kişilik aile, AFAD ekiplerince kurtarıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340918.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c8e94ba2",
-    "title": "İmralı Heyeti Abdullah Öcalan'ın mesajını bugün açıklayacak",
-    "source": "Evrensel",
-    "time": "31/03/2026 01:44",
-    "link": "https://www.evrensel.net/haber/5977472/imrali-heyeti-abdullah-ocalan-in-mesajini-bugun-aciklayacak",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DEM Parti Grup Başkanvekili Gülistan Kılıç Koçyiğit, İmralı Heyeti'nin Abdullah Öcalan'ın mesajının bugün açıklayacağını duyurdu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340528.jpg",
     "keyword": null
   }
 ]
