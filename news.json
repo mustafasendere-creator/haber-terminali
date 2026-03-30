@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_16172b8e",
+    "title": "Trump’tan Rus tankerine yeşil ışık: 'Küba’ya petrol taşıması sorun değil'",
+    "source": "Euronews",
+    "time": "30/03/2026 14:45",
+    "link": "http://tr.euronews.com/2026/03/30/trumptan-rus-tankerine-yesil-isik-kubaya-petrol-tasimasi-sorun-degil",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trump pazar günü yaptığı açıklamada, bir Rus tankerinin krizin vurduğu adaya 730 bin varil ham petrol götürmesi beklenirken, Washington'un fiili yakıt ablukasına rağmen Moskova'nın Küba'ya petrol gönderebileceğini söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ce5f40db",
     "title": "İran: Deniz Kuvvetleri Komutanı Tengsiri saldırıda hayatını kaybetti",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "SON DAKİKA: 'Baybaşin' çetesine operasyon! Mallarına ve alacaklarına el konuldu",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/668jpg-K28PDePGHkyIuRuLFFH-yQ.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_716e8de2",
-    "title": "Son Dakika... Bilirkişi savunması sonrası: İmamoğlu'na bir soruşturma daha açıldı!",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 13:06",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-bilirkisi-savunmasi-sonrasi-imamoglu-na-bir-sorusturma-daha-acildi-2490789",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika.... İBB Başkanı ve Cumhurbaşkanı adayı Ekrem İmamoğlu'nun bugünkü bilirkişi davasındaki savunmasında kullandığı ifadeler nedeniyle hakkında bir soruşturma daha başlatıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
     "keyword": null
   }
 ]
