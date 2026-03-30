@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a02e4e2f",
+    "title": "Kuzey Marmara Otoyolu'nda kaza: 1 polis hayatını kaybetti, 3'ü ağır 29 yaralı var",
+    "source": "Euronews",
+    "time": "31/03/2026 01:04",
+    "link": "http://tr.euronews.com/2026/03/30/kuzey-marmara-otoyolunda-kaza-oldu-denilen-polis-kalp-mesajiyla-hayata-dondu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Kuzey Marmara Otoyolu'nda meydana gelen kazada 1 polis memuru hayatını kaybederken, 3'ü ağır 29 kişinin de yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_590de647",
     "title": "Altın ve gümüş sert düştü: İran savaşı güvenli liman talebini neden zayıflattı?",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD bu silahı ilk kez İran'da kullandı... Savaşta 32'nci gün",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/silahjpg-JscX7_XfCUqEBHfF2YVqPg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_afb462ac",
-    "title": "VakıfBank, Eczacıbaşı Dynavit deplasmanında avantajı kaptı!",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 00:05",
-    "link": "https://www.cumhuriyet.com.tr/spor/vakifbank-eczacibasi-dynavit-deplasmaninda-avantaji-kapti-2490966",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "VakıfBank, Voleybol Sultanlar Ligi play-off 1-4 etabı ilk maçında deplasmanda karşılaştığı Eczacıbaşı Dynavit'i 3-0 mağlup ederek seride öne geçti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3fc4099a-8834-42fc-af2d-08800b2039be.jpg",
     "keyword": null
   }
 ]
