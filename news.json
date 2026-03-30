@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bd3c6419",
+    "title": "İran savaşı Yunanistan ve Kıbrıs turizmini vurdu",
+    "source": "DW Türkçe",
+    "time": "30/03/2026 13:05",
+    "link": "https://www.dw.com/tr/iran-savaşı-yunanistan-ve-kıbrıs-turizmini-vurdu/a-76589764",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran savaşı Akdeniz turizmini baskılıyor. Yunanistan'da rezervasyonlar yavaşlarken Güney Kıbrıs, düşen talep ve artan maliyetlere karşı 200 milyon euroluk destek paketi açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_71e1d7ca",
     "title": "İspanya, İran'a saldıran ABD uçaklarına hava sahasını kapattı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Artvin ile Ardahan’ı bağlayan Bilbilan Yaylası yolunda karla mücadele sürerken, yer yer 2 metreyi bulan kar kalınlığı ve ortaya çıkan görüntüler dikkat çekti.",
     "image": "https://resim.haber61.net/news/609954.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_076e3e66",
-    "title": "Rize’de tünelin üstü parka dönüştü: Kız Kalesi Projesi ilgi gördü",
-    "source": "Haber61",
-    "time": "30/03/2026 11:24",
-    "link": "https://www.haber61.net/bolgesel/rizede-tunelin-ustu-parka-donustu-kiz-kalesi-projesi-ilgi-gordu-h628048.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rize’nin Pazar ilçesinde hayata geçirilen Kız Kalesi Projesi kapsamında tünel üstü park hizmete açıldı. Yeni sosyal alan vatandaşlardan yoğun ilgi gördü.",
-    "image": "https://resim.haber61.net/news/609955.jpg",
     "keyword": null
   }
 ]
