@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e138682c",
+    "title": "Angelina Jolie'yi gören tanıyamadı",
+    "source": "OdaTV",
+    "time": "31/03/2026 01:46",
+    "link": "https://www.odatv.com/magazin/angelina-jolieyi-goren-taniyamadi-120141345",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hollywood yıldızı Angelina Jolie, Şanghay’da düzenlenen Tom Ford etkinliğindeki görüntüsüyle gündem oldu. Oscar ödüllü oyuncunun kırmızı halıdaki görüntüsü, sosyal medyada kısa sürede yoğun tartışmalara yol açtı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/angelina-jolieyi-goren-taniyamadi-n5q8.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5fce6cc9",
     "title": "Salon İKSV’de Nisan coşkusu: Yıldız isimler sahne alacak",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Doğum izinlerinin 16 haftadan 24 haftaya çıkarılmasıyla ilgili açıklama yapan EŞİK; düzenlemenin kadınların gerçek ihtiyaçlarını gözeten eşitlikçi bir sosyal politika olmaktan uzak, aileci ve ataerkil politikaların devamı olduğunu vurguladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/220274.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9a2c8fe4",
-    "title": "Savaş anksiyetesi: Ekonomik kriz ve belirsizlikle nasıl başa çıkılır?",
-    "source": "Euronews",
-    "time": "31/03/2026 01:04",
-    "link": "http://tr.euronews.com/saglik/2026/03/30/savas-anksiyetesi-ekonomik-kriz-ve-belirsizlikle-nasil-basa-cikilir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran savaşının getirdiği ekonomik belirsizlik, çok sayıda kişinin ruh sağlığını etkileyen sosyal kaygıların artmasına neden oluyor. Uzmanlar, sosyal ilişkilere özen gösterilmesini, günlük rutinlerin sürdürülmesini ve bu konulara aşırı maruz kalmaktan kaçınılmasını tavsiye ediyor.",
-    "image": null,
     "keyword": null
   }
 ]
