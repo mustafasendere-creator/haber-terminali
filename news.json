@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a4df45b9",
+    "title": "Etimesgut Belediyesine operasyon: Gözaltılar var",
+    "source": "Evrensel",
+    "time": "30/03/2026 10:05",
+    "link": "https://www.evrensel.net/haber/5977311/etimesgut-belediyesine-operasyon-gozaltilar-var",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Cumhuriyet Başsavcılığı'nca Etimesgut Belediyesine yapılan operasyonda ‘zimmet’ iddiasıyla 4 kişi gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340777.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d5dedbe7",
     "title": "Varto'daki JES'e valilik onay verdi | İlk sondajın Mayıs'ta yapılması bekleniyor",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon hava durumu 30 Mart 2026 nasıl olacak, Karadeniz bölgesinde bugün yağmur var mı, il il sıcaklık kaç derece, rüzgar ne kadar esecek, Trabzon ve ilçelerinde bugün hava nasıl, Rize, Ordu, Giresun ve Samsun’da bugün hava tahmini nedir soruları merak edilirken, güncel verilerle hazırlanan detaylı tahminler dikkat çekiyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/10/hava-durumuuu.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_b0f31203",
-    "title": "Trabzon’da Bugün Elektrik Kesintisi Alarmı! Saatlerce Sürecek Kesintiler Hangi Mahalleleri Vuracak?",
-    "source": "Taka Gazetesi",
-    "time": "30/03/2026 07:44",
-    "link": "https://www.takagazete.com.tr/trabzonda-bugun-elektrik-kesintisi-alarmi-saatlerce-surecek-kesintiler-hangi-mahalleleri-vuracak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da bugün elektrik kesintisi alarmı! Saatlerce sürecek kesintiler Ortahisar, Akçaabat, Araklı ve Çaykara’da birçok mahalleyi etkileyecek.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/10/elektrik-20.jpg",
-    "keyword": "trabzon"
   }
 ]
