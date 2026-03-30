@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9141fe92",
+    "title": "Bu yiyecekler beyninizi ele geçiriyor!",
+    "source": "Habertürk",
+    "time": "31/03/2026 02:05",
+    "link": "https://www.haberturk.com/yedikce-yediren-tuzak-bu-yiyecekler-beyninizi-ele-geciriyor-3872888",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir parça çikolatayla başlayıp tüm paketi bitirdiğiniz oluyor mu? Yüksek şeker, yağ ve tuz içeren gıdalar, farkında olmadan sizi kendine bağımlı hale getiriyor. İşte detaylar...",
+    "image": "https://im.haberturk.com/l/2026/03/27/ver1774747066/3872888/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_360c01d1",
     "title": "Çocuklar canlarını hiçe saydı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli Savunma Bakanlığı açıklamasında, &quot;İran&#039;dan ateşlenen 4. füze önlendi&quot; ifadelerini kullandı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/msbden-iran-fuzesi-aciklamasi-k7fr.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_03ae7d78",
-    "title": "Yıldız Holding Gıda Grubu Başkanlığı’na Mert Altınkılınç atandı",
-    "source": "OdaTV",
-    "time": "31/03/2026 01:05",
-    "link": "https://www.odatv.com/ekonomi/is-dunyasi/yildiz-holding-gida-grubu-baskanligina-mert-altinkilinc-atandi-120141354",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yıldız Holding Gıda Grubu Başkanlığı’na, 2005 yılından bu yana Holding’in gıda ve uluslararası operasyonlarında farklı sorumluluklar üstlenen ve 2022 yılından bu yana Besler CEO’su olarak görev yapan Mert Altınkılınç atandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/yildiz-holding-gida-grubu-baskanligina-mert-altinkilinc-atandi-8ujw.jpg",
     "keyword": null
   }
 ]
