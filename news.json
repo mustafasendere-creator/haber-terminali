@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3532659a",
+    "title": "Sındırgı için iyi haber",
+    "source": "Habertürk",
+    "time": "31/03/2026 00:45",
+    "link": "https://www.haberturk.com/prof-dr-sozbilir-den-deprem-firtinasi-yasayan-sindirgi-icin-iyi-haber-3873198",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Deprem bilimci Prof. Dr. Hasan Sözbilir, \"Sındırgı'da artık deprem aktivitesinin sonlandığını söyleyebiliriz. Kırılan fay parçalarında belli bir stres birikimi yok, boşalım gerçekleşti.\" açıklamasında bulundu",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774776743/3873198/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_5820bd97",
     "title": "23 yaşındaki sürücü kazada can verdi",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Okul Sporları Gençler Grup Birinciliği müsabakaları, yarın Trabzon’da başlıyor. Erkekler ve kızlar kategorilerinde birçok ilden takım sahaya çıkacak.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/4-kopyasi-3-128.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_729922dc",
-    "title": "İtalya'da tatlı soygun: 12 ton KitKat nakliye sırasında çalındı",
-    "source": "Euronews",
-    "time": "31/03/2026 00:04",
-    "link": "http://tr.euronews.com/kultur/2026/03/30/internet-kitkat-hirsizligina-guldu-12-tonluk-soyguna-en-komik-tepkiler",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İtalya’dan Polonya’ya taşınan yüklü miktarda Nestle KitKat çikolatası Avrupa’da çalındı. Paskalya öncesi olası kıtlık endişesi bir yana, internet bu sıra dışı soygunla dalga geçiyor.",
-    "image": null,
-    "keyword": null
   }
 ]
