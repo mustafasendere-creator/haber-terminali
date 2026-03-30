@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_24ab3404",
+    "title": "Akbelen’de tapu sahiplerinden habersiz keşif yapılıyor",
+    "source": "10Haber",
+    "time": "30/03/2026 21:44",
+    "link": "https://10haber.net/gundem/akbelende-tapu-sahiplerinden-habersiz-kesif-yapiliyor-691077/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla’nın Milas ilçesinde Yeniköy Kemerköy Elektrik Üretim ve Ticaret A.Ş (YK Enerji), kömür madeni sahalarını genişletebilmesi için Akbelen Ormanı’nın çevresinde yer alan Bağdamları, Çakıralan, Çamköy, İkizköy, Karacaağaç ve Karacahisar mahallelerindeki 679 parsellik tarım arazisi Cumhurbaşkanı Kararı ile acele kamulaştırılmasına karşı 96 yurttaşın açtığı davada mahkeme bilirkişi keşfi yapmaya başladı. İkizköy Mahalle Muhtarı Nejla Işık, keşif [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69ca6761b31550.14917101.png",
+    "keyword": null
+  },
+  {
     "id": "GND_02b94401",
     "title": "Meteoroloji: Ankara, İstanbul ve İzmir’de üç gün yağış var",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Voleybol Vodafone Sultanlar Ligi ekiplerinden Göztepe'de 11 oyuncuyla yolların ayrıldığı bildirildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/goztepe-11-oyuncu-ile-yollarini-ayirdi-uzya.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_dad57411",
-    "title": "Kuveyt: 13 İHA saldırısı sonucu 1 kişi hayatını kaybetti",
-    "source": "TRT Haber",
-    "time": "30/03/2026 20:05",
-    "link": "https://www.trthaber.com/haber/turkiye/kuveyt-13-iha-saldirisi-sonucu-1-kisi-hayatini-kaybetti-939691.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuveyt Savunma Bakanlığı, ülkeye son 24 saat içinde 13 İHA ile düzenlenen saldırıda elektrik santrali hizmet binası ve su arıtma tesisinin hedef alınması sonucu bir çalışanın hayatını kaybettiğini duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
