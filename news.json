@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c1783636",
+    "title": "İsrail'in Gazze'ye düzenlediği hava saldırısında 3 Filistinli hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 10:04",
+    "link": "https://www.aa.com.tr/tr/guncel/israilin-gazzeye-duzenledigi-hava-saldirisinda-3-filistinli-hayatini-kaybetti/3884571",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in Gazze kentinin güneyindeki Zeytun Mahallesi'ne insansız hava aracı (İHA) ile düzenlediği saldırıda 3 Filistinli hayatını kaybetti, bazıları ağır olmak üzere çok sayıda kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_35a6c5ce",
     "title": "Bakan Uraloğlu: Doğayla uyumlu üretim ve tüketim alışkanlıklarını güçlendiriyoruz",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir'in Çiğli ilçesinde iddiaya göre girdiği kız öğrenci yurdunda uygunsuz hareketlerde bulunan ve polis ekiplerince gözaltına alınan 27 yaşındaki erkek, çıkarıldığı mahkemece tutuklandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/e8c5f069-8c01-4528-8f6e-671ded6d85e6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1837fbfd",
-    "title": "TikTok ve Reels gerçeği: Kısa videolar ruh sağlığını tehdit ediyor",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 06:24",
-    "link": "https://www.cumhuriyet.com.tr/yasam/tiktok-ve-reels-gercegi-kisa-videolar-ruh-sagligini-tehdit-ediyor-2490595",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "American Psychological Association tarafından yayımlanan yeni araştırma, kısa süreli video içeriklerinin dikkat süresi, ruh sağlığı ve bilişsel işlevler üzerinde ciddi etkiler yarattığını ortaya koydu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0176278f-fbc4-4116-9124-3bae9d7ced13.jpg",
     "keyword": null
   }
 ]
