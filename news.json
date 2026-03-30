@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0d0fe200",
+    "title": "Savaşta gelinen nokta: Karneyle yakıt dönemi",
+    "source": "OdaTV",
+    "time": "31/03/2026 02:05",
+    "link": "https://www.odatv.com/ekonomi/savasin-yarattigi-enerji-krizi-derinlesiyor-yakit-karneyle-dagitilabilir-120141344",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel enerji arzında son yılların en büyük krizi derinleşiyor. Yakıt kıtlığı dalgası Avrupa ve ABD’ye ulaşırken, uzmanlar henüz krizin ciddiyetinin kavranmadığı konusunda hemfikir. Bazı ülkelerde yakıtın karneyle dağıtılabileceği ifade ediliyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/savasin-yarattigi-enerji-krizi-derinlesiyor-yakit-karneyle-dagitilabilir-nzre.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2f579927",
     "title": "Yol verme kavgasında sürücüye saldırdılar",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul’da kira ödemelerinin aksamasıyla başlayan bir hukuk mücadelesinde mahkemeden dikkat çeken bir karar çıktı. Aynı kira yılı içinde ödemelerini iki kez geciktiren kiracılar için verilen bu karar “borcumu öderim, evde kalırım” anlayışını değiştirecek.&#160; Son dönemde kira uyuşmazlıklarına ilişkin davalarda dikkat çekici kararlar alınıyor. Özellikle kiracılar arasında yaygın olan, icra takibi başladıktan sonra borcun ödenmesi halinde [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69ca4b64094d91.25668789.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_49f75817",
-    "title": "ABD'de \"Cumhuriyetçilerin, ABD/İsrail-İran Savaşı'nı fonlamak için sağlıktan kısmayı planladığı\" iddiası",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 01:24",
-    "link": "https://www.aa.com.tr/tr/guncel/abdde-cumhuriyetcilerin-abd-israil-iran-savasini-fonlamak-icin-sagliktan-kismayi-planladigi-iddiasi/3885507",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Kongresindeki Cumhuriyetçi Partili üyelerin, ABD ve İsrail'in İran'a saldırılarıyla başlayan savaşı ve ülkede göçmenlere yönelik operasyonları fonlayabilmek adına sağlık harcamalarını azaltmayı planladığı öne sürüldü.",
-    "image": null,
     "keyword": null
   }
 ]
