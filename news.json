@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ce2d563",
+    "title": "Hollanda'dan Noa Lang'ın sağlık durumu hakkında açıklama!",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 22:45",
+    "link": "https://www.cumhuriyet.com.tr/spor/hollanda-dan-noa-lang-in-saglik-durumu-hakkinda-aciklama-2490947",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hollanda Milli Takımı Teknik Direktörü Ronald Koeman, Liverpool maçında parmağından ciddi şekilde yaralanan Galatasaraylı futbolcu Noa Lang'ın sağlık durumu hakkında açıklama yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9fa2cf49-8af7-481a-aba4-f10641df4d75.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f28d6704",
     "title": "Dijital dünyada yeni kriz: 'Onay bağımlısı' yapay zeka toplumsal değerleri aşındırıyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Büyükşehir Belediyesi, Dünya Kupası yolunda kritik bir mücadeleye çıkan A Millî Futbol Takımı için 15 Temmuz Şehitler ve Hürriyet Parkı'nda (Meydan) dev ekran kuruyor.",
     "image": "https://resim.haber61.net/news/610045.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_45fc7b43",
-    "title": "Ernest Muçi hakkında son gelişmeler: Sakatlık boyutu ve Galatasaray maçı planı",
-    "source": "Haber61",
-    "time": "30/03/2026 21:04",
-    "link": "https://www.haber61.net/trabzonspor/ernest-muci-hakkinda-son-gelismeler-sakatlik-boyutu-ve-galatasaray-h628101.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un yıldız oyuncusu Ernest Muçi, Arnavutluk Milli Takımı kampında yaşadığı sakatlık sonrası Trabzon’a döndü. Oyuncunun tedavisine Trabzon’da devam edileceği, Galatasaray maçı için kararın maç saatine kadar verileceği öğrenildi.",
-    "image": "https://resim.haber61.net/news/610043.jpg",
     "keyword": "trabzon"
   }
 ]
