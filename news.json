@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9cd9d52f",
+    "title": "Üsküdar'da İETT otobüsü yayaya çarptı",
+    "source": "Haber Global",
+    "time": "31/03/2026 00:25",
+    "link": "https://haberglobal.com/yasam/uskudarda-iett-otobusu-yayaya-carpti-516144",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Üsküdar'da kırmızı ışıkta karşıdan karşıya geçerken İETT otobüsünün çarptığı yaya yaralandı. Kaza anı bir iş yerinin güvenlik kamerasınca kaydedildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/uskudarda-iett-otobusu-yayaya-carpti-g1xo.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2678db13",
     "title": "İsrail'den skandal yasa tasarısı!",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "BM Lübnan Geçici Barış Gücü UNIFIL, Lübnan'ın güneyinde meydana gelen patlamada 2 barış gücü askerinin hayatını kaybettiğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_62155b43",
-    "title": "İsrail, Filistinli esirleri hedef alacak idam cezası yasasını onayladı",
-    "source": "TRT Haber",
-    "time": "30/03/2026 23:05",
-    "link": "https://www.trthaber.com/haber/dunya/israil-filistinli-esirleri-hedef-alacak-idam-cezasi-yasasini-onayladi-939698.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Meclisi Knesset, Filistinli mahkumlara idam cezası getirilmesini öngören tartışmalı yasa tasarısını onayladı.",
     "image": null,
     "keyword": null
   }
