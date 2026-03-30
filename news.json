@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e9578d2",
+    "title": "Yunanistan'daki olaylı derbiyi Ergin Ataman kaybetti",
+    "source": "Haber Global",
+    "time": "30/03/2026 22:45",
+    "link": "https://haberglobal.com/spor/yunanistandaki-olayli-derbiyi-ergin-ataman-kaybetti-516143",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yunanistan Basketbol Ligi'nin 23. haftasında Olympiakos, konuk olduğu Panathinaikos'u 101-94 yendi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/yunanistandaki-olayli-derbiyi-ergin-ataman-kaybetti-mlwt.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9e250b28",
     "title": "Filistin: İsrail'in idam yasası halkımıza karşı savaş suçudur",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor yönetiminin, Galatasaray maçının kazanılması halinde primi sonradan açıklamayı planladığı öğrenildi. Bordo-mavililerde prim başlığı kritik maç öncesi gündeme geldi.",
     "image": "https://resim.haber61.net/news/610053.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_e6f1585a",
-    "title": "Trabzonspor’un Galatasaray derbisi öncesi 3 büyük krizi: Sakatlık-Sarı Kart- Şanssızlık!",
-    "source": "Haber61",
-    "time": "30/03/2026 21:04",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-galatasaray-derbisi-oncesi-3-buyuk-krizi-sakatlik-sari-h628107.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Haber61TV’de yayınlanan Spor Gündemi programında konuşan Haluk Ayyıldız, Trabzonspor’un Galatasaray karşılaşmasına önemli risklerle çıkacağını söyledi. Ayyıldız, sarı kart sınırındaki isimler ve Batagov’un sakatlığına dikkat çekti.",
-    "image": "https://resim.haber61.net/news/610055.jpg",
     "keyword": "trabzon"
   }
 ]
