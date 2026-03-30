@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d1b30cf",
+    "title": "Kayseri'de 2 otomobil çarpıştı: 1'i ağır 5 yaralı",
+    "source": "TRT Haber",
+    "time": "31/03/2026 02:04",
+    "link": "https://www.trthaber.com/haber/turkiye/kayseride-2-otomobil-carpisti-1i-agir-5-yarali-939715.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'nin Melikgazi ilçesinde 2 otomobilin çarpıştığı kazada 1'i ağır 5 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c3fac7c6",
     "title": "İsrail ordusu: 24 saat içinde İran'da 170 hedef vuruldu",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Siirt'te halı sahada futbol oynadığı sırada fenalaşan kişi yaşamını yitirdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/b085da0e-f81f-4054-b7f5-ed4dceddd108.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9f0c04d4",
-    "title": "Akaryakıta rekor zam geliyor: İşte yeni fiyatlar...",
-    "source": "Haber Global",
-    "time": "31/03/2026 01:05",
-    "link": "https://haberglobal.com/ekonomi/akaryakita-rekor-zam-geliyor-iste-yeni-fiyatlar-516155",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Akaryakıt fiyatlarında yeni artış beklentisi gündeme geldi. Sektör kaynaklarına göre 1 Nisan’dan itibaren motorine 4 lira 90 kuruşluk zam yapılması öngörülüyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/akaryakita-rekor-zam-geliyor-iste-yeni-fiyatlar-acbt.jpg",
     "keyword": null
   }
 ]
