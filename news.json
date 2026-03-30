@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba13aa1b",
+    "title": "Kalibaf: 'İran’ın düşmanları arzularını haber olarak ortaya koyuyor'",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 00:45",
+    "link": "https://www.cumhuriyet.com.tr/dunya/kalibaf-iran-in-dusmanlari-arzularini-haber-olarak-ortaya-koyuyor-2490975",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Meclis Başkanı Kalibaf, uluslararası basında yer alan haberlere ilişkin, \"İran’ın düşmanları arzularını haber olarak ortaya koyuyor\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d6e22fde-c185-43aa-9c4d-9369ad7da287.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_15ffc56b",
     "title": "İsrail, Filistinli esirleri hedef alacak idam cezası yasasını onayladı: İtişmenin ardından 'şampanyalı' kutlama",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Haber61 TV ekranlarında yayınlanan Spor Gündemi programında Trabzonspor’un Galatasaray derbisi öncesindeki muhtemel kadrosu ve teknik direktör Fatih Tekke’nin oyun planı detaylıca ele alındı.",
     "image": "https://resim.haber61.net/news/610061.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_79ed5242",
-    "title": "Yanlış transfer tercihleri Trabzonspor’un hücum hattında büyük hayal kırıklığı yarattı",
-    "source": "Haber61",
-    "time": "31/03/2026 00:04",
-    "link": "https://www.haber61.net/trabzonspor/yanlis-transfer-tercihleri-trabzonsporun-hucum-hattinda-buyuk-hayal-h628113.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Haber61TV’de yayınlanan Spor Gündemi programında Trabzonspor’un hücum hattındaki oyunculara ilişkin dikkat çeken değerlendirmeler yapıldı. Programda, Danylo Sikan ile Denis Draguş’un beklentilerin altında kaldığı yönünde yorumlar öne çıktı.",
-    "image": "https://resim.haber61.net/news/610065.jpg",
     "keyword": "trabzon"
   }
 ]
