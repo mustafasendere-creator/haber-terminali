@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_25abb2bb",
+    "title": "Kuzey Kafkasya’yı sel vurdu: Binlerce kişi tahliye ediliyor",
+    "source": "Euronews",
+    "time": "31/03/2026 00:24",
+    "link": "http://tr.euronews.com/video/2026/03/30/rusyanin-kuzey-kafkasyasinda-sel-binlerce-kisi-tahliye-edildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şiddetli yağışların yol açtığı sel baskınları, Rusya'nın güneyindeki Kuzey Kafkasya bölgesinde binlerce kişiyi evlerini terk etmeye zorladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4adb9113",
     "title": "Ay'a dönüş için hazırlanan Artemis II astronotları tanıtıldı",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Alman savunma şirketi Rheinmetall, CEO'sunun hafta sonu Ukraynalı silah ve insansız hava aracı üreticileriyle cinsiyetçi ifadelerle alay etmesinin ardından Ukrayna'nın savunma üreticilerine saygı duyduğunu ifade eden bir kamuoyu açıklaması yayınladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e59f727b",
-    "title": "Anthropic ve OpenAI: İki yapay zeka devi arasındaki çatışmanın perde arkası",
-    "source": "Euronews",
-    "time": "30/03/2026 23:04",
-    "link": "http://tr.euronews.com/next/2026/03/30/anthropic-ve-openai-iki-yapay-zeka-devi-arasindaki-catismanin-perde-arkasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sam Altman ve Dario Amodei arasındaki ilişki, teknolojik bir rekabetten çok daha fazlasını, kişisel kırgınlıklar ve derin felsefi ayrılıklarla dolu bir güç savaşını barındırıyor.",
     "image": null,
     "keyword": null
   }
