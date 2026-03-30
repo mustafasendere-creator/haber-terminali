@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4c3d88fc",
+    "title": "İstanbul Tabip Odası seçimleri: Demokratik Katılım Grubu adaylarını açıkladı",
+    "source": "Evrensel",
+    "time": "31/03/2026 00:05",
+    "link": "https://www.evrensel.net/haber/5977466/istanbul-tabip-odasi-secimleri-demokratik-katilim-grubu-adaylarini-acikladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İTO Genel Kurulu öncesinde Demokratik Katılım Grubu, başkan adayı Prof. Dr. Talat Kırış ve yönetim kurulu listesini açıkladı. Açıklamada “Hekimler için şiddetsiz ve güvenli bir sağlık ortamı ve mesleki itibar için mücadeleyi sürdüreceğiz” denildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340921.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_a9ada5a9",
     "title": "Trabzon'da yarın Türkiye Şampiyonası başlıyor!",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dışişleri Bakanlığı'ndan pazartesi günü yapılan açıklamada, \"Bugün Karakas'taki ABD Büyükelçiliği'nde operasyonlarımıza resmen yeniden başlıyoruz. Bu adım, Venezuela'daki diplomatik varlığımızda yeni bir dönemin başlangıcıdır,\" ifadelerine yer verildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6a989be9",
-    "title": "İspanya, İran savaşına katılan ABD uçaklarına hava sahasını kapattı",
-    "source": "Euronews",
-    "time": "30/03/2026 22:44",
-    "link": "http://tr.euronews.com/2026/03/30/ispanya-iran-savasina-katilan-abd-ucaklarina-hava-sahasini-kapatti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bu hamle, Madrid yönetiminin ABD ve İsrail'in bir ayı aşkın süre önce İran'da başlattığı askeri eylemlere yönelik sergilediği muhalefetin son halkası oldu.",
     "image": null,
     "keyword": null
   }
