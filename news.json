@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8cb699c9",
+    "title": "12 saat çalışma, yaygın iş kazaları",
+    "source": "Evrensel",
+    "time": "31/03/2026 00:25",
+    "link": "https://www.evrensel.net/haber/5977427/12-saat-calisma-yaygin-is-kazalari",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyalektik Araştırma Enstitüsünün 463 MESEM’li çocukla yaptığı anketin özeti: Ağır çalışma koşulları, iş kazaları, yoğun mesai, fiziksel, psikolojik baskı ve tehdit! Mesai sonrasını ise çocuklar 'Çok yorgun ve kötü hissediyorum\" diye niteliyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340884.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4f943990",
     "title": "İran savaşında sosyal medyanın rolü: Dezenformasyon ve deepfake'ler algıyı nasıl değiştirdi?",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Haber61TV’de yayınlanan Spor Gündemi programında Trabzonspor’un sezon sonu Avrupa ihtimalleri değerlendirildi. Programda, bordo-mavililerin hangi senaryoda kaç ön eleme oynayacağı ve kadro planlamasına ilişkin riskler ele alındı.",
     "image": "https://resim.haber61.net/news/610060.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c513acdf",
-    "title": "Savaşın gölgesinde dev kâr: TotalEnergies Orta Doğu petrolünden 1 milyar dolar kazandı",
-    "source": "Euronews",
-    "time": "30/03/2026 23:04",
-    "link": "http://tr.euronews.com/business/2026/03/30/savas-fiyatlari-sarsarken-totalenergies-orta-dogu-petrolunden-1-milyar-kazandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransız enerji devi, savaşın yol açtığı kesintilerin tacirlere tarihi bir fırsat sunduğu mart ayında, Orta Doğu ham petrol piyasasına hakim oldu.",
-    "image": null,
-    "keyword": null
   }
 ]
