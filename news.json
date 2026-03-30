@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e0938268",
+    "title": "Genç sürücü feci kazada öldü!",
+    "source": "Habertürk",
+    "time": "30/03/2026 15:26",
+    "link": "https://www.haberturk.com/manisa-da-genc-surucu-feci-kazada-oldu-3873297",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa Alaşehir'de küçükbaş hayvan taşıyan TIR, otomobil ile çarpıştı. Kazada otomobilin genç sürücüsü hayatını kaybetti, 2 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774821643/3873297/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_79000320",
     "title": "Antalya'da genç kadının şüpheli ölümü",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail Meclisi (Knesset), Savunma Bakanlığı harcamaları için 142 milyar İsrail şekeli (45,3 milyar Amerikan doları) pay ayrılan 2026 bütçesini onayladı",
     "image": "https://im.haberturk.com/l/2026/03/30/ver1774828879/3873300/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_2aba8ccf",
-    "title": "İran bir ayda 5 binden fazla saldırı düzenledi",
-    "source": "Habertürk",
-    "time": "30/03/2026 14:46",
-    "link": "https://www.haberturk.com/iran-bir-ayda-5-binden-fazla-saldiri-duzenledi-3873301",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’ın ABD ve İsrail saldırılarına misilleme kapsamında 28 Şubat’tan bu yana çoğunluğu Körfez bölgesinde 7 Arap ülkesindeki ABD üsleri ile kritik noktalara en az 5 bin 471 füze ve İHA saldırısı gerçekleştirdiği bildirildi",
-    "image": "https://im.haberturk.com/l/2026/03/30/ver1774834623/3873301/jpg/1280x1280",
     "keyword": null
   }
 ]
