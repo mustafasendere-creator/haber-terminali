@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c35f456d",
+    "title": "Fransa'da sürücüler yüzlerce istasyonda akaryakıt sıkıntısı yaşandığını bildiriyor",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 14:44",
+    "link": "https://www.aa.com.tr/tr/guncel/fransada-suruculer-yuzlerce-istasyonda-akaryakit-sikintisi-yasandigini-bildiriyor/3885032",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa'da akaryakıt istasyonlarının güncel durumunun takip edildiği sürücü bildirimlerine dayalı internet sitesine göre, ülkede yüzlerce istasyonda akaryakıt sıkıntısı yaşanıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6f15b24f",
     "title": "Emine Erdoğan: Davranış değişikliği en güçlü çevre ve iklim politikasıdır",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ankara Batı Cumhuriyet Başsavcılığı \"zimmet\" iddiasıyla Etimesgut Belediyesi'ne yönelik soruşturma başlattı. Soruşturma kapsamında belediye ve Etimkent AŞ'de görevli dört kişi gözaltına alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bd3c6419",
-    "title": "İran savaşı Yunanistan ve Kıbrıs turizmini vurdu",
-    "source": "DW Türkçe",
-    "time": "30/03/2026 13:05",
-    "link": "https://www.dw.com/tr/iran-savaşı-yunanistan-ve-kıbrıs-turizmini-vurdu/a-76589764",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran savaşı Akdeniz turizmini baskılıyor. Yunanistan'da rezervasyonlar yavaşlarken Güney Kıbrıs, düşen talep ve artan maliyetlere karşı 200 milyon euroluk destek paketi açıkladı.",
     "image": null,
     "keyword": null
   }
