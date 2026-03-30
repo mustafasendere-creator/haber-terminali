@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2152fac3",
+    "title": "Kuzey Marmara Otoyolu'nda kaza: 1 polis şehit, 16 polis yaralı",
+    "source": "TRT Haber",
+    "time": "30/03/2026 10:05",
+    "link": "https://www.trthaber.com/haber/turkiye/kuzey-marmara-otoyolunda-kaza-1-polis-sehit-16-polis-yarali-939604.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Başakşehir Kuzey Marmara Otoyolu Fenertepe mevkiinde servis minibüsü ve otomobilin karıştığı kaza meydana geldi. Kazada ilk belirlemelere göre 1 polis memuru şehit oldu, 1i ağır 16 polis memuru ise yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_76b1d77b",
     "title": "Dışişleri Bakanlığı: Uluslararası Sıfır Atık Günü, atık krizinin önlenmesine yönelik çabaları güçlendiriyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Altın fiyatları bugün ne kadar, gram altın kaç TL oldu, çeyrek altın bugün kaç para, ons altın yükseldi mi, cumhuriyet altını fiyatı ne kadar sorularının yanıtları yatırımcılar tarafından merak ediliyor. Güncel altın fiyatları listesi, alış satış farkları ve piyasadaki son durum bu haberde detaylı şekilde yer alıyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/06/altin-fiyatlari.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_66e9c2d8",
-    "title": "Trabzon'u tanıtmayan tanıtım günleri...",
-    "source": "61 Saat",
-    "time": "30/03/2026 08:24",
-    "link": "https://www.61saat.com/trabzonu-tanitmayan-tanitim-gunleri",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İstanbul Trabzon Dernekleri Federasyon tarafından düzenlenen Trabzon Tanıtım Günleri dün akşam sona erdi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/2-kopyasi-1-kopya-23.webp",
     "keyword": null
   }
 ]
