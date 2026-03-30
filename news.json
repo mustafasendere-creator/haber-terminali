@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_519738d5",
+    "title": "3.500 ABD askeri Orta Doğu’ya ulaştı",
+    "source": "Haber Global",
+    "time": "30/03/2026 13:05",
+    "link": "https://haberglobal.com/dunya/3500-abd-askeri-orta-doguya-ulasti-516078",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Orta Doğu’da tırmanan gerilim yeni bir askeri sevkiyatla daha da kritik bir aşamaya taşındı. ABD Merkez Komutanlığı, yaklaşık 3 bin 500 denizci ve deniz piyadesini taşıyan birliğin bölgeye ulaştığını açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/3500-abd-askeri-orta-doguya-ulasti-tdfg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cdbdd354",
     "title": "Kosova maçı öncesi Merih Demiral gelişmesi! Ay-Yıldızlılar tarihi maça hazır",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Avrupa Birliği (AB) Yüksek Temsilcisi Kaja Kallas, İsrail polisinin, Kudüs Latin Patriği Pierbattista Pizzaballa'nın Hristiyanlarca kutsal Palmiye Pazarı ayini için Kıyamet Kilisesi'ne girişini engellemesinin dini özgürlük ihlali olarak nitelendirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_ec71931b",
-    "title": "İsrail vurdu, Tahran’da hayat durdu: Başkentte Göz Gözü Görmüyor!",
-    "source": "Taka Gazetesi",
-    "time": "30/03/2026 11:24",
-    "link": "https://www.takagazete.com.tr/israil-vurdu-tahranda-hayat-durdu-baskentte-goz-gozu-gormuyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İsrail’in Elburz eyaletine yönelik hava saldırıları sonrası Tahran ve Kerec’te elektrik kesintileri yaşandı. İran Enerji Bakanlığı şebekede hasar oluştuğunu açıkladı.",
-    "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2026/03/iran-saldiri-1-2.gif",
     "keyword": null
   }
 ]
