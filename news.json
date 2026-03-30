@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_93af64e2",
+    "title": "Meteoroloji: Ankara, İstanbul ve İzmir’de üç gün yağış var",
+    "source": "10Haber",
+    "time": "30/03/2026 15:25",
+    "link": "https://10haber.net/gundem/meteoroloji-ankara-istanbul-ve-izmirde-uc-gun-yagis-var-691081/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü (MGM) Ankara, İstanbul ve İzmir dahil Türkiye genelinde gelecek üç gün boyunca yağış görüleceğini duyurdu. MGM’den hava tahmin uzmanı Fevzi Burak Tekin 31 Mart-2 Nisan’da ülke genelinde parçalı ve çok bulutlu havanın hakim olacağını, birçok bölgede aralıklarla sağanak görüleceğini söyledi. Yarın (31 Mart) Marmara, Kıyı Ege, Batı Akdeniz kıyıları ve Batı Karadeniz [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69ca68f46df350.53057392.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_73286991",
     "title": "İYİ Partili Yavuz Aydın’dan “ihanet süreci” çıkışı! Sert sözler gündem oldu",
     "source": "Karadeniz Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da meydana gelen trafik kazasında, frenin patlaması sonucu araç yol kenarındaki duvara çarptı. Kazada 2 kişi yaralandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_0258c321",
-    "title": "Trabzonlu Bakan Uraloğlu duyurdu; Türkiye 5G’ye Geçiyor",
-    "source": "Taka Gazetesi",
-    "time": "30/03/2026 14:44",
-    "link": "https://www.takagazete.com.tr/video/trabzonlu-bakan-uraloglu-duyurdu-turkiye-5gye-geciyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ulaştırma Bakanı Abdulkadir Uraloğlu, Türkiye’de 5G hizmetinin 1 Nisan 2026 itibarıyla 81 ilde kademeli olarak başlayacağını açıkladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/560e257c-2348-4031-8e20-c8aa5a23c35f.jpg",
     "keyword": null
   }
 ]
