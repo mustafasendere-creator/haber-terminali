@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f579927",
+    "title": "Yol verme kavgasında sürücüye saldırdılar",
+    "source": "OdaTV",
+    "time": "31/03/2026 02:05",
+    "link": "https://www.odatv.com/guncel/yol-verme-kavgasinda-surucuye-saldirdilar-120141384",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa&#039;da trafikte yol verme meselesi yüzünden çıkan tartışmada minibüsten inen 3 kişi, otomobil sürücüsüne saldırdı. O anlar araç kamerasına yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/yol-verme-kavgasinda-surucuye-saldirdilar-lc57.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1dffc8e4",
     "title": "Akaryakıtta bugünkü fiyatların temel nedeni savaş değil 2021’deki tercih",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Kongresindeki Cumhuriyetçi Partili üyelerin, ABD ve İsrail'in İran'a saldırılarıyla başlayan savaşı ve ülkede göçmenlere yönelik operasyonları fonlayabilmek adına sağlık harcamalarını azaltmayı planladığı öne sürüldü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d9fe9164",
-    "title": "Paris’te otobüs ve kamyon şoförleri akaryakıt fiyatlarındaki artışa karşı eylem yaptı",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 01:24",
-    "link": "https://www.aa.com.tr/tr/guncel/paris-te-otobus-ve-kamyon-soforleri-akaryakit-fiyatlarindaki-artisa-karsi-eylem-yapti/3885531",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa’nın başkenti Paris’te otobüs ve kamyon şoförleri Orta Doğu’daki gerilimin akaryakıt fiyatlarında yarattığı artışa karşı hükümetin yaptığı yardımların yetersiz kalmasını protesto etti.",
     "image": null,
     "keyword": null
   }
