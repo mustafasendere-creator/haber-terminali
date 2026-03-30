@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3df5d2ec",
+    "title": "Dahiye bölgesi için acil tahliye uyarısı!",
+    "source": "Haber Global",
+    "time": "30/03/2026 10:25",
+    "link": "https://haberglobal.com/dunya/dahiye-bolgesi-icin-acil-tahliye-uyarisi-516037",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un güneyindeki Dahiye bölgesine hava saldırısı gerçekleştirdi. Haber Global ekibi gelişmeleri bölgeden aktarıyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/dahiye-bolgesi-icin-acil-tahliye-uyarisi-ekqa.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c323195a",
     "title": "14 il için karla karışık yağmur ve kar uyarısı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "AK Parti Genel Başkan Yardımcısı Ahmet Büyükgümüş, Rize’de katıldığı Mahalle ve Köy Başkanları Toplantısı’nda önemli açıklamalarda bulundu.",
     "image": "https://resim.haber61.net/news/609923.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6d68f464",
-    "title": "İşte İsrail'in kirli planı! Gerçek yüzü ortaya çıktı",
-    "source": "A Haber",
-    "time": "30/03/2026 10:04",
-    "link": "https://www.ahaber.com.tr/gundem/2026/03/30/iste-israilin-kirli-plani-gercek-yuzu-ortaya-cikti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Daily Sabah Yayın Koordinatörü Dr. Mehmet Çelik, Orta Doğu’da tırmanan gerilimi ve İsrail’in bölge üzerindeki asıl hedeflerini A Haber ekranlarında masaya yatırdı. Çelik, İsrail’in \"Büyük İsrail\"...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/f56b23/1200/1200/4/0/621/618?u=https://iahbr.tmgrup.com.tr/2026/03/30/iste-israilin-kirli-plani-gercek-yuzu-ortaya-cikti-1774853481135.jpeg",
     "keyword": null
   }
 ]
