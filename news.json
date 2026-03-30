@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fcb49fbb",
+    "title": "MSB: İran'dan ateşlenen füze imha edildi",
+    "source": "TRT Haber",
+    "time": "31/03/2026 01:45",
+    "link": "https://www.trthaber.com/haber/gundem/msb-irandan-ateslenen-fuze-imha-edildi-939681.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanlığı, İran'dan ateşlenip Türk hava sahasına giren balistik mühimmatın, Doğu Akdeniz'de konuşlu NATO hava ve füze savunma unsurları tarafından etkisiz hale getirildiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fda0741a",
     "title": "CHP'de Özkan Yalımın üyeliği askıya alındı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "3 Nisan 2026 Cuma BİM mağazalarında temizlikte yeni bir çağ açılıyor. Filtreleme kapasitesiyle fark yaratan toz torbasız elektrikli süpürge, tozların ve evcil hayvan tüylerinin korkulu rüyası olmaya aday. Yüksek motor gücünü gelişmiş siklon teknolojisiyle birleştiren cihaz, hane halkı ekonomisini zorlamayan fiyat etiketiyle 3 Nisan Cuma gününden itibaren tüm BİM mağazalarında satışa sunulacak.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/sifir-toz-maksimum-hijyen-bime-3-nisan-cuma-toz-torbasiz-elektrikli-supurge-geliyor-ryqw_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_f781d8b8",
-    "title": "Bahçeli'den siyasette arınma çağrısı: Tüm partilerin durulmaya ihtiyacı var",
-    "source": "Ekonomim",
-    "time": "31/03/2026 00:45",
-    "link": "https://www.ekonomim.com/gundem/bahceliden-siyasette-arinma-cagrisi-tum-partilerin-durulmaya-ihtiyaci-var-haberi-884954",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Genel Başkanı Devlet Bahçeli, Türk siyasetinin kirlenmeden kurtulması için kapsamlı bir &quot;arınma ve durulma&quot; sürecine girmesi gerektiğini çağrısında bulunarak &quot;Siyaset daha şeffaf, daha tutarlı ve daha sorumlu bir zemine taşınmalı&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/28/son-dakika-bahceliden-izzet-ulvi-yonterin-istifasiyla-ilgili-ilk-aciklama-ygwl_cover.jpg",
     "keyword": null
   }
 ]
