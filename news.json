@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_71fcf3d6",
+    "title": "Türkiye dahil 8 ülkeden Mescidi Aksa hakkında ortak bildiri",
+    "source": "TRT Haber",
+    "time": "31/03/2026 00:05",
+    "link": "https://www.trthaber.com/haber/gundem/turkiye-dahil-8-ulkeden-mescid-i-aksa-hakkinda-ortak-bildiri-939706.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye, Mısır, Endonezya, Ürdün, Pakistan, Katar, Suudi Arabistan ve Birleşik ArapEmirlikleri dışişleri bakanları, işgal altındaki Kudüste Müslümanlar ve Hristiyanlar için ibadet özgürlüğüne yönelik olarak İsrail tarafından sürdürülen kısıtlamaları kınadı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_17e29bfd",
     "title": "Almanya Başbakanı Merz, Şara'yı ağırladı: Suriyelilerin yüzde 80'ini geri göndereceğiz",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uşak Belediye Başkanı Özkan Yalım tutuklandı 30.03.2026 DikenCHP'li Uşak Belediye Başkanı Özkan Yalım dahil dokuz kişi tutuklandı.\nThe post Uşak Belediye Başkanı Özkan Yalım tutuklandı appeared first on #site_linkat 30.03.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d21ecb2d",
-    "title": "İsrail Meclisi, Filistinli esirleri hedef alacak idam cezası yasasını onayladı",
-    "source": "Evrensel",
-    "time": "30/03/2026 22:44",
-    "link": "https://www.evrensel.net/haber/5977459/israil-meclisi-filistinli-esirleri-hedef-alacak-idam-cezasi-yasasini-onayladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail, Filistinli tutuklulara yönelik ayrımcı idam yasasını onayladı. Askeri mahkemelerde uygulanacak yasada af yok, 90 günde infaz var. Bakan Ben-Gvir kararı Meclis'te şampanyayla kutladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340914.jpg",
     "keyword": null
   }
 ]
