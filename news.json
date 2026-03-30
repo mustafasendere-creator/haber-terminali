@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_893273b0",
+    "title": "İsviçre MB, repo işlemlerinde T+2 takas süresini koruyacak",
+    "source": "Ekonomim",
+    "time": "30/03/2026 13:06",
+    "link": "https://www.ekonomim.com/sirketler/isvicre-mb-repo-islemlerinde-t2-takas-suresini-koruyacak-haberi-884838",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsviçre Merkez Bankası (SNB), menkul kıymet piyasalarında T+1 takas döngüsüne geçilmesine rağmen, SNB repo işlemleri ve SNB bonoları için takas süresinin T+2 olarak kalacağını açıkladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/02/isvicre-merkez-bankasi-altin-fiyatlarindaki-yukselis-ile-gecen-yil-261-milyar-frank-kar-etti-xfv3_cover.png",
+    "keyword": null
+  },
+  {
     "id": "GND_03a10b91",
     "title": "Ekrem İmamoğlu'na bilirkişi davası savunması sonrası soruşturma açıldı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "İstanbul Kuzey Marmara Otoyolu’nda polisleri taşıyan servis aracı bariyerlere çarptı. Kazada 1’i ağır 17 polis yaralanırken, kalbi duran bir polis memuru yapılan müdahaleyle hayata döndürüldü.",
     "image": "https://resim.haber61.net/news/609966.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_a2d181a5",
-    "title": "Doğu Karadeniz'de kırsal boşaldı: Denge bozuldu",
-    "source": "Haber61",
-    "time": "30/03/2026 12:04",
-    "link": "https://www.haber61.net/trabzon/dogu-karadenizde-kirsal-bosaldi-denge-bozuldu-h628054.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ziraat Mühendisleri Odası Trabzon Şube Başkanı Cemil Pehlevan, Doğu Karadeniz bölgesinde tarım istihdamındaki sert düşüşe dikkat çekerek, sürecin geçici değil yapısal bir çözülme olduğunu vurguladı.",
-    "image": "https://resim.haber61.net/news/609967.jpg",
     "keyword": null
   }
 ]
