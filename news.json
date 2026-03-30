@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c19eef0a",
+    "title": "Petrol fiyatı 115 doları gördü, borsalar düşüşte",
+    "source": "BBC Türkçe",
+    "time": "30/03/2026 05:24",
+    "link": "https://www.bbc.com/turkce/articles/c5yjgvnrn57o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin Ortadoğu'ya asker göndermesi ve İran ile müzakerelerdeki belirsizlik gibi gelişmeler sonrası Brent petrol fiyatı haftaya yükselişle başladı, Asya borsalarıysa düşüşte. ABD Başkanı Trump, 'İran'ın petrolünü alabileceklerini' söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ea4ed43d",
     "title": "NATO'nun Türkiye'de kuracağı yeni karargâhlar hakkında neler biliniyor?",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yeni dönemde daha kapsayıcı ve katılımcı bir yönetim anlayışıyla hareket edeceklerini söyleyen İMİB Başkan Adayı Metin Çekiç, birliği tüm ihracatçıların temsil edildiği ortak bir platforma dönüştürmeyi hedeflediklerini kaydetti. Temsilde eşitliği güçlendireceklerini belirten Çekiç, “İMİB’i tek bir platformun değil, tüm ihracatçıların yön verdiği ve söz sahibi olduğu bir yapı haline getireceğiz” dedi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/29/tek-platformun-degil-tum-ihracatcilarin-sesi-olacagiz-mtax_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ee4415f5",
-    "title": "Mircea Lucescu fenalaşmasının nedenini açıkladı: 'Türkiye maçını analiz ederken...'",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 02:44",
-    "link": "https://www.cumhuriyet.com.tr/spor/hastaneye-kaldirilmisti-mircea-lucescu-dan-ilk-aciklama-2490619",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Romanya Milli Futbol Takımı Teknik Direktörü Mircea Lucescu, kampta fenalaşarak hastaneye kaldırılmıştı. 80 yaşındaki Rumen teknik direktör, ülkesinin basınına sağlık durumu hakkında açıklamalarda bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4f5506c6-8d72-4424-a835-c938a8841a69.jpg",
     "keyword": null
   }
 ]
