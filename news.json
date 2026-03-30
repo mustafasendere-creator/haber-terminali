@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ecbbf24",
+    "title": "Ekrem İmamoğlu'nun mahkemede yaptığı savunmaya soruşturma",
+    "source": "DW Türkçe",
+    "time": "30/03/2026 15:45",
+    "link": "https://www.dw.com/tr/ekrem-imamoğlu-nun-mahkemede-yaptığı-savunmaya-soruşturma/a-76593711",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ekrem İmamoğlu hakkında, bilirkişi davasında yaptığı savunma nedeniyle soruşturma başlatıldı. İBB Başkanı 1 saat 45 dakika süren savunmasında Adalet Bakanı Akın Gürlek'i eleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_37084b0d",
     "title": "İBB davası: İmamoğlu bilirkişi davası nedeniyle duruşmaya katılamadı",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Görevden uzaklaştırılan ve tutuklanan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu hakkında, CHP davalarında yer aldığını söylediği bilirkişiye yönelik sözleri nedeniyle açılan dava sürüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fb735001",
-    "title": "İsrail, Kıyamet Kilisesi'nde kısıtlı ibadete izin verirken Mescid-i Aksa'ya giriş yasağının sürdüğünü duyurdu",
-    "source": "Anadolu Ajansı",
-    "time": "30/03/2026 15:24",
-    "link": "https://www.aa.com.tr/tr/guncel/israil-kiyamet-kilisesinde-kisitli-ibadete-izin-verirken-mescid-i-aksaya-giris-yasaginin-surdugunu-duyurdu/3885061",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail polisi, işgal altında bulunan Doğu Kudüs'teki Kıyamet Kilisesi'nde kısıtlı şekilde ibadete izin verirken, yaklaşık bir aydır Müslümanların girişini engellediği Mescid-i Aksa'nın ise kapalı kalacağını duyurdu.",
     "image": null,
     "keyword": null
   }
