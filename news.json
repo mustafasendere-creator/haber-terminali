@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5d04b509",
+    "title": "Halı sahada fenalaşan kişi hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 01:05",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/hali-sahada-fenalasan-kisi-hayatini-kaybetti-2490985",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siirt'te halı sahada futbol oynadığı sırada fenalaşan kişi yaşamını yitirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b085da0e-f81f-4054-b7f5-ed4dceddd108.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9f0c04d4",
     "title": "Akaryakıta rekor zam geliyor: İşte yeni fiyatlar...",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Enerji piyasalarında dengeler sarsılıyor, küresel ekonomi büyük bir “enerji kıtlığı” riskiyle karşı karşıya. Enerji Uzmanı Altuğ Karataş, A Haber’de yaptığı değerlendirmede, Hürmüz Boğazı’nın...Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/6d8901/0/0/0/0/2048/1365?u=https://iahbr.tmgrup.com.tr/2026/03/31/dunya-ekonomisi-yogun-bakimda-enerji-krizinde-entube-alarmi-1774905063009.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fe9909e2",
-    "title": "İsrail'den idam kararı",
-    "source": "OdaTV",
-    "time": "31/03/2026 00:06",
-    "link": "https://www.odatv.com/guncel/israilden-idam-karari-120141369",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsraillileri ​öldürmekten dolayı askeri mahkemelerde suçlu bulunan Filistinliler için idam cezası getirilmesini öngören yasa tasarısı bugün İsrail parlamentosunda oylandı ve onaylandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/israilden-idam-karari-x6k1.jpg",
     "keyword": null
   }
 ]
