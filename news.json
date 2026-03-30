@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8306e42f",
+    "title": "Annesini darp ederken araya giren karısını öldürdü!",
+    "source": "Habertürk",
+    "time": "31/03/2026 00:25",
+    "link": "https://www.haberturk.com/annesini-darp-ederken-araya-giren-karisini-oldurdu-3873219",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'da insanın kanını donduran bir olay meydana geldi. Kentte annesini darp ettiği iddia edilen Abdulsamet Akay, kendisine engel olmak isteyen eşi Emel Akay'ı bıçakla öldürdü",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774784707/3873219/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_a14f5b1f",
     "title": "İstanbul'da uçuşlara yağmur engeli",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ergin Ataman yönetimindeki Panathiniakos, Yunanistan Basketbol Ligi'nin 23. haftasında kendi evinde ağırladığı Olympiakos'a 101-94 mağlup oldu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d6e81a8c-d306-42cf-be9c-1871fa7270b6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f683d10e",
-    "title": "İran'dan 'Hürmüz' hamlesi: Geçiş kısıtlaması, Riyal bazlı geçiş ücreti sistemi",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 23:05",
-    "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-hurmuz-hamlesi-gecis-kisitlamasi-riyal-bazli-gecis-sistemi-2490954",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Meclisi Milli Güvenlik ve Dış Politika Komisyonu, Hürmüz Boğazı’ndan geçişlere kısıtlama, riyal bazlı ücret uygulaması ve bazı ülkelere yönelik yasaklar öngören yasa tasarısını onayladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/616f94be-6341-4bc5-91ea-8a326e0f3d3f.jpg",
     "keyword": null
   }
 ]
