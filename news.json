@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_63489281",
+    "title": "Kim Kime Dum Duma - 30 Mart 2026",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 04:24",
+    "link": "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-30-mart-2026-2490663",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": ".",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4ffd6528-f86c-410e-9d09-5601873622ca.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_74998b50",
     "title": "Eski Tahran Büyükelçisi Bozkurt Aran’dan bir ayı geride bırakan savaşa yönelik dikkat çeken tespit: ABD poker oynuyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrailin Gazze kentinin güneyindeki Zeytun Mahallesine düzenlediği insansız hava aracı İHA saldırısında 2 Filistinli hayatını kaybetti, 1'i de ağır yaralandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bf0b90a1",
-    "title": "Divriği Maden işçilerinin direnişi 125. gününde: ‘Maliyet kalemi değil, bu toprakların sahibiyiz!'",
-    "source": "Evrensel",
-    "time": "30/03/2026 02:24",
-    "link": "https://www.evrensel.net/haber/5977245/divrigi-maden-iscilerinin-direnisi-125-gununde-maliyet-kalemi-degil-bu-topraklarin-sahibiyiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Divriği'de işten atılan 270 maden işçisi direnişin 125. gününde kent merkezinden seslendi: \"Kâr hırsıyla madenleri kapatamazsınız, bu zenginlik halkındır. Maliyet kalemi değil, bu toprakların sahibiyiz!\"",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340715.jpg",
     "keyword": null
   }
 ]
