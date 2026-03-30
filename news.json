@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_67c33e41",
+    "title": "ABD ordusu, hafta sonu sivil yerlere yakın uçan iki askeri helikopterle ilgili inceleme başlattı",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 00:44",
+    "link": "https://www.aa.com.tr/tr/guncel/abd-ordusu-hafta-sonu-sivil-yerlere-yakin-ucan-iki-askeri-helikopterle-ilgili-inceleme-baslatti/3885736",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ordusunun, eğitim uçuşu yapan Apache saldırı helikopterinin, müzisyen Rock'ın Tennessee'deki evinin dışında ve diğerinin de eyaletteki \"Krallara hayır\" mitingi sırasında protestocuların üzerinde uçmasıyla ilgili inceleme başlattığı belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f5ee68aa",
     "title": "Bursa'da faciadan dönüldü",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kocaeli’de içme suyu ihtiyacının karşılandığı Yuvacık Barajı’nda son yağışların ardından doluluk oranı yüzde 93 olarak ölçüldü. Barajın tam kapasite doluluğa yaklaşması ve yeni yağışların beklenmesinden dolayı kapaklar açılarak, Kirazdere yatağına su bırakılmaya başlandı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/bir-baraj-daha-doldu-kapaklar-acildi-p7mt.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9a7bd8a9",
-    "title": "Beyaz Saray: İran rejimi kamuoyuna farklı, masada farklı konuşuyor",
-    "source": "Ekonomim",
-    "time": "30/03/2026 23:06",
-    "link": "https://www.ekonomim.com/dunya/beyaz-saray-iran-rejimi-kamuoyuna-farkli-masada-farkli-konusuyor-haberi-884946",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beyaz Saray Sözcüsü Karoline Leavitt, İran rejiminin kamuoyuna yansıyan sert söylemlerinin aksine özel görüşmelerde anlaşmaya &quot;giderek daha istekli&quot; olduğunu ve müzakerelerin sürdüğünü açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/14/beyaz-saray-abd-israilin-irana-saldirilarinda-muazzam-sonuclar-alindi-pdnp_cover.jpg",
     "keyword": null
   }
 ]
