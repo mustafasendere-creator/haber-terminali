@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4afccc08",
+    "title": "Başakşehir'de zincirleme kaza: 1 polis hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "30/03/2026 10:25",
+    "link": "https://www.evrensel.net/haber/5977316/basaksehirde-zincirleme-kaza-1-polis-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da polisleri taşıyan servis aracının da karıştığı zincirleme kaza meydana geldi. Kazada 1 polis memuru hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340781.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9507ef88",
     "title": "Haftanın ilk iş gününde İstanbul'da trafik kitlendi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da 52 ilden 778 sporcunun katılımıyla düzenlenen 2026 Spor Toto Gençler Türkiye Judo Şampiyonası tamamlandı, genç sporcular performanslarıyla dikkat çekti.",
     "image": "https://resim.haber61.net/news/609918.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_6bd20003",
-    "title": "Trabzon için kritik uyarı! Yüksek kesimlerde risk artıyor",
-    "source": "Haber61",
-    "time": "30/03/2026 09:44",
-    "link": "https://www.haber61.net/trabzon/trabzon-icin-kritik-uyari-yuksek-kesimlerde-risk-artiyor-h628028.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Meteoroloji, Trabzon’da aralıklı sağanak ve yüksek kesimlerde karla karışık yağmur beklendiğini duyurdu. Bölgedeki sıcaklık düşüşüyle birlikte çığ ve kar erimesi tehlikesine karşı dikkatli olunması istendi.",
-    "image": "https://resim.haber61.net/news/609920.jpg",
     "keyword": null
   }
 ]
