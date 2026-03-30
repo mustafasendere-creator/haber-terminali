@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ed2d15cc",
+    "title": "İsrail televizyonu: İsrail, ABD'ye Orta Doğu'daki bazı üslerini ülkeye taşıma teklifinde bulundu",
+    "source": "TRT Haber",
+    "time": "31/03/2026 02:24",
+    "link": "https://www.trthaber.com/haber/dunya/israil-televizyonu-israil-abdye-orta-dogudaki-bazi-uslerini-ulkeye-tasima-teklifinde-bulundu-939671.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tel Aviv yönetiminin ABD'ye Orta Doğu'daki bazı üslerini İsrail'e taşımsı ve ülkede yeni üsler kurması teklifinde bulunduğu belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fd554619",
     "title": "MİT'ten sınır ötesinde casus operasyonu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye ve 7 ülkenin dışişleri bakanları, Kudüs'te Müslüman ve Hristiyanların ibadet özgürlüğüne yönelik İsrail tarafından sürdürülen kısıtlamaları en güçlü biçimde kınadı ve reddetti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c34cc6de",
-    "title": "Tokat'ta Kızıldere anmasına jandarma müdahalesi: 78 kişi gözaltına alındı",
-    "source": "Evrensel",
-    "time": "31/03/2026 01:24",
-    "link": "https://www.evrensel.net/haber/5977469/tokatta-kizildere-anmasina-jandarma-mudahalesi-78-kisi-gozaltina-alindi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tokat'ta Mahir Çayan ve arkadaşlarını anmak isteyen Devrimci Gençlik Dernekleri üyelerine Almus Kaymakamlığı'nın giriş yasağı nedeniyle izin verilmedi; güvenlik güçlerinin joplu, gazlı müdahalesiyle 78 kişi gözaltına alındı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340923.jpg",
     "keyword": null
   }
 ]
