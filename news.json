@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_96dd3784",
+    "title": "Filistin: İsrail Meclisinin onayladığı idam yasası halkımıza karşı savaş suçudur",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 01:04",
+    "link": "https://www.aa.com.tr/tr/guncel/filistin-israil-meclisinin-onayladigi-idam-yasasi-halkimiza-karsi-savas-sucudur/3885600",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filistin Devlet Başkanlığı, İsrail'in Filistinli esirleri hedef alan \"idam yasasını\" reddettiklerini ve bunun Filistin halkına karşı savaş suçu olduğunu bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8495d3bf",
     "title": "İran Dışişleri Bakanı Erakçi: Suudi Arabistan Krallığı’na saygı duyuyor ve onu kardeş bir ülke olarak görüyoruz",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "2026 Dünya Kupası'na katılmayı garantileyen Almanya, hazırlık maçında Gana'yı 2-1 mağlup etti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/mac-ozeti-almanya-2-1-gana-hazirlik-maci-vsjo.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ae8918b3",
-    "title": "New York borsası günü karışık seyirle kapattı",
-    "source": "Haber Global",
-    "time": "31/03/2026 00:05",
-    "link": "https://haberglobal.com/ekonomi/new-york-borsasi-gunu-karisik-seyirle-kapatti-516151",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "New York borsası, Orta Doğu'daki gerilim ve petrol fiyatlarındaki yükseliş sürerken haftanın ilk işlem gününü karışık seyirle tamamladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/new-york-borsasi-gunu-karisik-seyirle-kapatti-m2ma.jpg",
     "keyword": null
   }
 ]
