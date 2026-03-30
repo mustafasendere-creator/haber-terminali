@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf59763f",
+    "title": "MSB açıkladı: İran'dan ateşlenen füze imha edildi",
+    "source": "Haber Global",
+    "time": "31/03/2026 02:25",
+    "link": "https://haberglobal.com/gundem/msb-acikladi-irandan-ateslenen-fuze-imha-edildi-516120",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanlığı, İran’dan ateşlendiği belirlenen ve Türk hava sahasına giren bir balistik mühimmatın daha etkisiz hale getirildiğini duyurdu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/msb-acikladi-irandan-ateslenen-fuze-imha-edildi-vl4l.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1ddaf268",
     "title": "MSB, sıfır atık çalışmalarıyla 249 milyon liradan fazla geliri ülke ekonomisine kazandırdı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Katar Savunma Bakanlığı, İran'dan ülkeye insansız hava araçlarıyla İHA saldırılar düzenlendiğini bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c53d2f23",
-    "title": "Lübnan'da İsrail saldırılarında hayatını kaybedenlerin sayısı 1247'ye yükseldi",
-    "source": "TRT Haber",
-    "time": "31/03/2026 01:24",
-    "link": "https://www.trthaber.com/haber/dunya/lubnanda-israil-saldirilarinda-hayatini-kaybedenlerin-sayisi-1247ye-yukseldi-939685.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında yaşamını yitirenlerin sayısının son 24 saatte 9 artarak 1247'e, yaralı sayısının ise 3 bin 680'e çıktığını duyurdu.",
     "image": null,
     "keyword": null
   }
