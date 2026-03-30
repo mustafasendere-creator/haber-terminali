@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3b5d579c",
+    "title": "Fidan tebessüm etmişti ama... İran'dan 4. füze de geldi",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 20:05",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/fidan-tebessum-etmisti-ama-iran-dan-4-fuze-de-geldi-2490928",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'dan Türkiye’ye 17 gün sonra yeniden füze ateşlendi. MSB, füzenin, daha önce olduğu gibi yine NATO unsurları tarafından engellendiğini duyurdu. Dışişleri Bakanı Hakan Fidan ise, dört gün önce, “Nasıl bir diplomasi yürüttünüz de artık füze atılmıyor” şeklindeki soruya gülerek, “Buna cevap vermek zorunda mıyım” demişti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/37a3dc82-043b-4fc1-953f-0a2fba1dd258.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4a520c82",
     "title": "ABD'den yeni Hürmüz Boğazı çıkışı: Bir şekilde açılacak",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Almanya’da, \"Rusya için casusluk yaptığı\" iddiasıyla Ukrayna vatandaşı Vitalii M'nin tutuklandığı bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6980ca10",
-    "title": "Lübnan Cumhurbaşkanı: Güneydeki durum, İsrail'in müzakere girişimini görmezden gelmesi nedeniyle trajik",
-    "source": "Anadolu Ajansı",
-    "time": "30/03/2026 18:44",
-    "link": "https://www.aa.com.tr/tr/guncel/lubnan-cumhurbaskani-guneydeki-durum-israilin-muzakere-girisimini-gormezden-gelmesi-nedeniyle-trajik/3885376",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Cumhurbaşkanı Joseph Avn, ülkenin güneyindeki durumun İsrail'in ihlalleri ve müzakere girişimini görmezden gelmesi nedeniyle \"trajik\" olduğunu belirtti.",
     "image": null,
     "keyword": null
   }
