@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c7e7bf8d",
+    "title": "Türkiye ve 7 ülkenin Dışişleri Bakanları'ndan İsrail'e ortak 'Kudüs' tepkisi",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 00:25",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/turkiye-ve-7-ulkenin-disisleri-bakanlari-ndan-israil-e-ortak-kudus-tepkisi-2490973",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye, Mısır, Endonezya, Ürdün, Pakistan, Katar, Suudi Arabistan ve BAE Dışişleri Bakanları, İsrail'in Kudüs'te Müslümanlar ve Hristiyanlara yönelik ibadet kısıtlamalarını kınadı ve uygulamalara derhal son verilmesini talep etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1891360d-d4a8-4b8b-bf2b-ace37ea17b26.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9cd9d52f",
     "title": "Üsküdar'da İETT otobüsü yayaya çarptı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kayseri Kocasinan'da akrabası Ü.T.'yi bıçakla yaralayan M.S., gözaltına alındı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/kayseride-bicakli-kavga-1-yarali-fx3p.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_19aa9bef",
-    "title": "UNIFIL: Lübnan'ın güneyinde meydana gelen patlamada 2 barış gücü askeri öldü",
-    "source": "TRT Haber",
-    "time": "30/03/2026 23:05",
-    "link": "https://www.trthaber.com/haber/dunya/unifil-lubnanin-guneyinde-meydana-gelen-patlamada-2-baris-gucu-askeri-oldu-939697.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BM Lübnan Geçici Barış Gücü UNIFIL, Lübnan'ın güneyinde meydana gelen patlamada 2 barış gücü askerinin hayatını kaybettiğini açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
