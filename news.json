@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_726c503c",
+    "title": "Sephora'ya 'çocukları hedefleyen sinsi pazarlama' soruşturması",
+    "source": "BBC Türkçe",
+    "time": "30/03/2026 10:04",
+    "link": "https://www.bbc.com/turkce/articles/cdxknq1k70yo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'da kozmetik, makyaj ve kişisel bakım ürünleri satan Sephora ve Benefit markalarına, yetişkinlere yönelik cilt bakım ürünlerini çocuklara satabilmek için \"sinsi pazarlama stratejileri\" izledikleri şüphesiyle soruşturma başlatıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ce48090d",
     "title": "Ankara Batı Cumhuriyet Başsavcılığınca Etimesgut Belediyesine \"zimmet\" soruşturması",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Vergi sisteminde eleştirilen muafiyet ve istisnalar, uygulamada sınırlı kaldı. Nisan’da verilecek kurumlar vergisi beyannamelerinde, istisnalara dair yeminli mali müşavir tasdik raporu zorunluluğu öne çıkıyor ve beyan sürecinin en kritik başlığı haline geliyor.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/29/vergi-harcamalari-buyuyor-soylem-degismiyor-2q9g.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cb9077f1",
-    "title": "Minab'da ABD-İsrail saldırısıyla yaşamını yitiren ilkokul öğrencileri için Tahran'da sembolik sınıf",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 06:24",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/minab-da-abd-israil-saldirisiyla-yasamini-yitiren-ilkokul-ogrencileri-icin-tahran-da-sembolik-sinif-2490592",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail’in Minab saldırısında hayatını kaybeden Şeceretü't-Tayyibe Kız İlkokulu öğrencileri için Tahran’da sembolik sınıf kuruldu. Sıralara çocukların fotoğrafları, duvarlara ise ABD'ye karşı direnişin simge isimlerinin afişleri asıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0ef3e82b-7740-49be-930d-fb85ca28d325.jpg",
     "keyword": null
   }
 ]
