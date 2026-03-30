@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8b248ad7",
+    "title": "Belçika'da Senato'nun ilga edilmesine yönelik ilk adım atıldı",
+    "source": "TRT Haber",
+    "time": "31/03/2026 00:44",
+    "link": "https://www.trthaber.com/haber/guncel/belcikada-senatonun-ilga-edilmesine-yonelik-ilk-adim-atildi-939710.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Belçika'da federal parlamentonun üst kanadı Senato'nun ilga edilmesine yönelik ilk adım atıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1cb3363c",
     "title": "Filistinden İsrail Meclisinde onaylanan idam cezası yasasına sert tepki",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Osmaniye'de kağıt fabrikasında çıkan yangına itfaiye ekipleri müdahale ediyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e115e189",
-    "title": "İran'ın Körfez ülkelerine saldırıları sürüyor",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 00:04",
-    "link": "https://www.aa.com.tr/tr/guncel/iranin-korfez-ulkelerine-saldirilari-suruyor/3885712",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’ın ABD ve İsrail saldırılarına misilleme kapsamında 28 Şubat’tan bu yana çoğunluğu Körfez bölgesinde 7 Arap ülkesindeki ABD üsleri ile kritik noktalara saldırıları sürüyor.",
     "image": null,
     "keyword": null
   }
