@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2678db13",
+    "title": "İsrail'den skandal yasa tasarısı!",
+    "source": "Haber Global",
+    "time": "31/03/2026 00:25",
+    "link": "https://haberglobal.com/gundem/israilden-skandal-yasa-tasarisi-516148",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Meclisi, Filistinli mahkumlara idam cezası uygulanmasına imkan tanıyan yasa tasarısını çoğunluk oyuyla kabul etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/israilden-skandal-yasa-tasarisi-tqx5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_56ecb01d",
     "title": "Hakan Çalhanoğlu Beşiktaş formasını imzaladı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail Meclisi Knesset, Filistinli mahkumlara idam cezası getirilmesini öngören tartışmalı yasa tasarısını onayladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_51788db3",
-    "title": "Fergani'nin beşinci uydusu uzayda",
-    "source": "TRT Haber",
-    "time": "30/03/2026 23:05",
-    "link": "https://www.trthaber.com/haber/bilim-teknoloji/ferganinin-besinci-uydusu-uzayda-939705.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fergani Uzayın tamamen milli imkanlarla geliştirdiği beşinci  deneme uydusu olan FGN100D3 uzaya çıktı. Haberleşme ve navigasyon yetenekleriyle donatılan 113 kilogram ağırlığındaki yeni nesil milli uydu, yörüngesine yerleşerek göreve başladı.",
     "image": null,
     "keyword": null
   }
