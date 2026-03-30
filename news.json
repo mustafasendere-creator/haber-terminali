@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41e74de2",
+    "title": "1 kilo domates için 1 saat 15 dakika çalışılıyor: Asgari ücret market ve pazarda eriyor",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 14:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/1-kilo-domates-icin-1-saat-15-dakika-calisiliyor-asgari-ucret-market-ve-pazarda-eriyor-2490819",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Market raflarındaki ve pazardaki fiyatlar, asgari ücretli çalışan için artık sadece cebin değil, emeğin de sınırını belirliyor. 2026 itibarıyla saatlik net kazanç 124,78 TL olan bir çalışan, bir kilo domates almak için 1 saat 15 dakika, bir kilo elma almak için ise 43 dakika çalışmak zorunda kalıyor. Bir  kilo biber almak için ise asgari ücretlinin 2 saatten fazla çalışması gerekiyor. Temel gıda ürünlerine erişim, gelir düzeyi düşük haneler için giderek daha zor hale geliyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0414414c-fc52-4462-972a-d5c306295126.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8745f4a9",
     "title": "İtalya'da kaos: Meloni zor durumda",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor eski yöneticisi Nevzat Aydın, “Sebat Forma Challenge” kampanyası kapsamında 1061 forma satın alarak kulübe destek verdi.",
     "image": "https://resim.haber61.net/news/609988.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_34147788",
-    "title": "Trabzon’da fren patladı: Araç duvara çarptı",
-    "source": "Haber61",
-    "time": "30/03/2026 13:24",
-    "link": "https://www.haber61.net/trabzon/trabzonda-fren-patladi-arac-duvara-carpti-h628070.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da meydana gelen trafik kazasında, frenin patlaması sonucu araç yol kenarındaki duvara çarptı. Kazada 2 kişi yaralandı.",
-    "image": "https://resim.haber61.net/news/609990.jpg",
     "keyword": null
   }
 ]
