@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_529f3825",
+    "title": "İran'ın Körfez ülkelerine saldırıları sürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 04:04",
+    "link": "https://www.aa.com.tr/tr/guncel/iranin-korfez-ulkelerine-saldirilari-suruyor/3884391",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın, ABD ve İsrail saldırılarına misilleme kapsamında 28 Şubat’tan bu yana, Körfez ülkelerinde belirlediği hedeflere saldırıları sürdürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_3c98b6e2",
     "title": "Etyen Mahçupyan, program süresince Necip Hablemitoğlu’na küstahça saldıran; kendisi gibi Ermeni kökenli Hrant Dink, FETÖ tarafından öldürüldüğünde, onun koltuğuna oturan ve nedense hep makamlarla ödüllendirilen zat. - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Altın ve gümüşteki dalgalanma yatırımcıyı tedirgin ederken, Finans Analisti İslam Memiş’ten dikkat çeken açıklama geldi. Piyasadaki düşüşlerin kalıcı olmadığını belirten Memiş, pazartesi günü için kritik uyarılarda bulundu ve yeni alım seviyelerini paylaştı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/islam-memisten-piyasalar-icin-kritik-pazartesi-uyarisi-altin-ve-borsada-yeni-seviyeleri-acikladi-yonl.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_01dad103",
-    "title": "Samed Ağırbaş: Sıfır Atık, COP31 yolunda en somut ve en insani köprüdür",
-    "source": "TRT Haber",
-    "time": "30/03/2026 01:44",
-    "link": "https://www.trthaber.com/haber/gundem/samed-agirbas-sifir-atik-cop31-yolunda-en-somut-ve-en-insani-koprudur-939523.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sıfır Atık Vakfı Başkanı Samed Ağırbaş, Sıfır Atık vizyonunun Türkiye'nin dünyaya armağan ettiği en somut ve insani köprü olduğunu belirtti.",
-    "image": null,
     "keyword": null
   }
 ]
