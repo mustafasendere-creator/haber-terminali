@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fb220b11",
+    "title": "Muayene istasyonunda polisin ölümüne ilişkin istenen cezalar belli oldu",
+    "source": "TRT Haber",
+    "time": "30/03/2026 15:46",
+    "link": "https://www.trthaber.com/haber/gundem/muayene-istasyonunda-polisin-olumune-iliskin-istenen-cezalar-belli-oldu-939670.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da araç muayene istasyonunda çıkan kavgada polis memuru Melih Okan Keskin'in hayatını kaybettiği olaya ilişkin hazırlanan iddianame, Ankara 12. Ağır Ceza Mahkemesince kabul edildi. 4 sanık \"kasten yaralama sonucu ölüme neden olma\" suçundan 14'er yıla kadar hapisle yargılanacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3ecbbf24",
     "title": "Ekrem İmamoğlu'nun mahkemede yaptığı savunmaya soruşturma",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Artvin'in Borçka ilçesinde dereye devrilen otomobilin sürücüsü yaralandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/aa/artvinde-dereye-devrilen-otomobilin-surucusu-yaralandi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fef0aa1e",
-    "title": "İmamoğlu'nun 'bilirkişi' davasındaki savunmasına soruşturma açıldı",
-    "source": "BBC Türkçe",
-    "time": "30/03/2026 15:24",
-    "link": "https://www.bbc.com/turkce/articles/c05dn9yj17eo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Görevden uzaklaştırılan ve tutuklanan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu hakkında, CHP davalarında yer aldığını söylediği bilirkişiye yönelik sözleri nedeniyle açılan dava sürüyor.",
-    "image": null,
     "keyword": null
   }
 ]
