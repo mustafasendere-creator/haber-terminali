@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80e3f2c0",
+    "title": "Uşak Belediye Başkanı Özkan Yalım tutuklandı",
+    "source": "Euronews",
+    "time": "30/03/2026 21:44",
+    "link": "http://tr.euronews.com/2026/03/30/usak-belediye-baskani-ozkan-yalim-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uşak Belediye Başkanı Özkan Yalım ve beraberindeki 8 kişi çıkarıldıkları mahkemece tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_48167312",
     "title": "Neuralink çipi takılan felçli adam zihin gücüyle World of Warcraft oynamaya başladı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "A Milli Takım Teknik Direktörü Vincenzo Montella, Kosova maçı öncesi düzenlenen basın toplantısında açıklamalarda bulundu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c3bf2576-0308-46a5-afcd-5c450caa9f98.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3b5d579c",
-    "title": "Fidan tebessüm etmişti ama... İran'dan 4. füze de geldi",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 20:05",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/fidan-tebessum-etmisti-ama-iran-dan-4-fuze-de-geldi-2490928",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'dan Türkiye’ye 17 gün sonra yeniden füze ateşlendi. MSB, füzenin, daha önce olduğu gibi yine NATO unsurları tarafından engellendiğini duyurdu. Dışişleri Bakanı Hakan Fidan ise, dört gün önce, “Nasıl bir diplomasi yürüttünüz de artık füze atılmıyor” şeklindeki soruya gülerek, “Buna cevap vermek zorunda mıyım” demişti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/37a3dc82-043b-4fc1-953f-0a2fba1dd258.jpg",
     "keyword": null
   }
 ]
