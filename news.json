@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0b9bea18",
+    "title": "Dışişleri Bakanı Fidan'dan diplomasi trafiği",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 00:44",
+    "link": "https://www.aa.com.tr/tr/guncel/disisleri-bakani-fidandan-diplomasi-trafigi/3885639",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi, Pakistan Dışişleri Bakanı Muhammed İshak Dar ve Suriye Dışişleri Bakanı Esad Hasan Şeybani ile telefon görüşmeleri gerçekleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_96a84181",
     "title": "Türkiye ve 7 ülke, İsrail'in Kudüs'te Müslüman ve Hristiyanların ibadetini kısıtlayan uygulamalarını kınadı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe, Passolig ile yapılan anlaşmaya dair çıkan haberler üzerine resmi bir açıklama yayımladı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/fenerbahceden-600-milyon-aciklamasi-cqr0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ebb63f33",
-    "title": "Erdoğan'dan Barzani'ye geçmiş olsun telefonu",
-    "source": "OdaTV",
-    "time": "30/03/2026 23:06",
-    "link": "https://www.odatv.com/guncel/erdogandan-barzaniye-gecmis-olsun-telefonu-120141372",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Irak Kürt Bölgesel Yönetimi (IKBY) Başkanı Neçirvan Barzani&#039;yi arayarak konutuna düzenlenen saldırı nedeniyle &quot;geçmiş olsun&quot; dileklerini iletti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/erdogandan-barzaniye-gecmis-olsun-telefonu-d9of.jpg",
     "keyword": null
   }
 ]
