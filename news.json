@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e650fad",
+    "title": "İnternet aboneliğinde operatör değişikliği e-Devlet’e taşınıyor",
+    "source": "Evrensel",
+    "time": "30/03/2026 04:44",
+    "link": "https://www.evrensel.net/haber/5977227/internet-aboneliginde-operator-degisikligi-e-devlete-tasiniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilgi Teknolojileri ve İletişim Kurumu, internet aboneliğinde operatör değişikliğini dijitalleştiriyor. 1 Haziran’dan itibaren işlemler e-Devlet’ten onaylanacak.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340694.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ec6f48cf",
     "title": "Hatimoğulları: İmamoğlu'nun hapishanede olduğu yerde demokrasiden bahsedemeyiz",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yeni yayınlanan bir araştırmaya göre oyun oynayan kişiler dünya genelinde artış gösterdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/fd2fc9cb-3d77-497f-948f-7964fd2c73b3.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b30ea76f",
-    "title": "İstanbul’un akciğeri için çağrı: 'Milli park bahanesiyle yapılaşma' uyarısı",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 02:24",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-un-akcigeri-icin-cagri-milli-park-bahanesiyle-yapilasma-uyarisi-2490634",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Ormancılar Derneği (TOD) Marmara Şubesi ve İstanbul Barosu Çevre, Kent ve İmar Hukuku Komisyonu tarafından Belgrad Ormanı'nın yapılaşmaya açılacağı ve statüsünün değiştirileceğine yönelik iddialara ilişkin yürüyüş ve basın açıklaması düzenlendi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/bf640b9a-1bef-4962-a998-1d89a4e9bc03.jpg",
     "keyword": null
   }
 ]
