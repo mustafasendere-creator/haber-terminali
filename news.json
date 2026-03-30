@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9507ef88",
+    "title": "Haftanın ilk iş gününde İstanbul'da trafik kitlendi",
+    "source": "Evrensel",
+    "time": "30/03/2026 10:25",
+    "link": "https://www.evrensel.net/haber/5977319/haftanin-ilk-is-gununde-istanbulda-trafik-kitlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Saat 08.30 itibarıyla trafik yoğunluğu yüzde 80’e ulaşırken ana arterlerde araçlar ilerlemekte zorlandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340785.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_642aee94",
     "title": "Sıfır Atık Projesiyle 270 milyar kilovatsaat enerji tasarrufu sağlandı",
     "source": "İHA Trabzon",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Meteoroloji, Trabzon’da aralıklı sağanak ve yüksek kesimlerde karla karışık yağmur beklendiğini duyurdu. Bölgedeki sıcaklık düşüşüyle birlikte çığ ve kar erimesi tehlikesine karşı dikkatli olunması istendi.",
     "image": "https://resim.haber61.net/news/609920.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_d8f82940",
-    "title": "Trabzonsporlu Milli yıldızdan 61 dakikalık performans",
-    "source": "Haber61",
-    "time": "30/03/2026 09:44",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporlu-milli-yildizdan-61-dakikalik-performans-h628029.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un sezon başında kadrosuna kattığı Wagner Pina, milli ara döneminde Yeşil Burun Adaları formasıyla Finlandiya karşısında görev yaptı. Bordo-mavili oyuncu, 1-1 sona eren mücadelede 61 dakika sahada kaldı.",
-    "image": "https://resim.haber61.net/news/609921.jpg",
     "keyword": null
   }
 ]
