@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_ad6bf248",
+    "title": "Polis memuru kazada şehit oldu!",
+    "source": "61 Saat",
+    "time": "30/03/2026 20:24",
+    "link": "https://www.61saat.com/polis-memuru-kazada-sehit-oldu",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Kuzey Marmara Otoyolu'nda zincirleme kaza meydana geldi. Kazada polis memuru Mustafa Aydın şehit oldu.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/8-kopyasi-3-116.png",
+    "keyword": null
+  },
+  {
     "id": "YRL_4359f0a9",
     "title": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç’ten taziye mesajı",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Cumhuriyet Başsavcılığınca \"rüşvet\", \"irtikap\" ve \"ihaleye fesat karıştırma\" suçlarından yürütülen soruşturma kapsamında gözaltına alınan aralarında Uşak Belediye Başkanı Özkan Yalım'ın da bulunduğu 13 şüpheli, tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7bf56aaa",
-    "title": "İran savaşı: İspanya ABD'ye hava sahasını da kapattı",
-    "source": "DW Türkçe",
-    "time": "30/03/2026 18:45",
-    "link": "https://www.dw.com/tr/iran-savaşı-ispanya-abd-ye-hava-sahasını-da-kapattı/a-76597007",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran savaşına karşı çıkan ve ABD'ye askerî üslerini kullandırtmayarak Başkan Trump'ın tepkisini çeken İspanya, hava sahasını da ABD savaş uçaklarına kapattığını açıkladı.",
     "image": null,
     "keyword": null
   }
