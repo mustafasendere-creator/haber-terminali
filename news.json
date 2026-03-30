@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5f6e9579",
+    "title": "İran'ın başkenti Tahran'da art arda patlamalar meydana geldi",
+    "source": "TRT Haber",
+    "time": "30/03/2026 05:44",
+    "link": "https://www.trthaber.com/haber/dunya/iranin-baskenti-tahranda-art-arda-patlamalar-meydana-geldi-939581.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a saldırılarında başkent Tahran'da art arda patlamalar meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b3fe16ba",
     "title": "Rodin, Camille, Isadora ve şehvet kasırgası",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çevrenizde olup bitenler kimi zaman bunaltıcı gelebilir.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2041dd8d-0f97-4b82-a600-24c8ae7da414.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ea3bdc11",
-    "title": "İsmail Arı cezaevinden yazdı: “12 yıl sonra Gezi dosyası”",
-    "source": "Evrensel",
-    "time": "30/03/2026 03:04",
-    "link": "https://www.evrensel.net/haber/5977239/ismail-ari-cezaevinden-yazdi-12-yil-sonra-gezi-dosyasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazeteci İsmail Arı, hakkında yürütülen soruşturmanın temelsiz olduğunu belirtip Gezi olaylarıyla ilişkilendirilmek istendiğini söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339710.jpg",
     "keyword": null
   }
 ]
