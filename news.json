@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_df8b652e",
+    "title": "Gazetecilik ‘suçu’!",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 05:24",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/orsan-k-oymen/gazetecilik-sucu-2490618",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye, düşünceyi ifade, yayınlama ve medya özgürlüğü açısından, dünyanın en geri kalmış ülkelerinden birisidir.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar382_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_6b0c3cf4",
     "title": "Mesele öyle değil dekan bey!",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "İsrail Meclisi (Knesset), Savunma Bakanlığı harcamaları için 142 milyar İsrail şekeli (45,3 milyar Amerikan doları) pay ayrılan 2026 bütçesini onayladı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "SOC_9edcc585",
-    "title": "#SONDAKİKA AK Parti Trabzon İl Başkanı Sezgin Mumcu: \"Sizler Trabzonspor adını kullanarak siyasi prim elde etmeye çalışırsınız. Bizler ise Trabzonspor için çalışarak tesis kazandırarak ekonomik katkı sağlarız. Aramızdaki fark budur.\" - x.com",
-    "source": "X",
-    "time": "30/03/2026 02:45",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcjB0dWh5YzlHc216UkV1M3ZqRmxtdDU2d2RCUHQ1YmlOQ1BXRmdjUmxTQ0piSGZ4UU1Xbm14cHJiRndpa0hoampueWY1QXl5eXVyQjl1SVZRSDg",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "#SONDAKİKA AK Parti Trabzon İl Başkanı Sezgin Mumcu: \"Sizler Trabzonspor adını kullanarak siyasi prim elde etmeye çalışırsınız. Bizler ise Trabzonspor için çalışarak tesis kazandırarak ekonomik katkı sağlarız. Aramızdaki fark budur.\"  x.com",
-    "image": null,
-    "keyword": "trabzon sondakika"
   }
 ]
