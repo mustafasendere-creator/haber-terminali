@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_49a08625",
+    "title": "Almanya: AfD üyesi aracını kundaklayıp suçu sol gruplara attı",
+    "source": "DW Türkçe",
+    "time": "30/03/2026 15:25",
+    "link": "https://www.dw.com/tr/almanya-afd-üyesi-aracını-kundaklayıp-suçu-sol-gruplara-attı/a-76593154",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya'da AfD üyesi bir kişi, kendi aracını ateşe verip sol örgüt imzalı tehdit mektubu uydurduğunu itiraf etti. Parti söz konusu üyesi hakkında ihraç süreci başlattı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_18d4c395",
     "title": "Bilirkişi davası ertelendi : 'Yalanla, iftirayla beni suçlama gayreti var'",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail parlamentosu 270 milyar dolarlık 2026 bütçesini onayladı. Bütçede savunma harcamaları yüzde 20 artırılarak, 45 milyar dolara yükseltildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d8563d96",
-    "title": "CHP'ye yönelik operasyonlar: Hedefte Ankara mı var?",
-    "source": "DW Türkçe",
-    "time": "30/03/2026 14:45",
-    "link": "https://www.dw.com/tr/chp-ye-yönelik-operasyonlar-hedefte-ankara-mı-var/a-76593076",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ekrem İmamoğlu'nun ardından hedefte şimdi de ABB Başkanı Mansur Yavaş mı var? CHP'ye iktidar baskısı devam ederken bu hafta yargının CHP gündemi de yoğun.",
     "image": null,
     "keyword": null
   }
