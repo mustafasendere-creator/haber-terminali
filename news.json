@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ddfe4a4",
+    "title": "Kültür seçkisi: Avrupa’da haftanın öne çıkanları",
+    "source": "Euronews",
+    "time": "31/03/2026 02:04",
+    "link": "http://tr.euronews.com/kultur/2026/03/30/bu-hafta-avrupada-dram-arzular-ve-darth-maul-one-cikti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Wellcome Collection yaşlanma deneyimini mercek altına alırken, Zendaya ve Robert Pattinson sahnede dramatik anlara hayat veriyor. İşte haftanın öne çıkanları.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ea7ee30f",
     "title": "Almanya'da gece kulübünde yangın: Facianın eşiğinden dönüldü, 750 kişi tahliye edildi",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Lübnan Cumhurbaşkanı Joseph Avn, ülkenin güneyindeki durumun İsrail'in ihlalleri ve müzakere girişimini görmezden gelmesi nedeniyle \"trajik\" olduğunu belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0885daec",
-    "title": "BM: Filistinli esirleri hedef alan idam yasası acilen yürürlükten kaldırılmalı",
-    "source": "TRT Haber",
-    "time": "31/03/2026 01:05",
-    "link": "https://www.trthaber.com/haber/dunya/bm-filistinli-esirleri-hedef-alan-idam-yasasi-acilen-yururlukten-kaldirilmali-939712.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler BM İnsan Hakları Ofisi, İsrail Meclisi'nde kabul edilen ve Filistinli esirleri hedef alan idam cezası yasasının acilen yürürlükten kaldırılması gerektiğini bildirdi.",
     "image": null,
     "keyword": null
   }
