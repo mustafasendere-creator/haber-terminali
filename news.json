@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2da681ae",
+    "title": "Sevilla'da ayrıcalıklı balkon 9 bin euroya çıktı: Paskalya Haftası'nda fiyatlar arttı",
+    "source": "Euronews",
+    "time": "31/03/2026 01:24",
+    "link": "http://tr.euronews.com/2026/03/30/sevillada-ayricalikli-balkon-9-bin-euroya-cikti-paskalya-haftasinda-fiyatlar-artti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Turizmin patlaması ve yoğun talep, Sevilla gibi şehirlerde geçit törenlerini izleme fiyatlarını artırıyor; bir balkon 9 bin, bir sandalye 200 avroya çıkabiliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9b8976b4",
     "title": "Artemis II misyonu: İnsanlık 53 yıl sonra Ay'a dönmeye hazırlanıyor",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. REYHANLI 4. ASLİYE CEZA MAHKEMESİ HAKİMLİĞİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/71f1ceb1-4ade-4173-b6f6-70303d179b01.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6803f646",
-    "title": "Gabriel Sara'dan Ederson anısı: 'Ona güven olmaz'",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 00:25",
-    "link": "https://www.cumhuriyet.com.tr/spor/gabriel-sara-dan-ederson-anisi-ona-guven-olmaz-2490970",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray'ın Brezilyalı oyuncusu Gabriel Sara, katıldığı bir YouTube kanalında kariyerine dair dikkat çeken ifadeler kullandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/53f0119e-1120-47f1-9c25-3df6fcd3856f.jpg",
     "keyword": null
   }
 ]
