@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e6ba77b",
+    "title": "AFAD ve Kandilli son depremler listesi",
+    "source": "Habertürk",
+    "time": "30/03/2026 13:06",
+    "link": "https://www.haberturk.com/en-son-depremler-listesi-29-mart-2026-afad-ve-kandilli-rasathanesi-verileri-ile-deprem-mi-oldu-nerede-ve-kac-buyuklugunde-3873141",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Deprem ülkesi olan ülkemizde gün içinde irili ufaklı birçok deprem meydana geliyor. Yaşanan sarsıntıların büyüklüğü, derinliği ve merkez üssü gibi detaylar Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) ve Kandilli Rasathanesi’nin resmi siteleri üzerinden paylaşılıyor. AFAD verilerine göre, bugün birçok ilde farklı büyüklüklerde deprem oldu. Peki, en son deprem nerede ve ne zaman oldu, kaç büyüklüğünde? İşte, 29 Mart 2026 AFAD ve Kandilli son depremler listesi...",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774788719/3873141/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2241c78f",
     "title": "Güncel altın fiyatları",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Ekonomik İşbirliği ve Kalkınma Örgütü (OECD) Çevre Direktörü Jaime de Bourbon de Parme, kişi başına düşen kentsel atık miktarının OECD ortalamasının altında olduğu Türkiye'den övgüyle bahsederek, Türkiye'nin diğer ülkelere ilham olduğunu söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_a3448a68",
-    "title": "Trabzonspor, Fatih Tekke ile \"ilk büyük\" galibiyet peşinde",
-    "source": "İHA Trabzon",
-    "time": "30/03/2026 11:44",
-    "link": "https://www.aa.com.tr/tr/guncel/trabzonspor-fatih-tekke-ile-ilk-buyuk-galibiyet-pesinde/3884732",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trendyol Süper Lig'in 28. haftasında sahasında 4 Nisan Cumartesi günü Galatasaray ile karşılaşacak Trabzonspor, teknik direktör Fatih Tekke yönetiminde \"İstanbullu 3 rakibine\" karşı 8 maçta kazanamadı.",
     "image": null,
     "keyword": null
   }
