@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a72bfc5",
+    "title": "Tekirdağ'da iki motosiklet çarpıştı: İki yaralı",
+    "source": "Haber Global",
+    "time": "31/03/2026 02:05",
+    "link": "https://haberglobal.com/gundem/tekirdagda-iki-motosiklet-carpisti-iki-yarali-516158",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tekirdağ Süleymanpaşa'da iki motosikletin kafa kafaya çarpışması sonucu meydana gelen trafik kazasında 2 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/tekirdagda-iki-motosiklet-carpisti-iki-yarali-ppjn.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_42e5282a",
     "title": "Cumhurbaşkanı Erdoğan'dan Özgür Özel hakkında tazminat davası ve suç duyurusu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "KVKK'dan kritik karar: Apartmanlarda 'borç listesi' dönemi bitiyor",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/son-dakikajpg-JOl3bzzQgEGsYeAh02GsUA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4868cb9a",
-    "title": "Piyasaya sürülecekti: İstanbul'da 306 kilogram at eti ele geçirildi",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 01:05",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/piyasaya-surulecekti-istanbul-da-306-kilogram-at-eti-ele-gecirildi-2490983",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'un Çatalca ilçesinde düzenlenen operasyonda, piyasaya sürülmek üzere hazırlandığı değerlendirilen 306 kilogram at eti ele geçirildi, 3 şüpheli gözaltına alındı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c4e11459-1b7c-4e50-aa05-86c425e921ce.jpg",
     "keyword": null
   }
 ]
