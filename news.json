@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0e408c6a",
+    "title": "Bakanlık'tan İsrail açıklaması",
+    "source": "OdaTV",
+    "time": "30/03/2026 03:44",
+    "link": "https://www.odatv.com/guncel/bakanliktan-israil-aciklamasi-120141263",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ticaret Bakanlığından &quot;İsrail ile ticaretin sürdüğü&quot; iddialarına ilişkin olarak &quot;Türkiye&#039;nin 2 Mayıs 2024&#039;te aldığı kararla, tam 23 aydır Türkiye&#039;den İsrail&#039;e bütün ürün gruplarında ihracat, ithalat, serbest bölge ve transit ticaret tamamen durdurulmuştur&quot; açıklamasını yaptı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/bakanliktan-israil-aciklamasi-vdle.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c81b2c4b",
     "title": "Kişisel bütçe açığı kapatılamıyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Birleşmiş Milletler Dünya Gıda Programı'nın WFP verilerine göre, her yıl 3 milyondan fazla çocuk açlıkla bağlantılı nedenlerle hayatını kaybederken, dünyada üretilen gıdanın üçte birine denk gelecek şekilde 1,3 milyar ton gıda israf ediliyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d1932242",
-    "title": "İki gündür aranıyordu: Dere yatağında cansız bedeni bulundu",
-    "source": "Evrensel",
-    "time": "30/03/2026 01:44",
-    "link": "https://www.evrensel.net/haber/5977248/iki-gundur-araniyordu-dere-yataginda-cansiz-bedeni-bulundu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sakarya'nın Geyve ilçesinde, 2 gün önce define aramak için evden ayrılan Necdet Gül’ün (76) dere yatağı yakınlarında cansız bedeni bulundu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340718.jpg",
     "keyword": null
   }
 ]
