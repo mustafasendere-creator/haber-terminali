@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0b67baa8",
+    "title": "Kaygı nasıl azaltılır?",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 03:04",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/kaygi-nasil-azaltilir-2490616",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çevrenizde olup bitenler kimi zaman bunaltıcı gelebilir.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2041dd8d-0f97-4b82-a600-24c8ae7da414.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ea3bdc11",
     "title": "İsmail Arı cezaevinden yazdı: “12 yıl sonra Gezi dosyası”",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şırnak'ın Uludere ilçesinde yola çığ düştü. Belediye ekipleri, kapanan yolu ulaşıma açmak için çalışma başlattı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340720.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8ff65560",
-    "title": "Eskişehir’de Filistin eylemi: “İsrail’e ambargo uygulansın”",
-    "source": "Evrensel",
-    "time": "30/03/2026 01:24",
-    "link": "https://www.evrensel.net/haber/5977251/eskisehirde-filistin-eylemi-israile-ambargo-uygulansin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eskişehir Filistin ile Dayanışma Platformu, Türkiye’nin İsrail’i tanımasının yıl dönümünde basın açıklaması yaptı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340721.jpg",
     "keyword": null
   }
 ]
