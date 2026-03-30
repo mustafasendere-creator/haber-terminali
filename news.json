@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3caa8603",
+    "title": "Vanuatu’da 7,3 büyüklüğünde deprem",
+    "source": "10Haber",
+    "time": "30/03/2026 17:04",
+    "link": "https://10haber.net/dunya/vanuatuda-73-buyuklugunde-deprem-691143/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Jeolojik Araştırma Merkezi (USGS), Vanuatu&#8217;daki depremin merkez üssünün Luganville bölgesinin 35 kilometre kuzeydoğu açığı olduğunu bildirdi. Deprem, yerin 115,8 kilometre derinliğinde kaydedildi. Herhangi can veya mal kaybı bildirilmeyen depremin ardından tsunami uyarısı da yapılmadı.",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69ca74112ba669.66383173.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_fafabe77",
     "title": "Bayburt'ta geri dönüşüm malzemeleri kadın eliyle sanata dönüştü",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD merkezli temettü odaklı yatırım fonları, 2026 yılının ilk çeyreğinde yatırımcıların yoğun ilgisiyle karşılaştı. Yılın ilk üç ayında bu fonlara toplam 24,1 milyar dolar tutarında giriş gerçekleşti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/26/emtiadan-11-milyar-dolarlik-kacis-ttab_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cf0da4f6",
-    "title": "Kapalıçarşı Yönetim Kurulu Başkanlığı görevine İlhami Yazıcı seçildi",
-    "source": "Ekonomim",
-    "time": "30/03/2026 15:46",
-    "link": "https://www.ekonomim.com/ekonomi/kapalicarsi-yonetim-kurulu-baskanligi-gorevine-ilhami-yazici-secildi-haberi-884880",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünyanın en eski alışveriş merkezi olarak bilinen çarşının &quot;Kat Malikleri 6. Dönem Olağan Genel Kurul Toplantısı&quot; gerçekleştirildi. Buna göre, Kapalıçarşı Yönetim Kurulu Başkanlığı görevine İlhami Yazıcı getirildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/kapalicarsi-yonetim-kurulu-baskanligi-gorevine-ilhami-yazici-secildi-ux1c_cover.jpg",
     "keyword": null
   }
 ]
