@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1637190b",
+    "title": "Feci kazada 1 kişi öldü, 4 kişi yaralandı",
+    "source": "Habertürk",
+    "time": "30/03/2026 22:46",
+    "link": "https://www.haberturk.com/ankara-da-trafik-kazasi-1-kisi-oldu-4-kisi-yaralandi-3873249",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da D140 kara yolunda meydana gelen kazada, Yunus Kılıç yönetimindeki hafif ticari araç ile bir otomobil çarpıştı. Kılıç olay yerinde hayatını kaybetti. Kazada yaralanan 4 kişi hastaneye kaldırıldı",
+    "image": "https://im.haberturk.com/l/2026/03/29/ver1774793990/3873249/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ab73aaa0",
     "title": "Dereden geçmek isterken öldü",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor’un yıldız kalecisi Andre Onana’nın kariyerinde atacağı bir sonraki adım merak konusu olmaya devam ediyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/trabzonspor-manset-1-58.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_699c183a",
-    "title": "İcardi’ye dev ceza! Trabzonspor maçı için Türkiye’ye döndü, kriz büyüdü",
-    "source": "61 Saat",
-    "time": "30/03/2026 21:04",
-    "link": "https://www.61saat.com/icardiye-dev-ceza-trabzonspor-maci-icin-turkiyeye-dondu-kriz-buyudu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Mauro Icardi, çocuklarıyla ilgili yükümlülüklerini yerine getirmediği gerekçesiyle günlük 50 milyon peso para cezasıyla karşı karşıya kaldı. Yıldız futbolcu, tüm bu gelişmelerin ardından Türkiye’ye döndü.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/12-413.png",
     "keyword": "trabzon"
   }
 ]
