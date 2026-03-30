@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f2c6037e",
+    "title": "Bursa'da göl duvara dayandı",
+    "source": "Evrensel",
+    "time": "30/03/2026 15:45",
+    "link": "https://www.evrensel.net/haber/5977407/bursada-gol-duvara-dayandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'da 2 gündür etkili olan sağanak nedeniyle Uluabat Gölü'nün suları, \"Küçük Venedik\" olarak bilinen Gölyazı Mahallesi'nin kıyı şeridindeki ev ve iş yerlerinin duvarlarına dayandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340859.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ececc6f4",
     "title": "Her yağmurda sular altında kalan Defne Devlet Hastanesi Meclis gündeminde",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Saadet Partisi Ortahisar İlçe Başkanı Burak Turhan, Ortahisar’da açılışı gerçekleştirilen Engelsiz Yaşam Parkı ile ilgili yazılı bir basın açıklaması yaptı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/ekran-resmi-2026-03-30-150913.png",
     "keyword": null
-  },
-  {
-    "id": "TKP_3a0ac7f6",
-    "title": "Andre Onana'dan Manchester United kararı!",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 15:24",
-    "link": "https://www.cumhuriyet.com.tr/spor/andre-onana-dan-manchester-united-karari-2490824",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un sezon başında Manchester United'dan kiralık olarak kadrosuna kattığı Andre Onana'nın, yeniden İngiliz ekibinde forma giymek istediği iddia edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7baeaa77-5879-4dc3-ac03-4900cccecbda.jpg",
-    "keyword": "trabzon"
   }
 ]
