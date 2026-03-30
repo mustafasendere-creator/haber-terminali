@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_47d5e237",
+    "title": "İzmir'de akülü tekerlekli sandalyesiyle denize düşen engelli, hastanede hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "31/03/2026 00:05",
+    "link": "https://www.evrensel.net/haber/5977464/izmirde-akulu-tekerlekli-sandalyesiyle-denize-dusen-engelli-hastanede-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'in Konak ilçesinde akülü tekerlekli sandalyesiyle düştüğü denizden çıkarılarak hastaneye kaldırılan engelli Ahmet Ç. hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340920.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0258ebb5",
     "title": "Çiğli Bakırçay KYK kız yurdunda yaşanan taciz: Yurt müdürü görevden alındı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail’in İran’ın başkenti Tahran’da nüfus yoğunluklu bölgelerde art arda şiddetli patlamalar meydana geldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340788.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2d0832ed",
-    "title": "Fransa’da 'Mason Mafyası' hakim karşısında",
-    "source": "Euronews",
-    "time": "30/03/2026 22:44",
-    "link": "http://tr.euronews.com/2026/03/30/fransada-mason-mafyasi-hakim-karsisinda",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sanık sandalyesinde oturanlar arasında Fransa dış istihbarat servisi (DGSE) mensubu dört asker, iki polis memuru, emekli bir iç istihbarat (DGSI) görevlisi, bir güvenlik görevlisi ve iki iş insanı bulunuyor.",
-    "image": null,
     "keyword": null
   }
 ]
