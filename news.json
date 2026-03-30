@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a7db58e1",
+    "title": "Anadolu mutfağının saklı lezzeti: Perde pilavı tarifi",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 00:45",
+    "link": "https://www.cumhuriyet.com.tr/gurme/anadolu-mutfaginin-sakli-lezzeti-perde-pilavi-tarifi-2490965",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çıtır bir hamur zırhının içine hapsedilen kekik kokulu tavuk eti, pirinç ve kuruyemişlerin oluşturduğu Perde Pilavı; Türk mutfak disiplininin \"mühürleme ve demleme\" tekniklerini en artistik şekilde sergilediği tabaktır.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/12ad9589-3909-43f4-93f5-745b33e2fe63.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ba13aa1b",
     "title": "Kalibaf: 'İran’ın düşmanları arzularını haber olarak ortaya koyuyor'",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Zelenskiy, Bulgaristan Başbakanı Andrey Gyurov'un Kiev ziyareti sırasında imzalanan anlaşmadan \"çok memnun\" olduğunu belirtti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_835a67cc",
-    "title": "Trabzonspor'un Galatasaray derbisi öncesi orta saha kurgusunda 2 kritik değişiklik",
-    "source": "Haber61",
-    "time": "31/03/2026 00:04",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-galatasaray-derbisi-oncesi-orta-saha-kurgusunda-2-kritik-h628111.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Haber61 TV ekranlarında yayınlanan Spor Gündemi programında Trabzonspor’un Galatasaray derbisi öncesindeki muhtemel kadrosu ve teknik direktör Fatih Tekke’nin oyun planı detaylıca ele alındı.",
-    "image": "https://resim.haber61.net/news/610061.jpg",
-    "keyword": "trabzon"
   }
 ]
