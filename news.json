@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_603bef46",
+    "title": "“5000 yıl ekmek yedik, 10 yıl içinde topumuz glutene alerjik olduk.”",
+    "source": "10Haber",
+    "time": "30/03/2026 05:44",
+    "link": "https://10haber.net/yazarlar/bulent-korman/5000-yil-ekmek-yedik-10-yil-icinde-topumuz-glutene-alerjik-olduk-690907/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bu görseldeki metin aşağı yukarı böyle çevrilebilir. İşaret ettiği ironik durum, bugünün sağlık algısına dair beni rahatsız eden bir gerçeğe dokunuyor. Yaklaşık on yıl önce New York’ta, o gece için yiyecek bir şeyler almak üzere girdiğim küçük bir markette, yiyecek reyonunun neredeyse iki katı büyüklüğünde bir alt katta “ilaç danışmanı” olarak bekleyen beyaz önlüklü bir [&#8230;]",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_df8b652e",
     "title": "Gazetecilik ‘suçu’!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uluslararası basın örgütleri, Türkiye’de tutuklu gazeteciler için özgürlük çağrısı yaptı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340712.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_74f09cb5",
-    "title": "İsrail Meclisi, Savunma Bakanlığı'na 45 milyar dolardan fazla pay ayrılan 2026 bütçesini onayladı",
-    "source": "Anadolu Ajansı",
-    "time": "30/03/2026 03:04",
-    "link": "https://www.aa.com.tr/tr/guncel/israil-meclisi-savunma-bakanligina-45-milyar-dolardan-fazla-pay-ayrilan-2026-butcesini-onayladi/3884437",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Meclisi (Knesset), Savunma Bakanlığı harcamaları için 142 milyar İsrail şekeli (45,3 milyar Amerikan doları) pay ayrılan 2026 bütçesini onayladı.",
-    "image": null,
     "keyword": null
   }
 ]
