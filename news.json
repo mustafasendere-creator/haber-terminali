@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa7900d3",
+    "title": "Borsa günü düşüşle tamamladı",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 18:44",
+    "link": "https://www.aa.com.tr/tr/guncel/borsa-gunu-dususle-tamamladi/3885382",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul’da BIST 100 endeksi, günü yüzde 0,57 değer kaybederek 12.626,35 puandan tamamladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9c17fbd8",
     "title": "MSB duyurdu: İran'dan ateşlenen 4. füze önlendi",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Ticaret ve Sanayi Odası’nda (TTSO), Yerel Kalkınma Hamlesi Programı kapsamında balıkçılık sektörüne sağlanan desteklerin ele alındığı bilgilendirme ve istişare toplantısı gerçekleştirildi.",
     "image": "https://resim.haber61.net/news/610026.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8c23f010",
-    "title": "X'te köklü dönüşüm duyurusu: Gönderiler otomatik çevrilecek, algoritma diğer dillere önerecek",
-    "source": "Euronews",
-    "time": "30/03/2026 17:04",
-    "link": "http://tr.euronews.com/next/2026/03/30/xte-koklu-donusum-duyurusu-gonderiler-otomatik-cevrilecek-algoritma-diger-dillere-onerecek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elon Musk pazartesi günü yaptığı duyuruda, platformun yapay zekası Grok'un X'te paylaşılan gönderileri diğer dillere otomatik çevireceğini ve algoritmanın da bu gönderileri farklı dillerdeki insanların önüne çıkaracağını açıkladı.",
-    "image": null,
-    "keyword": null
   }
 ]
