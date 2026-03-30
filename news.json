@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cb38a33a",
+    "title": "Almanya'da enflasyon yeniden yükseldi",
+    "source": "Haber Global",
+    "time": "31/03/2026 01:45",
+    "link": "https://haberglobal.com/ekonomi/almanyada-enflasyon-yeniden-yukseldi-516127",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya’da şubat ayında gerileyen enflasyon, Orta Doğu’daki gerilimin tetiklediği enerji maliyetlerindeki artışla mart ayında yeniden ivme kazandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/almanyada-enflasyon-yeniden-yukseldi-hhgx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_68a3b232",
     "title": "Eskişehir'de kan donduran kaza: 1 ölü, 1'i ağır 2 yaralı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Konya’nın Beyşehir ilçesinde kontrolden çıkan otomobil, kavşakta devrildi. Ortalığın adeta savaş alanına döndüğü kazada sürücü yaralandı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/kazada-ortalik-savas-alanina-dondu-ziyv.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_27b9d191",
-    "title": "New York borsası günü karışık seyirle kapattı",
-    "source": "Ekonomim",
-    "time": "31/03/2026 00:45",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-karisik-seyirle-kapatti-haberi-884953",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "New York borsası haftanın ilk işlem gününü karışık seyirle tamamladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/16/new-york-borsasi-yukselisle-acildi-d8kq_cover.gif",
     "keyword": null
   }
 ]
