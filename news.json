@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3951a41",
+    "title": "ABD'nin İran ikilemi: Kara harekâtı mı diyalog mu?",
+    "source": "DW Türkçe",
+    "time": "30/03/2026 15:25",
+    "link": "https://www.dw.com/tr/abd-nin-iran-ikilemi-kara-harekâtı-mı-diyalog-mu/a-76589017",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pakistan, ABD ve İran arasında \"anlamlı görüşmelere\" hazırlandıklarını bildirdi. Açıklama, ABD'nin İran'a kara harekâtı başlatacağına dair endişelerin arttığı sırada geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_49a08625",
     "title": "Almanya: AfD üyesi aracını kundaklayıp suçu sol gruplara attı",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran savaşı petrol fiyatlarını yukarı iterken, Almanya'da akaryakıt fiyatlarını kontrol altına almak için yeni fiyatlandırma sistemine geçiliyor. Uygulama 1 Nisan'da başlayacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_70c07d95",
-    "title": "İsrail: Dev bütçe onaylandı, erken seçim ihtimali rafa kalktı",
-    "source": "DW Türkçe",
-    "time": "30/03/2026 14:45",
-    "link": "https://www.dw.com/tr/israil-dev-bütçe-onaylandı-erken-seçim-ihtimali-rafa-kalktı/a-76593127",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail parlamentosu 270 milyar dolarlık 2026 bütçesini onayladı. Bütçede savunma harcamaları yüzde 20 artırılarak, 45 milyar dolara yükseltildi.",
     "image": null,
     "keyword": null
   }
