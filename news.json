@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83822eb1",
+    "title": "Fed Başkanı Powell, politikalarının \"bekle-gör\" için uygun konumda olduğunu söyledi",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 01:44",
+    "link": "https://www.aa.com.tr/tr/guncel/fed-baskani-powell-politikalarinin-bekle-gor-icin-uygun-konumda-oldugunu-soyledi/3885485",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Bankası (Fed) Başkanı Jerome Powell, Orta Doğu'da yaşanan gelişmelerin benzin fiyatlarını etkileyeceğini belirterek, \"Ancak politikalarımızın, gelişmelerin seyrini bekleyip görmek için uygun bir konumda olduğunu düşünüyoruz.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a494e05e",
     "title": "Cumhurbaşkanı Erdoğan, IKBY Başkanı Barzani ile telefonda görüştü",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye, Mısır, Endonezya, Ürdün, Pakistan, Katar, Suudi Arabistan ve Birleşik Arap Emirlikleri Dışişleri Bakanları, yaptıkları ortak açıklama ile İsrail'in Kudüs’teki Müslümanlara ve Hristiyanlara ait kutsal mekânlara ilişkin hukuki ve tarihi statükoyu değiştirmeye yönelik her türlü girişimini kınadıklarını ve reddettiklerini bildirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/turkiye-dahil-8-ulkeden-ortak-kudus-aciklamasi-israile-dikkat-ceken-uyari-ded3.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ae627eaf",
-    "title": "İşgalci İsrail'in Lübnan'da bir pazar yeri ve evi hedef alması sonucu 8 kişi öldü",
-    "source": "TRT Haber",
-    "time": "31/03/2026 00:44",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnanda-bir-pazar-yeri-ve-evi-hedef-almasi-sonucu-8-kisi-oldu-939709.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İşgalci İsrail ordusunun Lübnan'ın güneyinde bir pazar yeri ile evi bombalaması sonucu 8 kişi hayatını kaybetti.",
-    "image": null,
     "keyword": null
   }
 ]
