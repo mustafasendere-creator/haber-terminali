@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cd42ff99",
+    "title": "Çizgilik - 30 Mart 2026",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 04:24",
+    "link": "https://www.cumhuriyet.com.tr/cizerler/cizgilik-30-mart-2026-2490664",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": ".",
+    "image": "https://media.cumhuriyet.com.tr/Archive/02cd8347-af59-489a-bba9-98deec5e1ae2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_63489281",
     "title": "Kim Kime Dum Duma - 30 Mart 2026",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Afyonkarahisar'ın Sinanpaşa ilçesinde tır ile hafif ticari aracın çarpışması sonucu bir kişi öldü, bir kişi yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f12d8844",
-    "title": "İsrail'in Gazze'ye düzenlediği hava saldırısında 2 Filistinli öldü",
-    "source": "TRT Haber",
-    "time": "30/03/2026 02:24",
-    "link": "https://www.trthaber.com/haber/dunya/israilin-gazzeye-duzenledigi-hava-saldirisinda-2-filistinli-oldu-939575.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrailin Gazze kentinin güneyindeki Zeytun Mahallesine düzenlediği insansız hava aracı İHA saldırısında 2 Filistinli hayatını kaybetti, 1'i de ağır yaralandı.",
     "image": null,
     "keyword": null
   }
