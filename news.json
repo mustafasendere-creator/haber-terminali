@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88628ef1",
+    "title": "Trump: 'Kısa süre içinde anlaşma sağlanamazsa İran'ın Hark Adası'ndaki petrol merkezini yok ederiz'",
+    "source": "Euronews",
+    "time": "30/03/2026 16:25",
+    "link": "http://tr.euronews.com/2026/03/30/trump-kisa-sure-icinde-anlasma-saglanamazsa-iranin-hark-adasindaki-petrol-merkezini-yok-ed",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın ham petrol ihracatının yaklaşık yüzde 90'ı Basra Körfezi'nin kuzeyindeki bu küçük ada üzerinden ülkeyi terk ediyor ve bu petrolün büyük bir kısmı Çin ve diğer Asya pazarlarına gidiyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0fbda069",
     "title": "Tamire götürülen araç kaza yaptı: 1 yaralı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sosyal medyada bir IDF askerinin Filistinli bir kadını tekmelediğine dair bir video paylaşıldı.",
     "image": "https://md.teyit.org/2026/03/israilli-kadin-asker-filistinli-kadin.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_a029a28d",
-    "title": "Ortaylı ailesinden 'miras' açıklaması",
-    "source": "OdaTV",
-    "time": "30/03/2026 15:27",
-    "link": "https://www.odatv.com/guncel/ortayli-ailesinden-miras-aciklamasi-120141331",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ortaylı ailesi, dijital mirasını yaşatmak için İlber Ortaylı&#039;nın sosyal medya hesaplarını açık tutacaklarını duyurdu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/ortayli-ailesinden-miras-aciklamasi-accv.jpg",
     "keyword": null
   }
 ]
