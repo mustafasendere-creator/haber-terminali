@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_963295b3",
+    "title": "Elektrikli üç tekerlekli motosiklet alev alev yandı",
+    "source": "Gazete Duvar",
+    "time": "30/03/2026 15:45",
+    "link": "https://www.gazeteduvar.com.tr/elektrikli-uc-tekerlekli-motosiklet-alev-alev-yandi-haber-1765775",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konya&#039;nın Beyşehir ilçesinde park halindeki elektrikli üç tekerlekli motosiklet alev alev yandı. O anlar kameraya yansırken, sürücü ve çevredekiler korku ve panik yaşadı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/03/30/f5haber-ixmd_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_39373299",
     "title": "Tokat'ta motosikletle otomobil çarpıştı",
     "source": "Gazete Duvar",
@@ -946,17 +958,5 @@
     "summary": "Ordu’nun Ünye ilçesinde yer alan ve tarihi kilise kalıntıları barındıran Ayanikola Adası için restorasyon projesi onaylandı. Ada, çalışmaların ardından turizme kazandırılacak.",
     "image": "https://resim.haber61.net/news/610018.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_0258c321",
-    "title": "Trabzonlu Bakan Uraloğlu duyurdu; Türkiye 5G’ye Geçiyor",
-    "source": "Taka Gazetesi",
-    "time": "30/03/2026 15:05",
-    "link": "https://www.takagazete.com.tr/video/trabzonlu-bakan-uraloglu-duyurdu-turkiye-5gye-geciyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ulaştırma Bakanı Abdulkadir Uraloğlu, Türkiye’de 5G hizmetinin 1 Nisan 2026 itibarıyla 81 ilde kademeli olarak başlayacağını açıkladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/560e257c-2348-4031-8e20-c8aa5a23c35f.jpg",
-    "keyword": "trabzon"
   }
 ]
