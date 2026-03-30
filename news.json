@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e250b28",
+    "title": "Filistin: İsrail'in idam yasası halkımıza karşı savaş suçudur",
+    "source": "TRT Haber",
+    "time": "30/03/2026 22:45",
+    "link": "https://www.trthaber.com/haber/dunya/filistin-israilin-idam-yasasi-halkimiza-karsi-savas-sucudur-939702.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filistin Devlet Başkanlığı, İsrail'in Filistinli esirleri hedef alacak \"idam yasası\" için, \"Bu halkımıza karşı savaş suçudur\" açıklamasında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5344274a",
     "title": "Bakanlık Giresun'daki kazayla ilgili adli sürece müdahil olacak",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Haber61TV’de yayınlanan Spor Gündemi programında konuşan Haluk Ayyıldız, Trabzonspor’un Galatasaray karşılaşmasına önemli risklerle çıkacağını söyledi. Ayyıldız, sarı kart sınırındaki isimler ve Batagov’un sakatlığına dikkat çekti.",
     "image": "https://resim.haber61.net/news/610055.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_765590db",
-    "title": "1 Nisan’da Büyük Ceza Başlıyor! Sahte Plakaya 140 Bin TL Şok",
-    "source": "Taka Gazetesi",
-    "time": "30/03/2026 21:04",
-    "link": "https://www.takagazete.com.tr/1-nisanda-buyuk-ceza-basliyor-sahte-plakaya-140-bin-tl-sok",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trafikte yeni dönem başlıyor. İçişleri Bakanlığı, sahte ve standart dışı plaka kullananlara karşı en ağır yaptırımlardan birini devreye alıyor. 1 Nisan itibarıyla denetimler başlıyor, cezalar anında kesilecek.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/t-r-a-f-i-k-10.jpg",
-    "keyword": null
   }
 ]
