@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7fe047dd",
+    "title": "MAÇ SONUCU | Almanya 2-1 Gana",
+    "source": "Haber Global",
+    "time": "31/03/2026 00:05",
+    "link": "https://haberglobal.com/spor/mac-ozeti-almanya-2-1-gana-hazirlik-maci-516150",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 Dünya Kupası'na katılmayı garantileyen Almanya, hazırlık maçında Gana'yı 2-1 mağlup etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/mac-ozeti-almanya-2-1-gana-hazirlik-maci-vsjo.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ae8918b3",
     "title": "New York borsası günü karışık seyirle kapattı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yunanistan Basketbol Ligi'nin 23. haftasında Olympiakos, konuk olduğu Panathinaikos'u 101-94 yendi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/yunanistandaki-olayli-derbiyi-ergin-ataman-kaybetti-mlwt.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9e250b28",
-    "title": "Filistin: İsrail'in idam yasası halkımıza karşı savaş suçudur",
-    "source": "TRT Haber",
-    "time": "30/03/2026 22:45",
-    "link": "https://www.trthaber.com/haber/dunya/filistin-israilin-idam-yasasi-halkimiza-karsi-savas-sucudur-939702.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filistin Devlet Başkanlığı, İsrail'in Filistinli esirleri hedef alacak \"idam yasası\" için, \"Bu halkımıza karşı savaş suçudur\" açıklamasında bulundu.",
-    "image": null,
     "keyword": null
   }
 ]
