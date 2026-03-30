@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_abb15545",
+    "title": "İtalya'da ünlü tabloların bulunduğu özel bir vakfın müzesi soyuldu",
+    "source": "Anadolu Ajansı",
+    "time": "30/03/2026 16:24",
+    "link": "https://www.aa.com.tr/tr/guncel/italyada-unlu-tablolarin-bulundugu-ozel-bir-vakfin-muzesi-soyuldu/3885192",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya’nın kuzeyindeki Parma kenti yakınlarında, Magnani Rocca Vakfı’nın merkezi Villa dei Capolavori'de, toplam değeri 9 milyon avroyu bulan eserlerin çalındığı büyük bir soygun yaşandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c88ddc89",
     "title": "Enerjide tam bağımsız Türkiye",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Büyükşehir Belediye Başkanı Dr. Cemil Tugay’ın göreve geldiği günden bu yana yoğun çaba harcadığı Karşıyaka Stadı’nın yapımına ilişkin iş birliği protokolü imzalandı. Karşıyaka Stadı’nın İzmir Büyükşehir Belediyesi tarafından inşa edilmesine yönelik protokol metnine Başkan Cemil Tugay ve Gençlik ve Spor İzmir İl Müdürü Murat Eskici imza attı. Protokol kapsamında atılan imzalarla birlikte Karşıyaka’daki stat sorununun tarihe karışması için yapım süreci başladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/138d4457-0d26-48c5-9f33-6820e50a4dc5.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_b326a27c",
-    "title": "O sözleri sosyal medyada gündem oldu: İşte İmamoğlu'nun 'kadın cumhurbaşkanı' çıkışının arka yüzü...",
-    "source": "Cumhuriyet",
-    "time": "30/03/2026 15:26",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/o-sozleri-sosyal-medyada-gundem-oldu-iste-imamoglu-nun-kadin-cumhurbaskani-cikisinin-arka-yuzu-2490831",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bugün, hakkında açılan \"bilirkişi\" davası kapsamında hakim karşısına çıkan tutuklu İBB Başkanı Ekrem İmamoğlu'nun savunmasındaki \"kadın cumhurbaşkanı\" çıkışı kısa sürede gündem oldu. Peki İmamoğlu o sözlerinden önce ve sonra ne dedi? İşte İmamoğlu'nun o çıkışının arka yüzü...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1ffae37c-9897-4f8f-a9b3-7a91ca1593cd.jpg",
     "keyword": null
   }
 ]
