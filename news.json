@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dc50966a",
+    "title": "Almanya'da yeni akaryakıt uygulaması 1 Nisan'da başlıyor",
+    "source": "DW Türkçe",
+    "time": "30/03/2026 14:45",
+    "link": "https://www.dw.com/tr/almanya-da-yeni-akaryakıt-uygulaması-1-nisan-da-başlıyor/a-76592015",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran savaşı petrol fiyatlarını yukarı iterken, Almanya'da akaryakıt fiyatlarını kontrol altına almak için yeni fiyatlandırma sistemine geçiliyor. Uygulama 1 Nisan'da başlayacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_70c07d95",
     "title": "İsrail: Dev bütçe onaylandı, erken seçim ihtimali rafa kalktı",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran savaşı ve ABD’deki kuraklık, küresel tarım piyasalarında riskleri büyüttü. Hürmüz Boğazı’ndaki aksaklıklar gübre ve yakıt sevkiyatını sekteye uğratırken, buğday fiyatları yukarı yönlü hareket etti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/08/ata-tohumu-ahmet-bugdayi-yeniden-tarlada-eeme.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_893273b0",
-    "title": "İsviçre MB, repo işlemlerinde T+2 takas süresini koruyacak",
-    "source": "Ekonomim",
-    "time": "30/03/2026 13:06",
-    "link": "https://www.ekonomim.com/sirketler/isvicre-mb-repo-islemlerinde-t2-takas-suresini-koruyacak-haberi-884838",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsviçre Merkez Bankası (SNB), menkul kıymet piyasalarında T+1 takas döngüsüne geçilmesine rağmen, SNB repo işlemleri ve SNB bonoları için takas süresinin T+2 olarak kalacağını açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/02/isvicre-merkez-bankasi-altin-fiyatlarindaki-yukselis-ile-gecen-yil-261-milyar-frank-kar-etti-xfv3_cover.png",
     "keyword": null
   }
 ]
