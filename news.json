@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a494e05e",
+    "title": "Cumhurbaşkanı Erdoğan, IKBY Başkanı Barzani ile telefonda görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 01:44",
+    "link": "https://www.aa.com.tr/tr/guncel/cumhurbaskani-erdogan-ikby-baskani-barzani-ile-telefonda-gorustu/3885493",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Irak Kürt Bölgesel Yönetimi (IKBY) Başkanı Neçirvan Barzani ile bir telefon görüşmesi gerçekleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_00b74425",
     "title": "Özgür Özel'den Mesut Özarslan'a: Git AKP'ye katıl",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İşgalci İsrail ordusunun Lübnan'ın güneyinde bir pazar yeri ile evi bombalaması sonucu 8 kişi hayatını kaybetti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8b248ad7",
-    "title": "Belçika'da Senato'nun ilga edilmesine yönelik ilk adım atıldı",
-    "source": "TRT Haber",
-    "time": "31/03/2026 00:44",
-    "link": "https://www.trthaber.com/haber/guncel/belcikada-senatonun-ilga-edilmesine-yonelik-ilk-adim-atildi-939710.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Belçika'da federal parlamentonun üst kanadı Senato'nun ilga edilmesine yönelik ilk adım atıldı.",
     "image": null,
     "keyword": null
   }
