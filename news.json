@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7b42ae9d",
+    "title": "OMODA’dan Türkiye çıkarması",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 05:04",
+    "link": "https://www.cumhuriyet.com.tr/otomobil/omoda-dan-turkiye-cikarmasi-2490673",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çinli otomotiv şirketi OMODA & JAECOO, Türkiye pazarındaki stratejisini güncelleyerek “çift marka” dönemini başlattı. Lansmana özel fiyatlarla sunulan OMODA 7 ve yeni OMODA 5, akıllı teknolojileriyle dikkat çekiyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/69da3f26-8dd5-44c8-b23a-47b3129c2e5d.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_d42f2524",
     "title": "NATO Kolordu Karargâhı’nın ardından İstanbul’a ‘Deniz Unsur Komutanlığı’ konuşlanıyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Aras Kargo, Voleybol Sultanlar Ligi play-off 5-8 etabı ilk maçında kendi evinde ağırladığı Nilüfer Belediyespor'u 3-1 mağlup ederek seride öne geçti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/b63978c7-9c7c-41db-a352-1821d5f75278.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_76d50330",
-    "title": "İran, Beerşeba'da fabrika vurdu!",
-    "source": "Haber Global",
-    "time": "30/03/2026 02:44",
-    "link": "https://haberglobal.com/dunya/iran-beersebada-fabrika-vurdu-515955",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları, İsrail'de Beerşeba yakınlarındaki bir fabrikayı vurdu. Yetkililer, saldırıda bir kişinin yaralandığı belirterek, bölgeye yaklaşılmaması konusunda uyarıda bulundu. Bölgeden ilk görüntüler geldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/29/iran-beersebada-fabrika-vurdu-berj.jpg",
     "keyword": null
   }
 ]
