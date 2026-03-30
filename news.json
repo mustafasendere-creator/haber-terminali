@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7bf56aaa",
+    "title": "İran savaşı: İspanya ABD'ye hava sahasını da kapattı",
+    "source": "DW Türkçe",
+    "time": "30/03/2026 18:45",
+    "link": "https://www.dw.com/tr/iran-savaşı-ispanya-abd-ye-hava-sahasını-da-kapattı/a-76597007",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran savaşına karşı çıkan ve ABD'ye askerî üslerini kullandırtmayarak Başkan Trump'ın tepkisini çeken İspanya, hava sahasını da ABD savaş uçaklarına kapattığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c421885f",
     "title": "MSB: İran'dan dördüncü füze etkisiz hale getirildi",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Avrupa Birliği AB Konseyi, İranda ciddi insan hakları ihlallerine karşı uygulanan kısıtlayıcı tedbirlerin süresinin 13 Nisan 2027ye kadar uzatıldığını bildirdi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_e91819a7",
-    "title": "Hayrat’ta Geleceğin Okulu İnşa Ediliyor: Okul Değil, Gelecek Tasarlanıyor",
-    "source": "Taka Gazetesi",
-    "time": "30/03/2026 17:05",
-    "link": "https://www.takagazete.com.tr/foto-galeri/hayratta-gelecegin-okulu-insa-ediliyor-okul-degil-gelecek-tasarlaniyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon İl Millî Eğitim Müdürlüğünce yürütülen HOPO (Her Okulun Projesi Olsun) Projesi kapsamında Hayrat İmam Hatip Ortaokulu öğrencileri, geliştirdikleri “Sürdürülebilir Dijital Okul” modeliyle dikkat çekiyor. Proje ile öğrenciler, okullarını bir öğrenme ortamının ötesine taşıyarak adeta bir veri laboratuvarına dönüştürüyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/hayrat-okul-haber-1-1.jpg",
-    "keyword": "trabzon"
   }
 ]
