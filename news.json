@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c5e8f439",
+    "title": "Gazeteci Alican Uludağ'a 19 yıla kadar hapis istemi",
+    "source": "BBC Türkçe",
+    "time": "30/03/2026 20:04",
+    "link": "https://www.bbc.com/turkce/articles/cjd9x7k4xymo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Cumhuriyet Başsavcılığının 'Cumhurbaşkanına alenen hakaret' ve 'yanıltıcı bilgiyi alenen yayma' suçlarından hakkında başlattığı soruşturma nedeniyle tutuklanan Uludağ hakkında iddianame tamamlandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_652cc91e",
     "title": "Özgür Bayraktar MHP'nin yeni genel başkan yardımcısı oldu",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediyesi tarafından Trabzon’a kazandırılan Engelsiz Yaşam Parkı, özel gereksinimli bireylerin sosyal hayata katılımını artırmak amacıyla düzenlenen törenle açıldı.",
     "image": "https://resim.haber61.net/news/610015.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_d759fd8a",
-    "title": "Samsun Vezirköprü’de çocuklara yönelik riskler masaya yatırıldı",
-    "source": "Haber61",
-    "time": "30/03/2026 18:04",
-    "link": "https://www.haber61.net/bolgesel/samsun-vezirkoprude-cocuklara-yonelik-riskler-masaya-yatirildi-h628099.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Vezirköprü’de düzenlenen koordinasyon toplantısında, çocukların suça sürüklenmesini önlemeye yönelik tedbirler ve eğitim süreçlerine katılımın artırılması için yapılacak çalışmalar ele alındı.",
-    "image": "https://resim.haber61.net/news/610040.jpg",
     "keyword": null
   }
 ]
