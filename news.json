@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0258ebb5",
+    "title": "Çiğli Bakırçay KYK kız yurdunda yaşanan taciz: Yurt müdürü görevden alındı",
+    "source": "Evrensel",
+    "time": "31/03/2026 00:05",
+    "link": "https://www.evrensel.net/haber/5977465/cigli-bakircay-kyk-kiz-yurdunda-yasanan-taciz-yurt-muduru-gorevden-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Valiliği, İzmir Çiğli KYK kız öğrenci yurdunda yaşanan taciz ve güvenlik ihmalleri ile ilgili soruşturma başlatıldığını ve yurt müdürü N.D.D.'nin bugün itibarıyla görevden alındığını duyurdu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340753.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4c3d88fc",
     "title": "İstanbul Tabip Odası seçimleri: Demokratik Katılım Grubu adaylarını açıkladı",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sanık sandalyesinde oturanlar arasında Fransa dış istihbarat servisi (DGSE) mensubu dört asker, iki polis memuru, emekli bir iç istihbarat (DGSI) görevlisi, bir güvenlik görevlisi ve iki iş insanı bulunuyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_cd3bd988",
-    "title": "ABD'nin Venezuela Büyükelçiliği yedi yıl sonra kapılarını yeniden açtı",
-    "source": "Euronews",
-    "time": "30/03/2026 22:44",
-    "link": "http://tr.euronews.com/2026/03/30/abdnin-venezuela-buyukelciligi-yedi-yil-sonra-kapilarini-yeniden-acti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanlığı'ndan pazartesi günü yapılan açıklamada, \"Bugün Karakas'taki ABD Büyükelçiliği'nde operasyonlarımıza resmen yeniden başlıyoruz. Bu adım, Venezuela'daki diplomatik varlığımızda yeni bir dönemin başlangıcıdır,\" ifadelerine yer verildi.",
     "image": null,
     "keyword": null
   }
