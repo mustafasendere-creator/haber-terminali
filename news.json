@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da928c55",
+    "title": "Kanserli köpeğe yapay zekayla üretilen aşıdan, yaşamın yapı taşlarına mart ayındaki bilimsel gelişmeler",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 18:45",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/kanserli-kopege-yapay-zekayla-uretilen-asidan-yasamin-yapi-taslarina-mart-ayindaki-bilimsel-gelismeler-2490916",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mart ayı, Avustralya'da kanser hastası bir köpeğe yapay zeka yardımıyla üretilen aşıya ilişkin bulguların paylaşılması ve Ryugu asteroidinde yaşamın temel yapı taşlarının keşfedilmesi başta olmak üzere birçok bilimsel gelişmeye sahne oldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f0e48605-51d9-472d-a7c3-895211ca4aa4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f7c36d18",
     "title": "CHP'de Özkan Yalım'ın üyeliği askıya alındı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Kar yağışını bekleyenlere müjde! Türkiye genelinde 31 Mart 2026 Salı günü hangi illere kar yağacağı belli oldu. Meteoroloji Genel Müdürlüğü tarafından yapılan tahminlerde 2 şehre kar yağması bekleniyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/bu-sehirlere-31-mart-2026-sali-gunu-lapa-lapa-kar-yagacak-tyt8.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_bf89fb9f",
-    "title": "Başkan Genç: Engelleri Kaldırıyoruz",
-    "source": "Karadeniz Gazetesi",
-    "time": "30/03/2026 17:06",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/baskan-genc-engelleri-kaldiriyoruz/607303",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Engelsiz Yaşam Parkı’nın açılış törenine katılan Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, \"Meydan bölgesine gelen ailelerimizin çocuklarını güvenle bırakabilecekleri ve kısa süreliğine rahat bir nefes alabilecekleri bu mekanı hayata geçirme anlayışıyla yola çıktık. Ortahisar Belediyemizin projeye sahip çıkması ve tamamlaması, bu anlayışın en güzel örneklerinden biridir\" dedi.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
