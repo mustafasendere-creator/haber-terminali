@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d9fe9164",
+    "title": "Paris’te otobüs ve kamyon şoförleri akaryakıt fiyatlarındaki artışa karşı eylem yaptı",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 01:24",
+    "link": "https://www.aa.com.tr/tr/guncel/paris-te-otobus-ve-kamyon-soforleri-akaryakit-fiyatlarindaki-artisa-karsi-eylem-yapti/3885531",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa’nın başkenti Paris’te otobüs ve kamyon şoförleri Orta Doğu’daki gerilimin akaryakıt fiyatlarında yarattığı artışa karşı hükümetin yaptığı yardımların yetersiz kalmasını protesto etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_69444e36",
     "title": "Trump'tan, \"İran'daki yeni isimlerin şimdiye kadar çok daha makul davrandıkları\" iddiası",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, uluslararası basında yer alan haberlere ilişkin, \"İranın düşmanları arzularını haber olarak ortaya koyuyor.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_359f77cd",
-    "title": "Bizim Çocuklar Dünya Kupası bileti için Kosova karşısında",
-    "source": "TRT Haber",
-    "time": "31/03/2026 00:25",
-    "link": "https://www.trthaber.com/haber/gundem/bizim-cocuklar-dunya-kupasi-bileti-icin-kosova-karsisinda-939708.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Futbol Takımı, 2026 FIFA Dünya Kupası Avrupa Elemeleri playoff turu finalinde bugün deplasmanda Kosova ile karşı karşıya gelecek. Kosova'nın Başkenti Priştine'deki Fadil Vokrri Stadı'nda oynanacak karşılaşma, TSİ 21.45'te başlayacak.",
     "image": null,
     "keyword": null
   }
