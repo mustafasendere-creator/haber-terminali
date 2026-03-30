@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_edf9c039",
+    "title": "Otomobil kavşakta devrildi: Ortalık savaş alanına döndü",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 01:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/otomobil-kavsakta-devrildi-ortalik-savas-alanina-dondu-2490961",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konya’nın Beyşehir ilçesinde kontrolden çıkan otomobil, kavşakta devrildi. Ortalığın adeta savaş alanına döndüğü kazada sürücü yaralandı. Kazayla ilgili incelemeler sürüyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/575ba71b-5b7a-4f74-b16f-e47bd14a0b10.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5858e06f",
     "title": "Uşak Belediye Başkanı Özkan Yalım tutuklandı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa&#039;nın Osmangazi ilçesinde etkili olan yoğun yağışlar nedeniyle bir binanın yanında bulunan istinat duvarı çöktü. Duvarın yıkılmasıyla birlikte bazı ağaçlar kökünden sökülerek binaya doğru devrildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/bursada-feci-anlar-solu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e1fcab5f",
-    "title": "Dursun Özbek'ten kritik ziyaret",
-    "source": "OdaTV",
-    "time": "31/03/2026 00:26",
-    "link": "https://www.odatv.com/spor/dursun-ozbekten-kritik-ziyaret-120141379",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray Başkanı Dursun Özbek, İçişleri Bakanı Mustafa Çiftçi’yi makamında ziyaret ederek Konya’nın plaka kodu 42 numaralı formayı hediye etti. Ziyarette Özbek’e Abdullah Kavukcu ve Özkan Tamirak eşlik etti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/dursun-ozbekten-kritik-ziyaret-5cms.jpg",
     "keyword": null
   }
 ]
