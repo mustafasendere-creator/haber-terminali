@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8c77bc89",
+    "title": "Galatasaray maçı öncesi Trabzonspor'da Ernest Muçi gelişmesi!",
+    "source": "Cumhuriyet",
+    "time": "30/03/2026 03:04",
+    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-maci-oncesi-trabzonspor-da-ernest-muci-gelismesi-2490605",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Süper Lig'in 28. haftasında kendi sahasında Galatasaray ile karşılaşacak Trabzonspor'da Arnavut oyuncu Ernest Muçi'nin milli takım kampından ayrılarak kente döndüğü aktarıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c7102ea3-81bd-4802-8a4b-d6ad9c3b71e3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_022c0b9d",
     "title": "DSÖ duyurdu! İsrail'in Lübnan'a saldırılarında bir sağlık görevlisi daha hayatını kaybetti",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İşgalci İsrail ordusunun Lübnan'ın güneyindeki beldelere gece saatlerinden bu yana düzenlediği hava saldırılarında 13 kişi hayatını kaybetti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_dde09eac",
-    "title": "Tahran'da Mihrabad Havalimanı ve Tebriz'de petrokimya tesisine saldırı düzenlendi",
-    "source": "TRT Haber",
-    "time": "30/03/2026 01:24",
-    "link": "https://www.trthaber.com/haber/dunya/tahranda-mihrabad-havalimani-ve-tebrizde-petrokimya-tesisine-saldiri-duzenlendi-939573.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran devlet televizyonu, Tahran'da Mihrabad Havalimanı ve Tebriz'de bir petrokimya tesisine saldırı düzenlendiğini bildirdi.",
     "image": null,
     "keyword": null
   }
