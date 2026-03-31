@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e2a1367",
+    "title": "İstanbul'da bu hafta birçok etkinlik sanatseverlerle buluşacak",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 20:56",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/istanbul-da-bu-hafta-bircok-etkinlik-sanatseverlerle-bulusacak-2491270",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tiyatrodan operaya, konserlerden söyleşi ve atölyelere uzanan çeşitli etkinlikler İstanbulluları buluşturacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0617f93a-4336-4233-b1d0-9c52f9591030.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bebe5f5f",
     "title": "Ziraat Bankkart, CEV Şampiyonlar Ligi'nde Dörtlü Final'e çıktı!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Gelir İdaresi Başkanlığı GİB, dijital ortamdaki ilan tutarlarının, gerçekleşen alımsatım bedelleri, emsal ve piyasa verileriyle karşılaştırıldığını açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6480a6ae",
-    "title": "Pezeşkiyan'dan Savaşı sonlandırmak için gerekli iradeye sahibiz mesajı",
-    "source": "TRT Haber",
-    "time": "31/03/2026 20:16",
-    "link": "https://www.trthaber.com/haber/dunya/pezeskiyandan-savasi-sonlandirmak-icin-gerekli-iradeye-sahibiz-mesaji-939832.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Cumhurbaşkanı Pezeşkiyan: Saldırıların tekrarlanmaması için gerekli güvenceler sağlanırsa savaşı sonlandırmak için gerekli iradeye sahibiz.",
     "image": null,
     "keyword": null
   }
