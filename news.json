@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f28bdf73",
+    "title": "İSTANBUL GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ",
+    "source": "Haber Global",
+    "time": "01/04/2026 00:15",
+    "link": "https://haberglobal.com/resmi-ilanlar/istanbul-genclik-ve-spor-il-mudurlugu-516088",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/ihaleyeni3-otrp.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_945cf426",
     "title": "Gaziantep'te silah kaçakçılığı operasyonu: 4 kişi yakalandı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran füze saldırılarının ardından İsrail'in orta kesimlerinde çıkan yangına müdahale eden ekipler, çok sayıda yaralı olduğunu bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5d2946cb",
-    "title": "Lübnan Adalet Bakanı'ndan İsrail’in tampon bölge planına karşı müzakere çağrısı",
-    "source": "Euronews",
-    "time": "31/03/2026 23:34",
-    "link": "http://tr.euronews.com/my-europe/2026/03/31/lubnan-adalet-bakanindan-israilin-tampon-bolge-planina-karsi-muzakere-cagrisi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Adalet Bakanı Adel Nassar, İsrail’in güney sınırında tampon bölgeyi genişletme planları sürerken ülkedeki durumun 'dramatik' olduğu uyarısında bulundu. Nassar, bir felaketin önlenmesi için diplomasi çağrısı yaparken, Hizbullah’ı silah bırakmayarak diplomatik çabaları baltalamakla eleştirdi.",
     "image": null,
     "keyword": null
   }
