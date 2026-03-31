@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d49b92cf",
+    "title": "İsrail’den Tahran’a hava saldırısı: 'Askeri tesisler vuruldu' iddiası",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 21:56",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/israil-den-tahran-a-hava-saldirisi-askeri-tesisler-vuruldu-iddiasi-2491283",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, İran’ın başkenti Tahran’da askeri sanayi altyapısını hedef alan geniş çaplı hava saldırıları düzenlediğini açıkladı. İran ise saldırılarda bir ilaç üretim tesisinin vurulduğunu duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c3ddcfc7-331f-4ce7-ab1e-c3bfde766856.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e21e740b",
     "title": "Mustafa Bozbey gözaltına alındı: Ekrem İmamoğlu'ndan ilk tepki!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Sosyal Güvenlik Kurumu, sistem altyapısında yaşanan teknik aksaklıklar nedeniyle bugün sona ermesi gereken borç ödemelerinin 7 Nisan'a kadar uzatıldığını duyurdu.",
     "image": "https://resim.haber61.net/news/610226.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9bc40d8b",
-    "title": "Can Holding soruşturmasında yeni gelişme: Kenan Tekdağ tahliye edildi",
-    "source": "OdaTV",
-    "time": "31/03/2026 20:57",
-    "link": "https://www.odatv.com/guncel/can-holding-sorusturmasinda-yeni-gelisme-kenan-tekdag-tahliye-edildi-120141523",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“Suç örgütü kurma” ve “kara para aklama” suçlamaları kapsamında tutuklanan Can Yayın Holding Yönetim Kurulu Başkanı Kenan Tekdağ, yürütülen soruşturmada verilen ara kararla tahliye edildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/can-holding-sorusturmasinda-yeni-gelisme-kenan-tekdag-tahliye-edildi-dyoh.jpg",
     "keyword": null
   }
 ]
