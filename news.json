@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f3d7396e",
+    "title": "Meteoroloji'den Akdeniz için fırtına uyarısı: Hangi illerde kar ve yağmur bekleniyor? (31.03.2026)",
+    "source": "Evrensel",
+    "time": "31/03/2026 08:05",
+    "link": "https://www.evrensel.net/haber/5977485/meteoroloji-den-akdeniz-icin-firtina-uyarisi-hangi-illerde-kar-ve-yagmur-bekleniyor-31-03-2026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğünün son tahminine göre, bazı bölgelerde yağışlı hava bugün de etkisini sürdürecek. Bölge bölge hava durumu tahmini haberimizde.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340932.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0548c234",
     "title": "Venezuela'daki ABD Büyükelçiliği yedi yıl sonra yeniden açıldı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tutuklu gazeteci Alican Uludağ hakkında, \"Cumhurbaşkanına alenen hakaret\", \"Yanıltıcı bilgiyi alenen yayma\" ve \"Türkiye Cumhuriyeti hükümetini ve devletin yargı organlarını alenen aşağılama\" iddialarıyla 19 yıl 6 aya kadar hapis cezası istendi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334952.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3cad26f9",
-    "title": "Uşak Belediyesine operasyon: Özkan Yalım'ın da aralarında bulunduğu 13 kişi hakkında tutuklama talebi",
-    "source": "Evrensel",
-    "time": "31/03/2026 04:04",
-    "link": "https://www.evrensel.net/haber/5977442/usak-belediyesine-operasyon-ozkan-yalim-in-da-aralarinda-bulundugu-13-kisi-hakkinda-tutuklama-talebi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uşak Belediyesine yönelik soruşturma kapsamında gözaltına alınan, aralarında Uşak Belediye Başkanı Özkan Yalım'ın da bulunduğu 13 kişi, tutuklama talebiyle mahkemeye sevk edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340434.jpg",
     "keyword": null
   }
 ]
