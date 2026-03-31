@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_129bceba",
+    "title": "Yargı X’te: Hesap açan da o, hesap kapatan da",
+    "source": "Evrensel",
+    "time": "01/04/2026 00:54",
+    "link": "https://www.evrensel.net/haber/5977587/yargi-xte-hesap-acan-da-o-hesap-kapatan-da",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir başsavcılığın işi ‘dezenformasyon’ etiketlemek değildir. Ama bugün yargı kendi yargıladığı platformda hem savcı hem hakim hem de editör rolünü üstleniyor. Vatandaşa yasak, devlete serbest.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341025.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7efd9b9d",
     "title": "Bursa Büyükşehir Belediyesi'ne operasyon: Mustafa Bozbey dahil 55 kişi gözaltına alındı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kongo Demokratik Cumhuriyeti&#039;nin (KDC) doğusundaki Ituri eyaletine bağlı Irumu bölgesinde düzenlenen saldırılarda en az 300 sivil, isyancılar tarafından kaçırıldı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/isyancilar-300-kisiyi-kacirdi-qja2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1ef6cbd1",
-    "title": "24 yıllık hasret sona erdi: Bizim çocuklar başardı",
-    "source": "OdaTV",
-    "time": "31/03/2026 23:55",
-    "link": "https://www.odatv.com/spor/24-yillik-hasret-sona-erdi-bizim-cocuklar-basardi-120141457",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "FIFA Dünya Kupası Avrupa Elemeleri play-off finalinde Türkiye, Kosova&#039;ya konuk oldu. Karşılaşmayı 1-0 kazanan millilerimiz 24 yıl sonra Dünya Kupası&#039;na katılma şansı yakaladı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/dunya-kupasi-yolunda-kritik-viraj-macin-onune-gecti-kim-bu-iskender-bey-52nc.jpg",
     "keyword": null
   }
 ]
