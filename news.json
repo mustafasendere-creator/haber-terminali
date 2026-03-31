@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4497144a",
+    "title": "T.C. BAKIRKÖY 6. ASLİYE HUKUK MAHKEMESİ",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 02:54",
+    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-bakirkoy-6-asliye-hukuk-mahkemesi-2490955",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "T.C. BAKIRKÖY 6. ASLİYE HUKUK MAHKEMESİ",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1eaba0de-a26b-4b07-9039-fcaac00c7338.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3b17f97d",
     "title": "T.C. ŞİLE 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bir başsavcılığın işi ‘dezenformasyon’ etiketlemek değildir. Ama bugün yargı kendi yargıladığı platformda hem savcı hem hakim hem de editör rolünü üstleniyor. Vatandaşa yasak, devlete serbest.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341025.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_05e7447b",
-    "title": "Irak'ın Erbil kentinde art arda patlama sesleri duyuldu",
-    "source": "Anadolu Ajansı",
-    "time": "01/04/2026 01:34",
-    "link": "https://www.aa.com.tr/tr/guncel/irakin-erbil-kentinde-art-arda-patlama-sesleri-duyuldu/3887346",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Irak'ın Erbil kentine 10 kamikaze insansız hava aracıyla (İHA) düzenlenen saldırıda, İHA'lardan biri eve isabet etti.",
-    "image": null,
     "keyword": null
   }
 ]
