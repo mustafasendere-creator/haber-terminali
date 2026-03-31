@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f639594f",
+    "title": "İngiltere’de doktorlar 7 Nisan'da greve çıkacak: Başbakan Starmer doktorları tehdit etti",
+    "source": "Evrensel",
+    "time": "31/03/2026 19:35",
+    "link": "https://www.evrensel.net/haber/5977614/ingilterede-doktorlar-7-nisanda-greve-cikacak-basbakan-starmer-doktorlari-tehdit-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiltere’de ücretlerinde ve iş koşullarında iyileştirme isteyen pratisyen doktorlar, 7-15 Nisan tarihlerinde greve çıkacak. Başbakan Starmer, doktorları grevi iptal etmemeleri halinde en az bin yeni doktor istihdamından vazgeçmekle tehdit etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/243076.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a45abc22",
     "title": "Kayseri'de köpeği asarak öldüren kişi gözaltına alındı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hazine ve Maliye Bakanlığı, nisan-haziran döneminde 1 trilyon 395,6 milyar liralık iç borç servisine karşılık 1 trilyon 369,3 milyar liralık iç borçlanmaya gidecek.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_ac1d758b",
-    "title": "Dış Ticaret Açığı Alarm Veriyor! İthalat Hız Kesti mi?",
-    "source": "Taka Gazetesi",
-    "time": "31/03/2026 18:34",
-    "link": "https://www.takagazete.com.tr/dis-ticaret-acigi-alarm-veriyor-ithalat-hiz-kesti-mi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TÜİK verilerine göre Şubat 2026’da ihracat 21 milyar 49 milyon dolar, ithalat 30 milyar 80 milyon dolar oldu. İthalattaki daha hızlı artışla dış ticaret açığı 9 milyar 31 milyon dolara yükseldi. Ocak-Şubat döneminde açık 17 milyar 415 milyon dolara çıktı. Almanya en fazla ihracat yapılan, Çin ise en fazla ithalat yapılan ülke oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/l-i-m-a-n-3.jpg",
     "keyword": null
   }
 ]
