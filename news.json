@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17ad24d1",
+    "title": "Osmangazi’ye bahar geldi",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 13:47",
+    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/osmangazi-ye-bahar-geldi-2491147",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osmangazi Belediyesi, bahar dönemi peyzaj çalışmaları kapsamında ilçe genelindeki park, meydan ve ana arterleri mevsimlik çiçeklerle donatıyor. 2026 yılı sonuna kadar toplam 470 bin çiçeğin toprakla buluşturulması hedefleniyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/806b3988-2149-4984-bebd-47a4a80f42b4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b5f98b3f",
     "title": "Mahir Çayan ve yoldaşlarını anmak isterken gözaltına alınan 78 kişi serbest bırakıldı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bayburt İl Milli Eğitim Müdürlüğü koordinesinde yürütülen Uluslararası Kardeş Okul Projesi kapsamında Rekabet Kurumu Kız Anadolu Lisesi ile Kırgızistan'ın başkenti Bişkek'teki Kırgız-Türk Anadolu Meslek Lisesi kardeş okul oldu. Proje ile iki okul arasında dil gelişimini ve kültürel etkileşimi destekleyen ortak etkinlikler gerçekleştiriliyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/bayburt-ile-biskek-arasinda-egitim-koprusu-kuruldu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_12d988af",
-    "title": "Eurovision ilk kez Asya'ya geliyor",
-    "source": "BBC Türkçe",
-    "time": "31/03/2026 13:04",
-    "link": "https://www.bbc.com/turkce/articles/c33lz3yk6zvo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eurovision Şarkı Yarışması ilk kez Asya versiyonunu hayata geçiriyor. Güney Kore, Tayland ve Filipinler'in de aralarında bulunduğu bölgeden 10 ülkenin yayıncı kuruluşları yarışmaya katılacaklarını doğruladı",
-    "image": null,
     "keyword": null
   }
 ]
