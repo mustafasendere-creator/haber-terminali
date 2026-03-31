@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3afbf0c6",
+    "title": "İsrail Meclisi’nde kabul edildi: İrlanda’dan kınama",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 08:46",
+    "link": "https://www.cumhuriyet.com.tr/dunya/israil-meclisi-nde-kabul-edildi-irlanda-dan-kinama-2490996",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İrlanda Dışişleri, Savunma ve Ticaret Bakanı Helen McEntee, Filistinli esirleri hedef alan idam yasasının İsrail Meclisi'nde (Knesset) onaylanmasını kınadı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1d228af4-b158-476a-a1e1-00b13f6b60c4.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_e3827ed8",
     "title": "Trabzon’da Elektrik Kesintisi Alarmı! Bugün Hangi Mahallelerde Elektrik Kesintisi Yaşanacak?",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji Genel Müdürlüğünün son tahminine göre, bazı bölgelerde yağışlı hava bugün de etkisini sürdürecek. Bölge bölge hava durumu tahmini haberimizde.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340932.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0548c234",
-    "title": "Venezuela'daki ABD Büyükelçiliği yedi yıl sonra yeniden açıldı",
-    "source": "Evrensel",
-    "time": "31/03/2026 08:05",
-    "link": "https://www.evrensel.net/haber/5977486/venezueladaki-abd-buyukelciligi-yedi-yil-sonra-yeniden-acildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Venezuela'daki ABD'nin Caracas Büyükelçiliği, iki ülke arasında diplomatik ilişkilerin yeniden başlamasıyla yedi yıl aranın ardından faaliyetlerine başladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340938.jpg",
     "keyword": null
   }
 ]
