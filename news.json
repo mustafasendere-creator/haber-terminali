@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_60c0a68b",
+    "title": "Ambulans ekibiyle tartışan sürücüye 180 bin lira ceza",
+    "source": "TRT Haber",
+    "time": "31/03/2026 22:55",
+    "link": "https://www.trthaber.com/haber/turkiye/ambulans-ekibiyle-tartisan-surucuye-180-bin-lira-ceza-939813.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Büyükçekmece'de trafikte tartıştığı ambulans görevlilerine hakaret eden sürücüye 180 bin lira para cezası kesildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_57e1ff39",
     "title": "Trump'tan Hürmüz Boğazı'nı kullanan ülkeler gidip açsın mesajı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Euronews'e konuşan İranlı Kürt muhalefetin sürgündeki lideri, İran rejiminde kimsenin 'güvenilir' olmadığını söyleyerek, ABD'nin İranlı yetkilileri 'makul' müzakereciler gibi gösteren iddialarını küçümsedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3cb76a87",
-    "title": "İsrail saldırıları güney Lübnan köyünü vurdu, binalar ve araçlar hasar gördü",
-    "source": "Euronews",
-    "time": "31/03/2026 22:14",
-    "link": "http://tr.euronews.com/video/2026/03/31/israil-saldirilari-guney-lubnan-koyunu-vurdu-binalar-ve-araclar-hasar-gordu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail saldırıları Lübnan’ın güneyindeki bir köyü vurdu; kurtarma ekipleri olay yerine koşarken binalar ve acil durum araçları hasar gördü.",
     "image": null,
     "keyword": null
   }
