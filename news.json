@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3607f221",
+    "title": "İsrail polisi, Filistinli esirlere idam cezasını protesto eden göstericilere müdahale etti",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 23:34",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-polisi-filistinli-esirlere-idam-cezasini-protesto-eden-gostericilere-mudahale-etti/3887154",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail polisi, Batı Kudüs'te bulunan İsrail Meclisi önünde, Filistinli esirlere idam cezası getirilmesini öngören yasa tasarısını protesto eden onlarca kişiye TOMA ve güç kullanarak müdahale etti, 2 kişiyi gözaltına aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_85ac16f6",
     "title": "Bagjan Oktyabr Türkiye turnesini tamamladı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "TBMM Başkanı Numan Kurtulmuş, İsrail Meclisi'nin Filistinli esirleri hedef alacak skandal 'idam cezası yasası'nı onaylamasını, \"Bu durum devlet gücünü ölüm yetkisine dönüştüren tehlikeli bir eşiktir\" sözleriyle değerlendirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4a3b699a",
-    "title": "Altının kilogram fiyatı 6 milyon 624 bin 899 liraya düştü",
-    "source": "TRT Haber",
-    "time": "31/03/2026 22:35",
-    "link": "https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-624-bin-899-liraya-dustu-939815.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 624 bin 899 liraya indi.",
     "image": null,
     "keyword": null
   }
