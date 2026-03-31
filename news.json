@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5f31f477",
+    "title": "Avustralya'da sosyal medya şirketlerine soruşturma",
+    "source": "DW Türkçe",
+    "time": "31/03/2026 13:06",
+    "link": "https://www.dw.com/tr/avustralya-da-sosyal-medya-şirketlerine-soruşturma/a-76603411",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avustralya, 16 yaş altındaki çocuklara getirilen sosyal medya yasağının uygulanması için çalışıyor. Soruşturulan platformlar, suçlu bulunursa 34 milyon ABD dolarına kadar para cezasına çarptırılabilirler.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d64846d7",
     "title": "Bozbey'in ailesi de var: Gözaltına alınan 55 isim belli oldu",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kocaeli Gebze'de çökme nedeniyle yolu trafiğe kapatmak için konulan beton bariyere çarpan motosikletin sürücüsü hayatını kaybetti",
     "image": "https://im.haberturk.com/l/2026/03/31/ver1774910973/3873580/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_f36921a7",
-    "title": "Basra Körfezi'nde petrol tankerinde yangın",
-    "source": "Habertürk",
-    "time": "31/03/2026 11:06",
-    "link": "https://www.haberturk.com/basra-korfezi-nde-mermi-isabet-eden-petrol-tankerinde-yangin-3873581",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere Deniz Ticaret Örgütü (UKMTO), Basra Körfezi'nde Dubai açıklarında bir petrol tankerine mermi isabet etmesi sonucu yangın çıktığını duyurdu",
-    "image": "https://im.haberturk.com/l/2026/03/31/ver1774914473/3873581/jpg/1280x1280",
     "keyword": null
   }
 ]
