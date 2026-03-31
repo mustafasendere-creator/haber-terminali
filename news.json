@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d70b2816",
+    "title": "ABD’li gazeteci Shelly Kittleson Bağdat’ta kaçırıldı: 1 kişi yakalandı",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 21:36",
+    "link": "https://www.cumhuriyet.com.tr/dunya/abd-li-gazeteci-shelly-kittleson-bagdat-ta-kacirildi-goruntuler-ortaya-cikti-2491273",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD’li gazeteci Shelly Kittleson, Irak’ın başkenti Bağdat’ta kimliği belirsiz silahlı kişiler tarafından kaçırıldı. Irak İçişleri Bakanlığı tarafından yapılan açıklamada \"Bu akşam yabancı bir gazeteci kimliği belirsiz kişiler tarafından kaçırılmıştır\" dendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/00956dc0-033b-483b-8050-7220e1864d3f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_45d4f475",
     "title": "Başkan Enes Çelik destek vermişti: Mustafa Bozbey'den Bursaspor'a mektup!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "UEFA Avrupa U19 Şampiyonası Elit Tur son maçında İtalya ile 1-1 berabere kalan Türkiye, grubunu ikinci sırada tamamlayarak finallere veda etti.",
     "image": "https://resim.haber61.net/news/610202.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_c1bdea2a",
-    "title": "Trabzon’da lokanta ve restoranlara sıkı markaj: 18 İlçede eş zamanlı denetim",
-    "source": "Haber61",
-    "time": "31/03/2026 20:54",
-    "link": "https://www.haber61.net/trabzonspor/trabzonda-lokanta-ve-restoranlara-siki-markaj-18-ilcede-es-zamanli-h628203.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon İl Tarım ve Orman Müdürlüğü ekipleri, şehir genelindeki lokanta ve restoranlara yönelik kapsamlı bir denetim gerçekleştirdi. 18 ilçede eş zamanlı yapılan kontrollerde hijyen ve gıda güvenliği ön planda tutuldu.",
-    "image": "https://resim.haber61.net/news/610204.jpg",
     "keyword": "trabzon"
   }
 ]
