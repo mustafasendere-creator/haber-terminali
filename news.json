@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9568d478",
+    "title": "Gecenin sürprizi: İtalya elendi",
+    "source": "OdaTV",
+    "time": "01/04/2026 01:15",
+    "link": "https://www.odatv.com/spor/gecenin-surprizi-italya-elendi-dunya-kupasi-elemeleri-120141542",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya Kupası yolunda büyük sürpriz. İtalya, penaltılar sonucu Bosna Hersek’e elenerek turnuva biletini kaçırdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/gecenin-surprizi-italya-elendi-dunya-kupasi-elemeleri-tb89.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4382645e",
     "title": "İran'da 'işbirlikçilere' gözaltı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İtalya, ulusal sanat mirasını koruma çabaları kapsamında bir ay içinde ikinci kez milyonlar harcayarak tarihi bir tablo satın aldı. Hükümet, erken Rönesans dönemi ressamı Antonello da Messina’ya ait bir ibadet tablosunu 12,6 milyon euroya edindi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_abc668cd",
-    "title": "İran'dan Dubai’ye füze ve drone yağmuru: Kuveyt tankeri vuruldu",
-    "source": "Euronews",
-    "time": "01/04/2026 00:34",
-    "link": "http://tr.euronews.com/2026/03/31/euronews-muhabirleri-iranin-fuze-ve-drone-saldirisinda-dubaide-birden-fazla-patlama-oldugu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dubai'de salı sabahı en az 5 patlama meydana geldiği bildirildi. Bölge sakinleri sığınaklara akın ederken, BAE makamları tehdide karşı 'aktif müdahale' yürütüldüğünü açıkladı.",
     "image": null,
     "keyword": null
   }
