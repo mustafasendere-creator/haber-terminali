@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a45abc22",
+    "title": "Kayseri'de köpeği asarak öldüren kişi gözaltına alındı",
+    "source": "Evrensel",
+    "time": "31/03/2026 19:35",
+    "link": "https://www.evrensel.net/haber/5977615/kayseride-kopegi-asarak-olduren-kisi-gozaltina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri Pınarbaşı ilçesinde köpeği ağaca asarak öldüren kişi gözaltına alındı",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341051.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0436db13",
     "title": "İran Futbol Federasyonu'ndan Dünya Kupası açıklaması: \"FIFA hangi ülkeye karar verirse Dünya Kupası'nda oynayacağız",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "TÜİK verilerine göre Şubat 2026’da ihracat 21 milyar 49 milyon dolar, ithalat 30 milyar 80 milyon dolar oldu. İthalattaki daha hızlı artışla dış ticaret açığı 9 milyar 31 milyon dolara yükseldi. Ocak-Şubat döneminde açık 17 milyar 415 milyon dolara çıktı. Almanya en fazla ihracat yapılan, Çin ise en fazla ithalat yapılan ülke oldu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/l-i-m-a-n-3.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a31a6a96",
-    "title": "Dışişleri Bakanı Fidan, Gazze Barış Kurulu Yüksek Temsilcisi Mladenov'u kabul etti",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 18:34",
-    "link": "https://www.aa.com.tr/tr/guncel/disisleri-bakani-fidan-gazze-baris-kurulu-yuksek-temsilcisi-mladenovu-kabul-etti/3886998",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, Gazze Barış Kurulu Yüksek Temsilcisi Nikolay Mladenov'u Ankara'da kabul etti.",
-    "image": null,
     "keyword": null
   }
 ]
