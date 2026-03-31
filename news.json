@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_97c82471",
+    "title": "Cumhurbaşkanı Erdoğan konuşuyor",
+    "source": "TRT Haber",
+    "time": "31/03/2026 14:46",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-939800.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde 5G ile İletişimde Güçlü Türkiye Töreni'nde konuşuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3565f62e",
     "title": "5G sanayide üretim sürecini de hızlandıracak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "\"Türkiye için dijital çağın kapıları ardına kadar açılıyor! Sadece iki gün sonra hayatımıza girecek olan 5G teknolojisi; cerrahi operasyonlardan tarıma, şehir hayatından en ücra köylere kadar her şeyi...Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/799e93/0/0/0/0/2048/1365?u=https://iahbr.tmgrup.com.tr/2026/03/30/1774845020217.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_fb952ea2",
-    "title": "Bayburt’ta gıda ve yem denetimleri aralıksız sürüyor",
-    "source": "Haber61",
-    "time": "31/03/2026 14:04",
-    "link": "https://www.haber61.net/bolgesel/bayburtta-gida-ve-yem-denetimleri-araliksiz-suruyor-h628173.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bayburt’ta 2026 yılı rutin kontrol programı kapsamında gıda ve yem işletmelerine yönelik denetimler devam ediyor. Ekipler, hijyen ve ürün güvenliği başta olmak üzere birçok başlıkta inceleme yapıyor.",
-    "image": "https://resim.haber61.net/news/610161.jpg",
     "keyword": null
   }
 ]
