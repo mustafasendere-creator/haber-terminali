@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e85d1719",
+    "title": "Otoriterlikle mücadele",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 05:24",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-sakir-ors/otoriterlikle-mucadele-2490964",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Otoriter yönetimlerin ve liderlerin yarattığı heyula, giderek bütün toplumları girdabına almaya başladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar475_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_a2a644fe",
     "title": "Samsun Atakum’da taş ocağına kapasite artışı tepkisi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail Başbakanı Binyamin Netanyahu, İran’a karşı yürütülen savaşla ilgili, \"Kesinlikle yarı yolun ötesine geçildi. Ancak bu konuda bir takvim belirlemek istemiyorum\" açıklamasında bulundu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/iran-savasiyla-ilgili-netanyahudan-aciklama-yari-yolun-otesine-gecildi-kvxj.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f3fa04eb",
-    "title": "Urfa'da gölete düşen çocuk boğuldu",
-    "source": "Evrensel",
-    "time": "31/03/2026 03:04",
-    "link": "https://www.evrensel.net/haber/5977453/urfada-golete-dusen-cocuk-boguldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Urfa'nın Eyyübiye ilçesinde gölete düşen 9 yaşındaki Ahmet Özlem boğuldu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/263033.jpg",
     "keyword": null
   }
 ]
