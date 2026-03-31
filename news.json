@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_741a0a59",
+    "title": "Irak'ın Erbil kentinde art arda patlama sesleri duyuldu",
+    "source": "TRT Haber",
+    "time": "01/04/2026 00:55",
+    "link": "https://www.trthaber.com/haber/dunya/irakin-erbil-kentinde-art-arda-patlama-sesleri-duyuldu-939858.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak'ın Erbil kentine 10 kamikaze insansız hava aracıyla İHA düzenlenen saldırıda, İHA'lardan biri eve isabet etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9ad079fe",
     "title": "İlk rakipler belli oldu: Türkiye’nin Dünya Kupası fikstürü",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2025/10/reklamlar/genclik-spor.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_966fdc35",
-    "title": "Trabzon Meydanı’nda milli gurur: Dünya kupası bileti Horonlarla kutlandı",
-    "source": "Haber61",
-    "time": "01/04/2026 00:13",
-    "link": "https://www.haber61.net/trabzon/trabzon-meydaninda-milli-gurur-dunya-kupasi-bileti-horonlarla-kutlandi-h628219.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "A Milli Futbol Takımı’nın Kosova’yı mağlup ederek Dünya Kupası vizesi alması, Trabzon’da binlerce vatandaşın katıldığı coşkulu kutlamalara sahne oldu.",
-    "image": "https://resim.haber61.net/news/610239.jpg",
     "keyword": null
   }
 ]
