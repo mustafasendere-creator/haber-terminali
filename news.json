@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70279226",
+    "title": "Marmaray’da arıza: Ayrılıkçeşmesi-Söğütlüçeşme duraklarında gecikme yaşanıyor",
+    "source": "Evrensel",
+    "time": "31/03/2026 22:35",
+    "link": "https://www.evrensel.net/haber/5977627/marmarayda-ariza-ayrilikcesmesi-sogutlucesme-duraklarinda-gecikme-yasaniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Marmaray’ın Ayrılıkçeşmesi-Söğütlüçeşme durakları arasındaki katener arızası nedeniyle Marmaray trenleri iki durak arasında tek hat üzerinden işletiliyor. Seferlerde yaşanan gecikme nedeniyle yolcular duraklarda sıkıntı yaşadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341060.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_83555a4e",
     "title": "CanHolding'e yönelik soruşturma: Kenan Tekdağ 'Ev hapsi' şartıyla tahliye edildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Cumhurbaşkanlığı ofisinden yapılan açıklamaya göre Pezeşkiyan, \"Saldırıların tekrarlanmasını önlemek için gerekli koşulların, özellikle de ihtiyaç duyulan garantilerin sağlanması kaydıyla, bu çatışmayı sona erdirmek için gerekli iradeye sahibiz\" ifadelerini kullandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_59f900ac",
-    "title": "Bakan Fidan, Filistin Devlet Başkan Yardımcısıyla görüştü",
-    "source": "10Haber",
-    "time": "31/03/2026 21:55",
-    "link": "https://10haber.net/dunya/bakan-fidan-filistin-devlet-baskan-yardimcisiyla-gorustu-691358/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, Filistin Devlet Başkan Yardımcısı Hüseyin eş-Şeyh ve Filistin Ulusal Konseyi Başkanı Rawhi Fattouh ile Ankara&#8217;da bir araya geldi. Görüşmede bölgesel meseleler masaya yatırıldı.",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cbaf52dcb4a9.86001536.jpg",
     "keyword": null
   }
 ]
