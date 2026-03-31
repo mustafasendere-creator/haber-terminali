@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_714d714e",
+    "title": "İran'da yüz bin sivil yapı vuruldu, can kaybı bini aştı",
+    "source": "DW Türkçe",
+    "time": "31/03/2026 14:45",
+    "link": "https://www.dw.com/tr/iran-da-yüz-bin-sivil-yapı-vuruldu-can-kaybı-bini-aştı/a-76606691",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ve ABD'nin 28 Şubat'ta başlattığı saldırılar sonrası İran'da askeri tesislerden okullara, hastanelerden tarihi yapılara kadar geniş bir alanda büyük yıkım meydana geldi, binden fazla kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0ec6e46c",
     "title": "AKOM saat verdi: İstanbul'da yarın yağmur bekleniyor",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran büyükelçisinin Lübnan’dan zorla çıkarıldığı iddia edildi.",
     "image": "https://md.teyit.org/2026/03/lubnan-iran-buyukelci.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_698e7bcd",
-    "title": "Bir sosyal medya linci daha çöktü",
-    "source": "OdaTV",
-    "time": "31/03/2026 13:48",
-    "link": "https://www.odatv.com/siyaset/bir-sosyal-medya-linci-daha-coktu-120141466",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa Büyükşehir Belediyesi&#039;ne düzenlenen operasyon kapsamında soyadı &quot;Rızvanoğlu&quot; olan dört kişi gözaltına alındı. Bu kişilerin CHP Genel Başkan Yardımcısı Evrim Rızvanoğlu&#039;nun akrabası olduğunu iddia eden kişiler linç kampanyası başlattı. Rızvanoğlu, konuya dair açıklama yaptı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/bir-sosyal-medya-linci-daha-coktu-fx0o.jpg",
     "keyword": null
   }
 ]
