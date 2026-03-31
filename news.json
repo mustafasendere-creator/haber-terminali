@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c5abb37b",
+    "title": "Üçüncü katın balkonundan düştü, öldü",
+    "source": "Habertürk",
+    "time": "01/04/2026 01:35",
+    "link": "https://www.haberturk.com/sinop-ta-ucuncu-katin-balkonundan-dusen-kisi-oldu-3873446",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sinop’ta 70 yaşındaki İlyas Demir, evinin balkonundan düşerek hayatını kaybetti. Olayın ardından sağlık ve emniyet ekipleri sevk edildi. Demir’in cenazesi, savcılık incelemesinin ardından otopsi için Sinop Atatürk Devlet Hastanesi morguna kaldırıldı",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774871005/3873446/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_12e156c5",
     "title": "Ankara Kent Gezileri'ne başvurular başladı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye’de kartlı harcamalara ilişkin veriler, tüketim eğilimlerinde dikkat çekici bir kırılmaya işaret ediyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/yurtdisi-alisveriste-kartli-harcama-patladi-grtq_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_14b1918b",
-    "title": "Tarım geleceğin ekonomi politikası",
-    "source": "Ekonomim",
-    "time": "01/04/2026 00:36",
-    "link": "https://www.ekonomim.com/kose-yazisi/tarim-gelecegin-ekonomi-politikasi/885237",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/tarim-gelecegin-ekonomi-politikasi-yjrf_cover.jpg",
     "keyword": null
   }
 ]
