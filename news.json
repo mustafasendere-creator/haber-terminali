@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3cff4bd5",
+    "title": "Türkiye 5G'ye geçiyor",
+    "source": "TRT Haber",
+    "time": "31/03/2026 08:05",
+    "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-5gye-geciyor-939721.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'de 1994'te başlayan mobil iletişim 1 Nisan'da hizmete sunulacak 5G ile yeni bir boyuta taşınacak, mobil internette 10 kata kadar hız birçok alanda dönüşümü beraberinde getirecek. 5G ile hayatın her alanında yeni fırsatlar oluşacak. 5G sistemlerini aktif eden kullanıcılar 1 Nisan itibarıyla kapsama alanı içinde 5G'yi kullanabilecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b3cdd3e1",
     "title": "Rusya Avrupa'dan çalıntı otomobilleri yasallaştıracak",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fergani Uzay’ın tamamen milli imkânlarla geliştirdiği beşinci deneme uydusu olan FGN-100-D3 uzaya çıktı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/ferganinin-besinci-uydusu-uzayda-w7l4.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b1d74735",
-    "title": "Hakan Fidan'ın diplomasi trafiği sürüyor",
-    "source": "OdaTV",
-    "time": "31/03/2026 04:04",
-    "link": "https://www.odatv.com/guncel/hakan-fidanin-diplomasi-trafigi-suruyor-120141390",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Arakçi, Suriye Dışişleri Bakanı Esad Hasan Şeybani ve Pakistan Dışişleri Bakanı Muhammad Ishaq Dar ile telefon görüşmeleri gerçekleştirdi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/hakan-fidanin-diplomasi-trafigi-suruyor-mkkq.jpg",
     "keyword": null
   }
 ]
