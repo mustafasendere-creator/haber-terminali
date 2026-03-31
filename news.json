@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a9b16754",
+    "title": "Türkiye-Rusya ilişkilerinde soğuk rüzgârlar esiyor: Rusya Dışişleri, Türk Büyükelçi’yi çağırdı",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 05:04",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-rusya-iliskilerinde-soguk-ruzgarlar-esiyor-rusya-disisleri-turk-buyukelci-yi-cagirdi-2490982",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya, enerji alanında yaşanan saldırılara ilişkin Türkiye’nin Ukrayna’ya tepki göstermesini istedi. Türkiye’nin Moskova Büyükelçisi Tanju Bilgiç bu amaçla Rusya Dışişleri Bakanlığına çağrıldı. Cumhuriyet’e konuşan Dışişleri kaynakları ise, “Türkiye dış politikada kendi kararlarını kendi verir” dedi. Türkiye-Rusya ilişkilerinin son dönemde iyi ilerlemediği görülüyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a251200c-8c97-4478-8812-a1bc71dd61b2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_84ac630c",
     "title": "Yolsuzluğu buldu, ceza yedi, bakanlıkların hatasını çıkardı, dosyası imha edildi: Adaletin terazisi şaştı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/issizlik-verilerinin-gorulmeyen-karanlik-yuzu-kecb_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6cb5ba6c",
-    "title": "ABD’de ne oluyor?",
-    "source": "Ekonomim",
-    "time": "31/03/2026 02:45",
-    "link": "https://www.ekonomim.com/kose-yazisi/abdde-ne-oluyor/884933",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/abd-acik-denizdeki-rus-ve-iran-ham-petrol-sevkiyatlarina-yonelik-yaptirimlari-kaldirdi-g7de_cover.png",
     "keyword": null
   }
 ]
