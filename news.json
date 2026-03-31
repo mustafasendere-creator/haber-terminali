@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02de2579",
+    "title": "Urfa'da kesilmiş at başı bulundu",
+    "source": "Evrensel",
+    "time": "31/03/2026 13:05",
+    "link": "https://www.evrensel.net/haber/5977546/urfada-kesilmis-at-basi-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Urfa'da, tarlada çuvallar içerisinde kesilmiş at başı ve parçalarıyla karşılaştı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340989.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dd6fce46",
     "title": "Avustralya, sosyal medya devlerini 16 yaş altı yasağındaki ciddi açıklar konusunda uyardı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TÜİK açıkladı: İşsiz sayısı şubat ayında arttı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/issizlikkalabalikvatandaslaruzunjpg-Qe68KZ5ZvkydZNPaaZlk_w.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9fdf18dc",
-    "title": "Merkez Bankası Başkanı Karahan'dan altın rezervi açıklaması",
-    "source": "Sözcü",
-    "time": "31/03/2026 11:06",
-    "link": "https://www.sozcu.com.tr/merkez-bankasi-baskani-karahan-dan-altin-rezervi-aciklamasi-p306072",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Merkez Bankası Başkanı Karahan'dan altın rezervi açıklaması",
-    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/son-dakikajpg-JOl3bzzQgEGsYeAh02GsUA.jpg",
     "keyword": null
   }
 ]
