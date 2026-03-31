@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d97dffcc",
+    "title": "Brüksel'de metro ve tren istasyonlarında askerler görevlendirilecek",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 23:34",
+    "link": "https://www.aa.com.tr/tr/guncel/brukselde-metro-ve-tren-istasyonlarinda-askerler-gorevlendirilecek/3887152",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Belçika'nın başkenti Brüksel'deki önemli metro ve tren istasyonlarında güvenliği artırmak amacıyla 3 Nisan'dan itibaren asker konuşlandırılacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3607f221",
     "title": "İsrail polisi, Filistinli esirlere idam cezasını protesto eden göstericilere müdahale etti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ümit Milli Futbol Takımı teknik direktörü Egemen Korkmaz'ın yaşadığı rahatsızlık nedeniyle duraklayan Hırvatistan maçı, kaldığı yerden devam etti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/hirvatistan-turkiye-u21-maci-kaldigi-yerden-devam-etti-hqyq.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ea95b6c6",
-    "title": "Kurtulmuş, İsrail'in idam cezası yasasını değerlendirdi: Tehlikeli bir eşik",
-    "source": "TRT Haber",
-    "time": "31/03/2026 22:35",
-    "link": "https://www.trthaber.com/haber/gundem/kurtulmus-israilin-idam-cezasi-yasasini-degerlendirdi-tehlikeli-bir-esik-939814.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM Başkanı Numan Kurtulmuş, İsrail Meclisi'nin Filistinli esirleri hedef alacak skandal 'idam cezası yasası'nı onaylamasını, \"Bu durum devlet gücünü ölüm yetkisine dönüştüren tehlikeli bir eşiktir\" sözleriyle değerlendirdi.",
-    "image": null,
     "keyword": null
   }
 ]
