@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dbbb3394",
+    "title": "Samsun'da öğrencilerin bulunduğu midibüsün devrilmesi sonucu 11 kişi yaralandı",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 08:44",
+    "link": "https://www.aa.com.tr/tr/guncel/samsunda-ogrencilerin-bulundugu-midibusun-devrilmesi-sonucu-11-kisi-yaralandi/3885898",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun'un İlkadım ilçesinde midibüsün devrilmesi sonucu ilk belirlemelere göre aralarında öğrencilerin de bulunduğu 11 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_cca681ad",
     "title": "Büyükşehir pası verdi, Yomra golü attı!",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "BİRTEK-SEN Genel Başkanı Mehmet Türkmen’in tutuklanmasına tepki gösteren sendikacılar, 2 Nisan’a kadar sürecek imza kampanyası başlattı. Açıklamada, işçi haklarına yönelik baskıların arttığı vurgulandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339181.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ec24f4ea",
-    "title": "Yasemin Köktaş son yolculuğuna uğurlandı",
-    "source": "Evrensel",
-    "time": "31/03/2026 05:44",
-    "link": "https://www.evrensel.net/haber/5977416/yasemin-koktas-son-yolculuguna-ugurlandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Emek Partisi üyesi Yasemin Köktaş, beyin kanaması sonucu hayatını kaybetti. Köktaş, Karşıyaka mezarlığında yoldaşları ve sevenleri tarafından son yolculuğuna uğurlandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340874.jpg",
     "keyword": null
   }
 ]
