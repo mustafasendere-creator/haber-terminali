@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f57a7d1d",
+    "title": "Aksaray'da yangın paniği! 6 kişi etkilendi",
+    "source": "Haber Global",
+    "time": "31/03/2026 04:44",
+    "link": "https://haberglobal.com/gundem/aksarayda-yangin-panigi-6-kisi-etkilendi-516161",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aksaray'da 5 katlı apartmanın bodrum katında çıkan yangında apartman ve daireler dumana boğuldu. İtfaiye ve polis ekipleri apartmanı tahliye ederken, dumandan etkilenen 6 kişiye sağlık ekipleri müdahale etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/aksarayda-yangin-panigi-6-kisi-etkilendi-yxmv.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6c314bfc",
     "title": "Soykırımcı İsrail Gazze'de son 24 saatte 6 Filistinliyi öldürdü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Portekiz basını, Galatasaray, Juventus ve Barcelona'nın Bernardo Silva için yarış halinde olduğunu duyurdu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/galatasaray-bernardo-silva-icin-barcelona-ve-juventusla-yaris-halinde-7fyc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f3c9fd2b",
-    "title": "Cardiff City'nin Emiliano Sala için 104 milyon sterlinlik tazminat talebi reddedildi",
-    "source": "Haber Global",
-    "time": "31/03/2026 02:44",
-    "link": "https://haberglobal.com/spor/cardiff-citynin-emiliano-sala-icin-104-milyon-sterlinlik-tazminat-talebi-reddedildi-516117",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiliz ekibi Cardiff City'nin, Arjantinli futbolcu Emiliano Sala'nın uçak kazasında hayatını kaybetmesinin ardından talep ettiği 104 milyon sterlinlik tazminat davası, Fransa Mahkemesi tarafından reddedildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/30/cardiff-citynin-emiliano-sala-icin-104-milyon-sterlinlik-tazminat-talebi-reddedildi-aamv.jpg",
     "keyword": null
   }
 ]
