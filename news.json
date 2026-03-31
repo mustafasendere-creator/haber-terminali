@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef9cb347",
+    "title": "Samsun'da öğretmen ve öğrencileri taşıyan otobüs devrildi; 11 kişi yaralandı",
+    "source": "Evrensel",
+    "time": "31/03/2026 08:45",
+    "link": "https://www.evrensel.net/haber/5977487/samsunda-ogretmen-ve-ogrencileri-tasiyan-otobus-devrildi-11-kisi-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'dan Ordu'ya seyir halindeki otobüs yol kenarına devrildi. İçerisinde öğrenci ve öğretmenlerin bulunduğu otobüste 11 kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340939.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_94da0d23",
     "title": "Trabzonspor için kritik hafta, şampiyonluk için ya devam ya tamam",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Özellikle altın piyasalarına dair açıklamaları ile medyada geniş yer bulan İslam Memiş'in 'en önemli özelliği'ni Faruk Bildirici gündeme getirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340865.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ab9eadd4",
-    "title": "İsrail'e ‘sessiz ihracat’ rakamları yeniden gündemde",
-    "source": "Evrensel",
-    "time": "31/03/2026 06:24",
-    "link": "https://www.evrensel.net/haber/5977414/israil-e-sessiz-ihracat-rakamlari-yeniden-gundemde",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’li Murat Emir, İsrail verilerine göre Türkiye’nin ülkeye ihracatının sürdüğünü açıklarken, Ticaret Bakanlığı karşı açıklama paylaştı. Emir, yanıtlanmayan soru önergesini hatırlatıp veriler ve “gizli ülke” kodu hakkında yanıt istedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/335833.jpg",
     "keyword": null
   }
 ]
