@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_529dbaae",
+    "title": "İki grup silahla çatıştı! Mezarlık ziyaretinde kanlı pusu!",
+    "source": "Habertürk",
+    "time": "01/04/2026 01:15",
+    "link": "https://www.haberturk.com/son-dakika-iki-grup-silahla-catisti-mezarlik-ziyaretinde-kanli-pusu-3873461",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Sarıyer'de, Bağcılar'da 6 ay önce uğradığı silahlı saldırı sonucu hayatını kaybeden 29 yaşındaki Serhat Karabay’ın mezarını ziyarete gelen 6 kişilik grup, pusu kurduğu öne sürülen 3 kişilik grubun silahlı saldırısına uğradı. 6 kişilik grubun karşılık vermesi üzerine çıkan çatışmada başından vurulan 1 kişi hayatını kaybetti. Saldırıya uğrayan gruptaki 26 yaşındaki Enes B. ise ağır yaralandı. Polis ekipleri olayla ilgili 5 şüpheliyi gözaltına alırken, kaçan 3 şüpheliyi yakalama çalışmalarının sürdüğü öğrenildi",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774873925/3873461/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_1573ed48",
     "title": "Netanyahu'dan 'İran' açıklaması: 'ABD ile ittifakımızı güçlendirdik, yeni ittifaklar kuruyoruz'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Evrencan Gündüz, Mayıs ayında yayımlanacak albümünün ikinci teklisi “Biz Ayrılmayız”ı 3 Nisan’da dinleyiciyle buluşturacak.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/evrencan-gunduzden-ikinci-tekli-biz-ayrilmayiz-t27c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_357a0327",
-    "title": "Zelenskiy'den 'Hürmüzü açarım' çıkışı",
-    "source": "OdaTV",
-    "time": "01/04/2026 00:16",
-    "link": "https://www.odatv.com/dunya/ukrayna-devlet-baskani-volodimir-zelenskiyden-hurmuzu-acarim-cikisi-120141501",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’ın Hürmüz Boğazı’nı ABD-İsrail bağlantılı gemilere kapatmasının ardından gözler enerji hattına çevrildi. Ukrayna Devlet Başkanı Volodimir Zelenskiy, Ukrayna’nın Karadeniz ablukasını kırarken edindiği deneyimin Hürmüz için de kullanılabileceğini söyledi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/ukrayna-devlet-baskani-volodimir-zelenskiyden-hurmuzu-acarim-cikisi-rifm.jpg",
     "keyword": null
   }
 ]
