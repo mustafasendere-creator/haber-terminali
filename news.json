@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b3d42aa5",
+    "title": "Kuveyt: Son 24 saatte ülke İran kaynaklı 5 balistik füze ve 7 İHA saldırısıyla hedef alındı",
+    "source": "TRT Haber",
+    "time": "31/03/2026 21:35",
+    "link": "https://www.trthaber.com/haber/dunya/kuveyt-son-24-saatte-ulke-iran-kaynakli-5-balistik-fuze-ve-7-iha-saldirisiyla-hedef-alindi-939836.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Savunma Bakanlığı, son 24 saatte ülkenin 5 balistik füze ve 7 insansız hava aracıyla İHA hedef alındığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b89c7ab7",
     "title": "6 il için sarı uyarı: Sağanak ve rüzgara dikkat",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "AP'deki en büyük ikinci siyasi grup Sosyalistler ve Demokratlar (S&amp;D), İsrail'in insan haklarını \"tekrar eden ve ciddi şekilde ihlal ettiği\" gerekçesiyle AB Konseyi’ne AB-İsrail Ortaklık Anlaşması’nın acilen askıya alınması çağrısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e17577da",
-    "title": "İngiltere'den Orta Doğu'daki askeri varlığını artırma kararı",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 20:54",
-    "link": "https://www.aa.com.tr/tr/guncel/ingiltereden-orta-dogudaki-askeri-varligini-artirma-karari/3887130",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Orta Doğu ülkelerine ziyarette bulunan İngiltere Savunma Bakanı John Healey, bölgedeki 4 ülkede askeri ekipman ve personel varlığını artırma kararını açıkladı.",
     "image": null,
     "keyword": null
   }
