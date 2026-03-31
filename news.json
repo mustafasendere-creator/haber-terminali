@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de68ddad",
+    "title": "Bursa'da yağışın etkisiyle bir sitenin istinat duvarı çöktü",
+    "source": "Evrensel",
+    "time": "31/03/2026 08:45",
+    "link": "https://www.evrensel.net/haber/5977483/bursada-yagisin-etkisiyle-bir-sitenin-istinat-duvari-coktu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'da etkili olan yağışın ardından bir siteye ait yaklaşık 7 metre yükseklikteki istinat duvarı çöktü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340930.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_a548396a",
     "title": "Trabzonspor Mart’ta kazandı, Nisan’a zirve hedefiyle başlıyor",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İsrail’in gece boyunca İran’a gerçekleştirdiği saldırılar, Tahran ve İsfahan başta olmak üzere birçok bölgede şiddetli patlamaların yaşanmasına yol açtı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/abd-ve-israil-saldiriyor-iranda-bircok-kentte-patlama-sesleri-jj7a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b0e3d54c",
-    "title": "Bursa'da istinat duvarı otomobilin üzerine çöktü",
-    "source": "Haber Global",
-    "time": "31/03/2026 06:24",
-    "link": "https://haberglobal.com/gundem/bursada-istinat-duvari-otomobilin-uzerine-coktu-516166",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa’nın Mudanya ilçesinde bir sitenin istinat duvarının çökmesi sonucu park halindeki otomobil kullanılamaz hale geldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/bursada-istinat-duvari-otomobilin-uzerine-coktu-lmf6.jpg",
     "keyword": null
   }
 ]
