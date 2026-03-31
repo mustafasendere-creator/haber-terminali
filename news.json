@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f48aee6d",
+    "title": "Maçka parkında ceset bulundu",
+    "source": "10Haber",
+    "time": "31/03/2026 22:34",
+    "link": "https://10haber.net/gundem/sosyetenin-unlu-parkinda-ceset-bulundu-691345/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Olay, sabah saat 08.30 sıralarında meydana geldi. Temizlik yapan görevliler çalıların arasında hareketsiz yatan bir kişi fark etti ve durumu hemen yetkililere bildirdi. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Sağlık ekipleri, yerde yatan kişinin yaşamını yitirdiğini belirledi. Polis ekipleri çevrede güvenlik önlemi aldı. Olay yeri inceleme ekiplerinin çalışmaları sonucunda hayatını kaybeden [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cba83d0245d7.71550949.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9e3df659",
     "title": "Zelenskiy, barışın sağlanması için Rusya'ya daha fazla baskı kurulması gerektiğini belirtti",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor maçı öncesi Galatasaray’dan Osimhen açıklaması.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/manset-kopyasi-73.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_28a0f3b3",
-    "title": "Trump'ın eski başdanışmanı Bannon: Netanyahu'nun Miami'deki evladını yarın kovun",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 21:54",
-    "link": "https://www.aa.com.tr/tr/guncel/trumpin-eski-basdanismani-bannon-netanyahunun-miamideki-evladini-yarin-kovun/3887160",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump'ın eski danışmanı Steve Bannon, İsrail Başbakanı Netanyahu'nun oğlu Yair Netanyahu'nun ABD'den sınır dışı edilmesi ve orduya alınarak savaşa gönderilmesi gerektiğini söyledi.",
-    "image": null,
-    "keyword": null
   }
 ]
