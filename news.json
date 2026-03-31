@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_817fcc46",
+    "title": "Uzak Doğu kan ağlıyor: Sanayide kalp krizi",
+    "source": "Haber Global",
+    "time": "31/03/2026 13:46",
+    "link": "https://haberglobal.com/ekonomi/uzak-dogu-kan-agliyor-sanayide-kalp-krizi-516266",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’a karşı yürütülen savaş, Asya’nın başlıca ekonomilerini ciddi bir baskı altına alırken, doğal kaynaklar için küresel rekabeti de körüklüyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/uzak-dogu-kan-agliyor-sanayide-kalp-krizi-3j6j.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1b85fa7e",
     "title": "Rusya gübre üretiminde kullanılan kükürte yönelik ihracat yasağını uzattı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "2025-2026 Eğitim-Öğretim Yılı Okul Sporları faaliyet programı kapsamında gerçekleştirilen Voleybol Küçük Erkekler-Kızlar Yarı Final Müsabakaları, Yomra Cimnastik Salonu’nda büyük bir coşkuyla düzenlendi. Organizasyona Artvin, Batman, Bitlis, Erzurum, Giresun, Kars, Mardin, KKTC, Ağrı, Diyarbakır, Ordu ve Rize olmak üzere toplam 12 ilden çok sayıda sporcu katıldı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/gsb-4-8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_98f9a7e8",
-    "title": "TBMM Yapay Zeka Araştırma Komisyonu Başkanı Dönmez, yapay zekada etik tartışmalarını değerlendirdi",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 13:04",
-    "link": "https://www.aa.com.tr/tr/guncel/tbmm-yapay-zeka-arastirma-komisyonu-baskani-donmez-yapay-zekada-etik-tartismalarini-degerlendirdi/3886320",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM Yapay Zeka Araştırma Komisyonu Başkanı ve AK Parti Eskişehir Milletvekili Fatih Dönmez, Türkiye'de yapay zeka kullanımına yönelik yasal düzenlemelerin gerekliliğine dikkati çekti.",
-    "image": null,
     "keyword": null
   }
 ]
