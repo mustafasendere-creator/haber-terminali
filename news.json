@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2eb7a862",
+    "title": "İran Dışişleri Bakanı Erakçi: Her türlü kara harekatına karşı koymaya hazırız",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 00:14",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-disisleri-bakani-erakci-her-turlu-kara-harekatina-karsi-koymaya-haziriz/3887290",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD’nin İran’a yönelik olası kara harekatına ilişkin, \"Her türlü kara harekatına karşı koymaya hazırız. Umarız düşman bu hesap hatasını yapmaz.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_47546da6",
     "title": "Cumhurbaşkanı Erdoğan, Dünya Kupası'na gitmeye hak kazanan A Milli Futbol Takımı'nı tebrik etti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP'de Merkez Yönetim Kurulu kararıyla Uşak Belediye Başkanı Özkan Yalım’ın üyeliği askıya alındı",
     "image": "https://im.haberturk.com/l/2026/03/30/ver1774885054/3873509/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_a682822d",
-    "title": "Feci kaza... Yolcu otobüsü TIR'a çarptı: 10 kişi yaralandı",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 23:15",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/feci-kaza-yolcu-otobusu-tir-a-carpti-10-kisi-yaralandi-2491307",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çekmeköy Kuzey Marmara Otoyolu'nda şoförünün direksiyon hakimiyetini kaybettiği yolcu otobüsü seyir halindeki TIR'a çarptı. Kazada yaralandığı belirlenen 10 kişi ambulansla hastaneye kaldırıldı. Kazaya ilişkin inceleme başlatıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b3c631a3-06a2-4ffa-8cf0-89e6a9c21082.jpg",
     "keyword": null
   }
 ]
