@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5fed245a",
+    "title": "Trump, Hürmüz Boğazı'nı açtırma çabasından henüz vazgeçmeye hazır olmadığını belirtti",
+    "source": "TRT Haber",
+    "time": "31/03/2026 22:35",
+    "link": "https://www.trthaber.com/haber/dunya/trump-hurmuz-bogazini-actirma-cabasindan-henuz-vazgecmeye-hazir-olmadigini-belirtti-939816.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'a Hürmüz Boğazı'nı yeniden açtırmaya yönelik girişimlerden \"henüz\" vazgeçmeye hazır olmadığını söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6849fe03",
     "title": "'Tanıdık eksper' devri bitiyor: Pilot uygulama devrede",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul 10. Sulh Ceza Hakimliği, yürütülen soruşturma kapsamında tutuklanan Uşak Belediye Başkanı Özkan Yalım, İçişleri Bakanlığı tarafından görevden uzaklaştırıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340435.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f06f41cc",
-    "title": "Bursa’da gözaltı tepkisi: Halkın iradesi yok sayılamaz",
-    "source": "Evrensel",
-    "time": "31/03/2026 21:55",
-    "link": "https://www.evrensel.net/haber/5977624/bursada-gozalti-tepkisi-halkin-iradesi-yok-sayilamaz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mustafa Bozbey’in gözaltına alınmasının ardından Bursa’da yüzlerce kişi belediye binası önünde toplandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341058.jpg",
     "keyword": null
   }
 ]
