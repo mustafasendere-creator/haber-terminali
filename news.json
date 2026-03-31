@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1003546e",
+    "title": "İşgalci İsrail'in Lübnan'a düzenlediği saldırılarda 11 kişi hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "01/04/2026 00:15",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-duzenledigi-saldirilarda-11-kisi-hayatini-kaybetti-939851.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İşgalci İsrail ordusunun Lübnan'ın güneyindeki beldelere düzenlediği saldırılarda 1'i sağlık çalışanı 11 kişi yaşamını yitirdi, 32 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_932af408",
     "title": "WSJ: ABD, Orta Doğu için 3. uçak gemisini görevlendirdi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Torinoda&#8217;ki Palazzetto dello Sport Gianni Asti Salonu&#8217;nda oynanacak müsabaka, TSİ 21.00&#8217;de başlayacak. Sarı-kırmızılılar yarı finalde Romanya&#8217;nın CSO Voluntari takımını geçerek adını finale yazdırdı. Ev sahibi ekip Almanya&#8217;nın Dresdner SC ekibini saf dışı bırakarak Galatasaray Daikin&#8217;in rakibi oldu. Rövanş müsabakası 8 Nisan Çarşamba günü Burhan Felek Voleybol Salonu&#8217;nda oynanacak.",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cb987e6e3711.43347647.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e8199f0f",
-    "title": "Karahan: Bu savaş ortamında altın kaynaklı işlem son derece doğal",
-    "source": "10Haber",
-    "time": "31/03/2026 23:34",
-    "link": "https://10haber.net/ekonomi/karahan-bu-savas-ortaminda-altin-kaynakli-islem-son-derece-dogal-691317/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Fatih Karahan AA muhabirine Körfez bölgesindeki savaşın Türkiye ekonomisi ve piyasalara etkileri ile alınan tedbirlere ilişkin değerlendirmede bulundu. Gelişmelerin enflasyondan büyümeye, enerjiden ticarete, cari açıktan turizme kadar çeşitli alanlarda etkisini gösterdiğine dikkati çeken Karahan, kendilerinin de enflasyonist etkileri azaltıcı önlemler aldıklarını söyledi. Karahan, bu kapsamda, artan enerji fiyatlarına karşı uygulamaya [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cb998306d497.47197457.jpg",
     "keyword": null
   }
 ]
