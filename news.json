@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fec7d549",
+    "title": "Erzincan'da otobüs yoldan çıktı",
+    "source": "TRT Haber",
+    "time": "31/03/2026 08:05",
+    "link": "https://www.trthaber.com/haber/turkiye/erzincanda-otobus-yoldan-cikti-939719.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzincan'da bariyerlere çarpıp yol dışına çıkan yolcu otobüsünde hasar oluştu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3cff4bd5",
     "title": "Türkiye 5G'ye geçiyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "30 Mart 1972’de Kızıldere Katliamı’nda yaşamını yitiren Cihan Alptekin, 54’üncü ölüm yıl dönümünde Rize’nin Ardeşen ilçesine bağlı Yeniyol köyündeki mezarı başında anıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340903.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_63e69415",
-    "title": "Fergani'nin beşinci uydusu uzayda",
-    "source": "OdaTV",
-    "time": "31/03/2026 04:04",
-    "link": "https://www.odatv.com/guncel/ferganinin-besinci-uydusu-uzayda-120141389",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fergani Uzay’ın tamamen milli imkânlarla geliştirdiği beşinci deneme uydusu olan FGN-100-D3 uzaya çıktı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/ferganinin-besinci-uydusu-uzayda-w7l4.jpg",
     "keyword": null
   }
 ]
