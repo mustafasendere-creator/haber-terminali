@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f30ae7eb",
+    "title": "EMEP Genel Başkanı Aslan’dan 4 Nisan çağrısı: ‘Defol NATO, defol Trump’ demek için bir araya geleceğiz",
+    "source": "Evrensel",
+    "time": "01/04/2026 01:34",
+    "link": "https://www.evrensel.net/haber/5977594/emep-genel-baskani-aslan-dan-4-nisan-cagrisi-defol-nato-defol-trump-demek-icin-bir-araya-gelecegiz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "EMEP Genel Başkanı Seyit Aslan, NATO’nun kuruluş yıldönümünde Türkiye genelinde eylemler düzenleneceğini belirterek yurttaşları 4 Nisan’da alanlara çağırdı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341031.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5c59d130",
     "title": "Fenerbahçe Başkanı Sadettin Saran trafik kazası geçirdi",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "A Milli Futbol Takımımız, Kosova'yı 10 yenerek 2026 Dünya Kupası'na gitmeye hak kazandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7ecfe43a",
-    "title": "Dışişleri'nden İsrail'in idam kararına tepki",
-    "source": "TRT Haber",
-    "time": "01/04/2026 00:35",
-    "link": "https://www.trthaber.com/haber/gundem/disislerinden-israilin-idam-kararina-tepki-939846.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanlığı, İsrail Meclisinde kabul edilen ve yalnızca Filistinlilere uygulanması öngörülen idam cezası düzenlemesinin kınandığını açıkladı.",
     "image": null,
     "keyword": null
   }
