@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88cd2a9a",
+    "title": "Suudi Arabistan, son birkaç saate ülkeye gönderilen 10 İHA'nın imha edildiğini açıkladı",
+    "source": "TRT Haber",
+    "time": "31/03/2026 09:25",
+    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-son-birkac-saate-ulkeye-gonderilen-10-ihanin-imha-edildigini-acikladi-939735.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Savunma Bakanlığı, son birkaç saatte ülkeye gönderilen 10 insansız hava aracının İHA engellendiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_65746ced",
     "title": "Hükümlü, jandarmanın ikna çalışmasıyla sınırda teslim oldu",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Orman Genel Müdürlüğü, mesleki dayanışmayı artırmak ve saha tecrübesini güçlendirmek amacıyla Trabzon’da geniş kapsamlı bir organizasyon düzenliyor. Yarışmalar Araklı’da kurulacak parkurda gerçekleştirilecek.",
     "image": "https://resim.haber61.net/news/610079.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_4fd8ca96",
-    "title": "Slovenya'da skandallarla gölgelenen seçimler sonrası yeni parlamento 10 Nisan'da toplanacak",
-    "source": "Euronews",
-    "time": "31/03/2026 08:45",
-    "link": "http://tr.euronews.com/my-europe/2026/03/31/slovenyada-skandallarla-golgelenen-secimler-sonrasi-yeni-parlamento-10-nisanda-toplanacak",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Görevden ayrılan Başbakan Robert Golob'un liberal Özgürlük Hareketi, 90 sandalyeli parlamentoda 29 sandalye kazanarak, Donald Trump hayranı Janez Jansa'nın Slovenya Demokrat Partisi'nin önünde seçimi kıl payı önde tamamladı.",
-    "image": null,
-    "keyword": null
   }
 ]
