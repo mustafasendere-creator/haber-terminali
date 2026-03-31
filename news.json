@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cccc0ed2",
+    "title": "Kan donduran olay... Köpeği asarak öldüren kişi gözaltına alındı",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 18:36",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kan-donduran-olay-kopegi-asarak-olduren-kisi-gozaltina-alindi-2491242",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri Valisi Gökmen Çiçek, Pınarbaşı ilçesinde köpeği ağaca asarak öldüren kişinin gözaltına alındığını bildirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4dca8e3e-ef73-4891-83e5-5b3851c79b20.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b61ad554",
     "title": "Trump duyurdu: İngiltere Kralı 3. Charles 27-30 Nisan'da ABD'yi ziyaret edecek",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ve İsrail'in İran'a saldırılarının devam etmesi nedeniyle hava sahasını uçuşlara kapatan Irak, bu süreyi 3 gün daha uzatma kararı aldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_714d714e",
-    "title": "İran'da yüz bin sivil yapı vuruldu, can kaybı bini aştı",
-    "source": "DW Türkçe",
-    "time": "31/03/2026 14:45",
-    "link": "https://www.dw.com/tr/iran-da-yüz-bin-sivil-yapı-vuruldu-can-kaybı-bini-aştı/a-76606691",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ve ABD'nin 28 Şubat'ta başlattığı saldırılar sonrası İran'da askeri tesislerden okullara, hastanelerden tarihi yapılara kadar geniş bir alanda büyük yıkım meydana geldi, binden fazla kişi hayatını kaybetti.",
     "image": null,
     "keyword": null
   }
