@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b0dd35c3",
+    "title": "Evinde silahla öldürülmüş olarak bulundu! En yakını gözaltında!",
+    "source": "Habertürk",
+    "time": "01/04/2026 01:55",
+    "link": "https://www.haberturk.com/son-dakika-evinde-silahla-oldurulmus-bulundu-en-yakini-gozaltinda-antalya-haberleri-3873425",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'da, sera işçisi ve 3 çocuk annesi olan 25 yaşındaki Vahda Ş., evinde silahla vurulmuş halde ölü bulundu. Genç kadının ölümüyle ilgili olarak aralarında kocasının da bulunduğu 9 şüpheli gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774866702/3873425/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b5ea82f8",
     "title": "Emniyet'ten 'Avrupa'nın Pablo Escobar'ı' Baybaşinlere ağır darbe!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "A Milli Futbol Takımı'nın file bekçisi Uğurcan Çakır, 1-0 kazandıkları Kosova maçının ardından görüşlerini aktardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c309a44f-515f-4ac6-854d-39461338186c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_260c66e2",
-    "title": "İsrail'in Lübnan'a saldırılarında 1'i sağlık çalışanı 11 kişi hayatını kaybetti",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 00:55",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/israil-in-lubnan-a-saldirilarinda-1-i-saglik-calisani-11-kisi-hayatini-kaybetti-2491335",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in, Lübnan'ın güneyindeki beldelere düzenlediği saldırılarda 1'i sağlık çalışanı 11 kişi yaşamını yitirdi. Saldırılarda 32 kişi ise yaralandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f972bd53-d701-4f3e-9549-a21908b49913.jpg",
     "keyword": null
   }
 ]
