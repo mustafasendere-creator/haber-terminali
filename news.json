@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_43c1eff9",
+    "title": "ABD’den Orta Doğu’ya üçüncü uçak gemisi: USS George H.W. Bush yola çıktı iddiası",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 01:14",
+    "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-orta-dogu-ya-ucuncu-ucak-gemisi-uss-george-h-w-bush-yola-cikti-iddiasi-2491338",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin 3. uçak gemisi USS George H.W. Bush'un Orta Doğu'ya görevlendirildiği, geminin Virginia eyaletinin Norfolk Limanı'ndan hareket ettiği ileri sürüldü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/6f7a0fbb-8c11-45c4-bf39-92a80896951f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_791208d5",
     "title": "Vincenzo Montella'nın Dünya Kupası sevinci: 'İnanılmaz gururluyum'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran’da savaş lojistik sorunlar yaratıyor. Taşımacılık rotalarında kamyonların rolü artıyor. Bu da navlun maliyetlerini büyütüp birçok ülkede buğdaydan şekere tavuk etinden mısıra tüm arz zincirini zorluyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/deniz-dalgalandi-karayolu-devrede-xi14_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5908e335",
-    "title": "Mevduat faizleri uçuşa geçti",
-    "source": "Ekonomim",
-    "time": "01/04/2026 00:16",
-    "link": "https://www.ekonomim.com/ekonomi/mevduat-faizleri-ucusa-gecti-haberi-885198",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Savaşın negatif etkilerini gidermek için Merkez Bankası’nın hamleleri mevduat ve kredi faizlerini yükseltti. 1 trilyon lirayı aşan likidite açığı bankacılık sektörünün mevduat faiz oranlarını yüzde 40’ın üzerine çıkarmasına neden olurken savaş boyunca mevduat faizinde artış 4 puanı buldu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/mevduat-faizleri-ucusa-gecti-ogm9_cover.jpg",
     "keyword": null
   }
 ]
