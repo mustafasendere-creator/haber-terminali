@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2b8e2410",
+    "title": "MSB: İran'dan ateşlendiği belirlenen ve Türk hava sahasına giren bir balistik mühimmat etkisiz hale getirildi",
+    "source": "BBC Türkçe",
+    "time": "31/03/2026 11:04",
+    "link": "https://www.bbc.com/turkce/articles/c875v4z0ww7o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanlığı (MSB), İran'dan ateşlenerek Türk hava sahasına giren balistik mühimmatın, Doğu Akdeniz'de konuşlu NATO hava ve füze savunma unsurları tarafından etkisiz hale getirildiğini açıkladı. Bu, İran'da ateşlendiği söylenen dördüncü balistik mühimmat oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5fb64c4d",
     "title": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey gözaltına alındı",
     "source": "BBC Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Hakkari'de hakkında 5 yıl kesinleşmiş hapis cezası bulunan hükümlü, jandarma ekiplerinin ikna çalışmaları sonucu teslim oldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_725e2806",
-    "title": "Uşak Belediye Başkanı Özkan Yalım tutuklandı",
-    "source": "DW Türkçe",
-    "time": "31/03/2026 09:25",
-    "link": "https://www.dw.com/tr/uşak-belediye-başkanı-özkan-yalım-tutuklandı/a-76601149",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uşak Belediyesine yönelik \"rüşvet\" soruşturması kapsamında aralarında Belediye Başkanı Özkan Yalım'ın da bulunduğu dokuz kişi tutuklandı. Yalım'ın CHP üyeliği de askıya alındı.",
     "image": null,
     "keyword": null
   }
