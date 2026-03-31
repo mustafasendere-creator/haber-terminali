@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fd1da6f3",
+    "title": "Mimozalar yetim kaldı",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 18:36",
+    "link": "https://www.cumhuriyet.com.tr/yasam/mimozalar-yetim-kaldi-2491241",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Geçen yıl martın son günüydü. Kuzey Kıbrıs’ta sahnedeyken fenalaşan Volkan Konak, kaldırıldığı hastanede hayata veda etmiş, ardından doğup büyüdüğü toprağa, Maçka’ya uğurlanmıştı. Şimdi yokluğunun üzerinden bir yıl geçti. Geriye sesi kaldı, türküleri kaldı, bir de memleketin içinden eksilen o sıcaklık.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b15a880c-287c-47e2-ad6a-c76e3fe59b8d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5ba616a5",
     "title": "Sayfaların arasından çıkıp sinema tarihini değiştiren 5 film...",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde 5G ile İletişimde Güçlü Türkiye Töreni'nde konuşuyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3565f62e",
-    "title": "5G sanayide üretim sürecini de hızlandıracak",
-    "source": "TRT Haber",
-    "time": "31/03/2026 14:46",
-    "link": "https://www.trthaber.com/haber/ekonomi/5g-sanayide-uretim-surecini-de-hizlandiracak-939801.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'de yarın itibarıyla kullanılmaya başlanacak 5G teknolojisi, sanayi sektöründe üretim süreçlerini hızlandırarak dijital dönüşümü güçlendirecek, akıllı fabrika uygulamalarının yaygınlaşmasına olanak tanıyacak.",
     "image": null,
     "keyword": null
   }
