@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ab6dc6bd",
+    "title": "Kaza yaptı: Aracını bırakıp kaçtı",
+    "source": "OdaTV",
+    "time": "31/03/2026 23:36",
+    "link": "https://www.odatv.com/guncel/kaza-yapti-aracini-birakip-kacti-120141504",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kazada takla atarak tarlaya savrulan otomobilin sürücüsü, olay yerinden kaçtı. Ekipler yaralıya rastlamazken firari sürücünün kimliği araştırılıyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/kaza-yapti-aracini-birakip-kacti-8oao.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_90dd5075",
     "title": "MİT Başkanı Hamas ile görüştü",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD merkezli teknoloji şirketi Oracle, net kârı yüzde 95 artmasına rağmen 30 bin çalışanını sabah 06.00'da tek e-postayla işten çıkardı",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341061.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e9ae8658",
-    "title": "Özgür Özel'den İkizköylü Esra Işık'ın tutuklanmasına tepki: Bir annenin direncini, kızının özgürlüğüyle sınayan bu kara düzene yazıklar olsun",
-    "source": "Evrensel",
-    "time": "31/03/2026 22:54",
-    "link": "https://www.evrensel.net/haber/5977630/ozgur-ozelden-ikizkoylu-esra-isikin-tutuklanmasina-tepki-bir-annenin-direncini-kizinin-ozgurluguyle-sinayan-bu-kara-duzene-yaziklar-olsun",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Genel Başkanı Özgür Özel, Esra Işık'ın tutuklanmasına tepki göstererek, \"Bir annenin direncini, kızının özgürlüğü ile sınayan bu kara düzene yazıklar olsun. Asla teslim olmayacağız\" ifadesini kullandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341062.jpg",
     "keyword": null
   }
 ]
