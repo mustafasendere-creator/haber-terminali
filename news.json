@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5242317a",
+    "title": "İran medyası: Tahran'da patlama sesleri duyuldu",
+    "source": "TRT Haber",
+    "time": "31/03/2026 04:44",
+    "link": "https://www.trthaber.com/haber/dunya/iran-medyasi-tahranda-patlama-sesleri-duyuldu-939718.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail saldırıları altındaki İran'ın başkenti Tahran'ın çeşitli bölgelerinde patlama seslerinin duyulduğu bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4a990889",
     "title": "Başakşehir'de polis servisinin de karıştığı zincirleme kaza: 1 polis hayatını kaybetti, 4'ü ağır, 30 kişi yaralandı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, ülkesi ve İsrail'in askeri saldırılarını sürdürdüğü İran ile \"anlaşmaya varılmaması\" halinde Basra Körfezindeki Hark Adası, elektrik santralleri, petrol kuyularını yok edeceklerini bildirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e5ff188c",
-    "title": "Eski MİT'çi Önder Sığırcıkoğlu, casusluk suçlamasıyla tutuklandı",
-    "source": "Evrensel",
-    "time": "31/03/2026 02:44",
-    "link": "https://www.evrensel.net/haber/5977455/eski-mit-ci-onder-sigircikoglu-casusluk-suclamasiyla-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MİT tarafından Suriye'de yakalanarak Türkiye'ye getirilen eski MİT’çi Önder Sığırcıkoğlu, \"casusluk\" suçlamasıyla sevk edildiği hakimlikçe tutuklandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340147.jpg",
     "keyword": null
   }
 ]
