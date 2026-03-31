@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a682822d",
+    "title": "Feci kaza... Yolcu otobüsü TIR'a çarptı: 10 kişi yaralandı",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 23:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/feci-kaza-yolcu-otobusu-tir-a-carpti-10-kisi-yaralandi-2491307",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çekmeköy Kuzey Marmara Otoyolu'nda şoförünün direksiyon hakimiyetini kaybettiği yolcu otobüsü seyir halindeki TIR'a çarptı. Kazada yaralandığı belirlenen 10 kişi ambulansla hastaneye kaldırıldı. Kazaya ilişkin inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b3c631a3-06a2-4ffa-8cf0-89e6a9c21082.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5446ea32",
     "title": "Kocaeli'nin fazla suyu Sapanca Gölü'ne gönderiliyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kurtlar günümüzde neredeyse tüm AB ülkelerinde görülmeye başlandı. 2012 yılında yaklaşık 11 bin olan kurt sayısı, 2023 itibarıyla 20 binin üzerine çıktı. Özellikle İtalya, Bulgaristan, Romanya ve İspanya'da kurt nüfusunun her bir ülkede 2 binden fazla olduğu belirtiliyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d973c7c4",
-    "title": "Bu kasabada mezarlık yok: Ölenler uçakla başka yere götürülüyor",
-    "source": "10Haber",
-    "time": "31/03/2026 22:34",
-    "link": "https://10haber.net/saglik/bu-kasabada-mezarlik-yok-olenler-ucakla-baska-yere-goturuluyor-691341/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Norveç’e bağlı Svalbard takımadalarında yer alan Longyearbyen kasabasında, 1950 yılından bu yana defin işlemleri ve dolayısıyla ölmek yasaklandı. Dünyanın en kuzeyindeki yerleşim yerlerinden biri olan bu bölgedeki yasak, hukuki bir tercihten ziyade coğrafi zorunluluklara dayanıyor. Kasabanın üzerine kurulu olduğu toprak, permafrost olarak adlandırılan ve hiç çözülmeyen donmuş bir tabakadır. Bu çevresel koşul, organik maddelerin çürümesini [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cba754223565.19432413.jpg",
     "keyword": null
   }
 ]
