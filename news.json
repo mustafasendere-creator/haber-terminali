@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_53ba6b98",
+    "title": "İran medyası: ABD-İsrail'in İran'a saldırılarında, Hürmüz Boğazı'ndaki bir liman hedef alındı",
+    "source": "Evrensel",
+    "time": "01/04/2026 02:34",
+    "link": "https://www.evrensel.net/haber/5977645/iran-medyasi-abd-israilin-irana-saldirilarinda-hurmuz-bogazindaki-bir-liman-hedef-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran basını, ABD ve İsrail saldırılarında Hürmüz Boğazı'nda yer alan sahil kenti Bender Abbas'ta bir limanın hedef alındığını bildirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340158.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9ec4bbb4",
     "title": "İsrail ordusunun Lübnan'da bir araca düzenlediği saldırıda 2 kişi öldü",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran savaşına ilişkin açıklamalarda bulunan İsrail Başbakanı Binyamin Netanyahu, \"İran'ın bizi yok etmek için yıllar boyunca yaptığı trilyon dolarlık yatırım boşa gitti\" ifadelerini kullandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/netanyahu-iranin-bizi-yok-etmek-icin-trilyon-dolarlik-yatirimi-bosa-gitti-seyr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f9edc9bc",
-    "title": "Orkun Kökçü'nün babası Halis Kökçü: Konuşun!",
-    "source": "Haber Global",
-    "time": "01/04/2026 01:14",
-    "link": "https://haberglobal.com/spor/orkun-kokcunun-babasi-halis-kokcu-konusun-516372",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 FIFA Dünya Kupası'na katılmayı hak kazanan A Milli Takım'da Orkun Kökçü'nün babasından dikkat çeken paylaşım geldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/orkun-kokcunun-babasi-halis-kokcu-konusun-whq4.jpg",
     "keyword": null
   }
 ]
