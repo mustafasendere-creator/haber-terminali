@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9ec4bbb4",
+    "title": "İsrail ordusunun Lübnan'da bir araca düzenlediği saldırıda 2 kişi öldü",
+    "source": "Evrensel",
+    "time": "01/04/2026 02:34",
+    "link": "https://www.evrensel.net/haber/5977646/israil-ordusunun-lubnanda-bir-araca-duzenledigi-saldirida-2-kisi-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın başkenti Beyrut'un güneyindeki Halde beldesinde bir araca düzenlediği saldırıda 2 kişi hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339909.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6b02e4f8",
     "title": "Jet yakıtı zamlandı: Tatil uçuşlarını erkenden almak mantıklı mıydı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "2026 FIFA Dünya Kupası'na katılmayı hak kazanan A Milli Takım'da Orkun Kökçü'nün babasından dikkat çeken paylaşım geldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/orkun-kokcunun-babasi-halis-kokcu-konusun-whq4.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e0e4e8cc",
-    "title": "İran medyası: ABDİsrail'in İran'a saldırılarında bir çelik fabrikası hedef alındı",
-    "source": "TRT Haber",
-    "time": "01/04/2026 01:14",
-    "link": "https://www.trthaber.com/haber/dunya/iran-medyasi-abd-israilin-irana-saldirilarinda-bir-celik-fabrikasi-hedef-alindi-939854.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran medyası: ABDİsrail'in İran'a saldırılarında İsfahan kentinde bir çelik fabrikası hedef alındı.",
-    "image": null,
     "keyword": null
   }
 ]
