@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e14aacd",
+    "title": "Cumhurbaşkanı'ndan, Özel'e suç duyurusu",
+    "source": "Habertürk",
+    "time": "01/04/2026 00:16",
+    "link": "https://www.haberturk.com/cumhurbaskani-erdogan-dan-ozgur-ozel-e-suc-duyurusu-3873489",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Erdoğan, Aydın mitingindeki sözleri nedeniyle CHP Genel Başkanı Özgür Özel'e 500 bin TL'lik tazminat davası açtı. Suç duyurusunda bulundu.",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774879988/3873489/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_03cdc753",
     "title": "Suriye Cumhurbaşkanı Şara Chatham House’da konuştu: SDG güçleri devlet yapısına entegre ediliyor",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kayseri'nin Pınarbaşı ilçesinde bir şahıs yemek yetmediğini ileri sürerek köpeği zincirle ağaca asarak ölümüne neden oldu. Sosyal medyada gündem olan kan donduran görüntülerin ardından şahıs gözaltına alındı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/kayseride-bir-sahis-kopegi-zincirle-agaca-asarak-oldurdu-gozaltina-alindi-cqix.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_eaa2aaca",
-    "title": "Cumhurbaşkanı Erdoğan, Türkiye Güreş Federasyonu Başkanı Akgül'ü kabul etti",
-    "source": "TRT Haber",
-    "time": "31/03/2026 23:35",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turkiye-gures-federasyonu-baskani-akgulu-kabul-etti-939809.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye Güreş Federasyonu Başkanı Taha Akgül'ü kabul etti.",
-    "image": null,
     "keyword": null
   }
 ]
