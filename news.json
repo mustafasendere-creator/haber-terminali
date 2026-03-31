@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64150451",
+    "title": "AB'den üye ülkelere petrol talebini kısma ve uzun süreli aksamalara hazırlanma çağrısı",
+    "source": "Euronews",
+    "time": "31/03/2026 13:05",
+    "link": "http://tr.euronews.com/my-europe/2026/03/31/abden-uye-ulkelere-petrol-talebini-kisma-ve-uzun-sureli-aksamalara-hazirlanma-cagrisi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Euronews'ün gördüğü mektuba göre AB, arz baskısı karşısında hükümetlere enerji tasarrufunu artırma ve alternatif seçenekleri değerlendirme çağrısı yapıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3ec8fe83",
     "title": "Karahan: Bu savaş ortamında altın kaynaklı işlem son derece doğal",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Günümüz modern şehir planlamasına binlerce yıl öncesinden ışık tutan İndus Vadisi Medeniyeti, standart tuğla konutları ve gelişmiş kanalizasyon sistemleriyle bilim dünyasını şaşırtmaya devam ediyor. Mısır ve Mezopotamya'nın aksine devasa sarayların ve otoriter kralların izine rastlanmayan bu gizemli uygarlık, \"eşitlikçi bir toplum mümkün mü?\" sorusunu yeniden gündeme taşıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/a77f0886-7271-496a-9d58-532e6151b384.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_db777ead",
-    "title": "Cumhuriyet Silivri'den bildiriyor... İBB Davası'nda 13'üncü gün: Duruşma başladı",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 11:06",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/cumhuriyet-silivri-den-bildiriyor-ibb-davasi-nda-13-uncu-gun-durusma-basladi-2491077",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB’ye yönelik, aralarında tutuklu İBB Başkanı ve CHP'nin cumhurbaşkanı adayı Ekrem İmamoğlu’nun da bulunduğu 402 sanıklı davada 4. haftaya girildi. 13. celse bugün görülüyor. Mahkeme Heyeti'nin gelmesiyle duruşma başladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2a6c1cc3-a561-4d00-ab6a-361f62f62afa.jpg",
     "keyword": null
   }
 ]
