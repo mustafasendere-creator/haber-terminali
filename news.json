@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c715133",
+    "title": "İsrail'den Beyrut'a 3 saldırı",
+    "source": "Haber Global",
+    "time": "01/04/2026 00:55",
+    "link": "https://haberglobal.com/dunya/israilden-beyruta-3-saldiri-516375",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un Dahiye bölgesine 3 saldırı düzenledi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/israilden-beyruta-3-saldiri-r42m.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_99b0a986",
     "title": "A Milli Takımımızın Dünya Kupası fikstürü",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kosova'yı 1-0 yenerek 2026 Dünya Kupası'na gitmeye hak kazanan A Milli Futbol Takımı'nı kutladı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_966fdc35",
-    "title": "Trabzon Meydanı’nda milli gurur: Dünya kupası bileti Horonlarla kutlandı",
-    "source": "Haber61",
-    "time": "01/04/2026 00:14",
-    "link": "https://www.haber61.net/trabzon/trabzon-meydaninda-milli-gurur-dunya-kupasi-bileti-horonlarla-kutlandi-h628219.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "A Milli Futbol Takımı’nın Kosova’yı mağlup ederek Dünya Kupası vizesi alması, Trabzon’da binlerce vatandaşın katıldığı coşkulu kutlamalara sahne oldu.",
-    "image": "https://resim.haber61.net/news/610239.jpg",
-    "keyword": "trabzon"
   }
 ]
