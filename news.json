@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b6445c1a",
+    "title": "Deniz dalgalandı, karayolu devrede",
+    "source": "Ekonomim",
+    "time": "01/04/2026 00:16",
+    "link": "https://www.ekonomim.com/ekonomi/deniz-dalgalandi-karayolu-devrede-haberi-885199",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’da savaş lojistik sorunlar yaratıyor. Taşımacılık rotalarında kamyonların rolü artıyor. Bu da navlun maliyetlerini büyütüp birçok ülkede buğdaydan şekere tavuk etinden mısıra tüm arz zincirini zorluyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/deniz-dalgalandi-karayolu-devrede-xi14_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5908e335",
     "title": "Mevduat faizleri uçuşa geçti",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Beşiktaş GAİN, BKT EuroCup yarı finali ilk maçında kendi evinde ağırladığı Bahçeşehir Koleji'ni 91-72 mağlup ederek seride 1-0 öne geçti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/dfc4b291-a27d-4bd3-a939-db1a72ae18c1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_efb39d72",
-    "title": "İtalya’da mezar skandalı: Öldürülen modelin başı çalındı",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 23:35",
-    "link": "https://www.cumhuriyet.com.tr/dunya/italya-da-mezar-skandali-oldurulen-modelin-basi-calindi-2491315",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Üç yıl önce eski sevgilisi tarafından öldürülen İtalyan model Pamela Genini’nin mezarı açıldı. Naaşının başının kesilerek çalındığı olay, cenazenin nakli sırasında ortaya çıktı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/497e48a4-ed9f-4713-bde9-5bb13e060e3b.jpg",
     "keyword": null
   }
 ]
