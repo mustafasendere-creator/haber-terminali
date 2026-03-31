@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9a137ca0",
+    "title": "Kuzey Marmara Otoyolu'nda tır ile yolcu otobüsü çarpıştı, 10 kişi yaralandı",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 23:54",
+    "link": "https://www.aa.com.tr/tr/guncel/kuzey-marmara-otoyolunda-tir-ile-yolcu-otobusu-carpisti-10-kisi-yaralandi/3887243",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Kuzey Marmara Otoyolu'nda tır ile yolcu otobüsünün çarpışması sonucu 10 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4e1565fc",
     "title": "Ümit Milli Futbol Takımı, Hırvatistan'a 3-0 yenildi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Altı nar gibi kızarmış, içi yumuşacık su böreğiyle lezzet şölenine hazır olun...",
     "image": "https://media.cumhuriyet.com.tr/Archive/9d2ef2d2-d56e-46ba-b698-dd45b82d457d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fbd93550",
-    "title": "65 yaşındaki adam caminin kadınlar tuvaletinde ölü bulundu",
-    "source": "Haber Global",
-    "time": "31/03/2026 22:55",
-    "link": "https://haberglobal.com/gundem/65-yasindaki-adam-caminin-kadinlar-tuvaletinde-olu-bulundu-516346",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mardin’in Midyat ilçesinde 65 yaşındaki Emin Özer, cami tuvaletinde ölü bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/65-yasindaki-adam-caminin-kadinlar-tuvaletinde-olu-bulundu-fv6c.jpg",
     "keyword": null
   }
 ]
