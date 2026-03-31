@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bfde698a",
+    "title": "İran'ın Körfez ülkelerine saldırıları sürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 09:24",
+    "link": "https://www.aa.com.tr/tr/guncel/iranin-korfez-ulkelerine-saldirilari-suruyor/3885921",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, ABD ve İsrail saldırılarına misilleme kapsamında 28 Şubat’tan bu yana Körfez ülkelerinde belirlediği hedeflere saldırılarını sürdürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_28db4078",
     "title": "Pentagon, İran saldırısından önce Bakan Hegseth bağlantılı savunma yatırımı iddiasını reddetti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bursa’da yürütülen soruşturma kapsamında gözaltına alınan Mustafa Bozbey’in hayatı ve siyasi kariyeri yeniden gündeme geldi. Bozbey’in hangi partiden olduğu ve gözaltı sürecine ilişkin detaylar merak ediliyor.",
     "image": "https://resim.haber61.net/news/610084.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_a8c9dff2",
-    "title": "Bitcoin Kaç Dolar? Bitcoin Alınır Mı, Satılır Mı?",
-    "source": "Taka Gazetesi",
-    "time": "31/03/2026 08:24",
-    "link": "https://www.takagazete.com.tr/bitcoin-kac-dolar-bitcoin-alinir-mi-satilir-mi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bitcoin fiyatı bugün ne kadar oldu, 31.03.2026 itibarıyla BTC kaç TL ve kaç dolar, yükseliş mi başlayacak yoksa düşüş devam mı edecek, Bitcoin neden düşüyor veya yükseliyor, haftalık değişim ne durumda ve yatırımcılar şimdi ne yapmalı gibi soruların yanıtları merak ediliyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/11/bitcoin-4.jpeg",
     "keyword": null
   }
 ]
