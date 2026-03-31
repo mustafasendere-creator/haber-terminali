@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6f9067e2",
+    "title": "İç borçlanma stratejisi açıklandı",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 18:34",
+    "link": "https://www.aa.com.tr/tr/guncel/ic-borclanma-stratejisi-aciklandi/3886972",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hazine ve Maliye Bakanlığı, nisan-haziran döneminde 1 trilyon 395,6 milyar liralık iç borç servisine karşılık 1 trilyon 369,3 milyar liralık iç borçlanmaya gidecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_ac1d758b",
     "title": "Dış Ticaret Açığı Alarm Veriyor! İthalat Hız Kesti mi?",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "PTT’nin geleneksel Postacı Yürüyüş Yarışması, 7 Nisan’da Akçaabat’ta düzenlenecek. Bölge illerinden sporcuların katılacağı organizasyonda dereceye girenler Türkiye Finali ve Balkan Şampiyonası için yarışacak.",
     "image": "https://resim.haber61.net/news/610164.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_2f50d541",
-    "title": "Trabzon’da trafik cezalarına tepki: Başkan Muratoğlu’ndan dikkat çeken açıklama",
-    "source": "Haber61",
-    "time": "31/03/2026 14:44",
-    "link": "https://www.haber61.net/trabzon/trabzonda-trafik-cezalarina-tepki-baskan-muratoglundan-dikkat-ceken-h628177.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Saadet Partisi Trabzon İl Başkanı Ahmet Muratoğlu, Karayolları Trafik Kanunu’ndaki son değişikliklerin ardından yükselen trafik cezalarını eleştirdi.",
-    "image": "https://resim.haber61.net/news/610166.jpg",
     "keyword": null
   }
 ]
