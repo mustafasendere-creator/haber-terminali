@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_385ea526",
+    "title": "Hollanda'dan Nebius Finlandiya'da dev yapay zeka fabrikası kuruyor",
+    "source": "Euronews",
+    "time": "31/03/2026 22:14",
+    "link": "http://tr.euronews.com/next/2026/03/31/hollandali-nebius-avrupanin-en-buyuk-yapay-zeka-veri-merkezi-projelerinden-birini-duyurdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Finlandiya'nın Lappeenranta kentinde kurulan tesis, gelişmiş yapay zeka modellerini eğitmek ve çalıştırmak için gereken işlem gücü, depolama ve altyapı ihtiyacını karşılayacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_83a8ddf8",
     "title": "İranlı muhalif lidere göre ABD'nin İran'la müzakere kararı yanlıştı, İran rejimine güvenilmez",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Suriye Demokratik Güçleri (SDG) komutanlarından Suriye Savunma Bakan Yardımcısı Sipan Hemo, ilerleyen dönemde SDG’nin resmen feshedileceğini duyurdu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/332303.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e8fa393d",
-    "title": "Fatih'te silahlı saldırıya uğrayan Arif İsmailov adlı kurye hayatını kaybetti",
-    "source": "Evrensel",
-    "time": "31/03/2026 21:35",
-    "link": "https://www.evrensel.net/haber/5977623/fatihte-silahli-saldiriya-ugrayan-arif-ismailov-adli-kurye-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Fatih'te özel bir lojistik firmasında kurye olarak çalışan Arif İsmailov, kimliği belirsiz şüpheli tarafından silahlı saldırıya uğradı. İsmailov, kaldırıldığı hastanede hayatını kaybetti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341057.jpg",
     "keyword": null
   }
 ]
