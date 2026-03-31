@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3b17f97d",
+    "title": "T.C. ŞİLE 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 02:54",
+    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-sile-1-asliye-hukuk-mahkemesi-hakimligi-2490956",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "T.C. ŞİLE 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4f44e3cf-931e-4177-a910-1a8e1b60dbe2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7aabdccb",
     "title": "T.C. İSTANBUL ANADOLU 2. ASLİYE HUKUK MAHKEMESİ",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Irak'ın Erbil kentine 10 kamikaze insansız hava aracıyla (İHA) düzenlenen saldırıda, İHA'lardan biri eve isabet etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d28d9e7d",
-    "title": "ABD Başkanı Trump, İran savaşını 2-3 hafta içinde sona erdireceklerini söyledi",
-    "source": "Anadolu Ajansı",
-    "time": "01/04/2026 01:34",
-    "link": "https://www.aa.com.tr/tr/guncel/abd-baskani-trump-iran-savasini-2-3-hafta-icinde-sona-erdireceklerini-soyledi/3887375",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran savaşını ne zaman bitireceği sorusuna, \"Sanırım iki ya da üç hafta içinde. Sonra oradan çekileceğiz.\" diye yanıt verdi.",
     "image": null,
     "keyword": null
   }
