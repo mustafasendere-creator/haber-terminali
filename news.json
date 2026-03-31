@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e77dd765",
+    "title": "Burak Elmas ameliyat oldu",
+    "source": "OdaTV",
+    "time": "31/03/2026 21:56",
+    "link": "https://www.odatv.com/guncel/burak-elmas-ameliyat-oldu-120141533",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray eski başkanlarından Burak Elmas ameliyat oldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/burak-elmas-ameliyat-oldu-tmdq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_87bb355a",
     "title": "Erdoğan'dan şehit Savcı Mehmet Selim Kiraz için anma mesajı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’un Pelitli Mahallesi’nde alkollü olduğu iddia edilen bir şahıs, zincir markete saldırarak camları kırdı. Şüpheli jandarma ekiplerince gözaltına alındı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/03/8-kopyasi-3-120.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_2a08f91b",
-    "title": "Cumhurbaşkanı Erdoğan’dan Rize’ye 5G bağlantısı: Hizmete resmen açıldı",
-    "source": "Haber61",
-    "time": "31/03/2026 21:33",
-    "link": "https://www.haber61.net/bolgesel/cumhurbaskani-erdogandan-rizeye-5g-baglantisi-hizmete-resmen-acildi-h628187.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi’nden gerçekleştirdiği canlı bağlantıyla Türkiye genelinde 5G teknolojisinin hizmete açılışını yaptı.",
-    "image": "https://resim.haber61.net/news/610181.jpg",
     "keyword": null
   }
 ]
