@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f43d5535",
+    "title": "Lübnan’da sıcak temas: İsrail askerleri öldü",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 08:05",
+    "link": "https://www.cumhuriyet.com.tr/dunya/lubnan-da-sicak-temas-israil-askerleri-oldu-2490999",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Lübnan'ın güneyinde Hizbullah ile girilen çatışmalarda 4 askerinin öldüğünü, 3'ünün yaralandığını duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b732168f-fc71-4332-b24f-1a9812ad6b56.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_af8681e5",
     "title": "Meteoroloji'den yeni rapor! Yağışlar ne zamana kadar sürecek?",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gençlerin iyi olma raporu, Türkiye’ye bağlılık sürse de yaşam memnuniyeti ve gelecek umudunun azaldığını, iş bulma konusunda kaygıların arttığını gözler önüne serdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5573947e-198d-4ef4-ad73-5d70232657ba.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_abe52f1a",
-    "title": "Koza, Nevşehir ve Kayseri’deki altın madenini genişletmek için bakanlık onayını aldı: Meralara siyanür!",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 04:24",
-    "link": "https://www.cumhuriyet.com.tr/cevre/koza-nevsehir-ve-kayseri-deki-altin-madenini-genisletmek-icin-bakanlik-onayini-aldi-meralara-siyanur-2490987",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Koza Altın’ın Nevşehir ve Kayseri’yi kapsayan patlatmalı altın ve bakır madeni kapasite artışı projesine Çevre, Şehircilik ve İklim Değişikliği Bakanlığı “ÇED olumlu” kararı verdi. Proje kapsamında maden sahası genişletilecek, siyanürlü zenginleştirme yapılacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2acccc1f-572e-4098-98f9-48b4b6c37a1a.jpg",
     "keyword": null
   }
 ]
