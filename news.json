@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_abc668cd",
+    "title": "İran'dan Dubai’ye füze ve drone yağmuru: Kuveyt tankeri vuruldu",
+    "source": "Euronews",
+    "time": "01/04/2026 00:34",
+    "link": "http://tr.euronews.com/2026/03/31/euronews-muhabirleri-iranin-fuze-ve-drone-saldirisinda-dubaide-birden-fazla-patlama-oldugu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dubai'de salı sabahı en az 5 patlama meydana geldiği bildirildi. Bölge sakinleri sığınaklara akın ederken, BAE makamları tehdide karşı 'aktif müdahale' yürütüldüğünü açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e34c16b7",
     "title": "Dünya Kupası'na katılma hakkı kazanan A Milli Takımı'na tebrik mesajları",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Hamas Siyasi Bürosu Müzakere Heyeti Başkanı Halil Hayye ve beraberindeki Hamas heyetiyle bir araya geldi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/31/mit-baskani-hamas-ile-gorustu-ytbb.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_dcff2e7b",
-    "title": "İran'dan ABD şirketlerini vurma kararı!",
-    "source": "Ekonomim",
-    "time": "31/03/2026 23:36",
-    "link": "https://www.ekonomim.com/dunya/irandan-abd-sirketlerini-vurma-karari-haberi-885174",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, yarından itibaren misilleme olarak ABD&#039;nin bölgedeki şirketlerini hedef alacaklarını açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/irandan-abd-sirketlerini-vurma-karari-065y_cover.jpg",
     "keyword": null
   }
 ]
