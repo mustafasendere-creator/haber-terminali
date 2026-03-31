@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_35be98ae",
+    "title": "İçişleri Bakanlığı 6 il için sarı kodlu meteoroloji uyarısı yayımladı",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 22:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-6-il-icin-sari-kodlu-meteoroloji-uyarisi-yayimladi-2491299",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, İzmir, Aydın, Muğla çevreleri ile Antalya ve Manisa'nın batı, Denizli'nin güney ilçelerinde sağanak uyarısında bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/cb7e5a31-87ea-4b54-9c27-06d157df9631.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ed2c9dc1",
     "title": "A Milli Futbol Takımı Kaptanı Hakan Çalhanoğlu'ndan rekor!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fenerbahçe Kulübü Başkanı Sadettin Saran, kulüp binasına giderken trafik kazası geçirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_896e4fef",
-    "title": "Suriye Cumhurbaşkanı Şara, İngiltere Başbakanı Starmer'la görüştü",
-    "source": "TRT Haber",
-    "time": "31/03/2026 21:55",
-    "link": "https://www.trthaber.com/haber/dunya/suriye-cumhurbaskani-sara-ingiltere-basbakani-starmerla-gorustu-939819.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Londra'da bir araya gelen İngiltere Başbakanı Keir Starmer ile Suriye Cumhurbaşkanı Ahmed Şara, ikili ilişkiler, Suriye'deki gelişmeler, Orta Doğu'daki gerilim ve Hürmüz Boğazı'nın önemini görüştü.",
     "image": null,
     "keyword": null
   }
