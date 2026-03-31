@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_42fe9921",
+    "title": "Dr. Levent Yurga: Körfez çamurunun başka bir yere bırakılması yanlış",
+    "source": "Evrensel",
+    "time": "01/04/2026 00:15",
+    "link": "https://www.evrensel.net/haber/5977600/dr-levent-yurga-korfez-camurunun-baska-bir-yere-birakilmasi-yanlis",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ege Üniversitesi Su Ürünleri Fakültesinden öğretim üyesi Dr. Levent Yurga, İzmir Körfezi’ndeki kirlilik, koku ve toplu balık ölümlerinin yalnızca deniz suyu sıcaklıklarındaki artışla açıklanamayacağını, bunun “kolaycılık” olacağını söyledi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341033.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_da98fedb",
     "title": "Orman arazileri bir kez daha yağmaya açılıyor",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Belçika'nın başkenti Brüksel'deki önemli metro ve tren istasyonlarında güvenliği artırmak amacıyla 3 Nisan'dan itibaren asker konuşlandırılacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3607f221",
-    "title": "İsrail polisi, Filistinli esirlere idam cezasını protesto eden göstericilere müdahale etti",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 23:34",
-    "link": "https://www.aa.com.tr/tr/guncel/israil-polisi-filistinli-esirlere-idam-cezasini-protesto-eden-gostericilere-mudahale-etti/3887154",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail polisi, Batı Kudüs'te bulunan İsrail Meclisi önünde, Filistinli esirlere idam cezası getirilmesini öngören yasa tasarısını protesto eden onlarca kişiye TOMA ve güç kullanarak müdahale etti, 2 kişiyi gözaltına aldı.",
     "image": null,
     "keyword": null
   }
