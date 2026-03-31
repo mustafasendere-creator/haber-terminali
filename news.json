@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_af7a3e98",
+    "title": "Uşak Belediye Başkanı Özkan Yalım tutuklandı",
+    "source": "Evrensel",
+    "time": "31/03/2026 03:24",
+    "link": "https://www.evrensel.net/haber/5977451/usak-belediye-baskani-ozkan-yalim-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uşak Belediyesine yönelik soruşturmada, aralarında Belediye Başkanı Özkan Yalım'ın da bulunduğu 9 kişi, emniyetteki işlemlerinin ardından çıkarıldıkları mahkemece tutuklandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340435.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ae800aa1",
     "title": "Samsun Devrimci 78’liler Derneği: Kızıldere'nin kan çiçeklerini anıyoruz",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kayseri'nin Melikgazi ilçesinde 2 otomobilin çarpıştığı kazada 1'i ağır 5 kişi yaralandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c3fac7c6",
-    "title": "İsrail ordusu: 24 saat içinde İran'da 170 hedef vuruldu",
-    "source": "Evrensel",
-    "time": "31/03/2026 02:04",
-    "link": "https://www.evrensel.net/haber/5977473/israil-ordusu-24-saat-icinde-iranda-170-hedef-vuruldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu, ABD ile ortak saldırıları sürdürdükleri İran'da 24 saatte yaklaşık 400 mühimmat kullanarak Tahran yönetimine ait 170 hedefi vurduğunu iddia etti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340561.jpg",
     "keyword": null
   }
 ]
