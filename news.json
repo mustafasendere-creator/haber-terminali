@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d227a116",
+    "title": "Açık Radyo davası Danıştay’a taşındı",
+    "source": "Evrensel",
+    "time": "31/03/2026 14:05",
+    "link": "https://www.evrensel.net/haber/5977560/acik-radyo-davasi-danistaya-tasindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Açık Radyo’nun yayın lisansının iptaline ilişkin dava, Danıştay’a taşındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341003.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_84bd00c9",
     "title": "Sane asist yaptığı maçta protesto edildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hazine garantili dış borç stoku, 31 Aralık 2025 itibarıyla 19,1 milyar dolar oldu. Türkiye&#039;nin AB tanımlı genel yönetim borç stoku 15 trilyon 14 milyar lira, kamu net borç stoku ise 8 trilyon 564 milyar lira olarak gerçekleşti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/04/hazine-destekli-kredi-paketlerinde-kredi-limiti-201-milyar-liraya-ulasti-jaiz_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8a5a6620",
-    "title": "Türkiye’de 5G yarın başlıyor: İşte telefonunuzda açmak için yapılması gereken ayarlar",
-    "source": "Ekonomim",
-    "time": "31/03/2026 13:07",
-    "link": "https://www.ekonomim.com/gundem/turkiyede-5g-yarin-basliyor-iste-telefonunuzda-acmak-icin-yapilmasi-gereken-ayarlar-haberi-885087",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye’de 5G teknolojisi 1 Nisan itibarıyla kullanıma açılıyor. Ancak yeni nesil internet hızından yararlanmak için yalnızca uyumlu telefon yeterli değil; kullanıcıların hem operatör hem de cihaz ayarlarını aktif hale getirmesi gerekiyor.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/29/turkiyede-5g-donemi-1-nisanda-basliyor-dovd_cover.jpg",
     "keyword": null
   }
 ]
