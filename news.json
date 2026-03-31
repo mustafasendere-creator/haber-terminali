@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f0c52998",
+    "title": "EuroCup'taki Türk derbisinde kazanan Beşiktaş GAİN!",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 23:35",
+    "link": "https://www.cumhuriyet.com.tr/spor/eurocup-taki-turk-derbisinde-kazanan-besiktas-gain-2491305",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beşiktaş GAİN, BKT EuroCup yarı finali ilk maçında kendi evinde ağırladığı Bahçeşehir Koleji'ni 91-72 mağlup ederek seride 1-0 öne geçti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/dfc4b291-a27d-4bd3-a939-db1a72ae18c1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_efb39d72",
     "title": "İtalya’da mezar skandalı: Öldürülen modelin başı çalındı",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "2026 FIFA Dünya Kupası Avrupa Elemeleri play-off finalindeki Kosova-Türkiye müsabakasının ilk yarısı 0-0 sona erdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_47bb1ba6",
-    "title": "BKT Avrupa Kupası'nda Beşiktaş GAİN, Bahçeşehir Koleji'ni 91-72 yendi",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 22:54",
-    "link": "https://www.aa.com.tr/tr/guncel/bkt-avrupa-kupasinda-besiktas-gain-bahcesehir-kolejini-91-72-yendi/3887230",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Basketbol BKT Avrupa Kupası (EuroCup) yarı finalinde iki Türk ekibini karşı karşıya getiren maçta Beşiktaş GAİN, konuk ettiği Bahçeşehir Koleji'ni 91-72 yendi.",
     "image": null,
     "keyword": null
   }
