@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b02e4f8",
+    "title": "Jet yakıtı zamlandı: Tatil uçuşlarını erkenden almak mantıklı mıydı",
+    "source": "Euronews",
+    "time": "01/04/2026 02:34",
+    "link": "http://tr.euronews.com/business/2026/04/01/jet-yakiti-zamlandi-tatil-ucuslarini-erkenden-almak-mantikli-miydi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Devam eden İran savaşı nedeniyle son haftalarda jet yakıtı fiyatları iki kattan fazla arttı. Havayolları biletlerine zam ve geçici ek ücret getirdi; şimdi mi bilet almalısınız, yoksa beklemeli misiniz?",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c79f8fe6",
     "title": "Papa 14. Leo: Umarım ABD Başkanı Trump şiddeti azaltmanın bir yolunu arıyordur",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran medyası: ABDİsrail'in İran'a saldırılarında İsfahan kentinde bir çelik fabrikası hedef alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_31f86edb",
-    "title": "AB'nin enerji faturası 30 günde 14 milyar euro arttı",
-    "source": "TRT Haber",
-    "time": "01/04/2026 01:14",
-    "link": "https://www.trthaber.com/haber/dunya/abnin-enerji-faturasi-30-gunde-14-milyar-euro-artti-939855.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği AB Komisyonunun Enerjiden Sorumlu Üyesi Dan Jorgensen, Orta Doğu'daki gelişmelerin enerji piyasalarında ciddi dalgalanmalara yol açtığını, 30 günde AB'nin fosil yakıt ithalatına 14 milyar euro eklendiğini bildirdi.",
     "image": null,
     "keyword": null
   }
