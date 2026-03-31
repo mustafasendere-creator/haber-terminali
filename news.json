@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_587fceb4",
+    "title": "İsrail'den Lübnan işgali için \"Gazze modeli\" açıklaması",
+    "source": "DW Türkçe",
+    "time": "31/03/2026 19:36",
+    "link": "https://www.dw.com/tr/israil-den-lübnan-işgali-için-gazze-modeli-açıklaması/a-76613065",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BMGK, öldürülen üç barış gücü askeri için acil toplantıya çağrılırken, İsrail Savunma Bakanı Katz'ın \"Lübnan'ın güneyinden çekilmeyeceğiz\" açıklaması tansiyonu tırmandırdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f4a82994",
     "title": "Uşak Belediyesi soruşturması: Dört kişi adli kontrolle serbest",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD, Hürmüz Boğazı'nın çevresinde askeri mevcudiyetini artırırken Donald Trump İngiltere ve Fransa'yı hedef alarak, \"ABD artık size yardım etmeyecek, kendi petrolünüzü kendiniz alın\" mesajını paylaştı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_76da7e8a",
-    "title": "Apartmanlarda “Borç Listesi” Dönemi Bitti! KVKK’dan Net Yasak",
-    "source": "Taka Gazetesi",
-    "time": "31/03/2026 18:34",
-    "link": "https://www.takagazete.com.tr/apartmanlarda-borc-listesi-donemi-bitti-kvkkdan-net-yasak",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Yeni karara göre, aidat borcu bulunan kişilerin isim, soyisim, daire numarası ve borç tutarı gibi bilgilerinin bina girişleri, asansörler ve ilan panoları gibi ortak alanlarda paylaşılması açıkça kişisel veri ihlali olarak değerlendirilecek.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/a-i-d-a-t-1.jpg",
     "keyword": null
   }
 ]
