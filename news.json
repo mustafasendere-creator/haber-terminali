@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_78ad1e60",
+    "title": "Sadettin Saran, trafik kazası geçirdi",
+    "source": "TRT Haber",
+    "time": "31/03/2026 21:55",
+    "link": "https://www.trthaber.com/haber/gundem/sadettin-saran-trafik-kazasi-gecirdi-939818.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Kulübü Başkanı Sadettin Saran, kulüp binasına giderken trafik kazası geçirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_896e4fef",
     "title": "Suriye Cumhurbaşkanı Şara, İngiltere Başbakanı Starmer'la görüştü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı yolsuzluk ve rüşvet soruşturması kapsamında tutuklanan Uşak Belediye Başkanı Özkan Yalım’ın görevden uzaklaştırıldığını duyurdu.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/son-dakika-usak-belediye-baskani-ozkan-yalimin-mal-varligina-el-konuldu-ok15_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e8b58509",
-    "title": "Pezeşkiyan: Hürmüz Boğazı’nın normale dönmesi saldırıların durmasına bağlı",
-    "source": "Ekonomim",
-    "time": "31/03/2026 20:57",
-    "link": "https://www.ekonomim.com/dunya/pezeskiyan-hurmuz-bogazinin-normale-donmesi-saldirilarin-durmasina-bagli-haberi-885197",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Avrupa Birliği (AB) Konseyi Başkanı Antonio Costa ile yaptığı görüşmede, Hürmüz Boğazı’ndaki mevcut durumun ABD ve İsrail’in saldırılarının sonucu olduğunu belirterek, &quot;Bu savaşta herhangi bir bahaneyle yapılacak her türlü dış müdahale tehlikeli sonuçlar doğuracaktır. Durumun normale dönmesi, ABD ve İsrail’in saldırılarını durdurmasına bağlı&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/pezeskiyan-hurmuz-bogazinin-normale-donmesi-saldirilarin-durmasina-bagli-5cch_cover.jpg",
     "keyword": null
   }
 ]
