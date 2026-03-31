@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_52374656",
+    "title": "Galatasaray'ın eski başkanı Burak Elmas ameliyat oldu",
+    "source": "Haber Global",
+    "time": "31/03/2026 21:35",
+    "link": "https://haberglobal.com/spor/burak-elmasin-hastaligi-ne-neden-ameliyat-oldu-516353",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray, kulübün eski başkanlarından Burak Elmas'ın bir ameliyat geçirdiğini açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/burak-elmasin-hastaligi-ne-neden-ameliyat-oldu-ekuy.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9ca3d132",
     "title": "Gazzelilerden İsrail'in idam yasasına karşı Filistinli esirleri yalnız bırakmayın çağrısı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Birleşmiş Milletler (BM), İsrail Meclisinin onayladığı, Filistinli esirlere idam cezası getirilmesini öngören yasaya karşı olduğunu bildirerek, İsrail hükümetine bunu iptal etmesi çağrısında bulundu.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_cc81e5a7",
-    "title": "Trabzonspor’un golcüleri Chibuike ve Onuachu İçin Nijerya’dan kritik karar",
-    "source": "Haber61",
-    "time": "31/03/2026 20:54",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-golculeri-chibuike-ve-onuachu-icin-nijeryadan-kritik-h628208.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor forması giyen Chibuike ve Onuachu, Nijerya’nın Ürdün ile oynayacağı hazırlık karşılaşmasına yedek kulübesinde başlıyor. Merakla beklenen müsabakanın ilk 11 kadroları maç öncesi resmen açıklandı.",
-    "image": "https://resim.haber61.net/news/610215.jpg",
-    "keyword": "trabzon"
   }
 ]
