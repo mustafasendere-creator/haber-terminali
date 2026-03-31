@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d2785266",
+    "title": "İşgalci İsrail ordusunun Lübnan'ın güneyine saldırılarında 7 kişi öldü",
+    "source": "TRT Haber",
+    "time": "31/03/2026 23:15",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-lubnanin-guneyine-saldirilarinda-7-kisi-oldu-939810.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'a düzenlediği son saldırılarda 7 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d1f95e1a",
     "title": "İran Kızılayı: ABDİsrail saldırılarında hasar gören sivil hedef sayısı 110 bini geçti",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Gönüllerde Birlik Vakfı tarafından 2019'dan bu yana verilen Muhsin Yazıcıoğlu Ödüllerinin bu yılki sahipleri açıklandı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_0c02fadd",
-    "title": "Kırmızı Kart Tablosu Tartışma Yarattı! Trabzonspor Neden Zirvede?",
-    "source": "Taka Gazetesi",
-    "time": "31/03/2026 22:34",
-    "link": "https://www.takagazete.com.tr/kirmizi-kart-tablosu-tartisma-yaratti-trabzonspor-neden-zirvede",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, son 10 sezon baz alındığında gördüğü 61 kırmızı kartla dikkat çekici bir istatistiğe imza attı. Bordo-mavililer, bu alanda Beşiktaş ile birlikte zirvede yer aldı. Rakiplerine bakıldığında ise Galatasaray 45 kırmızı kartta kalırken, Fenerbahçe 59 kırmızı kart gördü.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/k-a-r-t-8.jpg",
-    "keyword": "trabzon"
   }
 ]
