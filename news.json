@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_96bbd3f1",
+    "title": "Motosikletli genç hayatını kaybetti",
+    "source": "Habertürk",
+    "time": "01/04/2026 00:55",
+    "link": "https://www.haberturk.com/manisa-da-feci-kaza-motosiklet-surucusu-hayatini-kaybetti-3873462",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'nın Salihli ilçesinde kamyonet ile çarpışan kazada ağır yaralanan 31 yaşındaki motosiklet sürücüsü, kaldırıldığı hastanede hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774873461/3873462/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_76163e8f",
     "title": "Ayanikola Adası projesine onay çıktı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Euronews tarafından görülen taslak açıklamada, AB dış politika şefi Kaja Kallas'ın, söz konusu yasa tasarısının İsrail açısından 'ciddi bir gerileme' anlamına geldiği uyarısı yer alıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d194810a",
-    "title": "Piyasalarda 'Trump belirsizliği' sürüyor: Petrol fiyatları 105 doların üzerinde",
-    "source": "Euronews",
-    "time": "01/04/2026 00:14",
-    "link": "http://tr.euronews.com/business/2026/03/31/piyasalarda-trump-belirsizligi-suruyor-petrol-fiyatlari-105-dolarin-uzerinde",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Petrol fiyatları, Trump'ın kilit öneme sahip Hürmüz Boğazı kapalı kalsa bile İran savaşını sona erdirmeye istekli olduğuna dair haberlerin ortaya çıkmasının ardından önceki seviyelerden biraz daha düşük işlem görse de hala yüksek seyrediyor.",
     "image": null,
     "keyword": null
   }
