@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88e2fc2a",
+    "title": "Can Holding soruşturması: Kenan Tekdağ tahliye edildi",
+    "source": "Ekonomim",
+    "time": "31/03/2026 20:19",
+    "link": "https://www.ekonomim.com/gundem/can-holding-sorusturmasinda-kenan-tekdag-tahliye-edildi-haberi-885191",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Can Yayın Holding Yönetim Kurulu Başkanı Kenan Tekdağ hakkında tahliye kararı verildi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/can-holding-sorusturmasi-kenan-tekdag-tahliye-edildi-blua_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_55e35d5d",
     "title": "SGK duyurdu: Son ödeme süresi 7 Nisan'a uzatıldı",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "BMGK, öldürülen üç barış gücü askeri için acil toplantıya çağrılırken, İsrail Savunma Bakanı Katz'ın \"Lübnan'ın güneyinden çekilmeyeceğiz\" açıklaması tansiyonu tırmandırdı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f4a82994",
-    "title": "Uşak Belediyesi soruşturması: Dört kişi adli kontrolle serbest",
-    "source": "Diken",
-    "time": "31/03/2026 19:36",
-    "link": "https://www.diken.com.tr/usak-belediyesi-sorusturmasi-dort-kisi-adli-kontrolle-serbest/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uşak Belediyesi soruşturması: Dört kişi adli kontrolle serbest 31.03.2026 Dikenİstanbul başsavcılığınca 'rüşvet', 'irtikap' ve 'ihaleye fesat karıştırma' iddialarıyla yürütülen soruşturmada gözaltına alınan Uşak Belediye Başkan Yardımcısı Serpil Keskin Ezberci dahil​​​​​​​ dört kişi hakkında adli kontrol kararı verildi.\nThe post Uşak Belediyesi soruşturması: Dört kişi adli kontrolle serbest appeared first on #site_linkat 31.03.2026 .",
     "image": null,
     "keyword": null
   }
