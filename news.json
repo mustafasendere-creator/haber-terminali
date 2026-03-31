@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5200a9af",
+    "title": "21 milyonluk sahte altın operasyonu",
+    "source": "Habertürk",
+    "time": "31/03/2026 22:55",
+    "link": "https://www.haberturk.com/kahramanmaras-ve-kiliste-sahte-altin-operasyonu-21-milyon-tllik-977-parca-ele-gecirildi-3873560",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şube Müdürlüğü ekiplerince gerçekleştirilen Operasyonda piyasa değeri 21 milyon Türk lirası olan 977 parça sahte altın ele geçirildi",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774900856/3873560/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_67076106",
     "title": "Kim gelecekten geliyor?",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Uşak Belediye Başkanı Özkan Yalım, hakkındaki tutuklama kararının ardından, İçişleri Bakanlığı tarafından görevden uzaklaştırıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bab3be09",
-    "title": "MİT Başkanı Kalın, Hamas heyeti ile görüştü",
-    "source": "TRT Haber",
-    "time": "31/03/2026 22:15",
-    "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-hamas-heyeti-ile-gorustu-939839.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli İstihbarat Teşkilatı Başkanı İbrahim Kalın, Ankarada Hamas Siyasi Bürosu Müzakere Heyeti Başkanı Halil Hayye ve beraberindeki Hamas heyeti ile bir araya geldi.",
     "image": null,
     "keyword": null
   }
