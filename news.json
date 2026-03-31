@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a5d82030",
+    "title": "İstanbul'un 4 ilçesinde fuhuş operasyonu: Çok sayıda gözaltı var!",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 09:26",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-un-4-ilcesinde-fuhus-operasyonu-cok-sayida-gozalti-var-2491009",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da fuhuşla mücadele kapsamında yürütülen çalışmalar sonucu Bakırköy, Esenyurt, Fatih ve Avcılar'da 7 adresin fuhuş yapıldığı belirlendi ve 14 şüpheli hakkında gözaltı kararı verildi. Belirlenen adreslere operasyon düzenlendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c65086cb-2ec3-48be-b8af-83ad4af1b2d8.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d75e7f15",
     "title": "Leroy Sane hayatının şokunu yaşadı! Almanya'da büyük tepki",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’de çıkışını sürdüren Trabzonspor, Mart ayını elde ettiği galibiyetlerle moralli tamamlarken, Nisan ayına ise zirve yarışındaki iddiasını sürdürme hedefiyle giriyor.",
     "image": "https://resim.haber61.net/news/610069.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ef9cb347",
-    "title": "Samsun'da öğretmen ve öğrencileri taşıyan otobüs devrildi; 11 kişi yaralandı",
-    "source": "Evrensel",
-    "time": "31/03/2026 08:45",
-    "link": "https://www.evrensel.net/haber/5977487/samsunda-ogretmen-ve-ogrencileri-tasiyan-otobus-devrildi-11-kisi-yaralandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'dan Ordu'ya seyir halindeki otobüs yol kenarına devrildi. İçerisinde öğrenci ve öğretmenlerin bulunduğu otobüste 11 kişi yaralandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340939.jpg",
-    "keyword": null
   }
 ]
