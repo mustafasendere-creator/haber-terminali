@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_352a13a9",
+    "title": "Manisa'da şüpheli kadın ölümü: 65 yaşındaki kadın evinde boynuna eşarp sarılı halde ölü bulundu",
+    "source": "Evrensel",
+    "time": "01/04/2026 01:54",
+    "link": "https://www.evrensel.net/haber/5977641/manisada-supheli-kadin-olumu-65-yasindaki-kadin-evinde-boynuna-esarp-sarili-halde-olu-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'nın Yunusemre ilçesinde 65 yaşındaki Mürşide B. evinde boynuna eşarp sarılı halde ölü bulundu. Mürşide B.'nin yüzünde darp izleri bulunduğu tespit edildi",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336857.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6f196ecc",
     "title": "Türkiye'nin 24 yıl sonra 2026 Dünya Kupası'na katılma hakkı kazanmasını vatandaşlar sevinç gösterileriyle kutladı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Pennsylvania’nın Büyük Kanyonu’ndan Nevada’daki eski altına hücum kentine kadar, ülkenin dört bir yanındaki bu noktalarda kalabalık yok.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_527dadd4",
-    "title": "Merz: Almanya ve Suriye, mültecilerin geri dönüşü konusunda 'ortak çalışma' yürütüyor",
-    "source": "Euronews",
-    "time": "01/04/2026 00:54",
-    "link": "http://tr.euronews.com/2026/03/31/merz-almanya-ve-suriye-multecilerin-geri-donusu-konusunda-ortak-calisma-yurutuyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2024 sonlarında Beşar Esad'ı devirerek Suriye'de geçici lider olan Ahmed eş-Şara Almanya'ya yaptığı ilk ziyarette, daha fazla Suriyelinin geri dönebilmesini sağlamak için Almanya ile birlikte çalışma sözü verdi.",
     "image": null,
     "keyword": null
   }
