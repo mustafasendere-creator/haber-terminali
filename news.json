@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e444ba1e",
+    "title": "Son dakika... Kenan Tekdağ tahliye edildi",
+    "source": "Sözcü",
+    "time": "31/03/2026 20:18",
+    "link": "https://www.sozcu.com.tr/kenan-tekdag-tahliye-mi-edildi-p306226",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika... Kenan Tekdağ tahliye edildi",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/4/kenan-tekdagjpg-KyBH-wymS0me2wITkznmzQ.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_25753b48",
     "title": "Bozbey’in gözaltına alınmasına Bursa’da tepki: 'Bu kent her zaman iradesine sahip çıktı'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kudüs'ün kuzeyindeki Kafr Akab'da gece düzenlenen baskında İsrail ordusu ile Filistinliler arasında çatışma çıktı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1ab7072e",
-    "title": "Endonezya'da yolcu teknesi battı: Kayıp 27 kişi aranıyor",
-    "source": "Euronews",
-    "time": "31/03/2026 19:35",
-    "link": "http://tr.euronews.com/2026/03/31/endonezyada-yolcu-teknesi-batti-kayip-27-kisi-araniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ekipler kayıplara ulaşmak için pazartesi günü zamana karşı yarışıyordu.",
     "image": null,
     "keyword": null
   }
