@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_accd6f99",
+    "title": "Fıkra gibi tartışma",
+    "source": "A Haber",
+    "time": "31/03/2026 08:44",
+    "link": "https://www.ahaber.com.tr/yazarlar/salih-tuna/2026/03/31/fikra-gibi-tartisma",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malumunuz, Aristo'nun retorik (ikna sanatı) kuramı ethos, pathos ve logos üçlemesine dayanır.\nAlmanların pathos yoksunu olduğu söylenir; pathos yani duygu.\nBu meyanda, İran'da ilk mektep kız...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "YRL_97fa6161",
     "title": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey gözaltına alındı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İBB soruşturması kapsamında Antalya Büyükşehir Belediyesi’nden iki kişi gözaltına alındı, üç isim tutuklandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9acb52c3-1752-41f2-9326-626ead709b63.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7cad405d",
-    "title": "ABD ve İsrail gece boyu İran'a saldırdı",
-    "source": "Haber Global",
-    "time": "31/03/2026 05:24",
-    "link": "https://haberglobal.com/dunya/abd-ve-israil-gece-boyu-irana-saldirdi-516162",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail’in gece boyunca İran’a gerçekleştirdiği saldırılar, Tahran ve İsfahan başta olmak üzere birçok bölgede şiddetli patlamaların yaşanmasına yol açtı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/abd-ve-israil-gece-boyu-irana-saldirdi-myvz.jpg",
     "keyword": null
   }
 ]
