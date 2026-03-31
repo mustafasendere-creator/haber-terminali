@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c48235f6",
+    "title": "Trump sinyali verdi: Savaş bitiyor",
+    "source": "OdaTV",
+    "time": "31/03/2026 20:20",
+    "link": "https://www.odatv.com/guncel/trump-sinyali-verdi-savas-bitiyor-120141525",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran ile savaşın yakında sona ereceğini ifade ederek, &quot;Orada daha çok uzun bir süre kalmamız gerekmeyecek&quot; dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/rejimi-degistirdik-trump-bir-oyle-bir-boyle-k1kg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9623dd58",
     "title": "U21 Milli Takımında korkutan olay: Egemen Korkmaz yere yığıldı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"ABDye ait B1B Lancer bombardıman uçaklarının İncirlik Hava Üssünde iniş ve kalkış yapmaya devam ettiği\" iddialarının dezenformasyon içerdiğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d77ca87e",
-    "title": "Cumhurbaşkanı Erdoğan, şehit Savcı Mehmet Selim Kiraz'ı andı",
-    "source": "TRT Haber",
-    "time": "31/03/2026 19:36",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-sehit-savci-mehmet-selim-kirazi-andi-939830.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhuriyet Savcısı Mehmet Selim Kiraz'ı şehit oluşunun 11. yılında andı.",
     "image": null,
     "keyword": null
   }
