@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7f881e6f",
+    "title": "Irak, hava sahasını 3 gün daha kapalı tutacak",
+    "source": "TRT Haber",
+    "time": "31/03/2026 14:46",
+    "link": "https://www.trthaber.com/haber/dunya/irak-hava-sahasini-3-gun-daha-kapali-tutacak-939803.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a saldırılarının devam etmesi nedeniyle hava sahasını uçuşlara kapatan Irak, bu süreyi 3 gün daha uzatma kararı aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_714d714e",
     "title": "İran'da yüz bin sivil yapı vuruldu, can kaybı bini aştı",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kahramanmaraş’ta baba ile oğlu arasında çıkan tartışma cinayetle sonuçlandı. İddiaya göre madde kullanımı nedeniyle başlayan tartışmada 26 yaşındaki şüpheli, babasını boğazından bıçaklayarak öldürdü.",
     "image": "https://resim.haber61.net/news/610162.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a8198809",
-    "title": "Video İran büyükelçisinin Lübnan'dan çıkarıldığını mı gösteriyor?",
-    "source": "Teyit.org",
-    "time": "31/03/2026 13:48",
-    "link": "https://teyit.org/analiz/video-iran-buyukelcisinin-lubnandan-cikarildigini-mi-gosteriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran büyükelçisinin Lübnan’dan zorla çıkarıldığı iddia edildi.",
-    "image": "https://md.teyit.org/2026/03/lubnan-iran-buyukelci.webp",
     "keyword": null
   }
 ]
