@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_73d7c89e",
+    "title": "İstanbul'da kazada şehit olan polisimiz son yolculuğuna uğurlandı",
+    "source": "TRT Haber",
+    "time": "31/03/2026 18:36",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kazada-sehit-olan-polisimiz-son-yolculuguna-ugurlandi-939826.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuzey Marmara Otoyolu'nda meydana gelen trafik kazası sonrası kaldırıldığı hastanede şehit olan polis memuru Mustafa Aydın'ın cenazesi, Edirnekapı Şehitliği'nde toprağa verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ce2c366f",
     "title": "ABDİsrail, İran'da tarihi camiyi hedef aldı: 3 kişi hayatını kaybetti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hindistan’da beyin ölümü ilan edilen kadın, cenaze yolunda yeniden nefes almaya başladı. Avustralya’da havalimanı mağazasına giren fırça kuyruklu sıçan, yolculara sürpriz yaptı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341010.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_80003b85",
-    "title": "Eurovision Asya’ya açılıyor",
-    "source": "Evrensel",
-    "time": "31/03/2026 14:45",
-    "link": "https://www.evrensel.net/haber/5977571/eurovision-asyaya-aciliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Güney Kore, Tayland ve Filipinler’in de aralarında bulunduğu 10 ülke, Eurovision’un Asya versiyonunda yarışacak; büyük final 14 Kasım’da Bangkok’ta canlı yayınlanacak.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341009.jpg",
     "keyword": null
   }
 ]
