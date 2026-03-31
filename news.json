@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f46d045c",
+    "title": "İşgalci İsrail'in Lübnan'a yönelik saldırılarında can kaybı 1268'e yükseldi",
+    "source": "TRT Haber",
+    "time": "31/03/2026 22:15",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-yonelik-saldirilarinda-can-kaybi-1268e-yukseldi-939817.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında hayatını kaybedenlerin sayısının son 24 saatte 21 artarak 1268'e, yaralı sayısının ise 3 bin 750'ye çıktığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2a20da01",
     "title": "Uşak Belediye Başkanı Özkan Yalım görevden uzaklaştırıldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Dışişleri Bakanı Abbas Arakçi, \"İran İslam Cumhuriyeti iyi komşuluk ilkesine bağlı olup, Türkiye’nin ulusal egemenliği ile toprak bütünlüğüne saygı duymaktadır ve olası her türlü iddiayı incelemek üzere ortak teknik işbirliğine hazırdır\" dedi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/irandan-dikkat-ceken-turkiye-aciklamasi-isbirligine-haziriz-sezr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_52374656",
-    "title": "Galatasaray'ın eski başkanı Burak Elmas ameliyat oldu",
-    "source": "Haber Global",
-    "time": "31/03/2026 21:35",
-    "link": "https://haberglobal.com/spor/burak-elmasin-hastaligi-ne-neden-ameliyat-oldu-516353",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray, kulübün eski başkanlarından Burak Elmas'ın bir ameliyat geçirdiğini açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/burak-elmasin-hastaligi-ne-neden-ameliyat-oldu-ekuy.jpg",
     "keyword": null
   }
 ]
