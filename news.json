@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a8c582d5",
+    "title": "Açlık sınırı açıklandı: Yükseliş sürüyor",
+    "source": "OdaTV",
+    "time": "01/04/2026 00:36",
+    "link": "https://www.odatv.com/ekonomi/turk-is-aclik-ve-yoksulluk-sinirini-acikladi-yukselis-suruyor-120141495",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk-İş’in yayımladığı mart ayı verilerine göre, açlık sınırı 32 bin 792,74 TL’ye, yoksulluk sınırı ise 106 bin 816,70 TL’ye ulaştı. Aynı dönemde mutfak enflasyonu aylık yüzde 1,32 olarak hesaplandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/ocak-ayi-enflasyonu-belli-oldu-wyto.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_69d8db16",
     "title": "Acı hala taze: Volkan Konak ölüm yıl dönümünde anıldı... Gözyaşları sel oldu",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kağıthane Okmeydanı’nda seyir halindeki bir ticari takside yangın çıktı. Durumu fark eden sürücü aracı yol kenarına çekerek, içerideki yolcuları son anda tahliye etti. Yangınla ilgili inceleme başlatıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/eb7b51dd-e630-48a2-92fa-01285a19ef2e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e9fd449c",
-    "title": "Bodrum'da konteyner yangını",
-    "source": "Haber Global",
-    "time": "31/03/2026 23:55",
-    "link": "https://haberglobal.com/gundem/bodrumda-konteyner-yangini-516365",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla'nın Bodrum ilçesinde konteynerde çıkan yangın itfaiye ekiplerince söndürüldü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/bodrumda-konteyner-yangini-mnqa.jpg",
     "keyword": null
   }
 ]
