@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b18a9e7a",
+    "title": "Bingöl'de sağanak: Köy yolu çöktü",
+    "source": "Evrensel",
+    "time": "31/03/2026 13:45",
+    "link": "https://www.evrensel.net/haber/5977554/bingolde-saganak-koy-yolu-coktu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bingöl'de etkili olan sağanak sonrası merkeze bağlı Yelesen grup köy yolunda çökme meydana geldi; ulaşım aksadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340994.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_230be838",
     "title": "İBB davasında sahipsiz not polemiği: \"Dilek İmamoğlu'nun cumhurbaşkanı adayı olarak hazırlanması…\"",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da bir zincir marketten alınan kömürün gramajının eksik çıktığı iddiası vatandaşların tepkisine neden oldu. Ürün üzerinde 2 kilogram yazmasına rağmen tartımda 1600 gram geldiği öne sürüldü.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_cf643174",
-    "title": "Yarışmadan dönen öğrencileri taşıyan aracın kaza anı güvenlik kamerasına yansıdı",
-    "source": "Taka Gazetesi",
-    "time": "31/03/2026 12:44",
-    "link": "https://www.takagazete.com.tr/yarismadan-donen-ogrencileri-tasiyan-aracin-kaza-ani-guvenlik-kamerasina-yansidi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İstanbul'dan robot yarışmasından dönen Ünye Fen Lisesi öğrencilerini taşıyan Ünye Belediyesine ait midibüsün Samsun'da şarampole devrildiği kazanın güvenlik kamerası görüntüsü ortaya çıktı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/agency/iha/yarismadan-donen-ogrencileri-tasiyan-aracin-kaza-ani-guvenlik-kamerasina-yansidi.jpg",
     "keyword": null
   }
 ]
