@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2674f1f6",
+    "title": "Yeni haftada hava nasıl olacak?",
+    "source": "Habertürk",
+    "time": "31/03/2026 21:36",
+    "link": "https://www.haberturk.com/yeni-haftada-hava-nasil-olacak-30-mart-il-il-hava-durumu-meteoroloji-uyardi-istanbul-da-yagis-devam-edecek-mi-3873393",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü’nün son dakika hava durumu raporuna göre Türkiye genelinde yağışlı hava etkisini sürdürüyor. Özellikle İstanbul’da hafta sonu boyunca etkili olan sağanak yağış, günlük yaşamı ve hava ulaşımını olumsuz etkilerken, bazı uçuşlar farklı havalimanlarına yönlendirildi. Vatandaşlar “Yağmur ne zaman duracak?” sorusuna yanıt ararken, sıcaklıkların salı gününden itibaren batı bölgelerden başlayarak artması bekleniyor. Peki, yeni haftada hava nasıl olacak? İşte güncel hava durumu...",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774861403/3873393/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b239fffc",
     "title": "İptal olan vapur seferleri",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Ordu’da düzenlenen Türkiye Ormancılık Yarışmaları bölge etabında dereceye giren ekipler, Trabzon’da yapılacak üst tura katılma hakkı kazandı.",
     "image": "https://resim.haber61.net/news/610195.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_de8bcd5f",
-    "title": "İtalya’dan ABD’ye veto: Üs kullanımına izin çıkmadı",
-    "source": "10Haber",
-    "time": "31/03/2026 20:54",
-    "link": "https://10haber.net/dunya/italyadan-abdye-veto-us-kullanimina-izin-cikmadi-691404/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Corriere della Sera gazetesinde yer alan habere göre bazı ABD bombardıman uçaklarının Sigonella üssüne iniş yaparak buradan Orta Doğu’ya geçmesi planlanıyordu. Ancak İtalya’nın bu talebe onay vermediği belirtildi. Haberde ABD’nin gerekli resmi izin başvurusunu yapmadığı ve İtalya’nın askeri makamlarının sürece dahil edilmediği ifade edildi. İtalya Savunma Bakanlığı konuya ilişkin henüz resmi bir açıklama yapmadı. Yetkililer [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cbbf9307e775.85221140.jpg",
-    "keyword": null
   }
 ]
