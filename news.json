@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7ecfe43a",
+    "title": "Dışişleri'nden İsrail'in idam kararına tepki",
+    "source": "TRT Haber",
+    "time": "01/04/2026 00:35",
+    "link": "https://www.trthaber.com/haber/gundem/disislerinden-israilin-idam-kararina-tepki-939846.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanlığı, İsrail Meclisinde kabul edilen ve yalnızca Filistinlilere uygulanması öngörülen idam cezası düzenlemesinin kınandığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_52558490",
     "title": "Cumhurbaşkanı Erdoğan'dan Bizim Çocuklar'a tebrik",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Kuzey Marmara Otoyolu'nda tır ile yolcu otobüsünün çarpışması sonucu 10 kişi yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4e1565fc",
-    "title": "Ümit Milli Futbol Takımı, Hırvatistan'a 3-0 yenildi",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 23:54",
-    "link": "https://www.aa.com.tr/tr/guncel/umit-milli-futbol-takimi-hirvatistana-3-0-yenildi/3887273",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ümit Milli Futbol Takımı, 2027 Avrupa 21 Yaş Altı Şampiyonası Elemeleri H Grubu'ndaki altıncı maçında konuk olduğu Hırvatistan'a 3-0 yenildi.",
     "image": null,
     "keyword": null
   }
