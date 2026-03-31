@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b8a4260",
+    "title": "Küresel piyasalar karışık başladı",
+    "source": "Haber Global",
+    "time": "31/03/2026 09:25",
+    "link": "https://haberglobal.com/ekonomi/kuresel-piyasalar-karisik-basladi-516182",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel piyasalarda, ABD Başkanı Donald Trump'ın iyimser açıklamaları ve ABD Merkez Bankasının (Fed) bu yıl faiz artışına gitmeyeceğine yönelik beklentilerin iyimser etkileri görülürken, bölgede devam eden çatışmalar ise risk algısının hala yüksek kalmasına sebep oluyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/kuresel-piyasalar-karisik-basladi-ynfv.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_467b9170",
     "title": "Son dakika deprem oldu! AFAD, Kandilli deprem listesi!",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’de şampiyonluk yarışını doğrudan etkileyecek haftada Trabzonspor, sahasında Galatasaray ile kritik karşılaşmaya çıkacak.",
     "image": "https://resim.haber61.net/news/610071.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c722b65e",
-    "title": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey hakkında gözaltı kararı",
-    "source": "Evrensel",
-    "time": "31/03/2026 08:45",
-    "link": "https://www.evrensel.net/haber/5977488/bursa-buyuksehir-belediye-baskani-mustafa-bozbey-hakkinda-gozalti-karari",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP'li Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey hakkında gözaltı kararı verildi. Bozbey'in evinde arama yapıldığı ve telefonuna el konulduğu belirtildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/317496.jpg",
-    "keyword": null
   }
 ]
