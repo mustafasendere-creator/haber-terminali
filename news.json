@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c3064bba",
+    "title": "Yağışlar kaç gün sürecek?",
+    "source": "Habertürk",
+    "time": "01/04/2026 01:54",
+    "link": "https://www.haberturk.com/turkiye-yagmura-teslim-yagislar-kac-gun-surecek-son-dakika-meteoroloji-aciklamasi-3873435",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye bir süredir yoğun sağanak yağışların etkisi altında. Yapılan tahminlere göre; yağışlar 3 gün daha sürecek. Özellikle çarşamba günü yağışların şiddetlenmesi bekleniyor",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774869303/3873435/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_cd7e3aec",
     "title": "A Milli Takım 24 yıl sonra Dünya Kupası’nda",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "A Milli Futbol Takımı'nın orta sahası Orkun Kökçü, 1-0 kazandıkları Kosova maçının ardından görüşlerini aktardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5a6ccab6-3b80-4e48-aec0-dad8c85206b7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_41297616",
-    "title": "Bosna Hersek, İtalya'yı eleyerek Dünya Kupası'nda!",
-    "source": "Haber Global",
-    "time": "01/04/2026 00:55",
-    "link": "https://haberglobal.com/spor/bosna-hersek-italyayi-eleyerek-dunya-kupasinda-516374",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bosna Hersek, normal süresi 1-1 biten maçta İtalya'yı penaltılarda eleyerek 2026 Dünya Kupası'na katılmaya hak kazandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/bosna-hersek-italyayi-eleyerek-dunya-kupasinda-929a.jpg",
     "keyword": null
   }
 ]
