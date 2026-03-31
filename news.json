@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3cb76a87",
+    "title": "İsrail saldırıları güney Lübnan köyünü vurdu, binalar ve araçlar hasar gördü",
+    "source": "Euronews",
+    "time": "31/03/2026 22:14",
+    "link": "http://tr.euronews.com/video/2026/03/31/israil-saldirilari-guney-lubnan-koyunu-vurdu-binalar-ve-araclar-hasar-gordu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail saldırıları Lübnan’ın güneyindeki bir köyü vurdu; kurtarma ekipleri olay yerine koşarken binalar ve acil durum araçları hasar gördü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6b50eef2",
     "title": "Kalbi 19 gün arayla iki kez durdu, 112 ekibi iki defa hayata döndürdü",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Trump, Truth Social platformunda yaptığı paylaşımda, 'Başınızın çaresine bakmayı öğrenmek zorundasınız. Tıpkı sizin bizim yanımızda olmadığınız gibi, ABD de artık size yardım etmek için orada olmayacak,' ifadelerini kullandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0d8b6376",
-    "title": "Meksiko'da Palmiye Pazarı'nda kuş satıcıları azalan geleneği yaşattı",
-    "source": "Euronews",
-    "time": "31/03/2026 21:35",
-    "link": "http://tr.euronews.com/video/2026/03/31/meksikoda-palmiye-pazarinda-kus-saticilari-azalan-gelenegi-yasatti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meksiko'da Palmiye Pazarı'nda sokaklar hâlâ kuş ve çiçek satan pajarero'larla doluyor, ancak sıkı yasalar ve eleştiriler geleneği gitgide bitiriyor.",
     "image": null,
     "keyword": null
   }
