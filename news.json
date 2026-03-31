@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_30d3adc2",
+    "title": "İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 285'e yükseldi",
+    "source": "Anadolu Ajansı",
+    "time": "31/03/2026 14:44",
+    "link": "https://www.aa.com.tr/tr/guncel/israilin-gazzeye-saldirilarinda-can-kaybi-72-bin-285e-yukseldi/3886532",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 285'e ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e499fe44",
     "title": "Rusya’nın en büyük petro-kimya tesislerinden Nijnekamskneftehim’de yangın çıktı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran’a karşı yürütülen savaş, Asya’nın başlıca ekonomilerini ciddi bir baskı altına alırken, doğal kaynaklar için küresel rekabeti de körüklüyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/uzak-dogu-kan-agliyor-sanayide-kalp-krizi-3j6j.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1b85fa7e",
-    "title": "Rusya gübre üretiminde kullanılan kükürte yönelik ihracat yasağını uzattı",
-    "source": "TRT Haber",
-    "time": "31/03/2026 13:46",
-    "link": "https://www.trthaber.com/haber/dunya/rusya-gubre-uretiminde-kullanilan-kukurte-yonelik-ihracat-yasagini-uzatti-939791.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rus hükümeti, mineral gübre üretiminde kullanılan kükürt ihracatına yönelik geçici yasağı uzattığını duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
