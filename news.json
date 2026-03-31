@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0445feeb",
+    "title": "Bizim Çocuklar Dünya Kupası'nda",
+    "source": "TRT Haber",
+    "time": "01/04/2026 00:35",
+    "link": "https://www.trthaber.com/haber/gundem/bizim-cocuklar-dunya-kupasinda-939845.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımımız, Kosova'yı 10 yenerek 2026 Dünya Kupası'na gitmeye hak kazandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7ecfe43a",
     "title": "Dışişleri'nden İsrail'in idam kararına tepki",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "SAP Garden&#8217;da oynanacak müsabaka TSİ 20.00&#8217;de başlayacak. Avrupa Ligi&#8217;nde lider durumda bulunan Fenerbahçe Beko, geride kalan haftalarda 23 galibiyet ve 11 yenilgi yaşadı. Sarı-lacivertliler, son olarak Litvanya&#8217;nın Zalgiris takımına 92-82 mağlup oldu. Bayern Münih ise 14 galibiyet ve 20 mağlubiyetle 15. basamakta bulunuyor. Ligin ilk yarısında oynanan müsabakada Fenerbahçe Beko, rakibini 88-73 mağlup etmişti.",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cb9851094e87.28814286.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9a137ca0",
-    "title": "Kuzey Marmara Otoyolu'nda tır ile yolcu otobüsü çarpıştı, 10 kişi yaralandı",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 23:54",
-    "link": "https://www.aa.com.tr/tr/guncel/kuzey-marmara-otoyolunda-tir-ile-yolcu-otobusu-carpisti-10-kisi-yaralandi/3887243",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Kuzey Marmara Otoyolu'nda tır ile yolcu otobüsünün çarpışması sonucu 10 kişi yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
