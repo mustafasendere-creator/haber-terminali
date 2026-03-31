@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ca084872",
+    "title": "BM Güvenlik Konseyi, Lübnan'daki barış gücü askerlerinin ölümleri sonrası acil oturum düzenleyecek",
+    "source": "Euronews",
+    "time": "31/03/2026 13:05",
+    "link": "http://tr.euronews.com/2026/03/31/bm-guvenlik-konseyi-lubnandaki-baris-gucu-askerlerinin-olumleri-sonrasi-acil-oturum-duzenl",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan'daki BM Geçici Gücü (UNIFIL), iki personelinin pazartesi günü bir patlamada, bir diğerinin de pazar geç saatlerde bir merminin mevzilerine isabet etmesi sonucu öldüğünü açıkladı. BM gücü her iki olayla ilgili olarak soruşturma başlattığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_64150451",
     "title": "AB'den üye ülkelere petrol talebini kısma ve uzun süreli aksamalara hazırlanma çağrısı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ankara’nın en kalabalık üçüncü ilçesini 17 yıldır yöneten Yenimahalle Belediye Başkanı Fethi Yaşar, politikalarını ‘vatandaş odaklı hizmet’ ve ‘halka fayda sağlayan projeler’ ile tasarladıklarını belirtti. Şehirlerin ihtiyaçlarının hiç bitmediğini ifade eden Yaşar, “Yenimahalle gelişen ve üreten bir ilçe. Ülke olarak ekonomik sıkıntılar yaşıyoruz. Bu nedenle yapılan yatırımlarda çok dikkatli davranıyor, tasarruf tedbirleri ile Yenimahalle halkının ihtiyaç ve taleplerinin aksamamasına öncelik veriyoruz” dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/e136ed26-1334-4c16-ad53-1ed28b682a42.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3904995d",
-    "title": "Roma'dan 2000 yıl önce kanalizasyon kurdular: İşte tarihin ilk 'akıllı' şehirleri!",
-    "source": "Cumhuriyet",
-    "time": "31/03/2026 11:06",
-    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/roma-dan-2000-yil-once-kanalizasyon-kurdular-iste-tarihin-ilk-akilli-sehirleri-2491076",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Günümüz modern şehir planlamasına binlerce yıl öncesinden ışık tutan İndus Vadisi Medeniyeti, standart tuğla konutları ve gelişmiş kanalizasyon sistemleriyle bilim dünyasını şaşırtmaya devam ediyor. Mısır ve Mezopotamya'nın aksine devasa sarayların ve otoriter kralların izine rastlanmayan bu gizemli uygarlık, \"eşitlikçi bir toplum mümkün mü?\" sorusunu yeniden gündeme taşıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a77f0886-7271-496a-9d58-532e6151b384.jpg",
     "keyword": null
   }
 ]
