@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d0d2ca3a",
+    "title": "DİSK raporu: Geniş tanımlı işsizlik yüzde 30'a dayandı",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 14:06",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/disk-raporu-genis-tanimli-issizlik-yuzde-30-a-dayandi-2491154",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TÜİK verilerinden yararlanılarak yapılan hesaplamaya göre, mevsim etkisinden arındırılmış geniş tanımlı işsiz sayısı 8 milyon 567 bine çıktı. Geniş tanımlı işsizlik oranı (âtıl işgücü) ise yüzde 22,5 seviyesinde gerçekleşti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/afc429af-88c1-410a-9fb9-fc40b2f14d51.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7b84d0db",
     "title": "İklim krizi zamanın akışını değiştiriyor: Dünya son 3,6 milyon yılın en yavaş hızında",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Gümüşhane’de 62. Kütüphane Haftası, “İyileştiren Kütüphane” temasıyla düzenlenen programla kutlandı. Etkinlikte kütüphanelerin toplumsal ve bireysel gelişimdeki rolü vurgulandı.",
     "image": "https://resim.haber61.net/news/610158.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_af07b897",
-    "title": "Şehitlere resimlerini çizerek gösterdikleri vefayı Trabzon'a taşıdılar",
-    "source": "İHA Trabzon",
-    "time": "31/03/2026 13:24",
-    "link": "https://www.aa.com.tr/tr/guncel/sehitlere-resimlerini-cizerek-gosterdikleri-vefayi-trabzona-tasidilar-/3886307",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsunlu Melisa ve Ufuk Kaman çifti, şehit Eren Bülbül ve Jandarma Astsubay Kıdemli Başçavuş Ferhat Gedik'i, Trabzon'daki durak kulübesine resmetti.",
-    "image": null,
     "keyword": null
   }
 ]
