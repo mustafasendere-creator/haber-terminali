@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_53de0589",
+    "title": "Dışişleri Bakanlığı'nda İsrail’e 'idam yasası' tepkisi",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 01:54",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/disisleri-bakanligi-nda-israil-e-idam-yasasi-tepkisi-2491334",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanlığı, İsrail Parlamentosu’nda kabul edilen ve Filistinlilere uygulanması öngörülen idam cezası düzenlemesini kınadı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/749e64a5-e690-4e7f-9f8b-cce693bb1834.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3c448c6b",
     "title": "Hakan Çalhanoğlu'ndan maç sonu duygusal konuşma: 'Biz bunu hak ettik'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un Dahiye bölgesine 3 saldırı düzenledi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/israilden-beyruta-3-saldiri-r42m.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_99b0a986",
-    "title": "A Milli Takımımızın Dünya Kupası fikstürü",
-    "source": "TRT Haber",
-    "time": "01/04/2026 00:55",
-    "link": "https://www.trthaber.com/haber/gundem/a-milli-takimimizin-dunya-kupasi-fiksturu-939856.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Futbol Takımı, FIFA Dünya Kupası'nda D Grubu'nda ABD, Paraguay ve Avustralya ile oynayacak. İşte milli takımın maç fikstürü...",
-    "image": null,
     "keyword": null
   }
 ]
