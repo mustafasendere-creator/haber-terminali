@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_461e011e",
+    "title": "İsrail'deki idam yasası hakkında neler biliniyor?",
+    "source": "DW Türkçe",
+    "time": "31/03/2026 14:05",
+    "link": "https://www.dw.com/tr/israil-deki-idam-yasası-hakkında-neler-biliniyor/a-76596811",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in 72 yıl önce kaldırdığı idam cezasını Filistinliler için geri getiren tasarı, İsrail parlamentosunda (Knesset) yapılan oylamada kabul edildi. Peki son derece tartışmalı bu yasa hakkında neler biliniyor?",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b8ade808",
     "title": "Rusya'dan otomobil hırsızlığını teşvik edecek yasa",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "İstanbul’daki robot yarışmasından dönen Ünye Fen Lisesi öğrencilerini taşıyan belediye midibüsü Samsun’da şarampole devrildi.",
     "image": "https://resim.haber61.net/news/610151.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2d7ebfa9",
-    "title": "Tekel bayi tabelaları pembe mi oldu?",
-    "source": "Teyit.org",
-    "time": "31/03/2026 13:07",
-    "link": "https://teyit.org/analiz/tekel-bayileri-tabelalari-pembe-mi-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medyada tekel bayi tabelalarının pembe olacağı ve bazı bölgelerde uygulamanın başladığı iddia edildi.",
-    "image": "https://md.teyit.org/2026/03/tekel-bayi-pembe-tabela.webp",
     "keyword": null
   }
 ]
