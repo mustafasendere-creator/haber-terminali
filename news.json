@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e9fd449c",
+    "title": "Bodrum'da konteyner yangını",
+    "source": "Haber Global",
+    "time": "31/03/2026 23:55",
+    "link": "https://haberglobal.com/gundem/bodrumda-konteyner-yangini-516365",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Bodrum ilçesinde konteynerde çıkan yangın itfaiye ekiplerince söndürüldü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/bodrumda-konteyner-yangini-mnqa.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b276e855",
     "title": "Cumhurbaşkanı Erdoğan'dan Milli Takım'a tebrik: Bizim Çocuklar’ı gönülden tebrik ediyorum",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Güney Afrika Cumhuriyeti'nde, yükselen petrol fiyatları sonrası bu gece yarısından itibaren uygulanacak akaryakıt zammı öncesi akaryakıt istasyonlarında uzun kuyruklar oluştu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ce97c9e3",
-    "title": "Türkiye, Kosova'da 1-0 önde devam ediyor",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 23:14",
-    "link": "https://www.aa.com.tr/tr/guncel/turkiye-kosovada-1-0-onde-devam-ediyor/3887220",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 FIFA Dünya Kupası Avrupa Elemeleri play-off finalindeki Kosova-Türkiye müsabakası A Milli Futbol Takımı'nın 1-0 üstünlüğü ile devam ediyor.",
     "image": null,
     "keyword": null
   }
