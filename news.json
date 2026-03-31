@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_25b6f359",
+    "title": "Samsun'da otobüs yan yattı: 9’u öğrenci, 11 yaralı",
+    "source": "Haber Global",
+    "time": "31/03/2026 08:46",
+    "link": "https://haberglobal.com/gundem/samsunda-otobus-yan-yatti-9u-ogrenci-11-yarali-516172",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun'da sürücünün direksiyon kontrolünü kaybettiği otobüs, yan yattı. Kazada 9'u öğrenci, 11 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/samsunda-otobus-yan-yatti-9u-ogrenci-11-yarali-vwti.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8e4f44d5",
     "title": "Motorine dev bir zam daha geliyor! İşte zam oranı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran resmi haber ajansı IRNA&#8217;ya göre, Cumhurbaşkanı Pezeşkiyan, bakanlar kurulu toplantısında açıklamalarda bulundu. &#8220;ABD ve İsrail’in İran’a saldırılarıyla başlayan savaşın sonra ermesine ilişkin verilecek her türlü karar, İran halkının güvenliği ve çıkarlarının garanti altına alınmasına bağlı.&#8221; ifadesini kullanan Pezeşkiyan, ordunun gösterdiği direniş ile İran halkının savaş süresince ortaya koyduğu ulusal birliğin ülkenin mevcut kritik koşulların [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cb540bd08b60.61539119.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_948cf09b",
-    "title": "Trump içgüdüyle yürüttüğü İran savaşı, ABD için bir 'Süveyş noktası' mı?",
-    "source": "BBC Türkçe",
-    "time": "31/03/2026 08:04",
-    "link": "https://www.bbc.com/turkce/articles/c8dlgrd2dv2o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu'nun, savaş uçaklarını İran'ı bombalamak üzere göndermesinin üzerinden geçen bir ayda, bazı tarihi gerçekler Beyaz Saray'ın kapısında birikmeye başladı. BBC'den Jeremy Bowen bu savaşın, ABD için, İngiltere'nin Süveyş kriziyle girdiği sürece benzeyebileceğini yazıyor.",
-    "image": null,
     "keyword": null
   }
 ]
