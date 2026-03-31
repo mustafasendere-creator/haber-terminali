@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a990889",
+    "title": "Başakşehir'de polis servisinin de karıştığı zincirleme kaza: 1 polis hayatını kaybetti, 4'ü ağır, 30 kişi yaralandı",
+    "source": "Evrensel",
+    "time": "31/03/2026 04:44",
+    "link": "https://www.evrensel.net/haber/5977426/basaksehir-de-polis-servisinin-de-karistigi-zincirleme-kaza-1-polis-hayatini-kaybetti-4-u-agir-30-kisi-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Başakşehir'de polisleri taşıyan servis aracının karıştığı kazada 1 polis hayatını kaybederken, 4'ü ağır 30 kişi yaralandı. Yaralılardan 27'sinin polis olduğu bildirildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340887.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a9e9e4f4",
     "title": "Hatay’da TOKİ işçileri eylemde: Aylardır ücret yok, işten çıkarmalar var",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MİT tarafından Suriye'de yakalanarak Türkiye'ye getirilen eski MİT’çi Önder Sığırcıkoğlu, \"casusluk\" suçlamasıyla sevk edildiği hakimlikçe tutuklandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340147.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_85d56c9a",
-    "title": "Af Örgütü'nden İsrail'in Filistinli esirleri hedef alan idam yasasına tepki: Apartheid sistemini güçlendiriyor",
-    "source": "Evrensel",
-    "time": "31/03/2026 02:44",
-    "link": "https://www.evrensel.net/haber/5977478/af-orgutunden-israilin-filistinli-esirleri-hedef-alan-idam-yasasina-tepki-apartheid-sistemini-guclendiriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Af Örgütü, İsrail'in Filistinli esirleri hedef alan idam yasasına tepki göstererek; \"Yasa, Filistinlilere karşı çok sayıda ayrımcı yasayla sürdürülen İsrail'in apartheid sistemini güçlendirmektedir” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/237368.jpg",
     "keyword": null
   }
 ]
