@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5ad913d5",
+    "title": "Meteoroloji açıkladı: 31 Mart 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 08:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-31-mart-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2491000",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 31 Mart Salı gününe ilişkin hava durumu raporunu yayımladı. Rapora göre; Marmara, Kıyı Ege, Batı Karadeniz, Orta Karadeniz'in iç kesimleri, Manisa, Antalya, Hatay, Ankara, Çankırı, Mardin, Batman, Siirt ve Şırnak çevreleri ile Mersin'in iç kesimlerinin yağmur ve sağanak yağışlı geçeceği tahmin ediliyor. Rüzgarın ise; bu akşam saatlerinde Doğu Akdeniz’in doğusunda güney ve güneybatı yönlerden kuvvetli olarak esmesi bekleniyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8ddf869d-ef9c-47c8-893f-66b8dd66021a.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_01d83c0a",
     "title": "Trabzon’da Bugün Hava Nasıl Olacak? İlçe İlçe Yağış, Sıcaklık Ve Rüzgâr Nasıl Olacak?",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "G7 ülkeleri, enerji piyasasında istikrarı korumak için koordineli bir şekilde hareket ederek 'gerekli her türlü tedbiri' almaya hazır olduklarını belirttiler. Ancak bu aşamada herhangi bir önlem açıklanmadı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a549ec2f",
-    "title": "İran savaşı sonrası Avrupa'da yenilenebilir enerji ve elektrikli araç talebi arttı",
-    "source": "Euronews",
-    "time": "31/03/2026 08:04",
-    "link": "http://tr.euronews.com/2026/03/31/iran-savasi-sonrasi-avrupada-yenilenebilir-enerji-ve-elektrikli-arac-talebi-artti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’a karşı savaş, Avrupalılar petrol ve gaza daha az riskli alternatifler ararken, yeşil teknolojiyi harekete geçiren bir katalizör haline geldi.",
     "image": null,
     "keyword": null
   }
