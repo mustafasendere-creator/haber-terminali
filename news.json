@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d3273db",
+    "title": "Kuru şampuanlar sık kullanıldığında ciddi sorunlara yol açabilir...",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 02:14",
+    "link": "https://www.cumhuriyet.com.tr/yasam/kuru-sampuanlar-sik-kullanildiginda-ciddi-sorunlara-yol-acabilir-2491324",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yağlı görünümü anında yok eden ve saça hacim veren kuru şampuanlar, sık kullanıldığında saç derisinde \"kimyasal bir beton\" etkisi yaratabilir...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/333e15dc-b2d3-4852-868c-66f17db942d1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8bc5119e",
     "title": "TFF Başkanı İbrahim Hacıosmanoğlu'ndan büyük iddia: 'Kupayı alıp geleceğiz'",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Kosova'yı mağlup ederek 2026 Dünya Kupası biletini alan A Milli Futbol Takımı için tebrik mesajı yayımladı.",
     "image": "https://resim.haber61.net/news/610248.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_aa3d4b2d",
-    "title": "Ahmet Metin Genç’ten Milli Takım’a tebrik",
-    "source": "Haber61",
-    "time": "01/04/2026 01:13",
-    "link": "https://www.haber61.net/trabzon/ahmet-metin-gencten-milli-takima-tebrik-h628223.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Kosova'yı mağlup ederek 2026 Dünya Kupası biletini alan A Milli Futbol Takımı için tebrik mesajı yayımladı.",
-    "image": "https://resim.haber61.net/news/610248.jpg",
-    "keyword": null
   }
 ]
