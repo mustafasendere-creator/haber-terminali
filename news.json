@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_baacdaf0",
+    "title": "ABD ve İsrail'in saldırıları sürüyor: İran'ın birçok kentinde patlama sesleri duyuldu",
+    "source": "Evrensel",
+    "time": "31/03/2026 08:05",
+    "link": "https://www.evrensel.net/haber/5977484/abd-ve-israil-in-saldirilari-suruyor-iran-in-bircok-kentinde-patlama-sesleri-duyuldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail saldırıları altındaki İran'ın başkenti Tahran, İsfahan ve Zencan kentlerinde patlama sesleri duyuldu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340931.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f3d7396e",
     "title": "Meteoroloji'den Akdeniz için fırtına uyarısı: Hangi illerde kar ve yağmur bekleniyor? (31.03.2026)",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP kurmayları yerel seçimlerdeki başarılarının üzerinden iki yıl geçmişken, 19 Mart sürecinden bu yana yaşananları “Her şeyi olumsuz etkileyen bir darbe” olarak tanımlıyor. Kurmaylar “Mesele sadece CHP’ye yapılanlar olmaktan çıktı. Adaletsizlik ekonomiyi daha kötüye götürdü, bu yoksulluğu artırdı. Halkın genel memnuniyetsizliği arttı. Gazeteciler, eleştirel konuşanlar tutuklandı. Herkesi olumsuz etkileyen bir süreç oldu” yorumunu yapıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0256a01f-0e26-4d28-91c3-585ed95cb053.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d12cbc17",
-    "title": "Gazeteci Alican Uludağ hakkında iddianame düzenlendi: 19 yıl 6 aya kadar hapis istemi",
-    "source": "Evrensel",
-    "time": "31/03/2026 04:04",
-    "link": "https://www.evrensel.net/haber/5977441/gazeteci-alican-uludag-hakkinda-iddianame-duzenlendi-19-yil-6-aya-kadar-hapis-istemi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklu gazeteci Alican Uludağ hakkında, \"Cumhurbaşkanına alenen hakaret\", \"Yanıltıcı bilgiyi alenen yayma\" ve \"Türkiye Cumhuriyeti hükümetini ve devletin yargı organlarını alenen aşağılama\" iddialarıyla 19 yıl 6 aya kadar hapis cezası istendi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/334952.jpg",
     "keyword": null
   }
 ]
