@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_08a98c83",
+    "title": "AKP'li vekilin babasına açılan taciz davası ertelendi",
+    "source": "Evrensel",
+    "time": "31/03/2026 13:45",
+    "link": "https://www.evrensel.net/haber/5977553/akpli-vekilin-babasina-acilan-taciz-davasi-ertelendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antep'te AKP'li vekilin babası Ahmet Alansoy'un yanında çalışan Ç.G. isimli kadının açtığı taciz davasının bugünkü duruşması, hakimin sabah izne çıkması nedeniyle 16 Nisan'a ertelendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340992.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b18a9e7a",
     "title": "Bingöl'de sağanak: Köy yolu çöktü",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Artvin’de 62. Kütüphane Haftası kapsamında düzenlenen programda öğrenciler yürüyüş gerçekleştirdi, en çok kitap okuyanlara ödül verildi.",
     "image": "https://resim.haber61.net/news/610143.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_5939daa5",
-    "title": "Trabzon’da zincir marketteki eksik gramaj tepkiye yol açtı!",
-    "source": "Karadeniz Gazetesi",
-    "time": "31/03/2026 12:44",
-    "link": "https://www.karadenizgazete.com.tr/video-galeri/trabzonda-zincir-marketteki-eksik-gramaj-tepkiye-yol-acti/607364",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da bir zincir marketten alınan kömürün gramajının eksik çıktığı iddiası vatandaşların tepkisine neden oldu. Ürün üzerinde 2 kilogram yazmasına rağmen tartımda 1600 gram geldiği öne sürüldü.",
-    "image": null,
     "keyword": null
   }
 ]
