@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5c0800e8",
+    "title": "Kerem Aktürkoğlu'ndan Dünya Kupası mesajı: 'Milletimize armağan olsun'",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 00:15",
+    "link": "https://www.cumhuriyet.com.tr/spor/kerem-akturkoglu-ndan-dunya-kupasi-mesaji-milletimize-armagan-olsun-2491328",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımı'nın oyuncusu Kerem Aktürkoğlu, 1-0 kazandıkları Kosova maçının ardından görüşlerini aktardı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c6854012-c5d0-4974-b836-c796700b3e62.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ebb1218f",
     "title": "Türkiye'nin Dünya Kupası maçları sabah oynanacak",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Antep'te 17 yaşındaki M.G. tarafından kalbinden bıçaklanan 15 yaşındaki Müslüm Yılmaz hayatını kaybetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341066.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_78b994ed",
-    "title": "Lübnan'a İsrail saldırısı: 1'i sağlık çalışanı, 11 kişi hayatını kaybetti",
-    "source": "Evrensel",
-    "time": "31/03/2026 23:34",
-    "link": "https://www.evrensel.net/haber/5977635/lubnana-israil-saldirisi-1i-saglik-calisani-11-kisi-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Lübnan'ın güneyindeki beldelere düzenlediği saldırılarda 1'i sağlık çalışanı, 11 kişi yaşamını yitirdi, 32 kişi yaralandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339841.jpg",
     "keyword": null
   }
 ]
