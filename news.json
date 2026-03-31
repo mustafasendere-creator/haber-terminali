@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8cc32370",
+    "title": "Alman hükümeti Suriyelilerin yüzde 80'ini geri gönderecek",
+    "source": "DW Türkçe",
+    "time": "31/03/2026 14:05",
+    "link": "https://www.dw.com/tr/alman-hükümeti-suriyelilerin-yüzde-80-ini-geri-gönderecek/a-76598296",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye geçici Cumhurbaşkanı Ahmed Şara'yı Berlin'de ağırlayan Almanya Başbakanı Friedrich Merz, Almanya'daki Suriyelilerin yüzde 80'inin önümüzdeki üç yıl içerisinde ülkelerine geri dönmesi gerekeceğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_461e011e",
     "title": "İsrail'deki idam yasası hakkında neler biliniyor?",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Rize’de kalp kontrolü için hastaneye giden 66 yaşındaki Ziya Karakaş, yapılan taramalar sayesinde kolon kanserini erken evrede öğrenerek sağlığına kavuştu.",
     "image": "https://resim.haber61.net/news/610150.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_298b8a3f",
-    "title": "Samsun’da öğrencileri taşıyan midibüs devrildi: 15 yaralı",
-    "source": "Haber61",
-    "time": "31/03/2026 13:24",
-    "link": "https://www.haber61.net/bolgesel/samsunda-ogrencileri-tasiyan-midibus-devrildi-15-yarali-h628166.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İstanbul’daki robot yarışmasından dönen Ünye Fen Lisesi öğrencilerini taşıyan belediye midibüsü Samsun’da şarampole devrildi.",
-    "image": "https://resim.haber61.net/news/610151.jpg",
     "keyword": null
   }
 ]
