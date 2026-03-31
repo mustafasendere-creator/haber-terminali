@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fcc7cf62",
+    "title": "Samsun'da otobüs yan yattı: 9'u öğrenci 11 yaralı var!",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 09:26",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/samsun-da-otobus-yan-yatti-9-u-ogrenci-11-yarali-var-2491007",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun'da sürücünün direksiyon kontrolünü kaybettiği otobüs, yan yattı. Kazada 9'u öğrenci, 11 kişi yaralandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b968f140-6e0c-414a-9ff8-37926441a7b9.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f82333fb",
     "title": "Son dakika depremler! Deprem mi oldu? 31 Mart 2026 nerede, ne zaman deprem oldu?",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da Of’ta “FB” plaka verilmemesi dikkat çekerken, Araklı’da Ormancılık Oyunları için geri sayım başladı. Kamu kurumlarında ödül tartışması sürüyor. Soğuksu hattındaki uzun süreli yol kapanışı ise vatandaş ve esnafı mağdur ediyor.",
     "image": "https://resim.haber61.net/news/610067.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_de68ddad",
-    "title": "Bursa'da yağışın etkisiyle bir sitenin istinat duvarı çöktü",
-    "source": "Evrensel",
-    "time": "31/03/2026 08:45",
-    "link": "https://www.evrensel.net/haber/5977483/bursada-yagisin-etkisiyle-bir-sitenin-istinat-duvari-coktu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'da etkili olan yağışın ardından bir siteye ait yaklaşık 7 metre yükseklikteki istinat duvarı çöktü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340930.jpg",
-    "keyword": null
   }
 ]
