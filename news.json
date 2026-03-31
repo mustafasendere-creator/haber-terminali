@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4b18b602",
+    "title": "'Kötü koku' ekipleri alarma geçirdi",
+    "source": "OdaTV",
+    "time": "01/04/2026 02:35",
+    "link": "https://www.odatv.com/guncel/kotu-koku-ekipleri-alarma-gecirdi-120141546",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli&#039;nin Kartepe ilçesinde kötü koku ihbarı üzerine harekete geçen ekipler, yaptığı ölçümlerde insan sağlığını etkileyecek bir duruma rastlamadı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/kotu-koku-ekipleri-alarma-gecirdi-mpt5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0faba3e5",
     "title": "Dağlıoğlu Grup, enerji depolamada Bulgaristan üzerinden büyüyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran’ın Merkezi eyaletinde düzenlenen operasyonda, İsrail ile iş birliği yaptığı öne sürülen 65 kişi gözaltına alındı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/iranda-isbirlikcilere-gozalti-v2zy.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_46f7a8be",
-    "title": "35 bin kişilik Tepe, 40’ıncı yaşında dünyaya açılıyor",
-    "source": "Ekonomim",
-    "time": "01/04/2026 01:15",
-    "link": "https://www.ekonomim.com/kose-yazisi/35-bin-kisilik-tepe-40inci-yasinda-dunyaya-aciliyor/885239",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/27/tepe-kurumsal-entegre-tesis-yonetimi-alaninda-tum-faaliyetlerini-tek-cati-altinda-topladi-sqev_cover.jpg",
     "keyword": null
   }
 ]
