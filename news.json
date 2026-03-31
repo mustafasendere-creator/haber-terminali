@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9da6fbb9",
+    "title": "Takside yangın çıktı: Yolcular son anda tahliye edildi",
+    "source": "Cumhuriyet",
+    "time": "31/03/2026 23:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/takside-yangin-cikti-yolcular-son-anda-tahliye-edildi-2491319",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kağıthane Okmeydanı’nda seyir halindeki bir ticari takside yangın çıktı. Durumu fark eden sürücü aracı yol kenarına çekerek, içerideki yolcuları son anda tahliye etti. Yangınla ilgili inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/eb7b51dd-e630-48a2-92fa-01285a19ef2e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e9fd449c",
     "title": "Bodrum'da konteyner yangını",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "“Suç işlemek amacıyla örgüt kurma”, “kamu kurum veya kuruluşlarının ihalesine fesat karıştırmak” ile “icbar suretiyle irtikap ve rüşvet alma” suçlarından tutuklanan Uşak Belediye Başkanı Özkan Yalım, görevden uzaklaştırıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f68b2d26",
-    "title": "Güney Afrika'da akaryakıt zammı öncesi istasyonlarda uzun kuyruklar oluştu",
-    "source": "Anadolu Ajansı",
-    "time": "31/03/2026 23:14",
-    "link": "https://www.aa.com.tr/tr/guncel/guney-afrikada-akaryakit-zammi-oncesi-istasyonlarda-uzun-kuyruklar-olustu/3887201",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Güney Afrika Cumhuriyeti'nde, yükselen petrol fiyatları sonrası bu gece yarısından itibaren uygulanacak akaryakıt zammı öncesi akaryakıt istasyonlarında uzun kuyruklar oluştu.",
     "image": null,
     "keyword": null
   }
