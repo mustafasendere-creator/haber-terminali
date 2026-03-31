@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_39b07a89",
+    "title": "17 kaçak göçmen yakalandı",
+    "source": "Habertürk",
+    "time": "01/04/2026 00:55",
+    "link": "https://www.haberturk.com/bursada-kacak-gocmen-operasyonu-17-yabanci-uyruklu-sahis-yakalandi-3873466",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa’da polis ekipleri tarafından düzensiz göçle mücadele kapsamında düzenlenen operasyonlarda 17 yabancı uyruklu şahıs yakalanırken, organizatör olduğu değerlendirilen 4 şüpheli gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774873981/3873466/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_613acbdd",
     "title": "Uğurcan Çakır'dan Dünya Kupası açıklaması: 'Ülkemizi gururlandırdık'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İmamoğlu dahil 407 kişinin yargılandığı duruşmada savcı mütalaasını açıkladı ve tutuklu 7 sanığın tahliyesini talep etti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5ec59000",
-    "title": "‘Fahiş fiyata et’ operasyonu: Beşi kamu görevlisi 33 gözaltı",
-    "source": "10Haber",
-    "time": "01/04/2026 00:14",
-    "link": "https://10haber.net/gundem/fahis-fiyata-et-operasyonu-besi-kamu-gorevlisi-33-gozalti-691303/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bazı besici gruplar tarafından et ve et ürünlerinin fiyatlarının olağanüstü şekilde yükseltilmesi üzerine Ankara merkezli, Kırşehir, Kayseri, Konya, Bursa, Balıkesir, İstanbul ve Sakarya olmak üzere 8 ilde bulunan 28 ile Tarım ve Orman Bakanlığı tarafından yapılacak denetimleri önceden haber veren 5 kamu görevlisi dahil toplam 33 şüpheli hakkında eş zamanlı ile suç delilerine yönelik arama/el [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/03/image_69cb966c654cc1.51836317.webp",
     "keyword": null
   }
 ]
