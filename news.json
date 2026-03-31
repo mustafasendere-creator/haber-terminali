@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa21e714",
+    "title": "İstanbul'da 306 kilogram at eti ele geçirildi!",
+    "source": "Habertürk",
+    "time": "31/03/2026 13:47",
+    "link": "https://www.haberturk.com/istanbul-da-306-kilogram-at-eti-ele-gecirildi-3-gozalti-3873575",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Çatalca ilçesinde düzenlenen operasyonda, piyasaya sürülmek üzere hazırlandığı değerlendirilen 306 kilogram at eti ele geçirildi, 3 şüpheli gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/03/31/ver1774907563/3873575/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_56211e93",
     "title": "Bakan Gürlek'ten şehit savcı Kiraz için anma mesajı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "eSafety Komiserliği, sosyal medya şirketlerinde “kötü uygulamalar” tespit etti; örneğin bazı platformlar, yaş doğrulama sistemlerini aşmak için sınırsız deneme hakkı tanıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ca084872",
-    "title": "BM Güvenlik Konseyi, Lübnan'daki barış gücü askerlerinin ölümleri sonrası acil oturum düzenleyecek",
-    "source": "Euronews",
-    "time": "31/03/2026 13:05",
-    "link": "http://tr.euronews.com/2026/03/31/bm-guvenlik-konseyi-lubnandaki-baris-gucu-askerlerinin-olumleri-sonrasi-acil-oturum-duzenl",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan'daki BM Geçici Gücü (UNIFIL), iki personelinin pazartesi günü bir patlamada, bir diğerinin de pazar geç saatlerde bir merminin mevzilerine isabet etmesi sonucu öldüğünü açıkladı. BM gücü her iki olayla ilgili olarak soruşturma başlattığını duyurdu.",
     "image": null,
     "keyword": null
   }
