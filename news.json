@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_99b0a986",
+    "title": "A Milli Takımımızın Dünya Kupası fikstürü",
+    "source": "TRT Haber",
+    "time": "01/04/2026 00:55",
+    "link": "https://www.trthaber.com/haber/gundem/a-milli-takimimizin-dunya-kupasi-fiksturu-939856.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımı, FIFA Dünya Kupası'nda D Grubu'nda ABD, Paraguay ve Avustralya ile oynayacak. İşte milli takımın maç fikstürü...",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4cbb3f63",
     "title": "İşgalci İsrail, Lübnan'ın başkenti Beyrut'a saldırı düzenledi",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "A Milli Futbol Takımı’nın Kosova’yı mağlup ederek Dünya Kupası vizesi alması, Trabzon’da binlerce vatandaşın katıldığı coşkulu kutlamalara sahne oldu.",
     "image": "https://resim.haber61.net/news/610239.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_ab12be82",
-    "title": "24 Yıllık Hasret Bitti! Milliler Dünya Kupası’nda",
-    "source": "Taka Gazetesi",
-    "time": "01/04/2026 00:14",
-    "link": "https://www.takagazete.com.tr/24-yillik-hasret-bitti-milliler-dunya-kupasinda",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Türkiye, Kosova karşısında Kerem Aktürkoğlu’nun golüyle tarih yazdı. Ay-Yıldızlılar, 2026 Dünya Kupası biletini alarak yıllar süren özleme son verdi. A Milli Futbol Takımı 24 yıllık hasreti bitti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/k-u-p-a-6.jpg",
-    "keyword": null
   }
 ]
