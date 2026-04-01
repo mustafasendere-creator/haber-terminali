@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8cb59199",
+    "title": "NATO çatırdarken...",
+    "source": "A Haber",
+    "time": "01/04/2026 07:14",
+    "link": "https://www.ahaber.com.tr/yazarlar/hilal-kaplan/2026/04/01/nato-catirdarken",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin İran merkezli kriz üzerinden verdiği mesajlar, yalnızca bir askeri gerilimi değil, Batı ittifakının iç gerilimini de görünür kıldı.\nÖzellikle Avrupa'nın son dönemde aldığı pozisyon,...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "TKP_5cdc55a3",
     "title": "Anahtar Deliği 01.04.2026- Volkan Konak ilk yılında yalnız bırakıldı!",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kocaeli İzmit'te bir eğlence mekanına düzenlenen silahlı saldırıda 2 kişi hayatını kaybetti, 1'i ağır 3 kişi yaralandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/kocaelide-eglence-mekanina-silahli-saldiri-2-olu-3-yarali-q7tk.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_47383a5f",
-    "title": "Uşak Belediye Başkanı Özkan Yalım'ın mal varlığına el konuldu",
-    "source": "Evrensel",
-    "time": "01/04/2026 04:34",
-    "link": "https://www.evrensel.net/haber/5977576/usak-belediye-baskani-ozkan-yalimin-mal-varligina-el-konuldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklu Uşak Belediye Başkanı Özkan Yalım’ın mal varlığına İstanbul 10. Sulh Ceza Hakimliği kararıyla el konuldu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340435.jpg",
     "keyword": null
   }
 ]
