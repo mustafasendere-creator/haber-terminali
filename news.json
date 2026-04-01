@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_693c89dc",
+    "title": "İstanbul’da deprem! Kaç şiddetinde, nerede oldu? 1 Nisan AFAD - KANDİLLİ son depremler",
+    "source": "A Haber",
+    "time": "01/04/2026 13:33",
+    "link": "https://www.ahaber.com.tr/viral/liste/istanbulda-deprem-kac-siddetinde-nerede-oldu-afad-kandilli-acikladi-6400430",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Eyüp merkezli 2.6 büyüklüğünde bir deprem meydana geldi. Saat 13.01’de kaydedilen sarsıntının derinliği 12.6 km olarak ölçüldü.Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/69ab16/1200/675/0/0/864/486?u=https://iahbr.tmgrup.com.tr/2026/04/01/1775038055129.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8d5bc37b",
     "title": "Tahran'dan üç füze: Hedef küresel devler",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Ziraat Odaları Koordinasyon Kurulu Başkanı Hasan Kozoğlu, fındıkta yaşanan fiyat düşüşünün, üreticiyi derinden sarstığını ve sürdürülemez bir noktaya getirdiğini söyledi.",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/uretici1.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ce82ce37",
-    "title": "Ödemiş’ten Urfa’ya eğitim köprüsü",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 12:56",
-    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/odemis-ten-urfa-ya-egitim-koprusu-2491446",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ödemiş’te uzun yıllar özel okulda öğretmenlik yapan Selin Tekin Avcı, Urfa’da atandığı Hilvan ilçesi Kopuz köyü okulunu yeniden yarattı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8f267e85-7e72-4ee8-b836-70a6c2b03908.png",
-    "keyword": null
   }
 ]
