@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4cb4f4c",
+    "title": "Uzmanı uyardı: Geçmeyen ağrıların nedeni travma olabilir",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 01:54",
+    "link": "https://www.cumhuriyet.com.tr/saglik/uzmani-uyardi-gecmeyen-agrilarin-nedeni-travma-olabilir-2491545",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sebebi bulunamayan kronik ağrılar ve fiziksel şikayetler, bastırılmış psikolojik sorunların işareti olabilir. Uzman Klinik Psikolog Mert Arslan’a göre beden, dile gelmeyen duyguların en güçlü anlatıcısı olabilir.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/683bb238-fac8-43e9-ab98-593e916bf261.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eae65948",
     "title": "İran basını: Hamaney'in başdanışmanı Harrazi, ABD ve İsrail saldırılarında ağır yaralandı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Meteoroloji Genel Müdürlüğü, Giresun, Trabzon ve Gümüşhane için kuvvetli rüzgar ve fırtına uyarısı yaptı. Yetkililer, çatı uçması ve ulaşımda aksamalara karşı dikkatli olunmasını istedi.",
     "image": "https://resim.haber61.net/news/610394.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_da6bc5b8",
-    "title": "Ünlü kent bilimci Prof. Dr. Ruşen Keleş, Trabzon Günleri’nde",
-    "source": "Haber61",
-    "time": "02/04/2026 00:33",
-    "link": "https://www.haber61.net/trabzon/unlu-kent-bilimci-prof-dr-rusen-keles-trabzon-gunlerinde-h628310.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ankara’da düzenlenecek Trabzon Günleri’nde Prof. Dr. Ruşen Keleş, şehircilik ve kentleşme üzerine değerlendirmelerde bulunacak. Program 9–12 Nisan tarihlerinde gerçekleştirilecek.",
-    "image": "https://resim.haber61.net/news/610395.jpg",
     "keyword": null
   }
 ]
