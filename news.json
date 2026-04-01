@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1edcded3",
+    "title": "New York borsası günü yükselişle kapattı",
+    "source": "Ekonomim",
+    "time": "02/04/2026 00:34",
+    "link": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-yukselisle-kapatti-haberi-885491",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "New York borsası, haftanın üçüncü işlem gününü yükselişle tamamladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/new-york-borsasi-yukselisle-acildi-tsk0_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b6352346",
     "title": "T.C. ORTACA SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Akdeniz açıklarında saat 20.11'de 4,7 büyüklüğünde deprem meydana geldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/336042.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0fcb9ee5",
-    "title": "Eşref Rüya oyuncusu hayatını kaybetti",
-    "source": "Evrensel",
-    "time": "01/04/2026 23:33",
-    "link": "https://www.evrensel.net/haber/5977801/esref-ruya-oyuncusu-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Popüler dizi Eşref Rüya'nın oyuncusu Ramazan Tetik 37 yaşında hayatını kaybetti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341228.jpg",
     "keyword": null
   }
 ]
