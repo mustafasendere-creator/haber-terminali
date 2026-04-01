@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d22802a6",
+    "title": "Afrika'dan gelen çöl tozu sonucu Girit Adası'nda gökyüzü kırmızıya büründü",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 21:33",
+    "link": "https://www.aa.com.tr/tr/guncel/afrikadan-gelen-col-tozu-sonucu-girit-adasinda-gokyuzu-kirmiziya-burundu/3888539",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yunanistan genelindeki kötü hava koşulları devam ederken, Girit Adası’nda gökyüzü Afrika'dan gelen çöl tozu nedeniyle kırmızıya büründü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_0d388c20",
     "title": "LGS sınav tarihi değişiyor: Bakan Yusuf Tekin detayını açıkladı",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul'da haftanın üçüncü iş günü bazı bölgelerde trafik yoğunluğu yaşanırken, Anadolu Yakası'nda trafik yoğunluğu yüzde 89'a kadar çıktı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_878a4122",
-    "title": "Akdeniz'de 4,7 büyüklüğünde deprem",
-    "source": "Anadolu Ajansı",
-    "time": "01/04/2026 20:33",
-    "link": "https://www.aa.com.tr/tr/guncel/akdenizde-4-7-buyuklugunde-deprem/3888543",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Akdeniz açıklarında saat 20.11'de 4,7 büyüklüğünde deprem meydana geldi.",
     "image": null,
     "keyword": null
   }
