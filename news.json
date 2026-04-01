@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ebbbc715",
+    "title": "Cumhurbaşkanı Erdoğan Numan Kurtulmuş ile görüştü",
+    "source": "OdaTV",
+    "time": "01/04/2026 15:55",
+    "link": "https://www.odatv.com/guncel/cumhurbaskani-erdogan-meclis-baskani-numan-kurtulmus-ile-gorustu-120141625",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Erdoğan, TBMM Başkanı Numan Kurtulmuş ile görüştü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/cumhurbaskani-erdogan-meclis-baskani-numan-kurtulmus-ile-gorusuyor-ucwm.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0cb18c5c",
     "title": "İran Dışişleri Bakanı Arakçi, İslam Cumhuriyeti Günü mitingine katıldı",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa’nın yetersiz elektrik şebekesinin yenilenmesi, kıtanın enerji güvenliği açısından acil bir zorunluluk olarak görülüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_92ef558d",
-    "title": "Paris yakınında kamyon şoförleri akaryakıt zammını protesto etti",
-    "source": "Euronews",
-    "time": "01/04/2026 15:33",
-    "link": "http://tr.euronews.com/video/2026/04/01/paris-yakininda-kamyon-soforleri-akaryakit-zammini-protesto-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Paris'in doğusunda çok sayıda kamyon ve traktör, Orta Doğu'daki savaşla bağlantılı artan yakıt maliyetlerini protesto etmek için adeta kaplumbağa hızında ilerleyerek trafiği yavaşlattı.",
     "image": null,
     "keyword": null
   }
