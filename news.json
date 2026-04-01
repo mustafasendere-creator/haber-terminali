@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_92e2acd2",
+    "title": "Trump: 'İran'dan iki, üç hafta içinde ayrılacağız'",
+    "source": "BBC Türkçe",
+    "time": "01/04/2026 05:14",
+    "link": "https://www.bbc.com/turkce/articles/cvg07111x02o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İsrail ile birlikte İran'a başlattıkları saldırılarla ilgili olarak, hedeflerine ulaştıklarını iddia ederek, çok yakın zamanda İran'dan \"ayrılacaklarını\" söyledi. Beyaz Saray da Trump'ın Çarşamba gecesi İran'la ilgili önemli bir açıklama yapacağını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f6ac1abb",
     "title": "Kim Kime Dum Duma - 1 Nisan 2026",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye'de her 10 kadından birini etkileyen endometriozis, rahim iç dokusunun rahim dışına yayılmasıyla gelişiyor. farklı rahatsızlıklarla karıştırıldığı için tanısı çoğu zaman gecikiyor ve bazen hastalara yıllarca tanı konulamayabiliyor",
     "image": "https://im.haberturk.com/l/2026/03/30/ver1774870613/3873410/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_9c74b1a2",
-    "title": "Otobüs ve otomobil çarpıştı: 1 ölü",
-    "source": "Habertürk",
-    "time": "01/04/2026 02:34",
-    "link": "https://www.haberturk.com/aydin-da-otobusle-carpisan-otomobilin-surucusu-oldu-3873412",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aydın'ın Nazilli ilçesinde yolcu otobüsüyle otomobilin çarpışması sonucu bir kişi hayatını kaybetti",
-    "image": "https://im.haberturk.com/l/2026/03/30/ver1774863949/3873412/jpg/1280x1280",
     "keyword": null
   }
 ]
