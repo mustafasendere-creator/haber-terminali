@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_55c2b60d",
+    "title": "Sarı kategoride aranan darbeci binbaşı Ankara'da yakalandı",
+    "source": "TRT Haber",
+    "time": "01/04/2026 13:34",
+    "link": "https://www.trthaber.com/haber/gundem/sari-kategoride-aranan-darbeci-binbasi-ankarada-yakalandi-939931.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "15 Temmuz darbe girişiminde Jandarma Genel Komutanlığı Karargahında görevliolan ve darbe girişiminde aktif rol aldığı gerekçesiyle Ankara 23. Ağır Ceza Mahkemesince hakkında yakalama kararı çıkarılan ve 10 yıldır firari durumda bulunan ihraç Jandarma Kıd. Binbaşı Murat Kalaç emniyet birimlerinin dikkati sayesinde yakalandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9901f230",
     "title": "Çin'de 'sistem arızası': Robotaksiler trafikte aniden durdu",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "TKP",
     "prefix": "🎯",
     "summary": "Trabzon’da taksimetreli taksiler için yeni ücret tarifesi 1 Nisan itibarıyla uygulanmaya başladı. Açılış, kilometre ve bekleme ücretlerinde artış yapıldı.",
-    "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_d610f6fd",
-    "title": "Trabzon’da otobüs ücretlerine zam: Yeni tarifeler yürürlükte",
-    "source": "Karadeniz Gazetesi",
-    "time": "01/04/2026 12:57",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-otobus-ucretlerine-zam-yeni-tarifeler-yururlukte/607457",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da belediye otobüs ücretlerine yüzde 25 zam yapıldı. 1 Nisan itibarıyla tam bilet 27,5 TL’ye yükseldi, yeni bölge tarifesi uygulanmaya başladı.",
     "image": null,
     "keyword": "trabzon"
   }
