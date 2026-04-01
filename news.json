@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41edd644",
+    "title": "Araştırma: Yalnız hissetmek, gerçekte yalnız olmaktan daha önemli bulundu",
+    "source": "Euronews",
+    "time": "01/04/2026 08:54",
+    "link": "http://tr.euronews.com/saglik/2026/04/01/arastirma-yalniz-hissetmek-gercekte-yalniz-olmaktan-daha-onemli-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yalnız olmakla kendini yalnız hissetmek aynı şey değil; uzmanlara göre bu ayrımı gözetmek, ciddi sağlık sorunlarının önüne geçebilir.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c481ad6c",
     "title": "İsrail'den Lübnan'ın güneyini işgal etme planı: Beyrut'taki saldırılarda 7 kişi öldü",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail'in saldırıları altındaki İran'ın başkenti Tahran'da ve Ahvaz kentinde şiddetli patlamalar meydana geldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339971.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_96eea2dd",
-    "title": "Trump: İran savaşı anlaşmalı veya anlaşmasız iki ya da üç hafta içinde sona erebilir",
-    "source": "Euronews",
-    "time": "01/04/2026 07:54",
-    "link": "http://tr.euronews.com/2026/04/01/trump-iran-savasi-anlasmali-veya-anlasmasiz-iki-ya-da-uc-hafta-icinde-sona-erebilir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran’daki savaşın 'iki hafta, belki üç hafta içinde' sona erebileceğini belirterek, 'Bir anlaşma yapıp yapmamamız önemli değil' dedi.",
-    "image": null,
     "keyword": null
   }
 ]
