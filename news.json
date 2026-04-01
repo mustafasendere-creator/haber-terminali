@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_78e69d61",
+    "title": "Bornova Belediyesine soruşturma başlatıldı",
+    "source": "OdaTV",
+    "time": "01/04/2026 17:15",
+    "link": "https://www.odatv.com/guncel/bornova-belediyesine-sorusturma-baslatildi-120141655",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uşak Belediye Başkanı Özkan Yalım&#039;ın tutuklanmasının ardından başkanla bağlantıda olduğu belirtilen Bornova Belediyesi çalışanları hakkında soruşturma açıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/bornova-belediyesine-sorusturma-baslatildi-9fkj.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a7ede214",
     "title": "10 yıldır saklanan FETÖ'cü eski binbaşı yakalandı",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "İYİ Parti Trabzon Milletvekili Yavuz Aydın, İmralı iddialarıyla ilgili Adalet ve İçişleri Bakanlarına soru önergesi verdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/d9f28c98-f656-4f51-860e-24fc3cab45ee.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_82567cb0",
-    "title": "İsrail'in Filistinlileri hedef alan idam yasasına karşı Doğu Kudüs'te genel greve gidildi",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 16:34",
-    "link": "https://www.cumhuriyet.com.tr/dunya/israil-in-filistinlileri-hedef-alan-idam-yasasina-karsi-dogu-kudus-te-genel-greve-gidildi-2491521",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Meclisinin onayladığı, Filistinlileri hedef alan tartışmalı idam yasasını protesto etmek için işgal altındaki Doğu Kudüs'te esnaf greve gitti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f80a1ab6-43e5-41c2-a68d-3ce8e0ba048c.jpg",
-    "keyword": null
   }
 ]
