@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_77649888",
+    "title": "Tahran'da patlama sesleri",
+    "source": "TRT Haber",
+    "time": "01/04/2026 16:54",
+    "link": "https://www.trthaber.com/haber/dunya/tahranda-patlama-sesleri-939954.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail saldırılarının hedefindeki İran'ın başkenti Tahran'da patlamalar meydana geliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_15357f99",
     "title": "CHP'de gelecek senaryoları: Ara seçim mi sine-i millet mi?",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD’den İngiltere’ye 12 adet A-10C Thunderbolt II savaş uçağı gönderilirken, B52 ağır stratejik bombardıman uçağı hareketliliği fark edildi. Ortadoğu’ya sevk edilmesi muhtemel ABD tanker uçaklarının Avrupa’daki yoğunluğu da dikkati çekiyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339236.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_76fee6d4",
-    "title": "Eğitim hayatımızı elimizden almak isteyenlere karşı bu çarkı durduracak olan biziz!",
-    "source": "Evrensel",
-    "time": "01/04/2026 16:14",
-    "link": "https://www.evrensel.net/haber/5977749/egitim-hayatimizi-elimizden-almak-isteyenlere-karsi-bu-carki-durduracak-olan-biziz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gerçeği yazan gazeteciyi hapse atarak, fabrikada hakkını arayan işçi için orada olan sendikacıyı susturarak ve üniversitede bildiri dağıtan öğrenciyi \"terörist\" ilan ederek kurmak istedikleri sessizliği tahkim ediyorlar.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/335131.jpg",
     "keyword": null
   }
 ]
