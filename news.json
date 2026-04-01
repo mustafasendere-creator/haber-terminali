@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_38824d53",
+    "title": "Lübnan ordusu, İsrail sınırındaki bazı beldelerde mevzilerini değiştirdiğini açıkladı",
+    "source": "TRT Haber",
+    "time": "01/04/2026 14:54",
+    "link": "https://www.trthaber.com/haber/dunya/lubnan-ordusu-israil-sinirindaki-bazi-beldelerde-mevzilerini-degistirdigini-acikladi-939940.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Lübnan'ın güneyinde İsrail sınırındaki bazı beldelerde mevzilerini değiştirdiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6add5c35",
     "title": "Bodrum açıklarında göçmen botu battı: 19 ölü",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Ticaret Odası, mart ayında İstanbul'daki perakende ve toptan fiyat hareketlerine ilişkin verileri açıkladı. Veriler hem tüketici fiyatlarında hem de toptan eşya fiyatlarında artış eğiliminin sürdüğünü gösterdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334818.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_6c7f9886",
-    "title": "Trabzon turizmi masaya yatırılıyor: Geleceğin yol haritası çizilecek",
-    "source": "Taka Gazetesi",
-    "time": "01/04/2026 14:14",
-    "link": "https://www.takagazete.com.tr/trabzon-turizmi-masaya-yatiriliyor-gelecegin-yol-haritasi-cizilecek",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon turizmi için önemli adım atılıyor. Turizm Master Planı Çalıştayı’nda 9 başlıkta sektörün geleceği masaya yatırılacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/acc81883-91af-4df1-a055-885304f8d871.jpg",
     "keyword": null
   }
 ]
