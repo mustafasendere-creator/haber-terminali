@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_00ab63ce",
+    "title": "Trump: ABD'yi NATO'dan çekmeyi düşünüyorum",
+    "source": "TRT Haber",
+    "time": "01/04/2026 16:34",
+    "link": "https://www.trthaber.com/haber/dunya/trump-abdyi-natodan-cekmeyi-dusunuyorum-939919.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, müttefiklerin İran'a yönelik olası bir ABD askeri harekatına destek vermemesi durumunda, ülkesini NATO'dan çekmeyi ciddi şekilde değerlendireceğini açıkladı. İngiliz Daily Telegraph gazetesine konuşan Trump, ittifakın mevcut yapısını sert sözlerle eleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_43893a42",
     "title": "Trabzon Ortahisar’da denetim raporu mecliste okundu",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı, 71 ilde uyuşturucu satıcılarına düzenlenen operasyonda 1 ton 231 kilogram uyuşturucu madde ve 1 milyon 576 bin adet uyuşturucu hap ele geçirildiğini duyurdu. Operasyonlar kapsamında yakalanan 903 şüpheliden 373'ü tutuklandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_084d5425",
-    "title": "Uyuşturucu satıcılarına operasyon: 373 tutuklama",
-    "source": "TRT Haber",
-    "time": "01/04/2026 15:54",
-    "link": "https://www.trthaber.com/haber/turkiye/uyusturucu-saticilarina-operasyon-373-tutuklama-939947.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, 71 ilde uyuşturucu satıcılarına yönelik düzenlenen operasyonlarda yakalanan 903 şüpheliden 373'ünün tutuklandığını belirtti.",
     "image": null,
     "keyword": null
   }
