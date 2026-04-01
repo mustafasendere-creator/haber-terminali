@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a45f0292",
+    "title": "Et fiyatı manipülasyoncularına operasyon",
+    "source": "Habertürk",
+    "time": "01/04/2026 17:14",
+    "link": "https://www.haberturk.com/ankara-merkezli-et-fiyati-manipulasyonu-operasyonu-30-gozalti-3873798",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yapılan açıklamada kırmızı et piyasasında fiyatları yapay şekilde artırdığı iddia edilen kişi ve firmalara yönelik geniş çaplı bir soruşturma başlatıldı. Soruşturma kapsamında 8 ilde düzenlenen eş zamanlı operasyonda 30 şüpheli gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/03/31/ver1774971555/3873798/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_01573269",
     "title": "Sinop'ta kestane ağaçları için 10 bin avcı böcek",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "ABD Başkanı Donald Trump, müttefiklerin İran'a yönelik olası bir ABD askeri harekatına destek vermemesi durumunda, ülkesini NATO'dan çekmeyi ciddi şekilde değerlendireceğini açıkladı. İngiliz Daily Telegraph gazetesine konuşan Trump, ittifakın mevcut yapısını sert sözlerle eleştirdi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_43893a42",
-    "title": "Trabzon Ortahisar’da denetim raporu mecliste okundu",
-    "source": "Haber61",
-    "time": "01/04/2026 16:34",
-    "link": "https://www.haber61.net/trabzon/trabzon-ortahisarda-denetim-raporu-mecliste-okundu-h628300.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ortahisar Belediye Meclisi Nisan ayı toplantılarında denetim raporu ele alındı. Ortahisar Belediye Başkanı Ahmet Kaya, raporun kurumsal gelişim için önemli olduğunu vurguladı.",
-    "image": "https://resim.haber61.net/news/610381.jpg",
-    "keyword": "trabzon"
   }
 ]
