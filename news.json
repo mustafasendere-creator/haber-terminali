@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_ae9943a5",
+    "title": "Kırım’da askeri nakliye uçağı düştü: 29 kişi hayatını kaybetti",
+    "source": "Haber61",
+    "time": "01/04/2026 09:54",
+    "link": "https://www.haber61.net/dunya/kirimda-askeri-nakliye-ucagi-dustu-29-kisi-hayatini-kaybetti-h628250.html",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Rusya’nın ilhak ettiği Kırım’da An-26 tipi askeri nakliye uçağı düştü. Uçakta bulunan 29 kişinin tamamının yaşamını yitirdiği bildirildi.",
+    "image": "https://resim.haber61.net/news/610293.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_abf750d7",
     "title": "Bodrum açıklarında göçmen faciası: 11 kişi hayatını kaybetti",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Birleşik Arap Emirliklerinin BAE, İran vatandaşlarının ülkeye girişini ve transit geçişini yasakladığı bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_55a6f370",
-    "title": "İrandan Kuveyt Uluslararası Havalimanı'nda yakıt tanklarına İHA'lı saldırı",
-    "source": "TRT Haber",
-    "time": "01/04/2026 08:55",
-    "link": "https://www.trthaber.com/haber/dunya/irandan-kuveyt-uluslararasi-havalimaninda-yakit-tanklarina-ihali-saldiri-939873.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuveyt Sivil Havacılık Genel Kurumu, İrana ait insansız hava araçlarının İHA Kuveyt Uluslararası Havalimanı'ndaki yakıt tanklarını hedef aldığını duyurdu.",
     "image": null,
     "keyword": null
   }
