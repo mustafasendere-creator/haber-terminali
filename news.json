@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02a62303",
+    "title": "Plaka basım atölyeleri önünde kuyruk oluştu",
+    "source": "TRT Haber",
+    "time": "01/04/2026 13:34",
+    "link": "https://www.trthaber.com/haber/turkiye/plaka-basim-atolyeleri-onunde-kuyruk-olustu-939929.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"APP\" olarak bilinen standart dışı plakaları kullanan araç sahipleri, denetimlerin başlamasıyla plaka basım atölyelerinde yoğunluk oluşturdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fbf8e4f9",
     "title": "Hizbullah: İsrail'in kuzeyindeki askeri noktalara saldırılar düzenledik",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP&#039;nin 38. Olağan Kurultayı&#039;nda usulsüzlük yapıldığı suçlamasıyla açılan dava 6 Mayıs&#039;a ertelendi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/24/son-dakika-chp-kurultay-davasi-ve-ibb-davalarinin-birlestirilmesi-talebine-ret-wrek_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8decf14f",
-    "title": "Rus askeri nakliye uçağı Kırım'da düştü: 29 kişi yaşamını yitirdi",
-    "source": "Ekonomim",
-    "time": "01/04/2026 12:57",
-    "link": "https://www.ekonomim.com/havacilik/rus-askeri-nakliye-ucagi-kirimda-dustu-29-kisi-yasamini-yitirdi-haberi-885274",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Savunma Bakanlığı, Kırım’da Antonov An-26 tipi askeri nakliye uçağının düşmesi sonucu 29 kişinin hayatını kaybettiğini açıkladı",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/rus-askeri-nakliye-ucagi-kirimda-dustu-29-kisi-yasamini-yitirdi-llg0_cover.jpg",
     "keyword": null
   }
 ]
