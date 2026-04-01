@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d20f56b4",
+    "title": "TOBB Kuleleri’nde üçlü X-ray eziyeti: Hem emekçiler hem güvenlik görevlileri mağdur",
+    "source": "Evrensel",
+    "time": "01/04/2026 14:14",
+    "link": "https://www.evrensel.net/haber/5977723/tobb-kulelerinde-uclu-x-ray-eziyeti-hem-emekciler-hem-guvenlik-gorevlileri-magdur",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TOBB Kuleleri’nde AB Başkanlığı birimlerinde çalışan kamu emekçileri, üç kez yapılan X-ray kontrollerini “güvenlik değil eziyet” olarak niteliyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341142.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_7e429d1d",
     "title": "Giresun’da hayatını kaybeden T.T. son yolculuğuna uğurlandı; Olayla ilgili soruşturma sürüyor",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "\"APP\" olarak bilinen standart dışı plakaları kullanan araç sahipleri, denetimlerin başlamasıyla plaka basım atölyelerinde yoğunluk oluşturdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fbf8e4f9",
-    "title": "Hizbullah: İsrail'in kuzeyindeki askeri noktalara saldırılar düzenledik",
-    "source": "TRT Haber",
-    "time": "01/04/2026 13:34",
-    "link": "https://www.trthaber.com/haber/dunya/hizbullah-israilin-kuzeyindeki-askeri-noktalara-saldirilar-duzenledik-939930.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hizbullah, İsrail'in kuzeyindeki çok sayıda askeri noktayı hedef aldıklarını duyurdu.",
     "image": null,
     "keyword": null
   }
