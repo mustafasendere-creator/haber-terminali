@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a177522",
+    "title": "Sarıyer'de toprak kayması nedeniyle altı bina tahliye edildi; mahalle halkı tepkili",
+    "source": "Evrensel",
+    "time": "01/04/2026 06:54",
+    "link": "https://www.evrensel.net/haber/5977651/sariyerde-toprak-kaymasi-nedeniyle-alti-bina-tahliye-edildi-mahalle-halki-tepkili",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sarıyer'de yağış sebebiyle bir binanın bahçe kısmında toprak kayması meydana geldi. Sokakta bulunan altı bina için riskli olduğu için tahliye kararı verildi. Yurttaşlar isyan ederek gidecek yerlerinin olmadığını söyledi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341084.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c16fe19b",
     "title": "Trump: Anlaşma olsun olmasın İran savaşını 2-3 haftaya bitireceğiz",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "DEM Partili Serhat Eren, bu yıl Newroz etkinlikleri nedeniyle tutuklanan ve ev hapsi verilen çocukları Meclis gündemine taşıdı. İşkence ve kötü muamele iddialarına dikkat çeken Eren, “Ağır bir hak ihlali” dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340213.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_00da41e7",
-    "title": "ABD'nin Venezuela Büyükelçiliği faaliyetlerine başladı",
-    "source": "OdaTV",
-    "time": "01/04/2026 03:54",
-    "link": "https://www.odatv.com/guncel/abdnin-venezuela-buyukelciligi-faaliyetlerine-basladi-120141549",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD, Venezuela&#039;daki Karakas Büyükelçiliği&#039;ni yeniden açmasının ardından diplomatik faaliyetlerin başladığını duyurdu. Venezuela da ABD Büyükelçiliği yeniden faaliyete geçtiğini bildirdi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/abdnin-venezuela-buyukelciligi-faaliyetlerine-basladi-qgnp.jpg",
     "keyword": null
   }
 ]
