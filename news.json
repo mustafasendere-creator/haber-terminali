@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6402f310",
+    "title": "Bakan Çiftçi: İnsanımızı uyuşturucuya ve trafik kazalarına kurban vermek istemiyoruz",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 21:33",
+    "link": "https://www.aa.com.tr/tr/guncel/bakan-ciftci-insanimizi-uyusturucuya-ve-trafik-kazalarina-kurban-vermek-istemiyoruz/3888580",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanı Mustafa Çiftçi, trafikteki can kayıplarının yürekleri yaraladığına işaret ederek, \"Biz insanımızı hem uyuşturucuya hem de trafik kazalarına kurban vermek istemiyoruz.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_a5b760d0",
     "title": "AFAD son dakika duyurdu: Meydana gelen deprem paniğe yol açtı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Düzce&#039;nin Akçakoca ilçesinde ormanlık alanda doğalgaz ana hattı çalışması sırasında meydana gelen toprak kaymasında 2 işçi göçük altında kaldı. İşçilerden 1&#039;i hayatını kaybederken, 1&#039;i ise yaralı olarak kurtarıldı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/duzcede-akilalmaz-olay-smsf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d73ceb11",
-    "title": "Avrupa'da enflasyon alarmı: Orta Doğu’daki alevler enflasyonu yeniden mi ateşliyor?",
-    "source": "Ekonomim",
-    "time": "01/04/2026 20:14",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/avrupada-enflasyon-alarmi-orta-dogudaki-alevler-enflasyonu-yeniden-mi-atesliyor-haberi-885410",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Merkez Bankası’nın (ECB) zirvesinden gelen son uyarılar, ekonomi dünyasında ‘fırtına öncesi sessizlik’ yorumlarına neden oldu. Orta Doğu’daki çatışma dinamiğinin sadece askeri bir kriz değil, Avrupa’nın enflasyonla mücadelesini rayından çıkaracak devasa bir maliyet cenderesi olduğu gerçeği artık masanın tam merkezinde.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/avrupada-enflasyon-alarmi-orta-dogudaki-alevler-enflasyonu-yeniden-mi-atesliyor-ojae_cover.gif",
     "keyword": null
   }
 ]
