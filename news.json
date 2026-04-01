@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8d8e48d9",
+    "title": "İran'ın başkenti Tahran'da şiddetli patlamalar",
+    "source": "Haber Global",
+    "time": "01/04/2026 05:34",
+    "link": "https://haberglobal.com/gundem/iranin-baskenti-tahranda-siddetli-patlamalar-516384",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail saldırıları altındaki İran'ın başkenti Tahran'da şiddetli patlamalar meydana geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/iranin-baskenti-tahranda-siddetli-patlamalar-nh8s.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_06ebf879",
     "title": "İran'ın Ahvaz kentinde 4 patlama meydana geldi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. BAKIRKÖY 6. ASLİYE HUKUK MAHKEMESİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/1eaba0de-a26b-4b07-9039-fcaac00c7338.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3b17f97d",
-    "title": "T.C. ŞİLE 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 02:54",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-sile-1-asliye-hukuk-mahkemesi-hakimligi-2490956",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. ŞİLE 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4f44e3cf-931e-4177-a910-1a8e1b60dbe2.jpg",
     "keyword": null
   }
 ]
