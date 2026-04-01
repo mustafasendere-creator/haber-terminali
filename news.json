@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59fea5b0",
+    "title": "Zeytinliğe uçan patpatın sürücüsü öldü",
+    "source": "Habertürk",
+    "time": "01/04/2026 18:14",
+    "link": "https://www.haberturk.com/hatayda-zeytin-bahcesine-ucan-patpatin-surucusu-oldu-3873772",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay’da kontrolden çıkan patpat, zeytinliğe uçup ağaca çarptı. İhbar üzerine bölgeye sevk edilen ekiplerce araçtan çıkarılan 63 yaşındaki Çapkın’ın, tüm müdahalelere rağmen yaşamını yitirdiği belirlendi",
+    "image": "https://im.haberturk.com/l/2026/03/31/ver1774965510/3873772/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_0f0c3c1e",
     "title": "Deprem davasında 'İmamoğlu' göndermesi: 'Diplomanın denkliğine baktıracağım...'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "O yıl Türkiye’de teknoloji, popüler kültür ve günlük hayat nasıldı? İşte Nokia 3310, MSN Messenger ve VCD’lerin dünyasında Dünya Kupası!",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341173.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c0f87730",
-    "title": "Göçmen Mülteci Dayanışma Ağı: Mültecileri ölüme iten sınır politikalarını değiştirin",
-    "source": "Evrensel",
-    "time": "01/04/2026 17:33",
-    "link": "https://www.evrensel.net/haber/5977764/gocmen-multeci-dayanisma-agi-multecileri-olume-iten-sinir-politikalarini-degistirin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Göçmen Mülteci Dayanışma Ağı, Bodrum açıklarında en az 19 kişinin yaşamını yitirdiği bot faciasının ardından yaptığı açıklamada, yaşananların “kaza değil, göç karşıtı sınır politikalarının sonucu” olduğunu belirtti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341192.jpg",
     "keyword": null
   }
 ]
