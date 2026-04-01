@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d15d5008",
+    "title": "Galatasaray maçı ne zaman, saat kaçta hangi kanalda?",
+    "source": "Haber Global",
+    "time": "01/04/2026 17:34",
+    "link": "https://haberglobal.com/spor/galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-516530",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray'ın maç takvimi belli oldu. Milli aranın bitmesiyle beraber Avrupa'da ve Süper Lig'de heyecan kaldığı yerden devam ediyor. İşte sarı lacivertlilerin oynayacağı maçların programı...",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-f1st.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a3c9add8",
     "title": "Tatvan'da feci kaza: 4 yaşındaki çocuk öldü",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Yeni 007’yi “özel haber” diye açıkladığımız 1 Nisan şakamızdan sonra ortalık karıştı… Britanya’nın en ünlü ajanını bir kadın oynasa Bond erkekleri kim olurdu?",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1565cf25",
-    "title": "Lampedusa ve Bodrum açıklarında facia: 38 göçmen hayatını kaybetti",
-    "source": "Euronews",
-    "time": "01/04/2026 16:53",
-    "link": "http://tr.euronews.com/my-europe/2026/04/01/lampedusa-ve-bodrum-aciklarinda-facia-38-gocmen-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BM'nin Uluslararası Göç Örgütü'ne (IOM) göre bu yıl şimdiye kadar Orta Akdeniz'de 624 göçmen öldü ya da kayboldu.",
     "image": null,
     "keyword": null
   }
