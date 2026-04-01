@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e62bd880",
+    "title": "İtalyan basınından Vincenzo Montella'ya büyük övgü!",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 15:14",
+    "link": "https://www.cumhuriyet.com.tr/spor/italyan-basinindan-vincenzo-montella-ya-buyuk-ovgu-2491482",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Takım, deplasmanda Kosova'yı 1-0 mağlup ederek 24 yıl aranın ardından Dünya Kupası biletini aldı. İtalyan basını tarihi başarı sonrası A Milli Takım Teknik Direktörü Vincenzo Montella'ya övgü yağdırdı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/dc48d91e-fd43-4576-814b-504aaff5a444.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_910fe800",
     "title": "Yemek siparişi platformlarında yeni dönem: Kurallar sil baştan değişti!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Yemek siparişinde yeni dönem bugün başladı. Artık tüm gider kalemleri restoranlar tarafından açıkça gösterilecek. Restoranlar kampanya ve indirimlere zorlanamayacak. Böylece platformların fahiş komisyon tutarları talep etmelerinin önüne geçilecek, tüketicilerin seçenekleri artacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b32f715f",
-    "title": "Rusya, Ay'ın yüzeyinde tarama yapacak",
-    "source": "TRT Haber",
-    "time": "01/04/2026 14:34",
-    "link": "https://www.trthaber.com/haber/dunya/rusya-ayin-yuzeyinde-tarama-yapacak-939937.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Federal Uzay Ajansı Roscosmos Başkanı Dmitriy Bakanov, yakında Ay'da tarama yapacaklarını ve Ay'ın iç yapısını incelemek için gerekli araçların geliştirilmesine bu yıl başlayacaklarını söyledi.",
     "image": null,
     "keyword": null
   }
