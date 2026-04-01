@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9982fd3d",
+    "title": "İran, Trump'ın rejim değişti iddiasını alaya aldı",
+    "source": "TRT Haber",
+    "time": "01/04/2026 17:14",
+    "link": "https://www.trthaber.com/haber/dunya/iran-trumpin-rejim-degisti-iddiasini-alaya-aldi-939915.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı İbrahim Azizi, ABD Başkanı Donald Trump'ın \"İran'da rejim değişti\" iddiasını alaya alarak, değişenin Hürmüz Boğazı'ndaki durum olduğunu ve Boğaz'ın ABD'ye açılmayacağını belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b53d388d",
     "title": "Bakan Tekin: Milli maçla çakıştığı için LGS bir gün öne alınabilir",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Donald Trump NATO'yu 'kağıttan kaplan' olarak nitelerken, ABD yönetimi Avrupa’daki üs kısıtlamalarına tepki gösterdi. İngiltere ise ittifaka destek verdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7acfb0e3",
-    "title": "Çin’de ‘sistem arızası’: Robotaksiler trafikte aniden durdu",
-    "source": "10Haber",
-    "time": "01/04/2026 16:33",
-    "link": "https://10haber.net/bilim-teknoloji/cinde-sistem-arizasi-robotaksiler-trafikte-aniden-durdu-691635/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin’in Wuhan kentinde teknoloji şirketi Baidu’nun işlettiği bazı robotaksilerin trafikte aniden durduğu bildirildi. Polis dün Hubey eyaletinin merkezi Vuhan kentinde internet ve teknoloji şirketi Baidu’nun sürücüsüz taksilerinin yol ortasında durduğu ve hareket etmediğine ilişkin çok sayıda telefon aldığı duyurdu. Açıklamada kaç araçta sorun yaşandığına dair bilgi verilmezken Çin sosyal medyasında çok sayıda kullanıcı, sorun yaşadıklarına [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69cd0dd40d5ca8.59000827.jpg",
     "keyword": null
   }
 ]
