@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_74b5fb17",
+    "title": "Kazak kuryeyi sokak ortasında infaz etmişlerdi: Yurt dışına kaçarken yakalandılar!",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 12:56",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kazak-kuryeyi-sokak-ortasinda-infaz-etmislerdi-yurt-disina-kacarken-yakalandilar-2491444",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Fatih ilçesinde özel bir firmada kurye olarak çalışan Kazakistan uyruklu Arif İsmailov'un silahla öldürülmesine ilişkin aranan 2 şüpheli Edirne'de yakalandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/dd10db63-9cf1-41c1-a943-3e8f5a25f41c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3d5ef180",
     "title": "2026 Ekmek fiyatı ne kadar oldu? Ekmeğe ne kadar zam geldi?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Muğla’nın Bodrum ilçesi açıklarında kaçak göçmenleri taşıyan lastik bot battı. Olayda 11 kişinin cansız bedenine ulaşılırken, 21 kişi sağ olarak kurtarıldı.",
     "image": "https://resim.haber61.net/news/610294.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_a3cf9dd5",
-    "title": "Trabzon’da elektrik kesintisi! İlçe ilçe saatler açıklandı",
-    "source": "Haber61",
-    "time": "01/04/2026 09:53",
-    "link": "https://www.haber61.net/trabzon/trabzonda-elektrik-kesintisi-ilce-ilce-saatler-aciklandi-h628252.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un birçok ilçesinde 1 Nisan 2026 Çarşamba günü planlı elektrik kesintileri uygulanacak. Kesintilerin yatırım ve bakım çalışmaları kapsamında yapılacağı bildirildi.",
-    "image": "https://resim.haber61.net/news/610296.jpg",
     "keyword": null
   }
 ]
