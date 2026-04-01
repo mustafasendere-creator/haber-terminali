@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f95850ac",
+    "title": "Yan ve kan sanayii",
+    "source": "A Haber",
+    "time": "01/04/2026 07:34",
+    "link": "https://www.ahaber.com.tr/yazarlar/bekir-hazar/2026/04/01/yan-ve-kan-sanayii",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünyanın en büyük beş petrol şirketi BP, Shell, Chevron, ExxonMobil ve TotalEnergies Rusya'nın Ukrayna'yı işgal etmesinden bu yana 500 milyar dolardan fazla kâr elde etti. Global Witness bir rapor...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_6c413b74",
     "title": "COP31: Türkiye’nin ‘İklim’de İtibar Yönetimi",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail saldırıları altındaki İran'ın başkenti Tahran'da şiddetli patlamalar meydana geldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/iranin-baskenti-tahranda-siddetli-patlamalar-nh8s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_06ebf879",
-    "title": "İran'ın Ahvaz kentinde 4 patlama meydana geldi",
-    "source": "TRT Haber",
-    "time": "01/04/2026 05:34",
-    "link": "https://www.trthaber.com/haber/dunya/iranin-ahvaz-kentinde-4-patlama-meydana-geldi-939862.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABDİsrail saldırıları altındaki İran'ın Huzistan eyaletine bağlı Ahvaz kentinde şiddetli 4 patlama meydana geldi.",
-    "image": null,
     "keyword": null
   }
 ]
