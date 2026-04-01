@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5cebbc88",
+    "title": "Başkent için sağanak uyarısı",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 15:53",
+    "link": "https://www.aa.com.tr/tr/guncel/baskent-icin-saganak-uyarisi/3888246",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Valiliği, bu gece kent genelinde kuvvetli sağanak beklendiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ce012a83",
     "title": "Sondaj kuyusu tartışması kanla bitti: Baba ve oğul öldürüldü",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Eski İsrail Başbakanı ve ana muhalefet lideri Yair Lapid, Başbakan Binyamin Netanyahu’nun İran’a karşı zafer kazanma kapasitesine sahip olmadığını savundu. Lapid, Netanyahu’nun stratejik başarısızlıklarını eleştirerek, “Zafer kazanmak bir yana İsrail’i içeriden parçalıyor” dedi. Eski Başbakanı ve “Gelecek Var” partisinin lideri Yair Lapid, Başbakan Binyamin Netanyahu’yu sert sözlerle eleştirdi. The Times of Israel’a yaptığı açıklamada Lapid, [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69ccf527d13507.50235974.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad03dcf4",
-    "title": "Sarı kategoride aranıyordu: Darbeci binbaşı yakalandı",
-    "source": "10Haber",
-    "time": "01/04/2026 15:13",
-    "link": "https://10haber.net/gundem/sari-kategoride-araniyordu-darbeci-binbasi-yakalandi-691625/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "15 Temmuz darbe girişiminde Jandarma Genel Komutanlığı Karargahı&#8217;nda görevli olan ve girişimde aktif rol aldığı gerekçesiyle Ankara 23. Ağır Ceza Mahkemesince hakkında yakalama kararı çıkarılan ve 10 yıldır firari olan ihraç edilmiş Jandarma Kıdemli Binbaşı Murat Kalaç Ankara&#8217;da saklandığı adreste yakalandı. İçişleri Bakanlığı&#8217;nın arananlar listesinde sarı kategoride yer alan firari FETÖ mensubunun saklanmakta olduğu adreste [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69cd0b69a81353.45737056.jpg",
     "keyword": null
   }
 ]
