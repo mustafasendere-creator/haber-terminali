@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cd954d8c",
+    "title": "İBB davası: Avukat Mehmet Pehlivan için tahliye talebi",
+    "source": "DW Türkçe",
+    "time": "01/04/2026 15:14",
+    "link": "https://www.dw.com/tr/ibb-davası-avukat-mehmet-pehlivan-için-tahliye-talebi/a-76622968",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ekrem İmamoğlu'nun tutuklu avukatı Mehmet Pehlivan'ın müdafi Tora Pekin, mahkemenin tutukluluk kararlarını \"kopyala-yapıştır\" olarak niteledi, delillerin \"gerçek dışı beyanlara\" dayandığını savundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_248e8711",
     "title": "İzmir'de taksi ve tren dahil ulaşıma zam",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail’in Beyrut’un güneyindeki Dahiye bölgesine yönelik saldırılarında 7 kişi yaşamını yitirirken, 26 kişi yaralandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340983.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_88424d28",
-    "title": "Halkın sağlığı tehlikede: \"1000 ASM yapacağız dediler, eldekileri satıyorlar\"",
-    "source": "Evrensel",
-    "time": "01/04/2026 14:34",
-    "link": "https://www.evrensel.net/haber/5977728/halkin-sagligi-tehlikede-1000-asm-yapacagiz-dediler-eldekileri-satiyorlar",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP İstanbul Milletvekili Dr. Gamze Akkuş İlgezdi, mevcut aile sağlığı merkezlerinin Cumhurbaşkanlığı Kararı ile satışa çıkarılmasına tepki gösterdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/304087.jpg",
     "keyword": null
   }
 ]
