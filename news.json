@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_386fa020",
+    "title": "Ankara için sağanak uyarısı",
+    "source": "TRT Haber",
+    "time": "01/04/2026 15:54",
+    "link": "https://www.trthaber.com/haber/turkiye/ankara-icin-saganak-uyarisi-939948.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Valiliği, bu gece kent genelinde kuvvetli sağanak beklendiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_ac5117ce",
     "title": "Trabzonspor’un eski yıldızı Jaja trabzon’a geliyor!",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Fenerbahçe SK (@Fenerbahce) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "GND_e723ecfd",
-    "title": "Kocaeli'de ağabeyden kardeşine kanlı pusu: Tırın altına saklanıp öldürdü",
-    "source": "Haber Global",
-    "time": "01/04/2026 15:14",
-    "link": "https://haberglobal.com/gundem/kocaelide-agabeyden-kardesine-kanli-pusu-tirin-altina-saklanip-oldurdu-516502",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kocaeli'nin Darıca ilçesinde sabah işe gitmek üzere kullandığı tırın yanına giden Çetin Kaya (35), aracın altına gizlenen husumetli ağabeyi S.K. (47) tarafından tabanca ile vurularak katledildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/kocaelide-agabeyden-kardesine-kanli-pusu-tirin-altina-saklanip-oldurdu-qtdq.jpg",
-    "keyword": null
   }
 ]
