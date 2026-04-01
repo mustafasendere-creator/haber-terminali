@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8ac0e14",
+    "title": "Virgin Galactic uzay turizmine döndü: Bir bilet 750 bin dolar",
+    "source": "TRT Haber",
+    "time": "01/04/2026 07:54",
+    "link": "https://www.trthaber.com/haber/dunya/virgin-galactic-uzay-turizmine-dondu-bir-bilet-750-bin-dolar-939869.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Virgin Galactic, yaklaşık iki yıllık aradan sonra sınırlı sayıda bilet satışına yeniden başladı; koltuk başına fiyat 750 bin dolar.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a7eb3609",
     "title": "Yıldıray Oğur: Mandela ve Öcalan benzetmesi",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avro Bölgesi'nde yıllık enflasyon mart ayında enerji fiyatlarındaki artışla yüzde 2,5 seviyesine yükseldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/332293.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_467cd536",
-    "title": "Akbelen’in sesi Esra Işık tutuklandı",
-    "source": "Evrensel",
-    "time": "01/04/2026 06:34",
-    "link": "https://www.evrensel.net/haber/5977549/akbelen-in-sesi-esra-isik-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Akbelen Ormanı çevresindeki tarım arazilerinin acele kamulaştırılmasına karşı açılan dava kapsamında dün yapılan bilirkişi keşfine yönelik protesto sırasında gözaltına alınan Esra Işık, bugün çıkarıldığı mahkemece tutuklandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340971.jpg",
     "keyword": null
   }
 ]
