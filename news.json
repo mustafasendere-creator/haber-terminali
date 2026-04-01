@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fbe27570",
+    "title": "Kocaeli'de eğlence mekanına silahlı saldırı: 2 ölü, 3 yaralı",
+    "source": "Haber Global",
+    "time": "01/04/2026 04:34",
+    "link": "https://haberglobal.com/gundem/kocaelide-eglence-mekanina-silahli-saldiri-2-olu-3-yarali-516382",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli İzmit'te bir eğlence mekanına düzenlenen silahlı saldırıda 2 kişi hayatını kaybetti, 1'i ağır 3 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/kocaelide-eglence-mekanina-silahli-saldiri-2-olu-3-yarali-q7tk.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_47383a5f",
     "title": "Uşak Belediye Başkanı Özkan Yalım'ın mal varlığına el konuldu",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kocaeli Kongre Merkezi’nde, Kocaeli Valiliği, Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü ile Kocaeli Büyükşehir Belediyesi koordinasyonunda düzenlenen Sıfır Atık Farkındalık Programı’nda öğrenciler geniş katılım sağladı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/kocaelide-sifir-atik-vizyonu-ogrencilerle-gucleniyor-35oi_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_30482b6d",
-    "title": "EBSO/Yorgancılar: Desteklenmek sonuna kadar sanayicinin hakkı",
-    "source": "Ekonomim",
-    "time": "01/04/2026 02:15",
-    "link": "https://www.ekonomim.com/ekonomi/ebsoyorgancilar-desteklenmek-sonuna-kadar-sanayicinin-hakki-haberi-885202",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk sanayicisinin 2023 yılından bu yana yüksek enflasyon ve yüksek faizin yarattığı tahribat neticesinde üretim yapmaya çalıştığını, mali yüklerin hiç olmadığı kadar arttığını, bunun da sanayisizleşme riskini doğurduğunu ifade eden Ege Bölgesi Sanayi Odası (EBSO) Yönetim Kurulu Başkanı Ender Yorgancılar, desteklenmenin sonuna kadar sanayicinin hakkı olduğunu dile getirdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/ebsoyorgancilar-desteklenmek-sonuna-kadar-sanayicinin-hakki-vjnq_cover.jpg",
     "keyword": null
   }
 ]
