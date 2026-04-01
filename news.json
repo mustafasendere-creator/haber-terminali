@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5922bab4",
+    "title": "İran’dan İsrail’e son haftaların en yoğun füze saldırısı: Hürmüz Boğazı krizi derinleşiyor",
+    "source": "Euronews",
+    "time": "01/04/2026 22:53",
+    "link": "http://tr.euronews.com/2026/04/01/irandan-israile-son-haftalarin-en-yogun-fuze-saldirisi-hurmuz-bogazi-krizi-derinlesiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Askeri yetkililer, bunun son üç haftanın en büyük yaylım ateşi olduğunu bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b74d3be6",
     "title": "İran Cumhurbaşkanı Pezeşkiyan, ABD halkına hitaben açık mektup yayımladı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trendyol Süper Lig’de gözler Trabzon’da oynanacak dev maça çevrildi. Lider Galatasaray’ı ağırlayacak Trabzonspor’da tek hedef galibiyet ve zirve yarışını yeniden şekillendirmek.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/683b6b12-75ca-4c56-bcc4-2a66ac221db3.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f8e0abec",
-    "title": "İsrail’in ‘idam yasası’ Batı Şeria'da protesto ediliyor",
-    "source": "Euronews",
-    "time": "01/04/2026 21:34",
-    "link": "http://tr.euronews.com/2026/04/01/israilin-idam-yasasi-bati-seriada-protesto-ediliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hafta başında yasalaşan düzenleme, \"terör\" suçlamasıyla askeri mahkemelerde yargılanan ve ölümcül saldırılardan suçlu bulunan Filistinlilere idam cezası verilmesini öngörüyor. Ancak benzer suçları işleyen İsrail vatandaşları bu kapsamın dışında tutuluyor.",
-    "image": null,
     "keyword": null
   }
 ]
