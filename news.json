@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e8f17389",
+    "title": "Artemis astronotlarla Ay'a gidiyor",
+    "source": "OdaTV",
+    "time": "02/04/2026 02:34",
+    "link": "https://www.odatv.com/guncel/artemis-astronotlarla-aya-gidiyor-120141700",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NASA’nın Artemis II görevi, 53 yıl aradan sonra Ay’a yönelik ilk insanlı uçuş olarak başarıyla fırlatıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/artemis-astronotlarla-aya-gidiyor-etcm.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_448e994a",
     "title": "Traktörün şaftına düşen çocuktan acı haber",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çeşitli derecelerdeki görev sürelerini tamamlayan adli yargı hakimi, cumhuriyet başsavcısı ve savcıları ile idari yargı hakimlerinin isim listelerinden oluşan Hakimler ve Savcılar Kurulu (HSK) kararları, Resmi Gazete'de yayımlandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6398a1c0",
-    "title": "Cihan Şensözlü tahliye oldu",
-    "source": "OdaTV",
-    "time": "02/04/2026 00:54",
-    "link": "https://www.odatv.com/guncel/cihan-sensozlu-tahliye-oldu-120141695",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uyuşturucu soruşturmasında tutuklu bulunan Cihan Şensözlü tahliye edildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/cihan-sensozlu-tahliye-oldu-5ttx.jpg",
     "keyword": null
   }
 ]
