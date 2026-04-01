@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2ccd9647",
+    "title": "TBMM'de gergin anlar... DEM Parti ve İYİ Parti arasında 'Ankaranız batsın' tartışması",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 22:54",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-gergin-anlar-dem-parti-ve-iyi-parti-arasinda-ankaraniz-batsin-tartismasi-2491610",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meclis Genel Kurulu’nda DEM Partili Sırrı Sakık’ın \"Ankaranız batsın\" sözleri üzerine tartışma yaşandı. İYİ Partili Turhan Çömez, \"O lafın altında kendileri batacaktır\" derken, DEM Partili Sezai Temelli, \"Sayın Çömez uzun zamandır yurt dışında kaldığı için Türkçedeki teşbih, mecazi meselelerden uzak kalmış. 'Ankaranız batsın' bir mecazi anlamdır; yoksa Ankara'nın sular altında kalmasına yönelik bir şey değil\" ifadelerini kullandı. İki parti arasında bir başka tartışma da \"başmüzakereci Öcalan\" ifadesi üzerinden yaşandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9d7d4658-26af-49aa-beaf-88c11eed700b.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_04be14f3",
     "title": "Sarunas Jasikevicius'tan mağlubiyet açıklaması: 'Kötü başlayınca dönmek çok kolay değil'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk Hava Yolları THY, Romanya'da Bükreş, Kaloşvar ve Köstence'nin ardından Temeşvar'a sefer başlattı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_fa7dd39d",
-    "title": "Trabzon turizmi için kritik çalıştay: 9 başlık masaya yatırılacak",
-    "source": "Karadeniz Gazetesi",
-    "time": "01/04/2026 21:34",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzon-turizmi-icin-kritik-calistay-9-baslik-masaya-yatirilacak/607485",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediyesi, 4-5 Nisan’da Turizm Master Planı Çalıştayı düzenliyor. 150 uzmanın katılacağı toplantıda turizm 9 başlıkta ele alınacak.",
     "image": null,
     "keyword": null
   }
