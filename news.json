@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_54f523a1",
+    "title": "Reuters/Ipsos anketi: Amerikalıların çoğu İran’a saldırıların durmasını istiyor",
+    "source": "Evrensel",
+    "time": "01/04/2026 13:14",
+    "link": "https://www.evrensel.net/haber/5977710/reutersipsos-anketi-amerikalilarin-cogu-irana-saldirilarin-durmasini-istiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Reuters/Ipsos anketine göre ABD’de katılımcıların yüzde 66’sı İran savaşının hedefler tamamlanmasa bile sona ermesini isterken, yüzde 60’ı ABD’nin saldırılarını onaylamadığını belirtti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341121.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_82d6f32f",
     "title": "“Taş ve Tüy” uluslararası prömiyerini Jeonju Film Festivali’nde yapıyor",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "WSJ gazetesi, BAE’nin, Hürmüz Boğazı’nın “zorla” açılması için ABD ve İsrail’in İran’a karşı savaşına dahil olmaya hazırlandığını iddia etti. Gazeteye göre Körfez ülkeleri, İran’ın stratejik adalarının da “işgali”ni istiyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/337899.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_90871f27",
-    "title": "Trabzon’da simit fiyatı 12,5 TL’den 15 TL’ye yükseldi",
-    "source": "Haber61",
-    "time": "01/04/2026 12:54",
-    "link": "https://www.haber61.net/trabzon/trabzonda-simit-fiyati-125-tlden-15-tlye-yukseldi-h628274.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da simit fiyatına zam yapıldı. Bugün itibarıyla yürürlüğe giren yeni tarifeyle simit 15 TL’den satılmaya başlandı.",
-    "image": "https://resim.haber61.net/news/610335.jpg",
-    "keyword": "trabzon"
   }
 ]
