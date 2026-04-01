@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce29c2d7",
+    "title": "Yağış sonrası Haliç'in rengi değişti!",
+    "source": "Habertürk",
+    "time": "01/04/2026 18:14",
+    "link": "https://www.haberturk.com/yagis-sonrasi-halic-in-rengi-degisti-3873767",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da aralıksız yağan yağmur sonrası dereler ve kanalizasyondan gelen çamurlu sular Haliç'i ve boğazın bir bölümünü kahverengiye bürüdü. Haliç'teki renk değişimi havadan görüntülendi",
+    "image": "https://im.haberturk.com/l/2026/03/31/ver1774966509/3873767/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2b60ec3f",
     "title": "Bugün ne oldu? 31 Mart 2026'nın haberleri",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AB, resmi yazışmalarda yapay zeka görsel kullanımını yasakladı 01.04.2026 DikenAvrupa Birliği (AB), Komisyon, Konsey ve Parlamento kurumlarında çalışanlarına resmi yazışmalarda yapay zeka görsel kullanımını yasakladı.\nThe post AB, resmi yazışmalarda yapay zeka görsel kullanımını yasakladı appeared first on #site_linkat 01.04.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_34b54260",
-    "title": "Üzerinden bir yıl geçen Çanakkale Su Zirvesi “Sonuç”suz: Maden karşıtı rapor sümen altı mı edildi?",
-    "source": "Evrensel",
-    "time": "01/04/2026 17:34",
-    "link": "https://www.evrensel.net/haber/5977754/uzerinden-bir-yil-gecen-canakkale-su-zirvesi-sonucsuz-maden-karsiti-rapor-sumen-alti-mi-edildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çanakkale Su Zirvesi’nin üzerinden bir yıl geçmesine rağmen sonuç bildirgesi açıklanmazken, Atikhisar Barajı havzasında madenciliğe izin verilmemesi yönündeki raporun gizlendiği iddia edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341175.jpg",
     "keyword": null
   }
 ]
