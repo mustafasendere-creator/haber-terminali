@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_51bbc60c",
+    "title": "İnternet tuzağı: 2 kişiye hapis",
+    "source": "OdaTV",
+    "time": "01/04/2026 18:15",
+    "link": "https://www.odatv.com/guncel/internet-tuzagi-2-kisiye-hapis-120141670",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İnternette sahte kombi ilanıyla 18 bin lira dolandırılan vatandaşın şikâyeti üzerine yakalanan 2 sanık, 3 yıl 4’er ay hapis ve 30’ar bin lira adli para cezasına çarptırıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/internet-tuzagi-2-kisiye-hapis-fepm.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_006a6317",
     "title": "Denizbank Uluslararası İstanbul Çocul ve Gençlik Sanat Bienali başladı",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Hakimler ve Savcılar Kurulunca HSK, 11 hakim ve savcının görev yeri değiştirildi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_da6bc5b8",
-    "title": "Ünlü kent bilimci Prof. Dr. Ruşen Keleş, Trabzon Günleri’nde",
-    "source": "Haber61",
-    "time": "01/04/2026 17:34",
-    "link": "https://www.haber61.net/trabzon/unlu-kent-bilimci-prof-dr-rusen-keles-trabzon-gunlerinde-h628310.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara’da düzenlenecek Trabzon Günleri’nde Prof. Dr. Ruşen Keleş, şehircilik ve kentleşme üzerine değerlendirmelerde bulunacak. Program 9–12 Nisan tarihlerinde gerçekleştirilecek.",
-    "image": "https://resim.haber61.net/news/610395.jpg",
-    "keyword": "trabzon"
   }
 ]
