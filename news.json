@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f4fcf240",
+    "title": "Bakanlıktan yağış uyarısı",
+    "source": "OdaTV",
+    "time": "01/04/2026 21:15",
+    "link": "https://www.odatv.com/guncel/bakanliktan-yagis-uyarisi-120141677",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, Meteoroloji Genel Müdürlüğü verilerine göre 2 Nisan Perşembe günü çok sayıda ilde kuvvetli yağış ve fırtına beklendiğini bildirdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/bakanliktan-yagis-uyarisi-nelj.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e384ef05",
     "title": "Murat Övüç gözyaşlarıyla tahliye oldu",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'da yollar kırmızıya döndü",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/12/aa202512254007725740077255istanbuldaaksamsaatlerindetrafikyogunluguyuzde90aciktijpg-RXXjfpikC0av6RTqCzurCg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_87159be8",
-    "title": "Apple, büyük teknoloji şirketleri arasındaki yerini kalıcı hale getiriyor",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 20:14",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-buyuk-teknoloji-sirketleri-arasindaki-yerini-kalici-hale-getiriyor-2491585",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Apple, 50 yıllık tarihinde teknoloji dünyasını şekillendiren pek çok yeniliğe imza atarken, 3,6 trilyon dolarlık piyasa değerine ulaşarak küresel ligdeki ağırlığını koruyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e894fec6-e551-450b-a651-1e3006ce08e8.jpg",
     "keyword": null
   }
 ]
