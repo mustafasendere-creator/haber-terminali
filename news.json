@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8af7899d",
+    "title": "İran’dan Bulgaristan’a 'ABD' uyarısı: 'Havaalanları kullandırılmamalı'",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 17:34",
+    "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-bulgaristan-a-abd-uyarisi-havaalanlari-kullandirilmamali-2491548",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, NATO üyesi Bulgaristan’a diplomatik nota vererek ABD’ye ait askeri uçakların Bulgaristan havaalanlarını kullanmaması yönünde uyarıda bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/dca8c1c3-ab86-4014-9f3b-580f0f375a43.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fed6f66b",
     "title": "Dev bankadan altın için bomba tahmin: Haziran ayında bu rakamı görebilir",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Esenyurt’taki Harmancı Etiket fabrikasında yük asansörüne sıkışarak yaşamını yitiren işçi Mehmet Kaymaz için fabrika önünde açıklama yapan DİSK'e bağlı sendikalar, cezasızlık politikalarının iş cinayetlerini büyüttüğünü vurguladı",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341183.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b968a6c7",
-    "title": "ABD Başkanı Trump: İran, az önce ateşkes talep etti",
-    "source": "Evrensel",
-    "time": "01/04/2026 16:54",
-    "link": "https://www.evrensel.net/haber/5977755/abd-baskani-trump-iran-az-once-ateskes-talep-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, “İran’daki yeni yönetimin Washington’dan ateşkes talep ettiğini” öne sürdü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339488.jpg",
     "keyword": null
   }
 ]
