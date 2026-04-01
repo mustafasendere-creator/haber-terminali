@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0b33f157",
+    "title": "İsrail ordusu: Asker açığı nedeniyle mevcut durum sürdürülemez, daha fazla asker için yasa gerekiyor",
+    "source": "TRT Haber",
+    "time": "01/04/2026 16:54",
+    "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-asker-acigi-nedeniyle-mevcut-durum-surdurulemez-daha-fazla-asker-icin-yasa-gerekiyor-939917.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, asker sayısındaki yetersizlik nedeniyle durumun sürdürülemez hale geldiğini ve daha fazla askerin silah altına alınmasına imkan tanıyacak bir yasal düzenleme yapılması gerektiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_80dfd0e7",
     "title": "Trafikte beyzbol sopasıyla tehdit eden sürücüye 180 bin lira ceza",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Cem Yılmaz, merakla beklenen G.O.R.A. 4 filmiyle ilgili yeni gelişmeleri paylaştı. Ünlü komedyen, sosyal medya hesabından yaptığı açıklamayla Okan Çabalar ve Ayumi Takano’nun da filmin oyuncu kadrosuna dahil olduğunu duyurdu.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/gora-4-kadrosunda-surpriz-isimler-lanw.jpg",
     "keyword": "taka"
-  },
-  {
-    "id": "GND_4fad574c",
-    "title": "“Yaşamımızı ortaya koyduk, meslektaşlarımızı kaybettik”: Sağlık emekçileri pandemiyi andı",
-    "source": "Evrensel",
-    "time": "01/04/2026 16:14",
-    "link": "https://www.evrensel.net/haber/5977747/yasamimizi-ortaya-koyduk-meslektaslarimizi-kaybettik-saglik-emekcileri-pandemiyi-andi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eskişehir-Bilecik Tabip Odası öncülüğünde, pandemi sürecinde hayatını kaybeden sağlık emekçileri için anma töreni düzenlendi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341165.jpg",
-    "keyword": null
   }
 ]
