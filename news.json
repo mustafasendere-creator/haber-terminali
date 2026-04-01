@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c984ff86",
+    "title": "DEM Parti ve CHP'den kayyımlara karşı ortak açıklama",
+    "source": "Evrensel",
+    "time": "01/04/2026 21:34",
+    "link": "https://www.evrensel.net/haber/5977793/dem-parti-ve-chpden-kayyimlara-karsi-ortak-aciklama",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Esenyurt’ta DEM Parti ve CHP kayyıma karşı yaptıkları ortak açıklamada, \"Her meydanda, her alanda halkımızla beraber olduğumuzu belirtmek istiyoruz\" dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341222.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_233a2687",
     "title": "Papara Park’ta Dev Randevu! Trabzonspor Zirveyi Sarsmaya Hazır",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AFAD tarafından yapılan açıklamaya göre, Akdeniz'de 4.7 büyüklüğünde deprem meydana geldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_a2f0f770",
-    "title": "Euroleague'de mart ayının MVP'si Carlik Jones oldu",
-    "source": "Haber Global",
-    "time": "01/04/2026 20:34",
-    "link": "https://haberglobal.com/spor/euroleaguede-mart-ayinin-mvpsi-carlik-jones-oldu-516551",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Euroleague'de mart ayının en değerli oyuncusu (MVP), Sırbistan ekibi Partizan'ın skoreri Carlik Jones oldu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/euroleaguede-mart-ayinin-mvpsi-carlik-jones-oldu-kuwc.jpg",
     "keyword": null
   }
 ]
