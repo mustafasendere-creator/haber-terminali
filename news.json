@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_abf750d7",
+    "title": "Bodrum açıklarında göçmen faciası: 11 kişi hayatını kaybetti",
+    "source": "Haber61",
+    "time": "01/04/2026 09:53",
+    "link": "https://www.haber61.net/sehirler/bodrum-aciklarinda-gocmen-faciasi-11-kisi-hayatini-kaybetti-h628251.html",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Muğla’nın Bodrum ilçesi açıklarında kaçak göçmenleri taşıyan lastik bot battı. Olayda 11 kişinin cansız bedenine ulaşılırken, 21 kişi sağ olarak kurtarıldı.",
+    "image": "https://resim.haber61.net/news/610294.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_a3cf9dd5",
     "title": "Trabzon’da elektrik kesintisi! İlçe ilçe saatler açıklandı",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kuveyt Sivil Havacılık Genel Kurumu, İrana ait insansız hava araçlarının İHA Kuveyt Uluslararası Havalimanı'ndaki yakıt tanklarını hedef aldığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_087ed460",
-    "title": "İşgalci İsrail ordusu Beyrut'un Dahiye bölgesine bir hava saldırısı düzenledi",
-    "source": "TRT Haber",
-    "time": "01/04/2026 08:55",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-beyrutun-dahiye-bolgesine-bir-hava-saldirisi-duzenledi-939874.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu Lübnan'ın başkenti Beyrut'un Dahiye bölgesini hedef aldı.",
     "image": null,
     "keyword": null
   }
