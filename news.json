@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_35e6e4f9",
+    "title": "Son depremler listesi",
+    "source": "Habertürk",
+    "time": "01/04/2026 07:35",
+    "link": "https://www.haberturk.com/son-depremler-listesi-1-nisan-carsamba-biraz-once-deprem-mi-oldu-nerede-ve-kac-buyuklugunde-afad-ve-kandilli-son-dakika-depremleri-3873316",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye’de deprem hareketliliği yakından takip edilirken, AFAD ve Kandilli Rasathanesi tarafından paylaşılan son veriler vatandaşların gündeminde yer alıyor. 1 Nisan Çarşamba günü meydana gelen depremler anlık olarak güncellenirken, birçok kişi bulunduğu bölgede sarsıntı olup olmadığını öğrenmek için son depremler listesini kontrol ediyor. Peki, deprem mi oldu, nerede ve kaç büyüklüğünde? İşte 1 Nisan Çarşamba AFAD ve Kandilli son depremler listesi...",
+    "image": "https://im.haberturk.com/l/2026/03/30/ver1774905408/3873316/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_134da148",
     "title": "Ortadoğu’da karşılıklı bağımlılık üreten maddi altyapılar: Enerji, su, gıda ve ticaret koridorlarının entegrasyon mantığı (2)",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye 24 yıl sonra Dünya Kupası'nda! Rakipleri ve maç tarihleri belli oldu",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/depophotos19048018jpg-YQR6iy3XTEGYlXDnZvQCtg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1afe35a9",
-    "title": "ADD’den Yalçın’ın ‘narkoz’ sözüne tepki",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 05:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/add-den-yalcin-in-narkoz-sozune-tepki-2491312",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Memur-Sen Genel Başkanı Ali Yalçın’ın “Türkiye 100 yıllık narkozdan çıkıyor” sözlerine ADD Samsun Şubesi tepki gösterdi. Açıklamada Cumhuriyet’in bağımsızlık mücadelesinin en büyük kazanımı olduğu vurgulandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b9d27e48-b982-4059-b2bc-1f032377a0e8.jpg",
     "keyword": null
   }
 ]
