@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_431ebd2d",
+    "title": "Erdoğan, Mesut Özarslan'a AKP rozetini bugün de takmadı",
+    "source": "Evrensel",
+    "time": "01/04/2026 22:33",
+    "link": "https://www.evrensel.net/haber/5977730/erdogan-mesut-ozarslana-akp-rozetini-bugun-de-takmadi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'den istifa eden ve AKP'ye geçmesi beklenen Keçiören Belediye Başkanı Mesut Özarslan'a bugünkü Meclis grup toplantısında da rozet takılmadı. CHP Genel Başkanı Özgür Özel, \"Alın da göreyim\" demişti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/333019.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bb5568db",
     "title": "Colani’nin İngiltere ziyareti: Sınır güvenliği uzlaşması",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanı Mustafa Çiftçi, trafikteki can kayıplarının yürekleri yaraladığına işaret ederek, \"Biz insanımızı hem uyuşturucuya hem de trafik kazalarına kurban vermek istemiyoruz.\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_a5b760d0",
-    "title": "AFAD son dakika duyurdu: Meydana gelen deprem paniğe yol açtı",
-    "source": "Haber61",
-    "time": "01/04/2026 21:33",
-    "link": "https://www.haber61.net/gundem/afad-son-dakika-duyurdumeydana-gelen-deprem-panige-yol-acti-h628322.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "AFAD verilerine göre Akdeniz’de 4.7 büyüklüğünde bir deprem meydana geldi. Sarsıntı bölgedeki yerleşim yerlerinde hissedilirken derinlik ve merkez üssü bilgileri paylaşıldı.",
-    "image": "https://resim.haber61.net/news/610417.jpg",
     "keyword": null
   }
 ]
