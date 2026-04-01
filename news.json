@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bf10bc5c",
+    "title": "BAE: İrandan fırlatılan füze ve İHAlar nedeniyle hava savunma sistemleri devreye girdi",
+    "source": "TRT Haber",
+    "time": "01/04/2026 21:54",
+    "link": "https://www.trthaber.com/haber/dunya/bae-irandan-firlatilan-fuze-ve-ihalar-nedeniyle-hava-savunma-sistemleri-devreye-girdi-939985.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri BAE, İrandan fırlatılan füze ve insansız hava araçları İHA nedeniyle hava savunma sistemlerinin devreye girdiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5afc9cc6",
     "title": "Türkiye, Ufuk Avrupa Programı'na ilişkin süreci yakından takip ediyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gazeteci Alican Uludağ hakkında hazırlanan iddianame yetkisizlik kararıyla Ankara’ya gönderilirken, 23 yıla kadar hapis istemi dikkat çekti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/30/gazeteci-alican-uludag-hakkinda-iddianame-duzenlendi-buio.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_71660e86",
-    "title": "ÜNLÜ & Co, Tüpraş işleminde müşterek global koordinatör oldu",
-    "source": "Ekonomim",
-    "time": "01/04/2026 20:54",
-    "link": "https://www.ekonomim.com/ekonomi/unlu-co-tupras-isleminde-musterek-global-koordinator-oldu-haberi-885469",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ÜNLÜ Menkul Değerler, Koç Holding’in yaklaşık 210 milyon dolar değerindeki Tüpraş pay satışı işleminde Citigroup ve Merrill Lynch ile birlikte global koordinatör olarak görev alacak.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/unlu-co-tupras-isleminde-musterek-global-koordinator-oldu-yuvb_cover.jpg",
     "keyword": null
   }
 ]
