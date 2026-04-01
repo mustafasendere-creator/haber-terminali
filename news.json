@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_353f9e29",
+    "title": "Trabzon'da ölü yunus sahile vurdu",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 16:35",
+    "link": "https://www.cumhuriyet.com.tr/cevre/trabzon-da-olu-yunus-sahile-vurdu-2491519",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trabzon’un Sürmene ilçesinde sahile vuran yaklaşık bir metre uzunluğundaki ölü yunus, vatandaşlar arasında üzüntüye neden oldu. İlk incelemelerde vücudunda herhangi bir yara izine rastlanmayan yunus, Su Ürünleri Merkez Araştırma Enstitüsü ekiplerince sahilden kaldırıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/16725634-f222-45ec-b936-fa81a8a27bef.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_20a26f7d",
     "title": "Zafer Partisi lideri Ümit Özdağ'dan ittifak sinyali",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kocaeli'nde sabah işe gitmek için kullandığı TIR’ının yanına giden Çetin Kaya, aracın altına gizlenen husumetli olduğu ağabeyi S.K. tarafından tabanca ile vurularak öldürüldü.",
     "image": "https://media.cumhuriyet.com.tr/Archive/e28d1285-b859-4a14-8364-6e2273a80284.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7c72c3aa",
-    "title": "Gökhan Günaydın'dan Sözcü ve Yılmaz Özdil'e ağır sözler: 'Bu A Haber kafasıyla devam edin...'",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 15:54",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/gokhan-gunaydin-dan-sozcu-ve-yilmaz-ozdil-e-agir-sozler-bu-a-haber-kafasiyla-devam-edin-2491489",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Grup Başkanvekili Gökhan Günaydın, Sözcü Medya Grubu Başkanı Yılmaz Özdil'e son dönemdeki yayın çizgileri nedeniyle tepki göstererek \"A Haber kafasıyla devam edebilirsiniz. Ama heralde izleyici, dinleyici bunların notunu veriyordur\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1a6d2904-95e1-49b6-99b3-4e938a8e3ad1.jpg",
     "keyword": null
   }
 ]
