@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cfc1c56f",
+    "title": "Cumhurbaşkanı Erdoğan, TBMM Başkanı Kurtulmuş ile görüştü",
+    "source": "TRT Haber",
+    "time": "01/04/2026 15:34",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-tbmm-baskani-kurtulmus-ile-gorustu-939942.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, TBMM Başkanı Numan Kurtulmuş ile bir araya geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fdfa40cf",
     "title": "Rusya: Luhansk bölgesinin tamamını kontrol altına aldık",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran dini lideri Ayetullah Mücteba Hüseyni Hamaney, yayımladığı son mesajında İran'ın Lübnan'da Hizbullah'ı desteklemeye devam edeceğini bildirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/iranin-dini-lideri-hamaneyden-yeni-mesaj-hizbullaha-destegimiz-surecek-jnsg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad2aabc3",
-    "title": "Beşiktaş, Fenerbahçe derbisinin hazırlıklarını sürdürdü",
-    "source": "Haber Global",
-    "time": "01/04/2026 14:54",
-    "link": "https://haberglobal.com/spor/besiktas-fenerbahce-derbisinin-hazirliklarini-surdurdu-516498",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig'in 28. haftasında 5 Nisan Pazar günü Fenerbahçe'ye konuk olacak Beşiktaş, derbinin hazırlıklarını sürdürdü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/besiktas-fenerbahce-derbisinin-hazirliklarini-surdurdu-rkbh.jpg",
     "keyword": null
   }
 ]
