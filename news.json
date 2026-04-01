@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fb56934f",
+    "title": "Beton bariyere çarpan moto kurye hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "01/04/2026 03:14",
+    "link": "https://www.evrensel.net/haber/5977647/beton-bariyere-carpan-moto-kurye-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gebze'de, çökme nedeniyle yolu trafiğe kapatmak için konulan beton bariyere çarpan moto kurye Hüseyin Burak Kılıç hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341073.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2bcd95d9",
     "title": "Kıbrıs'taki kliniklerde yanlış sperm ve yumurtalardan çocuğu olanlar anlatıyor: 'Danimarka'dan geldi sandık'",
     "source": "BBC Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"5G'yi Türkiye'de aşamalı bir stratejiyle yaygınlaştıracağız. 5G hizmetlerini iki yıl içerisinde ülkemizin her bir noktasında vatandaşlarımızın hizmetine sunacağız.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ddad5fac",
-    "title": "A Milli Futbol Takımımızın Dünya Kupası fikstürü",
-    "source": "TRT Haber",
-    "time": "01/04/2026 01:34",
-    "link": "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimizin-dunya-kupasi-fiksturu-939856.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Futbol Takımı, FIFA Dünya Kupası'nda D Grubu'nda ABD, Paraguay ve Avustralya ile oynayacak. İşte milli takımın maç fikstürü...",
     "image": null,
     "keyword": null
   }
