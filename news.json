@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1afa2116",
+    "title": "16 il için sarı kodlu uyarı: Sağanak bekleniyor",
+    "source": "TRT Haber",
+    "time": "01/04/2026 17:54",
+    "link": "https://www.trthaber.com/haber/turkiye/16-il-icin-sari-kodlu-uyari-saganak-bekleniyor-939961.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, yarın 16 ilde beklenen gök gürültülü sağanak için \"sarı\" kodlu meteorolojik uyarıda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_3c233c84",
     "title": "Yomra Belediyesi Sancak Mahallesi’ndeki taşınmazı satışa çıkarıyor",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Sürmene ilçesinde kıyıya vuran yunusun ölü olduğu belirlendi. Olayla ilgili ekipler bölgede inceleme yaptı.",
     "image": "https://resim.haber61.net/news/610387.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_69942551",
-    "title": "Okulda faciadan dönüldü: Bir anda yere düştü, 3 öğrenci yaralandı",
-    "source": "OdaTV",
-    "time": "01/04/2026 16:55",
-    "link": "https://www.odatv.com/guncel/okulda-faciadan-donuldu-bir-anda-yere-dustu-3-ogrenci-yaralandi-120141654",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa&#039;nın Akhisar ilçesinde bir ilkokulun tavan sıvasının düşmesi sonucu yaralanan 3 öğrenci, hastanedeki tedavilerinin ardından taburcu edildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/okulda-faciadan-donuldu-bir-anda-yere-dustu-3-ogrenci-yaralandi-dsb6.jpg",
-    "keyword": null
   }
 ]
