@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_58523fa0",
+    "title": "Karşıyaka'da uzun gün: Aday çekildi, takım boykot yaptı, başkan kızdı",
+    "source": "Evrensel",
+    "time": "01/04/2026 14:54",
+    "link": "https://www.evrensel.net/haber/5977731/karsiyakada-uzun-gun-aday-cekildi-takim-boykot-yapti-baskan-kizdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karşıyaka Spor Kulübünde aynı gün içinde dikkat çeken gelişmeler yaşandı. Olağanüstü kongre öncesi İsmail Çiftçioğlu adaylıktan çekildi, basketbol takımı maaşları ödenmediği için antrenmana çıkmadı, kulüp başkanı hedef gösteren bir açıklama yaptı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341147.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6cd58302",
     "title": "Oy sayımı tartışması: Zonguldak İl Genel Kurulu seçiminde gerginlik çıktı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "ABD Başkanı Trump’ın 400 milyon dolarlık balo salonu planı, gerekli yasal süreçler tamamlanmadığı gerekçesiyle federal mahkeme kararıyla durduruldu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/322737.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_a2d4d86d",
-    "title": "Trabzon’da 7 dernekten güç birliği: Ortak platform genişledi",
-    "source": "Haber61",
-    "time": "01/04/2026 14:14",
-    "link": "https://www.haber61.net/trabzon/trabzonda-7-dernekten-guc-birligi-ortak-platform-genisledi-h628287.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da hemşehri derneklerinin oluşturduğu platforma 3 yeni dernek daha katıldı. Toplam 7 dernek, ortak sorunlara birlikte çözüm üretmek için güç birliği yaptı.",
-    "image": "https://resim.haber61.net/news/610357.jpg",
-    "keyword": "trabzon"
   }
 ]
