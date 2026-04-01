@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d1230026",
+    "title": "İsrail, Hamursuz Bayramı bahanesiyle El Halil'de bazı mahallelerde sokağa çıkma yasağı uyguluyor",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 23:13",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-hamursuz-bayrami-bahanesiyle-el-halilde-bazi-mahallelerde-sokaga-cikma-yasagi-uyguluyor/3888619",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Yahudilerce kutsal sayılan Hamursuz (Pesah) Bayramı'nı bahane ederek işgal altındaki Batı Şeria'nın güneyindeki El Halil kentinin merkezinde yer alan bazı mahallelerde sokağa çıkma yasağı ilan etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_11d2dbeb",
     "title": "Pezeşkiyan'dan ABD halkına açık mektup: Öncelik listesinde gerçekten bu mu var?",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "NASA yarım yüzyılı aşkın bir süre sonra ilk defa astronotlarını Ay'a göndermeye hazırlanıyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/nasada-tarihi-geri-sayim-yarim-asir-sonra-yeniden-aya-yolculuk-1qrm.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6073f9dd",
-    "title": "Fenerbahçe maçı ne zaman, saat kaçta hangi kanalda?",
-    "source": "Haber Global",
-    "time": "01/04/2026 21:34",
-    "link": "https://haberglobal.com/spor/fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-516517",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe'nin maç takvimi belli oldu. Milli aranın bitmesiyle beraber Avrupa'da ve Süper Lig'de heyecan kaldığı yerden devam ediyor. İşte sarı lacivertlilerin oynayacağı maçların programı...",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-t3kn.jpg",
     "keyword": null
   }
 ]
