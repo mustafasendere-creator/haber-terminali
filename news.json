@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7eb7d1e1",
+    "title": "Kastamonu'da acı kaza",
+    "source": "OdaTV",
+    "time": "01/04/2026 03:34",
+    "link": "https://www.odatv.com/guncel/kastamonuda-aci-kaza-120141551",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu&#039;da sürücüsünün direksiyon başında fenalaştığı hafriyat kamyonu şarampole devrildi. Kazada yaralanan sürücü hastaneye kaldırıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/kastamonuda-aci-kaza-bvly.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_036a4226",
     "title": "Savaş arasında dijital milat",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "\"Suç örgütü\" ve \"kara para aklama\" suçlamalarıyla tutuklu olan Can Holding Yönetim Kurulu Başkanı Kenan Tekdağ hakkında tahliye kararı verildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/03/31/kenan-tekdag-hakkinda-tahliye-karari-jmia.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3e457561",
-    "title": "Milli yıldız Arda Güler'den Dünya Kupası yorumu: Bize de nasip oldu",
-    "source": "Haber Global",
-    "time": "01/04/2026 01:54",
-    "link": "https://haberglobal.com/spor/milli-yildiz-arda-gulerden-dunya-kupasi-yorumu-bize-de-nasip-oldu-516378",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kosova'yı 1-0 mağlup ederek Dünya Kupası'na katılmaya hak kazanan A Milli Futbol Takımımızın genç yıldızı Arda Güler maç sonunda açıklamalarda bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/milli-yildiz-arda-gulerden-dunya-kupasi-yorumu-bize-de-nasip-oldu-w8ih.jpg",
     "keyword": null
   }
 ]
