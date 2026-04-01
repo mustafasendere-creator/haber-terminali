@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dfa4ccd9",
+    "title": "Romanya'da, Orta Doğu'daki gelişmeler nedeniyle petrol piyasasında \"kriz durumu\" ilan edildi",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 16:53",
+    "link": "https://www.aa.com.tr/tr/guncel/romanyada-orta-dogudaki-gelismeler-nedeniyle-petrol-piyasasinda-kriz-durumu-ilan-edildi/3888311",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Romanya'da, ABD ve İsrail'in İran'a yönelik başlattığı saldırılar ve karşılıklı saldırılarla devam eden bölgesel gerilim sonucu yükselen petrol fiyatları sonrası petrol ürünleri piyasasında \"kriz durumu\" ilan edildiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7ff05e74",
     "title": "Almanya'da akaryakıttaki yeni düzenlemenin ilk gününde fiyatlar yükseldi",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Siirt'te geçen yıl iki çocuk annesi kadının lojmanda bıçaklanarak öldürülmesine ilişkin tutuklanan komşu çift hakkında ağırlaştırılmış müebbet ile 10'ar yıldan 15'er yıla kadar hapis cezası istemiyle dava açıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f64e2b67",
-    "title": "AK Parti MYK toplandı",
-    "source": "Anadolu Ajansı",
-    "time": "01/04/2026 16:13",
-    "link": "https://www.aa.com.tr/tr/guncel/ak-parti-myk-toplandi/3888287",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AK Parti Merkez Yürütme Kurulu (MYK), Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
     "image": null,
     "keyword": null
   }
