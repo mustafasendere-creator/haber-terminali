@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c9b0419a",
+    "title": "Kırım'da Rus askeri uçağı düştü: 29 kişi hayatını kaybetti",
+    "source": "Euronews",
+    "time": "01/04/2026 23:13",
+    "link": "http://tr.euronews.com/2026/04/01/kirimda-rus-askeri-ucagi-dustu-29-kisi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "An-26 tipi askeri nakliye uçağı, salı günü Rusya'nın 2014 yılında Ukrayna'dan ilhak ettiği Kırım Yarımadası üzerinde seyir halindeyken radardan kaybolmuştu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_703a542d",
     "title": "Trabzon’da barajlar tam kapasiteye ulaştı!",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sakarya’da ehliyetsiz ve 18 yaşından küçük olan oğluna trafik cezası uygulayan polis memurunu yumruk atarak yaralayan baba, çıkarıldığı mahkemece tutuklandı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/ehliyetsiz-ogluna-ceza-yazildi-diye-polise-yumruk-atti-n0pr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1b180248",
-    "title": "IEA, IMF ve Dünya Bankası'ndan koordinasyon grubu kurma kararı",
-    "source": "Ekonomim",
-    "time": "01/04/2026 21:35",
-    "link": "https://www.ekonomim.com/ekonomi/iea-imf-ve-dunya-bankasindan-koordinasyon-grubu-kurma-karari-haberi-885480",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Enerji Ajansı (IEA), Uluslararası Para Fonu (IMF) ve Dünya Bankası Grubu, Orta Doğu&#039;daki savaşın küresel enerji ve ekonomi üzerindeki olumsuz etkilerini yönetmek amacıyla ortak bir koordinasyon grubu kurma kararı aldı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/iea-imf-ve-dunya-bankasindan-koordinasyon-grubu-kurma-karari-qyg8_cover.jpg",
     "keyword": null
   }
 ]
