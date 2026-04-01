@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9cb01669",
+    "title": "Sabiha Gökçen, ocak -şubat ayında Avrupa’nın en güçlü performans gösteren havalimanı oldu",
+    "source": "Ekonomim",
+    "time": "01/04/2026 14:55",
+    "link": "https://www.ekonomim.com/havacilik/sabiha-gokcen-ocak-subat-ayinda-avrupanin-en-guclu-performans-gosteren-havalimani-oldu-haberi-885411",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Sabiha Gökçen Uluslararası Havalimanı, küresel havacılık sektöründeki yükselişini rekor tazeleyerek sürdürüyor. Avrupa Uluslararası Havalimanları Konseyi’nin (ACI Europe) 2026 yılı şubat ayı trafik verilerine göre ISG, geçen yıla kıyasla kıtanın en güçlü büyüme performanslarından birine imza attı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/sabiha-gokcen-ocak-subat-ayinda-avrupanin-en-guclu-performans-gosteren-havalimani-oldu-kx38_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_851daf0d",
     "title": "Ankara Valiliği'nden 'kuvvetli sağanak' uyarısı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye’de 1 Nisan itibarıyla 5G teknolojisine geçiş yapılacak olması, iPhone kullanıcılarını cihazlarının bu altyapıyı destekleyip desteklemediğini araştırmaya yöneltti. Apple’ın iPhone telefon modellerinde hangi serinin 5G ile uyumlu olduğu belli oldu. Peki, iPhone 11 5G destekliyor mu, 5G’ye nasıl geçilir? İşte 5G destekli iPhone telefon modelleri...",
     "image": "https://im.haberturk.com/l/2026/03/31/ver1774968324/3873784/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_b8d94d6a",
-    "title": "Meteoroloji'den yeni yağışlı sistem uyarısı",
-    "source": "Habertürk",
-    "time": "01/04/2026 14:15",
-    "link": "https://www.haberturk.com/son-dakika-meteoroloji-den-yeni-yagisli-sistem-uyarisi-batidan-baslayarak-yayilacak-1-nisan-hava-durumu-3873881",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji'den yapılan hava durumu tahminlerine göre; Türkiye yeni yağışlı sistemin etkisi altına giriyor. Sağanak yağmur; Marmara, Ege ve Batı Akdeniz'den başlayarak tüm ülkeye yayılacak. Batı Akdeniz'in batı kıyıları ile Ege kıyılarında toz taşınımı bekleniyor. Hava sıcaklıkları ise bugün mevsim normalleri üzerinde seyredecek.",
-    "image": "https://im.haberturk.com/l/2026/04/01/ver1775017209/3873881/jpg/1280x1280",
     "keyword": null
   }
 ]
