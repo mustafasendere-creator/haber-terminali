@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_01722088",
+    "title": "Haber61 ulaşım zammını vatandaşa sordu: “Petrole zam gelince artıyor, düşünce niye düşmüyor?”",
+    "source": "Haber61",
+    "time": "01/04/2026 23:53",
+    "link": "https://www.haber61.net/trabzon/haber61-ulasim-zammini-vatandasa-sordu-petrole-zam-gelince-artiyor-dusunce-h628313.html",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trabzon’da 1 Nisan itibarıyla ulaşım zamları yürürlüğe girdi. Haber61 mikrofonuna konuşan vatandaşlar artışlara tepki gösterdi.",
+    "image": "https://resim.haber61.net/news/610402.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_a7f777ca",
     "title": "Trabzon'da kahreden olay: 6 yaşındaki çocuk 8. kattan düştü",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Lübnan'daki Hizbullah'ın İsrail'in merkezine yönelik roket ve insansız hava aracı (İHA) saldırıları sonrası başta başkent Tel Aviv olmak üzere İsrail'in birçok kentinde ön uyarı alarmları gelmeden çalan sirenler paniğe yol açtı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d31dde70",
-    "title": "Suriye'nin başkenti Şam’da İsrail’in Filistinlilere yönelik idam cezası yasası protesto edildi",
-    "source": "Anadolu Ajansı",
-    "time": "01/04/2026 22:33",
-    "link": "https://www.aa.com.tr/tr/guncel/suriyenin-baskenti-sam-da-israil-in-filistinlilere-yonelik-idam-cezasi-yasasi-protesto-edildi/3888606",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suriye’nin başkenti Şam’da, İsrail Meclisinin onayladığı, Filistinlileri hedef alan tartışmalı idam yasasının iptal edilmesi talebiyle gösteri yapıldı.",
     "image": null,
     "keyword": null
   }
