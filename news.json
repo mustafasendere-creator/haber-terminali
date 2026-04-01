@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_86f18051",
+    "title": "Ege için sarı kod uyarısı: Kuvvetli sağanak geliyor",
+    "source": "Evrensel",
+    "time": "01/04/2026 04:14",
+    "link": "https://www.evrensel.net/haber/5977578/ege-icin-sari-kod-uyarisi-kuvvetli-saganak-geliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji, İzmir, Aydın, Muğla ve Denizli için kuvvetli sağanak ve fırtına uyarısı yaptı. Yağışların yarından itibaren etkili olması bekleniyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340052.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a739df90",
     "title": "RTÜK'ten kablolu ve uydu yayın yönetmeliklerinde değişiklik",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Muğla'da İkizköy Mahalle Muhtarı Nejla Işık, kızı Esra Işık’ın tutuklanmasının ardından vatandaşlara çağrıda bulunarak, “Akbelen tekrar canlandı. Yarın sabahtan itibaren gelebilen herkesi tekrar nöbete çağırıyoruz” dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341072.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_81ef33a7",
-    "title": "Bosnalı futbolculardan İsrail tepkisi",
-    "source": "OdaTV",
-    "time": "01/04/2026 01:55",
-    "link": "https://www.odatv.com/guncel/bosnali-futbolculardan-israil-tepkisi-120141545",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bosna Hersek ile İsrail arasındaki UEFA U21 Avrupa Şampiyonası Eleme Maçı’nda, Boşnak futbolcular İsrailli futbolcuların elini sıkmadı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/bosnali-futbolculardan-israil-tepkisi-cv4y.jpg",
     "keyword": null
   }
 ]
