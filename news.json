@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c8c1079d",
+    "title": "Cami tuvaletinde bir kişi ölü bulundu",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 06:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/cami-tuvaletinde-bir-kisi-olu-bulundu-2491263",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mardin'in Midyat ilçesinde, cami tuvaletinde bir kişinin cesedi bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0f89cef4-956e-4811-889c-db66b20b988e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d2b02c4c",
     "title": "Aile katliamı: 17 yaşındaki çocuk annesini ve ağabeyini öldürdü",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İran savaşını ne zaman bitireceği sorusuna, \"Sanırım iki ya da üç hafta içinde. Sonra oradan çekileceğiz\" diye yanıt verdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a32c8bd2",
-    "title": "Bankalar şubatta 169.4 milyar lira net kâra ulaştı",
-    "source": "Evrensel",
-    "time": "01/04/2026 03:34",
-    "link": "https://www.evrensel.net/haber/5977584/bankalar-subatta-1694-milyar-lira-net-kra-ulasti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şubatta 169 milyar 401 milyon lira net kâra ulaşan bankacılık sektörünün aktif toplamı 2025 yıl sonuna göre 1 trilyon 923 milyar 972 milyon lira arttı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341019.jpg",
     "keyword": null
   }
 ]
