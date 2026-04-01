@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_71dab30f",
+    "title": "Akdeniz'de 4,7 büyüklüğünde deprem",
+    "source": "Ekonomim",
+    "time": "01/04/2026 21:15",
+    "link": "https://www.ekonomim.com/gundem/akdenizde-47-buyuklugunde-deprem-haberi-885470",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akdeniz açıklarında 4,7 büyüklüğünde deprem meydana geldi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/25/canakkale-aciklarinda-51-buyuklugunde-deprem-1imo_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_7bc99828",
     "title": "Trabzonspor’da Gözler Onuachu’da! Derbide Tarih Yazmaya Hazır",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel, A Milli Futbol Takımı'nın 2026 FIFA Dünya Kupası'na katılması nedeniyle Türkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu’nu telefonla tebrik etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6caf8615-c3ac-4f41-880a-546defe57942.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d04e80c0",
-    "title": "Karla buluşan çiğdemler herkesi büyüledi",
-    "source": "Haber Global",
-    "time": "01/04/2026 20:14",
-    "link": "https://haberglobal.com/gundem/karla-bulusan-cigdemler-herkesi-buyuledi-516521",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bitlis'in Tatvan ilçesindeki Güzeldere Vadisi'nde kar altında kalan çiğdemler, ortaya hayranlık uyandıran görüntüler çıkardı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/karla-bulusan-cigdemler-herkesi-buyuledi-mduc.jpg",
     "keyword": null
   }
 ]
