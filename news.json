@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_480e0c19",
+    "title": "‘O konserde ben de vardım’",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 05:54",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/evin-ilyasoglu/o-konserde-ben-de-vardim-2491301",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yıllar önceydi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar30_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_8cda89d0",
     "title": "MAKÜ’de öğrenciye taciz: Öğretim Görevlisi M.B. meslekten çıkarıldı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "24 yıl sonra Dünya Kupası'na katılma hakkı kazanan A Milli Futbol Takımımız'ın başarısını birçok siyasi isim tebrik etti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e80a0ba4",
-    "title": "Öcalan İmralı'da yapılan konuta taşınacak mı? Tülay Hatimoğulları yanıtladı",
-    "source": "Evrensel",
-    "time": "01/04/2026 03:14",
-    "link": "https://www.evrensel.net/haber/5977595/ocalan-imralida-yapilan-konuta-tasinacak-mi-tulay-hatimogullari-yanitladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İmralı'da Abdullah Öcalan'a konut inşa edildiğini açıkladı ve \"Öcalan taşınmış değil. Fakat buradaki esas mesele başmüzakereci statüsünün tanımlanması\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341032.jpg",
     "keyword": null
   }
 ]
