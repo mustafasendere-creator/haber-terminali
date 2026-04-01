@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bdb11a4a",
+    "title": "ABD'de magazin basını Kongre üyelerinin peşine düştü",
+    "source": "DW Türkçe",
+    "time": "01/04/2026 13:14",
+    "link": "https://www.dw.com/tr/abd-de-magazin-basını-kongre-üyelerinin-peşine-düştü/a-76619918",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'de kısmi hükümet kapanması sürerken başkentte bulunmayan Kongre üyeleri \"magazin\" objektiflerine takıldı. Siyasetçiler, eğlence parklarından kumarhanelere kadar çeşitli yerlerde görüntülendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_962a046c",
     "title": "Trump: NATO'dan çıkmayı ciddi ciddi düşünüyorum",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın teşrifleri, Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu’nun katılımlarıyla 5G hizmetleri Cumhurbaşkanlığı Külliyesi’nde düzenlenen törenle hizmete alındı. Cumhurbaşkanı Erdoğan, “Başlangıçta 81 merkez il merkezimizde devreye alacağımız 5G'yi 2 sene içinde ülkemizin her karışında hizmete sunacağız” dedi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/cag7-2.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_3512ca7d",
-    "title": "Trabzon turizmi için kritik çalıştay: 9 başlık masaya yatırılacak",
-    "source": "Haber61",
-    "time": "01/04/2026 12:55",
-    "link": "https://www.haber61.net/trabzon/trabzon-turizmi-icin-kritik-calistay-9-baslik-masaya-yatirilacak-h628271.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediyesi, 4-5 Nisan’da Turizm Master Planı Çalıştayı düzenliyor. 150 uzmanın katılacağı toplantıda turizm 9 başlıkta ele alınacak.",
-    "image": "https://resim.haber61.net/news/610326.jpg",
-    "keyword": "trabzon"
   }
 ]
