@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3b30e213",
+    "title": "İsrail, Lübnan’ın Dahiye bölgesine saldırı düzenledi: 7 ölü, 26 yaralı",
+    "source": "Evrensel",
+    "time": "01/04/2026 14:34",
+    "link": "https://www.evrensel.net/haber/5977727/israil-lubnanin-dahiye-bolgesine-saldiri-duzenledi-7-olu-26-yarali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail’in Beyrut’un güneyindeki Dahiye bölgesine yönelik saldırılarında 7 kişi yaşamını yitirirken, 26 kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340983.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_88424d28",
     "title": "Halkın sağlığı tehlikede: \"1000 ASM yapacağız dediler, eldekileri satıyorlar\"",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul'da, polis ekiplerince yapılan denetimde, çeşitli suçlardan aranan 557 şüphelinin de aralarında bulunduğu toplam 1023 kişi gözaltına alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e3020b0d",
-    "title": "CHP'de şaibeli kurultay davası 6 Mayıs'a ertelendi",
-    "source": "TRT Haber",
-    "time": "01/04/2026 13:54",
-    "link": "https://www.trthaber.com/haber/gundem/chpde-saibeli-kurultay-davasi-6-mayisa-ertelendi-939932.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla, hakkında yürütülen yolsuzluk soruşturması nedeniyle görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 12 sanığın yargılandığı davaya devam edildi.  Mahkeme, sanık Özgen Nama'nın bir sonraki celse dinlenilmesine karar verdi.",
     "image": null,
     "keyword": null
   }
