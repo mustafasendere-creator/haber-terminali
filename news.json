@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6fabf4e8",
+    "title": "Ege'de göçmenleri taşıyan bot battı: 19 kişi hayatını kaybetti",
+    "source": "BBC Türkçe",
+    "time": "01/04/2026 12:54",
+    "link": "https://www.bbc.com/turkce/articles/c2ev3p9gj4yo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bodrum açıklarında göçmenleri taşıyan bir lastik botun batması sonucu 19 kişinin hayatını kaybettiği açıklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_f24a8da3",
     "title": "Trabzon'da Kent Konseyi'nden öğrencilere Hukuki farkındalık eğitimi...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Türkiye, İstanbul Kuzey Demir Yolu Geçişi Projesi kapsamında Dünya Bankasından 1,67 milyar avro uygun koşullu finansman temin etti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_ad3a7222",
-    "title": "Trabzon-Gümüşhane yolunda 4 tünelde bakım: Trafik kontrollü",
-    "source": "Haber61",
-    "time": "01/04/2026 09:14",
-    "link": "https://www.haber61.net/trabzon/trabzon-gumushane-yolunda-4-tunelde-bakim-trafik-kontrollu-h628244.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon-Gümüşhane yolundaki tünellerde bakım çalışması nedeniyle trafik kontrollü veriliyor. Sürücülerin işaret ve yönlendirmelere uyması istendi.",
-    "image": "https://resim.haber61.net/news/610285.jpg",
-    "keyword": "trabzon"
   }
 ]
