@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4d235e38",
+    "title": "Saran, trafik kazası geçirdi",
+    "source": "Habertürk",
+    "time": "01/04/2026 18:34",
+    "link": "https://www.haberturk.com/son-dakika-fenerbahce-kulubu-baskani-sadettin-saran-trafik-kazasi-gecirdi-3873764",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Kulübü Başkanı Sadettin Saran, kulüp binasına giderken trafik kazası geçirdi. Saran ve şoförünün durumunun iyi olduğu, araçta ise hasar meydana geldiği öğrenildi",
+    "image": "https://im.haberturk.com/l/2026/03/31/ver1774964186/3873764/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_d81ade75",
     "title": "Fransız Senatosu, 15 yaşından küçüklere kısmen sosyal medya yasağı getiren tasarıyı kabul etti",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "Dünyanın ilk eşcinsel evliliklerinin 25. yılı kutlanırken, Amsterdam’ın kent genelinde gün boyu yıldönümü çanları çalıyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_3a87e38d",
-    "title": "Karadeniz mutfağının bilinmeyen hazinesi: Trabzon simidi tarifi",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 17:54",
-    "link": "https://www.cumhuriyet.com.tr/gurme/karadeniz-mutfaginin-bilinmeyen-hazinesi-trabzon-simidi-tarifi-2491551",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Pekmezli suda haşlanıp (haşlama tekniği) fırınlanan, susamsız, sert ve pürüzsüz dokusuyla bilinen Trabzon Simidi; hamurun en yalın ve en dayanıklı halini temsil eden bir fırıncılık disiplinidir.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/180e43b1-76cb-440d-89d0-27acffc81dd1.jpg",
-    "keyword": "trabzon"
   }
 ]
