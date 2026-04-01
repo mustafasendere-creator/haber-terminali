@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f397062c",
+    "title": "Trump: İran savaşını 23 hafta içinde sona erdireceğiz",
+    "source": "TRT Haber",
+    "time": "01/04/2026 03:34",
+    "link": "https://www.trthaber.com/haber/dunya/trump-iran-savasini-2-3-hafta-icinde-sona-erdirecegiz-939861.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran savaşını ne zaman bitireceği sorusuna, \"Sanırım iki ya da üç hafta içinde. Sonra oradan çekileceğiz\" diye yanıt verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a32c8bd2",
     "title": "Bankalar şubatta 169.4 milyar lira net kâra ulaştı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Karadeniz Teknik Üniversitesi'nde düzenlenen etkinlikte öğrenciler, A Milli Futbol Takımı'nın Kosova ile karşılaştığı maçı kampüste kurulan dev ekranda büyük bir coşkuyla takip etti.",
     "image": "https://resim.haber61.net/news/610252.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_a60e9faf",
-    "title": "A Milli Takım 24 yıl sonra Dünya Kupası’nda: İşte rakipler ve maç programı",
-    "source": "Haber61",
-    "time": "01/04/2026 01:53",
-    "link": "https://www.haber61.net/spor/a-milli-takim-24-yil-sonra-dunya-kupasinda-iste-rakipler-ve-mac-programi-h628220.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Dünya Kupası hasretine son veren Ay-yıldızlı ekibimiz, play-off finalinde Kosova’yı devirerek dev turnuvaya vize aldı. Millilerin ABD, Paraguay ve Avustralya ile mücadele edeceği grup aşamasının fikstürü de belli oldu.",
-    "image": "https://resim.haber61.net/news/610253.jpg",
-    "keyword": null
   }
 ]
