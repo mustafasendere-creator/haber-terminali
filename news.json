@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a349f5ca",
+    "title": "Rusya'dan Ukrayna'ya \"barış tekliflerini kabul etme\" çağrısı",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 12:53",
+    "link": "https://www.aa.com.tr/tr/guncel/rusyadan-ukraynaya-baris-tekliflerini-kabul-etme-cagrisi/3887893",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya Dış İstihbarat Servisi (SVR) Başkanı Sergey Narışkin, Kiev yönetimine Rus barış tekliflerini kabul etme çağrısında bulunarak, \"Bunlar, uzun yıllar boyunca barışı sağlayacak ve herkes bundan kazanacak.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_17f68db2",
     "title": "Milli Eğitim Bakanı Tekin: LGS'yi pazar günü değil cumartesi günü yapmak üzere bir çalışma içerisindeyiz",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-01-at-002421.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a6d62b07",
-    "title": "Bodrum açıklarında kaçak göçmen faciası! 11 ölü",
-    "source": "A Haber",
-    "time": "01/04/2026 09:14",
-    "link": "https://www.ahaber.com.tr/gundem/2026/04/01/bodrum-aciklarinda-kacak-gocmen-faciasi-11-olu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla Bodrum ilçesi açıklarında, kaçak göçmenleri taşıyan lastik bot battı, 11 kaçak göçmenin cesedine ulaşılırken, 21 kaçak göçmen ise sağ olarak kurtarıldı. Bölgede, havadan ve karadan arama...Devamı için tıklayınız",
-    "image": "https://iahbr.tmgrup.com.tr/Defaults/Upload/ahbr-default-1754911102530.png",
     "keyword": null
   }
 ]
