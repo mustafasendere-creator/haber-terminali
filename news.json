@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_65a7aa3b",
+    "title": "Arda Güler: Allah bize nasip etti!",
+    "source": "Habertürk",
+    "time": "01/04/2026 13:15",
+    "link": "https://www.haberturk.com/arda-guler-allah-bize-nasip-etti-3873865-spor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli yıldızımız Arda Güler, Kosova'yı eleyerek Dünya Kupası'na gittiğimiz mücadelenin ardından açıklamalarda bulundu",
+    "image": "https://im.haberturk.com/l/2026/04/01/ver1774994961/3873865/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_0fe3cb7c",
     "title": "Ekmeğe zam geldi",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig'in 28. haftasında 4 Nisan Cumartesi günü Galatasaray'ı konuk edecek Trabzonspor'da golcü futbolcu Paul Onuachu, sarı-kırmızılı takımın filelerini ilk kez havalandırmaya çalışacak.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/sdmmcksdmkckmsdckm.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_6a5f648a",
-    "title": "Bakan Gürlek'ten Özel'e tepki: Yargı süreci başladı",
-    "source": "TRT Haber",
-    "time": "01/04/2026 12:55",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-gurlekten-ozele-tepki-yargi-sureci-basladi-939920.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Gürlek, CHP Genel Başkanı Özel'in mal varlığı iddialarıyla ilgili, \"Yargı süreci başladı. Tazminat davası açtık, suç duyurusunda bulunduk. Mahkeme tapu kayıtlarını getirecektir\" dedi.",
-    "image": null,
-    "keyword": null
   }
 ]
