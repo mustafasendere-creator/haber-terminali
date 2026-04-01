@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d11ebb0e",
+    "title": "İçişleri Bakanı Çiftçi TRT Haber'de",
+    "source": "TRT Haber",
+    "time": "01/04/2026 18:14",
+    "link": "https://www.trthaber.com/haber/gundem/icisleri-bakani-ciftci-trt-haberde-939963.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanı Mustafa Çiftçi, TRT Haber Özel Yayını'nda gündemi değerlendiriyor, soruları yanıtlıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3d5f386c",
     "title": "İran Dışişleri Bakanlığı Sözcüsü: Trumpın ateşkese dair açıklamalarının gerçekliği yok",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uşak Belediye Başkanı Özkan Yalım&#039;ın tutuklanmasının ardından başkanla bağlantıda olduğu belirtilen Bornova Belediyesi çalışanları hakkında soruşturma açıldı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/bornova-belediyesine-sorusturma-baslatildi-9fkj.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a7ede214",
-    "title": "10 yıldır saklanan FETÖ'cü eski binbaşı yakalandı",
-    "source": "OdaTV",
-    "time": "01/04/2026 17:15",
-    "link": "https://www.odatv.com/siyaset/10-yildir-saklanan-fetocu-eski-binbasi-murat-kalac-yakalandi-120141658",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığınca yayınlanan &quot;Terör Arananlar&quot; listesinde sarı kategoride yer alan, FETÖ üyesi görevinden ihraç edilmiş jandarma kıdemli binbaşı Murat Kalaç tutuklandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/10-yildir-saklanan-fetocu-eski-binbasi-murat-kalac-yakalandi-id67.jpg",
     "keyword": null
   }
 ]
