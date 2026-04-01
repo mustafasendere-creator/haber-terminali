@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_941a4cf3",
+    "title": "İstanbul'un enflasyonu belli oldu",
+    "source": "Haber Global",
+    "time": "01/04/2026 13:54",
+    "link": "https://haberglobal.com/ekonomi/istanbulun-enflasyonu-belli-oldu-516487",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da martta bir önceki aya göre perakende fiyatlar yüzde 2,97, toptan fiyatlar yüzde 1,54 artış gösterdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/istanbulun-enflasyonu-belli-oldu-o2ib.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7474cc6f",
     "title": "İstanbul'da huzur uygulaması: 1023 gözaltı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Nevşehir’in Kozaklı ilçesinde polisin düzenlediği fuhuş operasyonunda 7 şüpheli gözaltına alındı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/76b092f4-860a-4962-8e79-05363a829a8d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e1a6f1fa",
-    "title": "Çorum'da maden projesine 'ÇED Olumlu' kararı: Hukuka ve kamu yararına uygun bulundu",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 13:15",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/corum-da-maden-projesine-ced-olumlu-karari-hukuka-ve-kamu-yararina-uygun-bulundu-2491451",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çorum İdare Mahkemesi, Karakaya köyünde maden projesine verilen \"ÇED Olumlu\" kararının hukuka ve kamu yararına uygun olduğuna karar verdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5c655cac-cb81-4ef0-9692-b27bbce581a4.jpg",
     "keyword": null
   }
 ]
