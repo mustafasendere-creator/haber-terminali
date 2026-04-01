@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4cd5a85a",
+    "title": "Bursa'da buğday yüklü tır alev alev yandı; kara yolu ulaşıma kapatıldı",
+    "source": "Evrensel",
+    "time": "01/04/2026 06:54",
+    "link": "https://www.evrensel.net/haber/5977650/bursada-bugday-yuklu-tir-alev-alev-yandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'da seyir halindeki buğday yüklü tırda yangın çıktı. Yangın nedeniyle Karacabey-Bursa kara yolu bir süre ulaşıma kapatıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341082.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1a177522",
     "title": "Sarıyer'de toprak kayması nedeniyle altı bina tahliye edildi; mahalle halkı tepkili",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "RTÜK, kablolu ve uydu yayın yönetmeliklerinde yaptığı değişikliğe göre, medya kuruluşları SD, HD, 4K veya 8K gibi farklı yayın tekniklerine geçmek için lisanslarını iptal ettirmeden başvuruda bulunabilecek.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/321268.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9353d977",
-    "title": "DEM Partili Eren: Çocukların Newroza katıldığı için tutuklanması kabul edilemez",
-    "source": "Evrensel",
-    "time": "01/04/2026 04:14",
-    "link": "https://www.evrensel.net/haber/5977580/dem-partili-eren-cocuklarin-newroza-katildigi-icin-tutuklanmasi-kabul-edilemez",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DEM Partili Serhat Eren, bu yıl Newroz etkinlikleri nedeniyle tutuklanan ve ev hapsi verilen çocukları Meclis gündemine taşıdı. İşkence ve kötü muamele iddialarına dikkat çeken Eren, “Ağır bir hak ihlali” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340213.jpg",
     "keyword": null
   }
 ]
