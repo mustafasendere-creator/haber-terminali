@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_303096d6",
+    "title": "Alman Milli Takımı Dünya Kupası'nda yalnız mı kalacak?",
+    "source": "DW Türkçe",
+    "time": "01/04/2026 15:34",
+    "link": "https://www.dw.com/tr/alman-milli-takımı-dünya-kupası-nda-yalnız-mı-kalacak/a-76623699",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya'da siyaset, Dünya Kupası heyecanını gölgeledi. Birçok Alman taraftar milli takımı desteklemek için Trump'ın ABD'sine gitmek istemiyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_a20c5184",
     "title": "TRABZON'DA SU YÖNETİMSİZLİĞİ",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusu, Lübnan'ın güneyinde İsrail sınırındaki bazı beldelerde mevzilerini değiştirdiğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6add5c35",
-    "title": "Bodrum açıklarında göçmen botu battı: 19 ölü",
-    "source": "DW Türkçe",
-    "time": "01/04/2026 14:54",
-    "link": "https://www.dw.com/tr/bodrum-açıklarında-göçmen-botu-battı-19-ölü/a-76623410",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla'nın Bodrum ilçesi açıklarında plastik bot battı. Botta bulunan 19 düzensiz göçmenin hayatını kaybettiği belirlendi, 21 göçmen ise kurtarıldı.",
     "image": null,
     "keyword": null
   }
