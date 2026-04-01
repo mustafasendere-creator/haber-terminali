@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e0dba550",
+    "title": "İsrail İHA’sı Hizbullah tarafından düşürüldü!",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 08:55",
+    "link": "https://www.cumhuriyet.com.tr/dunya/israil-iha-si-hizbullah-tarafindan-dusuruldu-2491349",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Savunma Kuvvetleri (IDF), Güney Lübnan’da yürütülen askeri operasyonlara destek için bölgeye gönderilen bir İsrail insansız hava aracının (İHA) Hizbullah’ın roket saldırısı ile düşürüldüğünü duyurarak, \"Bilgi sızıntısı endişesi bulunmamaktadır\" açıklamasını yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f2ea4257-4ec8-41d4-a424-66cd77386ef8.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_47ee4bf5",
     "title": "BAE'den İran vatandaşlarına ülkeye giriş ve transit geçiş yasağı!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Sağlık Bakanlığı’nda üst düzey görev değişimleri başladı. Dr. Hakan Usta’nın görevden alınması sonrası yeni atama iddiaları gündeme geldi.",
     "image": "https://resim.haber61.net/news/610257.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_dee85639",
-    "title": "Avrupa'dan 2026 Dünya Kupası bileti alan son 4 ülke belli oldu",
-    "source": "Ekonomim",
-    "time": "01/04/2026 07:55",
-    "link": "https://www.ekonomim.com/spor/avrupadan-2026-dunya-kupasi-bileti-alan-son-4-ulke-belli-oldu-haberi-885255",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 FIFA Dünya Kupası Avrupa elemeleri play-off final maçları sonrası Türkiye, İsveç, Çekya ve Bosna Hersek, Dünya Kupası&#039;na katılım hakkı elde etti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/avrupadan-2026-dunya-kupasi-bileti-alan-son-4-ulke-belli-oldu-rzlm_cover.jpg",
     "keyword": null
   }
 ]
