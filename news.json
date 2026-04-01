@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5796e56",
+    "title": "Çiftçiler rotayı değiştirdi: Mısırdan soyaya kayış",
+    "source": "Ekonomim",
+    "time": "01/04/2026 16:35",
+    "link": "https://www.ekonomim.com/kuresel-ekonomi/ciftciler-rotayi-degistirdi-misirdan-soyaya-kayis-haberi-885432",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD&#039;de çiftçiler daha az mısır, daha fazla soya fasulyesi ekmeyi planlıyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/ciftciler-rotayi-degistirdi-misirdan-soyaya-kayis-x5mq_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d876ee50",
     "title": "SGK bilgisayar sistemindeki arıza sebebiyle borçların son ödeme tarihini uzattı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mersin Büyükşehir Belediyesinin aşevinde üretilen yemekte at eti tespit edilmesine ilişkin soruşturmada yeni detaylar ortaya çıktı. Yapılan incelemelerde, belediyeye et tedarik eden Toros Gıda Sanayi Limited Şirketi&#039;nin satış onay belgesinin (İşletme Onay Belgesi) bulunmadığı belirlenirken, firmaya idari para cezası uygulanarak et satışının durdurulduğu öğrenildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/asevinde-at-eti-skandali-toros-gidanin-satis-onay-belgesinin-olmadigi-ortaya-cikti-cpwz_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_eb28c423",
-    "title": "İzmir barajlarında son durum",
-    "source": "Habertürk",
-    "time": "01/04/2026 15:55",
-    "link": "https://www.haberturk.com/izsu-31-mart-baraj-doluluk-orani-izmir-barajlarinda-ne-kadar-su-kaldi-izmir-barajlarinda-son-durum-3873632",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "31 Mart itibarı ile İzmir Su ve Kanalizasyon İdaresi (İZSU) tarafından paylaşılan bilgilere göre, şehrin su ihtiyacını karşılayan barajlardaki son durum açıklandı. Peki İzmir baraj doluluk oranında son durum ne? İşte detaylar...",
-    "image": "https://im.haberturk.com/l/2026/03/31/ver1774940632/3873632/jpg/1280x1280",
     "keyword": null
   }
 ]
