@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80dfd0e7",
+    "title": "Trafikte beyzbol sopasıyla tehdit eden sürücüye 180 bin lira ceza",
+    "source": "TRT Haber",
+    "time": "01/04/2026 16:54",
+    "link": "https://www.trthaber.com/haber/turkiye/trafikte-beyzbol-sopasiyla-tehdit-eden-surucuye-180-bin-lira-ceza-939953.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'in Konak ilçesinde trafikte sıkıştırdığı otomobildekilere beyzbol sopası gösteren sürücüye 180 bin lira idari para cezası uygulandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_77649888",
     "title": "Tahran'da patlama sesleri",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Eskişehir-Bilecik Tabip Odası öncülüğünde, pandemi sürecinde hayatını kaybeden sağlık emekçileri için anma töreni düzenlendi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341165.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ed1265b0",
-    "title": "ABD'den Avrupa ile Ortadoğu’ya yeni savaş uçağı yığınağı",
-    "source": "Evrensel",
-    "time": "01/04/2026 16:14",
-    "link": "https://www.evrensel.net/haber/5977748/abdden-avrupa-ile-ortadoguya-yeni-savas-ucagi-yiginagi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD’den İngiltere’ye 12 adet A-10C Thunderbolt II savaş uçağı gönderilirken, B52 ağır stratejik bombardıman uçağı hareketliliği fark edildi. Ortadoğu’ya sevk edilmesi muhtemel ABD tanker uçaklarının Avrupa’daki yoğunluğu da dikkati çekiyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339236.jpg",
     "keyword": null
   }
 ]
