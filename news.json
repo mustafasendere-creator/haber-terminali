@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e10dfbd",
+    "title": "\"Delice duygular yaşıyoruz!\"",
+    "source": "Habertürk",
+    "time": "01/04/2026 09:16",
+    "link": "https://www.haberturk.com/kenan-yildiz-delice-duygular-yasiyoruz-3873866-spor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Takım'ın Dünya Kupası bileti almasının ardından Kenan Yıldız değerlendirmelerde bulundu.",
+    "image": "https://im.haberturk.com/l/2026/04/01/ver1774995204/3873866/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_5e1f5ec8",
     "title": "Hakan Çalhanoğlu: Yüce Rabbim bizimle!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Lider Sebat Gençlikspor, 5 Nisan’da Bulancakspor karşısında kazanırsa şampiyonluğunu ilan edecek. Kritik mücadele öncesi Trabzon’a “tribünleri doldurun” çağrısı yapıldı.",
     "image": "https://resim.haber61.net/news/610271.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_7da9bc6c",
-    "title": "Derbi öncesi ince hesaplar! Tekke'nin hasreti sona erecek mi?",
-    "source": "Haber61",
-    "time": "01/04/2026 08:54",
-    "link": "https://www.haber61.net/trabzonspor/derbi-oncesi-ince-hesaplar-tekkenin-hasreti-sona-erecek-mi-h628234.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Fatih Tekke yönetiminde 2026 yılının ilk derbi galibiyetini Galatasaray karşısında almayı planlıyor.",
-    "image": "https://resim.haber61.net/news/610273.jpg",
     "keyword": "trabzon"
   }
 ]
