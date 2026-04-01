@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e6fce50",
+    "title": "Gebze'de çöken bina hakkında yeni rapor",
+    "source": "OdaTV",
+    "time": "01/04/2026 16:35",
+    "link": "https://www.odatv.com/guncel/gebzede-coken-bina-hakkinda-yeni-rapor-zayif-zemin-ve-kontrolsuz-dolgu-alani-120141653",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gebze’deki bina çökmesine ilişkin hazırlanan teknik rapor, olayın zayıf zemin koşulları, kontrolsüz dolgu alanı ve yapı kusurlarından kaynaklandığını ortaya koydu. Raporda metro inşaatının çökmede etkisine dair herhangi bir yapısal hasar ya da kritik bulguya rastlanmadığı vurgulandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/gebzede-coken-bina-hakkinda-yeni-rapor-zayif-zemin-ve-kontrolsuz-dolgu-alani-jo7r.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0f7e0496",
     "title": "ABD’de perakende satışlar beklentilerin üzerinde arttı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Belçika, ülke genelindeki savunma ağını yeniden yapılandırmak adına kritik bir adım atmaya hazırlanıyor. Henüz planlama aşamasında olan yeni stratejiye göre, askeri varlığın her vilayete yayılması ve ordunun yerel düzeyde daha aktif bir güç haline getirilmesi hedefleniyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/05/belcika-irana-karsi-sessiz-mi-kalacak-qzsb_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_5b6b8576",
-    "title": "ABD özel sektör istihdamı martta 62 bin arttı",
-    "source": "Ekonomim",
-    "time": "01/04/2026 15:55",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/abd-ozel-sektor-istihdami-martta-62-bin-artti-haberi-885426",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD’de özel sektör istihdamı martta beklentilerin üzerinde artarken, işe alımların sektörler arasında farklılaştığı ve ücret artışlarının güçlü seyrini koruduğu görüldü.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/09/27/kuresel-piyasalar-abd-istihdam-verilerine-odaklandi-4nmm_cover.jpg",
     "keyword": null
   }
 ]
