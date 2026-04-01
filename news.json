@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c32942a4",
+    "title": "Düzce'de iş cinayeti: Doğal gaz çalışması sırasında toprak altında kalan 2 işçiden 1'i hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "01/04/2026 21:14",
+    "link": "https://www.evrensel.net/haber/5977786/duzce-de-is-cinayeti-dogal-gaz-calismasi-sirasinda-toprak-altinda-kalan-2-isciden-1-i-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce'de doğal gaz ana boru hattı çalışması sırasında meydana gelen toprak kaymasında, toprak altında kalan Deniz K. yaralandı; İsmail Başer hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341213.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1d6953bf",
     "title": "Britanya Lordlar Kamarası üyesi Blower: Mehmet Türkmen derhal serbest bırakılmalı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kırıkkale'de iki kardeş, iddiaya göre kendileri ile annelerini darbeden babalarını çıkan tartışmada bıçak ve baltayla öldürdü.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8d62a27d-3394-4d22-8cea-4294fe47563a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_00847cfb",
-    "title": "Yapay zeka, daha düşük maliyetli küçük bilgisayar satışlarını nasıl artırdı?",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 19:55",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-zeka-daha-dusuk-maliyetli-kucuk-bilgisayar-satislarini-nasil-artirdi-2491591",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yapay zeka teknolojilerindeki küresel ivme, bu teknolojiye dayalı uygulamaları çalıştırabilen düşük maliyetli küçük bilgisayarların satışlarını artırdı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/79e23cd2-b10f-4deb-b4a5-9687a7e04fc0.jpg",
     "keyword": null
   }
 ]
