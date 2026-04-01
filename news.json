@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1fe32768",
+    "title": "Tehlikeli ilişkiler",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 05:34",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/ahmet-suha-umar/tehlikeli-iliskiler-2491293",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’ın direnişi, ABD ile İsrail’i, içte ve dışta gün geçtikçe zora sokuyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar479_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_8d8e48d9",
     "title": "İran'ın başkenti Tahran'da şiddetli patlamalar",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "GSR II ile otomotiv sektöründe başlayan yeni dönem, sadece araç teknolojilerini değil, sigortacılık modellerinden hukuki sorumluluklara, müşteri davranışlarından veri ekonomisine kadar geniş bir alanı yeniden şekillendirecek. AXA Türkiye CEO’su Yavuz Ölken, sorumluluk, risk ve maliyet dengelerinin değiştiği bu dönemi Türkiye sigorta sektörünün regülasyon ve teknoloji uyumu ile fırsata çevirebileceğini söyledi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/gelecegin-motor-sigortalari-yeniden-yaziliyor-gsr-ii-ile-frekans-dusecek-maliyet-artacak-qxry_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4497144a",
-    "title": "T.C. BAKIRKÖY 6. ASLİYE HUKUK MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 02:54",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-bakirkoy-6-asliye-hukuk-mahkemesi-2490955",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. BAKIRKÖY 6. ASLİYE HUKUK MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1eaba0de-a26b-4b07-9039-fcaac00c7338.jpg",
     "keyword": null
   }
 ]
