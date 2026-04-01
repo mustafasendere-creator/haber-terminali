@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_57291868",
+    "title": "Akdeniz'de 4,7 büyüklüğünde deprem",
+    "source": "TRT Haber",
+    "time": "01/04/2026 22:14",
+    "link": "https://www.trthaber.com/haber/turkiye/akdenizde-47-buyuklugunde-deprem-939974.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akdeniz açıklarında saat 20.11'de 4,7 büyüklüğünde deprem meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fbeab541",
     "title": "46 yıllık uyuşmazlık arabuluculukla çözüldü",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Ortahisar ilçesinde bir apartmanın 8. kat penceresinden beton zemine düşen 6 yaşındaki M.K., olay yerinde yaşamını yitirdi.",
     "image": "https://resim.haber61.net/news/610411.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_00aeb8d3",
-    "title": "Bakan Çiftçi'den yeni APP plaka açıklaması: Kamu düzeni ve güvenliği ile ilgili bir husus",
-    "source": "Haber Global",
-    "time": "01/04/2026 21:14",
-    "link": "https://haberglobal.com/gundem/bakan-ciftciden-yeni-app-plaka-aciklamasi-kamu-duzeni-ve-guvenligi-ile-ilgili-bir-husus-516546",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanı Mustafa Çiftçi, APP plaka kullanan vatandaşlara tanınan sürenin sona erdiğini belirterek, bu plakaları kullanan sürücülere plakalarını değiştirme çağrısında bulundu. APP plakaların iyi niyetli bir kullanım olmadığına vurgu yapan Çiftçi, bunun kamu düzeni ve güvenliği ile ilgili bir husus olduğunu söyledi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/bakan-ciftciden-yeni-app-plaka-aciklamasi-kamu-duzeni-ve-guvenligi-ile-ilgili-bir-husus-pjdv.jpg",
-    "keyword": null
   }
 ]
