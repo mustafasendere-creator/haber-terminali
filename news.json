@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1a6f1fa",
+    "title": "Çorum'da maden projesine 'ÇED Olumlu' kararı: Hukuka ve kamu yararına uygun bulundu",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 13:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/corum-da-maden-projesine-ced-olumlu-karari-hukuka-ve-kamu-yararina-uygun-bulundu-2491451",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çorum İdare Mahkemesi, Karakaya köyünde maden projesine verilen \"ÇED Olumlu\" kararının hukuka ve kamu yararına uygun olduğuna karar verdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5c655cac-cb81-4ef0-9692-b27bbce581a4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1af67e12",
     "title": "Cumhurbaşkanı Erdoğan'dan sert sözler: Darbecilik CHP'nin karakteri ve kimliğidir",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Bundan 25 yıl önce Amsterdam'da dünyanın ilk eşcinsel evliliği gerçekleşti. Bugün Hollanda'nın eşcinsel Başbakan'ı düğün hazırlığı yapıyor. Türkiye'de ise LGBTİ+ bireyler üzerinde baskı artıyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_3a1198cf",
-    "title": "Gündem, Köprülerin Yıkılması",
-    "source": "Haber61",
-    "time": "01/04/2026 12:55",
-    "link": "https://www.haber61.net/gundem/gundem-koprulerin-yikilmasi-h628268.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Yapıldığın da Trabzon’un bağrına bir hançer gibi saplanması ile eleştirilerin odak noktası olan, şehir merkezi ile Boztepe’yi ayırdığı çokça dile getirilen Yavuz Selim Bulvarı ( tanjant ) meydan köprüsünün yıkılması gündem de...",
-    "image": "https://resim.haber61.net/news/610323.jpg",
-    "keyword": "trabzon"
   }
 ]
