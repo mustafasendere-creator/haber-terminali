@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3d5b97c",
+    "title": "Fatih'te kuryeye saldırı",
+    "source": "OdaTV",
+    "time": "01/04/2026 04:14",
+    "link": "https://www.odatv.com/guncel/fatihte-kuryeye-saldiri-120141550",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Fatih&#039;te kimliği belirsiz şahıs tarafından silahlı saldırıya uğrayan yabancı uyruklu kurye hayatını kaybetti. Polis ekipleri, kaçan saldırganın yakalanması için çalışma başlattı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/fatihte-kuryeye-saldiri-lzuf.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2bbeedf0",
     "title": "İklim değil, güvenlik sorunu olarak enerji",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AYBASTI 2. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/3f57e582-ebb8-4396-9848-5093a5dc9d5c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1d3273db",
-    "title": "Kuru şampuanlar sık kullanıldığında ciddi sorunlara yol açabilir...",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 02:14",
-    "link": "https://www.cumhuriyet.com.tr/yasam/kuru-sampuanlar-sik-kullanildiginda-ciddi-sorunlara-yol-acabilir-2491324",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yağlı görünümü anında yok eden ve saça hacim veren kuru şampuanlar, sık kullanıldığında saç derisinde \"kimyasal bir beton\" etkisi yaratabilir...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/333e15dc-b2d3-4852-868c-66f17db942d1.jpg",
     "keyword": null
   }
 ]
