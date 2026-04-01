@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c7c9550e",
+    "title": "İstanbul'da ünlü isimlere yönelik soruşturma: Hürriyet yazarı Cihan Şensözlü tahliye edildi",
+    "source": "Evrensel",
+    "time": "01/04/2026 21:53",
+    "link": "https://www.evrensel.net/haber/5977795/istanbulda-unlu-isimlere-yonelik-sorusturma-hurriyet-yazari-cihan-sensozlu-tahliye-edildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da ünlü isimlere yönelik soruşturma kapsamında tutuklu bulunan Hürriyet yazarı Cihan Şensözlü tahliye edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341223.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_368552e2",
     "title": "ABD: Trump 6 Ocak olayları nedeniyle davalarla karşı karşıya kalabilir",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "KONUK YAZAR | Muzaffer Ayhan Kara, Cumhuriyet Ege için yazdı...",
     "image": "https://media.cumhuriyet.com.tr/Archive/e31dc584-0d9c-4ac4-830f-f102aa2293cb.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_c79eb055",
-    "title": "Uyuşturucu soruşturması: Hürriyet yazarı Cihan Şensözlü tahliye edildi",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 20:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/uyusturucu-sorusturmasi-hurriyet-yazari-cihan-sensozlu-tahliye-edildi-2491598",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uyuşturucu soruşturması kapsamında tutuklu bulunan 'Cihanna' adıyla bilinen Hürriyet yazarı ve fenomen Cihan Şensözlü tahliye edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/57a5aba3-d365-4f13-a5f3-80f6f0debb3a.jpg",
     "keyword": null
   }
 ]
