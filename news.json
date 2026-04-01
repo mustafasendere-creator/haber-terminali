@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9dd739bd",
+    "title": "LPG’ye rekor zam yolda",
+    "source": "Evrensel",
+    "time": "01/04/2026 13:14",
+    "link": "https://www.evrensel.net/haber/5977711/lpgye-rekor-zam-yolda",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Motorine gelen zammın ardından bu kez LPG fiyatlarına 4 lira 27 kuruşluk artış bekleniyor. Gece yarısından itibaren geçerli olması öngörülen zamla birlikte otogaz fiyatlarının 34-35 lira bandına yükselmesi bekleniyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/300165.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_5ba437ec",
     "title": "Trabzonspor'un dev golcüsü ilk peşinde!",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları’nın, Abdullah Öcalan için İmralı’da yeni bir konut inşa edildiği açıklamasına Adalet Bakanı Akın Gürlek’ten yanıt geldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/322853.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_967ff2dd",
-    "title": "Trabzonspor’a Icardi alarmı! İstatistiğiyle dikkat çekiyor",
-    "source": "Haber61",
-    "time": "01/04/2026 12:54",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspora-icardi-alarmi-istatistigiyle-dikkat-cekiyor-h628275.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Galatasaray ile oynayacağı kritik maç öncesinde Mauro Icardi detayı öne çıktı. Arjantinli yıldızın bordo-mavililere karşı etkili istatistiği dikkat çekerken, sarı-kırmızılı ekipte forma giyip giymeyeceği ise maç günü belli olacak.",
-    "image": "https://resim.haber61.net/news/610336.jpg",
-    "keyword": "trabzon"
   }
 ]
