@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6a85c151",
+    "title": "KKTC'de Rum tarafından saldırı",
+    "source": "OdaTV",
+    "time": "01/04/2026 21:54",
+    "link": "https://www.odatv.com/guncel/kktcde-rum-tarafindan-saldiri-120141684",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Güvenlik Kuvvetleri Komutanlığı, başkent Lefkoşa’da Güney Kıbrıs Rum Yönetimi (GKRY) tarafından bir grubun KKTC tarafındaki sivillere taş ve patlayıcı madde attığını açıkladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/kktcde-rum-tarafindan-saldiri-zrdu.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7473260e",
     "title": "Uyuşturucu soruşturmasında tutuklanan Cihan Şensözlü tahliye edildi",
     "source": "Sözcü",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Gazze'de, Mescid-i Aksa’nın kapatılması ve Filistinli esirlerin idamını öngören yasaya tepki göstermek amacıyla gösteri düzenlendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_055d5835",
-    "title": "IEA, IMF ve Dünya Bankasından, Orta Doğu'daki savaş için koordinasyon grubu",
-    "source": "Anadolu Ajansı",
-    "time": "01/04/2026 21:13",
-    "link": "https://www.aa.com.tr/tr/guncel/iea-imf-ve-dunya-bankasindan-orta-dogudaki-savas-icin-koordinasyon-grubu/3888571",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Enerji Ajansı (IEA), Uluslararası Para Fonu (IMF) ve Dünya Bankası Grubu, Orta Doğu'daki savaşın enerji ve ekonomi üzerindeki etkilerine karşı müdahalelerini en üst düzeye çıkarmak amacıyla bir koordinasyon grubu kurma konusunda anlaştı.",
     "image": null,
     "keyword": null
   }
