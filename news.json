@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e0ddf60",
+    "title": "Otogazda tarihi rekor: LPG’ye tek seferde büyük zam geldi",
+    "source": "Evrensel",
+    "time": "02/04/2026 01:33",
+    "link": "https://www.evrensel.net/haber/5977813/otogazda-tarihi-rekor-lpgye-tek-seferde-buyuk-zam-geldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "LPG'ye tek seferde 4.50 TL zam geldi. İstanbul'da litre fiyatı 35 TL'ye dayanırken, bir gecelik artış oranı %15'i buldu. Bu rekor artışın ulaşım ve gıda maliyetlerini doğrudan tetiklemesi bekleniyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341240.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9321c8cc",
     "title": "Irak, Suriye üzerinden siyah petrol ihracatına başladı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD halkına hitaben açık bir mektup yayımlayarak, İran halkının, Amerika, Avrupa ve komşu ülkeler de dahil olmak üzere hiçbir millete karşı düşmanlık beslemediğini söyledi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/pezeskiyandan-abd-halkina-mektup-lee0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c766e536",
-    "title": "Bütün ada kırmızıya büründü: Çöl tozu alarmı",
-    "source": "OdaTV",
-    "time": "01/04/2026 23:54",
-    "link": "https://www.odatv.com/guncel/butun-ada-kirmiziya-burundu-col-tozu-alarmi-120141691",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Afrika’dan taşınan yoğun çöl tozu Girit Adası’nda hayatı felç etti; görüş mesafesi düştü, uçaklar rotasını değiştirdi, yetkililer sağlık uyarısı yaptı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/butun-ada-kirmiziya-burundu-col-tozu-alarmi-utu9.jpg",
     "keyword": null
   }
 ]
