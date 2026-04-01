@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3280ca1",
+    "title": "Budama yaparken kolu kesildi: Kalp krizi geçirip hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 23:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/budama-yaparken-kolu-kesildi-kalp-krizi-gecirip-hayatini-kaybetti-2491617",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siirt'in Şirvan ilçesinde bahçesinde ağaç budadığı sırada kolunu keserek ağır yaralanan Mehmet Sıdık Mantan (70), hastaneye sevk edildiği sırada ambulansta kalp krizi geçirdi. Mantan, doktorların tüm müdahalelerine rağmen kurtarılamadı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b085da0e-f81f-4054-b7f5-ed4dceddd108.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f3dce273",
     "title": "Suriye Devlet Başkanı eş-Şara, İngiltere Kralı III. Charles ile bir araya geldi",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, yarın Azerbaycan'a resmi ziyaret gerçekleştirecek.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/cumhurbaskani-yardimcisi-yilmaz-yarin-azerbaycana-gidecek-yc2c.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_a03173bf",
-    "title": "Derbi Öncesi Trabzon’da Kritik Uyarı! Uğurcan Üzerinden Provokasyon İddiası",
-    "source": "Taka Gazetesi",
-    "time": "01/04/2026 22:14",
-    "link": "https://www.takagazete.com.tr/derbi-oncesi-trabzonda-kritik-uyari-ugurcan-uzerinden-provokasyon-iddiasi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Galatasaray ile oynayacağı dev derbi öncesi şehirde dikkat çeken iddialar gündeme geldi. Bazı taraftar gruplarının tribünde protesto hazırlığında olduğu konuşulurken, kulüp efsanesinden sağduyu çağrısı geldi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/6fd985d5-3e4f-4c9e-b926-5376771d1bb7.jpg",
-    "keyword": "trabzon"
   }
 ]
