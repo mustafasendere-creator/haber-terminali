@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf2032b0",
+    "title": "Endonezya'da 7,8 büyüklüğünde deprem",
+    "source": "TRT Haber",
+    "time": "02/04/2026 02:34",
+    "link": "https://www.trthaber.com/haber/dunya/endonezyada-78-buyuklugunde-deprem-939998.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Endonezya'nın Ternate bölgesinde 7,8 büyüklüğünde deprem meydana geldi. Deprem sonrası Maluku Adaları çevresi için  tsunami uyarısı verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_aaccd718",
     "title": "İnsanlık 54 yıl sonra Ay yolunda",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sakarya’nın Adapazarı-Pamukova D-650 karayolu Geyve geçişinde 3 tırın karıştığı zincirleme trafik kazası meydana geldi. Kaza nedeniyle Bilecik istikameti trafiğe tamamen kapanırken, yolda uzun araç kuyrukları oluştu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/cd79c9b1-9d7e-48db-9151-8116ab1c5ff8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e63021ba",
-    "title": "Nevşehir'de şüpheli ölüm: Sedyeden düştüğü iddia edilen genç hayatını kaybetti",
-    "source": "Haber Global",
-    "time": "02/04/2026 00:53",
-    "link": "https://haberglobal.com/gundem/nevsehirde-supheli-olum-sedyeden-dustugu-iddia-edilen-genc-hayatini-kaybetti-516572",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nevşehir Devlet Hastanesi'nde tedavi gördüğü sırada sedyeden düştüğü öne sürülen genç yaşamını yitirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/nevsehirde-supheli-olum-sedyeden-dustugu-iddia-edilen-genc-hayatini-kaybetti-btju.jpg",
     "keyword": null
   }
 ]
