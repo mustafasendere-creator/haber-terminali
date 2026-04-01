@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0593d335",
+    "title": "İsviçre, teslimattaki belirsizlikler nedeniyle ABD'ye Patriotlar için ödemeyi geciktirmeyi sürdürecek",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 21:13",
+    "link": "https://www.aa.com.tr/tr/guncel/isvicre-teslimattaki-belirsizlikler-nedeniyle-abdye-patriotlar-icin-odemeyi-geciktirmeyi-surdurecek/3888575",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsviçre, ABD üretimi Patriot hava savunma sistemi teslimatlarında yaşanan belirsizlikler ve bu konuda takvimin net olmaması nedeniyle ABD'ye ödemeleri geciktirmeye devam edeceğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3f241fbc",
     "title": "Duran'dan İsrail'in meclisten geçirdiği idam yasasına tepki",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Ortahisar Belediye Meclisi’nde yapı vergilerindeki artış tartışılmaya devam ediyor. Başkan Ahmet Kaya ve Başkan Yardımcısı Özer İskender sürece ilişkin açıklamalarda bulundu.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9773ddc9",
-    "title": "Bakan Çiftçi: APP plaka, kamu düzeni ve güvenliği ile ilgili bir husus",
-    "source": "TRT Haber",
-    "time": "01/04/2026 19:54",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-app-plaka-kamu-duzeni-ve-guvenligi-ile-ilgili-bir-husus-939963.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanı Mustafa Çiftçi, APP plaka kullanan vatandaşlara tanınan sürenin sona erdiğini belirterek, bu plakaları kullanan sürücülere plakalarını değiştirme çağrısında bulundu. APP plakaların iyi niyetli bir kullanım olmadığına vurgu yapan Çiftçi, bunun kamu düzeni ve güvenliği ile ilgili bir husus olduğunu söyledi.",
-    "image": null,
-    "keyword": null
   }
 ]
