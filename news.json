@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf667dfe",
+    "title": "Filistin Esirler Cemiyeti: İsrail’in idam yasası \"ırkçılığın boyutunu\" gözler önüne seriyor",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 18:33",
+    "link": "https://www.aa.com.tr/tr/guncel/filistin-esirler-cemiyeti-israil-in-idam-yasasi-irkciligin-boyutunu-gozler-onune-seriyor/3888461",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filistinli Esirler Cemiyeti Başkanı Zağari, İsrail Meclisi tarafından onaylanan Filistinli esirlere idam cezası öngören yasaya ilişkin uyarıda bulunarak, düzenlemenin “işgal sistemi içindeki ırkçılığın boyutunu” ortaya koyduğunu söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d0bb3df4",
     "title": "Selçuk Bayraktar'dan Japon Büyükelçi'ye TEKNOFEST daveti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bitlis'in Tatvan ilçesinde şehir içi yolcu minibüsünün çarptığı 4 yaşındaki Masal Aslan hayatını kaybetti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/tatvanda-feci-kaza-4-yasindaki-cocuk-oldu-epe4.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bebe5caa",
-    "title": "İşgalci İsrail'in Lübnan'a saldırılarında can kaybı 1318'e çıktı",
-    "source": "TRT Haber",
-    "time": "01/04/2026 17:34",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-saldirilarinda-can-kaybi-1318e-cikti-939958.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında yaşamını yitirenlerin sayısının son 24 saatte 50 artarak 1318'e, yaralı sayısının ise 3 bin 935'e çıktığını duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
