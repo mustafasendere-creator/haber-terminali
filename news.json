@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cb76dabb",
+    "title": "Yaşlı kadının şüpheli ölümü",
+    "source": "Habertürk",
+    "time": "01/04/2026 07:55",
+    "link": "https://www.haberturk.com/manisa-da-65-yasindaki-kadinin-supheli-olumu-3873873",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'da 65 yaşındaki kadın, yüzünde darp izleriyle ve boynuna eşarp sarılı halde evinde ölü bulundu. Olayı ihbar eden koca, ifadesi alınmak üzere emniyete götürüldü",
+    "image": "https://im.haberturk.com/l/2026/04/01/ver1774997342/3873873/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e44b15d5",
     "title": "Meteoroloji açıkladı: 1 Nisan 2026 hava durumu raporu... Bugün hava nasıl olacak?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İBB'ye yönelik soruşturma kapsamında gözaltına alınan, seçilmiş Antalya Büyükşehir Belediye Başkanı Muhittin Böcek'in başdanışmanı C.O. ile belediye çalışanı B.K. tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7ae8bf80-e4cf-4e2c-8e39-9706e99e0e37.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_079aee2f",
-    "title": "SGK açıkladı: Son ödeme süresi 7 Nisan’a uzatıldı",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 06:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/sgk-acikladi-son-odeme-suresi-7-nisan-a-uzatildi-2491262",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "SGK, Mali Otomasyon Sistemi (MOSIP) altyapısında bazı hizmetlere erişilmesinde gecikme meydana gelmesinden dolayı son ödeme günü bugün olan borçların ödeme gününün 7 Nisan’a kadar uzatıldığını duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e968c04d-cfd3-48d0-8549-7d352245d7fb.jpg",
     "keyword": null
   }
 ]
