@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_79e228be",
+    "title": "İstanbul barajlarında son durum ne? (01.04.2026)",
+    "source": "Evrensel",
+    "time": "02/04/2026 00:33",
+    "link": "https://www.evrensel.net/haber/5977708/istanbul-barajlarinda-son-durum-ne-01042026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da yağışların etkisiyle baraj doluluk oranı yüzde 65,74’e yükseldi. Son 15 günde doluluk oranı yaklaşık 20 puan arttı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336968.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_7484bd35",
     "title": "Giresunlu öğrencilerden zorbalığa karşı “dijital kalkan” projesi",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "ERSOY’DAN TRABZON BÜYÜKŞEHİR BELEDİYE BAŞKANI GENÇ’E ZİYARET Genel Başkan Yardımcımız İdris Ersoy, 24 Mart 2026 tarihinde, Trabzon Büyükşehir Belediye Başkanı Av. Ahmet Metin Genç’i ziyaret etti. Ayrıntılar 👇 hizmet-is.org.tr/haberler/erso  x.com",
     "image": null,
     "keyword": "trabzon ziyaret"
-  },
-  {
-    "id": "TKP_9f86331c",
-    "title": "Şehirlerin geleceği Trabzon Günleri’nde konuşulacak!",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "01/04/2026 23:14",
-    "link": "https://www.karadenizdesonnokta.com.tr/sehirlerin-gelecegi-trabzon-gunlerinde-konusulacak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/prof-dr-rusen-kelesjpg.jpeg",
-    "keyword": "trabzon"
   }
 ]
