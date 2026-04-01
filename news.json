@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2db7497c",
+    "title": "Akdeniz'de 4,7 büyüklüğünde deprem",
+    "source": "Evrensel",
+    "time": "01/04/2026 23:33",
+    "link": "https://www.evrensel.net/haber/5977794/akdenizde-47-buyuklugunde-deprem",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akdeniz açıklarında saat 20.11'de 4,7 büyüklüğünde deprem meydana geldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336042.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0fcb9ee5",
     "title": "Eşref Rüya oyuncusu hayatını kaybetti",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Yağışlı haftanın ardından Trabzon’da barajlar tamamen doldu, doluluk oranı yüzde 100’e çıktı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/8-kopyasi-3-123.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1fe4f0fe",
-    "title": "Bahreyn, nisan ayı için BM Güvenlik Konseyi Başkanlığını üstlendi",
-    "source": "TRT Haber",
-    "time": "01/04/2026 22:14",
-    "link": "https://www.trthaber.com/haber/dunya/bahreyn-nisan-ayi-icin-bm-guvenlik-konseyi-baskanligini-ustlendi-939989.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bahreynin Birleşmiş Milletler BM Daimi Temsilcisi Jamal Fares Alrowaiei, bu ay üstlendikleri BM Güvenlik Konseyi BMGK dönem başkanlığı sırasında Hürmüz Boğazı'ndaki deniz güvenliğini sağlamak için sundukları karar taslağı üzerinde çalıştıklarını belirtti.",
-    "image": null,
-    "keyword": null
   }
 ]
