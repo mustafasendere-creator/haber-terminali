@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d2b02c4c",
+    "title": "Aile katliamı: 17 yaşındaki çocuk annesini ve ağabeyini öldürdü",
+    "source": "Cumhuriyet",
+    "time": "01/04/2026 06:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/aile-katliami-17-yasindaki-cocuk-annesini-ve-agabeyini-oldurdu-2491267",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Batman’da 17 yaşındaki şahıs, annesini ve ağabeyini silahla vurarak öldürdü. Olayla ilgili inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/252fe21c-2639-4cb3-840a-d127360e330e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cb196d91",
     "title": "A Milli Futbol Takımı 24 yıl sonra Dünya Kupası'nda: Kosova 0-1 Türkiye",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şubatta 169 milyar 401 milyon lira net kâra ulaşan bankacılık sektörünün aktif toplamı 2025 yıl sonuna göre 1 trilyon 923 milyar 972 milyon lira arttı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341019.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e1849cb5",
-    "title": "EMEP Sincan İlçe Örgütü, işçilerle işçi sağlığı ve iş güvenliğini tartıştı",
-    "source": "Evrensel",
-    "time": "01/04/2026 03:34",
-    "link": "https://www.evrensel.net/haber/5977585/emep-sincan-ilce-orgutu-iscilerle-isci-sagligi-ve-is-guvenligini-tartisti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "EMEP Sincan İlçe Örgütü, işçilerle işçi sağlığı ve güvenliği ile halk sağlığı üzerine bir etkinlik düzenledi. İşçilerin örgütlenmesinin ve sendikalaşmanın iş cinayetlerini azaltmadaki rolüne dikkat çekildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341021.jpg",
     "keyword": null
   }
 ]
