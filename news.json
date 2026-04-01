@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e9780cb9",
+    "title": "Motorine zam geldi!",
+    "source": "Habertürk",
+    "time": "01/04/2026 06:34",
+    "link": "https://www.haberturk.com/motorine-zam-yolda-motorine-zam-mi-geldi-motorin-ne-kadar-oldu-1-nisan-2026-benzin-motorin-lpg-fiyat-listesi-3873686",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akaryakıt piyasasında yeni bir fiyat artışı beklentisi gündemde. Sektör kaynaklarından edinilen bilgilere göre özellikle motorin grubunda zam ihtimali güçlenirken, artışın miktarı ve yürürlüğe gireceği tarih konusunda nihai kararın yetkili merciler tarafından verileceği ifade ediliyor. 1 Nisan 2026 itibarıyla benzin fiyatlarında ise herhangi bir değişiklik öngörülmüyor. Peki, Motorine zam mı geldi, ne zaman gelecek? İşte İzmir, İstanbul, Ankara 1 Nisan güncel benzin, motorin, akaryakıt fiyatları listesi...",
+    "image": "https://im.haberturk.com/l/2026/03/31/ver1774986669/3873686/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_068befa7",
     "title": "Emekli ve memur zammı ne kadar olacak?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "'Rüşvet' soruşturması kapsamında tutuklanan Uşak Belediye Başkanı Özkan Yalım, görevden uzaklaştırıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d0e83388-210d-4f7b-8588-2547cb8227f9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_30c87789",
-    "title": "Arakçi'den 'Türkiye' mesajı: 'Sahte bayrak operasyonu' uyarısı",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 03:54",
-    "link": "https://www.cumhuriyet.com.tr/dunya/arakci-den-turkiye-mesaji-sahte-bayrak-operasyonu-uyarisi-2491274",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Bakanı Arakçi, \"İran İslam Cumhuriyeti iyi komşuluk ilkesine bağlı olup, Türkiye’nin ulusal egemenliği ile toprak bütünlüğüne saygı duymaktadır\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a594e704-01c2-4fec-8610-62c5095f7309.jpg",
     "keyword": null
   }
 ]
