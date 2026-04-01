@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9eabc030",
+    "title": "İran'dan İsrail'e yeni misilleme saldırısı",
+    "source": "TRT Haber",
+    "time": "01/04/2026 18:34",
+    "link": "https://www.trthaber.com/haber/dunya/irandan-israile-yeni-misilleme-saldirisi-939966.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın yeni misillemesinin ardından başta Tel Aviv olmak üzere İsrail'in birçok bölgesinde bir kez daha sirenler çaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_3aa23488",
     "title": "Jaja Coelho Trabzon'da taraftarlarla buluşuyor: İmza günü detayları belli oldu",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Küresel piyasaların dev ekonomide yavaşlama sinyalleri beklediği bir dönemde Çin, imalat sanayisinden gelen beklenmedik verilerle tüm projeksiyonları ters köşe yaptı. Mart ayı Satın Alma Yöneticileri Endeksi (PMI) verileri, imalat faaliyetlerinde tahminlerin çok üzerinde bir genişleme kaydedildiğini ortaya koyuyor. Fabrikalardaki bu ani hareketlilik piyasalarda iyimserlik yaratsa da, asıl soru işareti bu ivmenin kalıcı bir şahlanış mı yoksa dönemsel bir veri sapması mı olduğu noktasında yoğunlaşıyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/cin-imalatindaki-mart-sicramasi-kuresel-ekonomi-icin-yeni-bir-cikis-yolu-mu-nsgq_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_e6cb1986",
-    "title": "Çocuklarda geniz eti ne zaman alınmalı? Hangi durumlarda ameliyat gerekir?",
-    "source": "Ekonomim",
-    "time": "01/04/2026 17:35",
-    "link": "https://www.ekonomim.com/foto-galeri/yasam/cocuklarda-geniz-eti-ne-zaman-alinmali-hangi-durumlarda-ameliyat-gerekir-s1-galeri-885443",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Medicana International İstanbul Hastanesi Kulak Burun Boğaz Bölümü’nden Profesör Doktor Cenk Evren, geniz etinin bazı durumlarda ciddi sağlık sorunlarına yol açabileceğini belirterek, &quot;Geniz eti normal bir organ olmasına rağmen, aşırı büyüyerek veya enfeksiyonlara yol açarak ciddi sorunlara neden olabilir.&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/geniz-eti-ne-zaman-alinmali-hangi-durumlarda-ameliyat-gerekir-bh1k_cover.gif",
     "keyword": null
   }
 ]
