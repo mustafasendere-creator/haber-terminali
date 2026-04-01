@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_08efedee",
+    "title": "Tunceli'nin dağlarında yaban keçileri ve tilkiler yiyecek ararken görüntülendi",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 13:53",
+    "link": "https://www.aa.com.tr/tr/guncel/tuncelinin-daglarinda-yaban-kecileri-ve-tilkiler-yiyecek-ararken-goruntulendi/3888057",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tunceli'deki Munzur Vadisi Milli Parkı'nda yaban keçileri ve tilkiler yiyecek ararken görüntülendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3704d622",
     "title": "Kosova'da Dünya Kupası'na katılamamanın üzüntüsü",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Akçaabat Belediyesi, balıkhane otopark alanına ilişkin iddialara yanıt verdi. Yapılan açıklamada, tüm işlemlerin yasal izinler ve resmi kayıtlar doğrultusunda yürütüldüğü belirtildi.",
     "image": "https://resim.haber61.net/news/610349.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_54d1de43",
-    "title": "Fransız girişimi eski spor ayakkabıları yeniden hayata döndürüyor",
-    "source": "Euronews",
-    "time": "01/04/2026 13:14",
-    "link": "http://tr.euronews.com/kultur/2026/04/01/fransiz-girisimi-eski-spor-ayakkabilari-yeniden-hayata-donduruyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa merkezli bir geri dönüşüm şirketi, çöpe gitmek üzere olan spor ayakkabıları yeniden kullanıma kazandırarak hem ürünlerin ömrünü uzatmayı hem de tekstil sektöründe dönüşüm yaratmayı hedefliyor.",
-    "image": null,
-    "keyword": null
   }
 ]
