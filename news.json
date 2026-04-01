@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_36fd86ac",
+    "title": "Bakanlık'ta Roblox toplantısı",
+    "source": "OdaTV",
+    "time": "01/04/2026 20:54",
+    "link": "https://www.odatv.com/guncel/bakanlikta-roblox-toplantisi-120141678",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ulaştırma ve Altyapı Bakan Yardımcısı Ömer Fatih Sayan, çocukların dijital ortamda güvenliğinin öncelikleri olduğunu belirterek, Roblox yetkilileriyle kapsamlı bir değerlendirme yaptıklarını bildirdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/bakanlikta-roblox-toplantisi-b3ru.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_3ccfc200",
     "title": "Şehit Eren Bülbül ve Jandarma Astsubay Kıdemli Başçavuş Ferhat Gedik, Trabzon'da durak kulübesine resmedildi. - x.com",
     "source": "X",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İranlı askeri yetkili, İsrail, Irak Kürt Bölgesel Yönetimi IKBY ve bölgedeki ABD üslerini hedef aldıklarını ifade ederek bugün önceki iki güne göre 2 kat fazla füze attıklarını söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4ff8b50f",
-    "title": "Kuveyt: Son 24 saatte ülke İran kaynaklı 3 seyir füzesi ve 15 İHA saldırısıyla hedef alındı",
-    "source": "TRT Haber",
-    "time": "01/04/2026 19:54",
-    "link": "https://www.trthaber.com/haber/dunya/kuveyt-son-24-saatte-ulke-iran-kaynakli-3-seyir-fuzesi-ve-15-iha-saldirisiyla-hedef-alindi-939969.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuveyt Savunma Bakanlığı, son 24 saatte ülkenin 3 seyir füzesi ve 15 insansız hava aracıyla İHA hedef alındığını bildirdi.",
     "image": null,
     "keyword": null
   }
