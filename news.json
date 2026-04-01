@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9edccbc1",
+    "title": "Kuzey Kore'den ABD şirketlerine yazılım saldırısı",
+    "source": "TRT Haber",
+    "time": "01/04/2026 09:15",
+    "link": "https://www.trthaber.com/haber/dunya/kuzey-koreden-abd-sirketlerine-yazilim-saldirisi-939876.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuzey Kore bağlantılı bilgisayar korsanları, binlerce ABD'li şirket tarafından kullanılan popüler bir yazılım paketine sızarak büyük bir tedarik zinciri saldırısı gerçekleştirdi. Güvenlik uzmanları, Salı günü düzenlenen bu saldırının etkilerinin ortadan kaldırılmasının aylar süreceğini belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_be1dc088",
     "title": "İstanbul'da yağış sonrası toprak kaydı, 6 bina boşaltıldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da dün düzenlenen Volkan Konak anma töreni, duygusal anlara sahne oldu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/trabzon-199.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_140f22a8",
-    "title": "Trabzonspor unutmadı...",
-    "source": "61 Saat",
-    "time": "01/04/2026 08:34",
-    "link": "https://www.61saat.com/trabzonspor-unutmadi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Türk müziğinin unutulmaz ismi Volkan Konak’ın dün anma töreni gerçekleşti.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/fkmgdmkfgkmdfg.png",
     "keyword": "trabzon"
   }
 ]
