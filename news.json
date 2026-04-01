@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_94930169",
+    "title": "Video namaz kılan İran askerlerini mi gösteriyor?",
+    "source": "Teyit.org",
+    "time": "01/04/2026 12:57",
+    "link": "https://teyit.org/analiz/video-namaz-kilan-iran-askerlerini-mi-gosteriyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "",
+    "image": "https://md.teyit.org/2026/04/iran-askeri-cuma-namazi-iddiasi.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_54d459be",
     "title": "Milli takımın Kosova maçı reyting rekoru kırdı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Rize’de bir inşaat şantiyesinde çıkan tartışma bıçaklı kavgaya dönüştü. Olayda 2 işçi yaralanırken, şüpheli kısa sürede yakalandı.",
     "image": "https://resim.haber61.net/news/610343.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_adc1c9b0",
-    "title": "Hürmüz Boğazı’nda ticaret, geçiş izni verilen gemilerle sınırlı şekilde sürüyor",
-    "source": "Anadolu Ajansı",
-    "time": "01/04/2026 12:53",
-    "link": "https://www.aa.com.tr/tr/guncel/hurmuz-bogazi-nda-ticaret-gecis-izni-verilen-gemilerle-sinirli-sekilde-suruyor/3887910",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hürmüz Boğazı'nda ticaret bir aylık sürede geçiş izni verilen gemilerle oldukça sınırlı şekilde sürerken, Boğaz'daki trafiğin geleceğine ilişkin belirsizlikler artıyor.",
-    "image": null,
     "keyword": null
   }
 ]
