@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_71db5464",
+    "title": "BAE'nin, İran vatandaşlarının ülkeye giriş ve transit geçişini yasakladığı duyurdu",
+    "source": "TRT Haber",
+    "time": "01/04/2026 08:55",
+    "link": "https://www.trthaber.com/haber/dunya/baenin-iran-vatandaslarinin-ulkeye-giris-ve-transit-gecisini-yasakladigi-duyurdu-939872.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirliklerinin BAE, İran vatandaşlarının ülkeye girişini ve transit geçişini yasakladığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_55a6f370",
     "title": "İrandan Kuveyt Uluslararası Havalimanı'nda yakıt tanklarına İHA'lı saldırı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ), 1 Nisan Çarşamba günü gerçekleştirilecek bakım ve onarım çalışmaları nedeniyle kentin bazı ilçelerinde su kesintisi uygulanacağını duyurdu. Anadolu ve Avrupa yakasındaki birçok mahalleyi etkileyecek kesintilerle ilgili detaylı bilgilendirme yapılırken, kent sakinleri suyun ne zaman geleceğini İSKİ’nin resmi arıza sorgulama ekranından öğrenebiliyor. Peki, İstanbul'da sular ne zaman, saat kaçta gelecek? İşte detaylar...",
     "image": "https://im.haberturk.com/l/2026/03/31/ver1774982451/3873832/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_90f03ad0",
-    "title": "Silah kaçakçılığı operasyonu: 4 gözaltı",
-    "source": "Habertürk",
-    "time": "01/04/2026 07:55",
-    "link": "https://www.haberturk.com/gaziantep-te-silah-kacakciligi-operasyonu-4-gozalti-3873868",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gaziantep'te düzenlenen silah kaçakçılığı operasyonunda 4 şüpheli gözaltına alındı",
-    "image": "https://im.haberturk.com/l/2026/04/01/ver1774996409/3873868/jpg/1280x1280",
     "keyword": null
   }
 ]
