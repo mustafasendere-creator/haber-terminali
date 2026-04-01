@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02037b7f",
+    "title": "Meteoroloji'den sarı kodlu uyarı: Kuvvetli yağışlara dikkat!",
+    "source": "Haber Global",
+    "time": "01/04/2026 07:14",
+    "link": "https://haberglobal.com/gundem/meteorolojiden-sari-kodlu-uyari-kuvvetli-yagislara-dikkat-516388",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji'nin yayımladığı 1 Nisan 2026 hava durumu raporuna göre, sağanak yağış yurtta etkili olmaya devam ediyor. Kuvvetli yağış beklenen 6 il için sarı kodlu uyarı yapılarak vatandaşların olası olumsuzluklara karşı dikkatli ve tedbirli olmaları istendi. İşte yurt genelinde 24 saat boyunca beklenen hava durumu...",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/meteorolojiden-sari-kodlu-uyari-kuvvetli-yagislara-dikkat-7c2p.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9e7d5e2c",
     "title": "A Milli Futbol Takımı galibiyet sonrası yurda döndü",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İsrail ile birlikte İran'a başlattıkları saldırılarla ilgili olarak, hedeflerine ulaştıklarını iddia ederek, çok yakın zamanda İran'dan \"ayrılacaklarını\" söyledi. Beyaz Saray da Trump'ın Çarşamba gecesi İran'la ilgili önemli bir açıklama yapacağını duyurdu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f6ac1abb",
-    "title": "Kim Kime Dum Duma - 1 Nisan 2026",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 04:54",
-    "link": "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-1-nisan-2026-2491316",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": ".",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7df7ddbf-e79c-483b-a867-c53f0e318b07.jpg",
     "keyword": null
   }
 ]
