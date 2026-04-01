@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_90be137b",
+    "title": "ABD'nin \"İran'a saldırıların başlatılmasından beri 16 adet MQ-9 Reaper İHA kaybettiği\" iddiası",
+    "source": "Anadolu Ajansı",
+    "time": "01/04/2026 22:13",
+    "link": "https://www.aa.com.tr/tr/guncel/abdnin-irana-saldirilarin-baslatilmasindan-beri-16-adet-mq-9-reaper-iha-kaybettigi-iddiasi/3888600",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ordusunun, 28 Şubat'tan bu yana İran'a yönelik saldırılarda 16 adet MQ-9 Reaper tipi insansız hava aracını (İHA) kaybettiği ileri sürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6d61cfe6",
     "title": "Bakan Çiftçi'den önemli görüşme: Hollanda Adalet ve Güvenlik Bakanı ile bir araya geldi",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İngiltere’den Christine Blower ve NEU Genel Sekreteri Daniel Kebede, işçileri savunduğu için tutuklanan sendika başkanı Mehmet Türkmen’in derhal serbest bırakılmasını istedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341218.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cc16c47a",
-    "title": "Doğa savunucusu Esra Işık’ın tutuklanmasına tepki: Akbelen'de yaşanan doğayı savunan herkese birer gözdağıdır",
-    "source": "Evrensel",
-    "time": "01/04/2026 21:13",
-    "link": "https://www.evrensel.net/haber/5977791/doga-savunucusu-esra-isikin-tutuklanmasina-tepki-akbelende-yasanan-dogayi-savunan-herkese-birer-gozdagidir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara ve İzmir’de doğa savunucusu Esra Işık’ın tutuklanmasına tepki için yapılan açıklamalarda, Akbelen’de yaşananların doğayı savunan herkese birer gözdağı olduğu vurgulanarak Esra Işık’ın derhal serbest bırakılması talep edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341219.jpg",
     "keyword": null
   }
 ]
