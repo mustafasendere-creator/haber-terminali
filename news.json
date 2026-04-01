@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_92134bcc",
+    "title": "İngiltere, Hürmüz Boğazı Zirvesi'ne ev sahipliği yapacak",
+    "source": "Evrensel",
+    "time": "01/04/2026 14:34",
+    "link": "https://www.evrensel.net/haber/5977721/ingiltere-hurmuz-bogazi-zirvesine-ev-sahipligi-yapacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiltere Başbakanı Keir Starmer, 35 ülkenin katılacağı konferansta deniz güvenliği ve Hürmüz Boğazı’nın yeniden açılmasına yönelik adımların ele alınacağını açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/338162.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3b30e213",
     "title": "İsrail, Lübnan’ın Dahiye bölgesine saldırı düzenledi: 7 ölü, 26 yaralı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'da martta bir önceki aya göre perakende fiyatlar yüzde 2,97, toptan fiyatlar yüzde 1,54 artış gösterdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/istanbulun-enflasyonu-belli-oldu-o2ib.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7474cc6f",
-    "title": "İstanbul'da huzur uygulaması: 1023 gözaltı",
-    "source": "TRT Haber",
-    "time": "01/04/2026 13:54",
-    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-huzur-uygulamasi-1023-gozalti-939928.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da, polis ekiplerince yapılan denetimde, çeşitli suçlardan aranan 557 şüphelinin de aralarında bulunduğu toplam 1023 kişi gözaltına alındı.",
-    "image": null,
     "keyword": null
   }
 ]
