@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_89e78327",
+    "title": "THY’nin Romanya’daki dördüncü uçuş noktası Temeşvar oldu",
+    "source": "Ekonomim",
+    "time": "01/04/2026 17:15",
+    "link": "https://www.ekonomim.com/havacilik/thynin-romanyadaki-dorduncu-ucus-noktasi-temesvar-oldu-haberi-885441",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk Hava Yolları, Romanya’da Bükreş, Cluj-Napoca ve Köstence’nin ardından Temeşvar’a da haftada beş gün tarifeli sefer başlattı; ülkedeki toplam haftalık uçuş sayısı 47’ye yükseldi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/01/thynin-romanyadaki-dorduncu-ucus-noktasi-temesvar-oldu-9ysq_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0214d127",
     "title": "Konser harcamaları davası ertelendi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Rusya Savunma Bakanlığı, Luhansk bölgesinin tamamını kontrol altına aldıklarını bildirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/01/rusya-luhanski-tamamini-kontrol-altina-aldik-x0ht.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6c9f27aa",
-    "title": "İran Meclis Başkan Yardımcısı: ABD ile müzakere olmayacak ve Hürmüz Boğazı açılmayacak",
-    "source": "TRT Haber",
-    "time": "01/04/2026 16:34",
-    "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskan-yardimcisi-abd-ile-muzakere-olmayacak-ve-hurmuz-bogazi-acilmayacak-939918.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Meclis Başkan Yardımcısı Ali Nikzad, ABD ile müzakere olmayacağını ve Hürmüz Boğazı'nın da açılmayacağını söyledi.",
-    "image": null,
     "keyword": null
   }
 ]
