@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_27a0e783",
+    "title": "Kendinizle çeliştiğinizi fark etmiyor musunuz? İşte nedeni...",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 01:54",
+    "link": "https://www.cumhuriyet.com.tr/yasam/kendinizle-celistiginizi-fark-etmiyor-musunuz-iste-nedeni-2491544",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Günlük hayatta verdiğiniz kararlar ile savunduğunuz değerler arasındaki fark, farkında olmadan bir zihinsel çatışma yaratıyor. Peki, psikolojide “bilişsel uyumsuzluk” olarak adlandırılan bu durum davranışlarınızı nasıl şekillendiriyor?",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f561a4b4-86be-48f6-a918-b2966f8a1192.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e4cb4f4c",
     "title": "Uzmanı uyardı: Geçmeyen ağrıların nedeni travma olabilir",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Giresun Dereli Yıldız Ortaokulu öğrencileri, akran zorbalığına karşı yapay zekâ destekli anonim bildirim sistemi geliştirdi. Proje, TÜBİTAK sergisinde dikkat çekti.",
     "image": "https://resim.haber61.net/news/610392.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_3e520b7f",
-    "title": "Meteorolojiden Trabzon için kritik uyarı! Ulaşımda aksamalar yaşanabilir",
-    "source": "Haber61",
-    "time": "02/04/2026 00:33",
-    "link": "https://www.haber61.net/trabzon/meteorolojiden-trabzon-icin-kritik-uyari-ulasimda-aksamalar-yasanabilir-h628309.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Meteoroloji Genel Müdürlüğü, Giresun, Trabzon ve Gümüşhane için kuvvetli rüzgar ve fırtına uyarısı yaptı. Yetkililer, çatı uçması ve ulaşımda aksamalara karşı dikkatli olunmasını istedi.",
-    "image": "https://resim.haber61.net/news/610394.jpg",
     "keyword": null
   }
 ]
