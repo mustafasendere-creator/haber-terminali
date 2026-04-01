@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_10b6dd31",
+    "title": "İsviçre Maliye Bakanı Keller-Sutter'den Grok'un hakaret içerikli paylaşımı için suç duyurusu",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 01:33",
+    "link": "https://www.aa.com.tr/tr/guncel/isvicre-maliye-bakani-keller-sutterden-grokun-hakaret-icerikli-paylasimi-icin-suc-duyurusu/3888695",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsviçre Maliye Bakanı Karin Keller-Sutter, ABD merkezli X sosyal medya platformunun yapay zeka sohbet robotu Grok tarafından kendisi hakkında üretilen hakaret içerikli ifadeler nedeniyle suç duyurusunda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6de422c7",
     "title": "52 yıllık cinayet çözüldü",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AKP Sözcüsü Ömer Çelik partisinin MYK toplantısı sonrası dikkat çeken açıklamalarda bulundu. ABD ve İsrail'in İran'a saldırılarını hukuksuz olarak niteleyen Çelik, İsrail'in Kürtleri savaşa çekmek istediğini söyledi. İç siyasete dair de mesajlar veren Çelik, Özgür Özel'in 'ara seçim' çağrısını da yanıtladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9f75ff26-1e2d-4e7a-86e6-3924bd65133e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e7abd89e",
-    "title": "Galatasaray Daikin CEV Kupası'nda şampiyonluk için avantajı kaptı!",
-    "source": "Cumhuriyet",
-    "time": "01/04/2026 23:54",
-    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-daikin-cev-kupasi-nda-sampiyonluk-icin-avantaji-kapti-2491618",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray Daikin, Voleybol Kadınlar CEV Kupası finali ilk maçında deplasmanda karşılaştığı Chieri'yi 3-2 yenerek seride 1-0 öne geçti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d7a6de7e-922c-46f5-81f4-a0c3c464ad50.jpg",
     "keyword": null
   }
 ]
