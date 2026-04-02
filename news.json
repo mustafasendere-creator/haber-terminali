@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f6519cb1",
+    "title": "Sivas'ta cami kubbesi 14 yıldır leylekleri ağırlıyor",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 15:13",
+    "link": "https://www.aa.com.tr/tr/guncel/sivasta-cami-kubbesi-14-yildir-leylekleri-agirliyor/3889327",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sivas'ın Hafik ilçesinde cami kubbesi 14 yıldır leylekleri ağırlıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_b4580422",
     "title": "TÜGVA Trabzon İl Temsilcisi Hakan Özgören Haber61'e konuk oldu: “Çalışmalarımız gönüllük esasıyla yürütülüyor\"",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İBB davasında etkin pişmanlıktan yararlanmak amacıyla ifade veren 5 sanığın ifadelerinin aynı avukat eşliğinde alındığı ortaya çıktı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339925.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e4876335",
-    "title": "ABD’den Venezuela adımı: Geçici Devlet Başkanı Rodriguez'e yönelik yaptırımlar kaldırıldı",
-    "source": "Evrensel",
-    "time": "02/04/2026 14:34",
-    "link": "https://www.evrensel.net/haber/5977910/abdden-venezuela-adimi-gecici-devlet-baskani-rodrigueze-yonelik-yaptirimlar-kaldirildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD, Venezuela Geçici Devlet Başkanı Delcy Rodriguez’e uygulanan yaptırımları kaldırdı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341301.jpg",
     "keyword": null
   }
 ]
