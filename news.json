@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a08c08ea",
+    "title": "İran İsrail'i böyle vurdu",
+    "source": "OdaTV",
+    "time": "02/04/2026 22:15",
+    "link": "https://www.odatv.com/guncel/iran-israili-boyle-vurdu-120141851",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran&#039;dan fırlatılan bir balistik füzenin İsrail&#039;in başkenti Tel Aviv&#039;in yaklaşık 10 kilometre doğusundaki Petah Tikva kentine düştüğü anlar anbean kameralara yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/iran-israili-boyle-vurdu-d0g7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bd69843c",
     "title": "İsrail Savunma Bakanı Katz Hizbullah Genel Sekreteri Kasım'ı suikastla tehdit etti",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Belirlenen ulusal çerçeve, altyapının yeniden inşası, temel hizmetlerin yeniden başlatılması, sosyal ve ekonomik dayanıklılığın güçlendirilmesi ile savaş kalıntılarının temizlenmesiyle eş zamanlı olarak kamu kurumlarının yeniden inşasını içeriyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_977fbdae",
-    "title": "Ekonomiye ilişkin düzenlemeleri de içeren kanun teklifi TBMM Genel Kurulunda kabul edildi",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 21:13",
-    "link": "https://www.aa.com.tr/tr/guncel/ekonomiye-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi/3889816",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM Genel Kurulunda, ekonomiye ilişkin düzenlemeleri de içeren Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Teklifi kabul edilerek yasalaştı.",
     "image": null,
     "keyword": null
   }
