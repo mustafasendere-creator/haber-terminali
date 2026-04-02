@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a9248716",
+    "title": "Galatasaray'a Gabriel Sara'dan kötü haber",
+    "source": "OdaTV",
+    "time": "02/04/2026 13:16",
+    "link": "https://www.odatv.com/spor/galatasaraya-gabriel-saradan-kotu-haber-120141769",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray&#039;dan yapılan açıklamada, Brezilyalı orta saha oyuncusu Gabriel Sara&#039;nın sol ayak bileğinden sakatlık yaşadığı açıklandı. Kulüp oyuncunun durumunun gün içerisinde yapılacak tetkiklerinin ardından netlik kazanacağını belirtti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/galatasaraya-gabriel-saradan-kotu-haber-xcm5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_568df76f",
     "title": "LPG'ye dev zam",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "AJet, ikinci yılına özel kampanyayla tüm yurt içi hatlarda biletleri yüzde 20 indirimle satışa sundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e68da3f3",
-    "title": "Bursa'da bir apartmanda çıkan yangın söndürüldü",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 12:53",
-    "link": "https://www.aa.com.tr/tr/guncel/bursada-bir-apartmanda-cikan-yangin-sonduruldu/3889189",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'nın Yıldırım ilçesindeki bir apartmanın en üst katında çıkan yangın, itfaiye ekiplerince söndürüldü. Yangında dumandan etkilenen 4 kişi tedavi altına alındı.",
     "image": null,
     "keyword": null
   }
