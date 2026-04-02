@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3c7228b",
+    "title": "Akdeniz'de 4,2 büyüklüğünde deprem",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 23:13",
+    "link": "https://www.aa.com.tr/tr/guncel/akdenizde-4-2-buyuklugunde-deprem/3889901",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akdeniz'de saat 22.35'te 4,2 büyüklüğünde deprem meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2b859d60",
     "title": "Sosyal medyaya ve doğum iznine yönelik düzenlemeleri de içeren kanun teklifi komisyonda kabul edildi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran yanlısı Haşdi Şabi’ye bağlı Kataib Hizbullah, Salı günü kaçırılan ABD’li gazetecinin serbest bırakılması karşılığında, Irak hükümeti tarafından tutuklanan bazı örgüt üyelerinin bırakılmasının görüşülmesini teklif etti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/abdli-gazeteciyi-kaciran-orgutten-aciklama-v6po.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_278c613f",
-    "title": "Kemal Can ev hapsi şartıyla tahliye edildi",
-    "source": "OdaTV",
-    "time": "02/04/2026 21:55",
-    "link": "https://www.odatv.com/guncel/kemal-can-ev-hapsi-sartiyla-tahliye-edildi-120141853",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Can Holding soruşturmasında tutuklu bulunan Can Holding Yönetim Kurulu Başkanı Kemal Can ev hapsi şartıyla tahliye edildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/lgs-ne-zaman-milli-egitim-bakanligindan-son-dakika-aciklamasi-iqb6.jpg",
     "keyword": null
   }
 ]
