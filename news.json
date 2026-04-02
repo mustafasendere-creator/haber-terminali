@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c41ab5b",
+    "title": "İtalya: UNIFIL'in Şemaa'daki üssüne kaynağı belirsiz roket isabet etti",
+    "source": "TRT Haber",
+    "time": "02/04/2026 22:34",
+    "link": "https://www.trthaber.com/haber/dunya/italya-unifilin-semaadaki-ussune-kaynagi-belirsiz-roket-isabet-etti-940139.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya Savunma Bakanlığı, İtalyan askerlerinin de görev yaptığı Birleşmiş Milletler BM Lübnan Geçici Barış Gücü'nün UNIFIL Batı Bölge Karargahı olan Şemaa'daki üsse roket isabet ettiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f0c600f2",
     "title": "Arakçi: Sivil altyapıyı hedef almak İranlıları teslim etmeyecek",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adalet Bakanı Akın Gürlek, Türk Telekom CEO&#039;su Ebubekir Şahin ile bir araya gelerek stratejik bir istişare toplantısı gerçekleştirdi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/bakan-gurlek-turk-telekom-ceosu-sahin-ile-gorustu-xyon_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7a33245e",
-    "title": "İran’da ABD-İsrail saldırılarında can kaybı 2 bin 76’ya çıktı",
-    "source": "Ekonomim",
-    "time": "02/04/2026 21:14",
-    "link": "https://www.ekonomim.com/dunya/iranda-abd-israil-saldirilarinda-can-kaybi-2-bin-76ya-cikti-haberi-885709",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’da 28 Şubat’tan bu yana devam eden ABD-İsrail saldırılarında can kaybı 2 bin 76’ya, yaralı sayısı ise 26 bin 500’e yükseldi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/iranda-abd-israil-saldirilarinda-can-kaybi-2-bin-76ya-cikti-zuzg_cover.jpg",
     "keyword": null
   }
 ]
