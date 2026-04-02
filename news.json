@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eaec4b1a",
+    "title": "DEM Parti’den 'ara seçim' yanıtı, Abdullah Öcalan için 'aracısız iletişim' çağrısı",
+    "source": "Evrensel",
+    "time": "02/04/2026 19:55",
+    "link": "https://www.evrensel.net/haber/5977947/dem-partiden-ara-secim-yaniti-abdullah-ocalan-icin-aracisiz-iletisim-cagrisi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DEM Parti Sözcüsü Ayşegül Doğan, \"Biz Öcalan'ın özgür bir şekilde çalışabileceği, yaşayabileceği, doğrudan temas kurabileceği iletişim şartlarının oluşturulması gerektiğini düşünüyoruz\" dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341333.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_10a1050f",
     "title": "Uganda'da bir anaokuluna bıçaklı saldırı: 4 çocuk hayatını kaybetti",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Ankara sokaklarındaki kırık kaldırım taşları, heykel sanatçısı Ozan Kıran'ın dokunuşuyla sanata dönüşüyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_097ef236",
-    "title": "Önce kavgada bıçaklandı, sonra hastanede silahla vuruldu",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 18:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/once-kavgada-bicaklandi-sonra-hastanede-silahla-vuruldu-2491860",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da yaşanan olayda bir kişi bıçaklandıktan sonra kaldırıldığı hastanede silahlı saldırıya uğradı. Olayla inceleme başlatıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0f89cef4-956e-4811-889c-db66b20b988e.jpg",
-    "keyword": "trabzon"
   }
 ]
