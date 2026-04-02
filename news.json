@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f8075c00",
+    "title": "Rusya'da Apple'ın hizmetlerine yönelik ödemelerin durdurulduğu bildirildi",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 19:53",
+    "link": "https://www.aa.com.tr/tr/guncel/rusyada-applein-hizmetlerine-yonelik-odemelerin-durduruldugu-bildirildi/3889729",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD merkezli teknoloji şirketi Apple, Rusya'da uygulama dükkanı App Store ve iCloud gibi hizmetlerine yönelik ödemelerin durdurulduğunu duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_dbab63f3",
     "title": "Başkan Genç’ten dikkat çeken söz! “Bu farkındalık bir günle sınırlı kalmamalı”",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Büyükelçiliğin ABD merkezli X şirketinin sosyal medya platformundaki hesabından yapılan açıklamada, İran&#8217;la bağlantılı &#8220;Iraklı terörist milislerin&#8221; gelecek 24 ila 48 saat içinde Bağdat&#8217;ın merkezinde saldırılar düzenlemeyi planlıyor olabileceği ifade edildi. Açıklamada İran ve onunla bağlantılı &#8220;terörist milislerin&#8221; Irak Kürt Bölgesel Yönetimi dahil Irak&#8217;ın çeşitli bölgelerinde Amerikan vatandaşları ve ABD bağlantılı hedeflere yönelik geniş çaplı saldırılar [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69ce443ab1d546.68791672.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_64dd9360",
-    "title": "Pegasus Hava Yolları bazı Orta Doğu ülkelerine yapılan seferlerin iptal süresini uzattı",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 18:53",
-    "link": "https://www.aa.com.tr/tr/guncel/pegasus-hava-yollari-bazi-orta-dogu-ulkelerine-yapilan-seferlerin-iptal-suresini-uzatti/3889665",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pegasus Hava Yolları, hava sahasında yaşanan güvenlik riskleri nedeniyle İran, Irak, Ürdün, Lübnan, Kuveyt, Bahreyn, Katar, Suudi Arabistan ve Birleşik Arap Emirlikleri'ne yapılan uçuşların iptal süresinin uzatıldığını duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
