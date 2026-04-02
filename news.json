@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_657ea9b4",
+    "title": "Cumhurbaşkanı Erdoğan konuşuyor",
+    "source": "TRT Haber",
+    "time": "02/04/2026 15:14",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-940082.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde, Devlet Su İşleri tarafından tamamlanan 563 tesisin toplu açılış törenine katılacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_abaf782c",
     "title": "Gazzede elektrik düzensizliği hastalar için ciddi risk oluşturuyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bloomberg News&#039;in haberine göre BlackRock, Avrupa’da enflasyonda belirgin bir artış beklentisiyle Alman tahvillerine yönelik kısa pozisyonlarını artırdı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/01/06/blackrock-abd-veri-takviminin-normallesmesi-piyasalara-netlik-sagladi-inun_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b1634103",
-    "title": "Üsküdar Belediyesi'nden \"Atıksız Mutfak\" projesi",
-    "source": "Habertürk",
-    "time": "02/04/2026 14:35",
-    "link": "https://www.haberturk.com/uskudar-belediyesi-nden-atiksiz-mutfak-projesi-3874096",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'un Üsküdar Belediyesi, \"30 Mart Dünya Sıfır Atık Günü\" kapsamında gıda israfına dikkat çekmek ve toplumda farkındalık oluşturmak amacıyla \"Atıksız Üsküdar, Atıksız Mutfak\" projesini hayata geçirdi. Üsküdar Belediyesi Başkan Yardımcısı Nihat Doğan, gıda israfının günümüzün en önemli çevresel ve toplumsal sorunlarından biri olduğuna dikkati çekerek, \"Sıfır Atık yaklaşımını sadece bir çevre politikası olarak değil, bir yaşam kültürü olarak görüyoruz\" dedi",
-    "image": "https://im.haberturk.com/l/2026/04/01/ver1775057548/3874096/jpg/1280x1280",
     "keyword": null
   }
 ]
