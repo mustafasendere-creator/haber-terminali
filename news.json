@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6017dde7",
+    "title": "İkizköylü aktivist Esra Işık neden tutuklandı?",
+    "source": "DW Türkçe",
+    "time": "02/04/2026 12:34",
+    "link": "https://www.dw.com/tr/ikizköylü-aktivist-esra-işık-neden-tutuklandı/a-76638975",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İkizköy'deki tarım arazileri hakkındaki acele kamulaştırma kararına itiraz eden Esra Işık tutuklandı. Protestolarda öne çıkan bir isim olan Işık'ın tutuklanmasına birçok siyasi, çevre örgütü ve sendika tepki gösterdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6ab41ac5",
     "title": "Tutuklu gazeteci Alican Uludağ AYM'ye başvurdu",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray’ın Manchester United’da forma giyen Manuel Ugarte ile yakından ilgilendiği iddia edildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341283.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_76010199",
-    "title": "Trabzon’da “Kalbimin Rengi” sergisi sanatseverlerle buluşuyor",
-    "source": "Taka Gazetesi",
-    "time": "02/04/2026 11:54",
-    "link": "https://www.takagazete.com.tr/trabzonda-kalbimin-rengi-sergisi-sanatseverlerle-bulusuyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonlu sanatçı Abdulkadir Yıldırım’ın “Kalbimin Rengi” sergisi 2–10 Nisan’da sanatseverlerle buluşuyor. Otizm farkındalığına dikkat çekiyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/2d92d938-2248-4e73-a614-687507c58a4d.jpg",
     "keyword": null
   }
 ]
