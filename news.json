@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_62892445",
+    "title": "Fenerbahçe'de Alvarez ve Skriniar'ın sağlık durumu netleşti",
+    "source": "Evrensel",
+    "time": "03/04/2026 00:14",
+    "link": "https://www.evrensel.net/haber/5977983/fenerbahcede-alvarez-ve-skriniarin-saglik-durumu-netlesti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Yönetim Kurulu Üyesi Ertan Torunoğulları, sakat futbolcuların sağlık durumu hakkında açıklama yaptı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341306.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_0960d0a7",
     "title": "ÇEVRE DÜZENLEME İŞİ YAPTIRILACAKTIR",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sultanlar Ligi'nde Vakıfbank, sahasında Eczacıbaşı'nı 3-2 mağlup etti ve seride durumu 2-0'a getirip finale yükseldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/fenerbahce-sultanlar-liginde-finale-yukseldi-lsaa.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bac88881",
-    "title": "ABD/İsrailİran Savaşı'na dahil olan Yemen'deki Husiler İsrail'e füze fırlattı",
-    "source": "TRT Haber",
-    "time": "02/04/2026 22:54",
-    "link": "https://www.trthaber.com/haber/dunya/abdisrail-iran-savasina-dahil-olan-yemendeki-husiler-israile-fuze-firlatti-940131.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail'in İran'a saldırılarıyla başlayan savaşa dahil olan Yemen'deki Husiler, İsrail'e füze saldırısında bulundu.",
-    "image": null,
     "keyword": null
   }
 ]
