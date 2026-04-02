@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_755481dc",
+    "title": "Rusya: Hürmüz Boğazı bize açık",
+    "source": "OdaTV",
+    "time": "02/04/2026 23:15",
+    "link": "https://www.odatv.com/guncel/rusya-hurmuz-bogazi-bize-acik-120141857",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya Devlet Başkanı Dış Politika Danışmanı Yuri Uşakov, Hürmüz Boğazı’ndan petrol tankerlerinin geçişinin engellenmesine ilişkin yaptığı açıklamada, &quot;Hürmüz boğazı bize açık&quot; dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/rusya-hurmuz-bogazi-bize-acik-lrv6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cad6d130",
     "title": "Görenleri şoke eden kaza",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da kadın cinayeti Bir kadının daha yaşam hakkı, evli olduğu erkek tarafından elinden alındı Fail erkek, kendisini de öldürdü  x.com",
     "image": null,
     "keyword": "trabzon intihar"
-  },
-  {
-    "id": "GND_277b8c73",
-    "title": "Restoranları kıskandıran lezzet: Evde orijinal çökertme kebabı tarifi...",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 22:14",
-    "link": "https://www.cumhuriyet.com.tr/gurme/restoranlari-kiskandiran-lezzet-evde-orijinal-cokertme-kebabi-tarifi-2491908",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çıtır çıtır kibrit patateslerin, sarımsaklı yoğurt ve lokum gibi pişmiş etle buluştuğu efsanevi çökertme kebabı tarifi...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/9693e51c-66ae-4a03-825e-d457d7c2f7fb.jpg",
-    "keyword": null
   }
 ]
