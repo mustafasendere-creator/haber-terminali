@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de8ef520",
+    "title": "Askeri üs yarışında yeni tablo: ABD ilk sırada, Türkiye dikkat çekiyor",
+    "source": "Evrensel",
+    "time": "02/04/2026 15:54",
+    "link": "https://www.evrensel.net/haber/5977923/askeri-us-yarisinda-yeni-tablo-abd-ilk-sirada-turkiye-dikkat-cekiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2025 verilerine göre küresel askeri üs dağılımı açıklandı. ABD liderliğini korurken Türkiye, 12 ülkedeki varlığıyla dördüncü sıraya yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341308.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_bd43a3bd",
     "title": "YKS başvuru desteği hesaplarda",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde, Devlet Su İşleri tarafından tamamlanan 563 tesisin toplu açılış törenine katılacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_abaf782c",
-    "title": "Gazzede elektrik düzensizliği hastalar için ciddi risk oluşturuyor",
-    "source": "TRT Haber",
-    "time": "02/04/2026 15:14",
-    "link": "https://www.trthaber.com/haber/dunya/gazzede-elektrik-duzensizligi-hastalar-icin-ciddi-risk-olusturuyor-940087.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazzedeki Şifa Hastanesi Müdürü Doktor Muhammed Ebu Silmiyye, hastanedeki hayati bölümlere jeneratörlerden ulaşan elektrik miktarındaki düzensizlik nedeniyle hastaların sağlık durumunun kötüleşebileceği uyarısında bulundu.",
     "image": null,
     "keyword": null
   }
