@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cc9fa501",
+    "title": "ABD Başkanı Trump, Adalet Bakanı Bondi'yi görevden aldığını duyurdu",
+    "source": "Haber Global",
+    "time": "02/04/2026 22:34",
+    "link": "https://haberglobal.com/gundem/abd-baskani-trump-adalet-bakani-bondiyi-gorevden-aldigini-duyurdu-516743",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Adalet Bakanı Pam Bondi'yi görevden aldığını, yerine Adalet Bakan Yardımcısı Todd Blanche'in Bakan Vekili olarak atandığını açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/abd-baskani-trump-adalet-bakani-bondiyi-gorevden-aldigini-duyurdu-7giv.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_249d35e1",
     "title": "Abdullah Avcı ve Mustafa Denizli'den Dünya Kupası sözleri",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Arda Özkurt: \"Trabzonspor ve Galatasaray, Oulai için anlaşmışken, Ertuğrul Doğan taraftar tepkisinden çekinip sosyal medya üzerinden bir paylaşım yaptırılınca, bu paylaşım Galatasaray cephesini rahatsız etti. Daha sonrasına rota Ngaha’ya döndü. Teknik eki  x.com",
     "image": null,
     "keyword": "trabzonspor"
-  },
-  {
-    "id": "GND_13ba033b",
-    "title": "Trump, Adalet Bakanı Pam Bondi'yi görevden aldı",
-    "source": "OdaTV",
-    "time": "02/04/2026 21:14",
-    "link": "https://www.odatv.com/dunya/trump-adalet-bakani-pam-bondiyi-gorevden-aldi-abd-adalet-bakani-pam-bondi-gorevden-alindi-120141848",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, Adalet Bakanı Pam Bondi’yi görevden aldı. Başsavcı Yardımcısı Todd Blanche geçici olarak görevi üstlenecek.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/trump-adalet-bakani-pam-bondiyi-gorevden-aldi-abd-adalet-bakani-pam-bondi-gorevden-alindi-nydi.jpg",
-    "keyword": null
   }
 ]
