@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_34f113df",
+    "title": "DEM Parti'den 'ara seçim' açıklaması",
+    "source": "OdaTV",
+    "time": "02/04/2026 18:36",
+    "link": "https://www.odatv.com/siyaset/dem-parti-sozcusu-aysegul-dogandan-ara-secim-degerlendirmesi-120141836",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DEM Parti Sözcüsü Ayşegül Doğan, CHP Genel Başkanı Özgür Özel&#039;in yaptığı “ara seçim” çağrısına ilişkin, &quot;Bu seçim tartışmaları bizim Merkez Yürütme Kurulumuzun gündeminde değil&quot; dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/dem-parti-sozcusu-aysegul-dogandan-ara-secim-degerlendirmesi-cuow.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9a925bdb",
     "title": "Murat Övüç'ten 23 Nisan sürprizi: 'Onların Murat Abi'si olmaya devam edeceğim'",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ay Yola\" müzik grubunu kabul etti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_c6b2ca92",
-    "title": "Ertuğrul Doğan'dan açıklama: \"Galatasaray'la dostluğumuz askıda\"",
-    "source": "Haber61",
-    "time": "02/04/2026 17:53",
-    "link": "https://www.haber61.net/trabzonspor/ertugrul-dogandan-aciklama-galatasarayla-dostlugumuz-askida-h628431.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Kulübü Ertuğrul Doğan, TRT Spor’a yaptığı açıklamada, Galatasaray’ın Renato Nhaga transferinde anlaşmayı bozan davranışını ve kulüp yönetim prensiplerini anlattı.",
-    "image": "https://resim.haber61.net/news/610585.jpg",
     "keyword": null
   }
 ]
