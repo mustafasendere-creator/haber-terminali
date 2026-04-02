@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b62bee4c",
+    "title": "Galatasaray, Gabriel Sara'nın sakatlandığını duyurdu",
+    "source": "Evrensel",
+    "time": "02/04/2026 15:34",
+    "link": "https://www.evrensel.net/haber/5977917/galatasaray-gabriel-saranin-sakatlandigini-duyurdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray, Gabriel Sara'nın milli takımda sol ayak bileğinden sakatlandığını açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340408.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f845dc8e",
     "title": "Trabzonspor-Galatasaray ve Fenerbahçe-Beşiktaş maçlarını kim yönetecek?",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İletişim Başkanı Burhanettin Duran, \"Otizm bir eksiklik değil, toplumsal zenginliğimizin temelini oluşturan bir farklılıktır.\" ifadesini kullandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_46cba357",
-    "title": "İşgalci İsrail'in Lübnan'a düzenlediği saldırıda 6 kişi hayatını kaybetti",
-    "source": "TRT Haber",
-    "time": "02/04/2026 14:55",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-duzenledigi-saldirida-6-kisi-hayatini-kaybetti-940085.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İşgalci İsrail ordusunun Lübnan'ın güneyine gerçekleştirdiği son hava saldırısında 6 kişi hayatını kaybetti.",
     "image": null,
     "keyword": null
   }
