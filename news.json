@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4bbbfd1",
+    "title": "Bursa'da gece saatlerinde korkutan yangın",
+    "source": "Haber Global",
+    "time": "03/04/2026 02:53",
+    "link": "https://haberglobal.com/gundem/bursada-gece-saatlerinde-korkutan-yangin-516769",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa Gemlik'te gece saatlerinde çıkan yangın, itfaiye ekiplerinin müdahalesiyle kontrol altına alındı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/bursada-gece-saatlerinde-korkutan-yangin-gyaj.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0a439bfe",
     "title": "EMEP Milletvekili İskender Bayhan: \"NATO ulusal güvenliği tehdit eden celladın başıdır\"",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Devrim Muhafızları Ordusu, Keşm Adası'nın güneyinde ABD'ye ait gelişmiş bir savaş uçağı düşürdüklerini duyurdu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/16a2531f-1cfc-46bc-bc75-a48c4217428a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3e3eda68",
-    "title": "İran Devrim Muhafızları Ordusu: ABD’ye ait bir savaş uçağı imha edildi",
-    "source": "Haber Global",
-    "time": "03/04/2026 00:53",
-    "link": "https://haberglobal.com/dunya/iran-devrim-muhafizlari-ordusu-abdye-ait-bir-savas-ucagi-imha-edildi-516763",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları Ordusu, İran'ın Kiş Adası açıklarında ABD’ye ait bir savaş uçağının hava savunma sistemi tarafından imha edildiğini açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/iran-devrim-muhafizlari-ordusu-abdye-ait-bir-savas-ucagi-imha-edildi-juia.jpg",
     "keyword": null
   }
 ]
