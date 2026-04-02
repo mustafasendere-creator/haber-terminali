@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_72c61379",
+    "title": "Alperen Şengün, 25 sayıyla Houston Rockets'ı galibiyete taşıdı!",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 10:55",
+    "link": "https://www.cumhuriyet.com.tr/spor/alperen-sengun-25-sayiyla-houston-rockets-i-galibiyete-tasidi-2491701",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, Alperen Şengün'ün 25 sayıyla oynadığı karşılaşmada sahasında Milwaukee Bucks'ı 119-113 mağlup etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f3a96ed8-e2de-4ba9-b27a-2a6d8218a6bd.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_61854c50",
     "title": "İSKİ açıkladı... İstanbul barajlarında kritik eşik yüzde 70’e ramak kaldı!",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Cumartesi günü şampiyonluk yarışında tamam mı devam mı maçına çıkacak olan Trabzonspor’un girdiği pozisyonları maksimum oranda gole çevirmesi gerekiyor. Galatasaray’ın kalesinde Trabzonspor’un eski kalecisi olacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/sut-5.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_08c4522a",
-    "title": "Başkentte sabah saatlerinde sağanak etkili oldu",
-    "source": "TRT Haber",
-    "time": "02/04/2026 10:15",
-    "link": "https://www.trthaber.com/haber/turkiye/baskentte-sabah-saatlerinde-saganak-etkili-oldu-940034.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkentte sağanak nedeniyle bazı cadde ve sokaklarda su birikintileri oluştu.",
-    "image": null,
-    "keyword": null
   }
 ]
