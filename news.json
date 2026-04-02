@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_adc54c2a",
+    "title": "'Uyuşturucu' soruşturmasında gözaltına alınan ünlülerin test sonuçları çıktı",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 20:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/uyusturucu-sorusturmasinda-gozaltina-alinan-unlulerin-test-sonuclari-cikti-2491895",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da yürütülen uyuşturucu soruşturması kapsamında Adli Tıp Kurumu'na kan ve saç veren isimlerin test sonuçları belli oldu. İşte ayrıntılar...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_913a9766",
     "title": "Meteoroloji’den 29 il için alarm: İstanbul için kritik gün verildi",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Yeni bir çalışma, Hint-Pasifik kökenli bir yengeç türü olan \"Gonioinfradens giardi\"nin İtalya açıklarındaki İyon Denizi'nde hızla yayıldığını belgeledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_675b2d1f",
-    "title": "ABD'den Arnavutluk'a 'saldırı' uyarısı: Bulgaristan İran'ın notasını doğruladı",
-    "source": "Euronews",
-    "time": "02/04/2026 19:34",
-    "link": "http://tr.euronews.com/2026/04/02/abdden-arnavutluka-saldiri-uyarisi-bulgaristan-iranin-notasini-dogruladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tiran'daki ABD Büyükelçiliğinin İran bağlantılı olası tehditler konusunda uyarıda bulunmasının ardından Arnavutluk alarma geçti. Bu arada Bulgaristan, ABD'nin havaalanlarını askeri amaçlı kullanması nedeniyle İran'dan uyarı aldığını doğruladı.",
     "image": null,
     "keyword": null
   }
