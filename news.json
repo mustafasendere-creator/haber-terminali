@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_30881abe",
+    "title": "Bilecik'te otomobilin çarptığı yaya yaralandı",
+    "source": "Gazete Duvar",
+    "time": "02/04/2026 17:14",
+    "link": "https://www.gazeteduvar.com.tr/bilecikte-otomobilin-carptigi-yaya-yaralandi-haber-1765783",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik&#039;te yolun karşısına geçmeye çalışan bir şahıs, otomobilin çarpması sonucu yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/02/basliksiz-1-v767_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c56bceeb",
     "title": "Burdur'da 101 araç ve sürücüsü kontrol edildi",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor camiasında derbi heyecanı büyürken, kritik Galatasaray maçı öncesi gerçekleşen sürpriz ziyaret dikkat çekti. Eski isimler sahaya inmese de mesajları güçlüydü.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/trabzonspor-galatasaray-derbi-1.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_df77963d",
-    "title": "Kripto dolandırıcılığı çıktı: Dünyanın en yaşlı kaplumbağası Jonathan ölmemiş",
-    "source": "Euronews",
-    "time": "02/04/2026 16:34",
-    "link": "http://tr.euronews.com/2026/04/02/kripto-dolandiriciligi-cikti-dunyanin-en-yasli-kaplumbagasi-jonathan-olmemis",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "193 yaşındaki bir kaplumbağanın öldüğünü öne süren viral sosyal medya paylaşımının bir kripto para dolandırıcılığıyla bağlantılı olduğu ortaya çıktı. İşte bilmeniz gerekenler.",
-    "image": null,
     "keyword": null
   }
 ]
