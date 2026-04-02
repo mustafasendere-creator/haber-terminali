@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_75a97010",
+    "title": "Galatasaray son topta kaybetti!",
+    "source": "Habertürk",
+    "time": "02/04/2026 09:15",
+    "link": "https://www.haberturk.com/tenerife-84-galatasaray-mct-technic-83-mac-sonucu-3874147-spor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray MCT Technic Erkek Basketbol Takımı, Şampiyonlar Ligi çeyrek final ilk maçında İspanya'nın La Laguna Tenerife takımına deplasmanda 84-83 mağlup oldu.",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775078168/3874147/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3f445f0b",
     "title": "Frankfurt'tan Mario Götze kararı!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Altın fiyatları bugün ne kadar, gram altın kaç TL oldu, çeyrek altın fiyatı ne kadar, ons altın yükseldi mi, cumhuriyet altını bugün kaç para, altın alınır mı soruları yatırımcıların gündeminde yer alırken güncel alış satış fiyatları ve piyasadaki son durum merak edilmeye devam ediyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/12/altin-fiyati.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b2419d8a",
-    "title": "Yeni çalışma, tarım ilaçlarına maruziyeti kanser riskine bağladı",
-    "source": "Euronews",
-    "time": "02/04/2026 08:34",
-    "link": "http://tr.euronews.com/saglik/2026/04/02/yeni-calisma-tarim-ilaclarina-maruziyeti-kanser-riskine-bagladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni bir araştırmaya göre, tarım ilaçlarının yoğun olarak kullanıldığı bölgelerde yaşamak, kanser riskini anlamlı ölçüde artırıyor.",
-    "image": null,
     "keyword": null
   }
 ]
