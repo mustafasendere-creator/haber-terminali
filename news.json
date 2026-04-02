@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_410e85be",
+    "title": "Balıkesir'de korkutan deprem! AFAD büyüklüğünü açıkladı",
+    "source": "Ekonomim",
+    "time": "02/04/2026 22:34",
+    "link": "https://www.ekonomim.com/gundem/balikesirde-korkutan-deprem-afad-buyuklugunu-acikladi-haberi-885727",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir&#039;in Sındırgı ilçesinde 4.2 büyüklüğünde deprem meydana geldi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/endonezya-aciklarinda-74-buyuklugunde-deprem-xuqk_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_f8359a69",
     "title": "Trabzonspor, Papara Park’ta lideri devirebilecek mi?",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Eğitim Bakanlığı, ABD ve İsrail'in 28 Şubat'tan bu yana ülkeye düzenlediği saldırılarda 241 öğrencinin yaşamını yitirdiğini bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_dace756f",
-    "title": "Hürmüz Boğazı'nı yeniden açmak için \"her türlü önlemin alınacağı\" bildirildi",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 21:53",
-    "link": "https://www.aa.com.tr/tr/guncel/hurmuz-bogazini-yeniden-acmak-icin-her-turlu-onlemin-alinacagi-bildirildi/3889841",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere'de \"Hürmüz Boğazı\"na ilişkin 40'tan fazla ülkenin yanı sıra Uluslararası Denizcilik Örgütü ve Avrupa Birliği’nin (AB) de katıldığı çevrimiçi toplantı düzenlendi.",
     "image": null,
     "keyword": null
   }
