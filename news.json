@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cdcb8cb1",
+    "title": "Kongo'da IŞİD bağlantılı saldırı: 30'dan fazla sivil hayatını kaybetti",
+    "source": "Euronews",
+    "time": "02/04/2026 21:54",
+    "link": "http://tr.euronews.com/2026/04/02/kongoda-isid-baglantili-saldiri-30dan-fazla-sivil-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yerel yetkililer, saldırının çarşamba gecesi geç saatlerde gerçekleştiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bac63ee7",
     "title": "Hollanda'da müzeden çalınan 2 bin 500 yıllık altın miğfer bulundu",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye genelinde özellikle son haftalarda yağışlarda görülen artışlar ile uygun sıcaklıkların hem su rezervlerini hem de tarımsal üretimi olumlu etkilemesi öngörülüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d8121d61",
-    "title": "OSB'lerde yenilenebilir enerji kapasitesi fosil yakıtlıları geçti",
-    "source": "TRT Haber",
-    "time": "02/04/2026 20:34",
-    "link": "https://www.trthaber.com/haber/ekonomi/osblerde-yenilenebilir-enerji-kapasitesi-fosil-yakitlilari-gecti-940128.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'de planlı sanayileşmenin önemli merkezlerinden organize sanayi bölgelerinde OSB yenilenebilir enerji santrallerinin kurulu gücü fosil yakıt bazlı tesisleri aşarak tarihi bir eşiği geride bıraktı.",
     "image": null,
     "keyword": null
   }
