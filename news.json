@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e82f565c",
+    "title": "Son Dakika... Kemal Can, tahliye edildi",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 21:55",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kemal-can-tahliye-edildi-2491912",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Can Holding Yönetim Kurulu Başkanı Kemal Can ev hapsi şartıyla tahliye edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_691fd4ae",
     "title": "Trump, İran gerilimi gölgesinde Ulusal İstihbarat Direktörü Gabbard’ı görevden almayı değerlendiriyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da sahipsiz hayvanların korunmasına yönelik önemli bir adım atıldı. Valilik yazısı doğrultusunda birlik meclisinin oluşturulması için süreç başlatıldı.",
     "image": "https://resim.haber61.net/news/610544.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_0bc7fce6",
-    "title": "Hakem Cihan Aydın bu sezon Trabzonspor’un en kritik maçını yönetecek",
-    "source": "Haber61",
-    "time": "02/04/2026 20:53",
-    "link": "https://www.haber61.net/trabzonspor/hakem-cihan-aydin-bu-sezon-trabzonsporun-en-kritik-macini-yonetecek-h628437.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, Süper Lig'in 28. haftasında Galatasaray'ı ağırlıyor. Bordo-mavililer, evindeki galibiyet üstünlüğünü koruyarak dev derbiden zaferle ayrılmayı hedefliyor.",
-    "image": "https://resim.haber61.net/news/610597.jpg",
     "keyword": null
   }
 ]
