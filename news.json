@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_491d67c7",
+    "title": "Meteoroloji'den Ankara için kuvvetli yağış uyarısı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 06:13",
+    "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-ankara-icin-kuvvetli-yagis-uyarisi-940003.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü MGM, Ankara genelinde gece saatlerinde başlayan kuvvetli yağışın gün boyunca sürmesinin beklendiğini duyurarak, oluşabilecek olumsuzluklara karşı vatandaşları uyardı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_887d65a1",
     "title": "NASA Orion uzay aracını Ay'a fırlattı: 1972'den sonra Ay'a yapılacak ilk insanlı yolculuk",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "2026 yılı BİLSEM sınav takvimine göre ön değerlendirme sınav süreci 15 Aralık 2025 - 20 Şubat 2026 tarihinde gerçekleştirildi. Peki, BİLSEM sınav giriş yerleri nasıl sorgulanır? 2026 BİLSEM bireysel sınavlar ne zaman?",
     "image": "https://media.cumhuriyet.com.tr/Archive/2681ada8-ba2e-46cd-a52d-fe3929ce75f9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2c837337",
-    "title": "Zonguldak'ta seçim krizi! CHP kürsüyü terk etmedi: 'Bu sonucu kabul etmiyoruz'",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 03:13",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/zonguldak-ta-secim-krizi-chp-kursuyu-terk-etmedi-bu-sonucu-kabul-etmiyoruz-2491530",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Zonguldak İl Genel Meclisi'nde başkanlık seçimi sonrası tansiyon yükseldi. CHP'lilerin salona alınmak istenmediği iddiasıyla jandarma barikatı önünde gerginlik yaşandı, partililer kol kola girerek içeri girmeye çalıştı. Tartışmalı oylamada 3 oyun geçersiz sayılması krizi derinleştirirken, CHP'liler sonuçlara itiraz ederek kürsüyü terk etmedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1237b517-b8c6-43b2-b20e-976f49362806.jpg",
     "keyword": null
   }
 ]
