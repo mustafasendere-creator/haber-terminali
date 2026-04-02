@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_097ef236",
+    "title": "Önce kavgada bıçaklandı, sonra hastanede silahla vuruldu",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 18:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/once-kavgada-bicaklandi-sonra-hastanede-silahla-vuruldu-2491860",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trabzon’da yaşanan olayda bir kişi bıçaklandıktan sonra kaldırıldığı hastanede silahlı saldırıya uğradı. Olayla inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0f89cef4-956e-4811-889c-db66b20b988e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7948adfd",
     "title": "Katar açıkladı: İran'dan İHA saldırısı düzenlendi",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çin hükümetinin Türk vatandaşlarına vize muafiyetinin ardından Çin&#039;deki havayolu şirketleri, yolcu taleplerini karşılamak için İGA İstanbul Havalimanı’ndan Çin’e düzenledikleri haftalık sefer sayısını 13 frekanstan haftalık 29 uçuşa yükseltti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/cindeki-hava-yollari-istanbul-seferlerini-arttiriyor-yz6w_cover.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_aaa1d10a",
-    "title": "TEM Otoyolu'nda dört araç birbirine girdi: İki kişi yaşamını yitirdi",
-    "source": "Ekonomim",
-    "time": "02/04/2026 17:35",
-    "link": "https://www.ekonomim.com/gundem/tem-otoyolunda-dort-arac-birbirine-girdi-iki-kisi-yasamini-yitirdi-haberi-885684",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TEM Otoyolu&#039;nun Kocaeli geçişinde, dört aracın karıştığı kazada ilk belirlemelere göre iki kişi hayatını kaybetti. Otoyolun Ankara istikameti trafiğe kapatıldı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/tem-otoyolunda-dort-arac-birbirine-girdi-iki-kisi-yasamini-yitirdi-2ita_cover.png",
     "keyword": null
   }
 ]
