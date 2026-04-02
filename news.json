@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_49d975c6",
+    "title": "Nevşehir'de yol verme tartışması kamerada",
+    "source": "TRT Haber",
+    "time": "02/04/2026 16:34",
+    "link": "https://www.trthaber.com/haber/turkiye/nevsehirde-yol-verme-tartismasi-kamerada-940096.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nevşehir'de trafikte \"yol verme\" tartışmasının ardından kavga eden 2 sürücü tutuklandı, olay bir araç kamerasınca kaydedildi. Kavgaya karışan 4 kişiye 180'er bin lira idari para cezası uygulandı. Ehliyetlerine 6 ay süreyle el konulan sürücülerin araçları ise 60 gün trafikten menedildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_853a7b19",
     "title": "Bakan Fidan, Hürmüz Boğazı ile ilgili çevrimiçi toplantıya katıldı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, 4 Nisan Cumartesi günü Galatasaray ile oynanacak karşılaşma öncesinde Papara Park çevresinde oluşabilecek trafik yoğunluğunu azaltmak amacıyla yeni bir ulaşım düzenlemesi yapıldığını duyurdu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/uu-1.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8f5361ae",
-    "title": "Afrika'dan gelen çöl tozu İstanbul'u etkisi altına alıyor",
-    "source": "TRT Haber",
-    "time": "02/04/2026 15:55",
-    "link": "https://www.trthaber.com/haber/turkiye/afrikadan-gelen-col-tozu-istanbulu-etkisi-altina-aliyor-940092.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Teknik Üniversitesi İTÜ İklim Bilimi ve Meteoroloji Mühendisliği Bölümü Öğretim Üyesi Prof. Dr. Hüseyin Toros, Afrika üzerinden taşınan çöl tozunun İstanbul'da etkili olduğunu, sistemin pazar günü Marmara Bölgesi'ni terk edeceğini söyledi.",
-    "image": null,
-    "keyword": null
   }
 ]
