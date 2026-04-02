@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f2f31ac",
+    "title": "Endonezya'da 7.8 büyüklüğünde deprem",
+    "source": "Sözcü",
+    "time": "02/04/2026 07:34",
+    "link": "https://www.sozcu.com.tr/endonezya-da-7-8-buyuklugunde-deprem-p306653",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Endonezya'da 7.8 büyüklüğünde deprem",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/depremjpg-qmujNvxOS06rwRMm2RdPzQ.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8798141e",
     "title": "Meteoroloji açıkladı: 2 Nisan 2026 hava durumu raporu... Bugün hava nasıl olacak?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bu coğrafyada yüzyıllardır ramazan yaşanıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar135_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b1511541",
-    "title": "ABD Başkanı Trump: İran'a karşı kesin galibiyet elde ettik! 2-3 hafta içinde sert bir darbe indireceğiz",
-    "source": "Haber Global",
-    "time": "02/04/2026 05:53",
-    "link": "https://haberglobal.com/dunya/abd-baskani-trump-irana-karsi-kesin-galibiyet-elde-ettik-2-3-hafta-icinde-sert-bir-darbe-indirecegiz-516581",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Trump, İran savaşıyla ilgili açıklamalarda bulundu. Trump, ''İran'a karşı kesin bir galibiyet elde ettik. Önümüzdeki 2-3 hafta içinde onlara çok sert bir darbe indireceğiz\" ifadelerini kullandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/abd-baskani-trump-irana-2-3-hafta-icinde-sert-bir-darbe-indirecegiz-ddoh.jpg",
     "keyword": null
   }
 ]
