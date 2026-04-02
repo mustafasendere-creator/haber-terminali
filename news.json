@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eadf40e7",
+    "title": "Orta Doğu ülkelerine yapılan seferlerin iptal süresi uzatıldı",
+    "source": "Haber Global",
+    "time": "02/04/2026 18:54",
+    "link": "https://haberglobal.com/gundem/orta-dogu-ulkelerine-yapilan-seferlerin-iptal-suresi-uzatildi-516730",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pegasus Hava Yolları tarafından yapılan açıklamada, hava sahasında yaşanan güvenlik riskleri nedeniyle İran, Irak, Ürdün, Lübnan, Kuveyt, Bahreyn, Katar, Suudi Arabistan ve Birleşik Arap Emirlikleri'ne yapılan uçuşların iptal süresinin uzatıldığı belirtildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/orta-dogu-ulkelerine-yapilan-seferlerin-iptal-suresi-uzatildi-ctrb.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_50f866bf",
     "title": "Konya-Antalya karayolunda feci kaza: Ölü ve yaralılar var",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Hürmüzde yaşanan kesinti, enerjiye bağımlı ülkeleri doğrudan etkilerken alternatif güzergahların sınırlı kalması krizin etkisini derinleştiriyor. Uzmanlara göre Tahran yönetimi enerji akışını keserek uluslararası aktörleri sürece dahil etmeyi ve bu yolla ABD üzerindeki baskıyı artırmayı hedefliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_32b5ec59",
-    "title": "Lübnan'da İsrail saldırılarında hayatını kaybedenlerin sayısı 1345'e yükseldi",
-    "source": "TRT Haber",
-    "time": "02/04/2026 17:55",
-    "link": "https://www.trthaber.com/haber/dunya/lubnanda-israil-saldirilarinda-hayatini-kaybedenlerin-sayisi-1345e-yukseldi-940105.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında yaşamını yitirenlerin sayısının son 24 saatte 27 artarak 1345'e, yaralı sayısının ise 4 bin 40'a çıktığını duyurdu.",
     "image": null,
     "keyword": null
   }
