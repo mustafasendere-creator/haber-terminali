@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de59d507",
+    "title": "AKOM'dan İstanbul için sağanak uyarısı",
+    "source": "Sözcü",
+    "time": "02/04/2026 11:55",
+    "link": "https://www.sozcu.com.tr/akom-dan-istanbul-icin-saganak-uyarisi-p306746",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKOM'dan İstanbul için sağanak uyarısı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/saganak-yagis-uyarisi-istanbul-akomjpg-r6iyJqBMFEeCjClKDoFIcA.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_de2c346f",
     "title": "Metin Akpınar'dan tazminat kararına itiraz: Kızı Duygu Nebioğlu'ndan açıklama geldi!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa'da gaz fiyatları, ABD Başkanı Donald Trump'ın İran'a yönelik açıklamaları sonrası güne yüzde 6 yükselişle 50 euro seviyesinde başladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_65b2220a",
-    "title": "Sakarya için sıfır atık stratejik hedefleri belirlendi",
-    "source": "TRT Haber",
-    "time": "02/04/2026 11:14",
-    "link": "https://www.trthaber.com/haber/guncel/sakarya-icin-sifir-atik-stratejik-hedefleri-belirlendi-940046.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sıfır Atık Vakfının \"Yerelden Ulusala İsraf ve Atık\" temasıyla COP31 süreci kapsamında yürüttüğü çalışmaların Sakarya ayağı tamamlandı. Sakarya Çalıştayı Sonuç Konferansı ile birlikte kentin 2027 Sıfır Atık Yılı vizyonu ortaya konulurken, şehir için belirlenen stratejik hedefler ve dönüşüm adımları kamuoyuyla paylaşıldı.",
     "image": null,
     "keyword": null
   }
