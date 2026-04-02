@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5396fcf8",
+    "title": "İtalya'da şiddetli kar ve sel: halk mahsur kaldı, altyapı zarar gördü",
+    "source": "Euronews",
+    "time": "02/04/2026 17:34",
+    "link": "http://tr.euronews.com/video/2026/04/02/italyada-siddetli-kar-ve-sel-halk-mahsur-kaldi-altyapi-zarar-gordu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ağır yağmur ve kar fırtınaları İtalya'nın orta ve güneyinde perşembe günü köprüleri yıktı, birçok kişiyi evlerinde mahsur bıraktı. İtfaiyeciler Molise'deki kasabalarda dev kar yığınlarını aşmak için paletli kar araçları kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_2531820d",
     "title": "Trabzon'da fırınlara sıkı takip! 15 işletmeye...",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kosta Rika’nın vahşi yaşam harikalarından Estonya’nın büyüleyici eski kasabalarına kadar, rotanızı çevirmeniz gereken yerler burada.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3dbc0968",
-    "title": "Orta Doğu yanarken, Avrupa güney komşusu Afrika'ya yöneliyor",
-    "source": "Euronews",
-    "time": "02/04/2026 16:54",
-    "link": "http://tr.euronews.com/2026/04/02/orta-dogu-yanarken-avrupa-guney-komsusu-afrikaya-yoneliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa onlarca yıldır Afrika'nın kilit bir ortağı olarak kalkınma desteği sağlıyor ve yönetişim çerçevelerini şekillendiriyor ancak eleştirenler bu modelin değişen küresel gerçekliğe ayak uyduramadığını söylüyor.",
     "image": null,
     "keyword": null
   }
