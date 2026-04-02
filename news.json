@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_913a9766",
+    "title": "Meteoroloji’den 29 il için alarm: İstanbul için kritik gün verildi",
+    "source": "Haber Global",
+    "time": "02/04/2026 20:14",
+    "link": "https://haberglobal.com/yasam/meteorolojiden-29-il-icin-alarm-istanbul-icin-kritik-gun-verildi-516728",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji peş peşe uyarılar yayımladı. 29 ilde kuvvetli sağanak beklenirken, İstanbul için pazar gününe kadar sürecek kritik hava durumu uyarısı yapıldı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/meteorolojiden-29-il-icin-alarm-istanbul-icin-kritik-gun-verildi-2phr.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fb7d287a",
     "title": "İran, Bahreyn’deki Amazon veri merkezini hedef aldı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tiran'daki ABD Büyükelçiliğinin İran bağlantılı olası tehditler konusunda uyarıda bulunmasının ardından Arnavutluk alarma geçti. Bu arada Bulgaristan, ABD'nin havaalanlarını askeri amaçlı kullanması nedeniyle İran'dan uyarı aldığını doğruladı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fca5a444",
-    "title": "‘Sarı Zarflar’ dokuz dalda Alman Film Ödülleri adayı",
-    "source": "10Haber",
-    "time": "02/04/2026 19:34",
-    "link": "https://10haber.net/kultur-sanat/sari-zarflar-dokuz-dalda-alman-film-odulleri-adayi-691809/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İlker Çatak’ın yazıp yönettiği Altın Ayı ödüllü ‘Sarı Zarflar’ dokuz dalda Alman Film Ödülleri’ne aday. Başrollerinde Özgü Namal (Derya) ve Tansu Biçer’in (Aziz) yer aldığı film Berlin Film Festivali’nde Altın Ayı ödülünü kazanmıştı. Film Derya ve Aziz’in bir tiyatro oyununun prömiyerinin ardından hedef gösterilip evini ve işini kaybetmesini anlatıyor. Filmin aday gösterildiği dallar: En iyi [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69ce37c847c8c0.63740126.jpg",
     "keyword": null
   }
 ]
