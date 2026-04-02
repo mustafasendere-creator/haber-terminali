@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_deadbb15",
+    "title": "Hindistan’da çelik fiyatları koruma vergisiyle zirveye tırmandı",
+    "source": "Ekonomim",
+    "time": "02/04/2026 16:55",
+    "link": "https://www.ekonomim.com/kuresel-ekonomi/hindistanda-celik-fiyatlari-koruma-vergisiyle-zirveye-tirmandi-haberi-885675",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hindistan hükümetinin yerel üreticileri ucuz ithalata karşı korumak amacıyla devreye aldığı koruma vergisi, iç piyasada çelik fiyatlarını yüzde 18 ile yüzde 25 arasında yukarı çekerek sanayide maliyet dengelerini değiştirdi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/hindistanda-celik-fiyatlari-koruma-vergisiyle-zirveye-tirmandi-iz21_cover.gif",
+    "keyword": null
+  },
+  {
     "id": "GND_d98b8dd2",
     "title": "Türkiye’nin en stresli 7 şehri belli oldu, zirvedeki il şaşırtmadı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "İki gündür etkisini sürdüren yoğun sis, Samsun’da hayatı olumsuz etkiledi. Özellikle sahil kesiminde görüş mesafesi 100 metreye kadar geriledi.",
     "image": "https://resim.haber61.net/news/610558.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_63a420e9",
-    "title": "Jeopolitik gerilimlerin etkisiyle en zengin 10 milyarderden 7'sinin serveti eridi",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 16:33",
-    "link": "https://www.aa.com.tr/tr/guncel/jeopolitik-gerilimlerin-etkisiyle-en-zengin-10-milyarderden-7sinin-serveti-eridi/3889491",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünya genelinde yılbaşından bu yana devam eden jeopolitik gerilimler Orta Doğu'daki çatışmaların etkisiyle ivme kazanırken, mart sonu itibarıyla dünyanın en zengin 10 iş insanından 7’sinin serveti 214 milyar dolar azaldı.",
-    "image": null,
     "keyword": null
   }
 ]
