@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_04759d07",
+    "title": "Türkiye, fındık ihracatından 7 ayda 1 milyar 445 milyon doları aşkın gelir sağladı",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 18:33",
+    "link": "https://www.aa.com.tr/tr/guncel/turkiye-findik-ihracatindan-7-ayda-1-milyar-445-milyon-dolari-askin-gelir-sagladi/3889626",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye, 2025-2026 fındık ihracat sezonunun 7 ayında 1 milyar 445 milyon doları aşkın gelir elde etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_4b9d217f",
     "title": "Bursa İnegöl'de üzerine kaynar su dökülen 9 aylık bebek ağır yaralandı",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Otopark Kartı Sahibi Taraftarlarımızın Dikkatine 4 Nisan Cumartesi günü Galatasaray ile oynayacağımız karşılaşma öncesinde, Papara Park çevresindeki trafik yoğunluğunu azaltmak amacıyla yeni bir ulaşım güzergâhı oluşturulmuştur. Trabzon yönünden gele  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_dbd92c4d",
-    "title": "Camembert'den Gabietou'ya: Fransa'nın 100 peyniri için yeni tur düzenlendi",
-    "source": "Euronews",
-    "time": "02/04/2026 17:34",
-    "link": "http://tr.euronews.com/gezi/2026/04/02/camembertden-gabietouya-fransanin-100-peyniri-icin-yeni-tur-duzenlendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bu 11 günlük tur, peynir meraklılarına Fransa’nın Bordeaux, Loire Vadisi ve Burgonya gibi en iyi peynir ve şarap bölgelerini keşfetme olanağı sunuyor.",
-    "image": null,
-    "keyword": null
   }
 ]
