@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_72e8ee1d",
+    "title": "Süper zenginler Türkiye ekonomisinin 2,5 katını saklıyor",
+    "source": "DW Türkçe",
+    "time": "02/04/2026 14:15",
+    "link": "https://www.dw.com/tr/süper-zenginler-türkiye-ekonomisinin-2-5-katını-saklıyor/a-76641193",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Oxfam raporuna göre, süper zengin 8 milyon kişinin vergiden kaçmak için gizlediği servetleri 3,5 trilyon dolarla rekor büyüklüğe ulaştı. Bu, Türkiye ekonomisinin yaklaşık 2,5 katı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_3d217a01",
     "title": "Trabzon’da ilk kez düzenlenen Ormancılık Oyunları başladı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Devlet Tiyatrosu (TDT), \"İstanbul'un Son Beyzadeleri\" adlı oyunu sahnelemeye devam edecek.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-02-125521.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_ce31c9e9",
-    "title": "Pakistan, Afganistan ile çatışmaları sonlandırmaya yönelik Çin'de görüştüklerini açıkladı",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 13:53",
-    "link": "https://www.aa.com.tr/tr/guncel/pakistan-afganistan-ile-catismalari-sonlandirmaya-yonelik-cinde-gorustuklerini-acikladi/3889247",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pakistan, devam eden çatışmaları sona erdirmeye yönelik Afganistan ile Çin'de görüşmeler yürütüldüğünü bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
