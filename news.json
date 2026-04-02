@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fd39c3c2",
+    "title": "Avukat Musa Bendaş’ın tutuklanması Meclis gündeminde: DEM Parti’li Aslan ihlalleri sordu",
+    "source": "Evrensel",
+    "time": "02/04/2026 17:54",
+    "link": "https://www.evrensel.net/haber/5977940/avukat-musa-bendasin-tutuklanmasi-meclis-gundeminde-dem-partili-aslan-ihlalleri-sordu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DEM Parti Şırnak Milletvekili Nevroz Uysal Aslan, Avukat Musa Bendaş’ın gözaltı ve tutuklanma sürecini Meclis gündemine taşıdı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341326.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_71df9cd1",
     "title": "Trabzon’da sendikal gerilim: KESK’ten Ali Yalçın’a tepki!",
     "source": "Karadeniz Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da görüntülenen ahşap kamyonet sosyal medyada gündem oldu. İlginç araç görenleri şaşkına çevirdi.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c8f5290c",
-    "title": "TEM'de zincirleme kaza: 2 kişi hayatını kaybetti",
-    "source": "Haber Global",
-    "time": "02/04/2026 17:14",
-    "link": "https://haberglobal.com/gundem/temde-zincirleme-kaza-2-kisi-hayatini-kaybetti-516717",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anadolu Otoyolu'nun Kocaeli kesiminde meydana gelen zincirleme trafik kazasında 2 kişi hayatını kaybetti, Ankara istikameti ulaşıma kapandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/temde-zincirleme-kaza-2-kisi-hayatini-kaybetti-wlma.jpg",
-    "keyword": null
   }
 ]
