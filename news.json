@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a948aa0c",
+    "title": "Fethiye’de tur teknesi battı: 6 kişi kurtarıldı, 1 kişinin cansız bedenine ulaşıldı!",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 07:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/fethiye-de-tur-teknesi-batti-6-kisi-kurtarildi-1-kisinin-cansiz-bedenine-ulasildi-2491649",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla’nın Fethiye ilçesinde Ölüdeniz’de kıyıya bağlı halatın fırtına nedeniyle kopması sonucu sürüklenen tur teknesi kayalıklara çarparak, battı. Olay sırasında teknede bulunan 7 kişiden 6’sı sağ olarak kurtarıldı, kayıp 1 kişinin ise cansız bedeni bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b64665f0-01df-4ded-b57f-d93302a187ec.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ad81ce70",
     "title": "Endonezya'da 7.4 büyüklüğünde deprem!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Mart ayına ilişkin enflasyon rakamları yarın açıklanacak. Tüketici Fiyat Endeksi, şubat ayında bir önceki aya kıyasla yüzde 2,96 artarken, yıllık bazda yüzde 31,53 olarak gerçekleşmişti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_957a5957",
-    "title": "Kuzey Ege ve Batı Akdeniz için fırtına uyarısı",
-    "source": "TRT Haber",
-    "time": "02/04/2026 06:33",
-    "link": "https://www.trthaber.com/haber/turkiye/kuzey-ege-ve-bati-akdeniz-icin-firtina-uyarisi-940005.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji Genel Müdürlüğü, Kuzey Ege ve Batı Akdeniz'de bugün fırtına beklendiğini duyurarak denizcileri ve vatandaşları dikkatli olmaları konusunda uyardı.",
     "image": null,
     "keyword": null
   }
