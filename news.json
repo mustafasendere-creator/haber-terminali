@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1cd87b9",
+    "title": "\"Acı reçete\"nin sonucu: Ticaret açığı patladı, aylık yüzde 56 arttı",
+    "source": "Evrensel",
+    "time": "02/04/2026 12:54",
+    "link": "https://www.evrensel.net/haber/5977890/aci-recetenin-sonucu-ticaret-acigi-patladi-aylik-yuzde-56-artti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Değerli TL ve yüksek faiz kıskacında ihracat %6,4 gerilerken, ithalat %8,4 arttı. Mart'ta dış ticaret açığı %56,6 patlayarak 11,2 milyar dolara ulaştı. IMF patentli program emeği eziyor, açığı büyütüyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/276554.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b0eece74",
     "title": "54 yıl sonra insanlı Ay görevi başladı: Artemis II dünya yörüngesinde testlere girdi",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, PTT AŞ'nin Ulusal Elektronik Tebligat Sistemi (UETS) üzerinden 7 yılda 365 milyon tebligat gönderildiğini ve bu sayede yaklaşık 34 milyar lira kamu tasarrufu sağlandığını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_695ed362",
-    "title": "Stellantis İspanya'da 77 bin 500 aracı yangın riski nedeniyle geri çağırdı",
-    "source": "Euronews",
-    "time": "02/04/2026 12:14",
-    "link": "http://tr.euronews.com/business/2026/04/01/stellantis-ispanyada-77-bin-500-araci-yangin-riski-nedeniyle-geri-cagirdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sorun, otomotiv grubunun verdiği bilgiye göre 2023-2026 arasında üretilen Peugeot, Citroën, Opel, Lancia, Alfa Romeo, Jeep ve Fiat araçlarını etkiliyor. Arıza motordan değil, iki bileşenden kaynaklanıyor. Geri çağırma gönüllü.",
     "image": null,
     "keyword": null
   }
