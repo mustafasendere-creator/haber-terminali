@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8af1ade4",
+    "title": "ABDİsrail saldırısında Hürmüz Boğazı yakınındaki İran'ın Keşm Adası'ndaki liman hedef alındı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 17:35",
+    "link": "https://www.trthaber.com/haber/dunya/abd-israil-saldirisinda-hurmuz-bogazi-yakinindaki-iranin-kesm-adasindaki-liman-hedef-alindi-940108.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hürmüz Boğazı yakınlarındaki Keşm Adası'nda İran'a ait ticaret limanı ve bir iskelesine, ABDİsrail tarafından saldırı düzenlendiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_cd4808a2",
     "title": "Trabzon Üniversitesi’nde yeni proje: İhale süreci başladı",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Kocaelispor, teknik direktör Selçuk İnan'ın sözleşmesinin 2028'e kadar uzatıldığını açıkladı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/kocaelispor-selcuk-inanin-sozlesmesini-uzatti-ahty.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_f71c95f3",
-    "title": "Trabzonspor Derbisi Öncesi Dikkat Çeken Ziyaret! Tekke’ye Destek Mesajı",
-    "source": "Taka Gazetesi",
-    "time": "02/04/2026 16:55",
-    "link": "https://www.takagazete.com.tr/trabzonspor-derbisi-oncesi-dikkat-ceken-ziyaret-tekkeye-destek-mesaji",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor camiasında derbi heyecanı büyürken, kritik Galatasaray maçı öncesi gerçekleşen sürpriz ziyaret dikkat çekti. Eski isimler sahaya inmese de mesajları güçlüydü.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/trabzonspor-galatasaray-derbi-1.png",
-    "keyword": "trabzon"
   }
 ]
