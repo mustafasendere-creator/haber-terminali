@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83333398",
+    "title": "Türkiye ve 7 ülke, İsrail'in Filistinli esirler hakkında idamı öngören yasa tasarısını şiddetle kınadı",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 11:53",
+    "link": "https://www.aa.com.tr/tr/guncel/turkiye-ve-7-ulke-israilin-filistinli-esirler-hakkinda-idami-ongoren-yasa-tasarisini-siddetle-kinadi/3889095",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye ve 7 ülkenin dışişleri bakanları, İsrail Meclisi'nin (Knesset) Filistinli esirlere idam cezası getirilmesini öngören yasa tasarısını onaylamasını şiddetle kınadı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_98479c26",
     "title": "X çöktü mü, neden açılmıyor? 2 Nisan Twitter’da erişim sorunu mu var?",
     "source": "A Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran ordusu, ABD ve İsrail'in saldırılarına karşılık \"daha geniş kapsamlı ve yıkıcı eylemler\" gerçekleştireceklerini bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fd081c02",
-    "title": "8. Etnospor Forumu yarın Antalya'da başlayacak",
-    "source": "TRT Haber",
-    "time": "02/04/2026 10:54",
-    "link": "https://www.trthaber.com/haber/spor/8-etnospor-forumu-yarin-antalyada-baslayacak-940038.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünya Etnospor Birliğinin geleneksel sporların geleceğini şekillendirmek ve kültürel mirası yaşatmak amacıyla düzenlediği 8. Etnospor Forumu, yarın Antalya'da başlayacak.",
     "image": null,
     "keyword": null
   }
