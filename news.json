@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_47ce27bd",
+    "title": "İsrail'den Suriye sınırında yeni tahkimat",
+    "source": "Evrensel",
+    "time": "02/04/2026 20:14",
+    "link": "https://www.evrensel.net/haber/5977956/israilden-suriye-sinirinda-yeni-tahkimat",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye’nin güneyindeki Kuneytra ilinde hareketlilik artıyor. Yerel kaynaklar ve geçiş hükümetine bağlı devlet televizyonu, İsrail güçlerinin bölgeye girerek stratejik yolları toprak setlerle kapattığını bildirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341338.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_87843705",
     "title": "‘Bakur’ belgeseli davası görüldü",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusu, Suriye'nin güneyindeki Kuneytra ilinin güney kırsalına baskın düzenledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_30a585c2",
-    "title": "İletişim Başkanı Duran, terör örgütü EOKA tarafından KKTC'li vatandaşlara yönelik saldırıyı kınadı",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 19:33",
-    "link": "https://www.aa.com.tr/tr/guncel/iletisim-baskani-duran-teror-orgutu-eoka-tarafindan-kktcli-vatandaslara-yonelik-saldiriyi-kinadi/3889717",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, dün Lefkoşa'da Ara Bölge'de terör örgütü EOKA tarafından Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) vatandaşlarına yönelik saldırıyı kınadı.",
     "image": null,
     "keyword": null
   }
