@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_340b9be9",
+    "title": "Fenerbahçe'de Skriniar belirsizliği",
+    "source": "OdaTV",
+    "time": "02/04/2026 09:55",
+    "link": "https://www.odatv.com/spor/fenerbahcede-milan-skriniar-belirsizligi-120141732",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe’de Beşiktaş derbisi öncesi gözler Milan Skriniar’a çevrildi. Tedavisi tamamlanmasına rağmen henüz takımla çalışmalara katılmayan Slovak stoperin durumu belirsizliğini korurken, teknik heyet savunmadaki en kritik isimlerinden biri için sağlık kurulundan gelecek raporu bekliyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/12/23/skriniara-italyan-kancasi-ac-milan-pesinde-mgyf.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c695df66",
     "title": "Bülent Eczacıbaşı gözünden Artvin",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Hakmana ya da ‘kimsesizlerin kimsesi’ üzerine",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar478_cover.jpeg",
     "keyword": null
-  },
-  {
-    "id": "TKP_6294daa3",
-    "title": "Trabzon’da dolmuş zammı yürürlüğe girdi: Ücret 32 TL oldu",
-    "source": "Haber61",
-    "time": "02/04/2026 09:14",
-    "link": "https://www.haber61.net/trabzon/trabzonda-dolmus-zammi-yururluge-girdi-ucret-32-tl-oldu-h628335.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da dolmuş ücretlerine yapılan zam Nisan ayıyla birlikte uygulanmaya başladı. 25 TL olan ücret 32 TL’ye yükselirken, yeni tarife madeni para kullanımını yeniden gündeme getirdi.",
-    "image": "https://resim.haber61.net/news/610441.jpg",
-    "keyword": "trabzon"
   }
 ]
