@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d7e902b7",
+    "title": "Bitlis'te 5 yaşındaki Rabia için arama çalışması başlatıldı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 07:14",
+    "link": "https://www.trthaber.com/haber/turkiye/bitliste-5-yasindaki-rabia-icin-arama-calismasi-baslatildi-940014.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bitlisin Hizan ilçesinde kaybolan 5 yaşındaki Rabia Ilgazın bulunması için çalışma başlatıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cb9c3d7a",
     "title": "31 il için sarı kodlu kuvvetli yağış ve fırtına uyarısı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Soğuk Savaş’ın meşhur çocuk tekerlemesi böyle başlıyordu: Bir iki üçler, yaşasın Türkler.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar380_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9c4bc1d6",
-    "title": "Endonezya'da 7,4 büyüklüğünde deprem",
-    "source": "TRT Haber",
-    "time": "02/04/2026 04:53",
-    "link": "https://www.trthaber.com/haber/dunya/endonezyada-74-buyuklugunde-deprem-939998.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Endonezya'nın Ternate bölgesinde 7,4 büyüklüğünde deprem meydana geldi. Deprem sonrası Maluku Adaları çevresi için  tsunami uyarısı verildi.",
-    "image": null,
     "keyword": null
   }
 ]
