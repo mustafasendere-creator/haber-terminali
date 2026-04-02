@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8d014c16",
+    "title": "Motorine zam geldi!",
+    "source": "Habertürk",
+    "time": "02/04/2026 07:34",
+    "link": "https://www.haberturk.com/motorine-zam-mi-geldi-motorin-ne-kadar-oldu-2-nisan-persembe-zamli-akaryakit-fiyatlari-ile-2026-benzin-motorin-lpg-fiyati-3873686",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akaryakıt piyasasında beklenen fiyat artışı gerçekleşti. Sektör kaynaklarından edinilen bilgilere göre özellikle motorin grubunda zam pompaya yansırken, artışın küresel petrol fiyatları ve döviz kurundaki yükselişten kaynaklandığı ifade ediliyor. Son dönemde motorine yapılan zamlarla birlikte litre fiyatları birçok şehirde 70 TL seviyesini aşarak dikkat çekici bir eşiğe ulaştı. İşte İzmir, İstanbul, Ankara 2 Nisan güncel benzin, motorin, akaryakıt fiyatları listesi...",
+    "image": "https://im.haberturk.com/l/2026/03/31/ver1774986669/3873686/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_fe0d1199",
     "title": "Altın fiyatlarında son durum",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tel Aviv ve Dubai'de art arda patlama sesleri | Savaşta 34'üncü gün",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/iran-savasijpg-JlBEno8BMkiK6bYS1AzYkQ.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cad4ee8d",
-    "title": "Godot, yoksa büyük kaosun ta kendisi mi?",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 05:54",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/godot-yoksa-buyuk-kaosun-ta-kendisi-mi-2491629",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hemen arkamdan biri seslendi, hey Orhan Bursalı, diye.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar70_cover.jpeg",
     "keyword": null
   }
 ]
