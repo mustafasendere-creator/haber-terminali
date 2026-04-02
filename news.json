@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_74f53c1d",
+    "title": "Bursa'da 8 katlı apartmanda yangın",
+    "source": "TRT Haber",
+    "time": "02/04/2026 12:15",
+    "link": "https://www.trthaber.com/haber/turkiye/bursada-8-katli-apartmanda-yangin-940067.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın Yıldırım ilçesindeki bir apartmanın en üst katında yangın çıktı. İtfaiye ekiplerinin alevleri kontrol altına alma ve binada mahsur kalanları kurtarma çalışmaları sürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_71fc4b55",
     "title": "AYM, TFF'nin Tahkim Kurulu üyelerini belirleme yetkisini iptal etti",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’un Sürmene ilçesinde kış uykusundan uyanan ayıların yayla evlerine girerek zarar verdiği görüntüler ortaya çıktı. Bölge sakinleri yaşananlar nedeniyle tedirgin oldu.",
     "image": "https://resim.haber61.net/news/610493.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_05690700",
-    "title": "Trabzon’da gündem olan sözler: \"Adil ve samimi değil\"",
-    "source": "Haber61",
-    "time": "02/04/2026 11:34",
-    "link": "https://www.haber61.net/trabzonspor/trabzonda-gundem-olan-sozler-adil-ve-samimi-degil-h628357.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Haber61TV’de yayınlanan Saha Kenarı programında, A Milli Takım kadrosunda Trabzonspor forması giyen oyuncuların yeterince yer bulamaması yeniden gündeme taşındı. Çıtlak, geçmişten bugüne Trabzonsporlu isimlerin önüne set çekildiğini savundu",
-    "image": "https://resim.haber61.net/news/610469.jpg",
     "keyword": "trabzon"
   }
 ]
