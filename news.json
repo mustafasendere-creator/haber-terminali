@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a29baa0",
+    "title": "'Browsergate' skandalı: LinkedIn, tarayıcı eklentilerini gizlice izliyor mu?",
+    "source": "Euronews",
+    "time": "02/04/2026 20:54",
+    "link": "http://tr.euronews.com/next/2026/04/02/browsergate-skandali-linkedin-tarayici-eklentilerini-gizlice-izliyor-mu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medya platformunun kullanıcıların tarayıcılarında yüklü eklentileri izinsiz şekilde taradığı ve elde ettiği verileri önde gelen Amerikan-İsrailli bir siber güvenlik firması dahil olmak üzere üçüncü taraflara ilettiği öne sürülüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_877802d0",
     "title": "İddia: Trump, Adalet Bakanı Pam Bondi'yi görevden aldı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bakırköy Cumhuriyet Başsavcılığı, Marmara Ceza İnfaz Kurumları Kampüsü&#039;nde bir tutuklunun Ekrem İmamoğlu&#039;nun bilgilerini not alırken yakalandığı yönündeki haberlerin asılsız olduğunu duyurdu.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/bassavciliktan-ibb-tutuklularinin-koguslarinda-dolandiricilik-iddiasina-aciklama-mxyh_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_63a8e41f",
-    "title": "Rusya'da Apple servislerinde yeni dönem",
-    "source": "Ekonomim",
-    "time": "02/04/2026 19:56",
-    "link": "https://www.ekonomim.com/dunya/rusyada-apple-servislerinde-yeni-donem-haberi-885701",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD merkezli teknoloji şirketi Apple, Rusya&#039;da uygulama dükkanı App Store ve iCloud gibi hizmetlerine yönelik ödemelerin durdurulduğunu duyurdu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/rusyada-apple-servislerinde-yeni-donem-gros_cover.jpg",
     "keyword": null
   }
 ]
