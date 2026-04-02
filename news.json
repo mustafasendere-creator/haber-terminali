@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c11ff969",
+    "title": "Yapay zeka kanser teşhisine katkı sunuyor",
+    "source": "TRT Haber",
+    "time": "02/04/2026 12:34",
+    "link": "https://www.trthaber.com/haber/saglik/yapay-zeka-kanser-teshisine-katki-sunuyor-940068.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uzmanlar, yapay zekanın, verdiği istatistiklerle kanserin erken teşhisinde önemli olduğunu belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_edd4d39b",
     "title": "Sağlık kontrolü hayatını değiştirdi",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İzmir merkezli 3 ilde terör örgütü DEAŞ'a yönelik düzenlenen operasyonda 9 şüpheli gözaltına alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_59d20bb8",
-    "title": "8 ülkeden İsrail'in katliam yasasına ortak tepki",
-    "source": "TRT Haber",
-    "time": "02/04/2026 11:55",
-    "link": "https://www.trthaber.com/haber/gundem/8-ulkeden-israilin-katliam-yasasina-ortak-tepki-940061.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, Mısır, Endonezya, Ürdün, Pakistan, Katar, Suudi Arabistan ve Birleşik Arap Emirlikleri BAE Dışişleri Bakanları, katil İsrail'in işgal altındaki Batı Şeria'da Filistinlilere yönelik ölüm cezasının uygulanmasına imkan tanıyan yasal düzenlemesini ortak bir bildiriyle şiddetle kınadı.",
     "image": null,
     "keyword": null
   }
