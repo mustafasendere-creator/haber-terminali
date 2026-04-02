@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cb9c3d7a",
+    "title": "31 il için sarı kodlu kuvvetli yağış ve fırtına uyarısı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 07:13",
+    "link": "https://www.trthaber.com/haber/gundem/31-il-icin-sari-kodlu-kuvvetli-yagis-ve-firtina-uyarisi-940015.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü MGM, yurt genelinde beklenen kuvvetli yağış ve fırtına nedeniyle 31 il için \"sarı\" kodlu uyarıda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_14ecdc80",
     "title": "Trump bir öyle bir böyle: İran’ı Taş Devri’ne geri döndüreceğiz",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Endonezya'nın Ternate bölgesinde 7,4 büyüklüğünde deprem meydana geldi. Deprem sonrası Maluku Adaları çevresi için  tsunami uyarısı verildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0514a492",
-    "title": "Soykırımcı İsrail ateşkese rağmen Gazzede saldırı ve yıkımlarını sürdürdü",
-    "source": "TRT Haber",
-    "time": "02/04/2026 04:53",
-    "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ateskese-ragmen-gazzede-saldiri-ve-yikimlarini-surdurdu-940002.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İşgalci İsrail ordusu, ateşkese rağmen Gazze Şeridinin çeşitli bölgelerine saldırı ve yıkım faaliyetleri gerçekleştirdi.",
     "image": null,
     "keyword": null
   }
