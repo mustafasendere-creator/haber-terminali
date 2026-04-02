@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_12a71ce1",
+    "title": "Gayrettepe katliamının ikinci yılında adalet yürüyüşü: ‘Kaza, kader değil cinayet’",
+    "source": "Evrensel",
+    "time": "02/04/2026 22:14",
+    "link": "https://www.evrensel.net/haber/5977969/gayrettepe-katliaminin-ikinci-yilinda-adalet-yuruyusu-kaza-kader-degil-cinayet",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Gayrettepe'de 29 işçinin hayatını kaybettiği gece kulübü yangınının ikinci yılında aileler, adalet talebiyle olay yerine yürüdü. Davanın \"kaza değil cinayet\" olduğu vurgulanarak tüm sorumluların hak ettikleri cezayı alması istendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341347.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3aa8a056",
     "title": "Hindistan'da ertelenen nüfus sayımı başladı",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran basını, Kerec kentindeki B1 Köprüsüne yönelik ABDİsrail saldırısının ardından bölge ülkelerinde bulunan önemli köprülerin listesini yayımlayarak misilleme imasında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8d5b5c37",
-    "title": "İran'daki B1 Köprüsü'ne ikinci saldırısı sonrası bölgede elektrik kesintisi yaşandı",
-    "source": "TRT Haber",
-    "time": "02/04/2026 20:54",
-    "link": "https://www.trthaber.com/haber/dunya/irandaki-b1-koprusune-ikinci-saldirisi-sonrasi-bolgede-elektrik-kesintisi-yasandi-940116.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail'in İran'ın Elburz eyaletine bağlı Kerec kentindeki B1 Köprüsü'ne düzenlediği ikinci saldırının ardından Çalus yolu güzergahında elektrik kesintisi yaşandığı bildirildi.",
     "image": null,
     "keyword": null
   }
