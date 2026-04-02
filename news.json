@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_30a585c2",
+    "title": "İletişim Başkanı Duran, terör örgütü EOKA tarafından KKTC'li vatandaşlara yönelik saldırıyı kınadı",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 19:33",
+    "link": "https://www.aa.com.tr/tr/guncel/iletisim-baskani-duran-teror-orgutu-eoka-tarafindan-kktcli-vatandaslara-yonelik-saldiriyi-kinadi/3889717",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, dün Lefkoşa'da Ara Bölge'de terör örgütü EOKA tarafından Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) vatandaşlarına yönelik saldırıyı kınadı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_4f037f1b",
     "title": "Erbakan hocayı anlasaydık!",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Bursa’nın İnegöl ilçesinde annesinin elinden düşen çaydanlıktaki kaynar suyun üzerine dökülmesi sonucu ağır yaralanan 9 aylık bebek hastaneye kaldırıldı.",
     "image": "https://resim.haber61.net/news/610588.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_c6b2ca92",
-    "title": "Ertuğrul Doğan'dan açıklama: \"Galatasaray'la dostluğumuz askıda\"",
-    "source": "Haber61",
-    "time": "02/04/2026 18:14",
-    "link": "https://www.haber61.net/trabzonspor/ertugrul-dogandan-aciklama-galatasarayla-dostlugumuz-askida-h628431.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Kulübü Ertuğrul Doğan, TRT Spor’a yaptığı açıklamada, Galatasaray’ın Renato Nhaga transferinde anlaşmayı bozan davranışını ve kulüp yönetim prensiplerini anlattı.",
-    "image": "https://resim.haber61.net/news/610585.jpg",
-    "keyword": "trabzon"
   }
 ]
