@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4f52f31",
+    "title": "Balıkesir’de 4.1 deprem",
+    "source": "OdaTV",
+    "time": "02/04/2026 21:55",
+    "link": "https://www.odatv.com/guncel/balikesirde-41-deprem-sindirgi-deprem-afad-deprem-120141854",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir’in Sındırgı ilçesine bağlı Yaylabayır bölgesinde saat 21.22’de 4.1 büyüklüğünde deprem meydana geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/22/malezyada-71-buyuklugunde-deprem-mrav.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e52901ad",
     "title": "ABD'nin dış ticaret açığı şubatta arttı",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sosyal medya platformunun kullanıcıların tarayıcılarında yüklü eklentileri izinsiz şekilde taradığı ve elde ettiği verileri önde gelen Amerikan-İsrailli bir siber güvenlik firması dahil olmak üzere üçüncü taraflara ilettiği öne sürülüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_877802d0",
-    "title": "İddia: Trump, Adalet Bakanı Pam Bondi'yi görevden aldı",
-    "source": "Euronews",
-    "time": "02/04/2026 20:53",
-    "link": "http://tr.euronews.com/2026/04/02/iddia-trump-adalet-bakani-pam-bondiyi-gorevden-aldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD medyasında yer alan haberlere göre, Bondi'den boşalan koltuğa vekaleten Trump'ın eski kişisel avukatı ve mevcut Adalet Bakanı Yardımcısı Todd Blanche getirilecek.",
     "image": null,
     "keyword": null
   }
