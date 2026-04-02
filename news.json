@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e484444e",
+    "title": "TUSAŞ'tan Boeing 737 MAX 10 için ilk teslimat",
+    "source": "TRT Haber",
+    "time": "02/04/2026 21:54",
+    "link": "https://www.trthaber.com/haber/savunma/tusastan-boeing-737-max-10-icin-ilk-teslimat-940136.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk Havacılık ve Uzay Sanayii AŞ TUSAŞ, Boeing 737 MAX ailesinin en yeni varyantlarından 737 MAX 10 için ürettiği Section 48 yapısal parçasının ilk ürün teslimatını gerçekleştirdiğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_439defa7",
     "title": "Muhittin Böcek: Adaylık için bir kuruş verdiysem şerefsizim",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Trump Adalet Bakanını görevden aldı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/son-dakikajpg-46_lnOGrqkC8brrKTCoGxA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4923e34f",
-    "title": "Epic Games'in 9 Nisan'a kadar ücretsiz verdiği iki oyun",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 20:35",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/epic-games-in-9-nisan-a-kadar-ucretsiz-verdigi-iki-oyun-2491897",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Epic Games her hafta oyun vermeye devam ediyor. Bu kapsamda 9 Nisan'a kadar",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e49f6414-11b0-4dfb-a21c-7208d1b042f3.jpg",
     "keyword": null
   }
 ]
