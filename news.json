@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d2081af8",
+    "title": "İran basını, Kerec'teki köprü saldırısı sonrası bölge ülkelerindeki önemli köprülerin listesini yayınladı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 20:54",
+    "link": "https://www.trthaber.com/haber/dunya/iran-basini-kerecteki-kopru-saldirisi-sonrasi-bolge-ulkelerindeki-onemli-koprulerin-listesini-yayinladi-940115.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran basını, Kerec kentindeki B1 Köprüsüne yönelik ABDİsrail saldırısının ardından bölge ülkelerinde bulunan önemli köprülerin listesini yayımlayarak misilleme imasında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8d5b5c37",
     "title": "İran'daki B1 Köprüsü'ne ikinci saldırısı sonrası bölgede elektrik kesintisi yaşandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Suriye’nin güneyindeki Kuneytra ilinde hareketlilik artıyor. Yerel kaynaklar ve geçiş hükümetine bağlı devlet televizyonu, İsrail güçlerinin bölgeye girerek stratejik yolları toprak setlerle kapattığını bildirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341338.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_87843705",
-    "title": "‘Bakur’ belgeseli davası görüldü",
-    "source": "Evrensel",
-    "time": "02/04/2026 20:14",
-    "link": "https://www.evrensel.net/haber/5977957/bakur-belgeseli-davasi-goruldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“Bakur” belgeselinden kaynaklı “örgüt propagandası yapmak” iddiasıyla yargılanan sinemacı Koray Keskin’in adli kontrol tedbirleri kaldırıldı. Duruşma 7 Mayıs tarihine ertelendi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341339.jpg",
     "keyword": null
   }
 ]
