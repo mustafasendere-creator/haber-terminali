@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80624434",
+    "title": "Mehmet Türkmen’in tutuklanması ve faşizmin inşası",
+    "source": "Evrensel",
+    "time": "02/04/2026 04:13",
+    "link": "https://www.evrensel.net/haber/5977834/mehmet-turkmenin-tutuklanmasi-ve-fasizmin-insasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkmen’in tutuklanmasına sebep olarak gösterilen sözleri artık kulağımızda çınlayan bir gerçektir. Son 13 yılda Antep’te 555 işçi çalışırken yaşamını yitirdi, binlercesi kollarını, parmaklarını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340384.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6a30811d",
     "title": "Antep'li gençlerden Mehmet Türkmen'e dair mektuplar",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Stratejik Dış İlişkiler Konseyi Başkanı Kemal Harrazi'nin, ABD ve İsrail saldırılarında ağır yaralandığı bildirildi. Harrazi'nin eşinin ise hayatını kaybettiği belirtildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/507a535f-f343-4e96-9dae-cf98165b67fb.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_0fab07d1",
-    "title": "Giresun’da T.T. olayında yeni gelişme: Kaza öncesi görüntüler ortaya çıktı",
-    "source": "Taka Gazetesi",
-    "time": "02/04/2026 01:54",
-    "link": "https://www.takagazete.com.tr/video/giresunda-tt-olayinda-yeni-gelisme-kaza-oncesi-goruntuler-ortaya-cikti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Giresun’da hayatını kaybeden T.T. olayında yeni görüntüler ortaya çıktı. Kazanın öncesine ait detaylar soruşturma kapsamında inceleniyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/giresun-kaza-1-2.jpeg",
     "keyword": null
   }
 ]
