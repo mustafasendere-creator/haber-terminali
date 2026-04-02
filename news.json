@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_568df76f",
+    "title": "LPG'ye dev zam",
+    "source": "OdaTV",
+    "time": "02/04/2026 13:16",
+    "link": "https://www.odatv.com/ekonomi/zam-haberleri/lpgye-dev-zam-120141770",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Motorine gelen 2 lira 52 kuruşluk zammın ardından bir dev zam da LPG&#039;ye geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/lpgye-dev-zam-9rpy.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_50c799f4",
     "title": "Nereden nereye... Tarkan gitti, Sinan Akçıl geldi... Milli takıma marş",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Bursa'nın Yıldırım ilçesindeki bir apartmanın en üst katında çıkan yangın, itfaiye ekiplerince söndürüldü. Yangında dumandan etkilenen 4 kişi tedavi altına alındı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_a2ed2370",
-    "title": "Ortahisar’da türkü şöleni: “Sazdan Ezgiler” konseri başlıyor",
-    "source": "Taka Gazetesi",
-    "time": "02/04/2026 12:36",
-    "link": "https://www.takagazete.com.tr/ortahisarda-turku-soleni-sazdan-ezgiler-konseri-basliyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ortahisar Belediyesi “Sazdan Ezgiler” konseriyle türkü şöleni düzenliyor. 3 Nisan’da Trabzon’da müzik dolu anlar yaşanacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/f508181f-8337-4d0e-97a4-fb08fc3f99f7-16x9-1.png",
-    "keyword": "trabzon"
   }
 ]
