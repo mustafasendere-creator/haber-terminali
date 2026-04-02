@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7f6f9b24",
+    "title": "Muğla'da balık fabrikasında gaz zehirlenmesi: 15 işçi hastaneye kaldırıldı",
+    "source": "Evrensel",
+    "time": "02/04/2026 23:33",
+    "link": "https://www.evrensel.net/haber/5977980/muglada-balik-fabrikasinda-gaz-zehirlenmesi-15-isci-hastaneye-kaldirildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Milas ilçesinde bir balık fabrikasında meydana gelen gaz zehirlenmesi nedeniyle 15 işçi hastaneye kaldırılarak tedavi altına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341356.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_cef83b40",
     "title": "SON DAKİKA / Trabzonspor Başkanı Ertuğrul Doğan’dan tarihi bir bonservis bedeli kazandıkları Uğurcan Çakır’a ağır sözler: “Uğurcan'ın benim karşıma geçip 'Ben bu takımdan İstanbul takımlarına gitmek için -takım fark etmeksizin- izin istiyorum' demesi beni - x.com",
     "source": "X",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa'dan 18 ülkenin dışişleri bakanları yaptıkları ortak açıklamada, Orta Doğu'daki çatışmalardan ve Lübnan'daki durumdan endişe duyduklarını belirtip, şiddetin durması çağrısı yaptı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_828bf0ad",
-    "title": "AP üyesi Hassan'ın, Paris'te gözaltına alınması tepki çekti",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 22:33",
-    "link": "https://www.aa.com.tr/tr/guncel/ap-uyesi-hassanin-pariste-gozaltina-alinmasi-tepki-cekti/3889883",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Parlamentosu'nun (AP) Fransız üyesi Rima Hassan Fransa'nın başkenti Paris'te \"terör propagandası\" yaptığı iddiasıyla gözaltına alınması siyasilerin tepkisine neden oldu.",
     "image": null,
     "keyword": null
   }
