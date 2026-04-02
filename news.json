@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_56d06322",
+    "title": "Kayıptı, aranıyordu: Dört yaşındaki Rabia evden üç km uzakta bulundu",
+    "source": "10Haber",
+    "time": "02/04/2026 18:34",
+    "link": "https://10haber.net/gundem/kayipti-araniyordu-dort-yasindaki-rabia-evden-uc-km-uzakta-bulundu-691840/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bitlis&#8217;in Hizan ilçesine bağlı Sağırkaya köyünde yaşayan Ilgaz ailesinin 4 yaşındaki çocuğu Rabia, dün akşam saatlerinde evlerinin önünde oyun oynadığı esnada kayboldu. Köy sakinleri tarafında yapılan aramada Rabia’nın bulunmaması üzerine ekiplere haber verildi. Sağırkaya köyüne çok sayıda jandarma, AFAD, UMKE ve sağlık ekibi sevk edildi. Kız çocuğu ekiplerin arama çalışması sonucu köye 3 kilometre uzaklıkta [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69ce4b6c1894e2.39206230.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_ddf3fa66",
     "title": "Netflix Türkiye yeni dizisi için genç oyuncu arıyor",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da görüntülenen ahşap kamyonet sosyal medyada gündem oldu. İlginç araç görenleri şaşkına çevirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_b073ff04",
-    "title": "Ölü yunus sahile vurdu",
-    "source": "Taka Gazetesi",
-    "time": "02/04/2026 17:34",
-    "link": "https://www.takagazete.com.tr/olu-yunus-sahile-vurdu-1",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun'un Alaçam ilçesindeki Geyikkoşan sahilinde ölü yunus bulundu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/aa/olu-yunus-sahile-vurdu.jpg",
     "keyword": null
   }
 ]
