@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_695ed362",
+    "title": "Stellantis İspanya'da 77 bin 500 aracı yangın riski nedeniyle geri çağırdı",
+    "source": "Euronews",
+    "time": "02/04/2026 12:14",
+    "link": "http://tr.euronews.com/business/2026/04/01/stellantis-ispanyada-77-bin-500-araci-yangin-riski-nedeniyle-geri-cagirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sorun, otomotiv grubunun verdiği bilgiye göre 2023-2026 arasında üretilen Peugeot, Citroën, Opel, Lancia, Alfa Romeo, Jeep ve Fiat araçlarını etkiliyor. Arıza motordan değil, iki bileşenden kaynaklanıyor. Geri çağırma gönüllü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_686f8bd3",
     "title": "Arhavi'de 'Kitap Yolu' yürüyüşü",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Süper Lig’de Galatasaray’a karşı sahasında süren 6 maçlık galibiyet hasretini sonlandırmak için sahaya çıkacak. Bordo-mavililer, derbi baskısını kırmayı hedefliyor.",
     "image": "https://resim.haber61.net/news/610502.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_bc017bd4",
-    "title": "Trump'ın Adalet Bakanı Bondi'yi görevden almayı değerlendirdiği iddia edildi",
-    "source": "İHA Trabzon",
-    "time": "02/04/2026 11:34",
-    "link": "https://www.aa.com.tr/tr/guncel/trumpin-adalet-bakani-bondiyi-gorevden-almayi-degerlendirdigi-iddia-edildi/3888937",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "ABD Başkanı Donald Trump'ın Jeffrey Epstein hakkında \"dosyalarını ele alış biçiminden rahatsız olduğu\" ABD Adalet Bakanı Pam Bondi'yi görevden almayı değerlendirdiği iddia edildi.",
-    "image": null,
-    "keyword": null
   }
 ]
