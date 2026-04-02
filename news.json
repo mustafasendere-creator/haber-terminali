@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_540d90f8",
+    "title": "7,6 büyüklüğündeki depremin ardından tsunami uyarısı verildi",
+    "source": "TRT Haber",
+    "time": "02/04/2026 06:53",
+    "link": "https://www.trthaber.com/haber/dunya/76-buyuklugundeki-depremin-ardindan-tsunami-uyarisi-verildi-940012.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Endonezya'nın Kuzey Moluk Denizi'nde perşembe günü meydana gelen 7,6 büyüklüğündeki depremde ilk belirlemelere göre bir kişi hayatını kaybetti. Yetkililer ve görgü tanıkları, sarsıntının ardından bazı binaların hasar gördüğünü ve bölgede tsunami dalgalarının oluştuğunu söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_106d4850",
     "title": "Fethiye'de tur teknesi battı: Kayıp olan kişinin cansız bedeni bulundu",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ama gerçekten olacak şey mi?",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar96_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f4636bcb",
-    "title": "İçimizden biri",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 04:13",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/hilmi-turkay/icimizden-biri-2491637",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bizim Çocuklar öylesine büyük bir gururu yaşattı ki...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar39_cover.jpeg",
     "keyword": null
   }
 ]
