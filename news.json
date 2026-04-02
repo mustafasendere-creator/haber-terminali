@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e231142",
+    "title": "Trump'ın açıklamaları sonrası petrol fiyatları fırladı",
+    "source": "Haber Global",
+    "time": "02/04/2026 07:34",
+    "link": "https://haberglobal.com/ekonomi/trumpin-aciklamalari-sonrasi-petrol-fiyatlari-firladi-516587",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dün gerileyen petrol fiyatları, ABD Başkanı Donald Trump’ın ulusa sesleniş konuşmasında önümüzdeki 2-3 hafta içinde İran'ı \"son derece sert şekilde vuracaklarını\" söylemesinin ardından yeniden yükselişe geçti",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/trumpin-aciklamalari-sonrasi-petrol-fiyatlari-firladi-ak7c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_19121cfe",
     "title": "SpaceX halka açılıyor: Elon Musk'ın dev hamlesi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ile İsrail'in ortak saldırıları sürdürdüğü İran'ın misillemesinin ardından, başta Tel Aviv olmak üzere, İsrail'in merkezindeki birçok kentte sirenler çaldı, patlama sesleri duyuldu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341249.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_92fe9796",
-    "title": "NATO'nun genişlemesi teknik bir tartışmadan mı ibaret?",
-    "source": "Evrensel",
-    "time": "02/04/2026 05:53",
-    "link": "https://www.evrensel.net/haber/5977823/natonun-genislemesi-teknik-bir-tartismadan-mi-ibaret",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "NATO’nun genişlemesi, yalnızca uluslararası ilişkiler alanına ait bir tartışma değildir. Bu genişleme, doğrudan gündelik yaşamın, ekonomik koşulların ve toplumsal ilişkilerin yeniden düzenlenmesi anlamına gelir.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340541.jpg",
     "keyword": null
   }
 ]
