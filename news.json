@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59a9e4c5",
+    "title": "İstanbul Havalimanı Gümrük Müdürlüğü'nde operasyon: Şüpheli çalışanlar yakalandı",
+    "source": "Evrensel",
+    "time": "02/04/2026 18:54",
+    "link": "https://www.evrensel.net/haber/5977950/istanbul-havalimani-gumruk-mudurlugunde-operasyon-supheli-calisanlar-yakalandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Havalimanı Gümrük Müdürlüğü’nde çalışan bazı personelin görevini kötüye kullandığı iddiasıyla düzenlenen operasyonda şüpheli şahıslar yakalandı. Usulsüz şekilde gümrükten çıkarıldığı değerlendirilen çeşitli emtia ürünleri ele geçirildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/334594.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_20ddcbf2",
     "title": "İlkadım muhtarlarıyla güvenlik toplantısı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "EMEP Milletvekili Sevda Karaca'nın TBMM'de 7 ay önce düzenlenen Filistin özel oturumunda, \"NATO zirvesine ev sahipliği yapılarak Filistin halkıyla dayanışma olmaz\" dediği konuşması, yabancı dillere çevrilmesiyle sosyal medyada yeniden gündem oldu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/303678.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_6b795fbd",
-    "title": "Trabzon’da sağanak alarmı: Yeni hafta yağışla geçecek",
-    "source": "Karadeniz Gazetesi",
-    "time": "02/04/2026 17:54",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-saganak-alarmi-yeni-hafta-yagisla-gececek/607614",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Meteoroloji’nin yayımladığı haftalık tahmine göre Trabzon’da önümüzdeki günlerde sağanak ve gök gürültülü yağışlar etkili olacak. Hava sıcaklıklarının ise mevsim normallerinde seyretmesi bekleniyor.",
-    "image": null,
     "keyword": null
   }
 ]
