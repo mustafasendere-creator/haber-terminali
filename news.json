@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5b36a457",
+    "title": "2026 FIFA Dünya Kupası'nın bilet satışı başladı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 19:35",
+    "link": "https://www.trthaber.com/haber/spor/2026-fifa-dunya-kupasinin-bilet-satisi-basladi-940119.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD, Meksika ve Kanada'nın ortaklaşa ev sahipliği yapacağı 2026 FIFA Dünya Kupası'nın bilet satışı başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_39746328",
     "title": "İran'dan ABD'ye: 7 milyon kişi silah kuşanmak için gönüllü oldu, gelin bekliyoruz",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Antalya Valiliği ile Cumhurbaşkanlığı İletişim Başkanlığı iş birliğinde, Cumhurbaşkanlığı İletişim Merkezi CİMER süreçlerinin daha etkin ve verimli yürütülmesi amacıyla düzenlenen \"CİMER Kullanıcı Eğitimi Programı\" Antalyada gerçekleştirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_533be454",
-    "title": "İran Meclis Başkanı Kalibaf'tan ABD'ye yanıt: Gelin bekliyoruz",
-    "source": "TRT Haber",
-    "time": "02/04/2026 18:34",
-    "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaftan-abdye-yanit-gelin-bekliyoruz-940111.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin kara saldırısı tehditlerine, \"Silahlı, hazırlıklı ve dimdik ayaktayız. Gelin bekliyoruz.\" sözleriyle yanıt verdi.",
     "image": null,
     "keyword": null
   }
