@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1ff619dd",
+    "title": "Batı Teksas türü (WTI) ham petrolün varil fiyatı 110 doları aştı",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 15:33",
+    "link": "https://www.aa.com.tr/tr/guncel/bati-teksas-turu-wti-ham-petrolun-varil-fiyati-110-dolari-asti/3889427",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Batı Teksas türü (WTI) ham petrolün varil fiyatı saat 15.17 itibarıyla yüzde 10,49 artışla 110 doları aştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e93b0ce2",
     "title": "Başkan Erdoğan: Gelecekte dünyada su çatışmaları çıkacak",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ankara Cumhuriyet Başsavcılığı, et fiyatlarını manipüle etmek ve bozulmuş etleri piyasaya sürmekle suçlanan 33 kişi hakkında gözaltı kararı verdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340790.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_81036ebf",
-    "title": "EMEP Genel Başkanı Aslan: Masquerade Katliamı’nın üzerinden 2 yıl geçti, hâlâ adalet yok",
-    "source": "Evrensel",
-    "time": "02/04/2026 14:54",
-    "link": "https://www.evrensel.net/haber/5977915/emep-genel-baskani-aslan-masquerade-katliaminin-uzerinden-2-yil-gecti-hl-adalet-yok",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "EMEP Genel Başkanı Seyit Aslan, Masquerade yangınının 2. yılında sorumluların cezalandırılmadığını belirterek “cezasızlık” politikasını eleştirdi, tüm faillerin yargılanmasını istedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/259246.jpg",
     "keyword": null
   }
 ]
