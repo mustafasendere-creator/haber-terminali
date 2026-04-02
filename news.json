@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_47e3ed9f",
+    "title": "Anadolu Otoyolu'nda zincirleme kaza: 2 ölü",
+    "source": "TRT Haber",
+    "time": "02/04/2026 17:35",
+    "link": "https://www.trthaber.com/haber/turkiye/anadolu-otoyolunda-zincirleme-kaza-2-olu-940106.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anadolu Otoyolu'nun Kocaeli kesiminde meydana gelen zincirleme trafik kazasında 2 kişi hayatını kaybetti, Ankara istikameti ulaşıma kapandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8af1ade4",
     "title": "ABDİsrail saldırısında Hürmüz Boğazı yakınındaki İran'ın Keşm Adası'ndaki liman hedef alındı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe, Napoli'de büyük bir krize dönüşen Romelu Lukaku'yu transfer etmek için görüşmelere başladı. Napoli'nin Fenerbahçe'den isteyeceği bonservis bedeli de netlik kazandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/fenerbahce-romelu-lukaku-icin-gorusmelere-basladi-iste-napolinin-bonservis-beklentisi-txus.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_18b34686",
-    "title": "Kocaelispor, Selçuk İnan'ın sözleşmesini uzattı",
-    "source": "Haber Global",
-    "time": "02/04/2026 16:55",
-    "link": "https://haberglobal.com/spor/kocaelispor-selcuk-inanin-sozlesmesini-uzatti-516713",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kocaelispor, teknik direktör Selçuk İnan'ın sözleşmesinin 2028'e kadar uzatıldığını açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/kocaelispor-selcuk-inanin-sozlesmesini-uzatti-ahty.jpg",
     "keyword": null
   }
 ]
