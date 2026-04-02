@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_12469b79",
+    "title": "BAE, ülkedeki İran vatandaşlarının sınır dışı edileceği iddialarını yalanladı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 06:53",
+    "link": "https://www.trthaber.com/haber/dunya/bae-ulkedeki-iran-vatandaslarinin-sinir-disi-edilecegi-iddialarini-yalanladi-940010.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri BAE, ülkede yaşayan İran vatandaşlarının sınır dışı edileceğine ilişkin iddiaları yalanlayarak, \"İranlı topluluğun sosyal dokunun bir parçasını oluşturduğunu\" bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_dfc4007e",
     "title": "Fethiye'de karaya sürüklenen tekne battı, 1 kişi aranıyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dünyanın gözü ABD'deydi! Trump açıklama yapıyor",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/sondakika880x487uzunjpg-ijjPQCBX6k_w9Rk7uxOH6g.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_396d1db3",
-    "title": "5G teknolojisinin iki yılda yayılacağı söylendi ama: ‘Süre 4 yıla sarkabilir’",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 04:14",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/5g-teknolojisinin-iki-yilda-yayilacagi-soylendi-ama-sure-4-yila-sarkabilir-2491578",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "5G teknolojisinin diğer ülkelerden farklı olarak Türkiye’de Non-Standalone (NSA) sistemiyle yaşama geçirildiği ileri sürüldü. Tartışılan sistem, mevcut 4G LTE altyapısının üzerine 5G antenlerinin takılmasıyla çalışıyor. Bu da 5G’nin tüm avantajlarının kullanılamamasına yol açıyor. TMMOB Elektrik Mühendisleri Odası (EMO) Ankara Şube Başkanı Ramazan Pektaş, izlenimlerinin teknolojinin NSA sistemiyle yaşama geçirildiği yönünde olduğunu aktardı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/26e83410-74b9-4b4a-830a-ee9d8652abeb.jpg",
     "keyword": null
   }
 ]
