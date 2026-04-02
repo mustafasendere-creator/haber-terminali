@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6d43449e",
+    "title": "Tesla'nın otomobil teslimatı yılın ilk çeyreğinde beklentileri karşılayamadı",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 18:33",
+    "link": "https://www.aa.com.tr/tr/guncel/teslanin-otomobil-teslimati-yilin-ilk-ceyreginde-beklentileri-karsilayamadi/3889608",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'li elektrikli araç üreticisi Tesla'nın bu yılın ilk çeyreğinde teslim ettiği otomobil sayısı 358 bin 23 ile piyasa beklentilerinin altında kaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3049ea72",
     "title": "Sıcak Kumlar ve Mavi Deniz: Erken Rezervasyon Avantajlarıyla En İyi Antalya Otelleri",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Polen Ekoloji Kolektifi’nin yayımladığı raporda, maden şirketlerine verilen ruhsatların, siyanürlü altın madenciliğinin, hidrolik kırma uygulamalarının ve nadir toprak elementleri arayışının yeni “gözden çıkarılan bölgeler” yarattığı belirtildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340849.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_fff300e2",
-    "title": "Galatasaray'dan açıklama: Yıldız isim Trabzonspor maçında oynayacak mı?",
-    "source": "Haber61",
-    "time": "02/04/2026 17:34",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-maci-oncesi-sok-gelisme-galatasaraydan-aciklama-geldi-h628427.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Galatasaray’ın Brezilyalı oyuncusu Gabriel Sara, milli takımda yaşadığı sakatlık sonrası İstanbul’da tedavi altına alındı. Sara’nın Trabzonspor karşılaşmasında oynayıp oynamayacağı merak konusu.",
-    "image": "https://resim.haber61.net/news/610582.jpg",
-    "keyword": "trabzon"
   }
 ]
