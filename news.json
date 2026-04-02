@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f18492fb",
+    "title": "Güneş görmeyen köye dev ayna!",
+    "source": "Habertürk",
+    "time": "02/04/2026 07:54",
+    "link": "https://www.haberturk.com/koye-isik-getirmek-icin-dev-aynalar-kullandilar-italya-nin-viganella-koyunde-3-ay-gunes-dogmuyor-3874058",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'nın İsviçre sınırındaki küçük bir köyü olan Viganella, coğrafi konumu nedeniyle yılın tam üç ayını karanlıkta geçiriyor. Dağların arasına sıkışmış bu şirin yerleşim yeri, doğanın zorlu şartlarına boyun eğmek yerine akılalmaz bir çözüm bularak kendi güneşini yarattı. İşte karanlık günleri dev bir aynayla aydınlatan o inanılmaz projenin detayları haberimizde...",
+    "image": "https://im.haberturk.com/l/2026/04/01/ver1775072973/3874058/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_a948aa0c",
     "title": "Fethiye’de tur teknesi battı: 6 kişi kurtarıldı, 1 kişinin cansız bedenine ulaşıldı!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": ".",
     "image": "https://media.cumhuriyet.com.tr/Archive/fce86aae-87f1-43ea-aa23-78f488a918ad.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_798c4c7c",
-    "title": "Mart ayı enflasyonu yarın açıklanacak",
-    "source": "TRT Haber",
-    "time": "02/04/2026 06:33",
-    "link": "https://www.trthaber.com/haber/ekonomi/mart-ayi-enflasyonu-yarin-aciklanacak-940004.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mart ayına ilişkin enflasyon rakamları yarın açıklanacak. Tüketici Fiyat Endeksi, şubat ayında bir önceki aya kıyasla yüzde 2,96 artarken, yıllık bazda yüzde 31,53 olarak gerçekleşmişti.",
-    "image": null,
     "keyword": null
   }
 ]
