@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c65293a",
+    "title": "Balıkesir'de 4.2 büyüklüğünde deprem",
+    "source": "A Haber",
+    "time": "02/04/2026 21:53",
+    "link": "https://www.ahaber.com.tr/gundem/2026/04/02/balikesirde-41-buyuklugunde-deprem",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) Balıkesir'in Sındırgı ilçesinde 4.2 büyüklüğünde deprem meydana geldiğini duyurdu. AFAD, kısa süreli panik oluşturan sarsıntının yerin 10 kilometre...Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/6c256d/1200/1200/155/0/641/486?u=https://iahbr.tmgrup.com.tr/2026/04/02/balikesirde-43-buyuklugunde-deprem-1775154819620.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_26ea2e8f",
     "title": "Trabzonspor’da 930 Günlük Hasret! Derbide Tarihi Fırsat",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Torba yasadaki pırlanta, elmas ve inci gibi değerli taşlardan ÖTV alınmasını öngören madde çıkarıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341342.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f375f050",
-    "title": "Savaşın gölgesinde eve dönüş: Yaklaşık 1,6 milyon Ukraynalı cephe hattında yaşamı seçti",
-    "source": "Euronews",
-    "time": "02/04/2026 20:34",
-    "link": "http://tr.euronews.com/2026/04/02/savasin-golgesinde-eve-donus-yaklasik-16-milyon-ukraynali-cephe-hattinda-yasami-secti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rus saldırılarının devam etmesine rağmen evlerine dönen 1,6 milyondan fazla Ukraynalı için vatan hasreti, cephe bölgelerinde yaşamanın risklerinden daha ağır basıyor.",
-    "image": null,
     "keyword": null
   }
 ]
