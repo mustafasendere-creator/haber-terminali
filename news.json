@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32100017",
+    "title": "Irak’ta Haşdi Şabi karargahı yeniden vuruldu",
+    "source": "10Haber",
+    "time": "02/04/2026 07:53",
+    "link": "https://10haber.net/dunya/irakta-hasdi-sabi-karargahi-yeniden-vuruldu-691743/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Musul&#8217;da&#160;AA muhabirinin yerel kaynaklardan aldığı bilgiye göre, Telafer ilçesindeki Haşdi Şabi’ye ait 53. Tugay Komutanlığı karargahı yaklaşık bir saatlik arayla iki kez hava saldırısına uğradı. Haşdi Şabi tarafından yapılan yazılı açıklamada, ABD-İsrail tarafından düzenlenen hava saldırılarında Haşdi Şabi 53. Tugay komutanı ile bir mensubunun öldüğü ve dört kişinin de yaralandığı belirtildi. Saldırılarda karargahta maddi hasar [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69cdf2b6eb4011.77530652.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_68ef3d8d",
     "title": "Anahtar Deliği 02.04.2026- Herkes onu istiyor ama bu sezon zor",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji Genel Müdürlüğü MGM, Ankara genelinde gece saatlerinde başlayan kuvvetli yağışın gün boyunca sürmesinin beklendiğini duyurarak, oluşabilecek olumsuzluklara karşı vatandaşları uyardı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_887d65a1",
-    "title": "NASA Orion uzay aracını Ay'a fırlattı: 1972'den sonra Ay'a yapılacak ilk insanlı yolculuk",
-    "source": "Evrensel",
-    "time": "02/04/2026 06:13",
-    "link": "https://www.evrensel.net/haber/5977818/nasa-orion-uzay-aracini-ay-a-firlatti-1972-den-sonra-ay-a-yapilacak-ilk-insanli-yolculuk",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Havacılık ve Uzay Ajansı (NASA), Ay’a Artemis II görevi kapsamında ilk yolculuğu başlattı. NASA'ya göre 1972'den sonra Ay'a yapılacak ilk insanlı yolculuk olacak.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341244.jpg",
     "keyword": null
   }
 ]
