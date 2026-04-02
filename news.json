@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2e03f35a",
+    "title": "Kırklareli'nde soba faciasında can kaybı yükseldi!",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 16:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kirklareli-nde-soba-faciasinda-can-kaybi-yukseldi-2491823",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırklareli'nin Lüleburgaz ilçesinde bir iş yerindeki soba patlamasında hayatını kaybedenlerin sayısı 2'ye yükseldi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e6132293-71ba-433d-9045-ec4c3113575c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_488a6c37",
     "title": "Dünyaca ünlü sanatçılar İstanbul’da konser fırtınası estirecek",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'da akrobatik hareketler yapan motosikletliye 46 bin lira ceza kesildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/xcvkjxcvkjxcjknvxkjncvkjnxcv.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_f035b0c2",
-    "title": "Cumhurbaşkanı Erdoğan: Petrol için yapılan mücadele gelecekte su için yapılacak",
-    "source": "TRT Haber",
-    "time": "02/04/2026 15:55",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-petrol-icin-yapilan-mucadele-gelecekte-su-icin-yapilacak-940082.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, suyun dikkatli kullanılması gerektiğini belirterek, \"Türkiye, dünyada su stresi çeken ülkeler arasında. Su kaynaklarımızı verimli ve bilinçli şekilde kullanmalıyız. Petrol için yapılan mücadele gelecekte su için yapılacak\" diye konuştu.",
-    "image": null,
-    "keyword": null
   }
 ]
