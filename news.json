@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce9b87d8",
+    "title": "Manisa'da otomobil şarampole devrildi! Sürücü öldü",
+    "source": "Haber Global",
+    "time": "02/04/2026 04:13",
+    "link": "https://haberglobal.com/gundem/manisada-otomobil-sarampole-devrildi-surucu-oldu-516580",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa Kırkağaç'ta otomobilin şarampole yuvarlandığı kazada sürücü yaraladı, araçta bulunan Muratcan Keleş (34) ise kaldırıldığı hastanede öldü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/manisada-otomobil-sarampole-devrildi-surucu-oldu-ubnr.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_80624434",
     "title": "Mehmet Türkmen’in tutuklanması ve faşizmin inşası",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sebebi bulunamayan kronik ağrılar ve fiziksel şikayetler, bastırılmış psikolojik sorunların işareti olabilir. Uzman Klinik Psikolog Mert Arslan’a göre beden, dile gelmeyen duyguların en güçlü anlatıcısı olabilir.",
     "image": "https://media.cumhuriyet.com.tr/Archive/683bb238-fac8-43e9-ab98-593e916bf261.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_eae65948",
-    "title": "İran basını: Hamaney'in başdanışmanı Harrazi, ABD ve İsrail saldırılarında ağır yaralandı",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 01:54",
-    "link": "https://www.cumhuriyet.com.tr/dunya/iran-basini-hamaney-in-basdanismani-harrazi-abd-ve-israil-saldirilarinda-agir-yaralandi-2491615",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Stratejik Dış İlişkiler Konseyi Başkanı Kemal Harrazi'nin, ABD ve İsrail saldırılarında ağır yaralandığı bildirildi. Harrazi'nin eşinin ise hayatını kaybettiği belirtildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/507a535f-f343-4e96-9dae-cf98165b67fb.jpg",
     "keyword": null
   }
 ]
