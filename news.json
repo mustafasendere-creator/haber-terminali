@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cc0ff729",
+    "title": "Mart ayında da basına baskı: Gözaltı, tutuklama ve sansür devam ediyor",
+    "source": "Evrensel",
+    "time": "02/04/2026 15:14",
+    "link": "https://www.evrensel.net/haber/5977918/mart-ayinda-da-basina-baski-gozalti-tutuklama-ve-sansur-devam-ediyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP’li Utku Çakırözer’in raporuna göre mart ayında en az 40 gazeteci yargılandı, 7 gazeteci gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340708.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_0b9d5210",
     "title": "Takasbank duyurdu: Altın piyasasında düzenleme",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "TKP",
     "prefix": "🎯",
     "summary": "Trabzon’da yaşanan olayda, Meydan’da bıçakla yaralanan bir kişi tedavi için gittiği hastanede silahlı saldırıya uğradı. Olayla ilgili soruşturma başlatıldı.",
-    "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_e8fc05b9",
-    "title": "Trabzon'da tek tekere 46 bin TL ceza",
-    "source": "Karadeniz Gazetesi",
-    "time": "02/04/2026 14:34",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-tek-tekere-46-bin-tl-ceza/607579",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'un Ortahisar ilçesinde motosikleti ile tek teker üzerinde tehlikeli hareketler yapan şahsa Trabzon İl Emniyet Müdürlüğü Trafik ekipleri tarafından 46 bin TL ceza kesildi.",
     "image": null,
     "keyword": "trabzon"
   }
