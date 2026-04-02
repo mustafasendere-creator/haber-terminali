@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7ebfc48c",
+    "title": "Endonezya'da 7.4 büyüklüğünde deprem",
+    "source": "Haber Global",
+    "time": "02/04/2026 07:14",
+    "link": "https://haberglobal.com/dunya/endonezyada-74-buyuklugunde-deprem-516585",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güneydoğu Asya ülkesi Endonezya'da Maluku Denizi açıklarında 7.4 büyüklüğünde deprem meydana geldiği bildirildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/endonezyada-74-buyuklugunde-deprem-l0ct.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_79ea5536",
     "title": "İran ordusu: Humeyn kentinde MQ9 tipi bir İHA düşürüldü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Akbelen Ormanı’ndaki faaliyetleriyle gündeme gelen Limak Holding’in Hatay Hassa’daki boksit ocağı kapasite artışı projesine Çevre, Şehircilik ve İklim Değişikliği Bakanlığı “ÇED olumlu” kararı verdi. Proje kapsamında ormanlık alanda binlerce ağacın kesilmesi öngörülüyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6ba86fae-198d-4468-a2ad-45f42a5c06f3.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_57ab931d",
-    "title": "Bu daha başlangıç",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 04:53",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/gulengul-altinsay/bu-daha-baslangic-2491635",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tam 24 yıl bekledikten sonra Dünya Kupası’na katılıyoruz.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar157_cover.jpeg",
     "keyword": null
   }
 ]
