@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_691fd4ae",
+    "title": "Trump, İran gerilimi gölgesinde Ulusal İstihbarat Direktörü Gabbard’ı görevden almayı değerlendiriyor",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 21:55",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-iran-gerilimi-golgesinde-ulusal-istihbarat-direktoru-gabbard-i-gorevden-almayi-degerlendiriyor-2491913",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump’ın, son haftalarda kabine üyeleriyle yaptığı görüşmelerde Ulusal İstihbarat Direktörü Tulsi Gabbard’ı görevden alma ihtimalini tartıştığı öne sürüldü. Tüm bunlar konuşulurken, Adalet Bakanı Pam Bondi, ani bir kararla görevden alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/62232419-b906-46a3-9be8-45e94f5a25ae.jpg",
+    "keyword": null
+  },
+  {
+    "id": "TKP_26ea2e8f",
+    "title": "Trabzonspor’da 930 Günlük Hasret! Derbide Tarihi Fırsat",
+    "source": "Taka Gazetesi",
+    "time": "02/04/2026 21:54",
+    "link": "https://www.takagazete.com.tr/trabzonsporda-930-gunluk-hasret-derbide-tarihi-firsat",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzonspor, Cumartesi günü Papara Park’ta oynayacağı Galatasaray derbisi öncesi tarihi bir eşiğin arifesinde. Bordo-mavililer, İstanbul’un üç büyük rakibine karşı sahasında tam 930 gündür süren galibiyet hasretine son vermek için sahaya çıkacak.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/hasret-15.jpg",
+    "keyword": "trabzon"
+  },
+  {
     "id": "TKP_5bf8a0bc",
     "title": "Onuachu, Muçi ve Augusto’ya kritik Galatasaray maçında büyük görev düşüyor",
     "source": "Taka Gazetesi",
@@ -933,30 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, Süper Lig'in 28. haftasında Galatasaray'ı ağırlıyor. Bordo-mavililer, evindeki galibiyet üstünlüğünü koruyarak dev derbiden zaferle ayrılmayı hedefliyor.",
     "image": "https://resim.haber61.net/news/610597.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4d11b2ea",
-    "title": "Ankara kulisleri… Erdoğan'ın yeni seçim stratejisi: Çok adaylı tek turlu",
-    "source": "OdaTV",
-    "time": "02/04/2026 20:35",
-    "link": "https://www.odatv.com/yazarlar/hurrem-elmasci/ankara-kulisleri-erdoganin-yeni-secim-stratejisi-cok-adayli-tek-turlu-120141798",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hürrem Elmasçı yazdı...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/ankara-kulisleri-erdoganin-yeni-secim-stratejisi-cok-adayli-tek-turlu-bo8x.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fb42977f",
-    "title": "AYM'den Tayfun Kahraman kararı",
-    "source": "OdaTV",
-    "time": "02/04/2026 20:35",
-    "link": "https://www.odatv.com/guncel/aymden-tayfun-kahraman-karari-120141846",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anayasa Mahkemesi Tayfun Kahraman hakkında oy birliğiyle yeniden ihlal kararı verdi...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/aymden-tayfun-kahraman-karari-dpf8.jpg",
     "keyword": null
   }
 ]
