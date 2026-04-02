@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce11b724",
+    "title": "Meclis’e 1.8 milyon pet şişe su: 6 milyon lira suya gitti",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 05:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meclis-e-1-8-milyon-pet-sise-su-6-milyon-lira-suya-gitti-2491573",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TBMM Yerleşkesi’nde tek kullanımlık 0.20 litre pet şişe suya geçilmesi tartışma yaratmıştı. Geçen yıl 370 bin 660 adet 0.20 litrelik suya 1.1 milyon lira ödeme yapıldı. 2025 yılında Meclis’te farklı litrede toplam 1.8 milyon pet şişe su tüketildi. Bunlar için 6 milyon liranın üzerinde ödeme yapıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d1d18677-63f7-4dbd-be8d-6250e690e3c3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c5653093",
     "title": "Kaptan Hakan",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’un eski yıldızı Jaja Coelho, Galatasaray maçı öncesi Trabzon’a geliyor. Brezilyalı futbolcu TS Club’da taraftarlarla buluşacak.",
     "image": "https://resim.haber61.net/news/610379.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e8f17389",
-    "title": "Artemis astronotlarla Ay'a gidiyor",
-    "source": "OdaTV",
-    "time": "02/04/2026 02:34",
-    "link": "https://www.odatv.com/guncel/artemis-astronotlarla-aya-gidiyor-120141700",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "NASA’nın Artemis II görevi, 53 yıl aradan sonra Ay’a yönelik ilk insanlı uçuş olarak başarıyla fırlatıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/artemis-astronotlarla-aya-gidiyor-etcm.jpg",
     "keyword": null
   }
 ]
