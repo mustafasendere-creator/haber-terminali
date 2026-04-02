@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c4bc1d6",
+    "title": "Endonezya'da 7,4 büyüklüğünde deprem",
+    "source": "TRT Haber",
+    "time": "02/04/2026 04:53",
+    "link": "https://www.trthaber.com/haber/dunya/endonezyada-74-buyuklugunde-deprem-939998.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Endonezya'nın Ternate bölgesinde 7,4 büyüklüğünde deprem meydana geldi. Deprem sonrası Maluku Adaları çevresi için  tsunami uyarısı verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0514a492",
     "title": "Soykırımcı İsrail ateşkese rağmen Gazzede saldırı ve yıkımlarını sürdürdü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM’deki grup toplantısında fındık üreticisinin yaşadığı sorunları gündeme taşıdı. Arıkan, Türkiye’nin üretimde lider olmasına rağmen fiyat belirleme gücünü elinde tutamadığını söyledi.",
     "image": "https://resim.haber61.net/news/610382.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ce5bdb56",
-    "title": "NASA Artemis II görevi kapsamında Orion uzay aracını Ay'a fırlattı",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 02:33",
-    "link": "https://www.aa.com.tr/tr/guncel/nasa-artemis-ii-gorevi-kapsaminda-orion-uzay-aracini-aya-firlatti/3888713",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Havacılık ve Uzay Ajansı (NASA), 50 yılı aşkın sürenin ardından, Ay’a Artemis II görevi kapsamında ilk yolculuğu başlattı.",
-    "image": null,
     "keyword": null
   }
 ]
