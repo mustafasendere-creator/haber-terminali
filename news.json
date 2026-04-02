@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_66714883",
+    "title": "İsrail askerleri, Gazze Şeridi'nde otizmli bir genci başından vurarak öldürdü",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 22:13",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-askerleri-gazze-seridinde-otizmli-bir-genci-basindan-vurarak-oldurdu/3889627",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail askerlerinin Gazze Şeridi'nin güneyindeki Han Yunus kentinde başından vurarak yaraladığı otizmli Filistinli genç hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_063ec76d",
     "title": "Los Angeles'ta otobüslere \"Hoş geldiniz Ay Yıldızlılar\" yazıldı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Anayasa Mahkemesi, Gezi davası hükümlüsü Tayfun Kahraman’ın hak ihlali kararının uygulanmaması üzerine yaptığı başvuruda yeniden ihlal kararı verdi. Yüksek Mahkeme, yargıdaki direnci hukuksuz buldu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/333727.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_5588507f",
-    "title": "Kadırga Yaylası’nda ayı dehşeti: Evlere girip büyük zarar verdiler",
-    "source": "Taka Gazetesi",
-    "time": "02/04/2026 20:54",
-    "link": "https://www.takagazete.com.tr/video/kadirga-yaylasinda-ayi-dehseti-evlere-girip-buyuk-zarar-verdiler",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Kadırga Yaylası’nda kış uykusundan uyanan ayılar yayla evlerine girerek büyük zarar verdi. Vatandaşlar tedirgin.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/kadirga-yaylasi-1-2.jpeg",
     "keyword": null
   }
 ]
