@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ad81ce70",
+    "title": "Endonezya'da 7.4 büyüklüğünde deprem!",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 07:54",
+    "link": "https://www.cumhuriyet.com.tr/dunya/endonezya-da-7-4-buyuklugunde-deprem-2491650",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güneydoğu Asya ülkesi Endonezya'da Maluku Denizi açıklarında 7.4 büyüklüğünde deprem meydana geldiği bildirildi. Depremin ardından yayımlanan dev dalga uyarısı daha sonra kaldırıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/06e9079a-dd77-479a-bf3e-834218b0db07.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8ec8a6ce",
     "title": "İlk durak Ay, hedef Mars: NASA'nın Artemis görevi neden önemli?",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Meteoroloji Genel Müdürlüğü, Kuzey Ege ve Batı Akdeniz'de bugün fırtına beklendiğini duyurarak denizcileri ve vatandaşları dikkatli olmaları konusunda uyardı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_548a0bfe",
-    "title": "UNCTAD'dan Korkutan Hürmüz raporu: Küresel zincirleme krize dönüşebilir",
-    "source": "TRT Haber",
-    "time": "02/04/2026 06:33",
-    "link": "https://www.trthaber.com/haber/ekonomi/unctaddan-korkutan-hurmuz-raporu-kuresel-zincirleme-krize-donusebilir-940006.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler Ticaret ve Kalkınma Kuruluşu UNCTAD, Hürmüz Boğazı'ndaki fiili kapanmanın küresel ekonomide enerji, ticaret ve finans kanalları üzerinden baskıyı hızla artırdığını bildirdi.",
     "image": null,
     "keyword": null
   }
