@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c6c9cde0",
+    "title": "Barış süreci tıkandı: Rusya'dan Ukrayna'ya yoğun İHA saldırısı",
+    "source": "Euronews",
+    "time": "02/04/2026 11:54",
+    "link": "http://tr.euronews.com/2026/04/02/baris-sureci-tikandi-rusyadan-ukraynaya-yogun-iha-saldirisi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya'nın Ukrayna'yı topyekûn işgalini sona erdirmeye yönelik diplomatik çabalar, ABD'nin odağını İran savaşına kaydırması ardından son aylarda durdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_64800af4",
     "title": "Kil zeminde büzülme ve şişme: Fransa'da 12 milyon konut risk altına girdi",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD, alıkonulan Venezuela Devlet Başkanı Nicolas Maduro sonrası Geçici Devlet Başkanı olan Delcy Rodriguez&#039;e yönelik yaptırımları kaldırıldı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/01/04/delcy-rodriguez-nawe_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2d41e3b8",
-    "title": "Cotton Box’ın odağında, nitelikli ve yenilikçi ürün geliştirme var",
-    "source": "Ekonomim",
-    "time": "02/04/2026 10:55",
-    "link": "https://www.ekonomim.com/sehirler/cotton-boxin-odaginda-nitelikli-ve-yenilikci-urun-gelistirme-var-haberi-885576",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yurt içinde bin 500’ü aşan noktada ürünleri satılan Cotton Box, yurt dışında 70 ülkede Türk Malı damgası ve kendi markasıyla tüketiciyle buluşuyor.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/cotton-boxin-odaginda-nitelikli-ve-yenilikci-urun-gelistirme-var-jddl_cover.jpg",
     "keyword": null
   }
 ]
