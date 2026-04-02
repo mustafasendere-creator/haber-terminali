@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fd2cb2a1",
+    "title": "Balıkesir'de 4,2 büyüklüğünde deprem",
+    "source": "TRT Haber",
+    "time": "02/04/2026 22:14",
+    "link": "https://www.trthaber.com/haber/turkiye/balikesirde-42-buyuklugunde-deprem-940135.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir'in Sındırgı ilçesinde saat 21.22'de 4,2 büyüklüğünde deprem meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_aca3eec9",
     "title": "AK Parti, EOKA terör örgütü destekçilerinin KKTC'lilere yönelik saldırıyı lanetledi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor’un Galatasaray ile oynayacağı sezonun en kritik derbisi öncesinde şehirde büyük bir heyecan yaşanıyor. Papara Park’ta oynanacak mücadeleye günler kala biletlerin büyük bölümü tükenirken, tribünlerin tamamen dolması bekleniyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/taraftar-101.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_0bc7fce6",
-    "title": "Hakem Cihan Aydın bu sezon Trabzonspor’un en kritik maçını yönetecek",
-    "source": "Haber61",
-    "time": "02/04/2026 20:54",
-    "link": "https://www.haber61.net/trabzonspor/hakem-cihan-aydin-bu-sezon-trabzonsporun-en-kritik-macini-yonetecek-h628437.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Süper Lig'in 28. haftasında Galatasaray'ı ağırlıyor. Bordo-mavililer, evindeki galibiyet üstünlüğünü koruyarak dev derbiden zaferle ayrılmayı hedefliyor.",
-    "image": "https://resim.haber61.net/news/610597.jpg",
     "keyword": "trabzon"
   }
 ]
