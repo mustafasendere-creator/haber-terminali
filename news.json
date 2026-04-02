@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c1754469",
+    "title": "Kuveyt: Son 24 saatte ülke İran kaynaklı 2 seyir füzesi ve 13 İHA saldırısıyla hedef alındı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 18:34",
+    "link": "https://www.trthaber.com/haber/dunya/kuveyt-son-24-saatte-ulke-iran-kaynakli-2-seyir-fuzesi-ve-13-iha-saldirisiyla-hedef-alindi-940112.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Savunma Bakanlığı, son 24 saatte ülkenin İran kaynaklı 2 seyir füzesi ve 13 insansız hava aracıyla İHA hedef alındığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a5f22db9",
     "title": "Hürmüz krizine ABD'siz çözüm arayışı: 40 ülke İngiltere'nin ev sahipliğinde toplandı",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Galatasaray maçı öncesi Papara Park çevresindeki trafik yoğunluğunu azaltmak amacıyla otopark kartı sahibi taraftarlar için yeni ulaşım güzergâhını duyurdu.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_5e496da5",
-    "title": "Adıyaman’da otizm farkındalık gününe özel etkinlik",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 17:35",
-    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/adiyaman-da-otizm-farkindalik-gunune-ozel-etkinlik-2491842",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adıyaman Belediyesi 2 Nisan Dünya Otizm Farkındalık Günü kapsamında etkinlik düzenledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/711edb65-eb65-47ae-9e2f-dbeae36d0f50.jpg",
-    "keyword": null
   }
 ]
