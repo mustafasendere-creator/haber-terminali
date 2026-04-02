@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dfc4007e",
+    "title": "Fethiye'de karaya sürüklenen tekne battı, 1 kişi aranıyor",
+    "source": "TRT Haber",
+    "time": "02/04/2026 06:53",
+    "link": "https://www.trthaber.com/haber/turkiye/fethiyede-karaya-suruklenen-tekne-batti-1-kisi-araniyor-940011.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Fethiye ilçesinde kıyıya çarparak batan teknedeki 6 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_540d90f8",
     "title": "7,6 büyüklüğündeki depremin ardından tsunami uyarısı verildi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "5G teknolojisinin diğer ülkelerden farklı olarak Türkiye’de Non-Standalone (NSA) sistemiyle yaşama geçirildiği ileri sürüldü. Tartışılan sistem, mevcut 4G LTE altyapısının üzerine 5G antenlerinin takılmasıyla çalışıyor. Bu da 5G’nin tüm avantajlarının kullanılamamasına yol açıyor. TMMOB Elektrik Mühendisleri Odası (EMO) Ankara Şube Başkanı Ramazan Pektaş, izlenimlerinin teknolojinin NSA sistemiyle yaşama geçirildiği yönünde olduğunu aktardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/26e83410-74b9-4b4a-830a-ee9d8652abeb.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bcc40177",
-    "title": "Demokrasiye bak!",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 04:13",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/demokrasiye-bak-2491638",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ama gerçekten olacak şey mi?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar96_cover.jpeg",
     "keyword": null
   }
 ]
