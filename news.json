@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_106d4850",
+    "title": "Fethiye'de tur teknesi battı: Kayıp olan kişinin cansız bedeni bulundu",
+    "source": "Evrensel",
+    "time": "02/04/2026 06:53",
+    "link": "https://www.evrensel.net/haber/5977819/fethiye-de-tur-teknesi-batti-kayip-olan-kisinin-cansiz-bedeni-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Fethiye ilçesinde kıyıya çarparak batan teknedeki 6 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341246.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fe8b8e8d",
     "title": "Trump, 'Savaşa devam' dedi: İki-üç hafta içinde çok sert vuracağız",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bizim Çocuklar öylesine büyük bir gururu yaşattı ki...",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar39_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ce9b87d8",
-    "title": "Manisa'da otomobil şarampole devrildi! Sürücü öldü",
-    "source": "Haber Global",
-    "time": "02/04/2026 04:13",
-    "link": "https://haberglobal.com/gundem/manisada-otomobil-sarampole-devrildi-surucu-oldu-516580",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa Kırkağaç'ta otomobilin şarampole yuvarlandığı kazada sürücü yaraladı, araçta bulunan Muratcan Keleş (34) ise kaldırıldığı hastanede öldü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/manisada-otomobil-sarampole-devrildi-surucu-oldu-ubnr.jpg",
     "keyword": null
   }
 ]
