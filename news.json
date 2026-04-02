@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f7ca27ba",
+    "title": "MSB: Montrö Sözleşmesinden taviz verilmesi söz konusu değildir",
+    "source": "TRT Haber",
+    "time": "02/04/2026 12:15",
+    "link": "https://www.trthaber.com/haber/gundem/msb-montro-sozlesmesinden-taviz-verilmesi-soz-konusu-degildir-940066.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MSB, \"Türkiyenin Karadenize yönelik güvenlik anlayışı; Montrö Boğazlar Sözleşmesinin sağladığı denge ve istikrarın korunmasına, bölgesel sahiplik ilkesi doğrultusunda Karadenize kıyıdaş ülkelerin öncelikli rol üstlenmesine dayanmaktadır\" ifadelerini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_74f53c1d",
     "title": "Bursa'da 8 katlı apartmanda yangın",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Çorum’da düzenlenen Okullararası Gençler Türkiye Karate Şampiyonası’nda Trabzon ekibi zirveye çıktı. Affan Kitapçıoğlu Lisesi, takım halinde Türkiye şampiyonu oldu.",
     "image": "https://resim.haber61.net/news/610491.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_b0731458",
-    "title": "Sürmene’de kaydedilen görüntüler ayı zararını ortaya koydu",
-    "source": "Haber61",
-    "time": "02/04/2026 11:34",
-    "link": "https://www.haber61.net/trabzon/surmenede-kaydedilen-goruntuler-ayi-zararini-ortaya-koydu-h628371.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Sürmene ilçesinde kış uykusundan uyanan ayıların yayla evlerine girerek zarar verdiği görüntüler ortaya çıktı. Bölge sakinleri yaşananlar nedeniyle tedirgin oldu.",
-    "image": "https://resim.haber61.net/news/610493.jpg",
     "keyword": "trabzon"
   }
 ]
