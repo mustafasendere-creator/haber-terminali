@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88897511",
+    "title": "NATO’yla nikâh tazeleme",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 04:53",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-terkoglu/nato-yla-nikah-tazeleme-2491626",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Soğuk Savaş’ın meşhur çocuk tekerlemesi böyle başlıyordu: Bir iki üçler, yaşasın Türkler.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar380_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_9c4bc1d6",
     "title": "Endonezya'da 7,4 büyüklüğünde deprem",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediye Meclisi Nisan ayı toplantılarında denetim raporu ele alındı. Ortahisar Belediye Başkanı Ahmet Kaya, raporun kurumsal gelişim için önemli olduğunu vurguladı.",
     "image": "https://resim.haber61.net/news/610381.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_71545eac",
-    "title": "Saadet Partisi Genel Başkanı Arıkan’dan fındık çıkışı! “Türkiye belirleyen ülke olmalı”",
-    "source": "Haber61",
-    "time": "02/04/2026 02:33",
-    "link": "https://www.haber61.net/trabzon/saadet-partisi-genel-baskani-arikandan-findik-cikisi-turkiye-belirleyen-h628301.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM’deki grup toplantısında fındık üreticisinin yaşadığı sorunları gündeme taşıdı. Arıkan, Türkiye’nin üretimde lider olmasına rağmen fiyat belirleme gücünü elinde tutamadığını söyledi.",
-    "image": "https://resim.haber61.net/news/610382.jpg",
     "keyword": null
   }
 ]
