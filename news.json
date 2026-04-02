@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_00952fa1",
+    "title": "Akaryakıta zam geldi",
+    "source": "Habertürk",
+    "time": "02/04/2026 06:54",
+    "link": "https://www.haberturk.com/akaryakitta-tabela-degisti-lpg-ye-zam-mi-geldi-benzin-ve-motorine-zam-var-mi-2-nisan-2026-persembe-guncel-akaryakit-fiyatlari-3874101",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Brent petroldeki dalgalanmalar akaryakıt fiyatlarına indirim ve zam olarak yansıyor. Bu kapsamda geçtiğimiz günlerde motorine 2 lira 52 kuruşluk zam geldi. Motorinin ardından LPG'ye de bir zam geldi. Araç sahiplerini üzecek gelişmenin ardından, \"LPG'ye ne kadar zam geldi, benzin ve motorine zam var mı?\" soruları gündemi meşgul etmeye başladı. İşte 2 Nisan 2026 Perşembe güncel akaryakıt fiyatları ile benzin, motorin ve LPG pompa fiyatı...",
+    "image": "https://im.haberturk.com/l/2026/04/01/ver1775078756/3874101/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_0f148350",
     "title": "Arsin’in Sevilen İsmi Sağlığına Kavuştu! Zorlu Süreci Başarıyla Atlattı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Trump \"Amerikanın İran'daki tüm askeri hedeflerini çok yakında tamamlama yolundayız ancak önümüzdeki 23 hafta içinde onlara çok sert bir darbe indireceğiz\" açıklamasını yaptı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_55fef9d0",
-    "title": "Fotoğraflarla belgelenen kriz: Büyük Buhran",
-    "source": "Evrensel",
-    "time": "02/04/2026 04:33",
-    "link": "https://www.evrensel.net/haber/5977840/fotograflarla-belgelenen-kriz-buyuk-buhran",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "20. yüzyılın başında pazarlanan \"Amerikan Rüyası\", çalışanın mutlaka kazanacağı, herkesin kaderini çizebilecek konumda olduğu bir masaldı. Günümüzde ise bu masalın şekli değişse de aynı vaatler ile karşımıza çıkmaya devam ediyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341251.jpg",
     "keyword": null
   }
 ]
