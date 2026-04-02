@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d0b99e3",
+    "title": "Galatasaray, Barcelona'nın stoperine talip",
+    "source": "Evrensel",
+    "time": "02/04/2026 19:55",
+    "link": "https://www.evrensel.net/haber/5977937/galatasaray-barcelona-nin-stoperine-talip",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray’ın, Barcelona forması giyen Andreas Christensen için girişimlere başladığı öne sürüldü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339665.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eaec4b1a",
     "title": "DEM Parti’den 'ara seçim' yanıtı, Abdullah Öcalan için 'aracısız iletişim' çağrısı",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ay Yola\" müzik grubunu kabul etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4aefeb73",
-    "title": "Başkentte kırık kaldırım taşları sanata dönüşüyor",
-    "source": "TRT Haber",
-    "time": "02/04/2026 18:54",
-    "link": "https://www.trthaber.com/haber/turkiye/baskentte-kirik-kaldirim-taslari-sanata-donusuyor-940113.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara sokaklarındaki kırık kaldırım taşları, heykel sanatçısı Ozan Kıran'ın dokunuşuyla sanata dönüşüyor.",
     "image": null,
     "keyword": null
   }
