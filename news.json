@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_417d9963",
+    "title": "Son Dakika... TBMM’de geri adım: Pırlanta ve elmasa ÖTV maddesi tekliften çıkarıldı",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 20:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-tbmm-de-geri-adim-pirlanta-ve-elmasa-otv-maddesi-tekliften-cikarildi-2491894",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Torba yasa görüşmelerinde, kıymetli taşlardan ÖTV alınmasını öngören madde Genel Kurul’da teklif metninden çıkarıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_adc54c2a",
     "title": "'Uyuşturucu' soruşturmasında gözaltına alınan ünlülerin test sonuçları çıktı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’in 28. haftasında dev maça çıkacak olan Trabzonspor, Galatasaray karşılaşmasının hazırlıklarına Mehmet Ali Yılmaz Tesisleri’nde devam ederken antrenman öncesi neşeli anlar yaşandı.",
     "image": "https://resim.haber61.net/news/610591.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_88f27816",
-    "title": "Akdeniz'de istilacı yengeç alarmı",
-    "source": "Euronews",
-    "time": "02/04/2026 19:34",
-    "link": "http://tr.euronews.com/2026/04/02/akdenizde-istilaci-yengec-alarmi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni bir çalışma, Hint-Pasifik kökenli bir yengeç türü olan \"Gonioinfradens giardi\"nin İtalya açıklarındaki İyon Denizi'nde hızla yayıldığını belgeledi.",
-    "image": null,
-    "keyword": null
   }
 ]
