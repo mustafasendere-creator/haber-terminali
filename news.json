@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_145f0474",
+    "title": "Türkiye'de 'carry trade' vurgunu: Yabancı sermaye döviz bazında yüzde 66 kâr etti",
+    "source": "Evrensel",
+    "time": "02/04/2026 20:54",
+    "link": "https://www.evrensel.net/haber/5977958/turkiyede-carry-trade-vurgunu-yabanci-sermaye-doviz-bazinda-yuzde-66-kr-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'ye giren 20 milyar dolarlık carry trade sermayesi, baskılanan kur ve yüksek faizle %66 reel getiri sağladı. Toplam kâr 13 milyar dolar.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341340.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_da298162",
     "title": "Akçaabat'ta Minikler Yüzme Kursunda Sporla Tanışıyor",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, ABD ve İsrail’in İran'a saldırılarıyla başlayan savaşın ikinci ayına girdiğini belirterek, çatışmalara diplomatik çözüm bulunması çağrısı yaptı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_638036d0",
-    "title": "İran'ın misillemesi nedeniyle Tel Aviv ile İsrail'in orta kesimlerinde sirenler çaldı",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 20:13",
-    "link": "https://www.aa.com.tr/tr/guncel/iranin-misillemesi-nedeniyle-tel-aviv-ile-israilin-orta-kesimlerinde-sirenler-caldi/3889721",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın misillemesinin ardından başta başkent Tel Aviv olmak üzere İsrail'in birçok noktasında sirenler çaldı ve patlama sesleri duyuldu.",
     "image": null,
     "keyword": null
   }
