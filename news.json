@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_db481b43",
+    "title": "Trump, 'İran'ın en büyük köprüsüne' yönelik saldırıyı övdü",
+    "source": "BBC Türkçe",
+    "time": "02/04/2026 20:34",
+    "link": "https://www.bbc.com/turkce/articles/cy01wke767ko",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Karaj'da bulunan bir otoyol geçiş köprüsüne yapılan saldırıyı överek yaptığı paylaşımda İran'a anlaşma çağrısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_515e2e92",
     "title": "Tuğçe Yılmaz (@tucyil) / Posts / X - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ankara Cumhuriyet Başsavcılığı Askeri Suçlar Soruşturma Bürosu, askeri taşımacılık ihalelerinde rüşvet ve usulsüzlük iddialarıyla 4’ü asker 19 şüpheli hakkında dava açtı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/01426c81-b49f-4032-b139-40e46360e1cc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e44fb8d7",
-    "title": "ABD-İsrail, İran'daki köprüye saldırdı: İran basını o listeyi yayımladı",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 19:35",
-    "link": "https://www.cumhuriyet.com.tr/dunya/abd-israil-iran-daki-kopruye-saldirdi-iran-basini-o-listeyi-yayimladi-2491879",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran basını, Kerec kentindeki B1 Köprüsü’ne yönelik ABD-İsrail saldırısının ardından bölge ülkelerinde bulunan önemli köprülerin listesini yayımlayarak misilleme imasında bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/cdff81a1-ec5e-4d8e-89da-d910de8d8f68.jpg",
     "keyword": null
   }
 ]
