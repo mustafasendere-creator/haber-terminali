@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8121d61",
+    "title": "OSB'lerde yenilenebilir enerji kapasitesi fosil yakıtlıları geçti",
+    "source": "TRT Haber",
+    "time": "02/04/2026 20:34",
+    "link": "https://www.trthaber.com/haber/ekonomi/osblerde-yenilenebilir-enerji-kapasitesi-fosil-yakitlilari-gecti-940128.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'de planlı sanayileşmenin önemli merkezlerinden organize sanayi bölgelerinde OSB yenilenebilir enerji santrallerinin kurulu gücü fosil yakıt bazlı tesisleri aşarak tarihi bir eşiği geride bıraktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_40336ced",
     "title": "İsrail'e idam yasası nedeniyle yaptırım çağrısı",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Devrim Muhafızları Ordusu (DMO), ABD ve İsrail saldırılarına misilleme olarak ABD'li e-ticaret devlerinden Amazon'un Bahreyn’deki bulut bilişim merkezini hedef aldığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f8075c00",
-    "title": "Rusya'da Apple'ın hizmetlerine yönelik ödemelerin durdurulduğu bildirildi",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 19:53",
-    "link": "https://www.aa.com.tr/tr/guncel/rusyada-applein-hizmetlerine-yonelik-odemelerin-durduruldugu-bildirildi/3889729",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD merkezli teknoloji şirketi Apple, Rusya'da uygulama dükkanı App Store ve iCloud gibi hizmetlerine yönelik ödemelerin durdurulduğunu duyurdu.",
     "image": null,
     "keyword": null
   }
