@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8a5ce88e",
+    "title": "Antalya açıklarında 4,2 büyüklüğünde deprem",
+    "source": "Diken",
+    "time": "02/04/2026 23:14",
+    "link": "https://www.diken.com.tr/antalya-aciklarinda-42-buyuklugunde-deprem/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya açıklarında 4,2 büyüklüğünde deprem 02.04.2026 DikenAntalya'nın Demre ilçesi açıklarında 22:35'te 4,2 büyüklüğünde deprem oldu.\nThe post Antalya açıklarında 4,2 büyüklüğünde deprem appeared first on #site_linkat 02.04.2026 .",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_79aeda14",
     "title": "İTO seçimlerinde bir aday toplu SMS'le oy talep etti: 'İletişim kurduğumuz meslektaşlarımıza gönderdik'",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Gayrettepe'de 29 işçinin hayatını kaybettiği gece kulübü yangınının ikinci yılında aileler, adalet talebiyle olay yerine yürüdü. Davanın \"kaza değil cinayet\" olduğu vurgulanarak tüm sorumluların hak ettikleri cezayı alması istendi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341347.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3aa8a056",
-    "title": "Hindistan'da ertelenen nüfus sayımı başladı",
-    "source": "Euronews",
-    "time": "02/04/2026 22:14",
-    "link": "http://tr.euronews.com/2026/04/02/hindistanda-ertelenen-nufus-sayimi-basladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2011 yılında yapılan bir önceki sayımda Hindistan'ın nüfusu 1,21 milyar olarak kaydedilmişti. Güncel tahminler ise nüfusun 1,4 milyarı aşarak Hindistan’ı dünyanın en kalabalık ülkesi konumuna getirdiğini gösteriyor.",
-    "image": null,
     "keyword": null
   }
 ]
