@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_302e18a8",
+    "title": "Araç kullanamayan engelliler için ÖTV istisnası",
+    "source": "TRT Haber",
+    "time": "02/04/2026 07:33",
+    "link": "https://www.trthaber.com/haber/gundem/arac-kullanamayan-engelliler-icin-otv-istisnasi-940016.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Engel oranı yüzde 40 ve üzeri olan ortopedik engellilerden ortopedik engelleri nedeniyle hakkında sürücü belgesi alamayacağına karar verilen engelli bireylere Özel Tüketim Vergisi Kanunu kapsamında belirlenen taşıtlar için ÖTV istisnası uygulanacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0e71eff7",
     "title": "Hava durumunda riskli gün: Batıda şiddetli yağış ve fırtına, doğuda çığ tehlikesi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, \"Amerika’nın (İran’daki) tüm askeri hedeflerini çok kısa bir süre içinde tamamlama yolundayız ancak önümüzdeki 2-3 hafta içinde onlara çok sert bir darbe indireceğiz.\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ce11b724",
-    "title": "Meclis’e 1.8 milyon pet şişe su: 6 milyon lira suya gitti",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 05:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/meclis-e-1-8-milyon-pet-sise-su-6-milyon-lira-suya-gitti-2491573",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM Yerleşkesi’nde tek kullanımlık 0.20 litre pet şişe suya geçilmesi tartışma yaratmıştı. Geçen yıl 370 bin 660 adet 0.20 litrelik suya 1.1 milyon lira ödeme yapıldı. 2025 yılında Meclis’te farklı litrede toplam 1.8 milyon pet şişe su tüketildi. Bunlar için 6 milyon liranın üzerinde ödeme yapıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d1d18677-63f7-4dbd-be8d-6250e690e3c3.jpg",
     "keyword": null
   }
 ]
