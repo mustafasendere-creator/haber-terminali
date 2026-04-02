@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_b073ff04",
+    "title": "Ölü yunus sahile vurdu",
+    "source": "Taka Gazetesi",
+    "time": "02/04/2026 17:34",
+    "link": "https://www.takagazete.com.tr/olu-yunus-sahile-vurdu-1",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Samsun'un Alaçam ilçesindeki Geyikkoşan sahilinde ölü yunus bulundu.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/aa/olu-yunus-sahile-vurdu.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5c2137ce",
     "title": "Galatasaray, Barcelona'nın stoperine talip",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul İl Sağlık Müdürü Güner, yılın ilk 3 ayında 35 binden fazla çocuğa otizm taraması yapıldığını açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a021e88e",
-    "title": "İran ordusu: ABD'ye ait bölgedeki metal sanayi tesisleri hedef alındı",
-    "source": "TRT Haber",
-    "time": "02/04/2026 16:54",
-    "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-abdye-ait-bolgedeki-metal-sanayi-tesisleri-hedef-alindi-940099.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran ordusu, ABD ve İsrailin ülkenin sanayi altyapısına yönelik saldırılara misilleme olarak, bölgedeki ABDye ait metal sanayi tesisleri füze saldırılarıyla hedef alındığını duyurdu.",
     "image": null,
     "keyword": null
   }
