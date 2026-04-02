@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e68da3f3",
+    "title": "Bursa'da bir apartmanda çıkan yangın söndürüldü",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 12:53",
+    "link": "https://www.aa.com.tr/tr/guncel/bursada-bir-apartmanda-cikan-yangin-sonduruldu/3889189",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın Yıldırım ilçesindeki bir apartmanın en üst katında çıkan yangın, itfaiye ekiplerince söndürüldü. Yangında dumandan etkilenen 4 kişi tedavi altına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_a2ed2370",
     "title": "Ortahisar’da türkü şöleni: “Sazdan Ezgiler” konseri başlıyor",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kahramanmaraş'ın  Onikişubat ilçesinde babası Süleyman Köşker'i öldüren Muhammet Ali Köşker'in ifadesinde, “Sabaha karşı herkes uyurken mutfaktan bir yemek bıçağı alarak babamın yatak odasına gittim, üzerine atlayarak elimde bulunan bıçakla boğazını kestim” dediği öğrenildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/69ce278b608b3262-w1200xh801.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_a38406cd",
-    "title": "Türkiye’nin  orman yangını  bilançosu  açıklandı!",
-    "source": "61 Saat",
-    "time": "02/04/2026 12:13",
-    "link": "https://www.61saat.com/turkiyenin-orman-yangini-bilancosu-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Tarım ve Orman Bakanlığı Orman Genel Müdürlüğü verilerine göre, 2025 yılında meydana 3 bin 224 yangından bin 933'ü; ihmal, dikkatsizlik, kasıt ve kaza nedeniyle çıktı.",
-    "image": "https://61saatcom.teimg.com/61saat-com/images/haberler/no_headline.png",
     "keyword": null
   }
 ]
