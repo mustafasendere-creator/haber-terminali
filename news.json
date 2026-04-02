@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0902bd6e",
+    "title": "Kıyıya çarpan tekne battı! 1 kayıp",
+    "source": "Habertürk",
+    "time": "02/04/2026 08:14",
+    "link": "https://www.haberturk.com/fethiye-de-tekne-batti-6-kisi-kurtarildi-1-kisi-kayip-3874158",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla Fethiye'de kıyıya çarparak batan teknedeki 6 kişi kurtarıldı, kayıp 1 kişi için arama çalışması başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775089716/3874158/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_6114b272",
     "title": "Trabzon’da Bugün Elektrik Kesintisi Alarmı! Saat Saat İlçe İlçe Büyük Liste Açıklandı",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bitlisin Hizan ilçesinde kaybolan 5 yaşındaki Rabia Ilgazın bulunması için çalışma başlatıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_cb9c3d7a",
-    "title": "31 il için sarı kodlu kuvvetli yağış ve fırtına uyarısı",
-    "source": "TRT Haber",
-    "time": "02/04/2026 07:13",
-    "link": "https://www.trthaber.com/haber/gundem/31-il-icin-sari-kodlu-kuvvetli-yagis-ve-firtina-uyarisi-940015.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji Genel Müdürlüğü MGM, yurt genelinde beklenen kuvvetli yağış ve fırtına nedeniyle 31 il için \"sarı\" kodlu uyarıda bulundu.",
     "image": null,
     "keyword": null
   }
