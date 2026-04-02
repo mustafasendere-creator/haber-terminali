@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_278c613f",
+    "title": "Kemal Can ev hapsi şartıyla tahliye edildi",
+    "source": "OdaTV",
+    "time": "02/04/2026 21:55",
+    "link": "https://www.odatv.com/guncel/kemal-can-ev-hapsi-sartiyla-tahliye-edildi-120141853",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Can Holding soruşturmasında tutuklu bulunan Can Holding Yönetim Kurulu Başkanı Kemal Can ev hapsi şartıyla tahliye edildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/01/lgs-ne-zaman-milli-egitim-bakanligindan-son-dakika-aciklamasi-iqb6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e4f52f31",
     "title": "Balıkesir’de 4.1 deprem",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Euronews, İsrail'in güvenlik ve iç istikrarı üzerindeki bu baskıyı analiz etmek amacıyla iki deneyimli İsrailli uzmanla görüştü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1a29baa0",
-    "title": "'Browsergate' skandalı: LinkedIn, tarayıcı eklentilerini gizlice izliyor mu?",
-    "source": "Euronews",
-    "time": "02/04/2026 20:54",
-    "link": "http://tr.euronews.com/next/2026/04/02/browsergate-skandali-linkedin-tarayici-eklentilerini-gizlice-izliyor-mu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medya platformunun kullanıcıların tarayıcılarında yüklü eklentileri izinsiz şekilde taradığı ve elde ettiği verileri önde gelen Amerikan-İsrailli bir siber güvenlik firması dahil olmak üzere üçüncü taraflara ilettiği öne sürülüyor.",
     "image": null,
     "keyword": null
   }
