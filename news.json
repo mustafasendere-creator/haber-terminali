@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_48f0cb77",
+    "title": "Balıkesir Sındırgı'da 4,2 büyüklüğünde deprem",
+    "source": "Evrensel",
+    "time": "02/04/2026 22:54",
+    "link": "https://www.evrensel.net/haber/5977970/balikesir-sindirgida-42-buyuklugunde-deprem",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir'in Sındırgı ilçesinde saat 21.22'de 4,2 büyüklüğünde deprem meydana geldi",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336042.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f5464366",
     "title": "Bolu Emek ve Demokrasi Güçleri: Hukuksuzca tutuklanan tüm hak savunucularının yanındayız",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig'in 28. haftasında Trabzonspor ile Galatasaray arasında oynanacak dev derbinin hakemi belli oldu. TFF, kritik müsabakada Cihan Aydın’ı görevlendirdi.",
     "image": "https://resim.haber61.net/news/610598.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_763ed209",
-    "title": "Amazon'dan artan maliyetler için önlem: Yakıt ve lojistik için ek ücret alınacak",
-    "source": "TRT Haber",
-    "time": "02/04/2026 21:54",
-    "link": "https://www.trthaber.com/haber/dunya/amazondan-artan-maliyetler-icin-onlem-yakit-ve-lojistik-icin-ek-ucret-alinacak-940133.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'li eticaret devi Amazon, artan yakıt ve lojistik maliyetlerini gerekçe göstererek ABD ve Kanada'da satıcıların ödediği lojistik hizmet bedellerine 17 Nisan'dan itibaren yüzde 3,5 ek ücret uygulanmaya başlanacağını duyurdu.",
-    "image": null,
-    "keyword": null
   }
 ]
