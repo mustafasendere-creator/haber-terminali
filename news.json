@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8e6ffb7b",
+    "title": "TEM'de feci kaza",
+    "source": "OdaTV",
+    "time": "02/04/2026 19:56",
+    "link": "https://www.odatv.com/guncel/temde-feci-kaza-120141845",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TEM Otoyolu&#039;nun Kocaeli geçişinde 2 tır, LPG yüklü tanker ve otomobilin karıştığı zincirleme kazada 2 kişi hayatını kaybetti. Kaza nedeniyle uzun araç kuyruklarının oluştuğu Ankara istikametinde trafik akışı kontrollü olarak sağlanıyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/temde-feci-kaza-rpyr.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_940d1e66",
     "title": "Citi: Kötü senaryoda petrol bu rakama kadar çıkabilir",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ticaret Bakanı Ömer Bolat, Türkiye&#039;nin Asya&#039;ya açılan en önemli kapılarından biri olan Van&#039;ın Kapıköy Gümrük Kapısı ile Ağrı Gürbulak ve Hakkari Esendere sınır kapılarında giriş-çıkış işlemlerinin rutin seyrinde devam ettiğini söyledi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/bakan-bolat-irana-acilan-kapilarda-sorun-yok-vfb7_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fc41769e",
-    "title": "Gümüş fiyatlarında sert düşüş: Doların güçlenmesi baskıyı artırdı!",
-    "source": "Ekonomim",
-    "time": "02/04/2026 18:55",
-    "link": "https://www.ekonomim.com/ekonomi/gumus-fiyatlarinda-sert-dusus-dolarin-guclenmesi-baskiyi-artirdi-haberi-885694",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Doların güç kazanması ve Fed&#039;in faiz indirimi beklentilerinin zayıflamasıyla gümüş fiyatları yüzde 7’den fazla değer kaybederek 70 doların altına geriledi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/14/gumuste-sert-duzeltme-guvenli-liman-arayisi-sona-mi-eriyor-jx8h_cover.gif",
     "keyword": null
   }
 ]
