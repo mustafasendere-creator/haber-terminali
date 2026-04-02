@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0dcc1158",
+    "title": "Antalya'da korkutan deprem: AFAD duyurdu",
+    "source": "Haber Global",
+    "time": "02/04/2026 23:14",
+    "link": "https://haberglobal.com/gundem/antalyada-korkutan-deprem-afad-duyurdu-516756",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AFAD verilerine göre Akdeniz’de, Antalya’nın Demre ilçesi açıklarında 4.2 büyüklüğünde deprem meydana geldi. Sarsıntı kısa süreli paniğe neden oldu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/antalyada-korkutan-deprem-afad-duyurdu-l5oj.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_94f78170",
     "title": "İran: B1 köprü saldırısında 8 kişi hayatını kaybetti, 95 kişi yaralandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TAV Havalimanları tarafından işletilen Ankara Esenboğa Havalimanından Romanya'nın başkenti Bükreş'e AJet Havayolları tarafından direkt uçuş başladı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_23a5f33c",
-    "title": "Kırıkkale'de doğum yapan kadına erkek kardeşleri hastanede bıçakla saldırdı; kadın ve erkek arkadaşı yaralandı",
-    "source": "Evrensel",
-    "time": "02/04/2026 22:14",
-    "link": "https://www.evrensel.net/haber/5977964/kirikkalede-dogum-yapan-kadina-erkek-kardesleri-hastanede-bicakla-saldirdi-kadin-ve-erkek-arkadasi-yaralandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kırıkkale'de hastanede doğum yapan F.G. ve erkek arkadaşı Ö.O., kadının erkek kardeşleri tarafından bıçaklandı. Hastanede tedavi altına alınan F.G. ile Ö.O.'nun hayati tehlikelerinin bulunmadığı bildirildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341344.jpg",
     "keyword": null
   }
 ]
