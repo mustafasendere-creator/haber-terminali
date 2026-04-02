@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bcc40177",
+    "title": "Demokrasiye bak!",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 04:13",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/demokrasiye-bak-2491638",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ama gerçekten olacak şey mi?",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar96_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_f4636bcb",
     "title": "İçimizden biri",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İsrail&#039;e ait savaş uçaklarının, Hürmüz Boğazı&#039;ndaki sivil iskeleleri hedef aldığı bildirildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/hurmuz-bogazinda-sivil-iskelelere-saldiri-5-yarali-0ijv_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_27a0e783",
-    "title": "Kendinizle çeliştiğinizi fark etmiyor musunuz? İşte nedeni...",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 01:54",
-    "link": "https://www.cumhuriyet.com.tr/yasam/kendinizle-celistiginizi-fark-etmiyor-musunuz-iste-nedeni-2491544",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Günlük hayatta verdiğiniz kararlar ile savunduğunuz değerler arasındaki fark, farkında olmadan bir zihinsel çatışma yaratıyor. Peki, psikolojide “bilişsel uyumsuzluk” olarak adlandırılan bu durum davranışlarınızı nasıl şekillendiriyor?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f561a4b4-86be-48f6-a918-b2966f8a1192.jpg",
     "keyword": null
   }
 ]
