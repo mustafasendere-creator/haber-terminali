@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_79ea5536",
+    "title": "İran ordusu: Humeyn kentinde MQ9 tipi bir İHA düşürüldü",
+    "source": "TRT Haber",
+    "time": "02/04/2026 07:14",
+    "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-humeyn-kentinde-mq-9-tipi-bir-iha-dusuruldu-940013.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail saldırıları altındaki İran'ın Merkezi eyaletine bağlı Humeyn kentinde MQ9 tipi bir insansız hava aracının İHA düşürüldüğü bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d7e902b7",
     "title": "Bitlis'te 5 yaşındaki Rabia için arama çalışması başlatıldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tam 24 yıl bekledikten sonra Dünya Kupası’na katılıyoruz.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar157_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_88897511",
-    "title": "NATO’yla nikâh tazeleme",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 04:53",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-terkoglu/nato-yla-nikah-tazeleme-2491626",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Soğuk Savaş’ın meşhur çocuk tekerlemesi böyle başlıyordu: Bir iki üçler, yaşasın Türkler.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar380_cover.jpeg",
     "keyword": null
   }
 ]
