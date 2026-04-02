@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f23471b7",
+    "title": "İstanbul'da otizm çalıştayı düzenlendi",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 20:13",
+    "link": "https://www.aa.com.tr/tr/guncel/istanbulda-otizm-calistayi-duzenlendi/3889582",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Aile ve Sosyal Hizmetler İl Müdürlüğü koordinasyonunda, Otizm Farkındalık Günü kapsamında \"İstanbul Otizm Çalıştayı\" gerçekleştirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d7576952",
     "title": "BM Genel Sekreteri Guterres'ten Orta Doğu’da barışçıl çözüm bulunması çağrısı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Erbakan hocayı anlasaydık!",
     "image": "https://resim.haber61.net/news/610573.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_be3b53a6",
-    "title": "Trabzonspor-Galatasaray maçı sonrası zirvede dengeler nasıl değişecek",
-    "source": "Haber61",
-    "time": "02/04/2026 19:33",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-galatasaray-maci-sonrasi-zirvede-dengeler-nasil-degisecek-h628332.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trendyol Süper Lig’de şampiyonluk yarışını doğrudan etkileyecek dev haftaya girilirken, zirvedeki dengelerin değişmesi bekleniyor. Trabzonspor-Galatasaray ve Fenerbahçe-Beşiktaş derbileri, sezonun kırılma anı olmaya aday.",
-    "image": "https://resim.haber61.net/news/610435.jpg",
     "keyword": null
   }
 ]
