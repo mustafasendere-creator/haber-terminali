@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a658704",
+    "title": "İBB davasında ara karar bekleniyor",
+    "source": "BBC Türkçe",
+    "time": "02/04/2026 14:14",
+    "link": "https://www.bbc.com/turkce/articles/c98mj3qyv0zo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 407 sanığın yolsuzluk iddialarıyla yargılandığı davanın ilk duruşması dördüncü haftasında.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_f1ba7c5e",
     "title": "Trabzon’da hastane acilinde şok! Tedavi görürken saldırıya uğradı…",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Maraş’ta 35 kişinin yaşamını yitirdiği Manolya Sitesi davasında, son bilirkişi heyetinin dosyadan çekilmesi nedeniyle yeni bir bilirkişi heyeti oluşturulmasına karar verildi ve duruşma 9 Kasım'a ertelendi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341296.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0675a9d8",
-    "title": "Türkiye Psikiyatri Derneği 2 Nisan açıklaması: \"Otizmde destekler yetersiz\"",
-    "source": "Evrensel",
-    "time": "02/04/2026 13:34",
-    "link": "https://www.evrensel.net/haber/5977901/turkiye-psikiyatri-dernegi-2-nisan-aciklamasi-otizmde-destekler-yetersiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Psikiyatri Derneği, otizmin sadece çocuklukla sınırlı ele alınmasının yanlış olduğunu vurguladı; otizmin yaşam boyu süren bir nörogelişimsel durum olduğunu hatırlattı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341297.jpg",
     "keyword": null
   }
 ]
