@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f29a86ec",
+    "title": "Balıkesir’de korkutan deprem",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 21:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-korkutan-deprem-2491911",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kandilli Rasathanesi, Balıkesir’in Sındırgı ilçesinde 4.1 büyüklüğünde ve 9.3 kilometre derinliğinde bir deprem meydana geldiğini açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e4790ca1-ce1d-4603-adb2-8696f4ef2983.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e82f565c",
     "title": "Son Dakika... Kemal Can, tahliye edildi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AK Parti Genel Başkan Yardımcısı Yalçın, \"(Amerika ve İsrail'in İran'a saldırıları) Birçok devlet sivil insanların yaşamını hiç umursamadan ve hatta onları doğrudan hedef alarak insan yaşamının çok daha güçleştiği bir döneme soktular.\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_742d238f",
-    "title": "Trabzon’da sahipsiz hayvanlar için birlik meclisi kuruluyor",
-    "source": "Haber61",
-    "time": "02/04/2026 20:53",
-    "link": "https://www.haber61.net/trabzon/trabzonda-sahipsiz-hayvanlar-icin-birlik-meclisi-kuruluyor-h628404.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da sahipsiz hayvanların korunmasına yönelik önemli bir adım atıldı. Valilik yazısı doğrultusunda birlik meclisinin oluşturulması için süreç başlatıldı.",
-    "image": "https://resim.haber61.net/news/610544.jpg",
     "keyword": null
   }
 ]
