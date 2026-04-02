@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_40aaf2b4",
+    "title": "\"7 milyon 700 bin kişiye kanser taraması yapıldı\"",
+    "source": "Habertürk",
+    "time": "02/04/2026 08:14",
+    "link": "https://www.haberturk.com/bakan-memisoglu-7-milyon-700-bin-kisiye-kanser-taramasi-yapildi-3874157",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sağlık Bakanı Kemal Memişoğlu, 2025 yılında 7 milyon 700 bin vatandaşa ücretsiz kanser taraması yapıldığını belirterek, \"Yapılan değerlendirmeler neticesinde, yaklaşık 28 bin vatandaşımıza kanser tanısı koyarak tedavi süreçlerini başlattık\" dedi",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775084675/3874157/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_0902bd6e",
     "title": "Kıyıya çarpan tekne battı! 1 kayıp",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABDİsrail saldırıları altındaki İran'ın Merkezi eyaletine bağlı Humeyn kentinde MQ9 tipi bir insansız hava aracının İHA düşürüldüğü bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d7e902b7",
-    "title": "Bitlis'te 5 yaşındaki Rabia için arama çalışması başlatıldı",
-    "source": "TRT Haber",
-    "time": "02/04/2026 07:14",
-    "link": "https://www.trthaber.com/haber/turkiye/bitliste-5-yasindaki-rabia-icin-arama-calismasi-baslatildi-940014.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bitlisin Hizan ilçesinde kaybolan 5 yaşındaki Rabia Ilgazın bulunması için çalışma başlatıldı.",
     "image": null,
     "keyword": null
   }
