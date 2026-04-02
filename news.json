@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4838a3ec",
+    "title": "İstanbul'a gökten çamur yağdı! Herkes oraya koştu",
+    "source": "Sözcü",
+    "time": "02/04/2026 12:54",
+    "link": "https://www.sozcu.com.tr/istanbul-a-gokten-camur-yagdi-herkes-oraya-kostu-p306787",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'a gökten çamur yağdı! Herkes oraya koştu",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/yagmurvetoztasinimitrthaber1807696jpg-7qgUcTBagUCIMpXI7LYLCg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c7b75859",
     "title": "Kolonlarından çatlama sesi geldiği için tahliye edilmişti: O bina için yıkım kararı çıktı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş'ta 6 Şubat depremlerinde 35 kişinin hayatını kaybettiği Manolya Sitesi davasında, son bilirkişi heyetinin çekilmesi üzerine duruşma 9 Kasım'a ertelendi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/fe865d91-c8ba-4af4-84cd-ffbfba6fee2b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_14fe4f1e",
-    "title": "İran’ın 'gizli kozu' BeiDou mu? Çin'e ait bu sistem savaş alanında dengeleri değiştirebilir",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 12:15",
-    "link": "https://www.cumhuriyet.com.tr/dunya/iran-in-gizli-kozu-beidou-mu-cin-e-ait-bu-sistem-savas-alaninda-dengeleri-degistirebilir-2491733",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran füzelerindeki dikkat çekici hassasiyet artışı, savaşın seyrine dair yeni soruları beraberinde getirdi. El Cezire’ye göre Çin’in BeiDou sistemi sahada fark yaratmış olabilir. Peki, bu teknoloji gerçekten dengeleri değiştiren gizli bir koz mu?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/396bf96d-85ec-41b6-a8af-87d2a9f1d9bf.jpg",
     "keyword": null
   }
 ]
