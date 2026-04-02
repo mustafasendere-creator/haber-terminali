@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c5653093",
+    "title": "Kaptan Hakan",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 05:33",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/adnan-dincer/kaptan-hakan-2491636",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya Kupası büyük bir vitrin.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar3_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_3eb1a063",
     "title": "Trump’ın konuşması öncesinde yapılan son anket... Amerikalılar İran stratejisini nasıl değerlendiriyor?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "NASA’nın Artemis II görevi, 53 yıl aradan sonra Ay’a yönelik ilk insanlı uçuş olarak başarıyla fırlatıldı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/artemis-astronotlarla-aya-gidiyor-etcm.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_448e994a",
-    "title": "Traktörün şaftına düşen çocuktan acı haber",
-    "source": "OdaTV",
-    "time": "02/04/2026 02:34",
-    "link": "https://www.odatv.com/guncel/traktorun-saftina-dusen-cocuktan-aci-haber-120141701",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sivas’ta traktörün şaftına düşen 5 yaşındaki çocuk hayatını kaybetti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/traktorun-saftina-dusen-cocuktan-aci-haber-lmek.jpg",
     "keyword": null
   }
 ]
