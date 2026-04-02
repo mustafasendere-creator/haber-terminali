@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8519cd6",
+    "title": "Fransa'da bazı akaryakıt istasyonlarında sınırlı hizmet verilmeye başlandı",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 20:34",
+    "link": "https://www.aa.com.tr/tr/guncel/fransada-bazi-akaryakit-istasyonlarinda-sinirli-hizmet-verilmeye-baslandi/3889753",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa'da, Orta Doğu'daki gerilimin küresel akaryakıt ve enerji piyasasını etkilemesi nedeniyle bazı akaryakıt istasyonlarında sınırlı hizmet verilmeye başlandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_56126411",
     "title": "ABD Başkanı Donald Trump, Adalet Bakanı Pam Bondi'yi görevden aldığını duyurdu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dünyanın en değerli havacılık ve uzay şirketi SpaceX, yapay zeka girişimi xAI ile güçlerini birleştirerek 1,75 trilyon dolarlık piyasa değeri hedefiyle halka arz sürecini resmen başlattı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/edb3c915-e13b-4bfc-a6d3-83c4379d9d68.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_88a3aa16",
-    "title": "İran Meclis Başkanı Kalibaf'tan ABD'nin kara saldırısı tehditlerine yanıt: Gelin bekliyoruz",
-    "source": "Haber Global",
-    "time": "02/04/2026 19:35",
-    "link": "https://haberglobal.com/dunya/iran-meclis-baskani-kalibaftan-abdnin-kara-saldirisi-tehditlerine-yanit-gelin-bekliyoruz-516726",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Trump'ın açıklamalarına sosyal medya hesabından yanıt veren İran Meclis Başkanı Muhammed Bakır Kalibaf, \"Silahlı, hazırlıklı ve dimdik ayaktayız. Gelin bekliyoruz.\" ifadelerini kullandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/iran-meclis-baskani-kalibaftan-abdnin-kara-saldirisi-tehditlerine-yanit-gelin-bekliyoruz-molv.jpg",
     "keyword": null
   }
 ]
