@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dbd92c4d",
+    "title": "Camembert'den Gabietou'ya: Fransa'nın 100 peyniri için yeni tur düzenlendi",
+    "source": "Euronews",
+    "time": "02/04/2026 17:34",
+    "link": "http://tr.euronews.com/gezi/2026/04/02/camembertden-gabietouya-fransanin-100-peyniri-icin-yeni-tur-duzenlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bu 11 günlük tur, peynir meraklılarına Fransa’nın Bordeaux, Loire Vadisi ve Burgonya gibi en iyi peynir ve şarap bölgelerini keşfetme olanağı sunuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fd3f1c21",
     "title": "John Travolta, Cannes'da ilk kez yönetmenlik koltuğuna oturdu",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Arhavi’de yıllardır “yeşil yol” ve “turizm yolu” adıyla açılan yolların aslında madencilik faaliyetlerine zemin hazırlandığı belirtildi. Çalık Holding'e ait Lidya Madencilik, maden arama için başvuruda bulundu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341314.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_07bb2547",
-    "title": "Trabzon’da sağanak alarmı: Yeni hafta yağışla geçecek",
-    "source": "Haber61",
-    "time": "02/04/2026 16:54",
-    "link": "https://www.haber61.net/trabzon/trabzonda-saganak-alarmi-yeni-hafta-yagisla-gececek-h628418.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Meteoroloji’nin yayımladığı haftalık tahmine göre Trabzon’da önümüzdeki günlerde sağanak ve gök gürültülü yağışlar etkili olacak. Hava sıcaklıklarının ise mevsim normallerinde seyretmesi bekleniyor.",
-    "image": "https://resim.haber61.net/news/610565.jpg",
-    "keyword": "trabzon"
   }
 ]
