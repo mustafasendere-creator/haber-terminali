@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_94e2e270",
+    "title": "İstanbul Havalimanı’nda gümrük operasyonu: 'Görevi kötüye kullanma' soruşturması",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 18:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-havalimani-nda-gumruk-operasyonu-gorevi-kotuye-kullanma-sorusturmasi-2491858",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ticaret Bakanlığı, İstanbul Havalimanı Gümrük Müdürlüğü’nde bazı personelin görevini kötüye kullandığı iddiasıyla düzenlenen operasyonda şüphelilerin yakalandığını ve usulsüz çıkarıldığı değerlendirilen ürünlerin ele geçirildiğini açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e7f7bc27-6ba0-4e0b-8c06-87d9a2c3e262.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ab2b7e60",
     "title": "Netflix yeni dizisinde rol alacak genç yeteneği arıyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ahlatcı Kuyumculuk, İstanbul Jewelry Show&#039;da tarihi Çorum Saat Kulesi&#039;nin altından üretilen özel maketini tanıtarak fuarda dikkat çekti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/istanbull-jewelry-showda-corum-ruzgari-ahlatci-kuyumculuk-tarihi-altinla-yeniden-ortaya-koydu-ymho.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_643b61b7",
-    "title": "İGA’dan havacılık sektöründe bir ilk: 'Su Verimliliği Yönetim Sistemi Belgesi’ni aldı",
-    "source": "Ekonomim",
-    "time": "02/04/2026 17:36",
-    "link": "https://www.ekonomim.com/havacilik/igadan-havacilik-sektorunde-bir-ilk-su-verimliligi-yonetim-sistemi-belgesini-aldi-haberi-885682",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İGA İstanbul Havalimanı, Türk Standartları Enstitüsü (TSE) tarafından gerçekleştirilen denetimler sonucunda, ‘Su Verimliliği Yönetim Sistemi Belgesi’ almaya hak kazandı. Belge, İGA CEO’su Selahattin Bilgen’e teslim edildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/igadan-havacilik-sektorunde-bir-ilk-su-verimliligi-yonetim-sistemi-belgesini-aldi-76eh_cover.png",
     "keyword": null
   }
 ]
