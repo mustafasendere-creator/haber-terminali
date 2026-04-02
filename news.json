@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5a9f8fd1",
+    "title": "İran 'enerji silahı'nı nasıl kullanıyor?",
+    "source": "TRT Haber",
+    "time": "02/04/2026 17:55",
+    "link": "https://www.trthaber.com/haber/dunya/iran-enerji-silahini-nasil-kullaniyor-940102.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hürmüzde yaşanan kesinti, enerjiye bağımlı ülkeleri doğrudan etkilerken alternatif güzergahların sınırlı kalması krizin etkisini derinleştiriyor. Uzmanlara göre Tahran yönetimi enerji akışını keserek uluslararası aktörleri sürece dahil etmeyi ve bu yolla ABD üzerindeki baskıyı artırmayı hedefliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_32b5ec59",
     "title": "Lübnan'da İsrail saldırılarında hayatını kaybedenlerin sayısı 1345'e yükseldi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Merkez bankaları şubatta altın alımını sürdürürken, Türkiye satış tarafında öne çıktı; martta ise likidite ve döviz işlemleri için kullanılan altının swap yoluyla rezervlere geri döneceği belirtildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/31/altin-2008den-bu-yana-en-kotu-ayini-gecirmeye-hazirlaniyor-8wrq_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_25966653",
-    "title": "Bakan Kurum duyurdu: Ümraniye Hekimbaşı’nda 591 konut ve 28 iş yeri için kura yarın çekilecek",
-    "source": "Ekonomim",
-    "time": "02/04/2026 17:15",
-    "link": "https://www.ekonomim.com/ekonomi/bakan-kurum-duyurdu-umraniye-hekimbasinda-591-konut-ve-28-is-yeri-icin-kura-yarin-cekilecek-haberi-885678",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Ümraniye Hekimbaşı Kentsel Dönüşüm Projesi kapsamında yapımı tamamlanan 591 konut ve 28 işyerinin kura çekiminin yarın yapılacağını açıkladı",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/10/27/bakan-kurum-yanitladi-iste-500-bin-sosyal-konut-kampanyasi-hakkinda-merak-edilenler-ve-cevaplari-eizi_cover.jpg",
     "keyword": null
   }
 ]
