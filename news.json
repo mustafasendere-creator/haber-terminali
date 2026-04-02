@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_50c99b83",
+    "title": "İsrail, ateşkese rağmen Gazze’de saldırı ve yıkımlarını sürdürdü",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 03:33",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-ateskese-ragmen-gazze-de-saldiri-ve-yikimlarini-surdurdu/3888743",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, ateşkese rağmen Gazze Şeridi’nin çeşitli bölgelerine saldırı ve yıkım faaliyetleri gerçekleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cf99f615",
     "title": "Sakarya'da ortalık savaş alanına döndü",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. YALOVA 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/833de727-f43c-420a-a921-0810024b97d9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_726a8be9",
-    "title": "T.C. KOVANCILAR SULH HUKUK MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 01:34",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kovancilar-sulh-hukuk-mahkemesi-2491561",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. KOVANCILAR SULH HUKUK MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/71f1ceb1-4ade-4173-b6f6-70303d179b01.jpg",
     "keyword": null
   }
 ]
