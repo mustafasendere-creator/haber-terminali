@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eb75fa83",
+    "title": "İran Devrim Muhafızları Ordusu: Keşm Adası'nın güneyinde gelişmiş bir savaş uçağı düşürdük",
+    "source": "TRT Haber",
+    "time": "02/04/2026 23:34",
+    "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-kesm-adasinin-guneyinde-gelismis-bir-savas-ucagi-dusurduk-940143.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusu, ülkenin güneyindeki Basra Körfezi'nde bulunan Keşm Adasının güneyinde gelişmiş bir savaş uçağının düşürüldüğünü duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_5b7975aa",
     "title": "Trabzon Devlet Tiyatrosu 'İstanbul'un Son Beyzadeleri' oyununu sahneleyecek",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Can Holding soruşturması kapsamında tutuklanan Can Holding Yönetim Kurulu Başkanı Kemal Can, ev hapsi şartıyla tahliye edildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/309288.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_d825a137",
-    "title": "Eski Trabzonsporlu Jaja'dan Galatasaray maçı sözleri: 'Biz hep kazanıyorduk'",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 22:33",
-    "link": "https://www.cumhuriyet.com.tr/spor/eski-trabzonsporlu-jaja-dan-galatasaray-maci-sozleri-biz-hep-kazaniyorduk-2491918",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig ekibi Trabzonspor'un Brezilyalı eski oyuncusu Jaja, cumartesi günü oynanacak Galatasaray maçına dair görüşlerini aktardı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8c7e687d-8062-47f5-9ac2-da135dfff754.jpg",
-    "keyword": "trabzon"
   }
 ]
