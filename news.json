@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_014a1f26",
+    "title": "Yeni resmi tatil geliyor",
+    "source": "OdaTV",
+    "time": "02/04/2026 16:15",
+    "link": "https://www.odatv.com/guncel/akp-genel-baskan-yardimcisi-kursad-zorlu-acikladi-yeni-resmi-tatil-geliyor-120141814",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKP Genel Başkan Yardımcısı Kürşad Zorlu, 21 Mart&#039;ta kutlanan Nevruz&#039;un resmi tatil olması için önümüzdeki aylarda çalışmaların somut bir niteliğe kavuşacağını açıkladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/akp-genel-baskan-yardimcisi-kursad-zorlu-acikladi-yeni-resmi-tatil-geliyor-zxyb.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6e0144e5",
     "title": "Mahkemeden Dilek İmamoğlu'nun kardeşi için karar",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediyesi, Dünya Otizm Farkındalık Günü kapsamında otizmli bireyler ve ailelerine yönelik etkinlikler düzenledi. Programlarda sosyal katılım ve farkındalık vurgusu öne çıktı.",
     "image": "https://resim.haber61.net/news/610560.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4eecdac3",
-    "title": "Otizmli bireylerden Çaykur Rizespor'a ziyaret",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 15:54",
-    "link": "https://www.aa.com.tr/tr/guncel/otizmli-bireylerden-caykur-rizespora-ziyaret/3889452",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çaykur Rizespor Kulübü, 2 Nisan Dünya Otizm Farkındalık Günü kapsamında otizmli bireyleri ağırladı.",
-    "image": null,
     "keyword": null
   }
 ]
