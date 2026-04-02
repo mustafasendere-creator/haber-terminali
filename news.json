@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_957a5957",
+    "title": "Kuzey Ege ve Batı Akdeniz için fırtına uyarısı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 06:33",
+    "link": "https://www.trthaber.com/haber/turkiye/kuzey-ege-ve-bati-akdeniz-icin-firtina-uyarisi-940005.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, Kuzey Ege ve Batı Akdeniz'de bugün fırtına beklendiğini duyurarak denizcileri ve vatandaşları dikkatli olmaları konusunda uyardı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_548a0bfe",
     "title": "UNCTAD'dan Korkutan Hürmüz raporu: Küresel zincirleme krize dönüşebilir",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Rize’nin Çamlıhemşin ilçesinde kar yağışı etkisini artırdı. Avusor Yaylası’nda kar kalınlığı 3 metreyi geçerken, yayla evleri beyaza büründü.",
     "image": "https://resim.haber61.net/news/610361.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_c51e4bb1",
-    "title": "Giresun’da 1 yılda 3 bin sertifikalı fındık fidanı üretildi",
-    "source": "Haber61",
-    "time": "02/04/2026 03:53",
-    "link": "https://www.haber61.net/bolgesel/giresunda-1-yilda-3-bin-sertifikali-findik-fidani-uretildi-h628291.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Giresun’da kooperatif eliyle sertifikalı fındık fidanı üretimi başladı. Bir yılda 3 bin Giresun tombul fındığı fidanı yetiştirildi.",
-    "image": "https://resim.haber61.net/news/610362.jpg",
     "keyword": null
   }
 ]
