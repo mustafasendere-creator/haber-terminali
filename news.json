@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e496da5",
+    "title": "Adıyaman’da otizm farkındalık gününe özel etkinlik",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 17:35",
+    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/adiyaman-da-otizm-farkindalik-gunune-ozel-etkinlik-2491842",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman Belediyesi 2 Nisan Dünya Otizm Farkındalık Günü kapsamında etkinlik düzenledi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/711edb65-eb65-47ae-9e2f-dbeae36d0f50.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fd5f3d34",
     "title": "Galatasaray, Gabriel Sara'nın sol ayak bileği iç yan bağlarında ödem tespit edildiğini açıkladı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "TKP",
     "prefix": "🎯",
     "summary": "KESK Trabzon Dönem Sözcüsü Muhammet İkinci, Memur-Sen Genel Başkanı Ali Yalçın’a yönelik sert ifadeler kullandı. Açıklamada, sendikal tutum ve söylemler üzerinden eleştiriler sıralandı.",
-    "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_e467ce7c",
-    "title": "Trabzon’da sahipsiz hayvanlar için birlik meclisi kuruluyor",
-    "source": "Karadeniz Gazetesi",
-    "time": "02/04/2026 16:55",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-sahipsiz-hayvanlar-icin-birlik-meclisi-kuruluyor/607599",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da sahipsiz hayvanların korunmasına yönelik önemli bir adım atıldı. Valilik yazısı doğrultusunda birlik meclisinin oluşturulması için süreç başlatıldı.",
     "image": null,
     "keyword": "trabzon"
   }
