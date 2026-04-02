@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6016e69b",
+    "title": "Almanya'da Türk rektör Fatma Deniz göreve başladı",
+    "source": "DW Türkçe",
+    "time": "02/04/2026 14:55",
+    "link": "https://www.dw.com/tr/almanya-da-türk-rektör-fatma-deniz-göreve-başladı/a-76643595",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye kökenli Fatma Deniz, Almanya'nın saygın eğitim kurumlarından Berlin Teknik Üniversitesi'nde rektörlük görevine başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a2310601",
     "title": "Romanya'da Lucescu dönemi sona erdi",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Bursa'da 8 katlı apartmanın çatı katında çıkan yangında mahsur kalan 2 kişi itfaiye ekiplerince kurtarılırken, o anlar kameraya yansıdı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2b27e090-7eae-4978-9e8f-be1666d8cda4.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_fac35075",
-    "title": "Ertuğrul Doğan da Trabzon Günleri’nde!",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "02/04/2026 14:16",
-    "link": "https://www.karadenizdesonnokta.com.tr/ertugrul-dogan-da-trabzon-gunlerinde",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/ertugrul-doganjpg-2.jpeg",
-    "keyword": "trabzon"
   }
 ]
