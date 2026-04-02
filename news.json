@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_638036d0",
+    "title": "İran'ın misillemesi nedeniyle Tel Aviv ile İsrail'in orta kesimlerinde sirenler çaldı",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 20:13",
+    "link": "https://www.aa.com.tr/tr/guncel/iranin-misillemesi-nedeniyle-tel-aviv-ile-israilin-orta-kesimlerinde-sirenler-caldi/3889721",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın misillemesinin ardından başta başkent Tel Aviv olmak üzere İsrail'in birçok noktasında sirenler çaldı ve patlama sesleri duyuldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7fa07a77",
     "title": "Bedelli askerlik ücreti 417 bin liraya yükseltildi!",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trendyol Süper Lig’in 28. haftasında dev maça çıkacak olan Trabzonspor, Galatasaray karşılaşmasının hazırlıklarına Mehmet Ali Yılmaz Tesisleri’nde devam ederken antrenman öncesi neşeli anlar yaşandı.",
     "image": "https://resim.haber61.net/news/610591.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e650705e",
-    "title": "Kara Kuvvetleri’nde rüşvet davası",
-    "source": "OdaTV",
-    "time": "02/04/2026 18:55",
-    "link": "https://www.odatv.com/guncel/kara-kuvvetlerinde-rusvet-davasi-120141839",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Askeri nakliye faaliyetlerindeki hak ediş süreçlerinde usulsüzlük yapıldığı iddiasıyla 20 şüpheli hakkında dava açıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/kara-kuvvetlerinde-rusvet-davasi-q2up.jpg",
     "keyword": null
   }
 ]
