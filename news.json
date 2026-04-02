@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_43a2faa0",
+    "title": "İsrail ordusu Suriye'nin Kuneytra ili kırsalına baskın düzenledi",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 19:33",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusu-suriyenin-kuneytra-ili-kirsalina-baskin-duzenledi/3889699",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Suriye'nin güneyindeki Kuneytra ilinin güney kırsalına baskın düzenledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_30a585c2",
     "title": "İletişim Başkanı Duran, terör örgütü EOKA tarafından KKTC'li vatandaşlara yönelik saldırıyı kınadı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye, 2025-2026 fındık ihracat sezonunun 7 ayında 1 milyar 445 milyon doları aşkın gelir elde etti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_4b9d217f",
-    "title": "Bursa İnegöl'de üzerine kaynar su dökülen 9 aylık bebek ağır yaralandı",
-    "source": "Haber61",
-    "time": "02/04/2026 18:33",
-    "link": "https://www.haber61.net/sehirler/bursa-inegolde-uzerine-kaynar-su-dokulen-9-aylik-bebek-agir-yaralandi-h628433.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bursa’nın İnegöl ilçesinde annesinin elinden düşen çaydanlıktaki kaynar suyun üzerine dökülmesi sonucu ağır yaralanan 9 aylık bebek hastaneye kaldırıldı.",
-    "image": "https://resim.haber61.net/news/610588.jpg",
     "keyword": null
   }
 ]
