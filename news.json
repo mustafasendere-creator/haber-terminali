@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7bd28ac9",
+    "title": "Kuveyt hava sahasında alarm: İran’dan füze ve İHA saldırısı",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 18:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kuveyt-hava-sahasinda-alarm-iran-dan-fuze-ve-iha-saldirisi-2491864",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Savunma Bakanlığı, İran kaynaklı saldırılarda 2 seyir füzesinin hava savunma sistemleri tarafından imha edildiğini açıkladı. 28 Şubat’tan bu yana ülke hava sahasında yüzlerce füze ve İHA tespit edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/843de6ef-6617-470e-ac21-cd800db7a5be.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2096c5eb",
     "title": "Esenyurt’ta cephanelik gibi ev! El bombası ve uyuşturucu ele geçirdi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP'li Bakırlıoğlu, TBMM Genel Kurulu'nda görüşmeleri süren torba kanun teklifinin 11. maddesiyle kamuya ait ihtiyaç fazlası taşınmazların Özelleştirme İdaresi Başkanlığı aracılığıyla satışının öngörüldüğünü belirterek, \"'İhtiyaç fazlası' diye tabir edilen gayrimenkullerin hepsinin kupon arazi olduğunu görmekteyiz. Büyük ihtimalle bu arazileri kimin alacağı şimdiden bellidir. Çünkü Özelleştirme İdaresi’nde açık ihale yapılmıyor; pazarlık usulü özelleştirme yapılmakta. Bu konuda ciddi kaygılarımız var\" dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/40f2bace-dc0f-459c-9ec1-2ff8186f051e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_872ebb35",
-    "title": "2026 FIFA Dünya Kupası'nın bilet satışları başladı!",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 17:55",
-    "link": "https://www.cumhuriyet.com.tr/spor/2026-fifa-dunya-kupasi-nin-bilet-satislari-basladi-2491850",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Futbol Takımı'nın 24 yıllık aranın ardından katılma hakkı kazandığı 2026 FIFA Dünya Kupası'nın biletleri satışa çıktı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/cb1ee966-d63d-469f-b1b3-7f1b414e2796.jpg",
     "keyword": null
   }
 ]
