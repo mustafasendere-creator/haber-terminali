@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d00a196b",
+    "title": "Ay'dan sonraki durak Mars mı? NASA'nın Artemis misyonu neden önemli?",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 03:13",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/ay-dan-sonraki-durak-mars-mi-nasa-nin-artemis-misyonu-neden-onemli-2491525",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NASA’nın 93 milyar dolarlık bütçeyle hayata geçirdiği Artemis programı, 50 yıl aradan sonra insanlığı yeniden Ay’a taşımaya hazırlanırken, bu kez hedefler sadece \"ayak basmak\"la sınırlı kalmıyor. Ay’daki kritik maden kaynaklarına erişim, suyun yakıta dönüştürülmesi ve Mars yolculuğu için bir üs inşa edilmesi planlanan projede, ABD ile Çin arasındaki jeopolitik rekabet uzayın derinliklerine taşınıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/99c98c07-5556-46e4-b45c-62b9143a4c36.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0a7bfe6a",
     "title": "BİLSEM sınav giriş yerleri nasıl sorgulanır? 2026 BİLSEM bireysel sınavlar ne zaman?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "LPG'ye tek seferde 4.50 TL zam geldi. İstanbul'da litre fiyatı 35 TL'ye dayanırken, bir gecelik artış oranı %15'i buldu. Bu rekor artışın ulaşım ve gıda maliyetlerini doğrudan tetiklemesi bekleniyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341240.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9321c8cc",
-    "title": "Irak, Suriye üzerinden siyah petrol ihracatına başladı",
-    "source": "Evrensel",
-    "time": "02/04/2026 01:33",
-    "link": "https://www.evrensel.net/haber/5977812/irak-suriye-uzerinden-siyah-petrol-ihracatina-basladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Irak Petrol Bakanlığı, ülke ekonomisini desteklemek ve devlet hazinesine gelir sağlamak amacıyla siyah petrolün tankerlerle Suriye üzerinden ihracatına başlandığını duyurdu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/337892.jpg",
     "keyword": null
   }
 ]
