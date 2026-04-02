@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e7b4c3b9",
+    "title": "Ermenistan’daki tuz madeni astım kliniği, devlet desteği kesilince kapanma riskiyle karşılaştı",
+    "source": "Euronews",
+    "time": "02/04/2026 14:54",
+    "link": "http://tr.euronews.com/video/2026/04/02/ermenistandaki-tuz-madeni-astim-klinigi-devlet-destegi-kesilince-kapanma-riskiyle-karsilas",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ermenistan’da, Erivan’ın altındaki nadir bir yeraltı kliniğinde astım ve alerji hastaları, Avan tuz madenine 235 metre inerek, hiçbir klasik hastaneye benzemeyen bu ortamda mineral zengini havayı soluyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_fb466241",
     "title": "Giresun’da acı dinmiyor: T.T.’nin ailesinden yürek burkan anma",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediyesi tarafından Sürmene ilçesine kazandırılan bisiklet yolu vatandaşların hizmetine sunuldu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/surmene-3.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_5508bbc8",
-    "title": "İmamoğlu Suç Örgütü davasında 15. duruşma",
-    "source": "TRT Haber",
-    "time": "02/04/2026 14:16",
-    "link": "https://www.trthaber.com/haber/gundem/imamoglu-suc-orgutu-davasinda-15-durusma-940055.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 107'si tutuklu, 5'i müşteki sanık olmak üzere 407 sanığın yargılandığı davanın 15'inci duruşması başladı.",
-    "image": null,
-    "keyword": null
   }
 ]
