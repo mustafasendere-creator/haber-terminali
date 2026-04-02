@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cad6d130",
+    "title": "Görenleri şoke eden kaza",
+    "source": "OdaTV",
+    "time": "02/04/2026 23:15",
+    "link": "https://www.odatv.com/guncel/gorenleri-soke-eden-kaza-120141858",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya&#039;da tır ile otomobilin kafa kafaya çarpıştığı trafik kazasında hayatını kaybedenlerin kimlikleri belli oldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/gorenleri-soke-eden-kaza-0vly.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1e64bafe",
     "title": "Almanya'da akaryakıtta yeni düzenlemeye rağmen dizel fiyatları rekor tazeledi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çıtır çıtır kibrit patateslerin, sarımsaklı yoğurt ve lokum gibi pişmiş etle buluştuğu efsanevi çökertme kebabı tarifi...",
     "image": "https://media.cumhuriyet.com.tr/Archive/9693e51c-66ae-4a03-825e-d457d7c2f7fb.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_113def20",
-    "title": "Muhittin Böcek: 'Adaylık için bir kuruş verdiysem şerefsizim'",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 22:14",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/muhittin-bocek-adaylik-icin-bir-kurus-verdiysem-serefsizim-2491914",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya Büyükşehir Belediye Başkanı Muhittin Böcek, 31 Mart yerel seçimlerinde aday olması için para verdiği iddialarına tepki göstererek, \"6 kez adaylık süreci yaşadım, adaylık için 1 kuruş para verdiysem şerefsizim. Ama bana iftira atmak karalamak için sizlere, Sayın Akın Gürlek Bakanımıza, kamuoyuna sosyal medya dahil yazan çizen, yanlış bilgi verenler ispatlamazsa alçaktır, şerefsizdir, namussuzdur\" ifadesini kullandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7cf1ea1e-7b20-4b9d-b6a3-be6f38fc074a.jpg",
     "keyword": null
   }
 ]
