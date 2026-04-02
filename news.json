@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_35b2e971",
+    "title": "İstanbul'da Gazze'ye destek için araç konvoyu oluşturuldu",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 23:53",
+    "link": "https://www.aa.com.tr/tr/guncel/istanbulda-gazzeye-destek-icin-arac-konvoyu-olusturuldu/3889899",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da, İsrail'in Gazze'ye yönelik saldırılarını protesto etmek ve Filistinli esirlere uygulanması öngörülen idam cezası yasasına tepki göstermek amacıyla araç konvoyu oluşturuldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4cdac323",
     "title": "İsrail'in Filistinli esirleri hedef alan \"idam yasası\" İtalya'da protesto edildi",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Üniversitesi’nde düzenlenen panelde Türk müziğinin teknik detayları ele alınırken, Samsun’dan gelen akademisyenlerin katılımıyla sanat dolu anlar yaşandı.",
     "image": "https://resim.haber61.net/news/610602.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_f1ecb958",
-    "title": "İran Cumhurbaşkanı Pezeşkiyan İlham Aliyev ile görüştü",
-    "source": "Haber Global",
-    "time": "02/04/2026 22:34",
-    "link": "https://haberglobal.com/gundem/iran-cumhurbaskani-pezeskiyan-ilham-aliyev-ile-gorustu-516742",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Azerbaycan Cumhurbaşkanı İlham Aliyev ve Finlandiya Cumhurbaşkanı Alexander Stubb ile bölgesel meseleler hakkında görüş alışverişinde bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/iran-cumhurbaskani-pezeskiyan-ilham-aliyev-ile-goruste-sntv.jpg",
-    "keyword": null
   }
 ]
