@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_22ab82cc",
+    "title": "İspanya'nın Valensiya kenti turistik konutlara üst sınır getirdi",
+    "source": "Euronews",
+    "time": "02/04/2026 09:13",
+    "link": "http://tr.euronews.com/gezi/2026/04/02/ispanyanin-valensiya-kenti-turistik-konutlara-ust-sinir-getirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İspanyol kenti, geniş katılımlı turizm karşıtı protestoların yaşandığı ülkede yerel 'turistflasyon' sorunları nedeniyle tatil konaklamalarına sınır getirmeye hazırlanıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_40bb8a07",
     "title": "Hazine ve Maliye Bakanlığından Bakan Şimşek'in İSO'da gerçekleştirdiği toplantıya ilişkin iddialara yanıt",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'un ve Trabzonspor'un gündeminde yaşananları sizler için derledik.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/2-383.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_f63ad6c6",
-    "title": "Oyuncu Ramazan Tetik hayatını kaybetti!",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 08:14",
-    "link": "https://www.cumhuriyet.com.tr/yasam/oyuncu-ramazan-tetik-hayatini-kaybetti-2491651",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "'Eşref Rüya' dizisinin oyuncularından Ramazan Tetik, aort yırtılması sonucu yaşamını yitirdi. 31 yaşındaki oyuncunun bugün İstanbul’da son yolculuğuna uğurlanacağı aktarıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/bab6ab86-a956-40c2-b72e-7afd825055a6.jpg",
-    "keyword": null
   }
 ]
