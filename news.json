@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_798c4c7c",
+    "title": "Mart ayı enflasyonu yarın açıklanacak",
+    "source": "TRT Haber",
+    "time": "02/04/2026 06:33",
+    "link": "https://www.trthaber.com/haber/ekonomi/mart-ayi-enflasyonu-yarin-aciklanacak-940004.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mart ayına ilişkin enflasyon rakamları yarın açıklanacak. Tüketici Fiyat Endeksi, şubat ayında bir önceki aya kıyasla yüzde 2,96 artarken, yıllık bazda yüzde 31,53 olarak gerçekleşmişti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_957a5957",
     "title": "Kuzey Ege ve Batı Akdeniz için fırtına uyarısı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hacettepe’de yaşadığımız baskıları sadece uzaklaştırmaların geri çekilmesini talep ederek değil, tek adam iktidarının saldırılarına karşı öğrenci hareketini büyütürken uzaklaştırmaların geri çekilmesini talep etmeye devam etmeliyiz.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340797.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_5bd5ebfb",
-    "title": "Rize Çamlıhemşin’de 3 metreyi aşan kar yaylayı kapladı",
-    "source": "Haber61",
-    "time": "02/04/2026 03:53",
-    "link": "https://www.haber61.net/bolgesel/rize-camlihemsinde-3-metreyi-asan-kar-yaylayi-kapladi-h628290.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rize’nin Çamlıhemşin ilçesinde kar yağışı etkisini artırdı. Avusor Yaylası’nda kar kalınlığı 3 metreyi geçerken, yayla evleri beyaza büründü.",
-    "image": "https://resim.haber61.net/news/610361.jpg",
     "keyword": null
   }
 ]
