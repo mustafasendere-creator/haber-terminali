@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5dae99ce",
+    "title": "Panik satışlar limonda kâr bırakmadı: Limon üreticisi zor durumda",
+    "source": "Ekonomim",
+    "time": "02/04/2026 11:15",
+    "link": "https://www.ekonomim.com/ekonomi/panik-satislar-limonda-kar-birakmadi-limon-ureticisi-zor-durumda-haberi-885579",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yüksek maliyet ve rekolte düşüşü ile mücadele eden limon üreticisini, Ticaret Bakanlığı’nın ithalat vergisini yüzde 54’ten yüzde 10’a düşürme kararı kaygılandırdı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/09/30/cukurovada-limon-hasadi-basladi-fiyat-bahcede-20-katina-cikti-wnxs_cover.gif",
+    "keyword": null
+  },
+  {
     "id": "GND_60126801",
     "title": "Ankara ekmek fiyatları",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ordusunun, Başkan Donald Trump'ın isteği doğrultusunda İran'daki yüksek oranda zenginleştirilmiş uranyumun ele geçirilmesine yönelik kapsamlı bir plan hazırladığı öne sürüldü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_14d9c429",
-    "title": "ABD, Venezuela Geçici Devlet Başkanı Rodriguez'e yönelik yaptırımları kaldırdı",
-    "source": "TRT Haber",
-    "time": "02/04/2026 10:34",
-    "link": "https://www.trthaber.com/haber/dunya/abd-venezuela-gecici-devlet-baskani-rodrigueze-yonelik-yaptirimlari-kaldirdi-940039.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD, 3 Ocak'ta Venezuela'da askeri müdahaleyle alıkoyduğu Devlet Başkanı Nicolas Maduro sonrası görev yapan Geçici Devlet Başkanı Delcy Rodriguez'e yönelik yaptırımların kaldırıldığını bildirdi.",
     "image": null,
     "keyword": null
   }
