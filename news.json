@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0aefc706",
+    "title": "Akdeniz ve Ege kıyıları için toz taşınımı uyarısı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 08:14",
+    "link": "https://www.trthaber.com/haber/turkiye/akdeniz-ve-ege-kiyilari-icin-toz-tasinimi-uyarisi-940021.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü MGM, Ege ve Batı Akdeniz kıyıları için toz taşınımı ve fırtına uyarısında bulunarak, hava kalitesinde azalma ve ulaşımda aksamalar gibi olumsuzluklara karşı vatandaşların tedbirli olmalarını istedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_86b2d36b",
     "title": "İBB davasında 15'inci gün: Ara karar bekleniyor",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Terör örgütü EOKA destekçilerinden KKTC'deki sivillere saldırı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/ada2jpg-Qv71ROndWkKEm-Y-YVLjIg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_97b05782",
-    "title": "Hakim ve savcıların görevde yükselme kararları Resmi Gazete'de",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 06:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/hakim-ve-savcilarin-gorevde-yukselme-kararlari-resmi-gazete-de-2491630",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çeşitli derecelerdeki görev sürelerini tamamlayan adli yargı hakimi, cumhuriyet başsavcısı ve savcıları ile idari yargı hakimlerinin isim listelerinden oluşan (HSK kararları, Resmi Gazete'de yayımlandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/dd7199dc-239d-46c9-8473-8afaec393c07.jpg",
     "keyword": null
   }
 ]
