@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f2a2939",
+    "title": "Gianluigi Buffon açıkladı... İtalya Milli Takımı'nda bir istifa daha!",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 20:54",
+    "link": "https://www.cumhuriyet.com.tr/spor/gianluigi-buffon-acikladi-italya-milli-takimi-nda-bir-istifa-daha-2491901",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya Milli Futbol Takımı'nın 2026 FIFA Dünya Kupası'na katılım hakkı elde edememesinin ardından Gianluigi Buffon, milli takımdaki görevinden istifa ettiğini duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c7aa0dea-444f-44b5-947a-391e997935be.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_8329da2f",
     "title": "Papara Park Kapalı Gişe! Derbide Tribün Kozu Trabzonspor’un",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Gaziantep'in Nizip ilçesinde, araçta sağlıksız koşullarda taşınan 1 ton 600 kilogram ciğere el konuldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a72ac131",
-    "title": "Safran Festivali 2325 Ekim'de yapılacak",
-    "source": "TRT Haber",
-    "time": "02/04/2026 20:14",
-    "link": "https://www.trthaber.com/haber/turkiye/safran-festivali-23-25-ekimde-yapilacak-940125.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Karabük'ün Safranbolu ilçesinde 10. Safran Festivali 2325 Ekim'de gerçekleştirilecek.",
     "image": null,
     "keyword": null
   }
