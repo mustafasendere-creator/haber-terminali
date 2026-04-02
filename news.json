@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a7182f1c",
+    "title": "Macron'dan Trump'a: 'Hürmüz Boğazı'nın askeri harekatla açılmasını tercih etmiyoruz'",
+    "source": "BBC Türkçe",
+    "time": "02/04/2026 17:54",
+    "link": "https://www.bbc.com/turkce/articles/cn891r3dejyo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa Cumhurbaşkanı Macron, Donald Trump'ı İran savaşı konusunda çelişkili mesajlar vermekle suçladı ve Hürmüz Boğazı'nı yeniden açmak için bir askeri harekatın \"gerçekçi\" olmadığını savundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_92ec67c2",
     "title": "Trabzon'da Yıldız Köprüsü genişletilecek!",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Antalya Kepez’de 25 yaşındaki Suriyeli sera işçisi Vahda Al Şevvah, evinde göğsünden tabanca ile vurularak yaşamını yitirdi. Şüpheli ölüme ilişkin 10 kişi adliyeye çıkarıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341299.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_75736399",
-    "title": "Ömer Sağıroğlu’ndan Uğurcan Çakır açıklaması! \"O başka kulüpte!\"",
-    "source": "Haber61",
-    "time": "02/04/2026 17:14",
-    "link": "https://www.haber61.net/trabzonspor/omer-sagiroglundan-ugurcan-cakir-aciklamasi-o-baska-kulupte-h628425.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Sağıroğlu, bordo-mavili kulübün altyapısından yetişen ve önemli bir rol model haline gelen Uğurcan Çakır’dan çok, Trabzonspor’un bugün birlik ve beraberliğe ihtiyaç duyduğunu söyledi.",
-    "image": "https://resim.haber61.net/news/610568.jpg",
-    "keyword": "trabzon"
   }
 ]
