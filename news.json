@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_90d6f8c7",
+    "title": "Futbolun görgüsüzü: Hakan Safi",
+    "source": "OdaTV",
+    "time": "02/04/2026 16:56",
+    "link": "https://www.odatv.com/spor/futbolun-gorgusuz-figuru-hakan-safi-120141822",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Kulübünde Ali Koç döneminde yöneticilik yapan Hakan Safi&#039;nin, TFF yöneticisiymiş gibi davranıp milli takımın kamp yaptığı otelde futbolcuları maça uğurlaması, prim vaadinde bulunması tepki çekiyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/futbolun-gorgusuz-figuru-hakan-safi-maog.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_deadbb15",
     "title": "Hindistan’da çelik fiyatları koruma vergisiyle zirveye tırmandı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İngiltere genelinde geçen yıl sıcak hava dalgalarına bağlı 1504 ölüm meydana geldiği bildirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_80b4f711",
-    "title": "Samsun’da yoğun sis etkili oldu, görüş mesafesi düştü",
-    "source": "Haber61",
-    "time": "02/04/2026 16:33",
-    "link": "https://www.haber61.net/sehirler/samsunda-yogun-sis-etkili-oldu-gorus-mesafesi-dustu-h628414.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İki gündür etkisini sürdüren yoğun sis, Samsun’da hayatı olumsuz etkiledi. Özellikle sahil kesiminde görüş mesafesi 100 metreye kadar geriledi.",
-    "image": "https://resim.haber61.net/news/610558.jpg",
     "keyword": null
   }
 ]
