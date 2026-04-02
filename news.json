@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dfdcf749",
+    "title": "ABD'nin Bağdat Büyükelçiliği, Irak'taki vatandaşlarına ülkeden ayrılmaları çağrısını yineledi",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 09:13",
+    "link": "https://www.aa.com.tr/tr/guncel/abdnin-bagdat-buyukelciligi-iraktaki-vatandaslarina-ulkeden-ayrilmalari-cagrisini-yineledi/3888829",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin Bağdat Büyükelçiliği, Irak'taki ABD vatandaşlarına ülkeyi derhal terk etmeleri yönündeki uyarısını yineledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_43e35c45",
     "title": "Alkışlar kesildi, kapılar kapandı: Zelenski'nin trajik sonu",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, yeni sezon planlaması kapsamında AS Monaco forması giyen Krépin Diatta için harekete geçti; sözleşmesi sona erecek olan çok yönlü oyuncu transferde öncelikli hedefler arasına girdi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/kritik-hamle.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_93523701",
-    "title": "ABD ve İsrail'in İran'a karşı atılacak sert adımlar için koordinasyon içinde olduğu iddiası",
-    "source": "TRT Haber",
-    "time": "02/04/2026 08:14",
-    "link": "https://www.trthaber.com/haber/dunya/abd-ve-israilin-irana-karsi-atilacak-sert-adimlar-icin-koordinasyon-icinde-oldugu-iddiasi-940019.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran ile müzakereleri sürdüren ABD'nin ileriki günlerde atılacak sert adımlar için İsrail ile koordinasyon içerisinde olduğu iddia edildi.",
-    "image": null,
-    "keyword": null
   }
 ]
