@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_560e7a6d",
+    "title": "Manolya Sitesi davasında bilirkişi heyeti çekildi",
+    "source": "Evrensel",
+    "time": "02/04/2026 13:34",
+    "link": "https://www.evrensel.net/haber/5977900/manolya-sitesi-davasinda-bilirkisi-heyeti-cekildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Maraş’ta 35 kişinin yaşamını yitirdiği Manolya Sitesi davasında, son bilirkişi heyetinin dosyadan çekilmesi nedeniyle yeni bir bilirkişi heyeti oluşturulmasına karar verildi ve duruşma 9 Kasım'a ertelendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341296.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0675a9d8",
     "title": "Türkiye Psikiyatri Derneği 2 Nisan açıklaması: \"Otizmde destekler yetersiz\"",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'a gökten çamur yağdı! Herkes oraya koştu",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/yagmurvetoztasinimitrthaber1807696jpg-7qgUcTBagUCIMpXI7LYLCg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c7b75859",
-    "title": "Kolonlarından çatlama sesi geldiği için tahliye edilmişti: O bina için yıkım kararı çıktı",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 12:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kolonlarindan-catlama-sesi-geldigi-icin-tahliye-edilmisti-o-bina-icin-yikim-karari-cikti-2491742",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır’ın merkez Bağlar ilçesinde ikamet edenlerin kolonlarından ses geldiği ihbarı üzerine 51 kişinin tahliye edildiği 5 katlı bina için yıkım kararı verildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/bd9b5039-98d0-4cbe-a89a-a65d5908b203.jpg",
     "keyword": null
   }
 ]
