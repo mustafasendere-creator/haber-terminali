@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d1d87cbb",
+    "title": "Video İran’ın ABD ajanını tutukladığı anları mı gösteriyor?",
+    "source": "Teyit.org",
+    "time": "02/04/2026 12:55",
+    "link": "https://teyit.org/analiz/video-iranin-abd-ajanini-tutukladigi-anlari-mi-gosteriyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran istihbaratının Mossad/CIA ajanlarını tutukladığını iddia edilen bir video paylaşıldı.",
+    "image": "https://md.teyit.org/2026/04/iran-abd-cia-tutuklama.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_13c5e4cf",
     "title": "İnönü’nün kahkahasından Şi Cinping’in gülümsemesine",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Azerbaycan'ın başkenti Bakü'de Türk Devletleri Teşkilatı (TDT) Hükümet Başkanları/Başkan Yardımcıları Toplantısı yapıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_661da9c2",
-    "title": "Rahatsız edici SMS ve aramalara karşı yeni tedbirler devrede",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 12:33",
-    "link": "https://www.aa.com.tr/tr/guncel/rahatsiz-edici-sms-ve-aramalara-karsi-yeni-tedbirler-devrede/3889157",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Bilgi Teknolojileri ve İletişim Kurumunun (BTK) vatandaşları rahatsız eden SMS ve aramaları kaynağında engelleyecek tedbirleri devreye aldığını bildirdi.",
     "image": null,
     "keyword": null
   }
