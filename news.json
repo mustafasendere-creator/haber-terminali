@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aca3eec9",
+    "title": "AK Parti, EOKA terör örgütü destekçilerinin KKTC'lilere yönelik saldırıyı lanetledi",
+    "source": "TRT Haber",
+    "time": "02/04/2026 22:14",
+    "link": "https://www.trthaber.com/haber/gundem/ak-parti-eoka-teror-orgutu-destekcilerinin-kktclilere-yonelik-saldiriyi-lanetledi-940137.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, dün Lefkoşa'da Ara Bölge'de terör örgütü EOKA tarafından Kuzey Kıbrıs Türk Cumhuriyeti KKTC vatandaşlarına yönelik saldırıyı lanetledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e4b8d9ef",
     "title": "Ankara Esenboğa Havalimanından Bükreş'e direkt uçuşlar başladı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Süper Lig'in 28. haftasında Galatasaray'ı ağırlıyor. Bordo-mavililer, evindeki galibiyet üstünlüğünü koruyarak dev derbiden zaferle ayrılmayı hedefliyor.",
     "image": "https://resim.haber61.net/news/610597.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c42d0012",
-    "title": "Milyonluk vurgun yapıp şehir şehir kaçtılar: Yakayı Ankara'da ele verdiler",
-    "source": "Haber Global",
-    "time": "02/04/2026 20:54",
-    "link": "https://haberglobal.com/gundem/milyonluk-vurgun-yapip-sehir-sehir-kactilar-yakayi-ankarada-ele-verdiler-516723",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tokat'ta telefonda kendisini polis olarak tanıtan dolandırıcı, 76 yaşındaki kadını yaklaşık 2 milyon 300 bin TL dolandırdı. Ankara'da yakalanan şüpheli tutuklandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/milyonluk-vurgun-yapip-sehir-sehir-kactilar-yakayi-ankarada-ele-verdiler-hhex.jpg",
-    "keyword": null
   }
 ]
