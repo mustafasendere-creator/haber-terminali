@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59fd895a",
+    "title": "Trump: İran bizden ateşkes istedi",
+    "source": "Habertürk",
+    "time": "02/04/2026 15:34",
+    "link": "https://www.haberturk.com/son-dakika-trump-iran-bizden-ateskes-istedi-3874063",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trump, İran'ın ABD'den ateşkes istediğini duyurdu. Trump, ateşkes için Hürmüz Boğazı'nın açılmasını talep ediyor. İran ise Trump'ın açıklamalarını 'yanlış ve temelsiz' olarak nitelendirdi.",
+    "image": "https://im.haberturk.com/l/2026/04/01/ver1775063297/3874063/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_465765cb",
     "title": "DEM Parti’den Özgür Özel’in 'ara seçim' çağrısına yanıt: Gündemimizde yok",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Zeytinburnu'nda bir binanın yıkımı sırasında kopan beton parçasının kafasına isabet etmesi sonucu ağır yaralanan 6 yaşındaki çocuk, kaldırıldığı hastanede hayatını kaybetti",
     "image": "https://im.haberturk.com/l/2026/04/01/ver1775051896/3874081/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_ed1b2e9c",
-    "title": "Bartın'da 16 bin metruk yapıya kokarca ilacı",
-    "source": "Habertürk",
-    "time": "02/04/2026 14:56",
-    "link": "https://www.haberturk.com/bartin-da-16-bin-metruk-yapiya-kokarca-ilaci-3874086",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bartın Valisi Nurtaç Arslan, kahverengi kokarcayla mücadele kapsamında geçen yıl ekim ayında başlayan kışlak mücadelesi döneminde il genelinde 16 bin metruk yapıda ilaçlama çalışması gerçekleştirildiğini söyledi",
-    "image": "https://im.haberturk.com/l/2026/04/01/ver1775052883/3874086/jpg/1280x1280",
     "keyword": null
   }
 ]
