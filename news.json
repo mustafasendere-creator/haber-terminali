@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_624df72a",
+    "title": "Endonezya Moluk Denizi'nde 7,4 büyüklüğünde deprem: tsunami uyarısı kaldırıldı",
+    "source": "Euronews",
+    "time": "02/04/2026 10:54",
+    "link": "http://tr.euronews.com/video/2026/04/02/endonezya-moluk-denizinde-74-buyuklugunde-deprem-tsunami-uyarisi-kaldirildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2 Nisan’ın erken saatlerinde Moluk Denizi’nde, Kuzey Maluku’daki Ternate açıklarında 7,4 büyüklüğünde deprem oldu; en az bir kişi öldü, kısa süreli tsunami uyarısı yapıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ca469ee5",
     "title": "Bu köyde hiç araç yok: Çünkü karayolu yok",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "BDDK borç yapılandırma süreci 29 Nisan'da sona eriyor. Kredi kartı ve ihtiyaç kredisi borçlarını 48 aya kadar vadelendirmek için acele edin! İşte detaylar.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/k-r-e-d-i-3.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_3d25fe1c",
-    "title": "Arsin’de trafik kazası: Araç pert oldu",
-    "source": "Haber61",
-    "time": "02/04/2026 10:14",
-    "link": "https://www.haber61.net/trabzon/arsinde-trafik-kazasi-arac-pert-oldu-h628356.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Arsin ilçesinde kamyonetin çarptığı binek araç kullanılamaz hale geldi. Kazada yaralanan olmazken, olayla ilgili inceleme başlatıldı.",
-    "image": "https://resim.haber61.net/news/610468.jpg",
-    "keyword": "trabzon"
   }
 ]
