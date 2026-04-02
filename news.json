@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_94f78170",
+    "title": "İran: B1 köprü saldırısında 8 kişi hayatını kaybetti, 95 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "02/04/2026 23:14",
+    "link": "https://www.trthaber.com/haber/dunya/iran-b1-kopru-saldirisinda-8-kisi-hayatini-kaybetti-95-kisi-yaralandi-940141.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran: Kereçteki B1 köprüsüne düzenlenen saldırıda 8 kişi hayatını kaybetti, 95 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_33b7fce3",
     "title": "Trump, Adalet Bakanı Pam Bondi'yi görevden aldı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kırıkkale'de hastanede doğum yapan F.G. ve erkek arkadaşı Ö.O., kadının erkek kardeşleri tarafından bıçaklandı. Hastanede tedavi altına alınan F.G. ile Ö.O.'nun hayati tehlikelerinin bulunmadığı bildirildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341344.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f8c4c739",
-    "title": "Meclis Başkanı Kurtulmuş, İmralı heyetiyle görüştü",
-    "source": "Evrensel",
-    "time": "02/04/2026 22:14",
-    "link": "https://www.evrensel.net/haber/5977968/meclis-baskani-kurtulmus-imrali-heyetiyle-gorustu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meclis Başkanı Numan Kurtulmuş, DEM Parti İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar ile görüştü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341346.jpg",
     "keyword": null
   }
 ]
