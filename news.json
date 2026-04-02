@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b2419d8a",
+    "title": "Yeni çalışma, tarım ilaçlarına maruziyeti kanser riskine bağladı",
+    "source": "Euronews",
+    "time": "02/04/2026 08:34",
+    "link": "http://tr.euronews.com/saglik/2026/04/02/yeni-calisma-tarim-ilaclarina-maruziyeti-kanser-riskine-bagladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni bir araştırmaya göre, tarım ilaçlarının yoğun olarak kullanıldığı bölgelerde yaşamak, kanser riskini anlamlı ölçüde artırıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e911dd49",
     "title": "Trump'tan 'Ulusa Sesleniş' konuşması: İran'ı Taş Devri'ne geri göndereceğiz",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dün gerileyen petrol fiyatları, ABD Başkanı Donald Trump’ın ulusa sesleniş konuşmasında önümüzdeki 2-3 hafta içinde İran'ı \"son derece sert şekilde vuracaklarını\" söylemesinin ardından yeniden yükselişe geçti",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/trumpin-aciklamalari-sonrasi-petrol-fiyatlari-firladi-ak7c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_19121cfe",
-    "title": "SpaceX halka açılıyor: Elon Musk'ın dev hamlesi",
-    "source": "TRT Haber",
-    "time": "02/04/2026 07:34",
-    "link": "https://www.trthaber.com/haber/dunya/spacex-halka-aciliyor-elon-muskin-dev-hamlesi-940008.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elon Muskın uzay taşımacılığı ve uydu interneti şirketi SpaceX, dünyanın en değerli halka açık şirketlerinden biri olma yolunda tarihi bir adım attı.",
-    "image": null,
     "keyword": null
   }
 ]
