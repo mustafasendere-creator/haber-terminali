@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9f184b0b",
+    "title": "Türkiye ve dünya gündemi",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 09:33",
+    "link": "https://www.aa.com.tr/tr/guncel/turkiye-ve-dunya-gundemi/3888821",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye ve dünya gündemi, lider programları, etkinlikler ile bir bakışta bugünün gündemi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cd8d6232",
     "title": "Suudi Arabistan hava sahasına giren 4 İHA’nın imha edildiğini açıkladı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "İstanbul’un Sarıyer ilçesinde yasadışı silah kaçakçılarına yönelik bir ticari taksiye ve depoya yapılan operasyonda 113 tabanca ele geçirildi, 2 şüpheli gözaltına alındı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/istanbulda-silah-kacakciligi-113-tabanca-ele-gecirildi-bvb0.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_6ff9fbd3",
-    "title": "Galatasaray maçı Muçi için kritik: Gol hasreti sona erecek mi",
-    "source": "Haber61",
-    "time": "02/04/2026 08:34",
-    "link": "https://www.haber61.net/trabzonspor/galatasaray-maci-muci-icin-kritik-gol-hasreti-sona-erecek-mi-h628328.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un yıldızı Ernest Muçi, sessizliğini bozmak için Galatasaray’ı bekliyor.",
-    "image": "https://resim.haber61.net/news/610428.jpg",
-    "keyword": "trabzon"
   }
 ]
