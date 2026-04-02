@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aace3184",
+    "title": "İran'ın Körfez ülkelerine saldırıları sürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "02/04/2026 19:34",
+    "link": "https://www.aa.com.tr/tr/guncel/iranin-korfez-ulkelerine-saldirilari-suruyor/3889621",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, ABD ve İsrail saldırılarına misilleme kapsamında 28 Şubat’tan bu yana Körfez ülkelerinde belirlediği hedeflere saldırılarını sürdürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_43a2faa0",
     "title": "İsrail ordusu Suriye'nin Kuneytra ili kırsalına baskın düzenledi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ballıca köyünde sel sonrası hasar gören köprüyü onarmak isteyen 74 yaşındaki Temel Ece, elektrik direğini kesmeye çalışırken akıma kapıldı. Ağır yaralanan Ece, kaldırıldığı hastanede yaşamını yitirdi.",
     "image": "https://resim.haber61.net/news/610587.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_04759d07",
-    "title": "Türkiye, fındık ihracatından 7 ayda 1 milyar 445 milyon doları aşkın gelir sağladı",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 18:33",
-    "link": "https://www.aa.com.tr/tr/guncel/turkiye-findik-ihracatindan-7-ayda-1-milyar-445-milyon-dolari-askin-gelir-sagladi/3889626",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, 2025-2026 fındık ihracat sezonunun 7 ayında 1 milyar 445 milyon doları aşkın gelir elde etti.",
-    "image": null,
     "keyword": null
   }
 ]
