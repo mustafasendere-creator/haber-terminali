@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1278233d",
+    "title": "Son dönemdeki yağışlar tarımsal üretimde bereket müjdesi veriyor",
+    "source": "TRT Haber",
+    "time": "02/04/2026 20:34",
+    "link": "https://www.trthaber.com/haber/ekonomi/son-donemdeki-yagislar-tarimsal-uretimde-bereket-mujdesi-veriyor-940127.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye genelinde özellikle son haftalarda yağışlarda görülen artışlar ile uygun sıcaklıkların hem su rezervlerini hem de tarımsal üretimi olumlu etkilemesi öngörülüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d8121d61",
     "title": "OSB'lerde yenilenebilir enerji kapasitesi fosil yakıtlıları geçti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu katıldığı bir programda yeni bir resmi tatilin haberini verdi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/fksdfmksdkmfsdf.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_5dee83f9",
-    "title": "İran Devrim Muhafızları Ordusu: Amazon'un Bahreyn’deki bulut bilişim merkezi imha edildi",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 19:54",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-devrim-muhafizlari-ordusu-amazonun-bahreyn-deki-bulut-bilisim-merkezi-imha-edildi/3889726",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları Ordusu (DMO), ABD ve İsrail saldırılarına misilleme olarak ABD'li e-ticaret devlerinden Amazon'un Bahreyn’deki bulut bilişim merkezini hedef aldığını duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
