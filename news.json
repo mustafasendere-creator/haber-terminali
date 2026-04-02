@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_19121cfe",
+    "title": "SpaceX halka açılıyor: Elon Musk'ın dev hamlesi",
+    "source": "TRT Haber",
+    "time": "02/04/2026 07:34",
+    "link": "https://www.trthaber.com/haber/dunya/spacex-halka-aciliyor-elon-muskin-dev-hamlesi-940008.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elon Muskın uzay taşımacılığı ve uydu interneti şirketi SpaceX, dünyanın en değerli halka açık şirketlerinden biri olma yolunda tarihi bir adım attı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_aab07fb3",
     "title": "IEA, IMF ve Dünya Bankası küresel krize karşı güçlerini birleştirdi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "NATO’nun genişlemesi, yalnızca uluslararası ilişkiler alanına ait bir tartışma değildir. Bu genişleme, doğrudan gündelik yaşamın, ekonomik koşulların ve toplumsal ilişkilerin yeniden düzenlenmesi anlamına gelir.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340541.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a10fb2af",
-    "title": "Çocukluk çağı demansı: 'Kızım 16 yaşını göremeyebilir'",
-    "source": "BBC Türkçe",
-    "time": "02/04/2026 05:53",
-    "link": "https://www.bbc.com/turkce/articles/c80mkgv4xpro",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sophia dört yaşına gelene kadar her şey normal seyrindeydi. Sonra konulan Sanfilippo Sendromu tanısıyla Sophia ve ailesinin hayatı tamamen değişti. Sophia şu an 15 yaşında, artık yürüyemiyor, konuşamıyor ve 16. yaş gününü görebilecek mi bilinmiyor.",
-    "image": null,
     "keyword": null
   }
 ]
