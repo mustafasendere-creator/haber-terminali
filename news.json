@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f9c4cba2",
+    "title": "İstanbulda direksiyon çilesi katlanıyor: Trafik bitiyor, park mücadelesi başlıyor",
+    "source": "TRT Haber",
+    "time": "02/04/2026 19:55",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-direksiyon-cilesi-katlaniyor-trafik-bitiyor-park-mucadelesi-basliyor-940123.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da milyonlarca sürücü, trafikte ilerlemenin yanı sıra park yeri bulmakta da zorlanırken, her gün yoğun trafik ve zaman zaman tartışma ile kavgalara dönüşen park yeri mücadelesiyle karşı karşıya kalıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a090a078",
     "title": "İstanbul pazara kadar çöl tozu etkisinde kalacak",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Antalya'nın Manavgat ilçesinde otomobilin tırın dorsesine çarptığı kazada 6 yaşındaki çocuk hayatını kaybetti, 3 kişi yaralandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/konya-antalya-karayolunda-feci-kaza-olu-ve-yaralilar-var-chzl.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3a1c0b90",
-    "title": "Burhanettin Duran: KKTC'deki sivil vatandaşlara yönelik gerçekleştirilen saldırıyı kınıyorum",
-    "source": "Haber Global",
-    "time": "02/04/2026 18:54",
-    "link": "https://haberglobal.com/gundem/burhanettin-duran-kktcdeki-sivil-vatandaslara-yonelik-gerceklestirilen-saldiriyi-kiniyorum-516731",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medya hesabından paylaşımda bulunan İletişim Başkanı Burhanettin Duran, \"EOKA terör örgütü yanlısı bir grubun Kuzey Kıbrıs Türk Cumhuriyeti’nin Yiğitler Burcu bölgesinde sivil vatandaşlara yönelik gerçekleştirdiği taşlı ve patlayıcı maddeli saldırıyı kınıyorum.\" dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/burhanettin-duran-kktcdeki-sivil-vatandaslara-yonelik-gerceklestirilen-saldiriyi-kiniyorum-9o7t.jpg",
     "keyword": null
   }
 ]
