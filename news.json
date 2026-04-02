@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2af62065",
+    "title": "Erzincan'da inşaat alanındaki işçi konteynerlerinde yangın",
+    "source": "Evrensel",
+    "time": "02/04/2026 06:13",
+    "link": "https://www.evrensel.net/haber/5977821/erzincanda-insaat-alanindaki-isci-konteynerlerinde-yangin",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzincan’da inşaat alanında işçilerin kaldığı konteynerlerde yangın çıktı. İtfaiyenin 1 saatte söndürdüğü yangında can kaybı ve yaralanma yaşanmadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341248.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_05f10514",
     "title": "Gökyüzünde Vurulan Füze, Yerde Kalan Soru: Egemenlik Kimin?",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediye Meclisi Nisan ayı toplantılarında Engelsiz Yaşam Parkı konuşuldu. AK Parti Grup Başkanvekili Yavuz Şanver ve Meclis Üyesi Ufuk Hoş projeye destek verdi.",
     "image": "https://resim.haber61.net/news/610366.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ffdd66b6",
-    "title": "İran basını: Stratejik Dış İlişkiler Konseyi Başkanı Harrazi ağır yaralandı",
-    "source": "Evrensel",
-    "time": "02/04/2026 03:13",
-    "link": "https://www.evrensel.net/haber/5977811/iran-basini-stratejik-dis-iliskiler-konseyi-baskani-harrazi-agir-yaralandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran basını, İran Stratejik Dış İlişkiler Konseyi Başkanı Kemal Harrazi'nin, ABD ve İsrail saldırıları sırasında ağır yaralandığı bildirildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341239.jpg",
     "keyword": null
   }
 ]
