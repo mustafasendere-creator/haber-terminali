@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d479605",
+    "title": "İzmir ekmek fiyatları",
+    "source": "Habertürk",
+    "time": "02/04/2026 10:55",
+    "link": "https://www.haberturk.com/ekmege-zam-geldi-izmir-ekmek-fiyatlari-son-durum-izmir-de-ekmek-fiyatlari-ne-kadar-zam-geldi-mi-3874010",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Fırıncılar Federasyonu Başkanı Halil İbrahim Balcı, ekmek fiyatlarının artırıldığını duyurdu. Balcı, yeni fiyat tarifesinin birçok ilde yürürlüğe girmeye başladığını ifade etti. Bu kapsamda İzmir'de yaşayan vatandaşlar \"İzmir'de ekmek fiyatları nedir zam geldi mi?\" sorularını araştırmaya başladı. İşte konuya ilişkin detaylar",
+    "image": "https://im.haberturk.com/l/2026/04/01/ver1775040374/3874010/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8799de87",
     "title": "Sağlık Bakanlığı personel alımı",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig’de haftanın en kritik karşılaşmasına çıkacak olan Trabzonspor’da gözler teknik direktör Fatih Tekke’nin belirleyeceği ilk 11’e çevrildi. Bordo-mavililer, Galatasaray karşısında alacağı galibiyetle puan farkını 1’e indirme fırsatını yakalayacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/k-a-d-r-o-l-a-r-8.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d1103db1",
-    "title": "Prof. Dr. Üşümezsoy'dan 'Marmara'da 8 büyüklüğünde deprem' senaryosuna ilişkin açıklama",
-    "source": "Haber Global",
-    "time": "02/04/2026 10:15",
-    "link": "https://haberglobal.com/gundem/prof-dr-usumezsoydan-marmarada-8-buyuklugunde-deprem-senaryosuna-iliskin-aciklama-516613",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Deprem bilimci Prof. Dr. Şener Üşümezsoy, \"Marmara'da 8 büyüklüğünde deprem olacak\" iddialarına ilişkin açıklamalarında bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/prof-dr-usumezsoydan-marmarada-8-buyuklugunde-deprem-senaryosuna-iliskin-aciklama-e2se.jpg",
-    "keyword": null
   }
 ]
