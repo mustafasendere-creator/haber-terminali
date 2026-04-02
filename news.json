@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fd3f1c21",
+    "title": "John Travolta, Cannes'da ilk kez yönetmenlik koltuğuna oturdu",
+    "source": "Euronews",
+    "time": "02/04/2026 17:34",
+    "link": "http://tr.euronews.com/kultur/2026/04/02/john-travolta-cannesda-ilk-kez-yonetmenlik-koltuguna-oturdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hollywood'un efsane ismi John Travolta, ilk uzun metraj filmi Propeller One-Way Night Coach'un prömiyerini mayıs ayında Cannes Film Festivali'nde yapacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5396fcf8",
     "title": "İtalya'da şiddetli kar ve sel: halk mahsur kaldı, altyapı zarar gördü",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Meteoroloji’nin yayımladığı haftalık tahmine göre Trabzon’da önümüzdeki günlerde sağanak ve gök gürültülü yağışlar etkili olacak. Hava sıcaklıklarının ise mevsim normallerinde seyretmesi bekleniyor.",
     "image": "https://resim.haber61.net/news/610565.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c1b9b767",
-    "title": "Kadınların tek başına seyahati için en iyi rotalar açıklandı: İkisi Avrupa'da",
-    "source": "Euronews",
-    "time": "02/04/2026 16:54",
-    "link": "http://tr.euronews.com/gezi/2026/04/02/kadinlarin-tek-basina-seyahati-icin-en-iyi-rotalar-aciklandi-ikisi-avrupada",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kosta Rika’nın vahşi yaşam harikalarından Estonya’nın büyüleyici eski kasabalarına kadar, rotanızı çevirmeniz gereken yerler burada.",
-    "image": null,
-    "keyword": null
   }
 ]
