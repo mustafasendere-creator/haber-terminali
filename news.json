@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5f6c7fe",
+    "title": "Endonezya açıklarında 7,4 büyüklüğünde deprem!",
+    "source": "Habertürk",
+    "time": "02/04/2026 08:35",
+    "link": "https://www.haberturk.com/endonezya-aciklarinda-7-4-buyuklugunde-deprem-3874163",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güneydoğu Asya ülkesi Endonezya'da Maluku Denizi açıklarında 7,4 büyüklüğünde deprem meydana geldiği bildirildi",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775102583/3874163/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_bb8d7b45",
     "title": "1950’lerde Türkiye’nin Ortadoğu’ya yaklaşımı ve Amerika etkisine bir bakış",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da bugün elektrik kesintisi alarmı! Saat saat ilçe ilçe yayımlanan geniş kapsamlı listeye göre birçok mahallede uzun süreli kesintiler yaşanacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/01/trabzon-elektirk-kesintisi-2.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_cfc2d5bc",
-    "title": "Karadeniz Hava Durumu Bugün Yağmur Var mı? Hava Kaç Derece Olacak",
-    "source": "Taka Gazetesi",
-    "time": "02/04/2026 07:53",
-    "link": "https://www.takagazete.com.tr/karadeniz-hava-durumu-bugun-yagmur-var-mi-hava-kac-derece-olacak",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Karadeniz hava durumu bugün 02.04.2026 nasıl olacak, Trabzon’da hava bugün yağışlı mı, Karadeniz’de sıcaklık kaç derece, rüzgar ve yağmur var mı, Trabzon ilçelerinde bugün hava nasıl, Rize Artvin Samsun Ordu Giresun hava durumu bugün ne gösteriyor sorularının yanıtları bu detaylı raporda yer alıyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/06/trabzon-hava-durumu-7.png",
     "keyword": null
   }
 ]
