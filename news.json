@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7f541603",
+    "title": "Özgür Özel'in erken seçim hamlesine ne tepkiler geldi?",
+    "source": "BBC Türkçe",
+    "time": "02/04/2026 19:34",
+    "link": "https://www.bbc.com/turkce/articles/c77mvnx4x36o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP lideri Özgür Özel bir süredir partisinin erken seçim talebini yineliyor. CHP'nin ara seçim için de harekete geçeceğini belirten Özel'e DEM Parti olumsuz yanıt verdi. DEM Parti sözcüsü Ayşegül Doğan \"böyle bir gündemimiz yok\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3851c5fe",
     "title": "Topal Osman Ağa, vefatının 103. yıldönümünde anıldı",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Tatil planlarınızı önceden yapmanız size birçok avantaj sunuyor. İlk olarak, erken rezervasyon indirimleri sayesinde bütçenizi rahatlatabiliyorsunuz.",
     "image": "https://resim.haber61.net/news/610566.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8c550689",
-    "title": "Katar Savunma Bakanlığı: İran'dan topraklarımıza bir dizi İHA ile saldırı düzenlendi",
-    "source": "Anadolu Ajansı",
-    "time": "02/04/2026 18:33",
-    "link": "https://www.aa.com.tr/tr/guncel/katar-savunma-bakanligi-irandan-topraklarimiza-bir-dizi-iha-ile-saldiri-duzenlendi/3889621",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Katar Savunma Bakanlığı, bugün İran tarafından insansız hava araçlarıyla (İHA) ülkeye yönelik bir dizi saldırı düzenlendiğini duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
