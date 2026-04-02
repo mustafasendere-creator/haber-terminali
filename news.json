@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_602e7916",
+    "title": "Trump duyurdu: Adalet Bakanı Bondi görevden alındı",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 20:54",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-duyurdu-adalet-bakani-bondi-gorevden-alindi-2491900",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Adalet Bakanı Pam Bondi'yi görevden aldığını duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/31b60a84-0f0d-4f21-a59e-82e9f923e82c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2f2a2939",
     "title": "Gianluigi Buffon açıkladı... İtalya Milli Takımı'nda bir istifa daha!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TBMM Genel Kurulunda kabul edilen yeni kanun teklifiyle depremzedelere konut indirimi, engellilere ÖTV muafiyeti, bedelli askerlik ücreti gibi maddeler yasalaştı.",
     "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_2cc09340",
-    "title": "Gaziantep'te sağlıksız 1600 kilogram ciğer ele geçirildi",
-    "source": "TRT Haber",
-    "time": "02/04/2026 20:14",
-    "link": "https://www.trthaber.com/haber/turkiye/gaziantepte-sagliksiz-1600-kilogram-ciger-ele-gecirildi-940124.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gaziantep'in Nizip ilçesinde, araçta sağlıksız koşullarda taşınan 1 ton 600 kilogram ciğere el konuldu.",
-    "image": null,
     "keyword": null
   }
 ]
