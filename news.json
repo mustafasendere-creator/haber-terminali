@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a04f7377",
+    "title": "Avrupa Birliği, resmi yazışmalarda yapay zeka görsel kullanımını yasakladı",
+    "source": "Ekonomim",
+    "time": "02/04/2026 08:54",
+    "link": "https://www.ekonomim.com/dunya/avrupa-birligi-resmi-yazismalarda-yapay-zeka-gorsel-kullanimini-yasakladi-haberi-885519",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa Birliği (AB) kurumları olan Komisyon, Konsey ve Parlamento, çalışanlarına resmi yazışmalarında yapay zeka görsel kullanımını yasakladı. Söz konusu karar verilen mesajların güvenilirliğini korumayı amaçlıyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/11/29/almanyadan-avrupa-birligine-cagri-tore_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ad3de10f",
     "title": "ABD İsrail İran Savaşı'nda son durum!",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Ekrem İmamoğlu dahil 407 kişinin yargılandığı İBB davasında bugün mahkemenin ara kararını açıklaması bekleniyor. Savcılık, tutuklu bulunan 7 ismin tahliyesini talep etti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_68ef3d8d",
-    "title": "Anahtar Deliği 02.04.2026- Herkes onu istiyor ama bu sezon zor",
-    "source": "Haber61",
-    "time": "02/04/2026 08:14",
-    "link": "https://www.haber61.net/anahtar-deligi/anahtar-deligi-02-04-2026-herkes-onu-istiyor-ama-bu-sezon-zor-h628327.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’da Orhan Kaynak sonrası Onur Kıvrak ismi gündemde ancak belgeler engel. Volkan Konak anması duygulandırdı. Trabzon’da dolmuş zammı yürürlüğe girdi. Muhittin Düğdü’nün cenazesine basın ilgisinin azlığı vefa tartışması yarattı.",
-    "image": "https://resim.haber61.net/news/610425.jpg",
-    "keyword": "trabzon"
   }
 ]
