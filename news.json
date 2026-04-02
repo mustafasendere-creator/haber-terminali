@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5c2137ce",
+    "title": "Galatasaray, Barcelona'nın stoperine talip",
+    "source": "Evrensel",
+    "time": "02/04/2026 17:34",
+    "link": "https://www.evrensel.net/haber/5977937/galatasaray-barcelonanin-stoperine-talip",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray’ın, Barcelona forması giyen Andreas Christensen için girişimlere başladığı öne sürüldü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339665.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_5775a09b",
     "title": "Ertuğrul Doğan’dan Uğurcan Çakır sözleri! “En büyük şoklardan biriydi”",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran ordusu, ABD ve İsrailin ülkenin sanayi altyapısına yönelik saldırılara misilleme olarak, bölgedeki ABDye ait metal sanayi tesisleri füze saldırılarıyla hedef alındığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1884746c",
-    "title": "İngiltere'de geçen yıl 1504 kişi sıcaklığa bağlı sebeplerle hayatını kaybetti",
-    "source": "TRT Haber",
-    "time": "02/04/2026 16:54",
-    "link": "https://www.trthaber.com/haber/dunya/ingilterede-gecen-yil-1504-kisi-sicakliga-bagli-sebeplerle-hayatini-kaybetti-940100.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere genelinde geçen yıl sıcak hava dalgalarına bağlı 1504 ölüm meydana geldiği bildirildi.",
     "image": null,
     "keyword": null
   }
