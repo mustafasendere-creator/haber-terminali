@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_3421252c",
+    "title": "Soma'nın termik santrale bağlılığı ortadan kalktı: Artık doğal gaz ile ısınacaklar",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 16:55",
+    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/soma-nin-termik-santrale-bagliligi-ortadan-kalkti-artik-dogal-gaz-ile-isinacaklar-2491827",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa Büyükşehir Belediyesi, Somalı vatandaşların kronikleşen ısınma sorununa kalıcı çözüm üretmek amacıyla Aksa Doğalgaz firması ile tarihi bir iş birliği protokolü imzaladı. Protokolle doğalgaz dönüşüm süreci resmen başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/67bcd97f-7b8d-4db1-8a25-793419b5829a.png",
+    "keyword": null
+  },
+  {
+    "id": "TKP_31e0a228",
+    "title": "Trabzon’dan örnek proje: Otizm için istihdam seferberliği başladı",
+    "source": "Taka Gazetesi",
+    "time": "02/04/2026 16:55",
+    "link": "https://www.takagazete.com.tr/trabzondan-ornek-proje-otizm-icin-istihdam-seferberligi-basladi",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzon’da Arsin OSB ile Otizm Derneği arasında imzalanan protokol, otizmli bireylerin istihdamı ve farkındalığı artırmayı hedefliyor.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/46876104-beec-41b6-acf5-ccf3d3b2004a.jpg",
+    "keyword": "trabzon"
+  },
+  {
     "id": "GND_8c59904d",
     "title": "Fenerbahçe, Romelu Lukaku için görüşmelere başladı! İşte Napoli'nin bonservis beklentisi",
     "source": "Haber Global",
@@ -933,30 +957,6 @@
     "prefix": "🔔",
     "summary": "Günlük Burç Yorumları: 3 Nisan Cuma Aslan Burcu Yorumu",
     "image": "https://media.cumhuriyet.com.tr/Archive/168f5c1c-0dd0-4b0d-88ca-62216f33c0ef.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad23feaa",
-    "title": "3 Nisan Cuma burç yorumları: Bugün sizi neler bekliyor?",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 16:14",
-    "link": "https://www.cumhuriyet.com.tr/astroloji/3-nisan-cuma-burc-yorumlari-bugun-sizi-neler-bekliyor-2491814",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Koç, boğa, ikizler, yengeç, aslan, başak, terazi, akrep, yay, oğlak, kova ve balık burçları işte günlük burç yorumları. Sizleri neler bekliyor? İşte, 3 Nisan Cuma burç yorumları...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/16bf60de-ba9f-4a12-8e8f-fa1103b4df96.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5defe53a",
-    "title": "Pegasus duyurdu: Uçuşların iptal süresi uzatıldı!",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 16:14",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/pegasus-duyurdu-ucuslarin-iptal-suresi-uzatildi-2491813",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pegasus Hava Yolları, güvenlik riskleri nedeniyle başta İran olmak üzere Ürdün, Lübnan, Kuveyt, Bahreyn, Katar, Suudi Arabistan ve Birleşik Arap Emirlikleri’ne yapılan uçuşların iptal süresinin mayıs ayına kadar uzatıldığını açıkladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/82d5260d-1b15-499d-876a-d008da2cd894.jpg",
     "keyword": null
   }
 ]
