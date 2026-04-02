@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ded86425",
+    "title": "Samsun’un akciğeri Kocadağ taş ocaklarıyla yok ediliyor",
+    "source": "Cumhuriyet",
+    "time": "02/04/2026 06:34",
+    "link": "https://www.cumhuriyet.com.tr/cevre/samsun-un-akcigeri-kocadag-tas-ocaklariyla-yok-ediliyor-2491641",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun Atakum’daki Kocadağ’da taş ocaklarının 20 yılda yarattığı tahribat fotoğraflarla ortaya kondu. 2006 ve 2026 görüntülerinin karşılaştırılmasında ormanlık alanların büyük ölçüde yok edildiği görüldü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0a61ad18-3902-4ab6-b115-368fed427004.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b9a119ce",
     "title": "Çizgilik - 2 Nisan 2026",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika haberi... İzmir Cumhuriyet Başsavcılığı, Uşak Belediye Başkanı Özkan Yalım hakkında yürütülen soruşturma sürecinde sosyal medyada yer alan iddiaları ihbar kabul ederek, Bornova Belediyesi’nde çalışmadığı halde maaş aldığı öne sürülen A.A. ve konuyla bağlantılı belediye yetkilileri hakkında soruşturma başlattı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/31ad619b-d42c-45db-a861-711dc650469b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6c436a63",
-    "title": "Banksy’nin kimliğine değil, onun ne söylediğini anlamaya ihtiyacımız var",
-    "source": "Evrensel",
-    "time": "02/04/2026 03:53",
-    "link": "https://www.evrensel.net/haber/5977826/banksynin-kimligine-degil-onun-ne-soyledigini-anlamaya-ihtiyacimiz-var",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sokakları atölye, duvarları tuval bilen Banksy; savaş, çevre sorunları, göç, eşitsizlik gibi evrensel temaları eserlerinde işleyerek sokak sanatını sadece estetik değil, politik ve toplumsal bir araç olarak kullanır.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341250.jpg",
     "keyword": null
   }
 ]
