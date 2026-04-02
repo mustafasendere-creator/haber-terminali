@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c97b90d2",
+    "title": "Figen Yüksekdağ'ın ağabeyi hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "03/04/2026 00:14",
+    "link": "https://www.evrensel.net/haber/5977893/figen-yuksekdag-in-agabeyi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "9,5 yıldır tutuklu bulunan eski HDP Eş Genel Başkanı Figen Yüksekdağ’ın ağabeyi Mehmet Cavit Yüksekdağ yaşamını yitirdi;",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/197515.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_58d3c251",
     "title": "TBMM komisyonunda AKP’den geri adım: Dijital oyun maddesi geri çekildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trendyol 1. Lig takımlarından Boluspor, teknik direktör Nevzat Dinçbudak ile anlaşma sağladı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/bolusporda-nevzat-dincbudak-goreve-basladi-lyca.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b4b892eb",
-    "title": "İran'dan ABD Başkanı Trump'ın sözlerine sert yanıt: ABD'nin itibarını yok ediyor",
-    "source": "Haber Global",
-    "time": "02/04/2026 22:54",
-    "link": "https://haberglobal.com/gundem/irandan-abd-baskani-trumpin-sozlerine-sert-yanit-abdnin-itibarini-yok-ediyor-516755",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump’ın İran’a yönelik “taş devrine döndürürüz” sözlerine İran Dışişleri Bakanı Abbas Erakçi’den sert tepki geldi. Erakçi, sivil hedeflerin vurulmasının teslimiyet getirmeyeceğini vurgulayarak “Bu, sadece ABD’nin ahlaki çöküşünü gösterir” dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/02/irandan-abd-baskani-trumpin-sozlerine-sert-yanit-abdnin-itibarini-yok-ediyor-jxux.jpg",
     "keyword": null
   }
 ]
