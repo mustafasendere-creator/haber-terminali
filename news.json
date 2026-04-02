@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c695df66",
+    "title": "Bülent Eczacıbaşı gözünden Artvin",
+    "source": "OdaTV",
+    "time": "02/04/2026 09:55",
+    "link": "https://www.odatv.com/guncel/bulent-eczacibasi-gozunden-artvin-120141733",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fotoğrafçılığa ilgisiyle tanınan iş insanı Bülent Eczacıbaşı, Artvin gezisi sırasında çektiği özel bir kareyi sosyal medya hesabından paylaştı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/bulent-eczacibasi-gozunden-artvin-wj2w.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_30bde037",
     "title": "ASELSAN'ın bileğini tek bir şirket büktü yine zirveyi kaptı; İşte piyasa değeri en yüksek o şirket",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da dolmuş ücretlerine yapılan zam Nisan ayıyla birlikte uygulanmaya başladı. 25 TL olan ücret 32 TL’ye yükselirken, yeni tarife madeni para kullanımını yeniden gündeme getirdi.",
     "image": "https://resim.haber61.net/news/610441.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_fb3003cc",
-    "title": "Yalnızlık ve Şiddetin Kesiştiği Yer",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 09:14",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/sadik-celik/yalnizlik-ve-siddetin-kesistigi-yer-2491653",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yalnızlık ve Şiddetin Kesiştiği Yer",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar107_cover.jpeg",
-    "keyword": null
   }
 ]
