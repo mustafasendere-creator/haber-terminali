@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c5ee98ed",
+    "title": "Düzce'de gece gündüz döndü",
+    "source": "OdaTV",
+    "time": "03/04/2026 02:34",
+    "link": "https://www.odatv.com/guncel/duzcede-gece-gunduz-dondu-120141865",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce’de akşam saatlerinde sağanak yağış ile birlikte şimşekler de gökyüzünü aydınlattı. Şimşeklerin ardından dağılan bulutların arasından çıkan dolunay ise mest etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/duzcede-gece-gunduz-dondu-gagd.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2dd47a0f",
     "title": "Savaşın birinci ayı sonunda bilanço",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran'ın İsrail ve ABD saldırılarına yanıt olarak başlattığı misilleme operasyonu kapsamında fırlatılan bir balistik füze, Tel Aviv yakınlarındaki Petah Tikva kentine isabet etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_45bb0126",
-    "title": "İstanbul'daki uyuşturucu soruşturmasında 7 şüphelinin testi pozitif çıktı",
-    "source": "TRT Haber",
-    "time": "03/04/2026 00:53",
-    "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-uyusturucu-sorusturmasinda-7-suphelinin-testi-pozitif-cikti-940154.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'daki uyuşturucu soruşturması kapsamında Adli Tıp Kurumunda ATK kan, idrar ve saç örnekleri alınan 7 şüphelinin testi pozitif çıktı.",
     "image": null,
     "keyword": null
   }
