@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d194eaf3",
+    "title": "BAE: İran'dan gün içinde 19 balistik füze ve 26 İHA ile saldırı düzenlendi",
+    "source": "TRT Haber",
+    "time": "02/04/2026 15:34",
+    "link": "https://www.trthaber.com/haber/dunya/bae-irandan-gun-icinde-19-balistik-fuze-ve-26-iha-ile-saldiri-duzenlendi-940089.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri BAE, hava savunma sistemlerinin gün içerisinde İran'dan atılan 19 balistik füze ve 26 insansız hava aracına İHA müdahale ettiğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b62bee4c",
     "title": "Galatasaray, Gabriel Sara'nın sakatlandığını duyurdu",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor'un Galatasaray'ı konuk edeceği maçın hakemi açıklandı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/fmskdfmksdkmf.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_cc0e3cf2",
-    "title": "İletişim Başkanı Duran: Otizm bir eksiklik değil, toplumsal zenginliğimizin temelini oluşturan bir farklılıktır",
-    "source": "TRT Haber",
-    "time": "02/04/2026 14:55",
-    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-otizm-bir-eksiklik-degil-toplumsal-zenginligimizin-temelini-olusturan-bir-farkliliktir-940084.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanı Burhanettin Duran, \"Otizm bir eksiklik değil, toplumsal zenginliğimizin temelini oluşturan bir farklılıktır.\" ifadesini kullandı.",
-    "image": null,
-    "keyword": null
   }
 ]
