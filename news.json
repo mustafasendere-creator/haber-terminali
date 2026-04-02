@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a8031eb",
+    "title": "Ağaç budarken kolunu kesti; kurtarılamadı",
+    "source": "Habertürk",
+    "time": "02/04/2026 08:35",
+    "link": "https://www.haberturk.com/siirt-te-agac-budarken-kolunu-kesti-kurtarilamadi-3874153",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siirt Şirvan'da ağaç budarken kazara kolunu kesen yaşlı adam ağır yaralı olarak kaldırıldığı hastanede yaşamını yitirdi",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775082007/3874153/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b5f6c7fe",
     "title": "Endonezya açıklarında 7,4 büyüklüğünde deprem!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Güneydoğu Asya ülkesi Endonezya'da Maluku Denizi açıklarında 7,4 büyüklüğünde deprem meydana geldiği bildirildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341258.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_6114b272",
-    "title": "Trabzon’da Bugün Elektrik Kesintisi Alarmı! Saat Saat İlçe İlçe Büyük Liste Açıklandı",
-    "source": "Taka Gazetesi",
-    "time": "02/04/2026 07:53",
-    "link": "https://www.takagazete.com.tr/trabzonda-bugun-elektrik-kesintisi-alarmi-saat-saat-ilce-ilce-buyuk-liste-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da bugün elektrik kesintisi alarmı! Saat saat ilçe ilçe yayımlanan geniş kapsamlı listeye göre birçok mahallede uzun süreli kesintiler yaşanacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/01/trabzon-elektirk-kesintisi-2.jpeg",
     "keyword": null
   }
 ]
