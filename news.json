@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ca469ee5",
+    "title": "Bu köyde hiç araç yok: Çünkü karayolu yok",
+    "source": "10Haber",
+    "time": "02/04/2026 10:54",
+    "link": "https://10haber.net/gundem/bu-koyde-hic-arac-yok-cunku-karayolu-yok-691781/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsviçre Alpleri’nin kalbinde yer alan Mürren, modern dünyanın gürültüsünden uzak yaşamıyla dikkat çekiyor. Uçurum kenarına kurulu bu küçük dağ köyü, araç trafiğine tamamen kapalı yapısıyla ziyaretçilerine neredeyse unutulmuş bir huzur deneyimi sunuyor. Sabah saat 06.30’da, güneşin ilk ışıklarıyla birlikte köy adeta sessizliğe gömülüyor. Motor sesi, korna ya da şehir uğultusu yok. Bunun yerine çayırlardan gelen [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69ce1f61106f68.43627982.png",
+    "keyword": null
+  },
+  {
     "id": "GND_def09ce5",
     "title": "Polonya: ABD olmadan NATO olmaz, ama müttefikler olmadan da güçlü ABD olmaz",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Arsin ilçesinde kamyonetin çarptığı binek araç kullanılamaz hale geldi. Kazada yaralanan olmazken, olayla ilgili inceleme başlatıldı.",
     "image": "https://resim.haber61.net/news/610468.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_35525a0b",
-    "title": "Beşiktaş’ta El Bilal Toure seferberliği",
-    "source": "Evrensel",
-    "time": "02/04/2026 10:14",
-    "link": "https://www.evrensel.net/haber/5977856/besiktasta-el-bilal-toure-seferberligi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beşiktaş, Toure’yi hafta sonu oynanacak Fenerbahçe derbisine yetiştirmek için yoğun mesai harcıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340008.jpg",
-    "keyword": null
   }
 ]
