@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf99f615",
+    "title": "Sakarya'da ortalık savaş alanına döndü",
+    "source": "OdaTV",
+    "time": "02/04/2026 03:14",
+    "link": "https://www.odatv.com/guncel/sakaryada-ortalik-savas-alanina-dondu-120141703",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sakarya&#039;nın Adapazarı-Pamukova D-650 karayolu Geyve geçişinde 3 tırın karıştığı zincirleme trafik kazası meydana geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/sakaryada-ortalik-savas-alanina-dondu-7xwe.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b4970ee9",
     "title": "Tarihte bugün: 2 Nisan",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. KOVANCILAR SULH HUKUK MAHKEMESİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/71f1ceb1-4ade-4173-b6f6-70303d179b01.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_effa3fff",
-    "title": "Galatasaray MCT Technic, Dörtlü Final umudunu İstanbul'a bıraktı!",
-    "source": "Cumhuriyet",
-    "time": "02/04/2026 01:34",
-    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-mct-technic-dortlu-final-umudunu-istanbul-a-birakti-2491633",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray MCT Technic, FIBA Şampiyonlar Ligi çeyrek final ilk maçında deplasmanda karşılaştığı La Laguna Tenerife'ye 84-83 mağlup oldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0ce478d1-d2dd-4fc0-8fa2-a03fab1be4e5.jpg",
     "keyword": null
   }
 ]
