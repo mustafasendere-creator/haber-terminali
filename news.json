@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b37dc069",
+    "title": "Pakistan'da büyük deprem",
+    "source": "OdaTV",
+    "time": "03/04/2026 21:34",
+    "link": "https://www.odatv.com/guncel/pakistanda-buyuk-deprem-120141988",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Afganistan&#039;ın Hindu Kush bölgesi merkezli 6,3 büyüklüğünde deprem meydana geldi. Sarsıntı, Pakistan&#039;ın başkenti İslamabad dahil olmak üzere ülkenin birçok bölgesinde hissedildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/pakistanda-buyuk-deprem-sfj1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c6e49fbd",
     "title": "Trump: 'Hürmüz Boğazı'nı kolayca açabilir, petrolü alabilir ve servet kazanabiliriz'",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "NASA, Dünya&#039;nın uzaydan çekilmiş yeni görüntülerini yayımladı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/nasa-paylasti-dunyanin-yeni-fotografi-udj0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_49cddca8",
-    "title": "Sözcü TV'de yayın kesildi",
-    "source": "OdaTV",
-    "time": "03/04/2026 20:35",
-    "link": "https://www.odatv.com/guncel/sozcu-tvde-yayin-kesildi-120141985",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sözcü TV&#039;de yaşanan sistemsel sorun nedeniyle yayında aksaklıklar yaşanıyor. Kanaldan ve Yılmaz Özdil&#039;den açıklamalar var.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/sozcu-tvde-yayin-kesildi-e51u.jpg",
     "keyword": null
   }
 ]
