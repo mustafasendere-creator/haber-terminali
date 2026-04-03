@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_513aac23",
+    "title": "RTÜK'ten spor yayınlarına ilişkin yeni kararlar",
+    "source": "TRT Haber",
+    "time": "03/04/2026 12:35",
+    "link": "https://www.trthaber.com/haber/turkiye/rtukten-spor-yayinlarina-iliskin-yeni-kararlar-940236.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "RTÜK spor müsabakalarının yayınlarına ilişkin tarafsızlık, adil temsil ve evrensel spor değerlerine uygunluğu güçlendirmek amacıyla radyo, televizyon ve isteğe bağlı yayıncıları bağlayıcı nitelikte ilke kararları aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_58e3aff7",
     "title": "Pentagon'un Orta Doğu'daki askeri kayıplara ilişkin güncel verileri paylaşmadığı iddia edildi",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Ankara Cumhuriyet Başsavcılığınca, Gürcistan-Azerbaycan sınırında düşen C-130 tipi Türk askeri kargo uçağına yönelik yürütülen soruşturma kapsamında hazırlanan Jandarma kriminal raporunda, uçağa yönelik herhangi bir dış müdahale veya patlayıcı izine rastlanmadığı tespiti yer aldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/gurcistanda-dusen-turk-kargo-ucaginda-dis-mudahale-izine-rastlanmadi-ds6c.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_b30a8552",
-    "title": "Trabzonspor’un eski başkanının yatında yangın çıktı! 5 kişi hastaneye kaldırıldı",
-    "source": "Haber61",
-    "time": "03/04/2026 11:54",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-eski-baskaninin-yatinda-yangin-cikti-h628475.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un eski başkanı Sadir Şener’in Muğla’nın Bodrum ilçesinde bulunan motoryatında yangın çıktı. Söndürme esnasında dumandan etkilenen 5 kişi hastaneye sevk edildi",
-    "image": "https://resim.haber61.net/news/610663.jpg",
-    "keyword": "trabzon"
   }
 ]
