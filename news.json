@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83a53698",
+    "title": "ABD ve İran basını: İran'da bir ABD savaş uçağı düşürüldü",
+    "source": "BBC Türkçe",
+    "time": "03/04/2026 18:34",
+    "link": "https://www.bbc.com/turkce/articles/cp38lg4npkno",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İran basını, İran'da bir ABD savaş uçağının düşürüldüğünü aktarıyor. Uçağın F-15 tipi olduğu ve ABD ordusunun İran'da bir arama - kurtarma operasyonu başlattığı da gelen bilgiler arasında.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2410a50c",
     "title": "Bakan Memişoğlu, Fatih Sultan Mehmet Eğitim ve Araştırma Hastanesi şantiyesinde incelemelerde bulundu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Beşikdüzü’nde Çoruh EDAŞ’a ait olduğu belirtilen araçta yangın çıktı, ilk müdahale itfaiyeden önce beton mikseriyle yapıldı.",
     "image": "https://resim.haber61.net/news/610722.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_76cac5c5",
-    "title": "Başkan Genç ve Ekim Işıklar’da vatandaşlarla buluştu",
-    "source": "Haber61",
-    "time": "03/04/2026 17:53",
-    "link": "https://www.haber61.net/trabzon/baskan-genc-ve-ekim-isiklarda-vatandaslarla-bulustu-h628518.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç ile Akçaabat Belediye Başkanı Osman Nuri Ekim, Işıklar Mahallesi’nde esnaf ve vatandaşlarla bir araya gelerek talepleri yerinde dinledi.",
-    "image": "https://resim.haber61.net/news/610733.jpg",
     "keyword": null
   }
 ]
