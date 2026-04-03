@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_b4a77707",
+    "title": "Kim Anlatıyor (@Kimanlatiyor) / Posts / X - x.com",
+    "source": "X",
+    "time": "03/04/2026 03:14",
+    "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBNdVBZT01uUGI0TVg1NVhJeWRiM3VSWUtyZmd4clZGT1BpVnk4STd2Ulh3X19pcFhZNVhYNXQ4RQ",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "Kim Anlatıyor (@Kimanlatiyor) / Posts / X  x.com",
+    "image": null,
+    "keyword": "trabzon intihar"
+  },
+  {
     "id": "GND_06001f79",
     "title": "ABD savaş uçağı vuruldu",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Altın piyasasında sert dalgalanmalar sürerken Finans Analisti İslam Memiş’ten çarpıcı değerlendirme geldi. Düşüşlerin kalıcı olmadığını belirten Memiş, gram altın için 10 bin TL hedefini işaret etti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/islam-memisten-altin-icin-dikkat-ceken-tahmin-gram-altinda-10-bin-tl-hedefini-acikladi-avqa.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3a8e2f33",
-    "title": "İran Devrim Muhafızları Ordusu: \"ABD merkezli bulut bilişim şirketi Oracle hedef alındı\"",
-    "source": "Haber Global",
-    "time": "03/04/2026 01:14",
-    "link": "https://haberglobal.com/gundem/iran-devrim-muhafizlari-ordusu-abd-merkezli-bulut-bilisim-sirketi-oracle-hedef-alindi-516766",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları Ordusu (DMO), Stratejik Dış İlişkiler Konseyi Başkanı Kemal Harrazi ve eşine düzenlenen suikastın ardından, Arap Emirlikleri’nde (BAE) bulunan ABD merkezli bulut bilişim şirketi Oracle’ın hedef alındığını duyurdu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/iran-devrim-muhafizlari-ordusu-abd-merkezli-bulut-bilisim-sirketi-oracle-hedef-alindi-ovyx.jpg",
     "keyword": null
   }
 ]
