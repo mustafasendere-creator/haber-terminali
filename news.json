@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_54040490",
+    "title": "Küresel lojistikte güvenlik ve süreklilik öne çıkıyor",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 11:33",
+    "link": "https://www.aa.com.tr/tr/guncel/kuresel-lojistikte-guvenlik-ve-sureklilik-one-cikiyor/3890269",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Taşımacılık ve Lojistik Hizmet Üretenleri Derneği (UTİKAD) Başkanı Bilgehan Engin, ABD-İsrail ile İran arasındaki savaş nedeniyle küresel lojistikte belirgin bir zihniyet değişimi yaşandığını belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_ab6b3322",
     "title": "Savcılar Trabzon’da buluştu! Bilişim suçlarında ortak mücadele çağrısı",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Türkiye Off-Road Şampiyonası’nın Trabzon ayağı 10-12 Nisan’da düzenlenecek. Akçaabat’ta gerçekleştirilecek organizasyon üç gün sürecek.",
     "image": "https://resim.haber61.net/news/610644.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c05f5928",
-    "title": "'Polis' ve 'savcı' yalanıyla 2 milyon liralık vurgun!",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 10:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/polis-ve-savci-yalaniyla-2-milyon-liralik-vurgun-2492008",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli'de kendilerini polis ve savcı olarak tanıtarak bir kişiyi 2 milyon 5 bin TL dolandıran 3 şüpheli, jandarmanın 5 ay süren çalışması sonucu yakalandı. Şüphelilerin parayı kripto piyasasına aktararak altına çevirdikleri belirlendi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f12c930d-e522-4b18-b7ea-647b07c11238.jpg",
-    "keyword": null
   }
 ]
