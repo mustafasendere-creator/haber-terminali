@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf7205a1",
+    "title": "ABD medyası: Trump, İran saldırısı öncesi danışmanlarını yanılttı",
+    "source": "Evrensel",
+    "time": "03/04/2026 11:54",
+    "link": "https://www.evrensel.net/haber/5978029/abd-medyasi-trump-iran-saldirisi-oncesi-danismanlarini-yaniltti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD medyasına göre Trump, İran’a yönelik saldırı öncesi bilgi sızıntılarını engellemek için bazı danışmanlarına operasyonun ertelendiği yönünde yanıltıcı bilgi verdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341399.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fedbf0e7",
     "title": "Marmara Gölü yeniden su tutuyor, bölge halkı destek bekliyor",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kamu kurum ve kuruluşlarında çalışan personelin okul öncesi ve zorunlu eğitim kapsamında bulunan çocukları, personel servis araçlarından yararlandırılabilecek.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2271a7dd-346c-4ef5-88b5-4c8da6c27041.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_728a2ca2",
-    "title": "Cuma namazı öncesi Mescid-i Aksa'da son durum ne?",
-    "source": "Haber Global",
-    "time": "03/04/2026 11:15",
-    "link": "https://haberglobal.com/dunya/cuma-namazi-oncesi-mescid-i-aksada-son-durum-ne-516819",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in İran'a saldırıları bahane ederek getirdiği kısıtlamalarla birlikte tamamen kapatılan Mescid-i Aksa'da cuma namazı öncesi son durum ne?",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/cuma-namazi-oncesi-mescid-i-aksada-son-durum-ne-lucb.jpg",
     "keyword": null
   }
 ]
