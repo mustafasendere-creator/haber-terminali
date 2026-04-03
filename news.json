@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_00b7b6de",
+    "title": "19 kaçak göçmenin öldüğü bot faciasında 11 kişi gözaltına alındı",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 03:13",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/19-kacak-gocmenin-oldugu-bot-faciasinda-11-kisi-gozaltina-alindi-2491885",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bodrum açıklarında batan lastik bottaki 19 göçmen hayatını kaybetti, 20 kişi kurtarıldı. Soruşturma kapsamında 11 şüpheli gözaltına alınırken, 6 kişi aranıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d72f59a0-1758-4675-b111-1e4efbe4493b.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_15814622",
     "title": "Beşiktaş'tan derbinin hakemi Yasin Kol hakkında açıklama: 'Merakla bekliyoruz...'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Almanya’da yayımlanan Junge Welt gazetesinden Barbara Dersim, İbrahim Alizadeh ile ABD ve İsrail’in saldırıları, Kürt muhalefetindeki çeşitli yönelimler ve İran Kürdistan’ındaki komünistlerin stratejisi konulu bir söyleşi gerçekleştirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341317.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_134d5313",
-    "title": "TBB Başkanı Sağkan, AYM'nin Tayfun Kahraman kararını değerlendirdi: AYM kararının uygulanması zaruridir",
-    "source": "Evrensel",
-    "time": "03/04/2026 01:13",
-    "link": "https://www.evrensel.net/haber/5977985/tbb-baskani-sagkan-aymnin-tayfun-kahraman-kararini-degerlendirdi-aym-kararinin-uygulanmasi-zaruridir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBB Başkanı Erinç Sağkan, Anayasa Mahkemesi’nin Tayfun Kahraman hakkındaki hak ihlali kararına ilişkin, \"Kararın uygulanarak yeniden yargılama sürecinin başlatılması 'Anayasal Devlet' ilkesi bakımından zaruridir,\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/224464.jpg",
     "keyword": null
   }
 ]
