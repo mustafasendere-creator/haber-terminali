@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef0d9494",
+    "title": "Kuveyt'te petrol rafinerisine saldırı; yangın çıktı",
+    "source": "Haber Global",
+    "time": "03/04/2026 08:35",
+    "link": "https://haberglobal.com/dunya/kuveytte-petrol-rafinerisine-saldiri-yangin-cikti-516781",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Petrol Şirketi (KPC), El-Ahmedi Limanı’ndaki petrol rafinerisinin birçok operasyonel ünitesinde insansız hava aracı (İHA) saldırısı sonucu yangın çıktığını duyurdu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/kuveytte-petrol-rafinerisine-saldiri-yangin-cikti-gswn.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_0760127c",
     "title": "Trabzonspor'un derbi silahları belli oldu: 21 gol, 11 asist...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika... İBB Davası'nda bu sabah tahliyeler başladı...",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/595jpg-bx5jRwtDfESIKe0CCXFUHg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_59b8a34d",
-    "title": "Milli dönüşüm",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 07:34",
-    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/milli-donusum-2491938",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "KONUK YAZAR | Suavi Yardımoğlu, Cumhuriyet Ege için yazdı...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7962f321-3dde-403a-8118-898ecfa0d744.png",
     "keyword": null
   }
 ]
