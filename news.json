@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_306141ee",
+    "title": "İsrail'in Gazze'ye yönelik saldırıları İstanbul'da protesto edildi",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 16:33",
+    "link": "https://www.aa.com.tr/tr/guncel/israilin-gazzeye-yonelik-saldirilari-istanbulda-protesto-edildi/3890677",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyoğlu'nda Özgür-Der öncülüğünde bir araya gelen sivil toplum kuruluşlarının üyeleri, İsrail'in Gazze'ye yönelik saldırılarını, Mescid-i Aksa ablukasını ve Filistinli esirlere uygulanacak idam kararını protesto etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5b02d912",
     "title": "BM'ye göre Suriye’de bu yıl 15,6 milyon kişi insani yardıma ihtiyaç duyacak",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "İran devlet medyası Tasnim&#8217;in haberine göre İran üzerinde hava savunma tarafından düşürülen F-15E savaş uçağının pilotu fırlatma koltuğunu kullanarak atladı ve ülke sınırları içinde yere indi. Tasnim pilotun bulunarak gözaltına alındığını ve İran güvenlik güçleri tarafından tutulduğunu aktardı. Fırlatma koltuğu da İranlı yetkiler tarafından enkazın birkaç kilometre ötesinde bulundu. Tasnim&#8217;in haberinde &#8220;bu sabah İslam Devrim [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69cfb61d514fb7.97860015.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_ac1fead2",
-    "title": "Yurttaştan TÜİK'in enflasyon oranına tepki: Gerçek enflasyon yüzde 100'ün üzerinde",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 15:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/yurttastan-tuik-in-enflasyon-oranina-tepki-gercek-enflasyon-yuzde-100-un-uzerinde-2492080",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'da TÜİK'in açıkladığı enflasyon oranlarını değerlendiren bir yurttaş, \"Bu enflasyon gerçek enflasyon değil. Bunu halk da biliyor, vatandaş da biliyor. Gerçek enflasyon yüzde 100'ün üzerinde. Milletin alım gücü bitmiş, hiçbir şey kalmamış\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/63401611-7bef-4b86-a27f-22e875f25cbd.jpg",
-    "keyword": "trabzon"
   }
 ]
