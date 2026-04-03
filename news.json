@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ee1f0fa0",
+    "title": "Elektrik ve doğalgaza yüzde 25 zam",
+    "source": "Haber Global",
+    "time": "03/04/2026 22:14",
+    "link": "https://haberglobal.com/gundem/elektrik-ve-dogalgaza-yuzde-25-zam-516883",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), üretim ve dağıtım maliyetlerinde yaşanan artış nedeniyle elektrik ve doğalgaza yüzde 25 oranında artış yapıldığını duyurdu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/elektrik-ve-dogalgaza-yuzde-25-zam-4lhy.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bde3aaf1",
     "title": "'İmamoğlu suç örgütü davası' ile ilgili 'hakim özür diledi' iddialarına açıklama",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yaklaşık 3 aydır tutuklu bulunan Fenerbahçe kaptanı Mert Hakan Yandaş tahliye edildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341509.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_12bda2d6",
-    "title": "Ukrayna'nın Jıtomir bölgesi füze ve İHA saldırısının ardından sarsıldı",
-    "source": "Euronews",
-    "time": "03/04/2026 21:14",
-    "link": "http://tr.euronews.com/video/2026/04/03/ukraynanin-jitomir-bolgesi-fuze-ve-iha-saldirisinin-ardindan-sarsildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya'nın füze ve İHA saldırıları Ukrayna'nın Jitomir bölgesini vurdu; bir kişi öldü, 10 kişi yaralandı, çok sayıda ev ve kamu binası tamamen yıkıldı.",
-    "image": null,
     "keyword": null
   }
 ]
