@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_63153c16",
+    "title": "Meteoroloji açıkladı: 3 Nisan 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 07:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-3-nisan-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2491965",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü (MGM), 3 Nisan Cuma gününe ilişkin hava durumu raporunu yayımladı. Rapora göre  yurt genelinin parçalı, çok bulutlu ve aralıklı yağışlı geçeceği tahmin edilirken hava sıcaklığının  iç ve kuzey kesimlerde 3 ila 5 derece azalacağı, doğu kesimlerde 2 ila 4 derece artacağı belirtildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d2db2a5b-a446-438f-a250-12b114a1959f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_463cd103",
     "title": "Suudi Arabistan, Kuveyt ve Bahreyn’e yeni saldırılar",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AKP ve MHP’de teşkilatlarda kapsamlı değişim için düğmeye basılıyor. Partiler sahaya çıkacak seçim kadrosunu şekillendiriyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/dc854069-ad57-4f7f-bb11-6f627dfa7f83.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_76ac1608",
-    "title": "Edirne'de göçmen kaçakçılığı yapan kişi tutuklandı",
-    "source": "Haber Global",
-    "time": "03/04/2026 05:33",
-    "link": "https://haberglobal.com/gundem/edirnede-gocmen-kacakciligi-yapan-kisi-tutuklandi-516774",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Edirne Uzunköprü'de göçmen kaçakçılığı yaptığı iddiasıyla gözaltına alınan şüpheli tutuklandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/edirnede-gocmen-kacakciligi-yapan-kisi-tutuklandi-awtj.jpg",
     "keyword": null
   }
 ]
