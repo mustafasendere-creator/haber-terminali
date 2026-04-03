@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_38085385",
+    "title": "AB'de akaryakıt fiyatları yükselmeye devam ediyor",
+    "source": "TRT Haber",
+    "time": "03/04/2026 16:14",
+    "link": "https://www.trthaber.com/haber/dunya/abde-akaryakit-fiyatlari-yukselmeye-devam-ediyor-940268.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail ile İran arasındaki savaş nedeniyle yaşanan petrol arzındaki kesinti, Avrupa Birliği AB ülkelerinde özellikle dizel fiyatlarını son 1 ayda yüzde 30,2 artırdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_586befb0",
     "title": "İstanbul'da kentsel dönüşüm kredisi 3 milyon liraya çıkarıldı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail Lübnan'a saldırılarını sürdürüyor. Son durumu Haber Global ekibi bölgeden aktardı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/beyrutta-heron-hareketliligi-dl7n.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9c7dbf3f",
-    "title": "Dünya gıda fiyatları Mart'ta yüzde 2'nin üzerinde arttı",
-    "source": "Haber Global",
-    "time": "03/04/2026 15:34",
-    "link": "https://haberglobal.com/ekonomi/dunya-gida-fiyatlari-martta-yuzde-2nin-uzerinde-artti-516854",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünya gıda fiyatları ABD ile İsrail'in İran'a karşı başlattığı savaşın ardından Mart ayında artan enerji fiyatlarının etkisiyle yüzde 2.4 artarak son iki aylık yükselişi korudu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/dunya-gida-fiyatlari-martta-yuzde-2nin-uzerinde-artti-i7nf.jpg",
     "keyword": null
   }
 ]
