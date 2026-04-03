@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32a49661",
+    "title": "Pentagon: İran ile savaşta şu ana kadar 13 ABD askeri öldü, 365 asker yaralandı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 23:34",
+    "link": "https://www.trthaber.com/haber/dunya/pentagon-iran-ile-savasta-su-ana-kadar-13-abd-askeri-oldu-365-asker-yaralandi-940304.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Savunma Bakanlığı Pentagon, ABD ve İsrail'in 28 Şubat'ta İran'a saldırılarıyla başlayan savaşta bugüne kadar 13 ABD askerinin öldüğü, 365 ABD askerinin de yaralandığı bilgisini resmi olarak yayınladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_736ed20a",
     "title": "Bakan Fidan'dan barış diplomasisi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye Büyük Millet Meclisi bünyesindeki ilgili komisyon, dijital oyunlara yönelik yasal düzenlemeyi 2 Nisan 2026 tarihinde kabul etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/49e5aba8-c3b0-4c32-8a3c-5f2d10e17070.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_34453808",
-    "title": "Samsun Devlet Opera ve Balesi 'Cavalleria Rusticana' operasını sahneleyecek",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 22:14",
-    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/samsun-devlet-opera-ve-balesi-cavalleria-rusticana-operasini-sahneleyecek-2492196",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"Cavalleria Rusticana\" operası Samsun Devlet Opera ve Balesi tarafından sahnelenecek.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0617f93a-4336-4233-b1d0-9c52f9591030.jpg",
     "keyword": null
   }
 ]
