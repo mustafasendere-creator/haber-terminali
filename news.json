@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a8c93163",
+    "title": "KESK’ten enflasyon tepkisi: “TÜİK verileri gerçeği yansıtmıyor”",
+    "source": "Evrensel",
+    "time": "03/04/2026 16:54",
+    "link": "https://www.evrensel.net/haber/5978086/keskten-enflasyon-tepkisi-tuik-verileri-gercegi-yansitmiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "KESK, artan zamlar ve eriyen maaşlara dikkat çekerek TÜİK’in enflasyon verilerinin gerçek yaşam koşullarını yansıtmadığını, çalışanların açlık sınırına itildiğini açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/294827.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_baaf5d3d",
     "title": "EMEP ve DİSK Gıda-İş'ten ortak 1 Mayıs ve NATO mesajı: \"Yoksulluğa ve savaşa karşı alanlardayız\"",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bazı yiyecekler terinizin kokusunu değiştirebilir mi? Sarımsaktan meyveye, bilim beslenmeyle vücut kokusu arasındaki ilişki hakkında ne söylüyor?",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a2901e4d",
-    "title": "MHP Grup Başkanvekili Kılıç, seçim ve süreç tartışmalarına, Yönter'in istifasına dair neler söyledi?",
-    "source": "BBC Türkçe",
-    "time": "03/04/2026 16:13",
-    "link": "https://www.bbc.com/turkce/articles/c78lngq5qvzo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Grup Başkanvekili Filiz Kılıç, CHP Genel Başkanı Özgür Özel'in \"ara seçim\" çağrısının gündemlerinde olmadığını söyledi. Filiz Kılıç, \"Terörsüz Türkiye meselesi bizim birinci gündemimiz. Bunun üzerinde gece gündüz kafa yoruyoruz ve hızlandırılması hususunda Genel Başkanımız çok ciddi adımlar atıyor. Bizim önceliğimiz bu şimdi, seçim değil\" dedi. Ankara'dan Ayşe Sayın'ın haberi.",
     "image": null,
     "keyword": null
   }
