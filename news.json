@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cbecf7dd",
+    "title": "Yaşlı adam yalnız yaşadığı evde bıçaklanarak öldürüldü",
+    "source": "Haber Global",
+    "time": "03/04/2026 13:36",
+    "link": "https://haberglobal.com/gundem/yasli-adam-yalniz-yasadigi-evde-bicaklanarak-olduruldu-516844",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'da yakınlarının kendisinden 2 gündür haber alamadığı 75 yaşındaki adamın cansız bedeni, evinde bıçaklanmış halde bulundu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/yasli-adam-yalniz-yasadigi-evde-bicaklanarak-olduruldu-qkzm.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_ba54c94f",
     "title": "Galatasaray Maçı Öncesi Trabzonspor’dan Kritik Uyarı: Provokasyonlara Dikkat",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Muğla'nın Bodrum ilçesinde bir tersanede bakımda olan ve eski Trabzonspor Başkanı Sadri Şener'e ait olduğu belirtilen motoryat, çıkan yangında kullanılamaz hale geldi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9eafbfdf-eb59-4596-8f24-d3c005872e53.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_fcb86597",
-    "title": "Trabzonspor’un Efsanesinden Derbi Öncesi Flaş Sözler; “Sahaya İner Gol Atarım”-",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 12:55",
-    "link": "https://www.takagazete.com.tr/trabzonsporun-efsanesinden-derbi-oncesi-flas-sozler-sahaya-iner-gol-atarim",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un eski yıldızı Jaja, Galatasaray derbisi öncesi dikkat çeken açıklamalar yaptı. “Gol atamazlarsa sahaya iner atarım” sözleri gündem oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-7-150.jpg",
-    "keyword": "trabzon"
   }
 ]
