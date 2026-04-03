@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c9ca73e9",
+    "title": "İran ordusu: ABD’ye ait bir A10 uçağı, Hürmüz Boğazı çevresinde vuruldu ve uçak Fars (Basra) Körfezi’ne düştü",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 23:33",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-ordusu-abd-ye-ait-bir-a10-ucagi-hurmuz-bogazi-cevresinde-vuruldu-ve-ucak-fars-basra-korfezi-ne-dustu/3891053",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran ordusu, “ABD ve İsrail’e ait bir A10 uçağının Hürmüz Boğazı çevresinde hava savunma sistemleri tarafından hedef alındığını ve uçağın Fars (Basra) Körfezi’ne düştüğünü” açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6bb70bd2",
     "title": "Trump, İran tarafından savaş uçaklarının düşürülmesinin olası müzakereleri etkilemeyeceğini belirtti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ata Soyer Sağlık ve Politika Araştırmaları Derneği, 4-5 Nisan tarihlerinde \"İzmir İşçi Sağlığı Günleri\" düzenliyor. İki gün sürecek olan etkinliğe sendika ve siyasi parti temsilcileri ile konunun uzmanları katılacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341514.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_64591d06",
-    "title": "İçişleri Bakanı Mustafa Çiftçi'den talimat: Cumhurbaşkanlığının 'kart' verdiği gazetecilerden ek kimlik istenmeyecek",
-    "source": "Evrensel",
-    "time": "03/04/2026 22:14",
-    "link": "https://www.evrensel.net/haber/5978125/icisleri-bakani-mustafa-ciftciden-talimat-cumhurbaskanliginin-kart-verdigi-gazetecilerden-ek-kimlik-istenmeyecek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, Cumhurbaşkanlığı tarafından verilen basın kartını ibraz eden gazetecilerden artık ek kimlik talep edilmeyeceğini duyurdu. Karar, arama, yol kontrolü ve resmi işlemlerde geçerli olacak.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341516.jpg",
     "keyword": null
   }
 ]
