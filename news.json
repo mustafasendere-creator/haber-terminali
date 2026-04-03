@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c105e80b",
+    "title": "Artan yağışlar HES'lerde üretim rekoru getirdi",
+    "source": "TRT Haber",
+    "time": "03/04/2026 13:35",
+    "link": "https://www.trthaber.com/haber/ekonomi/artan-yagislar-heslerde-uretim-rekoru-getirdi-940234.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hidroelektrik santrallerde HES elektrik üretimi, artan yağışlar nedeniyle martta geçen yılın aynı ayına göre yüzde 96 artarak 10 milyon 571 bin megavatsaate yükseldi. Böylece martta hidroelektrik üretimi, son on yılın mart ayı ortalamasına göre yüzde 47 artış kaydetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_27fd51e9",
     "title": "Ameliyathanede başlayan aşk evlilikle taçlandı",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Konya'da yurttaşlar, artan hayat pahalılığı ve ekonomik darboğazdan dert yandı. Bir yurttaş, “Eskiden arkadaşlarla oturup sohbet edip çay içmek için birbirimizi çağırırdık. Şimdi neredeyse arkadaşlardan kaçıyoruz” dedi. Bir başka yurttaş ise \"Pazara gittiğimizde denize düşmüş gibi oluyoruz. Fiyatlar yüksek, alma şansımız yok\" ifadesini kullandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9bb7e942-de78-4732-bd37-94beb16711e8.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_a0ccf2e9",
-    "title": "Trabzon’da Off-Road Fırtınası: Adrenalin Dolu 3 Gün Başlıyor",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 12:55",
-    "link": "https://www.takagazete.com.tr/trabzonda-off-road-firtinasi-adrenalin-dolu-3-gun-basliyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon off-road şampiyonası için geri sayım başladı. 10-12 Nisan’da düzenlenecek yarışlar, şehri adrenalin merkezine çevirecek.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/trabzon-off-road.png",
-    "keyword": "trabzon"
   }
 ]
