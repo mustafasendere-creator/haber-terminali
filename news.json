@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_62a9b654",
+    "title": "Astronotlar uzayda ne yiyor?",
+    "source": "Ekonomim",
+    "time": "03/04/2026 08:14",
+    "link": "https://www.ekonomim.com/yasam/astronotlar-uzayda-ne-yiyor-haberi-885763",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Artemis II misyonuyla Ay&#039;ın etrafında tur atacak olan dört astronotun beslenme programı, NASA&#039;nın Johnson Uzay Merkezi tarafından detaylandırıldı. İkmal imkanı, buzdolabı veya son dakika yükleme kapasitesi bulunmayan Orion uzay aracında, her öğündeki menüler yüksek güvenlik ve raf ömrü kriterlerine göre seçildi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/astronotlar-uzayda-ne-yiyor-d6ns_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b9d8fcca",
     "title": "İlkay Gündoğan diplomasını aldı!",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Kağıthane'de bir alışveriş merkezinde çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_483c0eba",
-    "title": "Kritik aşama geçildi: Artemis, Ay'ın uzak tarafına yaklaşıyor",
-    "source": "TRT Haber",
-    "time": "03/04/2026 07:14",
-    "link": "https://www.trthaber.com/haber/dunya/kritik-asama-gecildi-artemis-ayin-uzak-tarafina-yaklasiyor-940170.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Artemis II misyonundaki dört astronot, Orion uzay aracının ana motorunu Ay'a doğru son bir itiş için ateşlemesinin ardından Dünya yörüngesinden ayrıldı. \"Ay'a geçiş ateşlemesi\" TLI olarak bilinen 5 dakika 55 saniyelik motor yakma işlemi başarıyla tamamlandı.",
     "image": null,
     "keyword": null
   }
