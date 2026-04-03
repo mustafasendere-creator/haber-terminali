@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_23fb57f3",
+    "title": "Elektrik ve doğal gaza yüzde 25 zam",
+    "source": "Euronews",
+    "time": "03/04/2026 23:13",
+    "link": "http://tr.euronews.com/business/2026/04/03/elektrik-ve-dogal-gaza-yuzde-25-zam",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni elektrik ve doğal gaz tarifelerinin 4 Nisan 2026 itibarıyla yürürlüğe gireceği belirtiliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6defde5c",
     "title": "Irak’ın Erbil kentinde etkili olan yağış hayatı olumsuz etkiledi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Fars Haber Ajansı, Tahran yönetiminin ABD'den gelen 48 saatlik ateşkes teklifini reddettiğini duyurdu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4accdc22",
-    "title": "Bedelli askerlik 417 bin TL’ye çıkarıldı, vicdani retçiye hâlâ alternatif yok: Meclis gündeminde",
-    "source": "Evrensel",
-    "time": "03/04/2026 21:54",
-    "link": "https://www.evrensel.net/haber/5978058/bedelli-askerlik-417-bin-tl-ye-cikarildi-vicdani-retciye-hala-alternatif-yok-meclis-gundeminde",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şırnak Milletvekili Nevroz Uysal Aslan, vicdani ret ve bedelli askerlik uygulamalarındaki eşitsizlikleri TBMM Başkanlığı’na yazılı soru önergesi ile taşıdı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341308.jpg",
     "keyword": null
   }
 ]
