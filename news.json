@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1ba591d0",
+    "title": "Edirne'de alarm: Tunca taştı",
+    "source": "OdaTV",
+    "time": "03/04/2026 21:55",
+    "link": "https://www.odatv.com/guncel/edirnede-alarm-tunca-tasti-120141989",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne’de, Bulgaristan’da etkili olan yağışların ardından Tunca Nehri’nin debisi yükseldi, taşkının etkili olmaya başladığı Sarayiçi bölgesi havadan görüntülendi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/edirnede-alarm-tunca-tasti-fffq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d0a911f4",
     "title": "Küresel otomotivde ticaret savaşı: Vergi duvarlarının yerini stratejik pazarlıklar alıyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bordo-mavili formayla bir dönem önemli başarılara imza atan tecrübeli golcü Umut Bulut, Trabzonspor’un yükselen performansını ve Paul Onuachu ile Victor Osimhen arasındaki rekabeti değerlendirdi.",
     "image": "https://resim.haber61.net/news/610743.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f2482b2c",
-    "title": "Erdoğan ile Putin telefonda konuştu",
-    "source": "OdaTV",
-    "time": "03/04/2026 20:55",
-    "link": "https://www.odatv.com/dunya/erdogan-ile-putin-telefonda-konustu-120141977",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Erdoğan, Rusya Devlet Başkanı Putin ile telefonda konuştu. Görüşmede, Türkiye-Rusya ikili ilişkileri ile bölgesel ve küresel konular ele alındı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/erdogan-ile-putin-telefonda-konustu-njsk.jpg",
     "keyword": null
   }
 ]
