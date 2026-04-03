@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce49654a",
+    "title": "Diyanet'ten kurumuna yönelik torpil iddialarına yanıt: ‘Din kurumunda torpil olmaması gerektiğini çok iyi biliyoruz'",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 08:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/diyanet-ten-kurumuna-yonelik-torpil-iddialarina-yanit-din-kurumunda-torpil-olmamasi-gerektigini-cok-iyi-biliyoruz-2491866",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyanet İşleri Başkanlığı yetkilileri, Türkiye Büyük Millet Meclisi’nde komisyon toplantısına katıldı. Başkan Yardımcısı Karaca, kurumuna yönelik torpil iddiaları için, “Din kurumunda torpil olmaması gerektiğini çok iyi biliyoruz” dedi, Cumhurbaşkanı Erdoğan’la yakınlığından örnek verdi. Diyanet Dış İlişkiler Genel Müdürü Ensari Yentürk ise, Müslüman çoğunluklu ülkelerde ne yaptıklarına ilişkin soruya, “Diğer kurumların kendi aralarında yaptığı gibi, muhatap olduğumuz kurum ve kuruluşlarla ilişkilerin geliştirilmesi bağlamında diplomatik bir görev icra ediyoruz. Örneğin İran’da din hizmeti sözkonusu değil” yanıtını verdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4ebb4c5d-7a10-40ed-91c4-e0487204bcb8.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4060c75a",
     "title": "Memur yoksulluğu kanıksadı, göğüs göğüse açlıkla çarpışıyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Savunma Bakanı Pete Hegseth, askeri personelin şahsi silahlarını üslerde taşımasını önleyen yasağı kaldırdı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/338142.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3ade2ac4",
-    "title": "Amerika İran’da sivil alt yapıyı vurmaya başladı",
-    "source": "10Haber",
-    "time": "03/04/2026 07:14",
-    "link": "https://10haber.net/dunya/amerika-iranda-sivil-alt-yapiyi-vurmaya-basladi-691964/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Trump&#8217;ın İran&#8217;ı &#8220;taş devrine geri döndürmekle&#8221; tehdit etmesinden bir gün sonra, ABD&#8217;li bir yetkilinin Amerikan saldırısı olduğunu söylediği bir hava saldırısı, İran haber kaynaklarına göre, önemli bir otoyol köprüsünün en azından kısmen çökmesine ve en az sekiz kişinin ölümüne neden oldu. İran&#8217;ın önde gelen bir kamu sağlığı kurumu da tahrip edildi, ancak sorumlunun kim [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/kopru.jpg",
     "keyword": null
   }
 ]
