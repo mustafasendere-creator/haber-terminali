@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_795048ee",
+    "title": "NYT: Hürmüz Boğazı yakınlarında ikinci ABD savaş uçağı düştü",
+    "source": "TRT Haber",
+    "time": "03/04/2026 23:34",
+    "link": "https://www.trthaber.com/haber/dunya/nyt-hurmuz-bogazi-yakinlarinda-ikinci-abd-savas-ucagi-dustu-940300.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "New York Times NYT gazetesi, bugün F15 savaş uçağıyla neredeyse aynı zamanda Hürmüz Boğazı yakınlarında ikinci ABD savaş uçağının daha düşürüldüğünü yazdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_32a49661",
     "title": "Pentagon: İran ile savaşta şu ana kadar 13 ABD askeri öldü, 365 asker yaralandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Rosinante filmi televizyon ekranlarında izleyicisiyle buluşmaya hazırlanıyor. Rosinante filminin konusu ve oyuncularının kimler olduğu merak ediliyor. Peki, Rosinante filminin konusu ne? Rosinante filminin oyuncuları kim? İşte ayrıntılar...",
     "image": "https://media.cumhuriyet.com.tr/Archive/a2853e24-562b-4999-95e2-fda38f4a5dc1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9c21618a",
-    "title": "Oyunlara yönelik kararları da içeren yasal düzenleme komisyondan geçti",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 22:14",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/oyunlara-yonelik-kararlari-da-iceren-yasal-duzenleme-komisyondan-gecti-2492195",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Büyük Millet Meclisi bünyesindeki ilgili komisyon, dijital oyunlara yönelik yasal düzenlemeyi 2 Nisan 2026 tarihinde kabul etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/49e5aba8-c3b0-4c32-8a3c-5f2d10e17070.jpg",
     "keyword": null
   }
 ]
