@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_51586a0e",
+    "title": "Trump: ABD ordusu, İran'da geriye kalanları yok etmeye henüz başlamadı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 09:15",
+    "link": "https://www.trthaber.com/haber/dunya/trump-abd-ordusu-iranda-geriye-kalanlari-yok-etmeye-henuz-baslamadi-940183.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, ABD ordusunun \"İran'da geriye kalanları yok etmeye henüz başlamadığını\" savunarak, sıradaki hedeflerinin \"köprüler ve elektrik santralleri\" olduğunu belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a7e85e88",
     "title": "Terör örgütleri DEAŞ ve El Kaide bağlantılı 3 kişinin Türkiye'deki mal varlıkları donduruldu",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Tarım ve Orman Bakanlığı Personel Genel Müdürü Seyfullah Arslantürk’ün Trabzon programı, kurum içi gelişmelerle ilgili iddiaları da beraberinde getirdi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/yorum3.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_6f23fa7c",
-    "title": "Filipinler'e Hürmüz Boğazı'nda güvenli geçiş vizesi",
-    "source": "TRT Haber",
-    "time": "03/04/2026 08:34",
-    "link": "https://www.trthaber.com/haber/dunya/filipinlere-hurmuz-bogazinda-guvenli-gecis-vizesi-940178.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filipinler hükümeti, gemilerinin Hürmüz Boğazı'ndan geçişine izin verileceğini duyurdu. Manila yönetiminin bir süredir İran ile yürüttüğü diplomatik temasların ardından gelen bu karar, bölgedeki deniz trafiğinin hareketlenmesi açısından kritik bir adım olarak değerlendiriliyor.",
-    "image": null,
-    "keyword": null
   }
 ]
