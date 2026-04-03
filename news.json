@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5293855",
+    "title": "Antalya'da itfaiye ekipleri yangında baygın buldukları kediyi kalp masajıyla hayata döndürdü",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 20:53",
+    "link": "https://www.aa.com.tr/tr/guncel/antalyada-itfaiye-ekipleri-yanginda-baygin-bulduklari-kediyi-kalp-masajiyla-hayata-dondurdu/3890892",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Muratpaşa ilçesinde itfaiye ekipleri, yangın çıkan evde baygın buldukları kediyi kalp masajı yaparak yaşama bağladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_48c38c8f",
     "title": "Bakan Bolat: Türkiye, barıştan yana duruşuyla küresel ölçekte güven veren bir ülke olmaya devam edecektir",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Antalya'nın Serik ilçesinde kontrolden çıkan ATV dere yatağına uçtu. Kazada 70 yaşındaki ATV sürücüsü yaşamını yitirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/antalyada-atv-dereye-uctu-70-yasindaki-kisi-yasamini-yitirdi-vtny.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_6a8840cb",
-    "title": "Ertuğrul Doğan’dan Galatasaray’a sert sözler; “Çok uyardık!”",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 19:55",
-    "link": "https://www.takagazete.com.tr/ertugrul-dogandan-galatasaraya-sert-sozler-cok-uyardik",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Başkanı Ertuğrul Doğan, Galatasaray’a yönelik açıklamalarıyla gündem oldu. Transfer süreçleri ve Uğurcan Çakır üzerinden dikkat çeken mesajlar verdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-9-131.jpg",
-    "keyword": "trabzon"
   }
 ]
