@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d3e83fe",
+    "title": "T.C. KOCAELİ 6. AİLE MAHKEMESİ",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 00:34",
+    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kocaeli-6-aile-mahkemesi-2492154",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "T.C. KOCAELİ 6. AİLE MAHKEMESİ",
+    "image": "https://media.cumhuriyet.com.tr/Archive/833de727-f43c-420a-a921-0810024b97d9.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4a236567",
     "title": "T.C. AKYAZI 3. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Amerikan NBC televizyonu, İran'da düşürülen F-15'i arama kurtarma çalışmalarına katılan 2 ABD helikopterinin vurulduğunu, mürettebatın sağ kurtulduğunu duyurdu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/332216.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c9ca73e9",
-    "title": "İran ordusu: ABD’ye ait bir A10 uçağı, Hürmüz Boğazı çevresinde vuruldu ve uçak Fars (Basra) Körfezi’ne düştü",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 23:33",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-ordusu-abd-ye-ait-bir-a10-ucagi-hurmuz-bogazi-cevresinde-vuruldu-ve-ucak-fars-basra-korfezi-ne-dustu/3891053",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran ordusu, “ABD ve İsrail’e ait bir A10 uçağının Hürmüz Boğazı çevresinde hava savunma sistemleri tarafından hedef alındığını ve uçağın Fars (Basra) Körfezi’ne düştüğünü” açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
