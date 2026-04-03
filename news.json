@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2264c447",
+    "title": "Sivas Zara’daki kömür ocağı için ÇED kararı iptal edildi: İş cinayeti ve çevre ihlalleriyle anılıyor",
+    "source": "Evrensel",
+    "time": "04/04/2026 00:14",
+    "link": "https://www.evrensel.net/haber/5978035/sivas-zara-daki-komur-ocagi-icin-ced-karari-iptal-edildi-is-cinayeti-ve-cevre-ihlalleriyle-aniliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İş cinayetiyle gündeme gelen kömür madeni projesinde mahkemeden dur kararı: Eksik ÇED raporu iptal edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341427.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e422fe15",
     "title": "Dışişleri Bakanı Fidan, İranlı ve Mısırlı mevkidaşları ile ABD'li yetkililerle telefonda görüştü",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "CNN TÜRK (@cnnturk) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon bakan"
-  },
-  {
-    "id": "GND_66db4de1",
-    "title": "İran: ABD'ye ait bir A10 uçağı Hürmüz Boğazı çevresinde vuruldu",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 22:53",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-abdye-ait-bir-a10-ucagi-hurmuz-bogazi-cevresinde-vuruldu/3891053",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran ordusundan yapılan açıklamada, ABD’ye ait bir A10 uçağı, Hürmüz Boğazı çevresinde vuruldu ve uçak Fars (Basra) Körfezi’ne düştüğünü bildirildi.",
-    "image": null,
-    "keyword": null
   }
 ]
