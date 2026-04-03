@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4d52778",
+    "title": "Gediz Nehri alarm veriyor: “Kirlilik artık yaşamı tehdit ediyor”",
+    "source": "Evrensel",
+    "time": "03/04/2026 16:33",
+    "link": "https://www.evrensel.net/haber/5978084/gediz-nehri-alarm-veriyor-kirlilik-artik-yasami-tehdit-ediyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa Büyükşehir Belediyesi ve Manisa Kent Konseyleri'nin ortaklaşa düzenlediği panelde, “Gediz Ölüyor Birlikte Durduralım” çağrısı yinelenerek, ortak mücadele vurgusu yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341451.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9d133970",
     "title": "Mobbing ve taciz iddiası: SİYAD verdiği ödülü geri çekti",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İskenderun’dan Irak’a yük taşıyan yüzlerce tır şoförü, artan maliyetlere rağmen düşürülen nakliye ücretlerine karşı kontak kapatarak direnişe geçti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341448.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_b4902673",
-    "title": "Süper Lig 28. Hafta Maçları Başlıyor: Derbiler Haftaya Damga Vuracak",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 15:54",
-    "link": "https://www.takagazete.com.tr/super-lig-28-hafta-maclari-basliyor-derbiler-haftaya-damga-vuracak",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trendyol Süper Lig 28. hafta heyecanı başlıyor. Trabzonspor Galatasaray ve Fenerbahçe Beşiktaş derbileri haftaya damga vuracak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-3-257.jpg",
     "keyword": null
   }
 ]
