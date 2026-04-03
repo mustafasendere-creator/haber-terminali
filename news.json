@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fedf5825",
+    "title": "Bakan Fidan'dan savaşı sonlandırmaya yönelik telefon diplomasisi",
+    "source": "TRT Haber",
+    "time": "03/04/2026 23:14",
+    "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-savasi-sonlandirmaya-yonelik-telefon-diplomasisi-940305.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Arakçi, Mısır Dışişleri Bakanı Bedir Abdulati ve Amerikalı yetkililer ile bugün telefon görüşmeleri gerçekleştirdi. Görüşmelerde, savaşın gidişatı ve savaşı durdurmaya yönelik çabalar ele alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_004c094b",
     "title": "Mustafa Bozbey dahil 57 kişi adliyeye sevk edildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Amazon Luna servisi üzerinden oyunseverlere ücretsiz oyunlar verilmeye devam ediliyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8b4c423f-17b8-4296-82ed-9e5523002f65.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ccf7a376",
-    "title": "WSJ: İran'da ateşkes için yapılan görüşmeler çıkmaza girdi",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 21:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/wsj-iran-da-ateskes-icin-yapilan-gorusmeler-cikmaza-girdi-2492194",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Wall Street Journal (WSJ) gazetesi, Pakistan öncülüğünde ABD ve İran arasında bir ateşkese ulaşılması için yapılan girişimlerin çıkmaza girdiğini yazdı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5cb670bf-3d57-4bc7-979b-64e435f177d5.jpg",
     "keyword": null
   }
 ]
