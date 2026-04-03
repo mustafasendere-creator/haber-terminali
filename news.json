@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1881a78e",
+    "title": "Kuveyt: Saldırı sonucu enerji ve su arıtma tesislerinden birinde maddi hasar oldu",
+    "source": "TRT Haber",
+    "time": "03/04/2026 11:35",
+    "link": "https://www.trthaber.com/haber/dunya/kuveyt-saldiri-sonucu-enerji-ve-su-aritma-tesislerinden-birinde-maddi-hasar-oldu-940210.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Elektrik ve Su Bakanlığı: İran saldırısı sonucu enerji ve su arıtma tesislerinden birinde maddi hasar meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3984311b",
     "title": "GürcistanAzerbaycan sınırında düşen C130'da dış müdahale izine rastlanmadı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Roma forması giyen Arjantinli yıldız Paulo Dybala için Fenerbahçe&#039;nin, yaptığı teklif ortaya çıktı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2024/12/22/romadan-galatasaraya-kotu-haber-paulo-dybala-costu-cdbb.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_40b1ebf7",
-    "title": "Galatasaray'da tüm gözler Icardi'de",
-    "source": "OdaTV",
-    "time": "03/04/2026 10:55",
-    "link": "https://www.odatv.com/spor/galatasarayda-tum-gozler-mauro-icardide-120141903",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray&#039;ın Arjantinli yıldızı Mauro Icardi, Trabzon&#039;da takımın gol silahı olacak.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/22/galatasarayda-icardi-karari-gelecegi-belli-oldu-iaxg.jpg",
     "keyword": null
   }
 ]
