@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_816c6f8f",
+    "title": "İşgalci İsrail ordusu Lübnan'ın güneyini hedef alan saldırılarını sürdürdü",
+    "source": "TRT Haber",
+    "time": "03/04/2026 10:14",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-lubnanin-guneyini-hedef-alan-saldirilarini-surdurdu-940193.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu Lübnan'ın güneyine hava ve kara saldırılarını sürdürürken, Hizbullah da İsrail'in kuzeyindeki yerleşimleri hedef aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f011eed8",
     "title": "Mart ayı enflasyonu açıklandı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Uluslararası STK'lar Avrupa Birliği'ne, İsrail ile Ortaklık Anlaşmasını kısmen askıya alma çağrısı yaptı. Müslüman ülkeler de Filistinlileri hedef aldığı belirtilen yasa nedeniyle İsrail'i sert bir dille eleştirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d72c970d",
-    "title": "İBB davasında ara karar: Tutuklu 18 sanığa tahliye",
-    "source": "DW Türkçe",
-    "time": "03/04/2026 09:34",
-    "link": "https://www.dw.com/tr/ibb-davasında-ara-karar-tutuklu-18-sanığa-tahliye/a-76649620",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Silivri'de görülen İBB davasının 15'inci oturumunda mahkeme 18 sanığın tahliyesine karar verdi. Duruşmada söz alan Ekrem İmamoğlu, heyete “Tarihin çok önemli bir konumundasınız” diyerek seslendi.",
     "image": null,
     "keyword": null
   }
