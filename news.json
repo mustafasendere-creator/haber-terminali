@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88bd1cfd",
+    "title": "İsrail'in, Suriye'de düzenlediği saldırıda bir sivil öldü",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 20:33",
+    "link": "https://www.aa.com.tr/tr/guncel/israilin-suriyede-duzenledigi-saldirida-bir-sivil-oldu/3890969",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, Suriye'nin güneyindeki Kuneytra ilinde tank ile yaptığı saldırıda bir sivil hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2baaff14",
     "title": "Yolsuzlukta hesap vakti! Bursa Büyükşehir Belediye Başkanı Bozbey ve 56 kişi adliyede",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Hukuki Araştırmalar Derneği Trabzon Şubesi’nden Baromuza Ziyaret Ayrıntılı bilgi web sitemizde trabzonbarosu.org.tr/Detay/hukuki-a…  x.com",
     "image": null,
     "keyword": "trabzon ziyaret"
-  },
-  {
-    "id": "GND_bc56dffc",
-    "title": "'F-35' vuruldu ABD ve İran peşine düştü",
-    "source": "OdaTV",
-    "time": "03/04/2026 18:54",
-    "link": "https://www.odatv.com/dunya/f-35-vuruldu-abd-ve-iran-pesine-dustu-120141949",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, ABD&#039;ye ait bir savaş uçağını düşürdü. Bunun ardından, ABD arama çalışması başlatırken İran ise uçağın pilotunun bulunması için para ödülü duyurdu. Öte yandan, İran medyasındaki haberlerde ise pilotun ele geçirildiği iddia edildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/f-35-vuruldu-abd-ve-iran-pesine-dustu-5gt7.jpg",
-    "keyword": null
   }
 ]
