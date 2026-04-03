@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_704cf994",
+    "title": "Son dakika... Marmaray'da intihar: Seferlerde gecikme yaşanıyor!",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 02:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-marmaray-da-intihar-seferlerde-gecikme-yasaniyor-2492131",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberi... Marmaray Göztepe durağında bir yurttaş intihar girişiminde bulundu. Marmaray'dan yapılan açıklamada seferlerde gecikmeler yaşandığı kaydedildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2201aa61-9ff0-43fc-b1b7-99bf75edbfe2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3f7502ec",
     "title": "İran’dan ABD’ye mesaj: Bu bölge bizim oyun alanımız",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son 10 yılda Türkiye’de yaşanan sel felaketleri, yalnız meteorolojik olaylar olmayıp iklim değişimi, plansız şehirleşme ve altyapı yetersizlikleriyle birleşerek ağır yıkımlara yol açtı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/271908.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_45c448c8",
-    "title": "Sel ve taşkınlar neden can alıyor?",
-    "source": "Evrensel",
-    "time": "04/04/2026 00:33",
-    "link": "https://www.evrensel.net/haber/5978095/sel-ve-taskinlar-neden-can-aliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Taşkın afeti insan aktivitelerinin bir sonucu olarak meydana gelmektedir. Dolayısıyla oluşan taşkınlarda insan etkisinin varlığı ve önemi de son derece dikkate alınması gereken bir durum olarak karşımıza çıkmaktadır.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340639.jpg",
     "keyword": null
   }
 ]
