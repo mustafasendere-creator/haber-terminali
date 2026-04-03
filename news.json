@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4eeb9208",
+    "title": "İran savaşı TÜİK enflasyonunu teğet geçti",
+    "source": "DW Türkçe",
+    "time": "03/04/2026 13:54",
+    "link": "https://www.dw.com/tr/iran-savaşı-tüik-enflasyonunu-teğet-geçti/a-76652906",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TÜİK verisine göre, İran savaşının Türkiye'de tüketici fiyatlarına etkisi sınırlı oldu. Ancak İTO ve ENAG rakamları farklı bir tablo çiziyor. Savaşın etkisiyle petrol fiyatı bir ayda 70 dolardan 120 dolara tırmandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7e594864",
     "title": "Müzeye siber saldırı: Mücevherler Merkez Bankası'na saklandı",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "A milli takımla birlikte Dünya Kupası'na katılma hakkı için Vedat Muriqi'ye karşı oynayan milli yıldızımız Arda Güler cumartesi günü tekrar karşı karşıya gelmeye hazırlanıyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/arda-guler-ve-vedat-muriqi-tekrar-karsi-karsiya-geliyor-otv8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_77b5db67",
-    "title": "Adli emanetten silah çalan katibe 21 yıla kadar hapis talebi",
-    "source": "Haber Global",
-    "time": "03/04/2026 13:14",
-    "link": "https://haberglobal.com/gundem/adli-emanetten-silah-calan-katibe-21-yila-kadar-hapis-talebi-516839",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Adalar Adliyesi’nde adli emanetten silah çaldığı iddia edilen zabıt katibi Utku Erkek hakkında yürütülen soruşturma tamamlandı. Erkek hakkında 6 yıl 3 aydan 21 yıla kadar hapis cezası istemiyle iddianame düzenlendi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/adli-emanetten-silah-calan-katibe-21-yila-kadar-hapis-talebi-ozgw.jpg",
     "keyword": null
   }
 ]
