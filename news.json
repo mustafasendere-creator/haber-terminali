@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41feb82f",
+    "title": "4 il için 'sarı' kodlu uyarı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 07:34",
+    "link": "https://www.trthaber.com/haber/turkiye/4-il-icin-sari-kodlu-uyari-940173.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji, 4 il için 'sarı' kodlu sağanak uyarısında bulundu. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli ve dikkatli olmaları istendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_21f70d7f",
     "title": "Meteoroloji il il uyardı: Gök gürültülü sağanak ve fırtına alarmı (İşte 3 Nisan 2026 hava durumu)",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": ".",
     "image": "https://media.cumhuriyet.com.tr/Archive/07b71e12-a035-49ab-8d0f-86e91b7eea94.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_06d859ca",
-    "title": "İstismar edilen kedinin tedavisi sürüyor",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 05:14",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istismar-edilen-kedinin-tedavisi-suruyor-2491958",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bir kediye yönelik istismar iddialarını içeren görüntüler sosyal medyada yayılmıştı. İstismar edilen kedinin tedavisi sürüyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d979d2f6-b5a1-4f1f-8feb-4b99302ad77b.jpg",
     "keyword": null
   }
 ]
