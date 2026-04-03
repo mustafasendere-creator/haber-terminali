@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa070e82",
+    "title": "Yalova'da seyir halindeki yolcu otobüsünde yangın",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 15:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/yalova-da-seyir-halindeki-yolcu-otobusunde-yangin-2492079",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yalova-Bursa kara yolunda seyir halindeki yolcu otobüsünün arka kısmında bulunan motor bölümünde yangın çıktı. Kısa sürede alevler büyüyerek otobüsü sardı. Otobüsteki 11 yolcu tahliye edilirken yangını bölgeye sevk edilen itfaiye ekipleri söndürdü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/40e0d705-b843-485e-a379-ff29e42f4dea.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ac1fead2",
     "title": "Yurttaştan TÜİK'in enflasyon oranına tepki: Gerçek enflasyon yüzde 100'ün üzerinde",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adana'da takibe alınıp durdurulan bir araçta yapılan aramada 825 kilo bonzai üretmeye yarayacak 8 kilo 250 gram bonzai ham maddesi ele geçirildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0815807f-d0b6-40fc-af42-59c9cc1174b7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7aae9087",
-    "title": "Çöl tozları Akdeniz'i yuttu... Türkiye'de 4 il kahverengiye büründü",
-    "source": "Haber Global",
-    "time": "03/04/2026 14:54",
-    "link": "https://haberglobal.com/gundem/col-tozlari-akdenizi-yuttu-turkiyede-4-il-kahverengiye-burundu-516849",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Girit Adası'nda gökyüzünü kızıla boyayan çöl tozları, Türkiye'de de etkili olmaya başladı. Adana, Hatay, Mersin ve Antalya kahverengiye büründü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/col-tozlari-akdenizi-yuttu-turkiyede-4-il-kahverengiye-burundu-mjek.jpg",
     "keyword": null
   }
 ]
