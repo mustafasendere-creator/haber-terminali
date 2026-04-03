@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_870c06ef",
+    "title": "Bursa ve Samsun'da adeta iş kazası 'mesaisi' yaşandı: İşçiler metrelerce yükseklikten düştü",
+    "source": "Evrensel",
+    "time": "03/04/2026 16:33",
+    "link": "https://www.evrensel.net/haber/5978074/bursa-ve-samsunda-adeta-is-kazasi-mesaisi-yasandi-isciler-metrelerce-yukseklikten-dustu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'da onardığı çatının çökmesi sonucu dört metre yükseklikten düşüp yaralanan 52 yaşındaki işçiyle birlikte bugün yaşanan iş kazası sayısı üçe çıktı. Üç işçi de yüksekten düşerek yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341441.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4a68296e",
     "title": "Çamköylüler keşif çalışmalarına tepkili: “Burası Limak'ın çiftliği değil”",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Can Bedel (@canbedell) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon sol"
-  },
-  {
-    "id": "TKP_098a7de4",
-    "title": "Trabzonspor Kadın Futbol Takımı’ndan Hakkarigücü karşısında 6 gollü galibiyet",
-    "source": "Haber61",
-    "time": "03/04/2026 15:54",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-kadin-futbol-takimindan-hakkarigucu-karsisinda-6-gollu-h628505.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Turkcell Kadın Futbol Süper Ligi’nin 23. haftasında Trabzonspor, Hakkarigücü’nü 6-0 mağlup etti. Bordo-mavililer, son 3 maçtaki beraberlik serisinin ardından farklı galibiyetle moral bulurken puanını 55’e yükselterek 3. sıradaki yerini korudu.",
-    "image": "https://resim.haber61.net/news/610715.jpg",
-    "keyword": "trabzon"
   }
 ]
