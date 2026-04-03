@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0199fb5a",
+    "title": "Türk Telekom, Cosea JL Bourg'a mağlup oldu: Seri 3. maça uzadı!",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 22:54",
+    "link": "https://www.cumhuriyet.com.tr/spor/turk-telekom-cosea-jl-bourg-a-maglup-oldu-seri-3-maca-uzadi-2492201",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk Telekom Basketbol Takımı, BKT Avrupa Kupası yarı final ikinci maçında evinde Fransa temsilcisi Cosea JL Bourg'a 76-73 mağlup oldu ve seriye 1-1 eşitlik geldi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/be937c80-095e-498d-a1f9-c18c3b1fa211.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_30b56f75",
     "title": "Boğaz'da gemi arızası: Trafik çift yönlü askıya alındı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trendyol Süper Lig'in 28. haftasında yarın Trabzonspor'a konuk olacak Galatasaray Futbol Takımı'nın kamp kadrosu belli oldu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_fbfef147",
-    "title": "Giresun’da asbest borular değişiyor, içme suyu hattı yenileniyor",
-    "source": "Haber61",
-    "time": "03/04/2026 21:53",
-    "link": "https://www.haber61.net/giresun/giresunda-asbest-borular-degisiyor-icme-suyu-hatti-yenileniyor-h628512.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Giresun Belediyesi, şehir altyapısını güçlendirmek ve vatandaşlara daha sağlıklı içme suyu ulaştırmak için asbest boruları polietilen borularla değiştirmeye başladı.",
-    "image": "https://resim.haber61.net/news/610727.jpg",
     "keyword": null
   }
 ]
