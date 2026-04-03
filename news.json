@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_757f78c6",
+    "title": "TÜİK mart ayı enflasyonunu açıklayacak, beklentiler neler?",
+    "source": "BBC Türkçe",
+    "time": "03/04/2026 05:13",
+    "link": "https://www.bbc.com/turkce/articles/cvg049zp7peo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye İstatistik Kurumu (TÜİK) mart ayı enflasyon verilerini bugün açıklayacak. \nOrtadoğu'da bir aydan uzun süredir devam eden savaşın, başta enerji fiyatları olmak üzere, küresel ekonomiye etkileri nedeniyle enflasyon Türkiye'de yakından takip ediliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_31c1359b",
     "title": "SGK kanunları doğru uyguluyor mu? (2)",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Stratejik Dış İlişkiler Konseyi Başkanı Kemal Harazi ve eşine saldırıya yanıt olarak Birleşik Arap Emirlikleri'ndeki (BAE) Amerikan şirketi Oracle'ın veri merkezi ve bilişim altyapılarının hedef alındığı bildirildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341239.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f1ce8d8b",
-    "title": "Dilek Kaya İmamoğlu: Tüm arkadaşlarımız tamamen özgür kalana kadar bir adım bile geri atmayacağız",
-    "source": "Evrensel",
-    "time": "03/04/2026 02:13",
-    "link": "https://www.evrensel.net/haber/5977993/dilek-kaya-imamoglu-tum-arkadaslarimiz-tamamen-ozgur-kalana-kadar-bir-adim-bile-geri-atmayacagiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklu İBB Başkanı Ekrem İmamoğlu'nun eşi Dilek Kaya İmamoğlu, İBB Davası'nda 18 kişinin tahliye edilmesinin ardından yaptığı açıklamada; “Haksızlığa uğrayan tüm arkadaşlarımız tamamen özgür kalana kadar bir adım bile geri atmayacağız\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341369.jpg",
     "keyword": null
   }
 ]
