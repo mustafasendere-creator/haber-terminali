@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_463cd103",
+    "title": "Suudi Arabistan, Kuveyt ve Bahreyn’e yeni saldırılar",
+    "source": "Haber Global",
+    "time": "03/04/2026 07:34",
+    "link": "https://haberglobal.com/dunya/suudi-arabistan-kuveyt-ve-bahreyne-yeni-saldirilar-516779",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan, Kuveyt ve Bahreyn yeni füze ve insansız hava aracı (İHA) saldırılarına uğradıklarını açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/suudi-arabistan-kuveyt-ve-bahreyne-yeni-saldirilar-bzhh.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5e0db7ff",
     "title": "7 aylık bebek, bebek arabasında vurularak öldürüldü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Edirne Uzunköprü'de göçmen kaçakçılığı yaptığı iddiasıyla gözaltına alınan şüpheli tutuklandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/edirnede-gocmen-kacakciligi-yapan-kisi-tutuklandi-awtj.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8bc25e7f",
-    "title": "Balıkesir'de 3 büyüklüğünde deprem! AFAD detayları duyurdu",
-    "source": "Haber Global",
-    "time": "03/04/2026 05:33",
-    "link": "https://haberglobal.com/gundem/balikesirde-3-buyuklugunde-deprem-afad-detaylari-duyurdu-516773",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Balıkesir'in Sındırgı ilçesi merkezli saat 04.56'da 3 büyüklüğünde deprem meydana geldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/balikesirde-3-buyuklugunde-deprem-afad-detaylari-duyurdu-9too.jpg",
     "keyword": null
   }
 ]
