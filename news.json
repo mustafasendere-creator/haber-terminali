@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_adaac46b",
+    "title": "Kamu personeli, öğrenci çocuğuyla servis aracına binebilecek",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 11:16",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kamu-personeli-ogrenci-cocuguyla-servis-aracina-binebilecek-2492011",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kamu kurum ve kuruluşlarında çalışan personelin okul öncesi ve zorunlu eğitim kapsamında bulunan çocukları, personel servis araçlarından yararlandırılabilecek.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2271a7dd-346c-4ef5-88b5-4c8da6c27041.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_728a2ca2",
     "title": "Cuma namazı öncesi Mescid-i Aksa'da son durum ne?",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Serbest Güreş A Milli Takımı ile 23 Yaş Altı Güreş Milli Takımı, katılacakları turnuvalar için hazırlıklarını Kastamonu'da gerçekleştiriyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_45976f7c",
-    "title": "İran Kızılayı'na ait yardım deposu ABD-İsrail saldırısına uğradı",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 10:53",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-kizilayina-ait-yardim-deposu-abd-israil-saldirisina-ugradi-/3890192",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail'in, İran'ın güneyindeki Buşehr eyaletinde İran Kızılayı'na ait yardımların depolandığı tesise saldırı düzenlediği bildirildi.",
     "image": null,
     "keyword": null
   }
