@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_56470158",
+    "title": "İşgalci İsrail ordusu, Lübnan'ın güneyinde evlerin yıkılmasına ilişkin planı sunacak",
+    "source": "TRT Haber",
+    "time": "03/04/2026 11:15",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-lubnanin-guneyinde-evlerin-yikilmasina-iliskin-plani-sunacak-940207.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, Lübnan'ın güneyinde işgali genişletmek için sınır bölgesinde bulunan köy ve beldelerdeki evlerin yıkılmasına ilişkin planı Tel Aviv yönetimine sunacağı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ac8d7e09",
     "title": "İstanbul'da baraj doluluk oranı yüzde 67,83",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Borsa İstanbul’un enflasyon verisi ve küresel gerilimler kıskacındaki seyrini değerlendiren Dr. Sevgen, iç piyasada 20 bin puanlık yıl sonu hedefini yineledi. Küresel tarafta ise ABD Başkanı Donald Trump’ın hamlelerini ve Japon Yeni üzerindeki baskıları &#039;tehlikeli bir süreç&#039; olarak nitelendiren Dr. Sevgen, yatırımcıları hafta sonu risklerine karşı uyardı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/dr-nuri-sevgenden-kritik-piyasa-analizi-borsada-20-bin-hedefi-korunuyor-mu-vho6_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_a0cc0031",
-    "title": "İstanbul’da online satış tuzağı: 10 şüpheli dolandırıcılıktan gözaltında",
-    "source": "Ekonomim",
-    "time": "03/04/2026 10:35",
-    "link": "https://www.ekonomim.com/gundem/istanbulda-online-satis-tuzagi-10-supheli-dolandiriciliktan-gozaltinda-haberi-885816",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul&#039;da alım-satım uygulamaları üzerinden anlaştıkları kişilerin güvenini kazanarak dolandırıcılık yapan 10 şüpheli gözaltına alındı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/internetten-silah-satisina-16-ilde-35-gozalti-piwc_cover.jpg",
     "keyword": null
   }
 ]
