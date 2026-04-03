@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3b9f49f5",
+    "title": "Balıkesir'de sağanak toprak kaymasına neden oldu",
+    "source": "TRT Haber",
+    "time": "03/04/2026 07:54",
+    "link": "https://www.trthaber.com/haber/turkiye/balikesirde-saganak-toprak-kaymasina-neden-oldu-940175.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir'in Edremit ilçesinde etkili olan aşırı yağışlar, toprak kaymasına neden oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_272d5db2",
     "title": "Yasak kalktı: ABD askerleri, üste şahsi silah taşıyabilecek",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Soner Yalçın yazdı...",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/elromdan-kizildereye-anti-emperyalist-mucadeleyi-sulandirma-operasyonu-usyn.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4f273a5c",
-    "title": "Çizgilik - 3 Nisan 2026",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 06:14",
-    "link": "https://www.cumhuriyet.com.tr/cizerler/cizgilik-3-nisan-2026-2491960",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": ".",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7225b470-5061-413a-86a8-8009edd2caab.jpg",
     "keyword": null
   }
 ]
