@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_045582a6",
+    "title": "Türkiye ve dünya gündemi",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 09:14",
+    "link": "https://www.aa.com.tr/tr/guncel/turkiye-ve-dunya-gundemi/3890065",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye ve dünya gündemi, lider programları, etkinlikler ile bir bakışta bugünün gündemi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_ea4b0446",
     "title": "DAHA NE OLSUN!",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avrupa’nın daha az bilinen çikolata şehirleri bu Paskalya’da ilgi odağı oluyor; Torino, Perugia ve York kıtanın en tatlı durakları arasında gösteriliyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ab484459",
-    "title": "Can Holding yönetim kurulu başkanı Kemal Can tahliye edildi",
-    "source": "10Haber",
-    "time": "03/04/2026 08:34",
-    "link": "https://10haber.net/gundem/can-holding-yonetim-kurulu-baskani-kemal-can-tahliye-edildi-691990/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayyım atanan Can Holding&#8217;in eski Yönetim Kurulu Başkanı Kemal Can hakkında “suç örgütü” ve “kara para aklama” suçlamalarıyla tutuklandığı dosyada ev hapsi şartıyla tahliye kararı verildi. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen Can Holding soruşturması kapsamında Mehmet Remzi Sanver, Mehmet Kenan Tekdağ, Mehmet Sıddık Kaya, Emin Şahin, Nuh Zafer Metin, Serap Özgür, Abdulselam Yıldız, Tuncay Şahin, [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69cf4438852a67.78088936.jpg",
     "keyword": null
   }
 ]
