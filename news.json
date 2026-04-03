@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02fe2ee7",
+    "title": "Türkiye tatilinden döndü, Almanya’da fatura şoku yaşadı",
+    "source": "10Haber",
+    "time": "03/04/2026 13:53",
+    "link": "https://10haber.net/gundem/turkiye-tatilinden-dondu-almanyada-fatura-soku-yasadi-692113/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye&#8217;deki tatili süresince sadece eşiyle kısa görüşmeler yaptığını düşünen yaşlı kadın mobil verisinin açık kalması ve arka planda çalışan uygulamaların kontrolsüz veri tüketimi nedeniyle dijital bir tuzağın kurbanı oldu.&#160; Bu olay Avrupa Birliği (AB) dışındaki ülkelerde roaming (dolaşım) ücretlerinin ulaştığı baş döndürücü rakamları ve dikkatsiz kullanımın bedelini bir kez daha gözler önüne serdi. Artı33&#8217;te yer [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69cf9bc5ca4cf2.49672181.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_10dafa12",
     "title": "Savaşta bir ilk: Hürmüz Boğazı’ndan Avrupa gemisi geçti",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Hindistan'ın, Hürmüz Boğazı'nın fiilen kapatılması sonucu Körfez'de mahsur kalan milyonlarca varil petrolü nedeniyle ortaya çıkan açığı tazmin etmek amacıyla yeniden Rus petrolüne yöneldiği belirtildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1b6bef3c",
-    "title": "Bahreyn son 24 saatte İran'dan atılan 16 İHA'nın engellendiğini duyurdu",
-    "source": "TRT Haber",
-    "time": "03/04/2026 13:14",
-    "link": "https://www.trthaber.com/haber/dunya/bahreyn-son-24-saatte-irandan-atilan-16-ihanin-engellendigini-duyurdu-940243.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bahreyn, son 24 saatte İran'dan atılan 16 insansız hava aracının İHA hava savunma sistemlerince etkisiz hale getirildiğini duyurdu.",
     "image": null,
     "keyword": null
   }
