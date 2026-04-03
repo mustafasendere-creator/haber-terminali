@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c05f5928",
+    "title": "'Polis' ve 'savcı' yalanıyla 2 milyon liralık vurgun!",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 10:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/polis-ve-savci-yalaniyla-2-milyon-liralik-vurgun-2492008",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tunceli'de kendilerini polis ve savcı olarak tanıtarak bir kişiyi 2 milyon 5 bin TL dolandıran 3 şüpheli, jandarmanın 5 ay süren çalışması sonucu yakalandı. Şüphelilerin parayı kripto piyasasına aktararak altına çevirdikleri belirlendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f12c930d-e522-4b18-b7ea-647b07c11238.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_bd6b3460",
     "title": "Azerbaycan heyeti Trabzon’da: sağlık turizminde 3 önemli adım",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "22 yıllık kablo şirketi Baran Kablo konkordato başvurusunda bulundu. Mahkeme 90 günlük geçici mühlet kararı verirken süreç resmen başladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/1903692.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_40f68b7a",
-    "title": "İran'da Tahran yakınındaki köprüye saldırı: En az 8 sivil öldü",
-    "source": "Euronews",
-    "time": "03/04/2026 10:14",
-    "link": "http://tr.euronews.com/video/2026/04/03/iranda-tahran-yakinindaki-kopruye-saldiri-en-az-8-sivil-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran, Elburz eyaletinde yapımı süren B1 köprüsüne yönelik saldırıda, Doğa Günü kutlaması sırasında en az sekiz kişinin öldüğünü, 95 kişinin yaralandığını bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
