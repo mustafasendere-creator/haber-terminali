@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6c753868",
+    "title": "Rus savaş uçağı eğitim uçuşu sırasında düştü",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 14:34",
+    "link": "https://www.cumhuriyet.com.tr/dunya/rus-savas-ucagi-egitim-ucusu-sirasinda-dustu-2492062",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya’ya ait bir savaş uçağı, Kırım’da planlı bir eğitim uçuşu sırasında düştü. İlk belirlemelere göre kazada can kaybı yaşanmadı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9b220be0-5327-4e97-a879-44f6bf33a5ba.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_3b856816",
     "title": "İçişleri Bakanlığı Müşaviri Hatice Atan'dan anlamlı ziyaret",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MTSO Tekstil Konfeksiyon ve Ayakkabı Sanayi Komitesi Meclis Üyesi Salihcan Sağlam, Hürmüz Boğazı çevresinde yaşanan gerilimin navlun ve hammadde maliyetlerini artırdığını, buna rağmen Avrupalı alıcıların tedarik güvenliği nedeniyle siparişlerini Türkiye’ye yaklaştırdığını söyledi. Sağlam, zor bir dönemden geçen hazır giyim ve konfeksiyon sektörü için bu sürecin doğru okunması halinde yeni sipariş, yeni pazar ve yeni üretim kapasitesi anlamına gelebileceğini belirtti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/hurmuz-gerilimi-maliyeti-artirdi-siparisi-turkiyeye-yaklastirdi-j9hh_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1cfbecf3",
-    "title": "Kırım'da Rus \"Su-30\" tipi savaş uçağı düştü",
-    "source": "Ekonomim",
-    "time": "03/04/2026 13:37",
-    "link": "https://www.ekonomim.com/dunya/kirimda-rus-su-30-tipi-savas-ucagi-dustu-haberi-885869",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Savunma Bakanlığı, Kırım&#039;da &quot;Su-30&quot; tipi savaş uçağının eğitim uçuşu sırasında düştüğünü bildirdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/kirimda-rus-su-30-tipi-savas-ucagi-dustu-wmum_cover.jpg",
     "keyword": null
   }
 ]
