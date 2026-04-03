@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8b1af976",
+    "title": "İranın İsraile yönelik füze saldırısında yaralananlar oldu",
+    "source": "TRT Haber",
+    "time": "03/04/2026 04:33",
+    "link": "https://www.trthaber.com/haber/dunya/iranin-israile-yonelik-fuze-saldirisinda-yaralananlar-oldu-940161.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İrandan fırlatılan füzelerin ardından İsrailin orta kesimindeki çok sayıda noktada hasar meydana geldi ve yaralananlar oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b8126eb1",
     "title": "Çocuklara sosyal medya yasağı teklifi Komisyon'dan geçti",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. ANKARA 10. AĞIR CEZA MAHKEMESİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/71f1ceb1-4ade-4173-b6f6-70303d179b01.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5f1cd2c2",
-    "title": "ESKİŞEHİR BÜYÜKŞEHİR BELEDİYE BŞK.",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 01:54",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/eskisehir-buyuksehir-belediye-bsk-2491780",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ESKİŞEHİR BÜYÜKŞEHİR BELEDİYE BŞK.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c84f8772-f2f6-4137-b93a-83cc22047d87.jpg",
     "keyword": null
   }
 ]
