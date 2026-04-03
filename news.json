@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6defde5c",
+    "title": "Irak’ın Erbil kentinde etkili olan yağış hayatı olumsuz etkiledi",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 23:13",
+    "link": "https://www.aa.com.tr/tr/guncel/irak-in-erbil-kentinde-etkili-olan-yagis-hayati-olumsuz-etkiledi/3891101",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak’ın Erbil kentinde etkili olan sağanak yağış, hayatı olumsuz etkiledi. Kentin birçok noktasında yollar su altında kalırken, bazı araçlar suda mahsur kaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_91c9ee98",
     "title": "ABD Başkanı Trump: İran tarafından savaş uçaklarının düşürülmesi Tahran yönetimiyle olası müzakereleri etkilemeyecek",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şırnak Milletvekili Nevroz Uysal Aslan, vicdani ret ve bedelli askerlik uygulamalarındaki eşitsizlikleri TBMM Başkanlığı’na yazılı soru önergesi ile taşıdı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341308.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_d9865e25",
-    "title": "Trabzon’da kentsel dönüşüme “mobilya şehri” önerisi",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 21:54",
-    "link": "https://www.takagazete.com.tr/trabzonda-kentsel-donusume-mobilya-sehri-onerisi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "MOBİAD Başkanı Cem Çapkınoğlu, Trabzon’daki kentsel dönüşüm projelerinde sadece konut değil ticari alanların da planlanması gerektiğini belirterek “Mobilya Şehri” projesinin hayata geçirilmesini istedi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/k-o-n-u-t-7.jpg",
     "keyword": null
   }
 ]
