@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4bd169f0",
+    "title": "Ölüme meydan okuyan mucize: Kurşun",
+    "source": "OdaTV",
+    "time": "03/04/2026 18:15",
+    "link": "https://www.odatv.com/guncel/zonguldakta-vurulan-kopek-sagligina-kavustu-120141971",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zonguldak’ta bir aracın içinden açılan ateşle ağır yaralanan ve vücudundan 4 kurşun çıkan 14 yıllık mahalle sakini köpek, yaşama tutunma azmiyle herkese ders verdi. 2,5 aylık ölüm kalım savaşını kazanan köpeğe mahalleli Kurşun adını verdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/zonguldakta-vurulan-kopek-sagligina-kavustu-hiti.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_830fd256",
     "title": "ABD savunma sanayisinde Patriot üretimi üç katına çıkıyor",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek ile Türkiye Cumhuriyet Merkez Bankası Başkanı Fatih Karahan, Londra’da yatırımcılarla gerçekleştirdikleri görüşmelerde ekonomi politikalarına ilişkin mesajlar verdi. Katılımcılar, olası adımlar arasında faiz artışının da değerlendirilebileceği izlenimini edindi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/ac78bc87-ed45-4f2a-a997-c0cbc68ada8d.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_ccaa328c",
-    "title": "Trabzonspor Galatasaray Maçı Öncesi Avantajlı mı: Galatasaray Maçı Dönüm Noktası Olabilir",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 17:34",
-    "link": "https://www.takagazete.com.tr/trabzonspor-galatasaray-maci-oncesi-avantajli-mi-galatasaray-maci-donum-noktasi-olabilir",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Galatasaray maçı öncesi avantajlı görünüyor. Bordo-mavililer sahaya seyirci desteği ve inançla çıkacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-8-143.jpg",
-    "keyword": "trabzon"
   }
 ]
