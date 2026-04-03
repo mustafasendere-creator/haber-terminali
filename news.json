@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_39320b88",
+    "title": "BAEnin Habşan gaz tesislerine saldırı: 1 kişi öldü, tesislerde ciddi hasar oluştu",
+    "source": "TRT Haber",
+    "time": "03/04/2026 21:34",
+    "link": "https://www.trthaber.com/haber/dunya/baenin-habsan-gaz-tesislerine-saldiri-1-kisi-oldu-tesislerde-ciddi-hasar-olustu-940295.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirliklerinin BAE başkenti Abu Dabide bulunan Habşan gaz tesislerine düzenlenen saldırıda 1 kişi öldü, çıkan yangınlar nedeniyle tesislerde ciddi hasar oluştu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_32ffb2df",
     "title": "İran devlet televizyonu: Düşürülen ABD uçağının pilotunu sağ ele geçirene ödül verilecek",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Başkanı Ertuğrul Doğan, Nhaga transferi sonrası Galatasaray ile ilişkilerin askıya alındığını açıkladı. Sürece sert tepki gösterdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-7-151.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d11efb7b",
-    "title": "Gaziantep’te 4 yaşındaki Asiye Ateş’e pitbull saldırısı davasında karar",
-    "source": "Haber Global",
-    "time": "03/04/2026 20:34",
-    "link": "https://haberglobal.com/gundem/gaziantepte-4-yasindaki-asiye-atese-pitbull-saldirisi-davasinda-karar-516882",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gaziantep’te 4 yaşındaki Asiye Ateş’in iki pitbull cinsi köpeğin saldırısına uğramasına ilişkin davada yeni bir gelişme yaşandı. 5 sanık hakkında 6 yıl, 1 sanık hakkında 2 yıl 6 ay hapis cezası verildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/gaziantepte-4-yasindaki-asiye-atese-pitbull-saldirisi-davasinda-karar-le5t.jpg",
-    "keyword": null
   }
 ]
