@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7423aab9",
+    "title": "MGM'den toz taşınımı uyarısı: Yarın öğle saatlerine kadar sürecek",
+    "source": "TRT Haber",
+    "time": "03/04/2026 15:34",
+    "link": "https://www.trthaber.com/haber/turkiye/mgmden-toz-tasinimi-uyarisi-yarin-ogle-saatlerine-kadar-surecek-940261.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü MGM, yurdun güney kesimlerinde etkili olan Kuzey Afrika kaynaklı toz taşınımının yarın öğle saatlerine kadar devam edeceği uyarısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c1c54cdf",
     "title": "BAE'nin başkenti Abu Dabi'ye yönelik saldırılarda 12 kişi yaralandı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Aylık enflasyon gelişmelerinde taze meyve ve sebze ile işlenmiş gıda kalemindeki fiyat artışlarının zayıflamasının, gıda fiyatları üzerinde olumlu etkileri görülürken, yıllık temel mal enflasyonunda da iyileşme sürmektedir\" değerlendirmesinde bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d3dc5adf",
-    "title": "YDS pazar günü 20 farklı dilde yapılacak",
-    "source": "TRT Haber",
-    "time": "03/04/2026 14:54",
-    "link": "https://www.trthaber.com/haber/egitim/yds-pazar-gunu-20-farkli-dilde-yapilacak-940251.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ölçme, Seçme ve Yerleştirme Merkezi ÖSYM Başkanlığınca düzenlenen Yabancı Dil Bilgisi Seviye Tespit Sınavı 2026YDS/1 5 Nisan Pazar günü yapılacak.",
     "image": null,
     "keyword": null
   }
