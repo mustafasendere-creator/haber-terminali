@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da7534f0",
+    "title": "Adalet Bakanı Akın Gürlek duyurdu: Sosyal medyaya kimlikle giriş dönemi başlıyor",
+    "source": "Euronews",
+    "time": "03/04/2026 19:54",
+    "link": "http://tr.euronews.com/next/2026/04/03/adalet-bakani-akin-gurlek-duyurdu-sosyal-medyaya-kimlikle-giris-donemi-basliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bakan Akın Gürlek, cuma günü yaptığı açıklamada, sosyal medya platformlarının kimlik bilgileriyle giriş şartını kabul ettiklerini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_31152ad7",
     "title": "Ronaldo ve Messi, LEGO Dünya Kupası reklamında yeniden bir araya geldi",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Galatasaray'ın, Trabzonspor maçı için Trabzon'a gelecek olan kafilesi belli oldu.",
     "image": "https://resim.haber61.net/news/610735.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_77832d50",
-    "title": "Yüksekovaspor-Fenerbahçe maçındaki gerginlikte konuk ekip teknik direktörü yaralandı",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 18:33",
-    "link": "https://www.aa.com.tr/tr/guncel/yuksekovaspor-fenerbahce-macindaki-gerginlikte-konuk-ekip-teknik-direktoru-yaralandi/3890793",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Turkcell Kadın Futbol Süper Ligi'nin 24. haftasında Yüksekovaspor ile Fenerbahçe arsaVev arasında oynanan maçta yaşanan gerginlik sonrası konuk ekibin teknik direktör Gökhan Bozkaya, tribünden atılan yabancı maddeyle yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
