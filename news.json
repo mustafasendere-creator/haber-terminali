@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_587db8a0",
+    "title": "Boğaz'da gemi trafiği durdu",
+    "source": "OdaTV",
+    "time": "03/04/2026 23:14",
+    "link": "https://www.odatv.com/guncel/bogazda-gemi-trafigi-durdu-120141992",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Boğazı&#039;nda kuzey-güney geçişi yapmakta olan Barbados bandıralı &quot;TRACKHOUND&quot; isimli geminin İstinye açıklarında makine arızası yapması üzerine gemi trafiği çift yönlü olarak askıya alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/bogazda-gemi-trafigi-durdu-pxai.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_964649e2",
     "title": "Sahra tozu Türkiye'yi vurdu",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun, Gazze Şeridi'nin kuzeyindeki Cibaliya Mülteci Kampında insansız hava aracıyla (İHA) düzenlediği saldırıda, biri ağır olmak üzere 6 Filistinli yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_50c707f8",
-    "title": "NYT: Bugün F-15 savaş uçağıyla aynı anlarda, Hürmüz Boğazı yakınlarında ikinci bir ABD savaş uçağı daha düşürüldü",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 22:13",
-    "link": "https://www.aa.com.tr/tr/guncel/nyt-bugun-f-15-savas-ucagiyla-ayni-anlarda-hurmuz-bogazi-yakinlarinda-ikinci-bir-abd-savas-ucagi-daha-dusuruldu/3891053",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "New York Times: Bugün F-15 savaş uçağıyla aynı anlarda, Hürmüz Boğazı yakınlarında ikinci bir ABD savaş uçağı daha düşürüldüğü bildirildi.",
     "image": null,
     "keyword": null
   }
