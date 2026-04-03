@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e0dd74f2",
+    "title": "Hafta sonu yurt genelinde yağışlı hava etkisini sürdürecek",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 17:33",
+    "link": "https://www.aa.com.tr/tr/guncel/hafta-sonu-yurt-genelinde-yagisli-hava-etkisini-surdurecek/3890728",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hafta sonu yurt genelinde yağışlı hava etkili olacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f6b5722f",
     "title": "MHP lideri Bahçeli: Süper güç Türkiye’yi inşa etme gayretindeyiz",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "TFF Başkanı İbrahim Hacıosmanoğlu, Trabzon Günleri kapsamında Ankara’da düzenlenecek programda Türk futbolunun geleceğini ve milli takımın başarı hikâyesini anlatacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-5-186.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3f1769dc",
-    "title": "ABD'de tarım dışı istihdam beklentileri aştı",
-    "source": "Haber Global",
-    "time": "03/04/2026 16:34",
-    "link": "https://haberglobal.com/ekonomi/abdde-tarim-disi-istihdam-beklentileri-asti-516860",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Piyasaların beklediği ABD tarım dışı istihdam rakamı mart ayında 178 bin artarak piyasaların 65 binlik beklentilerin çok üstüne çıktı. ABD'de işsizlik oranı ise yüzde 4,3 oldu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/abdde-tarim-disi-istihdam-beklentileri-asti-jbfq.jpg",
-    "keyword": null
   }
 ]
