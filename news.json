@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_06001f79",
+    "title": "ABD savaş uçağı vuruldu",
+    "source": "OdaTV",
+    "time": "03/04/2026 03:14",
+    "link": "https://www.odatv.com/guncel/abd-savas-ucagi-vuruldu-120141866",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusu, İran&#039;ın Kiş Adası açıklarında ABD’ye ait bir savaş uçağının hava savunma sistemi tarafından imha edildiğini açıkladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/abd-savas-ucagi-vuruldu-nsbi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1da05db6",
     "title": "Yabancının anlayıp, yerlinin anlamadığı mesele",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Devrim Muhafızları Ordusu (DMO), Stratejik Dış İlişkiler Konseyi Başkanı Kemal Harrazi ve eşine düzenlenen suikastın ardından, Arap Emirlikleri’nde (BAE) bulunan ABD merkezli bulut bilişim şirketi Oracle’ın hedef alındığını duyurdu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/iran-devrim-muhafizlari-ordusu-abd-merkezli-bulut-bilisim-sirketi-oracle-hedef-alindi-ovyx.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c347eb13",
-    "title": "İmamoğlu Suç Örgütü davasında 'ara karar' açıklandı",
-    "source": "TRT Haber",
-    "time": "03/04/2026 01:14",
-    "link": "https://www.trthaber.com/haber/gundem/imamoglu-suc-orgutu-davasinda-ara-karar-aciklandi-940155.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ekrem İmamoğlu Çıkar Amaçlı Suç Örgütü davasında ara karar açıklandı. 18 sanık hakkında yurt dışı çıkış yasağı şeklinde adli kontrol tedbiriyle tahliye kararı verildi. 89 sanığın tutukluluğunun devamına karar verildi.",
-    "image": null,
     "keyword": null
   }
 ]
