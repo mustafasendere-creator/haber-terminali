@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dbf53394",
+    "title": "Beyrut’ta Heron hareketliliği",
+    "source": "Haber Global",
+    "time": "03/04/2026 15:34",
+    "link": "https://haberglobal.com/dunya/beyrutta-heron-hareketliligi-516829",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Lübnan'a saldırılarını sürdürüyor. Son durumu Haber Global ekibi bölgeden aktardı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/beyrutta-heron-hareketliligi-dl7n.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9c7dbf3f",
     "title": "Dünya gıda fiyatları Mart'ta yüzde 2'nin üzerinde arttı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Fenerbahçe Spor Kulübü, Kadınlar Süper Ligi'nde Yüksekova Spor ile oynanan maçta FB TV’nin canlı yayın aracı ve ekipmanlarına saldırı gerçekleştiğini açıkladı. Fenerbahçe ArsaVev Teknik Direktörü Gökhan Bozkaya, tribünden atılan cisim nedeniyle yaralandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/fbtvye-saldiri-kulupten-aciklama-insallah-buradan-sag-salim-cikariz-3tni.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_47adf32e",
-    "title": "Sudenaz Ömür için Trabzon Üniversitesi’nden başsağlığı mesajı",
-    "source": "Haber61",
-    "time": "03/04/2026 14:54",
-    "link": "https://www.haber61.net/trabzon/sudenaz-omur-icin-trabzon-universitesinden-bassagligi-mesaji-h628500.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Üniversitesi öğrencisi 21 yaşındaki Sudenaz Ömür’ün vefat haberi üniversiteyi yasa boğdu. Genç öğrencinin kalp krizi sonucu hayatını kaybetti.",
-    "image": "https://resim.haber61.net/news/610706.jpg",
-    "keyword": "trabzon"
   }
 ]
