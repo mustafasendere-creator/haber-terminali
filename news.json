@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9adfdd6f",
+    "title": "Hürmüz Boğazı'ndan savaştan bu yana ilk kez bir Japon tankeri geçti",
+    "source": "Ekonomim",
+    "time": "03/04/2026 20:14",
+    "link": "https://www.ekonomim.com/dunya/hurmuz-bogazindan-savastan-bu-yana-ilk-kez-bir-japon-tankeri-gecti-haberi-885935",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Orta Doğu&#039;daki krizin başlangıcından bu yana Japonya&#039;ya ait bir LNG tankeri ilk kez Hürmüz Boğazı&#039;ndan geçti.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/hurmuz-bogazinda-sivil-iskelelere-saldiri-5-yarali-0ijv_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fe550d9d",
     "title": "Ümit Özdağ: Hızla yayılan uyuşturucu kullanımı ve bağımlılık yaşı çocuklarımızı tehdit ediyor",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mehr Haber Ajansı, düşürülen savaş uçağının pilotunu arama çalışmasına katılan ABD helikopterinin vurulduğunu iddia etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/42940231-a37f-4906-85ea-f98743407266.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_423693a2",
-    "title": "Rekabet Kurumu'ndan Google'a soruşturma",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 18:54",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/rekabet-kurumu-ndan-google-a-sorusturma-2492159",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rekabet Kurumu, Google'a reklam faturalandırma farklılıkları için soruşturma başlattı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f12d05b1-30d0-481c-be18-eea99b748243.jpg",
     "keyword": null
   }
 ]
