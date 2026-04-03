@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6cb4a0b5",
+    "title": "Pezeşkiyan: Trump'ın İran'ı taş devrine göndereceğiz tehdidi kapsamlı savaş suçudur",
+    "source": "TRT Haber",
+    "time": "03/04/2026 18:35",
+    "link": "https://www.trthaber.com/haber/dunya/pezeskiyan-trumpin-irani-tas-devrine-gonderecegiz-tehdidi-kapsamli-savas-sucudur-940271.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD Başkanı Donald Trump'ın \"İran'ı taş devrine göndereceğiz\" şeklindeki tehditlerinin \"kapsamlı bir savaş suçu\" anlamına geldiğini söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0cd22db2",
     "title": "İran: UAEA'nın nükleer tesislere saldırılara sessizliği ABD ve İsrail ile işbirliğidir",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Kulübü, Galatasaray ile oynanacak maç öncesi hazırlıklarını tamamladı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/jfjkndsnjkfsjkndf.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_0dfd5bbd",
-    "title": "Adana’da ‘şark köşesi’ saltanatından milyonluk kamu zararı çıktı",
-    "source": "Evrensel",
-    "time": "03/04/2026 17:55",
-    "link": "https://www.evrensel.net/haber/5978067/adana-da-sark-kosesi-saltanatindan-milyonluk-kamu-zarari-cikti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adana’da okuldaki “şark köşesi” soruşturmasında, milyonlarca liralık kamu zararı ortaya çıktı. Yöneticilikten alınan okul müdürü A.Y. ise bir süre sonra yeniden merkez ilçede görevlendirildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341435.jpg",
-    "keyword": null
   }
 ]
