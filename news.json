@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3d42a1ed",
+    "title": "CHP lideri Özel’den Kütahya mitingine çağrı",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 01:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/chp-lideri-ozel-den-kutahya-mitingine-cagri-2492206",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Genel Başkanı Özgür Özel, 4 Nisan Cumartesi günü Kütahya’da düzenlenecek mitinge katılım çağrısı yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d9214507-24e0-4d85-97a5-039cf7fe84d5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b20abf61",
     "title": "Kocaeli'de gece kulubüne saldırı soruşturması: Tutuklu sayısı 8’e yükseldi",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor taraftarı, Galatasaray kafilesinin konaklayacağı otel civarına pankartlar astı. \"Trabzon unutmaz hain olanı.\"  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_fd5e5919",
-    "title": "Sahte bungalov ilanıyla 3 milyarlık vurgun",
-    "source": "OdaTV",
-    "time": "03/04/2026 23:54",
-    "link": "https://www.odatv.com/guncel/sahte-bungalov-ilaniyla-3-milyarlik-vurgun-120141999",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş merkezli düzenlenen operasyonda sahte bungalov ilanı ile 3 milyar liralık vurgun yapan şebeke çökertildi, 21 kişi gözaltına alındı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/sahte-bungalov-ilaniyla-3-milyarlik-vurgun-vqck.jpg",
-    "keyword": null
   }
 ]
