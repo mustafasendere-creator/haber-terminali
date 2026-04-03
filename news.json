@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f011eed8",
+    "title": "Mart ayı enflasyonu açıklandı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 10:14",
+    "link": "https://www.trthaber.com/haber/ekonomi/mart-ayi-enflasyonu-aciklandi-940194.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tüketici Fiyat Endeksi TÜFE, martta aylık bazda yüzde 1,94, yıllık bazda yüzde 30,87 oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9d0f178c",
     "title": "Dünyanın yeni rotası Orta Koridor'da Türkiye'nin rolü ne?",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Silivri'de görülen İBB davasının 15'inci oturumunda mahkeme 18 sanığın tahliyesine karar verdi. Duruşmada söz alan Ekrem İmamoğlu, heyete “Tarihin çok önemli bir konumundasınız” diyerek seslendi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_98e00e08",
-    "title": "Küresel Lojistik Krizi Kapıda: Araç Fiyatlarında Yeni Zam Sinyali",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 09:34",
-    "link": "https://www.takagazete.com.tr/kuresel-lojistik-krizi-kapida-arac-fiyatlarinda-yeni-zam-sinyali",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Küresel lojistik hattında yaşanan tıkanma, otomobil piyasasında yeni bir zam dalgasının habercisi olabilir. Petrol ve taşımacılık maliyetleri artarken sektör alarm veriyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/1903645.jpg",
     "keyword": null
   }
 ]
