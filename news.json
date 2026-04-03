@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_50c707f8",
+    "title": "NYT: Bugün F-15 savaş uçağıyla aynı anlarda, Hürmüz Boğazı yakınlarında ikinci bir ABD savaş uçağı daha düşürüldü",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 22:13",
+    "link": "https://www.aa.com.tr/tr/guncel/nyt-bugun-f-15-savas-ucagiyla-ayni-anlarda-hurmuz-bogazi-yakinlarinda-ikinci-bir-abd-savas-ucagi-daha-dusuruldu/3891053",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "New York Times: Bugün F-15 savaş uçağıyla aynı anlarda, Hürmüz Boğazı yakınlarında ikinci bir ABD savaş uçağı daha düşürüldüğü bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1ba591d0",
     "title": "Edirne'de alarm: Tunca taştı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ordu Büyükşehir Belediyesi zabıta ekipleri, Fatsa Otobüs Terminali’ne sağlıksız koşullarda gönderilen 200 kilo kaçak ete el koydu.",
     "image": "https://resim.haber61.net/news/610730.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_f64cf155",
-    "title": "Trabzon’un eski golcüsü Umut Bulut’tan Onuachu analizi: \"Galatasaray’ı zorlayacak en iyi futbolcu\"",
-    "source": "Haber61",
-    "time": "03/04/2026 21:13",
-    "link": "https://www.haber61.net/trabzonspor/trabzonun-eski-golcusu-umut-buluttan-onuachu-analizi-galatasarayi-h628525.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bordo-mavili formayla bir dönem önemli başarılara imza atan tecrübeli golcü Umut Bulut, Trabzonspor’un yükselen performansını ve Paul Onuachu ile Victor Osimhen arasındaki rekabeti değerlendirdi.",
-    "image": "https://resim.haber61.net/news/610743.jpg",
     "keyword": null
   }
 ]
