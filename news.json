@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_46ab2e6e",
+    "title": "Kuveyt Petrol Şirketi: Petrol rafinerisinde İHA saldırısı sonucu yangın çıktı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 08:14",
+    "link": "https://www.trthaber.com/haber/dunya/kuveyt-petrol-sirketi-petrol-rafinerisinde-iha-saldirisi-sonucu-yangin-cikti-940176.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Petrol Şirketi: ElAhmedi Limanındaki petrol rafinerisinin birçok operasyonel ünitesinde İHA saldırısı sonucu yangın çıktı",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e7f4a126",
     "title": "İstanbul dahil 38 ilde yağış bekleniyor: Dördüne sarı kodlu uyarı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran savaşının olası bir tırmanışına ve petrol kıtlığı endişelerine tepki gösteren tüccarların etkisiyle, acil teslimatlı ham petrol fiyatları 2008&#8217;den bu yana en yüksek seviyesine ulaştı. S&#38;P Global araştırma grubuna göre, Kuzey Denizi&#8217;nde alınıp satılan sevkiyatların fiyatı olan Dated Brent, Perşembe günü varil başına 141,36 dolara yükseldi; bir gün önce bu fiyat 128,46 dolardı. Financial Times’ın [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/Ekran-Resmi-2026-04-03-06.59.18.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_18e67df1",
-    "title": "Bugün Benzin Motorin LPG Fiyatları Ne Kadar Oldu? Güncel Liste Açıklandı!",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 07:13",
-    "link": "https://www.takagazete.com.tr/bugun-benzin-motorin-lpg-fiyatlari-ne-kadar-oldu-guncel-liste-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bugün akaryakıt fiyatları ne kadar oldu, 03.04.2026 benzin motorin LPG fiyatları kaç TL, Trabzon’da akaryakıt fiyatları ne durumda, İstanbul Ankara İzmir’de benzin ve motorin kaç para, LPG fiyatları neden arttı gibi soruların yanıtı sürücüler tarafından yoğun şekilde araştırılıyor ve şehir şehir güncel fiyat listesi merak ediliyor.",
-    "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/01/pompa-benzin.gif",
     "keyword": null
   }
 ]
