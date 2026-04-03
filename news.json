@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef989a4c",
+    "title": "Trump yönetiminde tasfiye süreci: Kritik isimler görevden ayrılıyor",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 11:16",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-yonetiminde-tasfiye-sureci-kritik-isimler-gorevden-ayriliyor-2492009",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Kara Kuvvetleri Komutanı’nın ani emekliliği ve Adalet Bakanı’nın görevden alınmasıyla üst düzey kadrolarda dikkat çeken değişimlere imza attı; Washington’da “tasfiye” iddiaları gündeme gelirken, sıradaki ismin Tulsi Gabbard olup olmayacağı tartışılıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f3ee4d56-1c30-4c3a-a567-a82b047a9651.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_adaac46b",
     "title": "Kamu personeli, öğrenci çocuğuyla servis aracına binebilecek",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Lider Galatasaray, Trendyol Süper Lig'in 28. haftasında yarın Trabzonspor ile deplasmanda karşılaşacak.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_98671c8c",
-    "title": "Güreşte milli takımlar, Avrupa ve dünya şampiyonalarına Kastamonu'da hazırlanıyor",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 10:53",
-    "link": "https://www.aa.com.tr/tr/guncel/gureste-milli-takimlar-avrupa-ve-dunya-sampiyonalarina-kastamonuda-hazirlaniyor/3890189",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Serbest Güreş A Milli Takımı ile 23 Yaş Altı Güreş Milli Takımı, katılacakları turnuvalar için hazırlıklarını Kastamonu'da gerçekleştiriyor.",
-    "image": null,
-    "keyword": null
   }
 ]
