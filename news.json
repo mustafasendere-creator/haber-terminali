@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1acb6fb0",
+    "title": "LGS tarihinde Dünya Kupası değişikliği",
+    "source": "Evrensel",
+    "time": "03/04/2026 13:14",
+    "link": "https://www.evrensel.net/haber/5978047/lgs-tarihinde-dunya-kupasi-degisikligi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MEB, LGS kapsamındaki merkezi sınavın, Dünya Kupası'ndaki milli maç sebebiyle 13 Haziran Cumartesi gününe alındığını bildirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341418.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9de7aada",
     "title": "Belediye-İş İzmir 2 No’lu Şube: İşçilerin hayatı yöneticilerin politikalarına feda edilemez",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Artan akaryakıt fiyatları lojistik maliyetlerini de yukarı çekiyor. Antalya Yaş Sebze ve Meyve Komisyoncular Derneği Başkanı, “Antalya’dan domatesi bedava alsanız dahi İstanbul’a kilogram giriş maliyeti 18-20 lirayı buluyor” dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/212052.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f39e8be5",
-    "title": "Trump, patentli ilaçlara yüzde 100'e varan gümrük vergileri getirdi",
-    "source": "Euronews",
-    "time": "03/04/2026 12:34",
-    "link": "http://tr.euronews.com/business/2026/04/03/trump-patentli-ilaclara-yuzde-100e-varan-gumruk-vergileri-getirdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AB, Japonya, Kore ve İsviçre’deki şirketler, ABD ile yürürlükte olan ticaret anlaşmaları sayesinde daha düşük ve sınırlandırılmış gümrük vergileriyle karşılaşıyor.",
-    "image": null,
     "keyword": null
   }
 ]
