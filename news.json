@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e0972054",
+    "title": "İran'dan İsrail'e yeni füze dalgası: Trump'tan İran'a 'geride kalanları yok etmeye başlamadık' uyarısı",
+    "source": "Euronews",
+    "time": "03/04/2026 12:34",
+    "link": "http://tr.euronews.com/2026/04/03/irandan-israile-yeni-fuze-dalgasi-trumptan-irana-geride-kalanlari-yok-etmeye-baslamadik-uy",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, cuma günü İran'dan yeni bir füze dalgası atıldığını ve hava savunma sistemlerinin bunları önlemek için devreye girdiğini bildirdi. İlk belirlemelere göre can kaybı yaşanmadı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_77209361",
     "title": "Fransız gemisi, İran savaşında Batı Avrupa'dan ilk Hürmüz geçişini yaptı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor Galatasaray derbisi öncesi bilet satışları yavaşladı. Yüksek fiyatlar nedeniyle kapalı gişe ihtimali tartışma konusu oldu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-6-183.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cf7205a1",
-    "title": "ABD medyası: Trump, İran saldırısı öncesi danışmanlarını yanılttı",
-    "source": "Evrensel",
-    "time": "03/04/2026 11:54",
-    "link": "https://www.evrensel.net/haber/5978029/abd-medyasi-trump-iran-saldirisi-oncesi-danismanlarini-yaniltti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD medyasına göre Trump, İran’a yönelik saldırı öncesi bilgi sızıntılarını engellemek için bazı danışmanlarına operasyonun ertelendiği yönünde yanıltıcı bilgi verdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341399.jpg",
     "keyword": null
   }
 ]
