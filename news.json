@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a7e85e88",
+    "title": "Terör örgütleri DEAŞ ve El Kaide bağlantılı 3 kişinin Türkiye'deki mal varlıkları donduruldu",
+    "source": "TRT Haber",
+    "time": "03/04/2026 09:14",
+    "link": "https://www.trthaber.com/haber/gundem/teror-orgutleri-deas-ve-el-kaide-baglantili-3-kisinin-turkiyedeki-mal-varliklari-donduruldu-940184.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler Güvenlik Konseyi BMGK kararı doğrultusunda, \"DEAŞ ve El Kaide ile Bağlantılı Gerçek Kişiler\" kısmına ekleme yapıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_22a713ea",
     "title": "AK Parti Trabzon Danışma Meclisi’ne Bakan Bayraktar Katılacak",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Filipinler hükümeti, gemilerinin Hürmüz Boğazı'ndan geçişine izin verileceğini duyurdu. Manila yönetiminin bir süredir İran ile yürüttüğü diplomatik temasların ardından gelen bu karar, bölgedeki deniz trafiğinin hareketlenmesi açısından kritik bir adım olarak değerlendiriliyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_d3a66966",
-    "title": "Fatih Tekke Trabzonspor'da ilk peşinde: En kritik viraj",
-    "source": "Haber61",
-    "time": "03/04/2026 08:35",
-    "link": "https://www.haber61.net/trabzonspor/fatih-tekke-trabzonsporda-ilk-pesinde-en-kritik-viraj-h628446.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Teknik Direktörü Fatih Tekke için bu maç adeta kariyerinin dönüm noktalarından biri olacak.",
-    "image": "https://resim.haber61.net/news/610612.jpg",
-    "keyword": "trabzon"
   }
 ]
