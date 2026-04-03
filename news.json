@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_341e889c",
+    "title": "Filistinliler, İsrail'in kapalı tuttuğu Mescid-i Aksa çevresinde cuma namazı kıldı",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 15:13",
+    "link": "https://www.aa.com.tr/tr/guncel/filistinliler-israilin-kapali-tuttugu-mescid-i-aksa-cevresinde-cuma-namazi-kildi/3890555",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filistinli Müslümanlar, İsrail'in İran'a saldırıları bahane göstererek kapalı tuttuğu Mescid-i Aksa'nın çevresindeki farklı bölgelerde gruplar halinde cuma namazı kıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7844eb90",
     "title": "Başkan Erdoğan cuma namazını Hz. Ali Camisi'nde kıldı",
     "source": "A Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Uzmanlar, mart ayı enflasyon rakamlarının kısa vadede ölçülü \"nefes alanı\" sağladığını ve ABD/İsrail ile İran arasındaki savaşa rağmen dezenflasyon konjonktürünün sürdüğünü ifade etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_4217b143",
-    "title": "Trabzon’da Bilişim Suçları Zirvesi, Başsavcı Sedat Çelik’ten Kritik Uyarı",
-    "source": "Karadeniz Gazetesi",
-    "time": "03/04/2026 14:14",
-    "link": "https://www.karadenizgazete.com.tr/video-galeri/trabzonda-bilisim-suclari-zirvesi-bassavci-sedat-celikten-kritik-uyari/607663",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da düzenlenen toplantıda bilişim suçları ele alındı. Başsavcı Sedat Çelik, dijital suçların arttığını vurguladı.",
     "image": null,
     "keyword": null
   }
