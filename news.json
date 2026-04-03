@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_81bd5dd8",
+    "title": "‘Bedava’ domatesin İstanbul’a girişi 20 TL",
+    "source": "Evrensel",
+    "time": "03/04/2026 12:34",
+    "link": "https://www.evrensel.net/haber/5978040/bedava-domatesin-istanbula-girisi-20-tl",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Artan akaryakıt fiyatları lojistik maliyetlerini de yukarı çekiyor. Antalya Yaş Sebze ve Meyve Komisyoncular Derneği Başkanı, “Antalya’dan domatesi bedava alsanız dahi İstanbul’a kilogram giriş maliyeti 18-20 lirayı buluyor” dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/212052.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f39e8be5",
     "title": "Trump, patentli ilaçlara yüzde 100'e varan gümrük vergileri getirdi",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun genelinde Kütüphaneler Haftası kapsamında okullarda düzenlenen etkinliklerle öğrenciler kitapla buluştu, kütüphanelerin önemi bir kez daha gündeme taşındı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/kitapla-buyuyen-nesiller-icin-samsunda-seferberlik-kutuphaneler-haftasi-dolu-dolu-gecti.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_81dfe6bf",
-    "title": "Başvurular açıldı: 10 soruda Küçükbaş Hayvan Desteği rehberi",
-    "source": "TRT Haber",
-    "time": "03/04/2026 11:54",
-    "link": "https://www.trthaber.com/haber/ekonomi/basvurular-acildi-10-soruda-kucukbas-hayvan-destegi-rehberi-940218.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kırsalda Bereket Küçükbaşa Destek Projesi'ne başvurular 30 Nisan'a kadar yapılabilecek, kadın ve gençler ile veteriner hekimler, ziraat mühendisleri ve gıda mühendisleri öncelikli meslekler arasında bulunacak.",
-    "image": null,
     "keyword": null
   }
 ]
