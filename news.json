@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f5def83",
+    "title": "Hatay'da minibüs devrildi: 2 yaralı",
+    "source": "Haber Global",
+    "time": "04/04/2026 01:53",
+    "link": "https://haberglobal.com/gundem/hatayda-minibus-devrildi-2-yarali-516899",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay Kırıkhan'da sürücüsünün direksiyon hakimiyetini kaybetmesiyle devrilen minibüsteki 2 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/hatayda-minibus-devrildi-2-yarali-4x9w.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a406e325",
     "title": "Karadeniz’de yağmur felakete dönüşüyor: Kesilen ormanlar, betonlaşan dereler, bariyer yollar",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da düzenlenen Hüseyni Fasıl konseri, Samsun Ondokuz Mayıs Üniversitesi Devlet Konservatuvarı sanatçılarının performansıyla müzikseverlere kültürel bir ziyafet sundu.",
     "image": "https://resim.haber61.net/news/610757.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d196d818",
-    "title": "Izaka Terrace’ta iki şefin imza lezzetleri aynı masada",
-    "source": "Ekonomim",
-    "time": "04/04/2026 00:14",
-    "link": "https://www.ekonomim.com/sirketler/izaka-terraceta-iki-sefin-imza-lezzetleri-ayni-masada-haberi-885800",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’un kalbinde yer alan, CVK Hotels &amp; Resorts Grubu’nun lüks segmentteki oteli CVK Park Bosphorus Hotel Istanbul’un eşsiz manzaraya sahip mekânlarından Izaka Terrace, Izaka Terrace’ın Head Chef’i Serhat Eliçora ile Londra’daki Hide Restaurant’ın Chef Director’ü Josh Angus’u bir araya getiriyor.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/izaka-terraceta-iki-sefin-imza-lezzetleri-ayni-masada-lkx4_cover.jpg",
-    "keyword": null
   }
 ]
