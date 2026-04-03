@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a1f231f2",
+    "title": "Altının gramı 6 bin 704 liradan işlem görüyor",
+    "source": "TRT Haber",
+    "time": "03/04/2026 10:15",
+    "link": "https://www.trthaber.com/haber/ekonomi/altinin-grami-6-bin-704-liradan-islem-goruyor-940192.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gram altın, güne yükselişle başlamasının ardından 6 bin 704 liradan işlem görüyor. Çeyrek altın 11 bin 580 liradan, cumhuriyet altını 45 bin 960 liradan satılıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_816c6f8f",
     "title": "İşgalci İsrail ordusu Lübnan'ın güneyini hedef alan saldırılarını sürdürdü",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İngiltere, 40'tan fazla ülkenin katılımıyla Hürmüz Boğazı'nın yeniden açılması için çözüm önerilerinin görüşüldüğü bir toplantıya ev sahipliği yapıyor. ABD ise toplantıda yer almıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c11ccb5f",
-    "title": "\"Filistinlilere idam\" yasası: İsrail'e yaptırım çağrısı",
-    "source": "DW Türkçe",
-    "time": "03/04/2026 09:34",
-    "link": "https://www.dw.com/tr/filistinlilere-idam-yasası-israil-e-yaptırım-çağrısı/a-76648490",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası STK'lar Avrupa Birliği'ne, İsrail ile Ortaklık Anlaşmasını kısmen askıya alma çağrısı yaptı. Müslüman ülkeler de Filistinlileri hedef aldığı belirtilen yasa nedeniyle İsrail'i sert bir dille eleştirdi.",
     "image": null,
     "keyword": null
   }
