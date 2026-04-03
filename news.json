@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_48775ab9",
+    "title": "Baba Sahne'de hem kutlama hem ödül",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 11:16",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/baba-sahne-de-hem-kutlama-hem-odul-2492005",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Baba Sahne’nin dokuzuncu kuruluş yılında 1 Nisan akşamı düzenlenen törende 17. Savaş Dinçel Tiyatro Ödülleri de sahiplerini buldu. Gecede usta aktör Savaş Dinçel’in 84. doğum günü de kutlandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/90c3ba38-d59b-4ba9-b976-543677ed2cba.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ef989a4c",
     "title": "Trump yönetiminde tasfiye süreci: Kritik isimler görevden ayrılıyor",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "TÜİK verilerine göre Mart ayında yurt içi üretici fiyat endeksi (Yİ-ÜFE) bir önceki yılın aynı ayına göre yüzde 28,08 yükseldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/261186.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_c00fb99b",
-    "title": "Lider Galatasaray, Süper Lig'de yarın Trabzonspor'a konuk olacak",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 10:53",
-    "link": "https://www.aa.com.tr/tr/guncel/lider-galatasaray-super-ligde-yarin-trabzonspora-konuk-olacak/3890166",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Lider Galatasaray, Trendyol Süper Lig'in 28. haftasında yarın Trabzonspor ile deplasmanda karşılaşacak.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
