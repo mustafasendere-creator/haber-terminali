@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4a2dfe1",
+    "title": "Sözün bittiği fotoğraf",
+    "source": "OdaTV",
+    "time": "03/04/2026 07:54",
+    "link": "https://www.odatv.com/guncel/aytunc-erkin-kose-yazisi-3-nisan-2026-pazarda-hamallik-yapan-sefer-amca-120141874",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nefes Gazetesi yazarı Aytunç Erkin, Erenköy pazarında artan fiyatların hem esnafı hem vatandaşı zorladığını yazdı. Erkin, 70 yaşında emekli olamayan ve pazarda hamallık yaparak geçimini sağlayan Sefer Amca&#039;nın da hikayesini köşesine taşıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/aytunc-erkin-kose-yazisi-3-nisan-2026-pazarda-hamallik-yapan-sefer-amca-jqga.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_70ff8a59",
     "title": "Demet Akalın sahte reklam kurbanı oldu",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Adıyaman'ın Besni ilçesinde 3 aracın karıştığı zincirleme trafik kazasında 5 kişi yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_17324236",
-    "title": "ABD'de gündem Trump'ın savaş ve kreşlerle ilgili gafı oldu",
-    "source": "TRT Haber",
-    "time": "03/04/2026 06:53",
-    "link": "https://www.trthaber.com/haber/dunya/abdde-gundem-trumpin-savas-ve-kreslerle-ilgili-gafi-oldu-940167.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trumpın, İran savaşına yönelik kamuoyu desteği aradığı bir dönemde savaş ve kreşlerle ilgili gafı tepki çekti. Trump, federal hükümetin önceliğinin askeri harcamalar olması gerektiğini savunarak, \"Savaşlarla uğraşıyoruz. Kreşlerle ilgilenemeyiz\" dedi.",
     "image": null,
     "keyword": null
   }
