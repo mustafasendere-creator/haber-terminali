@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_736ed20a",
+    "title": "Bakan Fidan'dan barış diplomasisi",
+    "source": "TRT Haber",
+    "time": "03/04/2026 23:34",
+    "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-baris-diplomasisi-940305.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Arakçi, Mısır Dışişleri Bakanı Bedir Abdulati ve Amerikalı yetkililer ile bugün telefon görüşmeleri gerçekleştirdi. Dışişleri Bakanı Fidan, görüşmelerde, savaşı durdurmaya yönelik çabaları ele aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_68d0ec39",
     "title": "ABD basını: İran'da ABD'nin savaş uçağı düşürüldü",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "\"Cavalleria Rusticana\" operası Samsun Devlet Opera ve Balesi tarafından sahnelenecek.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0617f93a-4336-4233-b1d0-9c52f9591030.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ee1f0fa0",
-    "title": "Elektrik ve doğalgaza yüzde 25 zam",
-    "source": "Haber Global",
-    "time": "03/04/2026 22:14",
-    "link": "https://haberglobal.com/gundem/elektrik-ve-dogalgaza-yuzde-25-zam-516883",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), üretim ve dağıtım maliyetlerinde yaşanan artış nedeniyle elektrik ve doğalgaza yüzde 25 oranında artış yapıldığını duyurdu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/elektrik-ve-dogalgaza-yuzde-25-zam-4lhy.jpg",
     "keyword": null
   }
 ]
