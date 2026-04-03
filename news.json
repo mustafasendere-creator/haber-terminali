@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c5862df",
+    "title": "ABD bankası Goldman Sachs'ın Paris'teki binası saldırı şüphesiyle polis korumasına alındı",
+    "source": "Euronews",
+    "time": "03/04/2026 13:13",
+    "link": "http://tr.euronews.com/business/2026/04/03/abd-bankasi-goldman-sachsin-paristeki-binasi-saldiri-suphesiyle-polis-korumasina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birkaç gün önce Bank of America şubesine yönelik engellenen saldırının ardından, aralarında üç çocuğun da bulunduğu dört kişi hakkında resmi soruşturma başlatılması üzerine polis alarm durumuna geçti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_74242616",
     "title": "Pulitzer ödüllü oyun Türkiye’de: Berker Güven başrolde",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusu, cuma günü İran'dan yeni bir füze dalgası atıldığını ve hava savunma sistemlerinin bunları önlemek için devreye girdiğini bildirdi. İlk belirlemelere göre can kaybı yaşanmadı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_77209361",
-    "title": "Fransız gemisi, İran savaşında Batı Avrupa'dan ilk Hürmüz geçişini yaptı",
-    "source": "Euronews",
-    "time": "03/04/2026 12:34",
-    "link": "http://tr.euronews.com/2026/04/03/fransiz-gemisi-iran-savasinda-bati-avrupadan-ilk-hurmuz-gecisini-yapti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gemi takip verilerine göre, Fransa’nın CMA CGM şirketine ait bir gemi, İran savaşının şubat sonunda başlamasından bu yana Hürmüz Boğazı’nı geçen Batı Avrupa bağlantılı ilk gemi oldu.",
     "image": null,
     "keyword": null
   }
