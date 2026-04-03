@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_483c0eba",
+    "title": "Kritik aşama geçildi: Artemis, Ay'ın uzak tarafına yaklaşıyor",
+    "source": "TRT Haber",
+    "time": "03/04/2026 07:14",
+    "link": "https://www.trthaber.com/haber/dunya/kritik-asama-gecildi-artemis-ayin-uzak-tarafina-yaklasiyor-940170.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Artemis II misyonundaki dört astronot, Orion uzay aracının ana motorunu Ay'a doğru son bir itiş için ateşlemesinin ardından Dünya yörüngesinden ayrıldı. \"Ay'a geçiş ateşlemesi\" TLI olarak bilinen 5 dakika 55 saniyelik motor yakma işlemi başarıyla tamamlandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f8fbf124",
     "title": "Osman Kavala 3 bin 76 gündür hapiste",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Çeşme Belediyesi tarafından hayata geçirilen ve Türkiye’de geliştirilen ilk kiralık sosyal konut modeli olma özelliğini taşıyan Hanem Çeşme projesinin temel atma töreni, Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel’in katılımıyla gerçekleştirildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8ea1f89e-535c-495d-ac6e-436819a0e4ae.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e981a8f5",
-    "title": "Sinemalarda 6 film vizyona girecek...",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 03:53",
-    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/sinemalarda-6-film-vizyona-girecek-2491863",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'deki sinema salonlarında bu hafta komediden aksiyona, korku ve gerilimden animasyona 6 film vizyona girecek.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/97ec7839-4397-44bd-afa2-7d04543487d3.jpg",
     "keyword": null
   }
 ]
