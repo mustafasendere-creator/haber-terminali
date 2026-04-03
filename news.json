@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d2fa623",
+    "title": "Yağmur eskiden bereketti: Bursa hem selle hem kuraklıkla mücadele ediyor",
+    "source": "Evrensel",
+    "time": "04/04/2026 01:33",
+    "link": "https://www.evrensel.net/haber/5978143/yagmur-eskiden-bereketti-bursa-hem-selle-hem-kuraklikla-mucadele-ediyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa’da yağışlar barajları doldurdu, ancak seller tarımı vurdu. Betonlaşma, orman kaybı ve dere yataklarına müdahale felaketi büyüttü; çiftçi zararını karşılayacak destek bekliyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341535.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_76d794fb",
     "title": "IMF: Japon ekonomisi küresel şoklar karşısında etkileyici bir dayanıklılık sergiledi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hatay’da 47 kişinin hayatını kaybettiği Ilgım Apartmanı’nda, eski AKP’li Antakya belediye başkanları İsmail Kimyeci ve İzzettin Yılmaz hakkında soruşturma izni verilmemesi kararına itiraz edildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334588.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2264c447",
-    "title": "Sivas Zara’daki kömür ocağı için ÇED kararı iptal edildi: İş cinayeti ve çevre ihlalleriyle anılıyor",
-    "source": "Evrensel",
-    "time": "04/04/2026 00:14",
-    "link": "https://www.evrensel.net/haber/5978035/sivas-zara-daki-komur-ocagi-icin-ced-karari-iptal-edildi-is-cinayeti-ve-cevre-ihlalleriyle-aniliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İş cinayetiyle gündeme gelen kömür madeni projesinde mahkemeden dur kararı: Eksik ÇED raporu iptal edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341427.jpg",
     "keyword": null
   }
 ]
