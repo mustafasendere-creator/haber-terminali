@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ccf7a376",
+    "title": "WSJ: İran'da ateşkes için yapılan görüşmeler çıkmaza girdi",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 21:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/wsj-iran-da-ateskes-icin-yapilan-gorusmeler-cikmaza-girdi-2492194",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Wall Street Journal (WSJ) gazetesi, Pakistan öncülüğünde ABD ve İran arasında bir ateşkese ulaşılması için yapılan girişimlerin çıkmaza girdiğini yazdı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5cb670bf-3d57-4bc7-979b-64e435f177d5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_735b0828",
     "title": "İran basını duyurdu: İran ABD'nin 48 saatlik ateşkes teklifini reddetti",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Elektrik ve doğalgaza yüzde 25 zam geldi. Yeni tarife yarından itibaren geçerli olacak.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d170571d-e1fa-4a46-bcbb-ab0ff05f5415.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5708fe5d",
-    "title": "Microsoft, yapay zeka altyapısı için Japonya'ya yatırım yapacak",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 20:54",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/microsoft-yapay-zeka-altyapisi-icin-japonya-ya-yatirim-yapacak-2492179",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Microsoft'un, yapay zeka altyapısını güçlendirmek için Japonya'ya 1,6 trilyon yen (10 milyar dolar) yatırım yapacağı bildirildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/eece3313-b5ff-4b3c-b557-a32968637484.jpg",
     "keyword": null
   }
 ]
