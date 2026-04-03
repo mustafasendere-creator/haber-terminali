@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_07dc4082",
+    "title": "Hürmüz Boğazı'nda gerilim tırmanıyor! İkinci ABD uçağı düşürüldü iddiası",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 22:34",
+    "link": "https://www.cumhuriyet.com.tr/dunya/hurmuz-bogazi-nda-gerilim-tirmaniyor-ikinci-abd-ucagi-dusuruldu-iddiasi-2492199",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD basını, gün içinde düşen uçağın ardından ikinci ABD uçağının düştüğünü açıkladı. Uçağın düştüğü duyurulan Hürmüz Boğazı'nda gerilim tırmandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1383487b-0ded-4c31-9463-75324ff4f659.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_af92961a",
     "title": "En sabırsız 3 burç: Onlar için beklemek en büyük işkence...",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'de hanelerin elektrik ve doğalgaz tarifelerine %25 zam yapıldı. Zamlar 4 Nisan'dan itibaren geçerli olacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f87fc15e",
-    "title": "Bakan Işıkhan: İSG eğitimleri, çalışma hayatının dinamiğine uygun hale getirildi",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 21:33",
-    "link": "https://www.aa.com.tr/tr/guncel/bakan-isikhan-isg-egitimleri-calisma-hayatinin-dinamigine-uygun-hale-getirildi/3890894",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çalışma ve Sosyal Güvenlik Bakanı Işıkhan \"Yeni düzenleme ile Çalışanların İş Sağlığı ve Güvenliği (İSG) eğitimleri, çalışma hayatının dinamiğine uygun bir şekilde uzaktan, yüz yüze veya iki yöntemle verilebilecek hale gelmiş durumda\" dedi.",
     "image": null,
     "keyword": null
   }
