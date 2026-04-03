@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0ebd2b35",
+    "title": "Cumhurbaşkanlığı seçim anketinde kim kazanıyor kim kaybediyor?",
+    "source": "Sözcü",
+    "time": "03/04/2026 18:35",
+    "link": "https://www.sozcu.com.tr/cumhurbaskanligi-secim-anketinde-kim-kazaniyor-kim-kaybediyor-p307214",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanlığı seçim anketinde kim kazanıyor kim kaybediyor?",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/802jpg-R-pS4tYb_kaBTzvUtmWw6w.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f6677335",
     "title": "Türk firmasından doğal balın tespiti için alkış alan çözüm",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında yaşamını yitirenlerin sayısının son 24 saatte 23 artarak 1368'e, yaralı sayısının ise 4 bin 138'e çıktığını duyurdu.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_1c686b72",
-    "title": "Trabzonspor Hakkarigücü Spor'u Gol Yağmuruna Tuttu!; 6-0'lık Dev Galibiyet",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 17:56",
-    "link": "https://www.takagazete.com.tr/foto-galeri/trabzonspor-hakkarigucu-sporu-gol-yagmuruna-tuttu-6-0lik-dev-galibiyet",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Kadın Futbol Takımı, Hakkarigücü Spor’u 6-0 mağlup ederek ligde önemli bir galibiyete imza attı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-9-132.jpg",
-    "keyword": "trabzon"
   }
 ]
