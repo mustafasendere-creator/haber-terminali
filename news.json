@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bc0d1d38",
+    "title": "Adana’da Ruh Sağlığı Hastanesi'nde hijyen sorunu: Tutulan 10 tutanağa rağmen işlem yapılmadı",
+    "source": "Evrensel",
+    "time": "04/04/2026 01:13",
+    "link": "https://www.evrensel.net/haber/5978139/adanada-ruh-sagligi-hastanesinde-hijyen-sorunu-tutulan-10-tutanaga-ragmen-islem-yapilmadi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SES Adana Şubesi yaptığı açıklamada, Adana Dr. Ekrem Tok Ruh Sağlığı ve Hastalıkları Hastanesi’nde hijyen sorunları yaşandığını, emekçilerin tuttuğu 10 tutanağa rağmen bir işlem yapılmadığını, temizlik sorununun ihmal boyutunu aştığını belirtti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341530.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9c9a688f",
     "title": "Son 10 yılın ölümcül sel felaketleri: Türkiye’de seller doğal afet değil",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İran tarafından savaş uçaklarının düşürülmesinin, Tahran yönetimiyle olası müzakereleri etkilemeyeceğini belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_39efaaac",
-    "title": "Ankara merkezli 10 ilde change araç operasyonu: 8 tutuklama",
-    "source": "TRT Haber",
-    "time": "03/04/2026 23:54",
-    "link": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-10-ilde-change-arac-operasyonu-8-tutuklama-940308.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara merkezli 10 ilde araçların motor ve şasi numaralarını silerek ağır hasarlı araçlara ait numaraları bu araçlara işledikleri belirlenen şüphelilere yönelik düzenlenen operasyonlarda gözaltına alınan 28 kişiden 8'i tutuklandı.",
     "image": null,
     "keyword": null
   }
