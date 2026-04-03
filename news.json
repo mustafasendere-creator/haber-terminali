@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d9e77757",
+    "title": "İran: ABD'nin kara saldırısına hazırız, Amerikan askerlerine felaket yaşatacağız",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 11:33",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-abdnin-kara-saldirisina-haziriz-amerikan-askerlerine-felaket-yasatacagiz/3890288",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Genelkurmay Başkanlığı Sözcüsü Tuğgeneral Ebulfazl Şikarçi, \"Amerika'nın kara saldırısının başlamasını bekliyoruz çünkü onlara dünyanın en zayıf ülkesini dahi asla işgal etmeyi düşünemeyecekleri bir ders vereceğiz.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3d0243fb",
     "title": "Sofranızdaki tehlike büyüyor! Bakanlık listeyi güncelledi: O ürünler alarm veriyor",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Vakfıkebir ilçesinde 19 yaşındaki Sude Ömür ani rahatsızlık sonucu yaşamını yitirdi. Genç kızın ölüm nedeni yapılacak otopsiyle netlik kazanacak.",
     "image": "https://resim.haber61.net/news/610648.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_cfb69b27",
-    "title": "Mart ayı enflasyonuna en yüksek katkı ulaştırmadan geldi",
-    "source": "Haber Global",
-    "time": "03/04/2026 10:54",
-    "link": "https://haberglobal.com/ekonomi/mart-ayi-enflasyonuna-en-yuksek-katki-ulastirmadan-geldi-516813",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Martı ayı enflasyonu yüzde 2'nin altında gerçekleşerek yüzde 2,40'lık beklentilerin altında kaldı. Mart ayı enflasyonuna en yüksek katkı ise ulaştırmadan geldi. Ulaştırma kalemi uçak bileti, otobüs bileti gibi şeyleri kapsıyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/mart-ayi-enflasyonuna-en-yuksek-katki-ulastirmadan-geldi-6v0b.jpg",
-    "keyword": null
   }
 ]
