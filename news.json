@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9ae0f283",
+    "title": "Filipinler'de kargo uçağı düştü: 2 ölü",
+    "source": "Haber Global",
+    "time": "03/04/2026 12:54",
+    "link": "https://haberglobal.com/dunya/filipinlerde-kargo-ucagi-dustu-2-olu-516836",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filipinler'in Coron bölgesinde bir kargo uçağının düşmesi sonucu 2 pilotun hayatını kaybettiği bildirildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/filipinlerde-kargo-ucagi-dustu-2-olu-ia8h.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_359ce96c",
     "title": "Uganda'da anaokulunda palalı saldırı: 4 çocuk öldü",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Tarım ve Orman Bakanlığı’nın açıkladığı sağlığı tehlikeye düşüren gıdalar listesi gündem oldu. Vatandaşlar “Trabzon listede var mı?” sorusuna yanıt arıyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/zehirli-gidalar.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_cc6f6cbc",
-    "title": "Bafra'da inşaatta iş kazası: 1 yaralı",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 12:14",
-    "link": "https://www.takagazete.com.tr/bafrada-insaatta-is-kazasi-1-yarali",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun'un Bafra ilçesinde toplu konut inşaatında meydana gelen iş kazasında bir işçi yaralandı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/20260403-a-w675423-01-1.png",
     "keyword": null
   }
 ]
