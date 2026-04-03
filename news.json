@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e402b853",
+    "title": "İran medyası: ABD-İsrail saldırılarında Fatehin Birliği Komutanı Fethali Zade öldü",
+    "source": "Ekonomim",
+    "time": "03/04/2026 08:35",
+    "link": "https://www.ekonomim.com/dunya/iran-medyasi-abd-israil-saldirilarinda-fatehin-birligi-komutani-fethali-zade-oldu-haberi-885765",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail&#039;in İran&#039;a saldırılarında İran Devrim Muhafızları Ordusu&#039;na bağlı Fatehin Birliği Komutanı Muhammed Ali Fethali Zade öldü.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/iran-medyasi-abd-israil-saldirilarinda-fatehin-birligi-komutani-fethali-zade-oldu-fla2_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_78c76275",
     "title": "ABD ve İsrail, Ortadoğu'nun en yüksek köprüsünü yine vurdu (Video)",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD istihbarat kaynaklarından alınan bilgilere göre, ABD ve İsrail'in son beş haftadır İran'daki askeri hedeflere yönelik yoğun hava saldırılarına rağmen, Tahran yönetiminin füze fırlatma rampalarının yaklaşık yarısı hala sağlam durumda bulunuyor. Hazırlanan son rapora göre, İran'ın cephaneliğinde binlerce tek yönlü saldırı uçağı mevcut.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_afeef2f5",
-    "title": "TikTok, İsrailli işgalcinin hesabını kalıcı olarak kapattı",
-    "source": "TRT Haber",
-    "time": "03/04/2026 07:54",
-    "link": "https://www.trthaber.com/haber/dunya/tiktok-israilli-isgalcinin-hesabini-kalici-olarak-kapatti-940174.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TikTok, işgal altındaki Batı Şeria'da Filistinlilere ve aktivistlere yönelik taciz videoları paylaşan İsrailli işgalci Roi Star'ın hesabını, nefret söylemi ve zorbalık kurallarını ihlal ettiği gerekçesiyle kalıcı olarak kapattı.",
     "image": null,
     "keyword": null
   }
