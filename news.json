@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1f1151f",
+    "title": "Suriye'nin İdlib ilinde devrik rejimden kalan mayının patlaması sonucu 3 çocuk hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 17:33",
+    "link": "https://www.aa.com.tr/tr/guncel/suriyenin-idlib-ilinde-devrik-rejimden-kalan-mayinin-patlamasi-sonucu-3-cocuk-hayatini-kaybetti/3890663",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye’nin kuzeybatısındaki İdlib ilinde devrik Esed rejiminden kalan bir mayının patlaması sonucu 3 çocuğun yaşamını yitirdiği, 1 çocuğun yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e0dd74f2",
     "title": "Hafta sonu yurt genelinde yağışlı hava etkisini sürdürecek",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Erkin Keskin’in “İzler ve Yüzler” başlıklı kişisel buluşması, 7-30 Nisan tarihleri arasında Ankara’daki Valör Sanat Galerisi’nde izleyiciyle buluşuyor. Kadın portreleri, müzikle çoğalan figürler ve yeniden doğuş duygusunu taşıyan imgeler etrafında kurulan bu seçki, çizgiyle hafıza arasında güçlü bir bağ kuruyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d054c5b5-b5ed-443a-9f6c-63c5fb443c5f.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_91a8ccc1",
-    "title": "TFF Başkanı Hacıosmanoğlu Trabzon Günleri’nde Kupa Yolculuğunu Anlatacak",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 16:34",
-    "link": "https://www.takagazete.com.tr/tff-baskani-haciosmanoglu-trabzon-gunlerinde-kupa-yolculugunu-anlatacak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "TFF Başkanı İbrahim Hacıosmanoğlu, Trabzon Günleri kapsamında Ankara’da düzenlenecek programda Türk futbolunun geleceğini ve milli takımın başarı hikâyesini anlatacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-5-186.jpg",
-    "keyword": "trabzon"
   }
 ]
