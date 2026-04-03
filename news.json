@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_456d9fc0",
+    "title": "Katil İsrail ordusunun Lübnan'a düzenlediği son saldırılarda 5 kişi öldü",
+    "source": "TRT Haber",
+    "time": "03/04/2026 15:14",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusunun-lubnana-duzenledigi-son-saldirilarda-5-kisi-oldu-940256.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun gün içinde Lübnan'a düzenlediği saldırılarda 5 kişi yaşamını yitirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_de662baf",
     "title": "İHD İstanbul, Romani Godi ve CİSST: Sinan Üstev’in ölümü önlenebilirdi",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Dernekler Federasyonu Başkanı Sayın İsmail Şatıroğlu standımızı ziyaret ederek, Ortahisar Belediyemizin Trabzon Günleri’ne sağladığı katkılar dolayısıyla ekibimize teşekkür plaketi takdim etti. 🤝 ​Sayın Şatıroğlu’na ve kıymetli yönetimine nazik ziyar  x.com",
     "image": null,
     "keyword": "trabzon ziyaret"
-  },
-  {
-    "id": "GND_fe89aac9",
-    "title": "Adana'da gökyüzünün rengi değişti, toz taşınımı havadan görüntülendi",
-    "source": "Haber Global",
-    "time": "03/04/2026 14:34",
-    "link": "https://haberglobal.com/gundem/adanada-gokyuzunun-rengi-degisti-toz-tasinimi-havadan-goruntulendi-516847",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Libya üzerinden kuvvetli rüzgarla birlikte Türkiye'ye giriş yapan toz fırtınası Adana'da etkili oldu. Toz fırtınası, dron ile görüntülendi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/adanada-toz-tasinimi-havadan-goruntulendi-sfaq.jpg",
-    "keyword": null
   }
 ]
