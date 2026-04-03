@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3d6849d3",
+    "title": "Adıyaman'da zincirleme trafik kazası",
+    "source": "TRT Haber",
+    "time": "03/04/2026 06:53",
+    "link": "https://www.trthaber.com/haber/turkiye/adiyamanda-zincirleme-trafik-kazasi-940166.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman'ın Besni ilçesinde 3 aracın karıştığı zincirleme trafik kazasında 5 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_17324236",
     "title": "ABD'de gündem Trump'ın savaş ve kreşlerle ilgili gafı oldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/02/made-in-europe-bir-virgulle-disarida-kalabiliriz-bwow_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a083689e",
-    "title": "Sevdiğim Sensin dizisinin yeni bölümü ne zaman yayımlanacak? Sevdiğim Sensin dizisinin son bölümünde ne oldu?",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 03:13",
-    "link": "https://www.cumhuriyet.com.tr/tv-rehberi/sevdigim-sensin-dizisinin-yeni-bolumu-ne-zaman-yayimlanacak-sevdigim-sensin-dizisinin-son-bolumunde-ne-oldu-2491886",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sevdiğim Sensin dizisinin 8. bölümünün ne zaman yayımlanacağı merak ediliyor. Peki, Sevdiğim Sensin dizisinin yeni bölümü ne zaman yayımlanacak? Sevdiğim Sensin dizisinin son bölümünde ne oldu?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f876038d-dfe5-4317-bbb7-39f2bdf82c67.jpg",
     "keyword": null
   }
 ]
