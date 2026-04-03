@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_174f4cf3",
+    "title": "İstanbul'da alışveriş merkezinde yangın",
+    "source": "TRT Haber",
+    "time": "03/04/2026 07:14",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-alisveris-merkezinde-yangin-940169.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Kağıthane'de bir alışveriş merkezinde çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_483c0eba",
     "title": "Kritik aşama geçildi: Artemis, Ay'ın uzak tarafına yaklaşıyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TİP Engelli Hakları Komisyonu, otizmli bireylerin eğitimden istihdama sistematik biçimde dışlandığını belirterek, “Farkındalık bir gün değil, bir yaşam biçimidir. Haklar ertelenemez, görmezden gelinemez, sembolik günlere hapsedilemez. Artık söz değil, sorumluluk zamanı” dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c4356ff4-09f9-489f-a548-7c3f6f1bcf47.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9f648b79",
-    "title": "Özgür Özel açıkladı: CHP’nin sosyal konut projesi geliyor",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 03:54",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-acikladi-chp-nin-sosyal-konut-projesi-geliyor-2491862",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çeşme Belediyesi tarafından hayata geçirilen ve Türkiye’de geliştirilen ilk kiralık sosyal konut modeli olma özelliğini taşıyan Hanem Çeşme projesinin temel atma töreni, Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel’in katılımıyla gerçekleştirildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8ea1f89e-535c-495d-ac6e-436819a0e4ae.jpg",
     "keyword": null
   }
 ]
