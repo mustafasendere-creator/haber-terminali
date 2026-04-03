@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d98abcb1",
+    "title": "CHP Samsun’dan yurttaşlara çağrı: ‘Gelin, değişime katılın’",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 16:34",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/chp-samsun-dan-yurttaslara-cagri-gelin-degisime-katilin-2492110",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Samsun İl Başkanı Mehmet Özdağ, partisinin yeni üye kampanyası kapsamında 19 Mayıs ilçesine gitti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e31474fe-22e1-4045-8d15-c52b2c0de8fa.png",
+    "keyword": null
+  },
+  {
     "id": "GND_cd704774",
     "title": "Erkin Keskin’den yüzün belleğine açılan dünya",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Birleşik Arap Emirlikleri BAE, hava savunma sistemlerinin gün içerisinde İran'dan atılan 18 balistik, 4 seyir füzesi ile 47 insansız hava aracına İHA müdahale ettiğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3e770af3",
-    "title": "Avustralya'da uzun yolculuğa çıkacak sürücülere yakıt kıtlığı nedeniyle tedarik çağrısı",
-    "source": "TRT Haber",
-    "time": "03/04/2026 15:55",
-    "link": "https://www.trthaber.com/haber/dunya/avustralyada-uzun-yolculuga-cikacak-suruculere-yakit-kitligi-nedeniyle-tedarik-cagrisi-940262.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avustralya'da hükümet, ABD ve İsrail'in İran'a saldırıları sonrası yaşanan yakıt krizi nedeniyle hafta sonu uzun yolculuğa çıkacak vatandaşlara, şehir içindeki benzin istasyonlarından yakıt tedarik etmeleri çağrısı yaptı.",
     "image": null,
     "keyword": null
   }
