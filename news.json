@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4b7bf217",
+    "title": "İsrail’in Lübnan’a saldırıları: Hayatını kaybedenlerin sayısı 1368'e yükseldi",
+    "source": "Evrensel",
+    "time": "03/04/2026 18:14",
+    "link": "https://www.evrensel.net/haber/5978097/israilin-lubnana-saldirilari-hayatini-kaybedenlerin-sayisi-1368e-yukseldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında yaşamını yitirenlerin sayısının son 24 saatte 23 artarak 1368'e, yaralı sayısının ise 4138'e çıktığını duyurdu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340983.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c7fb59a3",
     "title": "ABD basını: İran'da ABD'nin savaş uçağı düştü, mürettebatın akıbeti belirsiz",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "BES-AR’ın Mart 2026 verilerine göre kamu emekçilerinin yıllık enflasyonu yüzde 40,82’ye, gıda enflasyonu ise yüzde 34,70’e ulaştı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/251359.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_807bfb67",
-    "title": "Trabzonspor ile Galatasaray ligde 106’ncı randevuda",
-    "source": "Haber Global",
-    "time": "03/04/2026 17:34",
-    "link": "https://haberglobal.com/spor/trabzonspor-ile-galatasaray-ligde-106nci-randevuda-516871",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor ile Galatasaray yarın oynayacakları maçla Süper Lig'de 106’ncı kez karşı karşıya gelecek. İki takımın Süper Lig’de bugüne kadar oynadıkları 105 karşılaşmada Trabzonspor’un 32, Galatasaray’ın 47 galibiyeti bulunurken, 26 karşılaşma ise beraberlikle sonuçlandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/trabzonspor-ile-galatasaray-ligde-106nci-randevuda-5t06.jpg",
-    "keyword": "trabzon"
   }
 ]
