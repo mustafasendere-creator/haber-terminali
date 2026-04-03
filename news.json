@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c346c5f",
+    "title": "Köpeğini asıp öldüren kişiye tutuklama",
+    "source": "Habertürk",
+    "time": "03/04/2026 16:15",
+    "link": "https://www.haberturk.com/cok-yedigini-iddia-ettigi-kopegini-agaca-asip-olduren-supheli-tutuklandi-3874286",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'nin Pınarbaşı ilçesinde, çok fazla yediği iddiasıyla köpeğini ağaca asarak öldürdüğü suçlamasıyla gözaltına alınan F.M., tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775128189/3874286/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_7b01f455",
     "title": "Özel: Seçmen bize yatırımcı kredisi verdi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Turkcell Kadın Futbol Süper Ligi’nin 23. haftasında Trabzonspor, Hakkarigücü’nü 6-0 mağlup etti. Bordo-mavililer, son 3 maçtaki beraberlik serisinin ardından farklı galibiyetle moral bulurken puanını 55’e yükselterek 3. sıradaki yerini korudu.",
     "image": "https://resim.haber61.net/news/610715.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_16f3667b",
-    "title": "Valiler, AA’nın kuruluşunun 106. yılını kutladı",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 15:53",
-    "link": "https://www.aa.com.tr/tr/guncel/valiler-aa-nin-kurulusunun-106-yilini-kutladi/3890614",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anadolu Ajansının (AA) kuruluşunun 106. yılı dolayısıyla kutlama mesajları yayımlandı.",
-    "image": null,
     "keyword": null
   }
 ]
