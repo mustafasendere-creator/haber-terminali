@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_01e35060",
+    "title": "ABD Savunma Bakanlığı: İran ile savaşta şu ana kadar 13 ABD askeri öldü, 365 asker yaralandı",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 22:53",
+    "link": "https://www.aa.com.tr/tr/guncel/abd-savunma-bakanligi-iran-ile-savasta-su-ana-kadar-13-abd-askeri-oldu-365-asker-yaralandi/3891083",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Savunma Bakanlığı (Pentagon), ABD ve İsrail'in 28 Şubat'ta İran'a saldırılarıyla başlayan savaşta bugüne kadar 13 ABD askerinin öldüğü, 365 ABD askerinin de yaralandığı bilgisini resmi olarak yayınladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_24bcf9b2",
     "title": "Hamas heyeti Kahire’de ateşkesin uygulanmasını görüştü",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, ülkesi ve İsrail&#039;in İran&#039;a yönelik saldırıları sürdürdüğü dönemde, Hürmüz Boğazı&#039;nı açabileceklerini ve &quot;petrolü alıp servet kazanabileceklerini&quot; belirtti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/trump-hurmuz-bogazini-kolayca-acabilir-petrolu-alabilir-ve-servet-kazanabiliriz-f2do_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b0713e07",
-    "title": "Bakan Uraloğlu: Halep'e kadar Türkiye'deki mevcut demir yolumuzu uzatacağız",
-    "source": "Ekonomim",
-    "time": "03/04/2026 21:34",
-    "link": "https://www.ekonomim.com/gundem/bakan-uraloglu-halepe-kadar-turkiyedeki-mevcut-demir-yolumuzu-uzatacagiz-haberi-885946",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, tarihi Hicaz Demir Yolu hattıyla ilgili &quot;Öncelikle Halep&#039;e kadar Türkiye&#039;deki mevcut demir yolumuzu uzatacağız. Aşağı yukarı 110 milyon dolarlık kaynağa ihtiyacı var. Halep ile Şam arasında zaten işleyen bir demir yolu var&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/bakan-uraloglu-halepe-kadar-turkiyedeki-mevcut-demir-yolumuzu-uzatacagiz-ixij_cover.jpg",
     "keyword": null
   }
 ]
