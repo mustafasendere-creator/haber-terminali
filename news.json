@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5fbaa214",
+    "title": "Bir dondurma yedi milyoner oldu",
+    "source": "10Haber",
+    "time": "03/04/2026 14:53",
+    "link": "https://10haber.net/saglik/bir-dondurma-yedi-milyoner-oldu-692137/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Olay, Eylül 2018’de Florida’nın Palm Bay şehrinde meydana geldi. Buckley, yerel bir dükkândan satın aldığı dondurmanın birkaç lokmasını tükettikten sonra ağzında yabancı bir cisim hissetti. Yapılan kontroller sonucunda metal bir çivi yuttuğu ortaya çıktı. Hastaneye kaldırılan Buckley’nin sindirim sisteminde yalnızca çivi değil, başka metal parçalar da bulunduğu doğrulandı. Bu parçaların vücuda girmesi sonucunda komplikasyonlar yaşandı [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69cfa4207cfe02.85758773.png",
+    "keyword": null
+  },
+  {
     "id": "TKP_da8a27e3",
     "title": "Microsoft yapay zeka altyapısı için Japonya’ya 1,6 trilyon yen yatırım yapacak",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adana'nın Yüreğir İlçesi Belediye Başkanı Ali Demirçalı, sahibi olduğu inşaat firmasının iskan ve ruhsat işlemleri için Çukurova Belediyesi bürokratına rüşvet verdiği suçlamasıyla tutuksuz yargılandığı davada 5 yıl 3 ay 10 gün hapis cezasına çarptırıldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/yuregir-belediye-baskani-demircaliya-5-yil-hapis-cezasi-sfo1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c549de9f",
-    "title": "Yapay zeka destekli otonom çiftlikler yolda",
-    "source": "TRT Haber",
-    "time": "03/04/2026 13:54",
-    "link": "https://www.trthaber.com/haber/ekonomi/yapay-zeka-destekli-otonom-ciftlikler-yolda-940233.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tarım ve hayvancılıkta yerli teknolojileri öne çıkaran Tarım Teknolojileri Kümelenmesi TÜME, yapay zekaya dayalı 40 otonom çiftlik projesini eylüle kadar hayata geçirecek.",
-    "image": null,
     "keyword": null
   }
 ]
