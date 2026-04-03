@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d053c243",
+    "title": "AB'de akaryakıt fiyatları yükselmeye devam ediyor",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 16:53",
+    "link": "https://www.aa.com.tr/tr/guncel/abde-akaryakit-fiyatlari-yukselmeye-devam-ediyor/3890683",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail ile İran arasındaki savaş nedeniyle yaşanan petrol arzındaki kesinti, Avrupa Birliği (AB) ülkelerinde özellikle dizel fiyatlarını son 1 ayda yüzde 30,2 artırdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cb79fffa",
     "title": "İran’da, ABD-İsrail saldırılarında vurulan spor kompleksinde basın toplantısı düzenlendi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Eskişehir'de etkili olan yağışın ardından Sakarya Nehri'nin rengi kahverengiye dönüştü",
     "image": "https://im.haberturk.com/l/2026/04/02/ver1775135922/3874319/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_e026780a",
-    "title": "Siber suç operasyonu: 95 gözaltı",
-    "source": "Habertürk",
-    "time": "03/04/2026 15:55",
-    "link": "https://www.haberturk.com/son-dakika-13-ilde-siber-suc-operasyonu-95-tutuklama-3874320",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, siber suçlarla mücadele kapsamında son 5 günde 13 ilde düzenlenen operasyonlarda gözaltına alınan 183 şüpheliden 95'inin tutuklandığını duyurdu",
-    "image": "https://im.haberturk.com/l/2026/04/02/ver1775135175/3874320/jpg/1280x1280",
     "keyword": null
   }
 ]
