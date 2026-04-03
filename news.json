@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_20b9401d",
+    "title": "Yavaş'tan \"Karadeniz'den su\" açıklaması",
+    "source": "Habertürk",
+    "time": "03/04/2026 14:54",
+    "link": "https://www.haberturk.com/yavas-tan-karadeniz-den-su-aciklamasi-3874356",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, \"Ankara'nın Geleceğine Yatırım Yapıyoruz\" programında ASKİ Genel Müdürlüğü'nün önemli projelerinin temel atma törenini ve  yapımı tamamlanan projelerin açılışını gerçekleştirdi. Törende konuşan Başkan Yavaş, \"Orta Anadolu'nun büyük oranda çölleşeceği ortada. Bütün raporlar Orta Anadolu'nun çölleşeceği üzerine veriliyor ileriki yıllarda. Dolayısıyla nihayet çözüm Karadeniz'den su getirmek; Çamlıdere Barajı'na 80 kilometre civarında bu suyu getirmek zorundayız\" dedi",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775143007/3874356/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_0262e729",
     "title": "Bize Her Yer Sınıf: Trabzon’da tarih yerinde öğreniliyor",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Özel Röportaj | @muammerozdmir Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç: 💬 \"Uğurcan Çakır bu şehrin evladıdır, Trabzonlu ve Trabzonsporlu'dur. Trabzonspor'un şampiyonluğunda seneler sonra en büyük katkı sağlayanlardan biridir. Uğurc  x.com",
     "image": null,
     "keyword": "trabzonspor"
-  },
-  {
-    "id": "GND_d35e8fd3",
-    "title": "Görüntü İsrail'de Filistinlileri hedef alan idam cezasının onaylanma kutlamalarını mı gösteriyor?",
-    "source": "Teyit.org",
-    "time": "03/04/2026 13:55",
-    "link": "https://teyit.org/analiz/goruntu-israilde-filistinlileri-hedef-alan-idam-cezasinin-onaylanma-kutlamalarini-mi-gosteriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medyada paylaşılan görüntülerde İsrail parlamentosunda Filistinlileri hedef alan idam cezasının onaylamasının ardından aralarında Ben Gvir’in de bulunduğu bir grup kişinin kutlama yaptığı iddia edildi.",
-    "image": "https://md.teyit.org/2026/04/ben-gvir-kutlama-kapak.webp",
-    "keyword": null
   }
 ]
