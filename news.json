@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c7fb59a3",
+    "title": "ABD basını: İran'da ABD'nin savaş uçağı düştü, mürettebatın akıbeti belirsiz",
+    "source": "Evrensel",
+    "time": "03/04/2026 18:14",
+    "link": "https://www.evrensel.net/haber/5978098/abd-basini-iranda-abdnin-savas-ucagi-dustu-murettebatin-akibeti-belirsiz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD basını İran'da ABD'ye ait bir savaş uçağının düştüğünü, mürettebatın akıbetinin ise belirsiz olduğunu bildirdi. Düşen uçağa ilişkin ise CENTCOM'dan henüz bir paylaşım yapılmadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/339236.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d0a4d35e",
     "title": "Hafta sonu için yağış uyarısı: Yurt genelinde etkisini sürdürecek",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor ile Galatasaray yarın oynayacakları maçla Süper Lig'de 106’ncı kez karşı karşıya gelecek. İki takımın Süper Lig’de bugüne kadar oynadıkları 105 karşılaşmada Trabzonspor’un 32, Galatasaray’ın 47 galibiyeti bulunurken, 26 karşılaşma ise beraberlikle sonuçlandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/trabzonspor-ile-galatasaray-ligde-106nci-randevuda-5t06.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d31a7ac0",
-    "title": "Türkiye genelinde 400’den fazla şubesi vardı: Yeme-içme zinciri iflas etti",
-    "source": "Evrensel",
-    "time": "03/04/2026 17:33",
-    "link": "https://www.evrensel.net/haber/5978092/turkiye-genelinde-400den-fazla-subesi-vardi-yeme-icme-zinciri-iflas-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa 1’inci Asliye Ticaret Mahkemesi, Ekleristan ve bağlı üç şirketin konkordato talebini reddederek iflaslarına karar verdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341464.jpg",
-    "keyword": null
   }
 ]
