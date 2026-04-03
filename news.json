@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8b7cdfe1",
+    "title": "İBB davası: Silivri önünde tahliye sevinci",
+    "source": "DW Türkçe",
+    "time": "03/04/2026 11:34",
+    "link": "https://www.dw.com/tr/ibb-davası-silivri-önünde-tahliye-sevinci/a-76651853",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB davasında mahkemenin tahliyesine hükmettiği 18 kişi cezaevinden çıktı. Davada tutuklu sayısı 89'a düşerken duruşmalara Pazartesi günü devam edilecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5d7220d1",
     "title": "3 Nisan taklit-tağşiş listesi: Düşük yağ, kanatlı et, sakat at, deri, gıda boyası…",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İkinci el alışveriş sitelerinde, “hatalı basım” olduğu öne sürülen 25 kuruşlar, 30 bin liraya kadar çıkan fiyatlarla dikkat çekiyor. Uzmanlar ise, bütün madeni paraların koleksiyon değeri taşımadığını vurguluyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/hatali-basim-25-kuruslarin-fiyati-30-bin-liraya-kadar-ulasti-xxgb_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e9387948",
-    "title": "AYM vergi mükelleflerine elektronik tebligat yetkisini iptal etti",
-    "source": "Ekonomim",
-    "time": "03/04/2026 10:55",
-    "link": "https://www.ekonomim.com/ekonomi/aym-vergi-mukelleflerine-elektronik-tebligat-yetkisini-iptal-etti-haberi-885819",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anayasa Mahkemesi, vergi mükelleflerine yönelik elektronik tebligatın usul ve esaslarını belirleme yetkisine ilişkin düzenlemenin bir bölümünü Anayasa’ya aykırı bularak iptal etti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/17/anayasa-mahkemesi-nden-adalet-partisi-amblemi-karari-skli_cover.jpg",
     "keyword": null
   }
 ]
