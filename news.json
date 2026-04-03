@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_55ccbef3",
+    "title": "ENAG mart ayı enflasyon rakamlarını açıkladı",
+    "source": "Ekonomim",
+    "time": "03/04/2026 09:35",
+    "link": "https://www.ekonomim.com/ekonomi/enag-mart-ayi-enflasyon-rakamlarini-acikladi-haberi-885789",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bağımsız araştırma grubu ENAG, mart ayına ilişkin enflasyon verilerini yayımladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/enag-mart-ayi-enflasyon-rakamlarini-acikladi-o1cd_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_823483dc",
     "title": "İstanbul merkezli 16 ilde suç içerikli paylaşım yapan 35 şüpheli yakalandı",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul merkezli 3 ilde, elebaşılığını Mustafa Aksu'nun yaptığı silahlı suç örgütüne yönelik düzenlenen operasyonda, hakkında gözaltı kararı verilen 52 şüpheliden 46’sı yakalandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ca3ab47b",
-    "title": "İran Devrim Muhafızları: Ülkenin orta kesimlerinde ABD'ye ait F-35 savaş uçağı düşürüldü",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 09:13",
-    "link": "https://www.aa.com.tr/tr/guncel/iran-devrim-muhafizlari-ulkenin-orta-kesimlerinde-abdye-ait-f-35-savas-ucagi-dusuruldu/3890080",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları Ordusu, ülkenin orta kesimlerinde bir F-35 savaş uçağını hava savunma sistemleriyle vurarak düşürdüğünü iddia etti.",
     "image": null,
     "keyword": null
   }
