@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_87e2313e",
+    "title": "Hürmüz Boğazı'nın fiilen kapanması, denizlerdeki kritik geçiş noktalarının önemini hatırlattı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 11:35",
+    "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinin-fiilen-kapanmasi-denizlerdeki-kritik-gecis-noktalarinin-onemini-hatirlatti-940209.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a saldırılarıyla başlayan savaşta Hürmüz Boğazı'nın fiilen kapanmasının küresel siyasete ve ekonomiye yansımaları, dünyada seyrüsefer rotalarındaki boğaz ve kanal gibi diğer kritik geçiş noktalarının önemini gündeme getirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1881a78e",
     "title": "Kuveyt: Saldırı sonucu enerji ve su arıtma tesislerinden birinde maddi hasar oldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Batman’ın Sason ilçesinde soğuk havada üşüyen kedi ile köpeğin birbirine sarılarak uyuması görenlerin içini ısıttı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/ic-isitan-kare-usuyen-kedi-kopek-birbirine-sigindi-8ena.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_12012d8e",
-    "title": "Fenerbahçe'den Dybala teklifi",
-    "source": "OdaTV",
-    "time": "03/04/2026 10:55",
-    "link": "https://www.odatv.com/spor/fenerbahceden-paulo-dybala-teklifi-120141902",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Roma forması giyen Arjantinli yıldız Paulo Dybala için Fenerbahçe&#039;nin, yaptığı teklif ortaya çıktı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2024/12/22/romadan-galatasaraya-kotu-haber-paulo-dybala-costu-cdbb.jpg",
     "keyword": null
   }
 ]
