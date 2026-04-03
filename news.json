@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_06046d57",
+    "title": "İstanbul Boğazı'nda gemi trafiği askıya alındı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 01:13",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbul-bogazinda-gemi-trafigi-askiya-alindi-940317.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Boğazı'nda bir gemide meydana gelen makine arızası sonucu gemi trafiği çift yönlü olarak askıya alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f941c37d",
     "title": "Rizeli Safa Cumhurbaşkanı Erdoğan'dan istediği imzalı Arda Güler formasına kavuştu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey’in, hakkında yürütülen soruşturma kapsamındaki savcılık sorgusu tamamlandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5d17a8bf",
-    "title": "Afganistan’da 5,9 büyüklüğünde deprem: 8 ölü",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 23:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/afganistan-da-5-9-buyuklugunde-deprem-8-olu-2492213",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Merkez bölgesi Afganistan’ın Hindukuş bölgesi olan 5,9 büyüklüğündeki depremde başkent Kabil’de 8 kişinin hayatını kaybettiği ve 2 yaşındaki bir çocuğun yaralandığı açıklandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8c7b71d4-2208-41a7-b308-1c128ba38f19.jpg",
     "keyword": null
   }
 ]
