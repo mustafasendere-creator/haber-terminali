@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_964649e2",
+    "title": "Sahra tozu Türkiye'yi vurdu",
+    "source": "OdaTV",
+    "time": "03/04/2026 23:14",
+    "link": "https://www.odatv.com/guncel/sahra-tozu-turkiyeyi-vurdu-120141993",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sahra Çölü’nden gelen toz bulutları Akdeniz ve Güneydoğu’da etkili oldu. Görüş mesafesi düştü, araçlar çamurla kaplandı, hava kalitesi azaldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/sahra-tozu-turkiyeyi-vurdu-jsxy.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_56d55cbf",
     "title": "Ev satma vaadiyle milyonlarca liralık vurgun! O çeteye operasyon: 21 tutuklama",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "New York Times: Bugün F-15 savaş uçağıyla aynı anlarda, Hürmüz Boğazı yakınlarında ikinci bir ABD savaş uçağı daha düşürüldüğü bildirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1ba591d0",
-    "title": "Edirne'de alarm: Tunca taştı",
-    "source": "OdaTV",
-    "time": "03/04/2026 21:55",
-    "link": "https://www.odatv.com/guncel/edirnede-alarm-tunca-tasti-120141989",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Edirne’de, Bulgaristan’da etkili olan yağışların ardından Tunca Nehri’nin debisi yükseldi, taşkının etkili olmaya başladığı Sarayiçi bölgesi havadan görüntülendi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/edirnede-alarm-tunca-tasti-fffq.jpg",
     "keyword": null
   }
 ]
