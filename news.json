@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0e242561",
+    "title": "Sınırları haritalara sığmayan maden yıkımı",
+    "source": "Evrensel",
+    "time": "04/04/2026 01:13",
+    "link": "https://www.evrensel.net/haber/5978116/sinirlari-haritalara-sigmayan-maden-yikimi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MAPEG'in ihale sürecinin ilk dört gününde illerin alfabetik sırasıyla yapılan ihalelerde 18 ilde 80 ruhsat sahası satıldı. Toplam alan 92 bin 215 hektar.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341483.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bc0d1d38",
     "title": "Adana’da Ruh Sağlığı Hastanesi'nde hijyen sorunu: Tutulan 10 tutanağa rağmen işlem yapılmadı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kayseri Kocasinan'da iki otomobilin çarpıştığı kazada yaralanan olmazken, kazaya karışan otomobillerden birinin önü kağıt gibi ezildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/kayseride-iki-otomobil-carpisti-tofas-kagit-gibi-ezildi-hgm8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a8c6317c",
-    "title": "Trump: İran tarafından savaş uçaklarının düşürülmesi müzakereleri etkilemeyecek",
-    "source": "TRT Haber",
-    "time": "03/04/2026 23:54",
-    "link": "https://www.trthaber.com/haber/dunya/trump-iran-tarafindan-savas-ucaklarinin-dusurulmesi-muzakereleri-etkilemeyecek-940307.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran tarafından savaş uçaklarının düşürülmesinin, Tahran yönetimiyle olası müzakereleri etkilemeyeceğini belirtti.",
-    "image": null,
     "keyword": null
   }
 ]
