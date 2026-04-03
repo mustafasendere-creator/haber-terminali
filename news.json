@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e770af3",
+    "title": "Avustralya'da uzun yolculuğa çıkacak sürücülere yakıt kıtlığı nedeniyle tedarik çağrısı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 15:55",
+    "link": "https://www.trthaber.com/haber/dunya/avustralyada-uzun-yolculuga-cikacak-suruculere-yakit-kitligi-nedeniyle-tedarik-cagrisi-940262.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avustralya'da hükümet, ABD ve İsrail'in İran'a saldırıları sonrası yaşanan yakıt krizi nedeniyle hafta sonu uzun yolculuğa çıkacak vatandaşlara, şehir içindeki benzin istasyonlarından yakıt tedarik etmeleri çağrısı yaptı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6eea4897",
     "title": "TDT Devlet Başkanları Gayriresmi Zirve'si 15 Mayıs'ta Türkistan'da düzenlenecek",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Adalet Bakanı Akın Gürlek, \"Geçmişteki tüm kesimlerin travmalarını bir kenara koyup, güçlü Türkiye davamıza hizmet eden Terörsüz Türkiye yolunu zorlayacağız\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_456d9fc0",
-    "title": "Katil İsrail ordusunun Lübnan'a düzenlediği son saldırılarda 5 kişi öldü",
-    "source": "TRT Haber",
-    "time": "03/04/2026 15:14",
-    "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusunun-lubnana-duzenledigi-son-saldirilarda-5-kisi-oldu-940256.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun gün içinde Lübnan'a düzenlediği saldırılarda 5 kişi yaşamını yitirdi.",
     "image": null,
     "keyword": null
   }
