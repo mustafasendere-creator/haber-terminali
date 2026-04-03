@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa06c749",
+    "title": "ABD uçağının enkazı uydu görüntülerine yansıdı",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 10:15",
+    "link": "https://www.cumhuriyet.com.tr/dunya/abd-ucaginin-enkazi-uydu-goruntulerine-yansidi-2491992",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’ın Suudi Arabistan’daki ABD üssüne yönelik saldırısına ait uydu görüntüleri, ABD’ye ait bir AWACS uçağının ağır hasarla kullanılamaz hale geldiğini ortaya koydu; aynı üste diğer kritik uçakların da günlerce açıkta bırakılması dikkat çekti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0931db06-fc78-4ee3-bcc9-a7c47c68a9db.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_508d85e7",
     "title": "ÖTV muafiyeti ile hangi otomobil ve araçlar alınabilir? ÖTV muafiyeti kapsamında alınabilecek marka ve modeller hangileri?",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "ATV ekranlarının programları arasında reyting rekorları kıran Müge Anlı ile Tatlı Sert programını canlı izlemek isteyenler internet tarayıcılarında sorgulamalarını sürdürüyor. İşte ATV Müge Anlı canlı izle 3 Nisan 2026 Cuma günü bölümü! Müge Anlı ile Tatlı Sert canlı izle.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/atv-canli-yayin-muge-anli-izle-yeni-bolum-muge-anli-canli-yayin-izle-jbg3.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_aaaefa0b",
-    "title": "Trabzonspor-Galatasaray maçı öncesi kritik tablo! Papara Park’ta büyük hesap",
-    "source": "Haber61",
-    "time": "03/04/2026 09:34",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-galatasaray-maci-oncesi-kritik-tablo-papara-parkta-buyuk-h628456.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Süper Lig’de yarın Papara Park’ta Galatasaray’ı ağırlayacağı kritik maçta hem 882 günlük derbi hasretini bitirmeyi hem de zirve yarışında yeni bir sayfa açmayı hedefliyor.",
-    "image": "https://resim.haber61.net/news/610627.jpg",
-    "keyword": "trabzon"
   }
 ]
