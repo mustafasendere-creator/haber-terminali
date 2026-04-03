@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e5e2bcce",
+    "title": "İran Devrim Muhafızları Ordusu: Kuveyt'teki su arıtma tesisine İsrail saldırdı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 14:54",
+    "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-kuveytteki-su-aritma-tesisine-israil-saldirdi-940255.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusu, Kuveyt'teki bir enerji santralindeki su arıtma tesisine saldırının, \"İran'ı suçlamak amacıyla\" İsrail tarafından gerçekleştirildiğini iddia etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a51ee8bb",
     "title": "Gürcistan'da düşen kargo uçağı: 'Dış müdahale izine rastlanmadı'",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Ankara’da düzenlenecek Trabzon Günleri kapsamında gerçekleştirilecek 61 Sohbet programına TİM Başkanı Mustafa Gültepe katılacak. Programda ihracat hedefleri ve üretim vizyonu ele alınacak.",
     "image": "https://resim.haber61.net/news/610695.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_0ab78939",
-    "title": "Kızılcık Şerbeti'nin kadrosundan çıkarılmıştı: Doğukan Güngör'ün yeni adresi belli oldu",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 13:54",
-    "link": "https://www.cumhuriyet.com.tr/yasam/kizilcik-serbeti-nin-kadrosundan-cikarilmisti-dogukan-gungor-un-yeni-adresi-belli-oldu-2492050",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kızılcık Şerbeti’nden ayrılan Doğukan Güngör’ün yeni projesi belli oldu; oyuncu, Kanal D’de yayınlanacak “Haysiyet” dizisiyle anlaştı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7927103f-3085-4a60-b277-c1e4c7b57c5b.jpg",
-    "keyword": null
   }
 ]
