@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c1a0a8f",
+    "title": "Artemis II mürettebatının uzay aracındaki tuvalette arıza bildirildi",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 20:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/artemis-ii-murettebatinin-uzay-aracindaki-tuvalette-ariza-bildirildi-2492174",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NASA 50 yılı aşkın sürenin ardından Ay'a ilk yolculuğunu başlatan Artemis II görevinde yer alan mürettebat, Dünya yörüngesindeyken yerdeki görev ekibine, uzay aracındaki tuvalette arıza olduğunu bildirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/57ddf1b4-b9a7-448b-b461-b2a257e40d44.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_334a84b9",
     "title": "Dünya'nın uzaydan çekilmiş yeni görüntüleri yayınlandı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig’in 28. haftasında lider Galatasaray, Trabzonspor ile deplasmanda oynayacağı dev maçın hazırlıklarını tamamlayarak kamp kadrosunu belirledi. Sarı-kırmızılıların Trabzon kafilesinde kırmızı kart cezalısı Leroy Sane&#039;nin dışında sakatlıkları bulunan Victor Osimhen ve Sara da yer almadı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/galatasarayin-trabzon-kafilesi-belli-oldu-3-eksik-8ejg.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c5f08540",
-    "title": "Hüseyin Cebe öğretmen, hayatını kaybedişinin 19'uncu yılında anıldı",
-    "source": "Evrensel",
-    "time": "03/04/2026 19:54",
-    "link": "https://www.evrensel.net/haber/5978109/huseyin-cebe-ogretmen-hayatini-kaybedisinin-19uncu-yilinda-anildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kocaeli Darıca'da görev yaptığı okulda akli dengesi yerinde olmadığı ileri sürülen bir başka öğretmen tarafından öldürülen Hüseyin Cebe öğretmen, hayatını kaybedişinin 19'uncu yılında anıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341477.jpg",
-    "keyword": null
   }
 ]
