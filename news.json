@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8a527468",
+    "title": "Cumhurbaşkanı Erdoğan, Rusya Devlet Başkanı Putin ile telefonda görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 18:53",
+    "link": "https://www.aa.com.tr/tr/guncel/cumhurbaskani-erdogan-rusya-devlet-baskani-putin-ile-telefonda-gorustu/3890842",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Rusya Devlet Başkanı Vladimir Putin ile telefonda görüştü. Görüşmede, Türkiye-Rusya ikili ilişkileri ile bölgesel ve küresel konular ele alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0a961c39",
     "title": "Sisi ile Zelenskiy, bölgesel gerilimi ve Rusya-Ukrayna savaşını görüştü",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Nevşehir’de, trafikte sollama nedeniyle çıkan tartışma kavgaya dönüştü. Bıçak ve sopaların kullanıldığı olay sonrası taraflara toplamda, 1 milyon 80 bin TL ceza kesilirken, 2 sürücü tutuklanarak cezaevine gönderildi. Yaşanan kavga da cep telefonu ile kaydedildi",
     "image": "https://im.haberturk.com/l/2026/04/02/ver1775127489/3874282/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_22a1bdfa",
-    "title": "Cumhurbaşkanlığı seçimi anketi: Erdoğan İmamoğlu ve Yavaş'a kaybediyor",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 17:56",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskanligi-secimi-anketi-erdogan-imamoglu-ve-yavas-a-kaybediyor-2492135",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yapılan son seçim araştırmasına göre, AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'ın olası adaylığı karşısında Ekrem İmamoğlu ve Mansur Yavaş yarışı kazanan isimler oluyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a8861c2f-b795-4a7a-95fa-03fda0e1e548.jpg",
     "keyword": null
   }
 ]
