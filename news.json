@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_58e3aff7",
+    "title": "Pentagon'un Orta Doğu'daki askeri kayıplara ilişkin güncel verileri paylaşmadığı iddia edildi",
+    "source": "TRT Haber",
+    "time": "03/04/2026 12:35",
+    "link": "https://www.trthaber.com/haber/dunya/pentagonun-orta-dogudaki-askeri-kayiplara-iliskin-guncel-verileri-paylasmadigi-iddia-edildi-940237.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Savunma Bakanlığının Pentagon ABDİsrail ile İran arasındaki savaş kapsamında ölen ve yaralanan ABD'li askerlerin sayısına ilişkin güncel verileri paylaşmadığı ve kayıpların kamuoyuna eksik yansıtıldığı öne sürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a6be2016",
     "title": "Tekirdağ'da GDO'lu mısır davası: Mahkeme bilirkişi raporu istedi",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un eski başkanı Sadir Şener’in Muğla’nın Bodrum ilçesinde bulunan motoryatında yangın çıktı. Söndürme esnasında dumandan etkilenen 5 kişi hastaneye sevk edildi",
     "image": "https://resim.haber61.net/news/610663.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_77c6f537",
-    "title": "TCMB: Bankalar kredi konusunda 2026 yılının ilk çeyreğinde elini sıkı tuttu",
-    "source": "Haber Global",
-    "time": "03/04/2026 11:54",
-    "link": "https://haberglobal.com/ekonomi/tcmb-bankalar-kredi-konusunda-2026-yilinin-ilk-ceyreginde-elini-siki-tuttu-516825",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Banka Kredileri Eğilim Anketi'nde, yurt içi ve yurt dışı fonlama koşullarında bir önceki çeyrekte görülen gevşeme yönlü değerlendirmelerin 2026 yılının birinci çeyreğinde yerini belirgin bir sıkılaşmaya bıraktığı belirtildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/tcmb-bankalar-kredi-konusunda-2026-yilinin-ilk-ceyreginde-elini-siki-tuttu-uakn.jpg",
-    "keyword": null
   }
 ]
