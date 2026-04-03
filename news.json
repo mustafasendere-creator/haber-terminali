@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ebe57eb9",
+    "title": "İran medyası duyurdu: Fatehin Birliği Komutanı Zade öldürüldü",
+    "source": "Evrensel",
+    "time": "03/04/2026 09:14",
+    "link": "https://www.evrensel.net/haber/5978007/iran-medyasi-duyurdu-fatehin-birligi-komutani-zade-olduruldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail’in İran’a yönelik saldırılarında Fatehin Birliği Komutanı Muhammed Ali Fethali Zade’nin öldüğü açıklandı. Kum–Tahran otoyolunda da bir nokta vuruldu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341385.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_e4be8748",
     "title": "Maçka Belediyesi Meclisinde Gerginlik İddiası",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Stratejik Dış İlişkiler Konseyi Başkanı Kemal Harazi ve eşine saldırıya yanıt olarak Birleşik Arap Emirlikleri'ndeki (BAE) Amerikan şirketi Oracle'ın veri merkezi ve bilişim altyapılarının hedef alındığı bildirildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341239.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_860a8222",
-    "title": "Dolar Euro Ne Kadar: Bugün Kurda Yükseliş Var Mı Son Rakamlar Açıklandı",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 08:34",
-    "link": "https://www.takagazete.com.tr/dolar-euro-ne-kadar-bugun-kurda-yukselis-var-mi-son-rakamlar-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Dolar euro ne kadar 03 Nisan 2026, bugün dolar kaç TL, euro kaç TL oldu, dolar ve euro yükseliyor mu, haftalık seyir nasıl, piyasaları ne etkiliyor sorularının yanıtları ve güncel döviz fiyatları yatırımcıların gündeminde yer alıyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/dolar-euro-doviz-fiyat.png",
     "keyword": null
   }
 ]
