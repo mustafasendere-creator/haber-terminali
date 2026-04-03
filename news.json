@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_565ae0a5",
+    "title": "“Hayat Suyu Gediz” can çekişiyor",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 10:34",
+    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/hayat-suyu-gediz-can-cekisiyor-2491999",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa Büyükşehir Belediyesi, Manisa Kent Konseyleri’nin ortaklaşa düzenlediği panelde, sanayi ve tarımsal atıklar nedeniyle ciddi kirlilik tehdidi altındaki Gediz Nehrin’e dikkat çekmek için “Gediz Ölüyor Birlikte Durduralım” denilerek ortak mücadele çağrısı yapıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/671d8f04-6840-4ac9-8ac3-8c27520e7d6c.png",
+    "keyword": null
+  },
+  {
     "id": "GND_3217f8f5",
     "title": "Futbolda yasa dışı bahis soruşturması: Mert Hakan Yandaş ilk kez hakim karşısında!",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’da Onuachu’nun golcülüğü ve Zubkov’un asist katkısı, Galatasaray derbisi öncesi öne çıkıyor. İki oyuncu son haftalardaki performanslarıyla dikkat çekiyor.",
     "image": "https://resim.haber61.net/news/610633.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b2483067",
-    "title": "Bedelli askerlik ücreti yüzde 25 artırıldı",
-    "source": "Haber Global",
-    "time": "03/04/2026 09:54",
-    "link": "https://haberglobal.com/gundem/bedelli-askerlik-ucreti-yuzde-25-artirildi-516797",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM’de kabul edilen torba yasa teklifiyle bedelli askerlik ücreti yüzde 25 artırıldı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/bedelli-askerlik-ucreti-yuzde-25-artirildi-puld.jpg",
-    "keyword": null
   }
 ]
