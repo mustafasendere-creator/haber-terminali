@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_219d228b",
+    "title": "Adana Demirspor ligin 33. haftasında ilk galibiyetini aldı",
+    "source": "Evrensel",
+    "time": "03/04/2026 19:54",
+    "link": "https://www.evrensel.net/haber/5978107/adana-demirspor-ligin-33-haftasinda-ilk-galibiyetini-aldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "1’inci Lig’in 33’üncü hafta karşılaşmasında Adana Demirspor, sahasında konuk ettiği Manisa FK'yı 2-1 mağlup ederek ligdeki ilk galibiyetini aldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341475.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_d7ab4976",
     "title": "Galatasaray'ın Trabzon kafilesi belli oldu: 3 eksik",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon, Rize, Artvin ve Gümüşhane'den ocak-mart döneminde yapılan ihracatın tutarı 425 milyon 665 bin 878 dolar oldu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/asasdas-kurtarildi-142.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_83a53698",
-    "title": "ABD ve İran basını: İran'da bir ABD savaş uçağı düşürüldü",
-    "source": "BBC Türkçe",
-    "time": "03/04/2026 18:34",
-    "link": "https://www.bbc.com/turkce/articles/cp38lg4npkno",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İran basını, İran'da bir ABD savaş uçağının düşürüldüğünü aktarıyor. Uçağın F-15 tipi olduğu ve ABD ordusunun İran'da bir arama - kurtarma operasyonu başlattığı da gelen bilgiler arasında.",
-    "image": null,
     "keyword": null
   }
 ]
