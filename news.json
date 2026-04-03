@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_980782ab",
+    "title": "TCDD'den Tekirdağ ve çevresi için uyarı!",
+    "source": "Habertürk",
+    "time": "03/04/2026 15:34",
+    "link": "https://www.haberturk.com/tcdd-den-tekirdag-ve-cevresi-icin-uyari-3874337",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Cumhuriyeti Devlet Demiryolları (TCDD) Genel Müdürlüğü'nce, Tekirdağ ve çevresindeki bazı hat kesimlerinde otla mücadele kapsamında ilaçlama yapılacağı bildirildi. Kullanılan ilaçların insan ve hayvan sağlığı açısından risk oluşturabileceği vurgulanan açıklamada, vatandaşların belirtilen demir yolu hat kesimleri ile istasyon çevrelerinde dikkatli olmaları istendi",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775138048/3874337/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_fd2a3e84",
     "title": "The Pitt'in yıldızı dizide alınan \"en zekice kararı\" açıkladı",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "İbrahim Erdemoğlu Spor Lisesi, Sivas’ta oynanacak Türkiye yarı finalleri öncesi hazırlıklarını sürdürüyor. Hedef Türkiye şampiyonluğu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/spor-lisesi.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_eafe8c0c",
-    "title": "Mircea Lucescu kalp krizi geçirdi: Hastaneden ilk açıklama geldi!",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 14:54",
-    "link": "https://www.cumhuriyet.com.tr/spor/mircea-lucescu-kalp-krizi-gecirdi-hastaneden-ilk-aciklama-geldi-2492069",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rahatsızlığı nedeniyle bir süredir hastanede tedavi gören ve önceki gün Romanya Milli Takımı ile yollarını ayıran Mircea Lucescu'nun kalp krizi geçirdiği açıklandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/45b9ae12-6c9d-4d49-a85f-e9d6ffec9cbb.jpg",
-    "keyword": null
   }
 ]
