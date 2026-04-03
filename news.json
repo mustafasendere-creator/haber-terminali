@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1cad3c86",
+    "title": "İçişleri Bakanlığı'ndan 9 il için 'sarı' kodlu uyarı: Bu kentlerde yaşayanlar dikkat!",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 16:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-ndan-9-il-icin-sari-kodlu-uyari-bu-kentlerde-yasayanlar-dikkat-2492120",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, İzmir, Aydın, Muğla, Diyarbakır, Batman, Siirt, Şırnak, Hakkari ve Bitlis illeri için sağanak ve toz taşınımı nedeniyle \"sarı\" kodlu meteorolojik uyarıda bulundu.​​​​​​​",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5c64c03a-a458-459d-bf1b-5f4c00146355.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_63ebdde6",
     "title": "İstanbul için TOKİ kura çekiliş tarihi belli oldu",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, evini yenilemek isteyenlere 3 milyon TL'ye kadar destek verileceğini açıkladı. Yeni kredi paketi; 1 yıl ödemesiz dönem, 180 ay vade ve yüzde 0.69 faiz avantajıyla sunulacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6c60cfde",
-    "title": "Yüzyılın Konut Projesi projesinde İstanbul için kura tarihi belli oldu",
-    "source": "TRT Haber",
-    "time": "03/04/2026 16:14",
-    "link": "https://www.trthaber.com/haber/gundem/yuzyilin-konut-projesi-projesinde-istanbul-icin-kura-tarihi-belli-oldu-940267.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhuriyet tarihinin en büyük sosyal konut hamlesi olarak hayata geçirilen \"Yüzyılın Konut Projesi\" kapsamında İstanbul'daki 100 bin konut için hak sahipleri, 25 Nisan Cumartesi Salı günü kurayla belirlenecek.",
     "image": null,
     "keyword": null
   }
