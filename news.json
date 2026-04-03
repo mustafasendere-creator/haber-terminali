@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_34f82ea8",
+    "title": "İçişleri Bakanlığından bazı iller için \"sarı\" kodlu meteorolojik uyarı",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 16:53",
+    "link": "https://www.aa.com.tr/tr/guncel/icisleri-bakanligindan-bazi-iller-icin-sari-kodlu-meteorolojik-uyari/3890671",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, bazı iller için sağanak ve toz taşınımı nedeniyle \"sarı\" kodlu meteorolojik uyarıda bulundu.​​​​​​​",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d053c243",
     "title": "AB'de akaryakıt fiyatları yükselmeye devam ediyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hindistan'da bir fotoğraf çekimi için pembe renge boyanan 65 yaşındaki Chanchal adlı filin yakın zamanda hayatını kaybettiği ortaya çıktı. Filin pembeye boyanması, sosyal medyada tepkilere sebep oldu",
     "image": "https://im.haberturk.com/l/2026/04/02/ver1775135357/3874317/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_70250617",
-    "title": "Yağmur sonrası rengi değişti",
-    "source": "Habertürk",
-    "time": "03/04/2026 15:55",
-    "link": "https://www.haberturk.com/yagmur-sonrasi-rengi-degisti-3874319",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eskişehir'de etkili olan yağışın ardından Sakarya Nehri'nin rengi kahverengiye dönüştü",
-    "image": "https://im.haberturk.com/l/2026/04/02/ver1775135922/3874319/jpg/1280x1280",
     "keyword": null
   }
 ]
