@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a2b02b44",
+    "title": "Dikkat: Bir faturada iki ayrı tarifeden hesap görebilirsiniz!",
+    "source": "Ekonomim",
+    "time": "03/04/2026 22:35",
+    "link": "https://www.ekonomim.com/sektorler/enerji/dikkat-bir-faturada-iki-ayri-tarifeden-hesap-gorebilirsiniz-haberi-885951",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elektrikte olduğu gibi doğalgazda da kademeli faturaya geçildi. Bu yöntem, belirli bir miktarın üzerinde tüketim yapanların daha yüksek bedel ödemesi anlamına geliyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/dikkat-bir-faturada-iki-ayri-tarifeden-hesap-gorebilirsiniz-1es5_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8116bedc",
     "title": "Kayseri OSB’de Mehmet Yalçın, yeniden başkan seçildi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika... Elektrik ve doğalgaza dev zam!",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/1628336397122elektrikdogalgazjpg-UEPWCNJozkSXrZj-w8bfaw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d36349a5",
-    "title": "Sözcü TV'de yayın kesildi",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 21:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/sozcu-tv-de-yayin-kesildi-2492178",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sözcü TV'de yaşanan sistemsel sorun nedeniyle yayında aksaklıklar yaşandığı, bu sebeple yayına ara verildiği bildirildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2bf50917-ba73-4c73-b7a0-90b49122b013.jpg",
     "keyword": null
   }
 ]
