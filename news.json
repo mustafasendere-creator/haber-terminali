@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ff3d0e2",
+    "title": "Mardin'de kaybolan 80 yaşındaki kadının arazide cansız bedeni bulundu",
+    "source": "Evrensel",
+    "time": "03/04/2026 22:14",
+    "link": "https://www.evrensel.net/haber/5978126/mardinde-kaybolan-80-yasindaki-kadinin-arazide-cansiz-bedeni-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mardin'in Kızıltepe ilçesinde kayıp olarak aranan Alzheimer hastası 80 yaşındaki kadının cansız bedeni arazide bulundu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341517.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7f203f44",
     "title": "Trump, Hürmüz'ü açabileceğini iddia ediyor: Kongre'den savunma için 1,5 trilyon dolar istedi",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ilgaz Dağı'nda kar yağışı etkili oluyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_644d2772",
-    "title": "Artvin'de otizm için anlamlı yürüyüş",
-    "source": "Haber61",
-    "time": "03/04/2026 21:13",
-    "link": "https://www.haber61.net/artvin/artvinde-otizm-icin-anlamli-yuruyus-h628514.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Artvin'de Dünya Otizm Farkındalık Günü kapsamında düzenlenen yürüyüşte, otizme dikkat çekildi. Etkinlikte verilen mesajlarda, otizmin bir eksiklik değil farklılık olduğu vurgulandı.",
-    "image": "https://resim.haber61.net/news/610729.jpg",
     "keyword": null
   }
 ]
