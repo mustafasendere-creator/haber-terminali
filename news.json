@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b8d6ab82",
+    "title": "Yargıtay'dan tasarruf finansman şirketlerinin organizasyon ücreti iadesine ilişkin bozma kararı",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 15:33",
+    "link": "https://www.aa.com.tr/tr/guncel/yargitaydan-tasarruf-finansman-sirketlerinin-organizasyon-ucreti-iadesine-iliskin-bozma-karari/3890583",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yargıtay 3. Hukuk Dairesi, tasarruf finansman şirketleri ile yapılan sözleşmeden cayılması halinde organizasyon ücretinin iadesi yönünde yerel mahkeme tarafından verilen kararı bozdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_dbc7d9e3",
     "title": "İşler kontrolden çıktı, tasfiye başladı: Sırada kimler var...",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, tasarruflu sulama sistemlerine yönelik yatırımlarda 8 milyon liraya kadar olan hibeye esas proje limitini 10 milyon liraya çıkardıklarını bildirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a332f6c6",
-    "title": "Video İran saldırısının ardından İsrail'deki patlamaya mı ait?",
-    "source": "Teyit.org",
-    "time": "03/04/2026 14:35",
-    "link": "https://teyit.org/analiz/video-iran-saldirisinin-ardindan-israildeki-patlamaya-mi-ait",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medyada İran’ın saldırılarının ardından İsrail halkının patlama sonrası panikle kaçtığını gösterdiği iddia edilen bir video paylaşıldı.",
-    "image": "https://md.teyit.org/2026/04/iran-isaril-fuze-iddia.webp",
     "keyword": null
   }
 ]
