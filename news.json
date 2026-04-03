@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6a7ed593",
+    "title": "Savcı, kadın hakimi yaratmış, hükümlü çaycı kurtarmıştı… İlk duruşma görüldü: ‘İstesem zaten öldürürdüm’",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 01:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/savci-kadin-hakimi-yaratmis-hukumlu-cayci-kurtarmisti-ilk-durusma-goruldu-istesem-zaten-oldururdum-2492160",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kadın hakimi silahla yaralayan savcının yargılanmasına başlandı. Sanık savcı, savunmasında, “Kendisini öldürmek istesem zaten öldürürdüm” dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/948e2624-d1bd-4ec7-b8ae-f927d9880308.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e799e29a",
     "title": "ABDye ait A10 uçağı, Hürmüz Boğazı çevresinde vuruldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adalet Bakanı Akın Gürlek, Kuzey Marmara Otoyolu'nda yaşanan kazada yaralanan ve kaldırıldığı hastanede şehit olan polis memuru Seçkin Yalçın için başsağlığı mesajı yayımladı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/adalet-bakani-gurlekten-sehit-polis-memuru-icin-taziye-mesaji-fuwv.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9aec1afb",
-    "title": "İran Ordusu: ABDye ait A10 uçağı, Hürmüz Boğazı çevresinde vuruldu",
-    "source": "TRT Haber",
-    "time": "04/04/2026 00:14",
-    "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-abdye-ait-a10-ucagi-hurmuz-bogazi-cevresinde-vuruldu-940309.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Ordusu, \"ABD ve İsraile ait bir A10 uçağının Hürmüz Boğazı çevresinde hava savunma sistemleri tarafından hedef alındığını ve uçağın Fars Basra Körfezine düştüğünü\" açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
