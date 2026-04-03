@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a2f77c0",
+    "title": "Roma Mahkemesi, Netflix'in fiyat artışlarına karşı karar verdi",
+    "source": "Euronews",
+    "time": "03/04/2026 23:14",
+    "link": "http://tr.euronews.com/business/2026/04/03/roma-mahkemesi-netflixin-fiyat-artislarina-karsi-karar-verdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya'da hakimler, Netflix'in tek taraflı fiyat değişikliğine karşı yapılan itirazı kabul etti. Tüketici derneği bazı kullanıcılara 500 euro kadar geri ödeme yapılabileceğini söylüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_23fb57f3",
     "title": "Elektrik ve doğal gaza yüzde 25 zam",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, \"Dünyada büyük kriz var, bölgemiz ateş çemberi. Bütün bu yaşananlar ülkemizin her alanda kendi kendine yetebilir olmasının ne kadar önemli olduğunu ortaya koydu\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ddf729f1",
-    "title": "İran, ABD'nin teklifini reddetti",
-    "source": "TRT Haber",
-    "time": "03/04/2026 21:54",
-    "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-teklifini-reddetti-940299.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Fars Haber Ajansı, Tahran yönetiminin ABD'den gelen 48 saatlik ateşkes teklifini reddettiğini duyurdu.",
     "image": null,
     "keyword": null
   }
