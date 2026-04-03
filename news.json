@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b62bd352",
+    "title": "T.C. BEYKOZ 2. AİLE MAHKEMESİ",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 00:14",
+    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-beykoz-2-aile-mahkemesi-2492152",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "T.C. BEYKOZ 2. AİLE MAHKEMESİ",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4f44e3cf-931e-4177-a910-1a8e1b60dbe2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1f244706",
     "title": "T.C. İSTANBUL ANADOLU BANKA ALACAKLARI İCRA DAİRESİ MÜDÜRLÜĞÜ",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig'in dev randevusunda Trabzonspor ile Galatasaray yarın karşı karşıya geliyor; dev maç öncesi Trabzonspor’un sahaya çıkması beklenen muhtemel kadrosu netleşti.",
     "image": "https://resim.haber61.net/news/610755.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_292dff83",
-    "title": "AKP'li belediyede milyonlarca liralık ikram bedeli iddiası",
-    "source": "Sözcü",
-    "time": "03/04/2026 22:54",
-    "link": "https://www.sozcu.com.tr/akp-li-belediyede-milyonlarca-liralik-ikram-bedeli-iddiasi-p307239",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKP'li belediyede milyonlarca liralık ikram bedeli iddiası",
-    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/aksarayjpg-7sR1sealh0S_PrUsAj2XNg.jpg",
-    "keyword": null
   }
 ]
