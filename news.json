@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0b82d896",
+    "title": "Bakan Kurum'dan kentsel dönüşüm için yeni finansman müjdesi",
+    "source": "TRT Haber",
+    "time": "03/04/2026 16:14",
+    "link": "https://www.trthaber.com/haber/ekonomi/bakan-kurumdan-kentsel-donusum-icin-yeni-finansman-mujdesi-940266.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, evini yenilemek isteyenlere 3 milyon TL'ye kadar destek verileceğini açıkladı. Yeni kredi paketi; 1 yıl ödemesiz dönem, 180 ay vade ve yüzde 0.69 faiz avantajıyla sunulacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6c60cfde",
     "title": "Yüzyılın Konut Projesi projesinde İstanbul için kura tarihi belli oldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Citigroup, Brent petrol için 2026 ikinci çeyrek tahminini paylaştı. Banka, baz senaryoda fiyatın daha sınırlı kalacağını belirtirken, olumsuz senaryoda sert yükseliş ihtimaline dikkat çekti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0c1b3c76-30c8-41af-bb70-f0d443df28ff.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_aa070e82",
-    "title": "Yalova'da seyir halindeki yolcu otobüsünde yangın",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 15:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/yalova-da-seyir-halindeki-yolcu-otobusunde-yangin-2492079",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yalova-Bursa kara yolunda seyir halindeki yolcu otobüsünün arka kısmında bulunan motor bölümünde yangın çıktı. Kısa sürede alevler büyüyerek otobüsü sardı. Otobüsteki 11 yolcu tahliye edilirken yangını bölgeye sevk edilen itfaiye ekipleri söndürdü.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/40e0d705-b843-485e-a379-ff29e42f4dea.jpg",
     "keyword": null
   }
 ]
