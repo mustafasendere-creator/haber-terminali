@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e799e29a",
+    "title": "ABDye ait A10 uçağı, Hürmüz Boğazı çevresinde vuruldu",
+    "source": "TRT Haber",
+    "time": "04/04/2026 01:34",
+    "link": "https://www.trthaber.com/haber/dunya/abdye-ait-a10-ucagi-hurmuz-bogazi-cevresinde-vuruldu-940309.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'ye ait bir A10 savaş uçağı, Hürmüz Boğazı çevresinde İran hava savunma sistemleri tarafından hedef alındı. İran ordusu, uçağın Fars Basra Körfezine düştüğünü açıkladı. ABD basının pilotun sağ kurtulduğunu bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2651959b",
     "title": "Trafik kazasında ağır yaralanan polisimiz Seçkin Yalçın şehit oldu",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Ordusu, \"ABD ve İsraile ait bir A10 uçağının Hürmüz Boğazı çevresinde hava savunma sistemleri tarafından hedef alındığını ve uçağın Fars Basra Körfezine düştüğünü\" açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8b48c2de",
-    "title": "İtalya Başbakanı Meloni'den Körfez ülkelerine enerji odaklı sürpriz ziyaret",
-    "source": "TRT Haber",
-    "time": "04/04/2026 00:14",
-    "link": "https://www.trthaber.com/haber/dunya/italya-basbakani-meloniden-korfez-ulkelerine-enerji-odakli-surpriz-ziyaret-940311.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İtalya Başbakanı Giorgia Meloni, Suudi Arabistan, Katar ve Birleşik Arap Emirlikleri'nde BAE üst düzey görüşmeler yapmak üzere ziyaret ettiği Körfez bölgesinde temaslarına Suudi Arabistan'ın Cidde kentinden başladı.",
     "image": null,
     "keyword": null
   }
