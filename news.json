@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6eea4897",
+    "title": "TDT Devlet Başkanları Gayriresmi Zirve'si 15 Mayıs'ta Türkistan'da düzenlenecek",
+    "source": "TRT Haber",
+    "time": "03/04/2026 15:54",
+    "link": "https://www.trthaber.com/haber/gundem/tdt-devlet-baskanlari-gayriresmi-zirvesi-15-mayista-turkistanda-duzenlenecek-940265.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk Devletleri Teşkilatı TDT Devlet Başkanları Gayriresmi Zirvesi 15 Mayısta Kazakistanın Türkistan şehrinde düzenlenecek. AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, liderlerin Zirve'de dünyaya önemli mesajlar vereceğini söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_f51397aa",
     "title": "Trabzonspor eski başkanının yatı yandı",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail ordusunun gün içinde Lübnan'a düzenlediği saldırılarda 5 kişi yaşamını yitirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_de662baf",
-    "title": "İHD İstanbul, Romani Godi ve CİSST: Sinan Üstev’in ölümü önlenebilirdi",
-    "source": "Evrensel",
-    "time": "03/04/2026 15:14",
-    "link": "https://www.evrensel.net/haber/5978075/ihd-istanbul-romani-godi-ve-cisst-sinan-ustevin-olumu-onlenebilirdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İHD, Romani Godi ve CİSST, Tekirdağ 2 No’lu T Tipi Kapalı Hapishanesi’nde yaşamını yitiren 26 yaşındaki mahpus Sinan Üstev’in ölümüne ilişkin yürütülen soruşturmanın olayın aydınlatılmasından uzak olduğunu belirtti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341444.jpg",
     "keyword": null
   }
 ]
