@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f6a7335",
+    "title": "ÖTV istisnasında yeni düzenleme yasalaştı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 17:56",
+    "link": "https://www.trthaber.com/haber/gundem/otv-istisnasinda-yeni-duzenleme-yasalasti-940279.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Engel oranı yüzde 40 ve üzeri olan ortopedik engellilerden ortopedik engelleri nedeniyle hakkında sürücü belgesi alamayacağına karar verilen engelli bireylere de Özel Tüketim Vergisi Kanunu kapsamında belirlenen taşıtlar için ÖTV istisnası uygulanacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6e454cb9",
     "title": "İşgalci İsrail saldırılarında Lübnan'da hayatını kaybedenlerin sayısı 1368'e yükseldi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "EMEP İzmir İl Örgütü, İZSU’da yaşanan iş cinayetlerinin taşeronlaştırma ve denetimsizlikten kaynaklandığını belirterek İzBB ve İZSU yönetimine 10 maddelik soru yöneltti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/265892.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ab4444bc",
-    "title": "İstanbul TOKİ kura tarihi ne zaman? Bakan Kurum açıkladı",
-    "source": "Evrensel",
-    "time": "03/04/2026 17:14",
-    "link": "https://www.evrensel.net/haber/5978089/istanbul-toki-kura-tarihi-ne-zaman-bakan-kurum-acikladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hak sahiplerinin belirleneceği kura sonrası konutların en geç 2 yıl içinde teslim edilmesi planlanıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/289555.jpg",
     "keyword": null
   }
 ]
