@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a1797ef",
+    "title": "TÜİK: Mart ayında yıllık enflasyon yüzde 30,87",
+    "source": "Euronews",
+    "time": "03/04/2026 11:14",
+    "link": "http://tr.euronews.com/business/2026/04/03/tuik-mart-ayinda-yillik-enflasyon-yuzde-3087",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enflasyon Araştırma Grubu (ENAG) ise mart ayı enflasyonunun aylık yüzde 4,10, yıllık yüzde 54,62 olduğunu bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_175e046f",
     "title": "Bayburt İl Genel Meclisi Başkanlığına yeniden Hüseyin Şahin seçildi",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig ekiplerinden Fenerbahçe'de forma giyen Mert Hakan Yandaş, 'futbolda bahis' soruşturması kapsamında ilk kez hakim karşısına çıkacak. Futbolcular ve bazı kulüp yöneticileri de destek için Çağlayan Adliyesi'ne geldi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5a203b83-c857-40a0-ab6d-8ce9d2eea2f8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_61cfb4e7",
-    "title": "İBB Davası'nda 18 tahliye... İmamoğlu'ndan ilk açıklama: 'Bir nebze de olsa hepimizi rahatlattı'",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 10:34",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/ibb-davasi-nda-18-tahliye-imamoglu-ndan-ilk-aciklama-bir-nebze-de-olsa-hepimizi-rahatlatti-2492000",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika haberi... İstanbul 40. Ağır Ceza Mahkemesi’nin, İBB Başkanı Ekrem İmamoğlu’nun da sanıkları arasında yer aldığı davada 18 kişi hakkında verdiği tahliye kararının ardından Silivri’de tahliyeler gerçekleşti. 18 isim hakkında verilen tahliye kararı sonrası bir mesaj paylaşan İBB Başkanı Ekrem İmamoğlu, \"Annelerin ve babaların evlatlarına, evlatların anne ve babalarına kavuşmaları bir nebze de olsa hepimizi rahatlatmıştır\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/6a888d78-92ec-4920-af59-3dc658caf3a9.jpg",
     "keyword": null
   }
 ]
