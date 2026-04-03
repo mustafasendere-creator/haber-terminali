@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1f84c51c",
+    "title": "Basketbol Avrupa Ligi:'Maccabi Rapyd 103 - Anadolu Efes 89",
+    "source": "Evrensel",
+    "time": "03/04/2026 03:13",
+    "link": "https://www.evrensel.net/haber/5977997/basketbol-avrupa-ligi-maccabi-rapyd-103-anadolu-efes-89",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Basketbol Avrupa Ligi'nin maçında Anadolu Efes, Maccabi Rapyd'e 103-89 yenildi. Anadolu Efes ligte 25. yenilgisini yaşadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341371.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_03b27eac",
     "title": "Basketbol: FIBA Kadınlar Avrupa Kupası finali: Athinaikos Qualco 80 - ÇİMSA ÇBK Mersin 85",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İktidarın \"Dezenformasyonla mücadele\" dediği sansür yasası gazeteciler ve sendikacılardan sonra şimdi de kadın mücadelesini tehdit eder hale geldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341322.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3c449d89",
-    "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasında 18 sanık tahliye edildi",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 01:13",
-    "link": "https://www.aa.com.tr/tr/guncel/imamoglu-cikar-amacli-suc-orgutu-davasinda-18-sanik-tahliye-edildi/3889943",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 107'si tutuklu, 5'i \"müşteki sanık\" olmak üzere 407 sanığın yargılandığı davada, 18 sanığın tahliyesine karar verildi.",
-    "image": null,
     "keyword": null
   }
 ]
