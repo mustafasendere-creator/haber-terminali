@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_be6babc3",
+    "title": "Resmi Gazete'de yayımlandı: Malvarlığı dondurma listesi güncellendi",
+    "source": "Evrensel",
+    "time": "03/04/2026 09:34",
+    "link": "https://www.evrensel.net/haber/5978011/resmi-gazetede-yayimlandi-malvarligi-dondurma-listesi-guncellendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler Güvenlik Konseyi kararları doğrultusunda mal varlığı dondurulanlar listesi güncellendi; “IŞİD ve El Kaide ile bağlantılı kişiler” listesine üç yeni isim eklendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/335673.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ae1420d4",
     "title": "Macaristan seçimleri: ABD Başkan Yardımcısı Vance'ten Budapeşte ziyareti planı",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kuveyt Petrol Şirketi (KPC), El-Ahmedi Limanı’ndaki petrol rafinerisinin birçok operasyonel ünitesinde insansız hava aracı (İHA) saldırısı sonucu yangın çıktığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_cfe99aa3",
-    "title": "Terör örgütleri DEAŞ ve El Kaide bağlantılı 3 kişinin Türkiye'deki mal varlıkları donduruldu",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 08:53",
-    "link": "https://www.aa.com.tr/tr/guncel/teror-orgutleri-deas-ve-el-kaide-baglantili-3-kisinin-turkiyedeki-mal-varliklari-donduruldu/3890057",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK) kararı doğrultusunda, \"DEAŞ ve El Kaide ile Bağlantılı Gerçek Kişiler\" kısmına ekleme yapıldı.",
     "image": null,
     "keyword": null
   }
