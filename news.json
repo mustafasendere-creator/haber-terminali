@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da548633",
+    "title": "AP: Pentagon'dan yazılan bir epostaya göre, ABD ordusu 'bir uçağın düşürüldüğüne' dair bildirim aldı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 21:54",
+    "link": "https://www.trthaber.com/haber/dunya/ap-pentagondan-yazilan-bir-e-postaya-gore-abd-ordusu-bir-ucagin-dusuruldugune-dair-bildirim-aldi-940297.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Associated Press AP, ABD Savunma Bakanlığından Pentagon gönderilen bir epostaya göre, ABD ordusunun Orta Doğu'da \"bir uçağın düşürüldüğüne\" dair bildirim aldığını öne sürdü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fa62bb3f",
     "title": "Bakan Bayraktar: Yaşananlar ülkemizin her alanda kendi kendine yetebilir olmasının önemini ortaya koydu",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Galatasaray kafilesi akşam saatlerinde Trabzon'a geldi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/asasdas-kurtarildi-143.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8ffa9af9",
-    "title": "Bakan Kurum: Kentsel dönüşüm tam bağımsız Türkiye'nin teminatıdır",
-    "source": "TRT Haber",
-    "time": "03/04/2026 20:54",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-kentsel-donusum-tam-bagimsiz-turkiyenin-teminatidir-940283.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bakan Kurum, \"Ülkemizin en büyük hava savunma sistemi o muhteşem yerli ve milli füzelerimizse, en büyük kara savunma sistemi de vatandaşın güvenli yuvasıdır. Hangi görevde olursak olalım hep ne dedik, 'İstanbul sarsılırsa Türkiye sarsılır, İstanbul güçlenirse Türkiye güçlenir' Bu nedenle kentsel dönüşüm tam bağımsız Türkiye'nin teminatıdır\" dedi.",
-    "image": null,
-    "keyword": null
   }
 ]
