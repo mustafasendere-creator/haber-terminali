@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a170987",
+    "title": "İstanbul barajlarında doluluk oranı yüzde kaç?",
+    "source": "Haber Global",
+    "time": "03/04/2026 13:14",
+    "link": "https://haberglobal.com/gundem/istanbul-barajlarinda-doluluk-orani-yuzde-kac-516840",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin en kalabalık kenti İstanbul'a su sağlayan barajlardaki doluluk oranları merak ediliyor. Yaşanan son yağışlar neticesinde de bu arama hız kazanmış durumda. İSKİ'nin 3 Nisan Cuma günü açıkladığı barajlardaki doluluk oranı verilerini sizler için derledik.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/istanbul-barajlarinda-doluluk-orani-yuzde-kac-6ivv.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2f098a0a",
     "title": "Ankara'nın 3 aylık ihracatı 4 milyar doları aştı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "RTÜK spor müsabakalarının yayınlarına ilişkin tarafsızlık, adil temsil ve evrensel spor değerlerine uygunluğu güçlendirmek amacıyla radyo, televizyon ve isteğe bağlı yayıncıları bağlayıcı nitelikte ilke kararları aldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_58e3aff7",
-    "title": "Pentagon'un Orta Doğu'daki askeri kayıplara ilişkin güncel verileri paylaşmadığı iddia edildi",
-    "source": "TRT Haber",
-    "time": "03/04/2026 12:35",
-    "link": "https://www.trthaber.com/haber/dunya/pentagonun-orta-dogudaki-askeri-kayiplara-iliskin-guncel-verileri-paylasmadigi-iddia-edildi-940237.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Savunma Bakanlığının Pentagon ABDİsrail ile İran arasındaki savaş kapsamında ölen ve yaralanan ABD'li askerlerin sayısına ilişkin güncel verileri paylaşmadığı ve kayıpların kamuoyuna eksik yansıtıldığı öne sürüldü.",
     "image": null,
     "keyword": null
   }
