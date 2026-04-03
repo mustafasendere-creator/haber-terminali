@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17d02b44",
+    "title": "Uzaydaki astronotların menüsünde ne var?",
+    "source": "TRT Haber",
+    "time": "03/04/2026 07:34",
+    "link": "https://www.trthaber.com/haber/dunya/uzaydaki-astronotlarin-menusunde-ne-var-940172.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Artemis II misyonuyla Ay'ın etrafında tur atacak olan dört astronotun beslenme programı, NASA'nın Johnson Uzay Merkezi tarafından detaylandırıldı. İkmal imkanı, buzdolabı veya son dakika yükleme kapasitesi bulunmayan Orion uzay aracında, her öğün yüksek güvenlik ve raf ömrü kriterlerine göre seçildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_41feb82f",
     "title": "4 il için 'sarı' kodlu uyarı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bu cümleyi duyduğunda insanın başından aşağı adeta soğuk sular dökülür. Bir cümle…Ama bir ömürlük sarsıntı yaratabilir. Hele ki bunu söyleyen kişi, sizin için anlam taşıyorsa: Eşiniz… Çocuğunuz… Yakın bir dost, akraba ya da yıllardır birlikte yürüdüğünüz bir meslektaş… Yıllarca verdiğiniz emek, yaptığınız fedakârlıklar, sustuklarınız, vazgeçtikleriniz… Ve en önemlisi: Siz olmasanız gerçekleşmeyecek olanlar… Bir anda yok [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/bosanma.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_916e495c",
-    "title": "Kim Kime Dum Duma - 3 Nisan 2026",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 05:14",
-    "link": "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-3-nisan-2026-2491959",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": ".",
-    "image": "https://media.cumhuriyet.com.tr/Archive/07b71e12-a035-49ab-8d0f-86e91b7eea94.jpg",
     "keyword": null
   }
 ]
