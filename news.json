@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7b5c5005",
+    "title": "CHP bu kez \"Bursa iradesine sahip çıkıyor\" dedi",
+    "source": "OdaTV",
+    "time": "03/04/2026 21:15",
+    "link": "https://www.odatv.com/guncel/chp-bu-kez-bursa-iradesine-sahip-cikiyor-dedi-120141983",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP bu kez &quot;Bursa iradesine sahip çıkıyor&quot; diyerek toplandı. Özgür Özel, mitingte &quot;Mustafa Bozbey göz altındaysa bunun sebebi AK Parti’den gelen tehditlere boyun eğmemiş olmasıdır. Aydın’daki sözde topuklu, ‘topuklayan efe’ gibi gidip de AK Parti‘ye sığınmamış olmasıdır&quot; dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/chp-bu-kez-bursa-iradesine-sahip-cikiyor-diyor-navr.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f0fdbb47",
     "title": "NASA, Dünya'nın uzaydan çekilmiş yeni görüntülerini paylaştı",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Kadın Futbol Takımı'nın başarılı performansları karşılık buldu; bordo-mavili ekipten tam 7 oyuncu ülkelerinin milli takımlarına çağrıldı.",
     "image": "https://resim.haber61.net/news/610745.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a793745c",
-    "title": "Kırım'da Rus savaş uçağı düştü",
-    "source": "Evrensel",
-    "time": "03/04/2026 20:34",
-    "link": "https://www.evrensel.net/haber/5978061/kirimda-rus-savas-ucagi-dustu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Savunma Bakanlığı, Kırım üzerinde eğitim uçuşu gerçekleştiren ‘Su-30’ tipi savaş uçağının düştüğünü duyurdu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341426.jpg",
-    "keyword": null
   }
 ]
