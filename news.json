@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2c6ee9e8",
+    "title": "Emirates Global Aluminium tesisleri saldırı sonrası kapatıldı",
+    "source": "Ekonomim",
+    "time": "03/04/2026 18:35",
+    "link": "https://www.ekonomim.com/dunya/emirates-global-aluminium-tesisleri-saldiri-sonrasi-kapatildi-haberi-885927",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri merkezli Emirates Global Aluminium (EGA), Abu Dabi&#039;deki tesislerine yönelik düzenlenen saldırı nedeniyle üretimin tamamen durduğunu duyurdu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/emirates-global-aluminium-tesisleri-saldiri-sonrasi-kapatildi-gaxc_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ddde5102",
     "title": "SunExpress'ten yeni rota: Antalya-Memmingen uçuşları başladı",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "TBMM Genel Kurulunda kabul edilen yeni kanunla, 6 Şubat depremlerinden etkilenen hak sahiplerine mali kolaylık sağlandı. Borçlarını 31 Aralık 2026ya kadar defaten ödeyenler, konut ve iş yerlerinde büyük indirimden yararlanabilecek.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0f6a7335",
-    "title": "ÖTV istisnasında yeni düzenleme yasalaştı",
-    "source": "TRT Haber",
-    "time": "03/04/2026 17:56",
-    "link": "https://www.trthaber.com/haber/gundem/otv-istisnasinda-yeni-duzenleme-yasalasti-940279.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Engel oranı yüzde 40 ve üzeri olan ortopedik engellilerden ortopedik engelleri nedeniyle hakkında sürücü belgesi alamayacağına karar verilen engelli bireylere de Özel Tüketim Vergisi Kanunu kapsamında belirlenen taşıtlar için ÖTV istisnası uygulanacak.",
     "image": null,
     "keyword": null
   }
