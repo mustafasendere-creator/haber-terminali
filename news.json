@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3a5ade75",
+    "title": "Kastamonu'da öğrenciler, kitaplardaki kahramanları kostümlerle tanıttı",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 17:13",
+    "link": "https://www.aa.com.tr/tr/guncel/kastamonuda-ogrenciler-kitaplardaki-kahramanlari-kostumlerle-tanitti/3890704",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu'da ilkokul öğrencileri, \"Kütüphaneler Haftası\" dolayısıyla kitaplardaki kahramanları kostümlerle tanıttı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_518190df",
     "title": "Lucescu'dan korkutan haber: Kalp krizi geçirdi",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Valisi Tahir Şahin, Arsin’de şehit Haydar Arslan’ın ailesini ziyaret ederek vefa mesajı verdi. “Şehitlerimizin emanetleri başımızın tacıdır” dedi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/v-a-l-i-167.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_29bd4acb",
-    "title": "Son dakika... Bakan Kurum açıkladı: İstanbul için TOKİ kura çekiliş tarihi belli oldu",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 16:14",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-bakan-kurum-acikladi-istanbul-icin-toki-kura-cekilis-tarihi-belli-oldu-2492087",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika haberi... İstanbul'da TOKİ kurası için çekiliş tarihi belli oldu. Binlerce kişinin beklediği TOKİ İstanbul kura çekilişi için gözler 25 Nisan'a çevrildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/83e03e26-24b6-46e3-a267-8744f16db4db.jpg",
-    "keyword": null
   }
 ]
