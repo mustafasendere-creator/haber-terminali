@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6c4696ae",
+    "title": "Elektrik ve doğalgaza %25 zam",
+    "source": "BBC Türkçe",
+    "time": "03/04/2026 21:33",
+    "link": "https://www.bbc.com/turkce/articles/cddqz11g4m4o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'de hanelerin elektrik ve doğalgaz tarifelerine %25 zam yapıldı. Zamlar 4 Nisan'dan itibaren geçerli olacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f87fc15e",
     "title": "Bakan Işıkhan: İSG eğitimleri, çalışma hayatının dinamiğine uygun hale getirildi",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran basını, İran tarafından düşürülen ABD savaş uçağının pilotunu bulmak için aramatarama faaliyetlerinde bulunan bir ABD helikopterinin vurulduğunu duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_72a003bb",
-    "title": "İletişim Başkanı Duran: Türkiye 'Barışın Anahtarı' olmayı sürdürüyor",
-    "source": "TRT Haber",
-    "time": "03/04/2026 20:34",
-    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-turkiye-barisin-anahtari-olmayi-surduruyor-940291.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanı Burhanettin Duran, \"Ülkemiz uluslararası alanda 'Güvenli Liman Türkiye' olarak anılıyorsa bu, ırk, mezhep, din ve dil ayrımlarını reddeden; insanlık ortak paydasını önceleyen duruşumuzun neticesidir\" dedi.",
     "image": null,
     "keyword": null
   }
