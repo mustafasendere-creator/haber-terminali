@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_66db4de1",
+    "title": "İran: ABD'ye ait bir A10 uçağı Hürmüz Boğazı çevresinde vuruldu",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 22:53",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-abdye-ait-bir-a10-ucagi-hurmuz-bogazi-cevresinde-vuruldu/3891053",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran ordusundan yapılan açıklamada, ABD’ye ait bir A10 uçağı, Hürmüz Boğazı çevresinde vuruldu ve uçak Fars (Basra) Körfezi’ne düştüğünü bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_01e35060",
     "title": "ABD Savunma Bakanlığı: İran ile savaşta şu ana kadar 13 ABD askeri öldü, 365 asker yaralandı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Afganistan&#039;ın Hindu Kush bölgesi merkezli 6,3 büyüklüğünde deprem meydana geldi. Sarsıntı, Pakistan&#039;ın başkenti İslamabad dahil olmak üzere ülkenin birçok bölgesinde hissedildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/pakistanda-buyuk-deprem-sfj1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c6e49fbd",
-    "title": "Trump: 'Hürmüz Boğazı'nı kolayca açabilir, petrolü alabilir ve servet kazanabiliriz'",
-    "source": "Ekonomim",
-    "time": "03/04/2026 21:34",
-    "link": "https://www.ekonomim.com/dunya/trump-hurmuz-bogazini-kolayca-acabilir-petrolu-alabilir-ve-servet-kazanabiliriz-haberi-885897",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, ülkesi ve İsrail&#039;in İran&#039;a yönelik saldırıları sürdürdüğü dönemde, Hürmüz Boğazı&#039;nı açabileceklerini ve &quot;petrolü alıp servet kazanabileceklerini&quot; belirtti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/trump-hurmuz-bogazini-kolayca-acabilir-petrolu-alabilir-ve-servet-kazanabiliriz-f2do_cover.jpg",
     "keyword": null
   }
 ]
