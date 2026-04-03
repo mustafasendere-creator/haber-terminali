@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ed428e45",
+    "title": "Kuveyt'teki bir petrol rafinerisinde İHA saldırısı sonucu yangın çıktı",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 08:54",
+    "link": "https://www.aa.com.tr/tr/guncel/kuveytteki-bir-petrol-rafinerisinde-iha-saldirisi-sonucu-yangin-cikti/3890053",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt Petrol Şirketi (KPC), El-Ahmedi Limanı’ndaki petrol rafinerisinin birçok operasyonel ünitesinde insansız hava aracı (İHA) saldırısı sonucu yangın çıktığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cfe99aa3",
     "title": "Terör örgütleri DEAŞ ve El Kaide bağlantılı 3 kişinin Türkiye'deki mal varlıkları donduruldu",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sosyal medyada diyetisyen Dilara Koçak adına açılan sahte hesapta, Demet Akalın&#039;ın görüntüleriyle &quot;2 ayda 14 kilo verdi&quot; reklamı yapıldı. Reklamı gören Akalın, duruma tepki gösterip takipçilerini uyardı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/demet-akalin-sahte-reklam-kurbani-oldu-fact.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a7323658",
-    "title": "Altında yükseliş serisi sona erdi: Trump’ın İran mesajı rüzgarı tersine çevirdi, yatırımcının gözü anlık fiyatlarda",
-    "source": "Ekonomim",
-    "time": "03/04/2026 07:54",
-    "link": "https://www.ekonomim.com/finans/haberler/altin/altinda-yukselis-serisi-sona-erdi-trumpin-iran-mesaji-ruzgari-tersine-cevirdi-yatirimcinin-gozu-anlik-fiyatlarda-haberi-885759",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küresel piyasalarda güvenli liman olarak görülen altında son günlerdeki yükseliş serisi sona erdi. ABD Başkanı Donald Trump’ın İran’a yönelik sert açıklamaları, jeopolitik riskleri artırırken yatırımcıların gözü anlık fiyatlara çevrildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/altinda-yukselis-serisi-sona-erdi-trumpin-iran-mesaji-ruzgari-tersine-cevirdi-yatirimcinin-gozu-anlik-fiyatlarda-8syp_cover.jpg",
     "keyword": null
   }
 ]
