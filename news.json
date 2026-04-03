@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_43be9a28",
+    "title": "Ankara'dan Bükreş'e direkt uçuşlar başladı",
+    "source": "OdaTV",
+    "time": "03/04/2026 03:34",
+    "link": "https://www.odatv.com/ekonomi/ankaradan-bukrese-direkt-ucuslar-basladi-120141867",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AJet, Ankara Esenboğa Havalimanı’ndan Romanya’nın başkenti Bükreş’e düzenlediği uçuşlara başladı. AJet Havayolları, iki başkent arasında haftanın üç günü karşılıklı direkt sefer gerçekleştirecek.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/ankaradan-bukrese-direkt-ucuslar-basladi-zbag.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5f6df908",
     "title": "Yıldırım samanlığı yok etti",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Trump, bazı ithal patentli ilaçlara yüzde 100 oranında gümrük vergisi uygulanmasını ve çelik, alüminyum ile bakırın aralarında bulunduğu metallere yönelik mevcut vergilerin hesaplama yönteminde değişiklikle ilgili kararnameyi imzaladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/336940.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4d9f9966",
-    "title": "PFDK, Nesine 3. Lig ekibi Nazillispor'u bir alt lige düşürdü",
-    "source": "Evrensel",
-    "time": "03/04/2026 01:33",
-    "link": "https://www.evrensel.net/haber/5977990/pfdk-nesine-3-lig-ekibi-nazillispor-u-bir-alt-lige-dusurdu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TFF Profesyonel Futbol Disiplin Kurulu (PFDK), Nesine 3. Lig 4. Grup'ta mücadele eden Nazillispor'u ligin 27. haftasında İzmir Çoruhlu FK maçına çıkmadığı için bir alt lige düşürdü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341365.jpg",
     "keyword": null
   }
 ]
