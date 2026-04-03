@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_168bfb0e",
+    "title": "BKT Avrupa Kupası: Beşiktaş finalde",
+    "source": "Evrensel",
+    "time": "03/04/2026 21:33",
+    "link": "https://www.evrensel.net/haber/5978122/bkt-avrupa-kupasi-besiktas-finalde",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BKT Avrupa Kupası yarı final serisi ikinci maçında Bahçeşehir Koleji'ni yenen Beşiktaş finale yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341512.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6c4696ae",
     "title": "Elektrik ve doğalgaza %25 zam",
     "source": "BBC Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Havacılık ve Uzay Ajansının NASA 50 yılı aşkın sürenin ardından Ay'a ilk yolculuğunu başlatan Artemis II görevinde yer alan mürettebat, Ay'a doğru yol alırken Dünya'nın uzaydan çekilmiş 2 yeni görüntüsünü paylaştı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_58bf0c83",
-    "title": "Mehr Haber Ajansı: Düşürülen savaş uçağının pilotunu arama çalışmasına katılan ABD helikopteri vuruldu",
-    "source": "TRT Haber",
-    "time": "03/04/2026 20:34",
-    "link": "https://www.trthaber.com/haber/dunya/mehr-haber-ajansi-dusurulen-savas-ucaginin-pilotunu-arama-calismasina-katilan-abd-helikopteri-vuruldu-940286.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran basını, İran tarafından düşürülen ABD savaş uçağının pilotunu bulmak için aramatarama faaliyetlerinde bulunan bir ABD helikopterinin vurulduğunu duyurdu.",
     "image": null,
     "keyword": null
   }
