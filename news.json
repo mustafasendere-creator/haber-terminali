@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bc56dffc",
+    "title": "'F-35' vuruldu ABD ve İran peşine düştü",
+    "source": "OdaTV",
+    "time": "03/04/2026 18:54",
+    "link": "https://www.odatv.com/dunya/f-35-vuruldu-abd-ve-iran-pesine-dustu-120141949",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, ABD&#039;ye ait bir savaş uçağını düşürdü. Bunun ardından, ABD arama çalışması başlatırken İran ise uçağın pilotunun bulunması için para ödülü duyurdu. Öte yandan, İran medyasındaki haberlerde ise pilotun ele geçirildiği iddia edildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/f-35-vuruldu-abd-ve-iran-pesine-dustu-5gt7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a7a698c1",
     "title": "Bu pozisyon tescilledi: Türk hakemleri kural bilmiyor",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD basını İran'da ABD'ye ait bir savaş uçağının düştüğünü, mürettebatın akıbetinin ise belirsiz olduğunu bildirdi. Düşen uçağa ilişkin ise CENTCOM'dan henüz bir paylaşım yapılmadı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339236.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d0a4d35e",
-    "title": "Hafta sonu için yağış uyarısı: Yurt genelinde etkisini sürdürecek",
-    "source": "Evrensel",
-    "time": "03/04/2026 18:14",
-    "link": "https://www.evrensel.net/haber/5978100/hafta-sonu-icin-yagis-uyarisi-yurt-genelinde-etkisini-surdurecek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Meteoroloji Genel Müdürlüğü hafta sonunda yurt genelinde yağışlı havanın etkili olacağını belirtti. Yarın Batı Karadeniz'in kıyı kesimleri ile pazar günü Trakya hariç tüm yurtta yağış bekleniyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340547.jpg",
     "keyword": null
   }
 ]
