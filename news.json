@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f0099966",
+    "title": "Ümraniye'de acı olay: Kediler terk edilmiş evde açlıktan öldü",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 16:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/umraniye-de-aci-olay-kediler-terk-edilmis-evde-acliktan-oldu-2492118",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ümraniye'de bir kiracının uzun süredir dönmediği evi için yapılan kötü koku şikayeti üzerine polis ve itfaiye ekipleri girdi. Yapılan incelemede, içeride açlık nedeniyle ölmüş kediler bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f0a316ba-e39b-46a1-b35a-3beadeec99e4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9e676eb9",
     "title": "Altınordu’da kreş ve gündüz bakımevi inşaatı yükseliyor",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Çekmeköy’ün ilk Kent Lokantası, düzenlenen açılış töreninin ardından hizmet vermeye başladı. Açılışı gerçekleşen yeni hizmetin, artan yaşam maliyetleri karşısında önemli bir sosyal destek sağlaması hedefleniyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/cekmekoy-kent-lokantasi-hizmete-basladi-zsi2.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_5a15e58f",
-    "title": "Trabzon'da 31 yıl sonra Büyükşehir Belediyesine tayin oldu...",
-    "source": "61 Saat",
-    "time": "03/04/2026 16:14",
-    "link": "https://www.61saat.com/trabzonda-31-yil-sonra-buyuksehir-belediyesine-tayin-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Yomra’da 31 yıldır görev yapan Cevdet Binay, Trabzon Büyükşehir Belediyesi’ne tayin oldu. Başkan Bıyık teşekkür plaketi verdi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/b-u-y-u-k-s-e-h-i-r-2.webp",
-    "keyword": "trabzon"
   }
 ]
