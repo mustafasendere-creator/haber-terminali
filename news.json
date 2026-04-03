@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e513fb0c",
+    "title": "İstanbul Boğazı'nda gemi arızalandı: Trafik çift yönlü durdu",
+    "source": "Ekonomim",
+    "time": "04/04/2026 00:54",
+    "link": "https://www.ekonomim.com/gundem/istanbul-bogazinda-gemi-arizalandi-trafik-cift-yonlu-durdu-haberi-885962",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Boğazı, Barbados bayraklı &quot;TRACKHOUND&quot; isimli geminin İstinye açıklarında makine arızası yapması nedeniyle çift yönlü olarak gemi trafiğine kapatıldı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/istanbul-bogazinda-gemi-arizalandi-trafik-cift-yonlu-durdu-orsi_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e1647d4a",
     "title": "Bakan Gürlek’ten şehit polis için taziye mesajı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da düzenlenen Hüseyni Fasıl konseri, Samsun Ondokuz Mayıs Üniversitesi Devlet Konservatuvarı sanatçılarının performansıyla müzikseverlere kültürel bir ziyafet sundu.",
     "image": "https://resim.haber61.net/news/610757.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_53c1d152",
-    "title": "Trump’tan İran’ın savaş uçaklarının düşürülmesi ile ilgili açıklama: Olası müzakereleri etkilemez",
-    "source": "Evrensel",
-    "time": "03/04/2026 23:53",
-    "link": "https://www.evrensel.net/haber/5978133/trumptan-iranin-savas-ucaklarinin-dusurulmesi-ile-ilgili-aciklama-olasi-muzakereleri-etkilemez",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran tarafından savaş uçaklarının düşürülmesinin Tahran yönetimiyle olası müzakereleri etkilemeyeceğini söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340559.jpg",
     "keyword": null
   }
 ]
