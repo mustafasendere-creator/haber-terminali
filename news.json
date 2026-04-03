@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b6182f11",
+    "title": "Kırsal kalkınma projelerine hibe desteği",
+    "source": "TRT Haber",
+    "time": "03/04/2026 14:34",
+    "link": "https://www.trthaber.com/haber/ekonomi/kirsal-kalkinma-projelerine-hibe-destegi-940253.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mikro, küçük ve orta ölçekli işletmelerin desteklenmesi, kırsal alanda alternatif gelir kaynaklarının oluşturulması ve tarımsal faaliyetler için geliştirilen yeni teknolojilerin üreticiler tarafından kullanımının yaygınlaştırılması amacıyla hibe desteği verilecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e523c02b",
     "title": "Türkiye Avrupa'nın alüminyum üssü olacak",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "9,5 yıldır cezaevinde bulunan eski HDP Eş Genel Başkanı Figen Yüksekdağ, vefat eden kardeşi Cevat Yüksekdağ'ın cenaze törenine katıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/221fe64d-adb1-4b89-ae70-4de2c429f831.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_812e5ca9",
-    "title": "Trabzon’da Sağlık Turizmi Atağı, Azerbaycan Heyetinden Özel İmperial Hastanesi’ne Ziyaret",
-    "source": "Karadeniz Gazetesi",
-    "time": "03/04/2026 13:36",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-saglik-turizmi-atagi-azerbaycan-heyetinden-ozel-imperial-hastanesine-ziyaret/607661",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Azerbaycan sağlık turizmi heyeti, Trabzon’da Özel İmperial Hastanesi’ni ziyaret ederek iş birliği fırsatlarını değerlendirdi.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
