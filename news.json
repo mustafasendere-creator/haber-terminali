@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e981a8f5",
+    "title": "Sinemalarda 6 film vizyona girecek...",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 03:53",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/sinemalarda-6-film-vizyona-girecek-2491863",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'deki sinema salonlarında bu hafta komediden aksiyona, korku ve gerilimden animasyona 6 film vizyona girecek.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/97ec7839-4397-44bd-afa2-7d04543487d3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ae6d6486",
     "title": "Akın Gürlek: Sistemdeki sorunların çözümü için 12. Yargı Paketi'nde adımlar atacağız",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhuriyet gazetesi yazarı Murat Ağırel, İBB davasında “500 bin dolar rüşvet verdim” diyen müştekinin, dekont yerine belge olarak kendisinin yazıp imzaladığı bir A4 kağıdı sunduğunu ortaya çıktı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/a55946ce-d8b7-42c1-b963-3a22b65ee18c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_31a77408",
-    "title": "Adıyaman'da zincirleme kaza: 5 yaralı",
-    "source": "Haber Global",
-    "time": "03/04/2026 01:33",
-    "link": "https://haberglobal.com/gundem/adiyamanda-zincirleme-kaza-5-yarali-516767",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adıyaman Besni'de 3 aracın karıştığı zincirleme trafik kazasında 5 kişi yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/adiyamanda-zincirleme-kaza-5-yarali-xdnu.jpg",
     "keyword": null
   }
 ]
