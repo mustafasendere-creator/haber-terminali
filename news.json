@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_23189f74",
+    "title": "OptaCan - x.com",
+    "source": "X",
+    "time": "03/04/2026 11:14",
+    "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE1KWFUxSFpGRzRSQmsxMG1UX3lXa3NKSWl5MF9FMUI5WW5xczF2STFISFJhQ0I2VzVp",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "OptaCan  x.com",
+    "image": null,
+    "keyword": "trabzon son dakika"
+  },
+  {
     "id": "GND_f5387fb7",
     "title": "Yasak kalktı: ABD askerleri üste şahsi silah taşıyabilecek",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un güneyindeki Dahiye bölgesindeki 7 mahalle için saldırı tehdidini yineledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_77f5ed19",
-    "title": "ABD'de Kara Kuvvetleri Komutanının yanı sıra iki generalin görevden alındığı iddia edildi",
-    "source": "TRT Haber",
-    "time": "03/04/2026 10:34",
-    "link": "https://www.trthaber.com/haber/dunya/abdde-kara-kuvvetleri-komutaninin-yani-sira-iki-generalin-gorevden-alindigi-iddia-edildi-940199.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Savunma Bakanlığının Pentagon Kara Kuvvetleri Komutanı Randy George'un \"derhal emekli olacağını\" bildirmesinin ardından, iki ABD Kara Kuvvetleri generalinin de görevden alındığı ileri sürüldü.",
     "image": null,
     "keyword": null
   }
