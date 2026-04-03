@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ddde5102",
+    "title": "SunExpress'ten yeni rota: Antalya-Memmingen uçuşları başladı",
+    "source": "Ekonomim",
+    "time": "03/04/2026 18:35",
+    "link": "https://www.ekonomim.com/havacilik/sunexpressten-yeni-hat-antalya-memmingen-ucuslari-basladi-haberi-885929",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SunExpress, Antalya&#039;dan Almanya&#039;nın Memmingen kentine direkt uçuşlarını başlattı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/12/sunexpress-kolnden-adana-elazig-ve-trabzona-ucuslara-basliyor-kb7j_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0ebd2b35",
     "title": "Cumhurbaşkanlığı seçim anketinde kim kazanıyor kim kaybediyor?",
     "source": "Sözcü",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Engel oranı yüzde 40 ve üzeri olan ortopedik engellilerden ortopedik engelleri nedeniyle hakkında sürücü belgesi alamayacağına karar verilen engelli bireylere de Özel Tüketim Vergisi Kanunu kapsamında belirlenen taşıtlar için ÖTV istisnası uygulanacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6e454cb9",
-    "title": "İşgalci İsrail saldırılarında Lübnan'da hayatını kaybedenlerin sayısı 1368'e yükseldi",
-    "source": "TRT Haber",
-    "time": "03/04/2026 17:56",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-saldirilarinda-lubnanda-hayatini-kaybedenlerin-sayisi-1368e-yukseldi-940280.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında yaşamını yitirenlerin sayısının son 24 saatte 23 artarak 1368'e, yaralı sayısının ise 4 bin 138'e çıktığını duyurdu.",
     "image": null,
     "keyword": null
   }
