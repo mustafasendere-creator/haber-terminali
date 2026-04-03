@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6bde87b4",
+    "title": "Borsa günün ilk yarısında geriledi",
+    "source": "Haber Global",
+    "time": "03/04/2026 13:36",
+    "link": "https://haberglobal.com/ekonomi/borsa-gunun-ilk-yarisinda-geriledi-516843",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, günün ilk yarısında yüzde 0,50 değer kaybederek 12.986,85 puana indi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/borsa-gunun-ilk-yarisinda-geriledi-gld0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cbecf7dd",
     "title": "Yaşlı adam yalnız yaşadığı evde bıçaklanarak öldürüldü",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "LGS tarihi değişti!",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/7/osym-lgs-lys-sinav-aa-1jpg-kxftQ460ZEu7vapzDh1MdA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_16bc6246",
-    "title": "Bodrum tersanesinde yangın: Eski kulüp başkanının motoryatı alev alev yandı!",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 12:55",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/bodrum-tersanesinde-yangin-eski-kulup-baskaninin-motoryati-alev-alev-yandi-2492037",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla'nın Bodrum ilçesinde bir tersanede bakımda olan ve eski Trabzonspor Başkanı Sadri Şener'e ait olduğu belirtilen motoryat, çıkan yangında kullanılamaz hale geldi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/9eafbfdf-eb59-4596-8f24-d3c005872e53.jpg",
     "keyword": null
   }
 ]
