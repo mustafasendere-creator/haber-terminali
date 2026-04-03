@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_10dafa12",
+    "title": "Savaşta bir ilk: Hürmüz Boğazı’ndan Avrupa gemisi geçti",
+    "source": "10Haber",
+    "time": "03/04/2026 13:53",
+    "link": "https://10haber.net/dunya/savasta-bir-ilk-hurmuz-bogazindan-avrupa-gemisi-gecti-692115/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa merkezli AFP&#8217;nin haberine göre İran&#8217;ın kapattığı Hürmüz Boğazı&#8217;ndan ilk kez bir Avrupa Birliği gemisi geçti. Daha önce Çin ve Hindistan gemilerine izin veren İran, şimdi de bir Fransız yük gemisinin Boğaz&#8217;dan geçmesine izin verdi. Fransız şirketi CMA CGM&#8217;ye ait CMA CGM Kribi adlı konteyner gemisi savaşın başından beri Boğaz&#8217;dan geçen ilk Avrupa gemisi oldu. [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69cf9bf5431733.19723227.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d586d064",
     "title": "Milli maç tarih değiştirdi: LGS 13 Haziran’da yapılacak",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Bahreyn, son 24 saatte İran'dan atılan 16 insansız hava aracının İHA hava savunma sistemlerince etkisiz hale getirildiğini duyurdu.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_bf8c1066",
-    "title": "Trabzon’da sağlık çalışanları acil servis saldırısına tepki gösterdi! \"Güvenlik ve denetim şart\"",
-    "source": "Haber61",
-    "time": "03/04/2026 13:14",
-    "link": "https://www.haber61.net/trabzon/trabzonda-saglik-calisanlari-acil-servis-saldirisina-tepki-gosterdi-h628487.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da KTÜ Farabi Hastanesi acil servisinde yaşanan silahlı saldırının ardından sağlık çalışanları güvenlik önlemlerinin artırılmasını istedi.",
-    "image": "https://resim.haber61.net/news/610687.jpg",
-    "keyword": "trabzon"
   }
 ]
