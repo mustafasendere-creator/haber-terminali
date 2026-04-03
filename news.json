@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf0edaf4",
+    "title": "Son dakika... Özgür Özel'den bu akşam için 'saat'li çağrı",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 16:34",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-den-bu-aksam-icin-saat-li-cagri-2492107",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberi... CHP lideri Özgür Özel, tüm Bursalıları bu akşam yapılacak olan eyleme çağırdı. \"Bursa iradesine sahip çıkıyor!\" diyen Özel, \"Başkanımız Mustafa Bozbey'e, Bursa halkının iradesine sahip çıkmak için Büyükşehir Belediyesi önünde buluşuyoruz\" ifadelerini kullandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d9214507-24e0-4d85-97a5-039cf7fe84d5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d98abcb1",
     "title": "CHP Samsun’dan yurttaşlara çağrı: ‘Gelin, değişime katılın’",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Zonguldak'ın Kilimli ilçesinde bir araca havladığı iddiasıyla tabancayla vurularak 4 kurşunla ağır yaralanan sokak köpeği, 2,5 aylık yaşam mücadelesini kazandı. Mahallelinin maskotu olan ve sağlığına kavuşan köpeğe \"Kurşun\" adı verildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/havladigi-icin-4-kursunla-vurulan-kopek-hayata-tutundu-8lr8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_169ff36d",
-    "title": "BAE: İran gün içinde 18 balistik, 4 seyir füzesi ve 47 İHA ile saldırı düzenledi",
-    "source": "TRT Haber",
-    "time": "03/04/2026 15:55",
-    "link": "https://www.trthaber.com/haber/dunya/bae-iran-gun-icinde-18-balistik-4-seyir-fuzesi-ve-47-iha-ile-saldiri-duzenledi-940259.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşik Arap Emirlikleri BAE, hava savunma sistemlerinin gün içerisinde İran'dan atılan 18 balistik, 4 seyir füzesi ile 47 insansız hava aracına İHA müdahale ettiğini açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
