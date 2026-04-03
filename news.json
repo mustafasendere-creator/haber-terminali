@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e79cf0c",
+    "title": "Kazada ağır yaralanan polisten acı haber geldi",
+    "source": "OdaTV",
+    "time": "03/04/2026 23:34",
+    "link": "https://www.odatv.com/guncel/kazada-agir-yaralanan-polisten-aci-haber-geldi-120141996",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuzey Marmara Otoyolunda polis minibüsünün bariyerlere çarpmasıyla meydana gelen kazada ağır yaralanan polis memuru Seçkin Yalçın’ın, 4 gün süren tedavisinin ardından beyin ölümünün gerçekleştiği öğrenildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/kazada-agir-yaralanan-polisten-aci-haber-geldi-ebfc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d93457f4",
     "title": "Yaz şehrinde üç metre kar var",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Karabük Eskipazar Belediye Başkanı Serkan Civa, Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç’in davetlisi olarak maça geleceğini açıkladı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/asasdas-kurtarildi-144.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_8c7d1b96",
-    "title": "Adalet Bakanlığından \"İmamoğlu çıkar amaçlı suç örgütü davasında delilsiz tutuklama\" iddiasına yalanlama",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 22:34",
-    "link": "https://www.aa.com.tr/tr/guncel/adalet-bakanligindan-imamoglu-cikar-amacli-suc-orgutu-davasinda-delilsiz-tutuklama-iddiasina-yalanlama/3891067",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanlığı, bazı basın yayın organlarında yer alan \"İmamoğlu çıkar amaçlı suç örgütü davasına ilişkin olarak bir hakimin 'Özür dilerim, tutuklamak zorundayım.' dediği ve delilsiz şekilde tutuklama kararı verdiği\" yönündeki iddiaları yalanladı.",
-    "image": null,
     "keyword": null
   }
 ]
