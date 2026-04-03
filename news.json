@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5464001f",
+    "title": "Borsa günü düşüşle tamamladı",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 18:53",
+    "link": "https://www.aa.com.tr/tr/guncel/borsa-gunu-dususle-tamamladi/3890856",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,88 değer kaybederek 12.936,35 puandan tamamladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_39982c81",
     "title": "Sümeyye Erdoğan: Feministler Gazze’ye sessiz kaldı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Grup Başkanvekili Ali Mahir Başarır, bir belediye çalışanıyla ilişkisi olduğu iddia edilen Köşk Belediye Başkanı Nuri Güler üzerinden iktidara tepki göstererek, \"Aydın’ın Köşk ilçesi AK Partili Belediye Başkanı’nın bir belediye çalışanıyla ilgili görüntüleri ortaya çıktı. Bazı iddialar ortaya çıktı. Bugün mahkeme erişim yasağı verdi. Ama çok yakın bir zamanda Uşak Belediye Başkanımızın görüntülerini emniyet çekti\" dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6250045d-1c60-4aa9-9c22-e2c83438ab3f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d9588410",
-    "title": "24 yaşında 21 suç kaydı... 114 yıl hapisle aranan firari kadın, Kayseri'de yakalandı",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 17:56",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/24-yasinda-21-suc-kaydi-114-yil-hapisle-aranan-firari-kadin-kayseri-de-yakalandi-2492137",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayseri'de 2 farklı suçtan hakkında kesinleşmiş 114 yıl hapis cezası bulunan Ş.U. (24) isimli kadın, polis tarafından yakalandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/fb23394d-903c-4f69-a96b-9fa4c2a5ca1a.jpg",
     "keyword": null
   }
 ]
