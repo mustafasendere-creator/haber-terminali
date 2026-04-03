@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f2a17c7c",
+    "title": "Türkiye’nin üzerinden geçen maden silindiri",
+    "source": "Evrensel",
+    "time": "04/04/2026 02:14",
+    "link": "https://www.evrensel.net/haber/5978110/turkiyenin-uzerinden-gecen-maden-silindiri",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MAPEG'in 25 Mart’ta başlayan ve 10 Nisan’da tamamlanacak olan ihale sürecinin ilk dört gününde'18 ilde 80 ruhsat sahası satıldı.'Toplam alan 92 bin 215 hektara ulaşarak, 2025 yılı boyunca satılan toplam ruhsat alanını geride bıraktı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340896.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9a8fe85e",
     "title": "Rönesans Rezidans'ın duruşmasına sabah devam edilecek: Ailelerden dayanışma çağrısı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Elektrik ve doğalgaza yüzde 25 zam yapıldı. Yeni tarife yarından itibaren geçerli olacak...",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/elektrik-ve-dogalgaza-yuzde-25-zam-geldi-8hdx.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_00273c56",
-    "title": "ABD asker kayıplarını açıkladı",
-    "source": "OdaTV",
-    "time": "04/04/2026 00:15",
-    "link": "https://www.odatv.com/guncel/abd-asker-kayiplarini-acikladi-120141994",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran ile savaşta şu ana kadar 13 ABD askeri öldü, 365 asker yaralandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/abd-asker-kayiplarini-acikladi-zhca.jpg",
     "keyword": null
   }
 ]
