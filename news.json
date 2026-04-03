@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_53f35656",
+    "title": "İran: ABDİsrail saldırılarında KumTahran otobanında bir nokta hedef alındı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 06:33",
+    "link": "https://www.trthaber.com/haber/dunya/iran-abd-israil-saldirilarinda-kum-tahran-otobaninda-bir-nokta-hedef-alindi-940162.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail saldırıları altındaki İran'da, KumTahran otobanında bir nokta vuruldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_933a9653",
     "title": "ABD Savunma Bakanı Hegseth, askeri personelin üslerde şahsi silahlarını taşımasını engelleyen yasağı kaldırdı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig'in 28. haftasında pazar günü kendi sahasında Beşiktaş'ı konuk edecek Fenerbahçe'de Yönetim Kurulu Üyesi ve Futbol Şube Sorumlusu Ertan Torunoğulları, derbiye dair görüşlerini aktardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2876494f-34a0-4b57-97e8-238e2c8c9109.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c4bbbfd1",
-    "title": "Bursa'da gece saatlerinde korkutan yangın",
-    "source": "Haber Global",
-    "time": "03/04/2026 02:53",
-    "link": "https://haberglobal.com/gundem/bursada-gece-saatlerinde-korkutan-yangin-516769",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa Gemlik'te gece saatlerinde çıkan yangın, itfaiye ekiplerinin müdahalesiyle kontrol altına alındı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/bursada-gece-saatlerinde-korkutan-yangin-gyaj.jpg",
     "keyword": null
   }
 ]
