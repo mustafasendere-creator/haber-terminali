@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cd704774",
+    "title": "Erkin Keskin’den yüzün belleğine açılan dünya",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 16:34",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/erkin-keskin-den-yuzun-bellegine-acilan-dunya-2492109",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erkin Keskin’in “İzler ve Yüzler” başlıklı kişisel buluşması, 7-30 Nisan tarihleri arasında Ankara’daki Valör Sanat Galerisi’nde izleyiciyle buluşuyor. Kadın portreleri, müzikle çoğalan figürler ve yeniden doğuş duygusunu taşıyan imgeler etrafında kurulan bu seçki, çizgiyle hafıza arasında güçlü bir bağ kuruyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d054c5b5-b5ed-443a-9f6c-63c5fb443c5f.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_91a8ccc1",
     "title": "TFF Başkanı Hacıosmanoğlu Trabzon Günleri’nde Kupa Yolculuğunu Anlatacak",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avustralya'da hükümet, ABD ve İsrail'in İran'a saldırıları sonrası yaşanan yakıt krizi nedeniyle hafta sonu uzun yolculuğa çıkacak vatandaşlara, şehir içindeki benzin istasyonlarından yakıt tedarik etmeleri çağrısı yaptı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6eea4897",
-    "title": "TDT Devlet Başkanları Gayriresmi Zirve'si 15 Mayıs'ta Türkistan'da düzenlenecek",
-    "source": "TRT Haber",
-    "time": "03/04/2026 15:54",
-    "link": "https://www.trthaber.com/haber/gundem/tdt-devlet-baskanlari-gayriresmi-zirvesi-15-mayista-turkistanda-duzenlenecek-940265.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk Devletleri Teşkilatı TDT Devlet Başkanları Gayriresmi Zirvesi 15 Mayısta Kazakistanın Türkistan şehrinde düzenlenecek. AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, liderlerin Zirve'de dünyaya önemli mesajlar vereceğini söyledi.",
     "image": null,
     "keyword": null
   }
