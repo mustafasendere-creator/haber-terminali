@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c1c54cdf",
+    "title": "BAE'nin başkenti Abu Dabi'ye yönelik saldırılarda 12 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "03/04/2026 15:34",
+    "link": "https://www.trthaber.com/haber/dunya/baenin-baskenti-abu-dabiye-yonelik-saldirilarda-12-kisi-yaralandi-940263.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri'nin BAE başkenti Abu Dabi'ye yönelik saldırılara müdahale sırasında düşen şarapnellerden 12 kişinin yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_579bd548",
     "title": "İran basını, düşürülen ABD'ye ait uçağın pilotunun esir alınmış olabileceğini iddia etti",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ölçme, Seçme ve Yerleştirme Merkezi ÖSYM Başkanlığınca düzenlenen Yabancı Dil Bilgisi Seviye Tespit Sınavı 2026YDS/1 5 Nisan Pazar günü yapılacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e5e2bcce",
-    "title": "İran Devrim Muhafızları Ordusu: Kuveyt'teki su arıtma tesisine İsrail saldırdı",
-    "source": "TRT Haber",
-    "time": "03/04/2026 14:54",
-    "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-kuveytteki-su-aritma-tesisine-israil-saldirdi-940255.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları Ordusu, Kuveyt'teki bir enerji santralindeki su arıtma tesisine saldırının, \"İran'ı suçlamak amacıyla\" İsrail tarafından gerçekleştirildiğini iddia etti.",
     "image": null,
     "keyword": null
   }
