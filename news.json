@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88530fb8",
+    "title": "İran: ABD ateşkes teklif etti",
+    "source": "OdaTV",
+    "time": "03/04/2026 23:34",
+    "link": "https://www.odatv.com/guncel/iran-abd-ateskes-teklif-etti-120141998",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran merkezli Fars Haber Ajansı, ABD’nin üçüncü bir ülke üzerinden İran&#039;a 48 saatlik ateşkes teklifinde bulunduğunu ve Tahran yönetiminin bu teklife sahadaki saldırıları sürdürerek yanıt verdiğini belirtti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/iran-abd-ateskes-teklif-etti-gmya.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e674f0a8",
     "title": "İran, ABD'nin ateşkes teklifini reddetti",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fars Haber Ajansı, İranlı üst düzey bir yetkiliye atıfta bulunarak, \"ABD’nin üçüncü bir ülke aracılığı ile İran’a 48 saatlik geçici ateşkes teklifinde bulunduğunu\" belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a33cfe21",
-    "title": "DSÖ: Orta Doğu'da çatışmalar 4 milyondan fazla yerinden edilmeye ve 3 bin 300 can kaybına neden oldu",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 22:33",
-    "link": "https://www.aa.com.tr/tr/guncel/dso-orta-doguda-catismalar-4-milyondan-fazla-yerinden-edilmeye-ve-3-bin-300-can-kaybina-neden-oldu/3891078",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DSÖ Genel Direktörü Ghebreyesus, Orta Doğu'da devam eden saldırıların 4 milyondan fazla kişinin yerinden edilmesine, 3 bin 300 kişinin hayatını kaybetmesine ve 30 bin kişinin yaralanmasına neden olduğunu belirtti.",
     "image": null,
     "keyword": null
   }
