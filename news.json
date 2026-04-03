@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_15e80e64",
+    "title": "Sosyal medyaya T.C. kimlik ile giriş dönemi başlıyor: Akın Gürlek tarih verdi",
+    "source": "Evrensel",
+    "time": "03/04/2026 14:34",
+    "link": "https://www.evrensel.net/haber/5978062/sosyal-medyaya-tc-kimlik-ile-giris-donemi-basliyor-akin-gurlek-tarih-verdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "12. Yargı Paketi ile sosyal medya kullanıcıları üç ay içinde T.C. kimlik numarasıyla hesaplarına giriş yapacak.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341430.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e7586eda",
     "title": "MEB’den 23 Nisan yazısı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Hatay'da yakınlarının kendisinden 2 gündür haber alamadığı 75 yaşındaki adamın cansız bedeni, evinde bıçaklanmış halde bulundu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/yasli-adam-yalniz-yasadigi-evde-bicaklanarak-olduruldu-qkzm.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_ba54c94f",
-    "title": "Galatasaray Maçı Öncesi Trabzonspor’dan Kritik Uyarı: Provokasyonlara Dikkat",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 13:36",
-    "link": "https://www.takagazete.com.tr/galatasaray-maci-oncesi-trabzonspordan-kritik-uyari-provokasyonlara-dikkat",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Divan Kurulu, Galatasaray maçı öncesi camiaya sağduyu ve birlik çağrısı yaptı. Taraftara provokasyonlara karşı dikkatli olunması istendi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-10-116.jpg",
-    "keyword": "trabzon"
   }
 ]
