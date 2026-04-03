@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6fc6d372",
+    "title": "Macaristan'dan Polonya'ya: Savaş çığırtkanı",
+    "source": "Habertürk",
+    "time": "03/04/2026 15:34",
+    "link": "https://www.haberturk.com/macaristan-basbakani-orban-polonyali-mevkidasi-tusk-i-savas-cigirtkanligi-yapmamaya-cagirdi-3874327",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan Başbakanı Viktor Orban, Ukrayna'ya Avrupa Birliği (AB) kredisinin engellenmesinin Rusya'nın \"hayalindeki plan\" gibi göründüğünü belirten Polonya Başbakanı Donald Tusk'ı, \"savaş çığırtkanlığı\" yapmamaya çağırdı.",
+    "image": "https://im.haberturk.com/l/2026/04/02/ver1775136600/3874327/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_980782ab",
     "title": "TCDD'den Tekirdağ ve çevresi için uyarı!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor Galatasaray kadro değerleri karşılaştırması, derbi öncesi dikkat çekti. İki takım arasındaki ekonomik farka rağmen sahadaki mücadele belirleyici olacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-1-435.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_ea1ac8ce",
-    "title": "Trabzon’un Gururu Sivas Yolunda: İbrahim Erdemoğlu Spor Lisesi Büyük Hedef Peşinde",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 14:54",
-    "link": "https://www.takagazete.com.tr/trabzonun-gururu-sivas-yolunda-ibrahim-erdemoglu-spor-lisesi-buyuk-hedef-pesinde",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "İbrahim Erdemoğlu Spor Lisesi, Sivas’ta oynanacak Türkiye yarı finalleri öncesi hazırlıklarını sürdürüyor. Hedef Türkiye şampiyonluğu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/spor-lisesi.jpg",
     "keyword": "trabzon"
   }
 ]
