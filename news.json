@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d36349a5",
+    "title": "Sözcü TV'de yayın kesildi",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 21:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/sozcu-tv-de-yayin-kesildi-2492178",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sözcü TV'de yaşanan sistemsel sorun nedeniyle yayında aksaklıklar yaşandığı, bu sebeple yayına ara verildiği bildirildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2bf50917-ba73-4c73-b7a0-90b49122b013.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f737ddfe",
     "title": "Beşiktaş dev geliri duyurdu: 1.18 milyar lira!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Genel Başkanı Özgür Özel, Figen Yüksekdağ’ın ağabeyi Cevat Yüksekdağ’ın vefatı nedeniyle ailesi ve DEM Parti eş genel başkanlarını arayarak taziyelerini iletti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2c7e7abe-ab2a-4177-a0d9-1182ae754212.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9c1a0a8f",
-    "title": "Artemis II mürettebatının uzay aracındaki tuvalette arıza bildirildi",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 20:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/artemis-ii-murettebatinin-uzay-aracindaki-tuvalette-ariza-bildirildi-2492174",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "NASA 50 yılı aşkın sürenin ardından Ay'a ilk yolculuğunu başlatan Artemis II görevinde yer alan mürettebat, Dünya yörüngesindeyken yerdeki görev ekibine, uzay aracındaki tuvalette arıza olduğunu bildirdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/57ddf1b4-b9a7-448b-b461-b2a257e40d44.jpg",
     "keyword": null
   }
 ]
