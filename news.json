@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b9345899",
+    "title": "\"Dahiliye Nezareti Sicill-i Ahval Defterleri\" okuyucuyla buluşuyor",
+    "source": "Anadolu Ajansı",
+    "time": "03/04/2026 10:53",
+    "link": "https://www.aa.com.tr/tr/guncel/dahiliye-nezareti-sicill-i-ahval-defterleri-okuyucuyla-bulusuyor/3890195",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Atatürk Kültür, Dil ve Tarih Yüksek Kurumuna bağlı olan Türk Tarih Kurumu (TTK) tarafından yürütülen proje kapsamında Türk tarihinin en büyük biyografi kaynağı olan \"Dahiliye Nezareti Sicill-i Ahval Defterleri\" okuyucuyla buluşturuluyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0684b421",
     "title": "Antrenman iptal edildi: Fenerbahçe Mert Hakan için tam kadro Çağlayan'da",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Demir cevheri fiyatları Çin&#039;deki yüksek stoklar nedeniyle düşüşünü sürdürdü.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/12/liman-stoklari-ve-zayif-talep-demir-cevheri-fiyatlarini-baskiliyor-lbdh_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_6562f2c1",
-    "title": "Japonya hizmet PMI yavaşladı: Büyüme ivme kaybetti",
-    "source": "Ekonomim",
-    "time": "03/04/2026 09:54",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/japonya-hizmet-pmi-yavasladi-buyume-ivme-kaybetti-haberi-885802",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Japonya&#039;nın hizmet sektörü büyümesi üç ayın en düşük seviyesine geriledi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/17/japonyada-sosyal-jet-lag-alarmi-ekonomiye-1-trilyon-yen-zarar-doep_cover.jpg",
     "keyword": null
   }
 ]
