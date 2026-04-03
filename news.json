@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_77209361",
+    "title": "Fransız gemisi, İran savaşında Batı Avrupa'dan ilk Hürmüz geçişini yaptı",
+    "source": "Euronews",
+    "time": "03/04/2026 12:34",
+    "link": "http://tr.euronews.com/2026/04/03/fransiz-gemisi-iran-savasinda-bati-avrupadan-ilk-hurmuz-gecisini-yapti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gemi takip verilerine göre, Fransa’nın CMA CGM şirketine ait bir gemi, İran savaşının şubat sonunda başlamasından bu yana Hürmüz Boğazı’nı geçen Batı Avrupa bağlantılı ilk gemi oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4bbbfa58",
     "title": "Savaş Çin tekeline yaradı: Galyum ve germanyum arzı kırılgan hale geldi",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD medyasına göre Trump, İran’a yönelik saldırı öncesi bilgi sızıntılarını engellemek için bazı danışmanlarına operasyonun ertelendiği yönünde yanıltıcı bilgi verdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341399.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fedbf0e7",
-    "title": "Marmara Gölü yeniden su tutuyor, bölge halkı destek bekliyor",
-    "source": "Evrensel",
-    "time": "03/04/2026 11:54",
-    "link": "https://www.evrensel.net/haber/5978031/marmara-golu-yeniden-su-tutuyor-bolge-halki-destek-bekliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa’daki Marmara Gölü, 5-6 yıl aradan sonra yeniden su tutmaya başladı. CHP’li Başevirgen, gölün korunmasının siyaset üstü bir konu olduğunu vurguladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/215027.jpg",
     "keyword": null
   }
 ]
