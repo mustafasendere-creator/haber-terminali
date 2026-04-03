@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d72d9f2f",
+    "title": "ABD istihbaratı: İran hala önemli fırlatma kapasitesine sahip",
+    "source": "TRT Haber",
+    "time": "03/04/2026 07:54",
+    "link": "https://www.trthaber.com/haber/dunya/abd-istihbarati-iran-hala-onemli-firlatma-kapasitesine-sahip-940164.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD istihbarat kaynaklarından alınan bilgilere göre, ABD ve İsrail'in son beş haftadır İran'daki askeri hedeflere yönelik yoğun hava saldırılarına rağmen, Tahran yönetiminin füze fırlatma rampalarının yaklaşık yarısı hala sağlam durumda bulunuyor. Hazırlanan son rapora göre, İran'ın cephaneliğinde binlerce tek yönlü saldırı uçağı mevcut.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_afeef2f5",
     "title": "TikTok, İsrailli işgalcinin hesabını kalıcı olarak kapattı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ve İsrail saldırıları altındaki İran'da, KumTahran otobanında bir nokta vuruldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_933a9653",
-    "title": "ABD Savunma Bakanı Hegseth, askeri personelin üslerde şahsi silahlarını taşımasını engelleyen yasağı kaldırdı",
-    "source": "TRT Haber",
-    "time": "03/04/2026 06:33",
-    "link": "https://www.trthaber.com/haber/dunya/abd-savunma-bakani-hegseth-askeri-personelin-uslerde-sahsi-silahlarini-tasimasini-engelleyen-yasagi-kaldirdi-940163.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Savunma Bakanı Pete Hegseth, askeri personelin şahsi silahlarını üslerde taşımasını önleyen yasağı kaldırdı.",
     "image": null,
     "keyword": null
   }
