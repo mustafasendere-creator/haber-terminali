@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4c63004",
+    "title": "‘Ağır abi’ olarak Murat Övüç vakası",
+    "source": "Evrensel",
+    "time": "03/04/2026 13:35",
+    "link": "https://www.evrensel.net/haber/5978051/agir-abi-olarak-murat-ovuc-vakasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cezaevinde üç ay kaldıktan sonra artık “eskisi gibi” olmayacağını, “ağır” olacağını anlattı Murat Övüç. Başarılı bir ‘ağır ve örnek abi’ olabilirse tahliye şartı olan ‘imza vermek’ ve ‘yurt dışı yasağı’ da kalkacaktır şüphesiz...",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341420.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_9e39edaa",
     "title": "Samsun'da tarım, hayvancılık ve kırsal kalkınmaya 3 milyar TL üzerinde destek",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon İl Kültür ve Turizm Müdür Tamer Erdoğan, Trabzon’dan Özbekistan’a var olan uçuş seferlerinin artırılarak 2’ye çıkarıldığını müjdeledi.",
     "image": "https://resim.haber61.net/news/610676.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_af0cd5b6",
-    "title": "Doktorların Trabzon'da başlayan aşkı Gaziantep'te nihayete erdi",
-    "source": "Haber61",
-    "time": "03/04/2026 12:54",
-    "link": "https://www.haber61.net/gaziantep/doktorlarin-trabzonda-baslayan-aski-gaziantepte-nihayete-erdi-h628483.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da asistanlık döneminde tanışıp evlenen kadın doğum uzmanı çift, şimdi Gaziantep İslahiye Devlet Hastanesi’nde omuz omuza görev yapıyor.",
-    "image": "https://resim.haber61.net/news/610679.jpg",
     "keyword": "trabzon"
   }
 ]
