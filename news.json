@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a4ad927e",
+    "title": "Gündelik plastik kimyasallar, milyonlarca prematüre doğumla bağlantılı",
+    "source": "Euronews",
+    "time": "03/04/2026 22:34",
+    "link": "http://tr.euronews.com/saglik/2026/04/03/gundelik-plastik-kimyasallar-milyonlarca-premature-dogumla-baglantili",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni bir çalışma, her yanımızı saran bir kimyasalın 2 milyon erken doğuma katkıda bulunmuş olabileceğini ortaya koydu. Ancak dünyanın her yeri aynı ölçüde etkilenmiyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_2544309e",
     "title": "Trabzon'da kaza... Yaralılar var",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran ve Hizbullah aynı anda saldırı başlattı! İsrail'deki hedefler havaya uçuruldu",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/fuzejpg-J7AaJZ4blEq-jAuUvO73KQ.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_de741139",
-    "title": "Esra Işık, cezaevinden mesaj paylaştı: ‘Akbelen, güzel memleketime emanet, biz kazanacağız’",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 21:14",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/esra-isik-cezaevinden-mesaj-paylasti-akbelen-guzel-memleketime-emanet-biz-kazanacagiz-2492180",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Akbelen'deki mücadelesi nedeniyle tutuklanan Esra Işık, CHP Muğla milletvekilleri aracılığıyla cezaevinden verdiği mesajında, \"Şirketler, zenginler değil; köylüler, işçiler, ezilenler, halk kazanacak. Akbelen güzel memleketime emanet, biz kazanacağız\" ifadesini kullandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3300c92e-18fe-4f21-a385-b4cbf37a900b.jpg",
     "keyword": null
   }
 ]
