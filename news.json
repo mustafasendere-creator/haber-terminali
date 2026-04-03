@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_06d859ca",
+    "title": "İstismar edilen kedinin tedavisi sürüyor",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 05:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istismar-edilen-kedinin-tedavisi-suruyor-2491958",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir kediye yönelik istismar iddialarını içeren görüntüler sosyal medyada yayılmıştı. İstismar edilen kedinin tedavisi sürüyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d979d2f6-b5a1-4f1f-8feb-4b99302ad77b.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_567c826e",
     "title": "Belediyelere yönelik engellemelere tepki gösteren CHP lideri Özel, iktidara mesaj gönderdi: Artık değişim an meselesi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Devrim Muhafızları Ordusu (DMO), Stratejik Dış İlişkiler Konseyi Başkanı Kemal Harrazi ve eşine düzenlenen suikastın ardından, Arap Emirlikleri’nde (BAE) bulunan ABD merkezli bulut bilişim şirketi Oracle’ın hedef alındığını duyurdu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/ca0ded12-3a8b-47ca-8c1f-068356f3e5ec.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_59bd9b19",
-    "title": "İzmir'de 3 yaşındaki çocuğu bıçakla yaralayan şahıs gözaltına alındı",
-    "source": "Haber Global",
-    "time": "03/04/2026 02:13",
-    "link": "https://haberglobal.com/gundem/izmirde-3-yasindaki-cocugu-bicakla-yaralayan-sahis-gozaltina-alindi-516768",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir'in Karabağlar ilçesinde 3 yaşındaki çocuk parkta bıçakla yaralandı, şüpheli gözaltına alındı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/izmirde-3-yasindaki-cocugu-bicakla-yaralayan-sahis-gozaltina-alindi-2nxm.jpg",
     "keyword": null
   }
 ]
