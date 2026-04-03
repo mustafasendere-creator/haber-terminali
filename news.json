@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6f23fa7c",
+    "title": "Filipinler'e Hürmüz Boğazı'nda güvenli geçiş vizesi",
+    "source": "TRT Haber",
+    "time": "03/04/2026 08:34",
+    "link": "https://www.trthaber.com/haber/dunya/filipinlere-hurmuz-bogazinda-guvenli-gecis-vizesi-940178.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filipinler hükümeti, gemilerinin Hürmüz Boğazı'ndan geçişine izin verileceğini duyurdu. Manila yönetiminin bir süredir İran ile yürüttüğü diplomatik temasların ardından gelen bu karar, bölgedeki deniz trafiğinin hareketlenmesi açısından kritik bir adım olarak değerlendiriliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_d3a66966",
     "title": "Fatih Tekke Trabzonspor'da ilk peşinde: En kritik viraj",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji Genel Müdürlüğü (MGM), 3 Nisan Cuma gününe ilişkin hava durumu raporunu yayımladı. Rapora göre  yurt genelinin parçalı, çok bulutlu ve aralıklı yağışlı geçeceği tahmin edilirken hava sıcaklığının  iç ve kuzey kesimlerde 3 ila 5 derece azalacağı, doğu kesimlerde 2 ila 4 derece artacağı belirtildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d2db2a5b-a446-438f-a250-12b114a1959f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_463cd103",
-    "title": "Suudi Arabistan, Kuveyt ve Bahreyn’e yeni saldırılar",
-    "source": "Haber Global",
-    "time": "03/04/2026 07:34",
-    "link": "https://haberglobal.com/dunya/suudi-arabistan-kuveyt-ve-bahreyne-yeni-saldirilar-516779",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suudi Arabistan, Kuveyt ve Bahreyn yeni füze ve insansız hava aracı (İHA) saldırılarına uğradıklarını açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/suudi-arabistan-kuveyt-ve-bahreyne-yeni-saldirilar-bzhh.jpg",
     "keyword": null
   }
 ]
