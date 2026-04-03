@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e607633e",
+    "title": "İran Devrim Muhafızları: Ülkenin orta kesimlerinde ABD'ye ait F35 savaş uçağı düşürüldü",
+    "source": "TRT Haber",
+    "time": "03/04/2026 09:34",
+    "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ulkenin-orta-kesimlerinde-abdye-ait-f-35-savas-ucagi-dusuruldu-940185.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusu, ülkenin orta kesimlerinde bir F35 savaş uçağını hava savunma sistemleriyle vurarak düşürdüğünü iddia etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8e15a5e4",
     "title": "ÇAYKUR'da geçici işçiler sözleşmeli personel olabilecek",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Jandarma Suç Araştırma Timi JASAT ekipleri, Antalya'nın Korkuteli ilçesinde 2011 yılında işlenen Havva Yıldırım cinayetini aydınlattı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_cc0f01ee",
-    "title": "Karadeniz’de Hava Değişiyor: Trabzon’dan Samsun’a İl İl Detaylı Tahmin Açıklandı",
-    "source": "Taka Gazetesi",
-    "time": "03/04/2026 08:54",
-    "link": "https://www.takagazete.com.tr/karadenizde-hava-degisiyor-trabzondan-samsuna-il-il-detayli-tahmin-aciklandi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Karadeniz hava durumu bugün için nasıl olacak, Trabzon’da yağmur var mı, Rize ve Artvin’de hava nasıl, Ordu ve Giresun’da sıcaklık kaç derece, Samsun ve Sinop’ta yağış bekleniyor mu gibi soruların yanıtları merak ediliyor. İşte Karadeniz Bölgesi’nde bugün hava durumu, il il ve ilçe ilçe detaylı tahminler, sıcaklık değerleri, rüzgâr durumu ve yağış beklentisi…",
-    "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/03/trabzon-hava-durumu-1.gif",
-    "keyword": "trabzon"
   }
 ]
