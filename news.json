@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c8e8b550",
+    "title": "İHD: Suriye’de Kürtlere yönelik saldırılara karşı protestolarda 123 kişi tutuklandı, 1 kişi yaşamını yitirdi",
+    "source": "Evrensel",
+    "time": "03/04/2026 18:34",
+    "link": "https://www.evrensel.net/haber/5978060/ihd-suriyede-kurtlere-yonelik-saldirilara-karsi-protestolarda-123-kisi-tutuklandi-1-kisi-yasamini-yitirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İHD’nin raporuna göre, Suriye’de Kürtlere yönelik saldırılara karşı düzenlenen protestolarda en az 930 kişi gözaltına alındı, 123 kişi tutuklandı, 1 kişi yaşamını yitirdi. Raporda, işkence, kötü muamele ve erişim engellerine de yer verildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341425.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_81c55e40",
     "title": "Galatasaray'ın Trabzonspor maçı kadrosu belli oldu! İcardi sürprizi",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Başkan Sarıalioğlu, 31 yılı aşkın süredir Of'a hizmet ettiğini belirterek, aynı azimle çalışmaya devam edeceklerini vurguladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/44956387-63f4-456a-8fa9-79deafae7761.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2fd5e564",
-    "title": "7 iddia, 7 cevap: İnsanlar aslında Ay'a hiç gitmedi mi?",
-    "source": "Euronews",
-    "time": "03/04/2026 17:55",
-    "link": "http://tr.euronews.com/next/2026/04/03/7-iddia-7-cevap-insanlar-aslinda-aya-hic-gitmedi-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tarihi Artemis II uçuşu, bazı eski tartışmaları da yeniden gün yüzüne çıkardı. Sosyal medyada birçok kişi 1969'da Apollo 11 göreviyle aslında Ay'a gidilmediğini ve her şeyin sahte olduğunu iddia ediyor.",
-    "image": null,
     "keyword": null
   }
 ]
