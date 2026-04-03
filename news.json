@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5c5f2b7",
+    "title": "Özel: Bir sonrası seçimde TRT bu haberi geçecek!",
+    "source": "Ekonomim",
+    "time": "03/04/2026 19:55",
+    "link": "https://www.ekonomim.com/gundem/ozel-bir-sonrasi-secimde-trt-bu-haberi-gececek-haberi-885933",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Genel Başkanı Özgür Özel bir sonraki genel seçimlerde CHP&#039;nin 100 yıl sonra yeniden iktidar partisi olacağını belirterek &quot;&#039;Cumhuriyet Halk Partisi 100 yıl sonra yeniden iktidar partisi&#039; anonsunu yapacağım, TRT ekranları bu haberi geçecek&quot; dedi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/ozel-bir-sonrasi-secimde-trt-bu-haberi-gececek-bfwx_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_de0d2c5d",
     "title": "Trump, 2027 bütçesinde savunma için 1,5 trilyon dolarlık talep etti",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Atom Enerjisi Kurumu, Uluslararası Atom Enerjisi Ajansı'nın UAEA ABDİsrail'in, İran'ın nükleer tesislerine saldırılarına karşı sessizliğini, \"saldırıların failleriyle işbirliği\" şeklinde değerlendirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fde64716",
-    "title": "ABD ve İsrail, İran'daki Şehit Beheşti Üniversitesine saldırdı",
-    "source": "TRT Haber",
-    "time": "03/04/2026 18:34",
-    "link": "https://www.trthaber.com/haber/dunya/abd-ve-israil-irandaki-sehit-behesti-universitesine-saldirdi-940273.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail, saldırılarını sürdürdüğü İranın başkenti Tahranda Şehit Beheşti Üniversitesini hedef aldı.",
     "image": null,
     "keyword": null
   }
