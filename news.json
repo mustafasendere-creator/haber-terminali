@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c0aafa8",
+    "title": "Elektrik ve doğalgaza yüzde 25 zam geldi",
+    "source": "OdaTV",
+    "time": "04/04/2026 00:15",
+    "link": "https://www.odatv.com/guncel/elektrik-ve-dogalgaza-yuzde-25-zam-geldi-120141986",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elektrik ve doğalgaza yüzde 25 zam yapıldı. Yeni tarife yarından itibaren geçerli olacak...",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/elektrik-ve-dogalgaza-yuzde-25-zam-geldi-8hdx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_00273c56",
     "title": "ABD asker kayıplarını açıkladı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Arakçi, Mısır Dışişleri Bakanı Bedir Abdulati ve Amerikalı yetkililer ile bugün telefon görüşmeleri gerçekleştirdi. Görüşmelerde, savaşın gidişatı ve savaşı durdurmaya yönelik çabalar ele alındı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_004c094b",
-    "title": "Mustafa Bozbey dahil 57 kişi adliyeye sevk edildi",
-    "source": "Evrensel",
-    "time": "03/04/2026 23:14",
-    "link": "https://www.evrensel.net/haber/5978046/mustafa-bozbey-dahil-57-kisi-adliyeye-sevk-edildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey ile eşi, kızı ve kardeşlerinin de aralarında olduğu 57 kişi adliyeye sevk edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340980.jpg",
     "keyword": null
   }
 ]
