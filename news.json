@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_004c094b",
+    "title": "Mustafa Bozbey dahil 57 kişi adliyeye sevk edildi",
+    "source": "Evrensel",
+    "time": "03/04/2026 23:14",
+    "link": "https://www.evrensel.net/haber/5978046/mustafa-bozbey-dahil-57-kisi-adliyeye-sevk-edildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey ile eşi, kızı ve kardeşlerinin de aralarında olduğu 57 kişi adliyeye sevk edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340980.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d9ce2c18",
     "title": "Et yerine sakatat yedirdiler: Lahmacundan karaciğer, köfteden taşlık çıktı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Wall Street Journal (WSJ) gazetesi, Pakistan öncülüğünde ABD ve İran arasında bir ateşkese ulaşılması için yapılan girişimlerin çıkmaza girdiğini yazdı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5cb670bf-3d57-4bc7-979b-64e435f177d5.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_735b0828",
-    "title": "İran basını duyurdu: İran ABD'nin 48 saatlik ateşkes teklifini reddetti",
-    "source": "Haber Global",
-    "time": "03/04/2026 21:54",
-    "link": "https://haberglobal.com/dunya/iran-basini-duyurdu-iran-abdnin-48-saatlik-ateskes-teklifini-reddetti-516886",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fars Haber Ajansı'na göre İran, ABD'nin 2 günlük ateşkes önerisini reddetti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/iran-basini-duyurdu-iran-abdnin-48-saatlik-ateskes-teklifini-reddetti-przl.jpg",
     "keyword": null
   }
 ]
