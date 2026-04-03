@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ab66e552",
+    "title": "Bahar Taş’ın şüpheli ölümüne dair yeni gelişme: Tekne sahibi S.E. gözaltına alındı",
+    "source": "Evrensel",
+    "time": "03/04/2026 10:54",
+    "link": "https://www.evrensel.net/haber/5978021/bahar-tasin-supheli-olumune-dair-yeni-gelisme-tekne-sahibi-se-gozaltina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla’nın Milas ilçesinde arkadaşlarıyla gittiği teknede ölü bulunan Bahar Taş’ın ölümünün karbonmonoksit zehirlenmesi olduğu belirlenirken, tekne sahibi gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/337601.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_069f7d22",
     "title": "Üretici fiyat endeksi yıllık yüzde 28,08 arttı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Türkiye İstatistik Kurumu’nun açıkladığı mart ayı verilerine göre enflasyon aylık yüzde 1,94 arttı. Yıllık enflasyon ise yüzde 30,87 olarak kaydedildi.",
     "image": "https://resim.haber61.net/news/610639.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f6d588b5",
-    "title": "JPMorgan'dan 'petrol' uyarısı: 150 dolara çıkabilir",
-    "source": "OdaTV",
-    "time": "03/04/2026 09:55",
-    "link": "https://www.odatv.com/ekonomi/enerji/jpmorgandan-petrol-uyarisi-150-dolara-cikabilir-120141891",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "JPMorgan değerlendirmesine göre, Hürmüz Boğazı&#039;nın kapalı kalması durumunda brent petrol fiyatları 150 doların üzerine çıkabilir.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/jpmorgandan-petrol-uyarisi-150-dolara-cikabilir-u3ee.jpg",
     "keyword": null
   }
 ]
