@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c09fae0",
+    "title": "Kuveyt'te petrol rafinerisi ve su arıtma tesisine saldırı",
+    "source": "BBC Türkçe",
+    "time": "03/04/2026 13:53",
+    "link": "https://www.bbc.com/turkce/articles/cp8d6l7mv23o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Savaş beşinci haftasını geride bırakırken, ABD İran'ın en önemli köprüsünü vurdu ve diğer altyapı tesislerine yönelik saldırı tehditlerini yineledi. İran da İsrail ve Körfez ülkelerine yeni saldırılar başlattı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ac415e4f",
     "title": "Bakan Yumaklı: Tarımsal girdilerle ilgili almış olduğumuz bütün tedbirler şu anda yerinde",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "17-19 Nisan’da Almanya’nın Düsseldorf şehrinde düzenlenecek festival, Rojava direnişini “Heval Birako” filmiyle selamlayacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334986.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1acb6fb0",
-    "title": "LGS tarihinde Dünya Kupası değişikliği",
-    "source": "Evrensel",
-    "time": "03/04/2026 13:14",
-    "link": "https://www.evrensel.net/haber/5978047/lgs-tarihinde-dunya-kupasi-degisikligi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MEB, LGS kapsamındaki merkezi sınavın, Dünya Kupası'ndaki milli maç sebebiyle 13 Haziran Cumartesi gününe alındığını bildirdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341418.jpg",
     "keyword": null
   }
 ]
