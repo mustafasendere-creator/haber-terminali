@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17324236",
+    "title": "ABD'de gündem Trump'ın savaş ve kreşlerle ilgili gafı oldu",
+    "source": "TRT Haber",
+    "time": "03/04/2026 06:53",
+    "link": "https://www.trthaber.com/haber/dunya/abdde-gundem-trumpin-savas-ve-kreslerle-ilgili-gafi-oldu-940167.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trumpın, İran savaşına yönelik kamuoyu desteği aradığı bir dönemde savaş ve kreşlerle ilgili gafı tepki çekti. Trump, federal hükümetin önceliğinin askeri harcamalar olması gerektiğini savunarak, \"Savaşlarla uğraşıyoruz. Kreşlerle ilgilenemeyiz\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_282f4317",
     "title": "Meteoroloji'den dört il için sarı alarm: Ege ve Akdeniz'de şiddetli yağış, doğuda çığ tehlikesi (03.04.2026)",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sevdiğim Sensin dizisinin 8. bölümünün ne zaman yayımlanacağı merak ediliyor. Peki, Sevdiğim Sensin dizisinin yeni bölümü ne zaman yayımlanacak? Sevdiğim Sensin dizisinin son bölümünde ne oldu?",
     "image": "https://media.cumhuriyet.com.tr/Archive/f876038d-dfe5-4317-bbb7-39f2bdf82c67.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_00b7b6de",
-    "title": "19 kaçak göçmenin öldüğü bot faciasında 11 kişi gözaltına alındı",
-    "source": "Cumhuriyet",
-    "time": "03/04/2026 03:13",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/19-kacak-gocmenin-oldugu-bot-faciasinda-11-kisi-gozaltina-alindi-2491885",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bodrum açıklarında batan lastik bottaki 19 göçmen hayatını kaybetti, 20 kişi kurtarıldı. Soruşturma kapsamında 11 şüpheli gözaltına alınırken, 6 kişi aranıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d72f59a0-1758-4675-b111-1e4efbe4493b.jpg",
     "keyword": null
   }
 ]
