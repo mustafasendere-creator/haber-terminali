@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_861b6d6e",
+    "title": "DİSK-AR raporuna göre, yılın üçüncü ayında asgari ücret 2 bin 819 lira değer kaybetti",
+    "source": "Cumhuriyet",
+    "time": "03/04/2026 18:14",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/disk-ar-raporuna-gore-yilin-ucuncu-ayinda-asgari-ucret-2-bin-819-lira-deger-kaybetti-2492140",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Devrimci İşçi Sendikaları Konfederasyonu Araştırma Merkezi'nin (DİSK-AR), Türkiye İstatistik Kurumu’nun (TÜİK) verileri temel alınarak hazırladığı raporda, asgari ücretin henüz yılın üçüncü ayında 2 bin 819 lira, en düşük emekli aylığının ise 2 bin 8 lira değer kaybettiği belirtildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b4e70abd-735e-490d-8de7-669030ba6155.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cd54e4d1",
     "title": "MHP lideri Bahçeli'den Alparslan Türkeş için anma mesajı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Kağıthane Belediye Başkanı Mevlüt Öztekin, Trabzon Valisi Tahir Şahin’i ağırladı. Görüşmede ilçe hizmetleri ve projeler ele alınırken, program kapsamında Yeşil Vadi, Fatih Camii ve Trabzon Günleri de ziyaret edildi.",
     "image": "https://resim.haber61.net/news/610726.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9565d578",
-    "title": "Rekabet Kurulu'ndan Google'a soruşturma",
-    "source": "TRT Haber",
-    "time": "03/04/2026 17:34",
-    "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulundan-googlea-sorusturma-940276.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rekabet Kurulu, Alphabet Inc, Google Ireland Limited, Google LLC, Google International LLC ve Google Reklamcılık ve Pazarlama Ltd. Şti'den oluşan ekonomik bütünlük hakkında reklam faturalandırma süreçlerine ilişkin soruşturma açılmasına karar verdi.",
-    "image": null,
-    "keyword": null
   }
 ]
