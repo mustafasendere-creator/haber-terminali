@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_30b56f75",
+    "title": "Boğaz'da gemi arızası: Trafik çift yönlü askıya alındı",
+    "source": "Haber Global",
+    "time": "03/04/2026 22:54",
+    "link": "https://haberglobal.com/gundem/bogazda-gemi-arizasi-trafik-cift-yonlu-askiya-alindi-516889",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Boğazı'nda kuzey-güney geçişi yapmakta olan Barbados bandıralı \"TRACKHOUND\" isimli geminin İstinye açıklarında makine arızası yapması üzerine gemi trafiği çift yönlü olarak askıya alındı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/bogazda-gemi-arizasi-trafik-cift-yonlu-askiya-alindi-1f1q.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bced0424",
     "title": "NYT: Hürmüz Boğazı yakınlarında ikinci ABD savaş uçağı düşürüldü",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Giresun Belediyesi, şehir altyapısını güçlendirmek ve vatandaşlara daha sağlıklı içme suyu ulaştırmak için asbest boruları polietilen borularla değiştirmeye başladı.",
     "image": "https://resim.haber61.net/news/610727.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_574be4f0",
-    "title": "ABD deniz ticaretine yönelik reasürans teminatını 40 milyar dolara çıkardı",
-    "source": "Anadolu Ajansı",
-    "time": "03/04/2026 21:53",
-    "link": "https://www.aa.com.tr/tr/guncel/abd-deniz-ticaretine-yonelik-reasurans-teminatini-40-milyar-dolara-cikardi/3891021",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD yönetimi, deniz ticaretini desteklemek amacıyla başlatılan 20 milyar dolarlık reasürans planının kapasitesini 6 şirketin katılımıyla 40 milyar dolara yükseltti.",
-    "image": null,
     "keyword": null
   }
 ]
