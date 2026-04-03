@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e40bd23",
+    "title": "ABD'li Senatör Murphy: ABD, İran'a karşı savaşı kaybediyor",
+    "source": "TRT Haber",
+    "time": "03/04/2026 12:35",
+    "link": "https://www.trthaber.com/haber/dunya/abdli-senator-murphy-abd-irana-karsi-savasi-kaybediyor-940235.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'li Demokrat Senatör Chris Murphy, ülkesinin Orta Doğu'da İran'a karşı sürdürdüğü saldırılara tepki göstererek, \"Biz bu savaşı kaybediyoruz.\" ifadesini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_513aac23",
     "title": "RTÜK'ten spor yayınlarına ilişkin yeni kararlar",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor'un efsanelerinden ilk gol kralı Necmi Perekli, bu sezon zirvedeki yerini koruyan Paul Onuachu için “Trabzonspor’un gol kralları içinde en üstün golcüsü” ifadesini kullanarak, Galatasaray karşısında kilit isim olacağını söyledi.",
     "image": "https://resim.haber61.net/news/610661.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_37779917",
-    "title": "Gürcistan'da düşen Türk kargo uçağında dış müdahale izine rastlanmadı",
-    "source": "Haber Global",
-    "time": "03/04/2026 11:55",
-    "link": "https://haberglobal.com/gundem/gurcistanda-dusen-turk-kargo-ucaginda-dis-mudahale-izine-rastlanmadi-516826",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara Cumhuriyet Başsavcılığınca, Gürcistan-Azerbaycan sınırında düşen C-130 tipi Türk askeri kargo uçağına yönelik yürütülen soruşturma kapsamında hazırlanan Jandarma kriminal raporunda, uçağa yönelik herhangi bir dış müdahale veya patlayıcı izine rastlanmadığı tespiti yer aldı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/03/gurcistanda-dusen-turk-kargo-ucaginda-dis-mudahale-izine-rastlanmadi-ds6c.jpg",
-    "keyword": null
   }
 ]
