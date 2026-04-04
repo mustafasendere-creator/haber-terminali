@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_01c215a5",
+    "title": "Yapay zekayla kimlik fotoğrafını değiştirip 'joker' adayları ehliyet sınavına sokanlara operasyon",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 03:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/yapay-zekayla-kimlik-fotografini-degistirip-joker-adaylari-ehliyet-sinavina-sokanlara-operasyon-2492122",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum'da ehliyet sınavında usulsüzlük yapanlara yönelik yürütülen soruşturmada, kentteki bir sürücü kursunun, sınavı geçemeyenlerle \"joker\" kişilerin biyometrik fotoğraflarını yapay zekayla birbirine benzettiği tespit edildi. Yazılı/elektronik sınava girenlerle direksiyon sınavına katılanların konumlarında il olarak farklılığa, imzalarda da uyuşmazlığa rastlanan soruşturmada, Cumhuriyet Başsavcılığının talimatıyla 34 şüpheli gözaltına alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/06404108-e1e2-4af4-a990-9f0de515ce8a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_92c1357d",
     "title": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey tutuklama talebiyle hakimliğe sevk edildi",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da akşam saatlerinde meydana gelen kazada bir otomobil hurdaya döndü. Ağır yaralanan sürücü hastaneye kaldırıldı.",
     "image": "https://resim.haber61.net/news/610719.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_739981cc",
-    "title": "Trabzonspor’da Andre Onana iddiası! Alman ekibi devreye girdi",
-    "source": "Haber61",
-    "time": "04/04/2026 00:53",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-andre-onana-iddiasi-alman-ekibi-devreye-girdi-h628508.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Dailysports’un haberine göre Trabzonspor’da kiralık olarak forma giyen Andre Onana, Borussia Mönchengladbach’ın radarına girdi. Haberde, Kamerunlu oyuncunun sezon sonunda Almanya Bundesliga’ya transfer olabileceği öne sürüldü.",
-    "image": "https://resim.haber61.net/news/610720.jpg",
     "keyword": null
   }
 ]
