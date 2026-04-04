@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d409fe60",
+    "title": "Kuzu etine iklim zammı: Avrupa’da Paskalya sofrası pahalı",
+    "source": "Ekonomim",
+    "time": "04/04/2026 09:55",
+    "link": "https://www.ekonomim.com/sektorler/gida/kuzu-etine-iklim-zammi-avrupada-paskalya-sofrasi-pahali-haberi-885992",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa’da Paskalya öncesi kuzu eti fiyatları, iklim kaynaklı üretim şokları nedeniyle hızla yükseldi. Analizlere göre son yıllarda yaşanan aşırı hava olayları fiyatları %7 ila %21 arasında artırırken, tüketicilerin maliyeti belirgin şekilde arttı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/07/19/tigem-2-bin-kuzu-satacak-yzr6_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eace4da1",
     "title": "BM: Suriye’de 15,6 milyon kişi yardım bekliyor",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ve İsrail'in 28 Şubat'ta İran'a saldırısıyla tırmanan savaş, küresel ticaret ve finansta derin bir krize yol açtı. UNCTAD, krizin enerjiyi aşarak gıda güvenliği ve küresel büyümeyi de tehdit ettiği uyarısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6191c1d6",
-    "title": "Van'da 5,2 büyüklüğünde deprem oldu",
-    "source": "TRT Haber",
-    "time": "04/04/2026 09:14",
-    "link": "https://www.trthaber.com/haber/gundem/vanda-52-buyuklugunde-deprem-oldu-940337.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Van'ın Tuşba ilçesinde 5,2 büyüklüğünde deprem meydana geldi.",
     "image": null,
     "keyword": null
   }
