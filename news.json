@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_a8b353ed",
+    "title": "Yerel yönetimlere sahipsiz köpek uyarısı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 12:35",
+    "link": "https://www.trthaber.com/haber/gundem/yerel-yonetimlere-sahipsiz-kopek-uyarisi-940351.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Valiliği, sahipsiz köpeklerin toplatılarak bakımevlerine götürülmesine ilişkin yükümlülüklerin yerine getirilmesi için yerel yönetimlere yönelik çalışmaların hızlandırılması gerektiğini, mayıs ayı sonuna kadar ilçelerde görevlerini ihmal eden yerel yönetimlerle ilgili adli sürecin başlatılacağını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
+    "id": "GND_8b6b4330",
+    "title": "50 yılı aşkın süreden sonra Ay'a ilk yolculuk",
+    "source": "DW Türkçe",
+    "time": "04/04/2026 12:34",
+    "link": "https://www.dw.com/tr/50-yılı-aşkın-süreden-sonra-ay-a-ilk-yolculuk/a-76659504",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ay'a giden yolu yarılayan astronotlar uzaydan dünyaya ilk görüntüleri gönderdi. Bu fotoğraflar, yaklaşık yarım asrın ardından Ay'ın yörüngesinden kaydedilen ilk Dünya görüntüleri oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_c01e1a63",
     "title": "EMNİYET BİRLİK PLATFORMU (@EmniyetBirlik) / Posts / X - x.com",
     "source": "X",
@@ -934,29 +958,5 @@
     "summary": "İranlı üst düzey bir komutan, ABD savaş uçaklarını “yeni yöntem ve ekipmanlarla avladıklarını” açıkladı. Açıklama, aynı gün bir F-15’in düşürülmesi ve bir A-10’un vurulmasının ardından gelirken, Tahran yönetimi hava savunma sistemlerindeki “yeniliklerin” etkili olduğunu savundu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7d9e0f0a-74b9-4373-b3eb-6b6dfa1a5765.jpeg",
     "keyword": null
-  },
-  {
-    "id": "GND_997f28ff",
-    "title": "Yandaş gazete duyurdu... Adliyede 'uyuşturucu' operasyonu: Cumhuriyet savcısı ve avukatlar gözaltına alındı",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 11:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/yandas-gazete-duyurdu-adliyede-uyusturucu-operasyonu-cumhuriyet-savcisi-ve-avukatlar-gozaltina-alindi-2492291",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aralarında savcı, avukatlar ve adliye personelinin de bulunduğu şüphelilere yönelik düzenlenen uyuşturucu operasyonda 16 kişi gözaltına alındı. Gözaltındaki zabıt katibi H.İ.U. ve Sulh Ceza Hâkimliği'nde görevli zabıt katibi M.Ç. tutuklandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/264861bc-599b-422c-a3fa-5eade84827ae.jpg",
-    "keyword": null
-  },
-  {
-    "id": "TKP_1a9c6f57",
-    "title": "Trabzon Günleri sanatsal zenginliğiyle öne çıkıyor!",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "04/04/2026 11:54",
-    "link": "https://www.karadenizdesonnokta.com.tr/trabzon-gunleri-sanatsal-zenginligiyle-one-cikiyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/s-e-r-g-ijpg.jpeg",
-    "keyword": "trabzon"
   }
 ]
