@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a0569e99",
+    "title": "Netanyahu’dan İran açıklaması: Saldırılar devam edecek",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 03:33",
+    "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-dan-iran-aciklamasi-saldirilar-devam-edecek-2492112",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD ile tam koordinasyon içinde İran’a yönelik saldırıların süreceğini açıkladı; altyapı ve askeri hedeflerin vurulduğunu savunan Netanyahu, Lübnan’da da operasyonların genişletileceğini belirtti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/24183be9-8d5b-4291-a6a9-120a1be4dd53.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_382d958c",
     "title": "İran'ın misillemesinin ardından İsrail'de bir fabrikada yangın çıktı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Amerikan NBC televizyonu, İran'da düşürülen F15'i arama kurtarma çalışmalarına katılan 2 ABD helikopterinin vurulduğunu, mürettebatın sağ kurtulduğunu duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_086a27db",
-    "title": "Trump, İran'da düşürülen F15'in kayıp pilotunun zarar görmemesini umuyor",
-    "source": "TRT Haber",
-    "time": "04/04/2026 00:53",
-    "link": "https://www.trthaber.com/haber/dunya/trump-iranda-dusurulen-f-15in-kayip-pilotunun-zarar-gormemesini-umuyor-940316.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran'da düşürülen ABD'ye ait F15'in kayıp pilotunun yakalanması veya zarar görmesi durumunda ne yapacaklarını dile getirmekten kaçınırken, \"Bununla ilgili yorum yapamam çünkü umarız böyle bir şey olmaz.\" dedi.",
     "image": null,
     "keyword": null
   }
