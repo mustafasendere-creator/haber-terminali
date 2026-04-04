@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2fd1a815",
+    "title": "Tunca Nehri'nde \"turuncu\" alarm verildi",
+    "source": "Habertürk",
+    "time": "04/04/2026 09:35",
+    "link": "https://www.haberturk.com/tunca-nehri-nde-turuncu-alarm-verildi-3874588",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bulgaristan'da etkili olan yağışların ardından Edirne'deki nehirlerde su seviyesi artışa geçti. Turuncu alarm verilen Tunca Nehri'nin debisi artınca taşkın riski bulunan Kırkpınar Yağlı Güreşleri'nin yapıldığı Sarayiçi'nde polis ekipleri önlem aldı",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775219256/3874588/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2abc951d",
     "title": "Bu hafta sonu hangi sınavlar var?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe, 4 Nisan 2015'teki saldırının 11. yılında faillerin hala bulunamamasına tepki göstererek \"4018 Gündür Soruyoruz: Failler Nerede?\" notuyla bir paylaşım yaptı.",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775252429/3874717/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_d35f5e0e",
-    "title": "Hakkari'de aranan 12 kişi yakalandı: Aralarında firari hükümlü de var",
-    "source": "Sözcü",
-    "time": "04/04/2026 08:54",
-    "link": "https://www.sozcu.com.tr/hakkari-de-aranan-12-kisi-yakalandi-aralarinda-firari-hukumlu-de-var-p307280",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hakkari'de aranan 12 kişi yakalandı: Aralarında firari hükümlü de var",
-    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/aa202604044100875141008750hakkaridefirarihukumluilecesitlisuclardanaranan11zanliyakalandijpg-o6yiPSmm30i-sV-FMplO1A.jpg",
     "keyword": null
   }
 ]
