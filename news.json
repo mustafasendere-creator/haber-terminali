@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e5dd1b6",
+    "title": "Zelenskiy'den 'sürpriz' İstanbul ziyareti: Erdoğan'la görüşecek",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 14:54",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/zelenskiy-den-surpriz-istanbul-ziyareti-erdogan-la-gorusecek-2492324",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Devlet Başkanı Vladimir Zelenski, AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan ile yapacağı görüşme için İstanbul’a geldi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d682bdfc-970b-4d3a-bf2b-c5dfb8388c64.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_543230ce",
     "title": "Fındıkta Büyük Tehdit! Of’ta Kahverengi Kokarcaya Karşı Seferberlik Başladı",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "61SAAT’tan derbi öncesi özel yayın…",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/mansetler-1-291.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_dff4d0eb",
-    "title": "Düzce’de 5 kişi karbonmonoksit gazından zehirlendi",
-    "source": "Haber Global",
-    "time": "04/04/2026 14:14",
-    "link": "https://haberglobal.com/gundem/duzcede-5-kisi-karbonmonoksit-gazindan-zehirlendi-516978",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Düzce’nin Yığılca ilçesinde karbonmonoksit gazından zehirlenen aynı aileden 5 kişi, hastanede tedavi altına alandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/duzcede-5-kisi-karbonmonoksit-gazindan-zehirlendi-cidw.jpg",
-    "keyword": null
   }
 ]
