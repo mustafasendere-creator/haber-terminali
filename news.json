@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ed757562",
+    "title": "Cumhurbaşkanı ErdoğanZelenski görüşmesi başladı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 15:54",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-zelenski-gorusmesi-basladi-940392.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ukrayna Devlet Başkanı Zeleneski ile Dolmabahçe Çalışma Ofisi'nde görüşüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_bd74e1e8",
     "title": "Uğurcan Çakır için dikkat çeken yorum! Her gitmek isteyen gönderilecek mi?",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Almanya Dışişleri Bakanı Johann Wadephul, Avrupa Birliği'nden (AB) dış ve güvenlik politikalarında alınacak kararlarda oy birliği ilkesinin kaldırılmasını istediğini söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_25705dde",
-    "title": "MSB'den MSÜ tercihlerini hatırlatmak için özel video klip",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 15:13",
-    "link": "https://www.aa.com.tr/tr/guncel/msbden-msu-tercihlerini-hatirlatmak-icin-ozel-video-klip/3891700",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Savunma Bakanlığı (MSB) tarafından, Milli Savunma Üniversitesine (MSÜ) bağlı Harp Okulları ve Astsubay Meslek Yüksek Okulları için 2026-MSÜ tercih sürecinin 24 Nisan'da son bulacağını hatırlatan özel bir video klip hazırlandı.",
     "image": null,
     "keyword": null
   }
