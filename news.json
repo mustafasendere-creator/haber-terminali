@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d973d7b3",
+    "title": "İşgalci İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırılarda 9 kişi öldü",
+    "source": "TRT Haber",
+    "time": "04/04/2026 13:55",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-lubnanin-guneyine-duzenledigi-saldirilarda-9-kisi-oldu-940374.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın güneyindeki beldelere sürdürdüğü saldırılarda 9 kişi hayatını kaybetti, hedef alınan bir cami yerle bir oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3e8dff17",
     "title": "Beykoz'da usulsüz çakar kullanan sürücüye 253 bin lira ceza",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fatih’te 18’inci yüzyıldan kalma su kuyusunda kazı yapan 3 şüpheli, polis baskınıyla suçüstü yakalandı. Şüphelilerin, “Kuyu taşmıştı” diyerek kendilerini savunduğu öğrenildi",
     "image": "https://im.haberturk.com/l/2026/04/03/ver1775219923/3874593/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_ce85f7c5",
-    "title": "Netanyahu'dan İran iddiası",
-    "source": "Habertürk",
-    "time": "04/04/2026 13:14",
-    "link": "https://www.haberturk.com/netanyahu-dan-iran-iddiasi-3874597",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Başbakanı Netanyahu, ABD ile İran'a bir ayı aşkın süredir düzenledikleri saldırılarda İran'ın çelik üretim kapasitesinin yüzde 70'ini imha ettiklerini iddia etti",
-    "image": "https://im.haberturk.com/l/2026/04/03/ver1775220148/3874597/jpg/1280x1280",
     "keyword": null
   }
 ]
