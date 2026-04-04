@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0af87479",
+    "title": "Bursa operasyonu fabrikalarda",
+    "source": "Evrensel",
+    "time": "05/04/2026 00:33",
+    "link": "https://www.evrensel.net/haber/5978238/bursa-operasyonu-fabrikalarda",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey'in 31 Mart'ta gözaltına alınması, TOFAŞ, Renault ve Bosch gibi dev fabrikalardaki işçilerin gündemi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340980.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6a92a201",
     "title": "Aslında bu savaş 20 Nisan 2025’te ilan edilmişti",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mersin Tarsus'ta bulunan Berdan Çayı'na atlayan bir genç akıntıya kapılara kayboldu. Arama çalışmaları sürüyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/fd99d934-88de-46ad-82f2-803e532c96e1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_92ce06fb",
-    "title": "Cumhurbaşkanı Erdoğan Hamas heyetini kabul etti",
-    "source": "Haber Global",
-    "time": "04/04/2026 23:34",
-    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-hamas-heyetini-kabul-etti-517008",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Dolmabahçe Çalışma Ofisi'nde Hamas heyetini kabul etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/cumhurbaskani-erdogan-hamas-heyetini-kabul-etti-jrcs.jpg",
     "keyword": null
   }
 ]
