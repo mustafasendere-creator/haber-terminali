@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a19effe5",
+    "title": "Kar ve tipi Ardahan'da bazı yollarda ulaşımı aksatıyor",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 20:13",
+    "link": "https://www.aa.com.tr/tr/guncel/kar-ve-tipi-ardahanda-bazi-yollarda-ulasimi-aksatiyor/3892053",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ardahan'da aralıklarla etkili olan kar yağışı ve tipi, bazı yollarda ulaşımda aksamalara neden oluyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_61bf893d",
     "title": "Trabzon’da dev maç öncesi protokol Papara Park’ta buluştu",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Haksız Fiyat Değerlendirme Kurulu tarafından toptancı hallerinde sebze ve meyve toptan ticareti yapan işletmeler ile ulusal zincir marketlerden fahiş fiyat artışı yaptığı tespit edilen toplam 183 işletmeye 96,6 milyon TL para cezası uygulanmasına karar verildi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/haksiz.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d1c1053a",
-    "title": "Arakçi’den müzakere açıklaması: Pakistan'a gitmeyi hiçbir zaman reddetmedik",
-    "source": "Evrensel",
-    "time": "04/04/2026 18:34",
-    "link": "https://www.evrensel.net/haber/5978225/arakciden-muzakere-aciklamasi-pakistana-gitmeyi-hicbir-zaman-reddetmedik",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD medyasında yer alan “müzakereleri reddetti” iddialarını yalanladı. Pakistan’ın ara buluculuğuna teşekkür ederek kalıcı çözüm vurgusu yaptı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/334607.jpg",
     "keyword": null
   }
 ]
