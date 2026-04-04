@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2ecf1592",
+    "title": "Trabzonspor'dan Galatasaray maçında özel koreografi: 'Paraya karşı emeğin savaşı'",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 20:34",
+    "link": "https://www.cumhuriyet.com.tr/spor/trabzonspor-dan-galatasaray-macinda-ozel-koreografi-paraya-karsi-emegin-savasi-2492402",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig'de Galatasaray'ı konuk eden Trabzonspor'da taraftarlar maç öncesinde koreografi yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9174691b-8edc-4a99-9fb1-15f0d366520f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d3ec35a5",
     "title": "Erdoğan'dan Zelenski görüşmesi sonrası enerji açıklaması",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor, sahasında Galatasaray ile karşı karşıya geliyor. Mücadele ile ilgili tüm ayrıntılar ve canlı anlatım Cumhuriyet.com.tr'de…",
     "image": "https://media.cumhuriyet.com.tr/Archive/f05e09c4-54e7-4bec-b6fd-67d78c96123b.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3c590707",
-    "title": "Cumhurbaşkanı Erdoğan, İstanbul'da Hamas heyetini kabul etti",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 20:13",
-    "link": "https://www.aa.com.tr/tr/guncel/cumhurbaskani-erdogan-istanbulda-hamas-heyetini-kabul-etti/3892052",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Dolmabahçe Çalışma Ofisi'nde Hamas heyetini kabul etti.",
-    "image": null,
-    "keyword": null
   }
 ]
