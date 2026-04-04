@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_61261e5e",
+    "title": "Ankara'da özel halk otobüsü, üst geçidin ayağına çarptı: 5 kişi hayatını kaybetti, 15 yaralı",
+    "source": "Evrensel",
+    "time": "04/04/2026 12:34",
+    "link": "https://www.evrensel.net/haber/5978172/ankara-da-ozel-halk-otobusu-ust-gecidin-ayagina-carpti-5-kisi-hayatini-kaybetti-15-yarali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Kahramankazan ilçesinde özel halk otobüsünün üst geçidin ayağına çarptığı kazada 4 kişi hayatını kaybetti, 13 kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341552.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a0b2431c",
     "title": "Bursa’da belediyeye yönelik soruşturma: Mustafa Bozbey tutuklandı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bu yıl “Denizin Sesi, Adımların Ritmi: Çeşme'de Koş!” sloganıyla düzenlenecek olan Salomon Çeşme Yarı Maratonu, Çeşme Belediyesi’nin ev sahipliğinde 9–10 Mayıs’ta koşulacak.",
     "image": "https://media.cumhuriyet.com.tr/Archive/09db6afa-4ce7-4cf6-9b5f-2367a3397fe3.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_c5b8b79a",
-    "title": "Tarlaya bungalov bağ evi dönemi bitti: Yıkımlar 1 ay içinde başlıyor!",
-    "source": "Haber Global",
-    "time": "04/04/2026 11:54",
-    "link": "https://haberglobal.com/gundem/tarlaya-bungalov-bag-evi-donemi-bitti-yikimlar-1-ay-icinde-basliyor-516951",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tarım arazilerinde izin verilecek yapılar yeniden düzenlendi. Bungalov ve bağ evi için kurul izni gerekecek, kaçak yapılar yıkılacak, tarlalar eski haline getirilecek. Yıkım kararı olan yapıların 1 ay içinde yıkılması gerekiyor. Mevcut yapılar için de izin başvurusu yapılacak.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/tarlaya-bungalov-bag-evi-donemi-bitti-yikimlar-1-ay-icinde-basliyor-9ykt.jpg",
     "keyword": null
   }
 ]
