@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e4c5b68",
+    "title": "Trump, İran'ın 'pek çok askeri liderinin' öldürüldüğünü duyurdu",
+    "source": "TRT Haber",
+    "time": "05/04/2026 01:34",
+    "link": "https://www.trthaber.com/haber/dunya/trump-iranin-pek-cok-askeri-liderinin-olduruldugunu-duyurdu-940424.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trump, İran'a yönelik kısa süre önce yapılan saldırıda \"pek çok askeri liderin\" öldürüldüğünü açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6a3fd845",
     "title": "Adana’da kadınlar endişeli",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Ertuğrul Doğan: \"Trabzon medyasından şunu rica ediyorum. Bugün bu galibiyeti yaşayalım ama uçmayalım. Önümüzde maçlar var. Kontrollü ve dengeli olmak zorundayız. Çok daha düşük bütçelerle rakiplerimizle mücadele ediyoruz. Bugün sadece bir galibiy  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_f5986a0f",
-    "title": "Dışişleri Bakanı Fidan, Şeybani ile görüştü",
-    "source": "TRT Haber",
-    "time": "05/04/2026 00:14",
-    "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-seybani-ile-gorustu-940419.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile telefonda görüştü.",
-    "image": null,
-    "keyword": null
   }
 ]
