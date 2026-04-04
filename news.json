@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_346ca57b",
+    "title": "Barcelona farkı açıyor",
+    "source": "OdaTV",
+    "time": "05/04/2026 01:15",
+    "link": "https://www.odatv.com/spor/barcelona-farki-aciyor-120142103",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İspanya LaLiga&#039;da lider Barcelona, deplasmanda Atletico Madrid&#039;i 2-1 yendi. Real Madrid ile olan puan farkı 7&#039;ye çıktı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/05/barcelona-farki-aciyor-mh1l.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_37753a76",
     "title": "Şehir trafiğinde yeni nesil çözüm: A101’e 9 Nisan Perşembe Elektrikli Bisiklet geliyor!",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fransa'dan Küresel Sumud Filosu'nun \"2026 Bahar Misyonu\"na katılacak yaklaşık 20 tekne, ülkenin güneyindeki Marsilya kentinden yola çıktı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_048be750",
-    "title": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey görevden uzaklaştırıldı",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 00:13",
-    "link": "https://www.aa.com.tr/tr/guncel/bursa-buyuksehir-belediye-baskani-mustafa-bozbey-gorevden-uzaklastirildi/3892089",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey'in geçici tedbir olarak görevden uzaklaştırıldığını bildirdi.",
     "image": null,
     "keyword": null
   }
