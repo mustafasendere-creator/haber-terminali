@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f341a45f",
+    "title": "İran haber ajansı Mizan bu sabah iki kişinin daha idam edildiğini duyurdu",
+    "source": "Evrensel",
+    "time": "04/04/2026 11:54",
+    "link": "https://www.evrensel.net/haber/5978171/iran-haber-ajansi-mizan-bu-sabah-iki-kisinin-daha-idam-edildigini-duyurdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’da Mizan Haber Ajansı, İran Halkın Mücahitleri Örgütü'ne üye olan Vahid Beni-Ameriyan ve Ebulhasan Muntazar'in bu sabah idam edildiğini duyurdu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341551.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_963cc599",
     "title": "Yağmur altında dinlenmek",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Soğuk Savaş’tan bugüne NATO’nun rolü; Yugoslavya, Afganistan ve Libya müdahalelerinden Türkiye’deki tartışmalı yapılanmalara kadar uzanan geniş bir çerçevede yeniden tartışılıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341549.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1f1b0600",
-    "title": "Ağuustos Böceği alarmı: Covid-19’un yeni varyantı hızla yayılıyor",
-    "source": "10Haber",
-    "time": "04/04/2026 11:13",
-    "link": "https://10haber.net/saglik/aguustos-bocegi-alarmi-covid-19un-yeni-varyanti-hizla-yayiliyor-692326/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şu anda Covid-19 dünya genelinde çok düşük seviyelerde seyretse de ABD, Omicron ailesinin bir kolu olan ve yıllarca yer altında kaldıktan sonra aniden ortaya çıkan böcekten esinlenerek ‘Cicada’ adı verilen bu gizemli BA.3.2 varyantıyla karşı karşıya kaldı. Hastalık Kontrol ve Önleme Merkezleri&#8217;nin (CDC) geçen ay sessizce yayınladığı rapora göre bu varyant şimdiye kadar 23 ülkede [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69d0c64621c2e0.18983483.jpg",
     "keyword": null
   }
 ]
