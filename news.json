@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0dfad887",
+    "title": "İran duyurdu: Hürmüz Boğazı'nda İsrail bağlantılı gemiyi vurduk",
+    "source": "Haber Global",
+    "time": "04/04/2026 15:34",
+    "link": "https://haberglobal.com/dunya/iran-duyurdu-hurmuz-bogazinda-israil-baglantili-gemiyi-vurduk-516987",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusu Donanması, Hürmüz Boğazı yakınlarında İsrail ile bağlantılı bir geminin kamikaze insansız hava araçlarıyla (İHA) vurulduğunu bildirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/iran-duyurdu-hurmuz-bogazinda-israil-baglantili-gemiyi-vurduk-6bsn.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_7317af86",
     "title": "Bener Cordan Ortaokulu’nda matematik yarışması heyecanı",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Şehir Tiyatrosu’nun psikolojik dram türündeki oyunu “Kilitli Oda”, Nisan ayı boyunca sahnelenmeye devam ediyor. Oyun, güçlü anlatımıyla izleyiciyi zihinsel bir yolculuğa çıkarıyor.",
     "image": "https://resim.haber61.net/news/610862.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_35d2f5b3",
-    "title": "Katil İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 291'e yükseldi",
-    "source": "TRT Haber",
-    "time": "04/04/2026 14:54",
-    "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-can-kaybi-72-bin-291e-yukseldi-940386.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 291'e ulaştı.",
-    "image": null,
-    "keyword": null
   }
 ]
