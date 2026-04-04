@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_e092463c",
+    "title": "Bilgin Ailesinin Mutlu Günü",
+    "source": "Karadeniz Gazetesi",
+    "time": "04/04/2026 12:55",
+    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/bilgin-ailesinin-mutlu-gunu/607765",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8cd516fc",
     "title": "Katil İsrail saldırısı nedeniyle Gazze'de 500 bin kişi içme suyundan mahrum kaldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tokat'ta ehliyet sınavına yönelik düzenlenen \"joker aday\" operasyonunda 14 şüpheli tutuklandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/ehliyet-sinavinda-joker-aday-operasyonu-14-tutuklama-elqu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5ee5c0d7",
-    "title": "Ankara'da özel halk otobüsü üst geçide çarptı: 5 ölü, 15 yaralı",
-    "source": "Haber Global",
-    "time": "04/04/2026 12:15",
-    "link": "https://haberglobal.com/gundem/ankarada-ozel-halk-otobusu-ust-gecide-carpti-5-olu-15-yarali-516942",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara'nın Kahramankazan ilçesinde özel halk otobüsünün köprü direğine çarptığı kazada 5 kişi hayatını kaybederken, 15 kişi de yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/ankarada-ozel-halk-otobusu-ust-gecide-carpti-4-olu-iyfn.jpg",
     "keyword": null
   }
 ]
