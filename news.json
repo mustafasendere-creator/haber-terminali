@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1266b69f",
+    "title": "ABD basını: İran, ABD savaş uçağını düşürdü",
+    "source": "Habertürk",
+    "time": "04/04/2026 12:35",
+    "link": "https://www.haberturk.com/abd-basini-iran-abd-savas-ucagini-dusurdu-pilot-araniyor-3874622",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD basınında yer alan habere göre, gün içerisinde ABD'ye ait 1 F-15 ve 1 A10 tipi savaş uçağı İran tarafından düşürüldü. F-15'den sağ çıkan 2 mürettebattan birinin kurtarıldığı diğerinin ise arandığı bildirildi. A10 savaş uçağının pilotu ise sağ kurtuldu.",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775243343/3874622/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e69a3a3b",
     "title": "Banyoda su tasarrufu; duş başlığı",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Alparslan Türkeş’in vefatının 29. yıldönümü nedeniyle yazılı mesaj yayımlayan MHP Genel Başkanı Devlet Bahçeli, \"Terörsüz Türkiye' vizyonu, Türkeş'in iç barış ülküsünün gerçeğe dönüşmesidir.Türkeş’i gerçek manada anmak, hatırasını yad etmek; O’nu doğru anlamaktan, ülküsünü ve fikirlerini bütünüyle korumaktan, eserlerine ve emanetine yüksek bir şuurla sahip çıkmaktan geçer\" dedi",
     "image": "https://im.haberturk.com/l/2026/04/03/ver1775236086/3874648/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_9dd0d6ae",
-    "title": "Kaçak döküm yapanlar fotokapana yakalandı",
-    "source": "Habertürk",
-    "time": "04/04/2026 11:55",
-    "link": "https://www.haberturk.com/kacak-dokum-yapanlar-fotokapana-yakalandi-3874652",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla Büyükşehir Belediyesi'nin fotokapanlı çevre denetimlerinde bugüne kadar bin 480 kişi ve işletmeye 13 milyon 113 bin 856 TL ceza kesildi",
-    "image": "https://im.haberturk.com/l/2026/04/03/ver1775229167/3874652/jpg/1280x1280",
     "keyword": null
   }
 ]
