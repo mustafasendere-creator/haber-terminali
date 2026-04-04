@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ca2c070c",
+    "title": "Antalya'da sağanak sonrası denizin rengi kahverengiye döndü",
+    "source": "TRT Haber",
+    "time": "04/04/2026 21:54",
+    "link": "https://www.trthaber.com/haber/turkiye/antalyada-saganak-sonrasi-denizin-rengi-kahverengiye-dondu-940415.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Kaş ilçesinde etkili olan yağışın ardından deniz suyunun bir kısmı kahverengiye döndü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e1becce3",
     "title": "Ukrayna Devlet Başkanı Zelenskiy İstanbul'da: Zelenskiy'i Bağcılar kaymakamı karşıladı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Bir dönem Trabzonspor'da top koşturan ve gösterdiği performansla akıllarda iz bırakan Brezilyalı eski futbolcu Jaja, Galatasaray ile oynanan karşılaşma öncesinde Bordo-mavili taraftarlarla buluştu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/trabzonsporun-eski-futbolcusu-jajaya-taraftarlardan-yogun-ilgi-n195.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a45d7bb0",
-    "title": "Gazze’de ateşkes anlaşmasına ilişkin görüşmeler Kahire’de sürüyor",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 20:53",
-    "link": "https://www.aa.com.tr/tr/guncel/gazze-de-ateskes-anlasmasina-iliskin-gorusmeler-kahire-de-suruyor/3892030",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazze Şeridi’nde ateşkes anlaşmasının uygulanmasına ilişkin görüşmelerin Mısır’ın başkenti Kahire’de sürdüğü bildirildi.",
-    "image": null,
-    "keyword": null
   }
 ]
