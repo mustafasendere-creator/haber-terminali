@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff991f66",
+    "title": "IRNA: ABDİsrail, Huzistan eyaletinde petrokimya şirketlerinin bulunduğu sanayi bölgelerine saldırdı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 13:34",
+    "link": "https://www.trthaber.com/haber/dunya/irna-abd-israil-huzistan-eyaletinde-petrokimya-sirketlerinin-bulundugu-sanayi-bolgelerine-saldirdi-940378.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın güneybatısındaki Huzistan eyaletinde petrokimya şirketlerinin bulunduğu sanayi bölgelerinin ABDİsrail'in saldırılarının hedefi olduğu bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_7a06c3ee",
     "title": "Hülya Polat Volkan Konak'ı Anlattı: \"Boğazım Düğümleniyor...\"",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Gazze Şeridi'nin Han Yunus kentindeki arıtma tesisine giden elektrik hattının İsrail hava saldırısında hasar görmesi sonucu bölgedeki 500 bin Filistinli içme suyundan mahrum kaldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_15050103",
-    "title": "Konya'da sobadan sızan gaz can aldı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 12:54",
-    "link": "https://www.trthaber.com/haber/turkiye/konyada-sobadan-sizan-gaz-can-aldi-940369.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Konyanın Seydişehir ilçesinde sobadan sızan karbonmonoksit gazından zehirlenen kişi hayatını kaybetti.",
     "image": null,
     "keyword": null
   }
