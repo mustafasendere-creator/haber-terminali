@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7a8aea1c",
+    "title": "3 kişi ölmüştü; tutuklu sayısı 8'e çıktı",
+    "source": "Habertürk",
+    "time": "04/04/2026 07:54",
+    "link": "https://www.haberturk.com/kocaeli-de-3-kisinin-oldugu-eglence-mekani-saldirisinda-tutuklu-sayisi-8-e-yukseldi-3874720",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli'de eğlence mekanına düzenlenen; 3 kişinin hayatını kaybettiği, 2 kişinin yaralandığı silahlı saldırıya ilişkin 2 şüpheli daha tutuklandı. Böylece soruşturma kapsamında tutuklananların sayısı 8’e yükseldi",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775254294/3874720/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8673cdcd",
     "title": "Kalça çevresinden 3,7 kiloluk tümör çıkarıldı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail’in İran’a yönelik başlattığı hava saldırıları, sözcüğün tam anlamıyla havada kaldı. Şimdi nasıl yere indireceklerini düşünüyorlar.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar61_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d96276ec",
-    "title": "Tomurcuklanma...",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 06:14",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/oktay-eksi/tomurcuklanma-2492210",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aziz milletimizin pek bilinen bir özelliğidir: Başka ulusları hemen tepki koymaya yönelten birçok söz veya olay, bizim toplumumuzda sanki hiç yokmuş (ya da olmamış) gibi hiç tepki görmeden geçer gider.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar460_cover.jpeg",
     "keyword": null
   }
 ]
