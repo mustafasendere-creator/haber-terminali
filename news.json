@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d123b82e",
+    "title": "Halkevleri’nden İncirlik Üssü önünde protesto",
+    "source": "Evrensel",
+    "time": "04/04/2026 21:33",
+    "link": "https://www.evrensel.net/haber/5978249/halkevleri-nden-incirlik-ussu-onunde-protesto",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NATO’nun kuruluş yıl dönümünde Adana’daki İncirlik Üssü önüne yürüyen Halkevleri, \"NATO Zirvesi için ev sahipliğine soyunan Saray iktidarına karşı buradayız\" diye tepki gösterdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341644.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5feff3e0",
     "title": "Gaziantep FK ile Corendon Alanyaspor 1-1 berabere kaldı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD tarafından 2020 yılında öldürülen İran Devrim Muhafızları Ordusu&#039;na bağlı Kudüs Gücü Komutanı General Kasım Süleymani’nin yeğenleri tutuklandı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/kasim-suleymaninin-yegenleri-tutuklandi-8mtt.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_90042777",
-    "title": "Vedat Muriqi, Arda'yı yıktı: Real Madrid ağır yaralı",
-    "source": "OdaTV",
-    "time": "04/04/2026 20:17",
-    "link": "https://www.odatv.com/spor/vedat-muriqi-ardayi-yikti-real-madrid-agir-yarali-120142092",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Real Madrid milli ara dönüşü Mallorca deplasmanında mağlup olarak şampiyonluk yarışında çok ağır bir yara aldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/vedat-muriqi-ardayi-yikti-real-madrid-agir-yarali-h4jq.jpg",
     "keyword": null
   }
 ]
