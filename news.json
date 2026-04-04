@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_90260138",
+    "title": "Giresun’da Osman Ağa ve Milli Mücadele Şehitleri için anma töreni",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 04:53",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/giresun-da-osman-aga-ve-milli-mucadele-sehitleri-icin-anma-toreni-2492233",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osman Ağa Meydanı’ndaki törende saygı duruşu ve çelenk sunumuyla Milli Mücadele kahramanları anıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/589e1f71-67aa-4b9f-82d4-51e3f7a7609d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_64fa8611",
     "title": "Ciddiyet - 4 Nisan 2026",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kuzey Marmara Otoyolu Başakşehir-Habipler bağlantı yolunda meydana gelen kazada ağır yaralanan Polis Memuru Seçkin Yalçın’ın beyin ölümünün gerçekleştiği öğrenildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/51ac6b4c-8e5c-4819-97f1-7101fd9e6034.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_80a26ccc",
-    "title": "Ziya Gökalp'in 'Türkleşmek İslamlaşmak Muasırlaşmak' eseri Türk Dünyası'nı buluşturuyor",
-    "source": "TRT Haber",
-    "time": "04/04/2026 01:14",
-    "link": "https://www.trthaber.com/haber/turk-dunyasi/ziya-gokalpin-turklesmek-islamlasmak-muasirlasmak-eseri-turk-dunyasini-bulusturuyor-940315.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk düşünce hayatının ve sosyolojisinin önemli isimlerinden biri olan Ziya Gökalpın temel eseri, Türk Dünyası'nı ortak kültürel zemininde buluşturuyor. TDK, 5 Türk devletinin diline aktarılan Ziya Gökalp'in \"Türkleşmek İslamlaşmak Muasırlaşmak\" eserini tanıtacak.",
-    "image": null,
     "keyword": null
   }
 ]
