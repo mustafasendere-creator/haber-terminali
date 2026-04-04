@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1202927",
+    "title": "Trump'tan İrana Hürmüz mesajı: 48 saat kaldı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 18:34",
+    "link": "https://www.trthaber.com/haber/dunya/trumptan-irana-hurmuz-mesaji-48-saat-kaldi-940397.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın açılması ve yeni bir anlaşma için İrana verdiği sürenin dolmak üzere olduğunu belirterek, \"48 saat kaldı\" uyarısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_5f5ff1a7",
     "title": "Bayram tatilinde gümrük kapılarında yoğunluk",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fransız gazeteciler, Libya’da 200’den fazla Ukraynalı askeri uzmanın bulunduğunu ve bu kişilerin Arctic Metagaz gemisine deniz dronuyla düzenlenen saldırıyla bağlantılı olduğu iddialarını gündeme getirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_435c285f",
-    "title": "Yarım asırlık sır çözüldü: Ted Bundy’nin bir kurbanı daha kesinleşti",
-    "source": "Euronews",
-    "time": "04/04/2026 17:54",
-    "link": "http://tr.euronews.com/next/2026/04/04/yarim-asirlik-sir-cozuldu-ted-bundynin-bir-kurbani-daha-kesinlesti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bir Cadılar Bayramı partisinden ayrıldıktan sonra kaybolan genç kızın ölümü, Bundy’nin idamından önce suçunu itiraf etmesine rağmen somut delil yetersizliği nedeniyle yıllarca 'açık dosya' olarak kalmıştı.",
     "image": null,
     "keyword": null
   }
