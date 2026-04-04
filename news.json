@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_00960842",
+    "title": "Kosova Cumhurbaşkanı Osmani'nin görev süresi sona erdi",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 18:53",
+    "link": "https://www.aa.com.tr/tr/guncel/kosova-cumhurbaskani-osmaninin-gorev-suresi-sona-erdi/3891970",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kosova Cumhurbaşkanı Vjosa Osmani, 5 yıldır sürdürdüğü görevini Kosova Meclis Başkanı Albulena Haxhiu'ya devretti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_512c9103",
     "title": "Özgür Özel Kütahya'da CHP'nin planını resmen ilan etti: 'O bölgelerde erken seçim getirelim'... 'Bana bir cumhurbaşkanı adayı lazım'",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "GAZOZ OLMA / EFSANE OL  x.com",
     "image": null,
     "keyword": "trabzon polis"
-  },
-  {
-    "id": "GND_42900d4d",
-    "title": "İsrail basını: İran'ın füzesi İsrail Savunma Bakanlığı kompleksinin yanına düştü",
-    "source": "TRT Haber",
-    "time": "04/04/2026 17:55",
-    "link": "https://www.trthaber.com/haber/dunya/israil-basini-iranin-fuzesi-israil-savunma-bakanligi-kompleksinin-yanina-dustu-940399.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail basını, İran'ın çok başlıklı füze ile sabah düzenlediği misillemede 2 füze parçasının İsrail Savunma Bakanlığı kompleksinin yanına düştüğünü yazdı.",
-    "image": null,
-    "keyword": null
   }
 ]
