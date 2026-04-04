@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1becce3",
+    "title": "Ukrayna Devlet Başkanı Zelenskiy İstanbul'da: Zelenskiy'i Bağcılar kaymakamı karşıladı",
+    "source": "Evrensel",
+    "time": "04/04/2026 21:54",
+    "link": "https://www.evrensel.net/haber/5978216/ukrayna-devlet-baskani-zelenskiy-istanbul-da-zelenskiy-i-bagcilar-kaymakami-karsiladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, kapsamlı görüşmeler yapmak üzere İstanbul'a geldiğini bildirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341645.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_8836888f",
     "title": "Trabzonspor’da Derbi Öncesi Sürpriz 11! Tekke Kadroyu Sil Baştan Değiştirdi",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Gazze Şeridi’nde ateşkes anlaşmasının uygulanmasına ilişkin görüşmelerin Mısır’ın başkenti Kahire’de sürdüğü bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_605f62bb",
-    "title": "LaLiga'da Mallorca, Real Madrid'i mağlup etti",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 20:53",
-    "link": "https://www.aa.com.tr/tr/guncel/laligada-mallorca-real-madridi-maglup-etti/3892035",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya 1. Futbol Ligi'nde (LaLiga) Mallorca, sahasında Real Madrid'i 2-1 yendi.",
     "image": null,
     "keyword": null
   }
