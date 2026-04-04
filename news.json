@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32434903",
+    "title": "Hava üstünlüğü tartışılıyor: ABD’nin iki savaş uçağı vuruldu",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 10:34",
+    "link": "https://www.cumhuriyet.com.tr/dunya/hava-ustunlugu-tartisiliyor-abd-nin-iki-savas-ucagi-vuruldu-2492275",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ile İran arasında süren savaşta iki Amerikan savaş uçağının ayrı olaylarda vurulduğu bildirildi. ABD’li yetkililer, gelişmelerin ardından bir mürettebat üyesi için arama-kurtarma çalışmalarının sürdüğünü açıkladı. Yaşananlar, Washington yönetiminin “hava üstünlüğü” iddialarını yeniden tartışmaya açtı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2cdf43f6-62fe-40ac-8399-381478766b96.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3a35749f",
     "title": "Son dakika... Başkent'te korkunç kaza... Halk otobüsü üst geçide çarptı: 4 ölü!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ve İsrail'in İran'a karşı başlattığı savaş küresel enerji darboğazına, enflasyonun tırmanmasına ve ekonomide küçülmelere yol açıyor. Peki bundan sonrası için beklentiler nasıl?",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4ab5683f",
-    "title": "Suriye'de 100 binden fazla kadının hayatı neden kayıp?",
-    "source": "DW Türkçe",
-    "time": "04/04/2026 09:54",
-    "link": "https://www.dw.com/tr/suriye-de-100-binden-fazla-kadının-hayatı-neden-kayıp/a-76637770",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suriye'de eşleri \"kayıp\" statüsünde olan kadınlar, ne miras alabiliyor ne de çocuklarının velayetine sahip olabiliyor. Yasalar yüzünden yeni bir hayat kurmaları engellenen kadınların kaderi eşlerinin ailelerinin elinde.",
     "image": null,
     "keyword": null
   }
