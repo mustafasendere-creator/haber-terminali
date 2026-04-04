@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b7c28156",
+    "title": "Evde cansız bedeni bulundu",
+    "source": "Habertürk",
+    "time": "04/04/2026 14:35",
+    "link": "https://www.haberturk.com/yasli-adam-yalniz-yasadigi-evde-bicaklanarak-olduruldu-3874554",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'da yakınlarının kendisinden 2 gündür haber alamadığı 75 yaşındaki adamın cansız bedeni, evinde bıçaklanmış halde bulundu",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775212245/3874554/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_de99983e",
     "title": "Tahranlı bir aileyle akşam sohbeti",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Başrollerini Anne Hathaway ve Michaela Coel’in paylaştığı, müzikleriyle şimdiden heyecan yaratan film; şöhretin ağırlığını, yarım kalmış dostlukları ve sanatsal kurtuluşu sürreal bir dille ele alıyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/pop-yildizina-donusen-anne-hathawayin-basrolunde-oldugu-mother-maryden-yeni-fragman-geldi-besj.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d973d7b3",
-    "title": "İşgalci İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırılarda 9 kişi öldü",
-    "source": "TRT Haber",
-    "time": "04/04/2026 13:55",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-lubnanin-guneyine-duzenledigi-saldirilarda-9-kisi-oldu-940374.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Lübnan'ın güneyindeki beldelere sürdürdüğü saldırılarda 9 kişi hayatını kaybetti, hedef alınan bir cami yerle bir oldu.",
-    "image": null,
     "keyword": null
   }
 ]
