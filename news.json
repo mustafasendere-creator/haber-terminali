@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fca8970f",
+    "title": "Papatya falı!",
+    "source": "A Haber",
+    "time": "04/04/2026 07:53",
+    "link": "https://www.ahaber.com.tr/yazarlar/bulent-erandac/2026/04/04/papatya-fali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a karşı 28 Şubat'ta başlattıkları savaş, 36 gündür sürüyor ve giderek yayılıyor.\nSavaşın geldiği son durumla ilgili Başkan Recep Tayyip Erdoğan, Çarşamba günü dünyayı uyardı:...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_568c67b6",
     "title": "Trump, ABD’nin ritmini değiştiriyor",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ordu’da devam eden projelerde hafriyat kamyonlarının temizlenmeden trafiğe çıkması tepki çekti. ORÇEV, halk sağlığının tehdit edildiğini vurguladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/fdefd7f8-577a-4d83-b856-46c6a6524e36.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6f92de2c",
-    "title": "4 Nisan Dünya Sokak Hayvanları Günü’nde uzmanlar tedavide eşitsizliğe dikkat çekti: 'Üretmeyin, sahiplenin'",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 05:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/4-nisan-dunya-sokak-hayvanlari-gunu-nde-uzmanlar-tedavide-esitsizlige-dikkat-cekti-uretmeyin-sahiplenin-2492229",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Her yıl 4 Nisan’da kutlanan Dünya Sokak Hayvanları Günü’nde bu yıl tedaviye erişim sorunu öne çıktı. Veterinerler, sokakta yaşayan hayvanların ciddi sağlık riskleri altında olduğunu belirterek sorumluluğun kamu ve yerel yönetimlerde olduğuna dikkat çekiyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a340a5d3-6ef0-4dc6-b4fb-f294672f45e9.jpg",
     "keyword": null
   }
 ]
