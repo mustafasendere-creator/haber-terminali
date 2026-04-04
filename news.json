@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_07140aa9",
+    "title": "LaLiga'da lider Barcelona, Atletico Madrid deplasmanında kazandı",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 01:13",
+    "link": "https://www.aa.com.tr/tr/guncel/laligada-lider-barcelona-atletico-madrid-deplasmaninda-kazandi/3892212",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İspanya 1. Futbol Ligi'nde (LaLiga) lider Barcelona, deplasmanda Atletico Madrid'i 2-1 yendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f2e338aa",
     "title": "Irak’ın güneyinde petrol depolarına İHA saldırısı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig'de Trabzonspor'a yenilen Galatasaray'da maç sonu konuşan Günay Güvenç, Uğurcan Çakır'a destek verdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/e9876ead-e8d1-494d-a4d4-b6675cef49b1.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_59df00f0",
-    "title": "Of’tan Milli Takıma Tam Destek! Hacıosmanoğlu Hemşehrileriyle Buluştu",
-    "source": "Taka Gazetesi",
-    "time": "04/04/2026 23:54",
-    "link": "https://www.takagazete.com.tr/foto-galeri/oftan-milli-takima-tam-destek-haciosmanoglu-hemsehrileriyle-bulustu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Of Belediye Başkanı Salim Salih Sarıalioğlu, TFF Başkanı İbrahim Hacıosmanoğlu'nu ağırladı. 2026 Dünya Kupası hedefinin konuşulduğu zirvede birlik mesajları verildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/h-a-ciosmanov.jpg",
-    "keyword": null
   }
 ]
