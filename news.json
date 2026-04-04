@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cfc6b501",
+    "title": "Bir okyanus mu olmak isterdiniz ya da o okyanusta bir damla?",
+    "source": "10Haber",
+    "time": "04/04/2026 05:53",
+    "link": "https://10haber.net/yazarlar/oguzhan-akay/bir-okyanus-mu-olmak-isterdiniz-ya-da-o-okyanusta-bir-damla-692244/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ne saçma soru demeden, önyargıya kapılmadan beni dinleyin. Geçenlerde Transandantal meditasyonun ücretsiz tanıtım görüşmesine katıldım. Zoom bağlantısıyla. Başka meditasyonlardan farklarını söyle açıkladılar. Bunun için sessiz bir yer aramanıza, özel bir oturma veya duruşa gerek yok, kendiniz kullanmadığınız sürece arabada, metroda, işte, her yerde günde iki kez, 20’şer dakika, sadece gözlerinizi kapayarak, daha sonra size vereceğimiz [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/damla.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_16c73685",
     "title": "Herkes Haddini Bilsin yani!",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD'ye ait bir A10 savaş uçağı, Hürmüz Boğazı çevresinde İran hava savunma sistemleri tarafından hedef alındı. İran ordusu, uçağın Fars Basra Körfezine düştüğünü açıkladı. ABD basının pilotun sağ kurtulduğunu bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2651959b",
-    "title": "Trafik kazasında ağır yaralanan polisimiz Seçkin Yalçın şehit oldu",
-    "source": "TRT Haber",
-    "time": "04/04/2026 01:34",
-    "link": "https://www.trthaber.com/haber/gundem/trafik-kazasinda-agir-yaralanan-polisimiz-seckin-yalcin-sehit-oldu-940319.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da servis aracının karıştığı kazada ağır yaralanan polisimiz Seçkin Yalçın, kaldırıldığı hastanede tüm müdahalelere rağmen şehit oldu.",
     "image": null,
     "keyword": null
   }
