@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0db9ea95",
+    "title": "KDK, Meclis’te kadın cinayetleriyle ilgili raporunu paylaştı: Cinayet silahlarının yüzde 84 ruhsatsız",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 04:13",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kdk-meclis-te-kadin-cinayetleriyle-ilgili-raporunu-paylasti-cinayet-silahlarinin-yuzde-84-ruhsatsiz-2492191",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kamu Denetçiliği Kurumu (KDK), Meclis’te 9 ilde kadın cinayetleri üzerinden yaptıkları araştırmayı paylaştı. Buna göre; kadınları öldüren erkeklerin yüzde 73’ünün sabıkası var ve cinayette kullanılan silahların yüzde 84’ü ruhsatsız. Kurum temsilcisi ise, eşini öldüren bazı erkeklerin kendi haklı görerek KDK’ye başvurduğunu anlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2249440e-657a-429b-9866-59608f881845.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_106fa8a5",
     "title": "Kağıthane'de bıçaklı 'yol verme' kavgası kamerada",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Boğazı, Barbados bayraklı &quot;TRACKHOUND&quot; isimli geminin İstinye açıklarında makine arızası yapması nedeniyle çift yönlü olarak gemi trafiğine kapatıldı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/istanbul-bogazinda-gemi-arizalandi-trafik-cift-yonlu-durdu-orsi_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e1647d4a",
-    "title": "Bakan Gürlek’ten şehit polis için taziye mesajı",
-    "source": "Ekonomim",
-    "time": "04/04/2026 00:54",
-    "link": "https://www.ekonomim.com/gundem/bakan-gurlekten-sehit-polis-icin-taziye-mesaji-haberi-885963",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Akın Gürlek, Kuzey Marmara Otoyolu&#039;nda meydana gelen kazada yaralanan ve kaldırıldığı hastanede şehit olan polis memuru Seçkin Yalçın için başsağlığı mesajı yayımladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/20/adalet-bakani-akin-gurlekten-ramazan-bayrami-mesaji-63hc_cover.jpg",
     "keyword": null
   }
 ]
