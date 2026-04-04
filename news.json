@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_97845014",
+    "title": "\"Savaşın yükü kadınların omzuna yıkılıyor\"",
+    "source": "Evrensel",
+    "time": "05/04/2026 01:53",
+    "link": "https://www.evrensel.net/haber/5978195/savasin-yuku-kadinlarin-omzuna-yikiliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara’da 7-8 Temmuz’da düzenlenmesi planlanan NATO liderler zirvesi öncesi çeşitli siyasi partilerden kadınlar, NATO’nun savaş politikalarının kadınlar üzerindeki etkilerini değerlendirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341568.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_de7f544a",
     "title": "Samsun'da iki ayrı trafik kazası: 2 yaralı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Galatasaraylı futbolcu Günay Güvenç, Trabzonspor yenilgisinin ardından hem maçın oyun bölümünü hem de karşılaşma öncesi ve sonrasında yaşananları değerlendirdi.",
     "image": "https://resim.haber61.net/news/610969.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_f1cf742a",
-    "title": "Okan Buruk’tan Trabzonspor yenilgisi sonrası açıklama: “İkinci yarıda oyunu rakip sahaya yıktık”",
-    "source": "Haber61",
-    "time": "05/04/2026 00:14",
-    "link": "https://www.haber61.net/trabzonspor/okan-buruktan-trabzonspor-yenilgisi-sonrasi-aciklama-ikinci-yarida-h628645.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor'a 2-1 yenilen Galatasaray'da teknik direktör Okan Buruk basın toplantısında açıklamalarda bulundu.",
-    "image": "https://resim.haber61.net/news/610973.jpg",
     "keyword": "trabzon"
   }
 ]
