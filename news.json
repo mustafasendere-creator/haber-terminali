@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5ac623a5",
+    "title": "İşgalci İsrail ordusunun Lübnan'ın güneyine saldırısında 5 kişi öldü",
+    "source": "TRT Haber",
+    "time": "05/04/2026 00:14",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-lubnanin-guneyine-saldirisinda-5-kisi-oldu-940422.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İşgalci İsrail ordusunun Lübnan'ın güneyindeki Sur kentine bağlı Mareke beldesine düzenlediği hava saldırısında 5 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_dc272551",
     "title": "Gülben Ergen ifadeye çağrıldı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor taraftarı, Galatasaray derbisi öncesi Papara Park’ta yaptığı dev koreografiyle hem görsel şova imza attı hem de dikkat çeken bir mesaj verdi. Tribünlerdeki atmosfer sosyal medyada geniş yankı uyandırdı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/mesaj-gecesi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_457373a4",
-    "title": "Trabzonspor Zirveyi Ateşe Verdi!",
-    "source": "Taka Gazetesi",
-    "time": "04/04/2026 23:14",
-    "link": "https://www.takagazete.com.tr/trabzonspor-zirveyi-atese-verdi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, Süper Lig’in en kritik haftasında sahasında ağırladığı lider Galatasaray’ı 2-1 mağlup ederek şampiyonluk yarışında dengeleri değiştirdi. Bordo-mavililer, hem sahada hem tribünde ortaya koyduğu performansla geceye damga vurdu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/n-i-v-u-a-a-a-1.jpg",
     "keyword": null
   }
 ]
