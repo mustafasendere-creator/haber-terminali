@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f1b1d3e1",
+    "title": "İstanbul'da sokak köpekleri kararı: Valilik mayıs sonuna kadar süre verdi",
+    "source": "Euronews",
+    "time": "04/04/2026 15:33",
+    "link": "http://tr.euronews.com/2026/04/04/istanbulda-sokak-kopekleri-karari-valilik-mayis-sonuna-kadar-sure-verdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Valiliği, sahipsiz köpeklerin toplanarak bakımevlerine götürülmesi için mayıs ayı sonuna kadar süre tanındığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e5c9e5ac",
     "title": "Hobi evi ve bahçesi, konteyner ev sahiplerine kötü haber",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "MSB Milli Mayın Faaliyet Merkezi (MAFAM) koordinatörlüğündeki insani maksatlı mayın temizleme çalışmaları kapsamında, 2015'ten bu yana ülke sınırları içerisinde yaklaşık 56 milyon metrekare alan temizlenerek 228 bin mayın imha edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_76f0dfe6",
-    "title": "\"Kar kaplanları\" Erzincan'da metrelerce yükseklikteki karla mücadele ediyor",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 14:53",
-    "link": "https://www.aa.com.tr/tr/guncel/kar-kaplanlari-erzincanda-metrelerce-yukseklikteki-karla-mucadele-ediyor/3891660",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Erzincan'da karayolları ekipleri, kar kalınlığının yer yer 4 metreyi aştığı Başköy kara yolunda yoğun mesai yaparak kapalı yolları açmaya çalışıyor.",
     "image": null,
     "keyword": null
   }
