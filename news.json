@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_97db9cc3",
+    "title": "İran'dan Buşehr uyarısı: Nükleer serpinti Körfez’de yaşamı bitirebilir",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 14:54",
+    "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-busehr-uyarisi-nukleer-serpinti-korfez-de-yasami-bitirebilir-2492325",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD-İsrail'in hedef aldığı Basra Körfezi kıyısındaki Buşehr Nükleer Enerji Santrali'nde muhtemel bir radyoaktif serpintinin, Körfez ülkelerinde yaşamı sona erdirebileceği uyarısında bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a31c3b1b-f83c-46a7-8e12-87f804e10eb4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_50c28341",
     "title": "Oteldeki dehşetin altından eski eş çıktı; barışmak için çağırdığı Yonca'yı öldürüp kaçtı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Antalya'nın Serik ilçesine bağlı Belek Turizm Merkezi'ndeki bir otelde gerçekleştirilen 8. Etnospor Forumu başladı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_e9cbc89c",
-    "title": "Turizm Master Planı için 150 uzman Trabzon’da buluştu",
-    "source": "Haber61",
-    "time": "04/04/2026 14:14",
-    "link": "https://www.haber61.net/trabzon/turizm-master-plani-icin-150-uzman-trabzonda-bulustu-h628587.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon turizm Master Planı çalıştayında farklı sektörlerden 150 uzman bir araya gelerek turizmin geleceğini değerlendirdi.",
-    "image": "https://resim.haber61.net/news/610857.jpg",
-    "keyword": "trabzon"
   }
 ]
