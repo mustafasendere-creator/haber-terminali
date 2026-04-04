@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_483fb9ca",
+    "title": "EPDK elektrik zam oranlarını açıkladı: İşte mesken, sanayi ve tarım tarifeleri listesi",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 12:35",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/enerji-faturalarinda-nisan-ayari-elektrik-ve-dogalgaza-cifte-zam-faturalar-ne-kadar-artacak-2492295",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nisan ayı faturalara ağır bir yükle geldi; EPDK ve BOTAŞ’ın eş zamanlı duyurularıyla elektrikte mesken abonelerine yüzde 25 zam yapılırken, doğal gazda ise \"kademeli tarife\" dönemine geçilerek yüksek tüketim yapan konutlara yüzde 132 oranında rekor bir artış yansıtıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e0154639-53a5-4177-9bf3-99c39cd26e4a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_34ec1d27",
     "title": "CHP'den 'Mustafa Bozbey' tepkisi: 'Böyle demokrasi anlayışı olmaz olsun!'",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye, krizleri derinleştiren değil çözüm üreten, gerilimden beslenen değil diplomasiyi önceleyen yaklaşımıyla bir 'istikrar merkezi' ve 'güvenli liman' olma vasfını her geçen gün daha da güçlendirmektedir\" ifadesini kullandı",
     "image": "https://im.haberturk.com/l/2026/04/03/ver1775245597/3874694/jpg/1280x1280",
     "keyword": null
-  },
-  {
-    "id": "TKP_c9abc0dd",
-    "title": "Trabzon'da Mescid-i Aksa İçin Basın Açıklaması",
-    "source": "Karadeniz Gazetesi",
-    "time": "04/04/2026 11:55",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-mescid-i-aksa-icin-basin-aciklamasi/607767",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Mescid-i Aksa için yapılan basın açıklamasında birlik çağrısı yapıldı. Açıklamada dikkat çeken ifadeler yer aldı.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
