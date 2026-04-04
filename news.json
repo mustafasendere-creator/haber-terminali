@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_979efca4",
+    "title": "ABDİsrail'in İran'daki köprü saldırısında ölenlerin sayısı 13'e yükseldi",
+    "source": "TRT Haber",
+    "time": "04/04/2026 05:53",
+    "link": "https://www.trthaber.com/haber/dunya/abd-israilin-irandaki-kopru-saldirisinda-olenlerin-sayisi-13e-yukseldi-940322.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail'in İran'ın Elburz eyaletine bağlı Kerec kentindeki B1 Köprüsüne saldırılarında hayatını kaybedenlerin sayısı 13'e çıktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_45df025e",
     "title": "Bursa Büyükşehir Belediyesine yönelik operasyon: Mustafa Bozbey'in de aralarında bulunduğu 46 kişi için tutuklama talebi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Sözcüsü Zeynel Emre, Mustafa Bozbey’in gözaltına alınmasının 31 Mart’ın yıldönümünde gerçekleşmesinin “manidar” olduğunu belirterek, süreci “darbe” ve “halkla inatlaşma” olarak nitelendirdi; Bozbey hakkında daha önce AKP’ye katılacağı yönünde propaganda yapıldığını hatırlattı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c2ac294f-6139-4fea-9a62-154a8a602de3.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6a7ed593",
-    "title": "Savcı, kadın hakimi yaratmış, hükümlü çaycı kurtarmıştı… İlk duruşma görüldü: ‘İstesem zaten öldürürdüm’",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 01:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/savci-kadin-hakimi-yaratmis-hukumlu-cayci-kurtarmisti-ilk-durusma-goruldu-istesem-zaten-oldururdum-2492160",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kadın hakimi silahla yaralayan savcının yargılanmasına başlandı. Sanık savcı, savunmasında, “Kendisini öldürmek istesem zaten öldürürdüm” dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/948e2624-d1bd-4ec7-b8ae-f927d9880308.jpg",
     "keyword": null
   }
 ]
