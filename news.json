@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_391e63b7",
+    "title": "Ritmi yakalayamıyor musunuz? Beyninizde gizli bir sır olabilir",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 21:34",
+    "link": "https://www.cumhuriyet.com.tr/yasam/ritmi-yakalayamiyor-musunuz-beyninizde-gizli-bir-sir-olabilir-2492407",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Müziğe ayak uydurmakta zorlanıyor musunuz? Ritim sağırlığı, beynin ritim algısındaki farklılıklardan kaynaklanan ve düşündüğünüzden daha yaygın bir durum.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5378c07e-e975-4301-86a1-d8197070efe4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f3fa3011",
     "title": "Amasya'da korkunç olay! İnşaatın çatısından düşen işçi, hayatını kaybetti",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da AK Parti İl Danışma Meclisi Toplantısı’nda konuşan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, “Hakikaten etrafımız bir ateş çemberi. Ama işin özünde dünyada büyük bir dönüşümün eşiğindeyiz” dedi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/bakan-bayraktar-dunyada-buyuk-bir-donusumun-esigindeyiz-iaje.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_864b55d1",
-    "title": "Halkevleri’nden İncirlik Üssü önünde protesto",
-    "source": "Evrensel",
-    "time": "04/04/2026 20:34",
-    "link": "https://www.evrensel.net/haber/5978249/halkevlerinden-incirlik-ussu-onunde-protesto",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "NATO’nun kuruluş yıl dönümünde Adana’daki İncirlik Üssü önüne yürüyen Halkevleri, \"NATO Zirvesi için ev sahipliğine soyunan Saray iktidarına karşı buradayız\" diye tepki gösterdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341639.jpg",
-    "keyword": null
   }
 ]
