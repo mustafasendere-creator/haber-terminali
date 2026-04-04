@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_31e2750a",
+    "title": "İsrail ordusundan Beyrut'a yönelik hava saldırısı",
+    "source": "Haber Global",
+    "time": "04/04/2026 04:53",
+    "link": "https://haberglobal.com/dunya/israil-ordusundan-beyruta-yonelik-hava-saldirisi-516902",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, Lübnan'ın başkenti Beyrut'un Dahiye bölgesine yönelik hava saldırısı düzenlediği bildirildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/israil-ordusundan-beyruta-yonelik-hava-saldirisi-4ako.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5d2b7b56",
     "title": "Eğitimde lise süresinin kısaltılması çeşitli tehlikelerin önünü açabilir: Çocuk işçiliğe davetiye...",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ramazan Bayramı'nda Rize'de Güneysu Tenzile Erdoğan Devlet Hastanesine ziyarette bulunan Cumhurbaşkanı Recep Tayyip Erdoğan'dan imzalı Arda Güler forması talep eden 13 yaşındaki Safa Doruk Balaydın'ın isteği yerine getirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0e242561",
-    "title": "Sınırları haritalara sığmayan maden yıkımı",
-    "source": "Evrensel",
-    "time": "04/04/2026 01:13",
-    "link": "https://www.evrensel.net/haber/5978116/sinirlari-haritalara-sigmayan-maden-yikimi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MAPEG'in ihale sürecinin ilk dört gününde illerin alfabetik sırasıyla yapılan ihalelerde 18 ilde 80 ruhsat sahası satıldı. Toplam alan 92 bin 215 hektar.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341483.jpg",
     "keyword": null
   }
 ]
