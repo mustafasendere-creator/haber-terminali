@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_605f62bb",
+    "title": "LaLiga'da Mallorca, Real Madrid'i mağlup etti",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 20:53",
+    "link": "https://www.aa.com.tr/tr/guncel/laligada-mallorca-real-madridi-maglup-etti/3892035",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İspanya 1. Futbol Ligi'nde (LaLiga) Mallorca, sahasında Real Madrid'i 2-1 yendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e2c3d225",
     "title": "14. Uluslararası Portakal Çiçeği Karnavalı'nın kortej geçişi yapıldı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Hürmüz Boğazı’nın derhal açılmasını talep eden, aksi takdirde \"yıkıcı sonuçların\" yaşanacağını söyleyen Trump, paylaşımında İran'a tanıdığı sürenin dolmak üzere olduğunu yazdı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_61bf893d",
-    "title": "Trabzon’da dev maç öncesi protokol Papara Park’ta buluştu",
-    "source": "Haber61",
-    "time": "04/04/2026 20:14",
-    "link": "https://www.haber61.net/trabzonspor/trabzonda-dev-mac-oncesi-protokol-papara-parkta-bulustu-h628619.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor–Galatasaray maçı öncesi Papara Park tamamen doldu. Trabzon protokolü ve Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar karşılaşmayı izlemek üzere stada geldi.",
-    "image": "https://resim.haber61.net/news/610922.jpg",
-    "keyword": "trabzon"
   }
 ]
