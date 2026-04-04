@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_15050103",
+    "title": "Konya'da sobadan sızan gaz can aldı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 12:54",
+    "link": "https://www.trthaber.com/haber/turkiye/konyada-sobadan-sizan-gaz-can-aldi-940369.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konyanın Seydişehir ilçesinde sobadan sızan karbonmonoksit gazından zehirlenen kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_7fe5e54a",
     "title": "TFF Başkanı Hacıosmanoğlu dev maç öncesi Trabzon’a geldi",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kentsel dönüşüm için hayata geçirilen ve 3 milyon liraya kadar destek sunan yeni finansman modelinin süreci hızlandıracağını belirten sektör temsilcileri, düşük faiz ve ödemesiz dönem avantajlarının sürece kritik katkı sunacağını bildirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5717bc5d",
-    "title": "MHP lideri Bahçeli'den Türkeş'in kabrine ziyaret",
-    "source": "Haber Global",
-    "time": "04/04/2026 12:15",
-    "link": "https://haberglobal.com/gundem/mhp-lideri-bahceliden-turkesin-kabrine-ziyaret-516956",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Genel Başkanı Devlet Bahçeli, vefatının 29'uncu yıl dönümünde partisinin kurucu Genel Başkanı Alparslan Türkeş'in kabrini ziyaret etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/mhp-lideri-bahceliden-turkesin-kabrine-ziyaret-k2zh.jpg",
     "keyword": null
   }
 ]
