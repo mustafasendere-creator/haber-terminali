@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da2291dc",
+    "title": "13 il için sarı uyarı: Toz taşınımına dikkat",
+    "source": "TRT Haber",
+    "time": "04/04/2026 06:53",
+    "link": "https://www.trthaber.com/haber/turkiye/13-il-icin-sari-uyari-toz-tasinimina-dikkat-940331.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güneydoğu Anadolu ile Doğu Anadolu'nun güneydoğusunda beklenen toz taşınımı nedeniyle 13 il için \"sarı\"",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8fb9fcff",
     "title": "Mavi Vatan26 Tatbikatı başladı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray'ın başarılı kalecisi Uğurcan Çakır’ın eşi Kübra Çakır, \"Bir kadının bir kadına bunu demesi çok üzücü\" diyerek Instagram'dan kendisine gönderilen bir mesajı paylaştı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/4e6c2b57-791a-405d-9d17-280e79360eab.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_17487572",
-    "title": "İbrahim Kaboğlu: Trump ve Netanyahu yargılanmalı",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 02:54",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/ibrahim-kaboglu-trump-ve-netanyahu-yargilanmali-2492125",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Barosu Başkanı İbrahim Kaboğlu, ABD Başkanı Donald Trump ve İsrail Başbakanı Binyamin Netanyahu gibi isimlerin yargılanması için baroların aktif rol üstlenmesi gerektiğini söyledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0eff7af8-a799-4b68-9c60-5c75cd034e1a.jpg",
     "keyword": null
   }
 ]
