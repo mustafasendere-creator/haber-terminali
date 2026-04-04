@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ad00b825",
+    "title": "FETÖ'ye 26 ilde operasyon: 90 gözaltı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 15:34",
+    "link": "https://www.trthaber.com/haber/gundem/fetoye-26-ilde-operasyon-90-gozalti-940389.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "FETÖ terör örgütüne yönelik 26 ilde gerçekleştirilen operasyonlarda 90 şüpheli yakalandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_10a0bb21",
     "title": "Trabzonspor-Galatasaray derbisinde ilk golün önemi büyük...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un Galatasaray ile oynayacağı kritik maç öncesi taraftarlar Meydan Parkı’nda toplandı. Bordo-mavililer, takımlarına sloganlarla destek verdi.",
     "image": "https://resim.haber61.net/news/610866.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_052ea1f9",
-    "title": "Almanya otobanlara hız sınırı getirmeyecek",
-    "source": "DW Türkçe",
-    "time": "04/04/2026 14:54",
-    "link": "https://www.dw.com/tr/almanya-otobanlara-hız-sınırı-getirmeyecek/a-76660530",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ekonomi Bakanı Katherina Reiche, otobanlara hız sınırı getirme fikrinin gündemde olmadığını ve böyle bir uygulamanın akaryakıt tasarrufuna sadece sembolik bir katkı sağlayabileceğini dile getirdi.",
-    "image": null,
-    "keyword": null
   }
 ]
