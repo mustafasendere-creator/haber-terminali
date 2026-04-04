@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f3fa3011",
+    "title": "Amasya'da korkunç olay! İnşaatın çatısından düşen işçi, hayatını kaybetti",
+    "source": "Haber Global",
+    "time": "04/04/2026 21:34",
+    "link": "https://haberglobal.com/gundem/amasyada-korkunc-olay-insaatin-catisindan-dusen-isci-hayatini-kaybetti-517020",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amasya’nın Suluova ilçesinde 3 katlı inşaatın çatısından düşen 65 yaşındaki işçi, kaldırıldığı hastanede yaşamını yitirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/amasyada-korkunc-olay-insaatin-catisindan-dusen-isci-hayatini-kaybetti-6xr0.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_1e928e6c",
     "title": "CANLI ANLATIM | Trabzonspor 2 - 1 Galatasaray",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "NATO’nun kuruluş yıl dönümünde Adana’daki İncirlik Üssü önüne yürüyen Halkevleri, \"NATO Zirvesi için ev sahipliğine soyunan Saray iktidarına karşı buradayız\" diye tepki gösterdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341639.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7c69ec4c",
-    "title": "‘Kadir Hoca’ olarak tanınan Kadir Özkaraaslan tutuklandı",
-    "source": "Evrensel",
-    "time": "04/04/2026 20:33",
-    "link": "https://www.evrensel.net/haber/5978251/kadir-hoca-olarak-taninan-kadir-ozkaraaslan-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medyada “Kadir Hoca” adıyla bilinen Kadir Özkaraaslan, “halkı kin ve nefrete sürükleme” suçlamasıyla tutuklandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341641.jpg",
     "keyword": null
   }
 ]
