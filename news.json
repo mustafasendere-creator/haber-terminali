@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_238a20d6",
+    "title": "Çanakkale ve Edirne'de sağanak hayatı olumsuz etkiledi",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 10:33",
+    "link": "https://www.aa.com.tr/tr/guncel/canakkale-ve-edirnede-saganak-hayati-olumsuz-etkiledi/3891356",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çanakkale ve Edirne'de aralıklarla devam eden sağanak yaşamı olumsuz etkiledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c5d7152b",
     "title": "Futbolcu İsmail Yüksek hakkında bahis soruşturmasında takipsizlik kararı verildi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Houston Rockets, konferansın 14. sırasındaki Utah Jazz’i rahatlıkla 140-106 yenerken Alperen Şengün fazla etkin olmaya gerek duymadığı günde bile iyi istatistikler oluşturdu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/alperen-sengunlu-houston-rockets-utah-jazzi-farkli-gecti-tlhc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5696535d",
-    "title": "Meyve ve sebzede fahiş fiyat uygulayan işletmelere 96,6 milyon lira ceza",
-    "source": "TRT Haber",
-    "time": "04/04/2026 09:34",
-    "link": "https://www.trthaber.com/haber/ekonomi/meyve-ve-sebzede-fahis-fiyat-uygulayan-isletmelere-966-milyon-lira-ceza-940338.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Haksız Fiyat Değerlendirme Kurulu tarafından, fahiş fiyat artışı yaptığı belirlenen ulusal zincir marketler ile sebze ve meyve toptan ticaretiyle iştigal eden toplam 183 işletmeye 96,6 milyon lira idari para cezası uygulanması kararlaştırıldı.",
-    "image": null,
     "keyword": null
   }
 ]
