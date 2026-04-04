@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dff4d0eb",
+    "title": "Düzce’de 5 kişi karbonmonoksit gazından zehirlendi",
+    "source": "Haber Global",
+    "time": "04/04/2026 14:14",
+    "link": "https://haberglobal.com/gundem/duzcede-5-kisi-karbonmonoksit-gazindan-zehirlendi-516978",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce’nin Yığılca ilçesinde karbonmonoksit gazından zehirlenen aynı aileden 5 kişi, hastanede tedavi altına alandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/duzcede-5-kisi-karbonmonoksit-gazindan-zehirlendi-cidw.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e687e461",
     "title": "8. Etnospor Forumu, Antalya'da başladı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Basketbol Takımı, Türkiye Sigorta Basketbol Süper Ligi’nin 25. haftasında deplasmanda TOFAŞ ile karşılaşacak.",
     "image": "https://resim.haber61.net/news/610844.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_663f4c82",
-    "title": "UAEA Başkanı Grossi: İran'ın Buşehr Nükleer Enerji Santrali'ne saldırıdan endişe duyuyorum",
-    "source": "TRT Haber",
-    "time": "04/04/2026 13:34",
-    "link": "https://www.trthaber.com/haber/dunya/uaea-baskani-grossi-iranin-busehr-nukleer-enerji-santraline-saldiridan-endise-duyuyorum-940376.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Atom Enerjisi Ajansı UAEA Başkanı Rafael Mariano Grossi, İran'daki Buşehr Nükleer Enerji Santrali'ne yapılan saldırıdan derin endişe duyduğunu belirterek nükleer enerji santrali sahaları ve çevresindeki alanların asla hedef alınmaması gerektiğini vurguladı.",
-    "image": null,
-    "keyword": null
   }
 ]
