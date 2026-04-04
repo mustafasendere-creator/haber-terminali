@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f1579a24",
+    "title": "İsrail tehdidi sonrası Suriye, Lübnan'la sınır kapısını kapattı",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 01:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/israil-tehdidi-sonrasi-suriye-lubnan-la-sinir-kapisini-kapatti-2492433",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şam yönetimi, İsrail’in Lübnan-Suriye sınırındaki Masna Sınır Kapısı’na yönelik saldırı tehdidinin ardından Cdeydet Yabus Sınır Kapısı’nı geçişlere kapattığını açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a4f4869f-c4c5-4dd8-a99f-64fdc9190647.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ebff67cc",
     "title": "Fatih'te kuryenin öldürülmesine ilişkin yakalanan 3 şüpheli tutuklandı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "En büyük tahliye operasyonu başladı! İran uyardı: Körfez'de hayat sona erer",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/nukleer2jpg-E4qoL5gjBUmROiyccUPrQA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ab50f999",
-    "title": "Ertuğrul Doğan'dan maç sonu sert çıkış: 'Kimse akıl vermeye kalkmasın'",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 23:54",
-    "link": "https://www.cumhuriyet.com.tr/spor/ertugrul-dogan-dan-mac-sonu-sert-cikis-kimse-akil-vermeye-kalkmasin-2492426",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trabzonspor Başkanı Ertuğrul Doğan, Galatasaray maçının ardından sert açıklamalarda bulundu. Doğan, \"Kimse Trabzonspor’u yönetenlere veya taraftarlarına akıl vermeye kalkmasın. Herkesin haddini bilmesini rica ediyorum\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/811b1d39-d660-4f0d-9b85-1cb17479c4a6.jpg",
     "keyword": null
   }
 ]
