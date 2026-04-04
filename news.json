@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_54899f1c",
+    "title": "Trump’tan Tahran’a ‘devasa saldırı’ açıklaması: Pek çok askeri lider öldü",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 00:34",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-tahran-a-devasa-saldiri-aciklamasi-2492432",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın açılması için İran'a verdiği zamanın dolmasına kısa bir süre kala Tahran'a yönelik \"devasa\" bir hava saldırısı düzenlendiğini duyurdu. Trump, bu saldırıda pek çok askeri liderin öldürdüğünü bildirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7a108fa2-8f38-47f5-94f6-76b7104d1eaf.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_121fa5f0",
     "title": "Mağlubiyeti hazmedemediler: Sağa sola saldırdılar",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🐦",
     "summary": "Yayıncı kuruluş, Trabzon'da tüm tribünlerin Galatasaray aleyhine ettiği küfürlü tezahüratlarda yayın sesini kısmadı.  x.com",
     "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_7e4705ba",
-    "title": "Fatih Tekke’den 3 puan yorumu: Oyuncularımın alınlarından öpüyorum!",
-    "source": "Haber61",
-    "time": "04/04/2026 23:34",
-    "link": "https://www.haber61.net/trabzonspor/fatih-tekkeden-3-puan-yorumu-oyuncularimin-alinlarindan-opuyorum-h628635.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Galatasaray galibiyetinin ardından hem maç planını hem de takımın ortaya koyduğu mücadeleyi değerlendirdi. Tekke, bordo-mavili oyuncuların ortaya koyduğu duygu ve inancın galibiyette belirleyici olduğunu söyledi.",
-    "image": "https://resim.haber61.net/news/610955.jpg",
     "keyword": "trabzon"
   }
 ]
