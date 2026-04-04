@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64fa8611",
+    "title": "Ciddiyet - 4 Nisan 2026",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 04:53",
+    "link": "https://www.cumhuriyet.com.tr/cizerler/ciddiyet-4-nisan-2026-2492240",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": ".",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ca21a2f0-8262-40f2-8cb4-23063b1426ac.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_18087be2",
     "title": "Çizgilik - 4 Nisan 2026",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk düşünce hayatının ve sosyolojisinin önemli isimlerinden biri olan Ziya Gökalpın temel eseri, Türk Dünyası'nı ortak kültürel zemininde buluşturuyor. TDK, 5 Türk devletinin diline aktarılan Ziya Gökalp'in \"Türkleşmek İslamlaşmak Muasırlaşmak\" eserini tanıtacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_06046d57",
-    "title": "İstanbul Boğazı'nda gemi trafiği askıya alındı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 01:13",
-    "link": "https://www.trthaber.com/haber/turkiye/istanbul-bogazinda-gemi-trafigi-askiya-alindi-940317.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Boğazı'nda bir gemide meydana gelen makine arızası sonucu gemi trafiği çift yönlü olarak askıya alındı.",
     "image": null,
     "keyword": null
   }
