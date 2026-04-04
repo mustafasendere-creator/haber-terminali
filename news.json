@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_46bd4d54",
+    "title": "Debisi artan Meriç ve Tunca nehirleri için 'sarı alarm'",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 15:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/debisi-artan-meric-ve-tunca-nehirleri-icin-sari-alarm-2492328",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bulgaristan'da etkili olan yağışların ardından Edirne'deki nehirlerde su seviyesi artışa geçti. Meriç ve Tunca nehirleri için 'sarı alarm' verildi. Taşkın riski nedeniyle dün kapatılan Kırkpınar Yağlı Güreşleri'nin yapıldığı Sarayiçi'ne, giriş yasağı sürüyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/130ad508-0dfb-4223-9f17-9942a5771b71.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_878beba3",
     "title": "CHP  Bursa İl Başkanı: 'Siyasallaştırdıkları yargı eliyle Büyükşehir Belediyesi'ne çökecekler'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABDİsrail'in hedef aldığı Basra Körfezi kıyısındaki Buşehr Nükleer Enerji Santrali'nde muhtemel bir radyoaktif serpintinin, Körfez ülkelerinde yaşamı sona erdirebileceği uyarısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_881a26a0",
-    "title": "ABDİsrail'in Kirmanşah'ta yerleşim bölgelerine saldırısında 3 kişi hayatını kaybetti",
-    "source": "TRT Haber",
-    "time": "04/04/2026 14:34",
-    "link": "https://www.trthaber.com/haber/dunya/abd-israilin-kirmansahta-yerlesim-bolgelerine-saldirisinda-3-kisi-hayatini-kaybetti-940384.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın batısındaki Kirmanşah eyaletinde ABDİsrail'in yerleşim bölgelerine saldırısında 3 kişinin hayatını kaybettiği bildirildi.",
     "image": null,
     "keyword": null
   }
