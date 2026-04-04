@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f59806ec",
+    "title": "İngiltere, yapay zeka destekli dronlar ile kara mayınlarını havadan tespit ediyor",
+    "source": "Ekonomim",
+    "time": "04/04/2026 09:14",
+    "link": "https://www.ekonomim.com/sektorler/savunma-sanayi/ingiltere-yapay-zeka-destekli-dronlar-ile-kara-mayinlarini-havadan-tespit-ediyor-haberi-885984",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiltere, Ukrayna savaşındaki saha gözlemleri doğrultusunda kara mayınlarını tespit etmek amacıyla yapay zeka destekli insansız hava araçlarını test etmeye başladı. Çoklu sensör yapısı ve özel algoritmalarla donatılan sistem, toprak altına gömülü patlayıcıları hızlı bir şekilde sınıflandırarak temizleme faaliyetlerini güvenli hale getirmeyi amaçlıyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/ingiltere-yapay-zeka-destekli-dronlar-ile-kara-mayinlarini-havadan-tespit-ediyor-78ag_cover.gif",
+    "keyword": null
+  },
+  {
     "id": "GND_8a1ba1be",
     "title": "Mutfak ekonomisine can suyu: A101 4-10 Nisan 2026 Haftanın Yıldızları Kataloğu yayınlandı!",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kaan Arslanoğlu yazdı...",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/epsteindan-kiliseye-pedofilinin-siyasi-gucu-ryys.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b908c13c",
-    "title": "Hürmüz’ün taşıdığı henüz konuşulmayan risk: Gıda şoku!",
-    "source": "Ekonomim",
-    "time": "04/04/2026 08:14",
-    "link": "https://www.ekonomim.com/kose-yazisi/hurmuzun-tasidigi-henuz-konusulmayan-risk-gida-soku/885968",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/09/02/gida-enflasyonu-tavan-tapti-yillik-artis-yuzde-40a-dayandi-oczu_cover.jpg",
     "keyword": null
   }
 ]
