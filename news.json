@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a45d7bb0",
+    "title": "Gazze’de ateşkes anlaşmasına ilişkin görüşmeler Kahire’de sürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 20:53",
+    "link": "https://www.aa.com.tr/tr/guncel/gazze-de-ateskes-anlasmasina-iliskin-gorusmeler-kahire-de-suruyor/3892030",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gazze Şeridi’nde ateşkes anlaşmasının uygulanmasına ilişkin görüşmelerin Mısır’ın başkenti Kahire’de sürdüğü bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_605f62bb",
     "title": "LaLiga'da Mallorca, Real Madrid'i mağlup etti",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Galatasaray Teknik Direktörü Okan Buruk, Trabzonspor maçı öncesinde yaptığı açıklamada hem Fatih Tekke’nin performansına dikkat çekti hem de karşılaşmanın şampiyonluk yarışı açısından önemine vurgu yaptı.",
     "image": "https://resim.haber61.net/news/610916.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_44a8e8ce",
-    "title": "Trump'tan İran'a 48 saat mühlet: 'Cehennem azabı üzerlerine yağacak'",
-    "source": "Euronews",
-    "time": "04/04/2026 20:14",
-    "link": "http://tr.euronews.com/2026/04/04/trumptan-irana-48-saat-muhlet-cehennem-azabi-uzerlerine-yagacak",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hürmüz Boğazı’nın derhal açılmasını talep eden, aksi takdirde \"yıkıcı sonuçların\" yaşanacağını söyleyen Trump, paylaşımında İran'a tanıdığı sürenin dolmak üzere olduğunu yazdı.",
-    "image": null,
-    "keyword": null
   }
 ]
