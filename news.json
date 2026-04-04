@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4076a939",
+    "title": "İranlı yetkili: ABDİsrail'in İran'a saldırılarında bugüne kadar 24 sağlık çalışanı hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "04/04/2026 09:34",
+    "link": "https://www.trthaber.com/haber/dunya/iranli-yetkili-abd-israilin-irana-saldirilarinda-bugune-kadar-24-saglik-calisani-hayatini-kaybetti-940340.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABDİsrail'in İran'a saldırılarında bugüne dek 24 sağlık çalışanının yaşamını yitirdiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b10291f9",
     "title": "Onur Özgen: Türkiye uzun zaman sonra sevdiği bir takımı bozmadan sevebilecek mi?",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sabah saatlerinde Bolu Belediyesi binasında çok sayıda jandarma ekibinin arama yaptığı öğrenildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/bolu-belediye-binasinda-arama-yapiliyor-b9uw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0ab463ba",
-    "title": "Herkes NATO'yu konuşuyor... Esas deprem orada",
-    "source": "OdaTV",
-    "time": "04/04/2026 08:34",
-    "link": "https://www.odatv.com/dunya/herkes-natoyu-konusuyor-esas-deprem-orada-abd-imaji-yerle-bir-koruyucu-kalkan-devre-disi-120141956",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünya NATO’daki fikir ayrılıklarına odaklanmışken, asıl büyük kopuş Basra Körfezi’nde yaşanıyor. ABD’nin yatırımları ve üsleri Körfez ülkeleri için bir güvenlik garantisi olmaktan çıkıp açık birer askeri hedefe dönüştü.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/herkes-natoyu-konusuyor-esas-deprem-orada-abd-imaji-yerle-bir-koruyucu-kalkan-devre-disi-f6ig.jpg",
     "keyword": null
   }
 ]
