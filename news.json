@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_261e5e83",
+    "title": "8. Etnospor Forumu kapsamında 'Üst Düzey Bakanlar Paneli' gerçekleştirildi.",
+    "source": "TRT Haber",
+    "time": "05/04/2026 00:34",
+    "link": "https://www.trthaber.com/haber/gundem/8-etnospor-forumu-kapsaminda-ust-duzey-bakanlar-paneli-gerceklestirildi-940425.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya Etnospor Birliği Başkanı Necmeddin Bilal Erdoğan, \"Sporun tekrar bir araç, platform olarak barış, diyalog ve işbirliğine vesile olmasını umut ediyorum\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_68185b2d",
     "title": "Muğla’dan Muş’a, Kırşehir’den Karadeniz’e mücadele sürüyor",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor şampiyonluğa koşuyor…",
     "image": "https://resim.haber61.net/news/610964.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a4714121",
-    "title": "Metin Öztürk maç sonu Trabzonspor'a tepki: 'Aldıkları puanlara seviniyorlarsa, sevinsinler!'",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 23:34",
-    "link": "https://www.cumhuriyet.com.tr/spor/metin-ozturk-mac-sonu-trabzonspor-a-tepki-aldiklari-puanlara-seviniyorlarsa-sevinsinler-2492422",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray 2. Başkanı Metin Öztürk, Trabzonspor yönetimine sitem etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3b6282f0-452c-4ffd-b171-0ab6ef9b0b3a.jpg",
-    "keyword": null
   }
 ]
