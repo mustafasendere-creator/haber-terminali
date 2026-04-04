@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bd790496",
+    "title": "Erdoğan ile Zelenskiy İstanbul’da görüştü",
+    "source": "Evrensel",
+    "time": "04/04/2026 22:33",
+    "link": "https://www.evrensel.net/haber/5978258/erdogan-ile-zelenskiy-istanbulda-gorustu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zelenskiy ile İstanbul’da görüşen Erdoğan, Ukrayna-Rusya müzakerelerine Türkiye’nin desteğinin süreceğini belirtti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341655.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_879fe06f",
     "title": "Trabzonspor'un 'Üç büyük\" rakibine karşı galibiyet özlemi sona erdi",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Amasya’nın Suluova ilçesinde 3 katlı inşaatın çatısından düşen 65 yaşındaki işçi, kaldırıldığı hastanede yaşamını yitirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/amasyada-korkunc-olay-insaatin-catisindan-dusen-isci-hayatini-kaybetti-6xr0.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_1e928e6c",
-    "title": "CANLI ANLATIM | Trabzonspor 2 - 1 Galatasaray",
-    "source": "61 Saat",
-    "time": "04/04/2026 21:34",
-    "link": "https://www.61saat.com/canli-anlatim-trabzonspor-2-1-galatasaray",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Galatasaray ile karşı karşıya geliyor.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/g-f-d-s-95.webp",
-    "keyword": "trabzon"
   }
 ]
