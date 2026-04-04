@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3ec35a5",
+    "title": "Erdoğan'dan Zelenski görüşmesi sonrası enerji açıklaması",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 20:34",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dan-zelenski-gorusmesi-sonrasi-enerji-aciklamasi-2492403",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Erdoğan'dan sürpriz İstanbul ziyareti yapan Zelenski ile görüşmesinde sonra açıklama geldi. Erdoğan, Karadeniz’de seyrüsefer emniyetine büyük önem verildiğini ve enerji arz güvenliğinin zorunlu olduğunu söyledi. Görüşmede Ukrayna-Rusya savaşında barış arayışları ile bölgesel ve küresel gelişmeler de ele alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f1d02412-42b0-4ada-a651-c91f8118d38c.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_618d88c1",
     "title": "Papara Park’ta derbiye özel koreografi: “Paraya karşı emeğin savaşı”",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Dolmabahçe Çalışma Ofisi'nde Hamas heyetini kabul etti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_31552388",
-    "title": "İbrahim Hacıosmanoğlu'ndan eleştirilere cevap: 'Parayı mezara götürmeyeceğiz'",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 20:13",
-    "link": "https://www.cumhuriyet.com.tr/spor/ibrahim-haciosmanoglu-ndan-elestirilere-cevap-parayi-mezara-goturmeyecegiz-2492392",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'de oynanacak Trabzonspor - Galatasaray maçı öncesinde Türkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu açıklamalarda bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4aead6db-91ca-487f-937f-9688a9351c76.jpg",
-    "keyword": "trabzon"
   }
 ]
