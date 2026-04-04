@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f5986a0f",
+    "title": "Dışişleri Bakanı Fidan, Şeybani ile görüştü",
+    "source": "TRT Haber",
+    "time": "05/04/2026 00:14",
+    "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-seybani-ile-gorustu-940419.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile telefonda görüştü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5ac623a5",
     "title": "İşgalci İsrail ordusunun Lübnan'ın güneyine saldırısında 5 kişi öldü",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Başkanı Ertuğrul Doğan, Galatasaray galibiyetinin ardından yaptığı açıklamada hem teknik heyeti hem futbolcuları tebrik ederken, camiaya “yarından itibaren yeni maça odaklanmalıyız” mesajı verdi.",
     "image": "https://resim.haber61.net/news/610951.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_05fca243",
-    "title": "Papara Park’ta MESAJ GECESİ! “Paraya Karşı Emeğin Savaşı” Koreografisi Gündem Oldu",
-    "source": "Taka Gazetesi",
-    "time": "04/04/2026 23:14",
-    "link": "https://www.takagazete.com.tr/papara-parkta-mesaj-gecesi-paraya-karsi-emegin-savasi-koreografisi-gundem-oldu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor taraftarı, Galatasaray derbisi öncesi Papara Park’ta yaptığı dev koreografiyle hem görsel şova imza attı hem de dikkat çeken bir mesaj verdi. Tribünlerdeki atmosfer sosyal medyada geniş yankı uyandırdı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/mesaj-gecesi.jpg",
-    "keyword": null
   }
 ]
