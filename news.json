@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_37e2f573",
+    "title": "Bolu Belediyesine operasyon: Jandarma binada arama yaptı, 3 kişi gözaltına alındı",
+    "source": "Evrensel",
+    "time": "04/04/2026 11:13",
+    "link": "https://www.evrensel.net/haber/5978157/bolu-belediyesine-operasyon-jandarma-binada-arama-yapti-3-kisi-gozaltina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu Belediyesine yönelik yürütülen “icbar suretiyle irtikap” soruşturması kapsamında belediye binasında jandarma arama yaptı. Arama sürerken 3 kişinin gözaltına alındığı bildirildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341545.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_24d2a04c",
     "title": "İşte NATO gerçekleri",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Merkez üssü Tuşba ilçesi olan deprem, saat 08.52’de kaydedildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8c1d9919",
-    "title": "Paskalya'nın çikolata devleri: Küresel sektörü AB ülkeleri sürükledi",
-    "source": "Euronews",
-    "time": "04/04/2026 10:33",
-    "link": "http://tr.euronews.com/business/2026/04/04/paskalyanin-cikolata-devleri-kuresel-sektoru-ab-ulkeleri-surukledi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kıtanın çikolata sektörü, tam kapasite üretimi sürdürerek kakao işleme ve ihracatında tartışmasız dünya lideri konumunu pekiştiriyor.",
     "image": null,
     "keyword": null
   }
