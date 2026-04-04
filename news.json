@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2abc951d",
+    "title": "Bu hafta sonu hangi sınavlar var?",
+    "source": "Habertürk",
+    "time": "04/04/2026 09:35",
+    "link": "https://www.haberturk.com/hafta-sonu-sinav-takvimi-4-5-nisan-tarihlerinde-hangi-sinavlar-yapilacak-hafta-sonu-hangi-sinavlar-var-aof-vize-sinavlari-bu-hafta-mi-3874595",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hafta sonunun yaklaşmasıyla birlikte sınav takvimi öğrenciler tarafından yeniden gündeme alındı. 4-5 Nisan 2026 Cumartesi ve Pazar günlerinde hangi sınavların yapılacağı merak edilirken, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) ve Milli Eğitim Bakanlığı (MEB) tarafından açıklanan takvimler doğrultusunda sınav tarihleri netlik kazandı. Peki, bu hafta sonu hangi sınavlar var? İşte 4-5 Nisan sınav takvimi haberimizde...",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775220361/3874595/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3db8360b",
     "title": "Mustafa Bozbey'e tutuklama talebi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hakkari'de aranan 12 kişi yakalandı: Aralarında firari hükümlü de var",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/aa202604044100875141008750hakkaridefirarihukumluilecesitlisuclardanaranan11zanliyakalandijpg-o6yiPSmm30i-sV-FMplO1A.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_960100aa",
-    "title": "Son dakika... Bolu Belediyesi’ne operasyon: Jandarma ekipleri binada arama yapıyor!",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 08:53",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-bolu-belediyesi-ne-operasyon-jandarma-ekipleri-binada-arama-yapiyor-2492243",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika haberi... Bolu Belediyesi’ne yönelik yürütülen soruşturma kapsamında belediye binasında arama başlatıldı. Sabah erken saatlerde belediye binasına gelen çok sayıda jandarma ekibi, belediyede inceleme yaptı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
     "keyword": null
   }
 ]
