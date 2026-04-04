@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b03e6879",
+    "title": "Hürmüz Boğazı’ndan savaşın başlamasından bu yana ilk kez bir Japon tankeri geçti",
+    "source": "10Haber",
+    "time": "04/04/2026 07:53",
+    "link": "https://10haber.net/ekonomi/hurmuz-bogazindan-savasin-baslamasindan-bu-yana-ilk-kez-bir-japon-tankeri-gecti-692286/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "The Japan Times gazetesinin haberine göre, Japon deniz nakliye şirketi Mitsui O.S.K. Lines&#8217;ın ortağı olduğu Panama bayraklı &#8220;Sohar LNG&#8221; adlı tanker, Hürmüz Boğazı&#8217;ndan geçti. Yetkili, tanker mürettebatının güvende olduğunu doğrularken geçiş zamanı ve geçiş için herhangi bir müzakere yürütülüp yürütülmediğine dair bilgi paylaşmadı. Sohar LNG, İran&#8217;ın geçen ay Hürmüz Boğaz&#8217;ını trafiğe kapatması nedeniyle Basra Körfezi&#8217;nde [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69d09097d22a04.15607910.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fca8970f",
     "title": "Papatya falı!",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ekonomide giderek gerçeklerle değil, hikâyelerle yaşıyoruz. Rakamlar doğru olabilir. Ama hikâye eksikse bu bir anlatım sorunudur. Rakamlar da hikâye de eğilip bükülüyorsa, artık ortada bir ekonomi değil, bir illüzyon vardır. Bugünün ekonomisini anlamak için yedi basit illüzyonu anlamak yeterli olabilir: Bir: Enflasyonu yüksek tutarken faizi de yukarıda bırakırsın. Sıcak para gelir, döviz kuru baskılanır. Sonuç: [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/02/issiz.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_8cdf8f38",
-    "title": "ORÇEV’den belediyeye hafriyat tepkisi: ‘Kirleten şirket ödeyen yurttaş’",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 05:54",
-    "link": "https://www.cumhuriyet.com.tr/cevre/orcev-den-belediyeye-hafriyat-tepkisi-kirleten-sirket-odeyen-yurttas-2492230",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ordu’da devam eden projelerde hafriyat kamyonlarının temizlenmeden trafiğe çıkması tepki çekti. ORÇEV, halk sağlığının tehdit edildiğini vurguladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/fdefd7f8-577a-4d83-b856-46c6a6524e36.jpg",
     "keyword": null
   }
 ]
