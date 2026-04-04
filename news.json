@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b02adfff",
+    "title": "Fatih'te sit alanında define arayan 3 şüpheli suçüstü yakalandı",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 09:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/fatih-te-sit-alaninda-define-arayan-3-supheli-sucustu-yakalandi-2492262",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fatih'te arkeolojik sit alanında define arayan 3 şüpheli suçüstü yakalandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/916e1e15-86c2-4c2f-9cd7-90294c58329d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b667fdf1",
     "title": "Son dakika deprem oldu! AFAD, Kandilli deprem listesi!",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran savaşı nedeniyle küresel petrol piyasalarındaki dalgalanmalar sürerken, motorine büyük bir zam daha gelmesi bekleniyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/tarih-belli-oldu-motorine-tarihi-zam-geliyor-zq0s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_10f7664f",
-    "title": "İran’dan BAE ve Bahreyn’e yeni saldırılar",
-    "source": "Haber Global",
-    "time": "04/04/2026 08:53",
-    "link": "https://haberglobal.com/dunya/irandan-bae-ve-bahreyne-yeni-saldirilar-516920",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşik Arap Emirlikleri (BAE) ve Bahreyn, İran tarafından gerçekleştirilen yeni saldırılara hedef olduklarını açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/irandan-bae-ve-bahreyne-yeni-saldirilar-1qkj.jpg",
     "keyword": null
   }
 ]
