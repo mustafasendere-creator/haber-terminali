@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_30269fe7",
+    "title": "AFAD: Van'da 5,2 büyüklüğünde deprem meydana geldi",
+    "source": "Euronews",
+    "time": "04/04/2026 10:33",
+    "link": "http://tr.euronews.com/2026/04/04/afad-vanda-52-buyuklugunde-deprem-meydana-geldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Merkez üssü Tuşba ilçesi olan deprem, saat 08.52’de kaydedildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8c1d9919",
     "title": "Paskalya'nın çikolata devleri: Küresel sektörü AB ülkeleri sürükledi",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hafta sonunun yaklaşmasıyla birlikte sınav takvimi öğrenciler tarafından yeniden gündeme alındı. 4-5 Nisan 2026 Cumartesi ve Pazar günlerinde hangi sınavların yapılacağı merak edilirken, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) ve Milli Eğitim Bakanlığı (MEB) tarafından açıklanan takvimler doğrultusunda sınav tarihleri netlik kazandı. Peki, bu hafta sonu hangi sınavlar var? İşte 4-5 Nisan sınav takvimi haberimizde...",
     "image": "https://im.haberturk.com/l/2026/04/03/ver1775220361/3874595/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_3db8360b",
-    "title": "Mustafa Bozbey'e tutuklama talebi",
-    "source": "Habertürk",
-    "time": "04/04/2026 09:34",
-    "link": "https://www.haberturk.com/son-dakika-mustafa-bozbey-e-tutuklama-talebi-bursa-haberleri-3874727",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'da, \"suç işlemek amacıyla örgüt kurma, yönetme ve suç işlemek amacı ile kurulan örgüte üye olma, rüşvet, suçtan kaynaklanan mal varlığı değerlerini aklama ve imar kirliliğine neden olma\" suçlarından yürütülen soruşturmada gözaltına alınan Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey, tutuklama talebiyle mahkemeye sevk edildi",
-    "image": "https://im.haberturk.com/l/2026/04/04/ver1775277866/3874727/jpg/1280x1280",
     "keyword": null
   }
 ]
