@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4489a63",
+    "title": "Irak'ta petrol sahasına İHA saldırısı",
+    "source": "Haber Global",
+    "time": "04/04/2026 23:54",
+    "link": "https://haberglobal.com/dunya/irakta-petrol-sahasina-iha-saldirisi-517034",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak'ın güneyindeki Meysan vilayetinde faaliyet gösteren ve ABD'li bir şirket tarafından işletilen Buzurgan petrol sahasına 6 adet insansız hava aracı (İHA) ile saldırı düzenlendi. Kaynaklara göre saldırıda, ABD'li şirketin petrol sahası içinde bulunan kompleksi ve sahada faaliyet gösteren diğer yabancı şirketler hedef alındı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/irakta-petrol-sahasina-iha-saldirisi-ss6x.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_71b18bac",
     "title": "Haber61 ekranlarında büyük buluşma: Serkan Kılıç, Mehmet Yiğit Alp konuştu",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor'da Nwakaeme, Galatasaray maçının ardından konuştu:  Sürpriz bir otam değil.. Kalan 6 maç için de konuştu..",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/s-u-r-p-r-i-z-9.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_428be5a7",
-    "title": "Trabzonspor'da Savic, Galatasaray maçı sonrası uyardı...",
-    "source": "61 Saat",
-    "time": "04/04/2026 22:55",
-    "link": "https://www.61saat.com/trabzonsporda-savic-galatasaray-maci-sonrasi-uyardi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un kaptanı Savic, Bordo - Mavililerin Galatasaray'ı 2 - 1 yendiği maçın ardından konuştu...",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/b-a-s-a-r-i-1.webp",
     "keyword": "trabzon"
   }
 ]
