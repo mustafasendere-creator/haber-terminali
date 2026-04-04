@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_68253f83",
+    "title": "Van'da 5.2 büyüklüğünde deprem",
+    "source": "OdaTV",
+    "time": "04/04/2026 09:35",
+    "link": "https://www.odatv.com/guncel/vanda-52-buyuklugunde-deprem-120142020",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Van&#039;da merkez üssü Tuşba olan 5.2 büyüklüğünde deprem meydana geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/vanda-52-buyuklugunde-deprem-ykey.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c594f8ea",
     "title": "İtalya'da Roberto Mancini sesleri: Teklif bekliyor",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’de Trabzonspor ile Galatasaray arasında oynanacak kritik maç öncesi bordo-mavililerin sahaya çıkması beklenen kadro netleşmeye başladı. Hücum ağırlıklı bir tercih öne çıkıyor.",
     "image": "https://resim.haber61.net/news/610766.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d652974d",
-    "title": "Survivor kim kazandı?",
-    "source": "Habertürk",
-    "time": "04/04/2026 08:54",
-    "link": "https://www.haberturk.com/survivor-kim-kazandi-3-nisan-cuma-survivor-sembol-oyununu-kim-kazandi-eleme-adayi-kim-oldu-3874669",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Survivor 3 Nisan Cuma günü gündeme geldi. Haftanın sembol oyunu için mücadele tüm hızıyla devam ediyor. Sembolü kazanan kişi ise dokunulmazlığın sahibi olacak. Peki, Survivor sembol oyununu kim kazandı? 3 Nisan Cuma Survivor sembolü kim aldı? İşte Survivor Türkiye yeni bölümde yaşanan son gelişmeler...",
-    "image": "https://im.haberturk.com/l/2026/04/03/ver1775235175/3874669/jpg/1280x1280",
-    "keyword": null
   }
 ]
