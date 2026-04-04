@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7a45a166",
+    "title": "Bolu'da acı olay: Yurtta kalp krizi geçiren öğrenci hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 17:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/bolu-da-aci-olay-yurtta-kalp-krizi-geciren-ogrenci-hayatini-kaybetti-2492383",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu'da Abant İzzet Baysal Üniversitesi öğrencisi Osman Nuri Çelik, dün, yaşadığı yurdun banyosunda geçirdiği kalp krizi nedeniyle hayatını kaybetti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5b82d911-807c-47bd-89a2-2ea8199839c0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c09ebd34",
     "title": "2026 sosyal medyaya yaş sınırı geldi mi? 15 yaş altı sosyal medya yasağı hangi maddeleri içeriyor?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Trabzon’un elektrik ihtiyacının 4,5 kat arttığını açıkladı. Bayraktar, enerjide tam bağımsızlık hedefini vurguladı.",
     "image": "https://resim.haber61.net/news/610889.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_1b7b6e25",
-    "title": "TFF Başkanı Hacıosmanoğlu Trabzon’da kız istedi",
-    "source": "Haber61",
-    "time": "04/04/2026 17:14",
-    "link": "https://www.haber61.net/spor/tff-baskani-haciosmanoglu-trabzonda-kiz-istedi-h628606.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Türkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu, Trabzon’da düzenlenen kız isteme merasiminde yer aldı. Hacıosmanoğlu, genç çiftin mutluluğuna ortak oldu.",
-    "image": "https://resim.haber61.net/news/610891.jpg",
     "keyword": "trabzon"
   }
 ]
