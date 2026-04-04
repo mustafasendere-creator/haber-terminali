@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_79e1861c",
+    "title": "Bakan Uraloğlu: Tüm Türkiye'yi 48 saatte dolaşma imkanına erişeceğiz",
+    "source": "TRT Haber",
+    "time": "04/04/2026 18:34",
+    "link": "https://www.trthaber.com/haber/gundem/bakan-uraloglu-tum-turkiyeyi-48-saatte-dolasma-imkanina-erisecegiz-940395.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ulaştırma ve Altyapı Bakanı Abdülkadir Uraloğlu, \"İnşallah, 2053 yılında da ülkemizin dört bir yanını hızlı tren hatlarıyla birleştirerek 48 saatte tüm Türkiye'yi inşallah dolaşma imkanına erişmiş olacağız.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_679e939d",
     "title": "Kalibaf'tan bölge ülkelerine ABD'nin müdahalesi olmadan işbirliğine hazırız mesajı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon hafif raylı sistem projesinin 8 Nisan’da yapım ihalesi yapılacağını açıklayan Başkan Genç, “Raylı sistem başta olmak üzere enerji faaliyetimizi güneş enerji santraliyle bakanımızın onayıyla tüm süreçlerini tamamladık.” dedi.",
     "image": "https://resim.haber61.net/news/610899.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_39952b05",
-    "title": "IPI'dan Google'a mektup: 'Türkiye’de bağımsız medya algoritmik şok yaşıyor'",
-    "source": "Euronews",
-    "time": "04/04/2026 17:54",
-    "link": "http://tr.euronews.com/next/2026/04/04/ipidan-googlea-mektup-turkiyede-bagimsiz-medya-algoritmik-sok-yasiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "IPI, Sundar Pichai’ye gönderdiği açık mektupta, Google’ın insan haklarını koruma ve yüksek kaliteli gazeteciliği destekleme taahhütlerinin Türkiye uygulamasında karşılık bulmadığını vurguladı.",
-    "image": null,
-    "keyword": null
   }
 ]
