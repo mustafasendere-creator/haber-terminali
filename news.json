@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6c6fff6e",
+    "title": "İran'dan \"ABD savaş uçağı düşürüldü\" iddiası",
+    "source": "Habertürk",
+    "time": "04/04/2026 12:55",
+    "link": "https://www.haberturk.com/iran-dan-abd-savas-ucagi-dusuruldu-iddiasi-pilot-parasutle-atladi-3874610",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran devlet medyasına bağlı bazı ajanslar ve yarı resmi kaynaklar, Kohgiluye ve Buyer Ahmed (Kohkiluye Boyrahmat) eyaleti semalarında bir Amerikan savaş uçağının İran hava savunma unsurları tarafından vurulduğunu öne sürdü. Özellikle yerel kaynaklara dayandırılan haberlerde, uçağın düşürülmesinin ardından pilotun kendini fırlatarak paraşütle bölgeye indiği iddiası yer aldı.",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775222125/3874610/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ff553543",
     "title": "Evde çıkan yangında can verdi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Havacılık ve sağlık hizmetlerini entegre etme vizyonuyla yola çıkan Air Clinic, geride bıraktığı 10 yılda çalışan sayısını 4 katına çıkararak 1000 kişiyi aşkın dev bir operasyon gücüne ulaştı. Bugün itibarıyla 100’den fazla havayolu şirketine çözüm ortağı olan ve toplamda 12 milyon yolcuya hizmet sunan şirket, küresel bir marka olma yolunda emin adımlarla ilerliyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/air-clinic-12-milyon-yolcuya-ulasarak-global-buyume-hedefini-guclendiriyor-jjqj_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_b925d322",
-    "title": "BIST’te çeyrek rallisi: Sektörler ayrıştı zirveye faktoring çıktı",
-    "source": "Ekonomim",
-    "time": "04/04/2026 12:16",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/bistte-ceyrek-rallisi-sektorler-ayristi-zirveye-faktoring-cikti-haberi-886016",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BIST 100 endeksi yılın ilk çeyreğini %13,6 yükselişle tamamlarken, sektörler arasındaki getiri farkı dikkat çekti. Finansal kiralama ve faktoring endeksi %179,4 ile en çok kazandıran sektör oldu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/01/11/borsa-istanbul-yeni-zirve-ile-yoluna-devam-ediyor-fwzj_cover.jpg",
     "keyword": null
   }
 ]
