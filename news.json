@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d0df3e31",
+    "title": "İzmir’de NATO karşıtı eylem: ‘Savaş örgütü NATO kapatılsın’",
+    "source": "Evrensel",
+    "time": "04/04/2026 14:53",
+    "link": "https://www.evrensel.net/haber/5978203/izmir-de-nato-karsiti-eylem-savas-orgutu-nato-kapatilsin",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NATO’nun yıl dönümünde İzmir’de kitle NATO binasına yürüyerek, “NATO'dan çıkılsın, üsler kapatılsın” dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341575.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ecdcafd8",
     "title": "ABD Savunma Bakanı Hegseth’in atılma korkusu: Driscoll ayağımı kaydırır mı",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yoğun yağışların ardından Büyükçekmece Gölü'nde su tahliye vanalarının açılmasıyla oluşan akıntıya yüzen İsrail sazanları, suların çekilmesiyle kıyıda mahsur kaldı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0c78236c",
-    "title": "'Ne ABD ne Çin'... Macron'dan 'üçüncü yol' çıkışı",
-    "source": "OdaTV",
-    "time": "04/04/2026 13:56",
-    "link": "https://www.odatv.com/dunya/ne-abd-ne-cin-fransa-cumhurbaskani-emmanuel-macrondan-ucuncu-yol-cikisi-120142049",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa Lideri Macron, ülkeleri ABD veya Çin&#039;e bağlı olmamaya ve bir &quot;bağımsız koalisyon&quot; kurmaya davet etti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/ne-abd-ne-cin-fransa-cumhurbaskani-emmanuel-macrondan-ucuncu-yol-cikisi-yzeo.jpg",
     "keyword": null
   }
 ]
