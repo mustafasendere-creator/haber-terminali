@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a04e5a6b",
+    "title": "Kahramankazan'da özel halk otobüsü üst geçidin ayağına çarptı, 5 kişi öldü, 14 kişi yaralandı",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 11:13",
+    "link": "https://www.aa.com.tr/tr/guncel/kahramankazanda-ozel-halk-otobusu-ust-gecidin-ayagina-carpti-5-kisi-oldu-14-kisi-yaralandi/3891388",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Kahramankazan ilçesinde özel halk otobüsünün üst geçidin ayağına çarpması sonucu ilk belirlemelere göre 5 kişi hayatını kaybetti, 14 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c084e120",
     "title": "TBMM Genel Kurulunda, doğum izninin artırılmasına ilişkin kanun teklifi öne çekilerek yasalaştırılacak",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kars'ın Sarıkamış ilçesinde gece başlayan ve aralıklarla devam eden kar, sarıçam ormanları, bitkiler ve araçların üzerini beyaza bürüdü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_238a20d6",
-    "title": "Çanakkale ve Edirne'de sağanak hayatı olumsuz etkiledi",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 10:33",
-    "link": "https://www.aa.com.tr/tr/guncel/canakkale-ve-edirnede-saganak-hayati-olumsuz-etkiledi/3891356",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çanakkale ve Edirne'de aralıklarla devam eden sağanak yaşamı olumsuz etkiledi.",
     "image": null,
     "keyword": null
   }
