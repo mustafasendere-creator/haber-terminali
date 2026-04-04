@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d5ad6225",
+    "title": "Ankara'da feci kaza: 4 kişi hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "04/04/2026 10:54",
+    "link": "https://www.trthaber.com/haber/turkiye/ankarada-feci-kaza-4-kisi-hayatini-kaybetti-940346.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Kahramankazan ilçesinde yolcu taşıyan aracın üst geçide çarpması sonucu meydana gelen kazada 4 kişi hayatını kaybetti, 13 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_414c1859",
     "title": "NBA'de Jazz'ı yenen Rockets, serisini 5 maça çıkardı",
     "source": "İHA Trabzon",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun Lübnan'ın güneyindeki Sur kentinde bir motosiklete insansız hava aracıyla İHA düzenlediği saldırıda 2 kişi hayatını kaybetti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_71305adc",
-    "title": "Naki Bakır: Emeklinin zammı tükendi",
-    "source": "Diken",
-    "time": "04/04/2026 10:14",
-    "link": "https://www.diken.com.tr/naki-bakir-emeklinin-zammi-tukendi/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Naki Bakır: Emeklinin zammı tükendi 04.04.2026 DikenÜç aylık enflasyonla, SSK ve BAĞ-KUR emeklilerinde ilk yarı zammının reel olarak yüzde 89,6’sı geri alınmış oldu.\nThe post Naki Bakır: Emeklinin zammı tükendi appeared first on #site_linkat 04.04.2026 .",
     "image": null,
     "keyword": null
   }
