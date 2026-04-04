@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f2452aa8",
+    "title": "Yurt geneline kuvvetli yağış uyarısı",
+    "source": "Diken",
+    "time": "05/04/2026 00:14",
+    "link": "https://www.diken.com.tr/yurt-geneline-kuvvetli-yagis-uyarisi/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurt geneline kuvvetli yağış uyarısı 05.04.2026 DikenBugün yurt genelinde kuvvetli yağış bekleniyor.\nThe post Yurt geneline kuvvetli yağış uyarısı appeared first on #site_linkat 05.04.2026 .",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_05cce10c",
     "title": "Malulen emeklilikte kritik karar: Yargıtay’dan SGK’ya rağmen emsal hüküm",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Galatasaray galibiyetinin ardından yaptığı açıklamalarda hem oyunu değerlendirdi hem de kalan haftalar için önemli mesajlar verdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/t-e-k-k-e-81.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_e8d569c3",
-    "title": "Fatih Tekke'den galibiyet değerlendirmesi: 'Yanan bir ateş vardı, söndürdük'",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 23:14",
-    "link": "https://www.cumhuriyet.com.tr/spor/fatih-tekke-den-galibiyet-degerlendirmesi-yanan-bir-ates-vardi-sondurduk-2492418",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Galatasaray galibiyeti sonra değerlendirmelerde bulunurken bordo-mavili takımla ilgili \"Bir ateş vardı burada yanan, önce söndürdük, sonra limana çektik. Şimdi rüzgarla beraberiz\" yorumunu yaptı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/73aedd70-4eda-489c-a7c7-dd03f698a918.jpg",
-    "keyword": "trabzon"
   }
 ]
