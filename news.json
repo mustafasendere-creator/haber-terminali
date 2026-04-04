@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8fb9fcff",
+    "title": "Mavi Vatan26 Tatbikatı başladı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 06:53",
+    "link": "https://www.trthaber.com/haber/gundem/mavi-vatan-26-tatbikati-basladi-940332.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanlığı, Karadeniz, Ege Denizi ve Doğu Akdeniz'de 39 Nisan tarihlerinde icra edilecek Mavi Vatan26 Tatbikatı'nın 120 gemi, 50 hava vasıtası ve 15 bin personelin katılımıyla başladığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3ce7a749",
     "title": "Karadeniz’de Bugün Hava Alarmı: İl İl İlçe İlçe Yağmur Ve Sıcaklık Detayları Açıklandı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Barosu Başkanı İbrahim Kaboğlu, ABD Başkanı Donald Trump ve İsrail Başbakanı Binyamin Netanyahu gibi isimlerin yargılanması için baroların aktif rol üstlenmesi gerektiğini söyledi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0eff7af8-a799-4b68-9c60-5c75cd034e1a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a6b03fdd",
-    "title": "İstanbul Boğazı'nda gemi arızası: Trafik çift yönlü askıya alındı",
-    "source": "Evrensel",
-    "time": "04/04/2026 02:53",
-    "link": "https://www.evrensel.net/haber/5978130/istanbul-bogazinda-gemi-arizasi-trafik-cift-yonlu-askiya-alindi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Boğazı'nda bir gemide İstinye açıklarında meydana gelen makine arızası sonucu gemi trafiği çift yönlü olarak askıya alındı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341520.jpg",
     "keyword": null
   }
 ]
