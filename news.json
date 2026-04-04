@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c5e73bc5",
+    "title": "Bursa Belediye Başkanı Mustafa Bozbey tutuklandı",
+    "source": "OdaTV",
+    "time": "04/04/2026 12:16",
+    "link": "https://www.odatv.com/guncel/bursa-belediye-baskani-mustafa-bozbey-tutuklandi-120142044",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa Belediye Başkanı Mustafa Bozbey&#039;in tutuklandığı öğrenildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/bursa-belediye-baskani-mustafa-bozbey-tutuklandi-wjzt.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b0e2a4d2",
     "title": "Air Clinic, 12 milyon yolcuya ulaşarak global büyüme hedefini güçlendiriyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran’da Mizan Haber Ajansı, İran Halkın Mücahitleri Örgütü'ne üye olan Vahid Beni-Ameriyan ve Ebulhasan Muntazar'in bu sabah idam edildiğini duyurdu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341551.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_963cc599",
-    "title": "Yağmur altında dinlenmek",
-    "source": "Evrensel",
-    "time": "04/04/2026 11:53",
-    "link": "https://www.evrensel.net/haber/5978173/yagmur-altinda-dinlenmek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Sultanbeyli’de park temizliği yapan işçiler, yağmur altında dinlenmek zorunda kalıyor. Sabah 04.30’da işe başlayan işçilerin sığınacak bir alanı bulunmuyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341553.jpg",
     "keyword": null
   }
 ]
