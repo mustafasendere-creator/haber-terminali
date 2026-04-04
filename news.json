@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_39faf4fb",
+    "title": "IBAN’la gelen parada bu açıklama varsa hemen geri gönderin",
+    "source": "10Haber",
+    "time": "04/04/2026 11:33",
+    "link": "https://10haber.net/ekonomi/ibanla-gelen-parada-bu-aciklama-varsa-hemen-geri-gonderin-692340/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Günlük ticari işlemlerde ve kişisel para transferlerinde sıklıkla kullanılan IBAN yöntemi dikkat edilmeyen detaylar nedeniyle ciddi hukuki mağduriyetlere yol açabiliyor. İstanbul&#8217;da hizmet veren bir kebapçı sunduğu özel hizmetin karşılığı olan 50 bin lirayı IBAN yoluyla tahsil etti. Ancak ödemeyi yapan şahsın açıklama kısmına düştüğü not aylar sonra esnafın karşısına icra tebligatı olarak çıktı. Yaşanan bu [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69d0cb645d2915.08859122.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f76ac5df",
     "title": "1.4 milyar varil petrolü depoladı: Dünyayı bıyık altından gülerek izliyor",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, sahasında Utah Jazz'ı 140-106 yenerek üst üste beşinci galibiyetini aldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5b2c9276",
-    "title": "Sultanlar Ligi'nde play-off final ve 3-4 etapları programı güncellendi",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 10:53",
-    "link": "https://www.aa.com.tr/tr/guncel/sultanlar-liginde-play-off-final-ve-3-4-etaplari-programi-guncellendi/3891367",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Voleybol Vodafone Sultanlar Ligi play-off final ve 3-4 etapları maç programında değişiklik yapıldı.",
     "image": null,
     "keyword": null
   }
