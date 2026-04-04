@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_db72f18b",
+    "title": "Trump, Alcatraz hapishanesini yeniden açmak için 152 milyon dolar istedi",
+    "source": "BBC Türkçe",
+    "time": "04/04/2026 14:33",
+    "link": "https://www.bbc.com/turkce/articles/c705xrjw9keo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, 2027 mali yılı için önerdiği bütçe kapsamında Alcatraz hapishanesini yeniden açmak için 152 milyon dolar talep etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3d71e335",
     "title": "Yolu Trabzon’dan Geçen Sanatçılar sergisi İstanbul’da açılıyor",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "📺 Trabzonspor ile oynayacağımız karşılaşmada TFF VAR merkezinde hakem Erkan Engin görev yapacak. #TSvGS  x.com",
     "image": null,
     "keyword": "trabzonspor"
-  },
-  {
-    "id": "GND_1d5905a8",
-    "title": "Görüntüler İran'ın düşen ABD pilotunu esir aldığını mı gösteriyor?",
-    "source": "Teyit.org",
-    "time": "04/04/2026 13:35",
-    "link": "https://teyit.org/analiz/goruntuler-iranin-dusen-abd-ucaginin-pilotunu-esir-aldigini-mi-gosteriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Görüntülerin İran'ın düşen ABD uçağının pilotunu esir aldığını gösterdiği iddia edildi.",
-    "image": "https://md.teyit.org/2026/04/abd-tutuklanan-pilot-iddia-kapak.webp",
-    "keyword": null
   }
 ]
