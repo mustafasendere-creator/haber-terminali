@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_019a9767",
+    "title": "Kartpostallık görüntüler oluştu: Kayısı ağaçları çiçek açtı, Iğdır Ovası beyaza büründü",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 09:54",
+    "link": "https://www.cumhuriyet.com.tr/yasam/kartpostallik-goruntuler-olustu-kayisi-agaclari-cicek-acti-igdir-ovasi-beyaza-burundu-2492266",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Doğu'nun Çukurova’sı olarak bilinen Iğdır'da bahar mevsimi ile kayısı ağaçları çiçek açtı. Iğdır Ovası'nı beyaza bürüyen kayısı bahçelerinden bu yıl 40 bin ton rekolte bekleniyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/79e24dd6-a184-408f-af97-8709fb4292fa.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_729eeef3",
     "title": "Bakan Bayraktar Trabzon’a geliyor: Gündem yoğun olacak",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Haksız Fiyat Değerlendirme Kurulu tarafından, fahiş fiyat artışı yaptığı belirlenen ulusal zincir marketler ile sebze ve meyve toptan ticaretiyle iştigal eden toplam 183 işletmeye 96,6 milyon lira idari para cezası uygulanması kararlaştırıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6845d388",
-    "title": "Van'ın Tuşba ilçesinde 5,2 büyüklüğünde deprem",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 09:13",
-    "link": "https://www.aa.com.tr/tr/guncel/vanin-tusba-ilcesinde-5-2-buyuklugunde-deprem/3891293",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AFAD, saat 08.52'de merkez üssü Van'ın Tuşba ilçesi olan 5,2 büyüklüğünde deprem meydana geldiğini bildirdi.",
     "image": null,
     "keyword": null
   }
