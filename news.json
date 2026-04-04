@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5df51934",
+    "title": "Ankara'da otobüs kazası: 4 ölü, çok sayıda yaralı var",
+    "source": "Sözcü",
+    "time": "04/04/2026 10:55",
+    "link": "https://www.sozcu.com.tr/ankara-da-otobus-kazasi-4-olu-cok-sayida-yarali-var-p307312",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da otobüs kazası: 4 ölü, çok sayıda yaralı var",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/369jpg-x8Sh8b8Ot068MtxjVuQGig.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_be0e4b0a",
     "title": "Bahis soruşturması: İsmail Yüksek hakkında karar çıktı",
     "source": "Sözcü",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adana'da aranan 4 hükümlü denetimlerde yakalandı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/2/gozaltijpg-KDTChg9ipkO0CpIrDLCMNA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ced64391",
-    "title": "Kosova maçında aralarında geçen konuşmayı açıkladı: Orkun Kökçü'den Kerem Aktürkoğlu itirafı!",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 10:14",
-    "link": "https://www.cumhuriyet.com.tr/spor/kosova-macinda-aralarinda-gecen-konusmayi-acikladi-orkun-kokcu-den-kerem-akturkoglu-itirafi-2492269",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beşiktaş'ın milli futbolcusu Orkun Kökçü, Fenerbahçe ile oynayacakları derbi öncesi dikkat çeken açıklamalarda bulundu. Kökçü, A Milli Takım'ın 24 yıl sonra Dünya Kupası bileti alması hakkında da konuştu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5a6ccab6-3b80-4e48-aec0-dad8c85206b7.jpg",
     "keyword": null
   }
 ]
