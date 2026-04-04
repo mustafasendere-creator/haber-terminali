@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3bcc100c",
+    "title": "Futbolcu İsmail Yüksek hakkında takipsizlik kararı verildi",
+    "source": "TRT Haber",
+    "time": "04/04/2026 11:14",
+    "link": "https://www.trthaber.com/haber/turkiye/futbolcu-ismail-yuksek-hakkinda-takipsizlik-karari-verildi-940349.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"Futbolda bahis\" iddiasına ilişkin yürütülen soruşturmada, futbolcu İsmail Yüksek hakkında takipsizlik kararı verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_11aac618",
     "title": "Türkiye, NATO'nun 77'nci yıldönümünü kutladı: Bağlılığımızın ilave tezahürü",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Doğal gazda kademeli tarifeye geçildi; yüksek tüketimli aboneler için fiyatlar yüzde 132’ye varan oranlarda arttı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/337352.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_41855990",
-    "title": "Trabzonspor - Galatasaray maçı öncesi Uğurcan Çakır'a flaş tepki: Ölüm tehdidi içeren pankart asıldı!",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 10:33",
-    "link": "https://www.cumhuriyet.com.tr/spor/trabzonspor-galatasaray-maci-oncesi-ugurcan-cakir-a-flas-tepki-olum-tehdidi-iceren-pankart-asildi-2492272",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Süper Lig'in 28. haftasında sahasında Galatasaray'ı konuk edecek. Dev maç öncesi bordo-mavili takımın taraftarları Uğurcan Çakır'a ölüm tehditleri içeren pankartlar hazırladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/53dce60d-ddff-40c7-98e2-5e705c8e8fb0.jpg",
-    "keyword": "trabzon"
   }
 ]
