@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c160298",
+    "title": "Kadınlar Basketbol Süper Ligi: Fenerbahçe 20. kez şampiyon oldu",
+    "source": "Evrensel",
+    "time": "04/04/2026 21:34",
+    "link": "https://www.evrensel.net/haber/5978241/kadinlar-basketbol-super-ligi-fenerbahce-20-kez-sampiyon-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kadınlar Basketbol Süper Ligi Play-off finali üçüncü maçında Galatasaray'ı 87-76 yenerek seriyi 3-0 kazanan Fenerbahçe 8'i üst üste olmak üzere 20. kez kupayı müzesine götürdü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341630.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9a79042f",
     "title": "AKP'li belediye başkanı Nuri Güler istifa etti",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Pakistan Donanması, ülkenin güneyindeki liman kenti Karaçi'de Türk yapımı bir MİLGEM sınıfı korveti filosuna dahil etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_eeac1f30",
-    "title": "İtalya'da 4 havalimanında bazı uçuşlar için yakıt kısıtlaması yapılıyor",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 20:33",
-    "link": "https://www.aa.com.tr/tr/guncel/italyada-4-havalimaninda-bazi-ucuslar-icin-yakit-kisitlamasi-yapiliyor/3892066",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İtalya'da Milano Linate, Bologna, Venedik ve Treviso havalimanlarında 9 Nisan'a kadar bazı uçuşlar için yakıt temini kısıtlamasının uygulamaya girdiği bildirildi.",
     "image": null,
     "keyword": null
   }
