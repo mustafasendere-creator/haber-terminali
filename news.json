@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_058f1d2c",
+    "title": "Kripto para piyasasındaki düşüş serisi sona erdi",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 16:15",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/kripto-para-piyasasindaki-dusus-serisi-sona-erdi-2492351",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel kripto para piyasasının toplam değerini ifade eden Total Market, mart ayında yüzde 1,8 artışla 2 trilyon 344,8 milyar dolara, bitcoin de yüzde 1,9 artarak 68 bin 195 dolara yükselerek 5 aylık düşüş serisini sonlandırdı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ed366588-6b76-4df6-97be-530f8ef9b1d0.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_cb37b224",
     "title": "Trabzon’da Çiftçilere Kritik Eğitim! Kokarca Alarmı ve Yeni Dönem Başlıyor",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da Bener Cordan Ortaokulu, Türkiye Matematik Yarışması’nın ilk aşamasına ev sahipliği yaptı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/db041a2e-e36e-4120-bb51-3eda4d382837.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_41b832fa",
-    "title": "Ukrayna Devlet Başkanı Zelenski'den Türkiye'ye ziyaret",
-    "source": "TRT Haber",
-    "time": "04/04/2026 15:34",
-    "link": "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenskiden-turkiyeye-ziyaret-940381.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Türkiye'de bugün resmi temaslarda bulunacak.",
-    "image": null,
-    "keyword": null
   }
 ]
