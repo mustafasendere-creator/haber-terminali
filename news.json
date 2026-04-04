@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eebc3473",
+    "title": "Meteoroloji il il uyardı: Kuvvetli sağanak ve fırtına alarmı (İşte 4 Nisan 2026 hava durumu)",
+    "source": "Ekonomim",
+    "time": "04/04/2026 07:34",
+    "link": "https://www.ekonomim.com/foto-galeri/gundem/meteoroloji-il-il-uyardi-kuvvetli-saganak-ve-firtina-alarmi-iste-4-nisan-2026-hava-durumu-galeri-885971",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 4 Nisan 2026 Cumartesi günü için hava durumu raporunu yayınladı. Ülke genelinde yağış etkili olacak. Ege kıyılarında kuvvetli sağanak yağış ve rüzgâr beklenirken, Doğu’da çığ riski bulunuyor, Güneydoğu’da ise toz taşınımı etkili olacak.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/meteoroloji-il-il-uyardi-kuvvetli-saganak-ve-firtina-alarmi-iste-4-nisan-2026-hava-durumu-gig9_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_65503830",
     "title": "Telefon dolandırıcılığı operasyonu: 2 tutuklama",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İsrail’in İran’a gerçekleştirdiği saldırılar, başkent Tahran’da gece boyunca şiddetli patlamaların yaşanmasına yol açtı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/tahranda-siddetli-patlamalar-uaxc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_979efca4",
-    "title": "ABDİsrail'in İran'daki köprü saldırısında ölenlerin sayısı 13'e yükseldi",
-    "source": "TRT Haber",
-    "time": "04/04/2026 05:53",
-    "link": "https://www.trthaber.com/haber/dunya/abd-israilin-irandaki-kopru-saldirisinda-olenlerin-sayisi-13e-yukseldi-940322.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABDİsrail'in İran'ın Elburz eyaletine bağlı Kerec kentindeki B1 Köprüsüne saldırılarında hayatını kaybedenlerin sayısı 13'e çıktı.",
-    "image": null,
     "keyword": null
   }
 ]
