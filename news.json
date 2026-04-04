@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_15bb2c22",
+    "title": "NTV (@ntv) / Posts / X - x.com",
+    "source": "X",
+    "time": "05/04/2026 02:54",
+    "link": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFBhazFwSzBpbE1scXNDRlo5UEgwdnJZZXhhX0pvR2NsTFN4S3hjTWFhaWZQNA",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "NTV (@ntv) / Posts / X  x.com",
+    "image": null,
+    "keyword": "trabzon gündem"
+  },
+  {
     "id": "SOC_195a9ca7",
     "title": "Trabzon ziyaretimiz kapsamında Büyükşehir Belediyemizi ziyaret ederek Belediye Başkanımız Sayın Ahmet Metin Genç ile bir araya geldik. Şehrimize değer katan projeleri, devam eden yatırımlarımızı ve yerel yönetimlerimizle hayata geçirebileceğimiz yeni ça - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Eksik kadrosuna rağmen sahada disiplinli ve planlı bir oyun ortaya koyan Trabzonspor, Galatasaray karşısında aldığı galibiyetle akılcı futbolun ne kadar belirleyici olabileceğini gösterdi.",
     "image": "https://resim.haber61.net/news/610970.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_99ed95fa",
-    "title": "Asbaşkan Zeyyat Kafkas'tan Galatasaray'a sert yanıt: \"Gerçekleri çarpıtıyorlar\"",
-    "source": "Haber61",
-    "time": "05/04/2026 01:13",
-    "link": "https://www.haber61.net/trabzonspor/asbaskan-zeyyat-kafkastan-galatasaraya-sert-yanit-gercekleri-h628647.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Asbaşkanı Zeyyat Kafkas, Galatasaray ikinci başkanı Metin Öztürk'ün açıklamalarına yanıt verdi.",
-    "image": "https://resim.haber61.net/news/610977.jpg",
     "keyword": null
   }
 ]
