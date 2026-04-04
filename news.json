@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_18087be2",
+    "title": "Çizgilik - 4 Nisan 2026",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 04:53",
+    "link": "https://www.cumhuriyet.com.tr/cizerler/cizgilik-4-nisan-2026-2492239",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": ".",
+    "image": "https://media.cumhuriyet.com.tr/Archive/74782b8e-af37-434c-b6d0-ec54a4d6e18a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_31e2750a",
     "title": "İsrail ordusundan Beyrut'a yönelik hava saldırısı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Boğazı'nda bir gemide meydana gelen makine arızası sonucu gemi trafiği çift yönlü olarak askıya alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f941c37d",
-    "title": "Rizeli Safa Cumhurbaşkanı Erdoğan'dan istediği imzalı Arda Güler formasına kavuştu",
-    "source": "TRT Haber",
-    "time": "04/04/2026 01:13",
-    "link": "https://www.trthaber.com/haber/gundem/rizeli-safa-cumhurbaskani-erdogandan-istedigi-imzali-arda-guler-formasina-kavustu-940318.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ramazan Bayramı'nda Rize'de Güneysu Tenzile Erdoğan Devlet Hastanesine ziyarette bulunan Cumhurbaşkanı Recep Tayyip Erdoğan'dan imzalı Arda Güler forması talep eden 13 yaşındaki Safa Doruk Balaydın'ın isteği yerine getirildi.",
     "image": null,
     "keyword": null
   }
