@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4b452e2d",
+    "title": "Buşehr Nükleer Santrali’nde gerilim tırmanıyor: Rus personel bölgeden çıkarılıyor",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 17:14",
+    "link": "https://www.cumhuriyet.com.tr/dunya/busehr-nukleer-santrali-nde-gerilim-tirmaniyor-rus-personel-bolgeden-cikariliyor-2492369",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya’nın nükleer enerji şirketi Rosatom, İran’daki Buşehr Nükleer Santrali’nde görevli yaklaşık 200 personelin tahliye edildiğini açıkladı. Karar, tesis çevresine yönelik son saldırıların ardından geldi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9835cdc1-bdec-473a-8ab9-4c210bcea0ed.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a741b4fb",
     "title": "İstanbul'lara 3 milyon liralık yeni kredi: Kimler başvurabilir, kredi şartları neler? Ayrıntılar belli oldu",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe ile Beşiktaş, Trendyol Süper Lig'in 28. haftasında yarın oynanacak maçla 364. kez birbirlerine rakip olacak.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_27f2c114",
-    "title": "Trabzonspor Galatasaray maçı öncesi saha içi stratejiler ve muhtemel kadrolar masaya yatırıldı",
-    "source": "Haber61",
-    "time": "04/04/2026 16:13",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-galatasaray-maci-oncesi-saha-ici-stratejiler-ve-muhtemel-h628601.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Kritik maç öncesi Atatürk Alanı’ndan yapılan Haber61 TV canlı yayınında konuşan Şahin, iki takımda da önemli eksikler bulunduğunu söyledi. Şahin, maçın sonucunu orta saha performansı, oyun içi hamleler ve duran topların belirleyebileceğini ifade etti.",
-    "image": "https://resim.haber61.net/news/610879.jpg",
     "keyword": null
   }
 ]
