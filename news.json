@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c12160ba",
+    "title": "Çanakkale Valiliği'nden uyarı yapıldı",
+    "source": "Habertürk",
+    "time": "04/04/2026 12:15",
+    "link": "https://www.haberturk.com/canakkale-valiligi-nden-uyari-yapildi-3874640",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çanakkale'de etkili olan sağanağın ardından Atikhisar Barajı'nın doluluk oranı yüzde 100'e ulaşırken, Çanakkale Valiliği'nden uyarı yapıldı",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775226585/3874640/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_8660dd85",
     "title": "Trabzon’da Örnek Proje! Sokak Hayvanları İçin Seferberlik Çağrısı",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kentsel dönüşüm için hayata geçirilen ve 3 milyon liraya kadar destek sunan yeni finansman modelinin süreci hızlandıracağını belirten sektör temsilcileri, düşük faiz ve ödemesiz dönem avantajlarının sürece kritik katkı sunacağını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2699a0ab",
-    "title": "İstanbul Valiliğinden sahipsiz köpeklerin toplatılmasına ilişkin belediyelere yazı",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 11:53",
-    "link": "https://www.aa.com.tr/tr/guncel/istanbul-valiliginden-sahipsiz-kopeklerin-toplatilmasina-iliskin-belediyelere-yazi/3891419",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Valiliği, sahipsiz köpeklerin toplatılarak bakımevlerine götürülmesine ilişkin yükümlülüklerin yerine getirilmesi gerektiğini, mayıs ayı sonuna kadar ilçelerde görevini ihmal eden yönetimlerle ilgili adli sürecin başlatılacağını bildirdi.",
     "image": null,
     "keyword": null
   }
