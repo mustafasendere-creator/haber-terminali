@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_be8c02cf",
+    "title": "Küresel piyasalar yoğun veri gündemine odaklandı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 12:35",
+    "link": "https://www.trthaber.com/haber/dunya/kuresel-piyasalar-yogun-veri-gundemine-odaklandi-940350.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel piyasalarda geçen hafta ABD/İsrailİran Savaşı'na dair taraflardan gelen çelişkili açıklamalarla karışık bir seyir izlenirken, gelecek hafta gözler ABD'de enflasyon ve büyüme verilerinin yanı sıra ABD Merkez Bankasının Fed son toplantısının tutanaklarına çevrildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a8b353ed",
     "title": "Yerel yönetimlere sahipsiz köpek uyarısı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanı Çiftçi'den 'Erdoğan' çağrısı! Abdülhamid Han benzetmesi yaptı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/790jpg-Q-3qyWpaRky-PFuArdSwUw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_512194e0",
-    "title": "İran’dan dikkat çeken açıklama: ABD uçaklarını avlıyoruz",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 11:55",
-    "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-dikkat-ceken-aciklama-abd-ucaklarini-avliyoruz-2492289",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İranlı üst düzey bir komutan, ABD savaş uçaklarını “yeni yöntem ve ekipmanlarla avladıklarını” açıkladı. Açıklama, aynı gün bir F-15’in düşürülmesi ve bir A-10’un vurulmasının ardından gelirken, Tahran yönetimi hava savunma sistemlerindeki “yeniliklerin” etkili olduğunu savundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7d9e0f0a-74b9-4373-b3eb-6b6dfa1a5765.jpeg",
     "keyword": null
   }
 ]
