@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a421c809",
+    "title": "Akbelen'in sesi Esra Işık’ın tutukluluğuna itiraza ret",
+    "source": "Evrensel",
+    "time": "04/04/2026 12:14",
+    "link": "https://www.evrensel.net/haber/5978176/akbelenin-sesi-esra-isikin-tutukluluguna-itiraza-ret",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akbelen Ormanı’ndaki protesto sonrası tutuklanan Esra Işık’ın tutukluluğuna yapılan itiraz mahkeme tarafından reddedildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340966.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6121a81f",
     "title": "Prof. Dr. Hasan Hüsrev Hatemi son yolculuğuna uğurlandı",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Hazine ve Maliye Bakanlığı, jeopolitik ve bölgesel gelişmelerin etkisini minimize etmek amacıyla kredi garanti sistemi kapsamında turizm ve ihracat yapan sektörlere yönelik 120 milyar lira tutarında ilave kredi hacmini devreye alıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_895e59ba",
-    "title": "Küresel enerji piyasalarında fiyat hareketliliği sürüyor",
-    "source": "TRT Haber",
-    "time": "04/04/2026 11:34",
-    "link": "https://www.trthaber.com/haber/ekonomi/kuresel-enerji-piyasalarinda-fiyat-hareketliligi-suruyor-940356.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail'in 28 Şubat'ta İran'a yönelik başlattığı saldırılarda 5 hafta geride kalırken, küresel piyasalarda enerji fiyatlarındaki hareketlilik devam ediyor.",
     "image": null,
     "keyword": null
   }
