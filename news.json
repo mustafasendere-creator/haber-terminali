@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4a321fb",
+    "title": "Osmaniye’de elektrik ve doğal gaza yüzde 25 zam tepkisi: “Tavuklarımı satıp faturamı ödeyeceğim”",
+    "source": "Evrensel",
+    "time": "04/04/2026 13:34",
+    "link": "https://www.evrensel.net/haber/5978185/osmaniyede-elektrik-ve-dogal-gaza-yuzde-25-zam-tepkisi-tavuklarimi-satip-faturami-odeyecegim",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osmaniye’nin Kadirli ilçesinde elektrik ve doğalgaza gelen yüzde 25 zam, vatandaşları isyan ettirdi. Bazı yurttaşlar faturalarını ödeyebilmek için tavuklarını satmayı düşündüklerini açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/166367.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fe5b68ae",
     "title": "17 ülke, 300 sporcu Foça’da buluştu: Windsurf Techno 293 Dünya Şampiyonası açıldı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "A Haber (@ahaber) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "YRL_f638d9fd",
-    "title": "“Bravo” Hakemi Geri Döndü! Trabzonspor’un Unutmadığı Skandal Yeniden Gündemde",
-    "source": "Taka Gazetesi",
-    "time": "04/04/2026 12:54",
-    "link": "https://www.takagazete.com.tr/bravo-hakemi-geri-dondu-trabzonsporun-unutmadigi-skandal-yeniden-gundemde",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un geçtiğimiz sezon büyük tepki gösterdiği VAR kararı ve “Bravo” sözleriyle hafızalara kazınan hakem Erkan Engin yeniden sahneye çıktı. Bordo-mavili camiada eski tartışmalar yeniden alevlenirken, o maçta yaşananlar bir kez daha gündeme taşındı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/b-r-a-v-o-c-u-1.jpg",
-    "keyword": null
   }
 ]
