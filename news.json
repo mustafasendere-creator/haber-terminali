@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ec84d619",
+    "title": "Van'da 5.2 büyüklüğünde deprem",
+    "source": "Haber Global",
+    "time": "04/04/2026 13:14",
+    "link": "https://haberglobal.com/gundem/vanda-52-buyuklugunde-deprem-516924",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Van'da 5.2 büyüklüğünde bir deprem meydana geldi. Deprem çevre illerden de hissedilirken AFAD'dan yapılan açıklamada olumsuz bir duruma rastlanmadığı belirtildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/vanda-52-buyuklugunde-deprem-prr8.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_29dddb01",
     "title": "Afganistan’daki 5.9'luk depremde 8 kişi hayatını kaybetti",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey'in tutuklanmasına CHP'den \"Bursa’da halkımızın vermediği yetkiyi zorbalıkla alıyorlar. Halkın verdiğin oyun bu iktidar için bir önemi yok\" tepkisi geldi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9acfbe4a-7328-4e08-90d5-c860144b9b10.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1a02b6a6",
-    "title": "İBB Davası'nda kamerayla gözetleme... Bakırköy Cumhuriyet Başsavcılığı'ndan dikkat çeken açıklama!",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 12:35",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ibb-davasi-nda-kamerayla-gozetleme-bakirkoy-cumhuriyet-bassavciligi-ndan-dikkat-ceken-aciklama-2492298",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB Spor Kulübü Başkanı Fatih Keleş'in avukatı Baran Kaya, duruşma salonuna yeni siyah kameralar takıldığını ve bu yöntemle gözetlendiklerini belirtmişti. Konuya ilişkin açıklama yapan Bakırköy Cumhuriyet Başsavcılığı, söz konusu uygulamanın avukatları gözetleme amacı taşımadığını ve 'görüntüleme güvenlik sistemlerinin iyileştirilmesi' için yapıldığını savundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/00a13900-e689-446a-99ea-8c6c98aef662.jpg",
     "keyword": null
   }
 ]
