@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f1e02e84",
+    "title": "Birleşik Kamu-İş’ten enerji zamlarına tepki",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 02:13",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/birlesik-kamu-is-ten-enerji-zamlarina-tepki-2492410",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Kamu-İş, EPDK kararıyla elektrik ve doğal gaza yapılan yüzde 25’lik zamma tepki gösterdi. Sendika, artışların dar gelirli vatandaş üzerindeki yükü artıracağını belirterek zamların geri çekilmesini istedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/842592fa-4d2f-4af2-abab-0bcbae589e59.png",
+    "keyword": null
+  },
+  {
     "id": "GND_7590fa15",
     "title": "Akbelen'in sesi Esra Işık’ın tutukluluğuna itiraza ret",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye’de yer altı zenginlikleri sermayeye peşkeş çekiliyor. Maden projeleri ormanları, tarım arazilerini, hayvancılığı ve doğayı katlediyor. Ülkenin dört bir yanında ise halk maden şirketlerinin katliamlarına karşı direnişte.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341596.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ed48d39a",
-    "title": "Emperyalist savaşın faturası: Doğalgaza ve elektriğe en az yüzde 25 zam. Sermayeye maliyet ‘yönetimi’, bedel halka ‘yönlendirildi’",
-    "source": "Evrensel",
-    "time": "05/04/2026 00:33",
-    "link": "https://www.evrensel.net/haber/5978236/emperyalist-savasin-faturasi-dogalgaza-ve-elektrige-en-az-yuzde-25-zam-sermayeye-maliyet-yonetimi-bedel-halka-yonlendirildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elektriğe yapılan fahiş zamlar, ekonomi yönetiminin yüzde 18’lik enflasyon hedefiyle açıkça çelişiyor. Tarımsal üretime yapılan yüzde 24.8’lik zam, halkın sofrasındaki gıda enflasyonunu daha da körükleyecek.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341613.jpg",
     "keyword": null
   }
 ]
