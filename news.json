@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5ee5c0d7",
+    "title": "Ankara'da özel halk otobüsü üst geçide çarptı: 5 ölü, 15 yaralı",
+    "source": "Haber Global",
+    "time": "04/04/2026 12:15",
+    "link": "https://haberglobal.com/gundem/ankarada-ozel-halk-otobusu-ust-gecide-carpti-5-olu-15-yarali-516942",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Kahramankazan ilçesinde özel halk otobüsünün köprü direğine çarptığı kazada 5 kişi hayatını kaybederken, 15 kişi de yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/ankarada-ozel-halk-otobusu-ust-gecide-carpti-4-olu-iyfn.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_718f4d14",
     "title": "Sektör temsilcileri yeni finansman paketinin \"kentsel dönüşümü hızlandıracağını\" açıkladı",
     "source": "İHA Trabzon",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Vakfıkebir ilçesinde 19 yaşındaki Sude Ömür, geçirdiği ani rahatsızlık sonucu yaşamını yitirdi. Genç yaşta hayatını kaybeden Ömür’ün ölümü ilçede derin üzüntüye neden oldu.",
     "image": "https://resim.haber61.net/news/610798.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_76c76016",
-    "title": "Sazan sarmalı operasyonunda 21 tutuklama",
-    "source": "Habertürk",
-    "time": "04/04/2026 11:35",
-    "link": "https://www.haberturk.com/corum-da-sazan-sarmali-operasyonu-21-kisi-tutuklandi-3874666",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çorum merkezli 5 ilde internet üzerinden 'sazan sarmalı' yöntemiyle dolandırıcılık yapan suç örgütüne yönelik düzenlenen operasyonda gözaltına alınan 23 şüphelinden 21'i tutuklandı",
-    "image": "https://im.haberturk.com/l/2026/04/03/ver1775233977/3874666/jpg/1280x1280",
-    "keyword": null
   }
 ]
