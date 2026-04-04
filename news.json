@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cfdad53c",
+    "title": "Otoyolda zincirleme kaza: 10 araç birbirine girdi, yaralılar var!",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 15:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/otoyolda-zincirleme-kaza-10-arac-birbirine-girdi-yaralilar-var-2492330",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu’nun Gerede ilçesi Anadolu Otoyolu’nda yağmur nedeniyle kayganlaşan yolda 10 aracın karıştığı zincirleme trafik kazasında 6 kişi yaralandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/97fac741-8f4f-420e-825e-93f31827c1a2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6e4e510e",
     "title": "Büşra Taş'ın ölümü: ATK raporu belli oldu, tekne sahibi tutuklandı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bulgaristan'da etkili olan yağışların ardından Edirne'deki nehirlerde su seviyesi artışa geçti. Meriç ve Tunca nehirleri için 'sarı alarm' verildi. Taşkın riski nedeniyle dün kapatılan Kırkpınar Yağlı Güreşleri'nin yapıldığı Sarayiçi'ne, giriş yasağı sürüyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/edirnede-debisi-artan-meric-ve-tunca-nehirler-icin-sari-alarm-verildi-0gy2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0ba76c4a",
-    "title": "Ukrayna Devlet Başkanı Zelenski'den Türkiye'ye ziyaret",
-    "source": "Haber Global",
-    "time": "04/04/2026 14:54",
-    "link": "https://haberglobal.com/gundem/ukrayna-devlet-baskani-zelenskiden-turkiyeye-ziyaret-516985",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Türkiye'de bugün resmi temaslarda bulunacak.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/ukrayna-devlet-baskani-zelenskiden-turkiyeye-ziyaret-1juv.jpg",
     "keyword": null
   }
 ]
