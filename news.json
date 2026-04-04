@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa07bd51",
+    "title": "Ukrayna: Rus ordusunun düzenlediği İHA saldırılarında 5 kişi öldü ve 29 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 13:34",
+    "link": "https://www.trthaber.com/haber/dunya/ukrayna-rus-ordusunun-duzenledigi-iha-saldirilarinda-5-kisi-oldu-ve-29-kisi-yaralandi-940377.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rus ordusunun Ukrayna'nın farklı bölgelerine yönelik gerçekleştirdiği hava saldırılarında 5 kişinin öldüğü ve 29 kişinin yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ff991f66",
     "title": "IRNA: ABDİsrail, Huzistan eyaletinde petrokimya şirketlerinin bulunduğu sanayi bölgelerine saldırdı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8cd516fc",
-    "title": "Katil İsrail saldırısı nedeniyle Gazze'de 500 bin kişi içme suyundan mahrum kaldı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 12:55",
-    "link": "https://www.trthaber.com/haber/dunya/katil-israil-saldirisi-nedeniyle-gazzede-500-bin-kisi-icme-suyundan-mahrum-kaldi-940367.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazze Şeridi'nin Han Yunus kentindeki arıtma tesisine giden elektrik hattının İsrail hava saldırısında hasar görmesi sonucu bölgedeki 500 bin Filistinli içme suyundan mahrum kaldı.",
     "image": null,
     "keyword": null
   }
