@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6191c1d6",
+    "title": "Van'da 5,2 büyüklüğünde deprem oldu",
+    "source": "TRT Haber",
+    "time": "04/04/2026 09:14",
+    "link": "https://www.trthaber.com/haber/gundem/vanda-52-buyuklugunde-deprem-oldu-940337.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Van'ın Tuşba ilçesinde 5,2 büyüklüğünde deprem meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e55d2c0c",
     "title": "Nalin Öztekin: İslami bahçe",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/ahmet-kazaz-2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8406aac9",
-    "title": "Avustralyalı girişim, veri merkezini insan beyin hücreleriyle çalıştırdı",
-    "source": "Euronews",
-    "time": "04/04/2026 08:13",
-    "link": "http://tr.euronews.com/next/2026/04/04/avustralyali-girisim-veri-merkezini-insan-beyin-hucreleriyle-calistirdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eskiden aylar hatta yıllar süren özel laboratuvar çalışmaları, entegre platformu sayesinde artık birkaç saat ya da gün içinde tamamlanabiliyor.",
-    "image": null,
     "keyword": null
   }
 ]
