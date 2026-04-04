@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b2ef6279",
+    "title": "Irak’ta petrol sahasına İHA saldırısı",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 01:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/irak-ta-petrol-sahasina-iha-saldirisi-2492419",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak’ın güneyindeki Meysan vilayetinde faaliyet gösteren ve ABD’li bir şirket tarafından işletilen Buzurgan petrol sahasına 6 adet insansız hava aracı (İHA) ile saldırı düzenlendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b93874bc-35f0-4446-bd49-bedef6968c6d.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_76751dbb",
     "title": "Sol Parti Trabzon İl Başkanı Sayın Bilal Akcelep ve beraberindeki yönetim kurulu üyelerini il başkanlığımızda ağırladık. Görüşmemizde ülke gündemi ve Trabzon’un yerel sorunları üzerine kapsamlı değerlendirmelerde bulunarak karşılıklı fikir alışverişi gerçekle - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump sosyal medya hesabından yaptığı açıklamada, &quot;Üçüncü dünyayı ithal ederseniz, üçüncü dünya olursunuz. Ben başkan olduğum sürece ABD&#039;de böyle bir şey olmayacak&quot; dedi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/trump-baskan-oldugum-surece-abd-ucuncu-dunya-ulkesi-olmayacak-juo2_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_37fff4ea",
-    "title": "Trump: Tahran'a yönelik büyük bir saldırı gerçekleştirdik",
-    "source": "Ekonomim",
-    "time": "05/04/2026 00:15",
-    "link": "https://www.ekonomim.com/dunya/trump-tahrana-yonelik-buyuk-bir-saldiri-gerceklestirdik-haberi-886086",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, Tahran&#039;a yönelik büyük bir saldırı gerçekleştirildiğini duyurdu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/trumptan-irana-uyari-sirada-kopruler-ardindan-elektrik-santralleri-var-ez5o_cover.jpg",
     "keyword": null
   }
 ]
