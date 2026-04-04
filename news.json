@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_195044c5",
+    "title": "Iran medyası: Başkent Tahran'da patlama meydana geldi",
+    "source": "Evrensel",
+    "time": "04/04/2026 04:33",
+    "link": "https://www.evrensel.net/haber/5978151/iran-medyasi-baskent-tahran-da-patlama-meydana-geldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail saldırıları altındaki İran'ın başkenti Tahran'ın kuzeyinde patlama meydana geldi. Sivil araçlar ve evlerin zarar gördüğü patlamada 1 kişi hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340788.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_372317d1",
     "title": "İsrail ordusu, Beyrut'a hava saldırıları düzenledi; 1 kişi hayatını kaybetti",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Sarı kart cezalısı Oulai’nin yokluğunda gözler Ozan Tufan ile Benjamin Bouchouari’ye çevrilirken, iki oyuncunun sezonun genelinde ve son haftalardaki performansları teknik heyetin kararında belirleyici olacak.",
     "image": "https://resim.haber61.net/news/610702.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_f002a97f",
-    "title": "Karadeniz turizmine savaş etkisi: Yeni fırsatlar gündemde",
-    "source": "Haber61",
-    "time": "04/04/2026 01:13",
-    "link": "https://www.haber61.net/trabzon/karadeniz-turizmine-savas-etkisi-yeni-firsatlar-gundemde-h628498.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Üniversitesi’nde düzenlenen konferansta, Körfez’de yaşanan savaşın Karadeniz turizmine dolaylı fırsatlar sunabileceği değerlendirildi. Sektör temsilcileri, bölgenin güvenli destinasyon olarak öne çıktığını vurguladı.",
-    "image": "https://resim.haber61.net/news/610704.jpg",
     "keyword": null
   }
 ]
