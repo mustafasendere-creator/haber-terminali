@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f7df28d7",
+    "title": "Arnavutköy'de hafriyat kamyonunun çarptığı kadın hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 11:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-hafriyat-kamyonunun-carptigi-kadin-hayatini-kaybetti-2492284",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Arnavutköy ilçesinde hafriyat kamyonunun çarptığı yaya hayatını kaybetti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/cf34b951-2273-40bf-a8e1-e393949578da.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_bdcd14d3",
     "title": "TTSO Bölgesel Sağlık Turizmi Projesi’nin hazırlıklarını sürdürüyor",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediyesi tarafından düzenlenen ‘Trabzon Turizm Master Planı Çalıştayı’ bugün başladı. Geniş katılımla gerçekleştirilen çalıştayda, şehrin turizm geleceği masaya yatırılıyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/gdkmfgmkdfmkgdfg.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_34d49513",
-    "title": "Mardin'de sağanak öncesi çıkan hortum herkesi korkuttu!",
-    "source": "Haber Global",
-    "time": "04/04/2026 10:34",
-    "link": "https://haberglobal.com/gundem/mardinde-saganak-oncesi-cikan-hortum-herkesi-korkuttu-516926",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mardin'in Kızıltepe ilçesinde sağanak yağış öncesi oluşan hortum, cep telefonu kamerasıyla kaydedildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/mardinde-saganak-oncesi-cikan-hortum-herkesi-korkuttu-jauz.jpg",
-    "keyword": null
   }
 ]
