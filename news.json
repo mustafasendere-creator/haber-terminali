@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7705e4f5",
+    "title": "Manchester City Liverpool'u darmaduman etti",
+    "source": "OdaTV",
+    "time": "04/04/2026 17:56",
+    "link": "https://www.odatv.com/spor/manchester-city-liverpoolu-darmaduman-etti-120142084",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manchester City, FA Cup çeyrek finalinde Liverpool’u 4-0 mağlup ederek yarı finale çıktı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/manchester-city-liverpoolu-darmaduman-etti-uebi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a255bef4",
     "title": "Turizm ve ihracata 120 milyarlık kredi desteği",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da Anadolu Gençlik Derneği ve Milli Gençlik Vakfı öncülüğünde düzenlenen yürüyüşte, Filistin’e destek ve bölgedeki gelişmelere tepki mesajları verildi. Uzun Sokak’tan başlayan yürüyüş, Meydan Parkı’nda sona erdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/s-a-y-f-f-f.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_09c294ae",
-    "title": "İsrail'den Lübnan'a tahliye uyarısı, hastanede ağır hasar",
-    "source": "DW Türkçe",
-    "time": "04/04/2026 17:14",
-    "link": "https://www.dw.com/tr/israil-den-lübnan-a-tahliye-uyarısı-hastanede-ağır-hasar/a-76662077",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in, Lübnan'ın Sur kentine yönelik tahliye uyarısının ardından bölgede bir hastane saldırılarda hasar gördü.",
-    "image": null,
-    "keyword": null
   }
 ]
