@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_030e8655",
+    "title": "Enerji, gıda ve finans piyasalarında savaş depremi",
+    "source": "TRT Haber",
+    "time": "04/04/2026 09:14",
+    "link": "https://www.trthaber.com/haber/gundem/enerji-gida-ve-finans-piyasalarinda-savas-depremi-940336.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in 28 Şubat'ta İran'a saldırısıyla tırmanan savaş, küresel ticaret ve finansta derin bir krize yol açtı. UNCTAD, krizin enerjiyi aşarak gıda güvenliği ve küresel büyümeyi de tehdit ettiği uyarısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6191c1d6",
     "title": "Van'da 5,2 büyüklüğünde deprem oldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İklim krizinin körüklediği aşırı hava olayları, kuzu eti fiyatları hızla yükselmeye devam ederken, çiftçiler için 'en büyük sınav' haline geliyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_73b4b6cc",
-    "title": "Trabzon Ticaret ve Sanayi Odası Başkan Adaylarından Ahmet Kazaz Konuştu: ‘Katma değeri yüksek üretime yoğunlaşmalıyız’",
-    "source": "Taka Gazetesi",
-    "time": "04/04/2026 08:13",
-    "link": "https://www.takagazete.com.tr/trabzon-ticaret-ve-sanayi-odasi-baskan-adaylarindan-ahmet-kazaz-konustu-katma-degeri-yuksek-uretime-yogunlasmaliyiz",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/ahmet-kazaz-2.jpg",
     "keyword": null
   }
 ]
