@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41b832fa",
+    "title": "Ukrayna Devlet Başkanı Zelenski'den Türkiye'ye ziyaret",
+    "source": "TRT Haber",
+    "time": "04/04/2026 15:34",
+    "link": "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenskiden-turkiyeye-ziyaret-940381.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Türkiye'de bugün resmi temaslarda bulunacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_6a533630",
     "title": "‘Trabzon’un Kayıp Yılları: Muhacirlik’ tiyatrosu Ankara sahnesinde",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor-Galatasaray maçı öncesi Meydan Parkı'ndan canlı yayın.",
     "image": "https://resim.haber61.net/news/610843.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_5d5ac5a5",
-    "title": "Aile Akademi Platformu'ndan 67 bin 754 kişi yararlandı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 14:54",
-    "link": "https://www.trthaber.com/haber/turkiye/aile-akademi-platformundan-67-bin-754-kisi-yararlandi-940387.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, aile eğitimi, evlilik, sağlık, çocuk ve genç gelişimi ile mahremiyet bilinci gibi başlıklarda eğitimlerin yer aldığı Aile Akademi Platformu'ndan bugüne kadar 67 bin 754 kişinin yararlandığını bildirdi.",
-    "image": null,
-    "keyword": null
   }
 ]
