@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e02a9f72",
+    "title": "Bugün hangi maçlar var?",
+    "source": "Habertürk",
+    "time": "04/04/2026 10:35",
+    "link": "https://www.haberturk.com/3-nisan-cuma-gunu-maclari-bugun-hangi-maclar-var-bugun-kimin-maci-var-hangi-maclar-oynanacak-hangi-kanalda-yayinlanacak-3874473",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Futbolseverler için heyecanlı bekleyiş sona eriyor. Dünya Kupası play-off eleme maçları nedeniyle ertelenen ligler bu hafta başlıyor. Avrupa liglerinden Orta Doğu’ya kadar birçok kritik karşılaşma oynanacak. Peki bugün hangi maçlar var? İşte 3 Nisan maçları...",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775198817/3874473/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ee457df9",
     "title": "İSKİ 3 Nisan barajlardaki son durum",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Trabzon’da düzenlenecek AK Parti İl Danışma Meclisi Toplantısı’na katılacak.",
     "image": "https://resim.haber61.net/news/610772.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_8084c732",
-    "title": "Ernest Muçi suskunluğunu Galatasaray karşısında bozmak istiyor",
-    "source": "Haber61",
-    "time": "04/04/2026 09:54",
-    "link": "https://www.haber61.net/trabzonspor/ernest-muci-suskunlugunu-galatasaray-karsisinda-bozmak-istiyor-h628545.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor ile Galatasaray karşı karşıya geliyor.",
-    "image": "https://resim.haber61.net/news/610774.jpg",
     "keyword": "trabzon"
   }
 ]
