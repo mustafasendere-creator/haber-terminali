@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1333e95e",
+    "title": "BAE’deki Habşan gaz tesislerine saldırı: Can kaybı var!",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 08:53",
+    "link": "https://www.cumhuriyet.com.tr/dunya/bae-deki-habsan-gaz-tesislerine-saldiri-can-kaybi-var-2492244",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri’nin başkenti Abu Dabi’deki Habşan gaz tesislerine düzenlenen saldırıda 1 kişinin hayatını kaybettiği bildirildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9294f9ab-ffee-4d19-a7fb-b7284eb9a212.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_c1494f45",
     "title": "Süper Lig'de derbi haftası: Trabzonspor-Galatasaray ve Fenerbahçe-Beşiktaş maçları oynanacak",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD, Kongre onayı olmadan, NATO veya NATO'ya alternatif bir ittifakın desteğini almadan, yalandan da olsa bir BM kararına dayanmadan, savaş ilan etmeden ve dünya kamuoyuna bir \"çıkış stratejisi\"...Devamı için tıklayınız",
     "image": "",
-    "keyword": null
-  },
-  {
-    "id": "GND_611fcb00",
-    "title": "Erdoğan'ı kışkırtmaya çalışan: Günümüz Rasputinleri",
-    "source": "OdaTV",
-    "time": "04/04/2026 07:14",
-    "link": "https://www.odatv.com/ozel/recep-tayyip-erdogani-kiskirtmaya-calisan-gunumuz-rasputinleri-120141966",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Faik Alkan yazdı...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/recep-tayyip-erdogani-kiskirtmaya-calisan-gunumuz-rasputinleri-rkx6.jpg",
     "keyword": null
   }
 ]
