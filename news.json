@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_390da1e2",
+    "title": "Süper Lig'de zirve yarışı alev aldı... Trabzonspor dev maçta Galatasaray'ı 2 golle yıktı!",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 22:15",
+    "link": "https://www.cumhuriyet.com.tr/spor/super-lig-de-zirve-yarisi-alev-aldi-trabzonspor-dev-macta-galatasaray-i-2-golle-yikti-2492370",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor, sahasında Galatasaray'ı 2-1 yendi ve şampiyonluk yarışına 'devam' dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/00460c00-8f93-4749-a9c7-55545ea61787.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a442f77f",
     "title": "Son dakika... Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey görevden uzaklaştırıldı",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Yeryüzünün manyetik alanı ile Güneş'ten gelen yüklü parçacıkların etkileşimi sonucu ortaya çıkan Kuzey Işıkları (Aurora Borealis), Alaska'da görüntülendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fe67ae85",
-    "title": "ABD/İsrail-İran Savaşı'na dahil olan Yemen'deki Husiler bir kez daha İsrail'e füze fırlattı",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 21:33",
-    "link": "https://www.aa.com.tr/tr/guncel/abd-israil-iran-savasina-dahil-olan-yemendeki-husiler-bir-kez-daha-israile-fuze-firlatti/3892102",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail'in İran'a saldırılarıyla başlayan savaşa dahil olan Yemen'deki Husiler, İsrail'e füze saldırısında bulundu.",
     "image": null,
     "keyword": null
   }
