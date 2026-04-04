@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ffef25aa",
+    "title": "Meteoroloji saat verdi! 21 kent için \"sarı\" alarm! Tüm bölgeler yağışlı!",
+    "source": "Habertürk",
+    "time": "04/04/2026 08:34",
+    "link": "https://www.haberturk.com/hava-durumu-istanbul-meteoroloji-saat-verdi-21-kent-icin-sari-alarm-3874725",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji'den alınan bilgiye göre bugün yurt genelinde yağış bekleniyor. 21 kent içinse \"sarı\" alarm verilerek uyarıda bulunuldu. Hava sıcaklıklarının ülkemiz genelinde mevsim normalleri civarında seyredeceği tahmin ediliyor. İşte illerimizde hava durumu...",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775275862/3874725/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8599a629",
     "title": "Genç kadın otel odasında ölü bulundu",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş'ın Onikişubat ilçesinde 4 kişinin darp ettiği şahıs, pompalı tüfekle ateş açılması sonucu ağır yaralandı. Olayla ilgili 4 şüpheli yakalanarak gözaltına alındı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/kahramanmarasta-pompali-saldiri-1-agir-yarali-4-gozalti-cj8c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_eaffe65e",
-    "title": "Ehliyet sınavında joker operasyonu: 14 kişi tutuklandı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 07:13",
-    "link": "https://www.trthaber.com/haber/turkiye/ehliyet-sinavinda-joker-operasyonu-14-kisi-tutuklandi-940323.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tokat merkezli 2 ilde düzenlenen operasyonda, ehliyet sınavlarında usulsüzlük yaptıkları iddiasıyla gözaltına alınan 17 şüpheliden 14'ü tutuklandı.",
-    "image": null,
     "keyword": null
   }
 ]
