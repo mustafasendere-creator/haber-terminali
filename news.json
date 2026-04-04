@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_429d677c",
+    "title": "Süper Lig'de derbi haftası",
+    "source": "TRT Haber",
+    "time": "04/04/2026 06:14",
+    "link": "https://www.trthaber.com/haber/turkiye/super-ligde-derbi-haftasi-940324.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig'in 28. haftasında derbi heyecanı yaşanacak. Şampiyonluk yarışını yakından ilgilendiren derbilerde TrabzonsporGalatasaray ve FenerbahçeBeşiktaş maçları oynanacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6adf85a7",
     "title": "İran'ın Fars Haber Ajansı: ABD geçici ateşkes önerdi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Transfer çalışmalarına başlayan Beşiktaş'ın, Gençlerbirliği'nde forma giyen Kamerun asıllı İtalyan orta saha oyuncusu Franco Tongya ile ilgilendiği iddia edildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c1cc8e45-1e7a-4e27-b64c-250efb8877a9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0f5def83",
-    "title": "Hatay'da minibüs devrildi: 2 yaralı",
-    "source": "Haber Global",
-    "time": "04/04/2026 01:53",
-    "link": "https://haberglobal.com/gundem/hatayda-minibus-devrildi-2-yarali-516899",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hatay Kırıkhan'da sürücüsünün direksiyon hakimiyetini kaybetmesiyle devrilen minibüsteki 2 kişi yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/hatayda-minibus-devrildi-2-yarali-4x9w.jpg",
     "keyword": null
   }
 ]
