@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0c902128",
+    "title": "'Türkiye güvenli liman'",
+    "source": "Habertürk",
+    "time": "04/04/2026 11:55",
+    "link": "https://www.haberturk.com/cumhurbaskani-yardimcisi-yilmaz-dan-guvenli-liman-turkiye-paylasimi-3874694",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye, krizleri derinleştiren değil çözüm üreten, gerilimden beslenen değil diplomasiyi önceleyen yaklaşımıyla bir 'istikrar merkezi' ve 'güvenli liman' olma vasfını her geçen gün daha da güçlendirmektedir\" ifadesini kullandı",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775245597/3874694/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_c9abc0dd",
     "title": "Trabzon'da Mescid-i Aksa İçin Basın Açıklaması",
     "source": "Karadeniz Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor ile Galatasaray arasında oynanacak dev derbi öncesi geri sayım tamamlandı. Bordo-mavililer için bu mücadele yalnızca 3 puan değil; uzun süredir devam eden kötü seriyi bitirme ve camiaya yeniden umut aşılama maçı olarak görülüyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/t-a-r-a-f-t-a-r-57.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c09c3f76",
-    "title": "Bakan Bolat'tan 'Güvenli Liman Türkiye' vurgusu",
-    "source": "Habertürk",
-    "time": "04/04/2026 11:15",
-    "link": "https://www.haberturk.com/bakan-bolat-tan-guvenli-liman-turkiye-vurgusu-3874676",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin krizlerin ortasında istikrarını koruduğuna ve uluslararası ticaret için güvenli liman olduğuna dikkati çekerek, tedarik zincirlerinin kesintisiz işlemesi ve ihracatçıların yeni pazarlara ulaşımının kolaylaştırılması gibi konularda çalışmalarını kararlılıkla sürdürdüklerini vurguladı.",
-    "image": "https://im.haberturk.com/l/2026/04/03/ver1775239439/3874676/jpg/1280x1280",
-    "keyword": null
   }
 ]
