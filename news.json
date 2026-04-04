@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ee457df9",
+    "title": "İSKİ 3 Nisan barajlardaki son durum",
+    "source": "Habertürk",
+    "time": "04/04/2026 10:35",
+    "link": "https://www.haberturk.com/iski-3-nisan-2026-barajlardaki-son-durum-istanbul-baraj-doluluk-orani-yuzde-kac-oldu-istanbul-barajlarinin-guncel-verileri-3874486",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da baraj doluluk oranları, su kaynaklarının durumu açısından vatandaşlar tarafından yakından izlenmeye devam ediyor. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) tarafından her gün düzenli olarak paylaşılan veriler, kentin su rezervlerindeki son durumu ortaya koyuyor. Özellikle mevsimsel yağışların etkisi, sıcaklık değişimleri ve su tüketimindeki artış gibi faktörler, barajlardaki doluluk oranlarını doğrudan etkiliyor. Peki, 3 Nisan 2026 İstanbul baraj doluluk oranı yüzde kaç oldu? İşte tüm detaylar...",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775200455/3874486/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_89103ac8",
     "title": "2026 EKPSS sınavı ne zaman?",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor ile Galatasaray karşı karşıya geliyor.",
     "image": "https://resim.haber61.net/news/610774.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_785d6707",
-    "title": "Beşiktaş, derbide yarın Fenerbahçe'nin konuğu",
-    "source": "Haber Global",
-    "time": "04/04/2026 09:54",
-    "link": "https://haberglobal.com/spor/besiktas-derbide-yarin-fenerbahcenin-konugu-516927",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beşiktaş, Trendyol Süper Lig'in 28. haftasında yarın deplasmanda Fenerbahçe ile karşı karşıya gelecek.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/besiktas-derbide-yarin-fenerbahcenin-konugu-pvcx.jpg",
-    "keyword": null
   }
 ]
