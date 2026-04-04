@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_472d75f4",
+    "title": "Trump’tan, Hürmüz Boğazı'nın açılması için İran’a tehdit: \"Üzerlerine kıyametin kopmasına 48 saat kaldı",
+    "source": "Evrensel",
+    "time": "04/04/2026 20:54",
+    "link": "https://www.evrensel.net/haber/5978244/trump-tan-hurmuz-bogazi-nin-acilmasi-icin-iran-a-tehdit-uzerlerine-kiyametin-kopmasina-48-saat-kaldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'a anlaşmaya yanaşarak Hürmüz Boğazı'nı açması için verdiği sürenin daraldığını öne sürerek, \"Üzerlerine kıyametin kopmasına 48 saat kaldı.\" ifadesini kullandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/338180.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_2ecf1592",
     "title": "Trabzonspor'dan Galatasaray maçında özel koreografi: 'Paraya karşı emeğin savaşı'",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Mersin'in Tarsus ilçesinde şelaleye girdikten sonra kaybolan 18 yaşındaki genç için arama çalışması başlatıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341638.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_def4571d",
-    "title": "TFF Başkanı Hacıosmanoğlu'ndan canlı yayında Haber61'e villa sözü açıklaması",
-    "source": "Haber61",
-    "time": "04/04/2026 20:14",
-    "link": "https://www.haber61.net/trabzonspor/tff-baskani-haciosmanoglundan-canli-yayinda-haber61e-villa-sozu-h628616.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor – Galatasaray derbisi öncesi Papara Park’ta Haber61 canlı yayınına katılan TFF Başkanı İbrahim Hacıosmanoğlu, hem Türk futbolunun hedeflerine hem de gündemdeki tartışmalara ilişkin çarpıcı açıklamalarda bulundu.",
-    "image": "https://resim.haber61.net/news/610911.jpg",
-    "keyword": "trabzon"
   }
 ]
