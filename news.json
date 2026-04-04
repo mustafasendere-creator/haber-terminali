@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_020122e7",
+    "title": "Kahramankazan'da minibüs üst geçidin ayağına çarptı: 5 ölü, 14 yaralı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 12:35",
+    "link": "https://www.trthaber.com/haber/turkiye/kahramankazanda-minibus-ust-gecidin-ayagina-carpti-5-olu-14-yarali-940346.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Kahramankazan ilçesinde minibüsün üst geçidin ayağına çarpması sonucu ilk belirlemelere göre 5 kişi hayatını kaybetti, 14 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_be8c02cf",
     "title": "Küresel piyasalar yoğun veri gündemine odaklandı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor ile Galatasaray arasında oynanacak dev derbi, Süper Lig’de zirve yarışının kaderini belirleyecek. Bordo-mavililer uzun süredir süren derbi hasretine son vermek isterken, Galatasaray kritik deplasmandan galibiyetle dönerek şampiyonluk yolunda avantajını korumayı hedefliyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/h-e-s-a-p-p-p-1.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_42cafd65",
-    "title": "İçişleri Bakanı Çiftçi'den 'Erdoğan' çağrısı! Abdülhamid Han benzetmesi yaptı",
-    "source": "Sözcü",
-    "time": "04/04/2026 11:55",
-    "link": "https://www.sozcu.com.tr/icisleri-bakani-ciftci-den-erdogan-cagrisi-abdulhamid-han-benzetmesi-yapti-p307330",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanı Çiftçi'den 'Erdoğan' çağrısı! Abdülhamid Han benzetmesi yaptı",
-    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/790jpg-Q-3qyWpaRky-PFuArdSwUw.jpg",
-    "keyword": null
   }
 ]
