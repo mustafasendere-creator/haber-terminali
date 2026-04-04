@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3fdf325b",
+    "title": "Türkiye’nin üzerinden geçen maden silindiri",
+    "source": "Evrensel",
+    "time": "04/04/2026 07:34",
+    "link": "https://www.evrensel.net/haber/5978110/turkiye-nin-uzerinden-gecen-maden-silindiri",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MAPEG'in 25 Mart’ta başlayan ve 10 Nisan’da tamamlanacak olan ihale sürecinin ilk dört gününde'18 ilde 80 ruhsat sahası satıldı.'Toplam alan 92 bin 215 hektara ulaşarak, 2025 yılı boyunca satılan toplam ruhsat alanını geride bıraktı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340896.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bbafae21",
     "title": "Adana’da Ruh Sağlığı Hastanesi'nde hijyen sorunu: Tutulan 10 tutanağa rağmen işlem yapılmadı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "NATO, 77 yıl önce bugün kuruldu. İttifaka yönelik Türkiye’deki ve dünyadaki tartışmaları Cumhuriyet’e değerlendiren emekli büyükelçi Hüseyin Diriöz, “Trump’ın söylemleri caydırıcılığa zarar veriyor, ama çok ileriye gideceğini sanmıyorum. Temmuzda Ankara’da gerçekleşecek NATO Zirvesi ise Türkiye ile Avrupa’yı güvenlik açısından yakınlaştırabilir” dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/54946df9-71b6-4092-98e7-98cc600cab1d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d81df123",
-    "title": "Eşim aldatıyor mu, beni mi istemiyor",
-    "source": "10Haber",
-    "time": "04/04/2026 05:33",
-    "link": "https://10haber.net/yazarlar/irem-hattat/esim-aldatiyor-mu-beni-mi-istemiyor-692234/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Merhaba İrem Hanım, Ben 36 yaşında, 7 yıllık evli bir kadınım. Son birkaç aydır eşimin bir iş arkadaşıyla yakınlaştığından neredeyse eminim. Net bir kanıtım yok ama davranışları değişti; daha mesafeli, daha dalgın. Ama beni asıl sarsan şey şu oldu: Geçen gün özellikle hazırlanmak istedim. Uzun zamandır ilk kez kendimi seksi hissettiğim bir akşamdı. Sırtını dönüp [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2025/10/cinsel.jpg",
     "keyword": null
   }
 ]
