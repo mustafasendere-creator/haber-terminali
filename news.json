@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_94bbe81f",
+    "title": "Meteoroloji uyardı: Sağanak, rüzgâr, çığ ve toz taşınımı kapıda (03.04.2026)",
+    "source": "Evrensel",
+    "time": "04/04/2026 09:53",
+    "link": "https://www.evrensel.net/haber/5978153/meteoroloji-uyardi-saganak-ruzgar-cig-ve-toz-tasinimi-kapida-03-04-2026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji’nin 4 Nisan raporuna göre yurdun büyük bölümünde sağanak bekleniyor. Ege kıyılarında kuvvetli yağış ve rüzgâr, Doğu’da çığ, Güneydoğu’da toz taşınımı uyarısı yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341380.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_64b4455e",
     "title": "Anaokullarını geçti: Diyanet kurslarına milyonluk harcama",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da simide yapılan zam sonrası gözler ekmeğe çevrildi. Fırıncılar maliyet artışına dikkat çekerken, yeni fiyat tarifesi için iki farklı senaryo öne çıkıyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/gundem3.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_35f640c0",
-    "title": "NASA, Dünya'nın uzaydan çekilmiş yeni görüntülerini yayınladı",
-    "source": "Ekonomim",
-    "time": "04/04/2026 08:54",
-    "link": "https://www.ekonomim.com/sektorler/teknoloji/nasa-dunyanin-uzaydan-cekilmis-yeni-goruntulerini-yayinladi-haberi-885972",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Havacılık ve Uzay Ajansının (NASA) 50 yılı aşkın sürenin ardından Ay&#039;a ilk yolculuğunu başlatan Artemis II görevinde yer alan mürettebat, Ay&#039;a doğru yol alırken Dünya&#039;nın uzaydan çekilmiş 2 yeni görüntüsünü paylaştı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/nasa-dunyanin-uzaydan-cekilmis-yeni-goruntulerini-yayinladi-rnug_cover.jpg",
-    "keyword": null
   }
 ]
