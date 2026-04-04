@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_71f1fd0f",
+    "title": "Göztepe, Gençlerbirliği'ni 2-0 mağlup etti",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 17:13",
+    "link": "https://www.aa.com.tr/tr/guncel/goztepe-genclerbirligini-2-0-maglup-etti/3891817",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig'in 28. haftasında Göztepe, deplasmanda Natura Dünyası Gençlerbirliği'ni 2-0 mağlup etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c27d1bb4",
     "title": "İran Meclis Başkanı Kalibaf'tan bölge ülkelerine \"ABD'nin müdahalesi olmadan işbirliğine hazırız\" mesajı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Hindistan bayraklı \"Green Sanvi\" isimli LPG tanker gemisinin Hürmüz Boğazı'nı geçtiği belirtildi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_5f96a752",
-    "title": "Trabzon’da Ak Parti toplantısında yangın alarmı!",
-    "source": "Haber61",
-    "time": "04/04/2026 15:54",
-    "link": "https://www.haber61.net/trabzon/trabzonda-ak-parti-toplantisinda-yangin-alarmi-h628598.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ak Parti Trabzon Danışma Meclisi Toplantısında ilginç anlar yaşandı.",
-    "image": "https://resim.haber61.net/news/610874.jpg",
-    "keyword": "trabzon"
   }
 ]
