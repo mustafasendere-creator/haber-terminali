@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0174f0cb",
+    "title": "TEM otoyolunda 10 araç birbirine girdi: 6 yaralı",
+    "source": "OdaTV",
+    "time": "04/04/2026 15:35",
+    "link": "https://www.odatv.com/guncel/tem-otoyolunda-10-arac-birbirine-girdi-6-yarali-120142069",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu’nun Gerede ilçesinde yağış nedeniyle kayganlaşan yolda meydana gelen kazada 10 araç karıştı altı kişi yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/tem-otoyolunda-10-arac-birbirine-girdi-6-yarali-qvi5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e15ded6d",
     "title": "Ukrayna Devlet Başkanı Zelenskiy İstanbul'da",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da düzenlenen farkındalık seminerinde, orman yangınlarının oluşturduğu büyük tehlikeye dikkat çekildi. Uzmanlar, yangın sezonu öncesi toplumsal bilincin artırılması gerektiğini vurguladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/s-e-m-i-n-e-r-r-1.jpeg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ef4f9266",
-    "title": "Savaşın 5. haftasında enerji piyasaları yangın yeri: Petrol ve gazda durdurulamayan yükseliş!",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 14:54",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/savasin-5-haftasinda-enerji-piyasalari-yangin-yeri-petrol-ve-gazda-durdurulamayan-yukselis-2492323",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD-İsrail ve İran arasındaki savaşın 5. haftasında küresel enerji piyasaları sarsılmaya devam ederken, Brent petrol fiyatları savaş öncesine oranla yüzde 50’den fazla artış göstererek 109 dolar seviyesini aştı ve Hürmüz Boğazı'ndaki kriz arz güvenliğini tehdit etmeyi sürdürüyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0c1b3c76-30c8-41af-bb70-f0d443df28ff.png",
-    "keyword": null
   }
 ]
