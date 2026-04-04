@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d2279a93",
+    "title": "Telegraph: Çin'den İran'a yapılan füze sevkiyatıyla 800'e yakın yeni füze üretilebilir",
+    "source": "TRT Haber",
+    "time": "04/04/2026 14:34",
+    "link": "https://www.trthaber.com/haber/dunya/telegraph-cinden-irana-yapilan-fuze-sevkiyatiyla-800e-yakin-yeni-fuze-uretilebilir-940382.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "The Telegraph'ın haberine göre, İranın balistik füze envanterindeki kritik eksikleri tamamlamak için Çinden yola çıkan ve yaptırım listesinde bulunan dev gemilerin, yüzlerce füze üretmeye yetecek hammaddeyi İran limanlarına ulaştırdığı saptandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2f0a8ce1",
     "title": "Arakçiden Körfeze nükleer felaket uyarısı: Yaşam sona erebilir",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Leyli Sanat Derneği, nisan ayında düzenleyeceği Aylık Buluşmalar ile katılımcıları yeniden bir araya getiriyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341564.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_cfab235c",
-    "title": "Vatandaş Şikayet Etti, Zabıta Harekete Geçti! 4 Kamyonet Dolusu Ürüne El Konuldu",
-    "source": "Taka Gazetesi",
-    "time": "04/04/2026 13:54",
-    "link": "https://www.takagazete.com.tr/vatandas-sikayet-etti-zabita-harekete-gecti-4-kamyonet-dolusu-urune-el-konuldu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu'nun Altınordu ilçesinde, CİMER üzerinden yapılan şikâyet üzerine yerel bir markete düzenlenen denetimde, son kullanma tarihi geçmiş ve sağlıksız şartlarda saklanan çok sayıda ürüne el konuldu. Denetimlerde 4 kamyonet dolusu gıda ürününün toplatıldığı bildirildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/vatandas-sikayet-etti-zabita-harekete-gecti-4-kamyonet-dolusu-urune-el-konuldu.jpg",
     "keyword": null
   }
 ]
