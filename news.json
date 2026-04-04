@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f0a8ce1",
+    "title": "Arakçiden Körfeze nükleer felaket uyarısı: Yaşam sona erebilir",
+    "source": "TRT Haber",
+    "time": "04/04/2026 14:34",
+    "link": "https://www.trthaber.com/haber/dunya/arakciden-korfeze-nukleer-felaket-uyarisi-yasam-sona-erebilir-940383.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABDİsrail'in hedef aldığı Basra Körfezi kıyısındaki Buşehr Nükleer Enerji Santrali'nde muhtemel bir radyoaktif serpintinin, Körfez ülkelerinde yaşamı sona erdirebileceği uyarısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_881a26a0",
     "title": "ABDİsrail'in Kirmanşah'ta yerleşim bölgelerine saldırısında 3 kişi hayatını kaybetti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ordu'nun Altınordu ilçesinde, CİMER üzerinden yapılan şikâyet üzerine yerel bir markete düzenlenen denetimde, son kullanma tarihi geçmiş ve sağlıksız şartlarda saklanan çok sayıda ürüne el konuldu. Denetimlerde 4 kamyonet dolusu gıda ürününün toplatıldığı bildirildi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/vatandas-sikayet-etti-zabita-harekete-gecti-4-kamyonet-dolusu-urune-el-konuldu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6d5d2646",
-    "title": "İran’da nükleer santrale dördüncü saldırı",
-    "source": "10Haber",
-    "time": "04/04/2026 13:54",
-    "link": "https://10haber.net/gundem/iranda-nukleer-santrale-dorduncu-saldiri-692398/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’ın güneyindeki Buşehr Nükleer Santrali çevresine düzenlenen ABD-İsrail saldırısında bir kişinin hayatını kaybettiği bildirildi.&#160; İran basını, santral yakınındaki bir binanın isabet aldığını ve bir güvenlik görevlisinin yaşamını yitirdiğini aktardı. Tasnim Haber Ajansı’nın haberine göre, sabah saatlerinde bir mühimmat santral çevresine isabet etti. Saldırının, tesisin çevresinde bulunan bir yapıda hasara yol açtığı belirtildi. İranlı yetkililer, Buşehr [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69d0ecbac4b9d0.13934007.jpg",
     "keyword": null
   }
 ]
