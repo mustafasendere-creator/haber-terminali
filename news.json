@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64ab1d11",
+    "title": "Vincenzo Montella'ya sürpriz talip: 3 aday arasında yer aldı!",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 13:55",
+    "link": "https://www.cumhuriyet.com.tr/spor/vincenzo-montella-ya-surpriz-talip-3-aday-arasinda-yer-aldi-2492314",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya Kupası elemeleri play-off final maçında Bosna Hersek'e mağlup olarak üst üste üçüncü kez turnuvaya katılamayan İtalya Milli Takımı'nın Vincenzo Montella ile ilgilendiği iddia edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f444339b-0b1c-47c6-965e-d130a9cf6c64.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b5dc49ec",
     "title": "Jandarma telefon dolandırıcılığına karşı vatandaşları uyardı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Balparmak Ar-Ge Merkezi’nin 30 bin bal numunesine dayanan ön eleme sistemi, Hırvatistan’daki uluslararası sempozyumda bilim insanlarından tam not aldı. 30 bini aşkın bal numunesinden elde edilen verilerle geliştirilen yöntem, küresel bal sektöründe balda yapılan hilelerden biri olan tağşişle mücadeleye yeni bir yaklaşım getiriyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/balparmak-bilimsel-basarisini-dunyayla-paylasmaya-devam-ediyor-khyx_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_50548c3a",
-    "title": "Tarlada 15, tezgahta 100 TL",
-    "source": "Ekonomim",
-    "time": "04/04/2026 13:15",
-    "link": "https://www.ekonomim.com/ekonomi/tarlada-15-tezgahta-100-tl-haberi-886019",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eskişehir&#039;de üretici Yeşil Sakarya Üreticiler Birliği Başkanı Süleyman Buluşan, marul fiyatlarının yüksek olmasıyla ilgili olarak, &quot;Allah nasip ederse nisan ayı bereket ayı olacak. Bizim 10-20 TL&#039;ye sattığımız marulu vatandaş belki 50 TL&#039;ye tüketebilir ama bilin ki şu anki fiyat üreticideki fiyat değildir&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/04/tarlada-15-tezgahta-100-tl-ccdw_cover.jpg",
     "keyword": null
   }
 ]
