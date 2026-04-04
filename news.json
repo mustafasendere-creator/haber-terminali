@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a26f4b15",
+    "title": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey tutuklandı",
+    "source": "Euronews",
+    "time": "04/04/2026 13:34",
+    "link": "http://tr.euronews.com/2026/04/04/bursa-buyuksehir-belediye-baskani-mustafa-bozbey-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"Suç işlemek amacıyla örgüt kurma, yönetme ve suç işlemek amacıyla kurulan örgüte üye olma, rüşvet, suçtan kaynaklanan mal varlığı değerlerini aklama ve imar kirliliğine neden olma\" suçlamaları yöneltilen Bozbey'in tutuklanmasına karar verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_ab8233e3",
     "title": "Ebrar Tuana’dan iki yılda 40 birincilik",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Prof. Dr. Ecmel Erlat, “yağmur çalınıyor” iddialarının bilimsel temeli olmadığını belirterek, asıl sorunun iklim değişikliği olduğunu vurguladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/337460.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8df6bd09",
-    "title": "CHP'li Gamze Akkuş İlgezdi: Hastaneleri hastane yönetimi mi, yoksa yandaş sendika mı yönetiyor?",
-    "source": "Evrensel",
-    "time": "04/04/2026 12:54",
-    "link": "https://www.evrensel.net/haber/5978179/chpli-gamze-akkus-ilgezdi-hastaneleri-hastane-yonetimi-mi-yoksa-yandas-sendika-mi-yonetiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’li Gamze Akkuş İlgezdi, Ankara EAH’de iktidara yakın yönetim sendika delege adaylarını sürgünle tehdit etmesini Bakan Memişoğlu’na sordu: “Hastaneleri hastane yönetimi mi, yoksa yandaş sendika mı yönetiyor?”",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/335238.jpg",
     "keyword": null
   }
 ]
