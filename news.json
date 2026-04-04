@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2278f350",
+    "title": "Anadolu Otoyolu'nda 9 aracın karıştığı kazada 6 kişi yaralandı",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 18:13",
+    "link": "https://www.aa.com.tr/tr/guncel/anadolu-otoyolunda-9-aracin-karistigi-kazada-6-kisi-yaralandi/3891938",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anadolu Otoyolu'nun Bolu kesiminde 9 aracın karıştığı kazada 2'si çocuk 6 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a2e61349",
     "title": "Cumhurbaşkanı Erdoğan ile NATO Genel Sekreteri Rutte telefonda konuştu",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Türkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu, Trabzon’da katıldığı anlamlı bir merasimle genç bir çiftin en özel anına ortak oldu. Geleneksel kız isteme töreni, samimi görüntülere sahne oldu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/h-a-c-i-o-s-m-a-n-o-g-l-u-31.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_021340a2",
-    "title": "Kahramankazan'da yolcu otobüsü üst geçidin ayağına çarptı: 5 ölü, 14 yaralı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 17:14",
-    "link": "https://www.trthaber.com/haber/turkiye/kahramankazanda-yolcu-otobusu-ust-gecidin-ayagina-carpti-5-olu-14-yarali-940346.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara'nın Kahramankazan ilçesinde yolcu otobüsünün üst geçidin ayağına çarpması sonucu ilk belirlemelere göre 5 kişi hayatını kaybetti, 14 kişi yaralandı.",
-    "image": null,
-    "keyword": null
   }
 ]
