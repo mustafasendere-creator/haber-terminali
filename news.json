@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8fe2a3e4",
+    "title": "Zelenski: Cumhurbaşkanı Erdoğan da barıştan yana",
+    "source": "TRT Haber",
+    "time": "04/04/2026 22:14",
+    "link": "https://www.trthaber.com/haber/gundem/zelenski-cumhurbaskani-erdogan-da-baristan-yana-940411.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Devlet Başkanı Zelenski, \"Barışa ihtiyacımız var. Müzakerelere ve barış görüşmelerine ihtiyacımız var. Bundan sonra gerekli adımları atacağız. Bunun için elimizden gelen her şeyi yapacağız. Cumhurbaşkanı Erdoğan ile görüştük. O da bu tarafta, barıştan yana\" açıklamasını yaptı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_51947b1f",
     "title": "Papara Park’ta Uğurcan’a Şarkılı Gönderme! Tribünler “Katula Katula” Çaldı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trendyol Süper Lig'in 28. haftasında Gaziantep FK ile Alanyaspor, 1-1 berabere kaldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/51608ffa-d3aa-47c3-8a79-86f7ea8a87ff.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c2f994af",
-    "title": "Düzce'de karbonmonoksit zehirlenmesi: 5 kişi hastaneye kaldırıldı",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 21:14",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/duzce-de-karbonmonoksit-zehirlenmesi-5-kisi-hastaneye-kaldirildi-2492394",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "​Düzce'nin Yığılca ilçesinde karbonmonoksit gazından zehirlendiği değerlendirilen 3'ü çocuk 5 kişi, hastaneye kaldırıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/28beb8db-e391-48d7-8367-f034fa7c1e0f.jpg",
     "keyword": null
   }
 ]
