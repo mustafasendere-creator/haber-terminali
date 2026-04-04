@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_12a8654d",
+    "title": "Husiler, İsrail'e yönelik balistik füze ve İHA saldırısı düzenlediklerini duyurdu",
+    "source": "Evrensel",
+    "time": "04/04/2026 23:33",
+    "link": "https://www.evrensel.net/haber/5978261/husiler-israile-yonelik-balistik-fuze-ve-iha-saldirisi-duzenlediklerini-duyurdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail’in İran’a yönelik başlattığı saldırıların ardından Yemen’deki Husiler, Tel Aviv’deki stratejik noktaları balistik füzelerle hedef aldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340558.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_54004acd",
     "title": "Dışişleri Bakanı Fidan, Suriyeli mevkidaşı Şeybani ile telefonda görüştü",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Sporx (@sporx) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "GND_a37c73b8",
-    "title": "Burcunuza göre kimseye göstermediğiniz gölge yönleriniz neler?",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 22:34",
-    "link": "https://www.cumhuriyet.com.tr/astroloji/burcunuza-gore-kimseye-gostermediginiz-golge-yonleriniz-neler-2492412",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Herkesin yüzeyde gördüğü bir yanının yanı sıra, gizli kalmış karanlık yönleri de vardır. Astrolojiye göre burcunuza göre bu gölge özellikleriniz neler?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f1465422-5465-4a06-9e77-18308fda9bee.jpg",
-    "keyword": null
   }
 ]
