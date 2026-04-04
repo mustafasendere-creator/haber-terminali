@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_fac1b776",
+    "title": "A Haber (@ahaber) / Posts / X - x.com",
+    "source": "X",
+    "time": "04/04/2026 12:54",
+    "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE90SDRvVkc2QU10TVVXSzFMd1pIcVEyRWE5MUlWX2l2cjB6R2lON0pzUzYybngwMTg",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "A Haber (@ahaber) / Posts / X  x.com",
+    "image": null,
+    "keyword": "trabzon gündem"
+  },
+  {
     "id": "YRL_f638d9fd",
     "title": "“Bravo” Hakemi Geri Döndü! Trabzonspor’un Unutmadığı Skandal Yeniden Gündemde",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Türkiye Futbol Federasyonu, Trabzonspor-Galatasaray maçında görev alacak VAR ve AVAR hakemlerini açıkladı",
     "image": "https://media.cumhuriyet.com.tr/Archive/0ce93c25-34b0-4077-978e-205f7abbb4e7.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a1c19d23",
-    "title": "Hürmüz Boğazı'ndaki aksamalar dünya genelinde çiftçileri zora sokuyor",
-    "source": "TRT Haber",
-    "time": "04/04/2026 12:14",
-    "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazindaki-aksamalar-dunya-genelinde-ciftcileri-zora-sokuyor-940352.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hürmüz Boğazı'nda trafiğin durma noktasına gelmesi, enerjinin yanı sıra gübre fiyatlarını tırmandırırken, yüksek maliyetler nedeniyle çiftçilerin üretim süreci zorlaşıyor.",
-    "image": null,
-    "keyword": null
   }
 ]
