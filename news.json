@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5d26fb7b",
+    "title": "Cumhurbaşkanı Erdoğan, Alparslan Türkeş'i andı",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 12:33",
+    "link": "https://www.aa.com.tr/tr/guncel/cumhurbaskani-erdogan-alparslan-turkesi-andi/3891529",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milliyetçi Hareket Partisinin Kurucu Genel Başkanı Alparslan Türkeş'i vefatının 29. yılında andı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_92ad05fe",
     "title": "Başkan Erdoğan'dan merhum Alparslan Türkeş paylaşımı",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "ABD ve İsrail'in İran'a saldırıları sonrası küresel enerji arzına ilişkin artan endişeler, enerji dönüşümü politikalarının güvenlik ve dayanıklılık ekseninde yeniden şekillenmesine sebep oluyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_448537ea",
-    "title": "TTSO bölgesel sağlık turizmi projesi için çalışmalarını sürdürüyor! Azerbaycan'dan heyet geldi!",
-    "source": "Haber61",
-    "time": "04/04/2026 11:54",
-    "link": "https://www.haber61.net/trabzon/ttso-bolgesel-saglik-turizmi-projesi-icin-calismalarini-surduruyor-h628562.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Azerbaycan’dan gelen sağlık turizmi heyeti, Trabzon Ticaret ve Sanayi Odası’nı ziyaret etti. TTSO Başkanı Erkut Çelebi, sağlık turizmi kümelenme projesini bölgesel ölçekte hayata geçirmek için çalışmalarını sürdürdüklerini söyledi.",
-    "image": "https://resim.haber61.net/news/610813.jpg",
-    "keyword": "trabzon"
   }
 ]
