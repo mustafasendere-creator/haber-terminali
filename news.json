@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c27d1bb4",
+    "title": "İran Meclis Başkanı Kalibaf'tan bölge ülkelerine \"ABD'nin müdahalesi olmadan işbirliğine hazırız\" mesajı",
+    "source": "Anadolu Ajansı",
+    "time": "04/04/2026 17:13",
+    "link": "https://www.aa.com.tr/tr/guncel/iran-meclis-baskani-kalibaftan-bolge-ulkelerine-abdnin-mudahalesi-olmadan-isbirligine-haziriz-mesaji-/3891844",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Meclis Başkanı Kalibaf, bölge ülkelerinin \"yabancı müdahalesi olmadan, ikili ve çok taraflı güvenlik anlaşmaları yoluyla çıkarlarını güvence altına alabileceğini\" belirterek, \"petrol güvenliği\" modelinin sona ermesi gerektiğini ifade etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e26d2603",
     "title": "Aile ve Sosyal Hizmetler Bakanlığından çocuğu özel gereksinimli annenin darbedilmesine ilişkin açıklama",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Ak Parti Trabzon Danışma Meclisi Toplantısında ilginç anlar yaşandı.",
     "image": "https://resim.haber61.net/news/610874.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ed757562",
-    "title": "Cumhurbaşkanı ErdoğanZelenski görüşmesi başladı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 15:54",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-zelenski-gorusmesi-basladi-940392.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ukrayna Devlet Başkanı Zeleneski ile Dolmabahçe Çalışma Ofisi'nde görüşüyor.",
-    "image": null,
-    "keyword": null
   }
 ]
