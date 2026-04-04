@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9d9cc712",
+    "title": "Zonguldak'ta gölete düşen 12 yaşındaki çocuk boğuldu",
+    "source": "Evrensel",
+    "time": "04/04/2026 20:15",
+    "link": "https://www.evrensel.net/haber/5978245/zonguldakta-golete-dusen-12-yasindaki-cocuk-boguldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zonguldak'ın Alaplı ilçesinde oyun oynarken gölette düşerek balçığa saplanan 12 yaşındaki Emircan Karaman boğuldu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341635.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_20b81613",
     "title": "Trabzonspor’a bir şok daha! O oyuncu kadroda yer almadı!",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "O ASKI AĞIRDIR! Trabzonspor Başkanı Ertuğrul Doğan Galatasaray ile ilişkilerin askıya aldığını açıkladı. Uğurcan Çakır ve bir genç oyuncu transferlerinde Galatasaray’ın etik davranmadığı gerekçesi ile Trabzonspor başkanı ilişkilerini askıya aldığını söyledi…  x.com",
     "image": null,
     "keyword": "trabzon bakan"
-  },
-  {
-    "id": "GND_c0b68cf1",
-    "title": "Trump, Hürmüz Boğazı'nı açması için İran'a verdiği sürenin \"daraldığını\" söyledi",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 18:53",
-    "link": "https://www.aa.com.tr/tr/guncel/trump-hurmuz-bogazini-acmasi-icin-irana-verdigi-surenin-daraldigini-soyledi/3891957",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran'a anlaşmaya yanaşarak Hürmüz Boğazı'nı açması için verdiği sürenin daraldığını bildirerek \"Üzerlerine kıyametin kopmasına 48 saat kaldı.\" ifadesini kullandı.",
-    "image": null,
-    "keyword": null
   }
 ]
