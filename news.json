@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_92ce06fb",
+    "title": "Cumhurbaşkanı Erdoğan Hamas heyetini kabul etti",
+    "source": "Haber Global",
+    "time": "04/04/2026 23:34",
+    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-hamas-heyetini-kabul-etti-517008",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Dolmabahçe Çalışma Ofisi'nde Hamas heyetini kabul etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/cumhurbaskani-erdogan-hamas-heyetini-kabul-etti-jrcs.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f9c17e41",
     "title": "Netanyahu: İran’ın çelik üretim kapasitesinin yüzde 70’ini ortadan kaldırdık",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İsrail’in Huzistan’daki petrokimya sanayi bölgelerine saldırısında tesisler tahliye edildi, 5 kişi yaralandı. Mahşehr ve Bender İmam’daki bazı tesislerde ağır hasar oluştu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340788.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_383f4aac",
-    "title": "İsrail’de yüzlerce kişi Netanyahu’yu protesto etti: “İran’a saldırılar durdurulsun”",
-    "source": "Evrensel",
-    "time": "04/04/2026 22:53",
-    "link": "https://www.evrensel.net/haber/5978259/israilde-yuzlerce-kisi-netanyahuyu-protesto-etti-irana-saldirilar-durdurulsun",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Netanyahu hükümeti İsrail’de eylemlere kısıtlama getirirken, Tel Aviv’de bir araya gelen bine yakın kişi, hükümeti protesto etti, İran’a saldırıların durdurulmasını istedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341657.jpg",
     "keyword": null
   }
 ]
