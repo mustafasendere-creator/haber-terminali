@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_18236d35",
+    "title": "İşgalci İsrail'in Lübnan'ın güneyinde bir motosiklete düzenlediği İHA saldırısında 2 kişi öldü",
+    "source": "TRT Haber",
+    "time": "04/04/2026 10:14",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnanin-guneyinde-bir-motosiklete-duzenledigi-iha-saldirisinda-2-kisi-oldu-940344.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın güneyindeki Sur kentinde bir motosiklete insansız hava aracıyla İHA düzenlediği saldırıda 2 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_71305adc",
     "title": "Naki Bakır: Emeklinin zammı tükendi",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor ile Galatasaray karşı karşıya geliyor.",
     "image": "https://resim.haber61.net/news/610774.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_14889ae0",
-    "title": "Trabzonspor – Galatasaray maçı ne zaman, saat kaçta, hangi kanalda?",
-    "source": "Haber61",
-    "time": "04/04/2026 09:33",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-h628546.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor ile Galatasaray, Süper Lig’in 28. haftasında Papara Park’ta karşı karşıya geliyor. Dev mücadele saat 20.00’de başlayacak ve beIN Sports’tan canlı yayınlanacak.",
-    "image": "https://resim.haber61.net/news/610776.jpg",
     "keyword": null
   }
 ]
