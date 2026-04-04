@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_37d9c06d",
+    "title": "Meteoroloji uyardı: Sağanak, rüzgâr, çığ ve toz taşınımı kapıda (03.04.2026)",
+    "source": "Evrensel",
+    "time": "04/04/2026 07:53",
+    "link": "https://www.evrensel.net/haber/5978153/meteoroloji-uyardi-saganak-ruzgr-cig-ve-toz-tasinimi-kapida-03042026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji’nin 4 Nisan raporuna göre yurdun büyük bölümünde sağanak bekleniyor. Ege kıyılarında kuvvetli yağış ve rüzgâr, Doğu’da çığ, Güneydoğu’da toz taşınımı uyarısı yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341380.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_53d28121",
     "title": "Biz uyurken elektrik ve doğal gaza yüzde 25 zam geldi",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fars Haber Ajansı, İranlı üst düzey bir yetkiliye atıfta bulunarak, \"ABDnin üçüncü bir ülke aracılığı ile İrana 48 saatlik geçici ateşkes teklifinde bulunduğunu\" belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2ad210e9",
-    "title": "Bakan Tekin: Binlerce yıllık bir devlet geleneğimiz var",
-    "source": "TRT Haber",
-    "time": "04/04/2026 06:14",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-tekin-binlerce-yillik-bir-devlet-gelenegimiz-var-940326.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Eğitim Bakanı Yusuf Tekin, \"Dünyada çok az sayıda ülkeye, millete nasip olan binlerce yıllık bir devlet geleneğimiz var. Bizim bağımsızlık bayrağımız tarih boyunca hiç dinmedi. Hep dalgalandı ve inşallah bu birlikteliğimizi devam ettiğimiz sürece hep de dalgalanmaya devam edecek\" dedi.",
     "image": null,
     "keyword": null
   }
