@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f2e338aa",
+    "title": "Irak’ın güneyinde petrol depolarına İHA saldırısı",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 01:13",
+    "link": "https://www.aa.com.tr/tr/guncel/irak-in-guneyinde-petrol-depolarina-iha-saldirisi/3892222",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak’ın güneyindeki Meysan Petrol Şirketi’ne bağlı Bezirgan petrol sahasındaki depoların insansız hava araçlarıyla (İHA) hedef alındığı duyuruldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_83a33a33",
     "title": "Manchester City, Chelsea ve Southampton, Federasyon Kupası'nda yarı finale kaldı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Of Belediye Başkanı Salim Salih Sarıalioğlu, TFF Başkanı İbrahim Hacıosmanoğlu'nu ağırladı. 2026 Dünya Kupası hedefinin konuşulduğu zirvede birlik mesajları verildi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/h-a-ciosmanov.jpg",
     "keyword": null
-  },
-  {
-    "id": "SOC_12130f8d",
-    "title": "Trabzon’da Sol Parti İl Başkanlığı tarafından açılan standı; İl Başkan Yardımcılarımız, Araklı İlçe Başkanımız Osman Dilber ve İlçe Yöneticilerimiz ile birlikte ziyaret ederek, İl Başkanı Bilal Akcelep ve yönetimiyle bir araya geldik. Demokrasi ve basın özgürlüğüne - x.com",
-    "source": "X",
-    "time": "04/04/2026 23:54",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80UzlsNGd5LUxwNzhVb0toNjJXbEpBQUt3UGU0c21GQ1BXUTlaUFpHWDgtZmxLOVM0eFFyU244NmhycnAwV3R6ZUpCRFFGRzBKZ3V6LU9qd1RIMzZTdDJyNFRNR0lqYVZpVGdrTQ",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "Trabzon’da Sol Parti İl Başkanlığı tarafından açılan standı; İl Başkan Yardımcılarımız, Araklı İlçe Başkanımız Osman Dilber ve İlçe Yöneticilerimiz ile birlikte ziyaret ederek, İl Başkanı Bilal Akcelep ve yönetimiyle bir araya geldik. Demokrasi ve basın özgürlüğüne  x.com",
-    "image": null,
-    "keyword": "trabzon sol"
   }
 ]
