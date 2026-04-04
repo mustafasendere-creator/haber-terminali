@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0ce614cd",
+    "title": "Dolmabahçe'de 'barış' zirvesi: Erdoğan, Ukrayna Devlet Başkanı Zelenskiy ile bir araya geldi",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 02:33",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/dolmabahce-de-baris-zirvesi-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-bir-araya-geldi-2492376",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan dün Rusya Devlet Başkanı Putin'le yaptığı telefon görüşmesinin ardından bugün Ukrayna Devlet Başkanı Zelenskiy ile Dolmabahçe'de bir araya geldi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/18a6ae0e-7957-46a6-be01-478ff09d210d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_88d1af1d",
     "title": "Mersin Limanı'nda 19 kilo kokain ele geçirildi",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un sahasında Galatasaray’ı 2-1 mağlup ettiği derbinin son anlarında gerginlik yaşandı. Mücadelenin bitiş düdüğü öncesinde Galatasaraylı Abdülkerim Bardakcı kırmızı kartla oyun dışında kaldı.",
     "image": "https://resim.haber61.net/news/610974.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_2e2b9024",
-    "title": "Otomobil ile tır çarpıştı: 2 yaşındaki çocuk feci şekilde can verdi",
-    "source": "Haber Global",
-    "time": "05/04/2026 00:34",
-    "link": "https://haberglobal.com/gundem/otomobil-ile-tir-carpisti-2-yasindaki-cocuk-feci-sekilde-can-verdi-517003",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nevşehir-Gülşehir karayolunda tır ile otomobilin karıştığı kazada 2 yaşındaki çocuk yaşamını yitirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/otomobil-ile-tir-carpisti-2-yasindaki-cocuk-feci-sekilde-can-verdi-4bda.jpg",
-    "keyword": null
   }
 ]
