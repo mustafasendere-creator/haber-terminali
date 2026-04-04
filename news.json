@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_386c6a7c",
+    "title": "Hastane yolunda facia! 3 can kaybı!",
+    "source": "Habertürk",
+    "time": "04/04/2026 13:35",
+    "link": "https://www.haberturk.com/hastane-yolunda-facia-3-can-kaybi-3874584",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sivas'ta meydana gelen faciada, şarampole devrilen hafif ticari araçtaki 3 kişi hayatını kaybetti. Olayda ailenin kanser tedavisi gören 72 yaşındaki Şükrü Güller'i hastaneye götürmek üzere yola çıktıkları belirtildi",
+    "image": "https://im.haberturk.com/l/2026/04/03/ver1775218269/3874584/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_a289ff82",
     "title": "Polise 'basın kartı' talimatı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bahçeli, Alparslan Türkeş'in kabrini ziyaret etti",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/2ea4c8a467ca4ba0a5ff75587431ab9fwpng-K10wUJKvw0C9BE72lz0kgQ.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_edf0bf20",
-    "title": "Sofraların altın başlangıcı: Lokanta usulü süzme mercimek tarifi",
-    "source": "Cumhuriyet",
-    "time": "04/04/2026 12:55",
-    "link": "https://www.cumhuriyet.com.tr/gurme/sofralarin-altin-baslangici-lokanta-usulu-suzme-mercimek-tarifi-2492301",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mercimeğin sebzelerle kurduğu kadifemsi ortaklık, üzerine gezdirilen tereyağlı pul biberli sosun cızırtısıyla tamamlanıyor. Türk mutfak disiplininin \"pürüzsüz kıvam\" sınavı olan bu çorba, kış aylarının vazgeçilmez tesellisidir.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/702f5631-a32a-4ca4-b2e5-66d7394a10f9.jpg",
     "keyword": null
   }
 ]
