@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8cd516fc",
+    "title": "Katil İsrail saldırısı nedeniyle Gazze'de 500 bin kişi içme suyundan mahrum kaldı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 12:55",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israil-saldirisi-nedeniyle-gazzede-500-bin-kisi-icme-suyundan-mahrum-kaldi-940367.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gazze Şeridi'nin Han Yunus kentindeki arıtma tesisine giden elektrik hattının İsrail hava saldırısında hasar görmesi sonucu bölgedeki 500 bin Filistinli içme suyundan mahrum kaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_15050103",
     "title": "Konya'da sobadan sızan gaz can aldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ankara'nın Kahramankazan ilçesinde özel halk otobüsünün köprü direğine çarptığı kazada 5 kişi hayatını kaybederken, 15 kişi de yaralandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/ankarada-ozel-halk-otobusu-ust-gecide-carpti-4-olu-iyfn.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_718f4d14",
-    "title": "Sektör temsilcileri yeni finansman paketinin \"kentsel dönüşümü hızlandıracağını\" açıkladı",
-    "source": "İHA Trabzon",
-    "time": "04/04/2026 12:15",
-    "link": "https://www.aa.com.tr/tr/guncel/sektor-temsilcileri-yeni-finansman-paketinin-kentsel-donusumu-hizlandiracagini-acikladi/3891418",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Kentsel dönüşüm için hayata geçirilen ve 3 milyon liraya kadar destek sunan yeni finansman modelinin süreci hızlandıracağını belirten sektör temsilcileri, düşük faiz ve ödemesiz dönem avantajlarının sürece kritik katkı sunacağını bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
