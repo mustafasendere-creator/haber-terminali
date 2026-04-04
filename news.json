@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8599a629",
+    "title": "Genç kadın otel odasında ölü bulundu",
+    "source": "Habertürk",
+    "time": "04/04/2026 08:34",
+    "link": "https://www.haberturk.com/bahcelievler-de-genc-kadin-otel-odasinda-olu-bulundu-3874726",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Bahçelievler'de bir otelde konaklayan 28 yaşındaki Yonca Kölge'nin odada bıçaklanmış halde cansız bedeni bulundu",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775275697/3874726/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_04904d81",
     "title": "Kot pantolon nasıl ortaya çıktı?",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Tokat merkezli 2 ilde düzenlenen operasyonda, ehliyet sınavlarında usulsüzlük yaptıkları iddiasıyla gözaltına alınan 17 şüpheliden 14'ü tutuklandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9917d5b8",
-    "title": "Hafta sonu yağışlı sistem etkisini sürdürecek",
-    "source": "TRT Haber",
-    "time": "04/04/2026 07:13",
-    "link": "https://www.trthaber.com/haber/gundem/hafta-sonu-yagisli-sistem-etkisini-surdurecek-940333.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nisan ayının ilk hafta sonunda Türkiye genelinde yağışlı hava dalgası etkili olmaya devam edecek. Ege'de kuvvetli yağış, Doğu'da çığ tehlikesi ve Güneydoğu'da toz taşınımı uyarısı yapıldı.",
     "image": null,
     "keyword": null
   }
