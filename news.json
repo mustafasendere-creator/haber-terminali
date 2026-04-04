@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7c043a75",
+    "title": "Göç yolundaki leylek tüfekle vuruldu",
+    "source": "Haber Global",
+    "time": "04/04/2026 11:54",
+    "link": "https://haberglobal.com/gundem/goc-yolundaki-leylek-tufekle-vuruldu-516952",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay’da göç yolunda av tüfeğiyle vurulan leylek, tedaviye alındı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/goc-yolundaki-leylek-tufekle-vuruldu-ozcb.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_935717d1",
     "title": "Trabzon'da sokak hayvanları için güvenli ortam oluşturulacak",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Van'da sabah saatlerinde meydana gelen 5.2 büyüklüğündeki deprem sonrası bir paylaşım yapan Prof. Dr. Naci Görür, büyük depremin gelip gelmeyeceğine ilişkin bir açıklama yaptı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/04/vandaki-52lik-deprem-sonrasi-naci-gorurden-kritik-aciklama-8shi.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_383cdf37",
-    "title": "Trabzonspor’dan Van’a geçmiş olsun mesajı",
-    "source": "Haber61",
-    "time": "04/04/2026 11:14",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspordan-vana-gecmis-olsun-mesaji-h628552.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, bugün Van’da meydana gelen deprem nedeniyle geçmiş olsun mesajı yayınladı.",
-    "image": "https://resim.haber61.net/news/610788.jpg",
-    "keyword": "trabzon"
   }
 ]
