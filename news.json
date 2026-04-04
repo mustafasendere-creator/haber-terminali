@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c3ab391d",
+    "title": "Afganistan’da 5.9 büyüklüğünde deprem: 8 kişi hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "04/04/2026 12:54",
+    "link": "https://www.evrensel.net/haber/5978178/afganistanda-59-buyuklugunde-deprem-8-kisi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Afganistan’da meydana gelen 5.9 büyüklüğündeki depremde 8 kişi hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341556.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_4b962cd8",
     "title": "Akif Manaf’a Sosyal Adalet ve Toplumsal Barış Ödülü",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Ortahisar Belediye Başkan Yardımcısı Mustafa Özer İskender, Belediye olarak sokak hayvanlarına yönelik örnek çalışmalara imza attıklarını, bilhassa sahiplendirme konusunda Türkiye’de ilk sıralarda yer aldıklarını vurgulayarak, vatandaşlara, satın almak yerine sıcak bir yuva arayan sokak hayvanlarını sahiplenmeleri çağrısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_52a2d3ff",
-    "title": "Bayram tatilinde gümrük kapılarından 323 bin yolcu girişçıkış yaptı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 12:14",
-    "link": "https://www.trthaber.com/haber/ekonomi/bayram-tatilinde-gumruk-kapilarindan-323-bin-yolcu-giris-cikis-yapti-940360.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ramazan Bayramı döneminde, Türkiye'nin gümrük kapılarından 87 bin 97 araç ve 322 bin 979 yolcu girişçıkışı gerçekleşti. Kapıkule, 74 bin 891 yolcu, 28 bin 104 araç girişçıkışı ile yoğunluğun en fazla yaşandığı gümrük noktası oldu.",
     "image": null,
     "keyword": null
   }
