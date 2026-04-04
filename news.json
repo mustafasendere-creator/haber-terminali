@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_181ce704",
+    "title": "Zirvede yarış kızıştı",
+    "source": "TRT Haber",
+    "time": "04/04/2026 23:34",
+    "link": "https://www.trthaber.com/haber/spor/zirvede-yaris-kizisti-940420.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Süper Lig'in 28. haftasında sahasında Galatasaray'ı 21 yenen Trabzonspor, şampiyonluk iddiasını güçlendirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6c80bdee",
     "title": "Bakan Bayraktar: Cuma günü Çağrı Bey gemimizle Somali'deki ilk sondaja başlayacağız",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor-Galatasaray maç sonrası Papara Park’tan son gelişmeler canlı yayında.",
     "image": "https://resim.haber61.net/news/610849.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ef36358a",
-    "title": "Washington Post: Çinli firmalar ABD güçlerini ifşa eden İran savaşı istihbaratını pazarlıyor",
-    "source": "Anadolu Ajansı",
-    "time": "04/04/2026 22:53",
-    "link": "https://www.aa.com.tr/tr/guncel/washington-post-cinli-firmalar-abd-guclerini-ifsa-eden-iran-savasi-istihbaratini-pazarliyor/3892140",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD-İsrail'in İran'a saldırılarında, ABD ordusunun istihbarat bilgilerinin Çinli firmalar tarafından elde edilip pazarlandığı ileri sürüldü.",
-    "image": null,
     "keyword": null
   }
 ]
