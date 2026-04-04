@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_46aaa390",
+    "title": "Bir Zamanlar Amerika ve Özgürlük Heykeli",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 07:14",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/eren-aysan/bir-zamanlar-amerika-ve-ozgurluk-heykeli-2492224",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Geçtiğimiz günlerde Amerika’da Trump’a karşı gösterilerde New York’ta bulunan “Özgürlük Heykeli” ne öykünerek kostüm giyen bir kadın eylemci gözaltına alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar443_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_5f4ea8c7",
     "title": "Savaş-3: İnsanlığa ders",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD-İsrail saldırıları altındaki İran'ın başkenti Tahran'ın kuzeyinde patlama meydana geldi. Sivil araçlar ve evlerin zarar gördüğü patlamada 1 kişi hayatını kaybetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340788.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_372317d1",
-    "title": "İsrail ordusu, Beyrut'a hava saldırıları düzenledi; 1 kişi hayatını kaybetti",
-    "source": "Evrensel",
-    "time": "04/04/2026 04:33",
-    "link": "https://www.evrensel.net/haber/5978152/israil-ordusu-beyruta-hava-saldirilari-duzenledi-1-kisi-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan'ın güneyindeki Sur şehrindeki bir limana yapılan İsrail saldırısında 1 kişinin hayatını kaybettiği belirtildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340983.jpg",
     "keyword": null
   }
 ]
