@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f936b96f",
+    "title": "Çay saatlerinin vazgeçilmezi: Yumuşacık dokusuyla üzümlü kek tarifi",
+    "source": "Cumhuriyet",
+    "time": "04/04/2026 20:54",
+    "link": "https://www.cumhuriyet.com.tr/gurme/cay-saatlerinin-vazgecilmezi-yumusacik-dokusuyla-uzumlu-kek-tarifi-2492397",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çay saatlerinin vazgeçilmez lezzetlerinden üzümlü kek, pratik yapımı ve nefis aromasıyla evde kolayca hazırlanabiliyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/412ee1ec-662c-476b-bad7-9e7a0cd4292d.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_003bdae5",
     "title": "Trabzonspor’da aylar sonra ilk 11’de sahaya çıktı",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Süper Lig’in 28. haftasında Papara Park’ta Galatasaray’ı konuk ediyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/v-f-c-d-x-s-z.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9e49bbf6",
-    "title": "Almanyada askerlik çağındaki erkeklere yurt dışı için ordu izni şartı",
-    "source": "TRT Haber",
-    "time": "04/04/2026 20:15",
-    "link": "https://www.trthaber.com/haber/dunya/almanyada-askerlik-cagindaki-erkeklere-yurt-disi-icin-ordu-izni-sarti-940408.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'da 1745 yaş arasındaki erkeklerin üç aydan uzun süreli yurt dışı seyahatleri için Alman ordusundan izin almaları zorunlu hale getirildi. 1 Ocak'ta yürürlüğe giren düzenleme, ülkede tartışmaları da beraberinde getirdi.",
-    "image": null,
-    "keyword": null
   }
 ]
