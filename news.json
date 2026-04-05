@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9fdd4e01",
+    "title": "İnanmamanız gereken altı diyet efsanesi",
+    "source": "BBC Türkçe",
+    "time": "05/04/2026 10:53",
+    "link": "https://www.bbc.com/turkce/articles/ckge0g2zr4do",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karbonhidrat ve şekerden detoks ve takviyelere kadar altı yaygın diyet efsanesi doğruluk payı içermiyor. Bunun yerine bilimsel çalışmaların ne söylediğine bakabilirsiniz.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d5bad6c2",
     "title": "Başkalarıyla biraraya gelmek beynimizi nasıl değiştiriyor?",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Antalya'nın Korkuteli ilçesinde gece yarısı meydana gelen trafik kazasında 3 kişi yaşamını yitirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/antalyada-gece-yarisi-korkunc-kaza-3-kisi-hayatini-kaybetti-z70z.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3fd070bb",
-    "title": "Icardi'den gece yarısı olay paylaşım: \"Beni eleştirin\"",
-    "source": "Haber Global",
-    "time": "05/04/2026 09:54",
-    "link": "https://haberglobal.com/spor/icardiden-gece-yarisi-olay-paylasim-beni-elestirin-517051",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray'ın Arjantinli yıldızı Mauro Icardi, Trabzonspor maçının ardından gece yarısı sosyal medya hesabından flaş bir paylaşımda bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/icardiden-gece-yarisi-olay-paylasim-beni-elestirin-ph4s.jpg",
     "keyword": null
   }
 ]
