@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f8810098",
+    "title": "İstanbul su kesintisi programı",
+    "source": "Habertürk",
+    "time": "05/04/2026 06:54",
+    "link": "https://www.haberturk.com/iski-istanbul-su-kesintileri-5-nisan-2026-pazar-istanbul-da-sular-ne-zaman-saat-kacta-gelecek-3874890",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul su kesintisi programı paylaşıldı. İstanbul Su ve Kanalizasyon İdaresi tarafından güncel olarak açıklanan güncel su kesintisi duyuruları ile planlı kesinti sorgulama ekranı gündeme geldi. İstanbul Anadolu ve Avrupa yakasında bazı ilçelerde su kesintisi yaşanacak. Peki, İstanbul'da su kesintisi olan ilçeler hangileri? İşte 5 Nisan 2026 Pazar İSKİ planlı su kesintileri...",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775334969/3874890/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_fbe8ed9b",
     "title": "Hafta sonu altın fiyatları",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP’nin cumhurbaşkanı adayı ve İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu’nun serbest bırakılması ve erken seçim talebiyle başlattığı \"Millet İradesine Sahip Çıkıyor\" mitinglerinin 103’üncüsü Kütahya’da yapıldı. Miting katılan yurttaşlar yaşadıkları sakıntılarını ve beklentilerini dile getirdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/37ac4aae-e6f7-45da-b828-1f8919cf9526.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c5445aba",
-    "title": "Bursa Büyükşehir Belediye Başkanı Bozbey görevden uzaklaştırıldı",
-    "source": "TRT Haber",
-    "time": "05/04/2026 03:34",
-    "link": "https://www.trthaber.com/haber/gundem/bursa-buyuksehir-belediye-baskani-bozbey-gorevden-uzaklastirildi-940412.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey, 'Suç İşlemek Amacıyla Örgüt Kurma ve Yönetme ve Rüşvet Almak' suçlarından tutuklanması üzerine, İçişleri Bakanlığınca görevden uzaklaştırıldı.",
-    "image": null,
     "keyword": null
   }
 ]
