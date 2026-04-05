@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_600f455f",
+    "title": "Dünya borsalarında 14 trilyon dolar buhar oldu",
+    "source": "TRT Haber",
+    "time": "05/04/2026 12:34",
+    "link": "https://www.trthaber.com/haber/ekonomi/dunya-borsalarinda-14-trilyon-dolar-buhar-oldu-940478.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail'in İran'a saldırılarının küresel ekonomiye faturası her geçen gün ağırlaşıyor. Küresel borsalar bir ayda 14 trilyon dolar kaybederken, Hürmüz Boğazındaki riskler petrolü 100 doların üzerine taşıdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_74378d49",
     "title": "ArdahanŞavşat kara yolu yeniden ulaşıma açıldı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Emtia piyasalarında tamamlanan haftada, ABD/İsrail-İran Savaşı'na ilişkin haber akışı yakından izlenirken, Orta Doğu kaynaklı enerji arzı ve lojistik riskleri ile bu risklerin enflasyon ve faiz beklentilerine etkisi fiyatlamalarda belirleyici oldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_550f31e5",
-    "title": "Vatandaşların Meclis'e gönderdiği dilekçelerin sayısı 31 bini aştı",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 11:53",
-    "link": "https://www.aa.com.tr/tr/guncel/vatandaslarin-meclise-gonderdigi-dilekcelerin-sayisi-31-bini-asti/3892473",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM Dilekçe Komisyonuna, 28. Dönem'in başlangıcı 15 Mayıs 2023'ten bu yana 31 bin 441 başvuru yapıldı.",
     "image": null,
     "keyword": null
   }
