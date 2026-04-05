@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e2ff076a",
+    "title": "Diyanet’teki eskort skandalı doğrulandı",
+    "source": "Evrensel",
+    "time": "05/04/2026 12:14",
+    "link": "https://www.evrensel.net/haber/5978285/diyanet-teki-eskort-skandali-dogrulandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyanet İşleri Başkan Yardımcısı Fatih Mehmet Karaca, Viyana'daki ATİB’de patlak veren \"eskort skandalı\" iddialarını kabul etti ve olayda adı geçen tüm personelin görevine son verildiğini açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341668.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a93840ca",
     "title": "“İsimsiz Eserler Mezarlığı” İstanbul’da ilk kez seyirciyle buluşuyor",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trendyol Süper Lig'in 28. haftasında Galatasaray'ı 2-1 yenerek şampiyonluk iddiasını artıran Trabzonspor, teknik direktör Fatih Tekke yönetiminde bu sezon İstanbul takımları karşısında genel olarak iyi bir grafik sergiliyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_65a6c36c",
-    "title": "Trabzon’da yağışlı hafta: Sıcaklıklar düşüşe geçiyor",
-    "source": "Haber61",
-    "time": "05/04/2026 11:33",
-    "link": "https://www.haber61.net/trabzon/trabzonda-yagisli-hafta-sicakliklar-dususe-geciyor-h628671.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Meteoroloji verilerine göre Trabzon’da hafta boyunca yağış etkili olacak. Çarşamba gününden itibaren sıcaklıklarda düşüş bekleniyor.",
-    "image": "https://resim.haber61.net/news/611025.jpg",
     "keyword": null
   }
 ]
