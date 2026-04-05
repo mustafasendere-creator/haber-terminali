@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba2b1ca3",
+    "title": "Kültür Rotası",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 11:54",
+    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/kultur-rotasi-2492520",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tiyatrodan sergiye, edebiyat söyleşilerinden fotoğrafa kültür sanat dünyasında neler var? Kültür rotasının duraklarına birlikte bakalım...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2ad9b2ba-936d-4bc5-8bfa-83683313efff.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f31d002b",
     "title": "İSKİ 5 Nisan 2026 verilerini açıkladı! İstanbul'da baraj doluluk oranları belli oldu",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Galatasaray'ın Arjantinli yıldızı Mauro Icardi, Süper Lig'de Trabzonspor'a 2-1 mağlup oldukları maçın ardından flaş bir paylaşım yaptı. Dev maçtaki performansıyla eleştirilen Icardi'nin sözleri dikkat çekti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d3cde732-f358-40a8-bb70-1004b050f523.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_658c79ab",
-    "title": "İşte Trump'ın saldırı planı! İran'a 'cehennem yağdırmak' için hazırlanıyor",
-    "source": "Haber Global",
-    "time": "05/04/2026 11:14",
-    "link": "https://haberglobal.com/dunya/iste-trumpin-saldiri-plani-irana-cehennem-yagdirmak-icin-hazirlaniyor-517057",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran’a tanıdığı 48 saatlik sürenin sonuna gelirken 'tüm cehennem üzerlerine yağacak' uyarısında bulundu. İsrail ordusunun nükleer tesisler ve enerji altyapısını kapsayan devasa bir saldırı planı için 'yeşil ışık' beklediği iddia edilirken, Tahran yönetimi bölgeyi ABD için bir bataklığa çevirme tehdidinde bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/iste-trumpin-saldiri-plani-irana-cehennem-yagdirmak-icin-hazirlaniyor-ytec.jpg",
-    "keyword": null
   }
 ]
