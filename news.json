@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4fc1eb7",
+    "title": "İstanbul Havalimanı günlük ortalama 1436 uçuşla Avrupa'nın en yoğun havalimanı oldu",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 10:13",
+    "link": "https://www.aa.com.tr/tr/guncel/istanbul-havalimani-gunluk-ortalama-1436-ucusla-avrupanin-en-yogun-havalimani-oldu/3892361",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Havalimanı, 23-29 Mart arasında günlük ortalama 1436 uçuşla Avrupa'nın en yoğun havalimanı olarak kayıtlara geçti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_25344918",
     "title": "Hazine ve Maliye Bakanlığı ve TCMB \"faiz politikası\" haberlerini yalanladı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un eski futbolcusu Jaja Coelho, Galatasaray maçı öncesinde Papara Park’ta onurlandırıldı. Plaket, Trabzonspor Başkan Yardımcısı Birhan Emre Yazıcı tarafından verildi.",
     "image": "https://resim.haber61.net/news/610991.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_4f0a4b8c",
-    "title": "İstanbul'da sis etkili oluyor",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 08:53",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-sis-etkili-oluyor-2492467",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da gece saatlerinden itibaren etkisini gösteren sis sabah saatlerinde yoğunluğunu artırdı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/fe06f480-e9bb-444f-a875-783fd4397b5a.jpg",
-    "keyword": null
   }
 ]
