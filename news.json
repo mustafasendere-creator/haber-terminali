@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2cc20084",
+    "title": "Elektrik akımına kapılan çocuk öldü",
+    "source": "Habertürk",
+    "time": "05/04/2026 11:15",
+    "link": "https://www.haberturk.com/ahirda-akima-kapilan-miran-hayatini-kaybetti-3874800",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Batman'da ahırda elektrik akımına kapılan 12 yaşındaki çocuk, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen kurtarılamayarak hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775305015/3874800/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_c66e774f",
     "title": "Trabzon’da 5 Nisan elektrik kesintisi: 10 mahalle etkilenecek",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "İsrail&#039;in Haaretz gazetesi, ABD/İsrail-İran Savaşı&#039;nın ardından bölge ülkelerinin ABD&#039;ye olan bağımlılığını azaltma yoluna gideceğini, Türkiye&#039;nin ise bölgesel güvenlik mimarisinde kilit bir aktör olarak öne çıkacağını belirtti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/05/israil-gazetesi-savas-sonrasi-bolgesel-duzende-abdnin-etkisi-azalirken-turkiyenin-etkisi-artacak-q3vn_cover.png",
     "keyword": null
-  },
-  {
-    "id": "TKP_26929483",
-    "title": "Trabzon’da hava bozuyor! Gün boyu sürecek",
-    "source": "61 Saat",
-    "time": "05/04/2026 10:34",
-    "link": "https://www.61saat.com/trabzonda-hava-bozuyor-gun-boyu-surecek",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Meteoroloji Genel Müdürlüğü 5 Nisan Paza gününe dair hava tahmin raporunu yayımladı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/haba.png",
-    "keyword": "trabzon"
   }
 ]
