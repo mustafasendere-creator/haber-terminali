@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_347e5b8d",
+    "title": "Gülben Ergen savcılığa çağrıldı",
+    "source": "OdaTV",
+    "time": "05/04/2026 11:35",
+    "link": "https://www.odatv.com/guncel/gulben-ergen-savciliga-cagrildi-120142130",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülben Ergen hakkında, Fatmanur Çelik ve kızı Hifa İkra Şengüler’in ölümüyle ilgili yaptığı sosyal medya paylaşımları nedeniyle Aile ve Sosyal Hizmetler Bakanlığı’nın şikayeti üzerine “halkı yanıltıcı bilgiyi alenen yayma” suçlamasıyla soruşturma başlatıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/05/gulben-ergen-savciliga-cagrildi-syda.png",
+    "keyword": null
+  },
+  {
     "id": "GND_2555d567",
     "title": "Mısır'da küresel enerji maliyetlerindeki artış nedeniyle bazı elektrik tarifelerine zam yapıldı",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Endonezya'nın Java Adası'nın doğusunda bulunan Semeru Yanardağı 4 kez patlarken, 1000 metre yüksekliğe kadar kül püskürttü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9b8e38a4",
-    "title": "Tüketici sağlığını korumak için 3 ayda 4,4 milyon lira ceza uygulandı",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 11:13",
-    "link": "https://www.aa.com.tr/tr/guncel/tuketici-sagligini-korumak-icin-3-ayda-4-4-milyon-lira-ceza-uygulandi/3892419",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanlığının yetki alanına giren başta çocuk, oyuncak, kırtasiye ve mobilya gibi ürün gruplarında yılın 3 ayında yürütülen piyasa gözetimi ve denetimlerinde, 2 bin 104 parti ürün incelendi.",
     "image": null,
     "keyword": null
   }
