@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ffa91718",
+    "title": "1920 Koşusu başladı",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 10:13",
+    "link": "https://www.aa.com.tr/tr/guncel/1920-kosusu-basladi/3892343",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anadolu Ajansının 106. kuruluş yıl dönümü etkinlikleri kapsamında Ankara'da düzenlenen 1920 Koşusu başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b4fc1eb7",
     "title": "İstanbul Havalimanı günlük ortalama 1436 uçuşla Avrupa'nın en yoğun havalimanı oldu",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Türkiye’nin en popüler kanalları, 4 Nisan 2026 Cumartesi gününün TV yayın akışlarını açıkladı. Bugün ekranlarda hem heyecanla beklenen dizilerin yeni bölümleri hem de çeşitli programlar izleyiciyle buluşacak. Hafta sonunu evde geçirmek isteyenler için Show TV, Kanal D, ATV, Star TV, TRT 1, NOW ve TV8’in güncel yayın akışlarını bir araya getirdik. İşte “Bugün televizyonda hangi programlar var?” sorusunun cevabı haberimizde...",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775296887/3874775/jpg/1280x1280",
     "keyword": null
-  },
-  {
-    "id": "TKP_80787927",
-    "title": "Trabzonspor’dan Jaja Coelho’ya teşekkür plaketi",
-    "source": "Haber61",
-    "time": "05/04/2026 08:54",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspordan-jaja-coelhoya-tesekkur-plaketi-h628654.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un eski futbolcusu Jaja Coelho, Galatasaray maçı öncesinde Papara Park’ta onurlandırıldı. Plaket, Trabzonspor Başkan Yardımcısı Birhan Emre Yazıcı tarafından verildi.",
-    "image": "https://resim.haber61.net/news/610991.jpg",
-    "keyword": "trabzon"
   }
 ]
