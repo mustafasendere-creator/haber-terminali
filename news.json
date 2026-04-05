@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_adc117ca",
+    "title": "Futbolcu cinayetinde kritik detaylar",
+    "source": "Habertürk",
+    "time": "05/04/2026 10:14",
+    "link": "https://www.haberturk.com/futbolcu-cinayetinde-suphelilerin-cinayetteki-rolleri-ortaya-cikti-3874860",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "“Yaşam hakkı haksız yere, geri döndürülemez şekilde elinden alındı. Ortada ağır, kasten ihlal edilmiş bir yaşam hakkı bulunmakta” Savcılık, futbolcu Kubilay Kaan Kundakçı cinayetine ilişkin bu tespitleri yaptı. “Kasten öldürme”, “yardım etme”, “kayırma” sarmalına girdiği belirtilen şüphelilerin rollerini tek tek sıraladı. Soruşturmanın yeni detaylarına ise Habertürk ulaştı",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775324510/3874860/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f999dedd",
     "title": "Bozbey görevinden uzaklaştırıldı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Anadolu Ajansının AA kuruluşunun 106. yılı etkinlikleri kapsamında düzenlenecek \"1920 Koşusu\" nedeniyle Ankara'da bugün bazı yollar trafiğe kapatılacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8f0cdebd",
-    "title": "Trump duyurdu: İran'da düşen F15'in ikinci pilotu kurtarıldı",
-    "source": "TRT Haber",
-    "time": "05/04/2026 09:13",
-    "link": "https://www.trthaber.com/haber/dunya/trump-duyurdu-iranda-dusen-f-15in-ikinci-pilotu-kurtarildi-940449.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran'da cuma günü düşürülen F15E savaş uçağının ikinci pilotunu da kurtardıklarını açıkladı.",
     "image": null,
     "keyword": null
   }
