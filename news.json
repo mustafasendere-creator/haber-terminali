@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_df6d3e0c",
+    "title": "Cumhurbaşkanı Erdoğan'dan Hristiyan vatandaşlara Paskalya mesajı",
+    "source": "TRT Haber",
+    "time": "05/04/2026 12:54",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-hristiyan-vatandaslara-paskalya-mesaji-940480.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Hristiyan vatandaşların ve tüm Hristiyan aleminin Paskalya Yortusu'nu kutlayarak, \"Toplumsal huzurumuzun teminatı olarak gördüğümüz bu barış iklimini, bilhassa bölgemizin içinden geçtiği sancılı ve sıkıntılı dönemde güçlendirmekte kararlıyız.\" ifadesini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_921cc686",
     "title": "Mesih olduğunu ilan eden adama polis müdahale etti",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD, İran'ın güneyinde düşürülen ABD'ye ait F-15 savaş uçağının kayıp mürettebat üyesini kurtardı. Kurtarma operasyonuyla ilgili bilinenleri derledik.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5cc25207",
-    "title": "Türk kadınlarının havacılıktaki başarısı uluslararası ödüllerle taçlandı",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 12:13",
-    "link": "https://www.aa.com.tr/tr/guncel/turk-kadinlarinin-havaciliktaki-basarisi-uluslararasi-odullerle-taclandi/3892482",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, Kanada merkezli Women Of Aviation Worldwide Week (WOAW) kapsamında havacılık alanında düzenlenen törenden 8 ödülle döndü.",
     "image": null,
     "keyword": null
   }
