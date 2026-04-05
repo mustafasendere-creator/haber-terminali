@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_273dbdef",
+    "title": "Bakanlıktan 'faiz politikası' haberlerine ilişkin açıklama",
+    "source": "Haber Global",
+    "time": "05/04/2026 10:54",
+    "link": "https://haberglobal.com/gundem/bakanliktan-faiz-politikasi-haberlerine-iliskin-aciklama-517059",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hazine ve Maliye Bakanlığı, faiz politikasına ilişkin yayımlanan haberlerle ilgili açıklama yaptı. Açıklamada, \"Hazine ve Maliye Bakanımız Sayın Mehmet Şimşek, yerli ve yabancı tüm toplantılarda prensip olarak faiz politikası hakkında asla yorum yapmamaktadır. Değerlendirmeler, Bakanlığımızı ve Sayın Bakanımızı kesinlikle bağlamamaktadır\" denildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/bakanliktan-faiz-politikasi-haberlerine-iliskin-aciklama-i83t.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d1825fbf",
     "title": "Beşiktaş'a derbi öncesi kötü haber! Kadroda yer almıyor",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Havalimanı, 23-29 Mart arasında günlük ortalama 1436 uçuşla Avrupa'nın en yoğun havalimanı olarak kayıtlara geçti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_25344918",
-    "title": "Hazine ve Maliye Bakanlığı ve TCMB \"faiz politikası\" haberlerini yalanladı",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 10:13",
-    "link": "https://www.aa.com.tr/tr/guncel/hazine-ve-maliye-bakanligi-ve-tcmb-faiz-politikasi-haberlerini-yalanladi/3892362",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hazine ve Maliye Bakanlığı, Bakan Mehmet Şimşek'in yerli ve yabancı tüm toplantılarda prensip olarak faiz politikası hakkında \"asla\" yorum yapmadığını bildirdi.",
     "image": null,
     "keyword": null
   }
