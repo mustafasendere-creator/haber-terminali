@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b07b2c1",
+    "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
+    "source": "TRT Haber",
+    "time": "05/04/2026 07:14",
+    "link": "https://www.trthaber.com/haber/turkiye/ankarada-yarin-bazi-yollar-trafige-kapatilacak-940446.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anadolu Ajansının AA kuruluşunun 106. yılı etkinlikleri kapsamında düzenlenecek \"1920 Koşusu\" nedeniyle Ankara'da bugün bazı yollar trafiğe kapatılacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3b1ee0b5",
     "title": "Meteoroloji: Üç ilde kar bekleniyor",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Derbilerde söylenen “İyi olan kazansın” ifadesi, Trabzonspor-Galatasaray maçının ortasına yerleşiyor…",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar188_cover.jpeg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_93f40c3e",
-    "title": "Kartlar dağıtıldı",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 04:13",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/hayri-guner/kartlar-dagitildi-2492449",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, haftanın ilk derbisinde Galatasaray karşısında hakem Cihan Aydın’a rağmen galip gelmesini bildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar35_cover.jpeg",
     "keyword": "trabzon"
   }
 ]
