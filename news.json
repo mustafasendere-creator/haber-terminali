@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4f0a4b8c",
+    "title": "İstanbul'da sis etkili oluyor",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 08:53",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-sis-etkili-oluyor-2492467",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da gece saatlerinden itibaren etkisini gösteren sis sabah saatlerinde yoğunluğunu artırdı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/fe06f480-e9bb-444f-a875-783fd4397b5a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_83695501",
     "title": "İran bu sözlerle duyurdu: Büyük bir sürprizimiz var",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Zonguldak'ın Alaplı ilçesinde su birikintisine düşerek balçığa saplanan çocuk, yaşamını yitirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c3517fc7",
-    "title": "Pakistan Donanması'na Türk MİLGEM'i",
-    "source": "TRT Haber",
-    "time": "05/04/2026 07:34",
-    "link": "https://www.trthaber.com/haber/dunya/pakistan-donanmasina-turk-milgemi-940443.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pakistan Donanması, ülkenin güneyindeki liman kenti Karaçi'de Türk yapımı bir MİLGEM sınıfı korveti filosuna dahil etti.",
     "image": null,
     "keyword": null
   }
