@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_72ee8faa",
+    "title": "Amerikan havacıyı kurtarma operasyonunda çarpıcı ayrıntı",
+    "source": "10Haber",
+    "time": "05/04/2026 11:14",
+    "link": "https://10haber.net/yazarlar/ismet-berkan/amerikan-havaciyi-kurtarma-operasyonunda-carpici-ayrinti-692615/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yukarıdaki harita, bildiğimiz kadarıyla düşen Amerikan savaş uçağından atlayan silah subayının arandığı geniş toprak parçasını gösteriyor. Haberi de okudunuz, Amerikalılar 48 saatlik bir operasyonun ardından bu havacı albayı saklandığı yerden alıp kurtardı. Ancak bu kurtarma operasyonunun ilginç bir ayrıntısı var, önümnüzdeki saatlerde bu konuda daha fazla bilgi gelebilir ama şunu anlıyoruz: Amerikan ordusu bu arama [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/Ekran-Resmi-2026-04-05-06.23.16.png",
+    "keyword": null
+  },
+  {
     "id": "YRL_8e4d05fa",
     "title": "7 yıl aradan sonra İran'dan petrol aldılar!",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Asbaşkanı Zeyyat Kafkas, 2-1’lik galibiyet sonrası Metin Öztürk’ün açıklamalarına sert tepki gösterdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341647.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_49bf315c",
-    "title": "İstanbul'da sis etkili oluyor",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 10:33",
-    "link": "https://www.aa.com.tr/tr/guncel/istanbulda-sis-etkili-oluyor/3892308",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da gece saatlerinden itibaren etkisini gösteren sis sabah saatlerinde yoğunluğunu artırdı.",
-    "image": null,
-    "keyword": null
   }
 ]
