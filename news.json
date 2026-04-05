@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2ecd634f",
+    "title": "Yurt genelinde bulutlar çöktü: Yağış yayılıyor, yükseklerde kar bekleniyor",
+    "source": "Evrensel",
+    "time": "05/04/2026 08:13",
+    "link": "https://www.evrensel.net/haber/5978264/yurt-genelinde-bulutlar-coktu-yagis-yayiliyor-yukseklerde-kar-bekleniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji’ye göre Türkiye genelinde çok bulutlu ve yağışlı hava etkili olacak. Doğu Anadolu’nun yüksek kesimlerinde kar, bazı bölgelerde ise gök gürültülü sağanak bekleniyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340135.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6c00a43b",
     "title": "Polen mevsimi uzadı: Alerjiden nasıl korunmalı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "1990’lı yılların ortasından sonra üç-dört kez gittiğim güzel kent Dresden’de 3 Ekim 1990’da Batı Alman kapitalizminin ayak bastığı “köylüler ve işçiler ülkesi”nde büyük adımlarla ilerlediğini, insanlarının geçmişte “öcü” dediği kapitalizmin taze izlerini görmemek mümkün değildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/21b29b34-6ab8-4fd2-8f07-eb1245a46f2d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_df123e4d",
-    "title": "‘Köklerden Geleceğe’ gastronomi buluşması",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 06:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/koklerden-gelecege-gastronomi-bulusmasi-2492455",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ordu’nun mutfak kültürünü ve gastronomi potansiyelini farklı boyutlarıyla ele almayı amaçlayan “Köklerden Geleceğe –Ordu Gastronomi Buluşması” etkinliği kapsamında, Terminal Kadıköy Başkanvekili Levent Veziroğlu “Gastronomi Turizminde Yenilikçi Yaklaşımlar” konulu bir konferans verdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/490bd406-c15f-43e0-aa81-e56337cd55e6.jpg",
     "keyword": null
   }
 ]
