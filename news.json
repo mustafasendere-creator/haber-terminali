@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f1d19521",
+    "title": "İstanbul elektrik kesintisi programı",
+    "source": "Habertürk",
+    "time": "05/04/2026 06:14",
+    "link": "https://www.haberturk.com/bedas-ve-ayedas-duyurdu-5-nisan-2026-pazar-istanbul-elektrik-kesintisi-ne-zaman-baslayacak-elektrikler-saat-kacta-gelecek-3874867",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ) ve İstanbul Anadolu Yakası Elektrik Dağıtım A.Ş (AYEDAŞ) 5 Nisan Pazar günü İstanbul'da elektrik kesinti programını açıkladı. Yapılan duyuru sonucunda, \"İstanbul'da elektrikler ne zaman gelecek?\" sorusu yanıt buldu. İşte 5 Nisan 2026 Pazar İstanbul elektrik kesintisi programı...",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775339684/3874867/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_c04ab15d",
     "title": "Tiyatro ve eleştiri",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tarım arazileri, Toprak Koruma ve Arazi Kullanımı Kanunu'da belirtilen istisnalar hariç olmak üzere arazi kullanım planlarında belirtilen amaçlar dışında kullanılamayacağı ve tarımsal amaçlı yapılarda ve tarım dışı arazi kullanımlarında izin alınması ve toprak koruma projelerine uyulması zorunlu olacağı açıklandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/58e2798d-7259-4adc-8f83-ced5b16b7b80.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2594c22e",
-    "title": "'Trump hastaneye kaldırıldı\" iddialarına ilişkin Beyaz Saray’dan açıklama",
-    "source": "Ekonomim",
-    "time": "05/04/2026 02:14",
-    "link": "https://www.ekonomim.com/dunya/trump-hastaneye-kaldirildi-iddialarina-iliskin-beyaz-saraydan-aciklama-haberi-886092",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump’ın sağlık durumuna ilişkin sosyal medyada yayılan &quot;hastaneye kaldırıldı&quot; iddiaları Beyaz Saray tarafından kesin bir dille reddedildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/05/trump-hastaneye-kaldirildi-iddialarina-iliskin-beyaz-saraydan-aciklama-vemj_cover.jpg",
     "keyword": null
   }
 ]
