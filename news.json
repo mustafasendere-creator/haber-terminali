@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9ea5efa7",
+    "title": "Darbedilen anneye destek",
+    "source": "Habertürk",
+    "time": "05/04/2026 10:34",
+    "link": "https://www.haberturk.com/aile-ve-sosyal-hizmetler-bakanligi-ndan-darbedilen-anneye-destek-3874833",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aile ve Sosyal Hizmetler Bakanlığı, darp edilen anne ve özel gereksinimli çocuğuyla ilgili görüntüler üzerine yaptığı açıklamada, çocuğun koruma altına alındığını, darp edilen anneye ekonomik destek sağlanacağını ve Bakanlık olarak adli sürece müdahil olacaklarını bildirdi",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775313620/3874833/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_c34a47b6",
     "title": "Trabzon'dan Gümüşhane'ye gidecekler için Zigana Tüneli uyarısı",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un 2-1 kazandığı derbinin son dakikalarında sahada tansiyon yükseldi. Abdülkerim Bardakcı, gördüğü kırmızı kartla oyun dışında kaldı.",
     "image": "https://resim.haber61.net/news/610998.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d9615989",
-    "title": "Spor yazarları Trabzonspor - Galatasaray maçını yorumladı: 'Icardi futbolu bırakamadı ama futbol Icardi'yi bırakmış!'",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 09:34",
-    "link": "https://www.cumhuriyet.com.tr/spor/spor-yazarlari-trabzonspor-galatasaray-macini-yorumladi-icardi-futbolu-birakamadi-ama-futbol-icardi-yi-birakmis-2492475",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Spor yazarları, Trabzonspor'un Trendyol Süper Lig'in 28. haftasında Galatasaray'ı 2-1 mağlup ettiği mücadeleyi değerlendirdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3c02587b-ec86-4cab-8d78-b63aa28ec666.jpg",
-    "keyword": null
   }
 ]
