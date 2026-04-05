@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e251c46",
+    "title": "FA Cup'ta sürpriz yarı finalist: Southampton, Arsenal'i yıktı!",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 09:54",
+    "link": "https://www.cumhuriyet.com.tr/spor/fa-cup-ta-surpriz-yari-finalist-southampton-arsenal-i-yikti-2492486",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Premier Lig ekibi Arsenal, Championship ekibi Southampton'a 2-1 yenilerek Federasyon Kupası'na çeyrek finalde veda etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/763f6a3c-2900-4c5b-a9e6-cd7bc5a66594.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_92d64bc5",
     "title": "İstanbul’a sis esareti! Şehir adeta kayboldu",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Bu sadece bir galibiyet değil, bir duruşun, bir karakterin ve bir inancın sahaya yansımasıydı. Trabzonspor, kendi evinde Galatasaray’ı 2-1 mağlup ederken aslında skordan çok daha fazlasını kazandı: saygı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/mskdfkmsdkm.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_efc3647e",
-    "title": "Donald Trump: Pilotu bulduk",
-    "source": "OdaTV",
-    "time": "05/04/2026 08:34",
-    "link": "https://www.odatv.com/dunya/abd-baskani-donald-trump-pilotu-bulduk-120142111",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Trump, İran&#039;da düşürülen uçağın pilotunun ABD güçleri tarafından bulunduğunu belirtti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/05/abd-baskani-donald-trump-pilotu-bulduk-pt5z.jpg",
-    "keyword": null
   }
 ]
