@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d629f29",
+    "title": "Kötücül yanıtlar size ait, beni bu işe bulaştırmayın!",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 06:54",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/kotucul-yanitlar-size-ait-beni-bu-ise-bulastirmayin-2492443",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa Büyükşehir’e el koyma operasyonu yaşadık.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar70_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_2c069204",
     "title": "MHP ile DEM’in uyumu!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kayseri'nin merkez Melikgazi ilçesinde iki hafif ticari aracın çarpışması sonucu 6 kişi yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_88e882d2",
-    "title": "Kuveyt'te petrol tesislerine İHA saldırısı: Yangın çıktı",
-    "source": "TRT Haber",
-    "time": "05/04/2026 03:33",
-    "link": "https://www.trthaber.com/haber/dunya/kuveytte-petrol-tesislerine-iha-saldirisi-yangin-cikti-940429.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuveyt Petrol Kurumu, Şuveyh bölgesindeki petrol tesisine insansız hava araçlarıyla İHA düzenlenen saldırı sonucu yangın çıktığını duyurdu.",
     "image": null,
     "keyword": null
   }
