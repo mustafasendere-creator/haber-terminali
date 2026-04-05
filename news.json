@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f18f13b",
+    "title": "‘Kavun Acısı’, ‘Elmanın Tarihi’",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 06:53",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/ozdemir-ince/kavun-acisi-elmanin-tarihi-2492441",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Değerli okur! Ben önce şair, sonra yazar, daha sonra da gazete yazarıyım.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar376_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_85850604",
     "title": "ABD Başkanı Trump hastaneye mi kaldırıldı? Beyaz Saray'dan açıklama geldi",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "🚨 Trabzonspor Asbaşkanı Zeyyat Kafkas: \"Asıl çirkinlik; sözleşmesi devam eden oyuncularla kulübünü devre dışı bırakarak gizli görüşmeler yapmaktır. Asıl çirkinlik; milli takım kampında, gözlerden uzak temaslarla futbolcumuzun aklını çelmeye kalkmaktır. Asıl  x.com",
     "image": null,
     "keyword": "trabzon sondakika"
-  },
-  {
-    "id": "GND_16d6942a",
-    "title": "Zelenskiy'den Rum Patrikhanesi'ni ziyaret",
-    "source": "OdaTV",
-    "time": "05/04/2026 03:14",
-    "link": "https://www.odatv.com/guncel/zelenskiyden-rum-patrikhanesini-ziyaret-120142106",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ukrayna Devlet Başkanı Vladimir Zelenskiy, Balat&#039;ta bulunan Fener Rum Patrikhanesi&#039;ni ziyaret etti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/05/zelenskiyden-rum-patrikhanesini-ziyaret-qnmj.jpg",
-    "keyword": null
   }
 ]
