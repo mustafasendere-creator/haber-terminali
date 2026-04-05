@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d86f01e6",
+    "title": "Seyir halindeki tır küle döndü",
+    "source": "TRT Haber",
+    "time": "05/04/2026 10:14",
+    "link": "https://www.trthaber.com/haber/turkiye/seyir-halindeki-tir-kule-dondu-940453.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aydın'da seyir halindeki tırda yangın çıktı. İtfaiye ekiplerinin müdahalesiyle yangın söndürülürken tırda maddi hasar meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_14f4a2fd",
     "title": "İran: ABD'nin pilotunu kurtarma girişimi başarısız oldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da güvenlik önlemlerinin artırılması ve şehirdeki huzur ortamının güçlendirilmesi amacıyla kritik bir toplantı gerçekleştirildi. Vali Tahir Şahin başkanlığında yapılan zirvede, asayişten suçla mücadeleye kadar birçok başlık detaylı şekilde ele alındı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/kulismanset-257.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_a75e366f",
-    "title": "Trio'da derbinin hakem kararları masaya yatırıldı! Barış'ın pozisyonu kırmızı kart mı?",
-    "source": "61 Saat",
-    "time": "05/04/2026 08:54",
-    "link": "https://www.61saat.com/trioda-derbinin-hakem-kararlari-masaya-yatirildi-barisin-pozisyonu-kirmizi-kart-mi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'de Trabzonspor sahasında lider Galatasaray'ı Onuachu ve Nwaiwu'nun golleriyle 2-1 mağlup etmeyi başardı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/fkmsdkmfksmdf-1.png",
     "keyword": "trabzon"
   }
 ]
