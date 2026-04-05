@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8e77b14a",
+    "title": "Sarıyer'de mezarlıkta kanlı pusu! 2 ölü... Yeni gözaltılar var",
+    "source": "Habertürk",
+    "time": "05/04/2026 11:15",
+    "link": "https://www.haberturk.com/son-dakika-mezarlikta-kanli-pusu-2-olu-yeni-gozaltilar-var-3874803",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Sarıyer ilçesinde mezarlık ziyareti sırasında iki grup arasında çıkan çatışmada 2 kişi hayatını kaybetmişti. Olayla ilgili bir kişi daha gözaltına alınırken, saldırganların araçla kaçma anının görüntüleri ortaya çıktı",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775305766/3874803/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_77f77405",
     "title": "İran'dan müzakere açıklaması",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Aile ve Sosyal Hizmetler Bakanlığı, darp edilen anne ve özel gereksinimli çocuğuyla ilgili görüntüler üzerine yaptığı açıklamada, çocuğun koruma altına alındığını, darp edilen anneye ekonomik destek sağlanacağını ve Bakanlık olarak adli sürece müdahil olacaklarını bildirdi",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775313620/3874833/jpg/1280x1280",
     "keyword": null
-  },
-  {
-    "id": "TKP_c34a47b6",
-    "title": "Trabzon'dan Gümüşhane'ye gidecekler için Zigana Tüneli uyarısı",
-    "source": "Haber61",
-    "time": "05/04/2026 10:34",
-    "link": "https://www.haber61.net/trabzon/trabzondan-gumushaneye-gidecekler-icin-zigana-tuneli-uyarisi-h628658.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon-Gümüşhane yolundaki tünellerde bakım çalışması nedeniyle trafik kontrollü veriliyor. Sürücülerin işaret ve yönlendirmelere uyması istendi.",
-    "image": "https://resim.haber61.net/news/611000.jpg",
-    "keyword": "trabzon"
   }
 ]
