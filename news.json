@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6fd175d6",
+    "title": "Bir hafıza eşiği: Harput’tan günümüze ‘Anneannem’",
+    "source": "Evrensel",
+    "time": "05/04/2026 10:13",
+    "link": "https://www.evrensel.net/haber/5978263/bir-hafiza-esigi-harput-tan-gunumuze-anneannem",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "1915’in karanlığında kimliği değiştirilen bir çocuğun, Heranuş’tan Seher’e uzanan sessiz çığlığı ve Fethiye Çetin’in kaleminden bir yüzleşme hikayesi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341658.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ffa91718",
     "title": "1920 Koşusu başladı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un Galatasaray’ı 2-1 mağlup ettiği derbinin ardından şehirde kutlamalar yaşandı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu’nun paylaşımı da dikkat çekti.",
     "image": "https://resim.haber61.net/news/610987.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_878570d6",
-    "title": "Bugün televizyonda neler var?",
-    "source": "Habertürk",
-    "time": "05/04/2026 08:54",
-    "link": "https://www.haberturk.com/tv-yayin-akisi-4-nisan-2026-cumartesi-bugun-televizyonda-neler-var-show-tv-kanal-d-atv-star-tv-trt-1-now-ve-tv8-yayin-akisi-3874775",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye’nin en popüler kanalları, 4 Nisan 2026 Cumartesi gününün TV yayın akışlarını açıkladı. Bugün ekranlarda hem heyecanla beklenen dizilerin yeni bölümleri hem de çeşitli programlar izleyiciyle buluşacak. Hafta sonunu evde geçirmek isteyenler için Show TV, Kanal D, ATV, Star TV, TRT 1, NOW ve TV8’in güncel yayın akışlarını bir araya getirdik. İşte “Bugün televizyonda hangi programlar var?” sorusunun cevabı haberimizde...",
-    "image": "https://im.haberturk.com/l/2026/04/04/ver1775296887/3874775/jpg/1280x1280",
-    "keyword": null
   }
 ]
