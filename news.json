@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_35247860",
+    "title": "İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 292'ye yükseldi",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 13:13",
+    "link": "https://www.aa.com.tr/tr/guncel/israilin-gazzeye-saldirilarinda-can-kaybi-72-bin-292ye-yukseldi/3892494",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 292'ye ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3d47c6c0",
     "title": "Lise öğrencileri, mobil oyunların bağımlılık riskini analiz eden uygulama geliştirdi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Genel Başkanı Özgür Özel, 'Millet iradesine sahip çıkıyor' eylemleri kapsamında 103'üncü mitingde Kütahya'da halka seslendi. Özel, \"Gözaltına alıp 40 saat uykusuz bıraktıkları belediye başkanımız Mustafa Bozbey'i tutukladılar. 7 yıl öncesinden bir yalancı şahit ortaya çıktı. 3 kişi, Bursa'da 500 kişiyi dolandırmışlar. Dün akşam Bursa ayağa kalkmıştı. Seçme ve seçilme hakkına sahip çıkmak için. Bu haklılıktandır\" dedi",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775299459/3874784/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad473ed9",
-    "title": "Portakal Çiçeği Karnavalı'nda portakallı lezzetler",
-    "source": "Habertürk",
-    "time": "05/04/2026 12:14",
-    "link": "https://www.haberturk.com/adana-da-karnaval-kapsaminda-portakalli-lezzetler-yarismasi-duzenlendi-3874786",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adana'da devam eden 14. Uluslararası Portakal Çiçeği Karnavalı kapsamında 'Portakallı Lezzetler Yarışması' gerçekleştirildi",
-    "image": "https://im.haberturk.com/l/2026/04/04/ver1775301204/3874786/jpg/1280x1280",
     "keyword": null
   }
 ]
