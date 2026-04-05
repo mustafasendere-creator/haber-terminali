@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ee2c2d1e",
+    "title": "Almanya'da askerlik için yeni düzenlemeler",
+    "source": "Habertürk",
+    "time": "05/04/2026 10:55",
+    "link": "https://www.haberturk.com/almanya-da-askerlik-icin-yeni-duzenlemeler-17-45-yas-arasindaki-erkekler-uzun-sure-ulke-disina-cikma-3874812",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman basınında yer alan haberde, Almanya'da 17-45 yaş arası erkeklerin uzun süre ülke dışına çıkmadan önce Alman ordusundan izin almak zorunda olduğu belirtildi. Haberde, erkeklerin ülke dışına çıkmadan önce izin almadıkları takdirde ne gibi sonuçlarla karşılaşacaklarına dair sorunun yanıtsız kaldığı ifade edildi",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775311555/3874812/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8f4c55f5",
     "title": "Rutte ile görüştü",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika haberine göre, Birleşik Arap Emirlikleri'nin Abu Dabi kentindeki Borouge petrokimya tesisine düzenlenen saldırı sonrası çıkan yangın nedeniyle tesisin faaliyetleri askıya alındı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/son-dakika-abu-dabide-borouge-petrokimya-tesisine-saldiri-faaliyetler-askiya-alindi-a1xw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d86f01e6",
-    "title": "Seyir halindeki tır küle döndü",
-    "source": "TRT Haber",
-    "time": "05/04/2026 10:14",
-    "link": "https://www.trthaber.com/haber/turkiye/seyir-halindeki-tir-kule-dondu-940453.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aydın'da seyir halindeki tırda yangın çıktı. İtfaiye ekiplerinin müdahalesiyle yangın söndürülürken tırda maddi hasar meydana geldi.",
-    "image": null,
     "keyword": null
   }
 ]
