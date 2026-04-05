@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_286bcd14",
+    "title": "Diş ağrısına çözüm ararken ölüyordu",
+    "source": "TRT Haber",
+    "time": "05/04/2026 13:54",
+    "link": "https://www.trthaber.com/haber/turkiye/dis-agrisina-cozum-ararken-oluyordu-940483.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik'in Osmaneli ilçesinde bir çiftlikte çalışan işçi, diş ağrısını gidermek amacıyla çok sayıda farklı madde tüketti. İçtiği ürünlerin tehlikeli olması sebebiyle işçinin hayati tehlikesi bulunuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d0773ef4",
     "title": "Karaciğerin 'detoks'a ihtiyacı yok",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Eski futbolcu ve futbol yorumcusu Hasan Şaş, Galatasaray'ın Süper Lig'de deplasmanda Trabzonspor'a 2-1 yenildiği maçı değerlendirdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/50c513f0-7e44-4c31-a573-7e6300595d37.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e3063f2b",
-    "title": "Tunca ve Meriç'te ‘sarı alarm’ uyarısı: Su seviyesi yükselmeye devam ediyor",
-    "source": "Haber Global",
-    "time": "05/04/2026 12:54",
-    "link": "https://haberglobal.com/gundem/tunca-ve-mericte-sari-alarm-uyarisi-su-seviyesi-yukselmeye-devam-ediyor-517075",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bulgaristan'da etkisini gösteren yoğun yağışların sonrasında Edirne'de su seviyelerinde artış yaşanan Tunca ve Meriç nehirlerinde 'sarı alarm' uyarısı devam ediyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/tunca-ve-mericte-sari-alarm-uyarisi-su-seviyesi-yukselmeye-devam-ediyor-lwq3.jpg",
     "keyword": null
   }
 ]
