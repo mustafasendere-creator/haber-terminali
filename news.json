@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_39dcabad",
+    "title": "Bahreyn: İran saldırısı sonucu bir tesiste çıkan yangın söndürüldü",
+    "source": "TRT Haber",
+    "time": "05/04/2026 12:34",
+    "link": "https://www.trthaber.com/haber/dunya/bahreyn-iran-saldirisi-sonucu-bir-tesiste-cikan-yangin-sonduruldu-940476.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bahreyn, İran saldırısı sonucunda bir tesiste çıkan yangının sivil savunma ekipleri tarafından söndürüldüğünü bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_600f455f",
     "title": "Dünya borsalarında 14 trilyon dolar buhar oldu",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Uluslararası işbirlikleri aracılığıyla nükleer alanda bilgi transferini hızlandıran TSE, hem yerli uzman yetişmesine katkı sunuyor hem de Türkiye'nin bu stratejik alandaki rekabet gücünü artırıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_36cf668e",
-    "title": "Emtia piyasalarında jeopolitik gelişmelerin enflasyon ve faiz beklentilerine etkisi izlendi",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 11:53",
-    "link": "https://www.aa.com.tr/tr/guncel/emtia-piyasalarinda-jeopolitik-gelismelerin-enflasyon-ve-faiz-beklentilerine-etkisi-izlendi/3892469",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Emtia piyasalarında tamamlanan haftada, ABD/İsrail-İran Savaşı'na ilişkin haber akışı yakından izlenirken, Orta Doğu kaynaklı enerji arzı ve lojistik riskleri ile bu risklerin enflasyon ve faiz beklentilerine etkisi fiyatlamalarda belirleyici oldu.",
     "image": null,
     "keyword": null
   }
