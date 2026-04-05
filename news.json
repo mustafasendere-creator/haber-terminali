@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ffba995d",
+    "title": "Türkiye'nin ilk özgün ilaç adayının faz 1 çalışması tamamlandı",
+    "source": "TRT Haber",
+    "time": "05/04/2026 11:34",
+    "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-ozgun-ilac-adayinin-faz-1-calismasi-tamamlandi-940467.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Türkiye kendi laboratuvarında, hastanelerinde, hocaları ve bilim insanları vasıtasıyla ilk defa bir molekülü ortaya çıkarma aşamasında. Bugün faz 1 çalışmalarında çok başarılı oldu.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_7ea2f434",
     "title": "Trabzonspor’un Kahramanı Konuştu! “Bu Maçın Değerini Biliyorduk”",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "2329 Mart haftasında günlük ortalama 1436 uçuşla İstanbul Havalimanı, Avrupanın en yoğun havalimanı oldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_15f94d77",
-    "title": "Antalya'da feci kaza: 2 ölü, 2 yaralı",
-    "source": "TRT Haber",
-    "time": "05/04/2026 10:54",
-    "link": "https://www.trthaber.com/haber/turkiye/antalyada-feci-kaza-2-olu-2-yarali-940458.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya'nın Korkuteli ilçesinde otomobil ağaca çarptı. Yaşanan kazada 2 kişi hayatını kaybetti, 2 kişi ağır yaralandı.",
     "image": null,
     "keyword": null
   }
