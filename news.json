@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e6089b44",
+    "title": "Bireyin ve toplumların grameri",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 10:54",
+    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bireyin-ve-toplumlarin-grameri-2492502",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Annesini arayan bir kadın... Arayış yolculuğunda hem kendi hem de kolektif hafızanın biriktirdiği hayaletlerle yüzleşiyor. Bu yüzleşme, araftan kurtulmak demek. Belki yaşama belki de ölüler diyarına bir adım atmak anlamına geliyor. Geçen yıldan bu yana festivallerin gözdesi olan “Gündüz Apollon Gece Athena” dijital ortamda sinema izleyicisiyle buluştu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b925e311-eb36-4e77-bb1d-a0a4cc1e0e21.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2e2d6928",
     "title": "Fenerbahçe derbisi öncesi... Beşiktaş'ta El Bilal Toure gelişmesi!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sinematek/Sinema Evi’nin Şubat-Nisan programı, Peter Watkins retrospektifi ile 7-8 Nisan tarihlerinde sona eriyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341663.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b5c5b01c",
-    "title": "AKOM uyardı: Güneşli günlere aldanmayın, soğuk hava geliyor",
-    "source": "Evrensel",
-    "time": "05/04/2026 10:13",
-    "link": "https://www.evrensel.net/haber/5978279/akom-uyardi-gunesli-gunlere-aldanmayin-soguk-hava-geliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKOM, İstanbul’da cuma ve cumartesi günleri sıcaklıkların ciddi şekilde düşeceğini açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341380.jpg",
     "keyword": null
   }
 ]
