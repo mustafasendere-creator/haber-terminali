@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f01963d1",
+    "title": "Emekli yurttaştan 'erken seçim' çağrısı: 'Dayanacak gücümüz kalmadı. Emeklinin, gençlerin, çiftçinin ve esnafın istediği sandıktır'",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 03:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/emekli-yurttastan-erken-secim-cagrisi-dayanacak-gucumuz-kalmadi-emeklinin-genclerin-ciftcinin-ve-esnafin-istedigi-sandiktir-2492365",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP’nin cumhurbaşkanı adayı ve İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu’nun serbest bırakılması ve erken seçim talebiyle başlattığı \"Millet İradesine Sahip Çıkıyor\" mitinglerinin 103’üncüsü Kütahya’da yapıldı. Miting katılan yurttaşlar yaşadıkları sakıntılarını ve beklentilerini dile getirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/37ac4aae-e6f7-45da-b828-1f8919cf9526.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c5445aba",
     "title": "Bursa Büyükşehir Belediye Başkanı Bozbey görevden uzaklaştırıldı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Personel Genel Müdürümüz Sayın Seyfullah ARSLANTÜRK, DSİ Trabzon Bölge Müdürlüğünü ziyaret etti. Bölge Müdür Yardımcısı Sayın Deniz KENANOĞLU ve çalışma arkadaşlarımızdan yürütülen faaliyetler ile projeler hakkında bilgiler aldı. @dsi_22_blgm  x.com",
     "image": null,
     "keyword": "trabzon ziyaret"
-  },
-  {
-    "id": "GND_739ca82d",
-    "title": "ABD’ye bağımlılık Körfez ülkelerini açmaza itiyor",
-    "source": "Evrensel",
-    "time": "05/04/2026 01:14",
-    "link": "https://www.evrensel.net/haber/5978243/abdye-bagimlilik-korfez-ulkelerini-acmaza-itiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Askeri ve güvenlik bağlarıyla ABD'ye bağımlı olan Körfez ülkeleri, İran'ın misilleme stratejisiyle ekonomik bir çekim merkezi olmaktan çıkıp güvensiz bölgelere dönüşüyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/293623.jpg",
-    "keyword": null
   }
 ]
