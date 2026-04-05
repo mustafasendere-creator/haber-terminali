@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_25344918",
+    "title": "Hazine ve Maliye Bakanlığı ve TCMB \"faiz politikası\" haberlerini yalanladı",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 10:13",
+    "link": "https://www.aa.com.tr/tr/guncel/hazine-ve-maliye-bakanligi-ve-tcmb-faiz-politikasi-haberlerini-yalanladi/3892362",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hazine ve Maliye Bakanlığı, Bakan Mehmet Şimşek'in yerli ve yabancı tüm toplantılarda prensip olarak faiz politikası hakkında \"asla\" yorum yapmadığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5120c879",
     "title": "Merkez Bankası'ndan 'Gizli bilgi' iddiasına yanıt",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'da gece saatlerinden itibaren etkisini gösteren sis sabah saatlerinde yoğunluğunu artırdı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/fe06f480-e9bb-444f-a875-783fd4397b5a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_83695501",
-    "title": "İran bu sözlerle duyurdu: Büyük bir sürprizimiz var",
-    "source": "Haber Global",
-    "time": "05/04/2026 08:53",
-    "link": "https://haberglobal.com/dunya/iran-bu-sozlerle-duyurdu-buyuk-bir-surprizimiz-var-517045",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İranlı bir güvenlik yetkilisi, \"Amerika ve Siyonist rejim için büyük bir sürprizimiz var. Sadece biraz zaman alacak\" dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/iran-bu-sozlerle-duyurdu-buyuk-bir-surprizimiz-var-xhi3.jpg",
     "keyword": null
   }
 ]
