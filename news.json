@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0e91b503",
+    "title": "İstanbul'daki trafik kazasında yaralanan polis Seçkin Yalçın şehit oldu",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 12:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-daki-trafik-kazasinda-yaralanan-polis-seckin-yalcin-sehit-oldu-2492536",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuzey Marmara Otoyolu'nda 30 Mart'ta meydana gelen trafik kazasında yaralanan polis memuru Seçkin Yalçın, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen kurtarılamadı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/16547c0e-95e7-4dfc-aff7-8c261d1b64d7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f876f556",
     "title": "Tunca ve Meriç nehirlerinde ‘sarı alarm’ uyarısı!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "\"Suç işlemek amacıyla örgüt kurma ve yönetme ve rüşvet alma\" iddiasıyla tutuklanan Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey, İçişleri Bakanlığı kararıyla görevden uzaklaştırıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5547e1ca",
-    "title": "Türkiye'de avukat sayısı beş yılda yüzde 44 arttı",
-    "source": "Diken",
-    "time": "05/04/2026 12:14",
-    "link": "https://www.diken.com.tr/turkiyede-avukat-sayisi-bes-yilda-yuzde-44-artti/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'de avukat sayısı beş yılda yüzde 44 arttı 05.04.2026 DikenTürkiye'de kayıtlı avukat sayısı 2020'den bu yana 63 bin 348 artarak 206 bin 678'e yükseldi.\nThe post Türkiye'de avukat sayısı beş yılda yüzde 44 arttı appeared first on #site_linkat 05.04.2026 .",
     "image": null,
     "keyword": null
   }
