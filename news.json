@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d313dff7",
+    "title": "\"ABD İran'a 48 saatlik ateşkes önerdi\" iddiası",
+    "source": "Habertürk",
+    "time": "05/04/2026 14:15",
+    "link": "https://www.haberturk.com/abd-iran-a-48-saatlik-ateskes-onerdi-iddiasi-3874735",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın Fars Haber Ajansı'na konuşan kaynaklar, ABD'nin \"İran'a 48 saatlik geçici ateşkes teklifinde bulunduğunu\" öne sürdü. Tahran'ın ise bu teklifi reddettiği, ateşkes teklifine sahada saldırılarına devam ederek cevap verdiği iddia edildi​​​​​​​",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775285274/3874735/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_e4ec2cdf",
     "title": "Kent Biliminin Duayeni Trabzon Günleri’nde: Ruşen Keleş Ankara’da Konuşacak",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Mesut Hakkı Caşın (@MesutCasin) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon memur"
-  },
-  {
-    "id": "YRL_5ce43d65",
-    "title": "Trabzon Turizminde Yeni Yol Haritası: 150 Uzman Aynı Masada",
-    "source": "Taka Gazetesi",
-    "time": "05/04/2026 13:34",
-    "link": "https://www.takagazete.com.tr/trabzon-turizminde-yeni-yol-haritasi-150-uzman-ayni-masada",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da turizmin geleceğini şekillendirecek kritik bir süreç başladı. Trabzon Büyükşehir Belediyesi tarafından başlatılan Turizm Master Planı çalışmaları kapsamında düzenlenen “Arama Konferansı” çalıştayında, yaklaşık 150 uzman isim bir araya gelerek kentin turizm potansiyelini masaya yatırdı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/turizm-haber-1.jpg",
-    "keyword": null
   }
 ]
