@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3f2545bb",
+    "title": "Minibüs takla attı: 1 ölü,12 yaralı",
+    "source": "Habertürk",
+    "time": "05/04/2026 12:55",
+    "link": "https://www.haberturk.com/iscileri-tasiyan-minibus-takla-atti-1-olu-12-yarali-3874760",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın İznik ilçesinde işçileri taşıyan minibüsün takla attığı kazada, aracın altında kalan Melik Bingöl hayatını kaybetti, 12 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775291841/3874760/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_40e10a86",
     "title": "2 gün sonra acı haber",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk Standardları Enstitüsü TSE, Türkiye'nin ilk nükleer enerji projesi olan Akkuyu Nükleer Güç Santrali'nde Akkuyu NGS inşaat ve montajdan işletmeye alma süreçlerine kadar 20 bini aşkın denetim gerçekleştirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f3ce03e1",
-    "title": "Uzmanlar uyardı: Halı saha maçları gizli kalp hastalıklarını tetikliyor",
-    "source": "TRT Haber",
-    "time": "05/04/2026 12:14",
-    "link": "https://www.trthaber.com/haber/saglik/uzmanlar-uyardi-hali-saha-maclari-gizli-kalp-hastaliklarini-tetikliyor-940475.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Havaların ısınmasıyla artan halı saha maçları, fark edilmeyen sinsi kalp hastalıklarını tetikleyebiliyor. Özellikle göğse alınan sert darbelerin ani ritim bozukluklarına ve hayati tehlikelere yol açabileceğine dikkat çeken uzmanlar; nefes darlığı, göğüs ağrısı veya baş dönmesi hissedenlerin oyunu derhal bırakması gerektiğini vurguluyor.",
     "image": null,
     "keyword": null
   }
