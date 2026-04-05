@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_82f27b09",
+    "title": "Suudi Arabistan, hava sahasına giren bir seyir füzesinin imha edildiğini duyurdu",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 09:53",
+    "link": "https://www.aa.com.tr/tr/guncel/suudi-arabistan-hava-sahasina-giren-bir-seyir-fuzesinin-imha-edildigini-duyurdu/3892336",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Savunma Bakanlığı, ülke hava sahasına giren bir seyir füzesinin engellendiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d4eba0aa",
     "title": "ABD'de görevden alınan Kara Kuvvetleri Komutanı, ordunun \"karakterli liderleri\" hak ettiğini belirtti",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da piknik sezonunun başlamasıyla birlikte çevre kirliliği yeniden gündeme gelirken, vatandaşların doğaya karşı daha duyarlı olması gerektiği vurgulanıyor.",
     "image": "https://resim.haber61.net/news/610985.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_db0a5931",
-    "title": "Her 10 bebekten 8'i bu iki kıtada doğacak",
-    "source": "Habertürk",
-    "time": "05/04/2026 08:34",
-    "link": "https://www.haberturk.com/2026-da-dunya-nufusunun-agirlik-merkezi-degisiyor-her-10-bebekten-8i-bu-iki-kitada-dogacak-3874811",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 yılında bebeklerin büyük bölümü sınırlı bir coğrafyada doğacak. Birleşmiş Milletler (BM) verilerine göre, bu yıl küresel doğumların yüzde 85’i yalnızca iki kıtada gerçekleşecek. Her 10 bebekten 8’i bu iki kıtada dünyaya gözlerini açacak. Peki dünya nüfusunun ağırlık merkezi nereye kayıyor? İşte kıta kıta yeni yılın doğum karnesi!",
-    "image": "https://im.haberturk.com/l/2026/04/04/ver1775338714/3874811/jpg/1280x1280",
-    "keyword": null
   }
 ]
