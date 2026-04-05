@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e2b5f14",
+    "title": "Trump duyurdu: İran'da düşürülen ABD savaş uçağındaki kayıp pilot kurtarıldı",
+    "source": "Euronews",
+    "time": "05/04/2026 10:54",
+    "link": "http://tr.euronews.com/2026/04/05/trump-duyurdu-iranda-dusurulen-abd-savas-ucagindaki-kayip-pilot-kurtarildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trump pazar günü yaptığı açıklamada, İran'da düşürülen ABD savaş uçağındaki kayıp mürettebat üyesinin 'cesur' bir arama-kurtarma görevi sonucunda bulunduğunu bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3901d76c",
     "title": "Meloni Körfez'de: Katar, BAE ve Suudi Arabistan ile enerji ve Hürmüz'ün açılmasını konuştu",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Karabük'te kendisinin \"Mesih\" olduğunu iddia eden 61 yaşındaki M.D'nin evinin çatısına ve önündeki çitlere yazdığı yazılar, polis ve zabıta ekiplerinin kontrolünde kaldırıldı. Olayla ilgili inceleme başlatıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/a8ac1def-a053-4e7c-87a3-ac8660d6bd18.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5e251c46",
-    "title": "FA Cup'ta sürpriz yarı finalist: Southampton, Arsenal'i yıktı!",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 09:54",
-    "link": "https://www.cumhuriyet.com.tr/spor/fa-cup-ta-surpriz-yari-finalist-southampton-arsenal-i-yikti-2492486",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Premier Lig ekibi Arsenal, Championship ekibi Southampton'a 2-1 yenilerek Federasyon Kupası'na çeyrek finalde veda etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/763f6a3c-2900-4c5b-a9e6-cd7bc5a66594.jpg",
     "keyword": null
   }
 ]
