@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c4de257",
+    "title": "Osmanlı tarih sahnesine ilk adımı Bursa’nın fethiyle attı",
+    "source": "A Haber",
+    "time": "05/04/2026 07:13",
+    "link": "https://www.ahaber.com.tr/yazarlar/erhan-afyoncu/2026/04/05/osmanli-tarih-sahnesine-ilk-adimi-bursanin-fethiyle-atti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa ilk olarak 1080’de Türklerin eline geçti. Daha sonra birkaç defa Bizans’la el değiştirdi. Osman Gazi, Bursa’yı 1300’lerden itibaren ablukaya almıştı. Yaklaşık 25 yıl süren kuşatma sonucunda...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_f65b3d78",
     "title": "‘Tek vatanım var, onun için ölmeye geldim’",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "FA Cup çeyrek final maçında Manchester City, sahasında Liverpool'u 4-0 mağlup ederek yarı finale yükseldi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/58ac6f6a-7baa-41e9-a9e7-85a4d92a1172.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2b6046f9",
-    "title": "KKTC'deki tarihi Lala Mustafa Paşa Camii restore edilecek",
-    "source": "TRT Haber",
-    "time": "05/04/2026 03:53",
-    "link": "https://www.trthaber.com/haber/turk-dunyasi/kktcdeki-tarihi-lala-mustafa-pasa-camii-restore-edilecek-940430.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "KKTC'nin Gazimağusa kentinde bulunan tarihi Lala Mustafa Paşa Camii'nde restorasyon çalışmalarına başlanacak.",
-    "image": null,
     "keyword": null
   }
 ]
