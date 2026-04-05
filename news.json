@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c92ce55",
+    "title": "Terramasyonla ölümden toprağa: İnsan bedenleri 'güzel' toprağa dönüştürüldü",
+    "source": "Euronews",
+    "time": "05/04/2026 08:13",
+    "link": "http://tr.euronews.com/2026/04/05/terramasyonla-olumden-topraga-insan-bedenleri-guzel-topraga-donusturuldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bu Paskalya’da aklınızda yeniden doğuş mu var? İnsan kompostu yöntemi, öldüğünüzde bedeninizi “göz alıcı, verimli” toprağa dönüştürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b54d3e98",
     "title": "Erdoğan ve Zelenski bir araya geldi",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İsrail'in 28 Şubat tarihinde İran'a yönelik başlattığı saldırılar devam ediyor. Karşılıklı misillemelerin sürdüğü ve tansiyonun giderek yükseldiği savaşta çarpıcı bir gelişme yaşandı. ABD Başkanı Donald Trump, süre verdiği İran'ın 48 saatinin kaldığını belirttiği açıklamasında, \"Anlaşma yapmazlarsa cehennem üzerlerine inecek\" dedi. İran da Trump'a çok sert karşılık verdi. İran'dan \"Tüm bölge cehenneme dönüşür\" açıklaması geldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/trumpin-yeni-tehdidine-irandan-sert-yanit-tum-bolge-cehenneme-donusur-dusi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b07e62d5",
-    "title": "Bugün hava nasıl olacak?",
-    "source": "TRT Haber",
-    "time": "05/04/2026 06:34",
-    "link": "https://www.trthaber.com/haber/turkiye/bugun-hava-nasil-olacak-940436.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bugün yurdun büyük bölümünde yağış beklenirken, Hava sıcaklıklarının Ege kıyıları ve Trakya'da 3 ila 5 derece artacağı, diğer yerlerde önemli bir değişiklik olmayacağı tahmin ediliyor.",
-    "image": null,
     "keyword": null
   }
 ]
