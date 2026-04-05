@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b54d3e98",
+    "title": "Erdoğan ve Zelenski bir araya geldi",
+    "source": "10Haber",
+    "time": "05/04/2026 08:13",
+    "link": "https://10haber.net/dunya/erdogan-ve-zelenski-bir-araya-geldi-692557/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski ani bir İstanbul ziyareti yaptı, Cumhurbaşkanı Recep Tayyip Erdoğan&#8217;la bir araya geldi. Erdoğan, Zelenski&#8217;yi, Cumhurbaşkanlığı Dolmabahçe Ofisi&#8217;nde resmi törenle karşıladı. Tören sonrası, Erdoğan ile Zelenski ile bir araya geldi. Görüşmede, Ukrayna- savaşında barış arayışları ile bölgesel ve küresel gelişmeler ele alındı. Erdoğan görüşmede, &#8220;Ukrayna ile Rusya arasındaki müzakerelere Türkiye&#8217;nin desteğinin [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69d1e1cf16dd47.89458345.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6be689bc",
     "title": "Kütahya'da kurbağaların ormandan gölete 5 bin yıllık üreme göçü başladı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bugün yurdun büyük bölümünde yağış beklenirken, Hava sıcaklıklarının Ege kıyıları ve Trakya'da 3 ila 5 derece artacağı, diğer yerlerde önemli bir değişiklik olmayacağı tahmin ediliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fbf91790",
-    "title": "Irakın güneyindeki petrol depoları İHA'larla hedef alındı",
-    "source": "TRT Haber",
-    "time": "05/04/2026 06:33",
-    "link": "https://www.trthaber.com/haber/dunya/irakin-guneyindeki-petrol-depolari-ihalarla-hedef-alindi-940437.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Irakın güneyindeki Meysan Petrol Şirketine bağlı Bezirgan petrol sahasındaki depoların insansız hava araçlarıyla İHA hedef alındığı duyuruldu.",
     "image": null,
     "keyword": null
   }
