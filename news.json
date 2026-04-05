@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0ffac499",
+    "title": "İstanbul'da Kahramanmaraş Tanıtım Günleri düzenlenecek",
+    "source": "TRT Haber",
+    "time": "05/04/2026 07:14",
+    "link": "https://www.trthaber.com/haber/kultur-sanat/istanbulda-kahramanmaras-tanitim-gunleri-duzenlenecek-940445.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da, Kahramanmaraş'ın kültürel ve gastronomik değerlerinin tanıtılacağı \"Kahramanmaraş Tanıtım Günleri\" gerçekleştirilecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6b07b2c1",
     "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Bu yıl 45’incisi düzenlenecek İstanbul Film Festivali 9 Nisan’da başlıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/a3d40655-eb1c-4504-b74a-3871f2aa7aec.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_fee9e574",
-    "title": "Kafayı kullanmak",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 04:14",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/ebru-kilicoglu/kafayi-kullanmak-2492448",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Derbilerde söylenen “İyi olan kazansın” ifadesi, Trabzonspor-Galatasaray maçının ortasına yerleşiyor…",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar188_cover.jpeg",
-    "keyword": "trabzon"
   }
 ]
