@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_23892d01",
+    "title": "İran'daki internet karartması tarihe geçti",
+    "source": "DW Türkçe",
+    "time": "05/04/2026 14:14",
+    "link": "https://www.dw.com/tr/iran-daki-internet-karartması-tarihe-geçti/a-76668302",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'da savaş nedeniyle uygulanan karartma, en uzun süren ulusal internet kesintisi olarak tarihe geçti. İran'da 28 Şubat'tan beri internete erişim yok.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_92acc5e3",
     "title": "Fenerbahçe - Beşiktaş derbisi ne zaman, saat kaçta? İşte muhtemel 11'ler",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bilim insanları, Pasifik Okyanusu&#039;ndan elde edilen verilerin bu sene bir El Nino olayı yaşanması ihtimalini güçlü kıldığını belirtiyor. Bazı uzmanlara göre ise Süper El Nino kapıda.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/05/kuresel-isinmaya-yeni-tehdit-super-el-nino-kapida-pm5c_cover.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_0a3762a3",
-    "title": "Genç sürücü hayatını kaybetti",
-    "source": "Habertürk",
-    "time": "05/04/2026 13:15",
-    "link": "https://www.haberturk.com/hizanda-kaza-genc-surucu-hayatini-kaybetti-3874754",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bitlis’in Hizan ilçesinde meydana gelen trafik kazasında 26 yaşındaki sürücü yaşamını yitirdi",
-    "image": "https://im.haberturk.com/l/2026/04/04/ver1775289753/3874754/jpg/1280x1280",
     "keyword": null
   }
 ]
