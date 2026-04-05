@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b8de7ce7",
+    "title": "Otelde kadın cesedi bulundu",
+    "source": "Habertürk",
+    "time": "05/04/2026 12:35",
+    "link": "https://www.haberturk.com/bahcelievler-de-otelde-kadin-cesedi-bulundu-son-dakika-3874777",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Bahçelievler'de bir otel odasında vücudunda bıçak yaraları bulunan, 3 çocuk annesi Yonca Kölge'nin cansız bedeni bulundu. Otele birlikte girdiği tespit edilen 3 yıl önce boşandığı ve 26 Mart'ta açık cezaevinden izinli çıkan Salih B., saklandığı konteynerda yakalandı. Cinayetle ilgili 3 kişi gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775299647/3874777/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_58cb04c3",
     "title": "Sobadan sızan gazdan hayatını kaybetti",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'de kayıtlı avukat sayısı 2020'den itibaren 63 bin 348 artarak 206 bin 678'e yükseldi. Avukatların önemli bir bölümü İstanbul ve Ankara olmak üzere iki büyükşehirde yoğunlaşıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0486a4b3",
-    "title": "Ticaret Bakanlığı'ndan denetim seferberliği",
-    "source": "TRT Haber",
-    "time": "05/04/2026 11:54",
-    "link": "https://www.trthaber.com/haber/ekonomi/ticaret-bakanligindan-denetim-seferberligi-940474.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanlığının sorumluluğundaki başta çocuk, oyuncak, kırtasiye ve mobilya olmak üzere, ürün gruplarına yönelik piyasa gözetimi ve denetimi kapsamında, bu yılın 3 ayında 4,4 milyon lira ceza verildi.",
     "image": null,
     "keyword": null
   }
