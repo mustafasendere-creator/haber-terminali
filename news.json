@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e0b17bfe",
+    "title": "Emtia piyasası savaş ve siyaset kıskacında",
+    "source": "TRT Haber",
+    "time": "05/04/2026 13:14",
+    "link": "https://www.trthaber.com/haber/ekonomi/emtia-piyasasi-savas-ve-siyaset-kiskacinda-940468.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Emtia piyasalarında tamamlanan haftada, ABD/İsrailİran Savaşı'na ilişkin haber akışı yakından izlenirken, Orta Doğu kaynaklı enerji arzı ve lojistik riskleri ile bu risklerin enflasyon ve faiz beklentilerine etkisi fiyatlamalarda belirleyici oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_10a6666d",
     "title": "Lucescu yoğun bakıma kaldırıldı",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Artemis II mürettebatı, Ay'ın karanlık yüzünü belgeleyecekleri tarihi göreve hazırlanıyor. Her şey planlandığı gibi giderse, Orion uzay aracı Ay’ın etrafında hızla dolanırken astronotlar, insanlık tarihinde Dünya’dan en uzak noktaya giden kişiler olarak rekora imza atacaklar.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_db2dbd8f",
-    "title": "Leipzig’de yumurta sanatı: Gelenekten modern yoruma uzanan 8.000 eser",
-    "source": "Euronews",
-    "time": "05/04/2026 12:34",
-    "link": "http://tr.euronews.com/kultur/2026/04/05/leipzigde-yumurta-sanati-gelenekten-modern-yoruma-uzanan-8000-eser",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Leipzig’de düzenlenen uluslararası Paskalya yumurtası fuarında profesyoneller, basit bir süsleme olarak görülen Paskalya dekorasyonunun ne kadar ileri götürülebileceğini gözler önüne seriyor.",
     "image": null,
     "keyword": null
   }
