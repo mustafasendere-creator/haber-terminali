@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_40e10a86",
+    "title": "2 gün sonra acı haber",
+    "source": "Habertürk",
+    "time": "05/04/2026 12:55",
+    "link": "https://www.haberturk.com/mardin-de-olu-bulunan-alzheimer-hastasi-kadin-topraga-verildi-3874763",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mardin'in Kızıltepe ilçesinde evden çıktıktan sonra haber alınamayan, arama çalışmalarının 2'nci gününde arazide ölü bulunan Alzheimer hastası Cemile Özkan, toprağa verildi",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775292634/3874763/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_97e79d05",
     "title": "Bahçeli'den Türkeş'in kabrine ziyaret",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Havaların ısınmasıyla artan halı saha maçları, fark edilmeyen sinsi kalp hastalıklarını tetikleyebiliyor. Özellikle göğse alınan sert darbelerin ani ritim bozukluklarına ve hayati tehlikelere yol açabileceğine dikkat çeken uzmanlar; nefes darlığı, göğüs ağrısı veya baş dönmesi hissedenlerin oyunu derhal bırakması gerektiğini vurguluyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_6db0d812",
-    "title": "Icardi'den eleştirile iddialı cevap: Sonunda biz şampiyon olacağız",
-    "source": "OdaTV",
-    "time": "05/04/2026 12:14",
-    "link": "https://www.odatv.com/spor/icardiden-elestirile-iddiali-cevap-sonunda-biz-sampiyon-olacagiz-120142134",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Galatasaray’ın golcü ismi Mauro Icardi, Trabzonspor mağlubiyeti ve sergilediği kötü performans sonrası gelen tepkilere sosyal medya üzerinden iddialı bir yanıt vererek, &quot;Beni istediğiniz kadar eleştirin. Sonunda şampiyon biz olacağız&quot; dedi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/05/icardiden-elestirile-iddiali-cevap-sonunda-biz-sampiyon-olacagiz-0f5t.jpg",
-    "keyword": "trabzon"
   }
 ]
