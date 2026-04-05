@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3f1717a7",
+    "title": "KDK devreye girdi, evin önündeki baz istasyonu kaldırıldı",
+    "source": "TRT Haber",
+    "time": "05/04/2026 11:34",
+    "link": "https://www.trthaber.com/haber/gundem/kdk-devreye-girdi-evin-onundeki-baz-istasyonu-kaldirildi-940465.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kamu Denetçiliği Kurumu KDK, evin önüne kurulan baz istasyonunun kaldırılması talebinin uygun bulunmasına rağmen karşılanmaması üzerine ilgili kurumlarla görüşerek kaldırılmasını sağladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ffba995d",
     "title": "Türkiye'nin ilk özgün ilaç adayının faz 1 çalışması tamamlandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trendyol Süper Lig'in 28. haftasında Fenerbahçe ile Beşiktaş karşı karşıya gelecekç Siyah-beyazlılarda El Bilal Toure, derbi kadrosunda yer almayacak.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/besiktasa-derbi-oncesi-kotu-haber-kadroda-yer-almiyor-mhbh.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_925731ef",
-    "title": "Avrupanın en yoğun havalimanı yine İstanbul",
-    "source": "TRT Haber",
-    "time": "05/04/2026 10:54",
-    "link": "https://www.trthaber.com/haber/turkiye/avrupanin-en-yogun-havalimani-yine-istanbul-940457.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2329 Mart haftasında günlük ortalama 1436 uçuşla İstanbul Havalimanı, Avrupanın en yoğun havalimanı oldu.",
-    "image": null,
     "keyword": null
   }
 ]
