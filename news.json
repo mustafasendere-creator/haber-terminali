@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_65a6c36c",
+    "title": "Trabzon’da yağışlı hafta: Sıcaklıklar düşüşe geçiyor",
+    "source": "Haber61",
+    "time": "05/04/2026 11:33",
+    "link": "https://www.haber61.net/trabzon/trabzonda-yagisli-hafta-sicakliklar-dususe-geciyor-h628671.html",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Meteoroloji verilerine göre Trabzon’da hafta boyunca yağış etkili olacak. Çarşamba gününden itibaren sıcaklıklarda düşüş bekleniyor.",
+    "image": "https://resim.haber61.net/news/611025.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dd2a20d8",
     "title": "Tatilde tattığı mantıdan yola çıkarak kurduğu imalathanede 100 kadına istihdam sağlıyor",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Karbonhidrat ve şekerden detoks ve takviyelere kadar altı yaygın diyet efsanesi doğruluk payı içermiyor. Bunun yerine bilimsel çalışmaların ne söylediğine bakabilirsiniz.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d5bad6c2",
-    "title": "Başkalarıyla biraraya gelmek beynimizi nasıl değiştiriyor?",
-    "source": "BBC Türkçe",
-    "time": "05/04/2026 10:53",
-    "link": "https://www.bbc.com/turkce/articles/cy51wd3lld2o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sinirbilimci Ben Rein başkalarıyla fiziksel olarak biraraya gelmenin fiziksel ve ruhsal faydaları olduğunu anlatıyor ancak sosyal medya aynı etkileri sağlamıyor.",
     "image": null,
     "keyword": null
   }
