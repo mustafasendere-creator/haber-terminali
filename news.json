@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_79835a58",
+    "title": "İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırılarda 3 kişi hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 09:13",
+    "link": "https://www.aa.com.tr/tr/guncel/israil-ordusunun-lubnanin-guneyine-duzenledigi-saldirilarda-3-kisi-hayatini-kaybetti/3892316",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın güneyindeki Sur kentine bağlı beldelere düzenlediği hava saldırılarında 3 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_2e394b2a",
     "title": "Karadeniz’de Bugün Hava Nasıl Olacak? Sağanak Yağış Alarmı...",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon genelinde planlı bakım, yatırım ve altyapı çalışmaları nedeniyle geniş kapsamlı elektrik kesintileri uygulanacak. Özellikle Ortahisar başta olmak üzere birçok ilçede farklı saat aralıklarında gerçekleşecek kesintiler, günlük yaşamı doğrudan etkileyecek. Yetkililer çalışmaların planlı olduğunu belirtirken, vatandaşların tedbirli olması gerektiği vurgulandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/elektrik-29.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_0a631dfb",
-    "title": "Güncel Fındık Fiyatları Ne Kadar Oldu? Trabzon Giresun Ordu Fiyat Listesi Açıklandı",
-    "source": "Taka Gazetesi",
-    "time": "05/04/2026 07:35",
-    "link": "https://www.takagazete.com.tr/guncel-findik-fiyatlari-ne-kadar-oldu-trabzon-giresun-ordu-fiyat-listesi-aciklandi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Güncel fındık fiyatları 2026 ne kadar oldu, Trabzon, Giresun ve Ordu’da fındık kaç TL, yağlı sivri yabani fındık fiyatları neden yükseldi, fiyatlar artacak mı sorularının yanıtları üreticiyi ve piyasayı yakından ilgilendirirken açıklanan son liste dikkat çekti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/findik-97.jpg",
     "keyword": "trabzon"
   }
 ]
