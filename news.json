@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1fc08f32",
+    "title": "Anadolu Gençlik Derneğinden Fatih'te ABD ve İsrail karşıtı protesto",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 08:53",
+    "link": "https://www.aa.com.tr/tr/guncel/anadolu-genclik-derneginden-fatihte-abd-ve-israil-karsiti-protesto/3892313",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anadolu Gençlik Derneği (AGD) üyesi bir grup, ABD ve İsrail'in İran'a yönelik saldırılarını protesto etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a8fa7a19",
     "title": "İstanbul'da yoğun sis! Görüş mesafesi düştü",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon genelinde planlı bakım, yatırım ve altyapı çalışmaları nedeniyle geniş kapsamlı elektrik kesintileri uygulanacak. Özellikle Ortahisar başta olmak üzere birçok ilçede farklı saat aralıklarında gerçekleşecek kesintiler, günlük yaşamı doğrudan etkileyecek. Yetkililer çalışmaların planlı olduğunu belirtirken, vatandaşların tedbirli olması gerektiği vurgulandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/elektrik-29.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8532ec77",
-    "title": "Gaziantep ile Alanya yenişemedi",
-    "source": "10Haber",
-    "time": "05/04/2026 07:34",
-    "link": "https://10haber.net/spor/gaziantep-ile-alanya-yenisemedi-692565/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "19. dakikada Maxim&#8217;in ceza alanı dışından verdiği pas ile sağ çaprazda topla buluşan Bayo&#8217;nun şutu dışarı gitti. 29. dakikada orta alandan ceza sahasına giren Lungoyi&#8217;nin sol kanattan yerden pası savunmadan döndü. 32. dakikada gelişen Alanyaspor atağında sağ kanatta topla buluşan Jo Hwang&#8217;ın vuruşu savunmadan sekerek kornere çıktı. 42. dakika Alanyaspor öne geçti. Savunmanın arkasına atılan [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69d1e2a0a21db4.89384972.jpg",
     "keyword": null
   }
 ]
