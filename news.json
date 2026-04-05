@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e4c21ac",
+    "title": "İstanbul’un film zamanı",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 04:14",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/istanbul-un-film-zamani-2492461",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bu yıl 45’incisi düzenlenecek İstanbul Film Festivali 9 Nisan’da başlıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a3d40655-eb1c-4504-b74a-3871f2aa7aec.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_fee9e574",
     "title": "Kafayı kullanmak",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor'dan Galatasaray'a yanıt: Hadsiz ve gerçeği çarpıtan...",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/gercek.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_99ed95fa",
-    "title": "Asbaşkan Zeyyat Kafkas'tan Galatasaray'a sert yanıt: \"Gerçekleri çarpıtıyorlar\"",
-    "source": "Haber61",
-    "time": "05/04/2026 01:14",
-    "link": "https://www.haber61.net/trabzonspor/asbaskan-zeyyat-kafkastan-galatasaraya-sert-yanit-gercekleri-h628647.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Asbaşkanı Zeyyat Kafkas, Galatasaray ikinci başkanı Metin Öztürk'ün açıklamalarına yanıt verdi.",
-    "image": "https://resim.haber61.net/news/610977.jpg",
     "keyword": "trabzon"
   }
 ]
