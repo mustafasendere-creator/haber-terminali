@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8112bdf5",
+    "title": "19 kaçak göçmen ölmüştü... Bot faciasında 16 şüpheli adliyeye sevk edildi",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 11:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/19-kacak-gocmen-olmustu-bot-faciasinda-16-supheli-adliyeye-sevk-edildi-2492506",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Bodrum ilçesinde lastik botun batması sonucu 19 kaçak göçmenin hayatını kaybettiği olaya ilişkin yürütülen soruşturma kapsamında gözaltına alınan 16 şüpheli, emniyetteki işlemlerinin ardından adliyeye sevk edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/bacc020a-ff0e-4b69-ad27-257fa8ad4315.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_adc204ca",
     "title": "Umre için gittikleri kutsal topraklarda mağdur olan vatandaşlar yurda dönmeye başladı",
     "source": "İHA Trabzon",
@@ -946,17 +958,5 @@
     "summary": "Kahramanmaraş’ta babasından izinsiz aldığı otomobille trafiğe çıkan 17 yaşındaki A.H., kendisini durdurmak isteyen motosikletli polislere çarpıp kaçtı. Olayda 2 polis memuru yaralanırken, kaçan ehliyetsiz sürücü kısa sürede yakalanarak gözaltına alındı",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775320472/3874852/jpg/1280x1280",
     "keyword": null
-  },
-  {
-    "id": "TKP_ed8f9d1b",
-    "title": "Trabzonspor’da Barış Alper pozisyonu gündem oldu! Eski hakemler ateş püskürdü",
-    "source": "Haber61",
-    "time": "05/04/2026 10:34",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-baris-alper-pozisyonu-gundem-oldu-eski-hakemler-ates-h628659.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Dün oynanan Trabzonspor Galatasaray maçının  51. dakikasında Barış Alper Yılmaz’ın Wagner Pina’ya yaptığı müdahale sonrası eski hakemler pozisyonu yorumladı Çakar ve Çulcu pozisyonu “Kırmızı kart olmalıydı” ifadeleriyle eleştirdi.",
-    "image": "https://resim.haber61.net/news/611001.jpg",
-    "keyword": "trabzon"
   }
 ]
