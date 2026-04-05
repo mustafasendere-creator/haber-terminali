@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f52c0dba",
+    "title": "Adana bir milyon kişiyi karnavalda buluşturdu",
+    "source": "Ekonomim",
+    "time": "05/04/2026 12:15",
+    "link": "https://www.ekonomim.com/sehirler/adana-bir-milyon-kisiyi-karnavalda-bulusturdu-haberi-886137",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Artık bir marka haline gelen Portakal Çiçeği Karnavalı 14’üncü kez yapıldı. Bu yıl da bir milyondan fazla kişiyi Adana’da buluşturan etkinlik, renkli görüntülere sahne oldu. Kortej yürüyüşü sırasında kent merkezinde trafik durdu. Yağmurdan etkilenen stantlar 8 Nisan’a kadar açık kalacak.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/05/adana-bir-milyon-kisiyi-karnavalda-bulusturdu-obng_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a20aab90",
     "title": "İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 292'ye yükseldi",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Meteoroloji verilerine göre Trabzon’da hafta boyunca yağış etkili olacak. Çarşamba gününden itibaren sıcaklıklarda düşüş bekleniyor.",
     "image": "https://resim.haber61.net/news/611025.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9c77b5db",
-    "title": "Savaş görüntülerine ABD yasağı! Resmen duyurdular",
-    "source": "Haber Global",
-    "time": "05/04/2026 11:34",
-    "link": "https://haberglobal.com/dunya/savas-goruntulerine-abd-yasagi-resmen-duyurdular-517065",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uydu görüntüleme firması Planet Labs, ABD hükümetinin talebi doğrultusunda İran ve Orta Doğu'daki çatışma bölgelerine ait görsellerin paylaşımını süresiz olarak durdurduğunu açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/savas-goruntulerine-abd-yasagi-resmen-duyurdular-nfov.jpg",
-    "keyword": null
   }
 ]
