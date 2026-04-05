@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2cc94239",
+    "title": "Türkiye'de avukatların yarısı İstanbul ve Ankarada",
+    "source": "TRT Haber",
+    "time": "05/04/2026 11:54",
+    "link": "https://www.trthaber.com/haber/turkiye/turkiyede-avukatlarin-yarisi-istanbul-ve-ankarada-940473.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'de kayıtlı avukat sayısı 2020'den itibaren 63 bin 348 artarak 206 bin 678'e yükseldi. Avukatların önemli bir bölümü İstanbul ve Ankara olmak üzere iki büyükşehirde yoğunlaşıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0486a4b3",
     "title": "Ticaret Bakanlığı'ndan denetim seferberliği",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump İran'ın düşürdüğü Amerikan savaş uçağının ikinci pilotunu da kurtardıklarını açıkladı. Kurtarma operasyonunda en az beş İranlının öldürüldüğü bildirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_26817312",
-    "title": "Papara Park’ta Gergin Final! Maç Sonu Yaşananlar Tepki Çekti",
-    "source": "Taka Gazetesi",
-    "time": "05/04/2026 11:14",
-    "link": "https://www.takagazete.com.tr/papara-parkta-gergin-final-mac-sonu-yasananlar-tepki-cekti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor-Galatasaray maçının ardından saha içinde yaşanan gerginlikler gündeme damga vurdu. Bordo-mavili taraftarlar, karşılaşma sonrası ortaya çıkan görüntülere sert tepki gösterdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/f-i-n-a-l-g-e-r-g-i-n.jpg",
     "keyword": null
   }
 ]
