@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6cebbf9c",
+    "title": "Ankara’da bazı yollar AA etkinlikleri nedeniyle trafiğe kapalı",
+    "source": "Evrensel",
+    "time": "05/04/2026 10:33",
+    "link": "https://www.evrensel.net/haber/5978273/ankarada-bazi-yollar-aa-etkinlikleri-nedeniyle-trafige-kapali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara polisi, AA’nın 106’ncı kuruluş yılı etkinlikleri kapsamında bazı yolların sabah 08.30’dan itibaren trafiğe kapatıldığını duyurdu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/293952.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_25eb9f4b",
     "title": "Trabzonspor’dan Galatasaray yöneticisine yanıt: 'Çıkıp utanmadan, sıkılmadan, pişkin pişkin...'",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Oyuncakların çocukların kişisel gelişimi üzerinden etkili olduğunu belirten Pedagog Elanur Buğce Oral, oyuncak seçiminin çocuğun geleceğini belirlediği görüşünde.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/05/oyuncaklar-cocuklari-sekillendiriyor-uw2s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_be9c39e1",
-    "title": "Çok dikkatli 'Genç Sherlock' İstanbul'a gelince kafası karıştı",
-    "source": "OdaTV",
-    "time": "05/04/2026 09:14",
-    "link": "https://www.odatv.com/kultur-sanat/cok-dikkatli-genc-sherlock-holmes-istanbula-gelince-kafasi-karisti-120141907",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "&quot;Genç Sherlock&quot;, Sherlock Holmes&#039;ün gençlik yıllarını İstanbul ve Kahramanmaraş&#039;ta anlatırken, tarihi ayrıntılar ile oryantalist klişeleri aynı potada eritiyor. Dizi sürükleyici hikayesine rağmen deve, kostüm ve mimari tercihleriyle Endülüs-Mağribi estetiğine ve egzotik Doğu imgesine yaslanıyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/03/cok-dikkatli-genc-sherlock-holmes-istanbula-gelince-kafasi-karisti-2gzo.jpg",
     "keyword": null
   }
 ]
