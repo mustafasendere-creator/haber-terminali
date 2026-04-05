@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c244452e",
+    "title": "İşgalci İsrail'den Lübnan'ın başkenti Beyrut'a hava saldırısı",
+    "source": "TRT Haber",
+    "time": "05/04/2026 13:54",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilden-lubnanin-baskenti-beyruta-hava-saldirisi-940481.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un Dahiye bölgesine hava saldırıları düzenliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_483e9139",
     "title": "Trabzonspor sahada konuştu: Galatasaray cephesinden bahaneler peş peşe",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mardin'in Kızıltepe ilçesinde evden çıktıktan sonra haber alınamayan, arama çalışmalarının 2'nci gününde arazide ölü bulunan Alzheimer hastası Cemile Özkan, toprağa verildi",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775292634/3874763/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_97e79d05",
-    "title": "Bahçeli'den Türkeş'in kabrine ziyaret",
-    "source": "Habertürk",
-    "time": "05/04/2026 12:55",
-    "link": "https://www.haberturk.com/bahceli-turkes-in-kabrini-ziyaret-etti-3874766",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Genel Başkanı Devlet Bahçeli, vefatının 29'uncu yıl dönümünde partisinin kurucu Genel Başkanı Alparslan Türkeş'in kabrini ziyaret etti",
-    "image": "https://im.haberturk.com/l/2026/04/04/ver1775293617/3874766/jpg/1280x1280",
     "keyword": null
   }
 ]
