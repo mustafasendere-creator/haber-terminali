@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_62ba0a3b",
+    "title": "Fenerbahçe-Beşiktaş derbisinin VAR hakemi belli oldu!",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 12:14",
+    "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-besiktas-derbisinin-var-hakemi-belli-oldu-2492525",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig'de Fenerbahçe ile Beşiktaş arasındaki derbide VAR hakemi olarak Abdullah Buğra Taşkınsoy görev yapacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7aff9635-091e-41c6-803d-19cb1413c648.png",
+    "keyword": null
+  },
+  {
     "id": "GND_439cb5d0",
     "title": "Ukrayna Devlet Başkanı Zelenski'yi İstanbul'da 'Bağcılar kaymakamı' karşıladı",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Trendyol Süper Lig'in 28. haftasında Galatasaray'ı 2-1 yenerek şampiyonluk iddiasını artıran Trabzonspor, teknik direktör Fatih Tekke yönetiminde bu sezon İstanbul takımları karşısında genel olarak iyi bir grafik sergiliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_97db432d",
-    "title": "Alüminyumda savaş rekoru",
-    "source": "TRT Haber",
-    "time": "05/04/2026 11:34",
-    "link": "https://www.trthaber.com/haber/ekonomi/aluminyumda-savas-rekoru-940464.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alüminyumun ton başına fiyatı, ABD/İsrailİran Savaşı kaynaklı risklerin arza yönelik bozulmalara yol açmasıyla Londra Metal Borsası'nda yüzde 10,4 artarak yaklaşık 2 yılın en hızlı aylık yükselişini kaydetti.",
     "image": null,
     "keyword": null
   }
