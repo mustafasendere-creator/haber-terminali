@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f302a78f",
+    "title": "Hızı 320 km'ye çıkıyor... Iğdır'da görüntülendi",
+    "source": "Habertürk",
+    "time": "05/04/2026 11:54",
+    "link": "https://www.haberturk.com/saatte-320-kilometre-hizla-ucabilen-kaya-kartali-igdir-da-goruntulendi-3874795",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avına saldırı sırasında saatte 320 kilometre hızla uçabilen kaya kartalı, Iğdır'daki doğal ortamında görüntülendi",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775307296/3874795/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8f8b33c1",
     "title": "Yasa dışı bahis operasyonu: 19 gözaltı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Dışişleri Bakanı Arakçi, ABD medyasının ülkelerinin müzakere tutumunu yanlış yansıttığını belirterek, \"Pakistan'a çabalarından dolayı minnettarız ve İslamabad'a gitmeyi hiçbir zaman reddetmedik\" dedi.",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775307024/3874808/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_e6bdb889",
-    "title": "Trabzonspor maçının ardından Mauro Icardi'den gece yarısı paylaşım!",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 11:15",
-    "link": "https://www.cumhuriyet.com.tr/spor/trabzonspor-macinin-ardindan-mauro-icardi-den-gece-yarisi-paylasim-2492503",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray'ın Arjantinli yıldızı Mauro Icardi, Süper Lig'de Trabzonspor'a 2-1 mağlup oldukları maçın ardından flaş bir paylaşım yaptı. Dev maçtaki performansıyla eleştirilen Icardi'nin sözleri dikkat çekti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d3cde732-f358-40a8-bb70-1004b050f523.jpg",
     "keyword": null
   }
 ]
