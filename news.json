@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c843a017",
+    "title": "Araştırma: Gençler siyasetten ümidini kesiyor",
+    "source": "10Haber",
+    "time": "05/04/2026 07:13",
+    "link": "https://10haber.net/gundem/arastirma-gencler-siyasetten-umidini-kesiyor-692546/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Habitat Derneği tarafından altıncısı açıklanan Türkiye’de Gençlerin İyi Olma Raporu’nda gençlerin siyasete ve siyasetçilere bakışına ilişkin dikkat çekici veriler ortaya çıktı. 2017’den beri hazırlanan araştırma kapsamında 9-24 Ekim 2025 tarihleri arasında, Türkiye’nin kentsel genç nüfusunu temsil eden 33 ilde, 18-29 yaş aralığındaki 1403 gençle yüz yüze görüşüldü. Gençlerin yalnızca yüzde 10.3’ü kendisini “siyasete çok ilgili” [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/01/genc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_33983adc",
     "title": "İstanbul’un film zamanı geldi",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı, 26 ilde FETÖ'ye yönelik son 2 haftadır düzenlenen operasyonlarda 90 şüphelinin yakalandığını, 69'unun tutuklandığını açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6ca8fc6e-8b85-40b1-b8d9-368357334b1e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_af0d93f1",
-    "title": "Yenimahalle'deki üçüncü Halk Kafe açıldı",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 03:53",
-    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/yenimahalle-deki-ucuncu-halk-kafe-acildi-2492362",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yenimahalle Belediyesi ilçedeki üçüncü Halk Kafe'nin açılışını yaptı. Belediye başkanı Yaşar, \"Hemşerilerimize uygun fiyatla, kaliteli hizmet veren Halk Kafelerimizden emeklilerimiz ve gençlerimiz başta olmak üzere tüm vatandaşlarımız yararlanıyorlar. Yeni Halk Kafeleri ilçemize kazandırmak için de çalışmalarımız devam ediyor\" açıklamasını yaptı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/695c4065-abfe-4731-a4b2-189c5ae90f58.jpg",
     "keyword": null
   }
 ]
