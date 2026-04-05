@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4b9c38e7",
+    "title": "Van'da 5.2 büyüklüğünde deprem!",
+    "source": "Habertürk",
+    "time": "05/04/2026 14:15",
+    "link": "https://www.haberturk.com/son-dakika-van-da-52-buyuklugunde-deprem-3874731",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Van'ın Tuşba ilçesinde saat: 08.52'de 5.2 büyüklüğünde bir deprem oldu. Depremin, yerin 7 kilometre altında meydana geldiği bildirildi. Çevre illerde de hissedilen depremle ilgili AFAD'dan yapılan açıklamada olumsuz bir durumun bildirilmediği ifade edildi",
+    "image": "https://im.haberturk.com/l/2026/04/04/ver1775283732/3874731/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_d299d026",
     "title": "Trabzon’dan Geçen Sanatın İzleri İstanbul’da: 61 Sanatçı Aynı Sergide",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca Yabancı Dil Bilgisi Seviye Tespit Sınavı (2026-YDS/1) yapıldı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d26750c1",
-    "title": "Başkan Erdoğan'dan Paskalya Yortusu mesajı",
-    "source": "A Haber",
-    "time": "05/04/2026 13:53",
-    "link": "https://www.ahaber.com.tr/gundem/2026/04/05/baskan-erdogandan-paskalya-yortusu-mesaji",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Erdoğan Hristiyanların Paskalya Yortusu'na ilişkin kutlama mesajı yayınladı. Erdoğan birlik ve beraberlik mesajını verirken \"Barış iklimini, bilhassa bölgemizin içinden geçtiği sancılı ve...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/c6898a/1200/1200/153/0/639/486?u=https://iahbr.tmgrup.com.tr/2026/04/05/baskan-erdogandan-paskalya-yortusu-mesaji-1775381864592.jpeg",
     "keyword": null
   }
 ]
