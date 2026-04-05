@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1aeda0d3",
+    "title": "Yurt genelinde sağanak alarmı! Meteoroloji il il uyardı",
+    "source": "Sözcü",
+    "time": "05/04/2026 09:14",
+    "link": "https://www.sozcu.com.tr/yurt-genelinde-saganak-alarmi-meteoroloji-il-il-uyardi-p307526",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurt genelinde sağanak alarmı! Meteoroloji il il uyardı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/hava-durumu-uyarisijpg-RobSDrixEk67BpDhPrno5w.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_d68d85b7",
     "title": "Trabzonspor’dan Galatasaray'a göndermeli paylaşım",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Kartal'da iki otomobilin çarpışması sonucu meydana gelen kazada 4 kişi yaralandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8a5988db-c41f-493e-8081-35ea6fecd65d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b28f8075",
-    "title": "Meteoroloji yeni raporu yayımladı: Sıcaklıklar artıyor, sağanak yağış geliyor",
-    "source": "Haber Global",
-    "time": "05/04/2026 07:54",
-    "link": "https://haberglobal.com/gundem/meteoroloji-yeni-raporu-yayimladi-sicakliklar-artiyor-saganak-yagis-geliyor-517043",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji Genel Müdürlüğü (MGM) tarafından günlük hava tahmin raporu yayımladı. Rapora göre bazı bölgelerde sıcaklıklar artıyor, bazı bölgelere ise sağanak yağış geliyor. İşte detaylar...",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/meteoroloji-yeni-raporu-yayimladi-sicakliklar-artiyor-saganak-yagis-geliyor-a22u.jpg",
     "keyword": null
   }
 ]
