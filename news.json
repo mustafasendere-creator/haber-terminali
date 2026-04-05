@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_405716c9",
+    "title": "Erdoğan, NATO Genel Sekreteri Mark Rutte ile telefonda görüştü",
+    "source": "Cumhuriyet",
+    "time": "05/04/2026 03:14",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-nato-genel-sekreteri-mark-rutte-ile-telefonda-gorustu-2492368",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKP'li Cumhurbaşkanı Erdoğan ve NATO Genel Sekreteri Mark Rutte, bir telefon görüşmesi gerçekleştirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8f5364f6-9353-4b7b-bf80-712cbc459907.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b035fa67",
     "title": "Türk mutfağının efsaneleşmiş lezzeti: Fırın sütlaç tarifi",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İspanya 1. Futbol Ligi'nde (LaLiga) lider Barcelona, deplasmanda Atletico Madrid'i 2-1 yendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f2e338aa",
-    "title": "Irak’ın güneyinde petrol depolarına İHA saldırısı",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 01:13",
-    "link": "https://www.aa.com.tr/tr/guncel/irak-in-guneyinde-petrol-depolarina-iha-saldirisi/3892222",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Irak’ın güneyindeki Meysan Petrol Şirketi’ne bağlı Bezirgan petrol sahasındaki depoların insansız hava araçlarıyla (İHA) hedef alındığı duyuruldu.",
     "image": null,
     "keyword": null
   }
