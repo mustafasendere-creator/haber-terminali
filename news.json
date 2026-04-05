@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b07e62d5",
+    "title": "Bugün hava nasıl olacak?",
+    "source": "TRT Haber",
+    "time": "05/04/2026 06:34",
+    "link": "https://www.trthaber.com/haber/turkiye/bugun-hava-nasil-olacak-940436.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bugün yurdun büyük bölümünde yağış beklenirken, Hava sıcaklıklarının Ege kıyıları ve Trakya'da 3 ila 5 derece artacağı, diğer yerlerde önemli bir değişiklik olmayacağı tahmin ediliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fbf91790",
     "title": "Irakın güneyindeki petrol depoları İHA'larla hedef alındı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "KONUK YAZAR | Muzaffer Ayhan Kara, Cumhuriyet Ege için yazdı...",
     "image": "https://media.cumhuriyet.com.tr/Archive/06b7266a-c385-4b37-8394-a76a82b11b5e.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_296070cd",
-    "title": "Bakanlıktan sosyal medyadaki şiddet görüntülerine ilişkin açıklama: 'Özel gereksinimli çocuğumuz devlet korumasına alınmıştır'",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 02:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/bakanliktan-sosyal-medyadaki-siddet-goruntulerine-iliskin-aciklama-ozel-gereksinimli-cocugumuz-devlet-korumasina-alinmistir-2492375",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aile ve Sosyal Hizmetler Bakanlığı, darp edilen anne ve özel gereksinimli çocuğuyla ilgili görüntüler üzerine yaptığı açıklamada, çocuğun koruma altına alındığını, darp edilen anneye ekonomik destek sağlanacağını ve Bakanlık olarak adli sürece müdahil olacaklarını bildirdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/83a63513-985d-41e2-a3c2-22e431bdd3e2.jpg",
     "keyword": null
   }
 ]
