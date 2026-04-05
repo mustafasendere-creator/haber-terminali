@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4a77dc34",
+    "title": "Fethiye'de sağanak sonrası Ölüdeniz turkuaz renge büründü",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 12:53",
+    "link": "https://www.aa.com.tr/tr/guncel/fethiyede-saganak-sonrasi-oludeniz-turkuaz-renge-burundu/3892513",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Fethiye ilçesinde etkili olan yağışın ardından dünyaca ünlü Ölüdeniz'in rengi turkuaza dönüştü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9c61c90a",
     "title": "Mısır'da küresel enerji maliyetlerindeki artış nedeniyle bazı elektrik tarifelerine zam yapıldı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avına saldırı sırasında saatte 320 kilometre hızla uçabilen kaya kartalı, Iğdır'daki doğal ortamında görüntülendi",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775307296/3874795/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_8f8b33c1",
-    "title": "Yasa dışı bahis operasyonu: 19 gözaltı",
-    "source": "Habertürk",
-    "time": "05/04/2026 11:54",
-    "link": "https://www.haberturk.com/mersin-merkezli-3-ilde-yasa-disi-bahis-operasyonunda-19-zanli-tutuklandi-3874796",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin merkezli 3 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 40 şüpheliden 19u tutuklandı",
-    "image": "https://im.haberturk.com/l/2026/04/04/ver1775304494/3874796/jpg/1280x1280",
     "keyword": null
   }
 ]
