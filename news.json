@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8f766aba",
+    "title": "Kocaeli'de 4 işçi fabrikada yüksekten düştü, 2'sinin durumu ağır",
+    "source": "Evrensel",
+    "time": "05/04/2026 13:14",
+    "link": "https://www.evrensel.net/haber/5978296/kocaelide-4-isci-fabrikada-yuksekten-dustu-2sinin-durumu-agir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli’nin Dilovası ilçesindeki bir fabrikada yaklaşık 10 metre yükseklikten düşen 4 işçi yaralandı. Hastaneye kaldırılan işçilerden 2’sinin durumu ağır.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/341677.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_d75b15af",
     "title": "Aydıntepe'nin 23 köyünde ve 4 mahallesinde şap aşılama kampanyası tamamlandı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uçak biletlerine bakarken Business Class ile Ekonomi sınıfı arasındaki devasa fiyat farkı hepimizin dikkatini çeker. Çoğumuz bu farkın sadece daha iyi yemekler, geniş diz mesafesi veya ikramlar için olduğunu düşünürüz. Ancak bu fiyat farkının arkasında, yolcuların çoğunun fark etmediği, hayat kurtaran ve oldukça pahalı bir mühendislik detayı olan hava yastıklı emniyet kemerleri yatıyor. Ekonomi sınıfında [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69d22056228d88.44763032.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_fe2fbec4",
-    "title": "Türkiye'den yılın ilk çeyreğinde 32,8 milyon dolarlık fıstık ihracatı",
-    "source": "Anadolu Ajansı",
-    "time": "05/04/2026 12:33",
-    "link": "https://www.aa.com.tr/tr/guncel/turkiyeden-yilin-ilk-ceyreginde-32-8-milyon-dolarlik-fistik-ihracati/3892480",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'den ocak-mart döneminde 32 milyon 824 bin dolarlık fıstık ihracatı gerçekleştirildi.",
-    "image": null,
     "keyword": null
   }
 ]
