@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bfe5d086",
+    "title": "Washington Post: Çinli firmalar ABD güçlerini ifşa eden İran savaşı istihbaratını pazarlıyor",
+    "source": "TRT Haber",
+    "time": "05/04/2026 04:33",
+    "link": "https://www.trthaber.com/haber/dunya/washington-post-cinli-firmalar-abd-guclerini-ifsa-eden-iran-savasi-istihbaratini-pazarliyor-940432.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Washington Post gazetesi ABDİsrail'in İran'a saldırılarında, ABD ordusunun istihbarat bilgilerinin Çinli firmalar tarafından elde edilip pazarlandığını ileri sürdü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_878b0d76",
     "title": "Kuveyt: Bakanlıklar Kompleksi İran'ın İHA saldırısında hasar gördü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İran&#039;a yönelik kısa süre önce yapılan saldırıda &quot;pek çok askeri liderin&quot; öldürüldüğünü bildirdi. Trump, saldırının görüntülerini de paylaştı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/05/trump-video-paylasti-liderleri-oldurduk-aadu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_346ca57b",
-    "title": "Barcelona farkı açıyor",
-    "source": "OdaTV",
-    "time": "05/04/2026 01:15",
-    "link": "https://www.odatv.com/spor/barcelona-farki-aciyor-120142103",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya LaLiga&#039;da lider Barcelona, deplasmanda Atletico Madrid&#039;i 2-1 yendi. Real Madrid ile olan puan farkı 7&#039;ye çıktı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/05/barcelona-farki-aciyor-mh1l.jpg",
     "keyword": null
   }
 ]
