@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2dea1282",
+    "title": "Kardeşinin acısına dayanamadı, cenazede kalp krizi geçirip öldü",
+    "source": "Haber Global",
+    "time": "05/04/2026 10:14",
+    "link": "https://haberglobal.com/gundem/kardesinin-acisina-dayanamadi-cenazede-kalp-krizi-gecirip-oldu-517052",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ordu'nun Ulubey ilçesinde kardeşi Özcan Güzen'in (60) cenaze törenin katılan 70 yaşındaki Ayşe Öksüz, geçirdiği kalp krizi sonucu hayatını kaybetti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/05/kardesinin-acisina-dayanamadi-cenazede-kalp-krizi-gecirip-oldu-tnnk.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_269020d0",
     "title": "Abu Dabi'de Borouge petrokimya tesisine saldırı: Faaliyetler askıya alındı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "İsrail ordusunun Lübnan'ın güneyindeki Sur kentine bağlı beldelere düzenlediği hava saldırılarında 3 kişi hayatını kaybetti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_2e394b2a",
-    "title": "Karadeniz’de Bugün Hava Nasıl Olacak? Sağanak Yağış Alarmı...",
-    "source": "Taka Gazetesi",
-    "time": "05/04/2026 08:54",
-    "link": "https://www.takagazete.com.tr/karadenizde-bugun-hava-nasil-olacak-saganak-yagis-alarmi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon genelinde yağış ihtimali oldukça yüksek. Nem oranı yüzde 70-90 aralığında seyrederken rüzgarın kuzeybatı yönünden hafif ve zaman zaman orta kuvvette esmesi bekleniyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/12/hava-durumu-37.jpg",
-    "keyword": "trabzon"
   }
 ]
