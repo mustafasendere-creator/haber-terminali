@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa45583a",
+    "title": "Türkiye ve dünya gündemi",
+    "source": "Anadolu Ajansı",
+    "time": "05/04/2026 09:13",
+    "link": "https://www.aa.com.tr/tr/guncel/turkiye-ve-dunya-gundemi/3892304",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye ve dünya gündemi, lider programları, etkinlikler ile bir bakışta bugünün gündemi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_79835a58",
     "title": "İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırılarda 3 kişi hayatını kaybetti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Akaryakıt fiyatlarında şok yükseliş sürerken şehir şehir güncel liste araç sahiplerinin dikkatini çekti. Türkiye genelinde benzin, motorin ve LPG fiyatlarında ciddi farklılıklar gözlenirken özellikle Trabzon’daki rakamlar dikkat çekici seviyelere ulaştı.",
     "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/12/benzin-fiyatlari-4.gif",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_fa1ac235",
-    "title": "Trabzon’da Elektrik Alarmı! 5 Nisan’da Saatler Sürecek Kesintiler Kapıda",
-    "source": "Taka Gazetesi",
-    "time": "05/04/2026 07:35",
-    "link": "https://www.takagazete.com.tr/trabzonda-elektrik-alarmi-5-nisanda-saatler-surecek-kesintiler-kapida",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon genelinde planlı bakım, yatırım ve altyapı çalışmaları nedeniyle geniş kapsamlı elektrik kesintileri uygulanacak. Özellikle Ortahisar başta olmak üzere birçok ilçede farklı saat aralıklarında gerçekleşecek kesintiler, günlük yaşamı doğrudan etkileyecek. Yetkililer çalışmaların planlı olduğunu belirtirken, vatandaşların tedbirli olması gerektiği vurgulandı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/03/elektrik-29.jpg",
     "keyword": "trabzon"
   }
 ]
