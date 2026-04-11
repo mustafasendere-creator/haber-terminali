@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_87fbd21f",
+    "title": "100. Gazi Koşusu günü belli oldu",
+    "source": "OdaTV",
+    "time": "11/04/2026 17:56",
+    "link": "https://www.odatv.com/guncel/100-gazi-kosusu-gunu-belli-oldu-120142956",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk at yarışçılığının en prestijli organizasyonu olan Gazi Koşusu, 28 Haziran’da Veliefendi’de 100. kez düzenlenecek.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/11/100-gazi-kosusu-gunu-belli-oldu-lbxg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fb7b9252",
     "title": "Ankara’da fabrika yangını: Müdahale sürüyor",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı, Van ve Hakkari'de jandarma tarafından uyuşturucu madde imalatçılarına yönelik düzenlenen operasyonlarda 446 kilogram uyuşturucu ele geçirildiğini bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3721a9cd",
-    "title": "İsrail'in Gazze'de düzenlediği saldırıda 7 kişi hayatını kaybetti",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 17:34",
-    "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-duzenledigi-saldirida-7-kisi-hayatini-kaybetti/3902122",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Gazze Şeridi'nin kuzeyindeki Beyt Lahiya ve orta kesiminde yer alan Bureyc Mülteci Kampı'nda bir polis merkezine düzenlediği hava saldırısında 7 kişinin hayatını kaybettiği, çok sayıda kişinin yaralandığı bildirildi.",
     "image": null,
     "keyword": null
   }
