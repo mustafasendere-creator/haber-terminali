@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f0d9f464",
+    "title": "Erzurum ve Ardahan'da kar yağışı",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 12:56",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/erzurum-ve-ardahan-da-kar-yagisi-2494287",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum ve Ardahan'da kar yağışı etkili oldu. Erzurum'da 100'e yakın kırsal mahallenin yolu ulaşıma kapanırken, kent merkezinde kazalar yaşandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/68d32612-7fc3-41a6-8c78-eb4f642f8d11.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_247734e0",
     "title": "Devlet desteğiyle başladı; 9 yılda 400 başa ulaştı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Manisa’nın Turgutlu ilçesinde görevli trafik polisi İsmail Güneş, Türk Polis Teşkilatı’nın 181. kuruluş yıl dönümü dolayısıyla gerçekleştirilen ziyaretle duygusal anlar yaşadı. Mehmet Dursun ve beraberindeki emniyet personeli, Güneş’i evinde ziyaret ederek geçmiş olsun dileklerini iletti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/whatsapp-image-2026-04-11-at-122737.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e8e47815",
-    "title": "Serik'te tur minibüsü ile otomobil çarpıştı: 2 yaralı",
-    "source": "Gazete Duvar",
-    "time": "11/04/2026 12:35",
-    "link": "https://www.gazeteduvar.com.tr/serikte-tur-minibusu-ile-otomobil-carpisti-2-yarali-haber-1765792",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya&#039;nın Serik ilçesinde vip tur minibüsü ile otomobilin karıştığı kazada 2 kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/06/basliksiz-1-87ha_cover.jpg",
     "keyword": null
   }
 ]
