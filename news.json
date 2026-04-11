@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70d1bc65",
+    "title": "İstanbul Yarı Maratonu 19 Nisan’da koşulacak",
+    "source": "Evrensel",
+    "time": "12/04/2026 00:54",
+    "link": "https://www.evrensel.net/haber/5979270/istanbul-yari-maratonu-19-nisanda-kosulacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Yarı Maratonu, bu yıl 21. kez 19 Nisan Pazar günü düzenlenecek. “En Hızlı Yarı, En Hızlı Sen” sloganıyla gerçekleştirilecek organizasyon, 20 bine yaklaşan katılımcı sayısıyla start almaya hazırlanıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342627.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a7904701",
     "title": "Diyarbakır’ın gündemi savaş ve belirsizlik: Biz artık o yeme düşmeyiz",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dışişleri Bakanlığı, İsrail Başbakanı Netanyahu'nun sosyal medya platformunda yaptığı paylaşıma tepki gösterdi. Bakanlık, \"Netanyahunun şu anki hedefi, devam eden barış görüşmelerini baltalamak ve bölgedeki yayılmacı politikalarını sürdürmektir. Aksi takdirde ülkesinde yargılanacak ve muhtemelen hapis cezasına çarptırılacaktır\" açıklamasını yaptı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_359bd28a",
-    "title": "CHP’li Mühip Kanko: “Tüketici eziliyor, bankalar kazanıyor”",
-    "source": "Evrensel",
-    "time": "11/04/2026 22:54",
-    "link": "https://www.evrensel.net/haber/5979153/chpli-muhip-kanko-tuketici-eziliyor-bankalar-kazaniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP'li Mühip Kanko: Yurttaşların 2026 yılının ilk iki ayında bankalara toplam 229 milyar 400 milyon lira faiz ödediğini belirterek, “Tüketici eziliyor, bankalar kazanıyor” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/333872.jpg",
     "keyword": null
   }
 ]
