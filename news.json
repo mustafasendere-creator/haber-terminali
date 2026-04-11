@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_98ca2ac1",
+    "title": "Merkez Bankası'ndan dev zarar: 1 trilyon TL",
+    "source": "DW Türkçe",
+    "time": "11/04/2026 11:56",
+    "link": "https://www.dw.com/tr/merkez-bankası-ndan-dev-zarar-1-trilyon-tl/a-76737689",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TCMB'nin 2025 bilançosunda 1 trilyon TL'yi aşan zarar açıklanırken, üç yıllık toplam zarar GSYİH'nın yüzde 6,3'üne ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_16e3a0f0",
     "title": "Sağlıklı yaşamak ve yaşlanmak için sosyalleşin",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "🔴 Meral Danış Beştaş: Bayrak önünde poz verdirenler işlerini tamamladılar ➡️ Hrant Dink'in katili Ogün Samast'ın tahliye haberini Genel Kurul'da alan TBMM Başkanvekili Sırrı Süreyya Önder: Kardeşim Hrant Dink'in hatırası önünde mahcubiyetle eğiliyorum,  x.com",
     "image": null,
     "keyword": "ogün samast"
-  },
-  {
-    "id": "GND_e64bf582",
-    "title": "Pakistan'daki barış görüşmeleri öncesinde durum ne?",
-    "source": "DW Türkçe",
-    "time": "11/04/2026 11:36",
-    "link": "https://www.dw.com/tr/pakistan-daki-barış-görüşmeleri-öncesinde-durum-ne/a-76738341",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pakistan'ın başkenti İslamabad İran savaşının sona ermesine yönelik barış görüşmelerine ev sahipliği yapmaya hazırlanıyor. Ancak ortada pek çok sorun var.",
-    "image": null,
-    "keyword": null
   }
 ]
