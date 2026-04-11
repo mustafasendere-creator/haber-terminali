@@ -1,5 +1,17 @@
 [
   {
+    "id": "TKP_bfa5dead",
+    "title": "Ankara Trabzon Günleri’nde Ekin Uzunlar coşkusu",
+    "source": "61 Saat",
+    "time": "11/04/2026 17:35",
+    "link": "https://www.61saat.com/ankara-trabzon-gunlerinde-ekin-uzunlar-coskusu",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Ankara’da düzenlenen Trabzon Günleri, Karadeniz ezgileriyle yoğun ilgi gördü.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/mkmkkmkmkmkmkm.png",
+    "keyword": "trabzon"
+  },
+  {
     "id": "GND_bfddcc24",
     "title": "BBC analizi:  Ortadoğu’daki yeniden yapılanma henüz tamamlanmadı",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Süper Lig’in 29. haftasında Alanyaspor deplasmanına çıkıyor. Bordo-mavililerde teknik direktör Fatih Tekke, karşılaşma öncesinde takımın son durumuna ilişkin değerlendirmelerde bulundu.",
     "image": "https://resim.haber61.net/news/612235.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ead64eb3",
-    "title": "Reuters: Mücteba Hamaney ağır yaralı; yüzü tanınmaz halde",
-    "source": "Evrensel",
-    "time": "11/04/2026 16:55",
-    "link": "https://www.evrensel.net/haber/5979221/reuters-mucteba-hamaney-agir-yarali-yuzu-taninmaz-halde",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Reuters’a konuşan kaynaklara göre İran dini lideri Mücteba Hamaney, ABD-İsrail saldırısında ağır yaralandı. Hamaney'in yüzünün tanınmaz halde olduğu iddia edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339566.jpg",
-    "keyword": null
   }
 ]
