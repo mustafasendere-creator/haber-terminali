@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_241f4fc3",
+    "title": "\"İyi niyetimiz var ama güvenimiz yok\"",
+    "source": "Habertürk",
+    "time": "11/04/2026 12:56",
+    "link": "https://www.haberturk.com/iyi-niyetimiz-var-ama-guvenimiz-yok-3876489",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD ile yürütülecek müzakerelere ilişkin açıklamasında \"Ne yazık ki ABD'yle müzakere deneyimimiz her zaman başarısızlık ve sözlerinde durmamalarıyla sonuçlandı. Bir yıldan kısa sürede iki kez müzakereler devam ederken, İran tarafının iyi niyetine rağmen bize saldırdılar ve çok sayıda savaş suçu işlediler. İyi niyetimiz var ama güvenimiz yok.\" ifadelerini kullandı.",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775861069/3876489/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_09ded628",
     "title": "İstanbul bir anda beyaza büründü! Dakikalarca sürdü",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "Ankara’daki Başkent Millet Bahçesi’nde gerçekleştirilen Trabzon Tanıtım Günleri, Karadenizlileri bir araya getirdi. Etkinlikte en çok ilgi gören alanlardan biri ise Of Belediyesi’nin kurduğu stant oldu. Gurbette yaşayan vatandaşların yoğun ilgi gösterdiği stant, hemşehri buluşmalarının merkezi haline geldi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/nnnn.PNG",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_79fe1aba",
-    "title": "Paris'te 100 euro'ya Picasso çekilişi: Alzheimer araştırmasına milyonlar kazandıracak",
-    "source": "Euronews",
-    "time": "11/04/2026 12:36",
-    "link": "http://tr.euronews.com/kultur/2026/04/10/pariste-100-avroya-picasso-cekilisi-basladi-alzheimer-arastirmasina-milyonlar-hedefleniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Paris'te düzenlenen ve biletleri 100 euro'ya satılan bir çekilişte, kazanan katılımcıya bir Picasso tablosu veriliyor; gelirlerin Alzheimer araştırmalarına milyonlar kazandırması bekleniyor.",
-    "image": null,
-    "keyword": null
   }
 ]
