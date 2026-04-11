@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8c610c4e",
+    "title": "Elazığ’da trafik kazası: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "11/04/2026 11:15",
+    "link": "https://www.gazeteduvar.com.tr/elazigda-trafik-kazasi-1-yarali-haber-1765805",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elazığ’da iki otomobilin çarpışması sonucu meydana gelen trafik kazasında 1 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/08/basliksiz-1-sdld_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_604a1bf9",
     "title": "Yoklama isteyip kaçan vekilin maaşı kesilecek",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/karadenizdesonnokta-com-tr/uploads/2024/04/1111-3.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_18b66b92",
-    "title": "Başkan Azizoğlu açıkladı: Taşacak bu deniz beklentisi izdihama neden oldu!",
-    "source": "61 Saat",
-    "time": "11/04/2026 10:55",
-    "link": "https://www.61saat.com/baskan-azizoglu-acikladi-tasacak-bu-deniz-beklentisi-izdihama-neden-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Sürmene Belediye Başkanı Hüseyin Azizoğlu, Ankara’da düzenlenen Trabzon Günleri kapsamında 61Saat’e özel açıklamalarda bulundu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/asasdas-kurtarildi-163.png",
-    "keyword": "trabzon"
   }
 ]
