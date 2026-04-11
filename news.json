@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_646d42b5",
+    "title": "14 il için sarı uyarı: Kuvvetli yağışa dikkat",
+    "source": "TRT Haber",
+    "time": "11/04/2026 15:56",
+    "link": "https://www.trthaber.com/haber/turkiye/14-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-941265.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurdun doğu kesiminde beklenen karla karışık yağmur ve kar yağışı nedeniyle 14 il için \"sarı\" kodlu uyarıda bulunuldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6428ca60",
     "title": "İran Dışişleri Bakanlığı Sözcüsü: İranın 10 maddelik önerisi Pakistana iletildi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ankara'da düzenlenen Trabzon Günleri etkinlikleri kapsamında gerçekleştirilen \"61 Sohbet\" programına Vakıfbank'ın eski Genel Müdürü Abdi Serdar Üstünsalih konuk oldu. Bakan Uraloğlu, Üstünsalih’in Trabzon ve Türkiye’ye hizmet etmeye devam edeceğini ifade etti.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ololollolo-2.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_b6deafbf",
-    "title": "Rusya ve Ukrayna karşılıklı 175 esir askeri takas etti",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 15:34",
-    "link": "https://www.aa.com.tr/tr/dunya/rusya-ve-ukrayna-karsilikli-175-esir-askeri-takas-etti-/3901950",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya ve Ukrayna arasında Paskalya Bayramı nedeniyle karşılıklı 175 esir askerin takas edildiği bildirildi.",
-    "image": null,
     "keyword": null
   }
 ]
