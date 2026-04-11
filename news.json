@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8d20bdd0",
+    "title": "Finans devlerinden altın tahmini",
+    "source": "OdaTV",
+    "time": "11/04/2026 11:17",
+    "link": "https://www.odatv.com/ekonomi/anz-ve-golden-sachstan-altin-tahmini-inecek-mi-cikacak-mi-120142908",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ANZ ve Goldman Sachs analizleri, altın piyasası için tahminlerde bulundu. Analizlerde, altın fiyatlarının orta ve uzun vadede yükselebileceği vurgusu yapıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/11/anz-ve-golden-sachstan-altin-tahmini-inecek-mi-cikacak-mi-kicy.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_96cd41ba",
     "title": "“Dubai rüyası” tartışmaların odağına yerleşti: Influencer’lar kaçıyor, vergisiz cennet sorgulanıyor",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Medya kuruluşları İran savaşı nedeniyle \"Dubai rüyasının bittiğini\" söylerken uzmanlar \"rüyanın askıda olduğunu\" savunuyor. Dubai ekonomisinin temelini oluşturan yabancıların çoğunluğu ise ülkeden ayrılmış durumda.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1e8e621b",
-    "title": "Almanya'da kiliseler kapanıyor, cami ve tapınaklar açılıyor",
-    "source": "DW Türkçe",
-    "time": "11/04/2026 10:57",
-    "link": "https://www.dw.com/tr/almanya-da-kiliseler-kapanıyor-cami-ve-tapınaklar-açılıyor/a-76740785",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'da bir yandan kiliseden ayrılan Hristiyanların sayısı, diğer yandan Müslüman ve Hindu gibi farklı dinlere mensup kişilerin sayısı artıyor. Bu değişim, ibadethanelere ve şehir silüetine de yansıyor.",
     "image": null,
     "keyword": null
   }
