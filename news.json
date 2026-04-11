@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_45b81b88",
+    "title": "İşgalci İsrail'in geceden bu yana Lübnan'a saldırılarında can kaybı 14'e yükseldi",
+    "source": "TRT Haber",
+    "time": "11/04/2026 15:15",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-geceden-bu-yana-lubnana-saldirilarinda-can-kaybi-14e-yukseldi-941305.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan resmi ajansı: İsrail ordusunun gece saatlerinden bu yana Lübnan'ın güneyine düzenlediği saldırılarda hayatını kaybedenlerin sayısı 14'e yükseldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1135789b",
     "title": "Almanya'da tecavüz suçu vakaları yüzde 9 arttı",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Pakistan, ABD ve İran arasında yapılacak tarihi müzakereler için başkent İslamabad'da yoğun güvenlik önlemleri alarak birden fazla lokasyonu hazırladı. Görüşmelerin TSİ ile 13:00 civarında başlaması beklenirken; hazırlanan noktalar arasında Başbakanlık Konutu ve özel bir güvenlik tesisi de bulunuyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f38f9a5d",
-    "title": "İsrail basını: İran, 40 gün süren savaşta misillemelerinde 650 füze fırlattı",
-    "source": "TRT Haber",
-    "time": "11/04/2026 14:36",
-    "link": "https://www.trthaber.com/haber/dunya/israil-basini-iran-40-gun-suren-savasta-misillemelerinde-650-fuze-firlatti-941304.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABDİsrail'in 28 Şubat'taki saldırılarıyla başlayan ve 40 gün süren savaşta İran'ın İsrail'e misillemelerinde yaklaşık 650 füze fırlattığı bildirildi.",
     "image": null,
     "keyword": null
   }
