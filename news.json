@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4e9d1d5",
+    "title": "Milli sporculardan Avrupa Badminton Şampiyonası'nda tarihi başarı",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 20:54",
+    "link": "https://www.aa.com.tr/tr/spor/milli-sporculardan-avrupa-badminton-sampiyonasinda-tarihi-basari/3902300",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli sporcular Bengisu Erçetin ve Nazlıcan İnci, Avrupa Badminton Şampiyonası'nda çift kadınlarda gümüş madalya kazanarak tarihi başarıya imza attı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_3fb43d1e",
     "title": "Trabzonspor, Alanyaspor engelini yine aşamadı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Günleri’nin 3. gününde yerel yönetimlerin stantlarını ziyaret eden Bakan Uraloğlu, belediyelerin Trabzon’un kültürel ve turistik değerlerini tanıtmadaki katkısını yerinde inceledi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/2-kopyasi-2-kopya-55.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b05fc75a",
-    "title": "Fransa Cumhurbaşkanı Macron: Erdoğan ile Orta Doğu'yu ele aldık",
-    "source": "Euronews",
-    "time": "11/04/2026 19:55",
-    "link": "http://tr.euronews.com/2026/04/11/fransa-cumhurbaskani-macron-erdogan-ile-orta-doguyu-ele-aldik",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macron, Cumhurbaşkanı Erdoğan'la görüştüğünü açıkladı. Fransız lider, Yakın Doğu ve Orta Doğu’daki durumu ele aldıklarını ve Hürmüz Boğazı'nı konuştuklarını aktardı.",
-    "image": null,
-    "keyword": null
   }
 ]
