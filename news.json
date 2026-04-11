@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a8d21a7",
+    "title": "ABD ve İran arasında müzakereler başladı",
+    "source": "Haber Global",
+    "time": "11/04/2026 14:36",
+    "link": "https://haberglobal.com/dunya/abd-ve-iran-arasinda-muzakereler-basladi-518229",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ile İran arasındaki 'ateşkes' görüşmeler Pakistan’ın başkenti İslamabad’da başladı. İki tarafın heyetleri Pakistanlı aracılar yoluyla görüşüyor. Tarihi görüşmede dakika dakika yaşananlar...",
+    "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
+    "keyword": null
+  },
+  {
     "id": "GND_ba75ebea",
     "title": "ABD Başkan Yardımcısı Vance ve heyeti İran görüşmeleri için İslamabad'a ulaştı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türk savunma sanayisinin harp paradigmasını değiştiren pek çok unsurda dünyada ilk 5 ülke arasına girdiğini belirtti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_fc4603ec",
-    "title": "Ortahisar'a Konuk Evi Projesi",
-    "source": "Haber61",
-    "time": "11/04/2026 14:14",
-    "link": "https://www.haber61.net/trabzon/ortahisara-konuk-evi-projesi-h629311.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ortahisar Belediye Başkanı Ahmet Kaya, Konuk Evi projesini hayata geçirmek için çalıştıklarını söyledi.",
-    "image": "https://resim.haber61.net/news/612203.jpg",
     "keyword": null
   }
 ]
