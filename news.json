@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d15a0fd3",
+    "title": "Takla atan otomobil sitenin girişini yıktı: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "11/04/2026 10:56",
+    "link": "https://www.gazeteduvar.com.tr/takla-atan-otomobil-sitenin-girisini-yikti-1-yarali-haber-1765807",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri&#039;nin Melikgazi ilçesinde kontrolden çıkan otomobil takla atarak bir sitenin girişine daldı. Kazada sitenin duvarı ve girişindeki beton blok zarar görürken, sürücü yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/08/basliksiz-1-zwuv_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ebaac730",
     "title": "Kontrolden çıkan araç, tırdan inen şoföre çarptı: 1 ölü",
     "source": "Gazete Duvar",
@@ -946,17 +958,5 @@
     "summary": "İstanbul’un Arnavutköy ilçesinde TIR’ın çarptığı kadın yaya yaşamını yitirdi. Kaza anı güvenlik kamerası tarafından görüntülendi",
     "image": "https://im.haberturk.com/l/2026/04/04/ver1775290962/3874752/jpg/1280x1280",
     "keyword": null
-  },
-  {
-    "id": "TKP_73561bf6",
-    "title": "Derbi Yolunda Kabus: Saka Ailesinin Acı Hikâyesi Türkiye’yi Yasa Boğdu",
-    "source": "Taka Gazetesi",
-    "time": "05/04/2026 13:55",
-    "link": "https://www.takagazete.com.tr/derbi-yolunda-kabus-saka-ailesinin-aci-hikayesi-turkiyeyi-yasa-bogdu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Zonguldak’tan Trabzon’daki derbi heyecanını yaşamak için yola çıkan Saka ailesi, Sinop’ta meydana gelen feci kazayla adeta hayata tutunma mücadelesine sürüklendi. Futbol coşkusuyla başlayan yolculuk, kısa sürede büyük bir trajediye dönüştü.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/anadan.jpg",
-    "keyword": "trabzon"
   }
 ]
