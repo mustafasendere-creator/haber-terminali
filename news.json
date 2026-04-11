@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba989cd3",
+    "title": "Kırtasiyede güvenli ürün oranı yüzde 100'e yaklaştı",
+    "source": "TRT Haber",
+    "time": "11/04/2026 12:37",
+    "link": "https://www.trthaber.com/haber/ekonomi/kirtasiyede-guvenli-urun-orani-yuzde-100e-yaklasti-941288.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ticaret Bakanlığının 2025'teki denetimlerinde güvenli ürün oranı ilk kez yüzde 99,33e yükselerek kırtasiye sektöründe önemli bir eşiğe işaret etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_db88edb2",
     "title": "Emniyet yeni hava araçlarıyla gökyüzündeki gücüne güç katacak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Türk futbolunda altyapıya verilen değerin artırılması gerektiği bir kez daha gündeme geldi. Yapılan değerlendirmelerde, genç oyunculara yatırım yapılmadan kalıcı başarının mümkün olmayacağı vurgulandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/h-a-s-a-n-o-z-e-r.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2ac1f809",
-    "title": "İran'da 3 yıl tutulup salınan Fransız rehine, kendi ülkesinde vergi sorunlarıyla boğuşuyor",
-    "source": "Euronews",
-    "time": "11/04/2026 12:16",
-    "link": "http://tr.euronews.com/2026/04/10/iranda-3-yil-tutulup-salinan-fransiz-rehine-kendi-ulkesinde-vergi-sorunlariyla-bogusuyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Üç yıldan fazla bir süre İran'da tutulan eski Fransız rehine, ülkesine dönüşünden sonra karşı karşıya kaldığı idari ve mali engelleri kınıyor.",
-    "image": null,
     "keyword": null
   }
 ]
