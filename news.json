@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0582b36f",
+    "title": "Ankara'da mobilya deposunda çıkan yangına müdahale ediliyor",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 16:55",
+    "link": "https://www.aa.com.tr/tr/gundem/ankarada-mobilya-deposunda-cikan-yangina-mudahale-ediliyor/3902093",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Yenimahalle ilçesinde bir mobilya deposunda çıkan yangına müdahale ediliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_ffb3133c",
     "title": "TİMBİR Yüksek İstişare Kurulu Başkanı Hacımüftüoğlu’ndan dikkat çeken yorum: “Ticari değil kültürel olmalı”",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Küresel finans devleri ANZ ve Goldman Sachs, jeopolitik gerilimlerle dalgalanan altın fiyatlarının kısa vadede baskı altında kalabileceğini, ancak orta ve uzun vadede yeniden yükseliş trendine girebileceğini öngördü.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/altinda-yeni-ralli-sinyali-kuresel-devlerden-dikkat-ceken-tahmin-geldi-zkff.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f9d19532",
-    "title": "İstanbul'da 12 Nisan Pazar büyük elektrik kesintileri olacak!",
-    "source": "Haber Global",
-    "time": "11/04/2026 16:15",
-    "link": "https://haberglobal.com/gundem/istanbulda-12-nisan-pazar-buyuk-elektrik-kesintileri-olacak-518194",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BEDAŞ, İstanbul'da elektrik kesintilerinin yaşanacağını açıkladı. İşte 12 Nisan 2026 Pazar planlı ve bakım çalışması amaçlı elektrik kesintilerinin olacağı ilçe ve mahalleler.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/istanbulda-12-nisan-pazar-buyuk-elektrik-kesintileri-olacak-5l83.jpg",
     "keyword": null
   }
 ]
