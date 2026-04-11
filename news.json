@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_643332f2",
+    "title": "Irak'ta Nizar Amedi yeni Cumhurbaşkanı olarak seçildi",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 18:14",
+    "link": "https://www.aa.com.tr/tr/dunya/irakta-nizar-amedi-yeni-cumhurbaskani-olarak-secildi/3902148",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak Meclisi, Nizar Amedi’yi ülkenin yeni Cumhurbaşkanı olarak seçti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_578d420f",
     "title": "Mehmet Türkmen'den Trabzonspor maçında tepki çeken karar...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Ankara’da düzenlenen Trabzon Günleri, Karadeniz ezgileriyle yoğun ilgi gördü.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/mkmkkmkmkmkmkm.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_bfddcc24",
-    "title": "BBC analizi:  Ortadoğu’daki yeniden yapılanma henüz tamamlanmadı",
-    "source": "10Haber",
-    "time": "11/04/2026 17:35",
-    "link": "https://10haber.net/dunya/bbc-analizi-ortadogudaki-yeniden-yapilanma-henuz-tamamlanmadi-694402/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pakistan&#8217;daki ateşkes görüşmelerinde en büyük umut hem ABD hem de İran&#8217;ın savaşı sona erdirme motivasyonlarının olması. Görüşmelerin başarılı olmasının önündeki en büyük engel de tam bir güven eksikliği, belirgin bir ortak zemin bulunmaması ve ABD&#8217;nin savaştaki ortağı İsrail&#8217;in Lübnan&#8217;a yönelik saldırılarını büyük ölçüde artırması. ABD Başkanı Donald Trump, daha şimdiden savaştan geçmiş zaman kipinde bahsediyor. [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69da564199fda4.13920151.webp",
-    "keyword": null
   }
 ]
