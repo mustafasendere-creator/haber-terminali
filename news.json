@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e17ccc63",
+    "title": "Tarsus'ta feci kaza: 2 ölü, 2 yaralı",
+    "source": "Gazete Duvar",
+    "time": "11/04/2026 11:35",
+    "link": "https://www.gazeteduvar.com.tr/tarsusta-feci-kaza-2-olu-2-yarali-haber-1765802",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin&#039;in Tarsus ilçesinde meydana gelen kazada biri uzman çavuş 2 kişi öldü, 2 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/08/basliksiz-1-5mvo_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_33a5f68c",
     "title": "Son 10 günde 10 polis intihar etti. Emniyet Sen genel başkanı Emniyet Genel Müdürlüğü'nün bu intiharlara karşı sessiz kalmasına tepki gösterdi. - x.com",
     "source": "X",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Medeniyet var, medeniyet var...\nSade insan çoktandır zulümlerin ve sömürünün kaynağı olan Batı medeniyetiyle yüzleşiyor.\nKültür ve sanatla, bilim ve teknolojiyle kandırılma dönemimiz bitmek üzere......Devamı için tıklayınız",
-    "image": "",
-    "keyword": null
-  },
-  {
-    "id": "GND_327837ad",
-    "title": "Türkiye: NATO’da oyun kurucu ülke",
-    "source": "A Haber",
-    "time": "11/04/2026 11:14",
-    "link": "https://www.ahaber.com.tr/yazarlar/okan-muderrisoglu/2026/04/11/turkiye-natoda-oyun-kurucu-ulke",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Evet, NATO'nun en büyük ikinci askeri gücüyüz. NATO misyonlarına en fazla katkı veren ülkelerden biriyiz. GSMH'ye oranla savunma harcamalarında NATO'nun güncellenmiş hedeflerine en hızlı şekilde...Devamı için tıklayınız",
     "image": "",
     "keyword": null
   }
