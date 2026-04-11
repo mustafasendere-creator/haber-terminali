@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e8e621b",
+    "title": "Almanya'da kiliseler kapanıyor, cami ve tapınaklar açılıyor",
+    "source": "DW Türkçe",
+    "time": "11/04/2026 10:57",
+    "link": "https://www.dw.com/tr/almanya-da-kiliseler-kapanıyor-cami-ve-tapınaklar-açılıyor/a-76740785",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya'da bir yandan kiliseden ayrılan Hristiyanların sayısı, diğer yandan Müslüman ve Hindu gibi farklı dinlere mensup kişilerin sayısı artıyor. Bu değişim, ibadethanelere ve şehir silüetine de yansıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6a9f0606",
     "title": "Zehra Çelenk bugün okurlarıyla yeni romanı için buluşacak: Gece Unutkandır",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye Radyo ve Televizyon Kurumu'nun TRT global iletişim ortağı olduğu, Dünya Etnospor Birliğine bağlı 29 ülkeden 50 kurumsal üyenin temsilcilerinin yanı sıra devlet yetkilileri, federasyon temsilcileri, akademisyenler ve araştırmacıların katıldığı 8. Etnospor Forumu, \"Geleneksel Sporlar Ödülleri\" töreniyle sona erdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b60e4522",
-    "title": "Otomotiv sektörü ihracatta zirveyi bırakmadı",
-    "source": "TRT Haber",
-    "time": "05/04/2026 14:14",
-    "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-sektoru-ihracatta-zirveyi-birakmadi-940485.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye otomotiv endüstrisi, mart ayında 3 milyar 293 milyon dolarlık ihracata imza attı.",
     "image": null,
     "keyword": null
   }
