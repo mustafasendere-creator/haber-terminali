@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cff2425d",
+    "title": "Kestirmeden gideyim derken kanala uçtu",
+    "source": "Habertürk",
+    "time": "11/04/2026 19:56",
+    "link": "https://www.haberturk.com/bursa-da-araciyla-akintiya-kapilan-kisinin-bulunmasi-icin-calisma-baslatildi-3876441",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'da akılalmaz kaza! Karacabey ilçesinde kestirme yoldan ana yola çıkmak isteyen sürücü çevredekilerin uyarılarına rağmen su birikintilerinin üzerinden gidince akıntıya kapıldı",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775841057/3876441/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8360055a",
     "title": "CANLI YAYIN: Kayserispor - Fenerbahçe | CANLI ANLATIM: 2025-2026 sezonu Trendyol Süper Lig 29. hafta mücadelesi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor ile 1 - 1 berabere kalan Alanyaspor’da teknik direktör Pereria, konuştu. Pereira, Onuachu’nun eksikliği ile ilgili de flaş ifadeler kullandı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/f-a-r-r-k-k-k-k-k-k.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_66726313",
-    "title": "Alman hava yolu şirketi Lufthansa'nın pilotları yeniden 48 saatlik greve gidecek",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 19:34",
-    "link": "https://www.aa.com.tr/tr/ekonomi/alman-hava-yolu-sirketi-lufthansanin-pilotlari-yeniden-48-saatlik-greve-gidecek/3902225",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alman hava yolu şirketi Lufthansa'da çalışan pilotların, emeklilik maaşları ve çalışma koşulları üzerindeki anlaşmazlık nedeniyle 13 Nisan'da yeniden 48 saatlik greve gideceği bildirildi.",
-    "image": null,
     "keyword": null
   }
 ]
