@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_087d7dca",
+    "title": "Macaristan'da karar anı: Viktor Orban mı, Peter Magyar mı?",
+    "source": "BBC Türkçe",
+    "time": "11/04/2026 14:54",
+    "link": "https://www.bbc.com/turkce/articles/c15d0lxqnypo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan'da 12 Nisan Pazar günü yapılacak seçimler için iki büyük rakip, iktidardaki FİDESZ ve muhalefetteki TİSZA partileri, bu gece saat 24.00'e kadar kampanyalarını sürdürecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3085912c",
     "title": "İstanbul'a su sağlayan barajlarda yüzde 70'in üzerine çıkan doluluk oranı yeterli değil",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mazot zamları nakliyecilik yapan tır şoförlerini olumsuz etkiledi. Zamlara tepki gösteren Engin Altunkaya, \"Vergi bizde, cezalar bizde, mazot bizde, her şey bizde. Bu şekilde devam etmemiz mümkün değil\" dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342536.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ca1eed62",
-    "title": "CHP'nin \"Millet İradesine Sahip Çıkıyor\" mitingi Nevşehir'de",
-    "source": "Evrensel",
-    "time": "11/04/2026 14:15",
-    "link": "https://www.evrensel.net/haber/5979192/chpnin-millet-iradesine-sahip-cikiyor-mitingi-nevsehirde",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP'nin \"Millet İradesine Sahip Çıkıyor\" mitingi Nevşehir'de başladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/338814.jpg",
     "keyword": null
   }
 ]
