@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_808f0d53",
+    "title": "Erzurum'da 2 otobüs ile 2 tırın karıştığı kazada 5 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "11/04/2026 12:16",
+    "link": "https://www.trthaber.com/haber/turkiye/erzurumda-2-otobus-ile-2-tirin-karistigi-kazada-5-kisi-yaralandi-941290.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum'un Aşkale ilçesinde 2 yolcu otobüsü ile 2 tırın karıştığı zincirleme trafik kazası sonucu 5 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6cd5ad6e",
     "title": "NYT: İran Hürmüz Boğazı'na yerleştirdiği mayınları bulamadı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Amerikan Basketbol Ligi'nde (NBA) konuk olduğu Houston Rockets'ı 136-132 mağlup eden Minnesota Timberwolves, rakibinin 8 maçlık galibiyet serisine son verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_8abd703a",
-    "title": "Kayan mahalleye konteyner desteği",
-    "source": "Karadeniz Gazetesi",
-    "time": "11/04/2026 11:56",
-    "link": "https://www.karadenizgazete.com.tr/video-galeri/kayan-mahalleye-konteyner-destegi/608432",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon'un Arsin ilçesine bağlı Çubuklu Mahallesi'nde heyelan nedeniyle ‘1. derece afet bölgesi' ilan edilen alanda yürütülen çalışmalar sürüyor.",
     "image": null,
     "keyword": null
   }
