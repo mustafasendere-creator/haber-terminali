@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8c450021",
+    "title": "‘İşçi gücünü göstermeyince patron ürker mi?’",
+    "source": "Evrensel",
+    "time": "12/04/2026 01:34",
+    "link": "https://www.evrensel.net/haber/5979261/isci-gucunu-gostermeyince-patron-urker-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bu yıl da 1 Mayıs’ın geçiştirilmesine izin vermeyelim. Biz böyle elimizdeki her şeyin alınmasını izlersek ekmeğimiz bile kalmıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336020.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e1f21631",
     "title": "‘Enflasyon maaşa yansıtılmaya gelince kriz bahane ediliyor’",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sarımsak, yüzyıllardır hem mutfaklarda hem de geleneksel tıpta kullanılan bir besin. Modern bilim ise bu güçlü aromatik bitkinin özellikle kalp-damar sağlığı üzerindeki etkilerini mercek altına almış durumda.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342622.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_674c1f5a",
-    "title": "Evrensel'le dayanışma etkinliği: Rıfat Ilgaz oyunu Sarıgazi'de sahnelendi",
-    "source": "Evrensel",
-    "time": "11/04/2026 23:34",
-    "link": "https://www.evrensel.net/haber/5979268/evrenselle-dayanisma-etkinligi-rifat-ilgaz-oyunu-sarigazide-sahnelendi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sarıgazi’de Evrensel’le dayanışma etkinliğinde “Rıfat Ilgaz, Bir Yeryüzü Ozanı” oyunu sahnelendi. Etkinlikte gazeteye yönelik baskılara dikkat çekilerek mücadele çağrısı yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342623.jpg",
     "keyword": null
   }
 ]
