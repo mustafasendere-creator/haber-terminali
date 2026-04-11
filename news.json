@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_627701e0",
+    "title": "Meteoroloji’den 38 il için sarı kod uyarısı (11.04.2026)",
+    "source": "Evrensel",
+    "time": "11/04/2026 13:36",
+    "link": "https://www.evrensel.net/haber/5979158/meteoroloji-den-38-il-icin-sari-kod-uyarisi-11-04-2026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji, 38 il için sarı kod uyarısı verdi. Kuvvetli yağış, rüzgar, zirai don ve çığ tehlikesine karşı dikkatli olunması istenirken, sıcaklıkların mevsim normallerinin altına düşeceği belirtildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342184.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_51c191ab",
     "title": "Tülay Hatimoğulları’ndan Cevdet Yılmaz’a yanıt: Barış konusunda pırıl pırıl bir netliğe sahibiz",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İspanya Sağlık Bakanı Monica Garcia Gomez, ülkesini tehdit eden ve \"diplomatik savaş yürütmekle\" suçlayan İsrail Başbakanı Binyamin Netanyahu'yu \"soykırımcı\" olarak tanımlayarak, ona karşı olmanın İspanya için bir gurur kaynağı olduğu söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8b847a00",
-    "title": "İzmir Alsancak'ta \"bitmeyen altyapı çalışmaları\" tepki çekiyor",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 13:14",
-    "link": "https://www.aa.com.tr/tr/gundem/izmir-alsancakta-bitmeyen-altyapi-calismalari-tepki-cekiyor/3901729",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir'in Konak ilçesindeki Alsancak semtinde uzun süredir devam eden altyapı çalışmaları esnafın ve bölgeye gelenlerin tepkisini çekiyor.",
     "image": null,
     "keyword": null
   }
