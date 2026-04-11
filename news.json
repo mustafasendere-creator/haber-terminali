@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2cec6ecb",
+    "title": "Güncel altın fiyatları",
+    "source": "Habertürk",
+    "time": "11/04/2026 12:17",
+    "link": "https://www.haberturk.com/canli-altin-fiyatlari-11-nisan-2026-bugun-cumhuriyet-altini-22-ayar-bilezik-tam-yarim-ceyrek-altin-gram-altin-ne-kadar-3876191",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump ile İran arasında savaşın sona erdirilmesine yönelik iki haftalık ateşkes anlaşmasının sağlanması, küresel piyasalarda belirsizliği azaltırken altına olan talebi yeniden artırdı. Jeopolitik risklerin geçici de olsa hafiflemesine rağmen yatırımcıların temkinli duruşunu koruması, güvenli liman olarak görülen altının fiyatlarında yukarı yönlü hareketi beraberinde getirdi. Bu gelişmelerin etkisiyle 11 Nisan 2026 itibarıyla Cumhuriyet altını, 22 ayar bilezik, ons altın, tam altın, yarım altın, çeyrek altın ve gram altın fiyatlarında son durum merak konusu oldu. İşte güncel alış ve satış rakamları…",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775794808/3876191/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_5eb4fcca",
     "title": "1500 yıllık iskeletler, Kore'de kurban edilen aileleri ortaya çıkardı",
     "source": "Independent",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa Birliği (AB) üyesi olmayan ülke vatandaşları için getirilen dijital giriş-çıkış sistemine Schengen Bölgesi'nin tüm sınır kapılarında geçildi. Pasaportlara bundan böyle damga vurulmayacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_98ca2ac1",
-    "title": "Merkez Bankası'ndan dev zarar: 1 trilyon TL",
-    "source": "DW Türkçe",
-    "time": "11/04/2026 11:56",
-    "link": "https://www.dw.com/tr/merkez-bankası-ndan-dev-zarar-1-trilyon-tl/a-76737689",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TCMB'nin 2025 bilançosunda 1 trilyon TL'yi aşan zarar açıklanırken, üç yıllık toplam zarar GSYİH'nın yüzde 6,3'üne ulaştı.",
     "image": null,
     "keyword": null
   }
