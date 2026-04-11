@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d7b487b2",
+    "title": "Rusya ile Ukrayna arasında Paskalya nedeniyle geçici ateşkes başladı",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 16:34",
+    "link": "https://www.aa.com.tr/tr/dunya/rusya-ile-ukrayna-arasinda-paskalya-nedeniyle-gecici-ateskes-basladi/3902051",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya ile Ukrayna arasında Ortodoks Hristiyanların Paskalya Bayramı nedeniyle ilan edilen geçici ateşkes, yerel saatle 16.00'da yürürlüğe girdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c12ddbed",
     "title": "Axios: İran'a saldırıların başlamasından bu yana ilk kez ABD donanmasına ait gemiler Hürmüz'den geçti",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, NATO ülkelerine, Hürmüz Boğazı'nın günler içinde yeniden açılmasına yönelik bir çözüm bulunması için ültimatom verdi. NATO’nun ikinci büyük ordusuna sahip Türkiye ise ittifakın müdahil olmak zorunda olmadığını belirtiyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_dc33db0a",
-    "title": "Trump'tan NATO'ya Hürmüz Boğazı ültimatomu: 'Birkaç gün içinde' yeniden açılsın",
-    "source": "Euronews",
-    "time": "11/04/2026 15:55",
-    "link": "http://tr.euronews.com/my-europe/2026/04/10/trumptan-natoya-hurmuz-bogazi-ultimatomu-birkac-gun-icinde-yeniden-acilsin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı, NATO Genel Sekreteri Mark Rutte'ye, NATO ülkelerinin Hürmüz Boğazı'ndaki krize çözüm bulmak için derhal harekete geçmesi gerektiğini açıkladı. Müttefikler başlangıçta, çatışmalar sona erdikten sonra boğazın yeniden açılmasına yardımcı olmayı taahhüt etmişti.",
     "image": null,
     "keyword": null
   }
