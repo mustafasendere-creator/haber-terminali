@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fe65b554",
+    "title": "İddia: İran, Hürmüz Boğazı'na yerleştirdiği mayınları bulamadı",
+    "source": "Ekonomim",
+    "time": "11/04/2026 12:38",
+    "link": "https://www.ekonomim.com/dunya/iddia-iran-hurmuz-bogazina-yerlestirdigi-mayinlari-bulamadi-haberi-887485",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran&#039;ın Hürmüz Boğazı&#039;na yerleştirdiği mayınları bulamadığı iddia edildi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/10/iranli-yetkili-iran-hurmuzden-gecis-ucretleri-riyal-ile-odenecek-uchs_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c2d2468f",
     "title": "Yastığınıza sadece 1 damla damlatın! Sabaha başka bir insan olarak uyanacaksınız",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Erzurum'un Aşkale ilçesinde 2 yolcu otobüsü ile 2 tırın karıştığı zincirleme trafik kazası sonucu 5 kişi yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6cd5ad6e",
-    "title": "NYT: İran Hürmüz Boğazı'na yerleştirdiği mayınları bulamadı",
-    "source": "TRT Haber",
-    "time": "11/04/2026 12:16",
-    "link": "https://www.trthaber.com/haber/dunya/nyt-iran-hurmuz-bogazina-yerlestirdigi-mayinlari-bulamadi-941291.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın Hürmüz Boğazı'na yerleştirdiği mayınları bulamadığı iddia edildi.",
     "image": null,
     "keyword": null
   }
