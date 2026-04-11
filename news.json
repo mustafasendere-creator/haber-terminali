@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c381df37",
+    "title": "Erzurum'da feci kaza: 2 ölü, 9 yaralı",
+    "source": "TRT Haber",
+    "time": "11/04/2026 15:16",
+    "link": "https://www.trthaber.com/haber/turkiye/erzurumda-feci-kaza-2-olu-9-yarali-941290.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum'un Aşkale ilçesinde 2 yolcu otobüsü ve 2 tır ile hafif ticari aracın karıştığı zincirleme trafik kazasında biri çocuk 2 kişi yaşamını yitirdi, 9 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_45b81b88",
     "title": "İşgalci İsrail'in geceden bu yana Lübnan'a saldırılarında can kaybı 14'e yükseldi",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkan Yardımcısı JD Vance ve beraberindeki heyet, İran ile yapılacak görüşmeler için Pakistan'ın başkenti İslamabad'a geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3c559c6b",
-    "title": "ABD ve İran heyetleri barış görüşmeleri için İslamabad'da",
-    "source": "TRT Haber",
-    "time": "11/04/2026 14:36",
-    "link": "https://www.trthaber.com/haber/dunya/abd-ve-iran-heyetleri-baris-gorusmeleri-icin-islamabadda-941269.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pakistan, ABD ve İran arasında yapılacak tarihi müzakereler için başkent İslamabad'da yoğun güvenlik önlemleri alarak birden fazla lokasyonu hazırladı. Görüşmelerin TSİ ile 13:00 civarında başlaması beklenirken; hazırlanan noktalar arasında Başbakanlık Konutu ve özel bir güvenlik tesisi de bulunuyor.",
     "image": null,
     "keyword": null
   }
