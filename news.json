@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_72bd34d0",
+    "title": "Malatya’da korkutan kaza: Otomobil takla attı, 5 kişi mucize eseri kurtuldu",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 02:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/malatya-da-korkutan-kaza-otomobil-takla-atti-5-kisi-mucize-eseri-kurtuldu-2494341",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya-Elazığ kara yolunda kontrolden çıkan bir otomobil, refüjü aşarak karşı yönden gelen araçla çarpışıp takla attı. Hurdaya dönen araçlarda bulunan toplam 5 kişi, kazadan mucizevi bir şekilde yara almadan kurtuldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ed6ab40d-ac67-4f98-be75-c9ff76fef876.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_845d4743",
     "title": "ABD savaş gemileri Hürmüz Boğazı’ndan geçti",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. İSTANBUL ANADOLU 30. ASLİYE CEZA MAHKEMESİ HAKİMLİĞİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/71f1ceb1-4ade-4173-b6f6-70303d179b01.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f2078341",
-    "title": "İletişim Başkanı Duran'dan Netanyahu'ya tepki",
-    "source": "TRT Haber",
-    "time": "12/04/2026 00:15",
-    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-netanyahuya-tepki-941337.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanı Burhanettin Duran, \"Gazze'de soykırım gerçekleştiren ve bölgede yedi ülkeye saldıran Netanyahu, çaresizlik içinde Sayın Cumhurbaşkanımızı hedef almaya cüret etmektedir. Netanyahu, hakkında tutuklama kararları bulunan, dostu kalmamış bir suçludur.\" ifadelerini kullandı.",
-    "image": null,
     "keyword": null
   }
 ]
