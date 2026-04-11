@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5f7035c4",
+    "title": "Piyasaların gözü barış görüşmelerinde",
+    "source": "TRT Haber",
+    "time": "11/04/2026 14:16",
+    "link": "https://www.trthaber.com/haber/ekonomi/piyasalarin-gozu-baris-gorusmelerinde-941270.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İran heyetlerinin savaşın ardından İslamabad'da gerçekleştireceği ilk yüz yüze görüşme küresel piyasaların odağına yerleşirken; altın, petrol ve döviz kurlarındaki temkinli seyir, kritik müzakerelerden gelecek haberlere kilitlendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6baf28d6",
     "title": "Pakistan'da ABDİran barış görüşmeleri başladı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ankara’da 9 Nisan’da başlayan ve 12 Nisan’da sona erecek olan Trabzon Günleri, büyük bir coşkuyla devam ediyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/folsdfolsdlofsf.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_919bc652",
-    "title": "Akıllı ilaçlar kanserde hedefe yönelik tedavi olanağı sağlıyor",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 13:55",
-    "link": "https://www.aa.com.tr/tr/saglik/akilli-ilaclar-kanserde-hedefe-yonelik-tedavi-olanagi-sagliyor/3901782",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazi Üniversitesi Tıp Fakültesi Tıbbi Onkoloji Bilim Dalı Öğretim Üyesi Prof. Dr. Uğur Coşkun, akıllı ilaçların hedefe yönelik kanser tedavisinde etkili olduğunu belirtti.",
-    "image": null,
     "keyword": null
   }
 ]
