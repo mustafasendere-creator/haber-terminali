@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cce31d4d",
+    "title": "Türkiye Karting Şampiyonası'nda sezon Kocaeli'de start aldı",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 13:34",
+    "link": "https://www.aa.com.tr/tr/spor/turkiye-karting-sampiyonasinda-sezon-kocaelide-start-aldi/3901807",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MOTUL 2026 Türkiye Karting Şampiyonası'nda sezon, Kocaeli'de düzenlenen birinci ayak yarışlarıyla başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4d5e9c73",
     "title": "Türksat AŞ'nin fiber altyapı yatırımlarına uluslararası ödül",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mustafa Bozbey’in tutuklanmasının ardından AKP’ye geçen Bursa Büyükşehir Belediyesi, internet sitesindeki Atatürk ve Türk bayrağını kaldırdı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/3ae9264d-07c1-4496-92de-3c0be1141aeb.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f0d9f464",
-    "title": "Erzurum ve Ardahan'da kar yağışı",
-    "source": "Cumhuriyet",
-    "time": "11/04/2026 12:56",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/erzurum-ve-ardahan-da-kar-yagisi-2494287",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Erzurum ve Ardahan'da kar yağışı etkili oldu. Erzurum'da 100'e yakın kırsal mahallenin yolu ulaşıma kapanırken, kent merkezinde kazalar yaşandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/68d32612-7fc3-41a6-8c78-eb4f642f8d11.jpg",
     "keyword": null
   }
 ]
