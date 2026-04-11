@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f2078341",
+    "title": "İletişim Başkanı Duran'dan Netanyahu'ya tepki",
+    "source": "TRT Haber",
+    "time": "12/04/2026 00:15",
+    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-netanyahuya-tepki-941337.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanı Burhanettin Duran, \"Gazze'de soykırım gerçekleştiren ve bölgede yedi ülkeye saldıran Netanyahu, çaresizlik içinde Sayın Cumhurbaşkanımızı hedef almaya cüret etmektedir. Netanyahu, hakkında tutuklama kararları bulunan, dostu kalmamış bir suçludur.\" ifadelerini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_02b03254",
     "title": "İran devlet medyası duyurdu: İki görüşme yapıldı, üçüncüsü de yapılacak",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bundesliga lideri Bayern Münih, deplasmanda St. Pauli'yi 5-0 yenerek bu sezon 105 gole ulaştı ve bitime 5 hafta kala ligin gol rekorunu kırdı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0cff4433-b1e9-4a66-9fdc-aaf5e214eb57.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d3bac349",
-    "title": "Barcelona, Espanyol'u 4 golle devirdi: Real Madrid ile farkı açtı",
-    "source": "Cumhuriyet",
-    "time": "11/04/2026 22:15",
-    "link": "https://www.cumhuriyet.com.tr/spor/barcelona-espanyol-u-4-golle-devirdi-real-madrid-ile-farki-acti-2494404",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya La Liga'da Barcelona, Espanyol ile oynadığı derbiyi 4-1 kazandı ve Real Madrid ile puan farkını 9'a yükseltti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b30d485a-8b3e-4ee0-9b8f-010c395103db.jpg",
     "keyword": null
   }
 ]
