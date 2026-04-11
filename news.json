@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eda251c2",
+    "title": "Manisa'da traktör devrildi: Aynı aileden 3 ölü",
+    "source": "Haber Global",
+    "time": "11/04/2026 10:57",
+    "link": "https://haberglobal.com/gundem/manisada-traktor-devrildi-ayni-aileden-3-olu-518184",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa’nın Turgutlu ilçesinde eğimli arazide kontrolden çıkan traktörün devrilmesi sonucu meydana gelen kazada aynı aileden 3 kişi yaşamını yitirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/manisada-traktor-devrildi-ayni-aileden-3-olu-6uqi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a4e37cc7",
     "title": "Samsun'da sobadan çıkan yangında yaşlı kadın öldü",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Asbaşkanı Zeyyat Kafkas, Galatasaraylı Metin Öztürk’ün açıklamalarına yanıt verdi. Kafkas, “Gerçekleri çarpıtıyor” dedi.",
     "image": "https://resim.haber61.net/news/611072.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ec9c25fc",
-    "title": "Hakkari-Şırnak karayolu çığ nedeniyle kapandı",
-    "source": "Cumhuriyet",
-    "time": "05/04/2026 14:14",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/hakkari-sirnak-karayolu-cig-nedeniyle-kapandi-2492549",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hakkari-Şırnak karayolu düşen çığ nedeniyle ulaşıma kapandı. Yolun açılması için Karayolları ekipleri çalışma başlattı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3ade8285-bf74-4b0d-af7d-30be068f340e.jpg",
-    "keyword": null
   }
 ]
