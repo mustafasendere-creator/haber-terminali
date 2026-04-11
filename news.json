@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0cecbede",
+    "title": "Otomobil devrildi: 2 kişi yaralandı",
+    "source": "Gazete Duvar",
+    "time": "11/04/2026 10:56",
+    "link": "https://www.gazeteduvar.com.tr/otomobil-devrildi-2-kisi-yaralandi-haber-1765806",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilecik’in Pazaryeri ilçesinde meydana gelen trafik kazasında 2 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/08/basliksiz-1-4cs5_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_cca44d30",
     "title": "Trabzonspor’da Alanya Alarmı: Eski Kabus Yeniden Gündemde",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da turizmin geleceğini şekillendirecek kritik bir süreç başladı. Trabzon Büyükşehir Belediyesi tarafından başlatılan Turizm Master Planı çalışmaları kapsamında düzenlenen “Arama Konferansı” çalıştayında, yaklaşık 150 uzman isim bir araya gelerek kentin turizm potansiyelini masaya yatırdı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/turizm-haber-1.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_07185864",
-    "title": "Trabzon’da Bugün 13 Kişi Hayatını Kaybetti! İşte İsim İsim Vefat Listesi",
-    "source": "Taka Gazetesi",
-    "time": "05/04/2026 13:55",
-    "link": "https://www.takagazete.com.tr/trabzonda-bugun-13-kisi-hayatini-kaybetti-iste-isim-isim-vefat-listesi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Bugün Trabzon’da 13 kişi vefat etti. Büyükşehir Belediyesi Mezarlıklar Dairesi Başkanlığı tarafından paylaşılan güncel listeye göre hayatını kaybeden vatandaşların isimleri ve defin bilgileri belli oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/09/f4e36111-d64e-4d5a-9a14-c9eed9c286ac-1.webp",
     "keyword": "trabzon"
   }
 ]
