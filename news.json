@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2315ef5d",
+    "title": "Mardin’de yorgun mermi isabet eden çocuk yaralandı",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 00:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/mardin-de-yorgun-mermi-isabet-eden-cocuk-yaralandi-2494425",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mardin’in Nusaybin ilçesinde, yorgun merminin isabet ettiği çocuk yaralandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4af1d4f7-b170-4332-bd8b-e8f4e8542310.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_73d7fa31",
     "title": "Türkiye'den Netanyahu’nun Cumhurbaşkanı Erdoğan'ı hedef alan sözlerine tepki yağdı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe'nin Kayserispor'u 4-0 yendiği maçın ardından basın sözcüsü Ali Gürbüz açıklama yaptı. Gürbüz ayrıcalık değil adalet istediklerini ifade etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5ce0a0ed-f07a-4e0b-9385-bc97e7e7ab1b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a20037c8",
-    "title": "Nicolo Zaniolo şov yaptı, Udinese deplasmanda Milan'ı yıktı",
-    "source": "Haber Global",
-    "time": "11/04/2026 22:54",
-    "link": "https://haberglobal.com/spor/nicolo-zaniolo-sov-yapti-udinese-deplasmanda-milani-yikti-518274",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İtalya Serie A'nın 32. haftasında Udinese, Nicolo Zaniolo'nun yıldızlaştığı maçta deplasmanda Milan'ı 3-0 yendi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/nicolo-zaniolo-sov-yapti-udinese-deplasmanda-milani-yikti-ivts.jpg",
     "keyword": null
   }
 ]
