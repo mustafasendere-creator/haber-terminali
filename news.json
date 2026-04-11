@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0983c04d",
+    "title": "Geleceğin Bilim Lideri seçildi: Dr. San Martin’den 'Döngüsel Beslenme' devrimi!",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 13:36",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/gelecegin-bilim-lideri-secildi-dr-san-martin-den-dongusel-beslenme-devrimi-2494295",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sabri Ülker Vakfı tarafından bu yıl 10’uncusu düzenlenen \"Geleceğin Bilim Lideri Ödülü\", Şili Üniversitesi'nden Dr. Maria Elsa Pando San Martin’e verildi. \"Döngüsel Beslenme\" yaklaşımıyla patates kabuklarından yenilikçi bir vitamin taşıyıcı sistem geliştiren San Martin, projesiyle hem çevreye hem de halk sağlığına katkı sunuyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/933289ac-5362-4cd6-9ac2-6325121bd1d0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a4451564",
     "title": "Antalya’da 24. Ulusal Cerrahi Kongresi düzenlendi: Haberal'a ödül",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Ankara’da düzenlenen Trabzon Tanıtım Günleri kapsamında gerçekleştirilen 61 Sohbet Toplantıları’nda konuşan Maçka Belediye Başkanı Koray Koçhan, Vazelon Manastırı ile ilgili dikkat çeken bir müjde verdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-8-147.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_bdf02bc9",
-    "title": "Münih'te İsrail restoranına saldırı",
-    "source": "Euronews",
-    "time": "11/04/2026 13:15",
-    "link": "http://tr.euronews.com/2026/04/10/munihte-israil-restoranina-saldiri",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Münih'te bir İsrail restoranına \"antisemitist saldırı\" düzenlendiğinden şüpheleniliyor.",
-    "image": null,
-    "keyword": null
   }
 ]
