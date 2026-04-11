@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_69237077",
+    "title": "Reuters: 'İran dini lideri Hamaney'in yüzü tanınmaz halde'",
+    "source": "Ekonomim",
+    "time": "11/04/2026 12:38",
+    "link": "https://www.ekonomim.com/dunya/reuters-iran-dini-lideri-hamaneyin-yuzu-taninmaz-halde-haberi-887488",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiliz Reuters haber ajansı adı açıklanamayan kaynaklara dayandırdığı haberinde İran dini lideri Mücteba Hamaney&#039;in ABD&#039;nin hava saldırısında yüzünden ve bacağından ağır yaralandığını, yüzünün tanınmaz halde olduğunu aktardı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/11/reuters-iran-dini-lideri-hamaneyin-yuzu-taninmaz-halde-arbv_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_173c0d23",
     "title": "Tamir etmek istediği otomobil, ölümüne neden oldu",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kar yağışının etkili olduğu KarsErzurum kara yolunda bazı tırlar yolda kaldı, ulaşım tek şeritten kontrollü sağlanıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d28ecdea",
-    "title": "Merz: İran yönetimiyle görüşmeye başlıyoruz",
-    "source": "DW Türkçe",
-    "time": "11/04/2026 12:16",
-    "link": "https://www.dw.com/tr/merz-iran-yönetimiyle-görüşmeye-başlıyoruz/a-76730801",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya Başbakanı Merz, ABD ile İran arasında varılan ateşkes sonrasında Tahran yönetimiyle görüşmeleri yeniden başlatacaklarını açıkladı. Merz, diplomatik çabalara katkı sunmayı hedeflediklerini söyledi.",
     "image": null,
     "keyword": null
   }
