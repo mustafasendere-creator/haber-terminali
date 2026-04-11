@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c6730582",
+    "title": "Eski TBMM Başkanı Cindoruk hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "11/04/2026 12:56",
+    "link": "https://www.trthaber.com/haber/gundem/eski-tbmm-baskani-cindoruk-hayatini-kaybetti-941294.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eski TBMM Başkanı Hüsamettin Cindoruk tedavi gördüğü hastanede hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fe22bd86",
     "title": "Suç örgütlerine yönelik operasyonlarda 722 gözaltı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Trabzon Günleri’ni ziyaret ederek stantları gezdi. Yavaş, Haber61’e yaptığı açıklamada etkinliğin kültürel önemine dikkat çekti.",
     "image": "https://resim.haber61.net/news/612175.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_ad477f9e",
-    "title": "Başkan Kaya: “Dört Gün Boyunca Başkentimizde, Trabzon Rüzgârı Esecek”",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "11/04/2026 12:35",
-    "link": "https://www.karadenizdesonnokta.com.tr/baskan-kaya-dort-gun-boyunca-baskentimizde-trabzon-ruzgari-esecek",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-09-at-165605.jpeg",
-    "keyword": null
   }
 ]
