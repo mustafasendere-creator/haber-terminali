@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a7a6a6f",
+    "title": "Irak'ta Nizar Amedi yeni Cumhurbaşkanı olarak seçildi",
+    "source": "Haber Global",
+    "time": "11/04/2026 22:35",
+    "link": "https://haberglobal.com/dunya/irakta-nizar-amedi-yeni-cumhurbaskani-olarak-secildi-518244",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak Meclisi, ikinci tur oylamada 329 sandalyeli mecliste 227 oyla Nizar Amedi’yi ülkenin yeni Cumhurbaşkanı olarak seçti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/irakta-nizar-amedi-yeni-cumhurbaskani-olarak-secildi-kntx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_454e2446",
     "title": "Derbide kazanan Barcelona, La Liga'da puan farkını daha da açtı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "📍Bayındır Memur-Sen İl Başkan Yardımcımız Gökçen Alemdaroğlu, İl Yönetim Kurulu Y. Üyelerimiz Mehbare Yaren Muhcu ve Hülya Algün ile Gençlik Kolları Birim Başkanımız Ahmet Taha Aksoy ile birlikte Bayındır Memur-Sen Trabzon Şubesi’ni ziyaret ettik.  x.com",
     "image": null,
     "keyword": "trabzon memur"
-  },
-  {
-    "id": "TKP_76b0feb6",
-    "title": "Trabzon’da bazı yollar araç trafiğine kapatılacak",
-    "source": "Haber61",
-    "time": "11/04/2026 21:34",
-    "link": "https://www.haber61.net/trabzon/trabzonda-bazi-yollar-arac-trafigine-kapatilacak-h629354.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'da 12 Nisan Pazar günü düzenlenecek olan \"Tüm Emeklilerin Sendikası Bölge Mitingi\" nedeniyle bazı yerlerde ulaşım geçici süreyle durdurulacak.",
-    "image": "https://resim.haber61.net/news/612282.jpg",
-    "keyword": "trabzon"
   }
 ]
