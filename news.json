@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6fa3b63f",
+    "title": "38 kent için \"sarı\" alarm... 6 bölgede yağış var!",
+    "source": "Habertürk",
+    "time": "11/04/2026 12:37",
+    "link": "https://www.haberturk.com/son-dakika-38-kent-icin-sari-alarm-6-bolgede-yagis-var-hava-durumu-istanbul-3876495",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji'den alınan son bilgilere göre bugün, Ege Bölgesi dışında 6 bölgemizde de yağış bekleniyor. Yağışların, iç ve doğu kesimlerde kar olacağı tahmin ediliyor. Hava sıcaklığı mevsim normallerinin altında seyrediyor. 38 kent içinse \"sarı\" alarm verilerek uyarıda bulunuldu",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775880165/3876495/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_4bbb12e7",
     "title": "Bu adayı 600 kedi yönetiyor!",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump'ın eşi Melania Trump, sürpriz bir açıklama yaparak Jeffrey Epstein ile hiçbir zaman arkadaş olmadığını söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_62793c24",
-    "title": "Türkiye'deki sosyal medya düzenlemesi ne zaman yasalaşacak?",
-    "source": "DW Türkçe",
-    "time": "11/04/2026 12:16",
-    "link": "https://www.dw.com/tr/türkiye-deki-sosyal-medya-düzenlemesi-ne-zaman-yasalaşacak/a-76732497",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'de 15 yaş altındakilere yönelik sosyal medya düzenlemesinde sona yaklaşılırken herkes için kimlik zorunluluğu gelip gelmeyeceği belirsizliğini koruyor. Sosyal medya platformlarından henüz net yanıt yok.",
     "image": null,
     "keyword": null
   }
