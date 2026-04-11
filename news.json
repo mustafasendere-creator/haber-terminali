@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_61086ddb",
+    "title": "Sam Altman’a yönelik molotoflu saldırıya dair tüm bilinenler",
+    "source": "Euronews",
+    "time": "11/04/2026 12:36",
+    "link": "http://tr.euronews.com/next/2026/04/11/sam-altmana-yonelik-molotoflu-saldiriya-dair-tum-bilinenler",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Evine molotof kokteyli atılan Sam Altman, 'Sözlerin ve anlatıların gücünü hafife aldım,' diyerek, son dönemde hakkında yayımlanan sert içeriklerin ve genel olarak yapay zeka tartışmalarındaki dilin riskli hale geldiğini savundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_2cd7d7de",
     "title": "Polis Haftası’nda Duygulandıran Ziyaret: Hasta Polise Vefa Örneği",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon'un Yomra ilçesine Belediyeler Biliği tarafından bir çöp kamyonu hibe edildi. Ayrıca ilçeye hayırsever bir iş insanı tarafından da damperli kamyon bağışlandı...",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/hibe.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_49a6368a",
-    "title": "Mersin Yenişehir Belediyesi'ne soruşturmada 30'a yakın gözaltı",
-    "source": "BBC Türkçe",
-    "time": "11/04/2026 12:15",
-    "link": "https://www.bbc.com/turkce/articles/c4gvk4d9x0xo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin Cumhuriyet Başsavcılığı'nın Mersin Yenişehir Belediyesi hakkında \"ihaleye fesat\" ve \"rüşvet\" iddiasıyla başlattığı soruşturma kapsamında 30'a yakın kişin gözaltına alındı. Bolu Belediyesi'ne düzenlenen operasyon kapsamında 3 kişinin gözaltına alındığı bildiriliyor",
-    "image": null,
     "keyword": null
   }
 ]
