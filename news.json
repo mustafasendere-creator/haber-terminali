@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bdf02bc9",
+    "title": "Münih'te İsrail restoranına saldırı",
+    "source": "Euronews",
+    "time": "11/04/2026 13:15",
+    "link": "http://tr.euronews.com/2026/04/10/munihte-israil-restoranina-saldiri",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Münih'te bir İsrail restoranına \"antisemitist saldırı\" düzenlendiğinden şüpheleniliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9b1869a0",
     "title": "Hüsamettin Cindoruk hayatını kaybetti",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail'in İran ve Lübnan üzerindeki planlarının beklenen sonucu vermediği bir dönemde, ABD Başkanı Donald Trump’ın Netanyahu’ya ‘ateşkes’ yönünde sert bir ültimatom verdiği iddia edildi. Bölgede...Devamı için tıklayınız",
     "image": "",
-    "keyword": null
-  },
-  {
-    "id": "GND_d175a321",
-    "title": "Türkiye'de kozmetik gerçeği... Veriler ortaya çıktı... 684 ürün riskli",
-    "source": "OdaTV",
-    "time": "11/04/2026 12:38",
-    "link": "https://www.odatv.com/ekonomi/turkiyede-kozmetik-gercegi-veriler-ortaya-cikti-684-urun-riskli-120142917",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye İlaç ve Tıbbi Cihaz Kurumu&#039;nun 2026 ilk çeyrek denetimlerine göre incelenen 886 kozmetik ürünün 684&#039;ü uygunsuz bulundu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/11/turkiyede-kozmetik-gercegi-veriler-ortaya-cikti-684-urun-riskli-xz7o.jpg",
     "keyword": null
   }
 ]
