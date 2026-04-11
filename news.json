@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_173c0d23",
+    "title": "Tamir etmek istediği otomobil, ölümüne neden oldu",
+    "source": "Habertürk",
+    "time": "11/04/2026 12:38",
+    "link": "https://www.haberturk.com/kutahya-da-tamir-etmek-istedigi-otomobil-olumune-neden-oldu-3876491",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya'nın Emet ilçesinde otomobilini tamir ettiği sırada krikonun kayması sonucu aracın altında kalan kişi hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775861341/3876491/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_6fa3b63f",
     "title": "38 kent için \"sarı\" alarm... 6 bölgede yağış var!",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Almanya Başbakanı Merz, ABD ile İran arasında varılan ateşkes sonrasında Tahran yönetimiyle görüşmeleri yeniden başlatacaklarını açıkladı. Merz, diplomatik çabalara katkı sunmayı hedeflediklerini söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_01986f24",
-    "title": "Melania Trump: Jeffrey Epstein ile hiç arkadaş olmadım",
-    "source": "DW Türkçe",
-    "time": "11/04/2026 12:16",
-    "link": "https://www.dw.com/tr/melania-trump-jeffrey-epstein-ile-hiç-arkadaş-olmadım/a-76731143",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump'ın eşi Melania Trump, sürpriz bir açıklama yaparak Jeffrey Epstein ile hiçbir zaman arkadaş olmadığını söyledi.",
     "image": null,
     "keyword": null
   }
