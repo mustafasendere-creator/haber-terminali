@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d651d557",
+    "title": "Fenerbahçe, Kayserispor'a konuk oluyor",
+    "source": "Haber Global",
+    "time": "11/04/2026 19:36",
+    "link": "https://haberglobal.com/spor/fenerbahce-kayserispora-konuk-oluyor-518251",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Süper Lig'in 29. haftasında Fenerbahçe deplasmanda Kayserispor ile karşı karşıya geliyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/fenerbahce-kayserispora-konuk-oluyor-ckmq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_06f87763",
     "title": "Fenerbahçe, VakıfBank'ı yenerek final serisinde durumu eşitledi",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "CHP İl Başkanı Ümit Özer&#8217;in görevinden istifa ettiği öğrenildi. Özer 19 Ekim 2025’teki kongrede Feyzullah Keskin’i geride bırakarak yeniden başkan seçilmişti. Özer’in istifasının 13 Nisan Pazartesi günü parti genel merkezinde yapılacak MKYK toplantısında görüşülerek karara bağlanacağı öne sürüldü.",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69da2dbf720742.12136000.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_c876b408",
-    "title": "Bakan Uraloğlu Ankara’daki Trabzon Günleri’nde stantları tek tek ziyaret etti",
-    "source": "Haber61",
-    "time": "11/04/2026 18:55",
-    "link": "https://www.haber61.net/trabzon/bakan-uraloglu-ankaradaki-trabzon-gunlerinde-stantlari-tek-tek-ziyaret-etti-h629342.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Ankara’da düzenlenen Trabzon Günleri’nin üçüncü gününde de hemşehrilerini yalnız bırakmadı. Etkinlik alanını gezen Uraloğlu, TS Club standında yoğun ilgiyle karşılandı.",
-    "image": "https://resim.haber61.net/news/612256.jpg",
-    "keyword": "trabzon"
   }
 ]
