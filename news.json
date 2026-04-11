@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8cf389d",
+    "title": "Ankara'da fabrika yangını",
+    "source": "Habertürk",
+    "time": "11/04/2026 13:37",
+    "link": "https://www.haberturk.com/ankara-da-fabrika-yangini-3876481",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Sincan ilçesindeki bir ilaç fabrikasında yangın çıktı. Fabrikada 67 kişi tahliye edilirken yangın, itfaiye ekiplerinin 5 saatlik müdahalesiyle söndürüldü",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775861031/3876481/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "SOC_d56217cf",
     "title": "📌Hedef gösterilen komedyen Tuba Ulu gözaltına alındı ▪️Komedyen Tuba Ulu, gösterisi sırasında Kanuni Sultan Süleyman hakkındaki sözleri nedeniyle “tarihi milli manevi değerlere hakaret” suçlamasıyla gözaltına alındı. gözaltına alındı. Ulu, gösteriden yayı - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Giresun’da yürütülen “İdeal Kilonu Öğren, Sağlıklı Yaşa” kampanyasıyla binlerce kişiye ulaşıldı. İl Sağlık Müdürü İskender Aksoy’un paylaştığı veriler, projenin etkisini ortaya koydu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/saglik-10.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7b7e2bce",
-    "title": "Bolu Belediyesine operasyon: Başkan Yardımcısı Beykoz ve meclis üyesi Özdemir tutuklandı",
-    "source": "Evrensel",
-    "time": "11/04/2026 13:15",
-    "link": "https://www.evrensel.net/haber/5979159/bolu-belediyesine-operasyon-baskan-yardimcisi-beykoz-ve-meclis-uyesi-ozdemir-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“İrtikap” iddiasıyla yürütülen soruşturmada gözaltına alınan Bolu Belediyesi Başkan Yardımcısı Leyla Beykoz ile Meclis Üyesi Avukat Aydan Özdemir tutuklandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341545.jpg",
     "keyword": null
   }
 ]
