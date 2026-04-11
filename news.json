@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_42bb4f27",
+    "title": "İstanbul'un iki ilçesinde yarın bazı yollar trafiğe kapatılacak",
+    "source": "TRT Haber",
+    "time": "11/04/2026 20:35",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulun-iki-ilcesinde-yarin-bazi-yollar-trafige-kapatilacak-941331.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da, Beşiktaş'ta düzenlenecek Yol Yarışması ve Ataşehir'de gerçekleştirilecek Ata Koşusu nedeniyle yarın bazı yollar trafiğe kapatılacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_42ce80b2",
     "title": "ABD: Hürmüz'de mayın temizliğine başlandı",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Dışişleri Bakanlığı, bölgede ilan edilen geçici ateşkes kararını memnuniyetle karşıladığını duyurdu. Açıklamada, ateşkesin sahada eksiksiz uygulanması gerektiği vurgulanırken, kalıcı barış için...Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/bb95f3/1200/1200/0/0/485/486?u=https://iahbr.tmgrup.com.tr/2026/04/08/disislerinden-abd-iran-ateskesine-iliskin-aciklama-memnuniyetle-karsiliyoruz-1775634408784.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_4be7b897",
-    "title": "Hasan Al değerlendirdi: 'Artık rakipler yenilmemek için sahaya çıkıyor'",
-    "source": "Cumhuriyet",
-    "time": "11/04/2026 19:54",
-    "link": "https://www.cumhuriyet.com.tr/spor/hasan-al-degerlendirdi-artik-rakipler-yenilmemek-icin-sahaya-cikiyor-2494384",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Hasan Al, Süper Lig'in 29. haftasında 1-1 sona eren Alanyaspor-Trabzonspor maçını değerlendirdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3668e52c-502d-4816-9d75-1065ea9cf72b.jpg",
-    "keyword": "trabzon"
   }
 ]
