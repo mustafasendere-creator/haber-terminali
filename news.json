@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_25eed2d2",
+    "title": "Zelenskiy: Druzhba petrol boru hattı bahar aylarında onarılmış olacak",
+    "source": "Euronews",
+    "time": "11/04/2026 15:15",
+    "link": "http://tr.euronews.com/2026/04/10/zelenskiy-druzhba-petrol-boru-hatti-bahar-aylarinda-onarilmis-olacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Cumhurbaşkanı, AB’nin Kiev’e sağladığı finansmanla bağlantılı olan Druzhba petrol boru hattının onarım çalışmalarının sürdüğünü ve hattın bahar aylarında yeniden faaliyete geçirilmesinin planlandığını belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_5731ead6",
     "title": "CANLI: Alanyaspor-Trabzonspor",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Dört astronotu taşıyan Orion kapsülü, cumayı cumartesiye bağlayan gece Pasifik Okyanusu’na iniş yaparak görevi resmen sonlandıracak.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_58acc2f8",
-    "title": "Trabzon Günleri Ankara’da 3. gününde kalabalığı topladı",
-    "source": "Haber61",
-    "time": "11/04/2026 14:35",
-    "link": "https://www.haber61.net/trabzon/trabzon-gunleri-ankarada-3-gununde-kalabaligi-topladi-h629312.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Başkent Millet Bahçesi’ndeki Trabzon Günleri üçüncü gününde de yoğun ilgi gördü. Stantlar doldu, horon ve kolbastı eksik olmadı.",
-    "image": "https://resim.haber61.net/news/612204.jpg",
-    "keyword": "trabzon"
   }
 ]
