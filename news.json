@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_81feb567",
+    "title": "Fenerbahçe, Kayseri'de farka koştu",
+    "source": "Haber Global",
+    "time": "11/04/2026 22:15",
+    "link": "https://haberglobal.com/spor/fenerbahce-kayseride-farka-kostu-518251",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Süper Lig'in 29. haftasında Fenerbahçe deplasmanda Kayserispor'u 4-0 yenerek ligdeki galibiyet serisini 3 maça çıkardı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/fenerbahce-kayseride-hata-yapmadi-dsuh.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c124a646",
     "title": "Bursa'da kadın cinayeti: Fatma Ekici'yi öldüren fail tutuklandı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’un Araklı ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği otomobilin karşı şeride geçerek devrilmesi sonucu meydana gelen kazada 2 kişi yaralandı.",
     "image": "https://resim.haber61.net/news/612280.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_336a38e5",
-    "title": "Başkentte Karadeniz havası esiyor: Vatandaşlar Trabzon günlerini Haber61’de değerlendirdi",
-    "source": "Haber61",
-    "time": "11/04/2026 21:15",
-    "link": "https://www.haber61.net/trabzon/baskentte-karadeniz-havasi-esiyor-vatandaslar-trabzon-gunlerini-haber61de-h629351.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara’da düzenlenen Trabzon Tanıtım Günleri’nde mikrofon uzattığımız vatandaşlar, memleket hasretini başkentte giderdi; stantlardaki yoğunluk ve Trabzonspor heyecanı kameralara böyle yansıdı.",
-    "image": "https://resim.haber61.net/news/612277.jpg",
     "keyword": "trabzon"
   }
 ]
