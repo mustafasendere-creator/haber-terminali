@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dc63f59b",
+    "title": "Hürmüz’de İran hakimiyeti: Trafik düştü!",
+    "source": "Ekonomim",
+    "time": "11/04/2026 14:36",
+    "link": "https://www.ekonomim.com/dunya/hurmuzde-iran-hakimiyeti-trafik-dustu-haberi-887495",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ateşkes sonrası Hürmüz Boğazı’nda ticari gemi trafiği düşük kalırken, geçiş yapan gemilerin önemli kısmını İran bağlantılı tankerler oluşturdu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/11/hurmuzde-iran-hakimiyeti-trafik-dustu-3ww5_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7e9c6e39",
     "title": "Fenerbahçeli futbolcu Skriniar'a hırsızlık şoku! İfadesi ortaya çıktı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-11-at-123517.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e67edde3",
-    "title": "Artemis II kapsülünün Pasifik’e iniş anı",
-    "source": "Euronews",
-    "time": "11/04/2026 14:15",
-    "link": "http://tr.euronews.com/video/2026/04/11/artemis-ii-kapsulunun-pasifike-inis-ani",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Artemis II mürettebatı, bugün Amerika Birleşik Devletleri'nin batı kıyısı açıklarında Pasifik Okyanusu'na güvenle iniş yaptı.",
-    "image": null,
     "keyword": null
   }
 ]
