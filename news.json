@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8881c7cd",
+    "title": "AKP'de toplu istifa kararı",
+    "source": "Sözcü",
+    "time": "12/04/2026 00:35",
+    "link": "https://www.sozcu.com.tr/akp-de-toplu-istifa-karari-p309421",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKP'de toplu istifa kararı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/akp2jpg-nBZ3HGpfAUOCTclXnJM7uA.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1bbdb29e",
     "title": "T.C. BAKIRKÖY 6. ASLİYE TİCARET MAHKEMESİ",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail Başbakanı Benjamin Netanyahu, sosyal medya paylaşımında Cumhurbaşkanı Erdoğan’ı hedef alan tepki çeken ifadeler kullandı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/11/netanyahudan-cumhurbaskani-erdogani-hedef-alan-aciklama-sfis_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b57588b9",
-    "title": "Devrilen traktörün sürücüsü öldü",
-    "source": "Habertürk",
-    "time": "11/04/2026 22:35",
-    "link": "https://www.haberturk.com/adiyaman-da-traktor-devrildi-1-olu-3876318",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adıyaman'ın Besni ilçesinde devrilen traktörün sürücüsü Vakıf Önder, hayatını kaybetti",
-    "image": "https://im.haberturk.com/l/2026/04/10/ver1775812998/3876318/jpg/1280x1280",
     "keyword": null
   }
 ]
