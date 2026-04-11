@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0f2dc50b",
+    "title": "Uzay yolculuğu insan bedenini nasıl etkiliyor?",
+    "source": "Euronews",
+    "time": "11/04/2026 11:35",
+    "link": "http://tr.euronews.com/saglik/2026/04/11/uzay-yolculugu-insan-bedenini-nasil-etkiledi-kemik-kaybi-ve-gorme-bozuklugu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uzay yolculuğunun sınırları zorlanmaya devam etmesiyle, bilim insanları uzayın insan bedeni ve psikolojisi üzerindeki etkilerini anlamaya ve azaltmaya çalışıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_a42c5049",
     "title": "❌Lütfen yapmayın. ✋ 👮‍♂️İki saat arayla iki ayrı kıraathanede 12 kişiye kumar oynamak, sosyal mesafe ve maske 😷 takmamaktan işlem yapılmıştır. - x.com",
     "source": "X",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkan Yardımcısı JD Vance, İran'a ABD'yi \"aldatmaya çalışmama\"  uyarısı yaptı ve Cumartesi günü Pakistan'da yapılması planlanan görüşmelerin \"olumlu\" sonuçlanmasını istediğini belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d2cafc4d",
-    "title": "Bahar nezlesinin sonu mu geliyor? Nasıl tedavi edilebilir?",
-    "source": "BBC Türkçe",
-    "time": "11/04/2026 11:14",
-    "link": "https://www.bbc.com/turkce/articles/cx2vglgpzv9o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alerji uzmanlarına göre saman ya da bilinen adıyla bahar nezlesi artık yalnızca belirtileri hafifletmekle kalmayan, hastalığın seyrini değiştirebilen etkili tedavilerle kontrol altına alınabiliyor.",
     "image": null,
     "keyword": null
   }
