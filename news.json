@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f715a1b1",
+    "title": "CHP’de Kayseri’de istifa: İl Başkanı Ümit Özer görevden ayrıldı",
+    "source": "Evrensel",
+    "time": "11/04/2026 15:15",
+    "link": "https://www.evrensel.net/haber/5979197/chpde-kayseride-istifa-il-baskani-umit-ozer-gorevden-ayrildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Kayseri İl Başkanı Ümit Özer istifa etti. Kararın MYK’de görüşülmesi beklenirken, süreçte parti içi soruşturmanın etkili olduğu belirtildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342543.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cd3c7306",
     "title": "ABD-İran müzakereleri başladı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Grup Başkanvekili Murat Emir, Özgür Özel’in ara seçim çağrısı sonrası açıklama yapan AKP’li Hayati Yazıcı’yı eleştirerek, “Kendi dayandığınız mevzuat da ara seçimi söylüyor” dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/335497.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_241a78ab",
-    "title": "Beşiktaş'ın borcu açıklandı",
-    "source": "Evrensel",
-    "time": "11/04/2026 14:35",
-    "link": "https://www.evrensel.net/haber/5979196/besiktasin-borcu-aciklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beşiktaş’ın borcu 30 Kasım 2025 itibarıyla 24 milyar 362 milyon TL olarak duyuruldu. Ağustos ayına göre borçta artış yaşandığı belirtildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/280050.jpg",
     "keyword": null
   }
 ]
