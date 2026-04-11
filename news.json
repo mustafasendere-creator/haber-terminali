@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef62fca8",
+    "title": "İsrail ordusu: Son 24 saatte Lübnan'ın güneyine 200'den fazla hava saldırısı düzenlendi",
+    "source": "Evrensel",
+    "time": "11/04/2026 18:15",
+    "link": "https://www.evrensel.net/haber/5979228/israil-ordusu-son-24-saatte-lubnanin-guneyine-200den-fazla-hava-saldirisi-duzenlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, saldırılarını sürdürdüğü Lübnan’ın güneyinde son 24 saatte 200’den fazla Hizbullah hedefine saldırı düzenlediğini ileri sürdü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340983.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_578d420f",
     "title": "Mehmet Türkmen'den Trabzonspor maçında tepki çeken karar...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa’nın Gemlik ilçesinde 65 yaşındaki Fatma Ekinci’yi evinde boğazını keserek öldüren 30 yaşındaki Erdi B., polis tarafından yakalanarak gözaltına alındı. Şüphelinin evinde yapılan aramada Ekinci’ye ait altın ve ziynet eşyaları ele geçirilirken, Erdi B. ifadesinde cinayeti itiraf etti. Ekinci’nin kızıyla ilişkisi olduğunu ve kendisini “damat adayı” olarak gördüğünü söyledi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/evinde-bogazi-kesilmis-halde-olu-bulunmustu-katil-zanlisi-caldigi-altinlarla-yakalandi-z8p5.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b5e67f2f",
-    "title": "İran, Arap ülkelerindeki ABD üsleri ve kritik noktalara 42 günde en az 6 bin 657 saldırı düzenledi",
-    "source": "TRT Haber",
-    "time": "11/04/2026 17:35",
-    "link": "https://www.trthaber.com/haber/dunya/iran-arap-ulkelerindeki-abd-usleri-ve-kritik-noktalara-42-gunde-en-az-6-bin-657-saldiri-duzenledi-941321.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İranın ABD ve İsrail saldırılarına misilleme kapsamında 28 Şubattan bu yana çoğunluğu Körfez bölgesinde 7 Arap ülkesindeki ABD üsleri ile kritik noktalara en az 6 bin 657 füze ve İHA saldırısı gerçekleştirdiği bildirildi.",
-    "image": null,
     "keyword": null
   }
 ]
