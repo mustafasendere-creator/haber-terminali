@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1f6be84d",
+    "title": "1 Mayıs’a giderken kamu işçilerinin gündemi yoksulluk: Çare ek iş yapmakta mı?",
+    "source": "Evrensel",
+    "time": "12/04/2026 01:14",
+    "link": "https://www.evrensel.net/haber/5979231/1-mayisa-giderken-kamu-iscilerinin-gundemi-yoksulluk-care-ek-is-yapmakta-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "1 Mayıs İşçi Bayramı yaklaşırken kamu işçileri yoksulluğu konuşuyor. Bir kamu işçisi tartışmaları aktarıyor: “Geçinmek için ek işlerde çalışan kamu işçilerinin sayısı artıyor. Ancak çözüm ek işte değil, temel taleplerimizi savunmakta.\"",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/298366.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_94043fe7",
     "title": "Doç. Dr. Hakan Güneş: Müzakere anlaşmayla sonuçlanırsa en büyük tokadı İsrail yiyecek",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika  haberi... Kütahya'nın Simav ilçesinde saat 17.31'de 4.8 büyüklüğünde deprem meydana geldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/kutahyada-48-buyuklugunde-deprem-p21b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2fecbe9b",
-    "title": "Bahçeli'den İbrahim Tatlıses'e 'Geçmiş olsun' telefonu",
-    "source": "Haber Global",
-    "time": "11/04/2026 23:14",
-    "link": "https://haberglobal.com/gundem/bahceliden-ibrahim-tatlisese-gecmis-olsun-telefonu-518258",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Genel Başkanı Devlet Bahçeli, ameliyat olan ve tedavisi devam eden sanatçı İbrahim Tatlıses’i telefonla arayarak geçmiş olsun dileklerini iletti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/bahceliden-ibrahim-tatlisese-gecmis-olsun-telefonu-2i1j.jpg",
     "keyword": null
   }
 ]
