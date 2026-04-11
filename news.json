@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02b03254",
+    "title": "İran devlet medyası duyurdu: İki görüşme yapıldı, üçüncüsü de yapılacak",
+    "source": "Evrensel",
+    "time": "12/04/2026 00:14",
+    "link": "https://www.evrensel.net/haber/5979257/iran-devlet-medyasi-duyurdu-iki-gorusme-yapildi-ucuncusu-de-yapilacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İslamabad’da yürütülen ABD-İran görüşmelerinde iki tur yapıldı. İran devlet medyası üçüncü bir görüşmenin daha yapılacağını aktardı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342049.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1f02fd56",
     "title": "Londra'da \"Palestine Action\" grubuna destek eyleminde 212 kişi gözaltına alındı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İspanya La Liga'da Barcelona, Espanyol ile oynadığı derbiyi 4-1 kazandı ve Real Madrid ile puan farkını 9'a yükseltti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/b30d485a-8b3e-4ee0-9b8f-010c395103db.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_843aaddd",
-    "title": "‘Uyuşturucu’ soruşturmasında test sonuçları ortaya çıktı",
-    "source": "Haber Global",
-    "time": "11/04/2026 22:15",
-    "link": "https://haberglobal.com/gundem/uyusturucu-sorusturmasinda-test-sonuclari-ortaya-cikti-518271",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından ünlülere yönelik yürütülen ‘uyuşturucu’ soruşturması kapsamında gözaltına alınan, ardından serbest bırakılan ünlülerin test sonuçları çıktı. Bazı isimlerin test sonucu pozitif çıktı...",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/uyusturucu-sorusturmasinda-test-sonuclari-ortaya-cikti-kule.jpg",
     "keyword": null
   }
 ]
