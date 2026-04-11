@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f0ea48aa",
+    "title": "İstanbul'da 2. Cansağlığı Uluslararası Tıp Öğrenci Kongresi düzenlendi",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 16:14",
+    "link": "https://www.aa.com.tr/tr/gundem/istanbulda-2-cansagligi-uluslararasi-tip-ogrenci-kongresi-duzenlendi/3901968",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2. Cansağlığı Uluslararası Tıp Öğrenci Kongresi, Haliç Üniversitesi ve Cansağlığı Vakfının koordinasyonunda İstanbul'da düzenlendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7f762aac",
     "title": "Gazze’de 21 bin 500’den fazla kişi tedavi beklerken, son 6 ayda sadece 420 kişi tahliye edildi",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Milliyetçi Hareket Partisi Trabzon İl Teşkilatı’nın Ankara’da gerçekleştirdiği kritik ziyaret, hem siyasi hem de yerel medya açısından dikkat çeken mesajlara sahne oldu. Tolgay Sivrikaya, MHP Genel Başkanı Devlet Bahçeli’yi makamında ziyaret ederek Trabzon’daki saha çalışmaları ve kapsamlı basın arşivini takdim etti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/a-t-u-k-u-t-k-t-u.PNG",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_dca76719",
-    "title": "Eski TBMM Başkanı Hüsamettin Cindoruk hayatını kaybetti",
-    "source": "DW Türkçe",
-    "time": "11/04/2026 15:36",
-    "link": "https://www.dw.com/tr/eski-tbmm-başkanı-hüsamettin-cindoruk-hayatını-kaybetti/a-76747852",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk siyasetinde merkez sağın önemli isimleri arasında sayılan Hüsamettin Cindoruk 92 yaşında tedavi gördüğü hastanede yaşamını yitirdi.",
-    "image": null,
-    "keyword": null
   }
 ]
