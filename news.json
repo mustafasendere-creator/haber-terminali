@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d278adfd",
+    "title": "Reuters: Mücteba Hamaney ağır yaralı",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 13:56",
+    "link": "https://www.cumhuriyet.com.tr/dunya/reuters-mucteba-hamaney-agir-yarali-2494299",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran’ın yeni dini lideri Mojtaba Hamaney’in, savaşın ilk gününde düzenlenen saldırıda ağır yaralandığı ve uzun süredir kamuoyuna görüntü vermediği öne sürüldü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7c76e8ef-64ff-4067-8a8c-025ca1374cc9.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_59de13a1",
     "title": "İçişleri Bakanı Çiftçi: Göç aynı zamanda bir insanlık ve vicdan meselesidir",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon merkezli 5 ilde düzenlenen büyük operasyonda 100 şüpheli yakalandı. 76 kişi tutuklanırken, tonlarca yasaklı madde üretilebilecek ham madde ele geçirildi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-9-136.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_01ab48a9",
-    "title": "Mansur Yavaş 'tan İmamoğlu sorusuna yanıt: \"İnşallah seneye...\"",
-    "source": "Haber61",
-    "time": "11/04/2026 13:35",
-    "link": "https://www.haber61.net/trabzon/mansur-yavas-tan-imamoglu-sorusuna-yanit-insallah-seneye-h629309.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Başkent Millet Bahçesi’nde düzenlenen Trabzon Günleri’ni ziyaret etti. Etkinlik alanında stantları gezen Yavaş, açıklamalarda bulundu.",
-    "image": "https://resim.haber61.net/news/612198.jpg",
-    "keyword": "trabzon"
   }
 ]
