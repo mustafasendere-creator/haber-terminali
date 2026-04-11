@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_afe2a5f1",
+    "title": "Üsküdar'da gemiye çarpan tekne battı",
+    "source": "Haber Global",
+    "time": "12/04/2026 00:54",
+    "link": "https://haberglobal.com/gundem/uskudarda-gemiye-carpan-tekne-batti-518279",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Üsküdar Haydarpaşa Limanı'nda kıyıya bağlı halde bulunan bir gemiye çarpan tekne kısa süre içinde battı. Olayda can kaybı ya da yaralanma yaşanmazken, teknedeki 5 kişi ekipler tarafından tahliye edildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/uskudarda-gemiye-carpan-tekne-batti-zqbz.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7fc5dec9",
     "title": "Ünlülere yönelik uyuşturucu soruşturmasında 8 şüphelinin test sonucu belli oldu",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Alanyaspor-Trabzonspor maçında hakem Mehmet Türkmen’in hiç uzatma vermeden Trabzonspor’un atağını kesmesi gündem oldu.  x.com",
     "image": null,
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "GND_8e41b24d",
-    "title": "Dışişleri: Çağımızın Hitler’i olarak nitelenen Netanyahu’nun sicili bellidir",
-    "source": "Haber Global",
-    "time": "11/04/2026 22:54",
-    "link": "https://haberglobal.com/dunya/disisleri-cagimizin-hitleri-olarak-nitelenen-netanyahunun-sicili-bellidir-518275",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanlığı tarafından Netanyahu'ya yönelik \"İşlediği suçlar nedeniyle yaşadığımız çağın Hitler’i olarak nitelenen Netanyahu’nun kim olduğu ve sicili bellidir.\" açıklamasında bulunuldu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/disisleri-cagimizin-hitleri-olarak-nitelenen-netanyahunun-sicili-bellidir-0nln.jpg",
-    "keyword": null
   }
 ]
