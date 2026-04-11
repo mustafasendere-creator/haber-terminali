@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aae39900",
+    "title": "ABD’nin, İran’da “rejim değişikliği” gerçekleştirdiği iddiası",
+    "source": "Teyit.org",
+    "time": "11/04/2026 11:17",
+    "link": "https://teyit.org/demec-kontrolu/abdnin-iranda-rejim-degisikligi-gerceklestirdigi-iddiasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'da \"rejim değişikliği\"nin gerçekleştiğini öne sürdü.",
+    "image": "https://md.teyit.org/2026/04/trump-rejim.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_fec2f7c2",
     "title": "Trump, Çin’in Hürmüz Boğazı’na olan petrol bağımlılığını abartıyor mu?",
     "source": "Teyit.org",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Adli yargı ilk derece mahkemelerinde hakim başına düşen yıllık dosya sayısı 2016'da 506 iken, 2025'te yüzde 10,3 oranında azalarak 454'e düştü .",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6af83b1e",
-    "title": "Manisa'da devrilen traktördeki 3 kişi yaşamını yitirdi",
-    "source": "TRT Haber",
-    "time": "11/04/2026 10:57",
-    "link": "https://www.trthaber.com/haber/turkiye/manisada-devrilen-traktordeki-3-kisi-yasamini-yitirdi-941273.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa'nın Turgutlu ilçesinde tarlaya giderken devrilen traktörün altında kalan sürücü, eşi ve oğulları hayatını kaybetti.",
     "image": null,
     "keyword": null
   }
