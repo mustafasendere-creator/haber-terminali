@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c169099",
+    "title": "Türkiye'nin sulama ve taşkın önleme altyapısına 500 milyon dolar dış finansman",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 14:54",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-sulama-ve-taskin-onleme-altyapisina-500-milyon-dolar-dis-finansman/3901823",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye, Devlet Su İşleri Genel Müdürlüğü (DSİ) tarafından yürütülen sulama ve taşkın önleme projelerinin desteklenmesi amacıyla Asya Altyapı Yatırım Bankasından (AAYB) 500 milyon dolar tutarında uzun vadeli ve uygun koşullu finansman temin etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3cb1ce27",
     "title": "Bakan Fidan'dan İran teması: Pakistan mevkidaşı ile görüştü",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-11-at-123517.jpeg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d5ca0af5",
-    "title": "Galatasaray'da 2 kez şampiyonluk yaşamıştı; 38 yaşında futbolu bıraktı",
-    "source": "Evrensel",
-    "time": "11/04/2026 14:15",
-    "link": "https://www.evrensel.net/haber/5979193/galatasarayda-2-kez-sampiyonluk-yasamisti-38-yasinda-futbolu-birakti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray'da oynarken arka arkaya iki şampiyonluk yaşayan Brezilyalı orta saha oyuncusu Fernando Reges, futbolu bıraktığını açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342541.jpg",
-    "keyword": null
   }
 ]
