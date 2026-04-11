@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2eb285b4",
+    "title": "Türkiye'de sigara tamamen yasaklanıyor mu?",
+    "source": "DW Türkçe",
+    "time": "11/04/2026 11:36",
+    "link": "https://www.dw.com/tr/türkiye-de-sigara-tamamen-yasaklanıyor-mu/a-76739171",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'de hükümet, sigara tüketimine yönelik kısıtlamaların kapsamını genişletmeyi planlıyor. Basında yer alan haberlere göre tütün ürünlerinin üretimi ve satışı 2040'a kadar tamamen sonlandırılacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d7621b08",
     "title": "Trump'tan Macaristan seçimlerine açık müdahale",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dolar, avro ve altında haftanın bilançosu 11.04.2026 DikenBu hafta gram altın yüzde 2,28, avro yüzde 1,69, dolarsa yüzde 0,17 değer kazandı.\nThe post Dolar, avro ve altında haftanın bilançosu appeared first on #site_linkat 11.04.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1fad248c",
-    "title": "İsrail Konsolosluğuna saldırı soruşturması: Gözaltına alınan 17 kişi adliyeye sevk edildi",
-    "source": "Evrensel",
-    "time": "11/04/2026 11:15",
-    "link": "https://www.evrensel.net/haber/5979166/israil-konsolosluguna-saldiri-sorusturmasi-gozaltina-alinan-17-kisi-adliyeye-sevk-edildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Konsolosluğu önünde polis noktasına düzenlenen saldırıya ilişkin soruşturmada gözaltına alınan 17 kişi adliyeye sevk edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342045.jpg",
     "keyword": null
   }
 ]
