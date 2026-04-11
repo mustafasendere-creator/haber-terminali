@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bc836601",
+    "title": "Prof. Dr. Bektaş uyardı: Bu senaryoda 3 şehir deprem tehlikesiyle karşı karşıya",
+    "source": "Sözcü",
+    "time": "11/04/2026 11:16",
+    "link": "https://www.sozcu.com.tr/prof-dr-bektas-uyardi-bu-senaryoda-3-sehir-deprem-tehlikesiyle-karsi-karsiya-p309291",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Prof. Dr. Bektaş uyardı: Bu senaryoda 3 şehir deprem tehlikesiyle karşı karşıya",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/2/osmanbektasjpgny2sobdmemvdvz0qbekwjpeg--ynJk1B3C0u_ESMk0iroPA.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_048c07c3",
     "title": "Trafiğin ortasında arabanın tavanında dans etmeye başladı",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Araklı’da 15 saat pişirilen tenekede mısır ekmeği, uzun süre tazeliğini koruyan geleneksel lezzet olarak öne çıkıyor.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9c1479ed",
-    "title": "CHP'li Üsküdar Belediyesi'ne rüşvet operasyonu: Başkan yardımcısı dahil dokuz kişi tutuklandı",
-    "source": "Euronews",
-    "time": "11/04/2026 10:56",
-    "link": "http://tr.euronews.com/2026/04/11/chpli-uskudar-belediyesine-rusvet-operasyonu-baskan-yardimcisi-dahil-dokuz-kisi-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye genelinde birçok ilde belediyelere yönelik devam eden rüşvet ve yolsuzluk soruşturmaları kapsamında, İstanbul'un Üsküdar Belediyesi'nde yapı ruhsatı ve iskan ruhsatı süreçlerinde usulsüzlük yapıldığı gerekçesiyle 20 kişi gözaltına alınmıştı.",
-    "image": null,
-    "keyword": null
   }
 ]
