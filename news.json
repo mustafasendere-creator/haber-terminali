@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e5b0dff1",
+    "title": "Edirne’de trafik kazası: 4 yaralı",
+    "source": "Gazete Duvar",
+    "time": "11/04/2026 11:55",
+    "link": "https://www.gazeteduvar.com.tr/edirnede-trafik-kazasi-4-yarali-haber-1765797",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne&#039;nin Havsa ilçesinde, sürücüsünün direksiyon hakimiyetini kaybettiği otomobilin yoldan çıkması sonucu meydana gelen kazada 4 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/06/basliksiz-1-urwg_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_c248b1c9",
     "title": "Taşacak Bu Deniz'in Eleni'si Ava Yaman Olumsuz Yorumlara Yanıt Verdi;  “Olduğum kişiyle varım”",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "De Marke Sports (@demarkesports) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon son dakika"
-  },
-  {
-    "id": "GND_72ee6a36",
-    "title": "Yavrular boğuldu, yiyecek azaldı: İmparator penguen ve Antarktika kürklü fok tehlike altına girdi",
-    "source": "Euronews",
-    "time": "11/04/2026 11:36",
-    "link": "http://tr.euronews.com/2026/04/11/yavrular-boguldu-yiyecek-azaldi-imparator-penguen-ve-antarktika-kurklu-fok-tehlike-altina",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bunun başlıca nedenleri, iklim değişikliğinin yol açtığı azalan deniz buzu ve ısınan okyanuslardır.",
-    "image": null,
-    "keyword": null
   }
 ]
