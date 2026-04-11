@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cc625568",
+    "title": "Kütahya Simav’da 4,8 büyüklüğünde deprem",
+    "source": "Evrensel",
+    "time": "11/04/2026 18:35",
+    "link": "https://www.evrensel.net/haber/5979235/kutahya-simav-da-4-8-buyuklugunde-deprem",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya'nın Simav ilçesinde saat 17.31'de 4,8 büyüklüğünde deprem meydana geldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336042.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7328111e",
     "title": "İran basını: İslamabad'daki görüşmeler bir gün daha uzatılabilir, ancak henüz karar verilmedi",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Ankara’daki Trabzon Günleri etkinliklerinde konuşan Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, organizasyona gösterilen yoğun ilgiden duyduğu memnuniyeti dile getirdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/u-r-a-l-o-g-l-u-29.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_3995828c",
-    "title": "Trabzonspor’da Zorlu Deplasman! Eksik Kadroya Rağmen Kritik Sınav",
-    "source": "Taka Gazetesi",
-    "time": "11/04/2026 17:55",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-zorlu-deplasman-eksik-kadroya-ragmen-kritik-sinav",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Şampiyonluk yarışında iddiasını sürdüren Trabzonspor, her karşılaşmaya final gözüyle bakmaya devam ediyor. Trabzonspor, son haftalarda yakaladığı çıkışı sürdürmek adına deplasmanda Alanyaspor karşısına çıkıyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/takim-kadrolari-3.jpg",
-    "keyword": null
   }
 ]
