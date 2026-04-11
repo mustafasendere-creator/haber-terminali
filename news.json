@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c018acac",
+    "title": "Hafta sonu hava durumu",
+    "source": "Habertürk",
+    "time": "11/04/2026 11:57",
+    "link": "https://www.haberturk.com/hafta-sonu-hava-durumu-meteoroloji-tahminleri-ile-11-12-nisan-2026-istanbul-ankara-izmirde-hava-nasil-yagis-var-mi-3876321",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hafta sonu öncesinde hava durumu araştırmaları hız kazandı. Meteoroloji Genel Müdürlüğü tarafından yapılan tahminlere göre yurt genelinde soğuk ve bulutlu bir hava hakim olacak. Bu akşam saatlerinden itibaren Marmara’nın güneydoğusu, İç Ege, İç Anadolu’nun kuzeyi ve Batı Karadeniz’in iç bölgeleri için hafif zirai don tehlikesine karşı uyarı yapıldı. Peki, 11-12 Nisan İstanbul, Ankara, İzmir’de yağış var mı? İşte Meteoroloji’den hafta sonu hava durumu tahminleri...",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775814393/3876321/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b92cc840",
     "title": "Mika Raun Can'ın soruşturması tamamlandı",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "Polisleri görünce 5 kişiyi rehin aldı! O anlar kamerada",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/rehinjpg-U9uiO5YU1kipMyFFW5zWYQ.jpg",
     "keyword": null
-  },
-  {
-    "id": "SOC_bcca7d54",
-    "title": "Hrant Dink davasının avukatı, meslektaşımız ve yol arkadaşımız Av. Hakan Bakırcıoğlu’nu kaybedeli 3 yıl oldu. Adalet mücadelesindeki emeğini ve duruşunu saygıyla anıyoruz. - x.com",
-    "source": "X",
-    "time": "11/04/2026 11:37",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMaXVKVUptV3NOSXdQQnNra0NHNjNGTG9LbHlXd0xNUUZLZmhaUEZRSFM2clk2VVhQbXdpd3l1TTBMSmtHTk9OeklpWk9ENDVveVhHYlEzZUNsYWVNcHBSRVFNcw",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "Hrant Dink davasının avukatı, meslektaşımız ve yol arkadaşımız Av. Hakan Bakırcıoğlu’nu kaybedeli 3 yıl oldu. Adalet mücadelesindeki emeğini ve duruşunu saygıyla anıyoruz.  x.com",
-    "image": null,
-    "keyword": "hrant dink"
   }
 ]
