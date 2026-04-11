@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9ed73d7d",
+    "title": "Aileler birbirine girdi, silahlar konuştu: 2 ölü, 6 yaralı",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 19:56",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/aileler-birbirine-girdi-silahlar-konustu-2-olu-6-yarali-2494385",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İğdır’da iki aile arasında çıkan kavga can aldı. Silahlı çatışmada 8 kişi yaralandı. Yaralılardan 2’si hastanede hayatını kaybetti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/239655de-6803-43bd-9ac6-10c4bef35a9f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0f1080c4",
     "title": "Fatih Tekke'den penaltı tepkisi: 'Tartışmaya açık'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Erdoğan, koleksiyoner Mehmet Çebi tarafından derlenen, 16. yüzyıldan 20. yüzyılın başlarına uzanan nadir cep saatlerinin yer aldığı \"Muhteşem Cep Saatleri Koleksiyonu\" sergisini ziyaret etti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_688f4960",
-    "title": "Trabzonspor’da maç sonu Pina konuştu: \"Kazanabilirdik\"",
-    "source": "Haber61",
-    "time": "11/04/2026 19:34",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-mac-sonu-pina-konustu-kazanabilirdik-h629344.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un Alanyaspor ile oynadığı maçın ardından sağ bek oyuncusu Pina açıklamalarda bulundu. Bordo-mavili futbolcu, karşılaşmanın ardından maçın gidişatı ve takımın ortaya koyduğu performansa ilişkin değerlendirmeler yaptı.",
-    "image": "https://resim.haber61.net/news/612264.jpg",
     "keyword": null
   }
 ]
