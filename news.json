@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8ea799a5",
+    "title": "İsrail'de iktidarın kilidi Arap partisinde",
+    "source": "Habertürk",
+    "time": "11/04/2026 20:35",
+    "link": "https://www.haberturk.com/anketlerde-netanyahu-ya-kotu-haber-israil-de-iktidarin-kilidi-arap-partisinde-3876409",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'de bu yıl yapılacak genel seçimlere dair yapılan bir kamuoyu yoklaması, Netanyahu ve koalisyonunun güç kaybettiğini gösteriyor. Ankete göre seçimler bugün yapılırsa Başbakan Netanyahu'nun lideri olduğu Likud Partisi'nin sandalye sayısı 32'den 25'e düşecek. Hiçbir parti tek başına iktidar için yeter sayı olan 61 vekile erişemezken; mevcut iktidar koalisyonu da muhalefet bloğu da koalisyon kuramıyor. İktidarı hangi koalisyonun alacağını belirleyecek kilit parti ise Birleşik Arap Listesi.",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775831864/3876409/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e21d5e6c",
     "title": "ABD Hürmüz'de mayın temizlemeye başladı",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Günleri’nin 3. gününde yerel yönetimlerin stantlarını ziyaret eden Bakan Uraloğlu, belediyelerin Trabzon’un kültürel ve turistik değerlerini tanıtmadaki katkısını yerinde inceledi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/2-kopyasi-2-kopya-55.webp",
     "keyword": null
-  },
-  {
-    "id": "TKP_a19ce2e8",
-    "title": "Sürmene Belediye Başkanı Azizoğlu Açıkladı: \" Kendimi Trabzonlu gibi hissediyorum diyen çok kişi var”",
-    "source": "Haber61",
-    "time": "11/04/2026 19:55",
-    "link": "https://www.haber61.net/trabzon/surmene-belediye-baskani-azizoglu-acikladi-kendimi-trabzonlu-gibi-h629349.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Başkentte düzenlenen Trabzon Tanıtım Günleri’ne katılan Sürmene Belediye Başkanı Hüseyin Azizoğlu, organizasyona gösterilen yoğun ilgiden duydukları memnuniyeti Haber61’e anlattı.",
-    "image": "https://resim.haber61.net/news/612271.jpg",
-    "keyword": "trabzon"
   }
 ]
