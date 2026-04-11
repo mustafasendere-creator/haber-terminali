@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a4d21114",
+    "title": "İşgalci İsrail, 2 Mart'tan bu yana Lübnan'da 2 binden fazla kişiyi katletti",
+    "source": "TRT Haber",
+    "time": "11/04/2026 20:35",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-2-marttan-bu-yana-lubnanda-2-binden-fazla-kisiyi-katletti-941330.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Katil İsrail ordusunun 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda hayatını kaybedenlerin sayısı 2 bini aştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_42bb4f27",
     "title": "İstanbul'un iki ilçesinde yarın bazı yollar trafiğe kapatılacak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Alanyaspor maçının ardından açıklamalarda bulundu. Tekke, karşılaşma sonrası bordo-mavili takımın oyunu ve alınan sonuca ilişkin değerlendirmeler yaptı.",
     "image": "https://resim.haber61.net/news/612269.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bcc4740e",
-    "title": "Dışişleri'nden ABD-İran ateşkesine ilişkin açıklama: Memnuniyetle karşılıyoruz",
-    "source": "A Haber",
-    "time": "11/04/2026 19:54",
-    "link": "https://www.ahaber.com.tr/gundem/2026/04/08/disislerinden-abd-iran-ateskesine-iliskin-aciklama-memnuniyetle-karsiliyoruz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanlığı, bölgede ilan edilen geçici ateşkes kararını memnuniyetle karşıladığını duyurdu. Açıklamada, ateşkesin sahada eksiksiz uygulanması gerektiği vurgulanırken, kalıcı barış için...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/bb95f3/1200/1200/0/0/485/486?u=https://iahbr.tmgrup.com.tr/2026/04/08/disislerinden-abd-iran-ateskesine-iliskin-aciklama-memnuniyetle-karsiliyoruz-1775634408784.jpg",
     "keyword": null
   }
 ]
