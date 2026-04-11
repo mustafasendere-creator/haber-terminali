@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3721a9cd",
+    "title": "İsrail'in Gazze'de düzenlediği saldırıda 7 kişi hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 17:34",
+    "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-duzenledigi-saldirida-7-kisi-hayatini-kaybetti/3902122",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Gazze Şeridi'nin kuzeyindeki Beyt Lahiya ve orta kesiminde yer alan Bureyc Mülteci Kampı'nda bir polis merkezine düzenlediği hava saldırısında 7 kişinin hayatını kaybettiği, çok sayıda kişinin yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_f9a96c3d",
     "title": "Resmi açıklama: Amerika Birleşik Devletleri, İran'ın varlıklarına uygulanan dondurma kararını kaldırmayı kabul etmedi",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun'da bir kadın, avukatının 'tazminat kazanıldı' diyerek kendisinden para alıp yıllarca ödeme yapmadığı iddiasıyla savcılığa suç duyurusunda bulundu. Avukat ise, hesabına geçen herhangi bir tazminat olmadığını söyledi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/avukati-tarafindan-tazminat-vaadiyle-dolandirildigini-iddia-eden-kadin-suc-duyurusunda-bulundu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_90b739aa",
-    "title": "Türksat AŞ’nin fiber altyapı yatırımlarına ‘mükemmellik’ ödülü",
-    "source": "10Haber",
-    "time": "11/04/2026 16:55",
-    "link": "https://10haber.net/ekonomi/turksat-asnin-fiber-altyapi-yatirimlarina-mukemmellik-odulu-694333/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şirketten yapılan açıklamaya göre, TÜRKSAT AŞ, dünya genelinde en başarılı ve lider markaların inovasyon, hizmet kalitesi ve müşteri deneyimi gibi kritik parametrelerle değerlendirildiği, Global Brands Magazine tarafından verilen &#8220;Kablolu TV ve Genişbant Hizmetlerinde Mükemmellik&#8221; ödülünün sahibi oldu. Dünya devlerinin marka faaliyetleri ve operasyonel verimlilik kriterleri doğrultusunda mercek altına alındığı değerlendirme süreci sonunda, şirketin ödülü almaya [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69da3de18758b5.58474056.jpg",
     "keyword": null
   }
 ]
