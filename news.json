@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f22b449c",
+    "title": "Bankalara güvenlik uyarısı: Anthropic’in riski",
+    "source": "Ekonomim",
+    "time": "11/04/2026 13:57",
+    "link": "https://www.ekonomim.com/sektorler/teknoloji/bankalara-guvenlik-uyarisi-anthropicin-riski-haberi-887499",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD’de bankacılık sektörü, Anthropic’ın yeni yapay zekâ modeli nedeniyle artabilecek siber güvenlik risklerine karşı uyarıldı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/03/pentagonla-anlasmazlik-anthropice-yaradi-0rnn_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3bb88ecb",
     "title": "İran savaşı petrol şokunu fiyatlarda göründüğünden daha derin hale getirdi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji, 38 il için sarı kod uyarısı verdi. Kuvvetli yağış, rüzgar, zirai don ve çığ tehlikesine karşı dikkatli olunması istenirken, sıcaklıkların mevsim normallerinin altına düşeceği belirtildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342184.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_51c191ab",
-    "title": "Tülay Hatimoğulları’ndan Cevdet Yılmaz’a yanıt: Barış konusunda pırıl pırıl bir netliğe sahibiz",
-    "source": "Evrensel",
-    "time": "11/04/2026 13:35",
-    "link": "https://www.evrensel.net/haber/5979182/tulay-hatimogullarindan-cevdet-yilmaza-yanit-baris-konusunda-piril-piril-bir-netlige-sahibiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, çözüm sürecine ilişkin “Barış konusunda pırıl pırıl bir netliğe sahibiz” diyerek, Cevdet Yılmaz’ın açıklamalarına yanıt verdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342529.jpg",
     "keyword": null
   }
 ]
