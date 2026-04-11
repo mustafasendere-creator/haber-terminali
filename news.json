@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b2859d66",
+    "title": "Erdoğan ile Macron telefonda görüştü: ‘Ateşkes ve Hürmüz Boğazı’ gündemdeydi",
+    "source": "Evrensel",
+    "time": "11/04/2026 17:55",
+    "link": "https://www.evrensel.net/haber/5979229/erdogan-ile-macron-telefonda-gorustu-ateskes-ve-hurmuz-bogazi-gundemdeydi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Erdoğan ile Fransa Cumhurbaşkanı Macron, telefon görüşmesinde Ortadoğu'daki ve Hürmüz Boğazı'ndaki gelişmelerin ele alındığı belirtildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342586.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_203b467a",
     "title": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Trabzon Günleri ve Maç Yorumu",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Gaziosmanpaşa'da bir binanın zemin katındaki hurdacıda yangın çıktı. İş yerinde mahsur kalan 4 kişi duvarı delerek çıktı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/istanbulda-can-pazari-duvari-delerek-kurtuldular-enwq.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f6834e08",
-    "title": "Cumhurbaşkanı Erdoğan, Fransa Cumhurbaşkanı Macron ile görüştü",
-    "source": "TRT Haber",
-    "time": "11/04/2026 17:16",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-fransa-cumhurbaskani-macron-ile-gorustu-941312.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Fransa Cumhurbaşkanı Emmanuel Macron ile bir telefon görüşmesi gerçekleştirdi.",
-    "image": null,
     "keyword": null
   }
 ]
