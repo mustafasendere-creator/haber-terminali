@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3ade5af0",
+    "title": "Beşiktaş'taki terör saldırısının şüphelileri adliyede",
+    "source": "TRT Haber",
+    "time": "11/04/2026 11:16",
+    "link": "https://www.trthaber.com/haber/gundem/besiktastaki-teror-saldirisinin-suphelileri-adliyede-941275.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beşiktaş'ta, Yapı Kredi Plaza önündeki polis noktasına yönelik terör saldırısına ilişkin gözaltına alınan şüphelilerden 12'si adliyeye sevk edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6e21d441",
     "title": "Parkinson'un erken sinyali: Korku kaybı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Komedyen Tuba Ulu, bir stand-up gösterisinde Osmanlı padişahı Kanuni Sultan Süleyman'ın Hürrem Sultan ile evlenmesiyle ilgili ifadeleri nedeniyle 'tarihi milli manevi değerlere hakaret' suçlamasıyla gözaltına alındı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_cca44d30",
-    "title": "Trabzonspor’da Alanya Alarmı: Eski Kabus Yeniden Gündemde",
-    "source": "Taka Gazetesi",
-    "time": "11/04/2026 10:56",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-alanya-alarmi-eski-kabus-yeniden-gundemde",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig’de bugün Alanyaspor ile karşılaşacak olan Trabzonspor’da rehavetten korkuluyor. Galatasaray’ı net bir oyunla mağlup eden Bordo-Mavililer kendisine ters gelen Alanyaspor karşısında galip gelmenin hesapları içerisinde.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/b-a-k-a-1.jpg",
-    "keyword": "trabzon"
   }
 ]
