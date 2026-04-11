@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f7cfa99a",
+    "title": "İzmir Körfezi'nde yine dış kaynaklı kirlilik",
+    "source": "Habertürk",
+    "time": "11/04/2026 13:17",
+    "link": "https://www.haberturk.com/izmir-korfezi-nde-yine-dis-kaynakli-kirlilik-3876414",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Büyükşehir Belediyesi tarafından İzmir Körfezi'nde yapılan rutin dron tarama faaliyetleri kapsamında kasım ayından bu yana dokuzuncu kez dış kaynaklı kirlilik tespit edildi. Karşıyaka İskelesi civarında deniz yüzeyinde dış atık maddeler görüntülendi",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775833512/3876414/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_be0dac93",
     "title": "Beşiktaş-Antalyaspor maçı saat kaçta?",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İnceleme, kasıtlı bir niyet olmadığını fakat belirgin yapısal hatalar saptandığını ortaya koydu. Bu gelişme, BBC'nin de hakaret içeren yayının editoryal standartları ihlal ettiğini kabul etmesinden birkaç gün sonra yaşandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1940510c",
-    "title": "Macaristan seçimleri: Anketler ne gösteriyor, Orban dönemi sona mı erdi?",
-    "source": "Euronews",
-    "time": "11/04/2026 12:55",
-    "link": "http://tr.euronews.com/2026/04/10/macaristan-secimleri-anketler-ne-gosteriyor-orban-donemi-sona-mi-erdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son yılların en isabetli kamuoyu araştırma şirketi Medián, Macaristan'da muhalefet için üçte iki çoğunluk öngörüyor.",
     "image": null,
     "keyword": null
   }
