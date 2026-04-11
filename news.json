@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e56fe5bd",
+    "title": "Hür ve Kabul Edilmiş Masonlar Derneği'nden 'kayyım' açıklaması",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 16:56",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/hur-ve-kabul-edilmis-masonlar-dernegi-nden-kayyim-aciklamasi-2494350",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hür ve Kabul Edilmiş Masonlar Derneği, kayyım atandı iddialarına ilişkin açıklama yaptı. Açıklamada iddialar yalanlandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4fea05d7-6a11-4eb8-a251-ca3c41e0a1bf.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f205f4df",
     "title": "İran'ın baş müzakerecisinden ABD'ye rozetli mesaj",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Günleri’nin 3. gününde sahne alan Kuzeyin Uşakları horon ekibi, sergilediği performansla Başkent’te adeta Trabzon fırtınası estirdi.",
     "image": "https://resim.haber61.net/news/612231.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d7b487b2",
-    "title": "Rusya ile Ukrayna arasında Paskalya nedeniyle geçici ateşkes başladı",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 16:34",
-    "link": "https://www.aa.com.tr/tr/dunya/rusya-ile-ukrayna-arasinda-paskalya-nedeniyle-gecici-ateskes-basladi/3902051",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya ile Ukrayna arasında Ortodoks Hristiyanların Paskalya Bayramı nedeniyle ilan edilen geçici ateşkes, yerel saatle 16.00'da yürürlüğe girdi.",
-    "image": null,
-    "keyword": null
   }
 ]
