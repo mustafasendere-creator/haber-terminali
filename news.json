@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5fa58f7c",
+    "title": "Netanyahu'dan Sanchez'e tehdit",
+    "source": "OdaTV",
+    "time": "11/04/2026 11:38",
+    "link": "https://www.odatv.com/dunya/binyamin-netanyahudan-pedro-sancheze-tehdit-120142912",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Başbakanı Netanyahu, İsrail yönetimine eleştirileriyle gündeme gelen İspanya Başbakanı Sanchez&#039;i tehdit etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/11/binyamin-netanyahudan-pedro-sancheze-tehdit-ddpw.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2d383c2f",
     "title": "Komedyen Tuba Ulu için karar",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Dün İstanbul Levent’teki polis noktasına 3 terörist tarafından düzenlenen silahlı saldırının ardından, Cumhuriyet Başsavcılıklarımızın koordinasyonunda DEAŞ terör örgütüne karşı 34 ilde eş zamanlı operasyon gerçekleştirilmiştir. Cumhuriyet başsavcılıklarımızı  x.com",
     "image": null,
     "keyword": "trabzon polis"
-  },
-  {
-    "id": "GND_f1044abe",
-    "title": "İran'ın Tomahawk füzesine sahip olduğu iddiası",
-    "source": "Teyit.org",
-    "time": "11/04/2026 11:17",
-    "link": "https://teyit.org/demec-kontrolu/iranin-tomahawk-fuzesine-sahip-oldugu-iddiasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump İran'ın Tomahawk füzesine sahip olduğunu iddia etti.",
-    "image": "https://md.teyit.org/2026/04/iran-tomahawk-trump-iddia-kapak.webp",
-    "keyword": null
   }
 ]
