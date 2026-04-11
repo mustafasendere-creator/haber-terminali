@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f36b2c9f",
+    "title": "80 yaşındaki sürücü takla atan araçtan sağ çıktı",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 19:36",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/80-yasindaki-surucu-takla-atan-aractan-sag-cikti-2494383",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuşadası’nda beton mikserine çarpmamak için manevra yapan 80 yaşındaki sürücünün aracı takla attı. Sürücü kazayı hafif yaralı atlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c07ba25b-0d59-467a-b842-7b92b4d3e7f1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4be7b897",
     "title": "Hasan Al değerlendirdi: 'Artık rakipler yenilmemek için sahaya çıkıyor'",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Ortahisar standı Trabzon Günleri’nde yoğun ilgi gördü. Başkan Ahmet Kaya, ziyaretçilere kültürel değerleri ve yerel ürünleri tanıttı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/ortahisar-belediyesi-15-1.jpeg",
     "keyword": null
-  },
-  {
-    "id": "TKP_f7c8fc3f",
-    "title": "Trabzonspor’da Folcarelli şoku! Başakşehir’de yok!",
-    "source": "Haber61",
-    "time": "11/04/2026 18:55",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-folcarelli-soku-basaksehirde-yok-h629341.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’da Tim Jabol-Folcarelli, Alanyaspor maçında gördüğü sarı kartın ardından cezalı duruma düştü. Bordo-mavili orta saha oyuncusu, gelecek hafta Başakşehir karşısında forma giyemeyecek.",
-    "image": "https://resim.haber61.net/news/612257.jpg",
-    "keyword": "trabzon"
   }
 ]
