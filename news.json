@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eeee6f07",
+    "title": "Diyarbakır Büyükşehir'den yen bir \"Sesli Kütüphane\"",
+    "source": "Habertürk",
+    "time": "11/04/2026 15:36",
+    "link": "https://www.haberturk.com/diyarbakir-buyuksehir-den-yen-bir-sesli-kutuphane-3876294",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır Büyükşehir Belediyesi, görme engellilerin yazılı materyallere erişimini sağlamak amacıyla yeni bir Sesli Kütüphane Projesi'ni hayata geçirdi",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775809740/3876294/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2b3ebfb9",
     "title": "Delikanlı dizisi oyuncuları",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Spor yorumcusu Erdal Hoş, Ankara’daki Trabzon Günleri’nde Trabzon kültürü, Trabzonspor ve toplumsal değerler üzerine çarpıcı değerlendirmelerde bulundu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-13-106.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c93dfb76",
-    "title": "Pentagon, Papa’nın İran açıklamaları sonrası Vatikan’a yönelik tehdit iddiasını reddetti",
-    "source": "Euronews",
-    "time": "11/04/2026 15:15",
-    "link": "http://tr.euronews.com/2026/04/10/pentagon-papanin-iran-aciklamalari-sonrasi-vatikana-yonelik-tehdit-iddiasini-reddetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pentagon ve Vatikan yetkilileri, ABD’li yetkililerin Papa XIV. Leo’nun İran savaşıyla ilgili eleştirileri nedeniyle Vatikan’ın Washington Büyükelçisi’ne 'sert bir çıkış' yaparak Kilise’den Trump yönetimiyle aynı çizgide yer almasını talep ettiği yönündeki haberleri yalanladı.",
-    "image": null,
     "keyword": null
   }
 ]
