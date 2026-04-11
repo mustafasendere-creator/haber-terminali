@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f1963edd",
+    "title": "Görüntü İsrail'e yapılan saldırıları mı gösteriyor?",
+    "source": "Teyit.org",
+    "time": "11/04/2026 11:38",
+    "link": "https://teyit.org/analiz/goruntu-israile-yapilan-saldirilari-mi-gosteriyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medyada paylaşılan bir görüntünün İran’ın İsrail’e saldırılarını gösterdiği iddia edildi.",
+    "image": "https://md.teyit.org/2026/04/lebanon-iddia-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_d269baf1",
     "title": "Kadıköy'de bir sürücü çakarlı araçla yol kesti: Kimlik sordu",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Galatasaray Kulübü, Trabzon’da maç bitimi yaşananlar ile alakalı İç İşleri Bakanlığı’na şikayette bulundu!  x.com",
     "image": null,
     "keyword": "trabzon polis"
-  },
-  {
-    "id": "GND_1bae8367",
-    "title": "Korkmayın Mahfi Bey, belki Körfez’deki sermaye Türkiye’ye gelmez",
-    "source": "A Haber",
-    "time": "11/04/2026 11:34",
-    "link": "https://www.ahaber.com.tr/yazarlar/melih-altinok/2026/04/11/korkmayin-mahfi-bey-belki-korfezdeki-sermaye-turkiyeye-gelmez",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran savaşı, yıllardır yabancı sermayenin güvenli liman olarak gördüğü Dubai gibi Körfez şehirlerin imajını sarstı. Özellikleri farklı olsa da alternatif arayışlarında İstanbul öne çıkıyor.\nDubai...Devamı için tıklayınız",
-    "image": "",
-    "keyword": null
   }
 ]
