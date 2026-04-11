@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da78fd4f",
+    "title": "EMEP'ten “Emperyalist Saldırganlık: Dünya ve Türkiye” Sempozyumu",
+    "source": "Evrensel",
+    "time": "11/04/2026 18:35",
+    "link": "https://www.evrensel.net/haber/5979223/emep-ten-emperyalist-saldirganlik-dunya-ve-turkiye-sempozyumu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Emek Partisi Ankara’da “Emperyalist Saldırganlık: Dünya ve Türkiye” başlıklı sempozyum düzenledi. 3 oturumdan oluşan sempozyuma yazar, akademisyen, gazeteci ve siyasi parti temsilcileri katıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342579.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cc625568",
     "title": "Kütahya Simav’da 4,8 büyüklüğünde deprem",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Cumhurbaşkanı Erdoğan ile Fransa Cumhurbaşkanı Macron, telefon görüşmesinde Ortadoğu'daki ve Hürmüz Boğazı'ndaki gelişmelerin ele alındığı belirtildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342586.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_203b467a",
-    "title": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Trabzon Günleri ve Maç Yorumu",
-    "source": "Taka Gazetesi",
-    "time": "11/04/2026 17:55",
-    "link": "https://www.takagazete.com.tr/ulastirma-ve-altyapi-bakani-abdulkadir-uraloglu-trabzon-gunleri-ve-mac-yorumu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara’daki Trabzon Günleri etkinliklerinde konuşan Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, organizasyona gösterilen yoğun ilgiden duyduğu memnuniyeti dile getirdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/u-r-a-l-o-g-l-u-29.jpg",
-    "keyword": "trabzon"
   }
 ]
