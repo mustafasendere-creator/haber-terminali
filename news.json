@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_22266a73",
+    "title": "SETA raporu: Çalışma yaşamında izinler yetersiz",
+    "source": "Evrensel",
+    "time": "12/04/2026 00:34",
+    "link": "https://www.evrensel.net/haber/5979191/seta-raporu-calisma-yasaminda-izinler-yetersiz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SETA’nın analizinde Türkiye’de ücretli izin sürelerinin Avrupa Birliği ülkelerine kıyasla daha sınırlı olduğu ve bakım yükünün büyük ölçüde kadınların üzerinde kaldığı belirtildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342540.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e095798a",
     "title": "Metal işçisi kuşatmayı kırmalı: 1 Mayıs insanca yaşamın mücadele alanıdır",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ordu'nun Kabadüz ilçesinde kontrolden çıkan araç uçuruma yuvarlandı. Yaşanan feci kazada otomobildeki baba Kadem Şentürk ve kızı Esra Şentürk hayatını kaybetti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/orduda-yurek-yakan-kaza-otomobil-ucuruma-yuvarlandi-baba-ve-kizi-hayatini-kaybetti-be5s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f59dec5e",
-    "title": "4 ilde 'sahte bungalov' operasyonu: 3 şüpheli tutuklandı",
-    "source": "TRT Haber",
-    "time": "11/04/2026 22:34",
-    "link": "https://www.trthaber.com/haber/turkiye/4-ilde-sahte-bungalov-operasyonu-3-supheli-tutuklandi-941334.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla'nın Marmaris ilçesi merkezli 4 ilde düzenlenen operasyonda, \"sahte bungalov kiralama\" ilanlarıyla dolandırıcılık yaptıkları iddiasıyla gözaltına alınan 8 şüpheliden 3'ü tutuklandı.",
-    "image": null,
     "keyword": null
   }
 ]
