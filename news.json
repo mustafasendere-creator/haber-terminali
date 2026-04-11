@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b1e0128d",
+    "title": "11 Nisan'da kesinti!",
+    "source": "Habertürk",
+    "time": "11/04/2026 10:58",
+    "link": "https://www.haberturk.com/11-nisan-cumartesi-elektrik-kesintisi-11-nisan-istanbul-da-elektrik-kesintisi-saat-kacta-baslayacak-elektrikler-ne-zaman-gelecek-3876482",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "11 Nisan Cumartesi günü planlı elektrik kesintileri açıklandı. Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), bakım ve yatırım çalışmaları nedeniyle kent genelinde enerji kesintisi yapılacağını açıkladı. Şirketin planına göre, kesintiler birçok ilçede belirli saat aralıklarında etkili olacak. İşte ayrıntılar...",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775856001/3876482/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_11cb154f",
     "title": "Resmi Gazete'de bugün neler var?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bir şehir bazen kendini sokaklarıyla değil, sesiyle anlatır. Ankara da Sevda-Cenap And Müzik Vakfı tarafından düzenlenen festival ile 40 yıldır bunu yapıyor; notalarla, orkestralarla, sahnelerle…",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/05/baskentte-40-yillik-bir-ses-uluslararasi-ankara-muzik-festivali-vjci_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_43185336",
-    "title": "Polisten kaçan alkollü sürücü ile araç sahibine 1 milyon 292 bin lira ceza kesildi",
-    "source": "Ekonomim",
-    "time": "05/04/2026 14:15",
-    "link": "https://www.ekonomim.com/gundem/polisten-kacan-alkollu-surucu-ile-arac-sahibine-1-milyon-292-bin-lira-ceza-kesildi-haberi-886163",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kırıkkale’de polisin “dur” ihtarına uymayarak kaçan ve yakalandıktan sonra ekiplere mukavemet gösteren alkollü sürücü ile araç sahibine toplam 1 milyon 292 bin lira ceza kesildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/05/polisten-kacan-alkollu-surucu-ile-arac-sahibine-1-milyon-292-bin-lira-ceza-kesildi-o1rl_cover.png",
     "keyword": null
   }
 ]
