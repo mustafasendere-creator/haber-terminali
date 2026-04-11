@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_915bfb6d",
+    "title": "Rusya'nın pamuksu kahvaltısı: Syrniki",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 13:56",
+    "link": "https://www.cumhuriyet.com.tr/gurme/rusya-nin-pamuksu-kahvaltisi-syrniki-2494297",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lor peynirinin (Tvorog) yüksek proteinli dokusuyla şekillenen, dışı altın sarısı bir çıtırlığa, içi ise kremsi bir yumuşaklığa sahip olan Syrniki; Rus mutfak disiplininin \"basitlikten doğan zarafet\" kuralının en tatlı örneğidir.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7737cac7-87f6-458a-929c-a7e48527082e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ef4f887b",
     "title": "Türk Tarih Kurumu 95'inci yıl dönümü nedeniyle panel ve sergi düzenleyecek",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da spor lisesindeki ısınma, güvenlik ve ulaşım sorunları tepki çekerken; çöp duyarsızlığı tartışma yarattı. Ankara’daki Trabzon Günleri’nde Uraloğlu’nun selfie karesi ve Başkan Genç’in yoğun temposu öne çıktı.",
     "image": "https://resim.haber61.net/news/612095.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8fb2094e",
-    "title": "BM Genel Kurul Başkanı: 'Savaşlar BM’nin değil, üye devletlerin başarısızlığı'",
-    "source": "Euronews",
-    "time": "11/04/2026 13:35",
-    "link": "http://tr.euronews.com/2026/04/10/bm-genel-kurul-baskani-suren-savaslar-bmnin-degil-uye-devletlerin-basarisizligiydi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BM'nin başlıca karar organının başkanı, örgüte yönelik artan eleştirileri Euronews'e değerlendirdi; kilit üyelerin veto yetkisini kötüye kullanmasının ilerlemeyi tıkadığını savundu.",
-    "image": null,
-    "keyword": null
   }
 ]
