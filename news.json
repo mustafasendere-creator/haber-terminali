@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5903e5fd",
+    "title": "Bir saatte neden 60 dakika, bir dakikada neden 60 saniye var?",
+    "source": "BBC Türkçe",
+    "time": "11/04/2026 12:35",
+    "link": "https://www.bbc.com/turkce/articles/cd0r4rk8x4do",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "5.000 yıl öncesine dayanan gizemli bir karar, zamanı nasıl hesapladığımızı doğrudan etkiledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0a0b6963",
     "title": "AKSUNGUR İHA ve yerli helikopterler Emniyetin gökyüzündeki gücüne güç katacak",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkan Yardımcısı JD Vance ve heyetinin, İran ile müzakereleri görüşmek amacıyla Pakistan&#039;ın başkenti İslamabad&#039;a ulaştığı açıklandı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/11/abd-baskan-yardimcisi-vance-ve-heyeti-iran-gorusmeleri-icin-islamabadda-o0s2_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8ca83955",
-    "title": "Ateşkes geldi, piyasa rahatladı: Küresel risk iştahı yeniden yükseldi",
-    "source": "Ekonomim",
-    "time": "11/04/2026 11:57",
-    "link": "https://www.ekonomim.com/ekonomi/ateskes-geldi-piyasa-rahatladi-kuresel-risk-istahi-yeniden-yukseldi-haberi-887481",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD–İran arasında sağlanan geçici ateşkes, küresel piyasalarda risk iştahını yeniden canlandırırken; petrol fiyatlarında geri çekilme ve borsalarda yükseliş görüldü. Ancak enerji kaynaklı enflasyon baskısı, Fed’in belirsiz para politikası ve savaşın kalıcılığına dair soru işaretleri, iyimserliğin temkinli kalmasına neden oluyor.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/08/piyasalarda-ateskes-rallisi-pwqe_cover.jpg",
     "keyword": null
   }
 ]
