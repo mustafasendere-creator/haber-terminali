@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b45c85d7",
+    "title": "Kütahya'da 4,9 büyüklüğünde deprem",
+    "source": "Diken",
+    "time": "11/04/2026 17:55",
+    "link": "https://www.diken.com.tr/kutahyada-49-buyuklugunde-deprem/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya'da 4,9 büyüklüğünde deprem 11.04.2026 DikenKütahya'nın Simav ilçesinde 17:31'de 4,9 büyüklüğünde deprem oldu.\nThe post Kütahya'da 4,9 büyüklüğünde deprem appeared first on #site_linkat 11.04.2026 .",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0dd44354",
     "title": "Hasta mahpuslar için 3 ilde çağrı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Antep Gündemi (@GundemiAntep27) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon intihar"
-  },
-  {
-    "id": "GND_3ac6bda9",
-    "title": "Antalya'da feci kaza: Emekli polis devrilen traktörün altında kaldı",
-    "source": "Cumhuriyet",
-    "time": "11/04/2026 17:16",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/antalya-da-feci-kaza-emekli-polis-devrilen-traktorun-altinda-kaldi-2494356",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya'nın Aksu ilçesinde bahçesinde çalışırken devrilen traktörünün altında kalan 54 yaşındaki emekli polis Mehmet Üstün yaşamını yitirdi. Üstün'ün 3 yıl önce emekli olduğu öğrenildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a7818632-425e-4cd0-8f4e-f4ee382e202c.jpg",
-    "keyword": null
   }
 ]
