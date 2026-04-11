@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0afa07cb",
+    "title": "Hürmüz Boğazı'ndan ABD gemileri geçti mi?",
+    "source": "TRT Haber",
+    "time": "11/04/2026 16:36",
+    "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazindan-abd-gemileri-gecti-mi-941314.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Axios haber sitesi, ABD ve İsrail'in İran'a saldırılarının başlamasından bu yana ilk kez Amerikan donanmasına ait gemilerin Hürmüz Boğazı'ndan geçtiğini yazdı. Ancak, üst düzey bir İranlı askeri yetkili, Hürmüz Boğazı'ndan ABD gemisinin geçtiğine dair haberleri yalanladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ae033b24",
     "title": "Bakan Uraloğlu: Libya uçağının düşüşüşle ilgili sabotaj tespit edilmedi",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "AK Parti Sözcüsü Ömer Çelik,  MKYK Toplantısı'nın ardından önemli açıklamalarda bulundu. İstanbul'da gerçekleşen terör saldırısını tüm boyutları ile takip ettiklerini belirten Çelik, \"Terörle mücadele...Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/b33836/0/0/0/0/2048/1365?u=https://iahbr.tmgrup.com.tr/2026/04/09/ak-parti-sozcusu-omer-celikten-onemli-aciklamalar-1775742003312.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_3b36cad7",
-    "title": "Mansur Yavaş’tan Trabzonspor sözleri: Bizi küme düşürdü",
-    "source": "Evrensel",
-    "time": "11/04/2026 16:14",
-    "link": "https://www.evrensel.net/haber/5979210/mansur-yavastan-trabzonspor-sozleri-bizi-kume-dusurdu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Ankaragücü’nün Trabzonspor’a yenilerek küme düştüğü maçı hatırlatarak “Bizi küme düşürdü, onu unutamıyoruz” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/334229.jpg",
-    "keyword": "trabzon"
   }
 ]
