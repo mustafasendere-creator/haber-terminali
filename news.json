@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_567bd2c8",
+    "title": "KarsErzurum kara yolunda ulaşım kontrollü sağlanıyor",
+    "source": "TRT Haber",
+    "time": "11/04/2026 12:16",
+    "link": "https://www.trthaber.com/haber/turkiye/kars-erzurum-kara-yolunda-ulasim-kontrollu-saglaniyor-941292.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kar yağışının etkili olduğu KarsErzurum kara yolunda bazı tırlar yolda kaldı, ulaşım tek şeritten kontrollü sağlanıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d28ecdea",
     "title": "Merz: İran yönetimiyle görüşmeye başlıyoruz",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Of’ta düzenlenen Art Of Peak Resim Çalıştayı ve Sergisi, sanatseverlerin yoğun katılımıyla gerçekleşti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e5b0dff1",
-    "title": "Edirne’de trafik kazası: 4 yaralı",
-    "source": "Gazete Duvar",
-    "time": "11/04/2026 11:55",
-    "link": "https://www.gazeteduvar.com.tr/edirnede-trafik-kazasi-4-yarali-haber-1765797",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Edirne&#039;nin Havsa ilçesinde, sürücüsünün direksiyon hakimiyetini kaybettiği otomobilin yoldan çıkması sonucu meydana gelen kazada 4 kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/06/basliksiz-1-urwg_cover.jpg",
     "keyword": null
   }
 ]
