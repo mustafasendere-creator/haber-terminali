@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a1a6fd99",
+    "title": "ABD Başkanı Trump: İran ile çok derin görüşmeler içindeyiz",
+    "source": "TRT Haber",
+    "time": "12/04/2026 00:35",
+    "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-iran-ile-cok-derin-gorusmeler-icindeyiz-941341.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran ile müzakerelerle ilgili, \"İran ile çok derin görüşmeler içindeyiz. Belki anlaşma yaparlar, belki yapmazlar. Ne olursa olsun biz kazanıyoruz\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d4195253",
     "title": "Netanyahu Erdoğan'ı hedef aldı, savunma bakanı muhalefeti etiketledi",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Büyükşehir Belediyesi’ne ait Meslek Fabrikası nöbetine destek veren Atatürkçü Düşünce Derneği Genel Başkanı Hüsnü Bozkurt, İzmir Eşgüdüm Toplantısı’nı nöbet alanında yaptı. Toplantıda konuşan Başkan Cemil Tugay, sokakta karşılaştığı iki kişiden birinin destek mesajı ilettiğini söyleyerek, “Buraya gelemeyenlere söylüyorum, bulunduğunuz her yerden, her şekilde hem bu hukuksuzluğa, bu yalana dolana hem de maruz kaldığınız her türlü haksızlığa karşı sesinizi çıkarın, itiraz edin. Kötülüğü kimse kabullenmesin” dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8ddced2a-2761-412d-be27-7a2379cd5849.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0a7a6a6f",
-    "title": "Irak'ta Nizar Amedi yeni Cumhurbaşkanı olarak seçildi",
-    "source": "Haber Global",
-    "time": "11/04/2026 22:35",
-    "link": "https://haberglobal.com/dunya/irakta-nizar-amedi-yeni-cumhurbaskani-olarak-secildi-518244",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Irak Meclisi, ikinci tur oylamada 329 sandalyeli mecliste 227 oyla Nizar Amedi’yi ülkenin yeni Cumhurbaşkanı olarak seçti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/irakta-nizar-amedi-yeni-cumhurbaskani-olarak-secildi-kntx.jpg",
     "keyword": null
   }
 ]
