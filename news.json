@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70c3db08",
+    "title": "Kütahya'da 4.8 büyüklüğünde deprem!",
+    "source": "Haber Global",
+    "time": "11/04/2026 23:14",
+    "link": "https://haberglobal.com/gundem/kutahyada-48-buyuklugunde-deprem-518243",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika  haberi... Kütahya'nın Simav ilçesinde saat 17.31'de 4.8 büyüklüğünde deprem meydana geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/kutahyada-48-buyuklugunde-deprem-p21b.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2fecbe9b",
     "title": "Bahçeli'den İbrahim Tatlıses'e 'Geçmiş olsun' telefonu",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Karagümrük çetesine yönelik düzenlenen operasyonlarda gözaltına alınan şüphelilerden 25'i çıkarıldıkları mahkemece tutuklanırken, 2 kişi ise adli kontrol şartıyla serbest bırakıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342505.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_c09a2e0c",
-    "title": "Rize’de Kadın Taksici Havva Paliç’ten İlham Veren Hikâye",
-    "source": "Taka Gazetesi",
-    "time": "11/04/2026 21:55",
-    "link": "https://www.takagazete.com.tr/video/rizede-kadin-taksici-havva-palicten-ilham-veren-hikaye",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rize’de taksicilik yapan Havva Paliç, azmi ve cesaretiyle dikkat çekiyor. Kadınların her meslekte başarılı olabileceğini gösteren Paliç, örnek oluyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/rize-kadin-taksici-7.jpeg",
     "keyword": null
   }
 ]
