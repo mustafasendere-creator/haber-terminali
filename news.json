@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_320506ea",
+    "title": "Gazze'deki Sağlık Bakanlığı: İsrail'in son 48 saatteki saldırılarında 11 Filistinli hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "11/04/2026 13:16",
+    "link": "https://www.trthaber.com/haber/dunya/gazzedeki-saglik-bakanligi-israilin-son-48-saatteki-saldirilarinda-11-filistinli-hayatini-kaybetti-941296.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda son 48 saatte 11 Filistinlinin hayatını kaybettiği, 26 kişinin yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_54c01a22",
     "title": "Zelenski: Paskalya'da ateşkes, gerçek bir barış hareketinin başlangıcı olabilir",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Hamam Çimeni Çarşısı’nda hizmet veren Akçaabat Belediyesi Evlendirme Memurluğu, yenilenen nikâh salonuyla çiftlerin en özel günlerine daha şık ve modern bir ortam sunuyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/436ff94c-e015-4b6c-a956-2f7e91313f5c.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_3880733c",
-    "title": "Başkan Genç açıkladı: \"Alanlar doldu taştı\"",
-    "source": "Haber61",
-    "time": "11/04/2026 12:55",
-    "link": "https://www.haber61.net/trabzon/baskan-genc-acikladi-alanlar-doldu-tasti-h629302.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara'da Trabzon Günleri'ne çok güzel bir katılımın gerçekleştiğini söyleyen Başkan Genç, emeği geçenlere teşekkür ederken, gurbetçileri de Trabzon'a davet etti.",
-    "image": "https://resim.haber61.net/news/612183.jpg",
-    "keyword": "trabzon"
   }
 ]
