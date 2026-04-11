@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_54e87704",
+    "title": "Irak'ın yeni Cumhurbaşkanı Nizar Amedi oldu",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 21:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/irak-in-yeni-cumhurbaskani-nizar-amedi-oldu-2494373",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Irak Meclisi’nde yapılan ikinci tur oylamada KYB adayı Nizar Amedi 227 oy alarak cumhurbaşkanı seçildi. Amedi, yemin ederek görevine başladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c0b7de87-e11d-4ce7-9c12-df251562133d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_df998a9d",
     "title": "Kocaelispor maçı öncesi... Galatasaray'dan 2 isim için sakatlık açıklaması",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig'in 29. haftasında Alanyaspor ile 1-1 berabere kalan Trabzonspor, ligde son 4 sezonda deplasmanda rakibini mağlup edemedi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/trabzonspor-alanyaspor-engelini-yine-asamadi-hs9b.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_4feafc5b",
-    "title": "Sürekli yolculuk arzusu anlamına gelen \"seyahat kaşıntısı\" duyan kişiler, bir gezi bitmeden diğerini planlıyor",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 20:54",
-    "link": "https://www.aa.com.tr/tr/yasam/surekli-yolculuk-arzusu-anlamina-gelen-seyahat-kasintisi-duyan-kisiler-bir-gezi-bitmeden-digerini-planliyor/3902298",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sürekli seyahat arzusu, buna yönelik hayaller kurup planlar yapılması anlamına gelen \"seyahat kaşıntısı (travel itch)\" duyan kişiler, bir gezi sırasında bile diğerinin hayalini kuruyor.",
-    "image": null,
-    "keyword": null
   }
 ]
