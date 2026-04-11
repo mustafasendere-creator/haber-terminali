@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e807b8b",
+    "title": "Amerikan askeri uçağına baltalı saldırı",
+    "source": "Sözcü",
+    "time": "11/04/2026 21:35",
+    "link": "https://www.sozcu.com.tr/amerikan-askeri-ucagina-baltali-saldiri-p309399",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amerikan askeri uçağına baltalı saldırı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/baltalijpg-Y1fiG6KW6U2yoXcimkYXaQ.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_54e87704",
     "title": "Irak'ın yeni Cumhurbaşkanı Nizar Amedi oldu",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Milli sporcular Bengisu Erçetin ve Nazlıcan İnci, Avrupa Badminton Şampiyonası'nda çift kadınlarda gümüş madalya kazanarak tarihi başarıya imza attı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_3fb43d1e",
-    "title": "Trabzonspor, Alanyaspor engelini yine aşamadı",
-    "source": "Haber Global",
-    "time": "11/04/2026 20:54",
-    "link": "https://haberglobal.com/spor/trabzonspor-alanyaspor-engelini-yine-asamadi-518261",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig'in 29. haftasında Alanyaspor ile 1-1 berabere kalan Trabzonspor, ligde son 4 sezonda deplasmanda rakibini mağlup edemedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/trabzonspor-alanyaspor-engelini-yine-asamadi-hs9b.jpg",
-    "keyword": "trabzon"
   }
 ]
