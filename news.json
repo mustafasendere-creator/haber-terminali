@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e548f2a0",
+    "title": "AK Parti MKYK Toplantısı başladı",
+    "source": "A Haber",
+    "time": "11/04/2026 16:14",
+    "link": "https://www.ahaber.com.tr/gundem/2026/04/09/ak-parti-mkyk-toplantisi-basladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AK Parti MKYK, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/886908/0/0/0/0/2048/1248?u=https://iahbr.tmgrup.com.tr/2026/04/09/ak-parti-mkyk-toplantisi-basladi-1775741434497.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_8c1231f5",
     "title": "AK Parti Sözcüsü Ömer Çelik'ten Özel'in seçim çağrısına yanıt: Zamanında yapılmalı",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Cumhuriyet Başsavcılığı koordinesinde 7 Nisan 2026'da Trabzon, Artvin, Adıyaman, Hakkari ve İzmir'de düzenlenen geniş çaplı operasyonda 76 kişi tutuklandı...",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/operasyon-5.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_f1de1094",
-    "title": "ABB’de promosyon tepkisi: Beklenti yüksek, verilen düşük",
-    "source": "Evrensel",
-    "time": "11/04/2026 15:35",
-    "link": "https://www.evrensel.net/haber/5979208/abbde-promosyon-tepkisi-beklenti-yuksek-verilen-dusuk",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABB’de işçilere yönelik 78 bin TL’lik promosyon anlaşması beklentinin altında kaldı. Artan yaşam maliyetleri karşısında zorlanan çalışanlar, rakama tepki gösterdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/322679.jpg",
-    "keyword": null
   }
 ]
