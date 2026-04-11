@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6c8c0d17",
+    "title": "Otobüsten indi, motosiklet çarptı!",
+    "source": "Habertürk",
+    "time": "11/04/2026 21:35",
+    "link": "https://www.haberturk.com/otobusten-indi-motosiklet-carpti-3876390",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Küçükçekmece'de otobüsten inen kadın yolcuya motosiklet çarptı. Kadın yolcu ve motosiklet sürücüsünün hafif yaralandığı olay kameraya yansıdı",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775827226/3876390/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3e807b8b",
     "title": "Amerikan askeri uçağına baltalı saldırı",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "Dora'navirüs (@doranavirus) / Posts / X  x.com",
     "image": null,
     "keyword": "polis intihar"
-  },
-  {
-    "id": "GND_b4e9d1d5",
-    "title": "Milli sporculardan Avrupa Badminton Şampiyonası'nda tarihi başarı",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 20:54",
-    "link": "https://www.aa.com.tr/tr/spor/milli-sporculardan-avrupa-badminton-sampiyonasinda-tarihi-basari/3902300",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli sporcular Bengisu Erçetin ve Nazlıcan İnci, Avrupa Badminton Şampiyonası'nda çift kadınlarda gümüş madalya kazanarak tarihi başarıya imza attı.",
-    "image": null,
-    "keyword": null
   }
 ]
