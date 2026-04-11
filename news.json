@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_99174e92",
+    "title": "Heyetler İslamabad'da: İran kırmızı çizgilerini iletti",
+    "source": "DW Türkçe",
+    "time": "11/04/2026 15:56",
+    "link": "https://www.dw.com/tr/heyetler-islamabad-da-iran-kırmızı-çizgilerini-iletti/a-76747359",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İran arasında yapılan dolaylı görüşmeler için heyetler İslamabad'da. İran heyeti, Pakistan Başbakanı ile yaptığı görüşmede Tahran'ın kırmızı çizgilerini iletti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_afc76e18",
     "title": "Cibuti'de 'seçim': Guelleh yüzde 98 oyla altıncı kez cumhurbaşkanı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediye Başkanı Ahmet Kaya'dan 61saat'e özel açıklamalar geldi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/k-a-k-a-k-a-y-a-y-a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f7408626",
-    "title": "Suriye'nin başkenti Şam’da bombalı saldırı girişimi engellendi",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 15:34",
-    "link": "https://www.aa.com.tr/tr/dunya/suriyenin-baskenti-sam-da-bombali-saldiri-girisimi-engellendi/3901951",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suriye İçişleri Bakanlığı, başkent Şam’da planlanan bir saldırı girişiminin engellendiğini ve 5 kişinin gözaltına alındığını duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
