@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_43929205",
+    "title": "T.C. İSTANBUL 2. AĞIR CEZA MAHKEMESİ",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 00:15",
+    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-istanbul-2-agir-ceza-mahkemesi-2494135",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "T.C. İSTANBUL 2. AĞIR CEZA MAHKEMESİ",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1eaba0de-a26b-4b07-9039-fcaac00c7338.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9df09803",
     "title": "T.C. MUSTAFAKEMALPAŞA SULH HUKUK MAHKEMESİ",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Siirt'te yapımı süren viyadük projesi için kente getirilen 50 metrelik köprü kirişi kavşakta takılı kaldı. Kirişin yolu tamamen kapatması ile bölgede trafik akışı 8 saat durdu",
     "image": "https://im.haberturk.com/l/2026/04/10/ver1775818667/3876339/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_e188967c",
-    "title": "Mescid-i Aksa'da beş hafta sonra ilk cuma namazı",
-    "source": "Habertürk",
-    "time": "11/04/2026 22:15",
-    "link": "https://www.haberturk.com/mescid-i-aksa-da-bes-hafta-sonra-ilk-cuma-namazi-3876349",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in İran'la savaşı gerekçe göstererek ibadete kapattığı Doğu Kudüs'teki Mescid-i Aksa'da, 5 hafta aradan sonra ilk cuma namazı kılındı.",
-    "image": "https://im.haberturk.com/l/2026/04/10/ver1775820741/3876349/jpg/1280x1280",
     "keyword": null
   }
 ]
