@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b0217efc",
+    "title": "5 kişiyi rehin aldı, polise ateş açtı!",
+    "source": "Habertürk",
+    "time": "11/04/2026 20:15",
+    "link": "https://www.haberturk.com/5-kisiyi-rehin-aldi-polise-ates-acti-3876411",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep'te cezaevi firarisi Latif U. operasyon düzenleyen polisleri görünce 5 kişiyi rehin aldı. Polislere ateş edip, rehin aldığı sevgilisini ayağından yaralayan ve ardından kaçan firari, kısa süre sonra ikna çabaları sonucu teslim oldu",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775831972/3876411/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_6de37f89",
     "title": "Antalya'da muhtarlar için protokol imzalandı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hasan Al, Süper Lig'in 29. haftasında 1-1 sona eren Alanyaspor-Trabzonspor maçını değerlendirdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/3668e52c-502d-4816-9d75-1065ea9cf72b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a8ca5c06",
-    "title": "Trabzonspor'dan Alanya'da kritik kayıp",
-    "source": "Haber Global",
-    "time": "11/04/2026 19:36",
-    "link": "https://haberglobal.com/spor/trabzonspordan-alanyada-kritik-kayip-518250",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 29. haftasında oynanan maçta Trabzonspor deplasmanda karşılaştığı Alanyaspor ile 1-1 berabere kaldı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/trabzonspordan-alanyada-kritik-kayip-vdsz.jpg",
     "keyword": null
   }
 ]
