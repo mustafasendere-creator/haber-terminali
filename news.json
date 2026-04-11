@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2ab26625",
+    "title": "ABD'ye ait uçakları İncirlik'te gösteren video güncel mi?",
+    "source": "Teyit.org",
+    "time": "11/04/2026 10:58",
+    "link": "https://teyit.org/analiz/abdye-ait-ucaklari-incirlikte-gosteren-video-guncel-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medyada paylaşılan görüntülerle Amerikan B-1B Lancer bombardıman uçaklarının güncel ABD/İsrail-İran savaşı bağlamında İncirlik Üssü’ne geldiği iddia edildi.",
+    "image": "https://md.teyit.org/2026/04/incirlik-ussu-lancer-iddiasi-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_baf2d98d",
     "title": "Trump'ın İran'ın nükleer ve füze kapasitesi hakkındaki iddialarının ne kadarı doğru?",
     "source": "Teyit.org",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Doğu Karadeniz'in yüksek kesimlerinde etkili olan kar yağışı nedeniyle ekipler yol kapanması ve buzlanmaya karşı önlem alırken zirai don tehlikesine karşı da üreticileri uyardı.",
     "image": "https://resim.haber61.net/news/612156.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2500695b",
-    "title": "Kasımpaşa, Süper Lig'de yarın Göztepe ile deplasmanda karşılaşacak",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 10:54",
-    "link": "https://www.aa.com.tr/tr/spor/kasimpasa-super-ligde-yarin-goztepe-ile-deplasmanda-karsilasacak/3901664",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kasımpaşa, Trendyol Süper Lig'in 29. haftasında yarın Göztepe ile İzmir'de karşı karşıya gelecek.",
-    "image": null,
     "keyword": null
   }
 ]
