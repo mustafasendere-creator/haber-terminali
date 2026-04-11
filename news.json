@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf29a5a4",
+    "title": "Pakistan Hava Kuvvetlerine ait savaş uçakları ve teknik ekipten oluşan bir birlik Suudi Arabistan’a ulaştı",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 14:34",
+    "link": "https://www.aa.com.tr/tr/dunya/pakistan-hava-kuvvetlerine-ait-savas-ucaklari-ve-teknik-ekipten-olusan-bir-birlik-suudi-arabistan-a-ulasti/3901863",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Savunma Bakanlığı, savaş uçakları ve destek unsurlarının yanı sıra teknik ekipler ve operasyonel personelden oluşan Pakistanlı bir birliğin stratejik savunma anlaşması kapsamında Kral Abdulaziz Hava Üssü’ne ulaştığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9efb7d2b",
     "title": "Küresel Sumud Filosu Barselona'dan bu kez iki katı katılımla Gazze'ye doğru yola çıkıyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/d-s-c-9162-j-p-ggggggggrrrrrrrrrr.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_296812a1",
-    "title": "Piyasalarda ateşkes indirimi: Enerji fiyatları sert düştü",
-    "source": "TRT Haber",
-    "time": "11/04/2026 13:56",
-    "link": "https://www.trthaber.com/haber/ekonomi/piyasalarda-ateskes-indirimi-enerji-fiyatlari-sert-dustu-941281.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İsrail'in 28 Şubat'ta İran'a yönelik başlattığı saldırıların 6. haftasında ABD ile İran arasında sağlanan iki haftalık geçici ateşkesle birlikte küresel piyasalarda enerji fiyatlarındaki aşağı yönlü hareketlilik başladı.",
-    "image": null,
-    "keyword": null
   }
 ]
