@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a427fef2",
+    "title": "Son depremler listesi",
+    "source": "Habertürk",
+    "time": "11/04/2026 18:16",
+    "link": "https://www.haberturk.com/son-depremler-listesi-10-nisan-2026-afad-ve-kandilli-biraz-once-deprem-mi-oldu-nerede-ve-kac-buyuklugunde-3875901",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika deprem haberleri yakından takip ediliyor. 10 Nisan Cuma günü meydana gelen depremler anlık olarak güncellenirken, birçok kişi bulunduğu bölgede sarsıntı olup olmadığını öğrenmek için AFAD ve Kandilli Rasathanesi son depremler listesini kontrol ediyor. Peki, az önce deprem mi oldu, nerede ve kaç büyüklüğünde? İşte 10 Nisan 2026 AFAD ve Kandilli son dakika depremler listesi...",
+    "image": "https://im.haberturk.com/l/2026/04/09/ver1775711057/3875901/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f3c2dbcf",
     "title": "Geçmişten günümüze makyaj trendleri",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa&#039;nın Gürsu&#039;da bir akaryakıt istasyonunda çalışan Seyithan Alay, okuyamadığı yabancı plakayı fişe &quot;Putin&quot; yazdı. O anlar Rus müşteriler tarafından kahkahalarla karşılandı, ancak Alay işinden oldu.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/11/rus-musteriler-kahkahayla-karsiladi-ama-benzinci-isinden-oldu-sebebi-putin-ypu9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9a28baeb",
-    "title": "Rusya ile Ukrayna arasında Paskalya nedeniyle geçici ateşkes başladı",
-    "source": "Ekonomim",
-    "time": "11/04/2026 17:36",
-    "link": "https://www.ekonomim.com/dunya/rusya-ile-ukrayna-arasinda-paskalya-nedeniyle-gecici-ateskes-basladi-haberi-887525",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya ile Ukrayna arasında Ortodoks Hristiyanların Paskalya Bayramı nedeniyle ilan edilen geçici ateşkes, yerel saatle 16.00&#039;da yürürlüğe girdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/01/20/rusya-ukraynaya-34-fuze-ve-339-iha-ile-saldiri-duzenledi-dbhs_cover.gif",
     "keyword": null
   }
 ]
