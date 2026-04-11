@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f40859c0",
+    "title": "İran'ın cephaneliğinde hala binlerce balistik füze bulunduğu iddiası",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 10:54",
+    "link": "https://www.aa.com.tr/tr/dunya/iranin-cephaneliginde-hala-binlerce-balistik-fuze-bulundugu-iddiasi/3901676",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın cephaneliğinde, hala yer altı depolarından fırlatıcıları çıkararak kullanılabilecek binlerce balistik füze bulunduğu iddia edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_9e897354",
     "title": "Ordu'da başıboş köpek sorunu: Vatandaş kalıcı çözüm istiyor",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TESK Genel Başkanı Bendevi Palandöken, enerji zamlarının esnaf üzerindeki yükünü artırdığını belirterek özel tarife çağrısı yaptı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/185501.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_df2d86a1",
-    "title": "Konkordato süreci sonuçsuz kaldı: Otomotiv devi iflas etti",
-    "source": "Evrensel",
-    "time": "05/04/2026 13:54",
-    "link": "https://www.evrensel.net/haber/5978300/konkordato-sureci-sonucsuz-kaldi-otomotiv-devi-iflas-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa pazarında Arceo markasıyla bilinen Arıcıoğlu Otomotiv için mahkeme iflas kararı verdi. Konkordato sürecinden sonuç alamayan şirket tasfiye sürecine girdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341680.jpg",
     "keyword": null
   }
 ]
