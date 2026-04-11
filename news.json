@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c8abf6fc",
+    "title": "Milli Savunma Bakanlığına 41 akaryakıt ve ikmal vagonu üretilecek",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 14:34",
+    "link": "https://www.aa.com.tr/tr/ekonomi/milli-savunma-bakanligina-41-akaryakit-ve-ikmal-vagonu-uretilecek/3901838",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Milli Savunma Bakanlığının akaryakıt ve ikmal operasyonlarında kullanılmak üzere, Türkiye Raylı Sistem Araçları AŞ (TÜRASAŞ) tarafından 41 adet ZACENS tipi sarnıç yük vagonu üretileceğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_b5ba8193",
     "title": "Ankara Trabzon Günleri 3. gününde coşkuyla devam ediyor! Kültür ve spor aynı karede",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Ankara’da düzenlenen Trabzon Günleri’ni ziyaret eden Mansur Yavaş, etkinliğin kültürel mirasın korunması açısından büyük önem taşıdığını söyledi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-11-97.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_78fef681",
-    "title": "Küresel piyasalarda olumlu haberler belirleyici oldu",
-    "source": "TRT Haber",
-    "time": "11/04/2026 13:56",
-    "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-olumlu-haberler-belirleyici-oldu-941277.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küresel pay piyasalarındaki fiyatlamalarda geçen hafta, Orta Doğu'daki gerilimlerin müzakere sürecine taşınması, petrol fiyatlarındaki geri çekilme ve ABD'de açıklanan önemli makroekonomik veriler belirleyici oldu.",
-    "image": null,
-    "keyword": null
   }
 ]
