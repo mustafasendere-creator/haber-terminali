@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_440724a7",
+    "title": "Çıldır Gölü'nde çözülme başladı",
+    "source": "Habertürk",
+    "time": "11/04/2026 15:56",
+    "link": "https://www.haberturk.com/cildir-golu-nde-cozulme-basladi-3876285",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Doğu Anadolu Bölgesi'nin en büyük ikinci gölü olan Çıldır'ın yaklaşık 1 metre buzla kaplanan yüzeyi, havaların ısınması ile çözülmeye başladı",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775808535/3876285/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_cd66b6d4",
     "title": "İYİ Parti Genel Başkanı Dervişoğlu: Türk milletini hiç kimse soykırımcılıkla itham edemez",
     "source": "Independent",
@@ -946,17 +958,5 @@
     "summary": "Milliyetçi Hareket Partisi Trabzon İl Teşkilatı’nın Ankara’da gerçekleştirdiği kritik ziyaret, hem siyasi hem de yerel medya açısından dikkat çeken mesajlara sahne oldu. Tolgay Sivrikaya, MHP Genel Başkanı Devlet Bahçeli’yi makamında ziyaret ederek Trabzon’daki saha çalışmaları ve kapsamlı basın arşivini takdim etti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/a-t-u-k-u-t-k-t-u.PNG",
     "keyword": null
-  },
-  {
-    "id": "TKP_ab598487",
-    "title": "Mustafa Varank: “Trabzonlu ne zaman güleceğini, ne zaman gürleyeceğini iyi bilir”",
-    "source": "Haber61",
-    "time": "11/04/2026 15:35",
-    "link": "https://www.haber61.net/trabzon/mustafa-varank-trabzonlu-ne-zaman-gulecegini-ne-zaman-gurleyecegini-iyi-h629321.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara’da düzenlenen Trabzon Tanıtım Günleri kapsamında gerçekleştirilen VakıfBank 61 Sohbet Programı’nda konuşan AK Parti Bursa Milletvekili, Trabzon kültürünün ve Karadeniz aidiyetinin toplumdaki karşılığına dikkat çekti.",
-    "image": "https://resim.haber61.net/news/612218.jpg",
-    "keyword": "trabzon"
   }
 ]
