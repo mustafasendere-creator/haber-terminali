@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41fca683",
+    "title": "Erkek futbolcular milyonlar kazanıyor, kadın futbolcu geçim derdinde",
+    "source": "Evrensel",
+    "time": "11/04/2026 21:55",
+    "link": "https://www.evrensel.net/haber/5979110/erkek-futbolcular-milyonlar-kazaniyor-kadin-futbolcu-gecim-derdinde",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye’de kadın futbolcuların gelirleri çoğu zaman kamuoyuna açıklanmasa da, bu alana ilişkin araştırmalar oyuncuların önemli bir bölümünün düşük gelirlerle oynadığını ortaya koyuyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342466.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_5f628d85",
     "title": "Alanya’da Büyük Kayıp! Trabzonspor Zirve Yolunda Takıldı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tutuklu Bolu Belediye Başkanı Tanju Özcan, ikinci kez tutuklandığını açıkladı. \"Kurban bağışı toplayıp kurban kesmemekle\" suçlanan Tanju Özcan, sosyal medya hesabından yaptığı açıklamada kampanyayı vakfın değil belediyenin yürüttüğünü ifade etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/751037cc-c543-44e2-b1c9-1dcfc9741e92.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6404789c",
-    "title": "ABD’nin ‘İran döşediği mayınları bulamıyor’ iddiası sonrası CENTCOM’dan açıklama: ‘Temizleme faaliyetine başladık’",
-    "source": "Cumhuriyet",
-    "time": "11/04/2026 20:55",
-    "link": "https://www.cumhuriyet.com.tr/dunya/abd-nin-iran-mayinlari-bulamiyor-iddiasi-sonrasi-centcom-dan-aciklama-temizleme-faaliyetine-basladik-2494394",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD basını, İran’ın döşediği mayınların yerini tam olarak tespit edemediğini öne sümüştü. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Hürmüz Boğazı’nda iki ABD savaş gemisinin mayın temizleme faaliyetleri yürüttüğünü açıkladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/181eca48-560c-4d8a-8d11-cd1e6882e7db.jpg",
     "keyword": null
   }
 ]
