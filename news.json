@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_197878b7",
+    "title": "Konum attı yakalandı",
+    "source": "Habertürk",
+    "time": "11/04/2026 20:15",
+    "link": "https://www.haberturk.com/konum-atti-yakalandi-eskisehir-de-gasp-suphelisi-gozaltinda-3876428",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir'de bir kişinin saldırarak çantasını gasbedip kaçtığı bir bölgede şüpheli, kaçışının ardından sosyal medya hesabından yaptığı 'yer bildirimi' paylaşımı sayesinde kısa sürede tespit edilen camide yakalandı. Mağdurun ihbar üzerine harekete geçen polis ekipleri, güvenlik kameraları ve dijital izi inceleyip şüphelinin saklandığı yerde açık konum belirlendi. Cami içerisinde gözaltına alınan şüpheli cezaevine gönderildi",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775836583/3876428/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e702f900",
     "title": "Ali Babacan: Türkiye'de bir şey değişecek, sonra her şey değişecek",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig'in 29. haftasında Fenerbahçe deplasmanda Kayserispor ile karşı karşıya geliyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/fenerbahce-kayserispora-konuk-oluyor-ckmq.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_06f87763",
-    "title": "Fenerbahçe, VakıfBank'ı yenerek final serisinde durumu eşitledi",
-    "source": "Haber Global",
-    "time": "11/04/2026 19:36",
-    "link": "https://haberglobal.com/spor/fenerbahce-vakifbanki-yenerek-final-serisinde-durumu-esitledi-518252",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Voleybol Sultanlar Ligi final etabının 2. maçında Fenerbahçe Medicana deplasmanda VakıfBank'ı 3-1 mağlup ederek seride durumu 1-1'e getirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/fenerbahce-vakifbanki-yenerek-final-serisinde-durumu-esitledi-0ysf.jpg",
     "keyword": null
   }
 ]
