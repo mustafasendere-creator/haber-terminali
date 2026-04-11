@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7f762aac",
+    "title": "Gazze’de 21 bin 500’den fazla kişi tedavi beklerken, son 6 ayda sadece 420 kişi tahliye edildi",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 16:14",
+    "link": "https://www.aa.com.tr/tr/dunya/gazze-de-21-bin-500-den-fazla-kisi-tedavi-beklerken-son-6-ayda-sadece-420-kisi-tahliye-edildi/3901999",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gazze’deki Sağlık Bakanlığı, 21 bin 500’den fazla hastanın acil tedavi için beklediğini ancak İsrail’in geçiş noktalarını kapatarak süreci engellemesi nedeniyle son 6 ayda sadece 420 hastanın Gazze’den tahliye edildiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6de3041b",
     "title": "Cumhurbaşkanı Erdoğan, Fransa Cumhurbaşkanı Macron ile telefonda bölgesel ve küresel konuları görüştü",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Türk siyasetinde merkez sağın önemli isimleri arasında sayılan Hüsamettin Cindoruk 92 yaşında tedavi gördüğü hastanede yaşamını yitirdi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_384d5f09",
-    "title": "Trabzon’da Vefat Listesi Kabardı 18 İsim Açıklandı",
-    "source": "Taka Gazetesi",
-    "time": "11/04/2026 15:36",
-    "link": "https://www.takagazete.com.tr/trabzonda-vefat-listesi-kabardi-18-isim-aciklandi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Bugün Trabzon’da 18 kişi vefat etti. Büyükşehir Belediyesi Mezarlıklar Dairesi Başkanlığı tarafından paylaşılan güncel listeye göre hayatını kaybeden vatandaşların isimleri ve defin bilgileri kamuoyuyla paylaşıldı. Farklı ilçe ve mahallelerden gelen acı haberler şehir genelinde üzüntüye neden olurken, cenaze bilgileri de netleşti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/whatsapp-image-2026-04-01-at-095436.jpeg",
-    "keyword": "trabzon"
   }
 ]
