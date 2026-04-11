@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bb080dbf",
+    "title": "ATM’deki sarı tuşun görevi: ‘Omuz sörfü’ne engel oluyor",
+    "source": "10Haber",
+    "time": "11/04/2026 13:15",
+    "link": "https://10haber.net/gundem/atmdeki-sari-tusun-gorevi-omuz-sorfune-engel-oluyor-694242/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bankamatik üzerinden şifre, para miktarı ya da IBAN gibi kritik bilgileri girerken yapılan küçük bir hata, tüm işlemin aksamasına neden olabiliyor. Sarı tuş tam bu noktada devreye girerek, yanlış girilen karakterleri tek tek siliyor. Bu sayede kullanıcı, tüm işlemi iptal edip en başa dönmek yerine sadece hatalı kısmı düzelterek zamandan büyük bir tasarruf sağlıyor. Sarı [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69da1133a30bf6.47116576.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3f9f3f9e",
     "title": "Şarkıcı Işın Karaca Atina’dan sınır dışı edildi",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji'den alınan son bilgilere göre bugün, Ege Bölgesi dışında 6 bölgemizde de yağış bekleniyor. Yağışların, iç ve doğu kesimlerde kar olacağı tahmin ediliyor. Hava sıcaklığı mevsim normallerinin altında seyrediyor. 38 kent içinse \"sarı\" alarm verilerek uyarıda bulunuldu",
     "image": "https://im.haberturk.com/l/2026/04/11/ver1775880165/3876495/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_4bbb12e7",
-    "title": "Bu adayı 600 kedi yönetiyor!",
-    "source": "Habertürk",
-    "time": "11/04/2026 12:37",
-    "link": "https://www.haberturk.com/bu-adayi-kediler-yonetiyor-balikci-teknelerinden-adanin-zirvesine-sadece-6-insanin-ve-200-kedinin-yasadigi-ilginc-ada-3876099",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Japonya'nın Seto İç Denizi'nde yer alan ve insanlardan çok kedilerin yaşadığı Aoshima Adası, duyanları hayrete düşürüyor. Bir zamanların hareketli balıkçı kasabası, bugün tüylü dostlarımızın mutlak hakimiyetinde sessiz bir cennet olarak varlığını sürdürüyor. Dünyanın dört bir yanından turist çeken bu ilginç adanın gizemli öyküsü ve adaya dair tüm detaylar haberimizin devamında...",
-    "image": "https://im.haberturk.com/l/2026/04/09/ver1775745490/3876099/jpg/1280x1280",
     "keyword": null
   }
 ]
