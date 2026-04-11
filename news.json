@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_03008491",
+    "title": "Kızılcık Şerbeti: Sınavımız aile",
+    "source": "10Haber",
+    "time": "11/04/2026 12:15",
+    "link": "https://10haber.net/kultur-sanat/kizilcik-serbeti-sinavimiz-aile-694222/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Geçen hafta Ünalların sofrasına yıldırım gibi düşen Cemo adlı genç (Yıldıray Yeral), bu bölümde annesinin Başak (Seray Kaya) olduğunu iddia etti. Ekran başında hepimiz “Pışııık, yemedik” gibi tuhaf hareketler yaparken çocuğun iddiaları doğru çıktı!  Başak meğer yurt dışında liseye giderken hamile kalmış, çocuğu oradaki bir Türk aileye vermiş. Gizlice yüzleşen ana-oğulun sırrına bir tek köşkün [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/kizimcikkapak.png",
+    "keyword": null
+  },
+  {
     "id": "TKP_6046d08e",
     "title": "Trabzonspor maçının VAR hakemi belli oldu.",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye Buz Hokeyi Federasyonu ile Türkiye Buz Pateni Federasyonunun seçim takvimleri açıklandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_874b4a1f",
-    "title": "Geçen yıl IMEI kaydı yapılan yaklaşık her 2 mobil cihazdan 1'i Türkiye'de imal edildi",
-    "source": "Anadolu Ajansı",
-    "time": "11/04/2026 11:54",
-    "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gecen-yil-imei-kaydi-yapilan-yaklasik-her-2-mobil-cihazdan-1i-turkiyede-imal-edildi/3901693",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Kaydı yapılan mobil cihazların 6 milyon 341 bin 391 adedi ithalat, 5 milyon 270 bin 601 adedi imalat yoluyla kaydedildi.\" dedi.",
     "image": null,
     "keyword": null
   }
