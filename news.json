@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aef7eb57",
+    "title": "Ünlülerin uyuşturucu test sonuçları belli oldu: Hande Erçel, Fikret Orman, Burak Elmas, Mustafa Ceceli...",
+    "source": "Cumhuriyet",
+    "time": "11/04/2026 21:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/unlulere-uyusturucu-sorusturmasi-hande-ercel-fikret-orman-burak-elmas-mustafa-ceceli-2494400",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ünlülere yönelik yürütülen uyuşturucu soruşturmasında adli tıp raporlarının detayları ortaya çıktı. Soruşturma kapsamında ifadeleri alınan bazı ünlü isimlerin biyolojik örneklerinde çeşitli uyuşturucu  ve etken maddelerine rastlandığı bildirildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/3aad7112-ee3d-4095-a1e7-22633181539c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_302fcd74",
     "title": "AKRA Gran Fondo Antalya ilk kez düzenlenen tırmanış etabıyla başladı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig’in 29. haftasında Trabzonspor, deplasmanda Alanyaspor ile 1-1 berabere kaldı; öne geçtiği karşılaşmada üstünlüğünü koruyamayan bordo-mavililer zirve yarışında kritik puan kaybı yaşadı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342601.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_44495a90",
-    "title": "Başkan Erdoğan'dan terör saldırısı yorumu: Zaman ayarlı provokasyon",
-    "source": "A Haber",
-    "time": "11/04/2026 21:14",
-    "link": "https://www.ahaber.com.tr/gundem/2026/04/07/baskan-erdogandan-teror-saldirisi-yorumu-zaman-ayarli-provokasyon",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Recep Tayyip Erdoğan ROKETSAN Üretim Tesisleri Açılışı, Seri Üretim Teslimatları ve Temel Atma Töreni'nde önemli açıklamalarda bulundu. İstanbul'daki terör saldırısına ilişkin konuşan Erdoğan...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/765b2a/0/0/0/0/2048/1405?u=https://iahbr.tmgrup.com.tr/2026/04/07/baskan-erdogandan-teror-saldirisi-yorumu-zaman-ayarli-provokasyon-1775573612373.jpg",
-    "keyword": null
   }
 ]
