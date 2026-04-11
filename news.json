@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_35ec9332",
+    "title": "Milli kick boksçular Tayland'da 7 madalya kazandı",
+    "source": "Anadolu Ajansı",
+    "time": "11/04/2026 15:54",
+    "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscular-taylandda-7-madalya-kazandi/3901977",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk sporcular, Tayland'da düzenlenen Dünya Kick Boks Kupası'nda 2 altın, 3 gümüş ve 2 bronz olmak üzere toplam 7 madalya elde etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_8b6fe381",
     "title": "Eski Bakan Mustafa Varank anlattı: İstanbul'da doğdu, Trabzon'da nüfusa yazdırıldı...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Hrant Dink davasını karara bağlayan hakim yakalandı hbr.tk/aGgS5m  x.com",
     "image": null,
     "keyword": "hrant dink"
-  },
-  {
-    "id": "GND_a017f067",
-    "title": "ABD Başkanı Trump'tan dikkat çeken paylaşım",
-    "source": "Haber Global",
-    "time": "11/04/2026 15:16",
-    "link": "https://haberglobal.com/dunya/abd-baskani-trumptan-dikkat-ceken-paylasim-518231",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, sosyal medya üzerinden yaptığı açıklamada, boş petrol tankerlerinin ABD’den petrol ve doğal gaz almak üzere yola çıktığını açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/11/abd-baskani-trumptan-dikkat-ceken-paylasim-grrd.jpg",
-    "keyword": null
   }
 ]
