@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f03e151f",
+    "title": "Beşiktaş'taki terör saldırısında 9 şüpheliye tutuklama talebi",
+    "source": "TRT Haber",
+    "time": "11/04/2026 14:55",
+    "link": "https://www.trthaber.com/haber/gundem/besiktastaki-teror-saldirisinda-9-supheliye-tutuklama-talebi-941275.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beşiktaş'ta, Yapı Kredi Plaza önündeki polis noktasına yönelik terör saldırısına ilişkin adliyeye sevk edilen 12 şüpheliden 9'u tutuklama talebiyle hakimliğe sevk edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_df96dd91",
     "title": "Küresel Sumud Filosu Barselona'dan bu kez iki katı katılımla Gazze'ye doğru yola çıkıyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika haberi... Pakistanlı kaynaklar AA'ya yaptığı açıklamada ABD ve İran arasındaki görüşmelerin, Pakistanlı aracılar yoluyla başladığını belirtti.",
     "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_5f7035c4",
-    "title": "Piyasaların gözü barış görüşmelerinde",
-    "source": "TRT Haber",
-    "time": "11/04/2026 14:16",
-    "link": "https://www.trthaber.com/haber/ekonomi/piyasalarin-gozu-baris-gorusmelerinde-941270.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ve İran heyetlerinin savaşın ardından İslamabad'da gerçekleştireceği ilk yüz yüze görüşme küresel piyasaların odağına yerleşirken; altın, petrol ve döviz kurlarındaki temkinli seyir, kritik müzakerelerden gelecek haberlere kilitlendi.",
-    "image": null,
     "keyword": null
   }
 ]
