@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6cd5ad6e",
+    "title": "NYT: İran Hürmüz Boğazı'na yerleştirdiği mayınları bulamadı",
+    "source": "TRT Haber",
+    "time": "11/04/2026 12:16",
+    "link": "https://www.trthaber.com/haber/dunya/nyt-iran-hurmuz-bogazina-yerlestirdigi-mayinlari-bulamadi-941291.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın Hürmüz Boğazı'na yerleştirdiği mayınları bulamadığı iddia edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_567bd2c8",
     "title": "KarsErzurum kara yolunda ulaşım kontrollü sağlanıyor",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Trabzon'un Arsin ilçesine bağlı Çubuklu Mahallesi'nde heyelan nedeniyle ‘1. derece afet bölgesi' ilan edilen alanda yürütülen çalışmalar sürüyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_c39e96a9",
-    "title": "Trabzon’da “Art Of Peak” Rüzgârı! Of’ta Sanat Çalıştayı ve Sergisine Yoğun İlgi",
-    "source": "Karadeniz Gazetesi",
-    "time": "11/04/2026 11:55",
-    "link": "https://www.karadenizgazete.com.tr/video-galeri/trabzonda-art-of-peak-ruzgari-ofta-sanat-calistayi-ve-sergisine-yogun-ilgi/608596",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Of’ta düzenlenen Art Of Peak Resim Çalıştayı ve Sergisi, sanatseverlerin yoğun katılımıyla gerçekleşti.",
     "image": null,
     "keyword": null
   }
