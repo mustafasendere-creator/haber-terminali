@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5489f167",
+    "title": "Bitlis'te trafik kazası: Çok sayıda yaralı var",
+    "source": "Haber Global",
+    "time": "13/04/2026 00:54",
+    "link": "https://haberglobal.com/yasam/bitliste-trafik-kazasi-cok-sayida-yarali-var-518408",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bitlis'in Güroymak ilçesinde otomobilin at arabasına çarpması sonucu meydana gelen trafik kazasında 5 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/bitliste-trafik-kazasi-cok-sayida-yarali-var-lhmb.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4aa81fe1",
     "title": "DMM, Cumhurbaşkanı Erdoğan'a atfedilen ifadelerin asılsız olduğunu belirtti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray teknik direktörü Okan Buruk, Kocaelispor ile 1-1 berabere kaldıkların maçın ardından şampiyonluk yarışı hakkında konuştu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/okan-buruk-rakibimize-bir-anda-cesaret-geldi-unia.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a41d717b",
-    "title": "İran Meclis Başkanı Kalibaf: Mantıkla yaklaşırsanız biz de mantıkla karşılık veririz",
-    "source": "TRT Haber",
-    "time": "12/04/2026 23:15",
-    "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-mantikla-yaklasirsaniz-biz-de-mantikla-karsilik-veririz-941400.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'ye \"Savaşırsanız savaşırız, eğer mantıkla yaklaşırsanız biz de mantıkla karşılık veririz\" mesajı verdi.",
-    "image": null,
     "keyword": null
   }
 ]
