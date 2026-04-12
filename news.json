@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e135b11b",
+    "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan ABD-İran müzakerelerine ilişkin açıklama",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 21:14",
+    "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmazdan-abd-iran-muzakerelerine-iliskin-aciklama/3903067",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Bölgemizde sağlanan ateşkesin etkili ve kapsamlı şekilde uygulanmasını, müzakerelere yeterli fırsatın verilmesini ve başlayan müzakere sürecinin kalıcı barış ile sonuçlanmasını diliyoruz.\" ifadesini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3d2659db",
     "title": "'Gündüz kuşağı' MHP'nin hedefinde: Yayından kaldırılsın",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Signal uygulaması halen oldukça güvenli olarak sınıflandırılsa da yüzde 100 güvenli olduğunu söylemek mümkün değil.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9225d0b4-ae59-476e-86ba-9892c85ffebe.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_336427fb",
-    "title": "İsrail'in Lübnan'a düzenlediği saldırılarda can kaybı 2 bin 55'e çıktı",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 19:55",
-    "link": "https://www.cumhuriyet.com.tr/dunya/israil-in-lubnan-a-duzenledigi-saldirilarda-can-kaybi-2-bin-55-e-cikti-2494600",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in Lübnan'a 2 Mart’tan bu yana düzenlediği saldırılarda hayatını kaybedenlerin sayısı son 24 saatte 35 artarak 2 bin 55'e yükseldi. Yaralı sayısı ise 6 bin 588'e çıktı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d785b9e0-4e00-40c4-bfcf-e19c81afaf05.jpg",
     "keyword": null
   }
 ]
