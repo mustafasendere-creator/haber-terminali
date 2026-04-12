@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5ca0d5ac",
+    "title": "Pakistan'daki İranABD görüşmelerinden anlaşma çıkmadı",
+    "source": "TRT Haber",
+    "time": "12/04/2026 06:35",
+    "link": "https://www.trthaber.com/haber/dunya/pakistandaki-iran-abd-gorusmelerinden-anlasma-cikmadi-941353.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran medyasında, İslamabad'daki TahranWashington görüşmelerinde ortak bir çerçeve ve anlaşmaya varılamamasının nedeninin ABD'nin aşırı talepleri olduğu öne sürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2428cc91",
     "title": "Küflü gıda rehberi: Hangisi yenir, hangisi çöpe atılmalı?",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "attı ya zaten awk djdjfkf  x.com",
     "image": null,
     "keyword": "trabzon polis"
-  },
-  {
-    "id": "GND_c87b407d",
-    "title": "Tuvalet için girdiği inşaatta düştü",
-    "source": "OdaTV",
-    "time": "12/04/2026 01:15",
-    "link": "https://www.odatv.com/guncel/tuvalet-icin-girdigi-insaatta-dustu-120142975",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Malatya’da tuvalet ihtiyacı için girdiği inşaatta yaklaşık 3 metre yükseklikten düşen şahıs ağır yaralandı; hastanede tedavi altına alınan yaralının hayati tehlikesi sürüyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/tuvalet-icin-girdigi-insaatta-dustu-o1el.jpg",
-    "keyword": null
   }
 ]
