@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2168f207",
+    "title": "Hırvatistan’da Istria 100 by UTMB yarışı yapıldı",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 17:14",
+    "link": "https://www.aa.com.tr/tr/spor/hirvatistan-da-istria-100-by-utmb-yarisi-yapildi/3902895",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünyanın en rekabetçi patika yarışı olarak kabul edilen Ultra-Trail du Mont-Blanc (UTMB) yarışı kapsamında Hırvatistan’da Istria 100 by UTMB yarışı düzenlendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_addb6b2f",
     "title": "Bolu Belediyesi vatandaşın kurban paralarına çöktü | Tanju Özcan: Hatırlamıyorum",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Ankara’daki Trabzon Tanıtım Günleri kapsamında açıklamalarda bulunan Tolga Zengin, organizasyonun Trabzon kültürünü sevenler için önemli bir buluşma olduğunu söylerken Uğurcan, Onuralp ile Ahmet Doğan için de dikkat çeken değerlendirmelerde bulundu.",
     "image": "https://resim.haber61.net/news/612397.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3d388e3d",
-    "title": "Trump: İranlıların boğazlara döşediği mayınları imha etmeye başlayacağız",
-    "source": "TRT Haber",
-    "time": "12/04/2026 16:15",
-    "link": "https://www.trthaber.com/haber/dunya/trump-iranlilarin-bogazlara-dosedigi-mayinlari-imha-etmeye-baslayacagiz-941387.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, \"İranlıların boğazlara döşediği mayınları imha etmeye başlayacağız.\" dedi.",
-    "image": null,
-    "keyword": null
   }
 ]
