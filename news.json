@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ecb9189a",
+    "title": "Meteoroloji açıkladı: 12 Nisan 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 07:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-12-nisan-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2494448",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 12 Nisan Pazar gününe ilişkin hava durumu raporunu yayımladı. Rapora göre; 13 il için sarı kodla uyarı yapılırken, yağışların; genellikle yağmur ve sağanak, Doğu Akdeniz ve Güneydoğu Anadolu'da yer yer gök gürültülü sağanak, Doğu Karadeniz'in iç kesimleri, Doğu Anadolu'nun doğu kesimleri ile yer yer İç Anadolu'da karla karışık yağmur ve kar şeklinde olması bekleniyor. Yağışların, Doğu ve Güneydoğu Anadolu’nun doğusunda (Iğdır ve Van hariç) kuvvetli olacağı tahmin ediliyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/58f12256-a28b-428e-8e6c-2d9694613977.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cfd2f723",
     "title": "Üreticinin zorlu mesaisi: Ateş yakıp sabaha kadar başında beklediler",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bordo-mavililer, Alanyaspor karşısında 6 maçlık galibiyet serisini de sonlandırırken şampiyonluk yarışında yara aldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/52a2b9b8-7501-4f42-b62c-f16ea39ec8aa.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_73f7dc1f",
-    "title": "Kadın konukevi sayısında hedef sürekli küçülüyor: Bir açılışla hedef tuttu",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 04:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kadin-konukevi-sayisinda-hedef-surekli-kuculuyor-bir-acilisla-hedef-tuttu-2494428",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aile ve Sosyal Hizmetler Bakanlığı’nın faaliyet raporunda, geçen yıl sadece 1 kadın konukevinin hizmete sokulduğu belirtilse de 2025 hedefine “yüzde 100 ulaşıldığı” kaydedildi. Oysa, bakanlığın bundan dört yıl önceki planlarında şu an 151 olan konukevi sayısının 169 olması hedefleniyordu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/56e4d370-b6b6-48e1-9e2b-1531a42a9ffb.jpg",
     "keyword": null
   }
 ]
