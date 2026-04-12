@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d1a2d0af",
+    "title": "Signal sanıldığı kadar güvenilir değil mi? FBI araştırması soruları beraberinde getirdi",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 19:55",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/signal-sanildigi-kadar-guvenilir-degil-mi-fbi-arastirmasi-sorulari-beraberinde-getirdi-2494599",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Signal uygulaması halen oldukça güvenli olarak sınıflandırılsa da yüzde 100 güvenli olduğunu söylemek mümkün değil.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9225d0b4-ae59-476e-86ba-9892c85ffebe.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_336427fb",
     "title": "İsrail'in Lübnan'a düzenlediği saldırılarda can kaybı 2 bin 55'e çıktı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ordu'nun Korgan ilçesinde altın madeni sondajına karşı çıkan yurttaşlar, kar ve soğuğa rağmen Çobantepe Yaylası'nda bir araya geldi. “Mahkeme kararı çıkana kadar bu alana sokmayacağız” mesajı verildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342660.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_322337b0",
-    "title": "Ankara Trabzon Günleri’nde İnsan Seli",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "12/04/2026 18:34",
-    "link": "https://www.karadenizdesonnokta.com.tr/ankara-trabzon-gunlerinde-insan-seli",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-12-at-132652.jpeg",
     "keyword": null
   }
 ]
