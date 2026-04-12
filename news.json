@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5fec27c3",
+    "title": "İsrail'in Lübnan'ın güneyinde sürdürdüğü saldırılarda 5 kişi hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 08:34",
+    "link": "https://www.aa.com.tr/tr/live-blog/israilin-lubnanin-guneyinde-surdurdugu-saldirilarda-5-kisi-hayatini-kaybetti/819",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, gece saatlerinde Lübnan'ın güneyindeki beldelerde düzenlediği hava saldırıları sonucu 5 kişinin yaşamını yitirdiği, 3 kişinin yaralandığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3aeab1a0",
     "title": "Kar, sağanak, zirai don... 13 ilde alarm verildi: Kuvvetli geliyor",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İster kan davası sürdüren bir aşiret reisi veya bir mafya babası olsun ister zalimlikte sınır tanımayan küresel bir devletin temsilcisinin küstahlıkları hiç değişmiyor.\nPakistan'daki barış...Devamı için tıklayınız",
-    "image": "",
-    "keyword": null
-  },
-  {
-    "id": "GND_894e108f",
-    "title": "Bir tat yazısı",
-    "source": "A Haber",
-    "time": "12/04/2026 07:14",
-    "link": "https://www.ahaber.com.tr/yazarlar/hasmet-babaoglu/2026/04/12/bir-tat-yazisi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yol uzun...\nGiderken ara ara pencereleri açıyoruz...\nİçerisi uzak ve sakin kıyı kasabaları gibi kokuyormuş...\nSonra ballarım birazdan yiyecekleri minik karidesleri zihinlerinde tek tek saymaya...Devamı için tıklayınız",
     "image": "",
     "keyword": null
   }
