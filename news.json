@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_425426d5",
+    "title": "Şırnak Valiliğinden baraj uyarısı",
+    "source": "OdaTV",
+    "time": "12/04/2026 20:15",
+    "link": "https://www.odatv.com/guncel/sirnak-valiliginden-baraj-uyarisi-120143051",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şırnak Valiliği, Ilısu Barajı&#039;nda su seviyesinin yağışlardan dolayı yükselmesi nedeniyle kontrollü su tahliyesi yapılabileceği uyarısında bulundu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/sirnak-valiliginden-baraj-uyarisi-drbm.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9eee678c",
     "title": "Bakanlık'tan altın varlıklarındaki azalış iddialarına ilişkin açıklama: Altın bakiyesindeki değişim bilinçli bir tercihin sonucu",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye'de geçen ay en düşük sıcaklık sıfırın altında 21,2 dereceyle Van'ın Özalp ilçesinde, en yüksek sıcaklık ise 25,6 dereceyle Hatay İskenderun'da tespit edildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/mart-ayinin-en-sicak-ve-en-soguk-sehirleri-belli-oldu-imbf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b6ebcb66",
-    "title": "Recep Durul'dan Galatasaray'a mesaj: Hodri meydan burada!",
-    "source": "Haber Global",
-    "time": "12/04/2026 18:55",
-    "link": "https://haberglobal.com/spor/recep-duruldan-galatasaraya-mesaj-hodri-meydan-burada-518374",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 29. haftasında lider Galatasaray’ın sahasında konuk edeceği Kocaelispor kafilesi kalabalık bir taraftar grubu ve araç konvoyu ile maçın oynanacağı RAMS Park’a geldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/recep-duruldan-galatasaraya-mesaj-hodri-meydan-burada-bdpv.jpg",
     "keyword": null
   }
 ]
