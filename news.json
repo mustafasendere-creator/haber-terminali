@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_cae4e9c4",
+    "title": "Haberler.com (@Haberler) / Posts / X - x.com",
+    "source": "X",
+    "time": "12/04/2026 22:16",
+    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5sR0o2THZxR2I3MmdiWGdkY2hZVUEwYUtBVk1qaE1MWTZMeFpraDF0eEgxRk0ySXU5VWc",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "Haberler.com (@Haberler) / Posts / X  x.com",
+    "image": null,
+    "keyword": "trabzon intihar"
+  },
+  {
     "id": "SOC_fbad0b95",
     "title": "🗣️ @EmekEge: Galatasaray Icardi ile birlikte Trabzonspor'a karşı 3 puan kaybetti ama şunu gördü: Icardi artık Şampiyonlar Ligi'ni de geçtim, Süper Lig'deki kırıcı maçların bile seviyesinde değil. Eski haline dönme ihtimali de yok. @OnDijital #işbirliği - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran, askeri gemilerin herhangi bir amaçla Hürmüz Boğazı&#039;na yaklaşmasının ateşkes ihlali kabul edileceğini bildirdi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/iran-askeri-gemilerin-hurmuz-bogazina-yaklasmasi-ateskes-ihlali-kabul-edilecek-pm9d_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fff898cf",
-    "title": "Son Dakika... CHP'den 'Ümit Erkol' hamlesi: Tüm il başkanları toplanacak!",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 20:55",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-den-umit-erkol-hamlesi-tum-il-baskanlari-toplanacak-2494613",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP lideri Özel, Ümit Erkol'un tutuklanmasının ardından tüm il başkanlarını salı günü toplanmak üzere Ankara'ya çağırdı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
     "keyword": null
   }
 ]
