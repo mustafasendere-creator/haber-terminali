@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4564bb23",
+    "title": "Operasyon arası sanat",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 06:35",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/operasyon-arasi-sanat-2494423",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "27 Mart 2026-Uşak Belediyesi’ne operasyon.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar96_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_589ce38b",
     "title": "Çinden uydu interneti hamlesi: Cielong3 ile SatNet uzayda",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sendika temsilcisi arkadaşlarla önümüzdeki TİS’in muhasebesini yaptığımızda ‘Çok şey beklemeyin, büyük fabrikalardan gelen işçileri Mustafa Bozkurt da görüyor, çoğu fabrika adam çıkarıyor, kriz var’ tarzı söylemlerde bulunuyorlar.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/294211.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_699ea06d",
-    "title": "MAN işçisi ‘barış’ diyor, patronu VW savaşa mühimmat taşıyor",
-    "source": "Evrensel",
-    "time": "12/04/2026 01:34",
-    "link": "https://www.evrensel.net/haber/5979263/man-iscisi-baris-diyor-patronu-vw-savasa-muhimmat-tasiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara’da MAN işçisi zamlar ve yoksullukla boğuşup “Savaş bitsin” derken, bağlı oldukları VW grubunun işçi kârıyla mühimmat üretimine soyunması çelişkiyi derinleştiriyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/321903.jpg",
     "keyword": null
   }
 ]
