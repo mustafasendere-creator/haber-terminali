@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4c2635f3",
+    "title": "Levent saldırısında 9 tutuklama talebi",
+    "source": "Habertürk",
+    "time": "12/04/2026 14:35",
+    "link": "https://www.haberturk.com/besiktas-ta-polis-noktasina-yonelik-teror-saldirisina-iliskin-gozaltina-alinan-12-supheli-adliyede-3876521",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beşiktaş'ta, Yapı Kredi Plaza önündeki polis noktasına yönelik terör saldırısına ilişkin gözaltına alınan şüphelilerden 9'u tutuklama talebiyle sulh ceza hakimliğine sevk edildi",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775893415/3876521/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_1f4f86d6",
     "title": "Anne, baba ve oğulları can verdi!",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Trabzonlu koleksiyoner Mehmet Çebi tarafından hazırlanan “Muhteşem Cep Saatleri Koleksiyonu” sergisini ziyaret etti. 16. yüzyıldan 20. yüzyılın başlarına uzanan nadir eserlerin yer aldığı sergi, tarih ve sanatın eşsiz birleşimini gözler önüne serdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/e-r-d-o-g-a-n-18.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_039a4d80",
-    "title": "Genel Sağlık-İş, Aile Hekimliği Yönetmeliği'ni yargıya taşıyacak",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 13:55",
-    "link": "https://www.cumhuriyet.com.tr/saglik/genel-saglik-is-aile-hekimligi-yonetmeligi-ni-yargiya-tasiyacak-2494513",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Genel Sağlık-İş, hukuka aykırı noktalar tespit ettiğini belirterek Aile Hekimliği Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik hakkında dava açacağını duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f6b25de6-ef75-4ee9-a8cd-76cc21b18c08.jpg",
-    "keyword": null
   }
 ]
