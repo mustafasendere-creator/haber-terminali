@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d89490f",
+    "title": "Arsene Wenger: Türkiye'nin Dünya Kupası'nda nasıl bir performans göstereceğini merakla bekliyorum\"",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 16:34",
+    "link": "https://www.aa.com.tr/tr/spor/arsene-wengerden-a-milli-futbol-takimi-yorumu/3902889",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "FIFA Küresel Futbol Gelişim Direktörü Arsene Wenger, A Milli Futbol Takımı'nın önemli ofansif güce sahip olduğunu belirterek, ay-yıldızlıların Dünya Kupası'ndaki maçlarını merakla beklediğini söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_f14b0ce8",
     "title": "Trabzon Günleri’nde horon coşkusu: Ulus’tan Kızılay’a uzandı",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Basketbol Takımı’nda Berk Demir, Aliağa Petkimspor maçı öncesinde açıklamalarda bulundu. Bordo-mavili oyuncu, sezonu ilk 4 içinde tamamlamak istediklerini belirterek taraftar önünde hata yapmak istemediklerini söyledi.",
     "image": "https://resim.haber61.net/news/612385.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8a6dcf98",
-    "title": "Kiliselerden AfD programına tepki: İnsan onuruna saldırı",
-    "source": "DW Türkçe",
-    "time": "12/04/2026 15:35",
-    "link": "https://www.dw.com/tr/kiliselerden-afd-programına-tepki-insan-onuruna-saldırı/a-76754004",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alman Protestan ve Katolik kiliseleri, aşırı sağcı AfD'nin Saksonya-Anhalt örgütünün seçim programını sert bir dille eleştirdi. Kiliseler, söz konusu programın Hristiyanlıkla bağdaşmadığını belirtiyor.",
-    "image": null,
-    "keyword": null
   }
 ]
