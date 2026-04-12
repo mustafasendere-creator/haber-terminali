@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2eb0b812",
+    "title": "ABD ordusu, bugün İran limanlarına yönelik deniz ablukasına başlıyor",
+    "source": "TRT Haber",
+    "time": "13/04/2026 01:14",
+    "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-bugun-iran-limanlarina-yonelik-deniz-ablukasina-basliyor-941411.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı CENTCOM, 13 Nisan saat 17.00'de TSİ İran limanlarına giren veya bu limanlardan çıkan tüm gemilere yönelik deniz ablukası başlatacağını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_80a8cdbc",
     "title": "Macaristan'da seçimi kazanan Magyar: Macaristan tekrar Avrupa ülkesi olmak istiyor",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Aile Yılı kapsamında hayata geçirilen doğum yardımı başvuruları devam ediyor. Türkiye'de genç nüfus oranının yükseltilmesi amacıyla 1 ocak 2025 ve sonrasında doğan çocuklar için devlet desteği sağlanıyor. İşte destek ve başvuruların detayı...",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ebcdc8f5",
-    "title": "Magyar Macaristan'da 16 yıllık Orban dönemini bitirdi",
-    "source": "DW Türkçe",
-    "time": "12/04/2026 23:34",
-    "link": "https://www.dw.com/tr/magyar-macaristan-da-16-yıllık-orban-dönemini-bitirdi/a-76756603",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan'da halk, ülke tarihinin en kritik seçimlerinden biri için sandık başına gitti. Sonuçlara göre Trump'ın desteklediği Viktor Orban 16 yıl sonra iktidarı kaybetti, Peter Magyar için başbakanlık yolu açıldı.",
     "image": null,
     "keyword": null
   }
