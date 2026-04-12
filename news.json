@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bdc9659e",
+    "title": "Başkentray 140 milyondan fazla yolcuya hizmet verdi",
+    "source": "TRT Haber",
+    "time": "12/04/2026 15:15",
+    "link": "https://www.trthaber.com/haber/turkiye/baskentray-140-milyondan-fazla-yolcuya-hizmet-verdi-941384.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Başkentray'ın 8 yılda 140,3 milyon yolcuya hizmet verdiğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_93f447da",
     "title": "Karadeniz sahilinde adrenalin fırtınası",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da emeklilerin katılımıyla gerçekleşen dev mitingde, ekonomik krizin yükü altında ezilen emekli kesimi hükümete sert mesajlar gönderdi. Cumhuriyet Caddesi üzerinde toplanan kalabalık, dövizler ve sloganlar eşliğinde Atatürk Alanı’na kadar yürüdü.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/sefalet-1.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_f21bb9f7",
-    "title": "CHP'li Sümer: İğneden ipliğe her şeye zam sağanağı",
-    "source": "Evrensel",
-    "time": "12/04/2026 14:35",
-    "link": "https://www.evrensel.net/haber/5979301/chpli-sumer-igneden-iplige-her-seye-zam-saganagi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Adana Milletvekili Orhan Sümer, elektrik ve doğalgaza yapılan son zam oranlarına ilişkin yaptığı açıklamada, “Konutlarda yüzde 25, sanayide ise yüzde 18’i aşan zamların bir hizmet değil, vatandaşın cebine kurulmuş organize bir pusu” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342648.jpg",
-    "keyword": null
   }
 ]
