@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_918a13c2",
+    "title": "Galatasaray evinde yara aldı: Şampiyonluk yarışında büyük kayıp",
+    "source": "Evrensel",
+    "time": "12/04/2026 23:34",
+    "link": "https://www.evrensel.net/haber/5979362/galatasaray-evinde-yara-aldi-sampiyonluk-yarisinda-buyuk-kayip",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray, sahasında Kocaelispor ile 1-1 berabere kalarak şampiyonluk yarışında önemli bir puan kaybı yaşadı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342712.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_e550d9a4",
     "title": "Trabzonspor büyük fırsat tepti!",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İzmir Büyükşehir Belediyesine yönelik \"kooperatif\" soruşturması kapsamında gözaltına alınan, aralarında CHP Ankara İl Başkanı Ümit Erkol'un da bulunduğu 9 şüpheli tutuklandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_19065a99",
-    "title": "Galatasaray evinde Kocaelispor'la berabere kaldı",
-    "source": "TRT Haber",
-    "time": "12/04/2026 22:14",
-    "link": "https://www.trthaber.com/haber/spor/galatasaray-evinde-kocaelisporla-berabere-kaldi-941402.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Ligin 29. haftasında Galatasaray, konuk ettiği Kocaelispor ile 11 berabere kaldı.",
     "image": null,
     "keyword": null
   }
