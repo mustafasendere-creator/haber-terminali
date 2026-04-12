@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b35c5f0a",
+    "title": "Kış lastiği uygulaması bitiyor: Son gün 15 Nisan",
+    "source": "TRT Haber",
+    "time": "12/04/2026 12:15",
+    "link": "https://www.trthaber.com/haber/turkiye/kis-lastigi-uygulamasi-bitiyor-son-gun-15-nisan-941373.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şehirler arası yük ve yolcu taşıyan ticari araçlarda zorunlu olan, özel araçlarda ise can ve mal güvenliğiyle sorunsuz seyahat için hayati görülen kış lastiği uygulaması 15 Nisan itibarıyla sona erecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b521ad2e",
     "title": "Mehmet Şimşek 'mutlu': Gelir vergisi beyanında rekor",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Türkiye Sigorta Basketbol Süper Ligi’nde Aliağa Petkimspor’u Hayri Gür Spor Salonu’nda ağırlayacak. Play-off hattındaki bordo-mavililer ile alt sıralardan uzaklaşmak isteyen İzmir ekibinin mücadelesi, canlı anlatımla anbean Haber61’de olacak.",
     "image": "https://resim.haber61.net/news/612339.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_2f493fdc",
-    "title": "Arnica Art Land’in Aizanoi’de üretilen eserleri İstanbul’da sergileniyor",
-    "source": "Euronews",
-    "time": "12/04/2026 11:35",
-    "link": "http://tr.euronews.com/kultur/2026/04/12/arnica-art-landin-aizanoide-uretilen-eserleri-istanbulda-sergileniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anadolu’nun kadim mirasından ilham alan Arnica Art Land’in Aizanoi’de üretilen 41 eseri, 10–19 Nisan tarihleri arasında AKM Galeri’de ziyaretçilerle buluşuyor.",
-    "image": null,
-    "keyword": null
   }
 ]
