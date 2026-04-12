@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1123169e",
+    "title": "Bursa ve Balıkesir'de 10 ton kaçak midye ele geçirildi",
+    "source": "TRT Haber",
+    "time": "12/04/2026 16:15",
+    "link": "https://www.trthaber.com/haber/turkiye/bursa-ve-balikesirde-10-ton-kacak-midye-ele-gecirildi-941386.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa ve Balıkesir'de gerçekleştirilen eş zamanlı operasyonda 10 ton kaçak midye ele geçirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_c2f12b5b",
     "title": "Tolga Zengin’den Uğurcan ve altyapı oyuncuları için mesaj",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Aydın&#039;ın Efeler ilçesindeki bir evde henüz nedeni belirlenemeyen patlama meydana geldi. Patlama sonrası yangın çıkarken, olayda 30 yaşındaki engelli şahıs hayatını kaybetti, annesi ise yaralı olarak hastaneye kaldırıldı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/aydinda-korkunc-patlama-cikan-yanginda-engelli-genc-hayatini-kaybetti-syj7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4892193d",
-    "title": "ÇAYKUR'dan yaş çay sezonu öncesi üreticilere kritik uyarı",
-    "source": "Ekonomim",
-    "time": "12/04/2026 15:15",
-    "link": "https://www.ekonomim.com/ekonomi/caykurdan-yas-cay-sezonu-oncesi-ureticilere-kritik-uyari-haberi-887600",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çay İşletmeleri (ÇAYKUR) Genel Müdürlüğü, yaş çay sezonu öncesinde üreticileri gübreleme tekniği ve hasat konusunda yapılması gerekenlere ilişkin bilgilendirdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/09/05/caykur-kuru-cay-fiyatlarina-zam-yapti-kno5_cover.jpg",
     "keyword": null
   }
 ]
