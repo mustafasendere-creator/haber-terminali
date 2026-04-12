@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4e811e04",
+    "title": "Malatya'da maden işçilerini taşıyan servis minibüsünün devrilmesi sonucu 2 kişi hayatını kaybetti, 10 kişi yaralandı",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 00:14",
+    "link": "https://www.aa.com.tr/tr/gundem/malatyada-maden-iscilerini-tasiyan-servis-minibusunun-devrilmesi-sonucu-2-kisi-hayatini-kaybetti-10-kisi-yaralandi/3903163",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya'nın Hekimhan ilçesinde maden işçilerini taşıyan servis minibüsünün şarampole devrilmesi sonucu 2 kişi hayatını kaybetti, 10 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5fd360ff",
     "title": "DMM, Cumhurbaşkanı Erdoğan'a atfedilen ifadelerin asılsız olduğunu bildirdi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Macaristan genel seçimlerinde, Başbakan Viktor Orban seçimi kaybettiğini kabul ederek muhalefet liderini tebrik etti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_c061575b",
-    "title": "Trabzon Yomra’da zincirleme kaza: Fren yerine gaza basınca ortalık karıştı",
-    "source": "Haber61",
-    "time": "12/04/2026 22:54",
-    "link": "https://www.haber61.net/trabzon/trabzon-yomrada-zincirleme-kaza-fren-yerine-gaza-basinca-ortalik-karisti-h629440.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Yomra ilçesinde sürücüsünün pedal karıştırması sonucu meydana gelen zincirleme kazada, kırmızı ışıkta bekleyen 4 araç ve 1 motosiklet hasar gördü.",
-    "image": "https://resim.haber61.net/news/612442.jpg",
     "keyword": null
   }
 ]
