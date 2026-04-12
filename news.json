@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_951ad113",
+    "title": "Başbakan Orban seçimi kaybettiğini kabul ederek muhalefet liderini tebrik etti",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 22:54",
+    "link": "https://www.aa.com.tr/tr/dunya/basbakan-orban-secimi-kaybettigini-kabul-ederek-muhalefet-liderini-tebrik-etti/3903141",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan genel seçimlerinde, Başbakan Viktor Orban seçimi kaybettiğini kabul ederek muhalefet liderini tebrik etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_c061575b",
     "title": "Trabzon Yomra’da zincirleme kaza: Fren yerine gaza basınca ortalık karıştı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray HDI Sigorta, Voleybol Efeler Ligi play-off 1-4 etabının ilk maçında karşılaştığı Halkbank'ı 3-0 mağlup etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/ab49a378-9add-4b39-b4ae-522c4a0affc0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9e662e12",
-    "title": "İran'dan 'Hürmüz' açıklaması: 'Ateşkes ihlali sayılacak, sert karşılık verilecek'",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 21:14",
-    "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-hurmuz-aciklamasi-ateskes-ihlali-sayilacak-sert-karsilik-verilecek-2494617",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nın kontrol altında olduğunu belirterek, \"Hangi gerekçeyle olursa olsun Hürmüz Boğazı’na yaklaşmak isteyen askeri gemilerin bu girişimi ateşkes ihlali sayılacak ve sert şekilde karşılık verilecektir\" açıklamasını yaptı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/181eca48-560c-4d8a-8d11-cd1e6882e7db.jpg",
     "keyword": null
   }
 ]
