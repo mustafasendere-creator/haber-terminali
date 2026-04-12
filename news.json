@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_415df071",
+    "title": "CHP lideri Özgür Özel'den SOL Parti'ye ziyaret!",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 13:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/chp-lideri-ozgur-ozel-den-sol-parti-ye-ziyaret-2494514",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP lideri Özgür Özel, ‘ara seçim’ talebiyle sürdürdüğü siyasi parti ziyaretleri kapsamında SOL Parti’ye bir ziyarette bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2cc368cb-d07a-42e6-ba85-34a7c35c630e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d4252561",
     "title": "DEM Parti, Akbelen'deki tutuklamaları kınadı: 'Derhal serbest bırakılmalarını talep ediyoruz'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kuzey Kıbrıs’ta Meclisin 'hayat pahalılığı ödeneği'nin kaldırılmasına dair pazartesi günü yapacağı yeni görüşmeyi bir hafta ertelediği açıklandı. Sendikalar da 13 Nisan için ilan ettikleri yeni genel grev kararını askıya aldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342449.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a7033aed",
-    "title": "Yuri Gagarin 65 yıl önce bugün uzaya çıktı: \"Ülkeler arasındaki sınırları göremedim, benim için tek bir halk vardı\"",
-    "source": "Evrensel",
-    "time": "12/04/2026 13:14",
-    "link": "https://www.evrensel.net/haber/5979293/yuri-gagarin-65-yil-once-bugun-uzaya-cikti-ulkeler-arasindaki-sinirlari-goremedim-benim-icin-tek-bir-halk-vardi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "65 yıl önce bugün, dünya tarihinde bir dönüm noktasıydı. Sovyet kozmonot Yuri Gagarin, uzaya çıkan ve Dünya'nın yörüngesini dolaşan ilk insan oldu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342643.jpg",
     "keyword": null
   }
 ]
