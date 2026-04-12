@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c385136",
+    "title": "CHP Genel Başkan Yardımcısı Özgür Karabat: 'İstanbul Finans Merkezi, yeraltı para hareketinin emrine mi verilecek?'",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 12:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/chp-genel-baskan-yardimcisi-ozgur-karabat-istanbul-finans-merkezi-yeralti-para-hareketinin-emrine-mi-verilecek-2494497",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Genel Başkan Yardımcısı Özgür Karabat, İstanbul Finans Merkezi’nin \"yasa dışı para\" için pazarlandığını savunarak, \"İran’da başlayan savaşın Dubai’ye sıçraması ile oradaki sermayenin bir kısmı farklı bölgelere gitmeye başladı. Erdoğan da bunların İstanbul Finans Merkezi’ne gelebileceğini açıkladı. 2023’te açılan İFM’de ağırlıklı olarak kamu kurumları yer alıyor. Ankara’dan kamu bankaları, Merkez Bankası vs. buraya taşındı. Milyarlarca liralık masraf yapıldı. Ataşehir’e lüks binalar yapınca dünyadan para yağacağı izlenimi verildi. Ama İFM’ye doğrudan yatırım için para gelmedi, AKP olduğu sürece de gelmeyecek\" açıklamasını yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/440eea92-033e-4a56-b99f-b439fd5bf7af.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_5aff175e",
     "title": "Trabzonspor’da kritik gerçek: Onuachu yoksa galibiyet zorlaşıyor",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'nin ihraç ürünlerinden bal, yılın ilk çeyreğinde ABD, Birleşik Krallık ve Kanada başta olmak üzere 31 ülkenin sofrasında yer aldı. Ocakmart döneminde 2 bin 71 ton bal ihraç edilerek, karşılığında 9 milyon 226 bin 137 dolar gelir sağlandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_79154dd0",
-    "title": "Türkiye'nin fiber internet abone sayısı 10 milyona yaklaştı",
-    "source": "TRT Haber",
-    "time": "12/04/2026 11:35",
-    "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiyenin-fiber-internet-abone-sayisi-10-milyona-yaklasti-941368.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'nin fiber internet abone sayısı, 5 yılda 2 katına çıkarak 9,8 milyona ulaştı.",
     "image": null,
     "keyword": null
   }
