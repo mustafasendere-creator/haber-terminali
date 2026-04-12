@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f8441bd2",
+    "title": "Aşkale'de feci kaza: 2 ölü, 3 yaralı",
+    "source": "Habertürk",
+    "time": "12/04/2026 13:15",
+    "link": "https://www.haberturk.com/hafif-ticari-arac-tira-arkadan-carpti-2-olu-3-yarali-3876556",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum’un Aşkale ilçesi Tepebaşı mevkiinde, Tercan-Aşkale istikametinde meydana gelen trafik kazasında 2 kişi hayatını kaybetti, 3 kişi de yaralandı",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775902873/3876556/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f337815c",
     "title": "Narkotik operasyonu: 76 tutuklama",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Süper Lig’in 29'uncu haftasında deplasmanda karşılaştığı Corendon Alanyaspor ile 1-1 berabere kalarak zirve yarışında önemli bir fırsatı değerlendiremedi. Bordo-mavililer, bu sezon rakibiyle oynadığı iki maçtan da 1-1’lik eşitlikle ayrılarak dikkat çeken bir istatistiğe imza attı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/trabzonspor-manset-1-72.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ea4000e9",
-    "title": "Ters laleleri koparana 700 bin lira ceza",
-    "source": "TRT Haber",
-    "time": "12/04/2026 12:35",
-    "link": "https://www.trthaber.com/haber/turkiye/ters-laleleri-koparana-700-bin-lira-ceza-941364.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır'ın Çermik ilçesinde ilkbaharda açan ters laleler, yöre halkı tarafından titizlikle korunuyor. Ters laleleri koparanlara ve izinsiz çıkaranlara ekipler tarafından 700 bin lira ceza uygulanıyor.",
-    "image": null,
-    "keyword": null
   }
 ]
