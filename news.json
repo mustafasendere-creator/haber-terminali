@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3ff1925",
+    "title": "Malatya'daki kazadan acı haber",
+    "source": "OdaTV",
+    "time": "12/04/2026 23:55",
+    "link": "https://www.odatv.com/guncel/malatyadaki-kazadan-aci-haber-120143066",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya&#039;da kontrolden çıkan işçi servisinin şarampole yuvarlandığı kazada 2 kişi hayatını kaybetti, 10 kişi yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/malatyadaki-kazadan-aci-haber-jk32.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_70cf3749",
     "title": "Taraftarium24 (@TRSportHD) / Posts / X - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray, Süper Lig'in 29. haftasında kendi sahasında ağırladığı Kocaelispor ile 1-1 berabere kalarak zirve yarışında yara aldı. Süper Lig'in kalan 5 haftasında ise zirvedeki dört kulübün kalan maçları ve puan durumu dikkat çekti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7722ab94-a42e-49f8-95eb-cc459896121f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c2ae18c9",
-    "title": "Galatasaray maçının ardından... Fenerbahçe'den dikkat çeken paylaşım!",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 22:35",
-    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-macinin-ardindan-fenerbahce-den-dikkat-ceken-paylasim-2494628",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig ekibi Fenerbahçe, Galatasaray'ın 1-1 berabere kaldığı Kocaelispor maçının ardından sosyal medya hesabından bir paylaşım yaptı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4c4accc9-e264-4ccb-8f34-e6ee9d118d4e.jpg",
     "keyword": null
   }
 ]
