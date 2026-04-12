@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8c1e2767",
+    "title": "ABD ordusu, bugün İran limanlarına yönelik deniz ablukasına başlıyor",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 00:34",
+    "link": "https://www.aa.com.tr/tr/live-blog/abd-ordusu-bugun-iran-limanlarina-yonelik-deniz-ablukasina-basliyor/862",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), 13 Nisan saat 17.00'de (TSİ) İran limanlarına giren veya bu limanlardan çıkan tüm gemilere yönelik deniz ablukası başlatacağını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_57ab007e",
     "title": "Türkiye enerjide sınır tanımıyor! Çağrı Bey Somali CURAD-1 kuyusuna doğru yola çıktı",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray'ın Süper Lig'de sahasında Kocaelispor ile berabere kalarak şampiyonluk yarışında yara aldığı maçın ardından ilginç paylaşımlar yapıldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/fenerbahce-ve-trabzonspor2dan-paylasim-okan-buruk-kovulmali-xsqq.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0fde8b18",
-    "title": "Kocaelispor ile berabere kalan Galatasaray, şampiyonluk yarışında yara aldı",
-    "source": "TRT Haber",
-    "time": "12/04/2026 22:55",
-    "link": "https://www.trthaber.com/haber/spor/kocaelispor-ile-berabere-kalan-galatasaray-sampiyonluk-yarisinda-yara-aldi-941402.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Ligin 29. haftasında Galatasaray, konuk ettiği Kocaelispor ile 11 berabere kaldı. Şampiyonluk yarışında Fenerbahçe ile Galatasaray arasındaki puan farkı 2'ye düştü.",
-    "image": null,
     "keyword": null
   }
 ]
