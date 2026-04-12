@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9a4d8250",
+    "title": "Türkiye’nin kahve tutkusu: Milyar dolarlık hikaye",
+    "source": "Ekonomim",
+    "time": "13/04/2026 02:54",
+    "link": "https://www.ekonomim.com/kose-yazisi/turkiyenin-kahve-tutkusu-milyar-dolarlik-hikaye/887680",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/turkiyenin-kahve-tutkusu-milyar-dolarlik-hikaye-mls6_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_be0b6b3a",
     "title": "Kırmızı pazartesi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig'de Galatasaray'ın Kocaelispor ile berabere kaldığı maçın ardından Yaser Asprilla'nın paylaşımı tepki çekti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/yaser-asprillanin-instagram-paylasimi-tepki-cekti-olpn.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b5703835",
-    "title": "CENTCOM: Hürmüz ablukası bugün başlayacak",
-    "source": "TRT Haber",
-    "time": "13/04/2026 00:34",
-    "link": "https://www.trthaber.com/haber/dunya/centcom-hurmuz-ablukasi-bugun-baslayacak-941411.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Merkez Komutanlığı CENTCOM, bugün TSİ 17:00'da İran limanlarına giren ve çıkan tüm deniz trafiğini abluka uygulamaya başlayacak.",
-    "image": null,
     "keyword": null
   }
 ]
