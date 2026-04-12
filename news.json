@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5fd360ff",
+    "title": "DMM, Cumhurbaşkanı Erdoğan'a atfedilen ifadelerin asılsız olduğunu bildirdi",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 00:14",
+    "link": "https://www.aa.com.tr/tr/gundem/dmm-cumhurbaskani-erdogana-atfedilen-ifadelerin-asilsiz-oldugunu-bildirdi/3903215",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DMM, bazı sosyal medya mecralarında yer alan ve Cumhurbaşkanı Recep Tayyip Erdoğan'a atfedilen \"İran veya Lübnan'a bir saldırı olursa bunu Türkiye'ye yapılmış sayarız\" ifadelerinin asılsız olduğu bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d11aedc9",
     "title": "Bahçeli'den 'konsey' teklifi",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’un Yomra ilçesinde sürücüsünün pedal karıştırması sonucu meydana gelen zincirleme kazada, kırmızı ışıkta bekleyen 4 araç ve 1 motosiklet hasar gördü.",
     "image": "https://resim.haber61.net/news/612442.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_41c8bea4",
-    "title": "Yolcu otobüsü son anda söndürüldü",
-    "source": "OdaTV",
-    "time": "12/04/2026 22:35",
-    "link": "https://www.odatv.com/guncel/yolcu-otobusu-son-anda-sonduruldu-120143061",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin&#039;de terminaldeki bir yolcu otobüsünde çıkan yangın itfaiye ekiplerinin zamanında müdahalesiyle büyümeden söndürüldü.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/yolcu-otobusu-son-anda-sonduruldu-xfue.jpg",
     "keyword": null
   }
 ]
