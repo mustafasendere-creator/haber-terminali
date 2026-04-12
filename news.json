@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c2cc6a5f",
+    "title": "Tasarım dünyası Milano'da buluşuyor",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 12:15",
+    "link": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-dunyasi-milano-da-bulusuyor-2494190",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milano Tasarım Haftası, yalnızca yeni ürünleri değil, tasarımın bugün nasıl bir kültürel ve endüstriyel güce dönüştüğünü de gözler önüne seriyor. Kent, bir kez daha fikirlerin, malzemelerin ve hikâyelerin kesişim noktası oluyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c5c381d3-2f23-49ee-bdd9-d3c1609410d5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1c385136",
     "title": "CHP Genel Başkan Yardımcısı Özgür Karabat: 'İstanbul Finans Merkezi, yeraltı para hareketinin emrine mi verilecek?'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ticaret Bakanlığı, yılın ilk çeyreğinde düzenlenen operasyonlarda piyasa değeri yaklaşık 280 milyon 533 bin lira olan 233 araca el konulduğunu açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_28956276",
-    "title": "Türk balı 31 ülkenin sofrasında",
-    "source": "TRT Haber",
-    "time": "12/04/2026 11:35",
-    "link": "https://www.trthaber.com/haber/ekonomi/turk-bali-31-ulkenin-sofrasinda-941367.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'nin ihraç ürünlerinden bal, yılın ilk çeyreğinde ABD, Birleşik Krallık ve Kanada başta olmak üzere 31 ülkenin sofrasında yer aldı. Ocakmart döneminde 2 bin 71 ton bal ihraç edilerek, karşılığında 9 milyon 226 bin 137 dolar gelir sağlandı.",
     "image": null,
     "keyword": null
   }
