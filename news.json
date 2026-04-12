@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d424f171",
+    "title": "Ukrayna ve Rusya birbirlerini Ortodoks Paskalyası ateşkesini ihlal etmekle suçluyor",
+    "source": "Euronews",
+    "time": "12/04/2026 19:14",
+    "link": "http://tr.euronews.com/2026/04/12/ukrayna-ve-rusya-birbirlerini-ortodoks-paskalyasi-ateskesini-ihlal-etmekle-sucluyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Genelkurmay Başkanlığı'na göre saat 07:00 itibariyle ateşkes, Rusya tarafından saldırı, bombardıman ve küçük İHA'ların fırlatılması da dâhil olmak üzere 2 bin 299 kez ihlal edildi. Ancak Rusya uzun menzilli İHA, füze ya da güdümlü bombalar kullanmaktan kaçındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6cfc0f58",
     "title": "Türkiye Offroad Şampiyonası'nın 1. ayağı tamamlandı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Büyükşehir Belediyesi’nin ev sahipliğinde düzenlenen Uluslararası Tiyatro Festivali kapsamında, Kazakistan’dan festivale katılan “Turkestan Musical Theater” ekibinin sahnelediği ‘Sheikh Sanan’ adlı oyun, izleyicilerden yoğun ilgi gördü.",
     "image": "https://61saatcom.teimg.com/61saat-com/images/haberler/no_headline.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_cb8af08d",
-    "title": "Milli karateciler, Çin'de 2 altın, 1 bronz madalya kazandı",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 18:14",
-    "link": "https://www.aa.com.tr/tr/spor/milli-karateciler-cinde-2-altin-1-bronz-madalya-kazandi-/3902927",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk Karate Milli Takımı, Çin'de düzenlenen Karate One Premier Lig müsabakalarını 2 altın ve 1 bronz madalyayla tamamladı.",
-    "image": null,
     "keyword": null
   }
 ]
