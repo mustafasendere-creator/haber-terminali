@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cefe4461",
+    "title": "Önce Cumhuriyet!",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 05:54",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/zulal-kalkandelen/once-cumhuriyet-2494416",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elimde değerli bir kitap var.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar381_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_b691b038",
     "title": "Laikçi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ateşkes müzakerelerine başlanacağı ilan edildiği andan itibaren ilk akla gelen soru, İsrail'in bunu nasıl provoke edeceğiydi ama bunun da sınırları var. Anlaşma sonuçlanırsa en ağır tokadı İsrail yemiş olacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342049.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ba3c7f18",
-    "title": "MAPEG toprak satıyor, maden köylüyü yutuyor: 50 ilçede 20 bin yurttaşın köyü madenlere gidiyor",
-    "source": "Evrensel",
-    "time": "12/04/2026 01:14",
-    "link": "https://www.evrensel.net/haber/5979237/mapeg-toprak-satiyor-maden-koyluyu-yutuyor-50-ilcede-20-bin-yurttasin-koyu-madenlere-gidiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MAPEG, 317 No’lu ihale kapsamında köyleri parsel parsel satıyor. İhalelerin 7 Nisan’a kadar tamamlanan kısmında onlarca yerleşim yeri bulunuyor. Bu, binlerce yurttaşın maden talanıyla doğrudan karşı karşıya kalacağı anlamına geliyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339472.jpg",
     "keyword": null
   }
 ]
