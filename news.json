@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8ecafe35",
+    "title": "Bruno Petkovic'ten Galatasaray maçı açıklaması: 'Takımımın geri kalanı gibi iyi iş çıkardım'",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 23:55",
+    "link": "https://www.cumhuriyet.com.tr/spor/bruno-petkovic-ten-galatasaray-maci-aciklamasi-takimimin-geri-kalani-gibi-iyi-is-cikardim-2494629",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaelispor'un Hırvat oyuncusu Bruno Petkovic, 1-1 berabere kaldıkları Galatasaray maçının ardından görüşlerini aktardı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a35e50ba-edd0-4c82-b49f-6f4936007501.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_990a82af",
     "title": "Ankara Tabip Odası seçimini kaybettiler: ‘Türkeş’in askerleriyiz’ sloganı attılar",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray, Kocaelispor maçıyla bu sezon Trendyol Süper Lig’de 5. kez berabere kaldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/galatasaray-son-3-macta-5-puan-kaybetti-kopg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a6410257",
-    "title": "Çağrı Bey Sondaj Gemisi, CURAD1 kuyusuna doğru yola çıktı",
-    "source": "TRT Haber",
-    "time": "12/04/2026 22:34",
-    "link": "https://www.trthaber.com/haber/ekonomi/cagri-bey-sondaj-gemisi-curad-1-kuyusuna-dogru-yola-cikti-941401.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'nin yurt dışındaki ilk derin deniz arama sondajını Somali'de gerçekleştirecek Çağrı Bey Ultra Derin Deniz Sondaj Gemisi'nin, Mogadişu Limanı'ndan ayrılarak sondaj yapacağı CURAD1 kuyusuna doğru hareket ettiği bildirildi.",
-    "image": null,
     "keyword": null
   }
 ]
