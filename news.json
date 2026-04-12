@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_894e108f",
+    "title": "Bir tat yazısı",
+    "source": "A Haber",
+    "time": "12/04/2026 07:14",
+    "link": "https://www.ahaber.com.tr/yazarlar/hasmet-babaoglu/2026/04/12/bir-tat-yazisi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yol uzun...\nGiderken ara ara pencereleri açıyoruz...\nİçerisi uzak ve sakin kıyı kasabaları gibi kokuyormuş...\nSonra ballarım birazdan yiyecekleri minik karidesleri zihinlerinde tek tek saymaya...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_135323d5",
     "title": "Bedelli askerlik ücreti ne kadar oldu?",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan, Fransa Cumhurbaşkanı Emmanuel Macron ile bir telefon görüşmesi gerçekleştirdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9577efc6-9979-432c-91a4-7f51ca17892b.jpg",
     "keyword": null
-  },
-  {
-    "id": "SOC_0ada8309",
-    "title": "Ulaştırma ve Altyapı Bakanı Abdülkadir Uraloğlu: “Trabzonspor’un konumu itibarıyla yeni havalimanında kalıyor. Bu konuyu Trabzonspor yönetimimizle biz konuşuyoruz. Belli bir aşamaya geldik. Şehrin bütün dinamikleriyle konuşuyoruz. Nihai kararımızı verme - x.com",
-    "source": "X",
-    "time": "12/04/2026 01:55",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VdjFncXN4OGNNbzFRVnAySmZFeFNBNzhMQUZfc2ZBVk4zU2JGQnZsQ2sxZVRUZ1BCUUNqOVVpc1ZyWnBOb0ZVMWN5RjFsUXFYMXFmNVpJTUVXbUU",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "Ulaştırma ve Altyapı Bakanı Abdülkadir Uraloğlu: “Trabzonspor’un konumu itibarıyla yeni havalimanında kalıyor. Bu konuyu Trabzonspor yönetimimizle biz konuşuyoruz. Belli bir aşamaya geldik. Şehrin bütün dinamikleriyle konuşuyoruz. Nihai kararımızı verme  x.com",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
