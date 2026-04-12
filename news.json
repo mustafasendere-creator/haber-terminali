@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8cb77993",
+    "title": "İstanbul'daki uyuşturucu soruşturmasında 17 zanlı gözaltına alındı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 00:14",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-uyusturucu-sorusturmasinda-17-zanli-gozaltina-alindi-941410.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da uyuşturucu soruşturması kapsamında düzenlenen operasyonda 17 şüpheli gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_dfc3d19d",
     "title": "Galatasaray, şampiyonluk yarışında \"yara\" aldı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail Başbakanı Binyamin Netanyahu'nun askeri sekreteri Tümgeneral Roman Goffman'ın, İsrail istihbarat servisi Mossad'ın direktörlüğüne atandığı duyuruldu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_3366e919",
-    "title": "Trabzonspor fırsatı eliyle itti: Alanya’da kritik kayıp",
-    "source": "Haber61",
-    "time": "12/04/2026 22:54",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-firsati-eliyle-itti-alanyada-kritik-kayip-h629439.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Süper Lig'de lider Galatasaray'ın evinde puan kaybettiği haftada, Trabzonspor deplasmanda Alanyaspor ile berabere kalarak zirveye yaklaşma şansını değerlendiremedi.",
-    "image": "https://resim.haber61.net/news/612438.jpg",
     "keyword": null
   }
 ]
