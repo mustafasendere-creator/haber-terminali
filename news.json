@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6c85db4f",
+    "title": "Bartholomeos ve Zelenskiy'e Lozan'da protesto",
+    "source": "OdaTV",
+    "time": "12/04/2026 20:55",
+    "link": "https://www.odatv.com/guncel/bartholomeos-ve-zelenskiye-lozanda-protesto-120143054",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Vatan Partisi İsviçre Temsilciliği, Lozan Barış Antlaşması’nın imzalandığı Beau-Rivage Palace önünde açıklama yaptı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/bartholomeos-ve-zelenskiye-lozanda-protesto-val9.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4dfdbe70",
     "title": "Nijerya'da yanlış hava saldırısı: 56 sivil öldü",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "X'in XChat için hazırlanan uygulaması iPhone'lar için 17 Nisan'da indirilebilir olacak.",
     "image": "https://media.cumhuriyet.com.tr/Archive/4f18e36c-51bc-490c-9635-638acb4e4255.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_83f1d3b0",
-    "title": "Meteoroloji’den 13 il için sarı alarm: Kar ve sağanak geliyor, 3 büyük ilde hava değişiyor",
-    "source": "Haber Global",
-    "time": "12/04/2026 19:55",
-    "link": "https://haberglobal.com/yasam/meteorolojiden-13-il-icin-sari-alarm-kar-ve-saganak-geliyor-3-buyuk-ilde-hava-degisiyor-518376",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye genelinde hava koşulları yeniden sertleşiyor. Meteoroloji Genel Müdürlüğü’nün yayımladığı son rapora göre, 13 il için sarı kodlu uyarı verildi. Kar ve sağanak yağışların etkili olacağı bölgelerde sıcaklıkların mevsim normallerinin altına düşmesi beklenirken, İstanbul, Ankara ve İzmir’de de hava durumunun önümüzdeki günlerde değişeceği bildirildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/meteorolojiden-13-il-icin-sari-alarm-kar-ve-saganak-geliyor-3-buyuk-ilde-hava-degisiyor-usfo.jpg",
     "keyword": null
   }
 ]
