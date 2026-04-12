@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5b9978f",
+    "title": "ABD Başkan Yardımcısı JD Vance: \"Bir anlaşmaya varamadan ABD'ye geri dönüyoruz\"",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 05:34",
+    "link": "https://www.aa.com.tr/tr/live-blog/abd-baskan-yardimcisi-jd-vance-bir-anlasmaya-varamadan-abdye-geri-donuyoruz/797",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkan Yardımcısı JD Vance, Pakistan'ın başkenti İslamabad'da İran'la yapılan doğrudan müzakerelerin \"bir anlaşmaya varılamadan\" sona erdiğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2b58f886",
     "title": "Ulaştırma ve Altyapı Bakanı Uraloğlu, şirketler ile 22 protokol imzalandığını bildirdi: PTT’ye ‘altın taşıma’ görevi!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. ALİAĞA SULH HUKUK MAHKEMESİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/1ed58d39-64f9-48fc-9d82-08f31b5fbe87.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2315ef5d",
-    "title": "Mardin’de yorgun mermi isabet eden çocuk yaralandı",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 00:55",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/mardin-de-yorgun-mermi-isabet-eden-cocuk-yaralandi-2494425",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mardin’in Nusaybin ilçesinde, yorgun merminin isabet ettiği çocuk yaralandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4af1d4f7-b170-4332-bd8b-e8f4e8542310.jpg",
     "keyword": null
   }
 ]
