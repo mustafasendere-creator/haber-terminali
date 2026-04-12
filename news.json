@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_948d265e",
+    "title": "Apartman boşluğuna düşerek can verdi",
+    "source": "Habertürk",
+    "time": "12/04/2026 12:15",
+    "link": "https://www.haberturk.com/bacadaki-yangina-mudahale-etmek-isterken-apartman-bosluguna-dusup-oldu-3876592",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu'nun Tosya ilçesinde bacadaki yangına müdahale ederken 6 katlı binanın çatısından apartman boşluğuna düşen market işletmecisi Erdal Mansur, hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775915275/3876592/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_192efd2c",
     "title": "Mobilya fabrikasında yangın!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Diyarbakır'ın Çermik ilçesinde görülen ters laleler güzellikleriyle adeta büyülüyor. Yöre halkı tarafından özenle korunan bu çiçekleri koparmanın cezası ise 700 bin TL'yi buluyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/diyarbakirda-yetisiyor-guzelligiyle-buyuluyor-bu-cicegi-koparmanin-cezasi-700-bin-tl-oxje.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_22e427f9",
-    "title": "İran basını duyurdu: ABD ile yeni bir görüşme planlanmıyor",
-    "source": "Haber Global",
-    "time": "12/04/2026 11:35",
-    "link": "https://haberglobal.com/dunya/son-dakika-iran-basini-duyurdu-abd-ile-yeni-bir-gorusme-planlanmiyor-518309",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika haberine göre, Fars Haber Ajansı, sonuçsuz kalan müzakerelerin ardından İran'ın ABD ile yeni bir görüşme turu planlamadığını bildirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/son-dakika-iran-basini-duyurdu-abd-ile-yeni-bir-gorusme-planlanmiyor-wcjl.jpg",
     "keyword": null
   }
 ]
