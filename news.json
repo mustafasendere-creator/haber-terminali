@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fca973fd",
+    "title": "MSB'den 'Herkesin sözü biz konuşana kadardır' paylaşımı",
+    "source": "Haber Global",
+    "time": "12/04/2026 14:15",
+    "link": "https://haberglobal.com/gundem/msbden-herkesin-sozu-biz-konusana-kadardir-paylasimi-518333",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanlığı (MSB), bordo bereli bir askerin Cumhurbaşkanı Recep Tayyip Erdoğan'a selam durduğu fotoğrafı, 'Buralarda herkesin sözü biz konuşana kadardır' notuyla paylaştı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/msbden-herkesin-sozu-biz-konusana-kadardir-paylasimi-b7i2.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_170bcb5b",
     "title": "Ankara’daki Trabzon Günleri’ne Kebir damga vurdu",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Ankara’da yapılan Trabzon Günleri ilginç buluşmalara ve taleplere de sahne oldu.",
     "image": "https://resim.haber61.net/news/612357.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_8e128ca8",
-    "title": "Feci Kaza! Ordu’da Yamaçtan Uçan Araçta Baba ve Kızı Hayatını Kaybetti",
-    "source": "Taka Gazetesi",
-    "time": "12/04/2026 13:35",
-    "link": "https://www.takagazete.com.tr/feci-kaza-orduda-yamactan-ucan-aracta-baba-ve-kizi-hayatini-kaybetti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Kabadüz ilçesinde meydana gelen kazada otomobil yamaçtan yuvarlandı. Öğretmen olduğu öğrenilen sürücü ile babası olay yerinde yaşamını yitirdi, 1 kişi ağır yaralandı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/kaza-110.png",
-    "keyword": null
   }
 ]
