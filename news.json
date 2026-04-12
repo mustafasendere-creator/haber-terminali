@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83f1d3b0",
+    "title": "Meteoroloji’den 13 il için sarı alarm: Kar ve sağanak geliyor, 3 büyük ilde hava değişiyor",
+    "source": "Haber Global",
+    "time": "12/04/2026 19:55",
+    "link": "https://haberglobal.com/yasam/meteorolojiden-13-il-icin-sari-alarm-kar-ve-saganak-geliyor-3-buyuk-ilde-hava-degisiyor-518376",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye genelinde hava koşulları yeniden sertleşiyor. Meteoroloji Genel Müdürlüğü’nün yayımladığı son rapora göre, 13 il için sarı kodlu uyarı verildi. Kar ve sağanak yağışların etkili olacağı bölgelerde sıcaklıkların mevsim normallerinin altına düşmesi beklenirken, İstanbul, Ankara ve İzmir’de de hava durumunun önümüzdeki günlerde değişeceği bildirildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/meteorolojiden-13-il-icin-sari-alarm-kar-ve-saganak-geliyor-3-buyuk-ilde-hava-degisiyor-usfo.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4505f524",
     "title": "Esenler'de otomobil kamyonete çarptı: Çok sayıda yaralı var",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Viktor Orbán ile Péter Magyar, katılımın rekor düzeye çıkmasının beklendiği ve sonucunun Budapeşte’nin AB’deki rolünü değiştirebileceği kritik seçimde oy kullandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_b9d2c635",
-    "title": "ŞAMPİYONLUĞA İNANAN KAÇ KİŞİYDİK Kİ…",
-    "source": "61 Saat",
-    "time": "12/04/2026 18:34",
-    "link": "https://www.61saat.com/sampiyonluga-inanan-kac-kisiydik-ki-1",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/s-a-a-t-y-i-114.png",
     "keyword": null
   }
 ]
