@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a2bb4d80",
+    "title": "Macaristan'da Viktor Orban seçimi kaybetti",
+    "source": "DW Türkçe",
+    "time": "12/04/2026 22:34",
+    "link": "https://www.dw.com/tr/macaristan-da-viktor-orban-seçimi-kaybetti/a-76756603",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan'da halk, ülke tarihinin en kritik seçimlerinden biri için sandık başına gitti. İlk sonuçlar, Washington ve Moskova'nın desteklediği Viktor Orban'ın 16 yıl sonra iktidarı kaybettiğine işaret ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_45a0ef8d",
     "title": "Jakobs'tan Trabzonspor açıklaması!",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD medyası, İran'ın Lamerd kentindeki okul ve spor salonunu hedef alan ve 21 sivilin hayatını kaybettiği saldırılarda ABD füzelerinin kullanıldığına ilişkin görsel kanıtlar ortaya koydu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e135b11b",
-    "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan ABD-İran müzakerelerine ilişkin açıklama",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 21:14",
-    "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmazdan-abd-iran-muzakerelerine-iliskin-aciklama/3903067",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Bölgemizde sağlanan ateşkesin etkili ve kapsamlı şekilde uygulanmasını, müzakerelere yeterli fırsatın verilmesini ve başlayan müzakere sürecinin kalıcı barış ile sonuçlanmasını diliyoruz.\" ifadesini kullandı.",
     "image": null,
     "keyword": null
   }
