@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4aa81fe1",
+    "title": "DMM, Cumhurbaşkanı Erdoğan'a atfedilen ifadelerin asılsız olduğunu belirtti",
+    "source": "TRT Haber",
+    "time": "13/04/2026 00:54",
+    "link": "https://www.trthaber.com/haber/gundem/dmm-cumhurbaskani-erdogana-atfedilen-ifadelerin-asilsiz-oldugunu-belirtti-941409.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezince DMM, bazı sosyal medya mecralarında yer alan ve Cumhurbaşkanı Recep Tayyip Erdoğan'a atfedilen \"İran veya Lübnan'a bir saldırı olursa bunu Türkiye'ye yapılmış sayarız\" ifadelerinin asılsız olduğu bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_85ebc3f4",
     "title": "45. İstanbul Film Festivali’nde geleceğin sinemacılarının gösterimi",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'ye \"Savaşırsanız savaşırız, eğer mantıkla yaklaşırsanız biz de mantıkla karşılık veririz\" mesajı verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bbadbeeb",
-    "title": "Katil İsrail, kızını okuldan almaya giden babayı başından vurarak öldürdü",
-    "source": "TRT Haber",
-    "time": "12/04/2026 23:14",
-    "link": "https://www.trthaber.com/haber/dunya/katil-israil-kizini-okuldan-almaya-giden-babayi-basindan-vurarak-oldurdu-941405.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazze Şeridinin güneyindeki Han Yunus kentinde kızını okuldan almaya giderken başından vurulan 48 yaşındaki Filistinli baba Yahya Said Yahya elAğa yaşamını yitirdi.",
     "image": null,
     "keyword": null
   }
