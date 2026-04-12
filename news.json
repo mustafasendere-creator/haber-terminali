@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_047f7c87",
+    "title": "'CANNES!': Ara Güler’in Cannes kareleri ilk kez sergileniyor",
+    "source": "Euronews",
+    "time": "12/04/2026 17:15",
+    "link": "http://tr.euronews.com/kultur/2026/04/12/cannes-ara-gulerin-cannes-kareleri-ilk-kez-sergileniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ara Güler Müzesi, usta fotoğrafçının Cannes Film Festivali’nden ikonik karelerini bir araya getiren 'CANNES!' sergisini 22 Nisan’da açıyor, arşivden ilk kez çıkan fotoğraflar, sinemanın altın çağını bugüne taşıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c8403297",
     "title": "Masters ilham verdi: Avrupa'nın en iyi yeni golf sahaları listelendi",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Prof. Dr. Cevdet Erdöl Trabzon Günleri’nde 61sohbet programına katıldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/dkfmskf.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_422f6dd7",
-    "title": "Son dakika... Sonuçsuz kalan görüşmeler sonrası Trump'tan ilk açıklama: 'İran Hürmüz sözünü tutmadı'",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 16:15",
-    "link": "https://www.cumhuriyet.com.tr/dunya/son-dakika-sonucsuz-kalan-gorusmeler-sonrasi-trump-tan-ilk-aciklama-iran-hurmuz-sozunu-tutmadi-2494555",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika haberi... ABD ve İran heyeti, 21 saat süren İslamabad görüşmelerinde Hürmüz Boğazı ve nükleer başlıklar başta olmak üzere temel konularda uzlaşma sağlayamadı. ABD Başkanı Trump, \"İran Hürmüz sözünü tutmadı\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/bd7dc82c-f1a4-48b4-87c9-17febcd82e94.jpg",
-    "keyword": null
   }
 ]
