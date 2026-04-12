@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41c8bea4",
+    "title": "Yolcu otobüsü son anda söndürüldü",
+    "source": "OdaTV",
+    "time": "12/04/2026 22:35",
+    "link": "https://www.odatv.com/guncel/yolcu-otobusu-son-anda-sonduruldu-120143061",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin&#039;de terminaldeki bir yolcu otobüsünde çıkan yangın itfaiye ekiplerinin zamanında müdahalesiyle büyümeden söndürüldü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/yolcu-otobusu-son-anda-sonduruldu-xfue.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d2d4d296",
     "title": "Urla halkının hurda gemi zaferi: Hurda gemi Demircili’den kaldırılıyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, Pakistan Dışişleri Bakanı Muhammad Ishaq Dar ile telefonda görüştü.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/disisleri-bakani-fidan-pakistanli-mevkidasi-dar-ile-gorustu-mvmp.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6e531ff8",
-    "title": "Stanimir Stoilov: Süper Lig'de adaletsiz bir rekabet ortamı var",
-    "source": "Haber Global",
-    "time": "12/04/2026 21:14",
-    "link": "https://haberglobal.com/spor/stanimir-stoilov-super-ligde-adaletsiz-bir-rekabet-ortami-var-518386",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 29. haftasında sahasında Kasımpaşa ile 3-3 berabere kalan Göztepe'nin teknik direktörü Stanimir Stoilov, \"Son 20 dakikada önemli bir karakter gösterdik. Burada goller bulduk ve maçı çevirdik. Bizim adımıza olumlu olan maçtaki tek şey buydu.\" dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/stanimir-stoilov-super-ligde-adaletsiz-bir-rekabet-ortami-var-su26.jpg",
     "keyword": null
   }
 ]
