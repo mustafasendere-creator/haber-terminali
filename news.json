@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8a6dcf98",
+    "title": "Kiliselerden AfD programına tepki: İnsan onuruna saldırı",
+    "source": "DW Türkçe",
+    "time": "12/04/2026 15:35",
+    "link": "https://www.dw.com/tr/kiliselerden-afd-programına-tepki-insan-onuruna-saldırı/a-76754004",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman Protestan ve Katolik kiliseleri, aşırı sağcı AfD'nin Saksonya-Anhalt örgütünün seçim programını sert bir dille eleştirdi. Kiliseler, söz konusu programın Hristiyanlıkla bağdaşmadığını belirtiyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3c7d3a3e",
     "title": "Samsun'da yabancı madde operasyonu: 6 gözaltı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MAPEG'in gerçekleştirdiği ihale ile 8 ilde toplam 36 bin hektarı aşan 32 maden sahası şirketlere devredildi; alanlar arasında ormanlar, tarım arazileri ve yerleşim yerleri de bulunuyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342468.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_6c9a9065",
-    "title": "Tepkilerin Odağında Aynı İsim! Trabzonspor Cephesinden Hakeme Sert Eleştiri",
-    "source": "Taka Gazetesi",
-    "time": "12/04/2026 14:55",
-    "link": "https://www.takagazete.com.tr/tepkilerin-odaginda-ayni-isim-trabzonspor-cephesinden-hakeme-sert-elestiri",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Alanyaspor maçındaki kararları tartışma yaratan Mehmet Türkmen, Bordo-Mavili camianın yeniden hedefi oldu. Verilen kartlar ve kritik düdükler büyük tepki çekti. Yönetmiş olduğu Trabzonspor maçlarında verdiği hatalı kararlarla bordo-mavili taraftarların tepkisini çeken hakem Mehmet Türkmen, Alanyaspor karşılaşmasında da eleştirilerin odağında yer aldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/hakem-kararlar.jpg",
     "keyword": null
   }
 ]
