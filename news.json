@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a9f9e090",
+    "title": "Antalya Havalimanı yılın ilk çeyreğinde 3 milyondan fazla yolcuya hizmet verdi",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 12:14",
+    "link": "https://www.aa.com.tr/tr/ekonomi/antalya-havalimani-yilin-ilk-ceyreginde-3-milyondan-fazla-yolcuya-hizmet-verdi/3902698",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Antalya Havalimanı'nın hizmet verdiği yolcu sayısının, yılın ilk çeyreğinde geçen yılın aynı dönemine göre yüzde 5 artarak 3 milyon 138 bin 499'a ulaştığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_12f3ba33",
     "title": "Bundesliga’da devrim: Futbola kadın eli değecek",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Liverpool taraftarları, kulüp yönetiminin maç günü bilet fiyatlarına yapmayı planladığı artışa karşı dün Anfield çevresinde geniş çaplı bir protesto düzenleyerek yönetime geri adım atma çağrısında bulundu.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/liverpool-tribunleri-ayaga-kalkti-ruh-paradan-daha-degerli-dhhl.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fc9b780b",
-    "title": "Beyaz Saray’da artık bir Türk gazeteci var",
-    "source": "OdaTV",
-    "time": "12/04/2026 11:16",
-    "link": "https://www.odatv.com/guncel/beyaz-sarayda-artik-bir-turk-gazeteci-var-120143004",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazeteci Hümeyra Pamuk, Reuters’ın Beyaz Saray ekibine katıldı. Pamuk, ajansın daimi Beyaz Saray muhabirliği görevine getirilen ilk Türk gazeteci oldu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/beyaz-sarayda-artik-bir-turk-gazeteci-var-fe6g.jpg",
     "keyword": null
   }
 ]
