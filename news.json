@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eec2895c",
+    "title": "Esenler’de otomobil kamyonete çarptı: 1'i ağır, 6 yaralı",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 01:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/esenler-de-otomobil-kamyonete-carpti-1-i-agir-6-yarali-2494598",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Esenler’de otomobilin kamyonete çarptığı kazada 1’i ağır 6 kişi yaralandı. Polis ekipleri kazayla ilgili inceleme başlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4ee3ee4a-18d4-4502-acfe-2eb5f392c098.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_552adab5",
     "title": "Devlet Bahçeli'den 'konsey' önerisi: 'Türkiye ev sahipliği yapabilir'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kocaelispor'un Hırvat oyuncusu Bruno Petkovic, 1-1 berabere kaldıkları Galatasaray maçının ardından görüşlerini aktardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/a35e50ba-edd0-4c82-b49f-6f4936007501.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_990a82af",
-    "title": "Ankara Tabip Odası seçimini kaybettiler: ‘Türkeş’in askerleriyiz’ sloganı attılar",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 23:55",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-tabip-odasi-secimini-kaybettiler-turkes-in-askerleriyiz-slogani-attilar-2494648",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara Tabip Odası seçimlerinde kazanan Ankara Çağdaş Hekimler grubu oldu. Seçimi kaybeden Beyaz Önlük Dayanışması grubu “Alparslan Türkeş’in askerleriyiz” sloganı attı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5e49a47d-16bf-4230-9c2f-a184f389d7c9.jpg",
     "keyword": null
   }
 ]
