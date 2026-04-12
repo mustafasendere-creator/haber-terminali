@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_10baf9e1",
+    "title": "Maden işçilerini taşıyan minibüs devrildi: 2 ölü, 10 yaralı",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 00:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/maden-iscilerini-tasiyan-minibus-devrildi-2-olu-10-yarali-2494653",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya’nın Hekimhan ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği minibüsün şarampole devrilmesi sonucu 2 kişi öldü, 10 kişi de yaralandı. Kaza ile ilgili soruşturma sürüyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/77269e4e-87ef-4e8e-bac0-4f9938394822.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a10375d2",
     "title": "Diyarbakır'da kaybolan yaşlı adamın cansız bedeni bulundu",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Dün Trabzonspor’un puan kaybettiği maçın hemen ardından Galatasaray Kulübü bir paylaşımda bulunmuştu. Trabzonspor da bugün Galatasaray’a yanıt verdi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/trabzonspor-manset-1-73.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_45a0ef8d",
-    "title": "Jakobs'tan Trabzonspor açıklaması!",
-    "source": "61 Saat",
-    "time": "12/04/2026 22:55",
-    "link": "https://www.61saat.com/jakobstan-trabzonspor-aciklamasi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Galatasaray bugün evinde Kocaelispor ile 1-1 berabere kaldı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/8-kopyasi-3-144.png",
     "keyword": null
   }
 ]
