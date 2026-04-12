@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_349d56fb",
+    "title": "CENTCOM: Hürmüz ablukası başlıyor",
+    "source": "OdaTV",
+    "time": "13/04/2026 00:35",
+    "link": "https://www.odatv.com/guncel/centcom-hurmuz-ablukasi-basliyor-120143067",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Komutanlığı (CENTCOM), bugün TSİ 17:00&#039;da İran limanlarına giren ve çıkan tüm deniz trafiğini abluka uygulamaya başlayacak.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/centcom-hurmuz-ablukasi-basliyor-wncc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_98c8b97f",
     "title": "UNDP ve Amazon'dan yeni kalkınma modeli: Doğrudan gelir elde etme yerine, ‘geçim fırsatları yaratma'",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Macaristan seçimlerinde resmi olmayan sonuçlara göre Viktor Orbán 16 yıl sonra iktidarı kaybetti. Peter Magyar liderliğindeki Tisza Partisi parlamentoda çoğunluğu elde etti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342718.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2c668544",
-    "title": "Macaristan'da Orban dönemini bitiren Peter Magyar kim, vaatleri neler?",
-    "source": "BBC Türkçe",
-    "time": "12/04/2026 23:14",
-    "link": "https://www.bbc.com/turkce/articles/c77m38m8g02o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan'daki seçimde 16 yıllık Viktor Orban iktidarını bitiren 45 yaşındaki Peter Magyar, siyasetteki hızlı yükselişiyle dikkat çeken bir isim.",
-    "image": null,
     "keyword": null
   }
 ]
