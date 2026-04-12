@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b9705b75",
+    "title": "Kastamonu'da tekstil fabrikasında yangın",
+    "source": "Evrensel",
+    "time": "12/04/2026 09:54",
+    "link": "https://www.evrensel.net/haber/5979272/kastamonuda-tekstil-fabrikasinda-yangin",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu'da tekstil ve filtre malzemeleri üretilen fabrikada yangın çıktı. İtfaiye ekiplerinin yangına müdahalesi sürüyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342628.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_cfe5bcde",
     "title": "Mika Slowana kimdir, kaç yaşında: 'Kısmetse Olur: Aşkın Gücü' Mika Slowana neden gözaltına alındı?",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Taşacak Bu Deniz'in sevilen oyuncusu Burak Yörük, Trabzon ile ilgili samimi açıklamalarda bulundu.",
     "image": "https://resim.haber61.net/news/612302.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_29416f80",
-    "title": "Macaristan'da halk genel seçimler için sandık başında",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 08:54",
-    "link": "https://www.aa.com.tr/tr/dunya/macaristanda-halk-genel-secimler-icin-sandik-basinda/3902543",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan’da halk, 199 milletvekilinin belirleneceği genel seçimler için sandık başına gitti.",
-    "image": null,
     "keyword": null
   }
 ]
