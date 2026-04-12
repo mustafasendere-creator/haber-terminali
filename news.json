@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ab09c4b9",
+    "title": "Hayvanların ne söylediğini anlamaya yaklaştık mı?",
+    "source": "BBC Türkçe",
+    "time": "12/04/2026 10:54",
+    "link": "https://www.bbc.com/turkce/articles/c9qd12ewpgvo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hayvanlarla konuşmak önceleri yalnızca kitaplarda ve filmlerde karşımıza çıkan bir konuydu. Acaba hala bir hayal mi yoksa çok yakında gerçek mi olacak?",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_bec2b379",
     "title": "Nwakaeme'nin istatistikleri eski günlerini arattı! Hey gidi günler!",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, geçtiğimiz hafta sahasında Galatasaray’ı 2-1 mağlup ederek şampiyonluk yarışında büyük bir avantaj yakalamıştı. Ancak Bordo-Mavililer, en kritik eşiklerden birinde yine Alanyaspor engeline takıldı. “Okyanusu geçti derede boğuldu” sözünü adeta sahaya yansıtan Karadeniz ekibi, geçmiş sezonlarda yaşadığı talihsizliği bir kez daha tekrar etti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/f-a-t-i-h-t-e-k-k-e-41.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_f92936d6",
-    "title": "Okyanusu Geçti, Alanya’da Takıldı! Trabzonspor İçin Tanıdık Senaryo",
-    "source": "Taka Gazetesi",
-    "time": "12/04/2026 09:55",
-    "link": "https://www.takagazete.com.tr/okyanusu-gecti-alanyada-takildi-trabzonspor-icin-tanidik-senaryo",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, geçtiğimiz hafta sahasında Galatasaray’ı 2-1 mağlup ederek şampiyonluk yarışında büyük bir avantaj yakalamıştı. Ancak Bordo-Mavililer, en kritik eşiklerden birinde yine Alanyaspor engeline takıldı. “Okyanusu geçti derede boğuldu” sözünü adeta sahaya yansıtan Karadeniz ekibi, geçmiş sezonlarda yaşadığı talihsizliği bir kez daha tekrar etti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/f-a-t-i-h-t-e-k-k-e-41.jpg",
-    "keyword": null
   }
 ]
