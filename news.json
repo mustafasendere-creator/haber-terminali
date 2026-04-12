@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a1a34be0",
+    "title": "İrlanda'da bir şahıs Amerikan askeri uçağına baltayla saldırdı",
+    "source": "TRT Haber",
+    "time": "12/04/2026 12:35",
+    "link": "https://www.trthaber.com/haber/dunya/irlandada-bir-sahis-amerikan-askeri-ucagina-baltayla-saldirdi-941375.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İrlanda'nın Shannon Havalimanı'nda park halinde bulunan Amerikan askeri uçağına tırmanan bir kişi, uçağın gövdesine ve kanadına baltayla zarar verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_d64505c3",
     "title": "Başkan'dan Trabzonspor yorumu: “Her yıl şampiyonluk beklentisi hayal kırıklığı yaratır”",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Antalya’nın Demre ilçesinde bir ilkokulda velilerin şikayeti üzerine, öğretmenin sınıfındaki uygulamalarına ilişkin inceleme başlatıldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ogretmenin-kizi-geri-kalinca-sinif-da-geri-kaldi-sikayetine-inceleme-1775981293-8116.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_4758ac5f",
-    "title": "Şimşek: Vergide gönüllü uyum ve beyanname sayısı rekor düzeyde arttı",
-    "source": "10Haber",
-    "time": "12/04/2026 11:54",
-    "link": "https://10haber.net/ekonomi/simsek-vergide-gonullu-uyum-ve-beyanname-sayisi-rekor-duzeyde-artti-694534/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığınca (GİB) yürütülen çalışmalarla, geçen yıl elde edilen kazançlara yönelik yaklaşık 5,5 milyon vergi beyannamesi verilerek rekor kırıldı, 401 bin mükellef de ilk defa beyanname verdi. Ticari, zirai ve mesleki faaliyetinden dolayı gerçek usulde vergilendirilen gelir vergisi mükellefleri ile geliri sadece ücret, kira, menkul sermaye iradı veya diğer kazanç [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69db5d82664518.66601606.jpg",
     "keyword": null
   }
 ]
