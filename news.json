@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3b321732",
+    "title": "Iğdır'daki kavga 2 can aldı",
+    "source": "Habertürk",
+    "time": "12/04/2026 11:36",
+    "link": "https://www.haberturk.com/igdirda-iki-aile-arasinda-silahli-kavga-2-olu-6-yaral-3876641",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Iğdır'a bağlı Karakuyu köyünde iki aile arasında çıkan kavgada Ahmet Temel ve Mehmet Temel hayatını kaybetti, 6 kişi de yaralandı. Jandarma şüphelilerin yakalanması için çalışmaya başlarken, hastane çevresinde geniş güvenlik önlemleri alındı",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775935692/3876641/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_3ef15603",
     "title": "Bu acıya yürek dayanmaz",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Liverpool&#039;un Mısırlı efsanesi Mohamed Salah Anfield&#039;da Fulham&#039;ı 2-0 mağlup ettikleri karşılaşmanın ardından taraftarla vedalaşmaya başladı. Kırmızı formayla son maçlarına çıkan Salah duygusal anlar yaşadı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/salah-liverpool-taraftarina-veda-etti-db9x.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e076a3f7",
-    "title": "Macaristan sandık başında: Genel seçimler başladı",
-    "source": "Ekonomim",
-    "time": "12/04/2026 10:56",
-    "link": "https://www.ekonomim.com/dunya/macaristan-sandik-basinda-genel-secimler-basladi-haberi-887574",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan’da halk, 199 milletvekilinin belirleneceği genel seçimler için sandık başına gidiyor. Oy kullanma işlemi yerel saatle 06:00’da başladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/macaristan-sandik-basinda-genel-secimler-basladi-blox_cover.png",
     "keyword": null
   }
 ]
