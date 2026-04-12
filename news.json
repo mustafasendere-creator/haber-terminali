@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e518a7d1",
+    "title": "Hukuk Devleti ve Cindoruk",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 07:15",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/alev-coskun/hukuk-devleti-ve-cindoruk-2494433",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yakın tarihimizi bizzat yaşamış, çok önemli siyasal olaylara tanıklık etmiş, çok değerli bir devlet adamını yitirdik.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar396_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_117fff35",
     "title": "Yorgunluk göz seğirmesine yol açıyor",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İran'la devam eden doğrudan müzakerelerin sonucu ne olursa olsun \"askeri açıdan kazandıklarını\" savunarak, \"İranla çok yoğun müzakereler içindeyiz. Neler olacağını göreceğiz.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4e5c5c2e",
-    "title": "Suudi Arabistanda şiddetli yağış nedeniyle bazı bölgelerde eğitime ara",
-    "source": "TRT Haber",
-    "time": "12/04/2026 02:34",
-    "link": "https://www.trthaber.com/haber/turkiye/suudi-arabistanda-siddetli-yagis-nedeniyle-bazi-bolgelerde-egitime-ara-941343.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suudi Arabistanda etkili olan şiddetli yağış ve sel nedeniyle başkent Riyad ile bazı bölgelerde eğitime bir gün ara verildi.",
     "image": null,
     "keyword": null
   }
