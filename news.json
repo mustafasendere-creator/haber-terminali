@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_667a41d9",
+    "title": "Kıbrıs’ta Meclis ödenek tartışmasını erteledi, 13 Nisan genel grevi askıya alındı",
+    "source": "Evrensel",
+    "time": "12/04/2026 13:14",
+    "link": "https://www.evrensel.net/haber/5979294/kibrista-meclis-odenek-tartismasini-erteledi-13-nisan-genel-grevi-askiya-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuzey Kıbrıs’ta Meclisin 'hayat pahalılığı ödeneği'nin kaldırılmasına dair pazartesi günü yapacağı yeni görüşmeyi bir hafta ertelediği açıklandı. Sendikalar da 13 Nisan için ilan ettikleri yeni genel grev kararını askıya aldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342449.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a7033aed",
     "title": "Yuri Gagarin 65 yıl önce bugün uzaya çıktı: \"Ülkeler arasındaki sınırları göremedim, benim için tek bir halk vardı\"",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yurt dışından getirilen cihazlar için uygulanan &#8220;üç yılda bir pasaporta tek telefon kaydı&#8221; kuralı, bazı kullanıcılar tarafından suistimal ediliyordu. Çift SIM kartlı telefonların ikinci IMEI numarası, sistemde tamamen farklı bir cihaz için kullanılmış gibi gösterilerek kayıt ücreti ödenmeden birden fazla telefon aktifleştiriliyordu. Devletin ciddi vergi kaybına yol açan bu yöntem BTK&#8217;nın radarına takıldı. 1 Ocak [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69db663687e957.82449210.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a93e4e89",
-    "title": "Türk balı yılın ilk çeyreğinde 31 ülkede alıcı buldu",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 12:34",
-    "link": "https://www.aa.com.tr/tr/ekonomi/turk-bali-yilin-ilk-ceyreginde-31-ulkede-alici-buldu/3902717",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'den ocak-mart döneminde 2 bin 71 ton bal ihraç edilerek, karşılığında 9 milyon 226 bin 137 dolar gelir sağlandı.",
-    "image": null,
     "keyword": null
   }
 ]
