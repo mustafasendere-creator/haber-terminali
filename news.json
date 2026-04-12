@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a886c91",
+    "title": "Meteoroloji il il saydı: Kar, kuvvetli sağanak, zirai don ve çığ uyarısı",
+    "source": "Haber Global",
+    "time": "12/04/2026 08:55",
+    "link": "https://haberglobal.com/gundem/son-dakika-meteoroloji-il-il-saydi-kar-kuvvetli-saganak-zirai-don-ve-cig-uyarisi-518284",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü tarafından günlük hava tahmin raporu yayımlandı. Buna göre, 13 ile sarı kodlu kar ve sağanak yağış uyarısı yapıldı. İşte detaylar...",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/son-dakika-meteoroloji-il-il-saydi-kar-kuvvetli-saganak-zirai-don-ve-cig-uyarisi-3hko.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_52c563f5",
     "title": "İİran'dan 'Hürmüz Boğazı’ açıklaması: Askeri gemilerin geçiş girişimlerine sert karşılık verilecek",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Erzincan’ın Üzümlü ilçesine bağlı Bayırbağ köyünde üreticiler, ani sıcaklık düşüşüyle oluşan don riskine karşı bahçelerinde ateş yakarak  boyunca nöbet tuttu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/ureticinin-zorlu-mesaisi-ates-yakip-sabaha-kadar-basinda-beklediler-gxmi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e7bc2568",
-    "title": "Kastamonu'da tekstil fabrikasında yangın",
-    "source": "TRT Haber",
-    "time": "12/04/2026 07:35",
-    "link": "https://www.trthaber.com/haber/turkiye/kastamonuda-tekstil-fabrikasinda-yangin-941354.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kastamonu'nun Tosya ilçesinde endüstriyel tekstil ve filtre malzemeleri üretilen fabrikada çıkan yangın ekiplerin müdahalesiyle söndürüldü.",
-    "image": null,
     "keyword": null
   }
 ]
