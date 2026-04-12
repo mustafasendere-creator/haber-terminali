@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_186a7541",
+    "title": "Yeni bir yıldız doğuyor: Sadece 18 yaşında ve Usain Bolt’un rekorunu kırdı",
+    "source": "10Haber",
+    "time": "12/04/2026 14:14",
+    "link": "https://10haber.net/spor/yeni-bir-yildiz-doguyor-sadece-18-yasinda-ve-usain-boltun-rekorunu-kirdi-694592/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "18 yaşındaki Avustralyalı sprinter Gout Gout Sydney&#8217;de düzenlenen Avustralya Şampiyonası&#8217;nda 200 metreyi 19.67 saniyede koşarak tarihe geçti. Henüz 18 yaşında olan Gout bu derecesiyle sprint efsanesi Usain Bolt’un 2004 yılında koştuğu 19.93’lük dereceyi geride bırakarak dikkatleri üzerine çekti. Genç atlet 20 yaş altı kategorisinde yalnızca ABD&#8217;li Erriyon Knighton’ın 2022’de elde ettiği 19.49’luk derecenin gerisinde kaldı. [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69db78054ab528.10032070.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_f79b33fa",
     "title": "Çifte vatandaşlara çağrı: Bulgaristan seçimleri için sandığa gelin",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bayburt’ta düzenlenen programda İsrail’in Filistin’e yönelik uygulamaları protesto edildi. Açıklamada Filistin halkına destek mesajı verildi.",
     "image": "https://resim.haber61.net/news/612356.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9e2eead2",
-    "title": "İsrailli bakanlar, İran'a saldırıların yeniden başlayabileceğine işaret etti",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 13:34",
-    "link": "https://www.aa.com.tr/tr/dunya/israilli-bakanlar-irana-saldirilarin-yeniden-baslayabilecegine-isaret-etti/3902759",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrailli bakanlar, Pakistan'ın başkenti İslamabad'daki müzakerelerden sonuç çıkmamasının ardından ABD-İsrail'in İran'a yönelik saldırılara yeniden başlayabileceğini ileri sürdü.",
-    "image": null,
     "keyword": null
   }
 ]
