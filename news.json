@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02425272",
+    "title": "Sağanak yağış ve kar geliyor: 13 ile sarı kodlu uyarı",
+    "source": "10Haber",
+    "time": "12/04/2026 10:34",
+    "link": "https://10haber.net/gundem/saganak-yagis-ve-kar-geliyor-13-ile-sari-kodlu-uyari-694500/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü (MGM) 12 Nisan’da sağanak yağış ve kar nedeniyle 13 ili sarı kodla uyardı. MGM’nin bugün sarı kodla uyardığı iller şöyle: Ağrı (sağanak yağış ve kar) Bingöl (sağanak yağış ve kar) Bitlis (sağanak yağış ve kar) Diyarbakır (sağanak yağış ve kar) Erzurum (kar) Hakkari (sağanak yağış ve kar) Kars (sağanak yağış ve kar) [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69db4a3175a523.10321487.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3ec0c52e",
     "title": "Tyson Fury ringlere galibiyetle döndü",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Geçtiğimiz hafta Galatasaray karşısında Onuachu’ya yaptığı harika asistle alkış alan genç oyuncu dün de Ozan Tufan’a adeta al da at dercesine performans ortaya koydu ve bu sezon 6. asistini yaptı.",
     "image": "https://resim.haber61.net/news/612314.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_94c4657b",
-    "title": "Trabzon Hava Durumu 12 Nisan 2026: Yağmur Kapıda!",
-    "source": "Karadeniz Gazetesi",
-    "time": "12/04/2026 09:35",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzon-hava-durumu-12-nisan-2026-yagmur-kapida/608667",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da 12 Nisan Pazar günü yağışlı ve serin hava etkili olacak. Gündüz 10 derece, gece ise 7 derece civarında seyredecek.",
-    "image": null,
-    "keyword": null
   }
 ]
