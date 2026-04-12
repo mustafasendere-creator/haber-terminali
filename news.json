@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_45adec69",
+    "title": "Kablo yokken telefon nasıl şarj oluyor?",
+    "source": "Habertürk",
+    "time": "12/04/2026 11:16",
+    "link": "https://www.haberturk.com/kablo-yok-ama-telefon-sarj-oluyor-peki-bu-nasil-mumkun-iste-kablosuz-sarjin-calisma-mantigi-3876262",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Günümüzde neredeyse tüm yeni akıllı telefonlar kablosuz şarj özelliğine sahip. Telefonunu sadece bir pedin üzerine bırakıyorsun ve şarj olmaya başlıyor... Üstelik ortada ne bir kablo var ne de fiziksel bir bağlantı. Peki bu enerji telefona nasıl ulaşıyor? İşte kablosuz şarj teknolojisinin çalışma mantığı...",
+    "image": "https://im.haberturk.com/l/2026/04/10/ver1775807675/3876262/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_4e82e26b",
     "title": "Sosyal medya futbolcu olmak isteyen Samson'u konuşuyor",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ile İran arasında, Pakistan'ın başkenti İslamabad'da yapılan doğrudan müzakereler \"bir anlaşmaya varılamadan\" sona erdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6025376e",
-    "title": "NYT: ABD istihbaratı, Çin'in ABD/İsrail-İran Savaşı'nda daha aktif rol oynadığına işaret ediyor",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 10:54",
-    "link": "https://www.aa.com.tr/tr/dunya/nyt-abd-istihbarati-cinin-abd-israil-iran-savasinda-daha-aktif-rol-oynadigina-isaret-ediyor/3902576",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD istihbaratının, Çin'in, ABD ve İsrail'in İran'a saldırılarıyla başlayan savaşta kullanılmak üzere İran'a mühimmat göndermiş olabileceğine ve daha aktif rol oynadığına dair bilgi elde ettiği öne sürüldü.",
     "image": null,
     "keyword": null
   }
