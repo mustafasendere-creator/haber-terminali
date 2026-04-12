@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_24760fb3",
+    "title": "Nisanda yoğun kar: 147 yol kapalı",
+    "source": "TRT Haber",
+    "time": "12/04/2026 13:35",
+    "link": "https://www.trthaber.com/haber/turkiye/nisanda-yogun-kar-147-yol-kapali-941378.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Van, Bitlis ve Muşta yoğun kar yağışı hayatı olumsuz etkiledi. 147 yol ulaşıma kapanırken ekipler yoğun çalışma yürütüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_f0edaf9a",
     "title": "İstanbul’da Gece Baskını! Ünlü İsimlerin Adı Operasyonda",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'de gerçekleşen zirai don olayının tüm yönleriyle araştırılması amacıyla kurulan Meclis Araştırma Komisyonu taslak raporunu tamamladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_70151477",
-    "title": "İran: Hasar gören Lavan Petrol Rafinerisi 2 ayda eski kapasitesinin yüzde 80'ine ulaşacak",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 12:54",
-    "link": "https://www.aa.com.tr/tr/dunya/iran-hasar-goren-lavan-petrol-rafinerisi-2-ayda-eski-kapasitesinin-yuzde-80ine-ulasacak/3902715",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD-İsrail saldırılarında hasar gören Basra Körfezi'ndeki İran'a ait Lavan Adası'nda bulunan petrol rafinerisinin 2 ay içinde savaş öncesi kapasitesinin yüzde 70-80'ine ulaşacağı bildirildi.",
     "image": null,
     "keyword": null
   }
