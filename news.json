@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cec03488",
+    "title": "Malatya'da katliam gibi kaza: Çok sayıda ölü ve yaralı var",
+    "source": "Haber Global",
+    "time": "12/04/2026 23:55",
+    "link": "https://haberglobal.com/yasam/malatyada-katliam-gibi-kaza-cok-sayida-olu-ve-yarali-var-518400",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya'da kontrolden çıkan işçi servisinin şarampole yuvarlandığı kazada 2 kişi hayatını kaybetti, 10 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/malatyada-katliam-gibi-kaza-cok-sayida-olu-ve-yarali-var-3wmf.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c4a8ceec",
     "title": "Asprilla'nın Instagram paylaşımı tepki çekti",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Galatasaray bugün evinde Kocaelispor ile 1-1 berabere kaldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/8-kopyasi-3-144.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_3366e919",
-    "title": "Trabzonspor fırsatı eliyle itti: Alanya’da kritik kayıp",
-    "source": "Haber61",
-    "time": "12/04/2026 22:34",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-firsati-eliyle-itti-alanyada-kritik-kayip-h629439.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig'de lider Galatasaray'ın evinde puan kaybettiği haftada, Trabzonspor deplasmanda Alanyaspor ile berabere kalarak zirveye yaklaşma şansını değerlendiremedi.",
-    "image": "https://resim.haber61.net/news/612438.jpg",
     "keyword": "trabzon"
   }
 ]
