@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b545e731",
+    "title": "İzmir'deki kooperatif soruşturmasında 9 şüpheli adliyede",
+    "source": "TRT Haber",
+    "time": "12/04/2026 11:55",
+    "link": "https://www.trthaber.com/haber/gundem/izmirdeki-kooperatif-sorusturmasinda-9-supheli-adliyede-941369.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Büyükşehir Belediyesine yönelik \"kooperatif\" soruşturması kapsamında gözaltına alınan, aralarında CHP Ankara İl Başkanı Ümit Erkol'un da bulunduğu 9 şüpheli adliyeye sevk edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_51aabce1",
     "title": "Gelir vergisinde 5,5 milyon beyannameyle rekor kırıldı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Ankara’da 9–12 Nisan 2026 tarihleri arasında düzenlenen Trabzon Günleri, geçtiğimiz günlerde 1. Meclis’te gerçekleştirilen Vefa ziyareti ve Mehteran Takımı eşliğindeki kortej yürüyüşünün ardından Başkent Millet Bahçesi’nde yapılan resmî açılış töreniyle başladı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/8-kopyasi-3-140.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_f07691fc",
-    "title": "Hindistan'da korkunç kaza: 13 ölü, 30 yaralı",
-    "source": "Haber Global",
-    "time": "12/04/2026 11:15",
-    "link": "https://haberglobal.com/dunya/hindistanda-korkunc-kaza-13-olu-30-yarali-518306",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hindistan'ın Bihar eyaletinde meydana gelen trafik kazasında 13 kişi yaşamını yitirdi, 30 kişi de yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/hindistanda-korkunc-kaza-13-olu-30-yarali-jgfa.jpg",
-    "keyword": null
   }
 ]
