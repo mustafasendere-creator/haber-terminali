@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d9fab3d",
+    "title": "Adalet Peşinde Aileleri: “Mukadderat değil, olası kast”",
+    "source": "Evrensel",
+    "time": "12/04/2026 15:54",
+    "link": "https://www.evrensel.net/haber/5979318/adalet-pesinde-aileleri-mukadderat-degil-olasi-kast",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "6 Şubat depremlerinde yakınlarını kaybeden aileler, Hasan Alpargün Apartmanı davası öncesi “mukadderat değil, olası kast” diyerek adalet çağrısı yaptı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342666.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_13794dfc",
     "title": "Alman pilot sendikası Lufthansa'da pazartesi ve salı için iki günlük grev kararı aldı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yurt genelinde salı gününden itibaren sıcaklıkların 4 ila 8 derece artması bekleniyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Meteoroloji Genel Müdürlüğü Hava Tahmin Uzmanı Cengiz Çelik, bu hafta yurtta beklenen hava durumuna ilişkin değerlendirmede bulundu.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/meteoroloji-tarih-verdi-soguk-ve-yagisli-hava-yurdu-terk-ediyor-eouo_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_aea007ba",
-    "title": "Köprünün kitabesi çıktı, sırrı çözüldü",
-    "source": "Habertürk",
-    "time": "12/04/2026 14:56",
-    "link": "https://www.haberturk.com/rizede-yol-calismasinda-ortaya-cikan-koprunun-sirri-cozuldu-3876514",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rize’de yürütülen yol çalışmaları sırasında yeniden gün yüzüne çıkarılan tarihi kemer köprünün Osmanlıca kitabesinin bulunmasıyla geçmişine ilişkin detaylar ortaya çıktı",
-    "image": "https://im.haberturk.com/l/2026/04/11/ver1775891896/3876514/jpg/1280x1280",
     "keyword": null
   }
 ]
