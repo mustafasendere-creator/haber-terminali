@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_055a18c1",
+    "title": "Karaman'da pikap ile otomobil çarpıştı: 6 yaralı!",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 10:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/karaman-da-pikap-ile-otomobil-carpisti-6-yarali-2494472",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karaman'da pikap ile otomobilin çarpıştığı kazada 6 kişi yaralandı. Kazada yaralanan 6 kişi hastaneye kaldırılarak tedavi altına alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9533504f-4f57-422e-98f5-2db4cf3bb3d7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dd1a4ac5",
     "title": "MHP lideri Bahçeli'den İbrahim Tatlıses'e 'Geçmiş olsun' telefonu",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, İsrail Başbakanı Binyamin Netanyahu&#039;nun Cumhurbaşkanı Recep Tayyip Erdoğan&#039;a yönelik sözlerine tepki göstererek, &quot;Netanyahu&#039;nun sürekli Cumhurbaşkanımızı hedef alması, Cumhurbaşkanımız için bir şeref madalyasıdır.&quot; dedi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/22/omer-celike-hakan-fidan-sorusu-sdg-konusunda-bakanlarimiz-ve-parti-yetkililerimiz-arasinda-bir-gorus-ayriligi-yoktur-djp4_cover.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_8f6e71cc",
-    "title": "Zirve Yolunda Büyük Kayıp! Trabzonspor Alanya’da Takıldı",
-    "source": "Taka Gazetesi",
-    "time": "12/04/2026 09:35",
-    "link": "https://www.takagazete.com.tr/zirve-yolunda-buyuk-kayip-trabzonspor-alanyada-takildi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Trendyol Süper Lig’in 29. haftasında Alanya Oba Stadı’nda karşılaştığı Corendon Alanyaspor ile 1-1 berabere kalarak zirve yarışında önemli bir fırsatı tepti. Bordo-Mavili ekip, yakaladığı üstünlüğü koruyamazken hem moral hem de puan anlamında ağır bir darbe aldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/o-z-a-n-n-n-18.jpg",
-    "keyword": "trabzon"
   }
 ]
