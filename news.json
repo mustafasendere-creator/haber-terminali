@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a9f5777",
+    "title": "Napoli zirve yarışında yara aldı!",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 18:15",
+    "link": "https://www.cumhuriyet.com.tr/spor/napoli-zirve-yarisinda-yara-aldi-2494582",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Napoli, İtalya 1. Futbol Ligi'nin (Serie A) 32. haftasında deplasmanda karşılaştığı Parma ile 1-1 berabere kaldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/299e8509-9055-4c54-a0fa-fe125144a7cb.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_da066252",
     "title": "Putin, İran Cumhurbaşkanı Pezeşkiyan ile telefonda görüştü",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Nesine 2. Lig Kırmızı Grup 32. hafta mücadelesinde KCT 1461 Trabzon FK, kendi sahasında Isparta 32 Spor’u konuk etti. Taraftarı önünde galibiyet hedefiyle sahaya çıkan lacivert-kırmızılı ekip, maç boyunca istediği oyunu sahaya yansıtmakta zorlandı ve rakibine 3-1 mağlup oldu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/kmlykmlylmky.PNG",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_e40617a0",
-    "title": "1461 Trabzon Evinde Yıkıldı! Tek Gol Yetmedi",
-    "source": "Taka Gazetesi",
-    "time": "12/04/2026 17:35",
-    "link": "https://www.takagazete.com.tr/1461-trabzon-evinde-yikildi-tek-gol-yetmedi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Nesine 2. Lig Kırmızı Grup 32. hafta mücadelesinde KCT 1461 Trabzon FK, kendi sahasında Isparta 32 Spor’u konuk etti. Taraftarı önünde galibiyet hedefiyle sahaya çıkan lacivert-kırmızılı ekip, maç boyunca istediği oyunu sahaya yansıtmakta zorlandı ve rakibine 3-1 mağlup oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/kmlykmlylmky.PNG",
-    "keyword": null
   }
 ]
