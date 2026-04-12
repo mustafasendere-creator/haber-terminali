@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e662e12",
+    "title": "İran'dan 'Hürmüz' açıklaması: 'Ateşkes ihlali sayılacak, sert karşılık verilecek'",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 21:14",
+    "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-hurmuz-aciklamasi-ateskes-ihlali-sayilacak-sert-karsilik-verilecek-2494617",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nın kontrol altında olduğunu belirterek, \"Hangi gerekçeyle olursa olsun Hürmüz Boğazı’na yaklaşmak isteyen askeri gemilerin bu girişimi ateşkes ihlali sayılacak ve sert şekilde karşılık verilecektir\" açıklamasını yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/181eca48-560c-4d8a-8d11-cd1e6882e7db.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2862cb56",
     "title": "Dışişleri Bakanı Fidan, Pakistanlı mevkidaşı Dar ile görüştü",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Başkentte düzenlenen Trabzon Günleri’ne katılan ünlü sanatçı Onay Şahin, etkinlikteki yoğun ilgiyi ve Karadeniz kültürüne olan merakı Haber61 mikrofonlarına değerlendirdi.",
     "image": "https://resim.haber61.net/news/612430.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e2dd612e",
-    "title": "Dışişleri Bakanı Fidan, Pakistanlı mevkidaşı Dar ile telefonda görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 20:14",
-    "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-pakistanli-mevkidasi-dar-ile-telefonda-gorustu/3903038",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, Pakistan Dışişleri Bakanı Muhammed İshak Dar ile telefon görüşmesi gerçekleştirdi.",
-    "image": null,
     "keyword": null
   }
 ]
