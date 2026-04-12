@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e076a3f7",
+    "title": "Macaristan sandık başında: Genel seçimler başladı",
+    "source": "Ekonomim",
+    "time": "12/04/2026 10:56",
+    "link": "https://www.ekonomim.com/dunya/macaristan-sandik-basinda-genel-secimler-basladi-haberi-887574",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan’da halk, 199 milletvekilinin belirleneceği genel seçimler için sandık başına gidiyor. Oy kullanma işlemi yerel saatle 06:00’da başladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/macaristan-sandik-basinda-genel-secimler-basladi-blox_cover.png",
+    "keyword": null
+  },
+  {
     "id": "GND_58b107b0",
     "title": "Mart ayında yağışlar geçen yıla göre yaklaşık 3 kat arttı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "12 Nisan 2026 Pazar günü televizyonda hangi dizilerin, filmlerin ve yarışma programlarının olduğu merak ediliyor. Kanal D, Star TV, Show TV, TRT 1, TV8 ve NOW TV yayın akışları belli oldu. İşte, 12 Nisan Pazar günü ekranlara gelecek olan yapımlar...",
     "image": "https://media.cumhuriyet.com.tr/Archive/84f53de5-4247-4269-ab74-52c84960519c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_08314acc",
-    "title": "İntihar etmek için cami çatısına çıktı: Polis saatlerce dil döktü",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 10:15",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/intihar-etmek-icin-cami-catisina-cikti-polis-saatlerce-dil-doktu-2494469",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Denizli'nin Pamukkale ilçesinde bir kişi, çıktığı caminin çatısından polis ekiplerinin yaklaşık 2 saat süren çabası sonunda aşağı indirildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f72871cd-c4b5-4aee-85eb-c0ccd8d0a463.jpg",
     "keyword": null
   }
 ]
