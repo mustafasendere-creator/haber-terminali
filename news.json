@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_caf23928",
+    "title": "Macaristan'da genel seçim: Oy verme işlemi tamamlandı",
+    "source": "Evrensel",
+    "time": "12/04/2026 20:35",
+    "link": "https://www.evrensel.net/haber/5979351/macaristanda-genel-secim-oy-verme-islemi-tamamlandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan’da 199 milletvekilinin belirleneceği genel seçimlerde oy verme işlemi tamamlandı, ilk sonuçlar bekleniyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342703.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e4e1a9f9",
     "title": "Eskişehir’de işçi toplantısı: “Yoksulluk arttıkça şans oyunlarına yönelim büyüyor”",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Trabzon'da düzenlen PETLAS 2026 Türkiye Offroad Şampiyonası'nın ilk ayak yarışları tamamlandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2cda3a82",
-    "title": "Dalaman Havalimanı mart ayında 116 bin 776 yolcuya hizmet verdi",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 19:14",
-    "link": "https://www.aa.com.tr/tr/gundem/dalaman-havalimani-mart-ayinda-116-bin-776-yolcuya-hizmet-verdi/3903017",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dalaman Havalimanı, mart ayında 116 bin 776 yolcuya hizmet verdi.",
     "image": null,
     "keyword": null
   }
