@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7daba089",
+    "title": "Evin bahçesine indi! Rengi dikkat çekti",
+    "source": "Habertürk",
+    "time": "12/04/2026 12:35",
+    "link": "https://www.haberturk.com/elazigda-beyaz-alageyik-evin-bahcesine-indi-3876589",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elazığ'ın Ağın ilçesinde bembeyaz rengiyle dikkat çeken alageyik, doğal yaşam alanından bir evin bahçesine inerek ev sahibinin horozlarıyla vakit geçirdi. O anlar kameraya yansıdı",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775914544/3876589/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_e8cf217f",
     "title": "Başkentte Trabzon Zirvesi! Güç Birliği Gecesi Dikkat Çekti",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İzmir Büyükşehir Belediyesine yönelik \"kooperatif\" soruşturması kapsamında gözaltına alınan, aralarında CHP Ankara İl Başkanı Ümit Erkol'un da bulunduğu 9 şüpheli adliyeye sevk edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_51aabce1",
-    "title": "Gelir vergisinde 5,5 milyon beyannameyle rekor kırıldı",
-    "source": "TRT Haber",
-    "time": "12/04/2026 11:55",
-    "link": "https://www.trthaber.com/haber/ekonomi/gelir-vergisinde-55-milyon-beyannameyle-rekor-kirildi-941370.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığınca GİB yürütülen çalışmalarla, geçen yıl elde edilen kazançlara yönelik yaklaşık 5,5 milyon vergi beyannamesi verilerek rekor kırıldı, 401 bin mükellef de ilk defa beyanname verdi.",
     "image": null,
     "keyword": null
   }
