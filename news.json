@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7a40da5e",
+    "title": "KDK'den özel hastanenin fazladan aldığı ücret için \"faiziyle iade\" tavsiyesi",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 13:34",
+    "link": "https://www.aa.com.tr/tr/ekonomi/kdkden-ozel-hastanenin-fazladan-aldigi-ucret-icin-faiziyle-iade-tavsiyesi/3902752",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "KDK, özel hastanede bel fıtığı ameliyatı olan bir kişiden, Sağlık Uygulama Tebliği'ne aykırı şekilde alınan 34 bin 638 liralık fazla ücretin, yasal faiziyle iade edilmesi yönünde hastaneye tavsiyede bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_408e8c79",
     "title": "Bayburt’ta Polis Teşkilatı’nın 181’inci yılı kutlandı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı, Van ve Hakkari’de düzenlenen operasyonlarda 446 kilogram uyuşturucu madde ele geçirildiğini, 8 şüphelinin yakalandığını açıkladı",
     "image": "https://im.haberturk.com/l/2026/04/11/ver1775910434/3876579/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_7810e7c8",
-    "title": "Cumhurbaşkanı Erdoğan, Macron'la görüştü",
-    "source": "Habertürk",
-    "time": "12/04/2026 12:35",
-    "link": "https://www.haberturk.com/cumhurbaskani-erdogan-fransiz-lider-macron-la-gorustu-3876584",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Erdoğan ve Fransa Cumhurbaşkanı Macron telefonda görüştü. Görüşmede İran ve ABD arasında devam eden müzakereler, İsrail'in Lübnan'a saldırıları ve diğer bölgesel meseleler ele alındı.",
-    "image": "https://im.haberturk.com/l/2026/04/11/ver1775912333/3876584/jpg/1280x1280",
     "keyword": null
   }
 ]
