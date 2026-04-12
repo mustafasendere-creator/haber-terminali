@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ffeac514",
+    "title": "Macaristan'da kritik genel seçime rekor katılım bekleniyor",
+    "source": "Euronews",
+    "time": "12/04/2026 14:34",
+    "link": "http://tr.euronews.com/2026/04/12/macaristanda-kritik-genel-secime-rekor-katilim-bekleniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan genelinde sandıklar saat 06:00’da açılırken, oy verme işlemi 19:00’a kadar sürecek. Açıklanan ilk veriler ise katılımın rekor seviyelere ulaşacağına işaret ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_59382000",
     "title": "Dinleyici ‘zılgıt’ çekti, şarkıcı piyanoyu bıraktı",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da Tüm Emeklilerin Sendikası tarafından yürüyüş ve bölge mitingi düzenlendi. Mitingde emekli aylıkları, seyyanen zam, bayram ikramiyesi ve sendika hakkı başta olmak üzere birçok talep dile getirildi.",
     "image": "https://resim.haber61.net/news/612362.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c5ce44cb",
-    "title": "Kalibaf: ABD, İran heyetinin 'güvenini kazanamadı'",
-    "source": "Evrensel",
-    "time": "12/04/2026 13:54",
-    "link": "https://www.evrensel.net/haber/5979296/kalibaf-abd-iran-heyetinin-guvenini-kazanamadi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İslamabad görüşmelerine katılan İran Meclis Başkanı Kalibaf, ABD’nin İranlı delegelerin “güvenini kazanamadığını” söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342481.jpg",
-    "keyword": null
   }
 ]
