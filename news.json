@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64dce761",
+    "title": "Çin’den uydu interneti hamlesi",
+    "source": "Haber Global",
+    "time": "12/04/2026 09:55",
+    "link": "https://haberglobal.com/bilim-teknoloji/cinden-uydu-interneti-hamlesi-518291",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin, uydu internet teknolojisini geliştirmeye yönelik SatNet test uydusunu Cielong-3 (Akıllı Ejderha-3) roketini başarıyla uzaya fırlattı. Uydu, planlanan yörüngesine yerleşti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/cinden-uydu-interneti-hamlesi-c37u.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dc9e2868",
     "title": "TRT'de bugün (12 Nisan Pazar) hangi maçlar şifresiz yayınlanacak?",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü ünlülere yönelik uyuşturucu soruşturması kapsamında sosyal medyada tanınan Samet Liçina, Mika Slowana ve eski hakem Elif Karaaslan gözaltına alındı",
     "image": "https://im.haberturk.com/l/2026/04/12/ver1775950771/3876668/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_cb5feccb",
-    "title": "Kabine üyelerinden Netanyahu'ya tepki",
-    "source": "Habertürk",
-    "time": "12/04/2026 08:55",
-    "link": "https://www.haberturk.com/kabine-uyelerinden-netanyahu-ya-tepki-3876670",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kabine üyeleri, İsrail Başbakanı Netanyahu'nun Cumhurbaşkanı Erdoğan'ı hedef alan sözlerine tepki gösterdi",
-    "image": "https://im.haberturk.com/l/2026/04/12/ver1775957029/3876670/jpg/1280x1280",
     "keyword": null
   }
 ]
