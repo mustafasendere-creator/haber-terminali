@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_56060a30",
+    "title": "Özel hastanenin fazladan aldığı ücret için faiziyle iade tavsiyesi",
+    "source": "TRT Haber",
+    "time": "12/04/2026 12:15",
+    "link": "https://www.trthaber.com/haber/turkiye/ozel-hastanenin-fazladan-aldigi-ucret-icin-faiziyle-iade-tavsiyesi-941372.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kamu Denetçiliği Kurumu KDK, özel hastanede bel fıtığı ameliyatı olan bir kişiden, Sağlık Uygulama Tebliği hükümlerine aykırı şekilde alınan 34 bin 638 lira tutarındaki ücretin, yasal faiziyle birlikte iade edilmesi yönünde tavsiye kararı aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_6ad7ea8f",
     "title": "Trabzonspor U9 Çeşme’de derece yaptı!",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Cumhuriyet Başsavcılığınca, İZBETON A.Ş. üzerinden yürütüldüğü iddia edilen usulsüzlüklere ilişkin soruşturmada, aralarında CHP Ankara İl Başkanı Ümit Erkol'un da bulunduğu 9 kişi, adliyeye sevk edildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342639.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a9c9f48a",
-    "title": "Hakkari'de yoğun kar yağışı: Bazı araçlar mahsur kaldı",
-    "source": "Evrensel",
-    "time": "12/04/2026 11:35",
-    "link": "https://www.evrensel.net/haber/5979286/hakkaride-yogun-kar-yagisi-bazi-araclar-mahsur-kaldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hakkari'nin Yüksekova ilçesinde akşam saatlerinde etkili olan yağmur, gece saatlerinde hava sıcaklığının düşmesiyle birlikte yerini yoğun kar yağışına bıraktı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342640.jpg",
     "keyword": null
   }
 ]
