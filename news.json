@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f10870de",
+    "title": "Ayşe Aslan'dan Brezilya'da Türkiye rekoru!",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 02:14",
+    "link": "https://www.cumhuriyet.com.tr/spor/ayse-aslan-dan-brezilya-da-turkiye-rekoru-2494597",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli atlet Ayşe Aslan, Brezilya'da düzenlenen Dünya Takımlar Yürüyüş Şampiyonası'nda kendisine ait Türkiye rekorunu kırdı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f0dd27f8-7589-4b36-9795-28258253e096.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e5c6d956",
     "title": "Malatya'da maden işçilerini taşıyan minibüs devrildi: 2 ölü, 10 yaralı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Galatasaray, Trendyol Süper Lig'in 29. haftasında konuk ettiği Kocaelispor ile 1-1 berabere kalarak şampiyonluk yarışında kritik 2 puan kaybetti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4e811e04",
-    "title": "Malatya'da maden işçilerini taşıyan servis minibüsünün devrilmesi sonucu 2 kişi hayatını kaybetti, 10 kişi yaralandı",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 00:14",
-    "link": "https://www.aa.com.tr/tr/gundem/malatyada-maden-iscilerini-tasiyan-servis-minibusunun-devrilmesi-sonucu-2-kisi-hayatini-kaybetti-10-kisi-yaralandi/3903163",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Malatya'nın Hekimhan ilçesinde maden işçilerini taşıyan servis minibüsünün şarampole devrilmesi sonucu 2 kişi hayatını kaybetti, 10 kişi yaralandı.",
     "image": null,
     "keyword": null
   }
