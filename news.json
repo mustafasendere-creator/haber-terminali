@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a0fb797a",
+    "title": "Trump'tan 'Hürmüz Boğazı'na abluka' açıklaması",
+    "source": "BBC Türkçe",
+    "time": "12/04/2026 16:34",
+    "link": "https://www.bbc.com/turkce/articles/cy41wggnpepo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Pakistan'da sonuçsuz kalan görüşmeler sonrası İran'ı ve Hürmüz Boğazı'nı kullanacak gemileri tehdit etti. Trump, boğaza giriş ve çıkışlarda denetimin ABD'de olacağını açıkladı",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a857cfca",
     "title": "ABD Başkanı Trump: Hürmüz Boğazı'na girmeye veya boğazdan çıkmaya çalışan tüm gemileri ablukaya alma süreci başlatılacak",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Şenol Güneş, Trabzon Günleri'ne katıldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/kaybettttt.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_83bcd9c9",
-    "title": "Gazzede araçların yüzde 7080i İsrail saldırılarında kullanılamaz hale geldi",
-    "source": "TRT Haber",
-    "time": "12/04/2026 15:35",
-    "link": "https://www.trthaber.com/haber/dunya/gazzede-araclarin-yuzde-70-80i-israil-saldirilarinda-kullanilamaz-hale-geldi-941385.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Katil İsrailin saldırıları ve ablukası altındaki Gazzede, Ekim 2023te başlayan saldırıların ardından araçların yüzde 70 ila 80inin kısmen ya da tamamen tahrip olduğu duyuruldu.",
-    "image": null,
-    "keyword": null
   }
 ]
