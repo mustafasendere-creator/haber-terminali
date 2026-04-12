@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2cda3a82",
+    "title": "Dalaman Havalimanı mart ayında 116 bin 776 yolcuya hizmet verdi",
+    "source": "Anadolu Ajansı",
+    "time": "12/04/2026 19:14",
+    "link": "https://www.aa.com.tr/tr/gundem/dalaman-havalimani-mart-ayinda-116-bin-776-yolcuya-hizmet-verdi/3903017",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dalaman Havalimanı, mart ayında 116 bin 776 yolcuya hizmet verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_6cfc0f58",
     "title": "Türkiye Offroad Şampiyonası'nın 1. ayağı tamamlandı",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail'in Gazze'ye yönelik ablukasını kırmak için oluşturulan Küresel Sumud Filosu'na ilk kez katılan İspanyol STK Open Arms'ın direktörü Oscar Camps, Avrupalı siyasetçilerin yapamadığını sivil toplumun yapmaya çalıştığını söyledi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_9bd9f976",
-    "title": "Şenol Güneş'ten flaş VAR sistemi eleştirisi: “VAR var ama yok gibi“",
-    "source": "Haber61",
-    "time": "12/04/2026 18:14",
-    "link": "https://www.haber61.net/trabzonspor/senol-gunesten-flas-var-sistemi-elestirisi-var-var-ama-yok-gibi-h629416.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Tanıtım Günleri’nde konuşan Şenol Güneş, VAR sistemine rağmen hataların sürdüğünü söyledi. Dünya Kupası’nda Türk hakem olmamasını ise “başarısızlık” olarak değerlendirdi.",
-    "image": "https://resim.haber61.net/news/612399.jpg",
     "keyword": null
   }
 ]
