@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_336427fb",
+    "title": "İsrail'in Lübnan'a düzenlediği saldırılarda can kaybı 2 bin 55'e çıktı",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 19:55",
+    "link": "https://www.cumhuriyet.com.tr/dunya/israil-in-lubnan-a-duzenledigi-saldirilarda-can-kaybi-2-bin-55-e-cikti-2494600",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in Lübnan'a 2 Mart’tan bu yana düzenlediği saldırılarda hayatını kaybedenlerin sayısı son 24 saatte 35 artarak 2 bin 55'e yükseldi. Yaralı sayısı ise 6 bin 588'e çıktı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d785b9e0-4e00-40c4-bfcf-e19c81afaf05.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7399b632",
     "title": "XChat için hazırlanan iOS uygulaması yayınlanacak",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-12-at-132652.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b0a8f9c4",
-    "title": "Denizli Buldan’da maden tepkisi: Halk ormanlık alana yürüdü",
-    "source": "Evrensel",
-    "time": "12/04/2026 18:34",
-    "link": "https://www.evrensel.net/haber/5979341/denizli-buldanda-maden-tepkisi-halk-ormanlik-alana-yurudu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Denizli’nin Buldan ilçesinde 18 hektarlık alanda başlatılan maden arama çalışmalarına karşı halk ormanlık alanda protesto yürüyüşü gerçekleştirdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342692.jpg",
     "keyword": null
   }
 ]
