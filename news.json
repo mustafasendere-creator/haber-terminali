@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aaec3a0a",
+    "title": "CHP Ankara İl Başkanı Erkol tutuklandı",
+    "source": "TRT Haber",
+    "time": "12/04/2026 22:14",
+    "link": "https://www.trthaber.com/haber/turkiye/chp-ankara-il-baskani-erkol-tutuklandi-941396.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Büyükşehir Belediyesine yönelik \"kooperatif\" soruşturması kapsamında gözaltına alınan, aralarında CHP Ankara İl Başkanı Ümit Erkol'un da bulunduğu 9 şüpheli tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_19065a99",
     "title": "Galatasaray evinde Kocaelispor'la berabere kaldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Büyükşehir Belediyesi’nin ev sahipliğinde düzenlenen Uluslararası Tiyatro Festivali kapsamında, Kazakistan’dan festivale katılan “Turkestan Musical Theater” ekibinin sahnelediği ‘Sheikh Sanan’ adlı oyun, izleyicilerden yoğun ilgi gördü.",
     "image": "https://resim.haber61.net/news/612389.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0510319c",
-    "title": "UNIFIL: İsrail ordusu Lübnan'ın güneyinde barış gücü askerlerinin hareket özgürlüğünü kısıtlıyor",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 20:54",
-    "link": "https://www.aa.com.tr/tr/dunya/unifil-israil-ordusu-lubnanin-guneyinde-baris-gucu-askerlerinin-hareket-ozgurlugunu-kisitliyor/3903058",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler Lübnan Geçici Barış Gücü (UNIFIL), İsrail ordusunun Lübnan'ın güneyinde barış gücü askerlerinin hareket özgürlüğünü kısıtlayan saldırgan eylemlerde bulunduğunu açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
