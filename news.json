@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5562de6d",
+    "title": "İstanbul'da uyuşturucu soruşturması kapsamında eğlence mekanlarında arama yapıldı",
+    "source": "TRT Haber",
+    "time": "12/04/2026 04:34",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-uyusturucu-sorusturmasi-kapsaminda-eglence-mekanlarinda-arama-yapildi-941349.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da uyuşturucu soruşturması kapsamında Beşiktaşta restoran ve eğlence mekanı olarak faaliyet gösteren iş yerlerinde arama gerçekleştirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fda88d38",
     "title": "Kara komedi-gerilim ‘Nasıl Katil Olunur’ ile ‘Kuru Taşın Başı’ belgesel vizyonda: Ava giden avlanır",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AKP'de toplu istifa kararı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/akp2jpg-nBZ3HGpfAUOCTclXnJM7uA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1bbdb29e",
-    "title": "T.C. BAKIRKÖY 6. ASLİYE TİCARET MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 00:35",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-bakirkoy-6-asliye-ticaret-mahkemesi-2494131",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. BAKIRKÖY 6. ASLİYE TİCARET MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/71f1ceb1-4ade-4173-b6f6-70303d179b01.jpg",
     "keyword": null
   }
 ]
