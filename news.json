@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8a63c537",
+    "title": "İçinde 5 kişi vardı: Üsküdar'da gemiye çarpan tekne battı",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 08:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/icinde-5-kisi-vardi-uskudar-da-gemiye-carpan-tekne-batti-2494449",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Üsküdar, Haydarpaşa Limanı'nda kıyıya bağlı halde bulunan bir gemiye çarpan tekne kısa süre içinde battı. Olayda can kaybı ya da yaralanma yaşanmazken, teknedeki 5 kişi kurtarıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/151f7ab1-54ad-48f6-9d46-0b76c20ec664.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_a469167c",
     "title": "Şema değişti müdürler beklemede",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ağız ve diş sağlığı hizmetlerine talep hızla artarken, kamu yatırımlarının sınırlı kalması erişim sorununu derinleştirdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6d2cd676-16df-4439-b066-aedbdcbd7fa9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8c5f983a",
-    "title": "Yaz yaklaşırken uzmanlardan kene uyarısı: 'Bireysel korunma esastır'",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 06:54",
-    "link": "https://www.cumhuriyet.com.tr/saglik/yaz-yaklasirken-uzmanlardan-kene-uyarisi-bireysel-korunma-esastir-2494430",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Veteriner hekim Levent Aydın, kenelerin 200’den fazla patojeni taşıdığını belirterek riskli alanlarda kişisel kontrolün önemine dikkat çekti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e890303a-9024-460f-b61d-376428b73a42.jpg",
     "keyword": null
   }
 ]
