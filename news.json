@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_332670db",
+    "title": "Macaristan'da seçimi kazanan Magyar: Macaristan tekrar Avrupa ülkesi olmak istiyor",
+    "source": "TRT Haber",
+    "time": "13/04/2026 02:34",
+    "link": "https://www.trthaber.com/haber/dunya/macaristanda-secimi-kazanan-magyar-macaristan-tekrar-avrupa-ulkesi-olmak-istiyor-941414.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan'da seçimi kazanan Saygı ve Özgürlük Partisi'nin Tisza lideri Peter Magyar, ilk açıklamasında \"Macaristan tekrar Avrupa ülkesi olmak, Avrupa'ya dönmek istiyor\" açıklamasını yaptı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_422face7",
     "title": "Pezeşkiyan’dan ‘anlaşma mümkün’ mesajı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray'ın Kolombiyalı oyuncusu Yaser Asprilla'nın 1-1 biten Kocaelispor maçının ardından sosyal medya hesabından yaptığı paylaşım, sarı-kırmızılı takımın taraftarlının tepkisini çekti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d8c92d5c-2629-44af-9aad-ea3f8201fd4d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_10baf9e1",
-    "title": "Maden işçilerini taşıyan minibüs devrildi: 2 ölü, 10 yaralı",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 00:15",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/maden-iscilerini-tasiyan-minibus-devrildi-2-olu-10-yarali-2494653",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Malatya’nın Hekimhan ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği minibüsün şarampole devrilmesi sonucu 2 kişi öldü, 10 kişi de yaralandı. Kaza ile ilgili soruşturma sürüyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/77269e4e-87ef-4e8e-bac0-4f9938394822.jpg",
     "keyword": null
   }
 ]
