@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eeee3aa1",
+    "title": "Macaristan'daki genel seçimde Orban'ın rakibi Magyar zaferini ilan etti",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 00:54",
+    "link": "https://www.aa.com.tr/tr/dunya/macaristandaki-genel-secimde-orbanin-rakibi-magyar-zaferini-ilan-etti/3903234",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan'da yapılan genel seçimde oyların yaklaşık yüzde 94'ü sayılırken, Başbakan Viktor Orban'ın rakibi Saygı ve Özgürlük Partisi (Tisza) lideri Peter Magyar zaferini ilan etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_349d56fb",
     "title": "CENTCOM: Hürmüz ablukası başlıyor",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şavşatlılar, 13 Nisan’da İstanbul’da düzenlenecek dayanışma gecesinde bir araya geliyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342717.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5ab38805",
-    "title": "16 yıllık Orbán iktidarı bitti: Macaristan’da seçimleri Peter Magyar kazandı",
-    "source": "Evrensel",
-    "time": "12/04/2026 23:14",
-    "link": "https://www.evrensel.net/haber/5979368/16-yillik-orban-iktidari-bitti-macaristan-da-secimleri-peter-magyar-kazandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan seçimlerinde resmi olmayan sonuçlara göre Viktor Orbán 16 yıl sonra iktidarı kaybetti. Peter Magyar liderliğindeki Tisza Partisi parlamentoda çoğunluğu elde etti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342718.jpg",
     "keyword": null
   }
 ]
