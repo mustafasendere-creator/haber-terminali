@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_16555547",
+    "title": "Şırnak Valiliğinden Ilısu Barajı'ndan su tahliyesi uyarısı",
+    "source": "Ekonomim",
+    "time": "12/04/2026 20:35",
+    "link": "https://www.ekonomim.com/gundem/sirnak-valiliginden-ilisu-barajindan-su-tahliyesi-uyarisi-haberi-887652",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şırnak Valiliği, bölgedeki yoğun yağışlar ve kar erimesi nedeniyle Ilısu Barajı&#039;nda su seviyesinin maksimum kotu aşabileceğini belirterek kontrollü tahliye işlemlerine karşı vatandaşları uyardı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/sirnak-valiliginden-ilisu-barajindan-su-tahliyesi-uyarisi-ryrp_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1edfc2f4",
     "title": "PlayStation 6'ya yönelik yeni iddialar",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Göztepe, Süper Lig'in 29. haftasında kendi sahasında ağırladığı Kasımpaşa ile 3-3 berabere kaldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/cca44a0c-dedc-44e8-bfe8-a71387dc4c17.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0f2d1f10",
-    "title": "iOS 27 güncellemesi alamayacak iPhone modelleri hangileri?",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 19:15",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/ios-27-guncellemesi-alamayacak-iphone-modelleri-hangileri-2494594",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Apple'ın yeni iOS 27 sürümünü alamayacak bazı iPhone modelleri olacak. Daha eski modeller bu güncellemeyi alamayacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7fdd8673-13ae-422e-8873-9bc937b69163.jpg",
     "keyword": null
   }
 ]
