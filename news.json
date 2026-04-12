@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bbadbeeb",
+    "title": "Katil İsrail, kızını okuldan almaya giden babayı başından vurarak öldürdü",
+    "source": "TRT Haber",
+    "time": "12/04/2026 23:14",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israil-kizini-okuldan-almaya-giden-babayi-basindan-vurarak-oldurdu-941405.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gazze Şeridinin güneyindeki Han Yunus kentinde kızını okuldan almaya giderken başından vurulan 48 yaşındaki Filistinli baba Yahya Said Yahya elAğa yaşamını yitirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_64033929",
     "title": "BİRTEK-SEN’den 1 Mayıs çağrısı: “Mücadeleyi büyütelim”",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Petrolul Ploiesti, Romanya Ligi'nde Mehmet Topal'ın yönetiminde sahaya çıktığı ikinci maçı da kazandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7b6a5715-9427-4fd5-a027-31d115032fbe.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6a582a23",
-    "title": "Son Dakika... İran'dan Trump'ın tehditlerine yanıt: 'Savaşırsanız biz de savaşırız'",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 21:55",
-    "link": "https://www.cumhuriyet.com.tr/dunya/son-dakika-iran-dan-trump-tan-tehditlerine-yanit-savasirsaniz-biz-de-savasiriz-2494623",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, İran-ABD müzakerelerine ilişkin \"Eğer savaşırsanız biz de savaşırız, eğer mantıkla gelirseniz biz de mantıkla cevap veririz\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
     "keyword": null
   }
 ]
