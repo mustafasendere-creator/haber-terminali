@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7c9ad903",
+    "title": "Diyarbakır’da başsız ceset bulundu",
+    "source": "Ekonomim",
+    "time": "13/04/2026 01:55",
+    "link": "https://www.ekonomim.com/gundem/diyarbakirda-bassiz-ceset-bulundu-haberi-887695",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır&#039;ın Kulp ilçesinde başı olmayan bir ceset bulundu. Yetkililer cesedin kayıp olan 84 yaşındaki zihinsel engelli Salih Ertaş&#039;a ait olduğu değerlendiriliyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/diyarbakirda-bassiz-ceset-bulundu-nzwa_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eec2895c",
     "title": "Esenler’de otomobil kamyonete çarptı: 1'i ağır, 6 yaralı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Taraftarium24 (@TRSportHD) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon sondakika"
-  },
-  {
-    "id": "GND_8ecafe35",
-    "title": "Bruno Petkovic'ten Galatasaray maçı açıklaması: 'Takımımın geri kalanı gibi iyi iş çıkardım'",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 23:55",
-    "link": "https://www.cumhuriyet.com.tr/spor/bruno-petkovic-ten-galatasaray-maci-aciklamasi-takimimin-geri-kalani-gibi-iyi-is-cikardim-2494629",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kocaelispor'un Hırvat oyuncusu Bruno Petkovic, 1-1 berabere kaldıkları Galatasaray maçının ardından görüşlerini aktardı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a35e50ba-edd0-4c82-b49f-6f4936007501.jpg",
-    "keyword": null
   }
 ]
