@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_52e14df7",
+    "title": "Bitlis'te kardan dolayı 82 köy yolu ulaşıma kapandı",
+    "source": "Evrensel",
+    "time": "12/04/2026 17:55",
+    "link": "https://www.evrensel.net/haber/5979335/bitliste-kardan-dolayi-82-koy-yolu-ulasima-kapandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bitlis'te etkili olan kar yağışı nedeniyle 82 köy yolu ulaşıma kapandı. Kentte kar kalınlığı 20 santimetreye kadar ulaştı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342362.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_503dd6d9",
     "title": "“Trabzon’un Aşamayacağı Engel Yok!” Efsane İsimden Birlik ve Gelecek Mesajı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Rize’de nisan ayında yağan karla beyaza bürünen Handüzü Yaylası kendisine hayran bırakıyor.",
     "image": "https://resim.haber61.net/news/612411.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_72314232",
-    "title": "Trabzon’da korkutan kaza! Araç ters döndü",
-    "source": "Haber61",
-    "time": "12/04/2026 17:14",
-    "link": "https://www.haber61.net/trabzon/trabzonda-korkutan-kaza-arac-ters-dondu-h629425.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Köprübaşı ilçesinde meydana gelen trafik kazasında kontrolden çıkan araç ters döndü. Kazada 2 kişi hafif yaralandı.",
-    "image": "https://resim.haber61.net/news/612413.jpg",
     "keyword": null
   }
 ]
