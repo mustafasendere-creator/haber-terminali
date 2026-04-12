@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a7033aed",
+    "title": "Yuri Gagarin 65 yıl önce bugün uzaya çıktı: \"Ülkeler arasındaki sınırları göremedim, benim için tek bir halk vardı\"",
+    "source": "Evrensel",
+    "time": "12/04/2026 13:14",
+    "link": "https://www.evrensel.net/haber/5979293/yuri-gagarin-65-yil-once-bugun-uzaya-cikti-ulkeler-arasindaki-sinirlari-goremedim-benim-icin-tek-bir-halk-vardi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "65 yıl önce bugün, dünya tarihinde bir dönüm noktasıydı. Sovyet kozmonot Yuri Gagarin, uzaya çıkan ve Dünya'nın yörüngesini dolaşan ilk insan oldu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342643.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d5754ece",
     "title": "Kira rekortmeni il belli oldu: Ne Ankara ne İzmir ne de İstanbul",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'den ocak-mart döneminde 2 bin 71 ton bal ihraç edilerek, karşılığında 9 milyon 226 bin 137 dolar gelir sağlandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7baa911f",
-    "title": "Tunceli'nin \"siber polisleri\" sanal alemi mercek altına alıp suçlularla mücadele ediyor",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 12:34",
-    "link": "https://www.aa.com.tr/tr/gundem/tuncelinin-siber-polisleri-sanal-alemi-mercek-altina-alip-suclularla-mucadele-ediyor/3902716",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli Emniyet Müdürlüğü Siber Suçlarla Mücadele Şube Müdürlüğü ekipleri, bir yandan suçları engellemeye çalışırken, diğer yandan vatandaşları dolandırıcılık girişimlerine karşı bilinçlendiriyor.",
     "image": null,
     "keyword": null
   }
