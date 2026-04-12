@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_192efd2c",
+    "title": "Mobilya fabrikasında yangın!",
+    "source": "Habertürk",
+    "time": "12/04/2026 12:15",
+    "link": "https://www.haberturk.com/yenimahalle-de-mobilya-fabrikasinda-yangin-3876596",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Yenimahalle ilçesindeki mobilya deposunda çıkan yangın, ekiplerin yaklaşık 2 saatlik çalışmasının ardından söndürüldü",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775917156/3876596/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b071df25",
     "title": "İSKİ, 38 kaçak yapıyı kaldırdı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son dakika haberine göre, Fars Haber Ajansı, sonuçsuz kalan müzakerelerin ardından İran'ın ABD ile yeni bir görüşme turu planlamadığını bildirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/son-dakika-iran-basini-duyurdu-abd-ile-yeni-bir-gorusme-planlanmiyor-wcjl.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c9e2949c",
-    "title": "İran'ın yeni dini lideri Mücteba Hamaney'in son durumu: Ağır yaralı ve tanınmaz halde",
-    "source": "Haber Global",
-    "time": "12/04/2026 11:35",
-    "link": "https://haberglobal.com/dunya/iranin-yeni-dini-lideri-mucteba-hamaneyin-son-durumu-agir-yarali-ve-taninmaz-halde-518310",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’ın yeni dini lideri Mücteba Hamaney'in son sağlık durumuna ilişkin yeni iddialar ortaya atıldı. abasının öldüğü saldırıda ağır yaralanan ve yüzünde kalıcı hasar oluşan Hamaney’in, bir bacağını da kaybettiği öne sürüldü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/iranin-yeni-dini-lideri-mucteba-hamaneyin-son-durumu-agir-yarali-ve-taninmaz-halde-vk5u.jpg",
     "keyword": null
   }
 ]
