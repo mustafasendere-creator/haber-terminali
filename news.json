@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b0a8f9c4",
+    "title": "Denizli Buldan’da maden tepkisi: Halk ormanlık alana yürüdü",
+    "source": "Evrensel",
+    "time": "12/04/2026 18:34",
+    "link": "https://www.evrensel.net/haber/5979341/denizli-buldanda-maden-tepkisi-halk-ormanlik-alana-yurudu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Denizli’nin Buldan ilçesinde 18 hektarlık alanda başlatılan maden arama çalışmalarına karşı halk ormanlık alanda protesto yürüyüşü gerçekleştirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342692.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_24b5a3f8",
     "title": "Orbán ve Magyar, AB'nin yakından izlediği kritik Macaristan seçiminde oy kullandı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Rusya Devlet Başkanı Vladimir Putin, İran Cumhurbaşkanı Mesud Pezeşkiyan ile Orta Doğu’daki durumu görüştü.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/putin-iran-cumhurbaskani-pezeskiyan-ile-gorustu-xhfq_cover.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_4097c94a",
-    "title": "Diyarbakır’da barajlarda 'kontrollü' tahliye: Valilik o alanlardan uzak durulması çağrısı yaptı",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 17:35",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-barajlarda-kontrollu-tahliye-valilik-o-alanlardan-uzak-durulmasi-cagrisi-yapti-2494571",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır Valiliği, etkili yağışlar nedeniyle barajlarda su seviyesinin yükseldiğini belirterek, barajlarda kontrollü su tahliyesine başlanacağını duyurdu. Can ve mal kaybı yaşanmaması için vatandaşlara nehir yatakları ve baraj çevrelerinden uzak durmaları çağrısı yapıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/76fb7f78-95bd-4a9f-93ed-27e006beae88.jpg",
     "keyword": null
   }
 ]
