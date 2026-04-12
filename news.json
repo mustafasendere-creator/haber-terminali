@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e5430742",
+    "title": "Lufthansa'da 48 saatlik grev: Yüzlerce uçuş iptal",
+    "source": "DW Türkçe",
+    "time": "12/04/2026 18:35",
+    "link": "https://www.dw.com/tr/lufthansa-da-48-saatlik-grev-yüzlerce-uçuş-iptal/a-76755628",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya'nın en büyük havayolu şirketi Lufthansa'da çalışanlar bu yıl dördüncü kez greve gidiyor. Pazartesi ve Salı günü yüzlerce uçuş iptal olacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_a73ef26d",
     "title": "Trabzon’da Adrenalin Zirvede! Off-Road Şampiyonasında Nefes Kesen Mücadele",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Beşiktaş'ta, Yapı Kredi Plaza önündeki polis noktasına yönelik terör saldırısına ilişkin 1 şüpheli daha gözaltına alındı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_2ba6de4e",
-    "title": "Artvin'de boğa güreşleri sezonu Sarıgöl'de açıldı",
-    "source": "Haber61",
-    "time": "12/04/2026 17:54",
-    "link": "https://www.haber61.net/artvin/artvinde-boga-guresleri-sezonu-sarigolde-acildi-h629428.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Artvin'in Yusufeli ilçesinde düzenlenen 31'inci boğa güreşleriyle sezon açılırken, 104 boğanın kıran kırana mücadele ettiği güreşleri soğuk havaya aldırış etmeyen binlerce kişi ilgiyle izledi.",
-    "image": "https://resim.haber61.net/news/612419.jpg",
     "keyword": null
   }
 ]
