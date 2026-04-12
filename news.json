@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4dfdbe70",
+    "title": "Nijerya'da yanlış hava saldırısı: 56 sivil öldü",
+    "source": "OdaTV",
+    "time": "12/04/2026 20:55",
+    "link": "https://www.odatv.com/guncel/nijeryada-yanlis-hava-saldirisi-56-sivil-oldu-120143055",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nijerya&#039;da ordunun &#039;yanlışlıkla&#039; düzenlediği hava saldırısında 56 sivil öldü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/nijeryada-yanlis-hava-saldirisi-56-sivil-oldu-nxoz.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a9f22193",
     "title": "Bakan Fidan, Pakistanlı mevkidaşı Dar ile görüştü",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye genelinde hava koşulları yeniden sertleşiyor. Meteoroloji Genel Müdürlüğü’nün yayımladığı son rapora göre, 13 il için sarı kodlu uyarı verildi. Kar ve sağanak yağışların etkili olacağı bölgelerde sıcaklıkların mevsim normallerinin altına düşmesi beklenirken, İstanbul, Ankara ve İzmir’de de hava durumunun önümüzdeki günlerde değişeceği bildirildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/meteorolojiden-13-il-icin-sari-alarm-kar-ve-saganak-geliyor-3-buyuk-ilde-hava-degisiyor-usfo.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4505f524",
-    "title": "Esenler'de otomobil kamyonete çarptı: Çok sayıda yaralı var",
-    "source": "Haber Global",
-    "time": "12/04/2026 19:55",
-    "link": "https://haberglobal.com/yasam/esenlerde-otomobil-kamyonete-carpti-cok-sayida-yarali-var-518379",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Esenler'de otomobilin kamyonete çarptığı kazada 1'i ağır 6 kişi yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/esenlerde-otomobil-kamyonete-carpti-cok-sayida-yarali-var-gezn.jpg",
     "keyword": null
   }
 ]
