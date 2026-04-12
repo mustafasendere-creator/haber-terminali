@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ebcdc8f5",
+    "title": "Magyar Macaristan'da 16 yıllık Orban dönemini bitirdi",
+    "source": "DW Türkçe",
+    "time": "12/04/2026 23:34",
+    "link": "https://www.dw.com/tr/magyar-macaristan-da-16-yıllık-orban-dönemini-bitirdi/a-76756603",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan'da halk, ülke tarihinin en kritik seçimlerinden biri için sandık başına gitti. Sonuçlara göre Trump'ın desteklediği Viktor Orban 16 yıl sonra iktidarı kaybetti, Peter Magyar için başbakanlık yolu açıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_918a13c2",
     "title": "Galatasaray evinde yara aldı: Şampiyonluk yarışında büyük kayıp",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig'in 29. haftasında lider Galatasaray, sahasında Kocaelispor ile 1-1 berabere kaldı ve şampiyonluk yarışında büyük bir yara aldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/canli-izle-galatasaray-kocaelispor-maci-bein-sports-canli-mac-izle-ifop.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_aaec3a0a",
-    "title": "CHP Ankara İl Başkanı Erkol tutuklandı",
-    "source": "TRT Haber",
-    "time": "12/04/2026 22:14",
-    "link": "https://www.trthaber.com/haber/turkiye/chp-ankara-il-baskani-erkol-tutuklandi-941396.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir Büyükşehir Belediyesine yönelik \"kooperatif\" soruşturması kapsamında gözaltına alınan, aralarında CHP Ankara İl Başkanı Ümit Erkol'un da bulunduğu 9 şüpheli tutuklandı.",
-    "image": null,
     "keyword": null
   }
 ]
