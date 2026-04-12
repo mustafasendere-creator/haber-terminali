@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e7bc2568",
+    "title": "Kastamonu'da tekstil fabrikasında yangın",
+    "source": "TRT Haber",
+    "time": "12/04/2026 07:35",
+    "link": "https://www.trthaber.com/haber/turkiye/kastamonuda-tekstil-fabrikasinda-yangin-941354.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu'nun Tosya ilçesinde endüstriyel tekstil ve filtre malzemeleri üretilen fabrikada çıkan yangın ekiplerin müdahalesiyle söndürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0e9532e0",
     "title": "Fatma Çelik: Macaristan, Avrupa siyaseti için ilgi çekici bir laboratuvar niteliğinde",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkan Yardımcısı Vance, Pakistan'ın başkenti İslamabad'daki ABDİran doğrudan görüşmelerinin ardından yaptığı açıklamada, \"İranlıların şartlarımızı kabul etmeye istekli olduğu noktaya bir türlü ulaşamadık. Oldukça esnek davrandık, uzlaşmacıydık. İran, ABD'nin koşullarını kabul etmemeyi seçti. Anlaşma olmadan ABD'ye dönüyoruz\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_717316b0",
-    "title": "Vekil devamsızlığının yanında çalışmayan komisyonlar da var: Komisyonlar da çalışmıyor",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 04:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/vekil-devamsizliginin-yaninda-calismayan-komisyonlar-da-var-komisyonlar-da-calismiyor-2494426",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milletvekillerinin devamsızlığı nedeniyle çalışmaması tartışılan Meclis’in bazı komisyonları bu yıl hiç toplanmadı. Başkanlığını eski İçişleri Bakanı Süleyman Soylu’nun yaptığı İçişleri Komisyonu, son iki yılda hiç toplantı yapmadı. Aynı şekilde Eğitim Komisyonu da en son 2024’te toplandı. Adalet, çevre, milli savunma ve sanayi komisyonları da bu yıl daha hiç toplantı gerçekleştirmedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f26d6208-9b36-46af-8f87-688e3033f90b.jpg",
     "keyword": null
   }
 ]
