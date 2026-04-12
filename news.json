@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7399b632",
+    "title": "XChat için hazırlanan iOS uygulaması yayınlanacak",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 19:55",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/xchat-icin-hazirlanan-ios-uygulamasi-yayinlanacak-2494601",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "X'in XChat için hazırlanan uygulaması iPhone'lar için 17 Nisan'da indirilebilir olacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4f18e36c-51bc-490c-9635-638acb4e4255.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_83f1d3b0",
     "title": "Meteoroloji’den 13 il için sarı alarm: Kar ve sağanak geliyor, 3 büyük ilde hava değişiyor",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Denizli’nin Buldan ilçesinde 18 hektarlık alanda başlatılan maden arama çalışmalarına karşı halk ormanlık alanda protesto yürüyüşü gerçekleştirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342692.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_24b5a3f8",
-    "title": "Orbán ve Magyar, AB'nin yakından izlediği kritik Macaristan seçiminde oy kullandı",
-    "source": "Euronews",
-    "time": "12/04/2026 18:34",
-    "link": "http://tr.euronews.com/video/2026/04/12/orban-ve-magyar-abnin-yakindan-izledigi-kritik-macaristan-seciminde-oy-kullandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Viktor Orbán ile Péter Magyar, katılımın rekor düzeye çıkmasının beklendiği ve sonucunun Budapeşte’nin AB’deki rolünü değiştirebileceği kritik seçimde oy kullandı.",
-    "image": null,
     "keyword": null
   }
 ]
