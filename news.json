@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_adfee77f",
+    "title": "Sulama kanalına düşen otomobildeki 2 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "12/04/2026 05:54",
+    "link": "https://www.trthaber.com/haber/turkiye/sulama-kanalina-dusen-otomobildeki-2-kisi-yaralandi-941351.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir'in Odunpazarı ilçesinde sulama kanalına düşen otomobildeki 2 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8bb0d3ae",
     "title": "Azgın Teke 2.0, Güncelleme Geldi!",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İran'la devam eden doğrudan müzakerelerin sonucu ne olursa olsun \"askeri açıdan kazandıklarını\" savunarak, \"İran’la çok yoğun müzakereler içindeyiz. Neler olacağını göreceğiz.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_094d7d20",
-    "title": "İsrail'in Lübnan'a düzenlediği saldırılar sürüyor",
-    "source": "Anadolu Ajansı",
-    "time": "12/04/2026 01:14",
-    "link": "https://www.aa.com.tr/tr/live-blog/-israilin-lubnana-duzenledigi-saldirilar-suruyor/713",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Lübnan'ın güneyindeki Tuffahta beldesine düzenlediği saldırıda 13 kişi yaşamını yitirdi.",
     "image": null,
     "keyword": null
   }
