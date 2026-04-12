@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_117fff35",
+    "title": "Yorgunluk göz seğirmesine yol açıyor",
+    "source": "Cumhuriyet",
+    "time": "12/04/2026 07:15",
+    "link": "https://www.cumhuriyet.com.tr/saglik/yorgunluk-goz-segirmesine-yol-aciyor-2494441",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uzmanlara göre göz seğirmesi çoğunlukla stres, yorgunluk, uykusuzluk ve aşırı kafein tüketimiyle ortaya çıkıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/33cb716b-244e-4ccb-81a8-0b9ce9f874fa.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_55be7478",
     "title": "Mehmet Ali Çiçekdağ: Tüm savaşlar birer potansiyel Vietnam'dır",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Suudi Arabistanda etkili olan şiddetli yağış ve sel nedeniyle başkent Riyad ile bazı bölgelerde eğitime bir gün ara verildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0f2e6fe5",
-    "title": "İran medyası: İslamabad'daki görüşmeler devam edecek",
-    "source": "TRT Haber",
-    "time": "12/04/2026 02:34",
-    "link": "https://www.trthaber.com/haber/dunya/iran-medyasi-islamabaddaki-gorusmeler-devam-edecek-941345.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İslamabad'da İran, ABD ve Pakistan arasındaki üçlü görüşmeler sona erdi. İran medyası, bazı anlaşmazlıklara rağmen müzakerelerin devam edeceğini duyurdu.",
     "image": null,
     "keyword": null
   }
