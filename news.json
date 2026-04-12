@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_df6c3319",
+    "title": "Bolu Belediyesi'nde 4 tutuklama",
+    "source": "Habertürk",
+    "time": "12/04/2026 15:55",
+    "link": "https://www.haberturk.com/son-dakika-bolu-belediyesi-nde-4-tutuklama-bolu-haberleri-3876497",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu Cumhuriyet Başsavcılığı’nın yürüttüğü ‘Nitelikli dolandırıcılık’ soruşturması kapsamında gözaltına alınan Belediye Başkan Yardımcısı Leyla Beykoz ile CHP’li Belediye Meclis Üyesi Aydan Özdemir tutuklanarak cezaevine gönderildi",
+    "image": "https://im.haberturk.com/l/2026/04/11/ver1775886980/3876497/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_be4ab565",
     "title": "İki kişi sele kapılmıştı... Son anları ortaya çıktı!",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Şenol Güneş, 2010-2011 sezonunda emeğin karşılığını bulmadığını söyledi; Trabzonspor’un artık enerjisini geleceğe, üretime ve sürdürülebilir başarıya yöneltmesi gerektiğini vurguladı.",
     "image": "https://resim.haber61.net/news/612379.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_bdc9659e",
-    "title": "Başkentray 140 milyondan fazla yolcuya hizmet verdi",
-    "source": "TRT Haber",
-    "time": "12/04/2026 15:15",
-    "link": "https://www.trthaber.com/haber/turkiye/baskentray-140-milyondan-fazla-yolcuya-hizmet-verdi-941384.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Başkentray'ın 8 yılda 140,3 milyon yolcuya hizmet verdiğini açıkladı.",
-    "image": null,
-    "keyword": null
   }
 ]
