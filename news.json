@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80a8cdbc",
+    "title": "Macaristan'da seçimi kazanan Magyar: Macaristan tekrar Avrupa ülkesi olmak istiyor",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 01:14",
+    "link": "https://www.aa.com.tr/tr/dunya/macaristanda-secimi-kazanan-magyar-macaristan-tekrar-avrupa-ulkesi-olmak-istiyor/3903234",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan'da seçimi kazanan Saygı ve Özgürlük Partisi'nin (Tisza) lideri Peter Magyar, ilk açıklamasında \"Macaristan tekrar Avrupa ülkesi olmak, Avrupa'ya dönmek istiyor.\" ifadelerini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5cddcef8",
     "title": "Bahçeli'den İran müzakereleri sonrası \"Dünya Barış Konseyi\" çağrısı",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Macaristan'da halk, ülke tarihinin en kritik seçimlerinden biri için sandık başına gitti. Sonuçlara göre Trump'ın desteklediği Viktor Orban 16 yıl sonra iktidarı kaybetti, Peter Magyar için başbakanlık yolu açıldı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_918a13c2",
-    "title": "Galatasaray evinde yara aldı: Şampiyonluk yarışında büyük kayıp",
-    "source": "Evrensel",
-    "time": "12/04/2026 23:34",
-    "link": "https://www.evrensel.net/haber/5979362/galatasaray-evinde-yara-aldi-sampiyonluk-yarisinda-buyuk-kayip",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray, sahasında Kocaelispor ile 1-1 berabere kalarak şampiyonluk yarışında önemli bir puan kaybı yaşadı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342712.jpg",
     "keyword": null
   }
 ]
