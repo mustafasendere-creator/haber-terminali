@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f07691fc",
+    "title": "Hindistan'da korkunç kaza: 13 ölü, 30 yaralı",
+    "source": "Haber Global",
+    "time": "12/04/2026 11:15",
+    "link": "https://haberglobal.com/dunya/hindistanda-korkunc-kaza-13-olu-30-yarali-518306",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hindistan'ın Bihar eyaletinde meydana gelen trafik kazasında 13 kişi yaşamını yitirdi, 30 kişi de yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/hindistanda-korkunc-kaza-13-olu-30-yarali-jgfa.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_66d41bc0",
     "title": "81 İlden Alınacak En İyi Hediyelikler: 1. Adana - Şalgam Suyu 2. Adıyaman - Nemrut Heykelcikleri 3. Afyonkarahisar - Kaymaklı Lokum 4. Ağrı - Abdigör Köftesi (Erişte) 5. Amasya - Elma Miseti 6. Ankara - Beypazarı Kurusu 7. Antalya - Turunç Reçeli 8. Artvin - - x.com",
     "source": "X",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Günleri sürerken düzenlenen Kurtuluş Balosu’nda ödüller verildi, Fuat Saka sahne aldı, gecede coşku zirveye çıktı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/a-n-k-a-r-a-a-a.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_055a18c1",
-    "title": "Karaman'da pikap ile otomobil çarpıştı: 6 yaralı!",
-    "source": "Cumhuriyet",
-    "time": "12/04/2026 10:35",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/karaman-da-pikap-ile-otomobil-carpisti-6-yarali-2494472",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Karaman'da pikap ile otomobilin çarpıştığı kazada 6 kişi yaralandı. Kazada yaralanan 6 kişi hastaneye kaldırılarak tedavi altına alındı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/9533504f-4f57-422e-98f5-2db4cf3bb3d7.jpg",
-    "keyword": null
   }
 ]
