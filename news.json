@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_841c47f6",
+    "title": "ABD Başkanı Trump'tan müzakereler sonrası Hürmüz Boğazı kararı",
+    "source": "Haber Global",
+    "time": "12/04/2026 16:15",
+    "link": "https://haberglobal.com/dunya/abd-baskani-trumptan-muzakereler-sonrasi-hurmuz-bogazi-karari-518356",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran ile yürütülen müzakerelerin ardından yaptığı paylaşımda \"ABD Donanması, Hürmüz Boğazı'na girmeye veya boğazdan çıkmaya çalışan her türlü gemiyi ablukaya alma sürecini boşlatacak\" ifadesini kullandı. İran'ın Hürmüz Boğazı sözünü tutmadığını belirten Trump, \"İranlıların Boğaz'a döşediği mayınları imha etmeye başlayacağız\" dedi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
+    "keyword": null
+  },
+  {
     "id": "TKP_46165b55",
     "title": "Bakan Yardımcısı Tuncay’dan Trabzon ve Trabzonspor vurgusu",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Rize'de cüzdanını kaybeden genç kız cüzdanını ummadığı yerde bulunca şehrin güven duygusunu hissetti.",
     "image": "https://resim.haber61.net/news/612382.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_8e8f400a",
-    "title": "Eski Trabzon Milletvekili Cevdet Erdöl: “Trabzon’da başarılı olmaktan başka çare yok”",
-    "source": "Haber61",
-    "time": "12/04/2026 15:34",
-    "link": "https://www.haber61.net/trabzon/eski-trabzon-milletvekili-cevdet-erdol-trabzonda-basarili-olmaktan-baska-h629409.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Tanıtım Günleri’nde konuşan eski Trabzon Milletvekili Cevdet Erdöl, Trabzon’un zorlu yaşam şartlarının başarıyı zorunlu kıldığını söyledi. Erdöl, kendi hayat hikayesinden örnekler paylaştı.",
-    "image": "https://resim.haber61.net/news/612384.jpg",
     "keyword": null
   }
 ]
