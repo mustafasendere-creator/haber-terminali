@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_45e4a66e",
+    "title": "Suudi Arabistanda şiddetli yağış nedeniyle bazı bölgelerde eğitime ara",
+    "source": "TRT Haber",
+    "time": "12/04/2026 11:15",
+    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-siddetli-yagis-nedeniyle-bazi-bolgelerde-egitime-ara-941343.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistanda etkili olan şiddetli yağış ve sel nedeniyle başkent Riyad ile bazı bölgelerde eğitime bir gün ara verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0e47f39a",
     "title": "AK Parti Sözcüsü Çelik'ten soykırım şebekesinin mensuplarına tepki",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "CHP İstanbul Milletvekili Gamze Akkuş İlgezdi, TÜİK’in 2025 verilerindeki \"mutluluk artışı\"nı eleştirerek, \"TÜİK’in bu fıkra gibi verileri, halkın gerçeğine değil, iktidarın hayallerine hizmet etmektedir\" dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/4a1c751c-ab93-410e-b776-98b6ff4fa59b.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_fc1c638a",
-    "title": "Ankara'da konu Trabzon...",
-    "source": "61 Saat",
-    "time": "12/04/2026 10:35",
-    "link": "https://www.61saat.com/ankarada-konu-trabzon",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara’da düzenlenen Trabzon Tanıtım Günleri, sadece kültürel etkinliklerle değil, önemli buluşmalara da ev sahipliği yapmaya devam ediyor.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/asasdas-kurtarildi-164.png",
-    "keyword": "trabzon"
   }
 ]
