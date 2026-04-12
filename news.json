@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8d340997",
+    "title": "21 saatlik ABD-İran müzakeresinden sonuç çıkmadı",
+    "source": "DW Türkçe",
+    "time": "12/04/2026 11:55",
+    "link": "https://www.dw.com/tr/21-saatlik-abd-iran-müzakeresinden-sonuç-çıkmadı/a-76752288",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İslamabad'da tüm dünyanın takip ettiği ABD-İran barış görüşmesinden sonuç çıkmadı. İlk turda sonuç alınamamasını normal karşılayan Tahran müzakerelerin devam edeceğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_21e41ec2",
     "title": "Yazarlar Yazdı: Trabzonspor Alanya’da Neyi Kaybetti?",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un siyaset, iş ve cemiyet hayatından önde gelen isimler Ankara'da bir araya geldi.",
     "image": "https://resim.haber61.net/news/612332.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_45e4a66e",
-    "title": "Suudi Arabistanda şiddetli yağış nedeniyle bazı bölgelerde eğitime ara",
-    "source": "TRT Haber",
-    "time": "12/04/2026 11:15",
-    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-siddetli-yagis-nedeniyle-bazi-bolgelerde-egitime-ara-941343.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suudi Arabistanda etkili olan şiddetli yağış ve sel nedeniyle başkent Riyad ile bazı bölgelerde eğitime bir gün ara verildi.",
-    "image": null,
-    "keyword": null
   }
 ]
