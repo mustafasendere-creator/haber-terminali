@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e408b98",
+    "title": "Papa Leo: 'Savaş bir putperestliktir, artık yeter'",
+    "source": "Euronews",
+    "time": "12/04/2026 14:34",
+    "link": "http://tr.euronews.com/my-europe/2026/04/12/papa-leo-savas-bir-putperestliktir-artik-yeter",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Liderler, savaştaki eylemlerini savunmak için dini bir araç olarak kullandılar. Başta Savunma Bakanı Pete Hegseth olmak üzere ABD'li yetkililer, Hristiyanlık inançlarından bahsetti ve ABD'yi düşmanlarına karşı savaşan bir 'Hristiyan ulusu' olarak tanımladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ffeac514",
     "title": "Macaristan'da kritik genel seçime rekor katılım bekleniyor",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Ankara’da 4.gününde de devam eden Trabzon Günleri kapsamında soğuk havaya rağmen vatandaşlar alana akın etti",
     "image": "https://resim.haber61.net/news/612360.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_fa102c0b",
-    "title": "Emekliler Trabzon’da meydanlara indi: “Acil zam şart”",
-    "source": "Haber61",
-    "time": "12/04/2026 13:54",
-    "link": "https://www.haber61.net/trabzon/emekliler-trabzonda-meydanlara-indi-acil-zam-sart-h629399.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da Tüm Emeklilerin Sendikası tarafından yürüyüş ve bölge mitingi düzenlendi. Mitingde emekli aylıkları, seyyanen zam, bayram ikramiyesi ve sendika hakkı başta olmak üzere birçok talep dile getirildi.",
-    "image": "https://resim.haber61.net/news/612362.jpg",
     "keyword": "trabzon"
   }
 ]
