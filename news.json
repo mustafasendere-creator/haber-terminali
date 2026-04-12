@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a7ecfc66",
+    "title": "İsrail ordusuna talimat: Hazır olun",
+    "source": "OdaTV",
+    "time": "12/04/2026 19:55",
+    "link": "https://www.odatv.com/guncel/israil-ordusuna-talimat-hazir-olun-120143047",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Genelkurmay Başkanı Zamir, orduya İran&#039;a saldırılara tekrar başlamak için &quot;hazır ol&quot; talimatı verdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/israil-ordusuna-talimat-hazir-olun-qbgh.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4800c0dd",
     "title": "Vedat Muriqi Eto'o'yu geçti",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bayern Münih, Galatasaray'la özellikle Şampiyonlar Ligi'ndeki performansıyla dikkatleri üzerine çeken Uğurcan Çakır için sarı-kırmızılılara resmi teklif yapmaya hazırlanıyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/12/bayern-munih-ugurcan-cakir-icin-devrede-iste-galatasaraya-yapacaklari-teklif-q5wr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e5430742",
-    "title": "Lufthansa'da 48 saatlik grev: Yüzlerce uçuş iptal",
-    "source": "DW Türkçe",
-    "time": "12/04/2026 18:35",
-    "link": "https://www.dw.com/tr/lufthansa-da-48-saatlik-grev-yüzlerce-uçuş-iptal/a-76755628",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'nın en büyük havayolu şirketi Lufthansa'da çalışanlar bu yıl dördüncü kez greve gidiyor. Pazartesi ve Salı günü yüzlerce uçuş iptal olacak.",
-    "image": null,
     "keyword": null
   }
 ]
