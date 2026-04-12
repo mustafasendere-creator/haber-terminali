@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2faa24e0",
+    "title": "Kraliçe yaban arıları su altında nefes alarak kışı atlattı",
+    "source": "Euronews",
+    "time": "12/04/2026 08:14",
+    "link": "http://tr.euronews.com/2026/04/12/kralice-yaban-arilari-su-altinda-nefes-alarak-kisi-atlatti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kraliçe arılar su altında nefes alabiliyor; bu sayede, eriyen kar yuvalarını suyla doldurduğunda bile kış boyunca hayatta kalabiliyorlar.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_97fa7ae7",
     "title": "Fenerbahçe 3 puanı 4 golle aldı",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Çin, uydu internet teknolojisini geliştirmeye yönelik SatNet test uydusunu Cielong3 Akıllı Ejderha3 roketini başarıyla uzaya fırlattı. Uydu, planlanan yörüngesine yerleşti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5ca0d5ac",
-    "title": "Pakistan'daki İranABD görüşmelerinden anlaşma çıkmadı",
-    "source": "TRT Haber",
-    "time": "12/04/2026 06:35",
-    "link": "https://www.trthaber.com/haber/dunya/pakistandaki-iran-abd-gorusmelerinden-anlasma-cikmadi-941353.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran medyasında, İslamabad'daki TahranWashington görüşmelerinde ortak bir çerçeve ve anlaşmaya varılamamasının nedeninin ABD'nin aşırı talepleri olduğu öne sürüldü.",
     "image": null,
     "keyword": null
   }
