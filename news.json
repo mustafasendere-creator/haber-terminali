@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1a2740e8",
+    "title": "Trump: Hürmüz Boğazı'na abluka uygulayacağız",
+    "source": "DW Türkçe",
+    "time": "12/04/2026 17:15",
+    "link": "https://www.dw.com/tr/trump-hürmüz-boğazı-na-abluka-uygulayacağız/a-76755363",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pakistan'daki görüşmelerin sonuçsuz kalması üzerine ABD Başkanı Donald Trump, Hürmüz Boğazı'na abluka uygulayacaklarını, İran'ın buradan gelir elde etmesine izin vermeyeceklerini söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_b17bbaa9",
     "title": "Söğütlü’de Korkutan Yangın: Alevler Bir Anda Etrafı Sardı!",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Ankara’da düzenlenen Trabzon Günleri’nin finalinde horon halkası Ulus’tan Kızılay’a uzandı. Etkinlikte Karadeniz rüzgârı başkenti sardı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/ankara-trabzon-haber-1-1.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b5838ca3",
-    "title": "Emekliler meydanlara indi: 'Kurban ikramiyesiyle horoz bile alınmaz'",
-    "source": "OdaTV",
-    "time": "12/04/2026 16:16",
-    "link": "https://www.odatv.com/guncel/emekliler-meydanlara-indi-kurban-ikramiyesiyle-horoz-bile-alinmaz-120143015",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tüm Emeklilerin Sendikası öncülüğünde emekliler, bugün 7 ilde düzenlenen bölgesel mitinglerde bir araya geldi. “Sefalet zulmüne son” sloganıyla alanlara çıkan emekliler, insanca yaşam ve onurlu emeklilik taleplerini dile getirdi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/12/yedi-ilde-miting-emekliler-meydanlara-iniyor-oph6.png",
-    "keyword": null
   }
 ]
