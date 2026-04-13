@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6f68d230",
+    "title": "Kılıçdaroğlu, İbrahim Tatlıses'i ziyaret etti",
+    "source": "Evrensel",
+    "time": "13/04/2026 18:15",
+    "link": "https://www.evrensel.net/haber/5979486/kilicdaroglu-ibrahim-tatlisesi-ziyaret-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP’nin eski genel başkanı Kemal Kılıçdaroğlu, İstanbul’da tedavisi süren sanatçı İbrahim Tatlıses’i hastanede ziyaret etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342862.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2803de29",
     "title": "Kartalkaya davasında kamu görevlileri soruşturması: Adli kontrol tedbirinin kaldırılmasına tepki",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "13 Nisan 2026 Pazartesi günü Lübnan’da İsrail saldırılarına hedef olan ambulansları inceleyen Lübnan Kızılayı gönüllüleri ve Maaroub’da enkaz kaldıran ekipler, ülkenin yeni yıkımıyla karşı karşıya kaldı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_0beb79e8",
-    "title": "Hac Sezonu Öncesi Yeni Kurallar: Mekke’ye Giriş Kısıtlandı",
-    "source": "Taka Gazetesi",
-    "time": "13/04/2026 17:35",
-    "link": "https://www.takagazete.com.tr/hac-sezonu-oncesi-yeni-kurallar-mekkeye-giris-kisitlandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Suudi Arabistan, hac önlemleri kapsamında Mekke’ye girişleri izin şartına bağladı. Umre ziyaretçileri için çıkış tarihi 18 Nisan.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/whatsapp-image-2026-04-13-at-162725.jpeg",
     "keyword": null
   }
 ]
