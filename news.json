@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3dc44dc",
+    "title": "Elmadağ OSB 20 bin kişiye iş kapısı olacak",
+    "source": "TRT Haber",
+    "time": "13/04/2026 13:35",
+    "link": "https://www.trthaber.com/haber/ekonomi/elmadag-osb-20-bin-kisiye-is-kapisi-olacak-941480.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elmadağ Mobilyacılar İhtisas Organize Sanayi Bölgesi OSB Yönetim Kurulu Başkanı Hüseyin Taklacı, Türkiye'nin ilk ihtisas mobilya organize sanayi bölgesi olan Elmadağ Mobilyacılar İhtisas OSB'nin 20 binin üzerinde istihdam sağlayacağını ve ihracatta katma değeri artıracağını söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_cdc452dc",
     "title": "Vali Tahir Şahin’den Okullara Ziyaret: Öğrenci ve Öğretmenlerle Buluştu",
     "source": "Karadeniz Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç’e, Yomra ilçesi Kaşüstü Mahallesi’nde bulunan 2 sokakta gerçekleştirilen yenileme çalışmalarına sağladığı katkılar dolayısıyla Yomra Belediye Başkanı Mustafa Bıyık tarafından teşekkür plaketi takdim edildi.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_61069848",
-    "title": "Avrupa borsaları negatif seyrediyor",
-    "source": "TRT Haber",
-    "time": "13/04/2026 12:56",
-    "link": "https://www.trthaber.com/haber/ekonomi/avrupa-borsalari-negatif-seyrediyor-941471.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa borsalarında, ABDİran görüşmelerinden gelen olumsuz haberler ve ABD Başkanı Donald Trump'ın abluka açıklamalarıyla negatif seyir öne çıkıyor.",
-    "image": null,
-    "keyword": null
   }
 ]
