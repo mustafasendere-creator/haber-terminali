@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff7a7483",
+    "title": "Burdur'da diyalizde antifrizli sudan ölüme 'kamu davası'",
+    "source": "Evrensel",
+    "time": "13/04/2026 17:16",
+    "link": "https://www.evrensel.net/haber/5979469/burdurda-diyalizde-antifrizli-sudan-olume-kamu-davasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Burdur Devlet Hastanesi diyaliz ünitesinde 2024’te yaşanan ve antifrizli suyun sisteme karıştığının belirlendiği olayda, 1 kişinin ölümü ve 12 kişinin yaralanmasına ilişkin kamu davası açıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342840.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_7a39f331",
     "title": "Karadenizli Sanatçı İsmail Türüt’ün Trabzon Günlerinde Rizespor Atkısını Reddetmesi Olay Oldu",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "ABD'de yapılan bir ankete göre, Başkan Donald Trump'ın İran politikasına kamuoyu desteği sınırlı kalırken, katılımcıların çoğunluğu yönetimin yaklaşımını onaylamadığını ifade etti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_ccfda847",
-    "title": "Trabzon Büyükşehir'in borcu ve faiz giderleri belli oldu!",
-    "source": "61 Saat",
-    "time": "13/04/2026 16:35",
-    "link": "https://www.61saat.com/trabzon-buyuksehirin-borcu-ve-faiz-giderleri-belli-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediyesinin borçu ve faiz giderleri belli oldu.. 2025 Yılı Faaliyet Raporunda bu durum netleşti…",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/v-c-s.webp",
-    "keyword": "trabzon"
   }
 ]
