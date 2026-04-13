@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da016bb5",
+    "title": "Üniversitelerarası maçta kavga: Ortalık birbirine girdi",
+    "source": "OdaTV",
+    "time": "13/04/2026 09:16",
+    "link": "https://www.odatv.com/spor/universitelerarasi-macta-kavga-ortalik-birbirine-girdi-120143095",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Üniversite Sporları Federasyonu kapsamında oynanan Manisa Celal Bayar Üniversitesi ile Karamanoğlu Mehmetbey Üniversitesi kadın futsal maçı, sahada çıkan kavga nedeniyle yarıda kaldı. Olay sonrası darp raporu alındığı ve inceleme başlatıldığı öğrenildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/universitelerarasi-macta-kavga-ortalik-birbirine-girdi-pxoc.png",
+    "keyword": null
+  },
+  {
     "id": "GND_c840d6e7",
     "title": "İran açıkladı: ABD-İsrail saldırılarında 942 okul zarar gördü",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Hafta sonu ABD ve İran arasında yürütülen barış görüşmelerinin anlaşma sağlanamadan sona ermesi ve Donald Trump'ın İran limanlarını abluka altına alacağını duyurmasıyla, Asya piyasalarında ham petrol fiyatları yeniden 100 doların üzerine çıktı. Küresel gösterge Brent petrol yüzde 7,3 artışla 102,30 dolara yükseldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f69daa42",
-    "title": "Trump'tan NATO mesajı: İttifaka yapılan harcamalar ciddi şekilde incelenecek",
-    "source": "TRT Haber",
-    "time": "13/04/2026 08:35",
-    "link": "https://www.trthaber.com/haber/dunya/trumptan-nato-mesaji-ittifaka-yapilan-harcamalar-ciddi-sekilde-incelenecek-941429.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, Joint Base Andrews'te gazetecilere yaptığı açıklamada, ABD'nin NATO'ya yönelik harcamalarının kapsamlı bir incelemeye tabi tutulacağını açıkladı.",
     "image": null,
     "keyword": null
   }
