@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8019a3a8",
+    "title": "Polonya futbolu ligin bitimine 6 hafta kala kördüğüm",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 14:34",
+    "link": "https://www.aa.com.tr/tr/spor/polonya-futbolu-ligin-bitimine-6-hafta-kala-kordugum/3903916",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Polonya Birinci Futbol Ligi'nde (Ekstraklasa) sezon sonuna doğru ortaya çıkan puan tablosuyla tarihin en rekabetçi sezonlarından biri yaşanıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_71fe476d",
     "title": "PAB 152'nci Genel Kurulu'na parlamento başkanı ve milletvekili düzeyinde yüksek katılım bekleniyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Alkışlar Ankara'da görev yapan Haber61 ekibine geldi.",
     "image": "https://resim.haber61.net/news/612512.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fd8438d5",
-    "title": "UEFA Şampiyonlar Ligi'nde yarı finalistler belli oluyor",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 13:54",
-    "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-yari-finalistler-belli-oluyor/3903852",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Şampiyonlar Ligi'nde çeyrek final rövanş maçları yarın başlayacak.",
-    "image": null,
     "keyword": null
   }
 ]
