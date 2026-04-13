@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d6b1ff2",
+    "title": "Nijerya'da ordu yanlışlıkla hava saldırısı düzenledi: 56 sivil hayatını kaybetti",
+    "source": "Haber Global",
+    "time": "13/04/2026 06:55",
+    "link": "https://haberglobal.com/dunya/nijeryada-ordu-yanlislikla-hava-saldirisi-duzenledi-56-sivil-hayatini-kaybetti-518418",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nijerya ordusu tarafından yanlışlıkla düzenlenen hava saldırısında 56 sivil yaşamını yitirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/nijeryada-ordu-yanlislikla-hava-saldirisi-duzenledi-56-sivil-hayatini-kaybetti-rjz0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_04fb00ad",
     "title": "Siirt'te metruk bina sağanağa dayanamadı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/kirmizi-pazartesi-iedq_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c1505f07",
-    "title": "‘Yapay zeka’, öğretmenin yerini almak için değil, ‘güçlendirmek’ için var",
-    "source": "Ekonomim",
-    "time": "13/04/2026 02:54",
-    "link": "https://www.ekonomim.com/kose-yazisi/yapay-zeka-ogretmenin-yerini-almak-icin-degil-guclendirmek-icin-var/887677",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/yapay-zeka-ogretmenin-yerini-almak-icin-degil-guclendirmek-icin-var-ycrw_cover.jpg",
     "keyword": null
   }
 ]
