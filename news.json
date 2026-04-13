@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef47d03b",
+    "title": "Almanya hükümetinden göz boyayan akaryakıt hamlesi",
+    "source": "Evrensel",
+    "time": "14/04/2026 01:14",
+    "link": "https://www.evrensel.net/haber/5979517/almanya-hukumetinden-goz-boyayan-akaryakit-hamlesi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İsrail saldırıları sonrası tırmanan akaryakıt fiyatlarına karşı Alman hükümeti 1,6 milyar avroluk “rahatlama paketi” açıkladı. Vergi indirimi ve prim desteği öne çıkarken, düzenlemelerin kalıcı çözüm olup olmayacağı tartışma konusu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342351.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d726aec5",
     "title": "30 ton e-atık geri döndü, 65 bin kişiye ulaşıldı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD&#039;li Senatör Bernie Sanders, &quot;Gazze&#039;deki soykırıma&quot; dikkati çekerek, ABD&#039;nin İsrail&#039;e silah satışının engellenmesi amacıyla bir tasarı sunacağını ve tasarının oylanması için uğraşacağını açıkladı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/sandersten-israili-kizdiracak-teklif-cpkf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0c4764e1",
-    "title": "'Bayğaralar'a operasyon: 287 gözaltı",
-    "source": "OdaTV",
-    "time": "13/04/2026 23:35",
-    "link": "https://www.odatv.com/guncel/baygaralara-operasyon-287-gozalti-120143195",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elebaşılığını Yunanistan&#039;da tutuklu bulunan Ramazan Bayğara&#039;nın yaptığı organize suç örgütüne yönelik Adana merkezli 8 ilde düzenlenen operasyonda 287 şüpheli gözaltına alındı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/baygaralara-operasyon-287-gozalti-45iv.jpg",
     "keyword": null
   }
 ]
