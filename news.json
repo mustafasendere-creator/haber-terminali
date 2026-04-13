@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9304a6c0",
+    "title": "Bakan Güler, resmi ziyaret kapsamında Katar'a gitti",
+    "source": "TRT Haber",
+    "time": "13/04/2026 19:35",
+    "link": "https://www.trthaber.com/haber/gundem/bakan-guler-resmi-ziyaret-kapsaminda-katara-gitti-941514.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanı Yaşar Güler, Katar'ın başkenti Doha'da Türk Birleşik Müşterek Kuvvet Komutanlığında inceleme ve denetlemelerde bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8523ead8",
     "title": "ABD Hürmüz Boğazı'nda İran'a abluka başlattı",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "İçişleri Bakanlığı, aralarında Trabzon’un da bulunduğu 56 ilde DEAŞ’a yönelik düzenlenen operasyonlarda 525 şüphelinin yakalandığını açıkladı.",
     "image": "https://resim.haber61.net/news/612532.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_da752c66",
-    "title": "Trabzon’da 77 yaşındaki mezuna KTÜ Rektörü’nden özel davet",
-    "source": "Haber61",
-    "time": "13/04/2026 18:34",
-    "link": "https://www.haber61.net/trabzon/trabzonda-77-yasindaki-mezuna-ktu-rektorunden-ozel-davet-h629495.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da 77 yaşında üniversite hayalini gerçekleştiren arzuhalci İsmail Aslan, KTÜ Rektörü Prof. Dr. Hamdullah Çuvalcı’nın konuğu oldu.",
-    "image": "https://resim.haber61.net/news/612534.jpg",
     "keyword": null
   }
 ]
