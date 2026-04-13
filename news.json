@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6785ecc7",
+    "title": "İsrail ateşkese rağmen Lübnan’a saldırıyor",
+    "source": "Haber Global",
+    "time": "13/04/2026 16:15",
+    "link": "https://haberglobal.com/dunya/israil-ateskese-ragmen-lubnana-saldiriyor-518520",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın güneyindeki Tuffahta beldesine düzenlediği saldırıda 13 kişi yaşamını yitirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/israil-ateskese-ragmen-lubnana-saldiriyor-kwol.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_752fdd14",
     "title": "İstanbul'da 14 Nisan Salı büyük elektrik kesintileri olacak!",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Milli Eğitim Akademisi'nde hazırlık eğitimi alacak öğretmen adayları için ilk ders zili çalarken, Akademi kapsamında ilk dersi Milli Eğitim Bakanı Yusuf Tekin verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9a529dea",
-    "title": "56 ilde DEAŞ operasyonu: 525 gözaltı",
-    "source": "TRT Haber",
-    "time": "13/04/2026 15:36",
-    "link": "https://www.trthaber.com/haber/gundem/56-ilde-deas-operasyonu-525-gozalti-941491.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, 56 ilde terör örgütü DEAŞ'a yönelik düzenlenen operasyonlarda 525 şüphelinin yakalandığını açıkladı.",
     "image": null,
     "keyword": null
   }
