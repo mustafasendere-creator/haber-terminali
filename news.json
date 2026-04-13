@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_62370764",
+    "title": "CANLI - Dışişleri Bakanı Fidan, AA Editör Masası'na konuk oluyor",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 11:14",
+    "link": "https://www.aa.com.tr/tr/gundem/canli-disisleri-bakani-fidan-aa-editor-masasina-konuk-oluyor/3903383",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Anadolu Ajansı (AA) Editör Masası'nda gündeme ilişkin soruları yanıtlıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9dce3a46",
     "title": "İtalyan uzmanlar, İtalya Deniz Kuvvetlerinin Bayraktar TB3'e ilgisini değerlendirdi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Valilik Basın-Protokol Müdürü Yalçın Bahçekapılı’nın annesi Havva Bahçekapılı hayatını kaybetti. Cenaze Maçka’da toprağa verilecek.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/cd7a9894-d0c8-44a0-9311-39fb24aef401.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e7c25cdf",
-    "title": "AKP'nin hedefinde ‘yeni belediyeler var’ iddiası",
-    "source": "Evrensel",
-    "time": "13/04/2026 10:35",
-    "link": "https://www.evrensel.net/haber/5979390/akpnin-hedefinde-yeni-belediyeler-var-iddiasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’li belediyelere yönelik operasyonlar sürerken, Kilis, Amasya ve Kütahya başta olmak üzere birçok belediyenin hedefte olduğu iddia edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/337020.jpg",
     "keyword": null
   }
 ]
