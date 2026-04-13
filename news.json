@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_53563b48",
+    "title": "Anket: Almanya Şansölyesi Merz, dünyanın 'en sevilmeyen' hükümet başkanı",
+    "source": "Euronews",
+    "time": "13/04/2026 12:55",
+    "link": "http://tr.euronews.com/2026/04/13/anket-almanya-sansolyesi-merz-dunyanin-en-sevilmeyen-hukumet-baskani",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anketler, Almanya Şansölyesi Friedrich Merz'in 24 demokratik ülke arasında en düşük halk desteğine sahip lider olduğunu gösteriyor. Merz, Narendra Modi, Lee Jae-myung ve Andrej Babiš gibi isimlerin onay oranlarının bir hayli gerisinde kaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_7c02c48b",
     "title": "İsrail'in küstahlığına Başkan Genç'ten sert tepki!",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "İstanbul, bu hafta sergi, konser ve tiyatro oyunlarından oluşan geniş bir yelpazede birçok etkinliğe ev sahipliği yapacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e881327e",
-    "title": "IMF ve Dünya Bankasının Bahar Toplantıları başlıyor",
-    "source": "TRT Haber",
-    "time": "13/04/2026 11:55",
-    "link": "https://www.trthaber.com/haber/ekonomi/imf-ve-dunya-bankasinin-bahar-toplantilari-basliyor-941468.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Para Fonu IMF ve Dünya Bankası, küresel enerji ve tedarik zincirlerinde tahribata yol açan Orta Doğu'daki çatışmaların yerini geçici ateşkesin ardından temkinli bekleyişe bıraktığı bir dönemde dünya ekonomisinin aktörlerini bir araya getiriyor.",
     "image": null,
     "keyword": null
   }
