@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a4d645a7",
+    "title": "Batman’da şüpheli kadın ölümü: Ayşegül Yıldırım evinde yaşamını yitirmiş halde bulundu",
+    "source": "Evrensel",
+    "time": "13/04/2026 12:15",
+    "link": "https://www.evrensel.net/haber/5979415/batmanda-supheli-kadin-olumu-aysegul-yildirim-evinde-yasamini-yitirmis-halde-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Batman’ın Gercüş ilçesinde kendisinden iki gündür haber alınamayan 35 yaşındaki öğretmen Ayşegül Yıldırım, evinde ölü bulundu. Şüpheli ölüme ilişkin soruşturma başlatıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342770.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_4f3bb8c2",
     "title": "Çukurçayır’da Eğitim Ziyareti: Öğrencilerle Buluşma",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "DEM Parti’li Pervin Buldan, Erdoğan ile görüşmelerde CHP’ye yönelik baskıları gündeme getirdiklerini belirterek “CHP üzerindeki baskı durmalı” dediklerini ancak yanıt alamadıklarını söyledi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/236746.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_4a399430",
-    "title": "Dünyada bu hafta çeşitli etkinlikler sanatseverlerle buluşacak",
-    "source": "İHA Trabzon",
-    "time": "13/04/2026 11:35",
-    "link": "https://www.aa.com.tr/tr/kultur/dunyada-bu-hafta-cesitli-etkinlikler-sanatseverlerle-bulusacak/3903531",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bu hafta dünyanın farklı şehirlerinde tiyatrodan konserlere, film festivallerinden sanat fuarlarına geniş bir yelpazede çeşitli etkinlikler sanatseverlerle buluşacak.",
-    "image": null,
     "keyword": null
   }
 ]
