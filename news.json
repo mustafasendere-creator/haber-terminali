@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64aa3a71",
+    "title": "Siirt'te heyelan nedeniyle kara yolunda çökme meydana geldi",
+    "source": "Evrensel",
+    "time": "13/04/2026 18:15",
+    "link": "https://www.evrensel.net/haber/5979488/siirtte-heyelan-nedeniyle-kara-yolunda-cokme-meydana-geldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siirt – Eruh kara yolunun Kayaboğaz köyü mevkisinde meydana gelen heyelan nedeniyle çökme oldu. Ekiplerin önlem aldığı yolda ulaşım kontrollü olarak sağlanıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342866.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_64e80801",
     "title": "Kaya Çilingiroğlu, Trabzonspor’un Alanyaspor deplasmanında kaybettiği puanları sert sözlerle değerlendirdi",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "X'in ürün başkanı Nikita Bier, özellikle zaman akışını 'tık tuzağı' içeriklerle dolduran hesapların gelirlerinin düşürüleceğini açıkladı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_f28a77c1",
-    "title": "TDTM’de Yeni Dönem: 300 Milyon TL’lik Fuar Merkezi Hamlesi",
-    "source": "Taka Gazetesi",
-    "time": "13/04/2026 17:35",
-    "link": "https://www.takagazete.com.tr/tdtmde-yeni-donem-300-milyon-tllik-fuar-merkezi-hamlesi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Dünya Ticaret Merkezi’nde genel kurul tamamlandı. 300 milyon TL’lik bütçeyle fuar ve kongre merkezinin tamamlanması hedefleniyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/4768b9fa-e7fd-4d70-82c0-40df07d005b8.jpg",
     "keyword": null
   }
 ]
