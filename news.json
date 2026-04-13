@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e579c81d",
+    "title": "Papa'dan kendisine hakaret eden Trump'a yanıt geldi",
+    "source": "TRT Haber",
+    "time": "13/04/2026 13:15",
+    "link": "https://www.trthaber.com/haber/dunya/papadan-kendisine-hakaret-eden-trumpa-yanit-geldi-941476.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Papa Leo, Donald Trump'ın şahsına yönelik saldırılarının ardından barış çağrılarını sürdüreceğini açıkladı. Cezayir ziyareti öncesinde uçakta Reuters'e konuşan Papa, Hristiyanlık mesajının siyasi amaçlarla kötüye kullanıldığını belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_de668ca4",
     "title": "İmamoğlu Suç Örgütü davasının 20'nci duruşması başladı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Emekli olan milyonlarca kişi çalışma hayatına devam ederken, hem maaş hem de ek gelirleri kovalıyor. Aynı ay içinde 3 maaş alma, ek ikramiye ve promosyon gündemde. Peki hangi tarihten sonra emekli olanlar 3 maaş alamıyor? Çalışınca emekli maaşı kesilen emeklilerin mağduriyeti nasıl çözülür?",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/emekliler-bu-ek-gelirleri-kovaliyor-ikramiye-promosyon-kimler-3-maas-alabiliyor-o-tarihten-sonra-emekli-olana-yok-che9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_59d2575b",
-    "title": "İran basını: İspanya, İran'daki büyükelçiliğini yeniden açtı",
-    "source": "Ekonomim",
-    "time": "13/04/2026 12:16",
-    "link": "https://www.ekonomim.com/dunya/iran-basini-ispanya-irandaki-buyukelciligini-yeniden-acti-haberi-887780",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya&#039;nın ABD ve İsrail&#039;in İran&#039;a saldırılarıyla başlayan savaş nedeniyle geçici olarak kapattığı Tahran Büyükelçiliği&#039;ni yeniden açtığı bildirildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/iran-basini-ispanya-irandaki-buyukelciligini-yeniden-acti-6j2z_cover.png",
     "keyword": null
   }
 ]
