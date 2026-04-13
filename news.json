@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1df8b4e4",
+    "title": "Artvin'de ambulans kazası: Hasta hayatını kaybetti, üç sağlık çalışanı yaralandı",
+    "source": "Evrensel",
+    "time": "13/04/2026 23:54",
+    "link": "https://www.evrensel.net/haber/5979425/artvinde-ambulans-kazasi-hasta-hayatini-kaybetti-uc-saglik-calisani-yaralandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şavşat’ta hastaneye giden ambulansın Çoraklı köyü yolunda kaza yapması sonucu bir hasta hayatını kaybetti; üç sağlık personeli ve bir hasta yakını yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342782.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_be24fd2e",
     "title": "Nijerya Hava Kuvvetleri yanlışlıkla pazarı vurdu: 200 sivil hayatını kaybetti",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Trendyol Süper Lig'in 29. haftasında Çaykur Rizespor, sahasında Gaziantep FK'yi 2-1 yendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a92f4c59",
-    "title": "BM: İsrail'in saldırıları sonucu Lübnan'ın güneyinde ölü sayısı 2 bini aştı",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 22:34",
-    "link": "https://www.aa.com.tr/tr/dunya/bm-israilin-saldirilari-sonucu-lubnanin-guneyinde-olu-sayisi-2-bini-asti/3904452",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler (BM), İsrail'in saldırılarının sürdüğü Lübnan'ın güneyinde bugüne kadar 2 binden fazla kişinin hayatını kaybettiğini bildirdi.",
     "image": null,
     "keyword": null
   }
