@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_752fdd14",
+    "title": "İstanbul'da 14 Nisan Salı büyük elektrik kesintileri olacak!",
+    "source": "Haber Global",
+    "time": "13/04/2026 16:15",
+    "link": "https://haberglobal.com/gundem/istanbulda-14-nisan-sali-buyuk-elektrik-kesintileri-olacak-518517",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BEDAŞ, İstanbul'da elektrik kesintilerinin yaşanacağını açıkladı. İşte 14 Nisan 2026 Salı planlı ve bakım çalışması amaçlı elektrik kesintilerinin olacağı ilçe ve mahalleler.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/istanbulda-14-nisan-sali-buyuk-elektrik-kesintileri-olacak-1qqh.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_353db89b",
     "title": "İstanbul'daki terör saldırısında gözaltına alınan 3 şüpheli tutuklandı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "İçişleri Bakanlığı, 56 ilde terör örgütü DEAŞ'a yönelik düzenlenen operasyonlarda 525 şüphelinin yakalandığını açıkladı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_de1c2c32",
-    "title": "Ankara’da Trabzon Rüzgarı! Onay Şahin’e Yoğun İlgi",
-    "source": "Taka Gazetesi",
-    "time": "13/04/2026 15:36",
-    "link": "https://www.takagazete.com.tr/ankarada-trabzon-ruzgari-onay-sahine-yogun-ilgi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Başkentte düzenlenen Trabzon Günleri’nde sahne alan Onay Şahin, performansı ve açıklamalarıyla dikkat çekti. Sanatçı, etkinliğin sadece Trabzonlularla sınırlı kalmadığını vurgulayarak kültürel birlikteliğin önemine dikkat çekti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/o-n-a-y-1.jpg",
-    "keyword": "trabzon"
   }
 ]
