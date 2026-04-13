@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1f68df4",
+    "title": "ABD'nin Hürmüz Boğazı'ndaki ablukasının başlamasının ardından Boğaz yönündeki iki tanker geri döndü",
+    "source": "TRT Haber",
+    "time": "13/04/2026 23:35",
+    "link": "https://www.trthaber.com/haber/dunya/abdnin-hurmuz-bogazindaki-ablukasinin-baslamasinin-ardindan-bogaz-yonundeki-iki-tanker-geri-dondu-941530.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin Hürmüz Boğazı'nda İran limanlarına giren veya bu limanlardan çıkan tüm gemilere yönelik deniz ablukası başlatmasının ardından iki tanker Boğaz yakınlarında rota değiştirerek geri döndü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7e8866fa",
     "title": "Seçimi kazanan Magyar: Macaristan Avrupa’ya dönmek istiyor",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Büyükşehir Belediyesi’nin 2025 Yılı Faaliyet Raporu, Büyükşehir Belediye Meclisi’nde görüşülerek yeterli bulundu. Başkan Genç, aynı tempo ile Trabzon'a hizmeti sürdüreceklerini söyledi.",
     "image": "https://resim.haber61.net/news/612574.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_210b4ae3",
-    "title": "Sakaryaspor, 2. Lig'e düştü",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 22:14",
-    "link": "https://www.aa.com.tr/tr/spor/sakaryaspor-2-lige-dustu/3904426",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol 1. Lig'in 35. haftasında sahasında Esenler Erokspor'a 2-1 mağlup olan Sakaryaspor, sezonun bitimine 3 hafta kala alt lige düştü.",
-    "image": null,
     "keyword": null
   }
 ]
