@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f8822517",
+    "title": "İstanbul'da kene ve sivrisinek alarmı: Valilik genelge yayımladı",
+    "source": "Evrensel",
+    "time": "13/04/2026 14:55",
+    "link": "https://www.evrensel.net/haber/5979443/istanbulda-kene-ve-sivrisinek-alarmi-valilik-genelge-yayimladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Valiliği, havaların ısınmasıyla birlikte artan vektörle bulaşan hastalıklara karşı genelge yayımladı. Karasinek, sivrisinek ve kene riskine karşı belediyelerden ve ilgili kurumlardan acil önlem alınması istendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342806.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_23989295",
     "title": "Çözünebilir lifler kolesterolü düşürebilir",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mete Gazoz, Meksika’nın Puebla kentinde düzenlenen Okçuluk Dünya Kupası 1. ayağında bireysel erkeklerde bronz madalya kazandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/3f34e7a0-7027-4259-871e-2445e3a86e71.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ac78937c",
-    "title": "Yozgat'ta IŞİD operasyonu: 3 tutuklama",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 14:15",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/yozgat-ta-isid-operasyonu-3-tutuklama-2494810",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yozgat'ta IŞİD terör örgütüne yönelik düzenlenen operasyonda gözaltına alınan 5 şüpheliden 3'ü tutuklanarak cezaevine gönderildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f96e4257-190d-48c3-b1b0-1f82a1f706a6.jpg",
     "keyword": null
   }
 ]
