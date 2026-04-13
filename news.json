@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3bc95198",
+    "title": "İrlanda'da spa'lı köy satışa çıktı",
+    "source": "Euronews",
+    "time": "13/04/2026 14:14",
+    "link": "http://tr.euronews.com/gezi/2026/04/13/irlandada-spali-koy-satisa-cikti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ryanair’ın kurucusu Tony Ryan’ın bir zamanlar sahibi olduğu The Village at Lyons, 47 odalı tesis, şimdilerde yaklaşık 20 milyon avroya satışta.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f04a31a8",
     "title": "Eski AB Konseyi Başkanı Michel: Macar zaferi, Avrupa'ya daha fazla birlik getirecek",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Akçaabat ilçesinde yaşayan 77 yaşındaki 3 çocuk babası İsmail Aslan, ileri yaşına rağmen gerçekleştirdiği üniversite okuma hayaliyle Türkiye'nin gündeminde yerini aldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/1-484.jpeg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c69f86e2",
-    "title": "Spor yazarları Galatasaray-Kocaelispor maçını değerlendirdi: Problem değişikliklerle arttı",
-    "source": "Evrensel",
-    "time": "13/04/2026 13:35",
-    "link": "https://www.evrensel.net/haber/5979423/spor-yazarlari-galatasaray-kocaelispor-macini-degerlendirdi-problem-degisikliklerle-artti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray’ın Kocaelispor ile 1-1 berabere kalması sonrası spor yazarları değerlendirmelerde bulundu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342781.jpg",
-    "keyword": null
   }
 ]
