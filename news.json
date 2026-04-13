@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80586146",
+    "title": "Hakkari-Van kara yolunda heyelan",
+    "source": "Haber Global",
+    "time": "13/04/2026 16:35",
+    "link": "https://haberglobal.com/gundem/hakkari-van-kara-yolunda-heyelan-518523",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari-Van kara yolunda ulaşım, meydana gelen heyelan nedeniyle kontrollü olarak sağlanıyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/hakkari-van-kara-yolunda-heyelan-6cpc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_befe9e30",
     "title": "14 Nisan ne günü? 14 Nisan'ın anlam ve önemi ne?",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Özçelik-İş Kayseri Şubesi Genel Kurulu’nda mevcut yönetim 119 oyla yeniden seçildi; sürekli mevcut sistemi değiştirmek isteyenlere üstü kapalı tehditlerin yapıldığı genel kurul \"demokrasi nerede?\" sorusunu da akıllara getirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342820.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2109d142",
-    "title": "Buca Belediyesi çalışanlarının alacakları için eylemleri devam ediyor",
-    "source": "Evrensel",
-    "time": "13/04/2026 15:55",
-    "link": "https://www.evrensel.net/haber/5979453/buca-belediyesi-calisanlarinin-alacaklari-icin-eylemleri-devam-ediyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Buca Belediyesi çalışanları ödenmeyen TİS alacakları ve sosyal hakları için eylem yaparken, sendika yönetimi açıklanan ödeme planına uyulmadığını ve emekçilerin ekonomik kriz karşısında yalnız bırakıldığını söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342821.jpg",
     "keyword": null
   }
 ]
