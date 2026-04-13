@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fedb6f26",
+    "title": "Akdeniz'de 4,7 büyüklüğünde deprem",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 09:14",
+    "link": "https://www.aa.com.tr/tr/gundem/akdenizde-4-7-buyuklugunde-deprem/3903317",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akdeniz'de saat 08.48'de 4,7 büyüklüğünde deprem meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f650fd68",
     "title": "Hakan Çalhanoğlu asist yaptı: İnter deplasmanda kazandı",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da kentsel dönüşümle yerlerinden olan sokak hayvanları Boztepe’ye sığınırken, mahalle sakinleri artan kedi ölümlerine isyan etti; “kedi var” tabelası, hız kesici ve denetim talep ediliyor.",
     "image": "https://resim.haber61.net/news/612447.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_fba67f29",
-    "title": "Trabzonspor zorda! Onuachu'dan haber var",
-    "source": "61 Saat",
-    "time": "13/04/2026 08:14",
-    "link": "https://www.61saat.com/trabzonspor-zorda-onuachudan-haber-var",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bordo-mavililer, yıldız golcüsünün yokluğunda bir kez daha üretmekte zorlandı. Puan kayıpları dikkat çekti.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/inuahu1.webp",
-    "keyword": null
   }
 ]
