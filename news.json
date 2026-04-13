@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a8d82b16",
+    "title": "DMM: Türkiye'nin İsrail'e yönelik işgal tehdidinde bulunduğu iddiaları asılsız",
+    "source": "TRT Haber",
+    "time": "13/04/2026 06:34",
+    "link": "https://www.trthaber.com/haber/gundem/dmm-turkiyenin-israile-yonelik-isgal-tehdidinde-bulundugu-iddialari-asilsiz-941421.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, bazı sosyal medya mecralarında Cumhurbaşkanı Recep Tayyip Erdoğan'a atfen yer alan \"Türkiye'nin İsrail'e yönelik işgal tehdidinde bulunduğu\" yönündeki iddiaların tamamen asılsız olduğunu duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_28f0b0b9",
     "title": "Doğal olmadığı halde, kadınlar neden sırtüstü yatarak doğum yapmaya başladı?",
     "source": "BBC Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Dışişleri Bakanı Erakçi, Pakistanda gerçekleştirilen İranABD müzakerelerine ilişkin, \"İslamabad mutabakatına birkaç adım kala aşırı iddialı, sürekli değişen hedefler ve abluka tehdidiyle karşı karşıya kaldık\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_332670db",
-    "title": "Macaristan'da seçimi kazanan Magyar: Macaristan tekrar Avrupa ülkesi olmak istiyor",
-    "source": "TRT Haber",
-    "time": "13/04/2026 02:34",
-    "link": "https://www.trthaber.com/haber/dunya/macaristanda-secimi-kazanan-magyar-macaristan-tekrar-avrupa-ulkesi-olmak-istiyor-941414.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan'da seçimi kazanan Saygı ve Özgürlük Partisi'nin Tisza lideri Peter Magyar, ilk açıklamasında \"Macaristan tekrar Avrupa ülkesi olmak, Avrupa'ya dönmek istiyor\" açıklamasını yaptı.",
     "image": null,
     "keyword": null
   }
