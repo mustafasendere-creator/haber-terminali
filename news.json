@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fa75a12e",
+    "title": "İstanbul'daki uyuşturucu soruşturmasında gözaltına alınan 8 kişi tutuklandı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 21:35",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-uyusturucu-sorusturmasinda-gozaltina-alinan-8-kisi-tutuklandi-941522.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da uyuşturucu soruşturması kapsamında düzenlenen operasyonda gözaltına alınan 19 şüpheliden 8'i tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3d414aa6",
     "title": "Lufthansa'da yeni grev duyuruldu: Yüzlerce uçuş etkilenecek",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Üniversitesi ev sahipliğinde düzenlenen FOAI-16 etkinliği, Türkiye genelinden akademisyenleri bir araya getirerek akademik iş birliği ve mesleki gelişime katkı sağladı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/whatsapp-image-2026-04-13-at-201932-1.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_62305264",
-    "title": "Bölgemizde dev boynuzlu keçinin dar mağaraya girdiği anlar kameraya yansıdı",
-    "source": "Haber61",
-    "time": "13/04/2026 20:34",
-    "link": "https://www.haber61.net/gumushane/bolgemizde-dev-boynuzlu-kecinin-dar-magaraya-girdigi-anlar-kameraya-h629514.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Gümüşhane’nin sarp kayalıklarında devasa boynuzlarına rağmen dar bir mağaraya ustalıkla giren dağ keçisinin görüntüleri doğaseverlerden büyük ilgi gördü.",
-    "image": "https://resim.haber61.net/news/612567.jpg",
     "keyword": null
   }
 ]
