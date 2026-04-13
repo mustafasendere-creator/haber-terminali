@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8cefb1a2",
+    "title": "Beyoğlu'nda 5 katlı binada yangın",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 13:36",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/beyoglu-nda-5-katli-binada-yangin-2494793",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyoğlu'nda 5 katlı binanın bodrum katında çıkan yangın itfaiye ekipleri tarafından kısa sürede söndürüldü. Dumandan etkilenen 2 kişiye ayakta müdahale edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c038c810-cad7-4f88-bf2c-90deb3a8278b.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ff3c8637",
     "title": "Değişim ve güçlü başlangıçlar dönemi: 17 Nisan Koç Yeniayı ve burçlara etkileri...",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adana'da kadınları masaj salonlarında çalıştırıp fuhşa zorladıkları iddiasıyla gözaltına alınan 12 şüpheliden 9'u tutuklandı. Operasyonda 9 kadın ise kurtarıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8026654b-460e-4daa-ad1f-5df58b94c7c2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1c509d11",
-    "title": "Takım otobüsüne silahlı saldırı: 20 yaşındaki futbolcu hayatını kaybetti",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 12:56",
-    "link": "https://www.cumhuriyet.com.tr/spor/takim-otobusune-silahli-saldiri-20-yasindaki-futbolcu-hayatini-kaybetti-2494784",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gana kulübü Berekum Chelsea'de forma giyen 20 yaşındaki futbolcu Dominic Frimpong, silahlı soyguncuların takım otobüsüne düzenlediği saldırıda hayatını kaybetti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/afafb071-7871-412a-8372-e91369f4d1ca.jpg",
     "keyword": null
   }
 ]
