@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_787e00b5",
+    "title": "Erzincan'da 4,0 büyüklüğünde deprem",
+    "source": "Sözcü",
+    "time": "13/04/2026 19:35",
+    "link": "https://www.sozcu.com.tr/erzincan-deprem-13-nisan-2026-p309919",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzincan'da 4,0 büyüklüğünde deprem",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/sozcu-son-dakika-aciljpg-mp-2HQqSxk68YgXG_O1T0w.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5a045d7c",
     "title": "AKP Sözcüsü Çelik'ten 'Uganda' sorusuna yanıt: 'Umarız ki bundan sonrasında...'",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Cumhuriyet Halk Partisi Trabzon Milletvekili Sibel Suiçmez, Karadeniz’in büyük bir bölümünde devam eden maden arama çalışmalarına ilişkin basın toplantısı düzenledi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/mansetler-1-322.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_07f5cde4",
-    "title": "İran’dan Hürmüz Boğazı Uyarısı; “Düşmanla Bağlantıya Geçiş Yok”",
-    "source": "Taka Gazetesi",
-    "time": "13/04/2026 18:35",
-    "link": "https://www.takagazete.com.tr/irandan-hurmuz-bogazi-uyarisi-dusmanla-baglantiya-gecis-yok",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İran, Hürmüz Boğazı’ndan düşmanla bağlantılı gemilerin geçişine izin verilmeyeceğini açıkladı. Bölgedeki gerilim yeniden yükseldi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/cd59a799-7be7-4b80-b314-6bfbdcf0d775.jpg",
-    "keyword": null
   }
 ]
