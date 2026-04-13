@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e98d777a",
+    "title": "Hulusi Akar’ı utandıracak kitap",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 05:54",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-terkoglu/hulusi-akar-i-utandiracak-kitap-2494638",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "“Zifiri karanlık bir süreçten geçiyoruz ve maalesef çok az kişi aydınlığı unutmadı.”",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar380_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_2c62b624",
     "title": "İBB davası tutuklularından korkunç cezaevi iddiaları: İlacı mazgaldan vereceğiz!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli atlet Ayşe Aslan, Brezilya'da düzenlenen Dünya Takımlar Yürüyüş Şampiyonası'nda kendisine ait Türkiye rekorunu kırdı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/f0dd27f8-7589-4b36-9795-28258253e096.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e5c6d956",
-    "title": "Malatya'da maden işçilerini taşıyan minibüs devrildi: 2 ölü, 10 yaralı",
-    "source": "TRT Haber",
-    "time": "13/04/2026 02:14",
-    "link": "https://www.trthaber.com/haber/turkiye/malatyada-maden-iscilerini-tasiyan-minibus-devrildi-2-olu-10-yarali-941412.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Malatya'nın Hekimhan ilçesinde maden işçilerini taşıyan servis minibüsünün şarampole devrilmesi sonucu 2 kişi öldü, 10 kişi yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
