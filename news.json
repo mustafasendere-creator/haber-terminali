@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5ce7f5ce",
+    "title": "Eski eşler veli toplantısında buluştu",
+    "source": "Habertürk",
+    "time": "13/04/2026 11:16",
+    "link": "https://www.haberturk.com/pelin-akil-ile-anil-altan-veli-toplantisinda-bulustu-magazin-haberleri-3876860-magazin",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Geçtiğimiz yıl ayrılan oyuncu Pelin Akil ile Anıl Altan, ikiz çocukları Alin ve Lina'nın veli toplantısı için bir araya geldi",
+    "image": "https://im.haberturk.com/l/2026/04/13/ver1776056847/3876860/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_a3e933b8",
     "title": "Otomobil fiyatları için zam uyarısı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Trafik Tiyatro Ekibi Kurucusu Çağrı Yılmaz, şehirde sahne yetersizliğine dikkat çekti. Yılmaz, yüksek maliyetler ve teknik eksiklikler nedeniyle özel tiyatroların turneye yöneldiğini söyledi.",
     "image": "https://resim.haber61.net/news/612473.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9da7551d",
-    "title": "5G teknolojisi ile trafikte geçen zaman minimize edilecek",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 10:54",
-    "link": "https://www.aa.com.tr/tr/bilim-teknoloji/5g-teknolojisi-ile-trafikte-gecen-zaman-minimize-edilecek/3903403",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Turkcell Genel Müdürü Koç,  \"Akıllı sürüş ve akıllı yollar sayesinde hem trafik kazalarının azalacağını hem de daha verimli, daha az emisyonlu ama zamanımızın da yolda daha az geçtiği bir dünyaya doğru gidiyoruz.\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
