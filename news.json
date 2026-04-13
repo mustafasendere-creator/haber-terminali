@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e2e1e8c2",
+    "title": "Türk ayakkabı devi iflas etti!",
+    "source": "Sözcü",
+    "time": "13/04/2026 23:55",
+    "link": "https://www.sozcu.com.tr/turk-ayakkabi-devi-iflas-etti-p309957",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk ayakkabı devi iflas etti!",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/76jpg-2bxLnmJ8bECY-eounYwYPw.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a29f4b96",
     "title": "Çaykur Rizespor, Gaziantep FK'yi geriden gelerek devirdi!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Samsunspor, Süper Lig'in 29. haftasında deplasmanda karşılaştığı Eyüpspor'u 2-1 mağlup etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/591e2638-7e6b-49a3-b8e0-a9566c8ed898.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_dc4b599e",
-    "title": "Gaziantep FK'da Burak Yılmaz istifa etti",
-    "source": "Haber Global",
-    "time": "13/04/2026 22:35",
-    "link": "https://haberglobal.com/spor/gaziantep-fkda-burak-yilmaz-istifa-etti-518558",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'de Gaziantep FK Teknik Direktörü Burak Yılmaz, istifa ettiğini açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/gaziantep-fkda-burak-yilmaz-istifa-etti-oopd.jpg",
     "keyword": null
   }
 ]
