@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5972e993",
+    "title": "Son Dakika... 6 yıldır kayıp olan Gülistan Doku'nun dosyasında yeni gelişme: 7 ilde 13 gözaltı!",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 00:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-6-yildir-kayip-olan-gulistan-doku-sorusturmasinda-yeni-gelisme-7-ilde-13-gozalti-2494992",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "6 yıldır kayıp olan Gülistan Doku soruşturmasında 7 ilde 13 şüpheli hakkında gözaltı kararı verildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_db7265c7",
     "title": "Şanlıurfa merkezli 8 ildeki DEAŞ operasyonunda 18 tutuklama",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İngiltere Premier Lig'in 32. haftasında Manchester United'ın Leeds United'ı konuk ettiği maçta ilginç bir olay yaşandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/lisandro-martinez-rakibinin-sacini-cektigi-icin-kirmizi-kart-gordu-dmvx.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f6d3cece",
-    "title": "ABD Başkanı Trump, dün Hürmüz Boğazı'ndan 34 geminin geçtiğini belirtti",
-    "source": "TRT Haber",
-    "time": "13/04/2026 23:35",
-    "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-dun-hurmuz-bogazindan-34-geminin-gectigini-belirtti-941528.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, dün Hürmüz Boğazı'ndan 34 geminin geçtiğini ve bu sayının İran'ın boğazı \"kapatmasının\" ardından en yüksek sayı olduğunu ifade etti.",
-    "image": null,
     "keyword": null
   }
 ]
