@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff03561d",
+    "title": "Aydın'da evde patlama! Kahreden haber!",
+    "source": "Habertürk",
+    "time": "13/04/2026 13:56",
+    "link": "https://www.haberturk.com/aydin-da-evde-patlama-kahreden-haber-3876746",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aydın'da 5 katlı bir apartmanın 1'inci katında patlama meydana geldi. Olayda çıkan yangında 28 yaşındaki engelli Arda Umut Balıkçı hayatını kaybederken, annesi Zehra Puyan yaralandı",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1775992346/3876746/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ce65e9e6",
     "title": "10 ton kaçak midye ele geçirildi",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Spor kamuoyunun iddialarına göre Trabzonspor’da gündeme gelen 4 isim dikkat çekti. Ian Subiabre, Rafael Coutinho, Matviy Ponomarenko ve Daniel Karlsbakkn gibi isimlerle ilgilenildiği iddia edildi.",
     "image": "https://resim.haber61.net/news/612510.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d679e591",
-    "title": "Massive Attack solisti Robert Del Naja gözaltına alındı",
-    "source": "OdaTV",
-    "time": "13/04/2026 13:16",
-    "link": "https://www.odatv.com/dunya/massive-attack-solisti-robert-del-naja-gozaltinda-120143121",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Massive Attack grubunun solisti Robert Del Naja, Londra’da katıldığı bir protestoda gözaltına alındı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/massive-attack-solisti-robert-del-naja-gozaltinda-njmw.jpg",
     "keyword": null
   }
 ]
