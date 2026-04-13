@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dca30413",
+    "title": "Fabrikada sanayi tipi tüp patladı: 1’i ağır 3 işçi yaralandı",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 00:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/fabrikada-sanayi-tipi-tup-patladi-1-i-agir-3-isci-yaralandi-2494991",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Arnavutköy’de metal fabrikasının imalat bölümünde bulunan sanayi tipi tüpte bilinmeyen nedenle patlama oldu. Patlama nedeniyle çıkan yangın itfaiye ekiplerince söndürülürken fabrikada çalışan yabancı uyruklu 3 işçi yaralandı. İşçilerden birinin durumunun ağır olduğu ve entübe edildiği öğrenildi. Olayla polis ekiplerince ilgili inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a0a81a68-e7b9-4af7-8abc-a84fc8c83133.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_13ddb7df",
     "title": "Burak Yılmaz: Ben istifa ediyorum, bıktım çünkü",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Amed SK, TFF 1. Lig'in 35. haftasında kendi sahasında ağırladığı Ümraniyespor ile 2-2 berabere kaldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9b64bd95-00b7-4a96-a6cf-2ce2bed8b98f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1b2309aa",
-    "title": "ABD'nin Hürmüz ablukası Avrupa'yı vurdu: Belçika'da akaryakıt kuyrukları",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 23:14",
-    "link": "https://www.cumhuriyet.com.tr/dunya/abd-nin-hurmuz-ablukasi-avrupa-yi-vurdu-belcika-da-akaryakit-kuyruklari-2494971",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Belçika’da ABD'nin Hürmüz Boğazı ablukası ve İran müzakerelerinden sonuç çıkmaması nedeniyle akaryakıt fiyatlarına zam yapılacağı haberi, akaryakıt istasyonlarında kuyruklar oluşmasına neden oldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/579aebb5-aeae-4d7f-83c4-7848b21d234e.jpg",
     "keyword": null
   }
 ]
