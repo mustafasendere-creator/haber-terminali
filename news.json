@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ab217d87",
+    "title": "15 gün sonra hayatını kaybetti",
+    "source": "Habertürk",
+    "time": "13/04/2026 13:16",
+    "link": "https://www.haberturk.com/malatya-da-traktor-kazasinda-yaralanan-ugurcan-15-gunluk-yasam-savasini-yitirdi-3876770",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya'da meydana gelen kazada, Gaffar Kaya’nın kontrolünü kaybettiği traktör devrildi. Kazada Gaffar Kaya ile kuzeni Uğurcan Kaya yaralanarak hastaneye kaldırıldı. Uğurcan Kaya, 15 gün sonra hayatını kaybetti. Sürücünün tedavisi sürüyor",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1776000172/3876770/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_f1c1811e",
     "title": "Küresel Sumud Filosu yola çıktı",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "İran Meclisi Ulusal Güvenlik Komisyonu Başkanı İbrahim Azizi, ABD'nin Hürmüz Boğazı'nı ablukaya alma girişimine ilişkin, \"Belki diğer kartlarımızı ortaya koyarız.\" dedi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "SOC_828f6647",
-    "title": "hilmi hacaloğlu (@hilmihacaloglu) / Posts / X - x.com",
-    "source": "X",
-    "time": "13/04/2026 12:35",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CYzc3Rm5ab1NydEMzdWhLdWFueUM4Y21EVkJfTF84T1RPZjV5SEdQU09CSlNLZmxZb2pMb1VTekoxdw",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "hilmi hacaloğlu (@hilmihacaloglu) / Posts / X  x.com",
-    "image": null,
-    "keyword": "agos"
   }
 ]
