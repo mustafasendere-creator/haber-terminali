@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e9b9f7fb",
+    "title": "Akdeniz'de 4.7 büyüklüğünde deprem",
+    "source": "Haber Global",
+    "time": "13/04/2026 09:35",
+    "link": "https://haberglobal.com/gundem/son-dakika-akdenizde-47-buyuklugunde-deprem-518427",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberine göre, AFAD, Akdeniz'de 4.7 büyüklüğünde bir deprem meydana geldiğini bildirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/son-dakika-akdenizde-47-buyuklugunde-deprem-jqkj.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_303d9d3e",
     "title": "Araçta gizli bölmelerden uyuşturucu çıktı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Ara transferde kadroya katılan Norveçli sol bek Matias Lovik, forma şansı bulmasına rağmen performansıyla beklentilerin gerisinde kaldı",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/tes2.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_71934978",
-    "title": "Ankara’da Trabzon, 1,5 milyonluk iz bıraktı",
-    "source": "61 Saat",
-    "time": "13/04/2026 08:35",
-    "link": "https://www.61saat.com/ankarada-trabzon-15-milyonluk-iz-birakti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Başkent’te düzenlenen Trabzon Günleri sona erdi ancak 1,5 milyonu aşan ziyaretçi ve ortaya çıkan atmosfer uzun süre konuşulacak izler bıraktı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/izbirakti.webp",
     "keyword": "trabzon"
   }
 ]
