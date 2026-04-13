@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c302283",
+    "title": "Suudi Arabistanda çöller dolu yağışıyla beyaza büründü",
+    "source": "TRT Haber",
+    "time": "14/04/2026 00:15",
+    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-coller-dolu-yagisiyla-beyaza-burundu-941534.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan'ın Riyad kentinde meydana gelen yoğun dolu yağışının ardından çöller beyaza büründü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e13da1ce",
     "title": "Pezeşkiyan'dan Hürmüz'e yönelik tehdidin geniş kapsamlı sonuçları olur uyarısı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ESP Genel Başkan Yardımcısı Sezin Uçar, Avrupa seyahati dönüşü İstanbul havaalanından gözaltına alındı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342874.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0bebd28f",
-    "title": "ABD'nin İran limanlarına yönelik ablukası başladı: Trump'tan gemilere tehdit",
-    "source": "Euronews",
-    "time": "13/04/2026 22:54",
-    "link": "http://tr.euronews.com/2026/04/13/abdnin-iran-limanlarina-yonelik-ablukasi-basladi-trumptan-gemilere-tehdit",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pazar günü sosyal medya hesabından yaptığı paylaşımda Trump, amacının Hürmüz Boğazı'nı mayınlardan temizlemek ve deniz taşımacılığına yeniden açmak olduğunu, ancak İran'ın kilit su yolunu kontrol ederek kâr elde etmesine izin verilmemesi gerektiğini yazdı.",
-    "image": null,
     "keyword": null
   }
 ]
