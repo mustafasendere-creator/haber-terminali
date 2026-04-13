@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c32b4bc",
+    "title": "Bu nasıl maç: Futbolcu tutuklandı",
+    "source": "OdaTV",
+    "time": "14/04/2026 00:35",
+    "link": "https://www.odatv.com/guncel/bu-nasil-mac-futbolcu-tutuklandi-120143198",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mardin&#039;de amatör maçtaki kavgada futbolcunun elmacık kemiğini kıran futbolcu tutuklandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/bu-nasil-mac-futbolcu-tutuklandi-lddb.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d91237d9",
     "title": "New York borsası günü yükselişle kapattı",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "CHP Ortahisar Belediye Meclis Üyesi Serdar Çebi, İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu’na destek için planladığı Trabzon-Silivri yürüyüşü öncesi sağlık sorunları nedeniyle operasyon geçirdi.",
     "image": "https://resim.haber61.net/news/612581.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b1792b5c",
-    "title": "Hakkari'de trafik kazası: 3 yaralı",
-    "source": "Gazete Duvar",
-    "time": "13/04/2026 23:34",
-    "link": "https://www.gazeteduvar.com.tr/hakkaride-trafik-kazasi-3-yarali-haber-1765811",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hakkari&#039;nin Derecik ilçesinde minibüsün şarampole yuvarlanması sonucu 3 kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/13/basliksiz-1-dvav_cover.jpg",
-    "keyword": null
   }
 ]
