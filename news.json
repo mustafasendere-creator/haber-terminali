@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1df0f6b2",
+    "title": "Hürmüz: Savaş ile barışın arasındaki 33 kilometre",
+    "source": "TRT Haber",
+    "time": "13/04/2026 11:55",
+    "link": "https://www.trthaber.com/haber/ekonomi/hurmuz-savas-ile-barisin-arasindaki-33-kilometre-941470.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ve İsrail ile İran arasındaki gerilim kırılgan bir ateşkes sürecine girerken, küresel ekonominin can damarı Hürmüz Boğazı savaşın kaderini tayin ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_dab74b1d",
     "title": "Balık av sezonu biterken, balıkçılar sezonu değerlendirdi",
     "source": "Karadeniz Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Oyuncu Barış Arduç, Milano'daki Jiu-Jitsu şampiyonasında 85 kilo hafif ağır sıklet kategorisinde altın madalya kazandı",
     "image": "https://im.haberturk.com/l/2026/04/13/ver1776055169/3876850/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_5ce7f5ce",
-    "title": "Eski eşler veli toplantısında buluştu",
-    "source": "Habertürk",
-    "time": "13/04/2026 11:16",
-    "link": "https://www.haberturk.com/pelin-akil-ile-anil-altan-veli-toplantisinda-bulustu-magazin-haberleri-3876860-magazin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Geçtiğimiz yıl ayrılan oyuncu Pelin Akil ile Anıl Altan, ikiz çocukları Alin ve Lina'nın veli toplantısı için bir araya geldi",
-    "image": "https://im.haberturk.com/l/2026/04/13/ver1776056847/3876860/jpg/1280x1280",
     "keyword": null
   }
 ]
