@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f456ccc8",
+    "title": "İsrail'den İran'a yeniden saldırı iması",
+    "source": "Habertürk",
+    "time": "13/04/2026 14:16",
+    "link": "https://www.haberturk.com/israilli-bakanlar-iran-a-saldirilarin-yeniden-baslayabilecegine-isaret-etti-3876744",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrailli bakanlar, Pakistan'ın başkenti İslamabad'daki müzakerelerden sonuç çıkmamasının ardından ABD-İsrail'in İran'a yönelik saldırılara yeniden başlayabileceğini ileri sürdü.",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1775992325/3876744/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ee8aa688",
     "title": "Mete Gazoz’dan 3 madalyalı açılış",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şanlıurfa-Akçakale kara yolunda sürücüsünün direksiyon hakimiyetini kaybettiği otomobil bariyerlere çarparak devrildi. Kazada sürücü Fethullah Fevzioğlu’nun hayatını kaybettiği belirlendi. Kazayla ilgili inceleme başlatıldı",
     "image": "https://im.haberturk.com/l/2026/04/12/ver1775993672/3876752/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_f5042139",
-    "title": "Bungalov operasyonu: 9 tutuklama",
-    "source": "Habertürk",
-    "time": "13/04/2026 13:36",
-    "link": "https://www.haberturk.com/diyarbakir-merkezli-bungalov-dolandiriciligi-operasyonu-9-tutuklama-3876753",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sahte internet siteleri ve sosyal medya hesapları üzerinden bungalov ev kiralama vaadiyle dolandırıcılık yapan şüphelilere yönelik 8 ilde operasyon düzenlendi. Operasyonda 15 şüpheli gözaltına alındı, 9’u tutuklandı. Şüphelilerin hesaplarında 210 milyon lirayı aşan işlem hacmi tespit edildi",
-    "image": "https://im.haberturk.com/l/2026/04/12/ver1775994546/3876753/jpg/1280x1280",
     "keyword": null
   }
 ]
