@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7bbb76ff",
+    "title": "İliç maden katliamı davasında mütalaa: 13 sanığa “bilinçli taksir”den ceza talebi",
+    "source": "Evrensel",
+    "time": "13/04/2026 14:35",
+    "link": "https://www.evrensel.net/haber/5979437/ilic-maden-katliami-davasinda-mutalaa-13-saniga-bilincli-taksirden-ceza-talebi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İliç'te 9 işçinin yaşamını yitirdiği maden katliamına ilişkin davada esas hakkında mütalaasını açıklayan Cumhuriyet savcısı, 13 sanığın \"bilinçli taksirle birden fazla kişinin ölümüne ve yaralanmasına neden olmak\" suçundan cezalandırılmasını istedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/333748.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_38fdb130",
     "title": "Doruk Madencilik işçileri Ankara yolunda: “Hakkımızı almadan dönüş yok”",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Erzin ve Dörtyol’da bir araya gelen çevre örgütleri, planlanan sanayi yatırımlarının durdurulmasını istedi. Bölgede tarım, su kaynakları ve halk sağlığının tehdit altında olduğu vurgulandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342790.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_58c6c765",
-    "title": "Başkan Genç’e Teşekkür Plaketi: Yomra’da İş Birliği Vurgusu",
-    "source": "Taka Gazetesi",
-    "time": "13/04/2026 13:55",
-    "link": "https://www.takagazete.com.tr/baskan-gence-tesekkur-plaketi-yomrada-is-birligi-vurgusu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç’e, Yomra’daki yol yenileme çalışmaları nedeniyle teşekkür plaketi verildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/567928cc-7c09-4669-b0b1-b4cbae568eb5-1.jpg",
-    "keyword": "trabzon"
   }
 ]
