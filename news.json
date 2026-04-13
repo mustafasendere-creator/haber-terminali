@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f5ad54fd",
+    "title": "Volkswagen Grubu'nun küresel satışlarında gerileme sürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 13:34",
+    "link": "https://www.aa.com.tr/tr/ekonomi/volkswagen-grubunun-kuresel-satislarinda-gerileme-suruyor/3903839",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman otomotiv üreticisi Volkswagen Grubu, 2026 yılının ilk çeyreğinde Çin ve ABD pazarlarındaki talep daralması nedeniyle küresel teslimatlarının geçen yılın aynı dönemine göre yüzde 4 azaldığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_28aeaed1",
     "title": "Papa 14. Leo'dan ABD Başkanı Trump'a yanıt: Savaşa karşı yüksek sesle konuşmaya devam edeceğim",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortahisar Belediye Başkanı Ahmet Kaya’ya, belediye yönetimi makamında sürpriz doğum günü kutlaması yaptı. Başkan Kaya, pastasını üflemeden önce Türkiye için barış, huzur, adalet ve güzel günler diledi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/fds-80.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_53563b48",
-    "title": "Anket: Almanya Şansölyesi Merz, dünyanın 'en sevilmeyen' hükümet başkanı",
-    "source": "Euronews",
-    "time": "13/04/2026 12:55",
-    "link": "http://tr.euronews.com/2026/04/13/anket-almanya-sansolyesi-merz-dunyanin-en-sevilmeyen-hukumet-baskani",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anketler, Almanya Şansölyesi Friedrich Merz'in 24 demokratik ülke arasında en düşük halk desteğine sahip lider olduğunu gösteriyor. Merz, Narendra Modi, Lee Jae-myung ve Andrej Babiš gibi isimlerin onay oranlarının bir hayli gerisinde kaldı.",
-    "image": null,
     "keyword": null
   }
 ]
