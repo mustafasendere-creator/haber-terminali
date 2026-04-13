@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cbfe9114",
+    "title": "FBI, silinen Signal mesajlarına nasıl erişti?",
+    "source": "Euronews",
+    "time": "13/04/2026 22:14",
+    "link": "http://tr.euronews.com/next/2026/04/13/fbi-silinen-signal-mesajlarina-nasil-eristi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Signal uçtan uca şifreleme protokolünü geliştirmesiyle tanınıyor. Ancak FBI'ın, uçtan uca şifreli Signal mesajlarını silinmiş oldukları halde bir şüpheliye ait telefondan okuyabilmesi tartışma yarattı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_f0c2079a",
     "title": "Trabzon Büyükşehir Meclisi'nden dev bütçeli onay: Öğrenci kartları ve yeni projeler netleşti",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "İzmir'de İZBETON'da usulsüzlük iddialarına yönelik operasyonda tutuklanan CHP Ankara İl Başkanı Ümit Erkol, hakkındaki zimmet ve dolandırıcılık iddialarını reddederek, tahliyesini talep etti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/tutuklanan-chp-ankara-il-baskani-erkolun-ifadesi-ortaya-cikti-vk8f.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_680e7fa3",
-    "title": "Ouali şehirde ilgi odağı oldu!",
-    "source": "61 Saat",
-    "time": "13/04/2026 20:55",
-    "link": "https://www.61saat.com/ouali-sehirde-ilgi-odagi-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un genç yıldızı Oulai, şehirde gezerken görüntülendi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/4-kopya-252.png",
-    "keyword": "trabzon"
   }
 ]
