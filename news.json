@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_26b1546b",
+    "title": "Antalya'da depremi fark edince sokağa fırladılar",
+    "source": "Haber Global",
+    "time": "13/04/2026 12:15",
+    "link": "https://haberglobal.com/gundem/antalyada-depremi-fark-edince-sokaga-firladilar-518475",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Demre ilçesi açıklarında bu sabah 5 dakika arayla meydana gelen 3.5 ve 4.7 büyüklüğünde deprem anı, işyeri güvenlik kameralarına yansıdı yansıdı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/antalyada-depremi-fark-edince-sokaga-firladilar-nvwy.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b2cecf76",
     "title": "İSKİ 13 Nisan 2026 verilerini açıkladı! İstanbul'da baraj doluluk oranları belli oldu",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Nevşehir'de sabah saatlerinde doğal soğuk hava deposunda devrilen forkliftin altında kalan işçi yaşamını yitirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/nevsehirde-feci-olay-devrilen-forkliftin-altinda-kalip-can-verdi-pk0v.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_9f191673",
-    "title": "Kızlarda Trabzon erkeklerde Muğla birinci oldu",
-    "source": "Taka Gazetesi",
-    "time": "13/04/2026 11:36",
-    "link": "https://www.takagazete.com.tr/kizlarda-trabzon-erkeklerde-mugla-birinci-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Off / Klasman Masa Tenisi müsabakaları, büyük bir heyecanın ardından tamamlandı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/kizlarda-trabzon-erkeklerde-mugla-birinci-oldu.jpg",
-    "keyword": "trabzon"
   }
 ]
