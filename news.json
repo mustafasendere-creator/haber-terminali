@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b1792b5c",
+    "title": "Hakkari'de trafik kazası: 3 yaralı",
+    "source": "Gazete Duvar",
+    "time": "13/04/2026 23:34",
+    "link": "https://www.gazeteduvar.com.tr/hakkaride-trafik-kazasi-3-yarali-haber-1765811",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari&#039;nin Derecik ilçesinde minibüsün şarampole yuvarlanması sonucu 3 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/13/basliksiz-1-dvav_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d71796d5",
     "title": "Bakan Güler'den Katar Türk Birleşik Müşterek Kuvvet Komutanlığına ziyaret",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Devrim Muhafızları Ordusu (DMO) Sözcüsü ve Halkla İlişkilerden Sorumlu Yardımcısı Hüseyin Muhibbi, \"Savaş devam ederse, düşmanın hiçbir şekilde tasavvur edemeyeceği kapasite ve kabiliyetleri devreye sokacağız\" dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/b0567d2a-de71-46d1-8982-e42d5d67de62.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f4eda690",
-    "title": "Uzak Doğu rüzgarı sofralarınızda: Pratik ve görsel şölen kimbap tarifi",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 21:55",
-    "link": "https://www.cumhuriyet.com.tr/gurme/uzak-dogu-ruzgari-sofralarinizda-pratik-ve-gorsel-solen-kimbap-tarifi-2494947",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son yıllarda tüm dünyayı etkisi altına alan Kore kültürünün en sevilen, sokak lezzetlerinden piknik sepetlerine uzanan meşhur yemeği \"Kimbap\" tarifi...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b0fa2e29-5090-42aa-bbb3-76bbed91d3ce.jpg",
     "keyword": null
   }
 ]
