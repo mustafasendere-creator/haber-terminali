@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dac87d5f",
+    "title": "The Telegraph Erdoğan haberini kaldırdı",
+    "source": "OdaTV",
+    "time": "13/04/2026 20:36",
+    "link": "https://www.odatv.com/guncel/the-telegraph-erdogan-haberini-kaldirdi-120143183",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "The Telegraph Cumhurbaşkanı Erdoğan&#039;a yönelik asılsız iddiaları içeren haberini kaldırdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/the-telegraph-erdogan-haberini-kaldirdi-dff5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4e49aa96",
     "title": "Kenan Doğulu acı haberi duyurdu",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Haber61 ekranlarında yayınlanan Spor Gündemi programında Trabzonspor’un Alanyaspor deplasmanında bıraktığı 2 puan masaya yatırıldı; Tuncay Lakot hakem kararlarına tepki gösterdi.",
     "image": "https://resim.haber61.net/news/612565.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9bcd25fa",
-    "title": "TCMB Başkanı Karahan, ABD programı kapsamında New York'ta sunum yaptı",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 19:55",
-    "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-abd-programi-kapsaminda-new-yorkta-sunum-yapti/3904275",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, ABD programı kapsamında New York'ta ilk sunumunu gerçekleştirdi.",
-    "image": null,
     "keyword": null
   }
 ]
