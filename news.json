@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8812dfc0",
+    "title": "Mersin Limanı’nda direniş 103. gününde: 'İşimizi geri alana kadar mücadele sürecek'",
+    "source": "Evrensel",
+    "time": "13/04/2026 16:34",
+    "link": "https://www.evrensel.net/haber/5979460/mersin-limaninda-direnis-103-gununde-isimizi-geri-alana-kadar-mucadele-surecek",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MIP ve taşeron firmada işten çıkarılan 180 işçi, aileleriyle birlikte yürüyüş yaparak işlerine geri dönme talebini yineledi; sendikal nedenle işten atıldıklarını belirten işçiler mücadeleyi sürdüreceklerini vurguladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342833.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_20857388",
     "title": "Büyükşehir’den borç açıklaması: 3.9 milyar TL’ye düştü",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Erciyes Kayak Merkezi'ne yapılacak 1100 metre uzunluğundaki dağ kızağı parkuru için protokol imzalandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_809e6d6d",
-    "title": "Papa 14. Leo, Afrika ülkelerini kapsayan üçüncü dış gezisi için yola çıktı",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 15:54",
-    "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-afrika-ulkelerini-kapsayan-ucuncu-dis-gezisi-icin-yola-cikti/3904015",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Vatikan Devlet Başkanı Papa 14. Leo, Cezayir, Kamerun, Angola ve Ekvator Ginesi'ni kapsayan üçüncü dış gezisi için Roma'dan ayrıldı.",
     "image": null,
     "keyword": null
   }
