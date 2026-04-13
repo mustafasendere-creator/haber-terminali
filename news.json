@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17810a02",
+    "title": "İsrail Konsolosluğuna saldırı soruşturması: 3 kişi daha tutuklandı",
+    "source": "Evrensel",
+    "time": "13/04/2026 16:55",
+    "link": "https://www.evrensel.net/haber/5979464/israil-konsolosluguna-saldiri-sorusturmasi-3-kisi-daha-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Konsolosluğu önünde polis noktasına düzenlenen saldırıya ilişkin soruşturmada bugün adliyeye sevk edilen 3 kişi daha tutuklandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342602.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dcdc35bb",
     "title": "Macaristan seçiminde yenilenebilir enerji yatırımı ve yabancı fabrikalara sıkı denetim vaat edildi",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Gebze Sendikal Birliği, sendikacılara yönelik tutuklamaların artmasına tepki göstererek bunun örgütlenme hakkına yönelik bir saldırı olduğunu vurguladı;tutuklu sendikacıların derhal serbest bırakılmasını istedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/319168.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_da752c66",
-    "title": "Trabzon’da 77 yaşındaki mezuna KTÜ Rektörü’nden özel davet",
-    "source": "Haber61",
-    "time": "13/04/2026 16:14",
-    "link": "https://www.haber61.net/trabzon/trabzonda-77-yasindaki-mezuna-ktu-rektorunden-ozel-davet-h629495.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da 77 yaşında üniversite hayalini gerçekleştiren arzuhalci İsmail Aslan, KTÜ Rektörü Prof. Dr. Hamdullah Çuvalcı’nın konuğu oldu.",
-    "image": "https://resim.haber61.net/news/612534.jpg",
-    "keyword": "trabzon"
   }
 ]
