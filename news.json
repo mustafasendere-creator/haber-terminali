@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9d35fe7b",
+    "title": "İstanbul'daki uyuşturucu soruşturmasında 11 zanlıya tutuklama talebi",
+    "source": "TRT Haber",
+    "time": "13/04/2026 17:17",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-uyusturucu-sorusturmasinda-11-zanliya-tutuklama-talebi-941503.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da uyuşturucu soruşturması kapsamında düzenlenen operasyonda gözaltına alınan 19 şüpheliden 11'i tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_b6bb91f3",
     "title": "KCT 1461 Trabzon FK, teknik direktör değişimine rağmen aradığı istikrarı bulamadı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yandex Türkiye&#039;nin reklam geliri 2026&#039;nın ilk çeyreğinde 2,4 kat arttı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/yandex-turkiyenin-reklam-geliri-ilk-ceyrekte-24-kat-artti-1sob_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b49f7e6c",
-    "title": "AB'nin enerji faturasında artış 44 günde 22 milyar Euro'yu aştı",
-    "source": "Ekonomim",
-    "time": "13/04/2026 16:36",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/abnin-enerji-faturasinda-artis-44-gunde-22-milyar-euroyu-asti-haberi-887838",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Orta Doğu&#039;daki gelişmelerin enerji maliyetlerini yükselttiğine dikkati çekerek, &quot;Çatışmanın başlamasından bu yana geçen 44 günde fosil yakıt ithalat faturamız 22 milyar Euro&#039;nun üzerinde arttı.&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/02/04/ab-abd-ile-zorlu-pazarliga-hazirlaniyor-ursula-von-der-leyen-muzakerelere-hazir-olacagiz-hfvk_cover.jpg",
     "keyword": null
   }
 ]
