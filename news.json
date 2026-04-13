@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_94f0be4c",
+    "title": "Macaristan'da kritik seçim",
+    "source": "Habertürk",
+    "time": "13/04/2026 15:37",
+    "link": "https://www.haberturk.com/macaristan-da-kritik-secim-3876675",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan'da halk genel seçimler için oy kullanmaya başladı. 16 yıldır başbakanlık koltuğunda oturan Viktor Orban, anket sonuçlarına göre koltuğunu kaybetme riskiyle karşı karşıya",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1775975097/3876675/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ef625abf",
     "title": "Kuzen katili hastane önünde yakalandı!",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Eğitim Sen Trabzon Şubesi, Milli Eğitim Akademisi uygulamasına karşı çıkarak öğretmen yetiştirme sisteminin zayıflatıldığını savundu. Açıklamada, uygulamanın öğretmenlik mesleğini olumsuz etkileyeceği belirtildi.",
     "image": "https://resim.haber61.net/news/612526.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_2a0b02ce",
-    "title": "Trabzon Büyükşehir 8 proje için 650 milyon liralık kredi kullanacak!",
-    "source": "61 Saat",
-    "time": "13/04/2026 15:14",
-    "link": "https://www.61saat.com/trabzon-buyuksehir-8-proje-icin-650-milyon-liralik-kredi-kullanacak",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediye Meclisi, kent genelinde yürütülen ve planlanan dokuz önemli projenin finansmanı için İller Bankası A.Ş.'den toplam 635 milyon TL kredi kullanılmasına oy birliğiyle karar verdi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/detyy-4-kopya-36.webp",
-    "keyword": null
   }
 ]
