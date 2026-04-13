@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c2030e0",
+    "title": "Dünya neye hazırlanıyor?",
+    "source": "A Haber",
+    "time": "13/04/2026 07:14",
+    "link": "https://www.ahaber.com.tr/yazarlar/hasmet-babaoglu/2026/04/13/dunya-neye-hazirlaniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birdenbire çıkartılan savaşa, Körfez ülkelerinin kırk gün içinde düştükleri hale ve Hürmüz Boğazı krizine baktığınızda...\nİçinizden \"bütün bunlar pandeminin devamı\" diye düşündüğünüz oluyor...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "SOC_d6954448",
     "title": "⏱ Karşılaşma sona erdi. Trabzonspor 84-90 Aliağa Petkim Spor - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/neden-22-yuzyil-hayalleri-kurmuyoruz-oltr_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9bccbc32",
-    "title": "Bu enflasyonla sürdürülebilir büyüyebilir miyiz?",
-    "source": "Ekonomim",
-    "time": "13/04/2026 03:14",
-    "link": "https://www.ekonomim.com/kose-yazisi/bu-enflasyonla-surdurulebilir-buyuyebilir-miyiz/887681",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/bu-enflasyonla-surdurulebilir-buyuyebilir-miyiz-aem9_cover.jpg",
     "keyword": null
   }
 ]
