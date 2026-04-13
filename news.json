@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e6f01c2a",
+    "title": "İsrail'in yardım girişini kısıtladığı Gazze'de bebek bezi sıkıntısı derinleşiyor",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 17:54",
+    "link": "https://www.aa.com.tr/tr/dunya/israilin-yardim-girisini-kisitladigi-gazzede-bebek-bezi-sikintisi-derinlesiyor/3904083",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in ateşkese rağmen yardım ve ürün girişini kısıtladığı Gazze Şeridi'nde bebek bezine erişimin giderek zorlaştığı belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_878025ea",
     "title": "İran Cumhurbaşkanı Pezeşkiyan'dan, Trump'ın hedef aldığı Papa 14. Leo'ya destek mesajı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "İsmail Türüt’e yönelik tepkiler gündemde. Sanatçının yıllardır savunduğu Rize-Trabzon dostluğu üzerinden yapılan eleştiriler tartışma yarattı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/61e8d7be-4c1d-4e58-9900-959f51591bb0.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_e023ad29",
-    "title": "Trabzon’da 8 projeye 650 milyon TL kaynak sağlanacak",
-    "source": "Karadeniz Gazetesi",
-    "time": "13/04/2026 17:17",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-8-projeye-650-milyon-tl-kaynak-saglanacak/608810",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediye Meclisi, şehir genelindeki altyapı ve üstyapı projeleri için 650 milyon TL kredi kullanımına onay verdi. Başkan Ahmet Metin Genç’e yetki verildi.",
-    "image": null,
-    "keyword": null
   }
 ]
