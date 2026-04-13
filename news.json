@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d03d772",
+    "title": "Küba'dan ABD'ye mücadele mesajı: İşgal halinde kendimizi savunuruz",
+    "source": "Evrensel",
+    "time": "13/04/2026 06:54",
+    "link": "https://www.evrensel.net/haber/5979372/kubadan-abdye-mucadele-mesaji-isgal-halinde-kendimizi-savunuruz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin askeri saldırı tehditlerini değerlendiren Devlet Başkanı Diaz Canel, Küba'nın kendini savunma hakkını hatırlatarak, petrol ambargosu ve baskılara karşı direniş çağrısı yaptı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342729.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c7426ce8",
     "title": "İddia: Basra Körfezi’ni ablukaya alan Trump, İran’a sınırlı saldırılar düşünüyor",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Macaristan’da halk, 199 milletvekilinin belirleneceği genel seçimler için sandık başında. Oyunu kullandıktan sonra gazetecilere açıklamalarda bulunan Magyar ise seçimin “Doğu ile Batı, propaganda ile dürüst kamusal söylem, yolsuzluk ile temiz kamu hayatı arasında bir tercih” olduğunu söyledi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d3a5089a-9df0-44ca-856a-38b7d0a5a702.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_afebe13e",
-    "title": "T.C. BİLECİK SULH HUKUK MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 02:54",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-bilecik-sulh-hukuk-mahkemesi-2494144",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. BİLECİK SULH HUKUK MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1003a5ac-6966-4232-a559-67f0477dce7b.jpg",
     "keyword": null
   }
 ]
