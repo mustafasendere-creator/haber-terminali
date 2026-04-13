@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3f0cf357",
+    "title": "Ateş hattı",
+    "source": "A Haber",
+    "time": "13/04/2026 07:34",
+    "link": "https://www.ahaber.com.tr/yazarlar/bulent-erandac/2026/04/13/ates-hatti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD İLE İRAN ARASINDA YENİDEN SAVAŞ TAMTAMLARI ÇALIYOR.\n\nİslamabad'da 21 saat süren İran-ABD görüşmelerinden anlaşma çıkmadı.\nDünya \"Bundan sonraki süreçte neler olabilir\" sorusuna cevap arıyordu....Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_ffa3c71c",
     "title": "Bebek Otel’de maskeler düştü! İş dünyası ve sanat camiası bu arşivle sarsılacak",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yaşadıkları geçim sıkıntısına dikkat çekerek Kadıköy'de bir araya gelen emekliler, iktidara çağrıda bulundu. Tüm Emekliler Sendikası adına basın açıklamasını okuyan Hasan Karagöz “2 milyondan fazla emekli kayıtlı, bir o kadar da kayıt dışı çalışıyor. Bu sefalet düzenini kabul etmiyoruz” diyerek emeklilerin birleşme çağrısını yineledi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5199b114-e18e-4619-8399-675edd1c06d0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0a23db26",
-    "title": "Malatya'da 3.1 büyüklüğünde deprem",
-    "source": "Haber Global",
-    "time": "13/04/2026 03:54",
-    "link": "https://haberglobal.com/gundem/malatyada-31-buyuklugunde-deprem-518412",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AFAD'ın paylaştığı verilere göre Malatya'nın Kale kentinde saat 03.03'te 3.1 büyüklüğünde deprem meydana geldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/malatyada-31-buyuklugunde-deprem-jdjr.jpg",
     "keyword": null
   }
 ]
