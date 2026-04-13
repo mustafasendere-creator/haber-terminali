@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef868295",
+    "title": "Türkiye'ye 1,5 milyar dolarlık uluslararası yatırım geldi",
+    "source": "TRT Haber",
+    "time": "13/04/2026 17:36",
+    "link": "https://www.trthaber.com/haber/ekonomi/turkiyeye-15-milyar-dolarlik-uluslararasi-yatirim-geldi-941501.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'ye uluslararası doğrudan yatırım UDY girişi, yılın ilk 2 ayında 1,5 milyar dolar oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_76349875",
     "title": "Fransız şirket Lafarge IŞİD'i finanse etmekten suçlu bulundu",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_6a94b743",
-    "title": "Ünlülere yönelik uyuşturucu soruşturmasında yeni gelişme! Eski hakem tutuklama talebiyle mahkemeye sevk edildi",
-    "source": "Haber61",
-    "time": "13/04/2026 17:15",
-    "link": "https://www.haber61.net/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-yeni-gelisme-eski-hakem-h629502.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü soruşturmada, aralarında eski hakem Elif Karaarslan ve Kısmetse Olur: Aşkın Gücü Cansel Ayanoğlu’nun da bulunduğu 11 kişi tutuklama talebiyle mahkemeye sevk edildi.",
-    "image": "https://resim.haber61.net/news/612549.jpg",
     "keyword": null
   }
 ]
