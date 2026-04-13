@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c5620d98",
+    "title": "Soykırımcı İsrail'in Lübnan'ın güneyinde sürdürdüğü saldırılarda 5 kişi öldü",
+    "source": "TRT Haber",
+    "time": "13/04/2026 10:15",
+    "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-lubnanin-guneyinde-surdurdugu-saldirilarda-5-kisi-oldu-941443.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun gece saatlerinden bu yana Lübnan'ın güneyinde birçok bölgeyi hedef alan saldırılarında 5 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_a7b21d32",
     "title": "ONUACHU YOKSA TRABZONSPOR NEDEN ZORLANIYOR? İşte Alanya’daki Kırılma",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "ABDnin Hürmüz ablukası ve başarısız müzakereler küresel piyasaları sarstı. Petrol 100 dolara yaklaşırken, dünya borsalarında savaş korkusuyla \"en kötü senaryo\" fiyatlanıyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_5d21c51b",
-    "title": "Trabzonspor’un şampiyonluk yolu kritik deplasmanlara bağlı!",
-    "source": "61 Saat",
-    "time": "13/04/2026 09:34",
-    "link": "https://www.61saat.com/trabzonsporun-sampiyonluk-yolu-kritik-deplasmanlara-bagli",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Puan tablosu ve fikstür analizine göre Trabzonspor’un zirveye uzanması, rakiplerin özellikle zorlu deplasmanlarda yaşayacağı puan kayıplarına bağlı görünüyor.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/bagliii.webp",
-    "keyword": "trabzon"
   }
 ]
