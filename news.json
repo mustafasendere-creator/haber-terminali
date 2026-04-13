@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3f5cc41",
+    "title": "Çağrı Bey durmuyor",
+    "source": "OdaTV",
+    "time": "13/04/2026 04:14",
+    "link": "https://www.odatv.com/guncel/cagri-bey-durmuyor-120143077",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye’nin yurt dışındaki ilk derin deniz arama sondajını Somali’de gerçekleştirecek olan Çağrı Bey Ultra Derin Deniz Sondaj Gemisi’nin 13 Nisan öğle saatlerinde kuyunun bulunduğu lokasyona ulaşması planlanıyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/cagri-bey-durmuyor-e1du.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8672ba20",
     "title": "Savaştan sonra",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Merkez Kuvvetler Komutanlığı CENTCOM, 13 Nisan saat 17.00'de TSİ İran limanlarına giren veya bu limanlardan çıkan tüm gemilere yönelik deniz ablukası başlatacağını açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_80a8cdbc",
-    "title": "Macaristan'da seçimi kazanan Magyar: Macaristan tekrar Avrupa ülkesi olmak istiyor",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 01:14",
-    "link": "https://www.aa.com.tr/tr/dunya/macaristanda-secimi-kazanan-magyar-macaristan-tekrar-avrupa-ulkesi-olmak-istiyor/3903234",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan'da seçimi kazanan Saygı ve Özgürlük Partisi'nin (Tisza) lideri Peter Magyar, ilk açıklamasında \"Macaristan tekrar Avrupa ülkesi olmak, Avrupa'ya dönmek istiyor.\" ifadelerini kullandı.",
     "image": null,
     "keyword": null
   }
