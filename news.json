@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3c3ead6",
+    "title": "İran, müzakere masasındaki engelleri ifşa etti: ABD tehdit yolunu seçti",
+    "source": "Evrensel",
+    "time": "13/04/2026 07:34",
+    "link": "https://www.evrensel.net/haber/5979373/iran-muzakere-masasindaki-engelleri-ifsa-etti-abd-tehdit-yolunu-secti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD yönetiminin sürekli değişen hedeflerinden ve tehditkar tavrından şikayet eden İran Dışişleri Bakanı Arakçi, müzakerelerin neden sonuçsuz kaldığına dair açıklamalarda bulundu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342345.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_86c01b8a",
     "title": "ABD'den abluka: İran kıyı şeridi ve limanlarını deniz trafiğine kapattı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Selçuk İnan: Trabzonspor’a yapılanlara sessiz kalamazdım armağan olsun onlara  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_e3f5cc41",
-    "title": "Çağrı Bey durmuyor",
-    "source": "OdaTV",
-    "time": "13/04/2026 04:14",
-    "link": "https://www.odatv.com/guncel/cagri-bey-durmuyor-120143077",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye’nin yurt dışındaki ilk derin deniz arama sondajını Somali’de gerçekleştirecek olan Çağrı Bey Ultra Derin Deniz Sondaj Gemisi’nin 13 Nisan öğle saatlerinde kuyunun bulunduğu lokasyona ulaşması planlanıyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/cagri-bey-durmuyor-e1du.jpg",
-    "keyword": null
   }
 ]
