@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e8c4ef9e",
+    "title": "Sivas'ta taksi ile otomobil çarpıştı: 4'ü futbolcu 6 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 14:35",
+    "link": "https://www.trthaber.com/haber/turkiye/sivasta-taksi-ile-otomobil-carpisti-4u-futbolcu-6-kisi-yaralandi-941486.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sivas'ta taksi ile otomobilin çarpıştığı kazada 4'ü Sivasspor Kulübünün altyapı futbolcusu olmak üzere 6 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_392b5f8c",
     "title": "AB yatırımları Türkiye'de 1,2 milyon istihdam sağladı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Eskişehir Yenidoğan Mahallesi’ndeki eski Devlet Hastanesi arazisinin özelleştirme kapsamına alınarak satışa çıkarılması tepkilere neden oldu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342789.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_d453da32",
-    "title": "AK Parti’den Sumud Filosu’na Destek: Trabzon’dan Gemi Katılacak",
-    "source": "Taka Gazetesi",
-    "time": "13/04/2026 13:55",
-    "link": "https://www.takagazete.com.tr/ak-partiden-sumud-filosuna-destek-trabzondan-gemi-katilacak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "AK Parti Trabzon İl Başkanı Sezgin Mumcu, Sumud Filosu’na destek verileceğini açıkladı. Trabzon’dan en az bir gemi filoya katılacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/18462e9e-d53d-4084-9191-dda9795b5fda.jpg",
-    "keyword": "trabzon"
   }
 ]
