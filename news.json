@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3d414aa6",
+    "title": "Lufthansa'da yeni grev duyuruldu: Yüzlerce uçuş etkilenecek",
+    "source": "DW Türkçe",
+    "time": "13/04/2026 21:35",
+    "link": "https://www.dw.com/tr/lufthansa-da-yeni-grev-duyuruldu-yüzlerce-uçuş-etkilenecek/a-76755628",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lufthansa'da pilotların ardından kabin görevlileri de yeniden grev yapacağını duyurdu. Bu Lufthansa çalışanlarının bu yıl yapacağı beşinci grev olacak. Grevler yüzlerce uçuşu etkiliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9b099e94",
     "title": "Canlı | Eyüpspor - Samsunspor: İlk yarı sonucu 1-0",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Gümüşhane’nin sarp kayalıklarında devasa boynuzlarına rağmen dar bir mağaraya ustalıkla giren dağ keçisinin görüntüleri doğaseverlerden büyük ilgi gördü.",
     "image": "https://resim.haber61.net/news/612567.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b14b7df6",
-    "title": "ABD'li Senatör Sanders, İsrail'e silah satışının engellenmesine yönelik tasarı sunacak",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 20:34",
-    "link": "https://www.aa.com.tr/tr/dunya/abdli-senator-sanders-israile-silah-satisinin-engellenmesine-yonelik-tasari-sunacak/3904297",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'li Senatör Bernie Sanders, \"Gazze'deki soykırıma\" dikkati çekerek, ABD'nin İsrail'e silah satışının engellenmesi amacıyla bir tasarı sunacağını ve tasarının oylanması için uğraşacağını açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
