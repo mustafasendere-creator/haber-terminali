@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_874a4a81",
+    "title": "Magyar: Macaristan'ı hep birlikte kurtardık",
+    "source": "DW Türkçe",
+    "time": "13/04/2026 08:35",
+    "link": "https://www.dw.com/tr/magyar-macaristan-ı-hep-birlikte-kurtardık/a-76758685",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan seçimlerini kazanan Peter Magyar, \"Macaristan'ı hep birlikte kurtardık\" dedi. Magyar, Cumhurbaşkanı, Başsavcı ve AYM Başkanı ile Medya Denetim Kurumu başkanını istifaya çağırdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_479cab2c",
     "title": "Lufthansa'da 48 saatlik grevi başladı: Yüzlerce uçuş iptal",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzon elektrik kesintisi bugün hangi ilçelerde olacak, Of, Akçaabat, Yomra ve Ortahisar’da elektrikler ne zaman gelecek, 13.04.2026 Trabzon planlı elektrik kesintisi saatleri ve etkilenen mahalleler hangileri soruları yanıt buldu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/12/elektrik-26.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b6bcdb4f",
-    "title": "Hayat uzatan kanser ilacı Keytruda dünyayı nasıl böldü?",
-    "source": "DW Türkçe",
-    "time": "13/04/2026 07:35",
-    "link": "https://www.dw.com/tr/hayat-uzatan-kanser-ilacı-keytruda-dünyayı-nasıl-böldü/a-76755619",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ICIJ'in DW Türkçe ile ortak araştırması, sektör stratejisinin hayat kurtaran bir kanser ilacını dünyanın en çok satanlarından birine dönüştürürken birçok hastanın erişimini nasıl zorlaştırdığını ortaya koydu.",
-    "image": null,
-    "keyword": null
   }
 ]
