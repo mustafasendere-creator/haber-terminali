@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6fccf995",
+    "title": "Veri merkezleri su havzalarını zorluyor",
+    "source": "TRT Haber",
+    "time": "13/04/2026 12:15",
+    "link": "https://www.trthaber.com/haber/bilim-teknoloji/veri-merkezleri-su-havzalarini-zorluyor-941467.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya genelinde gün geçtikçe hız kazanan yapay zeka yarışı, Güneydoğu Asya'yı küresel bir veri merkezi üssüne dönüştürürken, tesislerin soğutma ihtiyacı bölgedeki su kaynaklarını tüketme riskini beraberinde getiriyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_96769fd4",
     "title": "Hafif ticari araç ve kamyon ihracatı 1,5 milyar doları aştı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Ticaret satış hacmi, şubatta yıllık bazda yüzde 4, perakende satış hacmi de yüzde 15,6 artış gösterdi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_c9525c4f",
-    "title": "Son 2 gün... Trabzon'da da yasak başlıyor! Bu fiyatları bulamazsınız...",
-    "source": "61 Saat",
-    "time": "13/04/2026 11:36",
-    "link": "https://www.61saat.com/son-2-gun-trabzonda-da-yasak-basliyor-bu-fiyatlari-bulamazsiniz",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'da da bereketli bir sezon geride kalıyor... Deniz su ürünleri av sezonu 15 Nisan itibariyle kapanıyor. Yasağın başlamasına 2 gün kala, balıkçılar sezonu değerlendirdi...",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/fiyat444.webp",
-    "keyword": "trabzon"
   }
 ]
