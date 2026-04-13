@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d5bd604",
+    "title": "Blue Origin, Ay tozundan oksijen üreten bir reaktör geliştirdiğini açıkladı",
+    "source": "Euronews",
+    "time": "13/04/2026 19:15",
+    "link": "http://tr.euronews.com/next/2026/04/13/blue-origin-ay-tozundan-oksijen-ureten-bir-reaktor-gelistirdigini-acikladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ay tozunun yaklaşık yarısı oksijen içeriyor ancak bu oksijen demir ve titanyum gibi metallerle kimyasal açıdan bağlı durumda. Bu nedenle doğrudan solunabilir değil. Bilim insanları uzun süredir bu oksijeni ayrıştırarak hem astronotlar için hava hem de roket yakıtı üretmeyi hedefliyordu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bd64e515",
     "title": "İBB davasının 20. gününde isyan: Necati Özkan ‘Yedi buçuk aydır tek soru sorulmadı’ dedi",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Filistin topraklarını gasbeden İsraillilerin, işgal altındaki El-Halil kentinin Mesafir Yatta bölgesindeki Ummul Hayr köyünde bir yolu kapatması nedeniyle Filistinli öğrenciler, eğitim hayatına sokakta devam etmek zorunda kaldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_23a5b7a2",
-    "title": "Dusan Alimpijevic, BKT Avrupa Kupası'nda yılın başantrenörü",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 18:14",
-    "link": "https://www.aa.com.tr/tr/spor/dusan-alimpijevic-bkt-avrupa-kupasinda-yilin-basantrenoru/3904198",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beşiktaş GAİN'in Sırp çalıştırıcısı Dusan Alimpijevic, BKT Avrupa Kupası'nda (EuroCup) yılın başantrenörü seçildi.",
     "image": null,
     "keyword": null
   }
