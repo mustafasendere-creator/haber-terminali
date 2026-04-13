@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e9df48ca",
+    "title": "DMM'den Cumhurbaşkanı Erdoğan'a atfedilen sözlere yalanlama",
+    "source": "Habertürk",
+    "time": "13/04/2026 08:16",
+    "link": "https://www.haberturk.com/dmm-den-cumhurbaskani-erdogan-a-atfedilen-sozlere-yalanlama-3876841",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dezenformasyonla Mücadele Merkezi (DMM), sosyal medyada paylaşılan ve Cumhurbaşkanı Recep Tayyip Erdoğan’a atfedilen ‘İran veya Lübnan’a bir saldırı olursa bunu Türkiye’ye yapılmış sayarız’ ifadelerinin tamamen asılsız olduğunu açıklayarak, \"Söz konusu asılsız iddiaların amacı; Türkiye’nin bölgesel barışın inşasındaki öncü rolünü gölgelemek, ülkemizi çatışma ve kriz ortamlarının içerisine çekmek, uluslararası kamuoyunda yanlış bir algı oluşturarak dezenformasyon üzerinden siyasi manipülasyon yapmaktır\" dedi.",
+    "image": "https://im.haberturk.com/l/2026/04/13/ver1776033649/3876841/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_9f21b46e",
     "title": "Bayrampaşa'da kaza: 1 çocuk öldü, 6 kişi yaralandı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran'dan ABD'ye yanıt: Savaşmak istersen savaşırız",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/iran-meclis-baskani-muhammed-bakir-galibafjpg-Ius3U1KGpkyCQJQxIRgUyg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1124814d",
-    "title": "TBMM'de gündem: 15 yaş altına sosyal medya yasağı",
-    "source": "Haber Global",
-    "time": "13/04/2026 07:14",
-    "link": "https://haberglobal.com/gundem/tbmmde-gundem-15-yas-altina-sosyal-medya-yasagi-518419",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM Genel Kurulu'nda yeni haftada 15 yaşın altındaki çocuklara sosyal medya sınırlaması getiren ve kadınların doğum iznini 24 haftaya çıkaran düzenlemeleri de içeren kanun teklifinin görüşmelerine devam edilecek.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/tbmmde-gundem-15-yas-altina-sosyal-medya-yasagi-0qli.jpg",
     "keyword": null
   }
 ]
