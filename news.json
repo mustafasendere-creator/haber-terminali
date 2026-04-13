@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e27487e",
+    "title": "Çinli insansı robot Usain Bolt'un hızına ulaştı",
+    "source": "Habertürk",
+    "time": "13/04/2026 10:16",
+    "link": "https://www.haberturk.com/cinli-insansi-robot-usain-bolt-un-hizina-ulasti-3876855-teknoloji",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Unitree Robotics'in H1 insansı robotu, 10 metre/saniye (yaklaşık 36 km/s) sprint hızına ulaşarak insansı robotlar dünyasında yeni bir rekor kırdı. Geçtiğimiz yıllarda Çin’de gerçekleştirilen robot olimpiyatlarını dahi görmüştük. Bu gelişme, yapay zekâ ve robotik teknolojilerin hızlı ilerlemesini gözler önüne sererken, insan atletlerin rekorlarını zorluyor. Ancak bir yandan da gerçekten insanların yıllarca spor hayatlarında çalışarak elde ettiklerini bir robotun yapması gerçekten heyecan verecek mi? “Bir aracın insanı geçmesinden ne farkı var?” tartışmaları da beraberinde geliyor…",
+    "image": "https://im.haberturk.com/l/2026/04/13/ver1776054819/3876855/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_1349a36a",
     "title": "Mağdur: 11 yaşında kız çocuğu... 79 yaşında taciz gözaltısı!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD, İran limanlarını hedef alan deniz ablukasını bugün devreye sokarken, Hürmüz Boğazı’nda uluslararası gemi geçişlerinin kısıtlanmayacağını açıkladı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/11/trumptan-iran-mesaji-hurmuz-bogazini-onlarla-ya-da-onlar-olmadan-acacagiz-nqkj_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f005df6b",
-    "title": "VİOP'ta endeks kontratı güne düşüşle başladı",
-    "source": "Ekonomim",
-    "time": "13/04/2026 09:35",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/viopta-endeks-kontrati-gune-dususle-basladi-haberi-887726",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul Vadeli İşlem ve Opsiyon Piyasası&#039;nda (VİOP) BIST 30 endeksine dayalı nisan vadeli kontrat güne yüzde 1,02 düşüşle 16.264,00 puandan başladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/viopta-endeks-kontrati-gune-dususle-basladi-q1f4_cover.jpg",
     "keyword": null
   }
 ]
