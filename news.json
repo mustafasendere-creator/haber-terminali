@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eb7b1518",
+    "title": "Ünlü isimlere yönelik soruşturmada 8 tutuklama",
+    "source": "Evrensel",
+    "time": "13/04/2026 22:14",
+    "link": "https://www.evrensel.net/haber/5979501/unlu-isimlere-yonelik-sorusturmada-8-tutuklama",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da ünlülere yönelik yürütülen soruşturma kapsamında gözaltına alınan isimlerden 8'i tutuklandı, 3 kişi ise adli kontrolle serbest bırakıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342873.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_07528a11",
     "title": "Gelecek sezon için kombineler satışa çıkıyor!",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor efsanesi Şenol Güneş, Galatasaray’a transfer olan Uğurcan Çakır hakkında çarpıcı değerlendirmelerde bulundu. Tecrübeli teknik adam, milli kalecinin ayrılığının doğru bir süreç olduğunu vurgularken, eleştirilere de net bir yanıt verdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/u-g-u-r-c-a-n-n-n-13.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d44d66e0",
-    "title": "Donald Trump, İran'ı 'şantaj' ile suçladı: 'Sıra Küba'da' mesajı verdi",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 20:55",
-    "link": "https://www.cumhuriyet.com.tr/dunya/donald-trump-iran-i-santaj-ile-sucladi-sira-kuba-da-mesaji-verdi-2494930",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı üzerinden \"dünyaya şantaj yaptığını\" ileri sürdü. Trump öte yandan İran gündeminin ardından Küba konusuyla da 'ilgileneceklerini' söyledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5bfd4dbb-c057-4ac5-a3d6-6553f80c5ba5.jpg",
-    "keyword": null
   }
 ]
