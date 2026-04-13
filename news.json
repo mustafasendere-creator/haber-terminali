@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64c863d6",
+    "title": "Antalya Demre açıklarında deprem",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 21:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/antalya-demre-aciklarinda-deprem-2494931",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AFAD, Demre'ye 54.55 kilometreye açıklarında 3.8 büyüklüğünde deprem olduğunu duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/06e9079a-dd77-479a-bf3e-834218b0db07.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4050ae05",
     "title": "'Bayğaralar' suç örgütüne yönelik 8 ilde operasyon: 287 şüpheli yakalandı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Apple, yeni akıllı gözlükleri üzerinde çalışıyor. Son gelen bilgilere göreyse şirket dört farklı tasarımı test ediyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6b8c36b2-4407-46aa-b620-926106e8afd0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d5f3d8ac",
-    "title": "Çin Komünist Partisi heyetinden CHP'ye ziyaret: Özgür Özel, Çin'e davet edildi",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 20:15",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/cin-komunist-partisi-heyetinden-chp-ye-ziyaret-ozgur-ozel-cin-e-davet-edildi-2494925",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin Komünist Partisi heyeti, CHP Genel Merkezi’nde temaslarda bulundu. Görüşmede ikili ilişkiler ve küresel gelişmeler ele alınırken, CHP Genel Başkanı Özgür Özel Çin’e davet edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/908e0a99-d5e6-457b-bba7-06b47983e77c.jpg",
     "keyword": null
   }
 ]
