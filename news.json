@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce880424",
+    "title": "Terör örgütü DEAŞ operasyonunda yakalanan 18 kişi tutuklandı",
+    "source": "TRT Haber",
+    "time": "14/04/2026 00:34",
+    "link": "https://www.trthaber.com/haber/turkiye/teror-orgutu-deas-operasyonunda-yakalanan-18-kisi-tutuklandi-941536.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa merkezli terör örgütü DEAŞ operasyonunda gözaltına alınan 36 şüpheliden 18'i tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2c476574",
     "title": "GSÜ’de Lefort kolokyumu düzenlendi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "‘Aziz İhsan Aktaş’ davasında, gizli tanıkların dinlenmesine karar verildi. Mahkemenin yazdığı müzekkereye göre “Yaprak” ve “XYZ49QP” kod adlı gizli tanıklar 20 ve 22 Nisan'da dinlenecekler.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/331204.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bcb7ded4",
-    "title": "İBB Meclisinde divan katipliği seçiminde mühürsüz oy tartışması: Başkanvekili Aslan, seçimi iptal etti",
-    "source": "Evrensel",
-    "time": "13/04/2026 23:14",
-    "link": "https://www.evrensel.net/haber/5979507/ibb-meclisinde-divan-katipligi-seciminde-muhursuz-oy-tartismasi-baskanvekili-aslan-secimi-iptal-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB Meclisi'ndeki divan kâtipliği seçimi sırasında “mühürsüz oy pusulası” tartışması çıktı. Tartışma üzerine oturumu yöneten Meclis Başkanvekili Nuri Aslan, oylamayı iptal ederek süreci baştan başlattı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/289313.jpg",
     "keyword": null
   }
 ]
