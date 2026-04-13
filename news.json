@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3efc1b04",
+    "title": "YouTube internet trafiğini domine etti",
+    "source": "Evrensel",
+    "time": "13/04/2026 22:14",
+    "link": "https://www.evrensel.net/haber/5979436/youtube-internet-trafigini-domine-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin dijital karnesi belli oldu. Verilere göre, internet trafiğinin aslan payını YouTube alırken, kullanıcılar mesajlaşma için Instagram'ı, sesli görüşmeler için WhatsApp'ı tercih etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342793.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2654772b",
     "title": "DEM Parti'den 7 maddelik bildirge: 'Sürecin yavaşlatılması kabul edilemez, riskli ve kaygı vericidir'",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AFAD Kemah'ta 4.0 büyüklüğünde bir deprem olduğunu duyurdu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7d66ab51-732b-422e-afef-2fec04c95190.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_01d43f5f",
-    "title": "iPhone kullanıcılarını tehdit eden yeni dolandırıcılık:'' iCloud depolama alanınız dolu''",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 20:55",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/iphone-kullanicilarini-tehdit-eden-yeni-dolandiricilik-icloud-depolama-alaniniz-dolu-2494929",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Apple kullanıcıları bir süredir iCloud depolama alanının dolu olmasıyla ilgili e-postalar alıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a0cd281e-02e6-43d3-b318-1e80426cf9f9.jpg",
     "keyword": null
   }
 ]
