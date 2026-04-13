@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2c476574",
+    "title": "GSÜ’de Lefort kolokyumu düzenlendi",
+    "source": "Evrensel",
+    "time": "14/04/2026 00:34",
+    "link": "https://www.evrensel.net/haber/5979411/gsude-lefort-kolokyumu-duzenlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray Üniversitesi’nde düzenlenen Lefort kolokyumunda; demokrasi, totalitarizm ve devrim tartışmaları, düşünürün eserleri üzerinden ele alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342764.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5702d89b",
     "title": "Bakan Fidan: ABD ve İran da ateşkes konusunda samimi, ihtiyacın farkında",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İBB Meclisi'ndeki divan kâtipliği seçimi sırasında “mühürsüz oy pusulası” tartışması çıktı. Tartışma üzerine oturumu yöneten Meclis Başkanvekili Nuri Aslan, oylamayı iptal ederek süreci baştan başlattı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/289313.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e44a575a",
-    "title": "Macaristan'ın yeni Başbakanı Magyar, eski bakanı gizli belgeleri yok etmekle suçladı",
-    "source": "Euronews",
-    "time": "13/04/2026 23:14",
-    "link": "http://tr.euronews.com/my-europe/2026/04/13/macaristanin-yeni-basbakani-magyar-eski-bakani-gizli-belgeleri-yok-etmekle-sucladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan'ın seçilmiş Başbakanı Peter Magyar, azartesi günü Budapeşte'de düzenlediği basın toplantısında görevi sona eren Dışişleri Bakanı Péter Szijjártó'yu yaptırımlarla ilgili gizli belgeleri parçalamakla suçladı.",
-    "image": null,
     "keyword": null
   }
 ]
