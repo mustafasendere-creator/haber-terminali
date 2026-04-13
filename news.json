@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_392b5f8c",
+    "title": "AB yatırımları Türkiye'de 1,2 milyon istihdam sağladı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 14:35",
+    "link": "https://www.trthaber.com/haber/ekonomi/ab-yatirimlari-turkiyede-12-milyon-istihdam-sagladi-941487.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ticaret Bakanı Ömer Bolat, Türkiyedeki doğrudan yabancı yatırımların üçte ikisinin Avrupa kaynaklı olduğunu belirterek; bu yatırımların 1,2 milyon kişiye iş imkanı sağladığını ve ihracata yıllık 70 milyar dolarlık katkı sunduğunu söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_5774e0ed",
     "title": "Köksal Baba ve Çağatay Ulusoy bir araya geldi!",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "AK Parti Trabzon İl Başkanı Sezgin Mumcu, Sumud Filosu’na destek verileceğini açıkladı. Trabzon’dan en az bir gemi filoya katılacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/18462e9e-d53d-4084-9191-dda9795b5fda.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_23c36a55",
-    "title": "İspanya, İran Büyükelçiliği'ni yeniden açtı",
-    "source": "Evrensel",
-    "time": "13/04/2026 13:55",
-    "link": "https://www.evrensel.net/haber/5979430/ispanya-iran-buyukelciligini-yeniden-acti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya, geçici olarak kapattığı Tahran Büyükelçiliği’ni yeniden faaliyete geçirdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342788.jpg",
-    "keyword": null
   }
 ]
