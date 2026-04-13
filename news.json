@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ee5dc1c0",
+    "title": "Meteoroloji yeni raporu yayımladı: Yeni haftada hava nasıl olacak?",
+    "source": "Haber Global",
+    "time": "13/04/2026 07:55",
+    "link": "https://haberglobal.com/gundem/son-dakika-meteoroloji-yeni-raporu-yayimladi-yeni-haftada-hava-nasil-olacak-518420",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü (MGM) tarafından günlük hava tahmin raporu yayımlandı. Rapora göre hava sıcaklıklarının mevsim normallerinin altında seyretmeye devam etmesi bekleniyor. İşte detaylar...",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/son-dakika-meteoroloji-yeni-raporu-yayimladi-yeni-haftada-hava-nasil-olacak-qc1v.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_26ec287f",
     "title": "Trump'ın İran'a yönelik tekrarlayan tehditleri İsrailli milletvekilinin alay konusu oldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ölüm ve yoksunluk arasındaki tutukluların anlattıkları Türkiye’deki kötü cezaevleri koşullarını bir kez daha ortaya koydu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9bc905b3-8fa0-4797-8ae1-941d95d4f4a6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_40563869",
-    "title": "Muğla'da 3.6 büyüklüğünde deprem!",
-    "source": "Haber Global",
-    "time": "13/04/2026 05:54",
-    "link": "https://haberglobal.com/gundem/muglada-36-buyuklugunde-deprem-518414",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AFAD, Muğla'nın Marmaris ilçesine 88 kilometre uzaklıkta 3.6 büyüklüğünde deprem meydana geldiğini duyurdu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/muglada-36-buyuklugunde-deprem-azwg.jpg",
     "keyword": null
   }
 ]
