@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8abc0f39",
+    "title": "İki şirket temettü kararını açıkladı",
+    "source": "OdaTV",
+    "time": "13/04/2026 12:57",
+    "link": "https://www.odatv.com/ekonomi/borsa-istanbulda-iki-sirket-temettu-kararini-acikladi-120143123",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul bünyesinde işlem gören iki şirket 2025 yılı kâr payı dağıtım planlarını paylaştı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/02/borsa-gune-nasil-basladi-sert-dusus-borsa-istanbulda-5-gunluk-kritik-yasak-shsr.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_652c1b3e",
     "title": "Avrupa'da doğalgaz fiyatları yeniden yükseliyor",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dünya genelinde gün geçtikçe hız kazanan yapay zeka yarışı, Güneydoğu Asya'yı küresel bir veri merkezi üssüne dönüştürürken, tesislerin soğutma ihtiyacı bölgedeki su kaynaklarını tüketme riskini beraberinde getiriyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_96769fd4",
-    "title": "Hafif ticari araç ve kamyon ihracatı 1,5 milyar doları aştı",
-    "source": "TRT Haber",
-    "time": "13/04/2026 12:15",
-    "link": "https://www.trthaber.com/haber/ekonomi/hafif-ticari-arac-ve-kamyon-ihracati-15-milyar-dolari-asti-941472.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye otomotiv endüstrisinde hafif ticari araçkamyonet ve kamyon grubunu kapsayan \"eşya taşımaya mahsus motorlu taşıtlar\" ihracatı yılın ilk çeyreğinde 1 milyar 550 milyon 627 bin dolar oldu.",
     "image": null,
     "keyword": null
   }
