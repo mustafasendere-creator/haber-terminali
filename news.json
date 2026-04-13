@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0baceca4",
+    "title": "Zonguldak'ta suç makinesi yakalandı: 40 yıl hapis cezası vardı",
+    "source": "OdaTV",
+    "time": "13/04/2026 16:36",
+    "link": "https://www.odatv.com/guncel/zonguldak-ereglide-suc-makinesi-yakalandi-40-yil-hapis-cezasi-vardi-120143124",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zonguldak’ın Ereğli ilçesinde hakkında “telefon dolandırıcılığı” suçundan 40 yıl kesinleşmiş hapis cezası bulunan M.U. (26), polis ekiplerinin operasyonuyla yakalanarak cezaevine gönderildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/zonguldak-ereglide-suc-makinesi-yakalandi-40-yil-hapis-cezasi-vardi-udaf.png",
+    "keyword": null
+  },
+  {
     "id": "GND_aa438564",
     "title": "Şampiyonlar Ligi'nde yarı finalistler başlıyor",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/assets/web/images/default.png?v=3",
-    "keyword": null
-  },
-  {
-    "id": "GND_66603820",
-    "title": "G.Saray'a Kocaeli şoku!",
-    "source": "Habertürk",
-    "time": "13/04/2026 15:56",
-    "link": "https://www.haberturk.com/galatasaray-kocaelispor-1-1-mac-sonucu-3876687-spor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'de lider Galatasaray, 29. haftada ağırladığı Kocaelispor ile 1-1 berabere kalarak şampiyonluk yarışında ağır yara aldı. Sane'nin golüyle ilk yarıyı önde kapatan Aslan, ikinci devrede Petkovic'in golüne engel olamadı. Sarı-kırmızılılar bu sonuçla puanını 68'e çıkarırken, en yakın takipçisi Fenerbahçe ile arasındaki puan farkı 2'ye düştü.",
-    "image": "https://im.haberturk.com/l/2026/04/12/ver1776020471/3876687/jpg/1280x1280",
     "keyword": null
   }
 ]
