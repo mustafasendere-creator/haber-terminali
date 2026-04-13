@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aca4f066",
+    "title": "Meteorolojiden bazı bölgelere zirai don uyarısı",
+    "source": "Ekonomim",
+    "time": "13/04/2026 14:16",
+    "link": "https://www.ekonomim.com/gundem/meteorolojiden-bazi-bolgelere-zirai-don-uyarisi-haberi-887810",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji 12. Bölge Müdürlüğü’nce Erzurum, Erzincan, Bayburt ve Ardahan çevreleri için zirai don uyarısı yapıldı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/08/meteorolojiden-20-il-icin-sari-kodlu-zirai-don-ve-yagis-uyarisi-sicakliklar-dusecekiste-tahminler-iudy_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_39892a00",
     "title": "Savaş çip maliyetlerini vurdu: Teknoloji ürünlerinde zam beklentisi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Valiliği, mezarlıklarda hırsızlık, tahribat ve asayiş olaylarının önlenmesi için yeni tedbirleri devreye soktu. Ana giriş-çıkışlar ile kör noktalara 7/24 çalışan yüksek çözünürlüklü kamera kurulması, kayıtların 30 gün saklanması ve denetimlerin sıklaştırılması istendi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/istanbul-mezarliklarinda-724-kamera-donemi-basliyor-tm4r.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5eff9e7e",
-    "title": "Türkiye'ye yılın ilk 2 ayında 1,5 milyar dolarlık uluslararası doğrudan yatırım geldi",
-    "source": "Ekonomim",
-    "time": "13/04/2026 13:36",
-    "link": "https://www.ekonomim.com/ekonomi/turkiyeye-yilin-ilk-2-ayinda-15-milyar-dolarlik-uluslararasi-dogrudan-yatirim-geldi-haberi-887802",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Yatırımcılar Derneği (YASED), Türkiye Cumhuriyet Merkez Bankası (TCMB) Ödemeler Dengesi istatistiklerinin açıklanmasının ardından Rakamlarla Uluslararası Doğrudan Yatırımlar Bülteni&#039;ni yayımladı. Buna göre, Türkiye&#039;ye uluslararası doğrudan yatırım (UDY) girişi, yılın ilk 2 ayında 1,5 milyar dolar oldu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2024/05/13/2024un-ilk-ceyreginde-turkiyeye-15-milyar-dolar-degerinde-dogrudan-yatirim-gerceklesti-c06y_cover.jpg",
     "keyword": null
   }
 ]
