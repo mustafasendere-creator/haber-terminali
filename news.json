@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9fc9bab6",
+    "title": "Süper Lig'de istifa kararı: Maçın ardından duyurdu!",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 22:55",
+    "link": "https://www.cumhuriyet.com.tr/spor/super-lig-de-istifa-karari-macin-ardindan-duyurdu-2494959",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep FK Teknik Direktörü Burak Yılmaz, 2-1 mağlup oldukları Çaykur Rizespor maçının ardından istifa kararı aldığını duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9f89608f-d285-4c36-8ae1-a8348f275a23.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_cf04a8a9",
     "title": "Müzisyen Cem Öcal hayatını kaybetti",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Fenerbahçe Beko, Basketbol Süper Ligi'nin 26. haftasında deplasmanda karşılaştığı Anadolu Efes'i 89-73 mağlup etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0851d30b-0c82-4de6-9d70-dde84bcf7752.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_0703303b",
-    "title": "Ortahisar Belediye Başkanı Ahmet Kaya’dan Reşadiye kavşağı çıkışı: 500 milyon liralık kamu zararı var",
-    "source": "Haber61",
-    "time": "13/04/2026 21:35",
-    "link": "https://www.haber61.net/trabzon/ortahisar-belediye-baskani-ahmet-kayadan-resadiye-kavsagi-cikisi-500-h629518.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da uzun yıllardır tartışmaların odağında yer alan Reşadiye Kavşağı’nın yıkım kararı sonrası konuşan Ortahisar Belediye Başkanı Ahmet Kaya, bir inat uğruna yapılan projenin şehre maliyetinin ağır olduğunu vurguladı",
-    "image": "https://resim.haber61.net/news/612572.jpg",
-    "keyword": "trabzon"
   }
 ]
