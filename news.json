@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4cc34df",
+    "title": "İSKİ 12 Nisan 2026 baraj doluluk oranı",
+    "source": "Habertürk",
+    "time": "13/04/2026 10:56",
+    "link": "https://www.haberturk.com/iski-12-nisan-2026-baraj-doluluk-oranlari-istanbul-barajlarinda-son-durum-ne-guncel-doluluk-oranlari-yuzde-kac-oldu-3876712",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Havaların ısınmasıyla birlikte milyonlarca İstanbullunun merak ettiği konuların başında barajlarda ne kadar su kaldığı sorusu geliyor. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) tarafından paylaşılan raporlara göre, İstanbul’daki baraj doluluk oranları yakından takip ediliyor. Peki, İstanbul barajlarında son durum ne? Detaylar haberimizde.",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1775982819/3876712/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_50172220",
     "title": "Evlilik kredisi başvurusu nasıl yapılır?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kanada'da yapılan bir ankete katılanların yüzde 57'si, ülkelerinin Avrupa Birliği'ne (AB) katılmasını desteklediğini belirtti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_9c170166",
-    "title": "Trabzon’daki Hürriyet matbaası kapanıyor",
-    "source": "Haber61",
-    "time": "13/04/2026 10:34",
-    "link": "https://www.haber61.net/trabzon/trabzondaki-hurriyet-matbaasi-kapaniyor-h629445.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da yıllardır ulusal ve yerel basına hizmet veren Hürriyet Gazetecilik, aldığı kararla kentteki basım faaliyetlerini durdururken, Arsin’deki matbaanın kapatılması basın camiasında üzüntü yarattı.",
-    "image": "https://resim.haber61.net/news/612452.jpg",
     "keyword": null
   }
 ]
