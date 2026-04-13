@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_834e8b56",
+    "title": "Meteoroloji açıkladı: 13 Nisan 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 07:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-13-nisan-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2494674",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü (MGM), 13 Nisan Pazartesi gününe ilişkin hava durumu raporunu yayımladı. Rapora göre bazı bölgelerde yer yer gök gürültülü sağanak yağış beklenirken bazı bölgeler de  karla karışık yağmur bekleniyor. Hava sıcaklığında, önemli bir değişiklik olmayacağı, ülke genelinde mevsim normalleri altında seyredeceği tahmin ediliyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1152feef-d35a-49cd-9dba-91b8ce1a123d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ee5dc1c0",
     "title": "Meteoroloji yeni raporu yayımladı: Yeni haftada hava nasıl olacak?",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "“Zifiri karanlık bir süreçten geçiyoruz ve maalesef çok az kişi aydınlığı unutmadı.”",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar380_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2c62b624",
-    "title": "İBB davası tutuklularından korkunç cezaevi iddiaları: İlacı mazgaldan vereceğiz!",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 05:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ibb-davasi-tutuklularindan-korkunc-cezaevi-iddialari-ilaci-mazgaldan-verecegiz-2494663",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ölüm ve yoksunluk arasındaki tutukluların anlattıkları Türkiye’deki kötü cezaevleri koşullarını bir kez daha ortaya koydu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/9bc905b3-8fa0-4797-8ae1-941d95d4f4a6.jpg",
     "keyword": null
   }
 ]
