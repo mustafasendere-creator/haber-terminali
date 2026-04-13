@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_57eeab65",
+    "title": "Erken tanı ve sağlıklı yaşam kalp hastalıklarına karşı koruma sağlıyor",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 15:34",
+    "link": "https://www.aa.com.tr/tr/saglik/erken-tani-ve-saglikli-yasam-kalp-hastaliklarina-karsi-koruma-sagliyor/3903989",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kardiyovasküler hastalıkların büyük bir kısmının erken tanı ve sağlıklı yaşam alışkanlıklarıyla önlenebildiği, risk faktörlerinin erken dönemde tespit edilerek gerekli önlemlerin alınması gerektiği belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_1c6369da",
     "title": "Trabzon’da 8 projeye 650 milyon TL kaynak sağlanacak",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Rize Ayder Yaylası’nda kar yağışı etkisini sürdürüyor. Kar kalınlığı 20 santimetreye ulaştı, yayla beyaza büründü.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/ayder-yaylasi-4-2.jpeg",
     "keyword": null
-  },
-  {
-    "id": "TKP_72b483e0",
-    "title": "Trabzon’da trafik değişiyor: Reşadiye Viyadüğü’nde son karar",
-    "source": "Haber61",
-    "time": "13/04/2026 14:55",
-    "link": "https://www.haber61.net/trabzon/trabzonda-trafik-degisiyor-resadiye-viyadugunde-son-karar-h629489.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediye Meclisi’nde Reşadiye Viyadüğü’nü kapsayan alana ilişkin imar planı değişikliği görüşüldü. Başkan Ahmet Metin Genç, viyadüğün kaldırılarak akıllı kavşak yapılacağını ve Pazarkapı’nın yayalaştırılacağını açıkladı.",
-    "image": "https://resim.haber61.net/news/612524.jpg",
-    "keyword": "trabzon"
   }
 ]
