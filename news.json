@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_654100c8",
+    "title": "T24 (@t24comtr) / Posts / X - x.com",
+    "source": "X",
+    "time": "13/04/2026 05:55",
+    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE4tYWthd0xNRXVqTWRKdHZWVkJtUmZNNkE4VkVLSjZ6YkgzaWhta1p6WU95TjBLa0RtVFE",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "T24 (@t24comtr) / Posts / X  x.com",
+    "image": null,
+    "keyword": "trabzon intihar"
+  },
+  {
     "id": "GND_362672de",
     "title": "Muhalefetin çıkmaz sokağı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uganda Savunma Kuvvetleri Komutanı Muhoozi Kainerugaba, Türkiye'yi tehdit içeren paylaşımlarını sildi. Kainerugaba, İsrail’e İran savaşı için 100 bin asker göndermek istediğini de dile getirmişti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/48102b63-0ccf-4df0-8fa0-ac4fc885b7e5.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cbd4a682",
-    "title": "Şenol Güneş'ten Uğurcan Çakır açıklaması: 'Size ne zararı var?'",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 02:14",
-    "link": "https://www.cumhuriyet.com.tr/spor/senol-gunes-ten-ugurcan-cakir-aciklamasi-size-ne-zarari-var-2494596",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trabzonspor'un eski kalecisi ve teknik direktörü Şenol Güneş, bordo-mavili taraftarların Galatasaraylı file bekçisi Uğurcan Çakır'a tepki göstermesi hakkında görüşlerini aktardı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/79191ded-2a0c-4bb7-9dcb-ac102cd4453b.jpg",
     "keyword": null
   }
 ]
