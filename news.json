@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6bd616a6",
+    "title": "Beyoğlu'nda 5 katlı binada yangın: 2 kişi kurtarıldı",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 12:15",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/beyoglu-nda-5-katli-binada-yangin-2-kisi-kurtarildi-2494769",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Beyoğlu ilçesinde kaynak yapıldığı sırada kıvılcımın koltuğa, oradan da 5 katlı binanın bodrum katına sıçraması sonucu çıkan yangın paniğe neden oldu. Yangında 4'üncü katta mahsur kalan 2 yaşlı kadın, itfaiye ekiplerince kurtarıldı. Hafif şekilde dumandan etkilenen kadınların sağlık durumunun iyi olduğu öğrenildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b543e1c1-7abc-4c53-810e-17269654a87a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_26b1546b",
     "title": "Antalya'da depremi fark edince sokağa fırladılar",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Marmaray'dan sabah saatlerinde yapılan açıklamada, \"Aydıntepe istasyonunda yaşanan üzücü bir olay nedeniyle Tuzla-Pendik istasyonları arası tek hat işletmeciliği yapıldığından Marmaray tren seferlerinde gecikmeler yaşanmaktadır\" denildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5a071fc2-b686-4091-a361-d5dbd0ea2d21.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_597a6f74",
-    "title": "Nevşehir'de feci olay: Devrilen forkliftin altında kalıp can verdi",
-    "source": "Haber Global",
-    "time": "13/04/2026 11:36",
-    "link": "https://haberglobal.com/gundem/nevsehirde-feci-olay-devrilen-forkliftin-altinda-kalip-can-verdi-518466",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nevşehir'de sabah saatlerinde doğal soğuk hava deposunda devrilen forkliftin altında kalan işçi yaşamını yitirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/nevsehirde-feci-olay-devrilen-forkliftin-altinda-kalip-can-verdi-pk0v.jpg",
     "keyword": null
   }
 ]
