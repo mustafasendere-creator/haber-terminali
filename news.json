@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_01e955ad",
+    "title": "Malatya'da maden işçilerini taşıyan servis minibüsü devrildi: İki ölü, 10 yaralı",
+    "source": "Evrensel",
+    "time": "13/04/2026 06:54",
+    "link": "https://www.evrensel.net/haber/5979371/malatya-da-maden-iscilerini-tasiyan-servis-minibusu-devrildi-iki-olu-10-yarali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya'nın Hekimhan ilçesinde iş kazası yaşandı. Maden işçilerini taşıyan araç şarampole devrildi; iki kişi hayatını kaybetti, 10 kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342728.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1d03d772",
     "title": "Küba'dan ABD'ye mücadele mesajı: İşgal halinde kendimizi savunuruz",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Nottingham Forest, İngiltere Premier Lig'in 32. haftasında kendi evinde ağırladığı Aston Villa ile 1-1 berabere kaldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/be91f189-5d59-4fb6-a622-2f36f898638e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ea023010",
-    "title": "Macaristan'da halk seçimler için sandık başında: 'Yolsuzluk ile temiz kamu hayatı arasında bir tercih'",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 02:54",
-    "link": "https://www.cumhuriyet.com.tr/dunya/macaristan-da-halk-secimler-icin-sandik-basinda-yolsuzluk-ile-temiz-kamu-hayati-arasinda-bir-tercih-2494584",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan’da halk, 199 milletvekilinin belirleneceği genel seçimler için sandık başında. Oyunu kullandıktan sonra gazetecilere açıklamalarda bulunan Magyar ise seçimin “Doğu ile Batı, propaganda ile dürüst kamusal söylem, yolsuzluk ile temiz kamu hayatı arasında bir tercih” olduğunu söyledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d3a5089a-9df0-44ca-856a-38b7d0a5a702.jpg",
     "keyword": null
   }
 ]
