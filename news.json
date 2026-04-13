@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5f593134",
+    "title": "‘Aziz İhsan Aktaş’ davasında gizli tanıkların dinleneceği tarihler belli oldu",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 21:55",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/aziz-ihsan-aktas-davasinda-gizli-taniklarin-dinlenecegi-tarihler-belli-oldu-2494948",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "‘Aziz İhsan Aktaş Suç Örgütü’ davasında, mahkemenin yazdığı müzekkereyle “Yaprak” ve “XYZ49QP” kod adlı gizli tanıkların 20 ve 22 Nisan’da dinlenmesine karar verildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e135678a-5640-479c-9019-e5b207d6604c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e152c28d",
     "title": "WSJ: ABD, İran ablukasını uygulamak için 15'ten fazla savaş gemisini bölgeye konuşlandırdı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Webaslan  x.com",
     "image": null,
     "keyword": "trabzon polis"
-  },
-  {
-    "id": "GND_dac87d5f",
-    "title": "The Telegraph Erdoğan haberini kaldırdı",
-    "source": "OdaTV",
-    "time": "13/04/2026 20:36",
-    "link": "https://www.odatv.com/guncel/the-telegraph-erdogan-haberini-kaldirdi-120143183",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "The Telegraph Cumhurbaşkanı Erdoğan&#039;a yönelik asılsız iddiaları içeren haberini kaldırdı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/the-telegraph-erdogan-haberini-kaldirdi-dff5.jpg",
-    "keyword": null
   }
 ]
