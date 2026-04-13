@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4b7fe96",
+    "title": "Son Dakika... Antalya Demre açıklarında 4.7 büyüklüğünde deprem",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 09:16",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-antalya-demre-aciklarinda-4-7-buyuklugunde-deprem-2494676",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberi... Antalya'nın Demre ilçesi açıklarında 4.7 büyüklüğünde deprem meydana geldi. Depremin derinliği 16.17 km oldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7d66ab51-732b-422e-afef-2fec04c95190.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_c459bab0",
     "title": "Trabzon'da bugün hava nasıl olacak?",
     "source": "Karadeniz Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "San Francisco’da şiddetli yağış ve fırtına yaşamı etkilerken, kentin üzerini yoğun bulut kütleleri kapladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342735.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a8c3f36d",
-    "title": "Orban’ın gidişi ve CNN’in tutumu",
-    "source": "10Haber",
-    "time": "13/04/2026 08:34",
-    "link": "https://10haber.net/yazarlar/nuri-colakoglu/orbanin-gidisi-ve-cnnin-tutumu-694716/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dün akşam dünyada iki önemli olay aynı anda ekranları işgal etmişti. Biri Macaristan’da 16 yıl süren Orban yönetiminin sona ermesi ve Magyar yönetimindeki muhalefetin ezici bir farkla seçimi kazanması. Diğeri ise bir gün önce İslamabat‘ta yapılan ABD-İran görüşmelerinde bir sonuç elde edilmeden herkesin evine dönmesi. İran-ABD gelişmelerini zaten sabahtan beri izliyorduk akşama kadar da heyecanla [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/agyar.jpg",
     "keyword": null
   }
 ]
