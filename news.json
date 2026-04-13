@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_abd36825",
+    "title": "Beşiktaş'ta polis noktasına yönelik terör saldırısına ilişkin gözaltına alınan 3 şüpheli adliyede",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 10:34",
+    "link": "https://www.aa.com.tr/tr/gundem/besiktasta-polis-noktasina-yonelik-teror-saldirisina-iliskin-gozaltina-alinan-3-supheli-adliyede/3903411",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beşiktaş'ta, Yapı Kredi Plaza önündeki polis noktasına yönelik terör saldırısına ilişkin gözaltına alınan şüphelilerden 3’ü adliyeye sevk edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1f18cc06",
     "title": "Ateşkesi ihlal eden İsrail ordusunun Gazze'deki saldırısında 3 kişi hayatını kaybetti",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’de zirve mücadelesi veren Trabzonspor’da bu sezon 29 karşılaşmada 10 farklı oyuncu gol sevinci yaşadı.",
     "image": "https://resim.haber61.net/news/612461.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_dda4df8e",
-    "title": "Macaristan: Budapeşte'de Magyar'ın zaferi sonrası sokaklar kutlamalara sahne oldu",
-    "source": "Euronews",
-    "time": "13/04/2026 09:54",
-    "link": "http://tr.euronews.com/video/2026/04/13/macaristan-budapestede-magyarin-zaferi-sonrasi-sokaklar-kutlamalara-sahne-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan'da Başbakan Viktor Orbán'ın yenilgiyi kabul ederek 16 yıllık iktidarına son vermesinin ardından 12 Nisan 2026 Pazar günü büyük kalabalıklar sokaklara döküldü.",
-    "image": null,
-    "keyword": null
   }
 ]
