@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2df75827",
+    "title": "ABD'nin Hürmüz ablukası başladı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 17:17",
+    "link": "https://www.trthaber.com/haber/dunya/abdnin-hurmuz-ablukasi-basladi-941507.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD, İran limanlarına giren veya bu limanlardan çıkan tüm gemilere yönelik deniz ablukası başlattı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_74cfbff2",
     "title": "Başkan Genç’ten İsrail’e Sert Tepki: “Kabul Edilemez Küstahlık”",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "TKP",
     "prefix": "🎯",
     "summary": "Trabzon Büyükşehir Belediye Meclisi’nde Reşadiye Viyadüğü’nü kapsayan alana ilişkin imar planı değişikliği görüşüldü. Başkan Ahmet Metin Genç, viyadüğün kaldırılarak akıllı kavşak yapılacağını ve Pazarkapı’nın yayalaştırılacağını açıkladı.",
-    "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_e023ad29",
-    "title": "Trabzon’da 8 projeye 650 milyon TL kaynak sağlanacak",
-    "source": "Karadeniz Gazetesi",
-    "time": "13/04/2026 16:36",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-8-projeye-650-milyon-tl-kaynak-saglanacak/608810",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediye Meclisi, şehir genelindeki altyapı ve üstyapı projeleri için 650 milyon TL kredi kullanımına onay verdi. Başkan Ahmet Metin Genç’e yetki verildi.",
     "image": null,
     "keyword": "trabzon"
   }
