@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aab82703",
+    "title": "İstanbul'da 21 tutuklama",
+    "source": "OdaTV",
+    "time": "14/04/2026 02:15",
+    "link": "https://www.odatv.com/guncel/istanbulda-21-tutuklama-120143201",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul&#039;da suç örgütüne yönelik operasyonda gözaltına alınan 21 şüpheli tutuklandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/istanbulda-21-tutuklama-zztn.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_56f5bfcb",
     "title": "VavaCars, yapay zekâyla yüzde 35 büyüme hedefliyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Birleşmiş Milletler (BM) İnsan Hakları Ofisi, İsrail'in işgal altındaki Batı Şeria'da 34 yeni yerleşim yeri kurma kararından \"son derece\" endişeli olduğunu bildirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_457845ff",
-    "title": "Savaş, kredi not artışını frenledi",
-    "source": "Ekonomim",
-    "time": "14/04/2026 00:15",
-    "link": "https://www.ekonomim.com/ekonomi/savas-kredi-not-artisini-frenledi-haberi-887876",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TL varlıklar ve dezenfl asyon programı için umutlu başlayan 2026 yılında ilk olumlu haberlerden biri kredi derecelendirme kuruluşu Fitch’in not görünümünü durağandan pozitife çevirerek olumlu sinyal vermesiydi. Ancak Orta Doğu’yu karıştıran savaş ve rezervlere olumsuz etkileri Fitch’in pozitifl iğini ortadan kaldırdığı gibi kredi notlarında beklenen 1 basamak artış ihtimalini de fiyatlamalardan çıkardı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/savas-kredi-not-artisini-frenledi-bkfz_cover.jpg",
     "keyword": null
   }
 ]
