@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b24fe28e",
+    "title": "Tayland'da Songkran su savaşları ve yoğun seyahatle kutlandı",
+    "source": "Euronews",
+    "time": "13/04/2026 17:16",
+    "link": "http://tr.euronews.com/video/2026/04/13/taylandda-songkran-su-savaslari-ve-yogun-seyahatle-kutlandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tayland, 13 Nisan 2026 Pazartesi günü Bangkok’ta büyük kalabalıkların geleneksel su festivali için bir araya gelmesiyle Songkran Yeni Yılı’nı kutladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_070e0878",
     "title": "Canlı yayında duyurdu: Trabzonspor transferde ilk bombayı patlattı",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Of Folklor Derneği tarafından düzenlenen resim çalıştayı, 13 sanatçının eserlerinin sergilendiği etkinlikle tamamlandı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/cxz-2.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_e2c6aad9",
-    "title": "Rusya: Ukrayna ordusu 6 bin 558 kez ateşkes sürecini ihlal etti",
-    "source": "TRT Haber",
-    "time": "13/04/2026 16:35",
-    "link": "https://www.trthaber.com/haber/dunya/rusya-ukrayna-ordusu-6-bin-558-kez-ateskes-surecini-ihlal-etti-941499.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Savunma Bakanlığı, Paskalya Bayramı nedeniyle ilan edilen geçici ateşkes sürecinin Ukrayna ordusu tarafından 6 bin 558 kez ihlal edildiğini duyurdu.",
-    "image": null,
-    "keyword": null
   }
 ]
