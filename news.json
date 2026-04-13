@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2e3ba5d2",
+    "title": "46 yaşındaki esnaf, ölü bulundu",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 23:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/46-yasindaki-esnaf-olu-bulundu-2494973",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'da 46 yaşındaki esnaf, iş yerinde ölü bulundu. Polis, şahsın intihar ettiği üzerinde duruyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/af2292ba-6609-4992-ab0b-6d7757e84721.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1bdc5641",
     "title": "Bursa'da düdüklü tencere patladı: 1 kişi yaralandı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "DEM Parti PM bildirgesinde Ortadoğu’daki savaşın küresel etkisine dikkat çekildi, barış ve demokrasi ihtiyacı vurgulandı. Sürecin yavaşlatılması \"Kabul edilemez ve riski\" olarak nitelendirildi, talepler yinelendi ve 1 Mayıs için çağrı yapıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342805.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_eb7b1518",
-    "title": "Ünlü isimlere yönelik soruşturmada 8 tutuklama",
-    "source": "Evrensel",
-    "time": "13/04/2026 22:14",
-    "link": "https://www.evrensel.net/haber/5979501/unlu-isimlere-yonelik-sorusturmada-8-tutuklama",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’da ünlülere yönelik yürütülen soruşturma kapsamında gözaltına alınan isimlerden 8'i tutuklandı, 3 kişi ise adli kontrolle serbest bırakıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342873.jpg",
     "keyword": null
   }
 ]
