@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f6d3cece",
+    "title": "ABD Başkanı Trump, dün Hürmüz Boğazı'ndan 34 geminin geçtiğini belirtti",
+    "source": "TRT Haber",
+    "time": "13/04/2026 23:35",
+    "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-dun-hurmuz-bogazindan-34-geminin-gectigini-belirtti-941528.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, dün Hürmüz Boğazı'ndan 34 geminin geçtiğini ve bu sayının İran'ın boğazı \"kapatmasının\" ardından en yüksek sayı olduğunu ifade etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9a236baf",
     "title": "İtalya'da, Saraybosna'ya keskin nişancılığa gidenlere dair soruşturmada bir kişinin daha ifadesine başvuruldu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trendyol 1. Lig 35. hafta maçında Erokspor'a 2-1 mağlup olan Sakaryaspor, bitime 3 hafta kala kümeye düştü.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/manset-kopyasi-77.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_cbfe9114",
-    "title": "FBI, silinen Signal mesajlarına nasıl erişti?",
-    "source": "Euronews",
-    "time": "13/04/2026 22:14",
-    "link": "http://tr.euronews.com/next/2026/04/13/fbi-silinen-signal-mesajlarina-nasil-eristi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Signal uçtan uca şifreleme protokolünü geliştirmesiyle tanınıyor. Ancak FBI'ın, uçtan uca şifreli Signal mesajlarını silinmiş oldukları halde bir şüpheliye ait telefondan okuyabilmesi tartışma yarattı.",
-    "image": null,
     "keyword": null
   }
 ]
