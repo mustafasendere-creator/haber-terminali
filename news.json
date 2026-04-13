@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b4558f67",
+    "title": "Hürmüz'de ABD-İran restleşmesi: Petrol fiyatları fırladı",
+    "source": "DW Türkçe",
+    "time": "13/04/2026 10:35",
+    "link": "https://www.dw.com/tr/hürmüz-de-abd-iran-restleşmesi-petrol-fiyatları-fırladı/a-76759021",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda İran limanlarına giriş çıkışların bugün saat 17.00 itibarıyla engelleneceğini ilan ederken, İran \"Siz savaşacaksanız, biz de savaşırız\" restiyle yanıt verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_00154469",
     "title": "Buldan: Öcalan, CHP'ye yapılanlardan rahatsız",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Alanya deplasmanında bırakılan 2 puanın ardından sosyal medyada yapılan göndermelere sahada ve ekran başında cevap verdi. Galatasaray’ın maç sonrası paylaştığı “gülücük” temalı antrenman fotoğrafları Bordo-Mavili camiada dikkat çekerken, Trabzonspor cephesinden gecikmeyen karşılık Oulai üzerinden geldi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/oulai-35.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_32c216ee",
-    "title": "WSJ: İran ile ABD arasında diplomasi kapısı hala açık",
-    "source": "TRT Haber",
-    "time": "13/04/2026 09:55",
-    "link": "https://www.trthaber.com/haber/dunya/wsj-iran-ile-abd-arasinda-diplomasi-kapisi-hala-acik-941439.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pakistan'ın başkenti İslamabad'da Tahran ile Washington arasında yürütülen görüşmelerde ortak bir anlaşmaya varılamamasına rağmen ABD ile İran arasında, diplomasi kapısının halen açık olduğu ve birkaç gün içinde ikinci tur görüşmelerin yapılabileceği öne sürüldü.",
-    "image": null,
-    "keyword": null
   }
 ]
