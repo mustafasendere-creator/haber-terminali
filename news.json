@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_246ef092",
+    "title": "ABD ordusu, bugün İran limanlarına yönelik deniz ablukasına başlıyor",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 09:34",
+    "link": "https://www.aa.com.tr/tr/dunya/abd-ordusu-bugun-iran-limanlarina-yonelik-deniz-ablukasina-basliyor/3903343",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), 13 Nisan saat 17.00'de (TSİ) İran limanlarına giren veya bu limanlardan çıkan tüm gemilere yönelik deniz ablukası başlatacağını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0661a0fe",
     "title": "Brent petrolün varili 102,08 dolardan işlem görüyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da yıllardır ulusal ve yerel basına hizmet veren Hürriyet Gazetecilik, aldığı kararla kentteki basım faaliyetlerini durdururken, Arsin’deki matbaanın kapatılması basın camiasında üzüntü yarattı.",
     "image": "https://resim.haber61.net/news/612452.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a8dbee6c",
-    "title": "ABD'den uyuşturucu kaçakçılığı yapan teknelere saldırı: En az 5 ölü",
-    "source": "Haber Global",
-    "time": "13/04/2026 08:35",
-    "link": "https://haberglobal.com/dunya/abdden-uyusturucu-kacakciligi-yapan-teknelere-saldiri-en-az-5-olu-518422",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ordusu, Doğu Pasifik’te uyuşturucu taşıdığı tespit edilen 2 tekneye saldırı düzenledi. Saldırıda en az 5 narko-teröristin öldürüldüğü bildirildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/abdden-uyusturucu-kacakciligi-yapan-teknelere-saldiri-en-az-5-olu-rqeb.jpg",
-    "keyword": null
   }
 ]
