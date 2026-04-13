@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8989090",
+    "title": "İstanbul'da sahte ilaç alarmı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 15:15",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-sahte-ilac-alarmi-941457.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbulda düzenlenen operasyonda yasa dışı üretilmiş milyonlarca hap ve üretim hammaddesi bulundu. Olayla ilgili 1 şüpheli tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_599f673b",
     "title": "Türkiye iki mevsimi bir arada yaşıyor: Batıda bahar, Doğuda kış",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Orman Genel Müdürlüğü, 2026 yılı itibarıyla Türkiye genelinde ormancılık yarışmalarını başlatıyor. Trabzon’daki eleme etabına 6 bölgeden ekipler katılacak.",
     "image": "https://resim.haber61.net/news/612525.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bebbee1e",
-    "title": "Yargıtay’dan ‘Hikmet Karaca’ kararı... FETÖ’cülere esastan değil usulden 'söz hakkı'",
-    "source": "OdaTV",
-    "time": "13/04/2026 14:36",
-    "link": "https://www.odatv.com/guncel/fetoculere-esastan-degil-usulden-soz-hakki-120143142",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yargıtay Ceza Genel Kurulu, Tahşiye Kumpas Davası’nda FETÖ üyesi Hidayet Karaca ve örgüt üyesi polis müdürlerine verilen hapis cezası kararlarını bozdu. Kararın gerekçesi, Tahşiye grubunun tepkisi ve bundan sonra neler olacağı haberimizde...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/fetoculere-esastan-degil-usulden-soz-hakki-ertb.jpg",
     "keyword": null
   }
 ]
