@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e8e7dfc9",
+    "title": "Savaş sonrası OPEC'in petrol üretimi azaldı",
+    "source": "Haber Global",
+    "time": "13/04/2026 16:15",
+    "link": "https://haberglobal.com/ekonomi/savas-sonrasi-opecin-petrol-uretimi-azaldi-518519",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Petrol İhraç Eden Ülkeler Örgütünün (OPEC) günlük ham petrol üretimi, ABD/İsrail-İran Savaşı'nın etkisiyle martta önceki aya göre 7 milyon 878 bin varil azalarak 20 milyon 788 bin varile geriledi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/savas-sonrasi-opecin-petrol-uretimi-azaldi-pvmq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6785ecc7",
     "title": "İsrail ateşkese rağmen Lübnan’a saldırıyor",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "AK Parti Trabzon İl Başkanı Dr. Sezgin Mumcu, başta Mescid-i Aksa olmak üzere Filistin’de yaşanan saldırılara dikkat çekmek amacıyla ikinci kez yola çıkmaya hazırlanan Sumud Filosu’na tam destek verdiklerini açıkladı.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_7c364f1c",
-    "title": "Milli Eğitim Akademisi kapılarını açtı",
-    "source": "TRT Haber",
-    "time": "13/04/2026 15:36",
-    "link": "https://www.trthaber.com/haber/egitim/milli-egitim-akademisi-kapilarini-acti-941488.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Eğitim Akademisi'nde hazırlık eğitimi alacak öğretmen adayları için ilk ders zili çalarken, Akademi kapsamında ilk dersi Milli Eğitim Bakanı Yusuf Tekin verdi.",
-    "image": null,
-    "keyword": null
   }
 ]
