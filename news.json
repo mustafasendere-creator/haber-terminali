@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f0efff0",
+    "title": "Hürmüz Boğazı'nda ABD ablukası başladı!",
+    "source": "Ekonomim",
+    "time": "13/04/2026 17:18",
+    "link": "https://www.ekonomim.com/dunya/hurmuzde-abd-ablukasi-basladi-haberi-887845",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika: ABD Başkanı Trump&#039;ın İran&#039;a verdiği süre doldu, Hürmüz Boğazı&#039;nda ABD ablukası başladı. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), 13 Nisan saat TSİ 17.00 itibarıyla İran limanlarına giren veya bu limanlardan çıkan tüm gemilere yönelik deniz ablukası başlatılacağını duyurmuştu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/11/trumptan-iran-mesaji-hurmuz-bogazini-onlarla-ya-da-onlar-olmadan-acacagiz-nqkj_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b0fb3d92",
     "title": "İbrahim Tatlıses'ten açıklama",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD’nin San Francisco kentinde yerel saatle pazar sabaha karşı gerçekleşen olayda iki kişi Sam Altman'ın evine ateş etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_75986d85",
-    "title": "LNZ Cherkasy-Shakhtar Donetsk maçında hava saldırısı alarmı",
-    "source": "İHA Trabzon",
-    "time": "13/04/2026 16:55",
-    "link": "https://www.aa.com.tr/tr/spor/lnz-cherkasy-shakhtar-donetsk-macinda-hava-saldirisi-alarmi/3904067",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Teknik direktörlüğünü Arda Turan'ın yaptığı Shakhtar Donetsk'in deplasmanda LNZ Cherkasy ile oynadığı mücadele, hava saldırısı alarmı nedeniyle kesintiye uğradı.",
     "image": null,
     "keyword": null
   }
