@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_67618800",
+    "title": "Mezarlıktaki vahşette kurtulan abla konuştu!",
+    "source": "Habertürk",
+    "time": "13/04/2026 14:57",
+    "link": "https://www.haberturk.com/mezarliktaki-vahsette-kurtulan-abla-konustu-kelepce-ihlali-olunca-uyardilar-3876716",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aksaray'da eniştesinin mezarlıktaki saldırısında kardeşi Gamze Yıldırım'ı kaybeden ve kendisi de yaralanan Beyaz Çakmak, yaşadığı kabusu anlattı. Çakmak, \"Gamze’nin telefonu çaldı. Elektronik İzleme Merkezi’nden aradılar ve Habip Emre Yıldırım'ın, elektronik kelepçe mesafesini ihlal edip, kendisine yaklaştığını söylediler. Daha arkamızı dönmeden Habip Emre Yıldırım geldi.\" dedi",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1775984721/3876716/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b22e2615",
     "title": "Darp edilen kadın ölümden döndü",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Meclisi’nde, belediye şirketlerinden Trabzon Kent Spor Turizm ve Bilgi Organizasyon Hizmetleri A.Ş.’nin sermayesinin artırılmasına yönelik teklif görüşüldü.",
     "image": "https://resim.haber61.net/news/612517.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b51ad379",
-    "title": "İmamoğlu davası Strazburg'da: AİHM, Türk hükümetinden açıklama istedi",
-    "source": "Euronews",
-    "time": "13/04/2026 14:34",
-    "link": "http://tr.euronews.com/2026/04/13/imamoglu-davasi-strazburgda-aihm-turk-hukumetinden-aciklama-istedi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu’nun başvurusunu öncelikli görüşme kararı alan AİHM, iktidara altı soru yöneltti.",
-    "image": null,
-    "keyword": null
   }
 ]
