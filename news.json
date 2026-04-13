@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4d883373",
+    "title": "Emniyet Genel Müdürlüğü yeni hava araçlarını teslim aldı",
+    "source": "TRT Haber",
+    "time": "14/04/2026 00:15",
+    "link": "https://www.trthaber.com/haber/gundem/emniyet-genel-mudurlugu-yeni-hava-araclarini-teslim-aldi-941527.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yerli imkanlarla üretilen birer AKSUNGUR insansız hava aracı İHA, T129 ATAK taarruz helikopteri ve T70 genel maksat helikopteri, Emniyet Genel Müdürlüğü EGM Havacılık Daire Başkanlığına teslim edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1c302283",
     "title": "Suudi Arabistanda çöller dolu yağışıyla beyaza büründü",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Haber61 Genel Yayın Yönetmeni Tuncay Lakot, Trabzonspor'un Ukraynalı oyuncusu Oleksandr Zubkov’un performansındaki düşüşü ve takımdan ayrılacağına dair gündeme gelen iddiaları canlı yayında yorumladı.",
     "image": "https://resim.haber61.net/news/612576.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b3cfe686",
-    "title": "ESP Eş Genel Başkan Yardımcısı Sezin Uçar gözaltına alındı",
-    "source": "Evrensel",
-    "time": "13/04/2026 22:54",
-    "link": "https://www.evrensel.net/haber/5979503/esp-es-genel-baskan-yardimcisi-sezin-ucar-gozaltina-alindi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ESP Genel Başkan Yardımcısı Sezin Uçar, Avrupa seyahati dönüşü İstanbul havaalanından gözaltına alındı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342874.jpg",
-    "keyword": null
   }
 ]
