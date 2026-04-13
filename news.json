@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_084c8103",
+    "title": "Webaslan - x.com",
+    "source": "X",
+    "time": "13/04/2026 20:54",
+    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBkNzdtZ0dkQTdtcFJWWTlaclpBVDNmR3F6SUd2Q2d3XzRJZUNmOU1tSzlyR2JlVzRicWc",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "Webaslan  x.com",
+    "image": null,
+    "keyword": "trabzon polis"
+  },
+  {
     "id": "GND_dac87d5f",
     "title": "The Telegraph Erdoğan haberini kaldırdı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, \"Bayrakların yakılması, bayraklara ya da onların sahiplerine bir şey kaybettirmez ama bu saçma sapan ‘eylem’, yakanlar açısından açık bir medeniyet kaybıdır.\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_32fb4b79",
-    "title": "Trabzonspor Alanya engeline takıldı: Masaya yatırılan kritik maçta hakem yönetimi sınıfta kaldı",
-    "source": "Haber61",
-    "time": "13/04/2026 19:55",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-alanya-engeline-takildi-masaya-yatirilan-kritik-macta-h629513.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Haber61 ekranlarında yayınlanan Spor Gündemi programında Trabzonspor’un Alanyaspor deplasmanında bıraktığı 2 puan masaya yatırıldı; Tuncay Lakot hakem kararlarına tepki gösterdi.",
-    "image": "https://resim.haber61.net/news/612565.jpg",
     "keyword": null
   }
 ]
