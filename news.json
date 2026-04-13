@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a29f4b96",
+    "title": "Çaykur Rizespor, Gaziantep FK'yi geriden gelerek devirdi!",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 23:55",
+    "link": "https://www.cumhuriyet.com.tr/spor/caykur-rizespor-gaziantep-fk-yi-geriden-gelerek-devirdi-2494958",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çaykur Rizespor, Süper Lig'in 29. haftasında kendi evinde ağırladığı Gaziantep FK'yi 2-1 mağlup etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/bbccc856-6787-4984-a318-c3a25aff0e14.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ffb9e769",
     "title": "Burak Yılmaz'dan istifa kararı: Maçın ardından duyurdu!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig'de Gaziantep FK Teknik Direktörü Burak Yılmaz, istifa ettiğini açıkladı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/gaziantep-fkda-burak-yilmaz-istifa-etti-oopd.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d148de8f",
-    "title": "Ünlülere yönelik uyuşturucu soruşturması: 8 tutuklama",
-    "source": "TRT Haber",
-    "time": "13/04/2026 22:35",
-    "link": "https://www.trthaber.com/haber/turkiye/unlulere-yonelik-uyusturucu-sorusturmasi-8-tutuklama-941522.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbuldaki uyuşturucu soruşturması kapsamında gözaltına alınan ve aralarında ünlü isimlerin de yer aldığı 19 şüpheli adliyeye sevk edildi. 8 kişi tutuklandı, 11 kişi hakkındaysa adli kontrol kararı verildi.",
-    "image": null,
     "keyword": null
   }
 ]
