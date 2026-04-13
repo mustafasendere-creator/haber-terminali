@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6b2e93db",
+    "title": "Avukatın şüpheli ölümü: Binadan düşerek hayatını kaybetti!",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 15:56",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/avukatin-supheli-olumu-binadan-duserek-hayatini-kaybetti-2494855",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Edirne'de bir binada meydana gelen olayda, binadan düşen 45 yaşındaki eski avukat şüpheli şekilde hayatını kaybetti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/add7bb02-fbe8-483c-ad41-8aece0e4d600.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2887462c",
     "title": "Günlük Burç Yorumları: 14 Nisan Salı Başak Burcu Yorumu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Büyükşehir Belediye Meclisi, şehir genelindeki altyapı ve üstyapı projeleri için 650 milyon TL kredi kullanımına onay verdi. Başkan Ahmet Metin Genç’e yetki verildi.",
     "image": "https://resim.haber61.net/news/612516.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_325c1484",
-    "title": "Trabzonsporlu yıldızın performansı galibiyete yetmedi",
-    "source": "Haber61",
-    "time": "13/04/2026 15:34",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporlu-yildizin-performansi-galibiyete-yetmedi-h629492.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Basketbol Takımı, sahasında Aliağa Petkimspor’a 90-84 mağlup olurken Marcquise Reed ortaya koyduğu bireysel performansla öne çıktı. Bordo-mavili oyuncu, 34 dakikada 30 sayı üretti ancak bu katkı galibiyet için yeterli olmadı.",
-    "image": "https://resim.haber61.net/news/612527.jpg",
     "keyword": null
   }
 ]
