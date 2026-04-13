@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9a93873c",
+    "title": "BM: İsrail'in saldırıları sonucu Lübnan'ın güneyinde ölü sayısı 2 bini aştı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 23:55",
+    "link": "https://www.trthaber.com/haber/dunya/bm-israilin-saldirilari-sonucu-lubnanin-guneyinde-olu-sayisi-2-bini-asti-941531.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler BM, İsrail'in saldırılarının sürdüğü Lübnan'ın güneyinde bugüne kadar 2 binden fazla kişinin hayatını kaybettiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d3f0bef0",
     "title": "Bakan Gürlek'ten Adana merkezli suç örgütü operasyonuna ilişkin açıklama",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uyuşturucu soruşturması: Sekiz kişi tutuklandı 13.04.2026 Dikenİstanbul'da uyuşturucu soruşturması kapsamında dün düzenlenen operasyonda gözaltına alınan 19 kişiden sekizi tutuklandı.\nThe post Uyuşturucu soruşturması: Sekiz kişi tutuklandı appeared first on #site_linkat 13.04.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_647a3bd5",
-    "title": "Rizespor 2-1 Gaziantep FK: Karadeniz ekibinden ikinci yarıda geri dönüş",
-    "source": "Evrensel",
-    "time": "13/04/2026 22:34",
-    "link": "https://www.evrensel.net/haber/5979496/rizespor-2-1-gaziantep-fk-karadeniz-ekibinden-ikinci-yarida-geri-donus",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 29. haftasında Rizespor sahasında Gaziantep FK'yi konuk etti. Karşılaşmanın ilk yarısını konuk ekip 23'üncü dakikada bulduğu golle önde tamamladı. Rizespor ikinci yarıda bulduğu gollerle maçı 2-1 kazandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342870.jpg",
     "keyword": null
   }
 ]
