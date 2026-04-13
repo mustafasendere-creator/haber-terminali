@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_29073044",
+    "title": "Yalnız yaşadığı evde ölü bulundu",
+    "source": "Habertürk",
+    "time": "13/04/2026 13:16",
+    "link": "https://www.haberturk.com/ispartada-yalniz-yasadigi-evde-olu-bulundu-3876766",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Isparta’da, yaklaşık bir haftadır haber alınamayan İsmail Özcan evinde ölü bulundu. Ev sahibinin ihbarı üzerine adrese gelen ekipler, kapıyı açarak Özcan’ın hayatını kaybettiğini belirledi. Olayla ilgili inceleme başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1775999305/3876766/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ab217d87",
     "title": "15 gün sonra hayatını kaybetti",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Mardin Olgunlaşma Enstitüsünün taş işleme atölyesinde tescilli Mardin taşına tarihi yapılardaki motifler işleniyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ec6f575d",
-    "title": "İran'dan Hürmüz Boğazı'nı ablukaya ilişkin \"Diğer kartlarımızı ortaya koyarız\" açıklaması",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 12:54",
-    "link": "https://www.aa.com.tr/tr/dunya/irandan-hurmuz-bogazini-ablukaya-iliskin-diger-kartlarimizi-ortaya-koyariz-aciklamasi/3903793",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Meclisi Ulusal Güvenlik Komisyonu Başkanı İbrahim Azizi, ABD'nin Hürmüz Boğazı'nı ablukaya alma girişimine ilişkin, \"Belki diğer kartlarımızı ortaya koyarız.\" dedi.",
     "image": null,
     "keyword": null
   }
