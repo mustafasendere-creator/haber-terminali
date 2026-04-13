@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a92f4c59",
+    "title": "BM: İsrail'in saldırıları sonucu Lübnan'ın güneyinde ölü sayısı 2 bini aştı",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 22:34",
+    "link": "https://www.aa.com.tr/tr/dunya/bm-israilin-saldirilari-sonucu-lubnanin-guneyinde-olu-sayisi-2-bini-asti/3904452",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler (BM), İsrail'in saldırılarının sürdüğü Lübnan'ın güneyinde bugüne kadar 2 binden fazla kişinin hayatını kaybettiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0e7e2b3e",
     "title": "Kılıçdaroğlu, İbrahim Tatlıses'i hastanede ziyaret etti",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Acun Ilıcalı, bu sezon başında Trabzonspor'dan kiraladığı Lundstram’a sosyal medya hesabından cevap vererek tepki gösterdi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/asasdas-kurtarildi-168.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_e2b8ccd8",
-    "title": "Canlı | Rizespor - Gaziantep FK: İlk yarı sonucu 0-1",
-    "source": "Evrensel",
-    "time": "13/04/2026 21:14",
-    "link": "https://www.evrensel.net/haber/5979496/canli-rizespor-gaziantep-fk-ilk-yari-sonucu-0-1",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 29. haftasında Rizespor sahasında Gaziantep FK'yi konuk ediyor. Karşılaşmanın ilk yarısını konuk ekip 23'üncü dakikada bulduğu golle önde tamamladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342870.jpg",
     "keyword": null
   }
 ]
