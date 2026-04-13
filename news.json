@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f9cfe0a",
+    "title": "10 günde 4 kez: Marmaray'dan bir 'üzücü olay' açıklaması daha",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 11:36",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/10-gunde-4-kez-marmaray-dan-bir-uzucu-olay-aciklamasi-daha-2494757",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Marmaray'dan sabah saatlerinde yapılan açıklamada, \"Aydıntepe istasyonunda yaşanan üzücü bir olay nedeniyle Tuzla-Pendik istasyonları arası tek hat işletmeciliği yapıldığından Marmaray tren seferlerinde gecikmeler yaşanmaktadır\" denildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5a071fc2-b686-4091-a361-d5dbd0ea2d21.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_597a6f74",
     "title": "Nevşehir'de feci olay: Devrilen forkliftin altında kalıp can verdi",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, Anadolu Ajansı (AA) Editör Masası'nda gündeme ilişkin soruları yanıtlıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9dce3a46",
-    "title": "İtalyan uzmanlar, İtalya Deniz Kuvvetlerinin Bayraktar TB3'e ilgisini değerlendirdi",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 11:14",
-    "link": "https://www.aa.com.tr/tr/bilim-teknoloji/italyan-uzmanlar-italya-deniz-kuvvetlerinin-bayraktar-tb3e-ilgisini-degerlendirdi/3903495",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İtalyan savunma ve güvenlik uzmanları,  Bayraktar TB3'ün, İtalyan Donanmasındaki Cavour uçak gemisine entegre edilmesinin, söz konusu kuvvete önemli kabiliyetler kazandıracağı görüşünde birleşti.",
     "image": null,
     "keyword": null
   }
