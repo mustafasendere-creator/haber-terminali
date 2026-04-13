@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cde9d426",
+    "title": "Manisa’daki iş cinayeti davası için çağrı: ‘Destek bekliyoruz’",
+    "source": "Evrensel",
+    "time": "13/04/2026 10:15",
+    "link": "https://www.evrensel.net/haber/5979391/manisadaki-is-cinayeti-davasi-icin-cagri-destek-bekliyoruz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'da iki yıl önce Zülfü Yıldız ile birlikte iş cinayetinde yaşamını yitiren Ali Baba Gökalp'in ailesi, 15 Nisan'da görülecek duruşma için çağrı yaparak, “Emsal kararın çıkmasını istiyoruz. Başka işçiler hayatını kaybetmesin\" dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342741.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6cec396d",
     "title": "Araç sahipleri için zorunluluk sona eriyor: 15 Nisan son gün",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail Başbakanı Binyamin Netanyahu'nun \"güvenlik ve siyasi nedenleri\" gerekçe göstererek talepte bulunması üzerine yolsuzluk davalarındaki duruşmaları bir hafta ertelendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_246ef092",
-    "title": "ABD ordusu, bugün İran limanlarına yönelik deniz ablukasına başlıyor",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 09:34",
-    "link": "https://www.aa.com.tr/tr/dunya/abd-ordusu-bugun-iran-limanlarina-yonelik-deniz-ablukasina-basliyor/3903343",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), 13 Nisan saat 17.00'de (TSİ) İran limanlarına giren veya bu limanlardan çıkan tüm gemilere yönelik deniz ablukası başlatacağını açıkladı.",
     "image": null,
     "keyword": null
   }
