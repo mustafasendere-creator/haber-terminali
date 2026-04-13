@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c9e9467a",
+    "title": "Pezeşkiyan'dan, Trump'ın hedef aldığı Papa 14. Leo'ya destek mesajı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 16:56",
+    "link": "https://www.trthaber.com/haber/dunya/pezeskiyandan-trumpin-hedef-aldigi-papa-14-leoya-destek-mesaji-941505.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD Başkanı Donald Trump'ın, savaş karşıtı tutumu nedeniyle Vatikan Devlet Başkanı Papa 14. Leo'ya eleştirilerini ve kendisini Hazreti İsa şeklinde tasvir etmesini kınadı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cdadee79",
     "title": "Cumhurbaşkanı Erdoğan, Ideathon Yarışması Ödül Töreni'ne katıldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "BEDAŞ, İstanbul'da elektrik kesintilerinin yaşanacağını açıkladı. İşte 14 Nisan 2026 Salı planlı ve bakım çalışması amaçlı elektrik kesintilerinin olacağı ilçe ve mahalleler.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/istanbulda-14-nisan-sali-buyuk-elektrik-kesintileri-olacak-1qqh.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_353db89b",
-    "title": "İstanbul'daki terör saldırısında gözaltına alınan 3 şüpheli tutuklandı",
-    "source": "TRT Haber",
-    "time": "13/04/2026 16:15",
-    "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-teror-saldirisinda-gozaltina-alinan-3-supheli-tutuklandi-941496.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Beşiktaş'ta, Yapı Kredi Plaza önündeki polis noktasına yönelik terör saldırısına ilişkin gözaltına alınıp adliyeye sevk edilen şüphelilerden 3'ü tutuklandı.",
-    "image": null,
     "keyword": null
   }
 ]
