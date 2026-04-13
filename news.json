@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8c76c57f",
+    "title": "22 yaşında hayatını kaybetti",
+    "source": "Habertürk",
+    "time": "13/04/2026 14:36",
+    "link": "https://www.haberturk.com/duzce-de-kazada-agir-yaralanan-motosiklet-surucusu-hastanede-hayatini-kaybetti-3876724",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce’de motosiklet ile minibüsün çarpıştığı kazada 22 yaşındaki Gökdeniz Demircan ağır yaralandı. Hastaneye kaldırılan Demircan, yapılan müdahalelere rağmen hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1775986388/3876724/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_e2bbe26a",
     "title": "Boğazına bıçak dayadı, bileziği çaldı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Aydın'da 5 katlı bir apartmanın 1'inci katında patlama meydana geldi. Olayda çıkan yangında 28 yaşındaki engelli Arda Umut Balıkçı hayatını kaybederken, annesi Zehra Puyan yaralandı",
     "image": "https://im.haberturk.com/l/2026/04/12/ver1775992346/3876746/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_ce65e9e6",
-    "title": "10 ton kaçak midye ele geçirildi",
-    "source": "Habertürk",
-    "time": "13/04/2026 13:56",
-    "link": "https://www.haberturk.com/bursa-ve-balikesirde-10-ton-kacak-midye-ele-gecirildi-3876748",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa ve Balıkesir’de polis ekiplerince düzenlenen eş zamanlı operasyonda 10 ton kaçak midye ele geçirildi. Bursa üzerinden İzmir’e götürüleceği belirlenen midyeler, şüpheli araçların takibe alınmasıyla durduruldu. Sağlıksız şartlarda taşındığı tespit edilen midyelere el konulurken, şüpheliler hakkında işlem başlatıldı",
-    "image": "https://im.haberturk.com/l/2026/04/12/ver1775993248/3876748/jpg/1280x1280",
     "keyword": null
   }
 ]
