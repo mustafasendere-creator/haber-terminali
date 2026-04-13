@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf04a8a9",
+    "title": "Müzisyen Cem Öcal hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "13/04/2026 22:55",
+    "link": "https://www.cumhuriyet.com.tr/yasam/muzisyen-cem-ocal-hayatini-kaybetti-2494960",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Müzisyen Cem Öcal, Bodrum'daki evinde 46 yaşında vefat etti. Öcal'ın ölümünü, uzun yıllar vokalistliğini yaptığı Kenan Doğulu duyurdu",
+    "image": "https://media.cumhuriyet.com.tr/Archive/caaa5c37-ea10-4b51-b36c-ebffd97a36e8.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4777c7ee",
     "title": "Kadir İnanır’ın son hali görüntülendi: Ayağa kalktı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da uzun yıllardır tartışmaların odağında yer alan Reşadiye Kavşağı’nın yıkım kararı sonrası konuşan Ortahisar Belediye Başkanı Ahmet Kaya, bir inat uğruna yapılan projenin şehre maliyetinin ağır olduğunu vurguladı",
     "image": "https://resim.haber61.net/news/612572.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1a822777",
-    "title": "Kılıçdaroğlu ve Gürsel Tekin İbrahim Tatlıses'i hastanede ziyaret etti",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 21:35",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-ve-gursel-tekin-ibrahim-tatlises-i-hastanede-ziyaret-etti-2494940",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eski CHP Genel Başkanı Kılıçdaroğlu ve CHP İstanbul İl Başkanlığı'na kayyım olarak atanan Gürsel Tekin sanatçı İbrahim Tatlıses'i hastanede ziyaret etti",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d2a6d5f5-403b-490e-bcc0-79096858f5db.jpg",
-    "keyword": null
   }
 ]
