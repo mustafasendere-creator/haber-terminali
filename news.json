@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8721cc83",
+    "title": "Çayırhan'da esnaftan eylemdeki Doruk Madencilik işçilerine çorba ikramı: Direniş soframız büyüyor",
+    "source": "Evrensel",
+    "time": "14/04/2026 01:54",
+    "link": "https://www.evrensel.net/haber/5979518/cayirhanda-esnaftan-eylemdeki-doruk-madencilik-iscilerine-corba-ikrami-direnis-soframiz-buyuyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çayırhan'da esnaf, hak mücadelesi için Ankara'ya doğru yürüyüş başlatan Doruk Madencilik işçilerine çorba ikramında bulundu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/278061.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3f9bae7c",
     "title": "Peru'da devlet başkanlığı seçiminde sağcı Fujimori önde gidiyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2025/10/reklamlar/mahkeme-karari.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_9fd28ad0",
-    "title": "Hizbullah, gün içinde İsrail ordusu noktalarına 46 saldırı düzenlediklerini duyurdu",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 00:14",
-    "link": "https://www.aa.com.tr/tr/live-blog/hizbullah-gun-icinde-israil-ordusu-noktalarina-46-saldiri-duzenlediklerini-duyurdu/962",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hizbullah, gün içinde İsrail'in kuzeyinde ve Lübnan'ın güneyindeki çok sayıda İsrail ordusu noktalarına en az 46 saldırı düzenlediklerini açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
