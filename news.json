@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_75986d85",
+    "title": "LNZ Cherkasy-Shakhtar Donetsk maçında hava saldırısı alarmı",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 16:34",
+    "link": "https://www.aa.com.tr/tr/spor/lnz-cherkasy-shakhtar-donetsk-macinda-hava-saldirisi-alarmi/3904067",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Teknik direktörlüğünü Arda Turan'ın yaptığı Shakhtar Donetsk'in deplasmanda LNZ Cherkasy ile oynadığı mücadele, hava saldırısı alarmı nedeniyle kesintiye uğradı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_08fdce3f",
     "title": "Pervin Buldan görüşmede ne söyledi: Cumhurbaşkanı Erdoğan'ın yanıtlamadığı konu... 'Yok cevap vermiyor'",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump&#039;ın kızı olduğunu iddia eden Necla Özmen, yorumcu Hakan Ural&#039;a, &quot;Babası onu hiçbir zaman kabullenmedi. Bunları yaşamışken kendisi nasıl oluyor da beni rencide edici yorumlar yapabiliyor... Türkiye&#039;de en son yorum yapacak kişi sizsiniz, bunun için yeterli eğitiminiz yok dedi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/trumpin-kiziyim-diyen-necla-ozmen-ile-hakan-ural-polemigi-hnqf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_97aaa195",
-    "title": "Sivasspor tesisleri önünde kaza: Dört futbolcu yaralandı",
-    "source": "OdaTV",
-    "time": "13/04/2026 15:37",
-    "link": "https://www.odatv.com/spor/sivasspor-tesisleri-onunde-trafik-kazasi-dort-futbolcu-yaralandi-120143152",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sivas&#039;ta Sivasspor altyapı futbolcularını taşıyan ticari taksi ile otomobilin çarpışması sonucu dördü Sivassporlu altı kişi yaralandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/sivasspor-tesisleri-onunde-trafik-kazasi-dort-futbolcu-yaralandi-emyj.jpg",
     "keyword": null
   }
 ]
