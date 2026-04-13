@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b22e2615",
+    "title": "Darp edilen kadın ölümden döndü",
+    "source": "Habertürk",
+    "time": "13/04/2026 14:56",
+    "link": "https://www.haberturk.com/istanbul-da-motosikletli-arkasinda-oturan-kadinin-sacini-cekti-dengesini-kaybeden-kadin-olumden-dondu-3876717",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da Ataşehir TEM Otoyolu’nda seyir halindeki motosiklette sürücü ile arkasındaki kadın yolcu arasında tartışma çıktı. Tartışma sırasında sürücü, kadının saçını çekerek darp etti, kadın dengesini kaybederek düşme tehlikesi yaşadı. Olay anları başka bir motosikletlinin kask kamerasına yansıdı",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1775984115/3876717/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_695c7a1b",
     "title": "48 kilo sıvı uyuşturucu ele geçirildi",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "İBB Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu’nun başvurusunu öncelikli görüşme kararı alan AİHM, iktidara altı soru yöneltti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_36a7291b",
-    "title": "Trabzon’da öğrenci abonmanına yeni düzenleme masada: “Kalan devretsin”",
-    "source": "Haber61",
-    "time": "13/04/2026 14:34",
-    "link": "https://www.haber61.net/trabzon/trabzonda-ogrenci-abonmanina-yeni-duzenleme-masada-kalan-devretsin-h629487.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediye Meclisi’nde öğrenci abonman kartı ücretlerine ilişkin yeni düzenleme teklifi görüşüldü. Teklifte, abonman kullanımına dair fiyat ve biniş limitlerinde değişiklik öngörülüyor.",
-    "image": "https://resim.haber61.net/news/612520.jpg",
-    "keyword": "trabzon"
   }
 ]
