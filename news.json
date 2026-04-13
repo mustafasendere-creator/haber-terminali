@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9d171f62",
+    "title": "Antalya'da 4,7 büyüklüğünde deprem",
+    "source": "TRT Haber",
+    "time": "13/04/2026 09:15",
+    "link": "https://www.trthaber.com/haber/turkiye/antalyada-47-buyuklugunde-deprem-941433.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Demre ilçesi açıklarında 4,7 büyüklüğünde deprem meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_b4f4faa3",
     "title": "Süper Lig’de son 5 haftaya girilirken şampiyonluk yarışında üçlü rekabet",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, Vatikan Devlet Başkanı Papa 14. Leo’yu savaş karşıtı söylemleri nedeniyle sert bir dille eleştirdi. ABD Başkanı Trump, \"ABD başkanını eleştiren bir Papa istemiyorum\" dedi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/trump-bu-defa-papaya-yuklendi-onu-istemiyorum-oo3n.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_30d7f384",
-    "title": "İsrailli bakanlar, İran'a saldırıların yeniden başlayabileceğine işaret etti",
-    "source": "TRT Haber",
-    "time": "13/04/2026 08:15",
-    "link": "https://www.trthaber.com/haber/dunya/israilli-bakanlar-irana-saldirilarin-yeniden-baslayabilecegine-isaret-etti-941426.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrailli bakanlar, Pakistan'ın başkenti İslamabad'daki müzakerelerden sonuç çıkmamasının ardından ABDİsrail'in İran'a yönelik saldırılara yeniden başlayabileceğini ileri sürdü.",
-    "image": null,
     "keyword": null
   }
 ]
