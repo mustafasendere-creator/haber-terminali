@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_feaab31c",
+    "title": "Polen alerjisine karşı kalıcı kalkan \"alerji aşısı\"",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 11:54",
+    "link": "https://www.aa.com.tr/tr/saglik/polen-alerjisine-karsi-kalici-kalkan-alerji-asisi/3903513",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çocuk Alerji ve İmmünoloji Uzmanı Prof. Dr. Zülfikar Akelma, bahar aylarında artan polen yoğunluğunun alerji rinit başta olmak üzere birçok alerjik hastalığı tetiklediğini belirterek, uzun vadeli çözümde alerji aşısının önemli rol oynadığını söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2cb80b60",
     "title": "Yemek siparişinde yeni dönem: Bakanlıktan ek ücret ayarı",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Antalya'nın Demre ve Kumluca ilçelerinde sabah saatlerinde peş peşe üç ayrı deprem meydana geldi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/deprem333.webp",
     "keyword": null
-  },
-  {
-    "id": "TKP_62933912",
-    "title": "Trabzon ekibi Ankara’daki Red Bull turnuvasında finale yükseldi",
-    "source": "Haber61",
-    "time": "13/04/2026 11:14",
-    "link": "https://www.haber61.net/trabzon/trabzon-ekibi-ankaradaki-red-bull-turnuvasinda-finale-yukseldi-h629461.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Red Bull Four 2 Score Türkiye elemelerinde Athletico Trabzon, Ankara’daki etapta başarılı olarak finale kaldı. Turnuvada dört takım İzmir finaline adını yazdırdı.",
-    "image": "https://resim.haber61.net/news/612479.jpg",
-    "keyword": "trabzon"
   }
 ]
