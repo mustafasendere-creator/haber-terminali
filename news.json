@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83021b22",
+    "title": "Bakan Fidan'dan diplomasi trafiği",
+    "source": "OdaTV",
+    "time": "13/04/2026 23:35",
+    "link": "https://www.odatv.com/guncel/bakan-fidandan-diplomasi-trafigi-120143193",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Rusya Dışişleri Bakanı Lavrov ve Suudi Arabistan Dışişleri Bakanı Al Suud ile görüştü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/04/hakan-fidandan-diplomasi-trafigi-etoz.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0febbed1",
     "title": "Sanders'ten İsrail'i kızdıracak teklif",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’da kritik Başakşehir karşılaşması öncesi tüm dikkatler Paul Onuachu’nun sağlık durumuna çevrildi. Alanyaspor maçı öncesinde yaşadığı sakatlık nedeniyle kadrodan çıkarılan Nijeryalı golcünün, Pazar günü Papara Park’ta oynanacak mücadelede forma giyip giyemeyeceği belirsizliğini koruyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/o-n-u-a-c-h-u-78.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_054f7536",
-    "title": "İstanbul'da suç örgütü operasyonu: 21 tutuklama",
-    "source": "TRT Haber",
-    "time": "13/04/2026 22:15",
-    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-suc-orgutu-operasyonu-21-tutuklama-941524.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da suç örgütüne yönelik operasyonda gözaltına alınan 21 şüpheli tutuklandı.",
-    "image": null,
-    "keyword": null
   }
 ]
