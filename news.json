@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f36f1f1d",
+    "title": "Erzurum'da soğuk hava, Ardahan, Ağrı ve Kars'ta kar etkili oldu",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 12:14",
+    "link": "https://www.aa.com.tr/tr/gundem/erzurumda-soguk-hava-ardahan-agri-ve-karsta-kar-etkili-oldu/3903503",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum'da soğuk hava, Ardahan, Ağrı ve Kars'ta ise kar etkili oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_37ccc95e",
     "title": "Ankara Uluslararası Milli İrade Kız Anadolu İmam Hatip Lisesinde 63 ülkeden öğrenci eğitim alıyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Bir haftada beş puan kaybı yaşayan ve rakiplerini yarışa dahil eden Okan Buruk, şapkasını önüne koyup düşünmeli. Kötü oyun ve isteksiz mücadele puan kaybını getirdi. Okan Buruk, bu sezon tek derbi galibiyetini Beşiktaş karşısında aldı. Derbi performansı bir  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_1804582b",
-    "title": "CHP’den “Trabzon Günleri” Tepkisi: Siyasi Şov Eleştirisi",
-    "source": "Taka Gazetesi",
-    "time": "13/04/2026 11:35",
-    "link": "https://www.takagazete.com.tr/chpden-trabzon-gunleri-tepkisi-siyasi-sov-elestirisi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "CHP Trabzon İl Başkanı Mustafa Bak, Ankara’daki Trabzon Günleri’ni “siyasi şov” olarak nitelendirdi, sert açıklamalarda bulundu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/88cae13e-2551-44bc-97fb-fb87b54bd90d.jpg",
-    "keyword": null
   }
 ]
