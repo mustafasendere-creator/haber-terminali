@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_878025ea",
+    "title": "İran Cumhurbaşkanı Pezeşkiyan'dan, Trump'ın hedef aldığı Papa 14. Leo'ya destek mesajı",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 17:54",
+    "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-pezeskiyandan-trumpin-hedef-aldigi-papa-14-leoya-destek-mesaji/3904097",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD Başkanı Donald Trump'ın, savaş karşıtı tutumu nedeniyle Vatikan Devlet Başkanı Papa 14. Leo'ya eleştirilerini ve kendisini Hazreti İsa şeklinde tasvir etmesini kınadı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_df0ccb5c",
     "title": "İzmir'deki çifte vatandaşlar Bulgaristan seçimlerinde oy haklarına sahip çıktıklarını göstermek istiyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Büyükşehir Belediye Meclisi, şehir genelindeki altyapı ve üstyapı projeleri için 650 milyon TL kredi kullanımına onay verdi. Başkan Ahmet Metin Genç’e yetki verildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_227f2462",
-    "title": "Emekli zammı ilk üç ayda eridi: 'Zam cebe girmeden buhar oldu'",
-    "source": "Evrensel",
-    "time": "13/04/2026 17:16",
-    "link": "https://www.evrensel.net/haber/5979466/emekli-zammi-ilk-uc-ayda-eridi-zam-cebe-girmeden-buhar-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’li Gülcan Kış, yıl başında emeklilere yapılan artışın ilk üç ayda büyük ölçüde eridiğini belirterek artan enflasyon, enerji zamları ve gelir adaletsizliğinin emekliyi geçim krizine sürüklediğini söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/338479.jpg",
     "keyword": null
   }
 ]
