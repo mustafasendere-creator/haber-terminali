@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_af604fc9",
+    "title": "Altı ile yağış uyarısı",
+    "source": "Diken",
+    "time": "14/04/2026 00:14",
+    "link": "https://www.diken.com.tr/alti-ile-yagis-uyarisi-2/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altı ile yağış uyarısı 14.04.2026 DikenMeteoroloji Genel Müdürlüğü (MGM) altı ilde yağış bekliyor.\nThe post Altı ile yağış uyarısı appeared first on #site_linkat 14.04.2026 .",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_263b1c11",
     "title": "Sakarya'da kıyı erozyonu: Deniz 100 metre ilerledi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Haber61 Genel Yayın Yönetmeni Tuncay Lakot, Trabzonspor'un Ukraynalı oyuncusu Oleksandr Zubkov’un performansındaki düşüşü ve takımdan ayrılacağına dair gündeme gelen iddiaları canlı yayında yorumladı.",
     "image": "https://resim.haber61.net/news/612576.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_90e97356",
-    "title": "Lufthansa'da pilotların ardından kabin ekibi de greve çıkıyor",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 22:54",
-    "link": "https://www.aa.com.tr/tr/ekonomi/lufthansada-pilotlarin-ardindan-kabin-ekibi-de-greve-cikiyor/3904437",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alman hava yolu şirketi Lufthansa'nın kuruluşunun 100. yıl dönümü kutlamalarına hazırlandığı dönemde, pilotların ardından kabin personeli de 48 saatlik grev kararı aldı.",
-    "image": null,
     "keyword": null
   }
 ]
