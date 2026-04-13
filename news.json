@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4e49aa96",
+    "title": "Kenan Doğulu acı haberi duyurdu",
+    "source": "OdaTV",
+    "time": "13/04/2026 20:35",
+    "link": "https://www.odatv.com/guncel/kenan-dogulu-aci-haberi-duyurdu-120143184",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Özlem Tekin&#039;in eski eşi ve Kenan Doğulu&#039;nun uzun yıllar vokalistliğini yapan Cem Öcal hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/kenan-dogulu-aci-haberi-duyurdu-hxws.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0756a69a",
     "title": "OPEC raporu: 2026’da talep artışı değişmedi",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, ABD programı kapsamında New York'ta ilk sunumunu gerçekleştirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a9b46e4d",
-    "title": "Erzincan'da 4 büyüklüğünde deprem",
-    "source": "Anadolu Ajansı",
-    "time": "13/04/2026 19:54",
-    "link": "https://www.aa.com.tr/tr/gundem/erzincanda-4-buyuklugunde-deprem/3904291",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Erzincan'ın Kemah ilçesinde saat 19.15'te 4 büyüklüğünde deprem meydana geldi.",
     "image": null,
     "keyword": null
   }
