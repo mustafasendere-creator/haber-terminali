@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8af25630",
+    "title": "AYEDAŞ-BEDAŞ elektrik kesintisi sorgulama",
+    "source": "Habertürk",
+    "time": "13/04/2026 06:55",
+    "link": "https://www.haberturk.com/ayedas-bedas-elektrik-kesintisi-sorgulama-13-nisan-2026-pazartesi-istanbul-da-elektrikler-ne-zaman-gelecek-saat-kacta-3876819",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul elektrik tedarikçisi firmalar AYEDAŞ - BEDAŞ İstanbul Anadolu ve Avrupa Yakası'nda yaşanacak planlı elektrik kesintilerini İstanbullularla paylaştı. İstanbul'un bazı ilçelerine bakım ve onarım çalışması nedeniyle elektrik verilemeyecek. İşte 13 Nisan 2026 Pazartesi İstanbul'da elektrik kesintisi yaşanacak ilçeler...",
+    "image": "https://im.haberturk.com/l/2026/04/12/ver1776020657/3876819/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_096f3139",
     "title": "TOKİ İstanbul kura çekimi ne zaman?",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor efsanesi Şenol Güneş, Ankara&#039;daki &#039;Trabzon Günleri&#039;nde konuştu. Güneş, Uğurcan Çakır&#039;a yönelik eleştirilere karşı çıktı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/senol-gunes-ugurcana-sahip-cikti-r6q2.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_911aeed8",
-    "title": "Atakum’da sağlık seferberliği devam ediyor",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 03:14",
-    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/atakum-da-saglik-seferberligi-devam-ediyor-2494579",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Atakum Belediyesi ile Ondokuz Mayıs Üniversitesi iş birliğinde ilki Özgecan Kadın Danışma Merkezinde düzenlenen ücretsiz sağlık tarama hizmeti, Şehit Ömer Halisdemir Tesisinde devam etti. Sağlıklı yaşam konusunda farkındalık oluşturmak için düzenlenen program yurttaşlardan büyük ilgi gördü.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/15d20868-d056-4400-a4e5-10e427448e9d.jpg",
-    "keyword": null
   }
 ]
