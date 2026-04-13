@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1f18cc06",
+    "title": "Ateşkesi ihlal eden İsrail ordusunun Gazze'deki saldırısında 3 kişi hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "13/04/2026 10:34",
+    "link": "https://www.aa.com.tr/tr/dunya/ateskesi-ihlal-eden-israil-ordusunun-gazzedeki-saldirisinda-3-kisi-hayatini-kaybetti/3903407",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, Gazze Şeridi'nin orta kesimindeki Deyr el-Belah kentindeki saldırısında 3 Filistinli yaşamını yitirdi, çok sayıda kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_0b9675f3",
     "title": "Cızırtılı ezan tepkisi: Hoparlör sorunu çözüm bekliyor",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Macaristan'da Başbakan Viktor Orbán'ın yenilgiyi kabul ederek 16 yıllık iktidarına son vermesinin ardından 12 Nisan 2026 Pazar günü büyük kalabalıklar sokaklara döküldü.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_d1bb32a4",
-    "title": "Trabzonspor Basketbol evinde yine kayıp! Dış atışlara boyun eğdi",
-    "source": "Haber61",
-    "time": "13/04/2026 09:54",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-basketbol-evinde-yine-kayip-dis-atislara-boyun-egdi-h629450.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Basketbol Takımı, Hayri Gür Spor Salonu’nda Aliağa Petkimspor’a 90-84 mağlup oldu. Bordo-mavililer, evindeki üst üste ikinci yenilgiyi alırken, rakibin dış atış yüzdesi ve maç boyu elinde tuttuğu skor üstünlüğü sonucu belirledi.",
-    "image": "https://resim.haber61.net/news/612462.jpg",
-    "keyword": "trabzon"
   }
 ]
