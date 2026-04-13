@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b6b0986f",
+    "title": "ABD'de halkın çoğunluğu, Trump'ın İran'a ilişkin politikalarına katılmıyor",
+    "source": "TRT Haber",
+    "time": "13/04/2026 16:35",
+    "link": "https://www.trthaber.com/haber/dunya/abdde-halkin-cogunlugu-trumpin-irana-iliskin-politikalarina-katilmiyor-941454.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'de yapılan bir ankete göre, Başkan Donald Trump'ın İran politikasına kamuoyu desteği sınırlı kalırken, katılımcıların çoğunluğu yönetimin yaklaşımını onaylamadığını ifade etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_ccfda847",
     "title": "Trabzon Büyükşehir'in borcu ve faiz giderleri belli oldu!",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Dışişleri Bakanı Hakan Fidan, Botsvana Uluslararası İlişkiler Bakanı Phenyo Butale ile Ankara'da bir araya geldi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fcb3ba3f",
-    "title": "BAYETAV raporu: Türkiye’de milyonlarca çocuk kurşun tehdidiyle karşı karşıya",
-    "source": "Evrensel",
-    "time": "13/04/2026 15:55",
-    "link": "https://www.evrensel.net/haber/5979454/bayetav-raporu-turkiyede-milyonlarca-cocuk-kursun-tehdidiyle-karsi-karsiya",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kurşun maruziyetinin yoksul topluluklarda daha yüksek olduğunu ifade eden BAYETAV raporu, temiz içme suyu ve ücretsiz yemeğin kamusal bir yükümlülük olduğunun altını çiziyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342822.jpg",
     "keyword": null
   }
 ]
