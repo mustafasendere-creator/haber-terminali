@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0a23db26",
+    "title": "Malatya'da 3.1 büyüklüğünde deprem",
+    "source": "Haber Global",
+    "time": "13/04/2026 03:54",
+    "link": "https://haberglobal.com/gundem/malatyada-31-buyuklugunde-deprem-518412",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AFAD'ın paylaştığı verilere göre Malatya'nın Kale kentinde saat 03.03'te 3.1 büyüklüğünde deprem meydana geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/malatyada-31-buyuklugunde-deprem-jdjr.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4018decd",
     "title": "İstanbul'da kamyonet ile otomobil çarpıştı: 1 ölü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Maden işçileri taşıyan minibüs devrildi: 2 ölü, 10 yaralı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/malatya3jpg-EDT1Ujs1-EeTAybYcUN2uA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_acc8fc51",
-    "title": "T.C. KARAMAN 3. ASLİYE HUKUK MAHKEMESİ",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 00:55",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-karaman-3-asliye-hukuk-mahkemesi-2494149",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "T.C. KARAMAN 3. ASLİYE HUKUK MAHKEMESİ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1ed58d39-64f9-48fc-9d82-08f31b5fbe87.jpg",
     "keyword": null
   }
 ]
