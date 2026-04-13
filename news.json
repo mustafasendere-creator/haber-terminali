@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3385ee07",
+    "title": "Batıdan doğuya hava durumu: Meteoroloji'den sağanak yağmur, kar ve çığ riski uyarısı geldi",
+    "source": "Evrensel",
+    "time": "13/04/2026 08:54",
+    "link": "https://www.evrensel.net/haber/5979376/batidan-doguya-hava-durumu-meteoroloji-den-saganak-yagmur-kar-ve-cig-riski-uyarisi-geldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurt genelinde hava sıcaklıkları mevsim normallerinin altında seyrederken; İç Anadolu'da kar, Karadeniz ve Doğu Anadolu'da ise çığ tehlikesi uyarısı yapıldı. Çiftçiler için zirai don alarmı verildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342734.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ef3ad6ee",
     "title": "Bu hafta Avrupa'da öne çıkanlar: sergiler, filmler, diziler ve müzikler",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji Genel Müdürlüğü (MGM), 13 Nisan Pazartesi gününe ilişkin hava durumu raporunu yayımladı. Rapora göre bazı bölgelerde yer yer gök gürültülü sağanak yağış beklenirken bazı bölgeler de  karla karışık yağmur bekleniyor. Hava sıcaklığında, önemli bir değişiklik olmayacağı, ülke genelinde mevsim normalleri altında seyredeceği tahmin ediliyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/1152feef-d35a-49cd-9dba-91b8ce1a123d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ee5dc1c0",
-    "title": "Meteoroloji yeni raporu yayımladı: Yeni haftada hava nasıl olacak?",
-    "source": "Haber Global",
-    "time": "13/04/2026 07:55",
-    "link": "https://haberglobal.com/gundem/son-dakika-meteoroloji-yeni-raporu-yayimladi-yeni-haftada-hava-nasil-olacak-518420",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji Genel Müdürlüğü (MGM) tarafından günlük hava tahmin raporu yayımlandı. Rapora göre hava sıcaklıklarının mevsim normallerinin altında seyretmeye devam etmesi bekleniyor. İşte detaylar...",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/13/son-dakika-meteoroloji-yeni-raporu-yayimladi-yeni-haftada-hava-nasil-olacak-qc1v.jpg",
     "keyword": null
   }
 ]
