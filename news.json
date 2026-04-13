@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_04fb00ad",
+    "title": "Siirt'te metruk bina sağanağa dayanamadı",
+    "source": "TRT Haber",
+    "time": "13/04/2026 06:54",
+    "link": "https://www.trthaber.com/haber/turkiye/siirtte-metruk-bina-saganaga-dayanamadi-941422.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siirt'te uzun süredir kullanılmayan bina, yağışın zemini zayıflatması sonucu yıkıldı. Yapılan incelemelerde can kaybı ya da yaralanma olmadığı belirlendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_01e955ad",
     "title": "Malatya'da maden işçilerini taşıyan servis minibüsü devrildi: İki ölü, 10 yaralı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/yapay-zeka-ogretmenin-yerini-almak-icin-degil-guclendirmek-icin-var-ycrw_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a8d967f0",
-    "title": "Vitor Pereira'nın ekibi Nottingham Forest'tan 4 maçlık seri!",
-    "source": "Cumhuriyet",
-    "time": "13/04/2026 02:54",
-    "link": "https://www.cumhuriyet.com.tr/spor/vitor-pereira-nin-ekibi-nottingham-forest-tan-4-maclik-seri-2494583",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nottingham Forest, İngiltere Premier Lig'in 32. haftasında kendi evinde ağırladığı Aston Villa ile 1-1 berabere kaldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/be91f189-5d59-4fb6-a622-2f36f898638e.jpg",
     "keyword": null
   }
 ]
