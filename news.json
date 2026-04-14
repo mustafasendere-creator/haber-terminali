@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d5e6cbb",
+    "title": "Akdeniz'de bir deprem daha!",
+    "source": "Sözcü",
+    "time": "14/04/2026 10:25",
+    "link": "https://www.sozcu.com.tr/akdeniz-de-bir-deprem-daha-p310064",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akdeniz'de bir deprem daha!",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/depremshutterstock415473103uzunjpg-_gmnMyHhvkWZaYKTICelBg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e386d12f",
     "title": "Son dakika... Mansur Yavaş'a soruşturma izni sonrası Özgür Özel'den ilk açıklama",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Borsa İstanbul Vadeli İşlem ve Opsiyon Piyasası&#039;nda (VİOP) BIST 30 endeksine dayalı nisan vadeli kontrat güne yüzde 0,72 yükselişle 16.570,00 puandan başladı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/10/viopta-endeks-kontrati-gune-yukselisle-basladi-rohr_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4d243c6f",
-    "title": "HSBC’den kritik uyarı: Enerji ve enflasyon için barış şart",
-    "source": "Ekonomim",
-    "time": "14/04/2026 09:45",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/hsbcden-kritik-uyari-enerji-ve-enflasyon-icin-baris-sart-haberi-887953",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "HSBC, enerji akışının düzelmesi ve enflasyonun dizginlenmesi için barış anlaşması gerektiğini açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/07/30/hsbcnin-kari-ikinci-ceyrekte-yuzde-29-dustu-hvrh_cover.jpg",
     "keyword": null
   }
 ]
