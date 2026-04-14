@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_19722237",
+    "title": "CHP'de bir belediye başkanı daha istifa etti: \"AKP'ye geçecek\" iddiası",
+    "source": "BirGün",
+    "time": "14/04/2026 21:44",
+    "link": "https://www.birgun.net/haber/chp-de-bir-belediye-baskani-daha-istifa-etti-akp-ye-gececek-iddiasi-705806",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya Serik'in CHP'li belediye başkanı Kadir Kumbul CHP’den istifa etti. Kumbul'un AKP'ye geçeceği öne sürüldü.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/chp-de-bir-belediye-baskani-daha-istifa-etti-akp-ye-gececek-iddiasi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ede730e9",
     "title": "Fenerbahçe - ASVEL maçı hangi gün, saat kaçta ve hangi kanalda?",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bankaların emekli promosyon yarışı hızlandı. Ek kampanyalarla birlikte toplam kazanç 100 bin TL seviyesine kadar çıkabiliyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/334312.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8fa05179",
-    "title": "Lamine Yamal Galatasaraylı yıldızı istiyor",
-    "source": "Evrensel",
-    "time": "14/04/2026 20:45",
-    "link": "https://www.evrensel.net/haber/5979622/lamine-yamal-galatasarayli-yildizi-istiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lamine Yamal’ın, FC Barcelona yönetiminden Victor Osimhen transferini istediği iddiası konuşulurken, yüksek bonservis bedeli sürecin en büyük engeli olarak öne çıkıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/299701.jpg",
     "keyword": null
   }
 ]
