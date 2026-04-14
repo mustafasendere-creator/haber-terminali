@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f6650f8d",
+    "title": "Van Gölü'nde kaybolan Boran Öner'in cansız bedeni bulundu",
+    "source": "Evrensel",
+    "time": "14/04/2026 08:15",
+    "link": "https://www.evrensel.net/haber/5979524/van-golunde-kaybolan-boran-onerin-cansiz-bedeni-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Van Gölü'nde kaybolan 17 yaşındaki Boran Öner'in cansız bedeni sabah saatlerinde gölde bot ve teknelerle yapılan arama çalışmasında sudan çıkarıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342890.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8084a156",
     "title": "Pota derbisi Fenerbahçe Beko’nun",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kan şekerindeki ani yükselmeleri kontrol altına almak için nasıl beslenmelisiniz? Bunun tek yöntemi karbonhidratları kesmek değil.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_78096c0e",
-    "title": "Aynı gerçekler farklı anlamlar: Beyaz Saray'ın kavrayamadığı",
-    "source": "OdaTV",
-    "time": "14/04/2026 06:15",
-    "link": "https://www.odatv.com/yazarlar/soner-yalcin/ayni-gercekler-farkli-anlamlar-beyaz-sarayin-kavrayamadigi-120143174",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Soner Yalçın yazdı...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/ayni-gercekler-farkli-anlamlar-beyaz-sarayin-kavrayamadigi-kqnp.jpg",
     "keyword": null
   }
 ]
