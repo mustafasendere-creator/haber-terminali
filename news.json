@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c0e4ac68",
+    "title": "İsrail-Almanya arasında Batı Şeria ve Lübnan gerginliği",
+    "source": "DW Türkçe",
+    "time": "14/04/2026 12:05",
+    "link": "https://www.dw.com/tr/israil-almanya-arasında-batı-şeria-ve-lübnan-gerginliği/a-76770388",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya Başbakanı Merz, İsrail Başbakanı Netanyahu'yu Batı Şeria ve Lübnan konusunda uyardı. İsrailli Bakan Smotrich ise \"Bizi tekrar gettolara zorlayamayacaksınız\" diyerek Merz'i ağır ifadelerle hedef aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_144e0cde",
     "title": "Milletvekili Suiçmez: Çaykur’da “Kadroya Geçiş Hakkı” Engellenemez",
     "source": "Karadeniz'de Sonnokta",
@@ -946,17 +958,5 @@
     "summary": "Ayasofya'da Ezan Sesi  YouTube",
     "image": null,
     "keyword": "trabzon ajan"
-  },
-  {
-    "id": "GND_b4f1de9b",
-    "title": "Etimesgut Belediyesi'ndeki zimmet soruşturmasında 1 kişi tutuklandı",
-    "source": "TRT Haber",
-    "time": "14/04/2026 11:46",
-    "link": "https://www.trthaber.com/haber/gundem/etimesgut-belediyesindeki-zimmet-sorusturmasinda-1-kisi-tutuklandi-941589.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara Batı Cumhuriyet Başsavcılığınca, Etimesgut Belediyesinde tespit edilen usulsüzlüklere ilişkin yürütülen soruşturma kapsamında gözaltına alınan 4 şüpheliden biri \"zimmet\" suçundan tutuklandı.",
-    "image": null,
-    "keyword": null
   }
 ]
