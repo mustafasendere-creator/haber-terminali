@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_871c73a0",
+    "title": "Lübnan Cumhurbaşkanı Avn: İsrail saldırıları büyük insani felakete yol açtı, ülke acil yardıma muhtaç",
+    "source": "TRT Haber",
+    "time": "14/04/2026 16:45",
+    "link": "https://www.trthaber.com/haber/dunya/lubnan-cumhurbaskani-avn-israil-saldirilari-buyuk-insani-felakete-yol-acti-ulke-acil-yardima-muhtac-941631.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan Cumhurbaşkanı Joseph Avn, İsrail saldırılarının ülke genelinde büyük bir insani felakete yol açtığını belirterek, bir milyondan fazla kişinin yerinden edildiğini ve ülkenin acil yardıma ihtiyaç duyduğunu vurguladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_dea81842",
     "title": "Dünya liderleri Antalya Diplomasi Forumu'nda buluşacak",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Yomra ilçesi Tepeköy Mahallesi sakinleri, bugün güne sıra dışı ve tedirgin edici bir olayla başladı. Yol ortasında devasa bir ayıyı hareketsiz yatan halde gören vatandaşlar, kısa süreli büyük bir panik yaşadı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/1-1776170365.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_6c8e20c0",
-    "title": "Gebze’de Sendikalardan çağrı: “Tutuklu sendikacılar serbest bırakılsın”",
-    "source": "Evrensel",
-    "time": "14/04/2026 16:05",
-    "link": "https://www.evrensel.net/haber/5979610/gebze-de-sendikalardan-cagri-tutuklu-sendikacilar-serbest-birakilsin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gebze’de sendika ve meslek örgütleri, artan gözaltı ve tutuklamalara tepki gösterdi. Sendikal mücadelenin suç olmadığı vurgulanan açıklamada, tutuklu sendikacıların serbest bırakılması istendi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342988.jpg",
-    "keyword": null
   }
 ]
