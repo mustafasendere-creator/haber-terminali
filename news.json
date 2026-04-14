@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_28235503",
+    "title": "Otomobiller çarpıştı: 1 ölü, 5 yaralı",
+    "source": "Habertürk",
+    "time": "14/04/2026 20:05",
+    "link": "https://www.haberturk.com/iki-otomobil-carpisti-1-olu-5-yarali-3877010",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin'in Tarsus ilçesinde 2 otomobilin çarpışması sonucu 1 kişi yaşamını yitirdi, 5 kişi yaralandı. Kazayla ilgili inceleme başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/04/13/ver1776082966/3877010/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_4d73be1a",
     "title": "Microsoft'un Android uygulamalarından biri kaldırılıyor",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İspanya&#039;da azınlık sol koalisyon hükümeti, ülkedeki 500 binden fazla düzensiz göçmenin yasal olarak oturma ve çalışma izni alabilmelerini sağlayacak süreci başlattı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/30/ispanya-abd-ucaklarina-hava-sahasini-kapatti-l0xt_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_75ee38cd",
-    "title": "Cumhurbaşkanı Erdoğan, Macaristan Başbakanı Peter Magyar ile görüştü",
-    "source": "Ekonomim",
-    "time": "14/04/2026 19:06",
-    "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogan-macaristan-basbakani-peter-magyar-ile-gorustu-haberi-888073",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, , Macaristan Seçilmiş Başbakanı Peter Magyar ile bir telefon görüşmesi gerçekleştirdi. Görüşmede Türkiye-Macaristan ikili ilişkilerinin geleceğini, bölgesel ve küresel konuları ele alındı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/cumhurbaskani-erdogan-macaristan-basbakani-peter-magyar-ile-gorustu-h3id_cover.jpg",
     "keyword": null
   }
 ]
