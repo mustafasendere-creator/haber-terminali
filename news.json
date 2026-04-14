@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c43abab2",
+    "title": "Şirketlerin ceza sorumluluğunda bir dönüm noktası: Lafarge davası",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 10:43",
+    "link": "https://www.aa.com.tr/tr/analiz/sirketlerin-ceza-sorumlulugunda-bir-donum-noktasi-lafarge-davasi/3904720",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransız Mahkemesi, Lafarge şirketinin ceza kanununun yasakladığı şekilde hareket ettiği ve terörizmi finanse ettiği kanaatine varmıştır.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a0e2d402",
     "title": "Erzurum, Ardahan ve Kars'ta soğuk hava etkili oluyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Hükümet Sözcüsü Muhacerani, ABD ve İsrail saldırılarından kaynaklanan savaş tazminatının ilk hesaplamalara göre 270 milyar dolar olduğunu, nihai rakamın resmi açıklamayla netleşeceğini söyledi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342893.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6497b08b",
-    "title": "Borsalar yükseldi, petrol ABD-İran görüşmesi umuduyla geriledi",
-    "source": "Euronews",
-    "time": "14/04/2026 10:03",
-    "link": "http://tr.euronews.com/business/2026/04/14/borsalar-yukseldi-petrol-abd-iran-gorusmesi-umuduyla-geriledi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Asya piyasaları, petrol fiyatlarının, ABD ile İran arasında olası ikinci görüşme turunun İran savaşını bitireceği beklentisiyle gerilemesi sonucu, Salı sabahı Wall Street’teki yükselişleri izleyerek çoğunlukla artıdaydı.",
-    "image": null,
     "keyword": null
   }
 ]
