@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1d61c811",
+    "title": "Şanlıurfa Siverek'te okula silahlı saldırı: 17 yaralı",
+    "source": "DW Türkçe",
+    "time": "14/04/2026 11:45",
+    "link": "https://www.dw.com/tr/şanlıurfa-siverek-te-okula-silahlı-saldırı-17-yaralı/a-76771612",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'nın Siverek ilçesinde bir okula düzenlenen silahlı saldırıda aralarında öğrencilerin de olduğu 17 kişi yaralandı. Saldırganın intihar ettiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_a3567391",
     "title": "Trabzon’daki Zincirleme Kaza Anı Kamerada; Fren Yerine Gaza Bastı Olan Oldu",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Mersin'de düzenlenen Muaythai Türkiye Şampiyonasında Trabzon Arsin MHP'li Meclis Üyesi Refik Koç'un kızı Semanur Koç, Türkiye 3.'sü oldu...",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-14-110707.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_2ef8c40b",
-    "title": "Balistik füzeler çağı: Türkiye'nin caydırıcılık mimarisi",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 11:24",
-    "link": "https://www.aa.com.tr/tr/analiz/balistik-fuzeler-cagi-turkiyenin-caydiricilik-mimarisi/3904800",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye’nin balistik füze programı yalnızca milli kapasite inşası değil, aynı zamanda ittifak düzeyinde stratejik boşluğu dolduran kritik bir unsurdur.",
-    "image": null,
     "keyword": null
   }
 ]
