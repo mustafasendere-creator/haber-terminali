@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c100ad2a",
+    "title": "'Aileye saldırı beka meselesidir'",
+    "source": "Habertürk",
+    "time": "14/04/2026 17:08",
+    "link": "https://www.haberturk.com/cumhurbaskani-erdogan-dan-aciklamalar-3877060",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Kadın Kolları toplantısının ardından açıklamalarda bulundu. Cumhurbaşkanı Erdoğan \"Aileye saldırı milli güvenlik ve beka meselesidir\" ifadelerini kullandı",
+    "image": "https://im.haberturk.com/l/2026/04/13/ver1776096095/3877060/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_d394c89d",
     "title": "Yapay zeka girişimi insanlara \"kusursuz ve sonsuz\" hafıza vadediyor",
     "source": "Independent",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Lübnan Cumhurbaşkanı Joseph Avn, İsrail saldırılarının ülke genelinde büyük bir insani felakete yol açtığını belirterek, bir milyondan fazla kişinin yerinden edildiğini ve ülkenin acil yardıma ihtiyaç duyduğunu vurguladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_dea81842",
-    "title": "Dünya liderleri Antalya Diplomasi Forumu'nda buluşacak",
-    "source": "TRT Haber",
-    "time": "14/04/2026 16:45",
-    "link": "https://www.trthaber.com/haber/gundem/dunya-liderleri-antalya-diplomasi-forumunda-bulusacak-941632.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünya liderleri ve hükümet yetkilileri, 1719 Nisan'da \"Yarını Tasarlarken Belirsizliklerle Baş Etmek\" ana temasıyla düzenlenecek 5. Antalya Diplomasi Forumu'nda ADF2026 bir araya gelecek.",
     "image": null,
     "keyword": null
   }
