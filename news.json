@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fcd08384",
+    "title": "Şanlıurfa'da DEAŞ operasyonu: 18 tutuklama",
+    "source": "Habertürk",
+    "time": "14/04/2026 10:04",
+    "link": "https://www.haberturk.com/sanliurfa-da-deas-operasyonu-18-tutuklama-3877140",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa merkezli terör örgütü DEAŞ operasyonunda gözaltına alınan 36 şüpheliden 18'i tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776119735/3877140/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_11faeca9",
     "title": "Trump’ın İran’a “deniz ablukası” uygulayacağını açıklamasının ardından müzakere süreci sona mı erdi?",
     "source": "Independent",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran destekli Hizbullah'ın, ABD ve İsrail'in düzenlediği ilk saldırı dalgasında İran'ın dini lideri Ali Hamaney'in öldürülmesinden günler sonra, 2 Mart'ta İsrail'e roket atmasıyla Lübnan Orta Doğu'daki savaşın içine çekildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7be90da0",
-    "title": "Trump, McDonald's şovuyla ABD'deki yeni bahşiş vergi indirimini tanıttı",
-    "source": "Euronews",
-    "time": "14/04/2026 09:43",
-    "link": "http://tr.euronews.com/video/2026/04/14/trump-mcdonalds-sovuyla-abddeki-yeni-bahsis-vergi-indirimini-tanitti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Donald Trump, bahşişlerde yeni vergi indirimlerini tanıtmak için McDonald’s siparişini DoorDash’le Oval Ofis’e getirtti, 25 bin dolara kadar vergi rahatlaması vaadiyle.",
     "image": null,
     "keyword": null
   }
