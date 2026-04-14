@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_31b1d9b1",
+    "title": "Borsa güne yükselişle başladı",
+    "source": "Ekonomim",
+    "time": "14/04/2026 10:05",
+    "link": "https://www.ekonomim.com/finans/haberler/borsa/borsa-gune-yukselisle-basladi-haberi-887965",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, güne yüzde 0,79 artışla 14.170,03 puandan başladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/11/03/borsa-istanbulda-haftanin-ilk-islem-gununde-endeksler-yukseldi-uvsd_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_42ddf31a",
     "title": "AFAD duyurdu: Akdeniz yine sallandı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Ankara’da düzenlenen Trabzon Tanıtım Günleri’nde İYİ Parti Trabzon Milletvekili Yavuz Aydın’ın tüm stantları gezmesi ve esnafla birebir temas kurması dikkat çekti.",
     "image": "https://resim.haber61.net/news/612601.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_48a36c4c",
-    "title": "Trabzon’da 11 okula doğalgaz geliyor: İhaleye çıkıldı",
-    "source": "Haber61",
-    "time": "14/04/2026 09:43",
-    "link": "https://www.haber61.net/trabzon/trabzonda-9-okula-dogalgaz-geliyor-ihaleye-cikildi-h629538.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da okulların doğalgaza kavuşması için ihale süreci hız kazandı. 9 okulu kapsayan dönüşüm ihalesinin yanı sıra, 2 okul için ayrı bir ihale daha gerçekleştirilecek.",
-    "image": "https://resim.haber61.net/news/612614.jpg",
     "keyword": "trabzon"
   }
 ]
