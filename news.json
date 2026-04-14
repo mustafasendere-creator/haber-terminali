@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5fe95ad2",
+    "title": "Yağmur, kar ve toz taşınımı uyarıları",
+    "source": "Habertürk",
+    "time": "14/04/2026 10:44",
+    "link": "https://www.haberturk.com/son-dakika-meteoroloji-den-yagmur-kar-ve-toz-tasinimi-uyarilari-14-nisan-hava-durumu-3877152",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji'den yapılan hava durumu tahminlerine göre; Doğu Karadeniz'de yağmur, Doğu Anadolu'nun kuzeydoğusunda kar yağışı bekleniyor. Hava sıcaklığının artması bekleniyor. İç bölgelerde zirai don ve çığ tehlikesi devam ediyor. Ege ve Güney Marmara'da toz taşınımı etkili olacak.",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776140177/3877152/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_98d522c8",
     "title": "Yabancı sanılan Türk markaları",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, güne yüzde 0,79 artışla 14.170,03 puandan başladı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/11/03/borsa-istanbulda-haftanin-ilk-islem-gununde-endeksler-yukseldi-uvsd_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_42ddf31a",
-    "title": "AFAD duyurdu: Akdeniz yine sallandı",
-    "source": "Ekonomim",
-    "time": "14/04/2026 10:05",
-    "link": "https://www.ekonomim.com/gundem/afad-duyurdu-akdeniz-yine-sallandi-haberi-887964",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AFAD&#039;ın verilerine göre Akdeniz&#039;de saat 08.59&#039;da 4 büyüklüğünde bir deprem meydana geldi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/03/pakistanda-63-buyuklugunde-deprem-hk61_cover.jpg",
     "keyword": null
   }
 ]
