@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1eb669f1",
+    "title": "Küresel piyasalarda iyimserlik",
+    "source": "Haber Global",
+    "time": "14/04/2026 10:04",
+    "link": "https://haberglobal.com/ekonomi/kuresel-piyasalarda-iyimserlik-518601",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel piyasalarda, ABD-İran arasındaki müzakere sürecinin anlaşmayla sonuçlanabileceğine yönelik umutların tekrar artmasıyla risk iştahı yükseldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/kuresel-piyasalarda-iyimserlik-sge2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7ed97bec",
     "title": "Alperen Şengün'ün play-off'taki rakibi belli oldu! İşte Rockets'ın play-off'taki rakibi",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İçişleri Bakanı Mustafa Çiftçi, bir seçim mitinginde Ankara Büyükşehir Belediyesi'ne ait araçların kullanıldığı iddiasıyla Mansur Yavaş hakkında soruşturma izni verdi. Belediye iddiaları reddetti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_40ca8db4",
-    "title": "İstanbul merkezli FETÖ'nün \"TUS kampına\" yönelik operasyonda 17 şüpheli gözaltına alındı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 09:43",
-    "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-fetonun-tus-kampina-yonelik-operasyonda-17-supheli-gozaltina-alindi/3904593",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul merkezli 12 ilde FETÖ'ye yönelik operasyonda, ders çalışma adı altında oluşturulan ve örgüte müzahir yurttaki Tıpta Uzmanlık Sınavı (TUS) kampına katıldıkları belirlenen 15'i kamu hastanelerinde aktif doktorluk yapan 17 şüpheli yakalandı.",
     "image": null,
     "keyword": null
   }
