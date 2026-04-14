@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_11c80a3e",
+    "title": "Taksim Metro durağı asansöründe yangın",
+    "source": "BirGün",
+    "time": "14/04/2026 22:24",
+    "link": "https://www.birgun.net/haber/taksim-metro-duragi-asansorunde-yangin-705852",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Taksim Metrosu’nun Gezi Parkı çıkışındaki asansöründe henüz belirlenemeyen bir nedenle yangın çıktı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/taksim-metrosu-asansorunde-yangin.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_27f2343c",
     "title": "Akbelen direnişçisi Esra Işık hakkında hazırlanan iddianame kabul edildi: İlk duruşma tarihi belli oldu",
     "source": "BirGün",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’in 29. haftasında oynanan müsabakaların sahada incelemeye giden VAR kayıtları yayınlandı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/ekran-goruntusu-2026-04-14-1771987410.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_c02b1a18",
-    "title": "Dolar İçin Kritik Uyarı! Yatırımcılar Uzun Vadede Düşüş Bekliyor",
-    "source": "Taka Gazetesi",
-    "time": "14/04/2026 21:25",
-    "link": "https://www.takagazete.com.tr/dolar-icin-kritik-uyari-yatirimcilar-uzun-vadede-dusus-bekliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Jeopolitik gerilimler doları kısa vadede desteklese de yatırımcıların uzun vadeli beklentisi zayıflama yönünde şekilleniyor. Bank of America anketi, piyasalarda temkinli duruşun öne çıktığını ortaya koydu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/49cdfed3-1e83-44af-bca4-7fbea8bd7796.jpg",
-    "keyword": null
   }
 ]
