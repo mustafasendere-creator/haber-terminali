@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c22e3056",
+    "title": "Antalya’da akılalmaz kaza: Demirler arabaya saplandı",
+    "source": "OdaTV",
+    "time": "14/04/2026 12:07",
+    "link": "https://www.odatv.com/guncel/antalyada-akilalmaz-kaza-demirler-arabaya-saplandi-120143233",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya’da çekici üzerindeki inşaat demirleri otomobilin camından içeri girdi. Faciaya ramak kalan kazada 2 kişi hafif yaralanırken, o anlar kameraya yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/antalyada-akilalmaz-kaza-demirler-arabaya-saplandi-wasw.png",
+    "keyword": null
+  },
+  {
     "id": "GND_02a32621",
     "title": "Galatasaray, Arsenal ve Amed Sportif Faaliyetler: Kaderleri aynı oldu",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Chery’yi Sanayiye Götürüp Ustalara Gösterdik! | Gerçekten Paslanıyor Mu?  YouTube",
     "image": null,
     "keyword": "trabzon polis"
-  },
-  {
-    "id": "GND_3a4ca9e9",
-    "title": "Japonya, Rapidus ile küresel çip yarışında 4 milyar dolarlık yeni bir dönem başlatıyor",
-    "source": "Ekonomim",
-    "time": "14/04/2026 11:47",
-    "link": "https://www.ekonomim.com/sirketler/japonya-rapidus-ile-kuresel-cip-yarisinda-4-milyar-dolarlik-yeni-bir-donem-baslatiyor-haberi-887990",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Japon hükümeti yerli yarı iletken girişimi Rapidus için 4 milyar dolarlık ek bir fonu onaylayarak ülkenin en gelişmiş çip teknolojisindeki üretim hedeflerini resmen hızlandırdı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/japonya-rapidus-ile-kuresel-cip-yarisinda-4-milyar-dolarlik-yeni-bir-donem-baslatiyor-eopg_cover.gif",
-    "keyword": null
   }
 ]
