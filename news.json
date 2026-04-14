@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_30553272",
+    "title": "İran'da internet kesintisinin ekonomiye zararının günlük en az 30 milyon dolar olduğu iddia edildi",
+    "source": "TRT Haber",
+    "time": "14/04/2026 07:35",
+    "link": "https://www.trthaber.com/haber/dunya/iranda-internet-kesintisinin-ekonomiye-zararinin-gunluk-en-az-30-milyon-dolar-oldugu-iddia-edildi-941544.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Ticaret Odası Bilgi Tabanlı Ekonomi Komisyonu Başkanı Afşin Kolahi, İran'da internetin uluslararası erişime kapalı olmasının ekonomiye zararının 30 ila 40 milyon dolar arasında olduğunu söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9c987947",
     "title": "Osman Kavala 3 bin 87 gündür hapiste",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Burak Yılmaz: \"Fenerbahçe-Beşiktaş maçında verilen penaltı, penaltı mıydı? Değil, değişen bir şey var mı? Galatasaray'ın Konya'da attığı gol iptal ediliyor, bir gün sonra Trabzonspor aynı golü bana atıyor, veriliyor. MHK Başkanı Ferhat Gündoğdu kötü, hakeml  x.com",
     "image": null,
     "keyword": "trabzonspor"
-  },
-  {
-    "id": "GND_7a9839d0",
-    "title": "Pedro Sanchez'in eşine ağır suçlamalar",
-    "source": "OdaTV",
-    "time": "14/04/2026 04:14",
-    "link": "https://www.odatv.com/guncel/pedro-sanchezin-esine-agir-suclamalar-120143206",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya Başbakanı Pedro Sanchez&#039;in eşi Begona Gomez hakkında yürütülen yolsuzluk soruşturması kapsamında hazırlanan iddianame kabul edildi. Gomez&#039;e 4 ayrı suçlama yöneltildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/pedro-sanchezin-esine-agir-suclamalar-sm8v.jpg",
-    "keyword": null
   }
 ]
