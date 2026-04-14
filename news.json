@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2e9342a9",
+    "title": "Bakan Göktaş'tan Şanlıurfa'daki okul saldırısına ilişkin açıklama",
+    "source": "TRT Haber",
+    "time": "14/04/2026 19:46",
+    "link": "https://www.trthaber.com/haber/turkiye/bakan-goktastan-sanliurfadaki-okul-saldirisina-iliskin-aciklama-941658.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Siverek ilçesinde eski öğrencinin okuluna silahla girerek rastgele ateş açması sonucu 16 kişinin yaralandığı olaya dair \"Bakanlık olarak psikososyal destek ekiplerimizle hastanede ve okulda ailelerimizi yalnız bırakmıyor, vatandaşlarımıza danışmanlık hizmeti sunuyoruz.\" ifadelerini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e289f8e9",
     "title": "İsrail ile Lübnan arasındaki doğrudan görüşmeler Washington'da başladı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran limanlarına yönelik ablukaya 10 binden fazla askerin katıldığını açıkladı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/04/centcom-orta-doguya-ilk-tek-yonlu-saldiri-iha-filosunu-konuslandirdi-b7uk_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_824ffb10",
-    "title": "Şanlıurfa'da lisede silahlı saldırı: 4 yönetici görevlerinden uzaklaştırıldı",
-    "source": "Ekonomim",
-    "time": "14/04/2026 18:47",
-    "link": "https://www.ekonomim.com/gundem/sanliurfada-lisede-silahli-saldiri-4-yonetici-gorevlerinden-uzaklastirildi-haberi-888084",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa Valiliği, lisede düzenlenen silahlı saldırıda yaralanan 16 kişiden 7&#039;sinin taburcu edildiğini, olaydaki ihmaller üzerine 4 yöneticinin görevden uzaklaştırıldığını açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/07/son-dakika-uskudar-belediyesine-operasyon-cok-sayida-gozalti-pis9_cover.jpg",
     "keyword": null
   }
 ]
