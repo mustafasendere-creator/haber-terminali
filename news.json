@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5a945f10",
+    "title": "Otomotiv devi BYD’nin ana tesisinde yangın: 1 milyar doları aşan hasar meydana geldi",
+    "source": "BirGün",
+    "time": "14/04/2026 14:24",
+    "link": "https://www.birgun.net/haber/otomotiv-devi-bydnin-ana-tesisinde-yangin-1-milyar-dolari-asan-hasar-meydana-geldi-705779",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BYD’nin Şıncın kentindeki ana üretim tesisinde çıkan yangın büyük hasara yol açtı. Can kaybı yaşanmazken, üretim hatlarının zarar gördüğü ve kaybın milyar doları aşabileceği belirtiliyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/otomotiv-devi-bydnin-ana-tesisinde-yangin-1-milyar-dolari-asan-hasar-meydana-geldi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_88eb1d72",
     "title": "Hürmüz Boğazı’nda seyrüsefer özgürlüğünün tesisine ilişkin konferans, 17 Nisan'da Paris'te düzenlenecek",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İzmir'in Ödemiş ilçesinde geçen yıl temmuz ayındaki orman yangınında zarar gören yapıların yerine inşa edilen 138 köy evi, 21 ahır, cami ve köy konağı haziranda hak sahiplerine teslim edilecek.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_78a6c39a",
-    "title": "İşgalci İsrail'in kısıtlamaları altındaki Refah'tan yurt dışında tedavi için 42 hasta geçti",
-    "source": "TRT Haber",
-    "time": "14/04/2026 13:46",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-kisitlamalari-altindaki-refahtan-yurt-disinda-tedavi-icin-42-hasta-gecti-941610.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazze Şeridi'nde 42 hastanın bölge dışında tedavi olabilmek için İsrail'in sadece yayalara izin verdiği Refah Sınır Kapısı'ndan geçtiği bildirildi.",
     "image": null,
     "keyword": null
   }
