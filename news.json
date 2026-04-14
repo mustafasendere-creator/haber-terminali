@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_d307f631",
+    "title": "@genshinimpact-en.bsky.social: \"So you really are an angel? And all those stories were real...",
+    "source": "Bluesky",
+    "time": "14/04/2026 09:24",
+    "link": "https://bsky.app/profile/genshinimpact-en.bsky.social/post/3mjdyt7yes222",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "\"So you really are an angel? And all those stories were real, too?\"\n\"Then yay, that works! I'm a mage, and you're an angel, so we match perfectly.\"\nThe merry little mage stretched out a hand to the angel who had come so far, all the way from those distant \"long agos,\" and warmly invited her along.",
+    "image": null,
+    "keyword": "agos"
+  },
+  {
     "id": "SOC_6d83241f",
     "title": "@yoldaspancuni.bsky.social: Gazeteci Hrant Dink cinayeti davasında, tetikçi Ogün Samast ...",
     "source": "Bluesky",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa'da, Orta Doğu'daki savaş nedeniyle artan akaryakıt fiyatları ve sübvansiyon programlarının etkisiyle elektrikli araç satışları martta yarım milyonu aşarak rekor kırdı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f044e3c9",
-    "title": "New York'ta İsrail'e silah satışına karşı düzenlenen protestoda yaklaşık 100 kişi gözaltına alındı",
-    "source": "TRT Haber",
-    "time": "14/04/2026 08:35",
-    "link": "https://www.trthaber.com/haber/dunya/new-yorkta-israile-silah-satisina-karsi-duzenlenen-protestoda-yaklasik-100-kisi-gozaltina-alindi-941546.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "New York'ta İsrail'e silah satışını ve İran'a yönelik savaş ihtimalini protesto eden yaklaşık 100 kişi polis tarafından gözaltına alındı. Manhattan'da trafiği durduran göstericilere güvenlik güçleri müdahale etti.",
     "image": null,
     "keyword": null
   }
