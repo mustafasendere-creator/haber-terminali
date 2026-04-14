@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b7936cbe",
+    "title": "Borsa İstanbul'da zirve açılış",
+    "source": "TRT Haber",
+    "time": "14/04/2026 10:24",
+    "link": "https://www.trthaber.com/haber/ekonomi/borsa-istanbulda-zirve-acilis-941572.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,80 değer kazanarak 14.170 puandan başladı ve 23 Şubat'tan bu yana en yüksek seviyesine ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_d4e9b358",
     "title": "Trabzonsporlu ünlü oyuncu boykot...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Karadeniz hava durumu bugün nasıl olacak, Trabzon’da yağmur var mı, ilçe ilçe sıcaklık kaç derece, rüzgâr ne kadar etkili olacak sorularının yanıtları merak ediliyor. Karadeniz genelinde bugün hava nasıl, Trabzon ilçelerinde yağış durumu ne, sıcaklıklar kaç derece olacak ve rüzgâr ne kadar hissedilecek gibi en çok aranan soruların tüm detaylarını bu haberde bulabilirsiniz.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/yagmurrr-12.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_826b25e5",
-    "title": "Yeni sınır sisteminin faturası ağır oldu: Yolcular kustu, bayıldı...",
-    "source": "Sözcü",
-    "time": "14/04/2026 09:45",
-    "link": "https://www.sozcu.com.tr/yeni-sinir-sisteminin-faturasi-agir-oldu-yolcular-kuyrukta-kustu-bayildi-p310035",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni sınır sisteminin faturası ağır oldu: Yolcular kustu, bayıldı...",
-    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/837jpg-_k0X91c4BUGmgGdc1dMHUA.jpg",
-    "keyword": null
   }
 ]
