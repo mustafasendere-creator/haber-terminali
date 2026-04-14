@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c6fbe0f4",
+    "title": "İliç davasında bilirkişi krizi: ‘Şirketle ticari bağlantısı olan bilirkişinin raporu çökmüştür’",
+    "source": "Evrensel",
+    "time": "14/04/2026 12:05",
+    "link": "https://www.evrensel.net/haber/5979556/ilic-davasinda-bilirkisi-krizi-sirketle-ticari-baglantisi-olan-bilirkisinin-raporu-cokmustur",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İliç maden faciası davasının 7. duruşmasında avukatlar, bilirkişi heyeti üyesinin maden şirketiyle ticari ilişkisi olduğunu belgeleyen gazetemiz Evrensel’i mahkemeye sunarak, taraflı raporun iptalini ve yeni keşif yapılmasını talep etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342928.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_519aa5d1",
     "title": "Özgür Özel, Saadet Partisini ziyaret etti: “Sandıktan kaçmak, milletten kaçmaktır”",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bilgi Teknolojileri ve İletişim Kurumuna BTK iletilen tüketici şikayetlerinde ilk sırada \"internet servis sağlayıcılığı\" hizmeti yer alırken, bu konudaki şikayetlerin büyük bölümü \"bağlantı ve hizmet kalitesi\"ne yönelik oldu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_2a6681b5",
-    "title": "Ordu'da 'Uluslararası Modern Bilimsel Araştırmalar Kongresi'",
-    "source": "Taka Gazetesi",
-    "time": "14/04/2026 11:46",
-    "link": "https://www.takagazete.com.tr/orduda-uluslararasi-modern-bilimsel-arastirmalar-kongresi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu Üniversitesi ev sahipliğinde düzenlenen '1. Uluslararası Modern Bilimsel Araştırmalar Kongresi' başladı. 35 ülkeden 581 bildirinin sunulacağı kongre, hem yüz yüze hem de çevrim içi oturumlarla gerçekleştirilecek.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/orduda-uluslararasi-modern-bilimsel-arastirmalar-kongresi.jpg",
     "keyword": null
   }
 ]
