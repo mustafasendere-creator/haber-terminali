@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7b6adc7e",
+    "title": "İsrail’de Mossad ataması krizi: Karar yargıya taşındı",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 13:26",
+    "link": "https://www.cumhuriyet.com.tr/dunya/israil-de-mossad-atamasi-krizi-karar-yargiya-tasindi-2495091",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail’de Mossad’ın yeni direktörü olarak atanması planlanan Tümgeneral Roman Gofman hakkında açılan dava, ülkede tartışma yarattı. Başvuruda, Gofman’ın geçmişte bir reşit olmayan kişiyi gizli bilgi paylaşımında kullanmakla suçlandığı olay temel alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e87b7a70-4fbe-46ea-b3b0-2648a00f7c57.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dbdb3c2f",
     "title": "Burak Yılmaz için resmi açıklama: Bu kez geri dönüş yok",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "XChat nedir, ne zaman çıkıyor ve WhatsApp ile farkı nedir soruları teknoloji gündeminin en çok araştırılan konuları arasında yer alıyor. Elon Musk’ın geliştirdiği yeni nesil mesajlaşma uygulaması XChat, sunduğu özelliklerle dikkat çekiyor. İşte XChat hakkında tüm merak edilenler…",
     "image": "https://static.birgun.net/resim/haber/2026/04/14/xchat-nedir-xchat-ne-zaman-cikiyor-xchat-ile-whatsapp-farki-nedir.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_cafb3761",
-    "title": "Trabzon’da hayvancılık atağı: Jersey projesi sonuç veriyor",
-    "source": "Haber61",
-    "time": "14/04/2026 13:04",
-    "link": "https://www.haber61.net/trabzon/trabzonda-hayvancilik-atagi-jersey-projesi-sonuc-veriyor-h629572.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Tarım ve Orman Bakanlığı’nın destekleriyle Of’ta başlatılan Jersey projesinde ikinci nesil buzağılar dünyaya gelmeye başladı.",
-    "image": "https://resim.haber61.net/news/612671.jpg",
     "keyword": null
   }
 ]
