@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_40e6e990",
+    "title": "A subreddit for cute and cuddly pictures",
+    "source": "Reddit",
+    "time": "14/04/2026 12:45",
+    "link": "https://www.reddit.com/r/aww/",
+    "type": "SOC",
+    "prefix": "🤖",
+    "summary": "Things that make you go AWW! -- like puppies, bunnies, babies, and so on... Feel free to post original pictures and videos of cute things.   [link]",
+    "image": "https://b.thumbs.redditmedia.com/G-3UFSFhXcv-WCIz2XDKFv9Mt06HMfyfFxpBWhlAMQM.png",
+    "keyword": "agos"
+  },
+  {
     "id": "SOC_111f0d25",
     "title": "A Simplistic Online RPG",
     "source": "Reddit",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Seray Kaya’nın sette Kürtçe şarkı eşliğinde yaptığı paylaşım gündem oldu. Oyuncu, gelen tepkiler sonrası açıklama yaptı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/be36ee9a-8bd6-4671-8dce-4c8730ca7395.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d502dacc",
-    "title": "Trafikte bıçaklı kavgaya 542 bin lira ceza",
-    "source": "TRT Haber",
-    "time": "14/04/2026 12:05",
-    "link": "https://www.trthaber.com/haber/turkiye/trafikte-bicakli-kavgaya-542-bin-lira-ceza-941596.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Maltepe'de trafikte tartışarak birbirlerine bıçak çeken 2 sürücüye 542 bin lira ceza kesildi, araçlar 60 gün trafikten men edildi.",
-    "image": null,
     "keyword": null
   }
 ]
