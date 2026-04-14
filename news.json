@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c1634e5",
+    "title": "Filistinli kurumlar, İsrail hapishanelerindeki Filistinli tutuklu sayısının 9 bin 600'ü geçtiğini açıkladı",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 20:24",
+    "link": "https://www.aa.com.tr/tr/dunya/filistinli-kurumlar-israil-hapishanelerindeki-filistinli-tutuklu-sayisinin-9-bin-600u-gectigini-acikladi/3905631",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail hapishanelerindeki Filistinli tutuklu sayısının 86'sı kadın, 352'si çocuk olmak üzere 9 bin 600'ü aştığı belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_ae9a2dff",
     "title": "Kronstadt İzvestia 1921 SAYI 11",
     "source": "Reddit",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor Yönetimi, bu sezon yaptığı gibi gelecek vaat eden isimleri bünyesine katmaya devam ediyor.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/baskan-dogan-genc-yetenek-avinda-trabzonspor-gelecek-sezonun-ilk-transferini-yaptiz-1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_07130b05",
-    "title": "Şanlıurfa'da okula silahlı saldırı: Eğitim sendikalarından eylem kararı",
-    "source": "BirGün",
-    "time": "14/04/2026 19:44",
-    "link": "https://www.birgun.net/haber/sanliurfa-da-okula-silahli-saldiri-egitim-sendikalarindan-eylem-karari-705848",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa'da 16 kişinin yaralandığı okul baskınına tepki gösteren eğitim sendikaları iş bırakma kararı aldı. Okullardaki güvenlik zafiyetine dikkat çeken sendikalar, 15-16 Nisan tarihlerinde ülke genelinde eylem yapacak.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/14/sanliurfada-okula-silahli-saldiri-egitim-sendikalarindan-is-birakma-karari.jpg",
     "keyword": null
   }
 ]
