@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0b04b38b",
+    "title": "MEB'den Siverek'teki okul saldırısına ilişkin açıklama",
+    "source": "TRT Haber",
+    "time": "14/04/2026 15:06",
+    "link": "https://www.trthaber.com/haber/gundem/mebden-siverekteki-okul-saldirisina-iliskin-aciklama-941621.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Eğitim Bakanlığı MEB, Şanlıurfa'nın Siverek ilçesindeki bir lisede meydana gelen silahlı saldırıya ilişkin bakanlık merkez teşkilatından üst düzey bir heyet ve müfettişlerin görevlendirildiğini, söz konusu okulda eğitime 4 gün ara verildiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fb535f08",
     "title": "İran bağlantılı tankerler ablukaya rağmen Hürmüz'den geçti",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Avrupa'daki hava yolu şirketlerini temsil eden Airlines for Europe (A4E), Avrupa Birliği'nden (AB) jet yakıtı arzına ilişkin riskler ve artan maliyetler karşısında önlemler alınmasını talep etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_de0fbd61",
-    "title": "İsrail'in aşırı sağcı Maliye Bakanı'ndan Almanya Başbakanı'na \"Batı Şeria\" tepkisi",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 14:44",
-    "link": "https://www.aa.com.tr/tr/dunya/israilin-asiri-sagci-maliye-bakanindan-almanya-basbakanina-bati-seria-tepkisi/3905088",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in aşırı sağcı Maliye Bakanı Smotrich, Filistin'deki gelişmelerden duyduğu endişeyi ve özellikle işgal altındaki Batı Şeria’nın fiilen ilhak edilmesine izin verilmemesi gerektiğini vurgulayan Almanya Başbakanı Friedrich Merz'e tepki gösterdi.",
     "image": null,
     "keyword": null
   }
