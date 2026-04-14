@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_06862622",
+    "title": "Bel fıtığı sanılıyor ama çok daha tehlikeli: Omurga daralması sinsi ilerliyor!",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 17:45",
+    "link": "https://www.cumhuriyet.com.tr/saglik/bel-fitigi-saniliyor-ama-cok-daha-tehlikeli-omurga-daralmasi-sinsi-ilerliyor-2495190",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Halk arasında bel fıtığıyla sıkça karıştırılan omurga daralması (Spinal stenoz), tedavi edilmediği takdirde kalıcı sakatlıklara ve bakıma muhtaç hale gelmeye neden olabiliyor. Uzmanlar, özellikle yürüyüş sırasında artan ağrı ve öne eğilme ihtiyacının hastalığın en tipik belirtisi olduğu konusunda uyarıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ad452f70-ba37-4efd-9cad-903fd62b40dc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d0ea9d85",
     "title": "Lübnan’dan dünyaya çağrı: Acil yardım gerekli",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Uluslararası Para Fonu IMF, Orta Doğu'daki çatışmanın yol açtığı aksaklıkların etkisiyle küresel ekonomik büyüme tahminini bu yıl için yüzde 3,3'ten yüzde 3,1'e düşürdü.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_ea27800a",
-    "title": "Mustafa Bak: Bu Tablonun Hesabını Verin",
-    "source": "Karadeniz Gazetesi",
-    "time": "14/04/2026 17:07",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/mustafa-bak-bu-tablonun-hesabini-verin/608993",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediye Meclisi’nde görüşülen 2025 Yılı Faaliyet Raporu, sıradan bir yönetim zafiyetinin değil, bilinçli tercihlerle derinleştirilmiş bir mali çöküşün açık belgesidir.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
