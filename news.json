@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5b9160ba",
+    "title": "İran: Bir sonraki tur için herhangi bir anlaşmaya varılmadı",
+    "source": "TRT Haber",
+    "time": "14/04/2026 14:06",
+    "link": "https://www.trthaber.com/haber/dunya/iran-bir-sonraki-tur-icin-herhangi-bir-anlasmaya-varilmadi-941611.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran ve Pakistan arasında diplomatik mesaj alışverişi devam ederken, Tahran yönetimi ABD ile barış görüşmelerinin bir sonraki turuna dair henüz herhangi bir anlaşmaya varılmadığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_07c96fcb",
     "title": "Katar: Deniz koridorlarının açılması ve seyrüsefer serbestisi pazarlık unsuru olmamalı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Geçtiğimiz sezon Süper Lig’de zirvenin uzağında kalan Trabzonspor, Fatih Tekke yönetiminde geçirdiği yeniden yapılanma sürecinin ardından bu sezon 29 haftada 64 puana ulaşarak şampiyonluk yarışının en güçlü adaylarından biri haline geldi.",
     "image": "https://resim.haber61.net/news/612667.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d27ea800",
-    "title": "Çinli elektrikli araç üretici BYD'nin Şıncın'daki fabrikasının garajında yangın çıktı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 13:44",
-    "link": "https://www.aa.com.tr/tr/dunya/cinli-elektrikli-arac-uretici-bydnin-sincindaki-fabrikasinin-garajinda-yangin-cikti/3904995",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çinli elektrikli araç üretici BYD'nin fabrikasında test için kullanılan ve hurdaya çıkarılan araçların park edildiği garajda yangın meydana çıktı.",
-    "image": null,
     "keyword": null
   }
 ]
