@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8fc423cd",
+    "title": "Gazeteci Zafer Arapkirli’ye 2 yıl 6 ay hapis cezası",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 18:26",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/gazeteci-zafer-arapkirli-ye-2-yil-6-ay-hapis-cezasi-2495203",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BirGün yazarı ve BirGün TV programcısı Zafer Arapkirli’ye “yanıltıcı bilgiyi alenen yaymak” suçundan 2 yıl 6 ay hapis cezası verildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/483da907-a90b-4fdf-8e8e-f09359e459c5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f495176d",
     "title": "İran Cumhurbaşkanı; Türkiye, İspanya, Çin, Rusya, İtalya ve Mısır'ın, İsrail'e karşı duruşunu takdir etti",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Müstakil Sanayici ve İşadamları Derneği (MÜSİAD) ile JPMorgan Chase işbirliğinde, ABD'nin New York şehrinde yatırım konferansı ve sektör odaklı yatırımcı-firma buluşmaları organize edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_bd60588f",
-    "title": "Ankara'da \"Andican-2026 Türk Dünyası Kültür Başkenti Tanıtım Töreni\" gerçekleştirildi",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 18:04",
-    "link": "https://www.aa.com.tr/tr/kultur/ankarada-andican-2026-turk-dunyasi-kultur-baskenti-tanitim-toreni-gerceklestirildi/3905386",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Özbekistan Kültür Bakanlığı, Andican Valiliği ve Uluslararası Türk Kültürü Teşkilatı (TÜRKSOY) işbirliğinde, \"Andican-2026 Türk Dünyası Kültür Başkenti Tanıtım Töreni\" Ankara'da düzenlendi.",
     "image": null,
     "keyword": null
   }
