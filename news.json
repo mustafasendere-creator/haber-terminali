@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8af3390c",
+    "title": "10 yıl sonra gelen duyma sevinci",
+    "source": "TRT Haber",
+    "time": "14/04/2026 16:45",
+    "link": "https://www.trthaber.com/haber/yasam/10-yil-sonra-gelen-duyma-sevinci-941637.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'de, çocukken geçirdiği orta kulak iltihabı nedeniyle 30 yıl önce duyma yetisi azalmaya başlayan, 10 yıldır ise işitme engelli hale gelen 72 yaşındaki Batı Türker, biyonik kulak ameliyatıyla sağlığına kavuştu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_68d45339",
     "title": "Osmaniyeli yurttaş: En son komşu adak kestiğinde et yedim",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon'un Of ilçesinde ilk ve ortaokul öğrencilerine yönelik \"11. Akıl ve Zeka Oyunları\" düzenlendi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-14-145951.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_bd8ae3bb",
-    "title": "Araklı’da motosiklet kazası: Sürücü aracın altına girdi",
-    "source": "Haber61",
-    "time": "14/04/2026 16:05",
-    "link": "https://www.haber61.net/trabzon/araklida-motosiklet-kazasi-surucu-aracin-altina-girdi-h629588.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Araklı ilçesinde meydana gelen motosiklet kazasında sürücü ağır yaralandı. Olay yerine sevk edilen ekipler yaralıyı hastaneye kaldırdı.",
-    "image": "https://resim.haber61.net/news/612696.jpg",
     "keyword": "trabzon"
   }
 ]
