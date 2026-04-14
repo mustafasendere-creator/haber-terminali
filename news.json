@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_14597e56",
+    "title": "Lufthansa'da kriz büyüyor",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 11:09",
+    "link": "https://www.aa.com.tr/tr/ekonomi/lufthansada-kriz-buyuyor/3904771",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman hava yolu şirketi Lufthansa’da, pilot sendikası Vereinigung Cockpit (VC) ve Bağımsız Kabin Personeli Organizasyonu’nun (UFO) ardı ardına aldığı grev kararları hava ulaşımını felç etmeye devam ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_09c6ac50",
     "title": "@anonturk.bsky.social: 🇹🇷 Belediye Başkanı Günel gözaltına alındı: Kuşadası halkı b...",
     "source": "Bluesky",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fransız çimento devi Lafarge, Suriye savaşı sırasında IŞİD ve El Nusra gibi cihatçı örgütlere finansman sağlamaktan suçlu bulundu. Mahkeme şirkete 1,3 milyon euro para cezası verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c57edda9",
-    "title": "Almanya-İsrail hattında Batı Şeria ve Lübnan gerilimi",
-    "source": "DW Türkçe",
-    "time": "14/04/2026 10:44",
-    "link": "https://www.dw.com/tr/almanya-israil-hattında-batı-şeria-ve-lübnan-gerilimi/a-76770388",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya Başbakanı Merz, İsrail Başbakanı Netanyahu'yu Batı Şeria ve Lübnan konusunda uyardı. İsrailli Bakan Smotrich ise \"Bizi tekrar gettolara zorlayamayacaksınız\" diyerek Merz'i ağır ifadelerle hedef aldı.",
     "image": null,
     "keyword": null
   }
