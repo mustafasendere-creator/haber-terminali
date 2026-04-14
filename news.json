@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_037bbd9e",
+    "title": "Bitcoin'de sert hareketlilik",
+    "source": "BirGün",
+    "time": "14/04/2026 21:25",
+    "link": "https://www.birgun.net/haber/bitcoin-de-sert-hareketlilik-705810",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bitcoin, son 24 saatte yüzde 5’ten fazla değer kazandı ve fiyatı 74 bin 600 dolar sınırına dayandı. Bu ivme ile birlikte bitcoin, mart ayı ortasından bu yana en yüksek değerine ulaştı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/bitcoin-de-sert-hareketlilik.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_f7ebc18d",
     "title": "Alanyaspor - Trabzonspor maçındaki elle oynama pozisyonunun VAR kayıtları açıklandı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Grevde okullar tatil mi sorusu gündemde; öğretmenlerin katılımına göre dersler kısmen ya da tamamen durabiliyor.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/650x344-okul-ile-ilgili-siirler-kisa-uzun-1-2-3-4-kitalik-okul-sevgisiyle-ilgili-siirler-e1-1701344126333.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_4bc3a09f",
-    "title": "Eurocup’ta sezonun en iyi 5’inde Türkiye'den üç oyuncu",
-    "source": "BirGün",
-    "time": "14/04/2026 20:25",
-    "link": "https://www.birgun.net/haber/eurocupta-sezonun-en-iyi-5inde-turkiye-den-uc-oyuncu-705820",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eurocup'ta sezonun en iyi 5’ine Beşiktaş, Türk Telekom ve Bahçeşehir Koleji’nden birer oyuncu seçildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/14/eurocupta-sezonun-en-iyi-5inde-turkiye-den-uc-oyuncu.jpg",
     "keyword": null
   }
 ]
