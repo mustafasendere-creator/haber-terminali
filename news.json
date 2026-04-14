@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9d10d5a2",
+    "title": "Gülistan Doku soruşturmasında dönemin Tunceli Valisi'nin oğlu dahil gözaltılar",
+    "source": "BBC Türkçe",
+    "time": "14/04/2026 10:43",
+    "link": "https://www.bbc.com/turkce/articles/cy511lprv1yo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altı yıldır kayıp olan üniversite öğrencisi Gülistan Doku ile ilgili soruşturmada,  yedi ilde 13 şüpheli hakkında gözaltı kararı çıkarıldı. Dönemin Tunceli Valisi'nin oğlu da gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7809bf89",
     "title": "Terör örgütü DEAŞ'a finansman sağladığı belirlenen 8 şüpheli yakalandı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Urla'nın Kuşçular ve Yağcılar köylerinde 15 hektarlık alan imara açıldı. Projeye karşı dava açma hazırlıkları yapılıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342900.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_a5473b56",
-    "title": "Trabzon’da fırtına sahili vurdu: Kıyılar çamura bulandı",
-    "source": "Haber61",
-    "time": "14/04/2026 10:03",
-    "link": "https://www.haber61.net/trabzon/trabzonda-firtina-sahili-vurdu-kiyilar-camura-bulandi-h629540.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da etkili olan fırtına sonrası dalgaların vurduğu dolgu sahasındaki toprak denize karıştı, kıyı hattı çamurla kaplandı.",
-    "image": "https://resim.haber61.net/news/612617.jpg",
-    "keyword": "trabzon"
   }
 ]
