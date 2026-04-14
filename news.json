@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cfe894b9",
+    "title": "Beybi Eldiven Fabrikasındaki yangın işçileri kaygılandırdı: “Göre göre gelen şeye kaza denmez”",
+    "source": "Evrensel",
+    "time": "14/04/2026 21:25",
+    "link": "https://www.evrensel.net/haber/5979652/beybi-eldiven-fabrikasindaki-yangin-iscileri-kaygilandirdi-gore-gore-gelen-seye-kaza-denmez",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beybi Eldiven fabrikasında çıkan yangın işçileri daha da kaygılandırdı. Olayın göz göre göre geldiğini söyleyen işçiler, yangının sonuçlarının kendilerine kesilmesinden endişeli.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342933.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_42e31b29",
     "title": "Trabzonspor Başakşehir mesaisine başladı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kan grubunuz sağlığınızın şifresi olabilir! A, B, AB ve 0 gruplarının kalp krizinden kansere, diyabetten hafıza kaybına kadar taşıdığı riskleri keşfedin.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/kan-grubu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_db9012cd",
-    "title": "İspanya'dan 500 bin düzensiz göçmene ikamet ve çalışma izni",
-    "source": "DW Türkçe",
-    "time": "14/04/2026 20:25",
-    "link": "https://www.dw.com/tr/ispanya-dan-500-bin-düzensiz-göçmene-ikamet-ve-çalışma-izni/a-76782532",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya hükümeti ülkede yaşayan 500 bin düzensiz göçmene yasal statü kazandıracak kararnameyi kabul etti. Kısa süre içinde bu kadar başvuruyu değerlendirecek altyapının olmadığını belirten göçmenlik büroları tepkili.",
-    "image": null,
     "keyword": null
   }
 ]
