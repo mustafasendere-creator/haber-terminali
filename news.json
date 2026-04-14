@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_395b14b5",
+    "title": "ABD'den petrol uyarısı: Fiyatlarda zirve görülecek!",
+    "source": "BirGün",
+    "time": "14/04/2026 11:44",
+    "link": "https://www.birgun.net/haber/abd-den-petrol-uyarisi-fiyatlarda-zirve-gorulecek-705692",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Enerji Bakanı, Hürmüz Boğazı'ndaki aksaklıkların petrol fiyatlarını zirveye taşıyabileceğini söyledi. ABD'li bakana göre fiyatlar önümüzdeki birkaç hafta içinde zirve seviyeyi görecek.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/abd-den-petrol-uyarisi-fiyatlarda-zirve-gorulecek.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b84df9cc",
     "title": "Galatasaray, Şampiyonlar Ligi'nde dörtlü final için sahada",
     "source": "BirGün",
@@ -946,17 +958,5 @@
     "summary": "Boğaziçi Elektrik Dağıtım A.Ş (BEDAŞ), İstanbul'da 14 Nisan Salı günü 22 ilçede elektrik kesintisi yaşanacağını duyurdu. Böylelikle kesinti yaşanacak ilçeler ve mahalleler belli oldu. Peki, elektrikler ne zaman gelecek, elektrik saat kaçta kesilecek? İşte 14 Nisan 2026 Salı İstanbul'da elektrik kesintisi yaşanacak ilçeler...",
     "image": "https://im.haberturk.com/l/2026/04/13/ver1776103887/3877093/jpg/1280x1280",
     "keyword": null
-  },
-  {
-    "id": "TKP_fd8efc19",
-    "title": "Ortahisar’ın Minik Kulaçlarından Madalya Yağmuru",
-    "source": "Kuzey Ekspres",
-    "time": "14/04/2026 11:11",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27807803/ortahisarin-minik-kulaclarindan-madalya-yagmuru",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da düzenlenen 23 Nisan Yüzme Yarışları’na 15 sporcu ile katılan Ortahisar Belediyespor, turnuvada 28 madalya kazanarak büyük bir başarı elde etti. Belediye Başkanı Ahmet Kaya, “Bu başarı geleceğin şampiyonlarının habercisi” diyerek dereceye giren sporcuları tebrik etti.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/yuzme2.jpg",
-    "keyword": "trabzon"
   }
 ]
