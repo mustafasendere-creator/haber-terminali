@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e2e7fde2",
+    "title": "CHP'den Saray'a peş peşe 'THY' soruları: 'Yönetimde akrabalık ilişkisi, hısımlık veya siyasi yakınlık bulunan kaç kişi var?'",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 17:07",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/chp-den-saray-a-pes-pese-thy-sorulari-yonetimde-akrabalik-iliskisi-hisimlik-veya-siyasi-yakinlik-bulunan-kac-kisi-var-2495167",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'li Sezgin Tanrıkulu, Türk Hava Yolları’nın üst yönetimine yapılan atamalara ilişkin Cumhurbaşkanı Yardımcısı Cevdet Yılmaz’a, \"THY yönetiminde görev alan kişiler arasında akrabalık ilişkisi, hısımlık veya siyasi yakınlık bulunan kaç kişi vardır? Bu durum çıkar çatışması kapsamında değerlendirilmiş midir?\" sorularını yöneltti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7dd36d5e-75c7-4d94-ab65-c6d1447e8520.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6c5ee652",
     "title": "Bu defa adres Kocaeli: Lise öğrencilerinin kavgası kanlı bitti: 1 yaralı, 1 gözaltı!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Osmaniye'de yurttaşlar geçim sıkıntısından dert yandı. Emekli bir yurttaş, \"Karnabahar sordum, kilosu 80 lira, hadi buyur. Eti sütü geç, onlar zengin işi. En son komşunun biri adak kesmişti, o zaman et yedim\" dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343004.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f1b05474",
-    "title": "İsrail Gazze'de polis aracını hedef aldı: Saldırıda biri çocuk, 4 kişi hayatını kaybetti",
-    "source": "Evrensel",
-    "time": "14/04/2026 16:45",
-    "link": "https://www.evrensel.net/haber/5979620/israil-gazzede-polis-aracini-hedef-aldi-saldirida-biri-cocuk-4-kisi-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in Gazze'de polis aracını hedef aldığı saldırıda biri çocuk, 4 kişi hayatını kaybetti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343005.jpg",
     "keyword": null
   }
 ]
