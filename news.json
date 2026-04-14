@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_6a6e0ce5",
+    "title": "Haberler Son Dakika",
+    "source": "Reddit",
+    "time": "14/04/2026 12:50",
+    "link": "https://www.reddit.com/r/bizimhaber/",
+    "type": "SOC",
+    "prefix": "🤖",
+    "summary": "haber bilgi blogu olarak doğru ve tarafsız ilkeli habercilik yapıyoruz.   [link]",
+    "image": null,
+    "keyword": "trabzon son dakika"
+  },
+  {
     "id": "SOC_a806b579",
     "title": "Türkiye'nin En İyi Boşanma Avukatları (2026 Güncel İl İl Tam Liste)",
     "source": "Reddit",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bursa'nın içme suyu ihtiyacının büyük bir bölümünü karşılayan Nilüfer ve Doğancı barajlarındaki ortalama doluluk oranı yüzde 96,4 olarak ölçüldü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9d1448a1",
-    "title": "Türkiye'de geçen yıl 207 bin 371 balıkçılık denetimi yapıldı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 12:44",
-    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-gecen-yil-207-bin-371-balikcilik-denetimi-yapildi-/3904911",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Denetimlerde, 550 ton su ürününe, 2 bin 394 av aracına ve 84 balıkçı gemisine el konuldu.",
     "image": null,
     "keyword": null
   }
