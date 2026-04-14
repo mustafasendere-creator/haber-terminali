@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6f3d30ee",
+    "title": "İtalya, İsrail'in Lübnan saldırıları için 'kabul edilemez' dedi: İsrail, İtalyan büyükelçiyi çağırdı",
+    "source": "Euronews",
+    "time": "14/04/2026 09:43",
+    "link": "http://tr.euronews.com/2026/04/14/italya-israilin-lubnan-saldirilari-icin-kabul-edilemez-dedi-israil-italyan-buyukelciyi-cag",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran destekli Hizbullah'ın, ABD ve İsrail'in düzenlediği ilk saldırı dalgasında İran'ın dini lideri Ali Hamaney'in öldürülmesinden günler sonra, 2 Mart'ta İsrail'e roket atmasıyla Lübnan Orta Doğu'daki savaşın içine çekildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7be90da0",
     "title": "Trump, McDonald's şovuyla ABD'deki yeni bahşiş vergi indirimini tanıttı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da Büyükşehir Belediyesi’nin ücretsiz Wi-Fi ve şehir kameraları hizmeti takdir toplarken, Ankara Günleri’nde Yavuz Aydın’ın ilgisi dikkat çekti; Kent Konseyi seçimleri ve Arsin’de Cudi Efendi anması gündem oldu.",
     "image": "https://resim.haber61.net/news/612583.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_f07d1d97",
-    "title": "Trabzon’da kritik hafta: Trabzonspor taraftarı tribünde yerini almalı",
-    "source": "Haber61",
-    "time": "14/04/2026 09:00",
-    "link": "https://www.haber61.net/trabzonspor/trabzonda-kritik-hafta-trabzonspor-taraftari-tribunde-yerini-almali-h629525.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Haber61’de yayınlanan Spor Gündemi canlı yayınında konuşan yorumcu Haluk Ayyıldız, Trabzonspor taraftarına Başakşehir maçı öncesi çağrıda bulundu ve tribün desteğinin önemine dikkat çekti.",
-    "image": "https://resim.haber61.net/news/612589.jpg",
     "keyword": "trabzon"
   }
 ]
