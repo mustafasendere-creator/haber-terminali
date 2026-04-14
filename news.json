@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_43055e9d",
+    "title": "Cem Adrian ifade verdi",
+    "source": "Evrensel",
+    "time": "14/04/2026 19:05",
+    "link": "https://www.evrensel.net/haber/5979646/cem-adrian-ifade-verdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ünlülere yönelik yürütülen “yasaklı madde” soruşturması kapsamında hakkında gözaltı kararı olan şarkıcı Cem Adrian ifade verdi. Savcılıktaki ifade işlemleri tamamlanan Adrian, adli kontrol şartıyla serbest bırakıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342651.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_f07c48cd",
     "title": "Sibel Suiçmez, Akçaabat Doğanköy esnafına sahip çıktı “Esnafı sokağa atarak belediyecilik olmaz”",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD'de İsrail-Lübnan görüşmeleri başladı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/sozcu-son-dakika-aciljpg-mp-2HQqSxk68YgXG_O1T0w.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b8381cba",
-    "title": "Divriği'de aşevi için son başvuru tarihi 30 Nisan",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 18:26",
-    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/divrigi-de-asevi-icin-son-basvuru-tarihi-30-nisan-2495198",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yalnız yaşayan, yemek yapmakta zorlanan yurttaşlar ve 65 yaş üstü Divriğililer, Sivas Divriği Belediyesi'nin Şekerci Sadık Aşevi projesinden yararlanmak için 30 Nisan tarihine kadar başvuru yapabilecek.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b3f060b4-1f69-4e4c-a38c-892f16999024.png",
     "keyword": null
   }
 ]
