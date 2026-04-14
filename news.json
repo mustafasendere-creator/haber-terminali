@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ccc0f4c1",
+    "title": "Cumhuriyet Silivri'de... İBB davasında 21'inci gün: Duruşmada savunmalar devam ediyor...",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 11:11",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/cumhuriyet-silivri-de-ibb-davasinda-21-inci-gun-durusmada-savunmalar-devam-ediyor-2495052",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu, 414 ismin yargılandığı İBB davasının 21. oturumu görülüyor. Duruşmada reklamcı Esra Bayrak'ın savunması alınıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/71e6dc0f-036d-4def-a140-6505af4e3d25.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6a025ddf",
     "title": "Niğde’nin Kiledere beldesi 'şap hastalığı' alarmı: Bölge karantinaya alındı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Saadet Partisi Trabzon İl Başkanı Ahmet Muratoğlu, Cumhurbaşkanlığı Hükümet Sistemi&#039;ni mercek altına aldı. Karar alma süreçlerinin hızlandığını ancak denetim mekanizmalarının zayıfladığını belirten Muratoğlu, çözüm için 3 kritik adımı paylaştı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/saadet.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_252ab16d",
-    "title": "Lizbon dünyanın en renkli şehri seçildi, Porto üçüncü sırada yer aldı",
-    "source": "Euronews",
-    "time": "14/04/2026 11:01",
-    "link": "http://tr.euronews.com/gezi/2026/04/14/lizbon-dunyanin-en-renkli-sehri-secildi-porto-ucuncu-sirada-yer-aldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İrlandalı seyahat sigortası şirketi JustCover’ın araştırmasına göre Lizbon, dünyanın en renkli şehri seçildi. Analiz edilen fotoğraflarda 2,6 milyondan fazla renk tespit edildi.",
-    "image": null,
     "keyword": null
   }
 ]
