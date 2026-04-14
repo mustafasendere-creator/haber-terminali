@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b864955c",
+    "title": "Uzayda plazma ateşine dalış ve nefes kesen 6 dakika",
+    "source": "BirGün",
+    "time": "14/04/2026 17:44",
+    "link": "https://www.birgun.net/haber/uzayda-plazma-atesine-dalis-ve-nefes-kesen-6-dakika-705829",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ay görevinden dönen Orion uzay aracı, atmosfere girişte yaşanan kritik 6 dakikalık “karartma” sürecini başarıyla atlattı. NASA ekibi, inişin ardından gerilim dolu anları ve görevden çıkarılan dersleri paylaştı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/uzayda-plazma-atesine-dalis-ve-nefes-kesen-6-dakika.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b700a156",
     "title": "Türkiye-Macaristan ilişkilerinde Orban sonrası neler bekleniyor?",
     "source": "BBC Türkçe",
@@ -946,17 +958,5 @@
     "summary": "ABD ve İran arasındaki görüşmelerin yarattığı belirsizlik petrol piyasasını vurdu. Motorin fiyatlarında 15 Nisan tarihinden itibaren geçerli olmak üzere litre başına 3,33 liralık bir artış yaşanacak.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/03/23/large/motorin.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_e31b6eaf",
-    "title": "Günebakış, Tonya'nın nabzını tuttu!",
-    "source": "Günebakış",
-    "time": "14/04/2026 17:06",
-    "link": "https://www.gunebakis.com.tr/gunebakis-tonyanin-nabzini-tuttu/27810773",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Günebakış Trabzon Haber&#039;den Ayşenur Arslan, Trabzon&#039;un Tonya ilçesini ziyaret etti.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/tonya.png",
-    "keyword": "günebakış"
   }
 ]
