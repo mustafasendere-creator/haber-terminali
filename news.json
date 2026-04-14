@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_21458699",
+    "title": "İstanbul'da iş yeri yangını: Müdahale sürüyor",
+    "source": "TRT Haber",
+    "time": "14/04/2026 11:26",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-is-yeri-yangini-mudahale-suruyor-941590.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Ümraniye'de bir iş yerinde yangın çıktı. Olay yerine sevk edilen çok sayıda itfaiye ekibi yangını söndürmek için çalışmalarını sürdürüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f1e7df1c",
     "title": "Devlet Bahçeli: Ara seçim yok",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’un Köprübaşı ilçesinde gece saatlerinde meydana gelen heyelan, ulaşımda aksamalara neden oldu. Büyükdoğanlı ve Küçükdoğanlı mahallelerini birbirine bağlayan güzergahta yamaçtan kopan toprak ve kaya kütleleri yolu tamamen trafiğe kapattı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/2-1776153589.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_da86fcf2",
-    "title": "Trabzon'da Yağmur Sahili Çamura Buladı",
-    "source": "Günebakış",
-    "time": "14/04/2026 11:10",
-    "link": "https://www.gunebakis.com.tr/trabzonda-yagmur-sahili-camura-buladi/27807850",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon&#039;da etkili olan fırtına sonrası dalgaların vurduğu dolgu sahasının toprağı denize karıştı, kıyılar çamur deryasına döndü.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/aw683011-08.webp",
     "keyword": "trabzon"
   }
 ]
