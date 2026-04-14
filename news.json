@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_edfcff07",
+    "title": "Zonguldak'ta balıkçılar limana demirledi, umutlar yeni sezona kaldı: 'Bu kadar kısır sezon görmedim'",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 21:05",
+    "link": "https://www.cumhuriyet.com.tr/yasam/zonguldak-ta-balikcilar-limana-demirledi-umutlar-yeni-sezona-kaldi-bu-kadar-kisir-sezon-gormedim-2495228",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurt genelinde 15 Nisan'da başlayacak av yasağı nedeniyle balıkçılar teknelerini limanlara çekti. Zonguldak'ta da beklentilerin altında geçen sezonun ardından balıkçılar, yeni sezon öncesi bakım ve onarım çalışmalarına hız verdi. Balıkçılardan Tuncay Uludağ \"Meslek hayatım boyunca bu yıl ve 2025 sezonu kadar bereketsiz bir dönem yaşamadım\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ec4a598c-9425-4ba1-a98d-944a9166f44a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c0b3cf8b",
     "title": "Taksim Metro İstasyonu'nda asansör yangını",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Cimilli İbo - Sibelim (Horon)  YouTube",
     "image": null,
     "keyword": "trabzon ziyaret"
-  },
-  {
-    "id": "GND_4deccd25",
-    "title": "Ördek ailesi için trafiği durdurdu",
-    "source": "Habertürk",
-    "time": "14/04/2026 20:06",
-    "link": "https://www.haberturk.com/ordek-ailesinin-guvenli-gecisi-icin-trafik-durduruldu-3877007",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’da bir ördek ailesinin karşıdan karşıya geçmesi için duyarlı bir sürücü akan trafiği durdurdu. O anlar trafikteki başka bir vatandaşın kamerasına yansıdı",
-    "image": "https://im.haberturk.com/l/2026/04/13/ver1776083861/3877007/jpg/1280x1280",
-    "keyword": null
   }
 ]
