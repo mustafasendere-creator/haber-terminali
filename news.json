@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ddc6448c",
+    "title": "Petrol yeniden 100 doların altında",
+    "source": "Haber Global",
+    "time": "14/04/2026 11:02",
+    "link": "https://haberglobal.com/ekonomi/petrol-yeniden-100-dolarin-altinda-518625",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Brent petrolün varili uluslararası vadeli piyasalarda 98,41 dolardan işlem görüyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/petrol-yeniden-100-dolarin-altinda-zcsx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fe4b6073",
     "title": "Tavuk eti üretimi şubatta yıllık bazda arttı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD’de milyoner sayısı hızla artarken, enflasyon ve yaşam maliyetlerindeki yükseliş alım gücünü eritti. Bu durumda da birçok milyoner kendini hâlâ orta sınıf olarak görüyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/07/ilk-siradaki-servet-dudak-ucuklatiyor-dunyanin-en-zengin-10-kadini-ujtw_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ed117092",
-    "title": "Usain Bolt'un rekorunu kırdı!",
-    "source": "Habertürk",
-    "time": "14/04/2026 10:25",
-    "link": "https://www.haberturk.com/gout-gout-usain-bolt-un-rekorunu-kirdi-3877133-spor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avustralyalı atlet Gout Gout, 20 yaş altı dünya rekorunun yeni sahibi oldu.",
-    "image": "https://im.haberturk.com/l/2026/04/14/ver1776115828/3877133/jpg/1280x1280",
     "keyword": null
   }
 ]
