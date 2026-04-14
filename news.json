@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cfbf633d",
+    "title": "Geçen yıla göre 40 bin artış var: 3 ayda 495 bin kişi işten çıkarıldı!",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 05:55",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/gecen-yila-gore-40-bin-artis-var-3-ayda-495-bin-kisi-isten-cikarildi-2494944",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bu yılın ilk 3 ayında en az 495 bin kişi işten çıkarıldı. Aynı dönemde işsizlik ödeneği bağlananların sayısı 227 bin kişide kaldı. Başvuran her 100 kişiden sadece 46 kişi işsizlik ödeneği almaya hak kazandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b728811d-1ae0-4ecf-8ae1-abaa9288f475.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_12fab882",
     "title": "Bursa'da asansör boşluğuna düşen genç ağır yaralandı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Burdur Mehmet Akif Ersoy Üniversitesi (MAKÜ) bünyesinde; hayvan deri hastalıkları, ayak hastalıklarına ve beslenmeyi engellediği için kayıplara yol açabilen ağız içi yaralara çözüm üreten üç ilaç geliştirildi, markalaştırıldı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/makude-tamami-ithal-edilen-uc-ilac-uretildi-m3zg_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6e7939fa",
-    "title": "Çorap; ihracatını artırdı dünya ikinciliğini korudu",
-    "source": "Ekonomim",
-    "time": "14/04/2026 01:55",
-    "link": "https://www.ekonomim.com/ekonomi/corap-ihracatini-artirdi-dunya-ikinciligini-korudu-haberi-887882",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye’nin çorap ihracatı 2025 yılında 1 milyar 156 milyon dolar olarak gerçekleşirken, toplam hazır giyim ve konfeksiyon ihracatı içindeki payı yüzde 6,2’ye yükseldi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/corap-ihracatini-artirdi-dunya-ikinciligini-korudu-alp9_cover.jpg",
     "keyword": null
   }
 ]
