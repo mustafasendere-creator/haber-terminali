@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c036de66",
+    "title": "Neredeyse Como Gölü gibi: Alman mühendisler Avrupa'nın en büyük göl manzarasını inşa ediyor",
+    "source": "Euronews",
+    "time": "14/04/2026 15:46",
+    "link": "http://tr.euronews.com/2026/04/14/neredeyse-como-golu-gibi-alman-muhendisler-avrupanin-en-buyuk-gol-manzarasini-insa-ediyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya'nın doğusunda Brandenburg ve Saksonya eyaletleri arasında kullanılmayan açık linyit madenlerinden Avrupa ölçeğinde yapay bir göl manzarası yaratılıyor. Mega proje yaz aylarında bir sonraki belirleyici dönüm noktasına ulaşacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_23060104",
     "title": "Trabzon'da Nisan ayında kar sürprizi! Zigana beyaza büründü",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, iklim değişikliğinin doğrudan bir 'ekolojik beka meselesi' olduğunu belirterek, Türkiyenin ev sahipliği yapacağı COP31de iklim finansmanının adaletli dağıtımı için dürüst bir aracı ve adaletli bir hakem olacağını vurguladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a3fc5eb1",
-    "title": "Avrupa'da vatandaşlar Gazze dosyasını bir milyonu aşan imzayla yeniden gündeme taşıdı",
-    "source": "TRT Haber",
-    "time": "14/04/2026 15:06",
-    "link": "https://www.trthaber.com/haber/dunya/avrupada-vatandaslar-gazze-dosyasini-bir-milyonu-asan-imzayla-yeniden-gundeme-tasidi-941614.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa'da sol eğilimli partilerin öncülüğünde başlatılan ve Avrupa Birliği AB ile İsrail arasındaki Ortaklık Anlaşması'nın tamamen askıya alınmasını yeniden Brüksel'in gündemine taşımayı hedefleyen kampanya 1 milyon imzaya ulaştı.",
     "image": null,
     "keyword": null
   }
