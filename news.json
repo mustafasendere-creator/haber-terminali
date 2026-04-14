@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4f67ec83",
+    "title": "Niğde'de üzerine beton pompası düşen işçi öldü",
+    "source": "BirGün",
+    "time": "14/04/2026 20:04",
+    "link": "https://www.birgun.net/haber/nigde-de-uzerine-beton-pompasi-dusen-isci-oldu-705822",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Niğde Ata Sanayi Sitesi'nde bir inşaatta çalışan Cavit K'nin üzerine beton pompası düştü. Yaralanan Cavit K. kaldırıldığı Niğde Ömer Halisdemir Üniversitesi Eğitim ve Araştırma Hastanesi'nde hayatını kaybetti.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/nigde-de-uzerine-beton-pompasi-dusen-isci-oldu.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4e44473a",
     "title": "DİSK, 1 Mayıs afiş ve bildirisini yayımladı: \"İşçiler birleşir, bu düzen değişir\"",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ünlülere yönelik yürütülen “yasaklı madde” soruşturması kapsamında hakkında gözaltı kararı olan şarkıcı Cem Adrian ifade verdi. Savcılıktaki ifade işlemleri tamamlanan Adrian, adli kontrol şartıyla serbest bırakıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342651.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_f07c48cd",
-    "title": "Sibel Suiçmez, Akçaabat Doğanköy esnafına sahip çıktı “Esnafı sokağa atarak belediyecilik olmaz”",
-    "source": "Kuzey Ekspres",
-    "time": "14/04/2026 19:05",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27811755/sibel-suicmez-akcaabat-dogankoy-esnafina-sahip-cikti-esnafi-sokaga-atarak-belediyecilik-olmaz",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "CHP’li Sibel Suiçmez, Doğanköy’de yol çalışması nedeniyle mağdur edilen esnafa sahip çıkarak alternatif sunulmadan yapılan uygulamalara tepki gösterdi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/sibel-suicmez-akcaabat-dogankoy-esnafina-sahip-cikti.jpg",
     "keyword": null
   }
 ]
