@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5750d80f",
+    "title": "IMF, küresel ekonomik büyüme tahminini düşürdü",
+    "source": "TRT Haber",
+    "time": "14/04/2026 17:07",
+    "link": "https://www.trthaber.com/haber/ekonomi/imf-kuresel-ekonomik-buyume-tahminini-dusurdu-941640.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Para Fonu IMF, Orta Doğu'daki çatışmanın yol açtığı aksaklıkların etkisiyle küresel ekonomik büyüme tahminini bu yıl için yüzde 3,3'ten yüzde 3,1'e düşürdü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_ea27800a",
     "title": "Mustafa Bak: Bu Tablonun Hesabını Verin",
     "source": "Karadeniz Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Almanya Başbakanı Friedrich Merz ve Ukrayna Devlet Başkanı Volodimir Zelenski başkanlığında Berlin’de düzenlenen hükümetler arası istişarelerde, askeri destek ve ekonomik işbirliğini kapsayan kapsamlı bir yol haritası belirlendi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/14/almanya-ve-ukrayna-arasinda-stratejik-ortaklik-anlasmasi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e997b8e8",
-    "title": "Bitcoin'de sert yükseliş",
-    "source": "BirGün",
-    "time": "14/04/2026 16:44",
-    "link": "https://www.birgun.net/haber/bitcoin-de-sert-yukselis-705808",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bitcoin, son 24 saatte yüzde 5’ten fazla yükselerek yaklaşık 74.600 dolar seviyesine çıktı ve Mart ortasından bu yana en yüksek seviyeye ulaştı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/14/bitcoin-de-sert-yukselis.jpg",
     "keyword": null
   }
 ]
