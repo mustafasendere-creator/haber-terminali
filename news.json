@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b1159035",
+    "title": "İspanya Başbakanı'nın eşine 'yolsuzluk' suçlaması",
+    "source": "BBC Türkçe",
+    "time": "14/04/2026 03:54",
+    "link": "https://www.bbc.com/turkce/articles/ckgw87ewd38o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İki yıldır süren soruşturmada mahkeme, Gomez'in başbakanın eşi olma konumunu ve kamu kaynaklarımı kişisel çıkarları için kullandığına dair yeterli bulgu olduğu sonucuna ulaştı. Gomez iddiaları reddediyor, Başbakan Sanchez de \"sağ kanadın hükümeti zayıflatmaya yönelik girişimi\" olarak niteliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_00254c3f",
     "title": "İran: ABD-İsrail saldırılarından kaynaklanan savaş tazminatı yaklaşık 270 milyar dolar",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adalet Bakanı Akın Gürlek, \"Devletimiz, suç örgütlerinin yeniden yapılanma girişimlerine asla müsaade etmeyecek, adli ve kolluk birimlerimizin koordinasyonuyla bu yapılar tamamen çökertilene kadar mücadelemizi aralıksız sürdürecektir\" dedi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/bakan-gurlek-devletimiz-suc-orgutleri-tamamen-cokertilene-kadar-mucadelemizi-araliksiz-surdurecektir-lsrw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f26f3414",
-    "title": "AB Yüksek Temsilcisi Kallas, Hürmüz'ün güvenliği için güçlü koalisyon ihtiyacını vurguladı",
-    "source": "TRT Haber",
-    "time": "14/04/2026 01:14",
-    "link": "https://www.trthaber.com/haber/dunya/ab-yuksek-temsilcisi-kallas-hurmuzun-guvenligi-icin-guclu-koalisyon-ihtiyacini-vurguladi-941537.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği AB Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Hürmüz Boğazı'ndaki gerilimin deniz güvenliği konusunda \"güçlü bir uluslararası koalisyona\" duyulan ihtiyacı vurguladığını belirtti.",
-    "image": null,
     "keyword": null
   }
 ]
