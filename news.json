@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d0ea9d85",
+    "title": "Lübnan’dan dünyaya çağrı: Acil yardım gerekli",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 17:45",
+    "link": "https://www.cumhuriyet.com.tr/dunya/lubnan-dan-dunyaya-cagri-acil-yardim-gerekli-2495191",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lübnan Cumhurbaşkanı Joseph Avn, İsrail saldırılarının ülke genelinde büyük bir insani felakete yol açtığını belirterek, bir milyondan fazla kişinin yerinden edildiğini ve ülkenin acil yardıma ihtiyaç duyduğunu vurguladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8b58aed4-a654-407d-9b92-a3c49ef82514.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7e6711ed",
     "title": "Cumhurbaşkanı Erdoğan, Türk Demokrasi Vakfı heyetini kabul etti",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Meclisi’nde görüşülen 2025 Yılı Faaliyet Raporu, sıradan bir yönetim zafiyetinin değil, bilinçli tercihlerle derinleştirilmiş bir mali çöküşün açık belgesidir.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_888d6a79",
-    "title": "Çin, ABD'nin Hürmüz Boğazı'nı ablukasını tehlikeli ve sorumsuz bir eylem olarak görüyor",
-    "source": "TRT Haber",
-    "time": "14/04/2026 17:07",
-    "link": "https://www.trthaber.com/haber/dunya/cin-abdnin-hurmuz-bogazini-ablukasini-tehlikeli-ve-sorumsuz-bir-eylem-olarak-goruyor-941641.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin, ABD'nin İsrail ile İran'a karşı yürüttüğü savaşta Hürmüz Boğazı'nı ablukaya alma girişimini \"tehlikeli ve sorumsuz bir eylem\" olarak gördüğünü bildirdi.",
-    "image": null,
-    "keyword": null
   }
 ]
