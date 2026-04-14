@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6baa2a26",
+    "title": "Erzurumspor’un Amedspor paylaşımı tepki çekti: “Teker patladı”",
+    "source": "Evrensel",
+    "time": "14/04/2026 16:06",
+    "link": "https://www.evrensel.net/haber/5979608/erzurumsporun-amedspor-paylasimi-tepki-cekti-teker-patladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TFF 1. Lig’de Amedspor’un sahadan beraberlikle ayrıldığı maçın ardından Erzurumspor’un sosyal medya paylaşımı tepki topladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342987.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_89a1a0c9",
     "title": "2 bebeğin öldüğü olayın sorumlusu bulunamadı: Kovuşturmaya yer olmadığı kararı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Bursa’da emek ve meslek örgütleri, konut elektrik tarifesine yapılan yüzde 25’lik zamma tepki gösterdi: “Elektrik değil faturası çarpıyor.”",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342984.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_cafb3761",
-    "title": "Trabzon’da hayvancılık atağı: Jersey projesi sonuç veriyor",
-    "source": "Haber61",
-    "time": "14/04/2026 15:46",
-    "link": "https://www.haber61.net/trabzon/trabzonda-hayvancilik-atagi-jersey-projesi-sonuc-veriyor-h629572.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Tarım ve Orman Bakanlığı’nın destekleriyle Of’ta başlatılan Jersey projesinde ikinci nesil buzağılar dünyaya gelmeye başladı.",
-    "image": "https://resim.haber61.net/news/612671.jpg",
-    "keyword": "trabzon"
   }
 ]
