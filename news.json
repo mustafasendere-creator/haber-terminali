@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3efa930e",
+    "title": "Yazarımız Emre Kongar’a sosyal medya üzerinden tehdit",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 15:48",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/yazarimiz-emre-kongar-a-sosyal-medya-uzerinden-tehdit-2495129",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhuriyet Gazetesi Vakfı Başkan Vekili ve yazarımız Prof. Dr. Emre Kongar, sosyal medya platformu X üzerinden anonim bir hesap tarafından hedef alınarak tehdit edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/807585f3-72fa-4194-a1c7-96f4f8c417d3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_378e813a",
     "title": "Günlük Burç Yorumları: 15 Nisan Çarşamba Balık Burcu Yorumu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mütevazî bir ülke olan Yeşil Burun Adaları, dikkat çekici yeni formalarıyla Dünya Kupası’ndaki ilk maçına çıkmaya hazırlanıyor",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/yesil-burun-adalari-dunya-kupasi-formalarini-tanitti-rb26.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_354caa9f",
-    "title": "İşgalci İsrail'in Gazze'de polis aracını hedef aldığı saldırıda biri çocuk 4 kişi hayatını kaybetti",
-    "source": "TRT Haber",
-    "time": "14/04/2026 15:25",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-gazzede-polis-aracini-hedef-aldigi-saldirida-biri-cocuk-4-kisi-hayatini-kaybetti-941623.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Gazze kentinin doğusunda bir polis aracını hedef aldığı saldırıda, biri çocuk 4 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
