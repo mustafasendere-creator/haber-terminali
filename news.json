@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_274eca8a",
+    "title": "Sinop'ta iki motosiklet çarpıştı: 2 yaralı",
+    "source": "Gazete Duvar",
+    "time": "14/04/2026 09:43",
+    "link": "https://www.gazeteduvar.com.tr/sinopta-iki-motosiklet-carpisti-2-yarali-haber-1765817",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sinop&#039;ta iki motosikletin çarpışması sonucu meydana gelen trafik kazasında 2 kişi yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/14/f5haber-etqy_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_27b17f11",
     "title": "Kayseri’de otomobille panelvan araç çarpıştı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor’dan geçtiğimiz sezona 25 puanlık fark attı.",
     "image": "https://resim.haber61.net/news/612592.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_80148357",
-    "title": "Köprübaşı’nda heyelan! İki mahalleye ulaşım kesildi",
-    "source": "Haber61",
-    "time": "14/04/2026 09:00",
-    "link": "https://www.haber61.net/trabzon/koprubasinda-heyelan-iki-mahalleye-ulasim-kesildi-h629529.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Köprübaşı ilçesinde meydana gelen heyelan, Büyükdoğanlı ile Küçükdoğanlı mahalleleri arasındaki yolu ulaşıma kapattı.",
-    "image": "https://resim.haber61.net/news/612594.jpg",
     "keyword": "trabzon"
   }
 ]
