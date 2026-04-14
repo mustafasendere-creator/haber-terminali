@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4d11cc37",
+    "title": "Taksim metro istasyonundaki asansörde çıkan yangın söndürüldü",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 22:44",
+    "link": "https://www.aa.com.tr/tr/gundem/taksim-metro-istasyonundaki-asansorde-cikan-yangin-sonduruldu/3905725",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyoğlu Taksim Meydanı'ndaki metro istasyonunda bulunan asansörde çıkan yangın söndürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_4b64c219",
     "title": "Trabzonspor PFDK’ya sevk edildi",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gençlerbirliği Basın Sözcüsü Ertuğrul Beray Ardıç, eski asbaşkan İsmail Geliç'in Galatasaray maçı öncesi yaptığı açıklamalar için, \"Motivasyonumuzu düşürmek için yapılan dedikodular\" dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343030.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_352525ce",
-    "title": "Dersim Kadın Platformu'ndan Gülistan Doku açıklaması: Gözaltılar önemli, ancak eksik",
-    "source": "Evrensel",
-    "time": "14/04/2026 21:44",
-    "link": "https://www.evrensel.net/haber/5979657/dersim-kadin-platformundan-gulistan-doku-aciklamasi-gozaltilar-onemli-ancak-eksik",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gülistan Doku’nun kaybolmasına ilişkin yürütülen soruşturmada yaşanan gelişmelerin ardından Dersim Kadın Platformu tarafından yürüyüş ve açıklama yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343031.jpg",
     "keyword": null
   }
 ]
