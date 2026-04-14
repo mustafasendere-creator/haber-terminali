@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8ba95720",
+    "title": "Galatasaray ateşle oynuyor",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 05:55",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/arif-kizilyalin/galatasaray-atesle-oynuyor-2494968",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Liverpool maçına kadar her şey yolunda gitti Galatasaray’da.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar11_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_409e8890",
     "title": "Cumhuriyet, tarihe saygısızlığın belgesini ortaya çıkarmıştı: Kurul üstünü örtmüş",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Diyanet İşleri Başkanlığının, Diyanet Akademisine aday din görevlisi olarak 3 bin 209 sözleşmeli imam hatip ve Kur'an kursu öğreticisi alımına ilişkin ilanı Resmi Gazete'de yayımlandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ace5f915",
-    "title": "İsrail askerleri, Batı Şeria'da 1 Filistinliyi yaraladı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 02:14",
-    "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-1-filistinliyi-yaraladi/3904545",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın farklı noktalarına düzenlediği baskınlarda 1 Filistinliyi yaraladığı, 3 kişiyi de gözaltına aldığı belirtildi.",
     "image": null,
     "keyword": null
   }
