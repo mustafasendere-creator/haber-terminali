@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b405f30d",
+    "title": "Bahçeli: Ara seçim yok, seçim zamanındadır",
+    "source": "10Haber",
+    "time": "14/04/2026 19:45",
+    "link": "https://10haber.net/siyaset/bahceli-ara-secim-yok-secim-zamanindadir-695079/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Partisinin grup toplantısında konuşan MHP lideri Bahçeli, bölgesel ve gündeme ilişkin açıklamalarda bulundu. Konuşmasının büyük bölümünde &#8220;tarım ve polislerin çalışma şartları&#8221;na yönelik başlıklara değinen MHP lideri, ara seçim tartışmalarına ilişkin de &#8220;seçim zamanında yapılacak&#8221; mesajı verdi. Bahçeli, partisinin grup toplantısında açıklamalarda bulundu.&#160;Konuşmasına ABD-İran arasında ilan edilen geçici ateşkese değinerek başlayan Bahçeli krizin henüz bitmediğini vurguladı. [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69de0dbd2171d9.80195514.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_951dc587",
     "title": "Samsun Eğitim ve Araştırma Hastanesinin Şehir Hastanesi'ne taşınması haziranda tamamlanacak",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’da Wagner Pina’nın piyasa değeri 5 milyon eurodan 8 milyon euroya çıktı, 27 maçta 6 asistle öne çıktı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/wagner-pina-trabzonsporda-1.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_32eefd19",
-    "title": "TBMM Başkanı Kurtulmuş, PAB Genel Kurulu kapsamında ikili görüşmeler yaptı",
-    "source": "TRT Haber",
-    "time": "14/04/2026 18:46",
-    "link": "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-pab-genel-kurulu-kapsaminda-ikili-gorusmeler-yapti-941654.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Büyük Millet Meclisi Başkanı TBMM Numan Kurtulmuş, Parlamentolar Arası Birlik PAB 152'nci Genel Kurulu için Türkiye'ye resmi ziyaret gerçekleştiren mevkidaşlarıyla ikili görüşmeler gerçekleştirdi.",
-    "image": null,
-    "keyword": null
   }
 ]
