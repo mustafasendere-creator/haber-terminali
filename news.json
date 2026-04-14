@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_55053478",
+    "title": "Beşiktaş’ta Wilfred Ndidi belirsizliği",
+    "source": "BirGün",
+    "time": "14/04/2026 14:04",
+    "link": "https://www.birgun.net/haber/besiktasta-wilfred-ndidi-belirsizligi-705783",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe derbisinde sakatlanan Ndidi’nin durumu netleşmedi. Siyah-beyazlılarda Samsunspor maçı öncesi kadro tercihleri şekilleniyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/besiktasta-wilfred-ndidi-belirsizligi.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_74c456ec",
     "title": "Trabzonsporlu Oulai, İngiliz basının manşetlerini süslemeye devam ediyor...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İtalya Başbakanı Meloni, İsrail ile olan savunma anlaşmalarının otomatik yenilenme işlemini askıya aldıklarını duyurdu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_4eaa243c",
-    "title": "Fırtına küllerinden doğdu! Trabzonspor'un inanılmaz değişimi...",
-    "source": "Kuzey Ekspres",
-    "time": "14/04/2026 13:26",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27809156/firtina-kullerinden-dogdu-trabzonsporun-inanilmaz-degisimi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Geçtiğimiz sezonu 7. sırada tamamlayan Trabzonspor, Fatih Tekke yönetiminde ligin kaderini değiştirdi. Geçen yılın aynı dönemine göre 25 puan daha fazla toplayan bordo mavililer, dev bütçeli rakiplerine düşük maliyetli kadrosuyla meydan okuyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/02/17/large/trabzonspor-2026.jpg",
     "keyword": null
   }
 ]
