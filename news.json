@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dcefddb6",
+    "title": "Gaziantep leblebili kıtır helva tescillendi",
+    "source": "TRT Haber",
+    "time": "14/04/2026 17:45",
+    "link": "https://www.trthaber.com/haber/kultur-sanat/gaziantep-leblebili-kitir-helva-tescillendi-941652.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep'e özgü \"leblebili kıtır helva\" coğrafi işaret belgesiyle tescillendi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f33779cc",
     "title": "Keytruda'nın kara yüzü: Sahtecilik ve bavul ticareti",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ile İran'ın, ikinci tur müzakereler için yeniden Pakistan arabuluculuğunda masaya oturacağı beklentisi artarken, petrol fiyatları da geriledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_dfceb15d",
-    "title": "Danimarka ve Amerika'dan getirildiler, Of'a kısa sürede uyum sağladılar",
-    "source": "Karadeniz Gazetesi",
-    "time": "14/04/2026 17:07",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/danimarka-ve-amerikadan-getirildiler-ofa-kisa-surede-uyum-sagladilar/608979",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Amerika ve Danimarka menşeli, süt verimi ve kalitesi yüksek Jersey ırkı ile Of'ta hayvancılık gelişiyor",
     "image": null,
     "keyword": null
   }
