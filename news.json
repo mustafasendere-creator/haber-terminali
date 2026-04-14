@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_34429bfe",
+    "title": "FETÖ hükümlüsü Uşak’ta yakalandı",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 23:05",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/feto-hukumlusu-usak-ta-yakalandi-2495233",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uşak’ta hakkında kesinleşmiş hapis cezası bulunan şahıs, emniyet ekiplerince yakalanarak cezaevine gönderildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7e1331ad-9553-4849-be6a-c5f09e528086.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_40ea6c67",
     "title": "İsrail ile Lübnan ABD'de 'doğrudan müzakerelere başlama' kararı aldı: Lübnan'dan 'toprak bütünlüğü' vurgusu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TFF 2. Lig'e düşmesi kesinleşen Sakaryaspor'da teknik direktör Mustafa Dalcı ile yollar ayrıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/9f89608f-d285-4c36-8ae1-a8348f275a23.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_604574a9",
-    "title": "Hürmüz için kritik zirve Türkiye’de: 4 ülke Antalya’da masaya oturuyor",
-    "source": "Haber Global",
-    "time": "14/04/2026 22:06",
-    "link": "https://haberglobal.com/gundem/hurmuz-icin-kritik-zirve-turkiyede-4-ulke-antalyada-masaya-oturuyor-518773",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD basınına göre Suudi Arabistan, Mısır ve Pakistan dışişleri bakanları Antalya’da Türkiye ile bir araya gelecek. Zirvede Hürmüz Boğazı ve ateşkes önerileri ele alınacak.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/hurmuz-icin-kritik-zirve-turkiyede-4-ulke-antalyada-masaya-oturuyor-htp8.jpg",
     "keyword": null
   }
 ]
