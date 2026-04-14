@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_17655dcc",
+    "title": "Lufthansa'da kriz büyüyor: Yüzlerce uçuş iptal edildi",
+    "source": "BirGün",
+    "time": "14/04/2026 13:05",
+    "link": "https://www.birgun.net/haber/lufthansa-da-kriz-buyuyor-yuzlerce-ucus-iptal-edildi-705748",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pilotların ardından kabin personelinin de 48 saatlik grev kararı almasıyla,  Alman hava yolu şirketi Lufthansa’nın ana merkezleri Frankfurt ve Münih’te yüzlerce uçuş iptal edildi",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/lufthansa-da-kriz-buyuyor-yuzlerce-ucus-iptal-edildi.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_c51a8cd4",
     "title": "Trabzonspor'da yükseliş dönemi",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail, 14 Nisan 2026 Salı günü ülkeyi durma noktasına getiren iki dakikalık ulusal saygı duruşuyla Holokost Anma Günü'nü kutladı; Yad Vaşem'deki törenler, dünyada artan antisemitizm endişeleri gölgesinde yapıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_94c14074",
-    "title": "Gülistan Doku dosyası: Dönemin Tunceli Valisi'nin oğlu dahil 13 kişi gözaltında",
-    "source": "Euronews",
-    "time": "14/04/2026 12:45",
-    "link": "http://tr.euronews.com/2026/04/14/gulistan-doku-dosyasi-donemin-tunceli-valisinin-oglu-dahil-13-kisi-gozaltinda",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli'de 2020'den bu yana kayıp olan üniversite öğrencisi Gülistan Doku dosyasında soruşturmanın seyri değişti. Savcılık, yeni bulgular ve JASAT çalışmasının ardından dosyayı cinayet şüphesi ekseninde genişletti, yedi ilde 13 şüpheli hakkında gözaltı kararı verildi.",
     "image": null,
     "keyword": null
   }
