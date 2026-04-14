@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2e1890e4",
+    "title": "Şanlıurfa'da okula silahlı saldırı: 16 yaralı",
+    "source": "TRT Haber",
+    "time": "14/04/2026 12:46",
+    "link": "https://www.trthaber.com/haber/gundem/sanliurfada-okula-silahli-saldiri-16-yarali-941585.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siverek'te bir okulda meydana gelen silahlı saldırıda aralarında öğrenci, öğretmen ve bir polis memurunun da bulunduğu 16 kişi yaralandı. Şanlıurfa Valisi Hasan Şıldak, saldırıyı gerçekleştiren eski öğrencinin yakalanacağını anlayınca intihar ettiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2121e0c4",
     "title": "Hürmüz için seçenekler neler?",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Müge Anlı’nın programına katılan üniversite mezunu Rümeysa Eda Dağlar’ın, Türkiye’deki işsizlik ve liyakat sorununa dikkat çeken \"Torpilim mi var?\" sözleri sansürlendi. ATV yönetimi, genç kadının \"Durum içler acısı\" diyerek dile getirdiği gerçekleri internet yayınından makaslayarak çıkardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/fe56a255-1ae2-4551-bc72-00e3df03d4a8.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_01090d46",
-    "title": "İstanbul'da 'hava kirliliği' oranı belli oldu",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 12:06",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-hava-kirliligi-orani-belli-oldu-2495069",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da mart ayındaki partikül madde konsantrasyonu ortalaması 24 istasyonda metreküp başına 30,6 mikrogram, Mart 2025'te ise 40,3 mikrogram ölçüldü. Böylece, partiküler madde kaynaklı hava kirliliği, önceki yıla göre yüzde 24 azalmış oldu. İşte ayrıntılar...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/84170357-41ce-406e-9dd9-cc5ca7be1cd3.jpg",
     "keyword": null
   }
 ]
