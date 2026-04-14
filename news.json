@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba28b14e",
+    "title": "Polonyalı milletvekili Berkowicz, parlamentoda Nazi sembollü İsrail bayrağı açtı",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 21:44",
+    "link": "https://www.aa.com.tr/tr/dunya/polonyali-milletvekili-berkowicz-parlamentoda-nazi-sembollu-israil-bayragi-acti/3905680",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Polonyalı milletvekili Konrad Berkowicz, parlamentoda yaptığı konuşma sırasında Nazilerin kullandığı gamalı haç sembolü içeren İsrail bayrağı açarak, \"İsrail, gözlerimizin önünde büyük bir acımasızlıkla soykırım yapıyor.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8477e9cb",
     "title": "Hatay'da yapımı tamamlanan 28 köy evi depremzedelere teslim edildi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Gümüş fiyatları 80 dolar hedefine koşarken yönünü aşağı çevirdi. Çin’in rekor gümüş talebi ve güneş paneli üreticilerinin ilgisine rağmen piyasada volatilite artıyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/g-m-u-m-u-s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0445ef6f",
-    "title": "Bursa'da barajlar tamamen doldu: Su tahliye kapakları açıldı",
-    "source": "BirGün",
-    "time": "14/04/2026 20:44",
-    "link": "https://www.birgun.net/haber/bursa-da-barajlar-tamamen-doldu-su-tahliye-kapaklari-acildi-705821",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'da kurak geçen ekim, kasım ve aralık aylarında kritik uyarı düzeyindeki su seviyesi son aylardaki yağışlarla yüzde 100'e yaklaşırken, Doğancılar Barajı'nın su tahliye kapaklarının açıldığı görüldü.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/14/bursa-da-barajlar-tamamen-doldu-su-tahliye-kapaklari-acildi.jpg",
     "keyword": null
   }
 ]
