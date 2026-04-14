@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e582a60a",
+    "title": "Altının kilogram fiyatında artış",
+    "source": "BirGün",
+    "time": "14/04/2026 17:05",
+    "link": "https://www.birgun.net/haber/altinin-kilogram-fiyatinda-artis-705832",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Standart altının kilogram fiyatı yüzde 0,9 artışla 6 milyon 860 bin liraya yükseldi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/altinin-kilogram-fiyatinda-artis.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_4e230c48",
     "title": "Trabzonspor gazetecileri unutmadı!",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dünya müziği geleneğinin usta isimlerinden birisi olarak gösterilen Sami Yusuf, İstanbul ve Ankara'da konser verecek.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3284e380",
-    "title": "İstanbul'da bir teknede 200 kilogram uyuşturucu ele geçirildi",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 16:24",
-    "link": "https://www.aa.com.tr/tr/gundem/istanbulda-bir-teknede-200-kilogram-uyusturucu-ele-gecirildi/3905228",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, İstanbul açıklarında Karadeniz'de bir teknede 200 kilogram uyuşturucu ele geçirildiğini bildirdi.",
     "image": null,
     "keyword": null
   }
