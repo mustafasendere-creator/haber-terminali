@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ee09db98",
+    "title": "İstanbul’un havası en kirli ilçeleri belli oldu: Zirvede Sultangazi var",
+    "source": "Evrensel",
+    "time": "14/04/2026 13:25",
+    "link": "https://www.evrensel.net/haber/5979575/istanbulun-havasi-en-kirli-ilceleri-belli-oldu-zirvede-sultangazi-var",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İTÜ araştırmasına göre Mart 2026’da İstanbul’da hava kirliliği bazı ilçelerde yüksek seviyesini korudu. En kirli bölgeler Sultangazi ve Kağıthane olurken, en temiz bölgeler arasında Büyükada da yer aldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342952.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_92424fc6",
     "title": "Bayburt'ta hacı adayları seminerde bilgilendirildi",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "SOC",
     "prefix": "🤖",
     "summary": "Türkiyeden haberler, son dakika haberleri.   [link]",
-    "image": null,
-    "keyword": "trabzon son dakika"
-  },
-  {
-    "id": "SOC_6a6e0ce5",
-    "title": "Haberler Son Dakika",
-    "source": "Reddit",
-    "time": "14/04/2026 12:50",
-    "link": "https://www.reddit.com/r/bizimhaber/",
-    "type": "SOC",
-    "prefix": "🤖",
-    "summary": "haber bilgi blogu olarak doğru ve tarafsız ilkeli habercilik yapıyoruz.   [link]",
     "image": null,
     "keyword": "trabzon son dakika"
   }
