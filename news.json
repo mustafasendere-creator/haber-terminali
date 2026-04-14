@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6f0615b4",
+    "title": "İsrail askerleri Batı Şeria'daki kontrol noktasında 70 Filistinli işçiyi gözaltına aldı",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 15:44",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriadaki-kontrol-noktasinda-70-filistinli-isciyi-gozaltina-aldi/3905162",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail askerleri, işlerine gitmek üzere işgal altındaki Batı Şeria'nın Kalkilya kenti yakınlarında bulunan bir askeri kontrol noktasından geçmek isteyen 70 Filistinli işçiyi gözaltına aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_993f485d",
     "title": "ABD'de ÜFE yıllık bazda yüzde 4 artarak beklentilerin altında gerçekleşti",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Aldığı emekli aylığını taşıyan emekliler için maaş promosyonu ve faizsiz kredi rakamları güncellendi. Ekonomi gazetecisi Faruk Erdem bazı bankaların faizsiz krediyle birlikte 100 bin TL'lik fayda sunduğunu açıkladı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/14/emeklilere-maas-promosyonu-rakam-3-haneyi-gordu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5e65b710",
-    "title": "BBC araştırması: Yunan polisi, göçmenleri Türkiye'ye göndermek için yine göçmenleri kullanıyor",
-    "source": "BBC Türkçe",
-    "time": "14/04/2026 15:05",
-    "link": "https://www.bbc.com/turkce/articles/cgqkk15kzjvo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BBC'nin elde ettiği çok sayıda kanıt, Yunanistan polisinin, yine göçmenleri kullanarak, ülkede yakalanan göçmenleri zorla ve şiddetle Türkiye'ye geri dönmeye zorladığını ortaya koydu. Yunanistan Başbakanı Kiryakos Miçotakis, BBC'ye yaptığı açıklamada bu iddialardan \"tamamen habersiz\" olduğunu savundu.",
-    "image": null,
     "keyword": null
   }
 ]
