@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4bbc5c64",
+    "title": "İtalya, İsrail ile savunma anlaşmasını askıya aldı",
+    "source": "BBC Türkçe",
+    "time": "14/04/2026 15:05",
+    "link": "https://www.bbc.com/turkce/articles/c62kk5m654lo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İtalya Başbakanı Giorgia Meloni, İsrail ile savunma anlaşmasını askıya aldıklarını açıkladı. 13 Nisan 2016'da yürürlüğe giren İtalya-İsrail mutabakat zaptının, iptal edilmediği sürece her 5 yılda bir otomatik yenilenmesi öngörülüyordu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_d16cd1d8",
     "title": "Sağlık Bilimleri Fakültesi’nde Akademik Başarılar Ödüllendirildi",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, havacılık personeli için çevrim içi sınav merkezi sayısını 6 şehirde 12 merkeze çıkardıklarını belirtti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9e8a44fb",
-    "title": "Rekabet Kurumu, dijital pazarların yapısını ve işleyişini analiz edecek",
-    "source": "TRT Haber",
-    "time": "14/04/2026 14:26",
-    "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurumu-dijital-pazarlarin-yapisini-ve-isleyisini-analiz-edecek-941617.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rekabet Kurumu, dijital pazarların mevcut yapısını ve işleyişini kapsamlı şekilde analiz ederek \"Dijital Çağda Rekabet Politikaları Raporu\" başlıklı bir rapor hazırlayacak.",
     "image": null,
     "keyword": null
   }
