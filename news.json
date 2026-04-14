@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_65790107",
+    "title": "İsrailli elçi Lübnan ile görüşmelerin 'harika' geçtiğini belirtti",
+    "source": "Euronews",
+    "time": "14/04/2026 23:04",
+    "link": "http://tr.euronews.com/2026/04/14/israilli-elci-lubnan-ile-gorusmelerin-harika-gectigini-belirtti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in hava saldırıları düzenlediği Lübnan, İran'ın dini lideri Ayetullah Ali Hamaney'in öldürülmesine misilleme olarak Hizbullah'ın 2 Mart'ta İsrail'e saldırmasının ardından savaşın içine daha da çekildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_05458d29",
     "title": "ABD’nin ablukası sürüyor: İran bağlantılı 4 gemi Hürmüz'den geçti",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Taksim Metro İstasyonu'nda bulunan asansörde yangın çıktı. Yangın sebebiyle Cumhuriyet Tüneli metro çıkışı, ekipler tarafından kapatıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343033.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f2f60921",
-    "title": "IMF, Euro Bölgesi büyüme tahminini İran savaşı nedeniyle %1,4'ten %1,1'e düşürdü",
-    "source": "Euronews",
-    "time": "14/04/2026 22:05",
-    "link": "http://tr.euronews.com/business/2026/04/14/imf-euro-bolgesi-buyume-tahminini-iran-savasi-nedeniyle-14ten-11e-dusurdu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "IMF, enflasyondaki artış ve ivme kaybı nedeniyle Avro Bölgesi için 2026 büyüme tahminini yüzde 1,4’ten 1,1’e düşürdü; bölgeye dair görünüm zayıflıyor.",
-    "image": null,
     "keyword": null
   }
 ]
