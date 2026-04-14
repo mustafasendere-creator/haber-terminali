@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_111f0d25",
+    "title": "A Simplistic Online RPG",
+    "source": "Reddit",
+    "time": "14/04/2026 12:45",
+    "link": "https://www.reddit.com/r/Agos/",
+    "type": "SOC",
+    "prefix": "🤖",
+    "summary": "This is the Official subreddit for the game Agos.   [link]",
+    "image": "https://a.thumbs.redditmedia.com/GGMmr-k74Nwf3LDPsfObEluWVU0uVNCAMxL15cgUNN4.png",
+    "keyword": "agos"
+  },
+  {
     "id": "GND_c9040bed",
     "title": "AP gün verdi: Washington ve Tahran yeniden masaya oturuyor",
     "source": "10Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Maltepe'de trafikte tartışarak birbirlerine bıçak çeken 2 sürücüye 542 bin lira ceza kesildi, araçlar 60 gün trafikten men edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c0e4ac68",
-    "title": "İsrail-Almanya arasında Batı Şeria ve Lübnan gerginliği",
-    "source": "DW Türkçe",
-    "time": "14/04/2026 12:05",
-    "link": "https://www.dw.com/tr/israil-almanya-arasında-batı-şeria-ve-lübnan-gerginliği/a-76770388",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya Başbakanı Merz, İsrail Başbakanı Netanyahu'yu Batı Şeria ve Lübnan konusunda uyardı. İsrailli Bakan Smotrich ise \"Bizi tekrar gettolara zorlayamayacaksınız\" diyerek Merz'i ağır ifadelerle hedef aldı.",
     "image": null,
     "keyword": null
   }
