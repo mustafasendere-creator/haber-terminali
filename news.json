@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e65b710",
+    "title": "BBC araştırması: Yunan polisi, göçmenleri Türkiye'ye göndermek için yine göçmenleri kullanıyor",
+    "source": "BBC Türkçe",
+    "time": "14/04/2026 15:05",
+    "link": "https://www.bbc.com/turkce/articles/cgqkk15kzjvo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BBC'nin elde ettiği çok sayıda kanıt, Yunanistan polisinin, yine göçmenleri kullanarak, ülkede yakalanan göçmenleri zorla ve şiddetle Türkiye'ye geri dönmeye zorladığını ortaya koydu. Yunanistan Başbakanı Kiryakos Miçotakis, BBC'ye yaptığı açıklamada bu iddialardan \"tamamen habersiz\" olduğunu savundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_fbd8c360",
     "title": "KTÜ'de Ödül Töreni Düzenlendi",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uyuşturucu kaçakçısı Pablo Escobar’ın özel hayvanat bahçesi için Kolombiya’ya dört su aygırı getirmesiyle başlayan bu sıra dışı heves, otuz yıl sonra ülkenin orta kesimlerinde ciddi bir çevre ve güvenlik sorununa dönüştü. Tür, kontrolsüz şekilde çoğalarak tehlikeli hale geldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/pablo-escobarin-hipopotamlarina-otanazi-uygulanacak-wqnc.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_01e71bde",
-    "title": "Çevre, Şehircilik Bakanı Kurum: COP31'de en çok su ve gıdaya dikkat çekeceğiz",
-    "source": "Haber Global",
-    "time": "14/04/2026 14:26",
-    "link": "https://haberglobal.com/gundem/cevre-sehircilik-bakani-kurum-cop31de-en-cok-su-ve-gidaya-dikkat-cekecegiz-518695",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Bu zorlu coğrafyada suyuna hakim olan, toprağını yeşil tutan ve doğayı ezmeden enerji üreten devletler, geleceğin oyun kurucuları olacaktır. Bugün bölgemizde yaşanan savaşlar, enerji krizini tetikliyor. Dolayısıyla biz bu tespitlerimizi şimdi somut, ölçülebilir ve tavizsiz bir eylem planına dönüştürmek zorundayız. Onun için bizim COP31'de de en çok dikkat çekeceğimiz konular, su ve gıda olacak\" dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/cevre-sehircilik-bakani-kurum-cop31de-en-cok-su-ve-gidaya-dikkat-cekecegiz-syms.jpg",
     "keyword": null
   }
 ]
