@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2d978a5f",
+    "title": "Gazze’de katliam sürüyor: Can kaybı 72 bin 336'ya yükseldi",
+    "source": "BirGün",
+    "time": "14/04/2026 16:24",
+    "link": "https://www.birgun.net/haber/gazzede-katliam-suruyor-can-kaybi-72-bin-336-ya-yukseldi-705811",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail’in Gazze Şeridi’ne yönelik saldırılarında can kaybı 72 bin 336’ya, yaralı sayısı ise 172 bin 213’e yükseldi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/gazzede-katliam-suruyor-can-kaybi-72-bin-336-ya-yukseldi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_027c91ae",
     "title": "İsrail Başkonsolosluğu önündeki saldırı: Gözaltına alınan 1 kişi adliyede",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Günlük Burç Yorumları: 15 Nisan Çarşamba Balık Burcu Yorumu",
     "image": "https://media.cumhuriyet.com.tr/Archive/7b237ff4-205b-485c-88bf-9b34a13cd73b.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cfe63150",
-    "title": "Yeşilçam’ın acı kaybı: Emektar oyuncu Arif Ertan Güntav hayatını kaybetti",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 15:48",
-    "link": "https://www.cumhuriyet.com.tr/yasam/yesilcam-in-aci-kaybi-emektar-oyuncu-arif-ertan-guntav-hayatini-kaybetti-2495136",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeşilçam sinemasına hem oyuncu hem de prodüksiyon amiri olarak yıllarca hizmet veren emektar isim Arif Ertan Güntav yaşamını yitirdi. Güntav, yarın Üsküdar’da kılınacak cenaze namazının ardından son yolculuğuna uğurlanacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2ee3f445-6b03-48bb-9d78-2955a8502444.jpg",
     "keyword": null
   }
 ]
