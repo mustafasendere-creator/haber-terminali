@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_85dc8c94",
+    "title": "Gülistan Doku'nun dosyası raftan indi",
+    "source": "Habertürk",
+    "time": "14/04/2026 10:44",
+    "link": "https://www.haberturk.com/gulistan-doku-nun-dosyasi-raftan-indi-3877134",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturmasında 7 ilde 13 şüpheli için gözaltı talimatı verildi. Dönemin Tunceli Valisi Tuncay Sonel'in oğlu Mustafa Türkay Sonel ve koruması Şükrü Eroğlu gözaltına alındı. Öte yandan Gülistan'ın sevgilisi, annesi ve babası da gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776119844/3877134/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_5fe95ad2",
     "title": "Yağmur, kar ve toz taşınımı uyarıları",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ablukasının Hürmüz&#039;deki nakliye sürecinin duraksamasını değiştirmesi zor görünüyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/09/iran-hurmuz-bogazindan-gececek-gemilere-mayinlara-karsi-alternatif-rota-acikladi-qpxb_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_31b1d9b1",
-    "title": "Borsa güne yükselişle başladı",
-    "source": "Ekonomim",
-    "time": "14/04/2026 10:05",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/borsa-gune-yukselisle-basladi-haberi-887965",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, güne yüzde 0,79 artışla 14.170,03 puandan başladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/11/03/borsa-istanbulda-haftanin-ilk-islem-gununde-endeksler-yukseldi-uvsd_cover.jpg",
     "keyword": null
   }
 ]
