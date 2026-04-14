@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c6711dc0",
+    "title": "Gülistan Doku soruşturması: 13 şüpheli hakkında gözaltı kararı",
+    "source": "BBC Türkçe",
+    "time": "14/04/2026 05:14",
+    "link": "https://www.bbc.com/turkce/articles/cn30xvp90jko",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altı yıldır kayıp olan üniversite öğrencisi Gülistan Doku ile ilgili soruşturmada yeni bir gelişme yaşandı. Tunceli Başsavcılığı'nın yürüttüğü soruşturmada yedi ilde 13 şüpheli hakkında gözaltı kararı çıkarıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c68bb282",
     "title": "Ismayıl Hakkı Baltacıoğlu’na saygıyla...",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "EKONOMİ Gazetesi ve Eskişehir Büyükşehir Belediyesi tarafından düzenlenen “Ekonomi 26 Paneli”nde küresel ekonomideki dönüşüm ve Türkiye’nin üretim gücü masaya yatırıldı. Panelde üretimde Eskişehir’in sanayi altyapısıyla kritik bir konumda olduğu vurgulandı. Toplantıda enflasyon, yüksek finansman maliyetleri ve çalışma barışındaki bozulmanın sanayici üzerindeki baskıyı artırdığına dikkat çekilirken, mevcut şartlarda işletmelerin rekabet gücünü kaybettiği ve yatırım iştahının zayıfladığı ifade edildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/sanayici-rekabet-gucunu-kaybediyor-l8he_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a09a67ed",
-    "title": "İstanbul'da metal fabrikasında patlama: 3 işçi yaralandı",
-    "source": "Ekonomim",
-    "time": "14/04/2026 01:34",
-    "link": "https://www.ekonomim.com/gundem/istanbulda-metal-fabrikasinda-patlama-3-isci-yaralandi-haberi-887911",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul&#039;un Arnavutköy ilçesinde metal fabrikasında sanayi tüpünün patlaması sonucu 1&#039;i ağır 3 işçi yaralandı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/istanbulda-metal-fabrikasinda-patlama-3-isci-yaralandi-mews_cover.jpg",
     "keyword": null
   }
 ]
