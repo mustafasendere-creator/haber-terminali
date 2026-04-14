@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cee5d93a",
+    "title": "Hindistan'da bir elektrik santralinde patlama! 9 kişi hayatını kaybetti",
+    "source": "Haber Global",
+    "time": "14/04/2026 20:05",
+    "link": "https://haberglobal.com/dunya/hindistanda-bir-elektrik-santralinde-patlama-9-kisi-hayatini-kaybetti-518778",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hindistan'ın Çatisgarh eyaletinde bir elektrik santralinde patlama meydana geldi. İlk belirlemelere göre 9 işçi yaşamını yitirdi, 15 kişi de yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/hindistanda-bir-elektrik-santralinde-patlama-9-kisi-hayatini-kaybetti-gscn.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_e9f85954",
     "title": "Trabzon'a acı haber! Karı-koca 24 saat arayla vefat etti",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, Pakistan Dışişleri Bakanı Muhammed İshak Dar ile telefonda görüştü.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/bakan-fidan-pakistanli-mevkidasi-dar-ile-telefonda-gorustu-orou.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8a54f64b",
-    "title": "Cumhurbaşkanı Erdoğan, Türk Demokrasi Vakfı heyetini kabul etti",
-    "source": "TRT Haber",
-    "time": "14/04/2026 19:06",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turk-demokrasi-vakfi-heyetini-kabul-etti-941636.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Baki Mert başkanlığındaki Türk Demokrasi Vakfı heyeti ile bir araya geldi.",
-    "image": null,
     "keyword": null
   }
 ]
