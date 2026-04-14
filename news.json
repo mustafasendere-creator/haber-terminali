@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5116753",
+    "title": "IEA: Tarihin en büyük enerji güvenliği tehdidi petrol fiyatlarını daha da yükseltecek",
+    "source": "Euronews",
+    "time": "14/04/2026 10:23",
+    "link": "http://tr.euronews.com/business/2026/04/14/iea-tarihin-en-buyuk-enerji-guvenligi-tehdidi-petrol-fiyatlarini-daha-da-yukseltecek",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "IEA İcra Direktörü Fatih Birol, pazartesi günü yaptığı açıklamada, nisanda yeni enerji sevkiyatı yapılmadığını, bunun küresel enerji ve ekonomi üzerindeki etkileri ağırlaştırabilecek daha ciddi bir kesintiye işaret ettiğini söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_75adc39c",
     "title": "Trump, Hollanda kraliyet çiftini Beyaz Saray'da akşam yemeği ve konaklamayla ağırladı",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Meclisinde dün faaliyet raporu görüşülürken arada yaşanan teknik aksaklıktan dolayı esprili anlar da yaşanmadı değil.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/detyy-4-kopya-38.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d771bcda",
-    "title": "Petrol fiyatlarında diplomasi freni",
-    "source": "TRT Haber",
-    "time": "14/04/2026 09:44",
-    "link": "https://www.trthaber.com/haber/ekonomi/petrol-fiyatlarinda-diplomasi-freni-941558.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ile İran arasında tırmanan gerilimde 'diplomasi' umudu, petrol fiyatlarını aşağı çekti. Brent petrolün varili uluslararası vadeli piyasalarda 98,41 dolardan işlem görüyor.",
-    "image": null,
-    "keyword": null
   }
 ]
