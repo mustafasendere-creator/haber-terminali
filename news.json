@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3bcba04c",
+    "title": "Akdeniz'de 4,0 büyüklüğünde deprem",
+    "source": "BirGün",
+    "time": "14/04/2026 11:09",
+    "link": "https://www.birgun.net/haber/akdeniz-de-4-0-buyuklugunde-deprem-705698",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akdeniz'de saat 9'da 4.0 büyüklüğünde bir deprem meydana geldi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/akdeniz-de-4-0-buyuklugunde-deprem.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_ff7339f5",
     "title": "Kastamonu'ya 784 milyon liralık besi organize tarım bölgesi yatırımı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü 2026 yılı destek programı kapsamında Türk sinemasına yönelik önemli bir kaynak aktarımını daha hayata geçirdi. 30 belgesel film yapım projesine 12 milyon 590 bin lira, 27 uzun metraj filme toplam 232 milyon 500 bin lira destek sağlandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_57238de6",
-    "title": "Trump'ın, İran'ın uranyum faaliyetlerini 5 yıl durdurma teklifini reddettiği iddia edildi",
-    "source": "TRT Haber",
-    "time": "14/04/2026 10:44",
-    "link": "https://www.trthaber.com/haber/dunya/trumpin-iranin-uranyum-faaliyetlerini-5-yil-durdurma-teklifini-reddettigi-iddia-edildi-941578.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump'ın, Pakistan'daki müzakerelerde Washington'ın masaya getirdiği uranyum zenginleştirme faaliyetlerini 20 yıl durdurma talebine karşılık, İran'ın 5 yıllık geçici askıya alma teklifini reddettiği iddia edildi.",
     "image": null,
     "keyword": null
   }
