@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7dc1a89f",
+    "title": "Hatay’da 1 Mayıs çağrısı: “Ekmek, barış ve adalet için meydanlara”",
+    "source": "Evrensel",
+    "time": "14/04/2026 17:06",
+    "link": "https://www.evrensel.net/haber/5979616/hatayda-1-mayis-cagrisi-ekmek-baris-ve-adalet-icin-meydanlara",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay’da 1 Mayıs Tertip Komitesi, ekonomik kriz, işsizlik ve adaletsizlik karşısında emekçileri alanlara çağırdı; çağrıda sömürü, yoksulluk, savaş ve baskı politikalarına karşı ortak mücadele vurgusu yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342999.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_4e230c48",
     "title": "Trabzonspor gazetecileri unutmadı!",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Zeytinburnu Belediyesi tarafından toplumsal hafızayı sanatın gücüyle geleceğe taşımak için düzenlenen \"Direniş ve Adalet\" temalı kısa film senaryo yarışmasına başvurular 15 Mayıs tarihine dek sürecek. Yarışmada dereceye giren projelere 725 bin TL ödül verilecek.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/direnis-ve-adalet-yarismasi-basliyor-odul-725-bin-tl-1nff.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d380b1d7",
-    "title": "Bursa'da üretilen her iki otomobilden biri ihraç edildi",
-    "source": "TRT Haber",
-    "time": "14/04/2026 16:25",
-    "link": "https://www.trthaber.com/haber/ekonomi/bursada-uretilen-her-iki-otomobilden-biri-ihrac-edildi-941633.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "OYAK Renault ve TOFAŞ'ın fabrikalarının bulunduğu Bursa'da, yılın ilk çeyreğinde üretilen otomobillerin yarısı yurt dışına gönderildi.",
-    "image": null,
     "keyword": null
   }
 ]
