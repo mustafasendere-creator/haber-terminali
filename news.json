@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_07130b05",
+    "title": "Şanlıurfa'da okula silahlı saldırı: Eğitim sendikalarından eylem kararı",
+    "source": "BirGün",
+    "time": "14/04/2026 19:44",
+    "link": "https://www.birgun.net/haber/sanliurfa-da-okula-silahli-saldiri-egitim-sendikalarindan-eylem-karari-705848",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'da 16 kişinin yaralandığı okul baskınına tepki gösteren eğitim sendikaları iş bırakma kararı aldı. Okullardaki güvenlik zafiyetine dikkat çeken sendikalar, 15-16 Nisan tarihlerinde ülke genelinde eylem yapacak.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/sanliurfada-okula-silahli-saldiri-egitim-sendikalarindan-is-birakma-karari.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_5a09914d",
     "title": "Trabzonspor'a 3 müjde gelebilir...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Genel Sekreteri Sami Karaman, Başakşehir karşılaşması öncesi yaptığı açıklamada taraftarı Papara Park’a davet etti.",
     "image": "https://resim.haber61.net/news/612707.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_dfe64af4",
-    "title": "RTÜK Tele2 Haber'e 72 saat süre verdi: Erişim engeli istenecek",
-    "source": "Evrensel",
-    "time": "14/04/2026 18:45",
-    "link": "https://www.evrensel.net/haber/5979642/rtuk-tele2-habere-72-saat-sure-verdi-erisim-engeli-istenecek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Radyo Televizyon Üst Kurulu (RTÜK) TELE2 Haber'e YouTube’da yayınlarına dair lisans için başvuru ve ödemeyi yapması için 72 saat süre verildiğini duyurdu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/332494.jpg",
-    "keyword": null
   }
 ]
