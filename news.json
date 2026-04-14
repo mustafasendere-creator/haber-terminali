@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c86a3913",
+    "title": "Özgür Özel: Gerekirse boynumuzu vereceğiz ama asla bunlara boyun eğmeyeceğiz!",
+    "source": "BirGün",
+    "time": "14/04/2026 23:04",
+    "link": "https://www.birgun.net/haber/ozgur-ozel-gerekirse-boynumuzu-verecegiz-ama-asla-bunlara-boyun-egmeyecegiz-705777",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Partisinin grup toplantısında konuşan CHP lideri Özel, ara seçim, yargı ve ülkedeki ekonomik duruma ilişkin önemli açıklamalarda bulundu. Yargı süreçleri ve ekonomide gelinen durumu örneklerle anlatan Özel, seçim çağrısını da yineledi. AKP'li Cumhurbaşkanı Erdoğan'a seslenen Özel, \"Gerekirse boynumuzu vereceğiz ama asla bunlara boyun eğmeyeceğiz. CHP'nin 100 yıl sonra bir kez daha bu ülkeyi kurtarmaya ant içmiş neferleri var, evlatları var\" dedi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/ozgur-ozel-gerekirse-boynumuzu-verecegiz-ama-asla-bunlara-boyun-egmeyecegiz.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_898385d3",
     "title": "\"Yüzeyin Derinliğinde\" sergisi Taksim Sanat'ta",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon&#039;da Eğitim sendikaları, artan şiddet olaylarına tepki göstermek amacıyla 2 gün iş bırakma kararı aldı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/trabzonda-ogretmenler-is-birakiyor.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8566b239",
-    "title": "Hürmüz'de ABD ablukasının ilk gününde diplomasi trafiği: ABD-İran görüşmeleri için 2. tur mesaisi",
-    "source": "Euronews",
-    "time": "14/04/2026 22:05",
-    "link": "http://tr.euronews.com/2026/04/14/hurmuzde-abd-ablukasinin-ilk-gununde-diplomasi-trafigi-abd-iran-gorusmeleri-icin-2-tur-mes",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Geçtiğimiz hafta sonu gerçekleştirilen ve çatışmayı kalıcı olarak sona erdirmeyi amaçlayan görüşmelerin ilk turunda anlaşmaya varılamadı. Beyaz Saray, İran'ın nükleer hırslarının temel bir tıkanma noktası olduğunu öne sürüyor.",
-    "image": null,
     "keyword": null
   }
 ]
