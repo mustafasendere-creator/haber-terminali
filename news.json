@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b528151e",
+    "title": "Balıklı Rum Hastanesi aslına uygun olarak restore edildi",
+    "source": "TRT Haber",
+    "time": "14/04/2026 13:06",
+    "link": "https://www.trthaber.com/haber/turkiye/balikli-rum-hastanesi-aslina-uygun-olarak-restore-edildi-941602.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "4 Ağustos 2022'de meydana gelen yangın sonucu ağır hasar alan Balıklı Rum Hastanesi, \"Yadigar\" projesi kapsamında aslına uygun yapılan restorasyon çalışmalarıyla yeniden ayağa kaldırıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_a9ac701d",
     "title": "Trabzon'da görev almıştı, oğlu cinayet dosyasına karıştı",
     "source": "Kuzey Ekspres",
@@ -946,17 +958,5 @@
     "summary": "13 yıllık emekle Osmanlı Kayıtlarıyla Trabzon’un Gerçek Hikayesini ortaya çıkardı",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/trabzonda-aile-koklerini-arayanlara-altin-degerinde-calisma-1776158823.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_dd12b2ff",
-    "title": "ABD-İran hattında yeni tur sinyali: Gözler hafta sonuna çevrildi",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 12:46",
-    "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-hattinda-yeni-tur-sinyali-gozler-hafta-sonuna-cevrildi-2495077",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İslamabad’da yapılan ve sonuçsuz kalan kritik görüşmelerin ardından ABD ve İran heyetlerinin bu hafta sonu yeniden bir araya gelebileceği öne sürüldü. Tarafların diplomasi trafiğini sürdürdüğü belirtiliyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5dc933bf-70bc-4468-86a9-90f4c8e31400.jpg",
-    "keyword": null
   }
 ]
