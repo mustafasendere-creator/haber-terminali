@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e183c249",
+    "title": "Milli Savunma Bakanı Güler, Katar Emiri Al Sani ile görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 13:24",
+    "link": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-katar-emiri-al-sani-ile-gorustu-/3904989",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli Savunma Bakanı Yaşar Güler, Katar Emiri Şeyh Temim bin Hamed Al Sani tarafından kabul edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2392b77c",
     "title": "Gülistan Doku olayında sır perdesi aralanıyor! PTS kayıtları, gizli tanık ve valilikteki sim kart",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Yomra’da fren yerine gaza basan sürücü zincirleme kazaya neden oldu. 4 araç çarpıştı, motosikletli kurye devrildi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/whatsapp-image-2026-04-14-at-104614.jpeg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "SOC_3bc3876c",
-    "title": "Turkish News and Discussion",
-    "source": "Reddit",
-    "time": "14/04/2026 12:47",
-    "link": "https://www.reddit.com/r/Turkey/",
-    "type": "SOC",
-    "prefix": "🤖",
-    "summary": "This subreddit is for news and discussion about Turkey. Posts both in English and Turkish are welcome. Bu subreddit Türkiye ile ilgili haber ve sohbet ortamıdır. Türkçe veya İngilizce yazabilirsiniz.   [link]",
-    "image": "https://a.thumbs.redditmedia.com/Sn9Ku9nuoJyg3SUOSSn58jbZ2dHmc-DnjRBqodnVhI0.png",
-    "keyword": "hrant dink"
   }
 ]
