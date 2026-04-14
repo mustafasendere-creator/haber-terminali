@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4230e59",
+    "title": "CHP'de bir belediye başkanı daha istifa etti: AKP'ye mi geçecek?",
+    "source": "Evrensel",
+    "time": "14/04/2026 16:25",
+    "link": "https://www.evrensel.net/haber/5979607/chp-de-bir-belediye-baskani-daha-istifa-etti-akp-ye-mi-gececek",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya Serik Belediye Başkanı Kadir Kumbul, CHP’den istifa etti. Kumbul'un AKP'ye geçeceği iddia edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342986.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_36959ca4",
     "title": "Emek Partisi TMMOB’yi ziyaret etti",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Geçtiğimiz sezonu 7. sırada tamamlayan Trabzonspor, Fatih Tekke yönetiminde ligin kaderini değiştirdi. Geçen yılın aynı dönemine göre 25 puan daha fazla toplayan bordo mavililer, dev bütçeli rakiplerine düşük maliyetli kadrosuyla meydan okuyor.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/02/17/large/trabzonspor-2026.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_2f8406ad",
-    "title": "Trabzon Valisi Tahir Şahin’den Maçka’da Taziye Ziyareti",
-    "source": "Kuzey Ekspres",
-    "time": "14/04/2026 15:48",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27809531/trabzon-valisi-tahir-sahinden-mackada-taziye-ziyareti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Valisi Tahir Şahin, Maçka’da vefat eden Valilik Basın ve Protokol Müdürü Yalçın Bahçekapılı’nın annesi Havva Bahçekapılı’nın cenazesine katılarak Bahçekapılı ailesine başsağlığı dileklerini iletti.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/cenaze.jpg",
     "keyword": "trabzon"
   }
 ]
