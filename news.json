@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_055e2c0c",
+    "title": "Son Dakika... Trump'tan 'İran ile müzakere' açıklaması: 'Önümüzdeki iki gün içinde...'",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 18:46",
+    "link": "https://www.cumhuriyet.com.tr/dunya/son-dakika-trump-tan-iran-ile-muzakere-aciklamasi-onumuzdeki-iki-gun-icinde-2495206",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trump, İran ile müzakerelerin ikinci turu hakkında açıklama yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_4ca578c4",
     "title": "Trabzonspor Genel Sekreteri Sami Karaman: “Başakşehir maçında birlik ve inancımızı göstereceğiz.”",
     "source": "Kuzey Ekspres",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Beşiktaş, antrenmanda sakatlanan Kartal Kayra Yılmaz'ın \"ayak bileği iç ve dış yan bağlarında tam kat yırtık\" tespit edildiğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1ea8e355",
-    "title": "Trump'tan İngiltere'ye Kuzey Denizi'ndeki petrolü kullanma çağrısı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 18:24",
-    "link": "https://www.aa.com.tr/tr/dunya/trumptan-ingiltereye-kuzey-denizindeki-petrolu-kullanma-cagrisi/3905453",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, Avrupa'nın enerjiye ihtiyaç duyduğuna işaret ederek, İngiltere'nin Kuzey Denizi petrolünü daha hızlı kullanıma açması gerektiğini belirtti.",
     "image": null,
     "keyword": null
   }
