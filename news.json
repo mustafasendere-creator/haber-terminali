@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3b2cb59",
+    "title": "İtalya, İsrail ile savunma anlaşmasından çekildi",
+    "source": "DW Türkçe",
+    "time": "14/04/2026 18:25",
+    "link": "https://www.dw.com/tr/italya-israil-ile-savunma-anlaşmasından-çekildi/a-76781109",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in Avrupa'daki en yakın müttefiklerinden İtalya, iki ülke arasında savunma alanında yürürlükte olan bir anlaşmayı askıya aldı. Ancak İsrail, kararın uygulamada bir etkisinin olmayacağı görüşünde.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bf6381c4",
     "title": "Ablukanın ilk 24 saatinde Hürmüz Boğazı'ndan dört gemi geçti",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Sanayi üretiminin ana damarlarından biri olan bakır, arz tarafındaki kısıtlamalar ve teknoloji odaklı talep baskısıyla son 22 ayın zirvesine tırmandı. Londra Metal Borsası&#039;nda (LME) ton başına 9.500 dolar seviyesini aşan fiyatlar, imalat sektörünü yeni bir maliyet enflasyonu riskiyle karşı karşıya bırakıyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/kuresel-sanayide-bakir-darbogazi-ton-basina-10-bin-dolar-siniri-zorlaniyor-sxim_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_86f6145d",
-    "title": "Gençlerbirliği - Galatasaray maçının biletleri satışa çıktı!",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 17:45",
-    "link": "https://www.cumhuriyet.com.tr/spor/genclerbirligi-galatasaray-macinin-biletleri-satisa-cikti-2495189",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 30. haftasında oynanacak Gençlerbirliği - Galatasaray maçının biletleri satışa çıktı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/cfb172f4-f39b-4ad2-982f-84c683b0bd85.jpg",
     "keyword": null
   }
 ]
