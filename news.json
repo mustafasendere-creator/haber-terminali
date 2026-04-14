@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_68c4346b",
+    "title": "Fabrikada tüp patlaması ve yangın! 3 yaralı",
+    "source": "Habertürk",
+    "time": "14/04/2026 10:04",
+    "link": "https://www.haberturk.com/arnavutkoy-de-fabrikada-tup-patlamasi-ve-yangin-3-yarali-3877138",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Arnavutköy ilçesinde metal fabrikasında sanayi tüpünün patlaması sonucu 1'i ağır 3 işçi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776116819/3877138/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_fcd08384",
     "title": "Şanlıurfa'da DEAŞ operasyonu: 18 tutuklama",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Aralarında Uluslararası Af Örgütü'nün de bulunduğu hak örgütleri, İran'ın dünyada kişi başına en çok idam gerçekleştiren ülke olduğunu belirtiliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6f3d30ee",
-    "title": "İtalya, İsrail'in Lübnan saldırıları için 'kabul edilemez' dedi: İsrail, İtalyan büyükelçiyi çağırdı",
-    "source": "Euronews",
-    "time": "14/04/2026 09:43",
-    "link": "http://tr.euronews.com/2026/04/14/italya-israilin-lubnan-saldirilari-icin-kabul-edilemez-dedi-israil-italyan-buyukelciyi-cag",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran destekli Hizbullah'ın, ABD ve İsrail'in düzenlediği ilk saldırı dalgasında İran'ın dini lideri Ali Hamaney'in öldürülmesinden günler sonra, 2 Mart'ta İsrail'e roket atmasıyla Lübnan Orta Doğu'daki savaşın içine çekildi.",
     "image": null,
     "keyword": null
   }
