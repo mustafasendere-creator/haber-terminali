@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8fe0569a",
+    "title": "Kırklareli'nde yağmur ve şükür duası",
+    "source": "Habertürk",
+    "time": "14/04/2026 19:47",
+    "link": "https://www.haberturk.com/kirklareli-nde-yagmur-ve-sukur-duasi-3877022",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırklareli'nin Dokuzhöyük köyünde yağmur ve şükür duası yapıldı. Duaya katılan Kırklareli Valisi Uğur Turan, dualar ve niyazlarla bereketin artması temennisinde bulunuldu",
+    "image": "https://im.haberturk.com/l/2026/04/13/ver1776084759/3877022/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_0e03a640",
     "title": "Şanlıurfa'da lisede silahlı saldırı: 4 yönetici görevlerinden uzaklaştırıldı",
     "source": "Sözcü",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İBB davası 6. haftasında sanık savunmalarıyla sürüyor. Söz alan Murat Ongun, etkin pişmanlıktan faydalanarak tahliye edilen Erol Özgüven hakkında savcılığın suç duyurusu talebi hakkında konuştu. \"Yalan beyanla insanların hayatlarını kararttı\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_b5ac708d",
-    "title": "Trabzon'da üzücü görüntü: Yunuslar sahile vurdu",
-    "source": "Haber61",
-    "time": "14/04/2026 19:04",
-    "link": "https://www.haber61.net/trabzon/trabzonda-uzucu-goruntu-yunuslar-sahile-vurdu-h629598.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Yomra ilçesi Kaşüstü sahilinde, henüz belirlenemeyen bir sebepten ötürü iki yunus ölüsü kıyıya vurdu.",
-    "image": "https://resim.haber61.net/news/612712.jpg",
     "keyword": null
   }
 ]
