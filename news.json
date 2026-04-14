@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_6d83241f",
+    "title": "@yoldaspancuni.bsky.social: Gazeteci Hrant Dink cinayeti davasında, tetikçi Ogün Samast ...",
+    "source": "Bluesky",
+    "time": "14/04/2026 09:24",
+    "link": "https://bsky.app/profile/yoldaspancuni.bsky.social/post/3mckh2xarqs2f",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Gazeteci Hrant Dink cinayeti davasında, tetikçi Ogün Samast ve diğer sanıklar hakkında verilen “zaman aşımı” kararına yapılan itiraz reddedildi. Üst mahkeme, Dink ailesinin bu suçtan “doğrudan zarar görmediğini” iddia ederek davaya katılma haklarının bulunmadığına hükmetti",
+    "image": null,
+    "keyword": "ogün samast"
+  },
+  {
     "id": "SOC_11e403e3",
     "title": "@siyahdergi.com: AGOS Gazetesinin Genel Yayın Yönetmeni Hrant Dink, 19 Ocak 2...",
     "source": "Bluesky",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "New York'ta İsrail'e silah satışını ve İran'a yönelik savaş ihtimalini protesto eden yaklaşık 100 kişi polis tarafından gözaltına alındı. Manhattan'da trafiği durduran göstericilere güvenlik güçleri müdahale etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3ded3b97",
-    "title": "Oğuz Oyan: Sermayenin timsah gözyaşları zamanı",
-    "source": "Diken",
-    "time": "14/04/2026 08:35",
-    "link": "https://www.diken.com.tr/oguz-oyan-sermayenin-timsah-gozyaslari-zamani/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Oğuz Oyan: Sermayenin timsah gözyaşları zamanı 14.04.2026 DikenSermayeyi ilgilendiren bölüm, büyük sermayenin tarıma girişinin bile ekonomik/toplumsal bariyerlere çarpmakta oluşudur.\nThe post Oğuz Oyan: Sermayenin timsah gözyaşları zamanı appeared first on #site_linkat 14.04.2026 .",
     "image": null,
     "keyword": null
   }
