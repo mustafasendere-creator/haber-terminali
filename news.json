@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8f78dc03",
+    "title": "Cezayir'de Papa Leo'nun ziyareti sırasında 2 intihar saldırısı düzenlendi",
+    "source": "Euronews",
+    "time": "14/04/2026 21:44",
+    "link": "http://tr.euronews.com/2026/04/14/cezayirde-papa-leonun-ziyareti-sirasinda-2-intihar-saldirisi-duzenlendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Saldırılar ile yoğun güvenlik altında yürütülen Papa ziyareti arasında henüz doğrudan bir bağlantı kurulmadı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_19722237",
     "title": "CHP'de bir belediye başkanı daha istifa etti: \"AKP'ye geçecek\" iddiası",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Genel Başkanı Özgür Özel, Gülistan Doku soruşturmasına ilişkin Adalet Bakanı Akın Gürlek’in basın danışmanının gazetecilere yönlendirici “bilgi notu” gönderdiğini söyleyerek, yargı bağımsızlığına dikkat çekti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342997.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6fd59c54",
-    "title": "Emekliler için 100 bin TL'ye varan promosyon: EYT'liler dikkat",
-    "source": "Evrensel",
-    "time": "14/04/2026 20:45",
-    "link": "https://www.evrensel.net/haber/5979623/emekliler-icin-100-bin-tl-ye-varan-promosyon-eyt-liler-dikkat",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bankaların emekli promosyon yarışı hızlandı. Ek kampanyalarla birlikte toplam kazanç 100 bin TL seviyesine kadar çıkabiliyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/334312.jpg",
     "keyword": null
   }
 ]
