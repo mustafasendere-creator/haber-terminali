@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_11ed04c0",
+    "title": "Türkiye'de geçen yıl 207 bin 371 balıkçılık denetimi yapıldı",
+    "source": "TRT Haber",
+    "time": "14/04/2026 14:46",
+    "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-gecen-yil-207-bin-371-balikcilik-denetimi-yapildi-941619.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'de geçen yıl yapılan 207 bin 371 balıkçılık denetiminde 550 ton su ürününe, 2 bin 394 av aracına ve 84 balıkçı gemisine el konuldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d47493ea",
     "title": "Hastanın ameliyatında 2 bin 67 taş çıkarıldı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail'in, Gazze Şeridi'nde 6 ayda 2 bin 400 ateşkes ihlali gerçekleştirdiği bildirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_1e9645fd",
-    "title": "Ordu’da jandarma aranan 40 şüpheliyi yakaladı",
-    "source": "Haber61",
-    "time": "14/04/2026 14:24",
-    "link": "https://www.haber61.net/ordu/orduda-jandarma-aranan-40-supheliyi-yakaladi-h629566.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu’da jandarma ekipleri tarafından son 1 haftada yürütülen asayiş faaliyetlerinde aranması bulunan ve yakalanan 40 şüpheliden 19’u tutuklandı.",
-    "image": "https://resim.haber61.net/news/612659.jpg",
     "keyword": null
   }
 ]
