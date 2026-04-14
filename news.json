@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8e9f1d7",
+    "title": "İstanbul'da martta hava kirliliği geçen yılın aynı dönemine göre yüzde 24 azaldı",
+    "source": "TRT Haber",
+    "time": "14/04/2026 14:46",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-martta-hava-kirliligi-gecen-yilin-ayni-donemine-gore-yuzde-24-azaldi-941615.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Teknik Üniversitesi İTÜ bünyesinde yapılan çalışmaya göre, İstanbul'da hava kirliliği martta bir önceki yılın aynı dönemine göre yaklaşık yüzde 24 azaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_11ed04c0",
     "title": "Türkiye'de geçen yıl 207 bin 371 balıkçılık denetimi yapıldı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye Büyük Millet Meclisi Başkanı (TBMM) Numan Kurtulmuş, Parlamentolar Arası Birlik (PAB) 152'nci Genel Kurulu dolayısıyla İstanbul'da bulunan Arap Parlamentosu Başkanı Mohamed Ahmed Alyammahi ile bir araya geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6e655003",
-    "title": "İsrail, Gazze'de 6 ayda 2 bin 400 ateşkes ihlali gerçekleştirdi",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 14:24",
-    "link": "https://www.aa.com.tr/tr/dunya/israil-gazzede-6-ayda-2-bin-400-ateskes-ihlali-gerceklestirdi/3905062",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in, Gazze Şeridi'nde 6 ayda 2 bin 400 ateşkes ihlali gerçekleştirdiği bildirildi.",
     "image": null,
     "keyword": null
   }
