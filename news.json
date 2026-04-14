@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e28927cc",
+    "title": "Tolstoy’dan Haldun Taner’e: İBB Şehir Tiyatroları’nda bu hafta 14 oyun sahnede",
+    "source": "Evrensel",
+    "time": "14/04/2026 10:23",
+    "link": "https://www.evrensel.net/haber/5979538/tolstoydan-haldun-tanere-ibb-sehir-tiyatrolarinda-bu-hafta-14-oyun-sahnede",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB Şehir Tiyatroları, 15-19 Nisan haftasında klasik ve modern eserlerden oluşan 14 oyunla seyirci karşısına çıkıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342901.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_963fd55c",
     "title": "İspanya, küresel gerilimler arasında Çin'le ilişkilerini güçlendirmeyi hedefledi",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Meclisinin 2025 Yılı Faaliyet Raporu dün oylandı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/g-f-d-s-a-2.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_6852a730",
-    "title": "İki ilde eş zamanlı DEAŞ operasyonunda 5 tutuklama",
-    "source": "TRT Haber",
-    "time": "14/04/2026 09:44",
-    "link": "https://www.trthaber.com/haber/turkiye/iki-ilde-es-zamanli-deas-operasyonunda-5-tutuklama-941557.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Afyonkarahisar ve Ankarada düzenlenen eş zamanlı operasyonda yakalanan 7 zanlıdan 5i tutuklanırken, 2 şüpheli adli kontrol şartıyla serbest bırakıldı.",
-    "image": null,
-    "keyword": null
   }
 ]
