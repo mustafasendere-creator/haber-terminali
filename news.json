@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4deccd25",
+    "title": "Ördek ailesi için trafiği durdurdu",
+    "source": "Habertürk",
+    "time": "14/04/2026 20:06",
+    "link": "https://www.haberturk.com/ordek-ailesinin-guvenli-gecisi-icin-trafik-durduruldu-3877007",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da bir ördek ailesinin karşıdan karşıya geçmesi için duyarlı bir sürücü akan trafiği durdurdu. O anlar trafikteki başka bir vatandaşın kamerasına yansıdı",
+    "image": "https://im.haberturk.com/l/2026/04/13/ver1776083861/3877007/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_29dd529a",
     "title": "Çocuklarını bir aydır sırtında taşıyor",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Donald Trump, ABD ile İran arasındaki ikinci tur görüşmelerin önümüzdeki iki gün içinde Pakistan’da yapılabileceğini açıkladı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/trump-ikinci-tur-muzakere-icin-tarih-verdi-tsbf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6ef3fbb6",
-    "title": "Cem Adrian adli kontrol şartı ile serbest bırakıldı",
-    "source": "OdaTV",
-    "time": "14/04/2026 19:06",
-    "link": "https://www.odatv.com/guncel/cem-adrian-adli-kontrol-sarti-ile-serbest-birakildi-120143319",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cem Adrian, İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü uyuşturucu soruşturması kapsamında ifade verdi; işlemlerinin ardından adli kontrol şartıyla serbest bırakıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/cem-adrian-adli-kontrol-sarti-ile-serbest-birakildi-cnsz.jpg",
     "keyword": null
   }
 ]
