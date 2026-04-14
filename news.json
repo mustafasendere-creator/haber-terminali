@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_e7162ef1",
+    "title": "@militerdoktrin.bsky.social: 🔴#SONDAKİKA\n\nTokat merkezli 5.5 büyüklüğünde bir depremin me...",
+    "source": "Bluesky",
+    "time": "14/04/2026 09:23",
+    "link": "https://bsky.app/profile/militerdoktrin.bsky.social/post/3mgvoourkzk22",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "🔴#SONDAKİKA\n\nTokat merkezli 5.5 büyüklüğünde bir depremin meydana geldiği ve başta Samsun, Trabzon ve Ordu dahil olmak üzere civar birçok ilde hissedildiği rapor ediliyor.",
+    "image": null,
+    "keyword": "trabzon sondakika"
+  },
+  {
     "id": "SOC_c1db84be",
     "title": "@eylemdebirlik.bsky.social: Trabzon Halkevi, 'Karadeniz Teslim Olmayacak!' sloganı ile y...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Genel Başkan Yardımcısı Deniz Yavuzyılmaz, Libya Genelkurmay Başkanı’nı taşıyan uçağın Esenboğa’da 5 numaralı aprona yönlendirilmesini ve İsrail jetiyle aynı noktada buluşturulmasını hükümete sordu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342513.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_21403a5a",
-    "title": "ABD İran limanlarını ablukaya aldı: Trump’tan Tahran’a baskı hamlesi",
-    "source": "Euronews",
-    "time": "14/04/2026 08:34",
-    "link": "http://tr.euronews.com/2026/04/14/abd-iran-limanlarini-ablukaya-aldi-trumptan-tahrana-baski-hamlesi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD-İran ateşkesinden bu yana boğazdan yaklaşık 40 gemi geçiş yaparken, bu rakam savaş öncesinde günlük 100’ün üzerinde olan seviyelere kıyasla belirgin bir düşüşe işaret ediyor.",
-    "image": null,
     "keyword": null
   }
 ]
