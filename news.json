@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2e8125ab",
+    "title": "İklim değişikliği İstanbul kıyılarını tehdit ediyor",
+    "source": "TRT Haber",
+    "time": "14/04/2026 12:25",
+    "link": "https://www.trthaber.com/haber/turkiye/iklim-degisikligi-istanbul-kiyilarini-tehdit-ediyor-941597.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Üniversitesi Deniz Bilimleri ve İşletmeciliği Enstitüsünün analizlerine göre, 2300'de deniz seviyesinin 15 metre yükselmesiyle İstanbul limanları ve kıyı sistemlerinin büyük bölümü ile 10 binden fazla yapı yüksek risk altında olacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e9647080",
     "title": "Şanlıurfa Siverek'te okula silahlı saldırı: 16 yaralı",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "SOC",
     "prefix": "▶️",
     "summary": "5 kol Trabzon Hasırı başlama (bütün püf noktalarıyla)  YouTube",
-    "image": null,
-    "keyword": "trabzon sol"
-  },
-  {
-    "id": "SOC_39772887",
-    "title": "Galatasaray 2-1 Real Madrid | 25.08.2000 | UEFA Süper Kupa Finali (Maçın Tamamı) - YouTube",
-    "source": "YouTube",
-    "time": "14/04/2026 11:49",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wcnNxU1FQZlRpQ2NpSUl5c1k2OXdEWERjakZlSzlNeks5THp4TFZpQ0c0d2gxdENKc0tzTVdvOUY2SDR2Y1VlOWtyWlVzcUtaT0Q2UWlB",
-    "type": "SOC",
-    "prefix": "▶️",
-    "summary": "Galatasaray 2-1 Real Madrid | 25.08.2000 | UEFA Süper Kupa Finali (Maçın Tamamı)  YouTube",
     "image": null,
     "keyword": "trabzon sol"
   }
