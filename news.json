@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7051cc37",
+    "title": "Taksim Metro'sunda yangın",
+    "source": "OdaTV",
+    "time": "14/04/2026 22:06",
+    "link": "https://www.odatv.com/guncel/taksim-metrosunda-yangin-120143326",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Taksim Metro İstasyonu’nun asansöründe çıkan yangın kısa süreli paniğe neden oldu, olay itfaiyenin müdahalesiyle söndürülürken istasyonun bir çıkışı ulaşıma kapatıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/taksim-metrosunda-yangin-4nwn.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_74ba4fac",
     "title": "Bakan Kacır, Türkiye Bankalar Birliği yönetimiyle görüştü",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Karşıyaka Belediyesi ile Tüm Bel-Sen İzmir 2 No'lu Şube arasında yürütülen Toplu İş Sözleşmesi görüşmeleri, belediye yönetiminin sosyal denge tazminatında yarı yarıya kesinti dayatması sonrası tıkandı. Yönetim sözleşmeyi askıya aldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343028.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_e2f87354",
-    "title": "Trabzonspor’da Ukraynalı oyuncu Oleksandr Zubkov Alarm Veriyor! Kritik Viraj Öncesi Gözler Yıldıza Çevrildi",
-    "source": "Taka Gazetesi",
-    "time": "14/04/2026 21:25",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-ukraynali-oyuncu-oleksandr-zubkov-alarm-veriyor-kritik-viraj-oncesi-gozler-yildiza-cevrildi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’da Ukraynalı oyuncu Oleksandr Zubkov için beklentiler yükselirken, teknik direktör Fatih Tekke’nin yıldız isimle özel görüşme yapacağı öğrenildi. Kritik haftalara girilirken performans baskısı artıyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/z-u-b-k-o-v-31.jpg",
     "keyword": null
   }
 ]
