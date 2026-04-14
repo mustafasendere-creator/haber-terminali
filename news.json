@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3db62472",
+    "title": "Fransız çimento devi IŞİD'e haraç ödemekten suçlu bulundu",
+    "source": "DW Türkçe",
+    "time": "14/04/2026 10:44",
+    "link": "https://www.dw.com/tr/fransız-çimento-devi-işid-e-haraç-ödemekten-suçlu-bulundu/a-76767000",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransız çimento devi Lafarge, Suriye savaşı sırasında IŞİD ve El Nusra gibi cihatçı örgütlere finansman sağlamaktan suçlu bulundu. Mahkeme şirkete 1,3 milyon euro para cezası verdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c57edda9",
     "title": "Almanya-İsrail hattında Batı Şeria ve Lübnan gerilimi",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD'nin Hürmüz Boğazı'nda İran limanlarına giriş ve çıkış yapan tüm gemilere yönelik başlattığı deniz ablukasına karşın Çin menşeli \"Rich Starry\" gemisi Boğaz'dan geçti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/abd-ablukasina-ragmen-cin-gemisi-hurmuzu-asti-mvol.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c98b4fcd",
-    "title": "Milyonlarca annenin gözü Meclis'te: Doğum izni 24 hafta olacak",
-    "source": "TRT Haber",
-    "time": "14/04/2026 10:04",
-    "link": "https://www.trthaber.com/haber/gundem/milyonlarca-annenin-gozu-mecliste-dogum-izni-24-hafta-olacak-941565.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TBMM Genel Kurulu, sosyal medyaya ve doğum iznine yönelik düzenlemeleri de içeren Sosyal Hizmetler Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifini görüşmeye bugün devam edecek.",
-    "image": null,
     "keyword": null
   }
 ]
