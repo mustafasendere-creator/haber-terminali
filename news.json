@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_febb32e3",
+    "title": "Taksim metro istasyonunda asansörde yangın",
+    "source": "TRT Haber",
+    "time": "14/04/2026 21:26",
+    "link": "https://www.trthaber.com/haber/turkiye/taksim-metro-istasyonunda-asansorde-yangin-941660.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da, Taksim metro istasyonundaki bir asansörde çıkan yangın ekiplerce kontrol altına alınırken yangın nedeniyle Cumhuriyet Tüneli alt geçidi kapatıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_a22a2e8f",
     "title": "Trabzonspor’un genç yıldızı Avrupa’nın en iyileri arasında!",
     "source": "Kuzey Ekspres",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Başakşehir maçı hazırlıklarına yaptığı antrenmanla start verdi.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/trabzonsporda-rams-basaksehir-mesaisi-basladi.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_d8bce30d",
-    "title": "TFF açıkladı: Alanyaspor - Trabzonspor maçının VAR kayıtları yayınlandı",
-    "source": "Haber61",
-    "time": "14/04/2026 20:25",
-    "link": "https://www.haber61.net/trabzonspor/tff-acikladi-alanyaspor-trabzonspor-macinin-var-kayitlari-yayinlandi-h629600.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Türkiye Futbol Federasyonu, Süper Lig’in 29. haftasında oynanan Alanyaspor - Trabzonspor müsabakasının VAR kayıtlarını futbolseverlerin bilgisine sundu.",
-    "image": "https://resim.haber61.net/news/612717.jpg",
-    "keyword": "trabzon"
   }
 ]
