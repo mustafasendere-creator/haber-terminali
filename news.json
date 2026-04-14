@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_519aa5d1",
+    "title": "Özgür Özel, Saadet Partisini ziyaret etti: “Sandıktan kaçmak, milletten kaçmaktır”",
+    "source": "Evrensel",
+    "time": "14/04/2026 12:05",
+    "link": "https://www.evrensel.net/haber/5979558/ozgur-ozel-saadet-partisini-ziyaret-etti-sandiktan-kacmak-milletten-kacmaktir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Genel Başkanı Özgür Özel, “ara seçim” görüşmeleri kapsamında Saadet Partisi’ni ziyaret etti. Görüşme sonrası yapılan açıklamada erken seçimin kaçınılmaz olduğu vurgulandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342930.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_06bd245f",
     "title": "ÇAYKUR’da 40 Yaş Sınırı Tepkisi... Mühendislerin %80’i Kadro Dışında Kaldı",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ordu Üniversitesi ev sahipliğinde düzenlenen '1. Uluslararası Modern Bilimsel Araştırmalar Kongresi' başladı. 35 ülkeden 581 bildirinin sunulacağı kongre, hem yüz yüze hem de çevrim içi oturumlarla gerçekleştirilecek.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/orduda-uluslararasi-modern-bilimsel-arastirmalar-kongresi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1d61c811",
-    "title": "Şanlıurfa Siverek'te okula silahlı saldırı: 17 yaralı",
-    "source": "DW Türkçe",
-    "time": "14/04/2026 11:45",
-    "link": "https://www.dw.com/tr/şanlıurfa-siverek-te-okula-silahlı-saldırı-17-yaralı/a-76771612",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa'nın Siverek ilçesinde bir okula düzenlenen silahlı saldırıda aralarında öğrencilerin de olduğu 17 kişi yaralandı. Saldırganın intihar ettiği bildirildi.",
-    "image": null,
     "keyword": null
   }
 ]
