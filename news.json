@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5b24e73",
+    "title": "IMF, Türkiye için büyüme tahminini düşürdü",
+    "source": "Ekonomim",
+    "time": "14/04/2026 16:07",
+    "link": "https://www.ekonomim.com/ekonomi/imf-turkiye-icin-buyume-tahminini-dusurdu-haberi-888058",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Para Fonu, Türkiye için 2026 büyüme tahminini aşağı yönlü revize ederken, yüksek seviyelerde kalan enflasyonun kademeli olarak gerileyeceğini öngördü.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/26/imf-cin-tehdidine-nihayet-uyandi-mi-ncgc_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1601605d",
     "title": "AFAD duyurdu! Marmara Denizi'nde deprem",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/1-1776163459.jpg",
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "GND_e89b34bc",
-    "title": "İspanya hükümeti, 500 binden fazla düzensiz göçmeni yasallaştıran süreci başlattı",
-    "source": "TRT Haber",
-    "time": "14/04/2026 15:47",
-    "link": "https://www.trthaber.com/haber/dunya/ispanya-hukumeti-500-binden-fazla-duzensiz-gocmeni-yasallastiran-sureci-baslatti-941622.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya'da azınlık sol koalisyon hükümeti, ülkedeki 500 binden fazla düzensiz göçmenin yasal olarak oturma ve çalışma izni alabilmelerini sağlayacak süreci başlattı.",
-    "image": null,
-    "keyword": null
   }
 ]
