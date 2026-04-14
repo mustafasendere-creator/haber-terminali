@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1c2f0548",
+    "title": "Liseye silahlı saldırıda yeni gelişme: 4 kişi görevden uzaklaştırıldı",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 19:06",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/liseye-silahli-saldirida-yeni-gelisme-4-kisi-gorevden-uzaklastirildi-2495207",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'nın Siverek ilçesinde bir lisede düzenlenen silahlı saldırıda yaralanan 16 kişiden 7'sinin taburcu edildiği, 9 yaralının tedavisinin sürdüğü bildirildi. Valilikten yapılan açıklamada 4 kişinin görevinden uzaklaştırıldığı aktarıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7ddf451a",
     "title": "Ayhan Bora Kaplan suç örgütü davası  | Dikkat çeken iddia: Başsavcıvekili bazı isimleri gözaltı listesinden çıkardı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "AKP 2'si CHP'den olmak üzere 4 belediye başkanının katılacağı iddia edildi.  Belediye başkanlarına Erdoğan'ın rozet takacağı öne sürüldü.",
     "image": "https://static.birgun.net/resim/haber/2026/04/14/iddia-4-belediye-baskani-akp-ye-katilacak.jpg",
     "keyword": "taka"
-  },
-  {
-    "id": "GND_c5b18b92",
-    "title": "Borsa günü yükselişle tamamladı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 18:44",
-    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/3905472",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,02 değer kazanarak 14.202,24 puandan tamamladı.",
-    "image": null,
-    "keyword": null
   }
 ]
