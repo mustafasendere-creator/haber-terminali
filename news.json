@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6fea7806",
+    "title": "Gayrimenkul yatırımında rota Türkiye'ye yöneliyor",
+    "source": "TRT Haber",
+    "time": "14/04/2026 19:46",
+    "link": "https://www.trthaber.com/haber/ekonomi/gayrimenkul-yatiriminda-rota-turkiyeye-yoneliyor-941630.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası gayrimenkul yatırımcıları, ABDİsrail ile İran arasındaki çatışmaların ardından \"riski dağıtma\" ve \"B planı oluşturma\" amacıyla alternatif rota arayışına girerken bu seçenekler arasında Türkiye de öne çıkıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2e9342a9",
     "title": "Bakan Göktaş'tan Şanlıurfa'daki okul saldırısına ilişkin açıklama",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Antalya Milletvekili Aykut Kaya, şehit anne ve babalarının maaşlarının en az iki asgari ücret seviyesine çıkarılması çağrısında bulundu.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/chpli-kayadan-cagri-sehit-ailelerinin-maasi-iki-asgari-ucret-olmali-sxyi_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_642d2b9c",
-    "title": "ABD açıkladı: İran ablukasında kaç asker görev alıyor?",
-    "source": "Ekonomim",
-    "time": "14/04/2026 18:47",
-    "link": "https://www.ekonomim.com/dunya/abd-acikladi-iran-ablukasinda-kac-asker-gorev-aliyor-haberi-888083",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran limanlarına yönelik ablukaya 10 binden fazla askerin katıldığını açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/04/centcom-orta-doguya-ilk-tek-yonlu-saldiri-iha-filosunu-konuslandirdi-b7uk_cover.gif",
     "keyword": null
   }
 ]
