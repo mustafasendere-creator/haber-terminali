@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c98bdefc",
+    "title": "Araştırma: Yapay zekâ ilk hasta tanısında vakaların yüzde 80'inden fazlasında başarısız oldu",
+    "source": "Euronews",
+    "time": "14/04/2026 11:10",
+    "link": "http://tr.euronews.com/saglik/2026/04/14/arastirma-yapay-zeka-ilk-hasta-tanisinda-vakalarin-80inden-fazlasinda-basarisiz-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni bir çalışmaya göre, yapay zekâ dil modelleri uygun bir erken tanı koymakta vakaların yüzde 80’inden fazlasında başarısız oluyor. Bu da henüz denetimsiz klinik kullanım için güvenli olmadıklarını gösteriyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_618035ef",
     "title": "Trabzon Çaykara Belediyesine dikkat çeken ziyaret...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İtalyan dergi L’Espresso, 10 Nisan 2026 tarihli sayısının kapağında bir işgalci İsrail askerinin Batı Şeria’da Filistinli bir kadını taciz ederken çekilen fotoğrafını kullandı. “İstismar” başlığı atılan kapak, dünya çapında ses getirdi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/bati-medyasindan-israile-kapak-istismar-e3cr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_18805435",
-    "title": "Kerem Aktürkoğlu baba oluyor",
-    "source": "OdaTV",
-    "time": "14/04/2026 10:45",
-    "link": "https://www.odatv.com/spor/kerem-akturkoglu-baba-oluyor-120143245",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe&#039;nin milli futbolcusu Kerem Aktürkoğlu, baba olacağını duyurdu. Aktürkoğlu, &quot;Çok güzel bir duygu. Allah isteyen herkese nasip etsin&quot; dedi",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/kerem-akturkoglu-baba-oluyor-fchp.jpg",
     "keyword": null
   }
 ]
