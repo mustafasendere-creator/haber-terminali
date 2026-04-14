@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ea38af68",
+    "title": "Son dakika... Kemal Kılıçdaroğlu'na 'Cumhurbaşkanı'na hakaret'ten hapis cezası!",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 12:46",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kemal-kilicdaroglu-na-cumhurbaskani-na-hakaret-ten-hapis-cezasi-2495078",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberi... Mersin 3. Asliye Ceza Mahkemesi'nde görülen davada karar çıktı. CHP'nin eski genel başkanı Kemal Kılıçdaroğlu, \"Cumhurbaşkanı'na hakaret\" suçundan 11 ay 20 gün hapis cezasına çarptırıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/106987d2-36ac-4ca1-9ece-4870eaa6d36b.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_682818d2",
     "title": "[Rodop] Galatasaray is very close to landing Kaan Ayhan & Kenan Karaman",
     "source": "Reddit",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, havacılık personeli için çevrim içi sınav merkezi sayısını 6 şehirde 12 merkeze çıkardıklarını bildirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c22e3056",
-    "title": "Antalya’da akılalmaz kaza: Demirler arabaya saplandı",
-    "source": "OdaTV",
-    "time": "14/04/2026 12:07",
-    "link": "https://www.odatv.com/guncel/antalyada-akilalmaz-kaza-demirler-arabaya-saplandi-120143233",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya’da çekici üzerindeki inşaat demirleri otomobilin camından içeri girdi. Faciaya ramak kalan kazada 2 kişi hafif yaralanırken, o anlar kameraya yansıdı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/antalyada-akilalmaz-kaza-demirler-arabaya-saplandi-wasw.png",
     "keyword": null
   }
 ]
