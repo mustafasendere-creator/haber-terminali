@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6c022072",
+    "title": "Meliha Keskin'in katiline ağırlaştırılmış müebbet istemi",
+    "source": "Evrensel",
+    "time": "14/04/2026 21:04",
+    "link": "https://www.evrensel.net/haber/5979654/meliha-keskinin-katiline-agirlastirilmis-muebbet-istemi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri’de eskiden evli olduğu Meliha Keskin’i üniversite kampüsünde öldüren sanığın yargılandığı davada savcı, “tasarlayarak kasten öldürme” suçundan ağırlaştırılmış müebbet hapis cezası talep etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343027.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c854da33",
     "title": "'Halkı yanıltıcı bilgiyi alenen yayma suçu'nu konuşuyoruz | Adaletin İş Yüzü",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor&#039;da RAMS Başakşehir maçı hazırlıkları başladı",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/krc01775.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1b4172b0",
-    "title": "Köy Enstitüleri'nin kuruluşunun 86. yılı etkinliklerle kutlanıyor",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 20:05",
-    "link": "https://www.cumhuriyet.com.tr/yasam/koy-enstituleri-nin-kurulusunun-86-yili-etkinliklerle-kutlaniyor-2495222",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhuriyet devriminin en büyük eğitim atılımlarından biri olan Köy Enstitüleri'nin kuruluşunun 86. yılı etkinliklerle kutlanıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2a196625-8033-4d41-b4cb-17cf0161b1e5.jpg",
-    "keyword": null
   }
 ]
