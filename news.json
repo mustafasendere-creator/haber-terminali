@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d7783183",
+    "title": "Hatay'da 28 köy evi depremzedelere teslim edildi",
+    "source": "TRT Haber",
+    "time": "14/04/2026 22:25",
+    "link": "https://www.trthaber.com/haber/turkiye/hatayda-28-koy-evi-depremzedelere-teslim-edildi-941666.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'ın Kırıkhan ilçesinde yapımı tamamlanan 28 köy evi, hak sahibi depremzedelere teslim edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a43578b2",
     "title": "Lübnan, ABD'de İsrail'le yapılacak görüşmelerde ateşkes talep edecek",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Genel Sekreteri Sami Karaman, RAMS Başakşehir maçı öncesi bordo-mavili taraftara seslendi. Kritik mücadelede Papara Park’ın tamamen dolmasını isteyen Karaman, hedefin 40 bin taraftar olduğunu açıkladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/taraftar-103.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_6da8c9f2",
-    "title": "CANLI YAYIN | Liverpool - PSG (Şampiyonlar Ligi)",
-    "source": "Haber Global",
-    "time": "14/04/2026 21:26",
-    "link": "https://haberglobal.com/spor/rovans-liverpool-psg-maci-canli-izle-518784",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Şampiyonlar Ligi çeyrek final rövanş maçında Liverpool ile PSG karşı karşıya geliyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/rovans-liverpool-psg-maci-canli-izle-yd6a.jpg",
-    "keyword": null
   }
 ]
