@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6a025ddf",
+    "title": "Niğde’nin Kiledere beldesi 'şap hastalığı' alarmı: Bölge karantinaya alındı",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 11:11",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/nigde-nin-kiledere-beldesi-sap-hastaligi-alarmi-bolge-karantinaya-alindi-2495053",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Niğde’ye bağlı Kiledere Beldesi; büyükbaş hayvanlarda tespit edilen şap hastalığı vakaları nedeniyle 40 gün süreyle karantina altına alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/416ef59e-2204-42c4-a9c3-2d75b98700c3.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_508eab72",
     "title": "Erzurum’da Zirveye Çıktılar, Hedef Türkiye Şampiyonluğu",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İrlandalı seyahat sigortası şirketi JustCover’ın araştırmasına göre Lizbon, dünyanın en renkli şehri seçildi. Analiz edilen fotoğraflarda 2,6 milyondan fazla renk tespit edildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_fd8efc19",
-    "title": "Ortahisar’ın Minik Kulaçlarından Madalya Yağmuru",
-    "source": "Kuzey Ekspres",
-    "time": "14/04/2026 11:01",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27807803/ortahisarin-minik-kulaclarindan-madalya-yagmuru",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da düzenlenen 23 Nisan Yüzme Yarışları’na 15 sporcu ile katılan Ortahisar Belediyespor, turnuvada 28 madalya kazanarak büyük bir başarı elde etti. Belediye Başkanı Ahmet Kaya, “Bu başarı geleceğin şampiyonlarının habercisi” diyerek dereceye giren sporcuları tebrik etti.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/yuzme2.jpg",
     "keyword": null
   }
 ]
