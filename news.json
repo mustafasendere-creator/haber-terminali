@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_588e9e0f",
+    "title": "Yer: Antalya! Alkollü sürücü tramvay durağına daldı",
+    "source": "Haber Global",
+    "time": "14/04/2026 11:27",
+    "link": "https://haberglobal.com/gundem/yer-antalya-alkollu-surucu-tramvay-duragina-daldi-518624",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Muratpaşa ilçesinde alkollü olduğu tespit edilen bir sürücü kontrolünü kaybederek otomobiliyle tramvay durağına girdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/yer-antalya-alkollu-surucu-tramvay-duragina-daldi-oafy.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_75941425",
     "title": "Papa: Trump’tan korkmuyorum",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Burak Yılmaz istifa açıklamasında bahis soruşturması ve hakem kararlarına tepki gösterdi, çifte standart vurgusu yaptı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/burak-yilmaz-sozleri-infial-yaratti-trabzonspor-macinda-yedigimiz-gol-iptal-olmuyor.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ed6b9416",
-    "title": "Sebze fiyatları cep yakıyor: Esnaf da vatandaş da şikayetçi",
-    "source": "Evrensel",
-    "time": "14/04/2026 11:10",
-    "link": "https://www.evrensel.net/haber/5979541/sebze-fiyatlari-cep-yakiyor-esnaf-da-vatandas-da-sikayetci",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP’li Ömer Fethi Gürer’in pazar ziyaretinde hem esnaf hem vatandaş artan maliyetler ve düşen alım gücünden şikayet etti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342906.jpg",
-    "keyword": null
   }
 ]
