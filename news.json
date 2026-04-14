@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_22b8eb5f",
+    "title": "İddia: İran nükleeri 5 yıl askıya almayı önerdi, ABD yetersiz buldu",
+    "source": "10Haber",
+    "time": "14/04/2026 06:54",
+    "link": "https://10haber.net/dunya/iddia-iran-nukleeri-5-yil-askiya-almayi-onerdi-abd-yetersiz-buldu-694978/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İranlı ve ABD&#8217;li yetkililere göre, ABD ve İran hafta sonu Pakistan&#8217;da yapılan görüşmelerde İran&#8217;ın nükleer faaliyetlerinin askıya alınmasına ilişkin tekliflerde bulundular, ancak herhangi bir anlaşmanın süresi konusunda hâlâ çok uzaktalar. The New York Times gazetesinin haberine göre İran Pazartesi günü, uranyum zenginleştirmeyi beş yıla kadar askıya alabileceğini söyledi; Trump yönetimi ise bu teklifi reddederek 20 [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/vance-3.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_f418679c",
     "title": "Trump bu sefer sert bir kayaya çarptı: Dindar sağ Papa’ya söylediklerine ve yayınladığı resme çok kızdı",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "ING Türkiye (@ingturkiye) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon gündem"
-  },
-  {
-    "id": "GND_5ec2d205",
-    "title": "AKP'ye geçen Özlem Çerçioğlu'nun başkan vekilleri CHP'den seçildi",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 02:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/akp-ye-gecen-ozlem-cercioglu-nun-baskan-vekilleri-chp-den-secildi-2494882",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKP'ye geçen Aydın Büyükşehir Belediyesi Başkanı Özlem Çerçioğlu'nun yönettiği belediye meclisindeki başkan vekilliği seçimlerinde CHP'nin gösterdiği adaylar seçildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4bcc56aa-585d-4c61-97c7-fdd114f89dca.jpg",
-    "keyword": null
   }
 ]
