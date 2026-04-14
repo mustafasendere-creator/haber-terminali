@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_164e3a3b",
+    "title": "Hakkari'de katı atık tesisi zarar gördü",
+    "source": "Habertürk",
+    "time": "14/04/2026 11:11",
+    "link": "https://www.haberturk.com/hakkari-de-kati-atik-tesisi-zarar-gordu-3877071",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari'de meydana gelen heyelan nedeniyle entegre katı atık tesisi ve sahasında hasar oluştu. Şemdinli Belediye Başkanı ve Katı Atık Yönetim Birliği Başkanı Fahri Şakar, önceki günlerde etkili olan yağışların ardından tesisin bulunduğu alanda heyelan meydana geldiğini belirterek, heyelanda yaklaşık 2 milyon metreküp toprağın kaydığını tahmin ettiklerini söyledi",
+    "image": "https://im.haberturk.com/l/2026/04/13/ver1776095424/3877071/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_7d8070e4",
     "title": "Saadet Partisi Trabzon’dan Sistem Eleştirisi: \"Hız Kazandık Ama Dengeyi Kaybettik\"",
     "source": "Kuzey Ekspres",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dünya başkentleri, ABD'nin Hürmüz Boğazı'ndaki İran limanlarına abluka uygulama kararı için ne diyor?",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_296e8534",
-    "title": "Almanya-İsrail arasında gerginlik: \"Özür dilemeli\"",
-    "source": "DW Türkçe",
-    "time": "14/04/2026 11:02",
-    "link": "https://www.dw.com/tr/almanya-israil-arasında-gerginlik-özür-dilemeli/a-76770388",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya Başbakanı Merz, İsrail Başbakanı Netanyahu'yu Batı Şeria ve Lübnan konusunda uyardı. İsrailli Bakan Smotrich ise \"Bizi tekrar gettolara zorlayamayacaksınız\" diyerek Merz'i ağır ifadelerle hedef aldı.",
     "image": null,
     "keyword": null
   }
