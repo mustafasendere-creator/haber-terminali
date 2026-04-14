@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5cf47837",
+    "title": "İsrail'in Lübnan'ın güneyine geceden bu yana düzenlediği saldırılarda 2 kişi hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 08:54",
+    "link": "https://www.aa.com.tr/tr/live-blog/israilin-lubnanin-guneyine-geceden-bu-yana-duzenledigi-saldirilarda-2-kisi-hayatini-kaybetti/962",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu Lübnan'a 2 Mart'ta başlattığı saldırıları sürdürüyor. İsrail ordusunun Lübnan'a gece saatlerinden bu yana düzenlediği saldırılarda 2 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_5d02356e",
     "title": "Ferit Demir (@DemirFerit62) / Posts / X - x.com",
     "source": "X",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fransa'nın doğusundaki Hagenbach köyünde, 2024 yılından bu yana babası tarafından bir minibüste kilitli tutulan 9 yaşındaki bir çocuk kurtarıldı. Uzun süredir hareketsiz kalan ve yetersiz beslenen çocuğun yürüyemez halde olduğu ve hastaneye kaldırıldığı bildirildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/fransada-korkunc-olay-9-yasindaki-cocuk-iki-yil-boyunca-bir-minibuste-kilitli-tutuldu-3em2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_30553272",
-    "title": "İran'da internet kesintisinin ekonomiye zararının günlük en az 30 milyon dolar olduğu iddia edildi",
-    "source": "TRT Haber",
-    "time": "14/04/2026 07:35",
-    "link": "https://www.trthaber.com/haber/dunya/iranda-internet-kesintisinin-ekonomiye-zararinin-gunluk-en-az-30-milyon-dolar-oldugu-iddia-edildi-941544.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Ticaret Odası Bilgi Tabanlı Ekonomi Komisyonu Başkanı Afşin Kolahi, İran'da internetin uluslararası erişime kapalı olmasının ekonomiye zararının 30 ila 40 milyon dolar arasında olduğunu söyledi.",
-    "image": null,
     "keyword": null
   }
 ]
