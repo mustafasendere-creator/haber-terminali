@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_26773d2e",
+    "title": "ABD'den Meksika merkezli suç örgütüne yaptırım kararı",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 21:24",
+    "link": "https://www.aa.com.tr/tr/dunya/abdden-meksika-merkezli-suc-orgutune-yaptirim-karari/3905662",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Dışişleri Bakanlığı, ABD-Meksika sınırında faaliyet gösteren Meksika merkezli suç örgütü Cartel del Noreste ile bağlantılı kumarhanelere ve üst düzey yöneticilere yaptırım uygulanacağını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ea512e5f",
     "title": "BM Genel Sekreteri Guterres, Orta Doğu'da müzakerelere devam edilmesi çağrısı yaptı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "BBC’nin haberine göre Yunanistan’ın kullandığı düzensiz göçmenler, ülkeye yasa dışı yollarla giren kişileri Türkiye’ye geri gönderirken işkence ve cinsel saldırı gibi suçlar işliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9c1634e5",
-    "title": "Filistinli kurumlar, İsrail hapishanelerindeki Filistinli tutuklu sayısının 9 bin 600'ü geçtiğini açıkladı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 20:24",
-    "link": "https://www.aa.com.tr/tr/dunya/filistinli-kurumlar-israil-hapishanelerindeki-filistinli-tutuklu-sayisinin-9-bin-600u-gectigini-acikladi/3905631",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail hapishanelerindeki Filistinli tutuklu sayısının 86'sı kadın, 352'si çocuk olmak üzere 9 bin 600'ü aştığı belirtildi.",
     "image": null,
     "keyword": null
   }
