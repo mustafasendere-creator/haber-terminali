@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_66116630",
+    "title": "Taksim Metro İstasyonu'nda yangın paniği!",
+    "source": "Haber Global",
+    "time": "14/04/2026 22:45",
+    "link": "https://haberglobal.com/gundem/taksim-metro-istasyonunda-yangin-panigi-518790",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da Taksim Metro İstasyonu'nda bulunan asansörde bilinmeyen nedenle yangın çıktı. Paniğe neden olan yangın itfaiye tarafından söndürüldü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/taksim-metro-istasyonunda-yangin-panigi-vkk9.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5007c2e3",
     "title": "Serik Belediye Başkanı Kadir Kumbul CHP'den istifa etti",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon&#039;da Eğitim sendikaları, artan şiddet olaylarına tepki göstermek amacıyla 2 gün iş bırakma kararı aldı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/trabzonda-ogretmenler-is-birakiyor.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_d3f9413c",
-    "title": "Trabzonspor’a Çifte Müjde! Kritik Maç Öncesi Geri Dönüş",
-    "source": "Taka Gazetesi",
-    "time": "14/04/2026 21:46",
-    "link": "https://www.takagazete.com.tr/trabzonspora-cifte-mujde-kritik-mac-oncesi-geri-donus",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’da sakatlık kabusu sona eriyor. Haftalardır takımdan uzak kalan Arseniy Batagov ve Ernest Muçi için sevindiren gelişmeler yaşandı. Başakşehir maçı öncesi gelen bu haberler, teknik direktör Fatih Tekke’nin planlarını yeniden şekillendirdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/b-a-t-a-g-o-v-m-u-c-i.jpg",
     "keyword": "trabzon"
   }
 ]
