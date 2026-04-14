@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59735539",
+    "title": "İran'dan sınır valilerine \"deniz ablukası\" tehdidine karşı talimat",
+    "source": "BirGün",
+    "time": "14/04/2026 16:05",
+    "link": "https://www.birgun.net/haber/iran-dan-sinir-valilerine-deniz-ablukasi-tehdidine-karsi-talimat-705817",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran İçişleri Bakanı Mumini, ABD’nin deniz ablukası tehdidine karşı sınır valilerine, temel ihtiyaç maddelerinin ithalat ve ihracatında kendilerine devredilen yetkileri kullanma çağrısı yaptı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/iran-dan-sinir-valilerine-deniz-ablukasi-tehdidine-karsi-talimat.webp",
+    "keyword": null
+  },
+  {
     "id": "YRL_1a71ecb2",
     "title": "Trabzon'da Korkutan Görüntü: Yol Ortasında Ölü Ayı Bulundu",
     "source": "Günebakış",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'un Of ilçesinde ilk ve ortaokul öğrencilerine yönelik \"11. Akıl ve Zeka Oyunları\" düzenlendi.",
     "image": "https://resim.haber61.net/news/612694.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_52baa0df",
-    "title": "Ordu'da telefon hırsızlığı kamerada",
-    "source": "Taka Gazetesi",
-    "time": "14/04/2026 15:45",
-    "link": "https://www.takagazete.com.tr/orduda-telefon-hirsizligi-kamerada",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu'nun Ünye ilçesinde gece yarısı yaşanan hırsızlık olayı, güvenlik kameralarına saniye saniye yansıdı. Telefon dükkanını hedef alan şüpheli, vitrini taşla kırarak kısa sürede çok sayıda cihazı alıp kaçtı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/orduda-telefon-hirsizligi-kamerada.jpg",
-    "keyword": null
   }
 ]
