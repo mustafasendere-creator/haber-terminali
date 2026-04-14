@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ce4e79cb",
+    "title": "Bursa'da barajların doluluk oranı yüzde 100'e yaklaştı",
+    "source": "TRT Haber",
+    "time": "14/04/2026 13:06",
+    "link": "https://www.trthaber.com/haber/turkiye/bursada-barajlarin-doluluk-orani-yuzde-100e-yaklasti-941600.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın içme suyu ihtiyacının büyük bir bölümünü karşılayan Nilüfer ve Doğancı barajlarındaki ortalama doluluk oranı yüzde 96,4 olarak ölçüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ea1ef1d8",
     "title": "Soykırımcı İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 336'ya yükseldi",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Meclisi’nde görüşülen 2025 yılı faaliyet raporu sonrası CHP İl Başkanı Bak sert açıklamalarda bulundu.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/chp-il-baskani-baktan-trabzon-buyuksehir-belediyesine-sert-cikis-1776157864.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9449ea5a",
-    "title": "Erken emeklilik yolunda dev adım: Beklenen düzenleme kapıda",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 12:46",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/erken-emeklilik-yolunda-dev-adim-beklenen-duzenleme-kapida-2495076",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bağ-Kur kapsamında çalışan esnaf ve çiftçilerin emeklilik şartlarına ilişkin düzenleme beklentisi gündemde. Prim gün sayısının düşürülmesine yönelik çalışma, emeklilik koşullarında değişiklik ihtimalini artırıyor. Düzenlemenin yasalaşma süreci yakından takip ediliyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/83b755bb-d319-410f-aa60-d70bb89d82df.jpeg",
-    "keyword": null
   }
 ]
