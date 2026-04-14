@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_8ef46877",
+    "title": "Türkiye: Enerjide merkez ülke",
+    "source": "A Haber",
+    "time": "14/04/2026 07:14",
+    "link": "https://www.ahaber.com.tr/yazarlar/okan-muderrisoglu/2026/04/14/turkiye-enerjide-merkez-ulke",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enerji Bakanı Bayraktar, Türkiye’nin enerjide merkez ülke olacağını belirterek Irak, Türkmenistan, Katar’la planlanan petrol ve gaz hatlarına dikkat çekti.Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
+    "id": "GND_feeaa741",
+    "title": "Terörsüz Türkiye olmasaydı, PKK-YPG nerede olurdu?",
+    "source": "A Haber",
+    "time": "14/04/2026 07:14",
+    "link": "https://www.ahaber.com.tr/yazarlar/mahmut-ovur/2026/04/14/terorsuz-turkiye-olmasaydi-pkk-ypg-nerede-olurdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son günlerde soykırımcı Netanyahu ve saldırgan Bakan Katz'ın Cumhurbaşkanı Erdoğan'a yönelik art arda yaptığı saldırılar asla tesadüf değil. Bu, bölgede Türkiye'nin barış eksenli politikasının ne...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_7edb7915",
     "title": "Hâlâ baharın başında mıyız?",
     "source": "A Haber",
@@ -934,29 +958,5 @@
     "summary": "Serdar çok naif ve iyi bir adam Trabzon’la ilgili her yapacağım her işte ya da etkinlikte olmasını isteyeceğim türden ortama neşe,enerji ve keyif veren bir adam değerini kıymetini bilelim @SerdarMKaratay  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_afe49533",
-    "title": "Avrupa'nın merkezinde benzin kuyruğu",
-    "source": "OdaTV",
-    "time": "14/04/2026 03:14",
-    "link": "https://www.odatv.com/guncel/avrupanin-merkezinde-benzin-kuyrugu-120143203",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Belçika&#039;da ABD-İran gerilimi nedeniyle akaryakıta yeni zam: İstasyonlarda kuyruk oluştu...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/avrupanin-merkezinde-benzin-kuyrugu-8pyr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e53980d7",
-    "title": "Şüpheli alacak karşılığı ayrılmasında dava koşulu",
-    "source": "Ekonomim",
-    "time": "14/04/2026 03:14",
-    "link": "https://www.ekonomim.com/kose-yazisi/supheli-alacak-karsiligi-ayrilmasinda-dava-kosulu/887900",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/supheli-alacak-karsiligi-ayrilmasinda-dava-kosulu-wohg_cover.jpg",
-    "keyword": null
   }
 ]
