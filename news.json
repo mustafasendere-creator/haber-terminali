@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f36bff5c",
+    "title": "Rus İHA saldırısı sonrası Çernobil'de onarım durdu, felaket boyutunda çökme riski arttı",
+    "source": "Euronews",
+    "time": "14/04/2026 14:05",
+    "link": "http://tr.euronews.com/2026/04/14/rus-iha-saldirisi-sonrasi-cernobilde-onarim-durdu-felaket-boyutunda-cokme-riski-artti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nükleer tesisin etrafındaki koruyucu yapının onarılmaması, ‘sınır tanımayan’ ‘yüksek derecede radyoaktif toz’u serbest bırakabilir, uzmanlar uyarıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6d6a852c",
     "title": "46. evlilik yıldönümünde birlikte bypas ameliyatı oldular",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "BTK’nin elektronik haberleşme sektörüne ilişkin verileri, tüketici şikayetlerinde artışa işaret ediyor. İnternet ve mobil iletişim hizmetleri başta olmak üzere çeşitli alanlarda başvurular yoğunlaşıyor. Şikayetler özellikle hizmet kalitesi ve abonelik süreçlerinde toplanıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7d9c4f55-3cf7-4a68-8533-9932a6aff37e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7b6adc7e",
-    "title": "İsrail’de Mossad ataması krizi: Karar yargıya taşındı",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 13:26",
-    "link": "https://www.cumhuriyet.com.tr/dunya/israil-de-mossad-atamasi-krizi-karar-yargiya-tasindi-2495091",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail’de Mossad’ın yeni direktörü olarak atanması planlanan Tümgeneral Roman Gofman hakkında açılan dava, ülkede tartışma yarattı. Başvuruda, Gofman’ın geçmişte bir reşit olmayan kişiyi gizli bilgi paylaşımında kullanmakla suçlandığı olay temel alındı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e87b7a70-4fbe-46ea-b3b0-2648a00f7c57.jpg",
     "keyword": null
   }
 ]
