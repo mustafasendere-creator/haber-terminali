@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_deee24df",
+    "title": "Ümraniye Dudullu Organize Sanayi Bölgesi'nde yangın!",
+    "source": "Haber Global",
+    "time": "14/04/2026 11:27",
+    "link": "https://haberglobal.com/gundem/umraniye-dudullu-organize-sanayi-bolgesinde-yangin-518632",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ümraniye Dudullu Organize Sanayi Bölgesi'nde bir fabrikada henüz bilinmeyen bir nedenle yangın çıktı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/umraniye-dudullu-organize-sanayi-bolgesinde-yangin-oeax.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a859beaa",
     "title": "Etimesgut Belediyesi'ndeki zimmet soruşturmasında bir kişi tutuklandı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/dijital-tehditlere-karsi-trabzon-merkezli-seferberlik-konferanslar-suruyor-1.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3f1ecf8d",
-    "title": "Sadettin Saran'dan tarihi prim: Son 5 maç için Fenerbahçe'den dev hamle",
-    "source": "Evrensel",
-    "time": "14/04/2026 11:10",
-    "link": "https://www.evrensel.net/haber/5979542/sadettin-sarandan-tarihi-prim-son-5-mac-icin-fenerbahceden-dev-hamle",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig’de şampiyonluk yarışının kızışmasıyla Fenerbahçe’de başkan Sadettin Saran’dan dikkat çeken prim kararı geldi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342908.jpg",
-    "keyword": null
   }
 ]
