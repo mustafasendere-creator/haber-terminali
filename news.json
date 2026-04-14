@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e9e3c32b",
+    "title": "İsrail ordusunun Lübnan'ın güneyine saldırıları sürüyor",
+    "source": "Haber Global",
+    "time": "14/04/2026 21:45",
+    "link": "https://haberglobal.com/dunya/israil-ordusunun-lubnanin-guneyine-saldirilari-suruyor-518785",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu Lübnan'ın güneyindeki çok sayıda beldeye saldırılar düzenledi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/israil-ordusunun-lubnanin-guneyine-saldirilari-suruyor-eoyx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8d145f33",
     "title": "CANLI YAYIN | Liverpool PSG Maçı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şanlıurfa&#039;da bir lisede yaşanan ve 16 kişinin yaralandığı silahlı saldırının ardından öğretmenler 1 günlük iş bırakma kararı aldı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/ogretmenler-1-gun-is-birakma-karari-aldi-bxaj_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7fc0f0ca",
-    "title": "Avrupa borsaları günü yükselişle kapattı",
-    "source": "Ekonomim",
-    "time": "14/04/2026 20:45",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-gunu-yukselisle-kapatti-haberi-888102",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa borsaları haftanın ikinci işlem gününü yükselişle tamamladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/07/avrupa-borsalari-gunu-dususle-kapatti-hin9_cover.jpg",
     "keyword": null
   }
 ]
