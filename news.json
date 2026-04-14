@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2a193f77",
+    "title": "Evin terası alevlere teslim oldu",
+    "source": "Gazete Duvar",
+    "time": "14/04/2026 09:43",
+    "link": "https://www.gazeteduvar.com.tr/evin-terasi-alevlere-teslim-oldu-haber-1765816",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay’ın Kırıkhan ilçesinde 2 katlı müstakil evin terası alevlere teslim olarak yandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/14/f5haber-cbsq_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_274eca8a",
     "title": "Sinop'ta iki motosiklet çarpıştı: 2 yaralı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Süper Lig’de şampiyonluk yarışı kızışırken, Trabzonspor ortaya koyduğu mali disiplinle takdir toplamaya devam ediyor.",
     "image": "https://resim.haber61.net/news/612590.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_97b54fab",
-    "title": "Trabzonspor adeta fark attı: Şimdiden 25 puana çıktı",
-    "source": "Haber61",
-    "time": "14/04/2026 09:00",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-adeta-fark-atti-simdiden-25-puana-cikti-h629528.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’dan geçtiğimiz sezona 25 puanlık fark attı.",
-    "image": "https://resim.haber61.net/news/612592.jpg",
     "keyword": "trabzon"
   }
 ]
