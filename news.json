@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d380b1d7",
+    "title": "Bursa'da üretilen her iki otomobilden biri ihraç edildi",
+    "source": "TRT Haber",
+    "time": "14/04/2026 16:25",
+    "link": "https://www.trthaber.com/haber/ekonomi/bursada-uretilen-her-iki-otomobilden-biri-ihrac-edildi-941633.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "OYAK Renault ve TOFAŞ'ın fabrikalarının bulunduğu Bursa'da, yılın ilk çeyreğinde üretilen otomobillerin yarısı yurt dışına gönderildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4f9cbc2e",
     "title": "Balıkçılar av sezonunu kapatıyor",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "İstanbul’da barajlardaki su durumu, kent sakinlerinin yakından izlediği başlıca konular arasında yer almayı sürdürüyor. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) tarafından her gün açıklanan güncel verilerle baraj doluluk oranları kamuoyuyla paylaşılırken, son yağışların etkisiyle su seviyelerinin kritik eşiği aştığı görülüyor. Peki, 13 Nisan 2026 itibarıyla İstanbul barajlarında son durum ne, su seviyesi yüzde kaç seviyesine ulaştı? İşte detaylar…",
     "image": "https://im.haberturk.com/l/2026/04/13/ver1776062718/3876885/jpg/1280x1280",
     "keyword": null
-  },
-  {
-    "id": "TKP_c05413f1",
-    "title": "Akademisyenlerin Trabzon Buluşması",
-    "source": "Karadeniz Gazetesi",
-    "time": "14/04/2026 15:49",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/akademisyenlerin-trabzon-bulusmasi/608951",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
