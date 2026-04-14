@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c0b3cf8b",
+    "title": "Taksim Metro İstasyonu'nda asansör yangını",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 21:05",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/taksim-metro-istasyonu-nda-asansor-yangini-2495229",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Taksim Metro İstasyonu’ndaki asansörde çıkan yangın kısa süreli paniğe neden oldu. Yangın kontrol altına alınırken Cumhuriyet Tüneli çıkışı geçici olarak kapatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/afa1b0f4-07a3-45f0-89c6-34c90c5812e7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_50f1eabc",
     "title": "Cumhurbaşkanı Yardımcısı Yılmaz Astana'da iş adamlarıyla buluştu",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul’da bir ördek ailesinin karşıdan karşıya geçmesi için duyarlı bir sürücü akan trafiği durdurdu. O anlar trafikteki başka bir vatandaşın kamerasına yansıdı",
     "image": "https://im.haberturk.com/l/2026/04/13/ver1776083861/3877007/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_29dd529a",
-    "title": "Çocuklarını bir aydır sırtında taşıyor",
-    "source": "Habertürk",
-    "time": "14/04/2026 20:06",
-    "link": "https://www.haberturk.com/cocuklarini-bir-aydir-sirtinda-tasiyor-3877008",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hakkari'nin Yüksekova ilçesinde etkili olan yağışlar ve karların erimesi sonucu Yeni Mahalle'de bazı noktalar suyla doldu. Mahallede yaşayan Cengiz Dilce, evinin önündeki su birikintisi nedeniyle 2 çocuğunu yaklaşık 1 aydır her gün sırtında taşımak zorunda kaldığını söyledi",
-    "image": "https://im.haberturk.com/l/2026/04/13/ver1776082452/3877008/jpg/1280x1280",
     "keyword": null
   }
 ]
