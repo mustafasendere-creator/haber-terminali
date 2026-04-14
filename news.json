@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d9f7269c",
+    "title": "Atatürk Barajı'nda turkuaz ve yeşilin buluşması",
+    "source": "TRT Haber",
+    "time": "14/04/2026 17:07",
+    "link": "https://www.trthaber.com/haber/yasam/ataturk-barajinda-turkuaz-ve-yesilin-bulusmasi-941642.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyamanda Atatürk Baraj Gölünde bulunan yükselti ve küçük adacıklar, ilkbaharla birlikte yeşererek dikkat çekici bir manzara ortaya koydu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_cf7f59c7",
     "title": "Ölüm bile ayıramadı! 70 yıllık evli Trabzonlu çift, 24 saat arayla vefat etti",
     "source": "Kuzey Ekspres",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Beşiktaş'ta, Yapı Kredi Plaza önündeki polis noktasına yönelik terör saldırısına ilişkin gözaltına alınan 1 şüpheli daha adliyeye sevk edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1daeca78",
-    "title": "Cumhurbaşkanı Erdoğan, Türk Demokrasi Vakfı heyetini kabul etti",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 16:44",
-    "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turk-demokrasi-vakfi-heyetini-kabul-etti/3905236",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Baki Mert başkanlığındaki Türk Demokrasi Vakfı heyetini kabul etti.",
     "image": null,
     "keyword": null
   }
