@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4f9cbc2e",
+    "title": "Balıkçılar av sezonunu kapatıyor",
+    "source": "TRT Haber",
+    "time": "14/04/2026 16:25",
+    "link": "https://www.trthaber.com/haber/ekonomi/balikcilar-av-sezonunu-kapatiyor-941634.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "1 Eylül 2025'te 'Vira Bismillah' diyerek denize açılan Karadenizli balıkçılar için av sezonu 15 Nisan itibarıyla tamamlanıyor. Balıkçılar, palamut beklentisinin karşılanamadığı ancak hamsi bereketiyle geçen 7 aylık süreci geride bırakıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2b6dd6c8",
     "title": "Kayıtsız telefonlar 1 Mayıs'ta kapanacak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "",
     "image": null,
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_34702a03",
-    "title": "Trabzonsporlu golcü FCSB'yi birbirine kattı! Başkan ve direktör karşı karşıya...",
-    "source": "Kuzey Ekspres",
-    "time": "14/04/2026 15:48",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27808900/trabzonsporlu-golcu-fcsbyi-birbirine-katti-baskan-ve-direktor-karsi-karsiya",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Sezon sonu Trabzonspor&#039;a geri dönecek olan Denis Draguş için Rumen devi FCSB&#039;nin teklif yapması beklenirken, Kulüp Sahibi Gigi Becali ile Genel Direktör Mihai Stoica arasında anlaşmazlıklar sürüyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/14/large/denis-dragus-ts.webp",
     "keyword": "trabzon"
   }
 ]
