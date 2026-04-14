@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e997b8e8",
+    "title": "Bitcoin'de sert yükseliş",
+    "source": "BirGün",
+    "time": "14/04/2026 16:44",
+    "link": "https://www.birgun.net/haber/bitcoin-de-sert-yukselis-705808",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bitcoin, son 24 saatte yüzde 5’ten fazla yükselerek yaklaşık 74.600 dolar seviyesine çıktı ve Mart ortasından bu yana en yüksek seviyeye ulaştı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/14/bitcoin-de-sert-yukselis.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_aebf6c49",
     "title": "Açlık grevindeki tutsaklara zorla müdahale",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bahis soruşturması kapsamında tutuklanan ve 3 Nisan’daki duruşmada tahliye edilen Mert Hakan Yandaş, Fenerbahçe tesislerinde yeniden idmana çıktı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/14/mert-hakan-yandas-takimla-calismalara-basladi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_28dc7ccc",
-    "title": "Palamut Yok Ama Hamsi Var: Karadeniz’de Bereketli Sezon",
-    "source": "Taka Gazetesi",
-    "time": "14/04/2026 16:05",
-    "link": "https://www.takagazete.com.tr/video/palamut-yok-ama-hamsi-var-karadenizde-bereketli-sezon",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Karadeniz’de palamut avı beklentiyi karşılamadı ancak hamsi bolluğu balıkçıların yüzünü güldürdü. Sezon boyunca fiyatlar uygun kaldı.",
-    "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2026/04/hamsi-fiyat-1-11.gif",
     "keyword": null
   }
 ]
