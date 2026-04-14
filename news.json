@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_3bc3876c",
+    "title": "Turkish News and Discussion",
+    "source": "Reddit",
+    "time": "14/04/2026 12:47",
+    "link": "https://www.reddit.com/r/Turkey/",
+    "type": "SOC",
+    "prefix": "🤖",
+    "summary": "This subreddit is for news and discussion about Turkey. Posts both in English and Turkish are welcome. Bu subreddit Türkiye ile ilgili haber ve sohbet ortamıdır. Türkçe veya İngilizce yazabilirsiniz.   [link]",
+    "image": "https://a.thumbs.redditmedia.com/Sn9Ku9nuoJyg3SUOSSn58jbZ2dHmc-DnjRBqodnVhI0.png",
+    "keyword": "hrant dink"
+  },
+  {
     "id": "GND_789050ce",
     "title": "ECB’den bankalara kolaylık: Sınır ötesi sermaye akışı açılıyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkan Yardımcısı JD Vance, Donald Trump’ın Papa Leo’ya yönelik sert sözleri sonrası tartışmaya doğrudan müdahil oldu. Amerikan başkan yardımcısı, alevlenen polemikleri yatıştırmak yerine, Beyaz Saray ile Katolik dünyası arasındaki gerilimi daha da artırabilecek sözler sarf etti. Vance’e göre Vatikan “ahlaki konularla sınırlı kalmalı.”",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/abdnin-vatikana-saldirisi-suruyor-xfti.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4c594589",
-    "title": "Sevgi Uzun: \"Önce yarı finali kazanıp, finalde rakibimizi bekleyip Euroleague'de şampiyon olmak istiyoruz\"",
-    "source": "Haber Global",
-    "time": "14/04/2026 12:25",
-    "link": "https://haberglobal.com/spor/sevgi-uzun-once-yari-finali-kazanip-finalde-rakibimizi-bekleyip-euroleaguede-sampiyon-olmak-istiyoruz-518655",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe Opet'in milli basketbolcusu Sevgi Uzun, Kadınlar Euroleague 6'lı finalde şampiyonluğa ulaşacaklarına inandığını ifade etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/sevgi-uzun-once-yari-finali-kazanip-finalde-rakibimizi-bekleyip-euroleaguede-sampiyon-olmak-istiyoruz-mxjd.jpg",
     "keyword": null
   }
 ]
