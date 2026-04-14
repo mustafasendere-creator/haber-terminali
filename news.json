@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_430bf9f4",
+    "title": "Arnavutköy'de metal fabrikasında tüp patladı: Biri ağır, üç göçmen işçi yaralı",
+    "source": "Evrensel",
+    "time": "14/04/2026 07:35",
+    "link": "https://www.evrensel.net/haber/5979522/arnavutkoyde-metal-fabrikasinda-tup-patladi-biri-agir-uc-gocmen-isci-yarali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hadımköy'de bir metal fabrikasının imalat bölümünde meydana gelen şiddetli patlama sonrası yangın çıktı. İş kazasında 1'i ağır, üç göçmen işçi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342887.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_271b96c4",
     "title": "Acı bir kayıp: Müzisyen Cem Öcal 46 yaşında hayatını kaybetti",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şampiyonluk için kritik viraja giren Fenerbahçe’de yönetim ve takım “tek yürek” oldu. Sarı-Lacivertliler, Rizespor’u yenerek liderliğe yükselmeyi hedefliyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5a62566b-5c7e-437a-a5b8-84d592074055.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9d3b4fe7",
-    "title": "İzmir'de otomobille çarpışan motosikletli çarpıştı",
-    "source": "Haber Global",
-    "time": "14/04/2026 04:14",
-    "link": "https://haberglobal.com/gundem/izmirde-otomobille-carpisan-motosikletli-carpisti-518573",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir Karşıyaka'da otomobille çarpışan motosikletin sürücüsü Mehmet Akif Karaoğlu (18), yaşamını yitirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/izmirde-otomobille-carpisan-motosikletli-carpisti-phmz.jpg",
     "keyword": null
   }
 ]
