@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e6711ed",
+    "title": "Cumhurbaşkanı Erdoğan, Türk Demokrasi Vakfı heyetini kabul etti",
+    "source": "Haber Global",
+    "time": "14/04/2026 17:45",
+    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-turk-demokrasi-vakfi-heyetini-kabul-etti-518753",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Demokrasi Vakfı heyetini kabul etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/cumhurbaskani-erdogan-turk-demokrasi-vakfi-heyetini-kabul-etti-jjhl.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_da54f0fe",
     "title": "Cumhurbaşkanı Erdoğan, Macaristan Seçilmiş Başbakanı Magyar ile görüştü",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Çin, ABD'nin İsrail ile İran'a karşı yürüttüğü savaşta Hürmüz Boğazı'nı ablukaya alma girişimini \"tehlikeli ve sorumsuz bir eylem\" olarak gördüğünü bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d9f7269c",
-    "title": "Atatürk Barajı'nda turkuaz ve yeşilin buluşması",
-    "source": "TRT Haber",
-    "time": "14/04/2026 17:07",
-    "link": "https://www.trthaber.com/haber/yasam/ataturk-barajinda-turkuaz-ve-yesilin-bulusmasi-941642.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adıyamanda Atatürk Baraj Gölünde bulunan yükselti ve küçük adacıklar, ilkbaharla birlikte yeşererek dikkat çekici bir manzara ortaya koydu.",
     "image": null,
     "keyword": null
   }
