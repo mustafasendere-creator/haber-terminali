@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_86f6145d",
+    "title": "Gençlerbirliği - Galatasaray maçının biletleri satışa çıktı!",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 17:45",
+    "link": "https://www.cumhuriyet.com.tr/spor/genclerbirligi-galatasaray-macinin-biletleri-satisa-cikti-2495189",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Süper Lig'in 30. haftasında oynanacak Gençlerbirliği - Galatasaray maçının biletleri satışa çıktı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/cfb172f4-f39b-4ad2-982f-84c683b0bd85.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_06862622",
     "title": "Bel fıtığı sanılıyor ama çok daha tehlikeli: Omurga daralması sinsi ilerliyor!",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "1'inci Lig'de bitime 3 maç kala Play-Off'u büyük oranda garantileyen Bodrum Futbol Kulübü, oynayacağı karşılaşmalarla adeta Süper Lig yolunu da çizecek.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/super-lig-yolu-bodrumdan-gececek-or6s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5750d80f",
-    "title": "IMF, küresel ekonomik büyüme tahminini düşürdü",
-    "source": "TRT Haber",
-    "time": "14/04/2026 17:07",
-    "link": "https://www.trthaber.com/haber/ekonomi/imf-kuresel-ekonomik-buyume-tahminini-dusurdu-941640.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Para Fonu IMF, Orta Doğu'daki çatışmanın yol açtığı aksaklıkların etkisiyle küresel ekonomik büyüme tahminini bu yıl için yüzde 3,3'ten yüzde 3,1'e düşürdü.",
-    "image": null,
     "keyword": null
   }
 ]
