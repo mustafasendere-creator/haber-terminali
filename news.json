@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7be90da0",
+    "title": "Trump, McDonald's şovuyla ABD'deki yeni bahşiş vergi indirimini tanıttı",
+    "source": "Euronews",
+    "time": "14/04/2026 09:43",
+    "link": "http://tr.euronews.com/video/2026/04/14/trump-mcdonalds-sovuyla-abddeki-yeni-bahsis-vergi-indirimini-tanitti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Donald Trump, bahşişlerde yeni vergi indirimlerini tanıtmak için McDonald’s siparişini DoorDash’le Oval Ofis’e getirtti, 25 bin dolara kadar vergi rahatlaması vaadiyle.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2a193f77",
     "title": "Evin terası alevlere teslim oldu",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Haber61’de yayınlanan Spor Gündemi canlı yayınında konuşan yorumcu Haluk Ayyıldız, Trabzonspor taraftarına Başakşehir maçı öncesi çağrıda bulundu ve tribün desteğinin önemine dikkat çekti.",
     "image": "https://resim.haber61.net/news/612589.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_4ee7f7c9",
-    "title": "Trabzonspor dev bütçelere meydan okudu: En düşük ile en yükseğe",
-    "source": "Haber61",
-    "time": "14/04/2026 09:00",
-    "link": "https://www.haber61.net/trabzon/trabzonspor-dev-butcelere-meydan-okudu-en-dusuk-ile-en-yuksege-h629527.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig’de şampiyonluk yarışı kızışırken, Trabzonspor ortaya koyduğu mali disiplinle takdir toplamaya devam ediyor.",
-    "image": "https://resim.haber61.net/news/612590.jpg",
     "keyword": "trabzon"
   }
 ]
