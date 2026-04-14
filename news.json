@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_93f7e744",
+    "title": "Kop Dağı'nda zor saatler",
+    "source": "OdaTV",
+    "time": "14/04/2026 22:26",
+    "link": "https://www.odatv.com/guncel/kop-daginda-zor-saatler-120143330",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bayburt-Erzurum kara yolundaki Kop Dağı Geçidi’nde buzlanma nedeniyle çok sayıda araç yolda kaldı, ulaşımda aksamalar yaşandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/kop-daginda-zor-saatler-hpbk.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_00a9957d",
     "title": "FETÖ hükümlüsü Uşak’ta yakalandı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Saldırılar ile yoğun güvenlik altında yürütülen Papa ziyareti arasında henüz doğrudan bir bağlantı kurulmadı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_19722237",
-    "title": "CHP'de bir belediye başkanı daha istifa etti: \"AKP'ye geçecek\" iddiası",
-    "source": "BirGün",
-    "time": "14/04/2026 21:44",
-    "link": "https://www.birgun.net/haber/chp-de-bir-belediye-baskani-daha-istifa-etti-akp-ye-gececek-iddiasi-705806",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya Serik'in CHP'li belediye başkanı Kadir Kumbul CHP’den istifa etti. Kumbul'un AKP'ye geçeceği öne sürüldü.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/14/chp-de-bir-belediye-baskani-daha-istifa-etti-akp-ye-gececek-iddiasi.jpg",
     "keyword": null
   }
 ]
