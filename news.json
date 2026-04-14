@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_2caae9bc",
+    "title": "Son Dakika Haberleri",
+    "source": "Reddit",
+    "time": "14/04/2026 12:50",
+    "link": "https://www.reddit.com/r/Sondakika/",
+    "type": "SOC",
+    "prefix": "🤖",
+    "summary": "Türkiyeden haberler, son dakika haberleri.   [link]",
+    "image": null,
+    "keyword": "trabzon son dakika"
+  },
+  {
     "id": "SOC_6a6e0ce5",
     "title": "Haberler Son Dakika",
     "source": "Reddit",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Eski Brezilya istihbarat servisi başkanı Alexandre Ramagem'in, ABD Göçmenlik ve Gümrük Muhafaza (ICE) ekiplerince gözaltına alındığı bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5b723a0f",
-    "title": "Bursa'da içme suyu barajlarının doluluk oranı yüzde 100'e yaklaştı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 12:44",
-    "link": "https://www.aa.com.tr/tr/gundem/bursada-icme-suyu-barajlarinin-doluluk-orani-yuzde-100e-yaklasti/3904900",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'nın içme suyu ihtiyacının büyük bir bölümünü karşılayan Nilüfer ve Doğancı barajlarındaki ortalama doluluk oranı yüzde 96,4 olarak ölçüldü.",
     "image": null,
     "keyword": null
   }
