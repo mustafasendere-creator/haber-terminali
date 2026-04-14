@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_61713def",
+    "title": "Gülistan Doku soruşturmasında 7 ilde 13 gözaltı",
+    "source": "DW Türkçe",
+    "time": "14/04/2026 08:15",
+    "link": "https://www.dw.com/tr/gülistan-doku-soruşturmasında-7-ilde-13-gözaltı/a-76769837",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tunceli'de 6 yıl önce kaybolan üniversite öğrencisi Gülistan Doku dosyasında, aralarında dönemin Tunceli Valisi Tuncay Sonel'in oğlunun da olduğu 13 kişi 7 ilde düzenlenen operasyonlarda gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c64c0980",
     "title": "Esfender Korkmaz: CHP'ye kayyum atanırsa dolar kuru 100 lira olacaktır",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Hükümet Sözcüsü Fatma Muhacerani, ABD-İsrail saldırılarından kaynaklanan savaş tazminatının ilk tahminlere göre 270 milyar dolar civarında olduğunu söyledi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/iran-abd-israil-suudi-arabistan-katar-bae-bahreyn-ve-urdunden-270-milyar-dolar-savas-tazminati-talep-ediyor-ibev.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9488d141",
-    "title": "İran: Suudi Arabistan, Katar, BAE, Bahreyn ve Ürdün'den tazminat talep ediyoruz",
-    "source": "TRT Haber",
-    "time": "14/04/2026 06:34",
-    "link": "https://www.trthaber.com/haber/dunya/iran-suudi-arabistan-katar-bae-bahreyn-ve-urdunden-tazminat-talep-ediyoruz-941540.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın Birleşmiş Milletler BM Daimi Temsilcisi Said İravani, ABD ve İsrailin İrana karşı yürüttüğü savaşta yer aldıkları gerekçesiyle Suudi Arabistan, Katar, Birleşik Arap Emirlikleri BAE, Bahreyn ve Ürdün'den tazminat talep ettiklerini belirtti.",
-    "image": null,
     "keyword": null
   }
 ]
