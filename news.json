@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ea1ef1d8",
+    "title": "Soykırımcı İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 336'ya yükseldi",
+    "source": "TRT Haber",
+    "time": "14/04/2026 13:06",
+    "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-gazzeye-saldirilarinda-can-kaybi-72-bin-336ya-yukseldi-941601.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İşgalci İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 336ya ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b528151e",
     "title": "Balıklı Rum Hastanesi aslına uygun olarak restore edildi",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Bağ-Kur kapsamında çalışan esnaf ve çiftçilerin emeklilik şartlarına ilişkin düzenleme beklentisi gündemde. Prim gün sayısının düşürülmesine yönelik çalışma, emeklilik koşullarında değişiklik ihtimalini artırıyor. Düzenlemenin yasalaşma süreci yakından takip ediliyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/83b755bb-d319-410f-aa60-d70bb89d82df.jpeg",
     "keyword": null
-  },
-  {
-    "id": "TKP_52a4d9a2",
-    "title": "Trabzon’da aile köklerini arayanlara altın değerinde çalışma!",
-    "source": "Günebakış",
-    "time": "14/04/2026 12:46",
-    "link": "https://www.gunebakis.com.tr/trabzonda-aile-koklerini-arayanlara-altin-degerinde-calisma/27808714",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "13 yıllık emekle Osmanlı Kayıtlarıyla Trabzon’un Gerçek Hikayesini ortaya çıkardı",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/trabzonda-aile-koklerini-arayanlara-altin-degerinde-calisma-1776158823.png",
-    "keyword": "trabzon"
   }
 ]
