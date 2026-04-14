@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a0e2d402",
+    "title": "Erzurum, Ardahan ve Kars'ta soğuk hava etkili oluyor",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 10:43",
+    "link": "https://www.aa.com.tr/tr/gundem/erzurum-ardahan-ve-karsta-soguk-hava-etkili-oluyor/3904674",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum, Ardahan ve Kars'ta kar yağışının ardından başlayan soğuk hava yaşamı olumsuz etkiliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_560ee039",
     "title": "MHP lideri Bahçeli'den partisinin grup toplantısında önemli açıklamalar",
     "source": "A Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Asya piyasaları, petrol fiyatlarının, ABD ile İran arasında olası ikinci görüşme turunun İran savaşını bitireceği beklentisiyle gerilemesi sonucu, Salı sabahı Wall Street’teki yükselişleri izleyerek çoğunlukla artıdaydı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7ac22c05",
-    "title": "Papa 14. Leo, yağmurlu Cezayir bazilikasında tarihi ayin yönetti",
-    "source": "Euronews",
-    "time": "14/04/2026 10:03",
-    "link": "http://tr.euronews.com/video/2026/04/14/papa-14-leo-yagmurlu-cezayir-bazilikasinda-tarihi-ayin-yonetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cezayir, 14 Nisan Pazartesi günü Cezayir'deki Afrika'nın Bakiresi Bazilikası'nda düzenlenen ayin için Papa XIV. Leo'yu ağırladı; bu, ülkeye yapılan ilk papalık ziyareti oldu.",
     "image": null,
     "keyword": null
   }
