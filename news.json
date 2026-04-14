@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b89134fe",
+    "title": "Holokost Anma Günü'nde sirenler İsrail'i durdurdu, antisemitizm arttı",
+    "source": "Euronews",
+    "time": "14/04/2026 12:45",
+    "link": "http://tr.euronews.com/video/2026/04/14/holokost-anma-gununde-sirenler-israili-durdurdu-antisemitizm-artti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail, 14 Nisan 2026 Salı günü ülkeyi durma noktasına getiren iki dakikalık ulusal saygı duruşuyla Holokost Anma Günü'nü kutladı; Yad Vaşem'deki törenler, dünyada artan antisemitizm endişeleri gölgesinde yapıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_94c14074",
     "title": "Gülistan Doku dosyası: Dönemin Tunceli Valisi'nin oğlu dahil 13 kişi gözaltında",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "CHP Trabzon İl Başkanı Mustafa Bak, Büyükşehir Belediyesi’nin faaliyet raporuna tepki göstererek mali tablo için “hesap verin” çağrısı yaptı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/91c66c35-1011-4d1e-a7ef-f26fd856e541.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a98a90f9",
-    "title": "Petrol arzında tarihin en büyük düşüşü",
-    "source": "TRT Haber",
-    "time": "14/04/2026 12:05",
-    "link": "https://www.trthaber.com/haber/ekonomi/petrol-arzinda-tarihin-en-buyuk-dususu-941595.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küresel petrol arzı, ABD/İsrailİran Savaşı'nın etkisiyle martta önceki aya göre günlük 10 milyon 120 bin varil azalarak tarihteki en büyük düşüşü yaşadı.",
-    "image": null,
     "keyword": null
   }
 ]
