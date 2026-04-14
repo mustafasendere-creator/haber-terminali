@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_55b9b344",
+    "title": "Bildiri dağıtan öğrencilere saldırdılar: Ege Üniversitesi’nde palalı kavga",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 19:46",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/bildiri-dagitan-ogrencilere-saldirdilar-ege-universitesi-nde-palali-kavga-2495216",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir’de Ege Üniversitesi kampüsünde iki öğrenci grubu arasında çıkan kavgada, 2 öğrenci palayla yaralandı. Olayla ilgili soruşturma başlatıldığı öğrenildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/be6c1fb8-ffef-4547-8f45-e3ab8ee8679f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0fe4aba1",
     "title": "Kadınlar Gülistan Doku için yürüdü: ‘Gözaltılar önemli ancak eksik’",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD'nin Hürmüz Boğazı'nda İran limanlarına giriş ve çıkış yapan gemilere yönelik deniz ablukasını başlatmasının ilk 24 saatinde Boğaz'dan dört geminin geçiş yaptığı görüldü.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_24a851b3",
-    "title": "Çin'den İspanya'ya, \"dünyanın orman kanununa sapmasına birlikte karşı çıkma\" çağrısı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 19:04",
-    "link": "https://www.aa.com.tr/tr/dunya/cinden-ispanyaya-dunyanin-orman-kanununa-sapmasina-birlikte-karsi-cikma-cagrisi/3905548",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin Devlet Başkanı Şi Cinping, İspanya'ya, uluslararası düzeni korumak ve güçlünün haklı olduğu orman kanuna sapılmasını önlemek üzere birlikte çalışma çağrısında bulundu.",
     "image": null,
     "keyword": null
   }
