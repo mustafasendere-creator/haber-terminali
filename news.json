@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bb2d8c47",
+    "title": "OpenAI'ın şirket içindeki yazışmaları sızdırıldı",
+    "source": "Cumhuriyet",
+    "time": "14/04/2026 22:45",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/openai-in-sirket-icindeki-yazismalari-sizdirildi-2495231",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ChatGPT'nin geliştirici şirketi OpenAI'dan üst düzey yönetici Denise Dresser'ın çalışanlara gönderdiği yazışma sızdırıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f57dccba-347f-40a8-a426-d2da28cea0e2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6e921100",
     "title": "ABD’li vekil Eric Swalwell hakkında cinsel taciz suçlaması! İstifa edeceğini duyurdu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Iğdır'da 3 gün önce çıkan ve 2 kişinin öldüğü, 6 kişinin yaralandığı silahlı kavgaya ilişkin yakalanan 21 şüpheliden 9'u tutuklandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_424302d4",
-    "title": "Trabzonspor, RAMS Başakşehir maçı biletlerini satışa çıkardı",
-    "source": "Haber61",
-    "time": "14/04/2026 22:04",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-rams-basaksehir-maci-biletlerini-satisa-cikardi-h629603.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trendyol Süper Lig’in 30. haftasında Trabzonspor ile RAMS Başakşehir arasında oynanacak kritik müsabakanın biletleri taraftarlar için erişime açıldı.",
-    "image": "https://resim.haber61.net/news/612725.jpg",
     "keyword": null
   }
 ]
