@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6071d58a",
+    "title": "İsrail Konsolosluğu'na saldırı soruşturması: 1 kişi daha tutuklandı",
+    "source": "Evrensel",
+    "time": "14/04/2026 17:45",
+    "link": "https://www.evrensel.net/haber/5979632/israil-konsolosluguna-saldiri-sorusturmasi-1-kisi-daha-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Konsolosluğu önünde polis noktasına düzenlenen saldırıya ilişkin soruşturmada bugün adliyeye sevk edilen 1 kişi daha tutuklandı. Toplam tutuklu sayısı ise 13'e yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342167.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6797f6ec",
     "title": "Çin dışişleri sözcüsü: ABD’nin Hürmüz ablukası tehlikeli ve sorumsuz",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Meclisi’nde görüşülen 2025 Yılı Faaliyet Raporu, sıradan bir yönetim zafiyetinin değil, bilinçli tercihlerle derinleştirilmiş bir mali çöküşün açık belgesidir.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_40275835",
-    "title": "Çarşıbaşı’ndan Tokat’a Anlamlı Ziyaret: Gönül Köprüsü Kuruldu",
-    "source": "Taka Gazetesi",
-    "time": "14/04/2026 17:06",
-    "link": "https://www.takagazete.com.tr/carsibasindan-tokata-anlamli-ziyaret-gonul-koprusu-kuruldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Çarşıbaşı Muhtarlar Derneği heyeti, Tokat Belediye Başkanı Mehmet Kemal Yazıcıoğlu’nu ziyaret ederek Trabzon ile Tokat arasında gönül köprüsü kurdu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/d768afcc-afa9-40cd-99ee-a3f43eb701f5.jpg",
-    "keyword": "trabzon"
   }
 ]
