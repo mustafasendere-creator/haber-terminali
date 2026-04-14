@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8db94d5e",
+    "title": "Bursa'da emek ve meslek örgütlerinden elektrik zammı tepkisi: “Elektrik değil faturası çarpıyor”",
+    "source": "Evrensel",
+    "time": "14/04/2026 15:46",
+    "link": "https://www.evrensel.net/haber/5979605/bursada-emek-ve-meslek-orgutlerinden-elektrik-zammi-tepkisi-elektrik-degil-faturasi-carpiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa’da emek ve meslek örgütleri, konut elektrik tarifesine yapılan yüzde 25’lik zamma tepki gösterdi: “Elektrik değil faturası çarpıyor.”",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342984.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_cafb3761",
     "title": "Trabzon’da hayvancılık atağı: Jersey projesi sonuç veriyor",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Konya'da 3.2 büyüklüğünde meydana gelen depremin ardından daha önce zemin çökmesinin yaşandığı 2 bina, oluşan ve büyüyen çatlaklar nedeniyle tahliye edildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/621c1779-b2be-4d28-8c67-053cc30ddc60.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4cf6a106",
-    "title": "BYD’nin Shenzhen kompleksinde yangın: Araçlar alevlere teslim oldu",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 15:06",
-    "link": "https://www.cumhuriyet.com.tr/otomotiv/byd-nin-shenzhen-kompleksinde-yangin-araclar-alevlere-teslim-oldu-2495115",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elektrikli araç teknolojisinin kalbi Shenzhen’de, BYD tesislerinden yükselen dumanlar panik yarattı. Uzmanlar, lityum bataryalı araçların yeniden alevlenme riskine dikkat çekerken; BYD, olayın ana üretim tesislerinden bağımsız bir bölgede yaşandığını vurguladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c2701d82-efdb-450f-909a-7eb18c4de8be.jpg",
     "keyword": null
   }
 ]
