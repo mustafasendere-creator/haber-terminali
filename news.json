@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f8ccc46b",
+    "title": "Dünyaca ünlü müzisyen Sami Yusuf Türkiye'de konser verecek",
+    "source": "Anadolu Ajansı",
+    "time": "14/04/2026 16:24",
+    "link": "https://www.aa.com.tr/tr/kultur/dunyaca-unlu-muzisyen-sami-yusuf-turkiyede-konser-verecek/3905221",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünya müziği geleneğinin usta isimlerinden birisi olarak gösterilen Sami Yusuf, İstanbul ve Ankara'da konser verecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3284e380",
     "title": "İstanbul'da bir teknede 200 kilogram uyuşturucu ele geçirildi",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Valiliği Basın ve Protokol Müdürü Yalçın Bahçekapılı’nın annesi Havva Bahçekapılı, Maçka’da düzenlenen cenaze töreniyle son yolculuğuna uğurlandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/027cfdd7-308c-4934-a865-35a8897b00e4.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d3c957e9",
-    "title": "İçişleri Bakanı Çiftçi, Pakistanlı mevkidaşı Naqvi ile görüştü",
-    "source": "Haber Global",
-    "time": "14/04/2026 15:47",
-    "link": "https://haberglobal.com/gundem/icisleri-bakani-ciftci-pakistanli-mevkidasi-naqvi-ile-gorustu-518720",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanı Mustafa Çiftçi, Pakistan İçişleri Bakanı ve Narkotik Kontrol Bakanı Sayed Mohsin Raza Naqvi ile telefonda görüştü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/icisleri-bakani-ciftci-pakistanli-mevkidasi-naqvi-ile-gorustu-kfkb.jpg",
-    "keyword": null
   }
 ]
