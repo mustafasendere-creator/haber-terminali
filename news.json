@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_12ad37a5",
+    "title": "Mansur Yavaş hakkında soruşturma izni verildi: Miting araçları iddiası",
+    "source": "Euronews",
+    "time": "14/04/2026 11:01",
+    "link": "http://tr.euronews.com/2026/04/14/mansur-yavas-hakkinda-sorusturma-izni-verildi-miting-araclari-iddiasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, 2023'te Karabük'teki seçim mitinginde Ankara Büyükşehir Belediyesi'ne (ABB) ait araçların kullanıldığı iddiasıyla Mansur Yavaş hakkında soruşturma izni verdi. ABB karara, 'Somut delil yok' diyerek tepki gösterdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_508eab72",
     "title": "Erzurum’da Zirveye Çıktılar, Hedef Türkiye Şampiyonluğu",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzonsporlu ünlü Oyuncu Seray Kaya, sosyal medya hesabından yaptığı çıkışla gündemde... Kaya, Kürtçe şarkı dinlediği ve söylediği için bir kesim tarafından boykot edildiğini ifade etti.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/boykot-1.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c9900dec",
-    "title": "İran Hükümet Sözcüsü: ABDİsrail saldırılarından kaynaklanan zarar tahminen 270 milyar dolar",
-    "source": "TRT Haber",
-    "time": "14/04/2026 10:24",
-    "link": "https://www.trthaber.com/haber/dunya/iran-hukumet-sozcusu-abd-israil-saldirilarindan-kaynaklanan-zarar-tahminen-270-milyar-dolar-941573.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Hükümet Sözcüsü Fatma Muhacirani, ABDİsrail'in 28 Şubat'ta İran'a saldırılarıyla başlayan 40 günlük savaşta ülkedeki maddi zararın 270 milyar dolar olarak tahmin edildiğini söyledi.",
-    "image": null,
-    "keyword": null
   }
 ]
