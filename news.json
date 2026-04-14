@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7680b9ea",
+    "title": "Zelenskiy'den Berlin ziyareti: Almanya Ukrayna'ya desteğini sürdürüyor",
+    "source": "Euronews",
+    "time": "14/04/2026 13:05",
+    "link": "http://tr.euronews.com/2026/04/14/zelenskiyden-berlin-ziyareti-almanya-ukraynaya-destegini-surduruyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Cumhurbaşkanı Volodimir Zelenskiy, Berlin’de Almanya Başbakanı Friedrich Merz ile bir araya geldi. Almanya, tıkanan ABD öncülüğündeki barış görüşmeleri sürerken Kiev’in başlıca destekçisi olarak öne çıkıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_39d1d1e5",
     "title": "Novo Nordisk, ilaç araştırmalarını hızlandırmak için OpenAI ile iş birliği yaptı",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD, İsrail ve İran arasında ilan edilen ateşkesin ardından Hürmüz Boğazında yeni bir denge oluşuyor. Ancak mevcut tablo, boğazın kısa vadede tamamen açılmasından çok, kontrollü ve sınırlı bir geçiş düzenine işaret ediyor. Bu durum, küresel enerji akışının yeniden eski seviyesine dönmesinin zaman alacağını gösteriyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2eb3bbc2",
-    "title": "Kocaeli Şehir Hastanesi 3 yılda 7 milyondan fazla poliklinik hizmeti verdi",
-    "source": "TRT Haber",
-    "time": "14/04/2026 12:45",
-    "link": "https://www.trthaber.com/haber/turkiye/kocaeli-sehir-hastanesi-3-yilda-7-milyondan-fazla-poliklinik-hizmeti-verdi-941599.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yüksek teknoloji ve güçlü fiziki altyapıya sahip Kocaeli Şehir Hastanesi, 3 yılda 7 milyondan fazla poliklinik hizmeti sundu.",
     "image": null,
     "keyword": null
   }
