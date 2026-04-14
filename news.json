@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0d9e421a",
+    "title": "PTT'nin açık hak gaspı: Emekçiye 7/24 kölelik dayatması",
+    "source": "Evrensel",
+    "time": "14/04/2026 22:45",
+    "link": "https://www.evrensel.net/haber/5979665/pttnin-acik-hak-gaspi-emekciye-724-kolelik-dayatmasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "PTT yönetimini açıkça uyarıyoruz: Bu hukuksuz uygulamalardan derhal vazgeçin. Aksi halde PTT emekçileri olarak bu sömürü düzenine boyun eğmeyecek, her alanda mücadeleyi büyüteceğiz.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336006.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_963b8aac",
     "title": "Bayburt’ta uyuşturucu operasyonu: Sentetik madde ele geçirildi",
     "source": "Kuzey Ekspres",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig’in 30. haftasında Trabzonspor ile RAMS Başakşehir arasında oynanacak kritik müsabakanın biletleri taraftarlar için erişime açıldı.",
     "image": "https://resim.haber61.net/news/612725.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_f32452f6",
-    "title": "Trabzonspor'dan bilet fiyatlarına 'temsili' düzenleme!",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 21:45",
-    "link": "https://www.cumhuriyet.com.tr/spor/trabzonspor-dan-bilet-fiyatlarina-temsili-duzenleme-2495234",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 30. haftasında kendi sahasında Başakşehir'i konuk edecek Trabzonspor'da maç biletlerine düzenleme yapıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5a2c199f-8c34-415d-a205-0709f7c1e102.jpg",
-    "keyword": null
   }
 ]
