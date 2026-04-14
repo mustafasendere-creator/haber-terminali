@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_296e8534",
+    "title": "Almanya-İsrail arasında gerginlik: \"Özür dilemeli\"",
+    "source": "DW Türkçe",
+    "time": "14/04/2026 11:02",
+    "link": "https://www.dw.com/tr/almanya-israil-arasında-gerginlik-özür-dilemeli/a-76770388",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya Başbakanı Merz, İsrail Başbakanı Netanyahu'yu Batı Şeria ve Lübnan konusunda uyardı. İsrailli Bakan Smotrich ise \"Bizi tekrar gettolara zorlayamayacaksınız\" diyerek Merz'i ağır ifadelerle hedef aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d1da8fa0",
     "title": "İran, beş ülkeden tazminat istiyor: Dördü Körfez'den",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Akdeniz'de bir deprem daha!",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/depremshutterstock415473103uzunjpg-_gmnMyHhvkWZaYKTICelBg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e386d12f",
-    "title": "Son dakika... Mansur Yavaş'a soruşturma izni sonrası Özgür Özel'den ilk açıklama",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 10:25",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-mansur-yavas-a-sorusturma-izni-sonrasi-ozgur-ozel-den-ilk-aciklama-2495034",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika haberi... Saadet Partisi'ni ziyaret eden CHP lideri Özgür Özel, ABB Başkanı Mansur Yavaş hakkında soruşturma izni verilmesine ilişkin soruyu yanıtladı. Özel, \"Sayın Erdoğan Cumhurbaşkanı adayı olarak her yere devletin kendisine Cumhurbaşkanı olarak tahsis ettiği araçla gidiyordu\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/af300af5-c805-4e3c-96e3-8ceb075f1cc6.jpg",
     "keyword": null
   }
 ]
