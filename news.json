@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_7c80029c",
+    "title": "@veryansintv.bsky.social: Siverek'te bir okulda meydana gelen silahlı saldırıda aralar...",
+    "source": "Bluesky",
+    "time": "14/04/2026 12:26",
+    "link": "https://bsky.app/profile/veryansintv.bsky.social/post/3mjgyp33fxk2p",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Siverek'te bir okulda meydana gelen silahlı saldırıda aralarında öğrenci, öğretmen ve bir polis memurunun da bulunduğu 16 kişi yaralandı.\n\nŞanlıurfa Valisi Hasan Şıldak, saldırıyı gerçekleştiren eski öğrencinin yakalanacağını anlayınca intihar ettiğini bildirdi.\n\nwww.veryansintv.com/sanliurfada-...",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3jnshcqslrllgbyqdxuijxoz/bafkreid346efyqvh6yeusb52kndodlxqbpa7i73zzad4lahmxggdpdg7ti",
+    "keyword": "polis intihar"
+  },
+  {
     "id": "GND_a219352b",
     "title": "Bakanlık duyurdu: Denizlerde av yasağı başlıyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da düzenlenen 5. Uluslararası Tiyatro Festivali, yerli ve yabancı ekiplerin sahnelediği oyunlarla yoğun ilgi görüyor. Festival kapsamında sahnelenen oyunlar tam not alırken, etkinlikler 25 Nisan’a kadar devam edecek.",
     "image": "https://resim.haber61.net/news/612657.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b327520a",
-    "title": "Şanlıurfa'daki lise saldırısıyla ilgili neler biliniyor?",
-    "source": "BBC Türkçe",
-    "time": "14/04/2026 12:04",
-    "link": "https://www.bbc.com/turkce/articles/cvgee73klyvo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa'nın Siverek ilçesinde bir liseye silahla giren kişinin açtığı ateş sonucu en az 16 kişi yaralandı.",
-    "image": null,
     "keyword": null
   }
 ]
