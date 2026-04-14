@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6ccdb5c3",
+    "title": "ABD'de İsrail-Lübnan görüşmeleri başladı",
+    "source": "Sözcü",
+    "time": "14/04/2026 18:26",
+    "link": "https://www.sozcu.com.tr/abd-de-israil-lubnan-gorusmeleri-basladi-p310245",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'de İsrail-Lübnan görüşmeleri başladı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/sozcu-son-dakika-aciljpg-mp-2HQqSxk68YgXG_O1T0w.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b8381cba",
     "title": "Divriği'de aşevi için son başvuru tarihi 30 Nisan",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_872186df",
-    "title": "Köpeklerden kaçan kedinin imdadına itfaiye yetişti",
-    "source": "Haber61",
-    "time": "14/04/2026 18:04",
-    "link": "https://www.haber61.net/ordu/kopeklerden-kacan-kedinin-imdadina-itfaiye-yetisti-h629594.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu'nun Ünye ilçesinde sokak köpeklerinden kaçarken ağaca sığınan ve orada mahsur kalan kedi kurtarıldı.",
-    "image": "https://resim.haber61.net/news/612705.jpg",
     "keyword": null
   }
 ]
