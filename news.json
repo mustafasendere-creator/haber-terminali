@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fa4c0a9b",
+    "title": "İsrail'den Almanya Başbakanı'na ikiyüzlülük suçlaması",
+    "source": "DW Türkçe",
+    "time": "14/04/2026 11:26",
+    "link": "https://www.dw.com/tr/israil-den-almanya-başbakanı-na-ikiyüzlülük-suçlaması/a-76770388",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya Başbakanı Merz, İsrail Başbakanı Netanyahu'yu Batı Şeria ve Lübnan konusunda uyardı. İsrailli Bakan Smotrich ise \"Bizi tekrar gettolara zorlayamayacaksınız\" diyerek Merz'i ağır ifadelerle hedef aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_373fa9d0",
     "title": "İsrail ile Lübnan 40 yıl sonra görüşecek: Masada neler var?",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Saadet Partisi Trabzon İl Başkanı Ahmet Muratoğlu, Cumhurbaşkanlığı Hükümet Sistemi’nin karar alma süreçlerini hızlandırdığını ancak denge ve denetim mekanizmalarında zayıflamaya yol açtığını söyledi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/detyy-9-kopya-6.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c98bdefc",
-    "title": "Araştırma: Yapay zekâ ilk hasta tanısında vakaların yüzde 80'inden fazlasında başarısız oldu",
-    "source": "Euronews",
-    "time": "14/04/2026 11:10",
-    "link": "http://tr.euronews.com/saglik/2026/04/14/arastirma-yapay-zeka-ilk-hasta-tanisinda-vakalarin-80inden-fazlasinda-basarisiz-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni bir çalışmaya göre, yapay zekâ dil modelleri uygun bir erken tanı koymakta vakaların yüzde 80’inden fazlasında başarısız oluyor. Bu da henüz denetimsiz klinik kullanım için güvenli olmadıklarını gösteriyor.",
-    "image": null,
-    "keyword": null
   }
 ]
