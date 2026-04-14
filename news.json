@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ae87c6b5",
+    "title": "Frenle gazı karıştırdı: Dükkana girdi",
+    "source": "OdaTV",
+    "time": "14/04/2026 16:46",
+    "link": "https://www.odatv.com/guncel/tekirdagda-frenle-gazi-karistiran-bir-surucu-otomobiliyle-dukkana-girdi-120143303",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tekirdağ&#039;da fren yerine gaza basan bir sürücü, otomobiliyle dikiş makinelerinin satıldığı dükkana girdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/tekirdagda-frenle-gazi-karistiran-bir-surucu-otomobiliyle-dukkana-girdi-k6pz.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_949143fc",
     "title": "Aynı pasaportla kaydedilen ikinci telefonlar için süre daralıyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Büyükşehir Belediyesi tarafından İzmir Körfezi’nde dron desteğiyle yapılan rutin tarama faaliyetleri kapsamında kasım ayından bu yana 10. kez dış kaynaklı kirlilik tespit edildi. Bayraklı’da deniz yüzeyinde dış kaynaklı atık maddeler görüntülendi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/edcc0709-0451-454c-8d39-bf104934c681.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_282ad3f4",
-    "title": "Burak Yılmaz maçın ardından istifa etmişti: Gaziantep FK resmen açıkladı!",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 16:06",
-    "link": "https://www.cumhuriyet.com.tr/spor/burak-yilmaz-macin-ardindan-istifa-etmisti-gaziantep-fk-resmen-acikladi-2495147",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig ekibi Gaziantep FK, dün oynanan Çaykur Rizespor maçının ardından istifa ettiğini açıklayan teknik direktör Burak Yılmaz ile yolların ayrıldığını duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/68707dbc-495c-40d7-9456-2158e4aebed3.jpg",
     "keyword": null
   }
 ]
