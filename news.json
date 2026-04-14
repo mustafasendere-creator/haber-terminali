@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6d0d6d99",
+    "title": "Hangi besinler birlikte tüketilmeli",
+    "source": "OdaTV",
+    "time": "14/04/2026 10:05",
+    "link": "https://www.odatv.com/gastroda/hangi-besinler-birlikte-tuketilmeli-i-besinleri-dogru-eslestirmek-neden-onemli-i-domates-ve-zeytinyagi-neden-birlikte-yenilmeli-120143236",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bazı gıdalar tek başına sağlıklı olabilir ancak başka gıdalarla doğru eşleştirildiğinde vücut tarafından çok daha etkili kullanılır.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/14/hangi-besinler-birlikte-tuketilmeli-i-besinleri-dogru-eslestirmek-neden-onemli-i-domates-ve-zeytinyagi-neden-birlikte-yenilmeli-vdym.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3a71454a",
     "title": "Mağazalar 5G ile değişiyor: Vodafone’dan perakendede dönüşüm hamlesi",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "İslamabad'daki sonuçsuz görüşmelerin ardından ABD ve İran'ın ateşkes süresi dolmadan yeni bir müzakere turu için hazırlık yaptığı öne sürüldü. Tarafların perşembe günü yeniden bir araya gelebileceği iddia edildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342897.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_80148357",
-    "title": "Köprübaşı’nda heyelan! İki mahalleye ulaşım kesildi",
-    "source": "Haber61",
-    "time": "14/04/2026 09:44",
-    "link": "https://www.haber61.net/trabzon/koprubasinda-heyelan-iki-mahalleye-ulasim-kesildi-h629529.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Köprübaşı ilçesinde meydana gelen heyelan, Büyükdoğanlı ile Küçükdoğanlı mahalleleri arasındaki yolu ulaşıma kapattı.",
-    "image": "https://resim.haber61.net/news/612594.jpg",
-    "keyword": "trabzon"
   }
 ]
