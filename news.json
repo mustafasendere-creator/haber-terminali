@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_69addd33",
+    "title": "Yapay zekânın ekolojik ayak izi: Zararı tahminlerden ağır",
+    "source": "DW Türkçe",
+    "time": "15/04/2026 13:06",
+    "link": "https://www.dw.com/tr/yapay-zekânın-ekolojik-ayak-izi-zararı-tahminlerden-ağır/a-76787693",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yapay zekânın artan elektrik tüketimine ek olarak kuraklığın derinleştiği bir dönemde aşırı miktarda su harcaması, insanlığın geleceğine dair kaygıları büyütüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e98c57fb",
     "title": "Gazeteci İsmail Arı: Yerde yatıyorum çünkü koğuş kapasitesi dolu",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gaziantep FK’de 234 gün görev yapan Burak Yılmaz, 27 maçta 1,25 puan ortalamasında kalırken; iyi başlayan süreç, ikinci dönemdeki istikrarsız sonuçlarla sona erdi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/burak-yilmazin-gaziantep-fk-karnesi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8bd70736",
-    "title": "Açıkta satılan gıdalar \"doğal\" algısıyla risk oluşturabilir uyarısı",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 12:45",
-    "link": "https://www.aa.com.tr/tr/saglik/acikta-satilan-gidalar-dogal-algisiyla-risk-olusturabilir-uyarisi/3906188",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yıldız Teknik Üniversitesi Gıda Mühendisliği Bölümü Öğretim Üyesi Prof. Dr. Muhammet Arıcı, \"doğal\" adı altında satılan her ürünün güvenli olmayabileceğini belirterek, özellikle açıkta satılan gıdaların risk taşıyabileceği uyarısında bulundu.",
-    "image": null,
     "keyword": null
   }
 ]
