@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c0b39664",
+    "title": "3 ayda 168 bin trafik kazası, 561 can kaybı",
+    "source": "TRT Haber",
+    "time": "15/04/2026 11:26",
+    "link": "https://www.trthaber.com/haber/turkiye/3-ayda-168-bin-trafik-kazasi-561-can-kaybi-941717.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TÃ¼rkiye genelinde bu yÄ±l ocak, ÅŸubat ve mart aylarÄ±nda meydana gelen 168 bin 533 trafik kazasÄ±nda 561 kiÅŸi hayatÄ±nÄ± kaybetti, 87 bin 695 kiÅŸi yaralandÄ±.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6598ff51",
     "title": "Darphane 5 milyondan fazla altın bastı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Amerikan Basketbol Ligi (NBA) play-in maçında Portland Trail Blazers, deplasmanda Phoenix Suns'ı 114-110 yenerek play-off'a kaldı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1810168a",
-    "title": "Ünlüler dünyasında zehir ve fuhuş kıskacı! Eski hakemden pes dedirten “müstehcenlik” savunması",
-    "source": "A Haber",
-    "time": "15/04/2026 11:04",
-    "link": "https://www.ahaber.com.tr/gundem/2026/04/14/unluler-dunyasinda-zehir-ve-fuhus-kiskaci-eski-hakemden-pes-dedirten-mustehcenlik-savunmasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye gündemine bomba gibi düşen ünlülere yönelik fuhuş ve müstehcenlik soruşturmasında sıcak gelişmeler yaşanıyor. Müstehcenlik suçundan tutuklanan eski hakem Elif Karaarslan ve ev hapsi kararıyla...Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/6f33c6/1200/1200/271/0/990/720?u=https://iahbr.tmgrup.com.tr/2026/04/14/1776197337264.jpeg",
     "keyword": null
   }
 ]
