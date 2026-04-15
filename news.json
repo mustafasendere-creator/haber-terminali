@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8e2e325",
+    "title": "Uzaydan takip, sahada saldırı: İran, ABD üslerini casus uydudan mı izledi?",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 13:46",
+    "link": "https://www.cumhuriyet.com.tr/dunya/uzaydan-takip-sahada-saldiri-iran-abd-uslerini-casus-uydudan-mi-izledi-2495373",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın, ABD ile İsrail'in saldırılarıyla başlayan savaşta ABD üslerini hedef almak için Çin yapımı casus uydu kullandığı öne sürüldü.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/75bbd14b-d71a-412a-b5b1-a210e8b6176a.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2429908c",
     "title": "Esendere Sınır Kapısı’nda \"güvenli geçiş\" mesaisi sürüyor",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hac farizasını yerine getirmek için Türkiye'den kutsal topraklara gidecek ilk hacı kafilesi, 18 Nisan Cumartesi günü yola çıkacak.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_4e3b09e5",
-    "title": "Bayburt’ta üreticilere yüzde 75 hibeli nohut tohumu desteği",
-    "source": "Haber61",
-    "time": "15/04/2026 13:24",
-    "link": "https://www.haber61.net/bayburt/bayburtta-ureticilere-yuzde-75-hibeli-nohut-tohumu-destegi-h629654.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Tarım Arazilerinin Kullanımının Etkinleştirilmesi Projesi kapsamında Bayburt’ta üreticilere yüzde 75 hibeli nohut tohumu dağıtıldı. Destekten yararlanan üreticiler, ekim sezonu öncesinde tohumlarını teslim aldı.",
-    "image": "https://resim.haber61.net/news/612815.jpg",
     "keyword": null
   }
 ]
