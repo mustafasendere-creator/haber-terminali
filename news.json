@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64c562fd",
+    "title": "Müzisyen Umut Emre Aytekin cinayeti davası: 2 sanığa 18'er yıl hapis cezası",
+    "source": "Evrensel",
+    "time": "15/04/2026 11:46",
+    "link": "https://www.evrensel.net/haber/5979709/muzisyen-umut-emre-aytekin-cinayeti-davasi-2-saniga-18er-yil-hapis-cezasi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul - Güngören'deki bir restoranda müzisyen Umut Emre Aytekin'i darbederek ölümüne neden olmaktan yargılanan 2 sanığa “Haksız tahrik” indirimiyle 18'er yıl hapis cezası verildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343071.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_f629da83",
     "title": "Kısa menzilli tanksavar silahı KARAOK'tan test atışlarında tam isabet",
     "source": "İHA Trabzon",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Şanlıurfa’daki okul saldırısının ardından Trabzon’da öğretmenler eylem kararı aldı.",
     "image": "https://resim.haber61.net/news/612794.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8b3709d8",
-    "title": "\"Yapay zeka\" yaftası gerçek fotoğrafları nasıl itibarsızlaştırıyor?",
-    "source": "Teyit.org",
-    "time": "15/04/2026 11:07",
-    "link": "https://teyit.org/teyitpedia/yapay-zeka-yaftasi-gercek-fotograflari-nasil-itibarsizlastiriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yapay zeka ile üretilen sahte görseller artarken, gerçek fotoğrafları \"yapay zeka\" diye reddetmek de yeni bir yanlış bilgi taktiğine dönüşüyor.",
-    "image": "https://md.teyit.org/2026/04/filistin-dergi-kapak.webp",
     "keyword": null
   }
 ]
