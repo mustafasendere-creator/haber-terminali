@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5a846924",
+    "title": "İletişim Başkanlığı'ndan medya kuruluşlarına sorumluluk çağrısı",
+    "source": "TRT Haber",
+    "time": "15/04/2026 16:46",
+    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligindan-medya-kuruluslarina-sorumluluk-cagrisi-941771.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığı, son günlerde meydana gelen okul saldırılarına ilişkin bir açıklama yayımlayarak, sürecin sağduyuyla yönetilmesi ve medya kuruluşlarının azami sorumluluk bilinciyle hareket etmesi gerektiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4639bfd4",
     "title": "Gülistan Doku'nun katilini, arkadaşının ailesi ele vermiş",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da Orhan Fevzi Gümrükçüoğlu döneminde inşa edilen Reşadiye Kavşağı’nın yıkım kararı siyasi tartışmaları alevlendirdi. Saadet Partisi Trabzon İl Başkanlığı, yaklaşık 500 milyon TL’lik kamu zararı oluştuğunu savunarak Yomra Adliyesi’nde suç duyurusunda bulundu.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/resadiye-kavsagi.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_e6a7901c",
-    "title": "Liseler Arası Futbol Turnuvası Başladı",
-    "source": "Kuzey Ekspres",
-    "time": "15/04/2026 16:05",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27816693/liseler-arasi-futbol-turnuvasi-basladi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Türkiye Gençlik Vakfı (TÜGVA) tarafından düzenlenen ‘GençLig Liseler Arası Futbol Turnuvası’nın Trabzon müsabakaları görkemli bir törenle başladı. 81 ilde eş zamanlı icra edilen turnuvanın merakla beklenen Türkiye finaline ise Haziran ayında Trabzon ev sahipliği yapacak.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/mdks.webp",
     "keyword": "trabzon"
   }
 ]
