@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_1882cb0e",
+    "title": "İstanbul Aile Vakfından Şanlıurfa ve Kahramanmaraş'taki silahlı saldırılara ilişkin açıklama",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 00:24",
+    "link": "https://www.aa.com.tr/tr/gundem/istanbul-aile-vakfindan-sanliurfa-ve-kahramanmarastaki-silahli-saldirilara-iliskin-aciklama/3907207",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Aile Vakfı, \"Okul güvenliği en üst seviyede yeniden ele alınmalı, psikososyal destek mekanizmaları güçlendirilmeli, çocuk ruh sağlığını tahrip eden dijital ve medya içeriklerine karşı daha kararlı tedbirler alınmalıdır.\" açıklamasını yaptı.",
+    "image": null,
+    "keyword": null
+  },
+  {
+    "id": "GND_bc6f4dd5",
+    "title": "Okul saldırısında yürek yakan detay! Vefat eden Ayla öğretmen kendini siper etmiş",
+    "source": "A Haber",
+    "time": "16/04/2026 00:24",
+    "link": "https://www.ahaber.com.tr/gundem/2026/04/15/okul-saldirisinda-yurek-yakan-detay-vefat-eden-ayla-ogretmen-kendini-siper-etmis",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta okula düzenlenen saldırıda hayatını kaybeden öğretmen ve öğrencilerin isimleri belli oldu. Öğretmen Ayla Kara da o isimlerden biri... Katliamda öğrencilerini korumak isteyen Ayla...Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/cd0073/1200/1200/154/0/775/621?u=https://iahbr.tmgrup.com.tr/2026/04/16/okul-saldirisinda-yurek-yakan-detay-vefat-eden-ayla-ogretmen-kendini-siper-etmis-1776286888339.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_84fddbda",
     "title": "Okul saldırısı sonrası C31K grubundan skandal paylaşım! Harekete geçildi: Grup kapatıldı 2 gözaltı",
     "source": "A Haber",
@@ -933,30 +957,6 @@
     "prefix": "🔔",
     "summary": "UEFA Şampiyonlar Ligi çeyrek final rövanş maçında Bayern Münih ve Real Madrid takımları Almanya'nın Münih kentindeki Football Arena Munich'te karşı karşıya geldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/arda-guler-sampiyonlar-liginde-mesut-ozili-gecti-ouew.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_576298fe",
-    "title": "Emine Erdoğan: Bugün, milletçe birlik ve beraberlik içinde olmamız gereken bir gündür",
-    "source": "Haber Global",
-    "time": "15/04/2026 23:25",
-    "link": "https://haberglobal.com/gundem/emine-erdogan-bugun-milletce-birlik-ve-beraberlik-icinde-olmamiz-gereken-bir-gundur-519040",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın eşi Emine Erdoğan, “Şanlıurfa ve Kahramanmaraş’ta meydana gelen elim hadiseler, hepimizin yüreğini derinden yaraladı. Bugün, milletçe birlik ve beraberlik içinde olmamız gereken bir gündür” açıklamasında bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/emine-erdogan-bugun-milletce-birlik-ve-beraberlik-icinde-olmamiz-gereken-bir-gundur-w9wh.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4f7238ab",
-    "title": "DMM, Kahramanmaraş ve Şanlıurfa'daki saldırılara ilişkin bazı iddiaları yalanladı",
-    "source": "TRT Haber",
-    "time": "15/04/2026 23:25",
-    "link": "https://www.trthaber.com/haber/gundem/dmm-kahramanmaras-ve-sanliurfadaki-saldirilara-iliskin-bazi-iddialari-yalanladi-941792.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, Kahramanmaraş ve Şanlıurfa'da yaşanan hadiselere ilişkin paylaşılan \"Kahramanmaraş'taki saldırganın polis eşliğinde sağ olarak okuldan çıkarıldığı\" ve \"Şanlıurfa'daki saldırganın olaydan bir gün önce tutuklanıp serbest bırakıldığı\" iddialarının asılsız olduğunu açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
