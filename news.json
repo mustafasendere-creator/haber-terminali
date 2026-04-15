@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e9caba8c",
+    "title": "RTÜK'ten Kahramanmaraş'taki saldırıyla ilgili yayın kuruluşlarına uyarı",
+    "source": "TRT Haber",
+    "time": "15/04/2026 19:45",
+    "link": "https://www.trthaber.com/haber/gundem/rtukten-kahramanmarastaki-saldiriyla-ilgili-yayin-kuruluslarina-uyari-941758.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Radyo ve Televizyon Üst Kurulu RTÜK, Kahramanmaraş'taki Ayser Çalık Ortaokulu'ndaki silahlı saldırıya ilişkin yayın kuruluşlarına uyarıda bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bd202d96",
     "title": "ABD ile Çin arasında İran petrolü gerilimi",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD&#039;li sosyal medya şirketi Snap, iş gücünün yüzde 16&#039;sına karşılık gelen 1000 kişiyi işten çıkaracağını, 300&#039;den fazla açık pozisyonu da kapatacağını bildirdi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/snap-calisanlarinin-yuzde-16sini-isten-cikariyor-ajhi_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_30617144",
-    "title": "KKTC Başbakanı Üstel: Güvenliğimiz için tüm tedbirler alınmıştır",
-    "source": "Ekonomim",
-    "time": "15/04/2026 18:46",
-    "link": "https://www.ekonomim.com/gundem/kktc-basbakani-ustel-guvenligimiz-icin-tum-tedbirler-alinmistir-haberi-888330",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı Ünal Üstel, Gazimağusa’da yaşanan sınır gerginliğinin ardından &quot;KKTC&#039;nin güvenliği için tüm tedbirler alınmıştır&quot; açıklamasını yaptı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/kktc-basbakani-ustel-guvenligimiz-icin-tum-tedbirler-alinmistir-8s7r_cover.jpg",
     "keyword": null
   }
 ]
