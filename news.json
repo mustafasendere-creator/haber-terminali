@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d755c805",
+    "title": "Gülistan Doku soruşturması: Dosyaya yeni görüntüler girdi",
+    "source": "BirGün",
+    "time": "16/04/2026 01:24",
+    "link": "https://www.birgun.net/haber/gulistan-doku-sorusturmasi-dosyaya-yeni-goruntuler-girdi-705957",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku’nun kaybolmasına ilişkin soruşturma dosyasına, Doku'nun son görüldüğü 5 Ocak 2020 gecesi şüpheliler Umut Altaş ve dönemin Tunceli Valisi Tuncay Sonel’in oğlu Mustafa Türkay Sonel'in lüks bir otomobilin içinde görüntülendiği PTS görüntüleri girdi. Öte yandan gözaltına alınan 13 şüphelinin jandarmadaki işlemleri sürüyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/gulistan-doku-sorusturmasi-dosyaya-yeni-goruntuler-girdi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fd33602a",
     "title": "DMM, Kahramanmaraş'taki silahlı saldırı sonucu kayıp çocukların olduğu iddialarını yalanladı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul'da, bir sosyal medya uygulamasında okul ismi vererek vatandaşları korku ve paniğe sevk edecek şekilde yazışmalar yapan kişiler hakkında soruşturma başlatıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1882cb0e",
-    "title": "İstanbul Aile Vakfından Şanlıurfa ve Kahramanmaraş'taki silahlı saldırılara ilişkin açıklama",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 00:24",
-    "link": "https://www.aa.com.tr/tr/gundem/istanbul-aile-vakfindan-sanliurfa-ve-kahramanmarastaki-silahli-saldirilara-iliskin-aciklama/3907207",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Aile Vakfı, \"Okul güvenliği en üst seviyede yeniden ele alınmalı, psikososyal destek mekanizmaları güçlendirilmeli, çocuk ruh sağlığını tahrip eden dijital ve medya içeriklerine karşı daha kararlı tedbirler alınmalıdır.\" açıklamasını yaptı.",
     "image": null,
     "keyword": null
   }
