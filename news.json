@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_addc5d14",
+    "title": "DMM: Kirli bilgi yayarak toplumsal huzuru tehdit edenler hakkında adli süreç başlatılmıştır",
+    "source": "TRT Haber",
+    "time": "15/04/2026 19:26",
+    "link": "https://www.trthaber.com/haber/gundem/dmm-kirli-bilgi-yayarak-toplumsal-huzuru-tehdit-edenler-hakkinda-adli-surec-baslatilmistir-941783.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dezenformasyonla Mücadele Merkezi DMM, Kahramanmaraş'taki okul saldırısı hakkındaki içeriklere dair, \"Kirli bilgi yayarak toplumsal huzuru tehdit eden, toplumu kin ve düşmanlığa sevk eden ve provokatif içerik üreten tüm şahıs ve içerikler hakkında gerekli adli süreçler ve teknik incelemeler ilk andan itibaren başlatılmıştır.\" açıklamasını yaptı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b707dc36",
     "title": "Cumhurbaşkanı Erdoğan'dan Kahramanmaraş'taki saldırıya ilişkin açıklama",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "AK Parti İstanbul Milletvekili Serkan Bayram, hayatını konu alan \"Buğday Tanesi\" filmini ve kitabını Azerbaycan'da tanıttı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_43ebf007",
-    "title": "İngiliz Başbakanı Starmer'dan Trump'ın \"Ticaret anlaşması değişir\" çıkışına \"savaş baskısı\" nitelemesi",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 18:44",
-    "link": "https://www.aa.com.tr/tr/dunya/ingiliz-basbakani-starmerdan-trumpin-ticaret-anlasmasi-degisir-cikisina-savas-baskisi-nitelemesi/3906862",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Trump'ın İngiltere için kullandığı, \"İngiltere'ye sunduğumuz ticaret anlaşması değişebilir.\" açıklamasına işaret eden İngiltere Başbakanı Starmer, bunun ABD'nin İran saldırılarına katılması için yapılan baskılardan biri olduğunu söyledi.",
     "image": null,
     "keyword": null
   }
