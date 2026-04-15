@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4faf900",
+    "title": "Kahramanmaraş'ta okula silahlı saldırı: Saldırgan dahil beş ölü, 20 yaralı",
+    "source": "BBC Türkçe",
+    "time": "15/04/2026 15:45",
+    "link": "https://www.bbc.com/turkce/articles/ceqwwe7y523o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta Ayser Çalık Ortaokulu'na yapılan silahlı saldırıda en az dört kişi öldürüldü. Kahramanmaraş Valisi Mükerrem Ünlüer bir öğretmen ile üç öğrencinin hayatını kaybettiğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c570447c",
     "title": "A Milli Kadın Futbol Takımı'nın İsviçre maçı ücretsiz olacak",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Siverek&#039;te bir lisede yaşanan ve 16 kişinin yaralandığı silahlı saldırı sonrası Eğitim Gücü Sen Trabzon Şubesi sessiz kalmadı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/egitim-gucu-sen-trabzon.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_2712385c",
-    "title": "Borusan Holding’den Borusan Boru'da pay artışı",
-    "source": "Ekonomim",
-    "time": "15/04/2026 14:48",
-    "link": "https://www.ekonomim.com/sirketler/borusan-holdingden-borusan-boruda-pay-artisi-haberi-888285",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borusan Holding&#039;in Borusan Boru&#039;daki payı yüzde 74,85&#039;e çıktı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2021/01/11/borusan-holding1-AOqa_cover.jpg",
-    "keyword": null
   }
 ]
