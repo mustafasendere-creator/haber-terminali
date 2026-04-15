@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_d9c09e8b",
+    "title": "@gazimustafa-kemal.bsky.social: Şanlıurfa’nın Siverek ilçesinde, uzaklaştırıldığı okula sila...",
+    "source": "Bluesky",
+    "time": "15/04/2026 22:39",
+    "link": "https://bsky.app/profile/gazimustafa-kemal.bsky.social/post/3mjkbqmy37c26",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Şanlıurfa’nın Siverek ilçesinde, uzaklaştırıldığı okula silahla girerek 16 kişiyi yaralayan ve ardından intihar eden 19 yaşındaki Ömer Ket’in cenazesi gece saatlerinde polis eşliğinde gömüldü. Saldırganın 9 kişilik ailesinin ilçe dışına çıkarılarak koruma altına alınırken, olayla ilgili 4 görevli",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d5p2j2zrhu5j7vw5wpormayc/bafkreigqwt7wokrysu6hxxcbfs5kyt7akotnujldhy7nv3so6cquo74g5u",
+    "keyword": "polis intihar"
+  },
+  {
     "id": "SOC_69fa92b9",
     "title": "Saldırı göz göre göre gelmiş! Şanlıurfa'daki vahşette saldırganın tehdit mesajları ortaya çıktı! - YouTube",
     "source": "YouTube",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türk Telekom, Basketbol Süper Ligi'nin 25. hafta erteleme maçında kendi evinde ağırladığı Safiport Erokspor'u 93-84 mağlup etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/594b3b29-18c2-4b61-96ec-bdc2c50b7719.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_35084070",
-    "title": "İmamoğlu’ndan Kahramanmaraş’taki okul saldırısına tepki: ‘…Hak etmiyoruz’",
-    "source": "Cumhuriyet",
-    "time": "15/04/2026 21:46",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/imamoglu-ndan-kahramanmaras-taki-okul-saldirisina-tepki-hak-etmiyoruz-2495494",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Silivri’den açıklama yapan İmamoğlu, Kahramanmaraş’taki okul saldırısına tepki göstererek çocukların güvenliğinin sağlanmasının “hepimizin görevi” olduğunu vurguladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/289cfd57-554c-4139-bd35-b4a69989e742.jpg",
     "keyword": null
   }
 ]
