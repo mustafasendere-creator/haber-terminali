@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a7d540f1",
+    "title": "İstanbul’da bir keman virtiyözü",
+    "source": "10Haber",
+    "time": "15/04/2026 08:26",
+    "link": "https://10haber.net/kultur-sanat/istanbulda-bir-keman-virtiyozu-695269/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "&#8220;Mum Işığında Senfonik Gala&#8221; konseri, sanatçıyı 3000 mumun aydınlattığı sahnede seyirciyle buluşturdu. İstanbul Filarmoni Derneği Yönetim Kurulu Başkanı Atilla Tuna, konser öncesi yaptığı konuşmada, 80 yıldır bir geleneği yaşatmaya çalıştıklarını belirterek, &#8220;Türkiye&#8217;de çok sesli müziği yaşatma gayretindeyiz. Çabalarımızın somut bir örneğini sizinle paylaşıyoruz bu gece.&#8221; dedi. Fotoğraf : Asya Setinay Karagül/AAKonserin ilk bölümünde sahne alan [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69df14cfb9fa12.25460563.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6ce5a7f2",
     "title": "Şampiyonlar Ligi’nde ilk yarı finalistler: Atletico Madrid ve PSG",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Mehmed: Fetihler Sultanı  YouTube",
     "image": null,
     "keyword": "trabzon fetö"
-  },
-  {
-    "id": "GND_60eac02c",
-    "title": "İsrail ile Lübnan Washington'da \"doğrudan müzakerelere başlama\" kararı aldı",
-    "source": "Anadolu Ajansı",
-    "time": "14/04/2026 22:44",
-    "link": "https://www.aa.com.tr/tr/dunya/israil-ile-lubnan-washingtonda-dogrudan-muzakerelere-baslama-karari-aldi/3905713",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Dışişleri Bakanlığı, Washington'da gerçekleştirilen İsrail ile Lübnan arasındaki görüşmenin ardından tüm tarafların karşılıklı olarak kararlaştırılan bir zaman ve yerde doğrudan müzakerelere başlamayı kabul ettiğini açıkladı.",
-    "image": null,
-    "keyword": null
   }
 ]
