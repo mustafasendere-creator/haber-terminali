@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3796c424",
+    "title": "Belediyeler TİS’ler ve 1 Mayıs (2): Güçlü bir TİS için, güçlü bir 1 Mayıs",
+    "source": "Evrensel",
+    "time": "16/04/2026 00:45",
+    "link": "https://www.evrensel.net/haber/5979815/belediyeler-tis-ler-ve-1-mayis-2-guclu-bir-tis-icin-guclu-bir-1-mayis",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Belediye işçilerinin TİS süreçlerindeki deneyimi önce ilçelerinde sonra yakın belediyelerle ama giderek il ve ülke düzeyinde birlikte hareket etme kabiliyetini geliştirmeden, taleplerine ve sorunlarına kalıcı çözüm bulamayacağını gösteriyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343187.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9dc409fd",
     "title": "Ankara Atatürk Lisesi öğrencileri can güvenliğinden endişeli: Okula gelirken sadece dersimizi düşünmek istiyoruz",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "SOC",
     "prefix": "🦋",
     "summary": "C31 Service Alert Update: Buses are operating on or near schedule following an earlier mechanical problem. Track your bus in real-time by visiting metropulse.wmata.com/bus",
-    "image": null,
-    "keyword": "c31"
-  },
-  {
-    "id": "SOC_5dda3da4",
-    "title": "VAWAAPPLICANTS",
-    "source": "Reddit",
-    "time": "15/04/2026 23:47",
-    "link": "https://www.reddit.com/r/VAWAAPPLICANTS/",
-    "type": "SOC",
-    "prefix": "🤖",
-    "summary": "For people who filed VAWA to share their experiences:)   [link]",
     "image": null,
     "keyword": "c31"
   }
