@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5a290f87",
+    "title": "Sudan Konferansı: En büyük insani kriz Berlin'de görüşülüyor",
+    "source": "DW Türkçe",
+    "time": "15/04/2026 11:26",
+    "link": "https://www.dw.com/tr/sudan-konferansı-en-büyük-insani-kriz-berlin-de-görüşülüyor/a-76786338",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Batılı ülkeler ve Afrika Birliği, bugün Berlin'de Sudan iç savaşını görüşüyor. Konferansın amaçları arasında farkındalığı artırmak, yardım seferberliği başlatmak ve müzakereleri canlandırmak yer alıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c55756d7",
     "title": "Arif Kızılyalın: Silivri'de sayıya takılanlar salondaki duygu yüklü atmosferi sektiriyor",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da 15-22 Nisan tarihleri arasında kutlanacak 50. Turizm Haftası etkinlik programı belli oldu. Kent genelinde düzenlenecek etkinliklerle turizm değerleri tanıtılacak.",
     "image": "https://resim.haber61.net/news/612782.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_a8dc55c6",
-    "title": "AK Parti’ye 4 belediye başkanı daha katılıyor: CHP’den 2 isim var",
-    "source": "Haber61",
-    "time": "15/04/2026 11:04",
-    "link": "https://www.haber61.net/gundem/son-dakika-ak-partiye-4-belediye-baskani-daha-katiliyor-chpden-2-isim-var-h629634.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TGRT'de yer alan habere göre, bugün yapılacak AK Parti grup toplantısında ikisi CHP'li, biri Yeniden Refah Partili biri de Saadet Partili olmak üzere 4 yeni belediye başkanı katılacağı iddia edildi.",
-    "image": "https://resim.haber61.net/news/612787.jpg",
     "keyword": null
   }
 ]
