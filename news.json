@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1cb251aa",
+    "title": "Adalet Bakanlığı’ndan adli işlem açıklaması: Telegram dahil dijital platformlar takip ediliyor",
+    "source": "BirGün",
+    "time": "16/04/2026 00:25",
+    "link": "https://www.birgun.net/haber/adalet-bakanligindan-adli-islem-aciklamasi-telegram-dahil-dijital-platformlar-takip-ediliyor-706082",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adalet Bakanlığı, Kahramanmaraş’taki okul saldırısının ardından dijital platformlarda yapılan paylaşımlar ve sanal ortam faaliyetlerinin devletin yetkili birimlerince yakından takip edildiğini açıkladı. Bakanlık, şiddeti öven, suçu ve suçluyu meşrulaştıran, korku ve panik oluşturmaya yönelik içerikler ile halkı yanıltıcı bilgileri yayan kişiler hakkında adli işlem başlatıldığını bildirdi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/adalet-bakanligindan-okul-saldirisi-sonrasi-dijital-paylasimlara-yonelik-adli-islem-aciklamasi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fb9309e7",
     "title": "İçişleri Bakanlığı okullara saldırıların ardından yarın \"okul güvenliği\" toplantısı yapacak",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Şırnak’ın Balveren beldesinde ilkokul inşaatında meydana gelen göçükte toprak altında kalan 32 yaşındaki mühendis Murat Bektaş, kaldırıldığı hastanede hayatını kaybetti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/e96c893d-d567-4f3a-866c-42dbd46742eb.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_77a601a4",
-    "title": "Kahramanmaraş'taki okul saldırısına ilişkin 'yayın yasağını delen' 2 kişi gözaltına alındı",
-    "source": "Cumhuriyet",
-    "time": "15/04/2026 23:25",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/kahramanmaras-taki-okul-saldirisina-iliskin-yayin-yasagini-delen-2-kisi-gozaltina-alindi-2495523",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş'ta bir okulda meydana gelen saldırıya ilişkin yayın yasağına rağmen aykırı paylaşımlar yapan 2 kişi gözaltına alındı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/6cf7e2f4-6c72-406e-ac39-e1bd904c0841.jpg",
     "keyword": null
   }
 ]
