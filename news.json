@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_df3d4f8d",
+    "title": "Erdoğan: Hiçbir güç Türkiye'ye parmak sallayamaz",
+    "source": "BirGün",
+    "time": "15/04/2026 23:25",
+    "link": "https://www.birgun.net/haber/erdogan-hicbir-guc-turkiye-ye-parmak-sallayamaz-705976",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Partisinin grup toplantısında konuşan AKP'li Cumhurbaşkanı Erdoğan, Şanlıurfa’daki okul saldırısına ilişkin soruşturmanın devam ettiğini söyledi. Bölgesel gelişmelere de değinen Erdoğan, ABD-İran müzakerelerinde diplomasi vurgusu yaptı. CHP'yi de hedef alan Erdoğan, ana muhalefetin yönettiği belediyelerde \"fetret dönemi\" yaşandığını savundu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/erdogan-partisinin-grup-toplantisinda-konusuyor.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f24daa39",
     "title": "Dev. Maden-Sen: Dimin Madencilik toplu sözleşme hakkını engelleyemeyecek",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Merkez Bankası (Fed), Orta Doğu'daki çatışmanın, ABD'deki şirketlerce istihdam, fiyatlandırma ve sermaye yatırımıyla ilgili karar alma süreçlerini zorlaştıran başlıca belirsizlik kaynağı olarak görüldüğünü ortaya koydu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_17235f84",
-    "title": "Milli İrade Platformu'ndan Şanlıurfa ve Kahramanmaraş'taki silahlı saldırılara ilişkin açıklama",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 22:24",
-    "link": "https://www.aa.com.tr/tr/gundem/milli-irade-platformundan-sanliurfa-ve-kahramanmarastaki-silahli-saldirilara-iliskin-aciklama/3907124",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli İrade Platformu'ndan, Şanlıurfa ve Kahramanmaraş'ta okulda yaşanan silahlı saldırı olaylarına ilişkin açıklama yapıldı.",
     "image": null,
     "keyword": null
   }
