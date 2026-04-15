@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f7436efa",
+    "title": "Son depremler listesi",
+    "source": "Habertürk",
+    "time": "15/04/2026 10:47",
+    "link": "https://www.haberturk.com/son-dakika-depremler-listesi-15-nisan-2026-afad-ve-kandilli-rasathanesi-biraz-once-deprem-mi-oldu-nerede-ve-kac-buyuklugunde-3877155",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika deprem haberleri yakından takip ediliyor. 15 Nisan Çarşamba günü meydana gelen depremler anlık olarak güncellenirken, birçok kişi bulunduğu bölgede sarsıntı olup olmadığını öğrenmek için AFAD ve Kandilli Rasathanesi son depremler listesini kontrol ediyor. Peki, az önce deprem mi oldu, nerede ve kaç büyüklüğünde? İşte 15 Nisan 2026 AFAD ve Kandilli son dakika depremler listesi...",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776141051/3877155/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b541027c",
     "title": "Altın yükseliyor!",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Yomra Kaşüstüspor ve Pelitlispor maçlarındaki tartışmalı kararları bir bir sıralayan Çarşıbaşı Belediyespor, hakemlerin tarafsızlığını yitirdiğini savundu.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/arsibasi-belediye.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_cc17d98e",
-    "title": "Okan Buruk'un oğlu PFDK'ye sevk edildi",
-    "source": "BirGün",
-    "time": "15/04/2026 10:25",
-    "link": "https://www.birgun.net/haber/okan-buruk-un-oglu-pfdk-ye-sevk-edildi-705916",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Galatasaray Teknik Direktörü Okan Buruk'un oğlu Ali Yiğit Buruk'un Profesyonel Futbol Disiplin Kurulu'na (PFDK) sevk edildiğini duyurdu.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/okan-buruk-un-oglu-pfdk-ye-sevk-edildi.jpg",
     "keyword": null
   }
 ]
