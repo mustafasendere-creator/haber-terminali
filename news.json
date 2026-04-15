@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1f74d967",
+    "title": "İletişim Başkanlığından okul saldırılarına ilişkin açıklama",
+    "source": "Haber Global",
+    "time": "15/04/2026 17:07",
+    "link": "https://haberglobal.com/gundem/iletisim-baskanligindan-okul-saldirilarina-iliskin-aciklama-518998",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığı tarafından son günlerde meydana gelen okul saldırılarına ilişkin yazılı açıklama yapıldı. Açıklamada, \"Resmi kurum ve yetkililer tarafından yapılan açıklamalar dışında dolaşıma giren doğrulanmamış bilgi ve içeriklere itibar edilmemesi gerekmektedir. Kamuoyunun doğru bilgilendirilmesi adına tüm vatandaşlarımızın yalnızca resmi kaynakları takip etmeleri büyük önem taşımaktadır.\" denildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/iletisim-baskanligindan-okul-saldirilarina-iliskin-aciklama-ku3i.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_9bdbb0d2",
     "title": "Trabzon ile Harezm Arasında Kardeşlik Köprüsü Güçleniyor",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fenerbahçe Kulübü ile Otokoç arasında futbol takımı forma göğüs sponsorluğu yenilendi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_eeaf6b76",
-    "title": "THY'den öğrencilere Avrupa seyahatlerinde indirim",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 16:44",
-    "link": "https://www.aa.com.tr/tr/ekonomi/thyden-ogrencilere-avrupa-seyahatlerinde-indirim/3906728",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk Hava Yolları (THY), Türkiye çıkışlı Avrupa varışlı seyahatlerde öğrencilere yönelik yüzde 15 indirimli biletleri satışa sundu.",
     "image": null,
     "keyword": null
   }
