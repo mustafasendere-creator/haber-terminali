@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_470782b3",
+    "title": "Suriye, Irak’tan gelen akaryakıtın sevkiyatına başladı",
+    "source": "Ekonomim",
+    "time": "16/04/2026 01:06",
+    "link": "https://www.ekonomim.com/dunya/suriye-iraktan-gelen-akaryakitin-sevkiyatina-basladi-haberi-888389",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye, Irak&#039;tan gelen akaryakıtın Banyas Limanı üzerinden sevkiyatına başlandığını duyurdu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/16/suriye-iraktan-gelen-akaryakitin-sevkiyatina-basladi-7gie_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ef7e2f7e",
     "title": "Provokasyon yapan 66 URL adresi hakkında erişimin engellenmesi talebi",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Kontraspor  YouTube",
     "image": null,
     "keyword": "trabzon son dakika"
-  },
-  {
-    "id": "GND_9c4a9179",
-    "title": "AK Parti raporuna göre toplumda ‘güçlü ve yaygın’ bir kaygı oluştu",
-    "source": "Ekonomim",
-    "time": "16/04/2026 00:06",
-    "link": "https://www.ekonomim.com/gundem/ak-parti-raporuna-gore-toplumda-guclu-ve-yaygin-bir-kaygi-olustu-haberi-888352",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AK Parti’nin masasındaki Mart ayı raporu tamamlandı. Kamuoyu araştırmasıyla İran Savaşı’nın toplum üzerindeki ekonomik etkisi ve kaygısı ölçüldü.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/ak-parti-raporuna-gore-toplumda-guclu-ve-yaygin-bir-kaygi-olustu-okcn_cover.jpg",
-    "keyword": null
   }
 ]
