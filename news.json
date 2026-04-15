@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5ddcb716",
+    "title": "Küresel piyasalarda \"barış\" zilleri çalıyor",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 09:25",
+    "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-baris-zilleri-caliyor/3905849",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küresel piyasalarda, ABD ile İran'ın uzlaşı sağlanabileceğine yönelik artan umutlarla pozitif bir seyir öne çıkarken, ABD'de üretici enflasyonundaki hızlanma, savaşın olumsuz etkilerinin makroekonomik verilere yansımaya devam ettiğini gösterdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_593e715a",
     "title": "UEFA Avrupa Ligi'nde yarı finalistler yarın belli olacak",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı, Truth Social hesabından Papa Leo ile giderek büyüyen anlaşmazlığına dair yeni bir açıklama yaptı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1a5b6887",
-    "title": "Grok'un Deepfake içerikler nedeniyle başı yeniden belada",
-    "source": "TRT Haber",
-    "time": "15/04/2026 08:46",
-    "link": "https://www.trthaber.com/haber/dunya/grokun-deepfake-icerikler-nedeniyle-basi-yeniden-belada-941685.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Elon Muskın yapay zeka yazılımı Grok, X platformunun bu tür içerikleri durdurma taahhüdüne rağmen rıza dışı müstehcen görüntüler üretmeye devam ediyor. NBC News tarafından yapılan inceleme, son bir ayda gerçek kadınların rıza dışı üretilmiş onlarca cinsel içerikli görüntüsünün platformda paylaşıldığını ortaya çıkardı.",
     "image": null,
     "keyword": null
   }
