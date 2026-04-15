@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_038fe5af",
+    "title": "Uzmanlar uyardı!",
+    "source": "Habertürk",
+    "time": "15/04/2026 17:08",
+    "link": "https://www.haberturk.com/bu-tarihten-sonra-uyku-duzeni-degisiyor-uzmanlar-yeni-doneme-girildigini-acikladi-3877299",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bahar aylarının etkisiyle birlikte insan vücudunda yeni bir dönem başlıyor. Uzmanlara göre artan gün ışığı, biyolojik saat üzerinde doğrudan etkili oluyor. Bu değişim, uyku düzeninden ruh haline kadar birçok alanda hissediliyor. Bu süreçte enerji seviyelerinde artış yaşanırken, bazı kişilerde mevsimsel yorgunluk ve adaptasyon zorlukları da görülebiliyor.",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776167168/3877299/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ad6472b9",
     "title": "İsrail merkezli bir STK, UCM’de İspanya Başbakanı aleyhine dava açtı",
     "source": "Independent",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Rusya, Slovyansk’a FAB-1500 bombasıyla saldırarak sivil binaları yerle bir ediyor; Sümi sanayi bölgesinde tekrarlanan İHA saldırıları büyük yangınlar çıkarıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_91ccec91",
-    "title": "Jamie Dornan'ın Aragorn seçimi: yeni Yüzüklerin Efendisi filmine karışık tepkiler aldı",
-    "source": "Euronews",
-    "time": "15/04/2026 16:45",
-    "link": "http://tr.euronews.com/kultur/2026/04/15/jamie-dornanin-aragorn-secimi-yeni-yuzuklerin-efendisi-filmine-karisik-tepkiler-aldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "J.R.R. Tolkien'in sinemaya uyarlanan Yüzüklerin Efendisi destanının son halkası için yeni oyuncu kadrosu açıklandı; bazı hayranlar memnun değil.",
     "image": null,
     "keyword": null
   }
