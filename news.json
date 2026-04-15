@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c49e0147",
+    "title": "Ticaret Bakanlığı kurumun adıyla yapılan sahte yatırım tekliflerine karşı uyardı",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 17:04",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-kurumun-adiyla-yapilan-sahte-yatirim-tekliflerine-karsi-uyardi/3906751",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ticaret Bakanlığı, sosyal medya ve mesaj uygulamaları üzerinden kurumun adı ve logosu kullanılarak gönderilen yatırım tekliflerine itibar edilmemesi konusunda vatandaşları uyardı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a1cdaee3",
     "title": "TBMM Başkanı Kurtulmuş: Filistin dostları olarak bize mücadeleye bütün gücümüzle destek olmak düşer",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İşçiler, öğrenciler ve yerel halktan oluşan Mekansızlar Tiyatrosu, gönüllü yapısıyla üretimini sürdürüyor. Yönetmen Buğra Gençoğlu, yeni oyun hazırlıklarının devam ettiğini söyledi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343147.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_01902813",
-    "title": "Kontrolden Çıkan Araç Uçuruma Yuvarlandı: İsmail Kotan’dan Acı Haber Geldi",
-    "source": "Kuzey Ekspres",
-    "time": "15/04/2026 16:25",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27816999/kontrolden-cikan-arac-ucuruma-yuvarlandi-ismail-kotandan-aci-haber-geldi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Arsin ilçesinde meydana gelen feci kazada, çöp dökmek için duran kamyonetin uçuruma yuvarlanması sonucu sürücü İsmail Kotan yaşamını yitirdi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/vefat.webp",
     "keyword": null
   }
 ]
