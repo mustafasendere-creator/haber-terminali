@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c3131a6e",
+    "title": "Avrupa borsaları karışık seyrediyor",
+    "source": "Ekonomim",
+    "time": "15/04/2026 13:46",
+    "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-karisik-seyrediyor-haberi-888264",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa borsalarında, ABD ile İran arasında uzlaşı sağlanabileceğine yönelik umudun artmasına karşın yatırımcıların temkinli davranmasıyla karışık bir seyir öne çıkıyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/12/deutsche-borse-iss-stoxxun-tamamina-sahip-oluyor-6dxw_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_58df4171",
     "title": "Euro Bölgesi'nde sanayi üretimi şubatta yüzde 0,4 arttı",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Avrasya Üniversitesi’nin bölge illerinde sürdürdüğü eğitim programları aralıksız devam ediyor. Bu kapsamda gerçekleştirilen etkinliklerden biri Ordu Seçkin Bilim Koleji’nde düzenlendi.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/avrasya-universitesinden-orduda-egitim-hamlesi-1774692751.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_39e40295",
-    "title": "Financial Times: İran, ABD üslerini hedef almak için Çin yapımı casus uydu kullandı",
-    "source": "BirGün",
-    "time": "15/04/2026 13:25",
-    "link": "https://www.birgun.net/haber/financial-times-iran-abd-uslerini-hedef-almak-icin-cin-yapimi-casus-uydu-kullandi-706002",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran'ın, ABD ile İsrail'in saldırılarıyla başlayan savaşta ABD üslerini hedef almak için Çin yapımı casus uydu kullandığı öne sürüldü.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/financial-times-iran-abd-uslerini-hedef-almak-icin-cin-yapimi-casus-uydu-kullandi.jpg",
     "keyword": null
   }
 ]
