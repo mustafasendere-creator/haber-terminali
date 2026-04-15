@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5dc04561",
+    "title": "Türkiye Psikiyatri Derneği: Bu tür şiddet olayları yalnızca bireysel ruh sağlığıyla sınırlı değil",
+    "source": "Evrensel",
+    "time": "15/04/2026 17:05",
+    "link": "https://www.evrensel.net/haber/5979789/turkiye-psikiyatri-dernegi-bu-tur-siddet-olaylari-yalnizca-bireysel-ruh-sagligiyla-sinirli-degil",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Okul saldırılarıyla ilgili açıklama yapan TPD, şiddet olaylarının yalnızca bireysel ruh sağlığıyla sınırlı olmadığını belirterek, çözümün kapsayıcı sosyal politikalar ve eşitlikçi eğitim ortamları ile mümkün olduğunu belirtti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343160.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_8191e761",
     "title": "CHP'den istifa etmişti: Serik Belediye Başkanı Kadir Kumbul AKP'ye geçti",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel, okullarda yaşanan saldırılar üzerine \"Türkiye’nin en acil gündemlerinden biri artık okul güvenliği olmalıdır\" dedi. Özel, ataması yapılmamış uzman çavuşlar arasında 65 bin kişinin okullara özel güvenlik görevlisi olarak atanması çağrısını yineledi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/3ccce957-170d-46cf-90e7-a38f0e88d9f2.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c2daedcf",
-    "title": "İzmir’de 7 eğitim sendikasından ortak tepki: 'Okullar güvensiz, önlem alınmalı'",
-    "source": "Cumhuriyet",
-    "time": "15/04/2026 16:26",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/izmir-de-7-egitim-sendikasindan-ortak-tepki-okullar-guvensiz-onlem-alinmali-2495422",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir'de 7 eğitim sendikası, Şanlıurfa’nın Siverek ilçesinde bir lisede yaşanan silahlı saldırıyı protesto etmek için bir günlük iş bırakma eylemi yaptı. Sendikalar, okullarda güvenlik önlemlerinin yetersiz olduğunu belirterek, acil ve somut adımlar atılması çağrısında bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/170f2121-c2d3-45b0-a8bd-289ee1ed1dcd.jpg",
     "keyword": null
   }
 ]
