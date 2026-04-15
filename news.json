@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4f007594",
+    "title": "Bu defa yer Gaziantep! Liseye gelip öğrenciye ateş açtılar",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 23:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/bu-defa-yer-gaziantep-liseye-gelip-ogrenciye-ates-actilar-2495517",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep’te bir liseye gelen 4 şüpheli, okuldan dışarı çağırdıkları öğrenciye kurusıkı tabancayla ateş açtı. Olayda yaralanan olmazken 1 şüpheli yakalandı, 3 kişi aranıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7d3f4e77-5aa5-40b6-9b58-2a04118cb1af.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2900c2a8",
     "title": "Diyet bozmayan fit atıştırmalık: Çikolatalı yulaflı kurabiye tarifi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kahramanmaraş'ta okula düzenlenen saldırıda hayatını kaybeden öğretmen ve öğrencilerin isimleri belli oldu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/sondakika-koaspyasi-2-kurtarildi-kopya-9.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_6581d453",
-    "title": "Okula saldırı yapacağına dair paylaşım yapan şahısın evine baskın: Valilik’ten açıklama geldi",
-    "source": "Haber61",
-    "time": "15/04/2026 22:44",
-    "link": "https://www.haber61.net/gundem/okula-saldiri-yapacagina-dair-paylasim-yapan-sahisin-evine-baskin-h629693.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Sivas Valiliği, sosyal medyada okullara yönelik saldırı yapılacağı yönündeki paylaşımların asılsız olduğunu açıklarken, halkı paniğe sevk eden 10. sınıf öğrencisi E.A.’nın yakalandığını duyurdu.",
-    "image": "https://resim.haber61.net/news/612894.jpg",
     "keyword": null
   }
 ]
