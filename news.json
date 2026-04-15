@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0bf8431b",
+    "title": "Provokatif paylaşımlarda bulunan 66 URL adresi için erişimin engellenmesi talebi",
+    "source": "TRT Haber",
+    "time": "16/04/2026 01:05",
+    "link": "https://www.trthaber.com/haber/gundem/provokatif-paylasimlarda-bulunan-66-url-adresi-icin-erisimin-engellenmesi-talebi-941809.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta bir okulda meydana gelen silahlı saldırının ardından, Telegram üzerinden provokatif paylaşımlarda bulunan 66 URL adresi hakkında içerik çıkarılması ve erişimin engellenmesi talebinde bulunuldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c78ec744",
     "title": "Ukrayna: Rus ordusu 21 füze ve 361 SİHA ile hava saldırıları düzenledi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "T.C. YAHYALI 2. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
     "image": "https://media.cumhuriyet.com.tr/Archive/833de727-f43c-420a-a921-0810024b97d9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6daa63ec",
-    "title": "KADIKÖY BELEDİYE BŞK. YAZI İŞLERİ MÜDÜRLÜĞÜ",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 00:05",
-    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/kadikoy-belediye-bsk-yazi-isleri-mudurlugu-2495463",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "KADIKÖY BELEDİYE BŞK. YAZI İŞLERİ MÜDÜRLÜĞÜ",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c84f8772-f2f6-4137-b93a-83cc22047d87.jpg",
     "keyword": null
   }
 ]
