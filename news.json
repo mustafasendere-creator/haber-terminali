@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c2c9ae0",
+    "title": "Beyaz Saray: İran'la geçici ateşkesin uzatılması üzerine konuşuyoruz",
+    "source": "BirGün",
+    "time": "15/04/2026 22:44",
+    "link": "https://www.birgun.net/haber/beyaz-saray-iran-la-gecici-ateskesin-uzatilmasi-uzerine-konusuyoruz-706072",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyaz Saray Sözcüsü Leavitt, \"Bugün, ateşkesin uzatılmasını resmi olarak talep ettiğimize dair bazı haberler gördüm. Bu doğru değil. Şu anda bu müzakerelere yoğun bir şekilde devam ediyoruz. Görüşmeler verimli bir şekilde devam ediyor\" dedi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/beyaz-saray-iran-la-gecici-ateskesin-uzatilmasi-uzerine-konusuyoruz.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_470f3d08",
     "title": "Trabzon'da çığ anı kamerada!",
     "source": "Kuzey Ekspres",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "DMM, \"Kahramanmaraş'taki saldırganın polis eşliğinde sağ olarak okuldan çıkarıldığı\" ve \"Şanlıurfa'daki saldırganın olaydan bir gün önce tutuklanıp serbest bırakıldığı\" yönündeki iddiaların asılsız ve gerçekle hiçbir bağı bulunmadığını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_be714f46",
-    "title": "Basın kuruluşlarından, İsrail Yüksek Mahkemesine basının Gazze'ye erişimi davasında süreci hızlandırması çağrısı",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 22:04",
-    "link": "https://www.aa.com.tr/tr/dunya/basin-kuruluslarindan-israil-yuksek-mahkemesine-basinin-gazzeye-erisimi-davasinda-sureci-hizlandirmasi-cagrisi/3907102",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Basın kuruluşları, İsrail Yüksek Mahkemesinden, Yabancı Basın Örgütünün (FPA) Gazze'ye bağımsız basının erişimi için İsrail hükümetine karşı açtığı davada, hükümete verdiği süreyi kısaltarak yargı sürecini hızlandırmasını istedi.",
     "image": null,
     "keyword": null
   }
