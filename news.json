@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e5395fe",
+    "title": "İstanbul'da Parlamentolar Arası Birlik Genel Kurulu başladı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 00:05",
+    "link": "https://www.trthaber.com/haber/gundem/istanbulda-parlamentolar-arasi-birlik-genel-kurulu-basladi-941805.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Parlamentolar Arası Birlik PAB 152. Genel Kurulu Türkiye Büyük Millet Meclisinin TBMM ev sahipliğinde İstanbul'da başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_679e0569",
     "title": "Adalet Bakanlığı: Başta Telegram olmak üzere sosyal medyada gerekli işlemler başlatıldı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’un Çaykara ilçesinde meydana gelen çığ, cep telefonu kamerasına yansıdı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/trabzonda-cig-ani-kamerada3.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_120f6ccb",
-    "title": "Abdullah Avcı’dan Gündem Yaratan Sözler: Yusuf Sarı ve Marek Hamsik Diyaloğu",
-    "source": "Günebakış",
-    "time": "15/04/2026 23:05",
-    "link": "https://www.gunebakis.com.tr/abdullah-avcidan-gundem-yaratan-sozler-yusuf-sari-ve-marek-hamsik-diyalogu/27818675",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor&#039;un eski teknik direktörü Abdullah Avcı, Yusuf Sarı ile aralarında geçen Marek Hamsik anısını anlattı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/abdullah-avcidan-gundem-yaratan-sozler-yusuf-sari-ve-marek-hamsik-diyalogu-1.png",
     "keyword": "trabzon"
   }
 ]
