@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_26f934be",
+    "title": "CHP’den istifa eden belediye başkanı AKP’ye katıldı",
+    "source": "BirGün",
+    "time": "15/04/2026 16:25",
+    "link": "https://www.birgun.net/haber/chpden-istifa-eden-belediye-baskani-akpye-katildi-706043",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'den istifa eden Serik Belediye Başkanı  Kadir Kumbul, AKP'ye katıldı. Kumbul'a rozetini AKP'li cumhurbaşkanı Erdoğan taktı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/chpden-istifa-eden-belediye-baskani-akpye-katildi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d9a95d2e",
     "title": "'Alttaki', Gölge Sahne’de izleyiciyle buluşacak",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kahramanmaraş'ta Ayser Çalık Ortaokulu'na yapılan silahlı saldırıda en az dört kişi öldürüldü. Kahramanmaraş Valisi Mükerrem Ünlüer bir öğretmen ile üç öğrencinin hayatını kaybettiğini açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c570447c",
-    "title": "A Milli Kadın Futbol Takımı'nın İsviçre maçı ücretsiz olacak",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 15:45",
-    "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-futbol-takiminin-isvicre-maci-ucretsiz-olacak/3906532",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Kadın Futbol Takımı'nın 2027 FIFA Kadınlar Dünya Kupası Avrupa Elemeleri B Ligi 2. Grup'ta 18 Nisan Cumartesi günü Sinop'ta İsviçre ile oynayacağı müsabakayı futbolseverler ücretsiz olarak izleyebilecek.",
     "image": null,
     "keyword": null
   }
