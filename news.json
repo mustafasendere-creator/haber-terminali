@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9388a8f7",
+    "title": "İsrail'in Lübnan'ın güneyinde düzenlediği hava saldırısında 5 kişi hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 08:44",
+    "link": "https://www.aa.com.tr/tr/live-blog/israilin-lubnanin-guneyinde-duzenledigi-hava-saldirisinda-5-kisi-hayatini-kaybetti/1051",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, Lübnan'ın güneyindeki Sayda kentine bağlı Ensariye beldesine düzenlediği hava saldırısında 5 kişinin yaşamını yitirdiği bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_b1ec8084",
     "title": "Trabzon’da 50. Turizm Haftası dolu dolu geçecek",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkan Yardımcısı JD Vance, Başkan Donald Trump’ın İran’la dar değil, aksine \"kapsamlı\" bir anlaşma yapmak istediğini ve bunun için müzakerelere devam edeceklerini söyledi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_b55359d1",
-    "title": "Trabzon’u dünyaya açtılar! Herkes burayı izliyor",
-    "source": "61 Saat",
-    "time": "15/04/2026 08:24",
-    "link": "https://www.61saat.com/trabzonu-dunyaya-actilar-herkes-burayi-izliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediyesi’nin hayata geçirdiği şehir kameraları sistemi, son dönemde özellikle gurbetçiler için adeta “memlekete açılan pencere” hâline geldi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/tra-16.png",
     "keyword": null
   }
 ]
