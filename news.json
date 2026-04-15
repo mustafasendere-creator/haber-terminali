@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da01fe36",
+    "title": "IMF uyardı: Dünya borcu tarihi seviyeye yaklaşıyor",
+    "source": "Ekonomim",
+    "time": "15/04/2026 21:46",
+    "link": "https://www.ekonomim.com/kuresel-ekonomi/imf-uyardi-dunya-borcu-tarihi-seviyeye-yaklasiyor-haberi-888319",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "IMF küresel kamu borcunun 2029&#039;a kadar GSYH&#039;nin yüzde 100&#039;üne ulaşacağını öngörüyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/26/imf-abdnin-kamu-borcundaki-artisa-isaret-etti-buyuyen-bir-istikrar-riski-olusturuyor-h6ow_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_122eda59",
     "title": "Kahramanmaraş'ta ortaokulda silahlı saldırı: Can kaybı 9'a yükseldi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Türk Silahlı Kuvvetlerinin (TSK) EFES-2026 Tatbikatı'nın Simülasyon Destekli Komuta Yeri (SDKY) Safhası, ilk defa yerli ve milli yazılım \"Bertuğ\" kullanılarak İstanbul'da gerçekleştirildi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a46ee2e0",
-    "title": "Okul saldırıları toplumsal çöküşün yansıması",
-    "source": "BirGün",
-    "time": "15/04/2026 21:25",
-    "link": "https://www.birgun.net/haber/okul-saldirilari-toplumsal-cokusun-yansimasi-706067",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Kadın Dernekleri Federasyonu Başkanı Canan Güllü, Şanlıurfa ve Kahramanmaraş’taki okul baskınlarının yalnızca güvenlik açığıyla açıklanamayacağını belirterek, yaşananların derin bir toplumsal çöküşün yansıması olduğunu vurguladı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/okul-saldirilari-toplumsal-cokusun-yansimasi.jpg",
     "keyword": null
   }
 ]
