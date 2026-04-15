@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8d9b3819",
+    "title": "Defalarca hastaneden evine gönderildi: Çağla Savaş’tan acı haber",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 11:07",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/defalarca-hastaneden-evine-gonderildi-cagla-savas-tan-aci-haber-2495326",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zonguldak’ta ateş ve baş ağrısı şikayetiyle gittiği hastaneden defalarca eve gönderilen 14 yaşındaki Çağla Savaş, menenjit teşhisiyle kaldırıldığı yoğun bakımda yaşam savaşını kaybetti. Ailesinin ihmal iddialarıyla gündeme gelen olayda, 8. sınıf öğrencisi Çağla’nın bir haftalık yaşam mücadelesi tüm kenti yasa boğdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/94ada2ae-6810-4ec0-96cd-e27dffdbfc8f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0960c91a",
     "title": "Son dakika... İYİ Parti Genel Başkanı Müsavat Dervişoğlu, partisinin grup toplantısında konuşuyor",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul'da polis ekiplerince yapılan denetimde, çeşitli suçlardan aranan 600 şüphelinin de aralarında bulunduğu toplam 1149 kişi gözaltına alındı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8cb89fae",
-    "title": "Anadolu Ajansı 2025 Yılı Genel Kurul Toplantısı Davet Duyurusu",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 10:45",
-    "link": "https://www.aa.com.tr/tr/kurumsal-haberler/anadolu-ajansi-2025-yili-genel-kurul-toplantisi-davet-duyurusu/3905961",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anadolu Ajansı 2025 Yılı Olağan Genel Kurul Toplantısı, 4 Mayıs 2026 tarihinde Eti Mahallesi Gazi Mustafa Kemal Bulvarı No: 132 Çankaya/Ankara adresinde yapılacak.",
     "image": null,
     "keyword": null
   }
