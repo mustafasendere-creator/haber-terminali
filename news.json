@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6d1309b1",
+    "title": "IMF'den savaş uyarısı: Dünya ekonomisi durgunluğun eşiğinde",
+    "source": "TRT Haber",
+    "time": "15/04/2026 08:26",
+    "link": "https://www.trthaber.com/haber/dunya/imfden-savas-uyarisi-dunya-ekonomisi-durgunlugun-esiginde-941682.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Para Fonu IMF, İran'a karşı yürütülen savaşın tırmanması ve petrol piyasalarında yaşanan kesintilerin küresel ekonomiyi resesyonun eşiğine getirebileceği uyarısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_080ee33a",
     "title": "100 euroluk çekilişten 1 milyon euroluk Picasso tablosu kazandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'da Taksim Metro İstasyonu'nda bulunan asansörde bilinmeyen nedenle yangın çıktı. Paniğe neden olan yangın itfaiye tarafından söndürüldü.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/taksim-metro-istasyonunda-yangin-panigi-vkk9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5007c2e3",
-    "title": "Serik Belediye Başkanı Kadir Kumbul CHP'den istifa etti",
-    "source": "Haber Global",
-    "time": "14/04/2026 22:45",
-    "link": "https://haberglobal.com/gundem/serik-belediye-baskani-kadir-kumbul-chpden-istifa-etti-518792",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhuriyet Halk Partisi (CHP) Antalya İl Başkanlığı, Serik Belediye Başkanı Kadir Kumbul'un partisinden istifa ettiğini duyurdu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/serik-belediye-baskani-kadir-kumbul-chpden-istifa-etti-yes2.jpg",
     "keyword": null
   }
 ]
