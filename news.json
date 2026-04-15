@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0994f7aa",
+    "title": "Trump ile Papa arasındaki İran atışması devam ediyor",
+    "source": "TRT Haber",
+    "time": "15/04/2026 08:46",
+    "link": "https://www.trthaber.com/haber/dunya/trump-ile-papa-arasindaki-iran-atismasi-devam-ediyor-941681.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı, Truth Social hesabından Papa Leo ile giderek büyüyen anlaşmazlığına dair yeni bir açıklama yaptı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1a5b6887",
     "title": "Grok'un Deepfake içerikler nedeniyle başı yeniden belada",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "New Jersey'de yük treni raydan çıktı; vagonlardan sızan kimyasal madde nedeniyle alarm durumuna geçildi. Ana yollar trafiğe kapatıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343053.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3473e6ff",
-    "title": "Filistin direnişinin sembol ismi Bergusi hapishanede işkencelere maruz kaldı",
-    "source": "Evrensel",
-    "time": "15/04/2026 08:26",
-    "link": "https://www.evrensel.net/haber/5979679/filistin-direnisinin-sembol-ismi-bergusi-hapishanede-iskencelere-maruz-kaldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filistinli esirler için kurulan kampanya, tutukluluğunun 24. yılında Mervan Bergusi’nin İsrail hapishanesinde ağır işkenceye maruz kaldığını ve tıbbi müdahaleden mahrum bırakıldığını açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/321750.jpg",
     "keyword": null
   }
 ]
