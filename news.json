@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a0bede52",
+    "title": "Burak Yılmaz’ın Gaziantep FK karnesi",
+    "source": "BirGün",
+    "time": "15/04/2026 12:45",
+    "link": "https://www.birgun.net/haber/burak-yilmazin-gaziantep-fk-karnesi-705974",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep FK’de 234 gün görev yapan Burak Yılmaz, 27 maçta 1,25 puan ortalamasında kalırken; iyi başlayan süreç, ikinci dönemdeki istikrarsız sonuçlarla sona erdi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/burak-yilmazin-gaziantep-fk-karnesi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8bd70736",
     "title": "Açıkta satılan gıdalar \"doğal\" algısıyla risk oluşturabilir uyarısı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ay'ın uzak yüzünden arka bahçedeki akıllı teleskopa kadar: İşte NASA'nın Artemis II görevinin Dünya'dan çekilen çarpıcı görüntüleri.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_d5e0fb37",
-    "title": "ABD'de 50 milyondan fazla kişi, şiddetli fırtına ve hortum riskine karşı uyarıldı",
-    "source": "İHA Trabzon",
-    "time": "15/04/2026 12:05",
-    "link": "https://www.aa.com.tr/tr/dunya/abdde-50-milyondan-fazla-kisi-siddetli-firtina-ve-hortum-riskine-karsi-uyarildi/3906094",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "ABD'nin orta kesimleri ile iç bölgelerinde 50 milyondan fazla kişi, şiddetli fırtına ve hortum tehlikesine karşı uyarıldı.",
     "image": null,
     "keyword": null
   }
