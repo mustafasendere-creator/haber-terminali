@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bc189a61",
+    "title": "İstanbul'da 21 yıl 9 ay hapis cezası bulunan firari yakalandı",
+    "source": "TRT Haber",
+    "time": "15/04/2026 10:46",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-21-yil-9-ay-hapis-cezasi-bulunan-firari-yakalandi-941709.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ä°stanbul'da \"Ã§ocuÄŸa cinsel istismar\" suÃ§undan 21 yÄ±l 9 ay hapis cezasÄ± bulunan hÃ¼kÃ¼mlÃ¼ Esenyurt'ta yakalandÄ±.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5e17cc26",
     "title": "TRTnin Filistin belgeseli dünya prömiyerini İsviçrede yapıyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, Alanyaspor maçındaki çirkin tezahürat nedeniyle TFF tarafından PFDK’ya sevk edildi.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/sondakika-1.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_948a4073",
-    "title": "Gazze: Bir Soykırımın Hikayesi",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 10:25",
-    "link": "https://www.aa.com.tr/tr/aa-yayinlari/gazze-bir-soykirimin-hikayesi/3905946",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": null,
     "keyword": null
   }
 ]
