@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b2994453",
+    "title": "Kahramanmaraş'ta okula silahlı saldırı... 'Kaybolan çocuklar var' iddiasına resmi yanıt",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 01:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kahramanmaras-okula-silahli-saldiri-kaybolan-cocuklar-var-iddiasina-resmi-yanit-2495565",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, Kahramanmaraş’taki okul saldırısı sonrası ortaya atılan “kayıp çocuklar var” iddialarının asılsız olduğunu açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2e28ff36-077a-4fc8-b78c-f62822f00343.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5bac96a6",
     "title": "Kahramanmaraş'taki saldırıda hayatını kaybeden öğretmen ve öğrencilerin isimleri belli oldu",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Euroleague, 2026-27 sezonunda mevcut 20 takımlı formatı koruma kararı alırken gelir dağılımında performans ve pazar odaklı yeni modele geçti. NBA ile olası iş birlikleri de gündemde.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/euroleaguede-yol-haritasi-netlesti-format-korunacak-gelir-modeli-degisiyor.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_15b5c7df",
-    "title": "Lisede 16 kişiyi yaralamıştı: Saldırıdan önce gözaltına alınıp serbest kalmış",
-    "source": "BirGün",
-    "time": "16/04/2026 00:44",
-    "link": "https://www.birgun.net/haber/lisede-16-kisiyi-yaralamisti-saldiridan-once-gozaltina-alinip-serbest-kalmis-705967",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa'da eskiden öğrencisi olduğu liseye saldırıp intihar eden Ömer K.'nin önceki gün gözaltına alınıp serbest bırakıldığı ortaya çıktı. Saldırganın  eğitim hayatının bitmesinden dolayı okul müdürünü sorumlu tuttuğu öğrenildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/lisede-16-kisiyi-yaralamisti-saldiridan-once-gozaltina-alinip-serbest-kalmis-1.jpg",
     "keyword": null
   }
 ]
