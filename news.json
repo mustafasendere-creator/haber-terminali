@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a527fe13",
+    "title": "Şanlıurfa ve Kahramanmaraş okul saldırıları... Bakanlık mülkiye ve polis başmüfettişleri görevlendirdi",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 01:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/sanliurfa-ve-kahramanmaras-okul-saldirilari-bakanlik-mulkiye-ve-polis-basmufettisleri-gorevlendirdi-2495563",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Başkanlığı, “Şanlıurfa ve Kahramanmaraş’ta bir okulumuzda meydana gelen silahlı saldırı, hepimizin yüreğini dağlamıştır. Olayın ilk anından itibaren devletimiz tüm kurumlarıyla birlikte sahadadır. Süreç; güvenlik, adli, idari ve eğitim boyutlarıyla çok yönlü ve titizlikle yürütülmektedir. İçişleri Bakanlığı olarak mülkiye ve polis başmüfettişlerimiz görevlendirilmiştir” açıklamasında bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/75f1bf2f-f38f-4f30-8dd9-dae1bb650c4d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1d09e14d",
     "title": "Sırbistan’dan Türkiye’ye taziye mesajı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Valisi Davut Gül, okul isimleri verilerek vatandaşları korku ve paniğe sevk etmeyi amaçlayan paylaşımların yakından takip edildiğini, halkı tedirgin etmeyi amaçlayan bu tür içerikleri yayan kişi ve hesapların anlık olarak tespit edilerek, haklarında gerekli yasal işlemlerin gecikmeksizin uygulandığını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_57f695ad",
-    "title": "Birleşmiş Milletler'den Gazze için jeneratör uyarısı",
-    "source": "TRT Haber",
-    "time": "16/04/2026 00:25",
-    "link": "https://www.trthaber.com/haber/dunya/birlesmis-milletlerden-gazze-icin-jenerator-uyarisi-941806.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler BM, Gazze'de İsrail'in yenilenmesine izin vermediği elektrik jeneratörlerinin mekanik arıza çıkarma bakımından kritik seviyelere yaklaştığını, bundan ötürü \"kullanım saatlerinin azaltılmak zorunda kalındığını\" bildirdi.",
     "image": null,
     "keyword": null
   }
