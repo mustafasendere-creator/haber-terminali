@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_804e6f0d",
+    "title": "Küresel sağın zırhı Budapeşte’de delindi",
+    "source": "Evrensel",
+    "time": "15/04/2026 13:06",
+    "link": "https://www.evrensel.net/haber/5979735/kuresel-sagin-zirhi-budapeste-de-delindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fidesz’in ele geçirdiği kurumlar (anayasa mahkemesi, yargı, medya…) Magyar niyet etse bile –ki bunu henüz bilmiyoruz– bir seçim gecesinde el değiştirmez. Küçük farklarla Orban’a benzeyen Magyar da ortak düşmana karşı birbirini meşrulaştırabilir.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343090.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6a1074d1",
     "title": "Hürmüz'de abluka daralıyor: Türkiye'ye ait gemiler boğazdan çıktı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, Galatasaray karşılaşması sonrası TFF tarafından verilen blok cezasına, futbol sahalarında eşine az rastlanır bir dayanışma örneğiyle yanıt verdi.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/whatsapp-image-2026-04-15-at-1778651850.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b8b9060e",
-    "title": "Isparta'da 8 asırlık Afşar Cami zamana direniyor",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 12:45",
-    "link": "https://www.aa.com.tr/tr/kultur/ispartada-8-asirlik-afsar-cami-zamana-direniyor/3906191",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Isparta'nın Gelendost ilçesine bağlı Afşar köyündeki 1219 yılında yapılmış Afşar Cami, çivisiz ahşap mimarisi, özgün iç yapısı ve geçmişiyle bölgenin önemli kültürel mirasları arasında yer alıyor.",
-    "image": null,
     "keyword": null
   }
 ]
