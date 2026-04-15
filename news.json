@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_57f695ad",
+    "title": "Birleşmiş Milletler'den Gazze için jeneratör uyarısı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 00:25",
+    "link": "https://www.trthaber.com/haber/dunya/birlesmis-milletlerden-gazze-icin-jenerator-uyarisi-941806.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler BM, Gazze'de İsrail'in yenilenmesine izin vermediği elektrik jeneratörlerinin mekanik arıza çıkarma bakımından kritik seviyelere yaklaştığını, bundan ötürü \"kullanım saatlerinin azaltılmak zorunda kalındığını\" bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
+    "id": "GND_86b30bf4",
+    "title": "BAE, topraklarına düzenlenen saldırılar nedeniyle Irak'a protesto notası verdi",
+    "source": "TRT Haber",
+    "time": "16/04/2026 00:25",
+    "link": "https://www.trthaber.com/haber/dunya/bae-topraklarina-duzenlenen-saldirilar-nedeniyle-iraka-protesto-notasi-verdi-941808.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşik Arap Emirlikleri BAE, Irak topraklarından ülkeye yapılan saldırılara tepki olarak Irak'ın Abu Dabi Büyükelçiliği Maslahatgüzarını Dışişleri Bakanlığına çağırdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c6117af0",
     "title": "EGM: 591 sosyal medya hesabı hakkında işlem başlatıldı",
     "source": "Diken",
@@ -933,30 +957,6 @@
     "prefix": "🔔",
     "summary": "Türk resim sanatının iki usta ismi Devrim Erbil ve İsmet Yedikardeş'in 60 yılı aşan dostluğundan ilham alan \"Dostluk ve Barış\" sergisi, Beylikdüzü Atatürk Kültür ve Sanat Merkezi Galeri Bedri Rahmi Sergi Salonu'nda sanatseverlerle buluştu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_777d18d2",
-    "title": "Adalet Bakanlığı’ndan flaş uyarı! Trabzon dahil 81 ilde ‘sanal devriye’ başladı!",
-    "source": "61 Saat",
-    "time": "15/04/2026 23:44",
-    "link": "https://www.61saat.com/adalet-bakanligindan-flas-uyari-trabzon-dahil-81-ilde-sanal-devriye-basladi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Kahramanmaraş’taki okul saldırısı sonrası Adalet Bakanlığı, şiddeti öven ve panik yaratan paylaşımlara karşı 81 ilde eş zamanlı adli sürecin başlatıldığını duyurdu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/f-d-22.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_a2ae662b",
-    "title": "Trabzonspor - Başakşehir maçı biletlerine yoğun ilgi: Papara Park'ta taraftar sayısı artıyor",
-    "source": "Haber61",
-    "time": "15/04/2026 23:44",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-basaksehir-maci-biletlerine-yogun-ilgi-papara-parkta-h629695.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un Trendyol Süper Lig'in 31. haftasında Başakşehir ile sahasında oynayacağı kritik müsabaka öncesi bilet satışlarında hareketlilik devam ediyor.",
-    "image": "https://resim.haber61.net/news/612900.jpg",
     "keyword": null
   }
 ]
