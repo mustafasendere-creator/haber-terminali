@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_41752a46",
+    "title": "@breakingnotes.bsky.social: Bugün de Maraşta benzer bir saldırı 9 ölü 13 yaralı… saldırg...",
+    "source": "Bluesky",
+    "time": "15/04/2026 22:39",
+    "link": "https://bsky.app/profile/breakingnotes.bsky.social/post/3mjkbbnykqc2d",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Bugün de Maraşta benzer bir saldırı 9 ölü 13 yaralı… saldırgan intihar etmiş. Polis müfettişi babasının 5 silahını akarak saldırıyı gerçekleştirmiş!\nNasıl olsa olayın kökenine kimse inmez, birkaç güne unutulur. \nNe desek boş!",
+    "image": null,
+    "keyword": "polis intihar"
+  },
+  {
     "id": "SOC_d9c09e8b",
     "title": "@gazimustafa-kemal.bsky.social: Şanlıurfa’nın Siverek ilçesinde, uzaklaştırıldığı okula sila...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Samsun’da bir barda gelen 35 bin TL’lik hesabı fazla bulup 30 bin TL ödeyen 3 arkadaş, mekândan ayrıldıktan yaklaşık 2 saat sonra iş yerine silahla ateş açtı. Ertesi gün hesabın doğru olduğunu ve indirim yapıldığını fark eden şüpheliler iş yerine gidip özür diledikten sonra polise teslim oldu. Gözaltına alınan 3 şüpheli, çıkarıldıkları mahkemece tutuklanarak cezaevine gönderildi",
     "image": "https://im.haberturk.com/l/2026/04/14/ver1776174890/3877347/jpg/1280x1280",
-    "keyword": null
-  },
-  {
-    "id": "GND_2e1c804c",
-    "title": "Türk Telekom'dan 6 maçlık galibiyet serisi!",
-    "source": "Cumhuriyet",
-    "time": "15/04/2026 21:46",
-    "link": "https://www.cumhuriyet.com.tr/spor/turk-telekom-dan-6-maclik-galibiyet-serisi-2495493",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk Telekom, Basketbol Süper Ligi'nin 25. hafta erteleme maçında kendi evinde ağırladığı Safiport Erokspor'u 93-84 mağlup etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/594b3b29-18c2-4b61-96ec-bdc2c50b7719.jpg",
     "keyword": null
   }
 ]
