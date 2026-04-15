@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7b95b79e",
+    "title": "Adalet Bakanlığı: 'Sanal devriye' faaliyetleri etkin şekilde yürütülüyor",
+    "source": "TRT Haber",
+    "time": "15/04/2026 23:45",
+    "link": "https://www.trthaber.com/haber/gundem/adalet-bakanligi-sanal-devriye-faaliyetleri-etkin-sekilde-yurutuluyor-941802.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adalet Bakanlığı, Kahramanmaraş'taki okul saldırısı sonrası dijital platformlar üzerinden yapılan paylaşımların yakından takip edildiğini; suçu ve suçluyu meşrulaştıran, halkı yanıltıcı bilgiyi alenen yayan kişiler hakkında gerekli adli işlemlerin ivedilikle başlatıldığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_05fc9850",
     "title": "Türkiyeden ABDye 750 milyon dolarlık güneş paneli ihracatı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Saldırı göz göre göre gelmiş! Şanlıurfa'daki vahşette saldırganın tehdit mesajları ortaya çıktı!  YouTube",
     "image": null,
     "keyword": "polis intihar"
-  },
-  {
-    "id": "SOC_ade5753b",
-    "title": "@devrimzamani5.bsky.social: Trabzon |\nEğitimde yaşanan saldırılar münferit değil, doğrud...",
-    "source": "Bluesky",
-    "time": "15/04/2026 22:38",
-    "link": "https://bsky.app/profile/devrimzamani5.bsky.social/post/3mjkdj5xjnc2o",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "Trabzon |\nEğitimde yaşanan saldırılar münferit değil, doğrudan bir sistem sorunudur. Milli Eğitim Bakanı Yusuf Tekin bu tablodan sorumludur ve kamuoyuna hesap vermelidir.\nx.com/ogretmensend...",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:i74jgv3l4ghtxn3iwv2wnibx/bafkreib7rdgfhqmd2ceejtyprjpypntjaccsm6q2fkeerdbt3vhi2uahae",
-    "keyword": "trabzon"
   }
 ]
