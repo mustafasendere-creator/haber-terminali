@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_16a419dc",
+    "title": "ABD-Çin hattında İran gerilimi tırmanıyor",
+    "source": "DW Türkçe",
+    "time": "15/04/2026 17:25",
+    "link": "https://www.dw.com/tr/abd-çin-hattında-iran-gerilimi-tırmanıyor/a-76794445",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"Artık Çin İran petrolünü alamayacak\" çıkışını yapan ABD yönetimi, Çin'e İran baskısını artırıyor. Trump Şi'den İran'a askeri destek vermemesini rica etti, Washington ayrıca Pekin'i ikincil yaptırımlar konusunda uyardı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_a9c9461e",
     "title": "“Markaya Dair Her Şey” 3 Gün Boyunca Trabzon'da Masaya Yatırılacak",
     "source": "Karadeniz Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Basın İlan Kurumu (BİK) Trabzon Bölge Müdürlüğü, resmi ilan ve reklamların yayım sürecinde süreli yayınların uyması gereken yasal çerçeveyi netleştirmek amacıyla kapsamlı bir &quot;Uygulamalı Mevzuat Eğitimi&quot; gerçekleştirdi.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/bik-trabzon-bolge-mudurlugunden-gazetecilere-uygulamali-mevzuat-egitimi-1777591975.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c49e0147",
-    "title": "Ticaret Bakanlığı kurumun adıyla yapılan sahte yatırım tekliflerine karşı uyardı",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 17:04",
-    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-kurumun-adiyla-yapilan-sahte-yatirim-tekliflerine-karsi-uyardi/3906751",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanlığı, sosyal medya ve mesaj uygulamaları üzerinden kurumun adı ve logosu kullanılarak gönderilen yatırım tekliflerine itibar edilmemesi konusunda vatandaşları uyardı.",
-    "image": null,
     "keyword": null
   }
 ]
