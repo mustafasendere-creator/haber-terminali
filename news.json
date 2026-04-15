@@ -1,5 +1,29 @@
 [
   {
+    "id": "TKP_74d82932",
+    "title": "Trabzonspor’da tribünler doluyor! İşte satılan bilet sayısı..",
+    "source": "Kuzey Ekspres",
+    "time": "16/04/2026 00:26",
+    "link": "https://www.kuzeyekspres.com.tr/haber/27818997/trabzonsporda-tribunler-doluyor-iste-satilan-bilet-sayisi",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzonspor – Başakşehir karşılaşması öncesi bilet satışlarında yüksek doluluk oranına ulaşıldı.",
+    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/trabzonsporda-tribunler-doluyor.jpg",
+    "keyword": "trabzon"
+  },
+  {
+    "id": "GND_bfd176ea",
+    "title": "New York borsası günü karışık seyirle kapattı",
+    "source": "Ekonomim",
+    "time": "16/04/2026 00:26",
+    "link": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-karisik-seyirle-kapatti-haberi-888383",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "New York borsası haftanın üçüncü işlem gününde karışık seyirle kapandı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/new-york-borsasi-gunu-yukselisle-kapatti-guyg_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6ee7b704",
     "title": "Amos Antik Kenti'nde 2 bin 200 yıllık \"kira sözleşmesi\" bulundu",
     "source": "Ekonomim",
@@ -933,30 +957,6 @@
     "prefix": "🔔",
     "summary": "EuroLeague, maaş bütçe sınırını aşan Anadolu Efes'e para cezası verdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/euroleagueden-anadolu-efese-para-cezasi-qxv6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_df41db60",
-    "title": "Bakan Çiftçi, valiler ve il milli eğitim müdürlükleriyle toplantı yapacak",
-    "source": "TRT Haber",
-    "time": "15/04/2026 23:45",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-valiler-ve-il-milli-egitim-mudurlukleriyle-toplanti-yapacak-941801.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanı Mustafa Çiftçi, tüm valiler ve il milli eğitim müdürlükleri ile yarın toplantı yapacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7b95b79e",
-    "title": "Adalet Bakanlığı: 'Sanal devriye' faaliyetleri etkin şekilde yürütülüyor",
-    "source": "TRT Haber",
-    "time": "15/04/2026 23:45",
-    "link": "https://www.trthaber.com/haber/gundem/adalet-bakanligi-sanal-devriye-faaliyetleri-etkin-sekilde-yurutuluyor-941802.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanlığı, Kahramanmaraş'taki okul saldırısı sonrası dijital platformlar üzerinden yapılan paylaşımların yakından takip edildiğini; suçu ve suçluyu meşrulaştıran, halkı yanıltıcı bilgiyi alenen yayan kişiler hakkında gerekli adli işlemlerin ivedilikle başlatıldığını açıkladı.",
-    "image": null,
     "keyword": null
   }
 ]
