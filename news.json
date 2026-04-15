@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9f284f8f",
+    "title": "İzmir Körfezi'nde yosun tabakası oluştu",
+    "source": "TRT Haber",
+    "time": "15/04/2026 16:26",
+    "link": "https://www.trthaber.com/haber/turkiye/izmir-korfezinde-yosun-tabakasi-olustu-941770.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'in Konak ilçesinde denizin kıyıya yakın bazı bölgeleri, halk arasında \"deniz marulu\" olarak bilinen yosun türüyle kaplandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f237b031",
     "title": "Kahramanmaraş'ta okulda silahlı saldırı: 4 can kaybı",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "YouGov anketine göre Almanya’da aşırı sağcı AfD yüzde 27 ile ilk sıraya yükselirken, koalisyon ortakları CDU/CSU ve SPD oy kaybetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/287659.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_efdd7cdf",
-    "title": "Zara'nın sahibi Amancio Ortega dünyanın en büyük emlak kralı oldu",
-    "source": "Euronews",
-    "time": "15/04/2026 15:46",
-    "link": "http://tr.euronews.com/business/2026/04/15/zaranin-sahibi-amancio-ortega-dunyanin-en-buyuk-emlak-krali-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Inditex'in kurucusu, kendisini dünyadaki en zengin insanlar arasına yerleştiren servetiyle, dünya çapında gayrimenkul sektöründe ana referans olma konumunu pekiştiriyor.",
-    "image": null,
     "keyword": null
   }
 ]
