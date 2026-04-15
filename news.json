@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_9a52801e",
+    "title": "Ölenlerin yakınlarından Kahramanmaraş Valisi Ünlüer'e tepki: Korumalarından gazetecilere müdahale!",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 00:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/olenlerin-yakinlarindan-kahramanmaras-valisi-unluer-e-tepki-2495544",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta, 9 kişinin hayatını kaybettiği okul saldırısı sonrası hastaneye gelen Vali Mükerrem Ünlüer'e ölenlerin yakınları tepki gösterdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/72d78429-a6d2-4975-846c-9cd3f1e823a8.jpg",
+    "keyword": null
+  },
+  {
+    "id": "GND_bbe98e23",
+    "title": "Son dakika... Okul saldırısı sonrası Ankara’da kritik toplantı: İçişleri’nden 81 ile çağrı",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 00:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-okul-saldirisi-sonrasi-ankara-da-kritik-toplanti-icisleri-nden-81-ile-cagri-2495545",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, valiler ve güvenlik birimlerinin katılımıyla yarın saat 09.00’da yapılacak toplantıda okul ve çevresindeki güvenlik önlemlerinin kapsamlı şekilde ele alınacağını duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8681c80f",
     "title": "Şampiyonlar Ligi’nde yarı final eşleşmeleri belli oldu",
     "source": "Haber Global",
@@ -933,30 +957,6 @@
     "prefix": "🔔",
     "summary": "Sivas'taki okullara yönelik saldırı olacağına dair paylaşımlar yapıldığı iddiası üzerine Sivas Cumhuriyet Başsavcılığı çalışma başlattı. Yapılan çalışmada sanal medya platformunun sohbet kanalında 'Bufalo58' kullanıcı ismi ile 'Yarın Sivas'ta yeni bir haber duyacaksınız' paylaşımının sosyal medyada dolaşıma sokulduğu tespit edildi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/sivas-ta-okulla-saldiri-tehdidinde-bulunan-bir-ogrenci-gozaltina-alindi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "SOC_8bf292ee",
-    "title": "𝗦𝗘𝗠𝗠 (@SemmGs) / Posts / X - x.com",
-    "source": "X (Twitter)",
-    "time": "15/04/2026 23:44",
-    "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE5sVUdNYl9BY2hpZl9EeHo5UU1ObmVqeS11bzJzd3c4T0JhWHpqYmQxMl81SG5Fb3c",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "𝗦𝗘𝗠𝗠 (@SemmGs) / Posts / X  x.com",
-    "image": null,
-    "keyword": "c31k trabzon"
-  },
-  {
-    "id": "GND_3b3ffb86",
-    "title": "İstanbul Valisi Gül: Okul isimleri vererek vatandaşları korkuya sevk eden paylaşımlar takip ediliyor",
-    "source": "BirGün",
-    "time": "15/04/2026 23:44",
-    "link": "https://www.birgun.net/haber/istanbul-valisi-gul-okul-isimleri-vererek-vatandaslari-korkuya-sevk-eden-paylasimlar-takip-ediliyor-706079",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Valisi Davut Gül,  \"Farklı yerlerdeki okul isimleri verilerek vatandaşlarımızı korku ve paniğe sevk etmeyi amaçlayan paylaşımlar yakından takip edilmektedir. Bu büyük acı üzerinden sorumsuzca yapılan yorumlar, alaycı ifadeler ve sözde 'eğlence' içerikleri asla kabul edilemez\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/istanbul-valisi-gul-okul-isimleri-vererek-vatandaslari-korkuya-sevk-eden-paylasimlar-takip-ediliyor.jpg",
     "keyword": null
   }
 ]
