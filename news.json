@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_08a45a00",
+    "title": "CANLI YAYIN | Bayern Münih - Real Madrid",
+    "source": "Haber Global",
+    "time": "15/04/2026 21:05",
+    "link": "https://haberglobal.com/spor/canli-izle-bayern-munih-real-madrid-maci-arda-guler-ilk-11de-519020",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "UEFA Şampiyonlar Ligi çeyrek final rövanş maçında Bayern Münih ile Real Madrid karşı karşıya geliyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/canli-izle-bayern-munih-real-madrid-maci-arda-guler-ilk-11de-ow1r.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d67814e8",
     "title": "KKTC’den Türkiye’ye taziye mesajı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Arsenal ile Sporting Lizbon arasındaki kritik karşılaşma bugün, Türkiye saatiyle 22.00'de oynanacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343177.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3eb71691",
-    "title": "Bayern Münih – Real Madrid maçı ne zaman, saat kaçta, hangi kanalda?",
-    "source": "Evrensel",
-    "time": "15/04/2026 20:25",
-    "link": "https://www.evrensel.net/haber/5979805/bayern-munih-real-madrid-maci-ne-zaman-saat-kacta-hangi-kanalda",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bayern Münih - Real Madrid Şampiyonlar Ligi çeyrek final rövanşında dev maç! İlk maçı 2-1 kazanan Bayern evinde avantajını korumak isterken, Real Madrid tur için rövanş peşinde.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343178.jpg",
     "keyword": null
   }
 ]
