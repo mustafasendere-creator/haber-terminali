@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_75661e42",
+    "title": "Atletico Madrid ve PSG, Şampiyonlar Ligi yarı finalinde",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 08:44",
+    "link": "https://www.aa.com.tr/tr/spor/atletico-madrid-ve-psg-sampiyonlar-ligi-yari-finalinde/3905787",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "UEFA Şampiyonlar Ligi'nde Atletico Madrid ve Paris Saint-Germain yarı finale yükseldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5cd19589",
     "title": "Kafayı yediler",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Filistin direnişinin sembol isimlerinden Mervan Bergusi'nin, İsrail hapishanesinde \"acımasız işkencelere maruz kaldığı\" öne sürüldü.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_92dbd5f0",
-    "title": "Bir annenin iki sebebi",
-    "source": "A Haber",
-    "time": "15/04/2026 08:24",
-    "link": "https://www.ahaber.com.tr/yazarlar/hilal-kaplan/2026/04/15/bir-annenin-iki-sebebi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahire'nin Nasr bölgesinin arka sokaklarında bir apartmana geldik. Hayatın tüm zorluklarına rağmen girişe asılmış ramazan süsleri istikbale duyulan umudu müjdeliyor.\nBizi evin babası Abdurrahman Bey...Devamı için tıklayınız",
-    "image": "",
     "keyword": null
   }
 ]
