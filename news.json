@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6d21bf66",
+    "title": "Kahramanmaraş'ta okul saldırısı: En az 9 kişi hayatını kaybetti",
+    "source": "Euronews",
+    "time": "15/04/2026 21:25",
+    "link": "http://tr.euronews.com/video/2026/04/15/turkiyede-okul-saldirisi-en-az-9-kisi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanı'na göre, 14 yaşındaki bir öğrenci en az dokuz kişiyi öldürdü, 13 kişiyi yaraladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c30ee28a",
     "title": "Ukrayna Cumhurbaşkanı Zelenskiy'den 'Patriot' alarmı: 'Durum daha kötü olamazdı'",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "2027 FIFA Kadınlar Dünya Kupası Avrupa Elemeleri B Ligi 2. Grup'ta 18 Nisan Cumartesi günü İsviçre ile karşılaşacak A Milli Kadın Futbol Takımı, Sinop'a geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_943a07ad",
-    "title": "Meclis, gelecek hafta okullarda yaşanan saldırıları görüşecek",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 20:44",
-    "link": "https://www.aa.com.tr/tr/gundem/meclis-gelecek-hafta-okullarda-yasanan-saldirilari-gorusecek/3907033",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AK Parti Grup Başkanvekili Zengin, \"Önümüzdeki hafta salı günü tüm bu konuları değerlendireceğimiz ve çerçevesini beraber çizeceğimiz, adını birlikte koyacağımız yeni bir araştırma komisyonu kurmaya karar verdik.\" ifadesini kullandı.",
     "image": null,
     "keyword": null
   }
