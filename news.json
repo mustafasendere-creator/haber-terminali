@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3fad90ce",
+    "title": "İşgalci İsrail ordusu, son 24 saatte Lübnan'ın güneyinde 200 noktaya saldırı düzenledi",
+    "source": "TRT Haber",
+    "time": "15/04/2026 19:26",
+    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-son-24-saatte-lubnanin-guneyinde-200-noktaya-saldiri-duzenledi-941759.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin başkenti Washington'da yapılan görüşmeye rağmen İsrail ordusu, son 24 saatte Lübnan'ın güneyinde 200'den fazla noktaya saldırı düzenlediğini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_addc5d14",
     "title": "DMM: Kirli bilgi yayarak toplumsal huzuru tehdit edenler hakkında adli süreç başlatılmıştır",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Escobar'ın 1980'lerde özel hayvanat bahçesi için ithal ettiği hipopotamların sayısı katlanarak arttı ve bu hayvanlar ülkenin en büyük su yolu olan Magdalena Nehri'ne yayıldı. Kolombiya hükümeti ise bu su aygırlarının bir kısmının öldürülmesine karar verdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6c5b032e",
-    "title": "AK Parti İstanbul Milletvekili Bayram, hayatını konu alan \"Buğday Tanesi\" filmini Bakü'de tanıttı",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 18:44",
-    "link": "https://www.aa.com.tr/tr/kultur/ak-parti-istanbul-milletvekili-bayram-hayatini-konu-alan-bugday-tanesi-filmini-bakude-tanitti/3906863",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AK Parti İstanbul Milletvekili Serkan Bayram, hayatını konu alan \"Buğday Tanesi\" filmini ve kitabını Azerbaycan'da tanıttı.",
     "image": null,
     "keyword": null
   }
