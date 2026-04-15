@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_60ca9ee6",
+    "title": "Avrupa ve Asya-Pasifik ülkelerinin maliye bakanlarından enerji ve ekonomi için risk uyarısı",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 17:44",
+    "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-ve-asya-pasifik-ulkelerinin-maliye-bakanlarindan-enerji-ve-ekonomi-icin-risk-uyarisi/3906769",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa ve Asya-Pasifik'ten bazı ülkelerin maliye bakanları Hürmüz Boğazı'nda aksaklığın devam etmesi halinde küresel enerji güvenliği, ekonomi ve finans piyasalarındaki istikrar açısından \"ciddi ilave riskler\" oluşacağı uyarısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4fe16f41",
     "title": "Türkiye-Pakistan Ortak Komando Tatbikatı CİNNAH-2026 tamamlandı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Türkiye Gençlik Vakfı (TÜGVA) tarafından 81 ilde eş zamanlı olarak bu yıl ikincisi düzenlenen ‘GençLig Liseler Arası Futbol Turnuvası’nın Trabzon müsabakaları, Valilik, Büyükşehir Belediyesi ve İl Milli Eğitim Müdürlüğü'nün ev sahipliğinde başladı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/trabzon-liseler-arasi.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1a264902",
-    "title": "İran: Bugün yüksek ihtimalle Pakistan'dan bir heyeti ağırlayacağız",
-    "source": "TRT Haber",
-    "time": "15/04/2026 17:06",
-    "link": "https://www.trthaber.com/haber/dunya/iran-bugun-yuksek-ihtimalle-pakistandan-bir-heyeti-agirlayacagiz-941765.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, İran ile ABD arasında Pakistanda gerçekleştirilen müzakerelere ilişkin bugün büyük ihtimalle Pakistan'dan bir heyeti ağırlayacaklarını söyledi.",
-    "image": null,
-    "keyword": null
   }
 ]
