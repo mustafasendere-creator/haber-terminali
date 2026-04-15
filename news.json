@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02929b0a",
+    "title": "Okul saldırısı sonrası öğretmenler ayakta: Öğretmenler \"yaşam nöbeti\"ne başladı",
+    "source": "BirGün",
+    "time": "15/04/2026 20:05",
+    "link": "https://www.birgun.net/haber/okul-saldirisi-sonrasi-ogretmenler-ayakta-ogretmenler-yasam-nobeti-ne-basladi-706021",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa Siverek’teki silahlı saldırının ardından iki gün iş bırakma kararı alan öğretmenler, Ankara’da MEB’e yürümek istedi. Öğretmenler ve polis arasında yürüyüş için müzakereler yapıldı. Müzakereler sürerken Kahramanmaraş'ta bir okulda silahlı saldırı gerçekleşti. İlerleyen saatlerde polis barikatını aşan öğretmenler MEB önüne geldi. Öğretmenler burada oturma eylemine başladı. Eğitim-Sen ve Eğitim-İş gece boyu sürecek \"yaşam nöbeti\" başlattıklarını duyurdu. Eğitim-Sen iki günlük iş bırakma çağrısını cuma gününe kadar uzattığını açıkladı. Öğretmenlerin eylemi sürüyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/okul-saldirisi-sonrasi-ogretmenler-ayakta-meb-yuruyusune-polis-engeli.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8eeb2ae6",
     "title": "Kahramanmaraş'ta okulda silahlı saldırı: 8'i çocuk 9 can kaybı, 6'sı ağır 13 yaralı!",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP’nin, Schengen vizesi randevu krizinin araştırılmasına yönelik önerisi TBMM Genel Kurulu’nda reddedildi; CHP’li Bilal Bilici, vize süreçlerinde yaşanan tıkanma ve “randevu karaborsası”na tepki göstererek \"Vize meselesi hepimizin onuru ve ülkemiz için itibar konusu olan bir meseledir ve haysiyetimizdir. Vatandaşımız bırakın bugünlerde vize almayı vize randevusu bile alamamaktadır\" dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/chpnin-schengen-vizesi-randevu-krizini-arastirma-onerisi-akp-ve-mhp-oylariyla-reddedildi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_d2198004",
-    "title": "Hizmet Sektöründe Şubat Sıçraması: Teknoloji Uçurdu!",
-    "source": "Taka Gazetesi",
-    "time": "15/04/2026 19:25",
-    "link": "https://www.takagazete.com.tr/hizmet-sektorunde-subat-sicramasi-teknoloji-ucurdu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TÜİK Şubat 2026 hizmet üretim endeksi verilerini açıkladı. Yıllık %2,3 artış gösteren hizmet sektöründe bilgi ve iletişim liderliği göğüslerken, gayrimenkul geriledi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/hizmet-1.jpg",
     "keyword": null
   }
 ]
