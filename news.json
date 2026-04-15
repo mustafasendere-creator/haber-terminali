@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_473ec837",
+    "title": "Kahramanmaraş'ta bir okulda silah sesleri: Can kaybı ve çok sayıda yaralı var",
+    "source": "Euronews",
+    "time": "15/04/2026 14:46",
+    "link": "http://tr.euronews.com/2026/04/15/kahramanmarasta-bir-okulda-silah-sesleri-can-kaybi-ve-cok-sayida-yarali-var",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'taki Ayser Çalık Ortaokulu'nda silah sesleri duyulduğu ihbarı üzerine olay yerine polis ve sağlık ekipleri sevk edildi. İlk belirlemelere göre, 6 kişi yaralandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_014b05a1",
     "title": "Eğitim Sen Trabzon'dan haykırdı: “Bu saldırının faili sistem!”",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Karadeniz Bölgesi'nde tarım ürünlerine zarar veren kahverengi kokarcaya karşı mücadele aralıksız sürüyor. Trabzon Tarım ve Orman İl Müdürlüğü ile Trabzon Büyükşehir Belediyesi ekipleri, zararlının kışlaklardan çıkışı öncesinde biosidal ilaçlama çalışması gerçekleştiriyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-15-142003.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_2fbc59cb",
-    "title": "Trabzon’da kadına yönelik şiddetle mücadele tiyatro sahnesine taşındı",
-    "source": "Haber61",
-    "time": "15/04/2026 14:24",
-    "link": "https://www.haber61.net/trabzon/trabzonda-kadina-yonelik-siddetle-mucadele-tiyatro-sahnesine-tasindi-h629648.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da Aile ve Sosyal Hizmetler İl Müdürlüğü personelinin sahnelediği “Mümkün” adlı tiyatro oyunu, kadına yönelik şiddetle mücadeledeki yasal destek mekanizmalarını anlatıyor.",
-    "image": "https://resim.haber61.net/news/612808.jpg",
     "keyword": null
   }
 ]
