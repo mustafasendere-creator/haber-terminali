@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bc9f3637",
+    "title": "Kayyım belediyede halk ekmek krizi: Üretim düştü, fiyat arttı, yurttaş tepkili",
+    "source": "Evrensel",
+    "time": "15/04/2026 17:25",
+    "link": "https://www.evrensel.net/haber/5979791/kayyim-belediyede-halk-ekmek-krizi-uretim-dustu-fiyat-artti-yurttas-tepkili",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dersim’de yurttaşların temel gıda ihtiyacını karşılayan Halk Ekmek büfelerinde kriz yaşanıyor. Üretim kapasitesinin düşürülmesi ve özel firmadan ekmek alımına gidilmesi mahalle sakinlerinin tepkisine yol açtı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343163.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_1d27db48",
     "title": "Trabzon’da Basın İlan Kurumu’ndan Medyaya Kritik Uyarılar; Trabzon’da Önemli Eğitim",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Basın İlan Kurumu Genel Müdürlüğü tarafından düzenlenen “Uygulamalı Mevzuat Eğitimi” programının ikincisi Trabzon’da gerçekleştirildi. Eğitimde, resmî ilan yayımlayan basın kuruluşlarına yönelik kritik uyarılar ve uygulama detayları paylaşıldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/gr3.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_854c407b",
-    "title": "Kurtulmuş’tan okul saldırısı açıklaması: \"İçimiz kan ağlıyor\"",
-    "source": "61 Saat",
-    "time": "15/04/2026 17:04",
-    "link": "https://www.61saat.com/kurtulmustan-okul-saldirisi-aciklamasi-icimiz-kan-agliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, Kahramanmaraş’taki okul saldırısıyla ilgili \"Bugün Kahramanmaraş’ta bir okulda son derece üzüntülü olayın haberini aldık. Hakikaten içimiz kan ağlıyor. Gerçekten büyük ve derin bir acı içerisindeyiz. 3 öğrenci evladımız, 1 öğretmen arkadaşımız bu saldırıda vefat ettiler. Milletimizin başı sağ olsun\" açıklaması yaptı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/images-28.jpeg",
     "keyword": null
   }
 ]
