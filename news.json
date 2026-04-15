@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_46478a50",
+    "title": "Kapadokya’da rant tehdidi: Yine yeni bir otel!",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 08:27",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/kapadokya-da-rant-tehdidi-yine-yeni-bir-otel-2495286",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "UNESCO Miras Listesi’ndeki Kapadokya’da yapılaşma hız kesmiyor. Uçhisar Kalesi yamacına yapılmak istenen yeni otel projesi tepki çekerken uzmanlar uyarılarda bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8d4572ea-0106-4e14-9684-07238575a9ae.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ffcf2d83",
     "title": "Meteoroloji açıkladı: 15 Nisan 2026 hava durumu raporu... Bugün hava nasıl olacak?",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Trendyol Süper Lig'de oynanan Alanyaspor karşılaşmasındaki tribün olayları nedeniyle disipline gönderildi.",
     "image": "https://resim.haber61.net/news/612733.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_17a4d84a",
-    "title": "İKMİB'de yeni dönem: Vefa İbrahim Aracı Başkan seçildi",
-    "source": "Ekonomim",
-    "time": "14/04/2026 22:46",
-    "link": "https://www.ekonomim.com/ekonomi/ikmibde-yeni-donem-vefa-ibrahim-araci-baskan-secildi-haberi-888121",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Kimyevi Maddeler ve Mamulleri İhracatçıları Birliği (İKMİB) Yönetim Kurulu Başkanlığına Vefa İbrahim Aracı seçildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/ikmibde-yeni-donem-vefa-ibrahim-araci-baskan-secildi-mi83_cover.jpg",
-    "keyword": null
   }
 ]
