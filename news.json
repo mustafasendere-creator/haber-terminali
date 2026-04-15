@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6147c3fa",
+    "title": "Borsa günü yükselişle tamamladı",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 18:44",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/3906892",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,35 değer kazanarak 14.252,38 puandan tamamladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_64f7bcf4",
     "title": "Kahramanmaraş’taki saldırıda acı bilanço: 9 ölü, 13 yaralı",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dikili ve Bergama’da eğitim emekçileri, okullarda artan şiddet olaylarına karşı yürüyüş ve basın açıklamalarıyla tepki gösterdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343165.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0a7e40ad",
-    "title": "Gebze’de eğitimcilerden tepki: \"Okullar kan gölü, sorumlular sadece izliyor\"",
-    "source": "Evrensel",
-    "time": "15/04/2026 17:45",
-    "link": "https://www.evrensel.net/haber/5979798/gebzede-egitimcilerden-tepki-okullar-kan-golu-sorumlular-sadece-izliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Urfa ve Maraş’taki okul saldırılarına tepki gösteren eğitim emekçileri, Gebze’de iş bırakarak İlçe Milli Eğitim Müdürlüğü’ne yürüdü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343166.jpg",
     "keyword": null
   }
 ]
