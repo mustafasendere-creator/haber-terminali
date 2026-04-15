@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_4428b26e",
+    "title": "vlandiya",
+    "source": "Reddit",
+    "time": "15/04/2026 23:48",
+    "link": "https://www.reddit.com/r/vlandiya/",
+    "type": "SOC",
+    "prefix": "🤖",
+    "summary": "Vlandiya İmparatorluğu, mutlak monarşinin hakim olduğu topraklardır.   [link]",
+    "image": null,
+    "keyword": "c31k"
+  },
+  {
     "id": "SOC_30c1b003",
     "title": "Dark Netflix Original Series",
     "source": "Reddit",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Suriye, Irak'tan gelen akaryakıtın Banyas Limanı üzerinden sevkiyatına başlandığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ea4dcd86",
-    "title": "ABD'nin Orta Doğu'ya binlerce ek asker göndereceği iddiası",
-    "source": "TRT Haber",
-    "time": "15/04/2026 22:45",
-    "link": "https://www.trthaber.com/haber/dunya/abdnin-orta-doguya-binlerce-ek-asker-gonderecegi-iddiasi-941797.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin İran'la yürütülen müzakerelerden sonuç alınamaması ihtimaline karşın Orta Doğu'ya \"ilerleyen günlerde binlerce ek asker göndereceği\" ileri sürüldü.",
     "image": null,
     "keyword": null
   }
