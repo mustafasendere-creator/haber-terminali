@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf671754",
+    "title": "Denizli'de iş cinayeti: Üzerine mermer blok düşen işçi hayatını kaybetti",
+    "source": "BirGün",
+    "time": "15/04/2026 22:04",
+    "link": "https://www.birgun.net/haber/denizli-de-is-cinayeti-uzerine-mermer-blok-dusen-isci-hayatini-kaybetti-705979",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Denizli’nin Honaz ilçesinde mermer ocağında çalışan 28 yaşındaki işçi, üzerine blok düşmesi sonucu ağır yaralandı. Hastaneye kaldırılan işçi tüm müdahalelere rağmen yaşamını yitirdi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/denizli-de-is-cinayeti-uzerine-mermer-blok-dusen-isci-hayatini-kaybetti.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_111dfd72",
     "title": "Trabzonspor’un Yıldızına Dev Teklif! İngiliz Devleri Oulai’nin Peşinde",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Şanlıurfa ve Kahramanmaraş’ta okullarda yaşanan art arda saldırılar üzerine Trabzon Barosu, bireysel silahlanma ve cezasızlık algısına dikkat çekerek yetkilileri göreve çağırdı.",
     "image": "https://resim.haber61.net/news/612880.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_1627feb5",
-    "title": "Trabzon’da korkutan çığ anı: Kar kütleleri vadiye böyle indi",
-    "source": "Haber61",
-    "time": "15/04/2026 21:25",
-    "link": "https://www.haber61.net/trabzon/trabzonda-korkutan-cig-ani-kar-kutleleri-vadiye-boyle-indi-h629689.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Çaykara ilçesinde meydana gelen çığ düşmesi, bölgedeki bir vatandaş tarafından anbean kaydedildi. Şiddetli yağışların ardından yamaçtan kopan dev kar kütleleri vadiye sürüklenirken, olayda şans eseri yaralanan olmadı.",
-    "image": "https://resim.haber61.net/news/612887.jpg",
     "keyword": "trabzon"
   }
 ]
