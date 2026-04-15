@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e39ddbfd",
+    "title": "Milli Eğitim Bakanı Tekin'den okullara saldırı açıklaması",
+    "source": "BirGün",
+    "time": "15/04/2026 22:45",
+    "link": "https://www.birgun.net/haber/milli-egitim-bakani-tekin-den-okullara-saldiri-aciklamasi-706071",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tekin \"Eğitim kurumlarımızda benzeri hadiselerin yaşanmaması için İçişleri, Adalet ile Aile ve Sosyal Hizmetler Bakanlıklarımız ile mevcut güvenlik önlemlerimizi güncelleyerek tüm dijital ve fiziki tehditleri kapsayan bütüncül bir güvenlik yaklaşımını hayata geçirmek üzere gerekli adımları kararlılıkla atıyoruz\" ifadelerini kullandı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/milli-egitim-bakani-tekin-den-okullara-saldiri-aciklamasi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3c2c9ae0",
     "title": "Beyaz Saray: İran'la geçici ateşkesin uzatılması üzerine konuşuyoruz",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Nijerya'nın Adamawa eyaletinin başkenti Yola yakınlarında bulunan Malkohi Yerinden Edilmiş Kişiler Kampı'nda yaşayan yüzlerce aile, yıllar önce terör saldırılarından kaçarak sığındıkları kampta, giderek ağırlaşan yaşam koşullarıyla mücadele ediyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_61978c0a",
-    "title": "DMM, Şanlıurfa ve Kahramanmaraş'taki saldırılara ilişkin bazı iddiaları yalanladı",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 22:04",
-    "link": "https://www.aa.com.tr/tr/gundem/dmm-sanliurfa-ve-kahramanmarastaki-saldirilara-iliskin-bazi-iddialari-yalanladi/3907096",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DMM, \"Kahramanmaraş'taki saldırganın polis eşliğinde sağ olarak okuldan çıkarıldığı\" ve \"Şanlıurfa'daki saldırganın olaydan bir gün önce tutuklanıp serbest bırakıldığı\" yönündeki iddiaların asılsız ve gerçekle hiçbir bağı bulunmadığını bildirdi.",
     "image": null,
     "keyword": null
   }
