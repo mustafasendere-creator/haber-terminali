@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_635d1da4",
+    "title": "IAEA: 'Kuzey Kore nükleer silah üretimini ciddi oranda artırdı'",
+    "source": "Euronews",
+    "time": "15/04/2026 23:25",
+    "link": "http://tr.euronews.com/2026/04/15/iaea-kuzey-kore-nukleer-silah-uretimini-ciddi-oranda-artirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İlk nükleer denemesini 2006 yılında gerçekleştiren Kuzey Kore, yasaklı silah programları nedeniyle bir dizi BM yaptırımı altında bulunuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1314082d",
     "title": "Serik Belediye Başkan Yardımcısı istifa etti: \"Ak Partili Belediye Başkanı'nın yanında olmam doğru olmaz\"",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tutuklanan CHP Ankara İl Başkanı Ümit Erkol, paylaştığı mesajında, \"Baskılar artıyor, engeller artıyor. Ancak direncimiz ve inancımız da büyüyor. Bir kez daha başaracağız, Türkiye baharı yaşayacak\" dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/tutuklu-chp-ankara-il-baskani-umit-erkol-baskilar-artiyor-ancak-direncimiz-de-buyuyor.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5beda34f",
-    "title": "Tunus'taki Nahda Hareketi: Gannuşi hakkında verilen 20 yıllık hapis cezası siyasi bir karar",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 22:24",
-    "link": "https://www.aa.com.tr/tr/dunya/tunustaki-nahda-hareketi-gannusi-hakkinda-verilen-20-yillik-hapis-cezasi-siyasi-bir-karar/3907117",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunus'taki Nahda Hareketi, hareketin lideri ve eski Meclis Başkanı Radiş el-Gannuşi ile diğer 3 yöneticileri hakkındaki 20'şer yıl hapis cezasını \"siyasi bir karar\" olarak nitelendirerek kınadı.",
-    "image": null,
     "keyword": null
   }
 ]
