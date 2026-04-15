@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_33faeb03",
+    "title": "Terör örgütü DEAŞ'a yönelik Malatya merkezli operasyonda 9 gözaltı",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 00:25",
+    "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-deasa-yonelik-malatya-merkezli-operasyonda-9-gozalti/3907127",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya ve Şanlıurfa’da, terör örgütü DEAŞ'a yönelik düzenlenen operasyonda 9 şüpheli gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4095122b",
     "title": "İstanbul'da okul ismi verilerek vatandaşları korku ve paniğe sevk eden paylaşım yapan kişilere soruşturma",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş’ta okula düzenlenen silahlı saldırıda hayatını kaybeden öğretmen ve öğrencilerin isimleri belli oldu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d80e6ff8-0af2-4df9-8cc9-5d25df553b18.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7137bd8c",
-    "title": "Bursa'da otomobil bariyere çarptı: İki yaralı",
-    "source": "Haber Global",
-    "time": "15/04/2026 23:25",
-    "link": "https://haberglobal.com/gundem/bursada-otomobil-bariyere-carpti-iki-yarali-519038",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa İnegöl'de otomobilin bariyerlere çarpması sonucu yaralanan iki kişi hastaneye kaldırıldı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/bursada-otomobil-bariyere-carpti-iki-yarali-ytr7.jpg",
     "keyword": null
   }
 ]
