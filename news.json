@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_92f015f2",
+    "title": "@atakurt.bsky.social:  Şanlıurfa'nın ardından bir kara haber de Kahramanmaraş'tan ...",
+    "source": "Bluesky",
+    "time": "15/04/2026 18:48",
+    "link": "https://bsky.app/profile/atakurt.bsky.social/post/3mjjykjodgc2l",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Şanlıurfa'nın ardından bir kara haber de Kahramanmaraş'tan geldi. 8. sınıf öğrencisi, emekli polis babasının silahlarıyla kendi okulunda dehşet saçtı. Yürekleri yakan olayda 1'i öğretmen 4 kişi hayatını kaybederken, 20 kişi yaralandı. Kurşun yağdıran saldırgan intihar etti.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:trubycit2yysin7agokzj6li/bafkreigzqjefjza66vcva52x3vvwoxvjjvzety7b32rppvklrgbtrhjmpu",
+    "keyword": "polis intihar"
+  },
+  {
     "id": "SOC_056d9bb0",
     "title": "@haber3com.bsky.social: Kahramanmaraş'ta bir okulda 3 öğrenci ve 1 öğretmeni öldürüp...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye Futbol Federasyonundan yapılan açıklamaya göre Sinop Şehir Stadyumu&#8217;nda saat 19.00&#8217;da başlayacak maçı izlemek isteyen taraftarlar, internet üzerinden passo.com.tr ile Passo Mobil Uygulama&#8217;dan biletlerini alabilecek.",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69df82c9ba5b11.49990212.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_34e1a4ae",
-    "title": "Antalya'da yangın: Bir ev kullanılamaz hale geldi",
-    "source": "BirGün",
-    "time": "15/04/2026 18:25",
-    "link": "https://www.birgun.net/haber/antalya-da-yangin-bir-ev-kullanilamaz-hale-geldi-706046",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya'da yangın çıkan müstakil ev kullanılamaz hale geldi. Yangın sırasında evde bulunan 2 çocuğun sağlık durumunun iyi olduğu öğrenildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/antalya-da-yangin-bir-ev-kullanilamaz-hale-geldi.jpg",
     "keyword": null
   }
 ]
