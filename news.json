@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cc14903c",
+    "title": "ABD Başkanı Trump, Çin'in, Hürmüz Boğazı'nın kalıcı şekilde açılmasından memnun olduğunu söyledi",
+    "source": "TRT Haber",
+    "time": "15/04/2026 15:46",
+    "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-cinin-hurmuz-bogazinin-kalici-sekilde-acilmasindan-memnun-oldugunu-soyledi-941762.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, sosyal medyada yaptığı paylaşımda, \"Çin, Hürmüz Boğazı'nı kalıcı şekilde açmamdan çok memnun.\" ifadesini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f7874719",
     "title": "Ticaret Bakanlığı 21,8 milyar liralık kaçakçılığı engelledi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon temsilcisi Kardelen Spor Kadın Futbol Takımı, yeni sezon öncesinde çalışmalarını yoğun tempoda sürdürüyor. Kulüp bünyesinde bulunan 136 lisanslı sporcu ile dikkat çeken ekip, altyapıdan A takıma uzanan güçlü yapısıyla Trabzon’da kadın futbolunun gelişimine önemli katkı sağlıyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/k-a-r-d-e-l-e-n-s-p-o-r-4.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_2ca866d0",
-    "title": "Dev Maç Öncesi Kritik Mesaj! Trabzonspor Basketbol’dan Fenerbahçe Beko Uyarısı",
-    "source": "Taka Gazetesi",
-    "time": "15/04/2026 15:05",
-    "link": "https://www.takagazete.com.tr/dev-mac-oncesi-kritik-mesaj-trabzonspor-basketboldan-fenerbahce-beko-uyarisi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Türkiye Sigorta Basketbol Süper Ligi’nin 27’nci haftasında deplasmanda Fenerbahçe Beko ile karşılaşacak olan Trabzonspor Basketbol Takımı, hazırlıklarına yoğun tempoda devam ediyor. Başantrenör Selçuk Ernak yönetiminde Hayri Gür Spor Salonu’nda gerçekleştirilen antrenmanlarda, oyuncular hem taktik hem de kondisyon ağırlıklı çalışmalar yaptı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/iiaeuaeu.PNG",
     "keyword": null
   }
 ]
