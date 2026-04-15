@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_30882ff5",
+    "title": "ABD Senatosu, Trump'ın İran'a saldırılarını kısıtlayan savaş yetkileri tasarısını reddetti",
+    "source": "TRT Haber",
+    "time": "16/04/2026 00:05",
+    "link": "https://www.trthaber.com/haber/dunya/abd-senatosu-trumpin-irana-saldirilarini-kisitlayan-savas-yetkileri-tasarisini-reddetti-941799.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Senatosu, Başkan Donald Trump'ın İran'a yönelik saldırılarının Kongre onayına tabi olmasını öngören \"savaş yetkileri\" tasarısını reddetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1e5395fe",
     "title": "İstanbul'da Parlamentolar Arası Birlik Genel Kurulu başladı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Kahramanmaraş’ta bir ortaokula düzenlenen silahlı saldırıda şehit olan öğretmen ve hayatını kaybeden öğrencilerin kimlikleri açıklandı.",
     "image": "https://resim.haber61.net/news/612897.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_470f3d08",
-    "title": "Trabzon'da çığ anı kamerada!",
-    "source": "Kuzey Ekspres",
-    "time": "15/04/2026 23:05",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27818836/trabzonda-cig-ani-kamerada",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Çaykara ilçesinde meydana gelen çığ, cep telefonu kamerasına yansıdı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/trabzonda-cig-ani-kamerada3.jpg",
-    "keyword": "trabzon"
   }
 ]
