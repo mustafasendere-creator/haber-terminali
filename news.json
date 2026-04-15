@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_010fbd2a",
+    "title": "Son Dakika... Silahlı saldırının ardından: Kahramanmaraş'ta okullara 2 gün ara!",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 17:46",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-silahli-saldirinin-ardindan-kahramanmaras-ta-okullara-2-gun-ara-2495444",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanı Çiftçi, Kahramanmaraş'ta eğitim ve öğretime iki gün ara verildiğini açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dd83678b",
     "title": "Kahramanmaraş’ta öğrenci yakınları ile güvenlik güçleri arasında arbede yaşandı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "New York borsası, ABD ve İran&#039;ın anlaşmaya varabileceğine yönelik iyimserlikle güne yükselişle başladı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/26/new-york-borsasi-dususle-acildi-akeu_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8b03d61a",
-    "title": "ABD'de ithalat ve ihracat fiyat endeksleri martta arttı",
-    "source": "Ekonomim",
-    "time": "15/04/2026 17:08",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/abdde-ithalat-ve-ihracat-fiyat-endeksleri-martta-artti-haberi-888311",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD’de ithalat fiyatları martta aylık yüzde 0,8 artarak beklentilerin altında kalırken, ihracat fiyatları yüzde 1,6 yükseldi; yıllık bazda artış ithalatta yüzde 2,1, ihracatta yüzde 5,6 olarak kaydedildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/01/16/abdde-ithalat-ve-ihracat-fiyat-endeksi-verileri-aciklandi-id3m_cover.jpg",
     "keyword": null
   }
 ]
