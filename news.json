@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_64f7bcf4",
+    "title": "Kahramanmaraş’taki saldırıda acı bilanço: 9 ölü, 13 yaralı",
+    "source": "Kuzey Ekspres",
+    "time": "15/04/2026 18:44",
+    "link": "https://www.kuzeyekspres.com.tr/haber/27818057/kahramanmarastaki-saldirida-aci-bilanco-9-olu-13-yarali",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Ortaokulda düzenlenen silahlı saldırıda 8’i öğrenci, 1’i öğretmen 9 kişi hayatını kaybetti, şehirde eğitime iki gün ara verildi.",
+    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/kahramanmarastaki-saldirida-aci-bilanco.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_bdcedcb7",
     "title": "Trabzon’da Av Yasağı Başladı: 21 Bin Ton Hamsi Avlandı",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Urfa ve Maraş’taki okul saldırılarına tepki gösteren eğitim emekçileri, Gebze’de iş bırakarak İlçe Milli Eğitim Müdürlüğü’ne yürüdü.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343166.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7ccfbd7a",
-    "title": "Trump’tan İran mesajı: 'Savaş bitmek üzere, ateşkes çok yakın'",
-    "source": "Euronews",
-    "time": "15/04/2026 17:45",
-    "link": "http://tr.euronews.com/2026/04/15/trumptan-iran-mesaji-savas-bitmek-uzere-ateskes-cok-yakin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trump, Washington ve Tahran arasındaki görüşmelerin ikinci turunun birkaç gün içinde gerçekleşebileceğini söyledi. Bu arada İsrail, Lübnan'da İran destekli Hizbullah'a karşı yürüttüğü askeri harekâta devam ediyor.",
-    "image": null,
     "keyword": null
   }
 ]
