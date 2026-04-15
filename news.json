@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_07e27666",
+    "title": "Ulaştırma Bakanı: 'Hürmüz'den 8 gemimizi çıkarmak için çalışıyoruz'",
+    "source": "BBC Türkçe",
+    "time": "15/04/2026 14:25",
+    "link": "https://www.bbc.com/turkce/articles/cp320vepnjvo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ulaştırma Bakanı Abdulkadir Uraloğlu, Hürmüz Boğazı'nda 15 Türk gemisinden üçünü çıkardıklarını, geri kalan gemilerden dördünün çıkma talebi olmadığını ve sekizini çıkarmak için Dışişleri Bakanlığı'yla birlikte çalıştıklarını söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e5e7a345",
     "title": "İran: ABD ablukasına karşılık Basra Körfezi, Umman Denizi ve Kızıldeniz’de ihracata izin vermeyiz",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yapay zekanın artan elektrik tüketimine ek olarak kuraklığın derinleştiği bir dönemde aşırı miktarda su harcaması, insanlığın geleceğine dair kaygıları büyütüyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fb2187bd",
-    "title": "Ayvalık'ta tartışmalı yat limanı projesi: \"Yeni bir AVM konseptine ihtiyacımız yok",
-    "source": "Evrensel",
-    "time": "15/04/2026 13:45",
-    "link": "https://www.evrensel.net/haber/5979736/ayvalikta-tartismali-yat-limani-projesi-yeni-bir-avm-konseptine-ihtiyacimiz-yok",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Balıkesir Ayvalık'ta belediyenin hayata geçirmek istediği \"Yat Limanı\" projesi, çevreye verdiği zarar ve ticari rant gerekçesiyle tepki çekiyor. Ayvalık Tabiat Platformu Sözcüsü Nebahat Dinler, projenin ciddi riskler yaratacağını vurguladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/280004.jpg",
     "keyword": null
   }
 ]
