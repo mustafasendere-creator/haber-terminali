@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fac0879b",
+    "title": "Zorunlu kış lastiği uygulaması sona ererken sürücülere \"mevsimsel fark\" uyarısı",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 14:04",
+    "link": "https://www.aa.com.tr/tr/ekonomi/zorunlu-kis-lastigi-uygulamasi-sona-ererken-suruculere-mevsimsel-fark-uyarisi/3906011",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "LASİD Genel Sekreteri Kurt, \"Ülkemiz geniş bir coğrafyada olduğu için farklılıklar oluşabiliyor. Kütahya'da trafiğe çıkan bir araç için kış lastikleri çıkarılabilir ancak Hakkari'de kış lastiklerine hala ihtiyaç var.\" uyarısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3ccfb321",
     "title": "Kadına yönelik şiddet mağdurlarının başvuracağı yöntemler tiyatro sahnesinde",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fransa İçişleri Bakanı Laurent Nunez, Yahudi karşıtı yorumları nedeniyle Kanye West'in 11 Haziran'da Marsilya'daki Velodrome stadyumunda sahne almasını engellemeye çalışıyordu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_0ffa0f1c",
-    "title": "Akçaabat'ta Altyapı Sorunları Tek Tek Çözülüyor",
-    "source": "Kuzey Ekspres",
-    "time": "15/04/2026 13:25",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27815353/akcaabatta-altyapi-sorunlari-tek-tek-cozuluyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Akçaabat Belediye Başkanı Osman Nuri Ekim ve TİSKİ Genel Müdürü İbrahim Kul, Yenimahalle Mengendere Sokak’taki altyapı sorunlarını yerinde inceledi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/ak2.webp",
     "keyword": null
   }
 ]
