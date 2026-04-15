@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_61a7805d",
+    "title": "Azerbaycan’dan, Türkiye'ye başsağlığı mesajı",
+    "source": "Haber Global",
+    "time": "15/04/2026 20:26",
+    "link": "https://haberglobal.com/dunya/azerbaycandan-turkiyeye-bassagligi-mesaji-519017",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Azerbaycan Dışişleri Bakanlığı, Şanlıurfa ve Kahramanmaraş’taki okullarda gerçekleştirilen silahlı saldırılar dolayısıyla taziye mesajı yayımladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/azerbaycandan-turkiyeye-bassagligi-mesaji-owqu.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_44a79103",
     "title": "\"Barış Alper'in satılmasını isteriz! Bize 8 milyon euro düşecek\"",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Borsa İstanbul'da işlem gören spor şirketleri yılın ilk çeyreğinde yatırımcısını üzdü. Hisseleri en çok değer kaybeden kulüp yüzde 24,3 ile Fenerbahçe Futbol AŞ oldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a688afce",
-    "title": "MSB, Ağrı Dağı'nın Göktürk2B uydusuyla çekilen fotoğrafını paylaştı",
-    "source": "TRT Haber",
-    "time": "15/04/2026 19:45",
-    "link": "https://www.trthaber.com/haber/gundem/msb-agri-daginin-gokturk-2b-uydusuyla-cekilen-fotografini-paylasti-941757.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Savunma Bakanlığı MSB, Ağrı Dağı'nın Göktürk2B uydusu tarafından çekilen fotoğrafını paylaştı.",
     "image": null,
     "keyword": null
   }
