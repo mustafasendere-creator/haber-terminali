@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_45e5f275",
+    "title": "Erdoğan'dan 'seçim tarihi' ve 'Gülistan Doku' sorularına yanıt",
+    "source": "Evrensel",
+    "time": "15/04/2026 22:05",
+    "link": "https://www.evrensel.net/haber/5979762/erdogan-dan-secim-tarihi-ve-gulistan-doku-sorularina-yanit",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Erdoğan seçim tarihine dair \"Zamanında\", Gülistan Doku soruşturmasına ilişkin ise \"Yargı süreci işliyor\" açıklamalarında bulundu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343125.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b41aed73",
     "title": "TİP Genel Başkanı Erkan Baş: Ülkeyi küçük Amerika yapmak istediler, oldu",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Şanlıurfa ve Kahramanmaraş’taki saldırıların ardından Trabzon’da bazı okullar velilere mesaj göndererek öğretmenlerin eylem nedeniyle derslerde olmayacağını bildirdi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/gfds-93.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_585c2d81",
-    "title": "Trabzon’da kritik 90 dakika: Trabzonspor seriyi bozmama peşinde koşuyor",
-    "source": "Haber61",
-    "time": "15/04/2026 21:25",
-    "link": "https://www.haber61.net/trabzonspor/trabzonda-kritik-90-dakika-trabzonspor-seriyi-bozmama-pesinde-kosuyor-h629683.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig’in 30. haftasında Trabzonspor, sahasında Başakşehir ile kritik bir mücadeleye çıkıyor. Şenol Güneş Spor Kompleksi’nde oynanacak maçta bordo-mavililer galibiyet hedefliyor.",
-    "image": "https://resim.haber61.net/news/612872.jpg",
     "keyword": "trabzon"
   }
 ]
