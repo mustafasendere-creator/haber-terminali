@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_081aa8a9",
+    "title": "IMF'den küresel resesyon uyarısı: 'İran savaşı uzarsa, risk büyük'",
+    "source": "BBC Türkçe",
+    "time": "15/04/2026 08:25",
+    "link": "https://www.bbc.com/turkce/articles/c4gllvry4deo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Para Fonu (IMF), ABD ve İsrail ile İran arasındaki savaşın sürmesi ve enerji fiyatlarının yüksek seyretmesi halinde, küresel ekonominin resesyona girme riskiyle karşı karşıya olduğu uyarısını yaptı. IMF Türkiye için büyüme beklentisini de düşürdü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_0a5d181e",
     "title": "Ganita’da şaşırtan manzara! Nedeni bakın ne çıktı",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Şanlıurfa’nın Siverek ilçesinde bir öğrencinin pompalı tüfekle okula saldırması sonucu 16 kişinin yaralanmasının ardından, Türkiye genelinde eğitimciler iş bırakma kararı aldı. Trabzon’da da protesto yürüyüşü düzenlenecek.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/asasdas-kurtarildi-172.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a0178205",
-    "title": "Adalet Bakanı Gürlek, Türk Hukuk Enstitüsü heyetini kabul etti",
-    "source": "TRT Haber",
-    "time": "14/04/2026 22:25",
-    "link": "https://www.trthaber.com/haber/gundem/adalet-bakani-gurlek-turk-hukuk-enstitusu-heyetini-kabul-etti-941665.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Akın Gürlek, \"Özellikle avukatlarımızın son zamanlarda yaşadığı sorunları çok iyi biliyoruz. Düzenleyeceğimiz paketlerde hem hukuk yargılamasını hızlandırmak istiyoruz hem de bir anlamda avukatlarımıza maddi anlamda dokunmak istiyoruz.\" ifadelerini kullandı.",
-    "image": null,
-    "keyword": null
   }
 ]
