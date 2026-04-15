@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_97f6c5c3",
+    "title": "Beşiktaş - Ailağa Petkimspor maçı ertelendi",
+    "source": "Haber Global",
+    "time": "15/04/2026 22:05",
+    "link": "https://haberglobal.com/spor/besiktas-ailaga-petkimspor-maci-ertelendi-519029",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beşiktaş GAİN, Ailağa Petkimspor ile 25 Nisan'da oynanması planlanan 28. haftadaki lig maçının ertelendiğini duyurdu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/besiktas-ailaga-petkimspor-maci-ertelendi-fkcg.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_111dfd72",
     "title": "Trabzonspor’un Yıldızına Dev Teklif! İngiliz Devleri Oulai’nin Peşinde",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor transfer çalışmaları kapsamında Güney Amerika pazarına yöneldi, genç oyuncular için temaslarını artırdı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/te-trabzonsporun-transfer-rotasi-bakin-listede-kimler-var-1.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c410398f",
-    "title": "İtalyanların büyük çoğunluğu, Trump'ın İran savaşını ele alış biçimini olumsuz buluyor",
-    "source": "TRT Haber",
-    "time": "15/04/2026 21:26",
-    "link": "https://www.trthaber.com/haber/dunya/italyanlarin-buyuk-cogunlugu-trumpin-iran-savasini-ele-alis-bicimini-olumsuz-buluyor-941786.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İtalya'da bugün yayımlanan bir ankete göre, İtalyanların yüzde 79u, ABD Başkanı Donald Trump'ın, İsrail ile 28 Şubat'ta İran'a karşı başlattığı savaşı ele alış biçimini \"olumsuz\" olarak değerlendirdi.",
-    "image": null,
-    "keyword": null
   }
 ]
