@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_049f6fa4",
+    "title": "Peter Magyar'ın ilk hedefi \"Orban yanlısı\" kamu yayıncısı",
+    "source": "DW Türkçe",
+    "time": "15/04/2026 16:26",
+    "link": "https://www.dw.com/tr/peter-magyar-ın-ilk-hedefi-orban-yanlısı-kamu-yayıncısı/a-76790754",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Macaristan'ın yeni başbakanı Peter Magyar, Viktor Orban yanlısı olmakla suçladığı kamu medyasının yayınlarını yeni bir basın yasası çıkarana kadar askıya alacağını söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_cd282703",
     "title": "Enginyurt, Tekin'i istifaya çağırdı: Camiler ahır olmadı, okullar Teksas'a döndü",
     "source": "Diken",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Zamlanan ücretlerin bir kısmı tüm yolcular için geçerli, ancak bazıları gidiş tarihinize ve konakladığınız yere göre önlenebiliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f9584228",
-    "title": "Macaristan'ın yeni hükümeti kriz içindeki ekonomiyi toparlamayı hedefledi",
-    "source": "Euronews",
-    "time": "15/04/2026 15:45",
-    "link": "http://tr.euronews.com/business/2026/04/15/macaristanin-yeni-hukumeti-kriz-icindeki-ekonomiyi-toparlamayi-hedefledi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yatırımcılar, yeni hükümetin beklenen ekonomik politikalarına umutla bakıyor; ancak enerji krizi ve AB fonları için yaşanan yarış ilk başarıları yavaşlatabilir.",
     "image": null,
     "keyword": null
   }
