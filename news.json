@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_39c7e6d5",
+    "title": "İstanbul Valisi Gül'den okul isimleri verilerek vatandaşları paniğe sevk eden paylaşımlara ilişkin açıklama",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 23:24",
+    "link": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gulden-okul-isimleri-verilerek-vatandaslari-panige-sevk-eden-paylasimlara-iliskin-aciklama/3907162",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Valisi Gül, okul isimleri verilerek vatandaşları korku ve paniğe sevk etmeyi amaçlayan paylaşımların takip edildiğini,  halkı tedirgin etmeyi amaçlayan bu tür içerikleri yayan kişiler hakkında yasal işlemlerin uygulandığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_1d4a9d56",
     "title": "Kahramanmaraş’ta okul saldırısında hayatını kaybedenlerin isimleri netleşti",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş&#039;taki Ayser Çalık Ortaokulu&#039;nda düzenlenen silahlı saldırıya ilişkin şiddet görüntülerini paylaşan 63 hesap hakkında inceleme başlatıldı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/kahramanmarastaki-okul-saldirisi-siddet-goruntulerini-yayan-63-hesap-hakkinda-inceleme-baslatildi-wunx_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_c8dbbbb8",
-    "title": "Pakistanlı üst düzey heyet ABD-İran müzakerelerini görüşmek için İran'a gitti",
-    "source": "Ekonomim",
-    "time": "15/04/2026 22:06",
-    "link": "https://www.ekonomim.com/dunya/pakistanli-ust-duzey-heyet-abd-iran-muzakerelerini-gorusmek-icin-irana-gitti-haberi-888318",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pakistan Genelkurmay Başkanı Mareşal Asım Munir&#039;in başkanlığındaki heyetin, ABD&#039;den İran&#039;a bir mesaj iletmek ve iki ülke arasında ikinci tur görüşmeleri planlamak üzere İran&#039;a doğru yola çıktığı duyuruldu",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/26/abd-iran-nukleer-anlasmasindaki-yaptirimlarin-suresiz-olmasini-istiyor-0wzh_cover.jpg",
     "keyword": null
   }
 ]
