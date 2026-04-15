@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cd34ad3b",
+    "title": "Akaryakıtta motorine indirim geldi! İşte son fiyatlar",
+    "source": "Haber Global",
+    "time": "15/04/2026 08:46",
+    "link": "https://haberglobal.com/ekonomi/15-nisan-benzin-kac-lira-motorine-indirim-geldi-518819",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ile İran arasında görüşmelerin süreceği beklentileri petrol fiyatlarını düşürdü! Bu da akaryakıta indirim olarak yansıdı... Motorine dün gece indirim geldi. İndirim pompaya yansıdı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/15-nisan-benzin-kac-lira-motorine-indirim-geldi-3fbx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0994f7aa",
     "title": "Trump ile Papa arasındaki İran atışması devam ediyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ankara İl Başkanı Ümit Erkol'un tutuklanmasının ardından partinin il başkanları Ankara'da toplandı. Operasyonlara karşı yeni yol haritası belirlendi; hazırlanan sonuç bildirgesi bugün 81 ilde eş zamanlı olarak açıklanacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343052.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_29322bf6",
-    "title": "ABD'de tren kazası: 13 vagon raydan çıktı, kimyasal sızıntı alarmı verildi",
-    "source": "Evrensel",
-    "time": "15/04/2026 08:26",
-    "link": "https://www.evrensel.net/haber/5979678/abdde-tren-kazasi-13-vagon-raydan-cikti-kimyasal-sizinti-alarmi-verildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "New Jersey'de yük treni raydan çıktı; vagonlardan sızan kimyasal madde nedeniyle alarm durumuna geçildi. Ana yollar trafiğe kapatıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343053.jpg",
     "keyword": null
   }
 ]
