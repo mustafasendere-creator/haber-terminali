@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f237b031",
+    "title": "Kahramanmaraş'ta okulda silahlı saldırı: 4 can kaybı",
+    "source": "DW Türkçe",
+    "time": "15/04/2026 16:26",
+    "link": "https://www.dw.com/tr/kahramanmaraş-ta-okulda-silahlı-saldırı-4-can-kaybı/a-76790820",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta bir ortaokulda silahlı saldırı düzenlendiği bildirildi. Kahramanmaraş Valisi Mükerrem Ünlüer, saldırıda 4 kişinin hayatını kaybettiğini ve 20 kişinin de yaralandığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_049f6fa4",
     "title": "Peter Magyar'ın ilk hedefi \"Orban yanlısı\" kamu yayıncısı",
     "source": "DW Türkçe",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Inditex'in kurucusu, kendisini dünyadaki en zengin insanlar arasına yerleştiren servetiyle, dünya çapında gayrimenkul sektöründe ana referans olma konumunu pekiştiriyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b3ae019b",
-    "title": "2026'da Japonya'ya gideceklere: Yeni vergiler ve zamlar açıklandı",
-    "source": "Euronews",
-    "time": "15/04/2026 15:46",
-    "link": "http://tr.euronews.com/gezi/2026/04/15/2026da-japonyaya-gideceklere-yeni-vergiler-ve-zamlar-aciklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Zamlanan ücretlerin bir kısmı tüm yolcular için geçerli, ancak bazıları gidiş tarihinize ve konakladığınız yere göre önlenebiliyor.",
     "image": null,
     "keyword": null
   }
