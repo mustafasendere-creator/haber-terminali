@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aef35fcf",
+    "title": "İngiltere'den güneşli günlerde ucuza elektrik sözü",
+    "source": "Euronews",
+    "time": "15/04/2026 14:46",
+    "link": "http://tr.euronews.com/2026/04/15/bu-avrupa-ulkesi-gunesli-gunlerde-ucuz-elektrik-sozu-verdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa'nın elektrik şebekeleri yenilenebilir enerjiye ayak uyduramıyor. Bedava enerji dağıtmak çözüm olabilir mi?",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_473ec837",
     "title": "Kahramanmaraş'ta bir okulda silah sesleri: Can kaybı ve çok sayıda yaralı var",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli Savunma Bakanlığı (MSB), Ağrı Dağı'nın Göktürk-2B uydusu tarafından çekilen fotoğrafını paylaştı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_63b80968",
-    "title": "Kahverengi kokarcaya karşı kışlaklardan çıkış öncesi ilaçlama hız kazandı!",
-    "source": "61 Saat",
-    "time": "15/04/2026 14:24",
-    "link": "https://www.61saat.com/kahverengi-kokarcaya-karsi-kislaklardan-cikis-oncesi-ilaclama-hiz-kazandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Karadeniz Bölgesi'nde tarım ürünlerine zarar veren kahverengi kokarcaya karşı mücadele aralıksız sürüyor. Trabzon Tarım ve Orman İl Müdürlüğü ile Trabzon Büyükşehir Belediyesi ekipleri, zararlının kışlaklardan çıkışı öncesinde biosidal ilaçlama çalışması gerçekleştiriyor.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-15-142003.png",
     "keyword": null
   }
 ]
