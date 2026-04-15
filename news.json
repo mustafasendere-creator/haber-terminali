@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2cdee445",
+    "title": "Kahramanmaraş'taki saldırıyla ilgili yayın yasağı kararı",
+    "source": "TRT Haber",
+    "time": "15/04/2026 18:46",
+    "link": "https://www.trthaber.com/haber/gundem/kahramanmarastaki-saldiriyla-ilgili-yayin-yasagi-karari-941760.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Radyo ve Televizyon Üst Kurulu RTÜK, Kahramanmaraş'ta bir okulda meydana gelen silahlı saldırıyla ilgili yayın yasağı kararı verildiğini duyurdu",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_11e39b0a",
     "title": "İletişim Başkanı Duran: Kahramanmaraş'taki saldırı tüm boyutlarıyla inceleniyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor'da Başakşehir maçı hazırlıkları devam ediyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/t-t-s-s-s-s-s.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_086d7854",
-    "title": "Bakan canlı yayında açıkladı: 9 can kaybı var",
-    "source": "Haber61",
-    "time": "15/04/2026 18:04",
-    "link": "https://www.haber61.net/gundem/son-dakika-bakan-canli-yayinda-acikladi-9-can-kaybi-var-h629679.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Kahramanmaraş’taki okul saldırısının ardından 4 bakan bölgeye gitti. İçişleri Bakanı Mustafa Çiftçi, saldırıda 9 kişinin hayatını kaybettiğini açıkladı.",
-    "image": "https://resim.haber61.net/news/612868.jpg",
     "keyword": null
   }
 ]
