@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2b7d02c5",
+    "title": "Nijerya'da Boko Haram saldırılarından kaçarak kampa sığınanlar zor şartlarda hayatlarını sürdürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 22:04",
+    "link": "https://www.aa.com.tr/tr/dunya/nijeryada-boko-haram-saldirilarindan-kacarak-kampa-siginanlar-zor-sartlarda-hayatlarini-surduruyor/3907073",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nijerya'nın Adamawa eyaletinin başkenti Yola yakınlarında bulunan Malkohi Yerinden Edilmiş Kişiler Kampı'nda yaşayan yüzlerce aile, yıllar önce terör saldırılarından kaçarak sığındıkları kampta, giderek ağırlaşan yaşam koşullarıyla mücadele ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_61978c0a",
     "title": "DMM, Şanlıurfa ve Kahramanmaraş'taki saldırılara ilişkin bazı iddiaları yalanladı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Magyar, Orban hükümetine son haftalarında 'geçici hükümet' gibi davranması, Macaristan'ın çıkarlarını tehdit edecek veya yeni hükümetin çalışmalarını engelleyecek kararlar almaması çağrısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6d21bf66",
-    "title": "Kahramanmaraş'ta okul saldırısı: En az 9 kişi hayatını kaybetti",
-    "source": "Euronews",
-    "time": "15/04/2026 21:25",
-    "link": "http://tr.euronews.com/video/2026/04/15/turkiyede-okul-saldirisi-en-az-9-kisi-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanı'na göre, 14 yaşındaki bir öğrenci en az dokuz kişiyi öldürdü, 13 kişiyi yaraladı.",
     "image": null,
     "keyword": null
   }
