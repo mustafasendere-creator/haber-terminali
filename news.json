@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7b9ceb5d",
+    "title": "Görevden alınması gündemde: İsrailli aşırı sağcı bakan Ben-Gvir mahkeme karşısında",
+    "source": "BirGün",
+    "time": "15/04/2026 12:45",
+    "link": "https://www.birgun.net/haber/gorevden-alinmasi-gundemde-israilli-asiri-sagci-bakan-ben-gvir-mahkeme-karsisinda-705973",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Yüksek Mahkemesi, aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in polis teşkilatına müdahalesi nedeniyle görevden alınmasını talep eden başvuruyu görüşmeye başladı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/gorevden-alinmasi-gundemde-israilli-asiri-sagci-bakan-ben-gvir-mahkeme-karsisinda.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_98398fd9",
     "title": "Karagöl Sahara Milli Parkı Nisan Karıyla Beyaza Büründü",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dersim'de kaybolan Gülistan Doku soruşturmasında gizli tanık ifadeleri ve yeni teknik incelemeler dosyaya girdi. Gizli tanık, cesedin birden fazla kez yer değiştirdiğini öne sürdü.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342972.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5e2745b3",
-    "title": "Haber Sen: \"Okullar şiddet sahası, medya şiddetin vitrini olmamalıdır!\"",
-    "source": "Evrensel",
-    "time": "15/04/2026 12:05",
-    "link": "https://www.evrensel.net/haber/5979716/haber-sen-okullar-siddet-sahasi-medya-siddetin-vitrini-olmamalidir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "KESK Haber-Sen Siverek'te okula yapılan saldırının görüntülerinin olduğu gibi sosyal medya mecralarında yayınlanmasına tepki göstererek; \"Okullar şiddet sahası, medya şiddetin vitrini olmamalıdır\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342995.jpg",
     "keyword": null
   }
 ]
