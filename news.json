@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8277f774",
+    "title": "Elektronik sigara yasallaşıyor mu?",
+    "source": "Habertürk",
+    "time": "15/04/2026 21:06",
+    "link": "https://www.haberturk.com/elektronik-sigara-yasallasiyor-mu-3877356",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sağlığa Evet Derneği'ndan yapılan açıklamada, gençlerin sağlığını ciddi şekilde tehdit eden ve Türkiye'de de üretimi ve ticareti yasak olan elektronik sigara, ısıtılmış tütün ürünü ve nikotin poşetlerinin tütün ürünü kapsamına dahil edilmesinin serbestleştirme anlamına geldiği belirtilerek, karara itiraz edildi",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776177116/3877356/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_ffa6b927",
     "title": "İnci kefali için av yasağı yarın başlıyor",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran, ABD'nin \"deniz ablukası\" yoluyla ülkeye ait ticari gemilere ve petrol tankerlerine tehdit oluşturması halinde Basra Körfezi, Umman Denizi ve Kızıldeniz'de hiçbir ihracat faaliyetine izin vermeyeceğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_37255d15",
-    "title": "Bakan Fidan'dan diplomasi trafiği",
-    "source": "TRT Haber",
-    "time": "15/04/2026 20:25",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-diplomasi-trafigi-941752.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Fidan, Mısır Dışişleri Bakanı Abdulati ve Irak Dışişleri Bakanı Hüseyin ile telefon görüşmesi gerçekleştirdi.",
     "image": null,
     "keyword": null
   }
