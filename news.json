@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4095122b",
+    "title": "İstanbul'da okul ismi verilerek vatandaşları korku ve paniğe sevk eden paylaşım yapan kişilere soruşturma",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 00:24",
+    "link": "https://www.aa.com.tr/tr/gundem/istanbulda-okul-ismi-verilerek-vatandaslari-korku-ve-panige-sevk-eden-paylasim-yapan-kisilere-sorusturma/3907204",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da, bir sosyal medya uygulamasında okul ismi vererek vatandaşları korku ve paniğe sevk edecek şekilde yazışmalar yapan kişiler hakkında soruşturma başlatıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1882cb0e",
     "title": "İstanbul Aile Vakfından Şanlıurfa ve Kahramanmaraş'taki silahlı saldırılara ilişkin açıklama",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bursa İnegöl'de otomobilin bariyerlere çarpması sonucu yaralanan iki kişi hastaneye kaldırıldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/bursada-otomobil-bariyere-carpti-iki-yarali-ytr7.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_77bc02e0",
-    "title": "Arda Güler, Şampiyonlar Ligi'nde Mesut Özil’i geçti",
-    "source": "Haber Global",
-    "time": "15/04/2026 23:25",
-    "link": "https://haberglobal.com/spor/arda-guler-sampiyonlar-liginde-mesut-ozili-gecti-519039",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Şampiyonlar Ligi çeyrek final rövanş maçında Bayern Münih ve Real Madrid takımları Almanya'nın Münih kentindeki Football Arena Munich'te karşı karşıya geldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/arda-guler-sampiyonlar-liginde-mesut-ozili-gecti-ouew.jpg",
     "keyword": null
   }
 ]
