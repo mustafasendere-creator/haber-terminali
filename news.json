@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9bd8a75f",
+    "title": "Kahramanmaraş'taki okula saldırının ardından... Erdoğan: 'Acının siyaseti olmaz'",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 19:26",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/kahramanmaras-taki-okula-saldirinin-ardindan-erdogan-acinin-siyaseti-olmaz-2495471",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan, Kahramanmaraş'taki 9 kişinin hayatını kaybettiği okul saldırısının ardından \"Milletçe hepimizin yüreğine kor bir ateş düşüren böyle bir saldırının siyasi polemiklere ve reyting kaygısına malzeme yapılmaması, vicdani olduğu kadar ahlaki bir görevdir. Acının siyaseti olmaz\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_206d701b",
     "title": "Cumhurbaşkanlığı YİK Erdoğan başkanlığında toplandı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Pusholder  x.com",
     "image": null,
     "keyword": "trabzon fetö"
-  },
-  {
-    "id": "GND_6da2b407",
-    "title": "Erdoğan'dan erken seçim ve Gülistan Doku sorusuna yanıt",
-    "source": "BirGün",
-    "time": "15/04/2026 18:45",
-    "link": "https://www.birgun.net/haber/erdogan-dan-erken-secim-ve-gulistan-doku-sorusuna-yanit-706032",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Erdoğan, partisinin grup toplantısı sonrası gazetecilerin sorularını yanıtladı. Seçim tarihi ile ilgili soruya \"zamanında yapılacak\" yanıtı veren Erdoğan, Gülistan Doku'nun ölümüne ilişkin soruyu ise yanında bulunan AKP Meclis Grup Başkanı Abdullah Güler'e danıştıktan sonra \"Aynen dediği gibi, süreç işliyor\" diyerek yanıtladı. Erdoğan \"yargı süreci neden bu kadar gecikti?\" sorusunu ise yanıtsız bıraktı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/erdogan-dan-erken-secim-ve-gulistan-doku-sorusuna-yanit.jpg",
-    "keyword": null
   }
 ]
