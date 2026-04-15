@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_31208336",
+    "title": "Sıcaklıklar yükseliyor ama tehlike uyarıları geçmedi: Doğuda kar, batıda toz taşınımı var",
+    "source": "Evrensel",
+    "time": "15/04/2026 09:26",
+    "link": "https://www.evrensel.net/haber/5979669/sicakliklar-yukseliyor-ama-tehlike-uyarilari-gecmedi-doguda-kar-batida-toz-tasinimi-var",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yurt genelinde hava sıcaklıkları 4 ila 6 derece artarken; Doğu Anadolu'da kar ve çığ tehlikesi, güney ve batı kesimlerde yoğun toz taşınımı bekleniyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343042.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_788f2933",
     "title": "Doğum izni ve sosyal medya düzenlemesi görüşüldü: Sosyal Hizmet Kanunu teklifinde 6 madde daha kabul edildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Diyarbakır&#039;da çiftçi Lami Tuğrul, 450 dönümlük arazisinin 250 dönümünü jandarma eşliğinde ektiğini ancak akrabalarının gece yarısı ilaç atarak ekili alanı kuruttuğunu öne sürdü. Analiz yaptırıp suç duyurusunda bulunan Tuğrul, kalan arazisinin de gasp edildiğini iddia etti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/15/diyarbakirda-tarla-gaspi-ciftci-lami-tugrul-illa-biri-mi-olmeli-dedi-yardim-istedi-qlsn.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_be6d6b7d",
-    "title": "Ev-oto alımında 'takas' devri: Lidyalıların gerisine düştük",
-    "source": "OdaTV",
-    "time": "15/04/2026 08:47",
-    "link": "https://www.odatv.com/ekonomi/emlak/ev-oto-aliminda-takas-devri-lidyalilarin-gerisine-dustuk-120143357",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İkinci el ev ve otomobil ilanlarında &quot;takas&quot; yapmak isteyenlerin sayısı her geçen gün artıyor. Sadece gayrimenkulde, 4 bin 679 mülk doğrudan takas seçeneğiyle alıcı bekliyor. Uzmanlar ise takas yapılırken dikkat edilmesi gerekenlere dikkat çekiyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/15/ev-oto-aliminda-takas-devri-lidyalilarin-gerisine-dustuk-kkwh.jpg",
     "keyword": null
   }
 ]
