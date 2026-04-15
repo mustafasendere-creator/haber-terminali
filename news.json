@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7c6a52cc",
+    "title": "THY'den öğrencilere indirim",
+    "source": "TRT Haber",
+    "time": "15/04/2026 17:26",
+    "link": "https://www.trthaber.com/haber/ekonomi/thyden-ogrencilere-indirim-941773.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türk Hava Yolları THY, Türkiye çıkışlı Avrupa varışlı seyahatlerde öğrencilere yönelik yüzde 15 indirimli biletleri satışa sundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_82aba8b4",
     "title": "Pakistanlı üst düzey heyetin ABDİran müzakerelerini görüşmek için İran'a gittiği belirtildi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Nazım Elmas, Giresun Sekü Köyü’nde maden arama sürecine ilişkin konuştu. “Razı olunmayan hiçbir işlemin yanında değiliz” diyerek çevre vurgusu yaptı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/ac7d76d6-d0dd-4571-863a-75d0f8591f65.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_341f6add",
-    "title": "Asgari ücrete ara zam gelecek mi: Ankara kulisleri ne diyor?",
-    "source": "BirGün",
-    "time": "15/04/2026 17:05",
-    "link": "https://www.birgun.net/haber/asgari-ucrete-ara-zam-gelecek-mi-ankara-kulisleri-ne-diyor-706038",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "SGK Uzmanı İsa Karakaş Ankara kulislerinde asgari ücrete ara zam konusunda konuşulanları aktardı. Karakaş, \"Şu anda somut bir gelişme yok\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/asgari-ucrete-ara-zam-gelecek-mi-ankara-kulisleri-ne-diyor.jpg",
     "keyword": null
   }
 ]
