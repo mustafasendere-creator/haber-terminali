@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba1e49db",
+    "title": "Üniversite öğrencisi, evinin önünde sırtından bıçaklandı",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 10:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/universite-ogrencisi-evinin-onunde-sirtindan-bicaklandi-2495328",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karaman'da Azerbaycan uyruklu üniversite öğrencisi Nail Rızaif, evine girerken kimliği belirsiz kişi tarafından sırtından bıçaklandı. Nail Rızaif ağır yaralanırken, şüpheli kaçtı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4faffd6d-9ebe-407a-9a4a-e9ce31f06621.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d732400d",
     "title": "Hatay’da bir ilk: Nadir görülen Türkistan Örümcekkuşu objektiflere takıldı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Gülistan Doku soruşturmasında 6 yıl sonra büyük operasyon! Silinen mesajlardaki \"Onlar\" detayı, vali oğluna gözaltı ve mezarlık kazısı dosyayı tamamen değiştirdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/gulistan-doku.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_abf0e98a",
-    "title": "İBB davasında yeni karar: 27 tutuklu için telefon kısıtlaması kaldırıldı",
-    "source": "BirGün",
-    "time": "15/04/2026 10:25",
-    "link": "https://www.birgun.net/haber/ibb-davasinda-yeni-karar-27-tutuklu-icin-telefon-kisitlamasi-kaldirildi-705918",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul 40. Ağır Ceza Mahkemesi, İBB dosyasında “örgüt üyeliği” suçlaması yöneltilmeyen tutuklular için telefon görüşmelerine getirilen süre sınırlamasının kaldırılmasına karar verdi. Karar kapsamında aralarında Aykut Erdoğdu, Çağlar Türkmen ve Ceyhun Avşar’ın da bulunduğu 27 kişi için cezaevlerine yazı gönderildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/ibb-davasinda-yeni-karar-27-tutuklu-icin-telefon-kisitlamasi-kaldirildi.jpg",
     "keyword": null
   }
 ]
