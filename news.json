@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ab8490e8",
+    "title": "Almanya'da memurlara zam planı: Maliyeti 3,5 milyar euro",
+    "source": "DW Türkçe",
+    "time": "15/04/2026 19:26",
+    "link": "https://www.dw.com/tr/almanya-da-memurlara-zam-planı-maliyeti-3-5-milyar-euro/a-76798513",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya'da İçişleri Bakanlığı, memurların maaşlarında iyileştirme öngören bir yasa tasarısı hazırladı. Tasarının hayata geçmesi halinde federal bütçeye yılda 3,5 milyar euroyu aşan ek yük getirecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e57101be",
     "title": "Kahramanmaraş'ta ortaokula saldırı: Saldırganın annesi de gözaltına alındı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ortaokulda düzenlenen silahlı saldırıda 3 öğrenci ve 1 öğretmenin de aralarında bulunduğu 9 kişi hayatını kaybetti.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/kahramanmarastaki-saldirida-yeni-gelisme.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6147c3fa",
-    "title": "Borsa günü yükselişle tamamladı",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 18:44",
-    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/3906892",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,35 değer kazanarak 14.252,38 puandan tamamladı.",
-    "image": null,
     "keyword": null
   }
 ]
