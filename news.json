@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4f7238ab",
+    "title": "DMM, Kahramanmaraş ve Şanlıurfa'daki saldırılara ilişkin bazı iddiaları yalanladı",
+    "source": "TRT Haber",
+    "time": "15/04/2026 23:25",
+    "link": "https://www.trthaber.com/haber/gundem/dmm-kahramanmaras-ve-sanliurfadaki-saldirilara-iliskin-bazi-iddialari-yalanladi-941792.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, Kahramanmaraş ve Şanlıurfa'da yaşanan hadiselere ilişkin paylaşılan \"Kahramanmaraş'taki saldırganın polis eşliğinde sağ olarak okuldan çıkarıldığı\" ve \"Şanlıurfa'daki saldırganın olaydan bir gün önce tutuklanıp serbest bırakıldığı\" iddialarının asılsız olduğunu açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_31b96b66",
     "title": "Kahramanmaraş'ta yayın yasağını ihlal eden 2 şüpheli gözaltına alındı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Maraş'taki Ayser Çalık Ortaokulunda silahlı saldırı düzenlendi. İçişleri Bakanı Mustafa Çiftçi, saldırıda 9 kişinin yaşamını yitirdiğini açıkladı. 8'inci sınıf öğrencisi olan saldırganın da öldüğü bildirildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343130.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_276a0810",
-    "title": "Savcılık ceza istedi, mahkeme dosyayı kapattı: HDK davasında yargılanan altı kişi beraat etti",
-    "source": "Evrensel",
-    "time": "15/04/2026 22:25",
-    "link": "https://www.evrensel.net/haber/5979756/savcilik-ceza-istedi-mahkeme-dosyayi-kapatti-hdk-davasinda-yargilanan-alti-kisi-beraat-etti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul 23. Ağır Ceza Mahkemesi, HDK faaliyetlerini gerekçe göstererek ceza isteyen savcılığa karşın, aralarında Ender İmrek ve Mehmet Özcan'ın da bulunduğu altı kişi hakkında beraat kararı vererek dosyayı kapattı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343110.jpg",
     "keyword": null
   }
 ]
