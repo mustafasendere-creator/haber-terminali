@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e820b73c",
+    "title": "Kızılhaç, savaşın başlamasından bu yana İran'a ilk yardım sevkiyatının yapıldığını açıkladı",
+    "source": "Euronews",
+    "time": "15/04/2026 08:45",
+    "link": "http://tr.euronews.com/2026/04/15/kizilhac-savasin-baslamasindan-bu-yana-irana-ilk-yardim-sevkiyatinin-yapildigini-acikladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın Kızılhaç ve Kızılay Federasyonu, çatışmaların başlamasından bu yana İran’a ilk kez sınır ötesi tıbbi yardım ulaştırıldığını açıkladı. Ankara’dan yola çıkan konvoyun ardından yüzlerce tonluk insani yardım sevkiyatı yapılırken, artan ihtiyaçlar ve aksayan tedarik zincirleri dikkat çekti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_586d54be",
     "title": "Yunanistan açıklarında yoğun göç trafiği: 300’den fazla kişi kurtarıldı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Karadeniz hava durumu bugün nasıl olacak, Trabzon’da bugün yağmur var mı, ilçelerde sıcaklık kaç derece olacak, rüzgâr ne kadar esecek, Doğu ve Batı Karadeniz’de hava nasıl seyredecek sorularının yanıtları belli oldu. Meteoroloji verilerine göre Trabzon başta olmak üzere Karadeniz Bölgesi genelinde parçalı ve çok bulutlu bir hava hakim olurken bazı illerde yağmur geçişleri ve sis etkili olacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/01/hava-durumu-38.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_01cc10cd",
-    "title": "Akaryakıtta dalgalanma: Motorine bugün zam geldi, yarın indirim var",
-    "source": "BirGün",
-    "time": "15/04/2026 08:25",
-    "link": "https://www.birgun.net/haber/akaryakitta-dalgalanma-motorine-bugun-zam-geldi-yarin-indirim-var-705897",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD-İran görüşmelerindeki belirsizlik petrol fiyatlarını etkilerken motorine litre başına 3,33 TL zam yapıldı; İstanbul, Ankara ve İzmir’de fiyatlar 75 liranın üzerine çıktı, yarın gece ise 4,04 TL indirim bekleniyor.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/akaryakitta-dalgalanma-motorine-bugun-zam-geldi-yarin-indirim-var.jpg",
     "keyword": null
   }
 ]
