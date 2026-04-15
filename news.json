@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_150e9321",
+    "title": "CHP'nin il başkanları Ankara'da buluştu; yeni yol haritası bugün açıklanacak",
+    "source": "Evrensel",
+    "time": "15/04/2026 08:26",
+    "link": "https://www.evrensel.net/haber/5979677/chp-nin-il-baskanlari-ankara-da-bulustu-yeni-yol-haritasi-bugun-aciklanacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara İl Başkanı Ümit Erkol'un tutuklanmasının ardından partinin il başkanları Ankara'da toplandı. Operasyonlara karşı yeni yol haritası belirlendi; hazırlanan sonuç bildirgesi bugün 81 ilde eş zamanlı olarak açıklanacak.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343052.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_29322bf6",
     "title": "ABD'de tren kazası: 13 vagon raydan çıktı, kimyasal sızıntı alarmı verildi",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Macaristan’ın yeni başbakanı Peter Magyar, Viktor Orban’ın 16 yıllık iktidarına son vererek Brüksel’deki güç dengelerini değiştirmeye hazırlanıyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3a912190",
-    "title": "İstanbul için 2300 projeksiyonu: 10 binden fazla yapı yüksek risk altında olacak",
-    "source": "BirGün",
-    "time": "14/04/2026 22:45",
-    "link": "https://www.birgun.net/haber/istanbul-icin-2300-projeksiyonu-10-binden-fazla-yapi-yuksek-risk-altinda-olacak-705789",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Üniversitesi Deniz Bilimleri ve İşletmeciliği Enstitüsünün uluslararası iklim projeksiyonlarına dayalı analizlerine göre, İstanbul limanları ve kıyı sistemlerinin 2100'de deniz seviyesinin 5 metre artmasıyla tümü, 2300'de 15 metre yükselişte büyük bölümü ve 10 binden fazla yapı yüksek risk altında olacak.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/14/istanbul-icin-2300-senaryosu-10-binden-fazla-yapi-yuksek-risk-altinda-olacak.jpg",
     "keyword": null
   }
 ]
