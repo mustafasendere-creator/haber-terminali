@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_61978c0a",
+    "title": "DMM, Şanlıurfa ve Kahramanmaraş'taki saldırılara ilişkin bazı iddiaları yalanladı",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 22:04",
+    "link": "https://www.aa.com.tr/tr/gundem/dmm-sanliurfa-ve-kahramanmarastaki-saldirilara-iliskin-bazi-iddialari-yalanladi/3907096",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DMM, \"Kahramanmaraş'taki saldırganın polis eşliğinde sağ olarak okuldan çıkarıldığı\" ve \"Şanlıurfa'daki saldırganın olaydan bir gün önce tutuklanıp serbest bırakıldığı\" yönündeki iddiaların asılsız ve gerçekle hiçbir bağı bulunmadığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_be714f46",
     "title": "Basın kuruluşlarından, İsrail Yüksek Mahkemesine basının Gazze'ye erişimi davasında süreci hızlandırması çağrısı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İçişleri Bakanı'na göre, 14 yaşındaki bir öğrenci en az dokuz kişiyi öldürdü, 13 kişiyi yaraladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c30ee28a",
-    "title": "Ukrayna Cumhurbaşkanı Zelenskiy'den 'Patriot' alarmı: 'Durum daha kötü olamazdı'",
-    "source": "Euronews",
-    "time": "15/04/2026 21:25",
-    "link": "http://tr.euronews.com/my-europe/2026/04/15/ukrayna-cumhurbaskani-zelenskiyden-patriot-alarmi-durum-daha-kotu-olamazdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya ziyareti sırasında Ukrayna’nın Patriot füzelerinde kritik bir kıtlıkla karşı karşıya olduğunu belirten Zelenskiy, durumun son noktaya geldiğini itiraf etti. ABD Başkan Yardımcısı JD Vance ise Ukrayna'ya yardımları kesmeyi, Trump yönetiminin 'en büyük' başarılarından biri olarak nitelendirdi.",
     "image": null,
     "keyword": null
   }
