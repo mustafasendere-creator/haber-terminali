@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f8f68565",
+    "title": "İstanbul'da teknede 200 kilo uyuşturucu ele geçirilmesine ilişkin 5 tutuklama",
+    "source": "TRT Haber",
+    "time": "15/04/2026 09:26",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-teknede-200-kilo-uyusturucu-ele-gecirilmesine-iliskin-5-tutuklama-941692.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul açıklarında Karadeniz'de bir teknede 200 kilogram uyuşturucu ele geçirilmesine ilişkin 5 şüpheli tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_86823af9",
     "title": "Siverek'te okul saldırısı: 4 yönetici görevden alındı",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ankara Cumhuriyet Başsavcılığı’nın yürüttüğü terör soruşturması kapsamında, ByLock kullandıkları belirlenen 6 şüpheli hakkında gözaltı kararı verildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/69df272d5acbf956jpg.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_9f611a97",
-    "title": "Anahtar Deliği 15.04.2026- Maçka’da çalışmalar ağır aksak yürüyor!",
-    "source": "Haber61",
-    "time": "15/04/2026 09:04",
-    "link": "https://www.haber61.net/anahtar-deligi/mackada-calismalar-agir-aksak-yuruyor-h629611.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Maçka’da altyapı çalışmaları çamur ve mağduriyet yaratıyor. Reşadiye Viyadüğü tartışması sürüyor. Ahmet Kaya 2 yıllık icraatlarını açıklayacak. Trabzonspor ise uygun biletlerle tribünleri doldurmayı hedefliyor.",
-    "image": "https://resim.haber61.net/news/612741.jpg",
     "keyword": null
   }
 ]
