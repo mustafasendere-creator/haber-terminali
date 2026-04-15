@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c7dcf7a",
+    "title": "Taksim Metro İstasyonu'nda yangın paniği",
+    "source": "Ekonomim",
+    "time": "15/04/2026 09:27",
+    "link": "https://www.ekonomim.com/gundem/taksim-metro-istasyonunda-yangin-panigi-haberi-888173",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Taksim Metro İstasyonu’ndaki asansörde çıkan yangın kısa süreli paniğe neden oldu. Cumhuriyet Tüneli çıkışı geçici olarak kapatıldı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/taksim-metro-istasyonunda-yangin-panigi-jyms_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8adf500b",
     "title": "12. Yargı Paketi maddeleri",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Şanlıurfa’da bir lisede meydana gelen saldırıya tepki gösteren eğitim sendikaları, 15 Nisan’da Türkiye genelinde iş bırakarak şiddete karşı yürüyüş düzenleyecek.",
     "image": "https://resim.haber61.net/news/612740.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_9f611a97",
-    "title": "Anahtar Deliği 15.04.2026- Maçka’da çalışmalar ağır aksak yürüyor!",
-    "source": "Haber61",
-    "time": "15/04/2026 09:05",
-    "link": "https://www.haber61.net/anahtar-deligi/mackada-calismalar-agir-aksak-yuruyor-h629611.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Maçka’da altyapı çalışmaları çamur ve mağduriyet yaratıyor. Reşadiye Viyadüğü tartışması sürüyor. Ahmet Kaya 2 yıllık icraatlarını açıklayacak. Trabzonspor ise uygun biletlerle tribünleri doldurmayı hedefliyor.",
-    "image": "https://resim.haber61.net/news/612741.jpg",
     "keyword": "trabzon"
   }
 ]
