@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8e3ed304",
+    "title": "ABD’den Orta Doğu’ya dev askeri sevkıyat: 10 bin asker yolda",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 14:47",
+    "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-orta-dogu-ya-dev-askeri-sevkiyat-10-bin-asker-yolda-2495382",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD’nin Orta Doğu’ya askeri sevkıyatını artırdığı bildirildi. Amerikan basınına göre, bu ay içinde 10 binden fazla ABD askeri bölgeye ulaşacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/fd3e102b-9c22-45b4-9bba-4835b4ff16e4.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_33ddc221",
     "title": "Trabzon’da Eğitim Sendikaları Arasında \"Atatürk Alanı\" Çatlağı!",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İngiliz oyuncu Jason Statham, Antalya'nın Serik ilçesinde yaptığı tatile ilişkin fotoğrafları sanal medya hesabından paylaştı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/ingiliz-oyuncu-jason-statham-antalyada-tatil-yapiyor-yukw.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e79c7a2b",
-    "title": "KahramanmaraÅŸ'ta okulda silahlÄ± saldÄ±rÄ±",
-    "source": "TRT Haber",
-    "time": "15/04/2026 14:26",
-    "link": "https://www.trthaber.com/haber/gundem/kahramanmarasta-okulda-silahli-saldiri-941745.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "KahramanmaraÅŸ Valisi MÃ¼kerrem ÃœnlÃ¼er, kentteki bir okulda silahlÄ± saldÄ±rÄ± olduÄŸunu ve yaralÄ±larÄ±n bulunduÄŸunu bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
