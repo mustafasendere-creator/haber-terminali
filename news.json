@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_30a80ef2",
+    "title": "COP31 Başkanı Kurum, BM ve taraf ülkelere ilk mektubunu gönderdi",
+    "source": "TRT Haber",
+    "time": "15/04/2026 16:26",
+    "link": "https://www.trthaber.com/haber/gundem/cop31-baskani-kurum-bm-ve-taraf-ulkelere-ilk-mektubunu-gonderdi-941769.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 Başkanı olarak Birleşmiş Milletler BM Genel Sekreterliği ve BM İklim Değişikliği Çerçeve Sözleşmesi'ne BMİDÇS taraf ülkelere ilk mektubunu gönderdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9f284f8f",
     "title": "İzmir Körfezi'nde yosun tabakası oluştu",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "EMEP Milletvekili Sevda Karaca, kadın ve çocuk ölümlerine ilişkin yaptığı açıklamada iktidarı eleştirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/335856.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d4a3f880",
-    "title": "Anket: Almanya’da aşırı sağcı AfD birinci parti",
-    "source": "Evrensel",
-    "time": "15/04/2026 15:46",
-    "link": "https://www.evrensel.net/haber/5979772/anket-almanyada-asiri-sagci-afd-birinci-parti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "YouGov anketine göre Almanya’da aşırı sağcı AfD yüzde 27 ile ilk sıraya yükselirken, koalisyon ortakları CDU/CSU ve SPD oy kaybetti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/287659.jpg",
     "keyword": null
   }
 ]
