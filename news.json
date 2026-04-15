@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_02bb34de",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect eastbound delays on Route C31 at M...",
+    "source": "Bluesky",
+    "time": "15/04/2026 23:47",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjkme74gnj2i",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert: Expect eastbound delays on Route C31 at M St SE & New Jersey Ave due to a bus with a mechanical problem. Check your bus location by visiting metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "SOC_28929588",
     "title": "@metrobusinfo.bsky.social: C31 Service Alert Update: Buses are operating on or near sch...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "UEFA Şampiyonlar Ligi çeyrek final rövanş maçında Real Madrid, 1. dakikada Arda ile golü buldu. Bayern Mühih 6. dakikada golle karşılık verdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343185.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_db5e1a96",
-    "title": "CHP'li Şevkin: İstifa etmesi gereken, tarihin en başarısız Milli Eğitim Bakanı neyle uğraşıyor?",
-    "source": "BirGün",
-    "time": "15/04/2026 22:45",
-    "link": "https://www.birgun.net/haber/chp-li-sevkin-istifa-etmesi-gereken-tarihin-en-basarisiz-milli-egitim-bakani-neyle-ugrasiyor-706070",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Adana Milletvekili Müzeyyen Şevkin, Kahramanmaraş'taki ortaokulda yaşanan saldırıya ilişkin, \"İki gündür Türkiye'de infial yaratan olaylarla karşı karşıyayız. Ülke dün Urfa'da, bugün Maraş'ta gencecik çocukların yaralandığı ve öldüğü silahlı saldırılarla sarsılıyor. Bu durumda istifa etmesi gereken, tarihin en başarısız Millî Eğitim Bakanı neyle uğraşıyor?\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/chp-li-sevkin-istifa-etmesi-gereken-tarihin-en-basarisiz-milli-egitim-bakani-neyle-ugrasiyor.jpg",
     "keyword": null
   }
 ]
