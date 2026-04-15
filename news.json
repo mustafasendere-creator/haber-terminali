@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e5213605",
+    "title": "Amerikan donanmasından İran kıyılarına gecikmeli sefer",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 16:26",
+    "link": "https://www.cumhuriyet.com.tr/dunya/amerikan-donanmasindan-iran-kiyilarina-gecikmeli-sefer-2495420",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Donanması, İran’a yönelik abluka sürecinde klasik Süveyş rotasını terk ederek Ümit Burnu üzerinden ilerlemeyi tercih etti; bu karar uçak gemisi grubunun yolunu yaklaşık 4 bin deniz mili uzatırken intikal süresine ortalama 10–12 gün ekledi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/92432f64-d094-497f-853b-d0a510488fca.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8edac7ec",
     "title": "Özgür Özel'den saldırılar üzerine açıklama: 'Okullardaki şiddet artık münferit olaylarla açıklanamaz'",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, sosyal medyada yaptığı paylaşımda, \"Çin, Hürmüz Boğazı'nı kalıcı şekilde açmamdan çok memnun.\" ifadesini kullandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f7874719",
-    "title": "Ticaret Bakanlığı 21,8 milyar liralık kaçakçılığı engelledi",
-    "source": "TRT Haber",
-    "time": "15/04/2026 15:46",
-    "link": "https://www.trthaber.com/haber/ekonomi/ticaret-bakanligi-218-milyar-liralik-kacakciligi-engelledi-941763.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ticaret Bakanlığına bağlı Gümrük Muhafaza ekipleri, yılın ilk çeyreğinde gerçekleştirdiği operasyonlarda toplam 21,8 milyar lira değerinde kaçak eşyaya el koydu.",
     "image": null,
     "keyword": null
   }
