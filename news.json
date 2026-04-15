@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e807586a",
+    "title": "ABD ham petrol stokları geriledi",
+    "source": "Ekonomim",
+    "time": "15/04/2026 18:26",
+    "link": "https://www.ekonomim.com/ekonomi/abd-ham-petrol-stoklari-geriledi-haberi-888326",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD&#039;nin ticari ham petrol stokları, geçen hafta piyasa beklentilerinin aksine yaklaşık 900 bin varil azalış kaydederek 463 milyon 800 bin varil seviyesine geriledi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/abd-ile-iran-arasinda-gorusme-sinyali-petrol-fiyatini-dusurdu-100-dolarin-altina-indi-zrzo_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ad8eec87",
     "title": "Kurtulmuş, Avrupa Konseyi Parlamenter Meclisi Başkanı Bayr ile bir araya",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "“Laikliği Birlikte Savunuyoruz” metnine imza atan aydınlar, açılan soruşturma kapsamında savcılıkta ifade vermeye devam ediyor. Soruşturma kapsamında avukat Selin Nakıpoğlu bugün Şişli İlçe Emniyet Müdürlüğü'ne giderek ifade verdi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/laiklik-savunucularinin-ifade-islemleri-suruyor-laiklige-ve-gelecegimize-birlikte-sahip-cikmaliyiz.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6fc02e7c",
-    "title": "UEFA Avrupa Ligi çeyrek final maçları hangi gün, saat kaçta ve hangi kanalda?",
-    "source": "BirGün",
-    "time": "15/04/2026 17:45",
-    "link": "https://www.birgun.net/haber/uefa-avrupa-ligi-ceyrek-final-maclari-hangi-gun-saat-kacta-ve-hangi-kanalda-706047",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Avrupa Ligi çeyrek final maçları bugün saat kaçta başlayacak? Celta Vigo - Freiburg karşılaşması hangi saatte oynanacak? Avrupa Ligi çeyrek final mücadeleleri hangi platformdan yayınlanacak? Maçların gün, saat ve kanal bilgileri haberimizde.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/uefa-avrupa-ligi-ceyrek-final-maclari-hangi-gun-saat-kacta-ve-hangi-kanalda.jpg",
     "keyword": null
   }
 ]
