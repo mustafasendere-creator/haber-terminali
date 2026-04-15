@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a441ddde",
+    "title": "MEB'e yürüyen öğretmenlere polis barikatı: Okullardaki şiddete isyan eden eğitim emekçileri iş bıraktı",
+    "source": "Evrensel",
+    "time": "16/04/2026 02:05",
+    "link": "https://www.evrensel.net/haber/5979744/meb-e-yuruyen-ogretmenlere-polis-barikati-okullardaki-siddete-isyan-eden-egitim-emekcileri-is-birakti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Urfa Siverek’te okula yönelik saldırıya isyan eden eğitim emekçiler, iş bırakarak il ve ilçe milli eğitim müdürlüklerine yürüdü. Ankara ve bazı illerde polis barikatı ile karşılaşan emekçiler Bakan Yusuf Tekin'i istifaya çağırdı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343100.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9bebb834",
     "title": "ABD’nin İran’daki okul katliamı: Makan'dan geriye kalan mavi bir kazak oldu",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, antrenmanda sol uyluk ön üst kas grubunda ağrı ve sertlik hisseden Paul Onuachu’nun Alanyaspor maçı kadrosundan çıkarıldığını açıkladı.  x.com",
     "image": null,
     "keyword": "trabzon sol"
-  },
-  {
-    "id": "GND_033aa5d4",
-    "title": "Antalya'da korkutan yangın",
-    "source": "OdaTV",
-    "time": "16/04/2026 00:46",
-    "link": "https://www.odatv.com/guncel/antalyada-korkutan-yangin-120143482",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya&#039;nın Kepez ilçesinde bir apartmanın teras katında çıkan yangın paniğe neden oldu. Yangın nedeniyle dairede büyük çapta hasar meydana gelirken, dumandan etkilenen 2 kişi kontrol amacıyla hastaneye götürüldü.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/antalyada-korkutan-yangin-e4cu.jpg",
-    "keyword": null
   }
 ]
