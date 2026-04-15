@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d176e022",
+    "title": "Bayern Münih – Real Madrid: 3-3: Almanya'da gol yağmuru",
+    "source": "Evrensel",
+    "time": "16/04/2026 00:05",
+    "link": "https://www.evrensel.net/haber/5979810/bayern-munih-real-madrid-3-3-almanya-da-gol-yagmuru",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "UEFA Şampiyonlar Ligi çeyrek final rövanş maçında Real Madrid, 1. dakikada Arda ile golü buldu. İlk yarıda atılan gol sayısı 5'i buldu. 3-3'lük beraberlikte Bayern Münih avantajlı durumda.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343185.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a2301f8d",
     "title": "Sivas’ta okul saldırısı paylaşımı yapan öğrenci gözaltına alındı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Şanlıurfa Siverek de, #siverek Ahmet Koyuncu Mesleki ve Teknik Anadolu Lisesi'nde eski öğrenci (2007 doğumlu Ö.K.) pompalı tüfekle rastgele ateş açtı.16 yaralı var(10 öğrenci,4 öğretmen,1 polis, 1 kantin çalışanı).Saldırgan polis tarafından sıkıştırıldıktan son  x.com",
     "image": null,
     "keyword": "polis intihar"
-  },
-  {
-    "id": "GND_bc58c9f3",
-    "title": "Velilere tehdit mesajına tutuklama",
-    "source": "OdaTV",
-    "time": "15/04/2026 22:46",
-    "link": "https://www.odatv.com/guncel/velilere-tehdit-mesajina-tutuklama-120143475",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Afyonkarahisar&#039;da bir ilkokulun öğretmen ve velilerinden oluşan Whatsapp grubuna tehdit içerikli mesaj gönderen şahıs tutuklanarak cezaevine gönderildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/15/velilere-tehdit-mesajina-tutuklama-37lj.jpg",
-    "keyword": null
   }
 ]
