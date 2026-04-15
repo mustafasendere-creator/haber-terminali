@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3aac123a",
+    "title": "Bayraklı Belediyesinde TİS düğümü: Emekçiler yasal sınır dayatmasını kabul etmiyor",
+    "source": "Evrensel",
+    "time": "15/04/2026 13:45",
+    "link": "https://www.evrensel.net/haber/5979740/bayrakli-belediyesinde-tis-dugumu-emekciler-yasal-sinir-dayatmasini-kabul-etmiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bayraklı Belediyesi emekçileri, belediye yönetiminin toplu iş sözleşmesinde yasal sınır dayatmasına ve kazanılmış hakların geriye götürülmesine karşı başlattıkları eylemi üçüncü gününde sürdürdü.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343093.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_db70c262",
     "title": "Eski Trabzonsporlunun yaşı 34 ama ne şiirden ne şairden haberi var!",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son yıllarda ikinci el otomobil fiyatları sıfır araçlara yaklaşırken Nisan ayında fiyat listesine yapılan indirim dikkat çekti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/sifir-otomobilde-bir-onceki-aya-gore-indirim-yapildi-bazi-modellerde-yuzde-19-indirim-inev_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_afd96363",
-    "title": "Euro Bölgesi sanayi üretimindeki sürpriz ivme ekonomik baharın müjdesi mi teknik bir yanılsama mı?",
-    "source": "Ekonomim",
-    "time": "15/04/2026 13:07",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/euro-bolgesi-sanayi-uretimindeki-surpriz-ivme-ekonomik-baharin-mujdesi-mi-teknik-bir-yanilsama-mi-haberi-888255",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küresel piyasaların resesyon beklentisini geçersiz kılarak şubat ayında yüzde 0,4’lük bir büyüme kaydeden Euro Bölgesi sanayi üretimi, Avrupa ekonomisinin derin bir kıştan çıkış sinyali mi verdiği yoksa istatistiksel bir yanılsama mı yaşandığı sorusunu ekonomi koridorlarının merkezine taşıyor.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/euro-bolgesi-sanayi-uretimindeki-surpriz-ivme-ekonomik-baharin-mujdesi-mi-teknik-bir-yanilsama-mi-fmw3_cover.gif",
     "keyword": null
   }
 ]
