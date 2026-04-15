@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4b4b27d",
+    "title": "Rusya'nın hava saldırıları Slovyansk ve Sumy'yi vurdu, Ukrayna kentleri baskı altında",
+    "source": "Euronews",
+    "time": "15/04/2026 16:45",
+    "link": "http://tr.euronews.com/video/2026/04/15/rusyanin-hava-saldirilari-slovyansk-ve-sumyyi-vurdu-ukrayna-kentleri-baski-altinda",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya, Slovyansk’a FAB-1500 bombasıyla saldırarak sivil binaları yerle bir ediyor; Sümi sanayi bölgesinde tekrarlanan İHA saldırıları büyük yangınlar çıkarıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_91ccec91",
     "title": "Jamie Dornan'ın Aragorn seçimi: yeni Yüzüklerin Efendisi filmine karışık tepkiler aldı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Saadet Partisi Trabzon İl Başkanlığı, yapımı ve yıkımı tartışma konusu olan Reşadiye Kavşağı projesinde kamu zararına yol açıldığı gerekçesiyle sorumlular hakkında suç duyurusunda bulundu.",
     "image": "https://resim.haber61.net/news/612841.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_fe83f58f",
-    "title": "GençLig Trabzon ayağı başladı! Gençler sahada buluştu",
-    "source": "Haber61",
-    "time": "15/04/2026 16:05",
-    "link": "https://www.haber61.net/trabzon/genclig-trabzon-ayagi-basladi-gencler-sahada-bulustu-h629668.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "TÜGVA’nın 81 ilde düzenlediği GençLig Liseler Arası Futbol Turnuvası Trabzon’da başladı. Turnuvanın Türkiye finalinin de Haziran ayında Trabzon’da yapılacağı açıklandı.",
-    "image": "https://resim.haber61.net/news/612843.jpg",
     "keyword": "trabzon"
   }
 ]
