@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c7c260e8",
+    "title": "Anket: Almanya’da aşırı sağcı AfD birinci parti",
+    "source": "Evrensel",
+    "time": "15/04/2026 20:45",
+    "link": "https://www.evrensel.net/haber/5979772/anket-almanya-da-asiri-sagci-afd-birinci-parti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "YouGov anketine göre Almanya’da aşırı sağcı AfD yüzde 27 ile ilk sıraya yükselirken, koalisyon ortakları CDU/CSU ve SPD oy kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/243895.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3010e7fc",
     "title": "Sahalarda görülmemiş sahne: Golden sonra hakemi alnından öptü",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye’de yüksek enflasyon sadece fiyatları değil, cüzdanımızdaki nakit dengesini de altüst etti. Dolaşımdaki her 100 banknottan 60’ı artık en büyük kupür olan 200 TL’den oluşuyor. Bir zamanların &#8220;değerli&#8221; parası 100 TL’nin payı %12,9’a çakılırken, 50 TL ise adeta hayalet paraya dönüştü. 2009 yılında 129 dolar eden 200 TL, bugün 5 dolar bile etmiyor. Ekonomideki nakit [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69df71258f4632.03224970.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_78287481",
-    "title": "Arsenal - Sporting Lizbon maçı ne zaman, saat kaçta, hangi kanalda? Muhtemel ilk 11'ler",
-    "source": "BirGün",
-    "time": "15/04/2026 20:05",
-    "link": "https://www.birgun.net/haber/arsenal-sporting-lizbon-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-ilk-11-ler-706017",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şampiyonlar Ligi'nde çeyrek finalde Arsenal ile Sporting Lizbon karşılaşıyor. Maçın gün, saat ve kanal bilgisi ile muhtemel 11'ler haberimizde.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/arsenal-sporting-lizbon-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-ilk-11-ler.jpg",
     "keyword": null
   }
 ]
