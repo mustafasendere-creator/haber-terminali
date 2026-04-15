@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ffcf2d83",
+    "title": "Meteoroloji açıkladı: 15 Nisan 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 08:27",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-15-nisan-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2495287",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 15 Nisan Çarşamba gününe ilişkin hava durumu raporunu yayımladı. Rapora göre; yurdun batı kesimlerinde toz taşınımı görüleceği tahmin ediliyor. Doğu Karadeniz’in iç kesimlerinin yüksekleri ile Doğu Anadolu’nun doğusunun yüksek kar örtüsüne sahip eğimli kesimlerinde ise, çığ tehlikesine karşı uyarılarda bulunuldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/09ee36e9-3a0d-4788-b913-8b7702cd5098.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_84307d72",
     "title": "Gülistan Doku soruşturmasında sıcak gelişme! Erkek arkadaşının mesajları ortaya çıktı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Kimyevi Maddeler ve Mamulleri İhracatçıları Birliği (İKMİB) Yönetim Kurulu Başkanlığına Vefa İbrahim Aracı seçildi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/14/ikmibde-yeni-donem-vefa-ibrahim-araci-baskan-secildi-mi83_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bb2d8c47",
-    "title": "OpenAI'ın şirket içindeki yazışmaları sızdırıldı",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 22:45",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/openai-in-sirket-icindeki-yazismalari-sizdirildi-2495231",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ChatGPT'nin geliştirici şirketi OpenAI'dan üst düzey yönetici Denise Dresser'ın çalışanlara gönderdiği yazışma sızdırıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f57dccba-347f-40a8-a426-d2da28cea0e2.jpg",
     "keyword": null
   }
 ]
