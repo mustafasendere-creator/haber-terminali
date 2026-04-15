@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e42f897",
+    "title": "Bu kez Kahramanmaraş: Okulda silah sesleri",
+    "source": "OdaTV",
+    "time": "15/04/2026 14:07",
+    "link": "https://www.odatv.com/guncel/bu-kez-kahramanmaras-okulda-silah-sesleri-120143425",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş&#039;ta Ayser Çalık Ortaokulu&#039;na tabancayla silahlı saldırı yapıldığı ifade edildi. Olay yerine ambulanslar sevk edildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/15/bu-kez-kahramanmaras-okulda-silah-sesleri-ueyd.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bb4e0d20",
     "title": "Öğretmenler iş bıraktı: Türkiye genelinde eş zamanlı eylem",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ünye Belediye Başkanı Hüseyin Tavlı, ilçede yapımı tamamlanan ve devam eden projeleri inceledi. Tavlı, ilçede faaliyet gösteren Organize Sanayi Bölgesi'ne (OSB) yaptığı ziyarette, yıllardır beklenen projede üretim safhasına geçilmesinin gururunu yaşadıklarını söyledi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/aa/unye-belediye-baskani-tavli-ilcedeki-yatirimlari-inceledi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a30a8706",
-    "title": "Hatay'da baraj sızıntısı: Tarım arazileri su altında kalma riskiyle karşı karşıya",
-    "source": "BirGün",
-    "time": "15/04/2026 13:45",
-    "link": "https://www.birgun.net/haber/hatay-da-baraj-sizintisi-tarim-arazileri-su-altinda-kalma-riskiyle-karsi-karsiya-705989",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kumlu’da Reyhanlı Barajı’ndan sızan sular tarım arazilerini ve evleri tehdit ediyor. Mahalle sakinleri ve çiftçiler mağduriyetin büyüdüğünü belirtirken,  CHP Hatay Milletvekili Servet Mullaoğlu acil çözüm çağrısı yaptı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/hatay-da-baraj-sizintisi-tarim-arazileri-su-altinda-kalma-riskiyle-karsi-karsiya.jpg",
     "keyword": null
   }
 ]
