@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_28929588",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert Update: Buses are operating on or near sch...",
+    "source": "Bluesky",
+    "time": "15/04/2026 23:47",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjkpqlyxm62u",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert Update: Buses are operating on or near schedule following an earlier mechanical problem. Track your bus in real-time by visiting metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "SOC_5dda3da4",
     "title": "VAWAAPPLICANTS",
     "source": "Reddit",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Adana Milletvekili Müzeyyen Şevkin, Kahramanmaraş'taki ortaokulda yaşanan saldırıya ilişkin, \"İki gündür Türkiye'de infial yaratan olaylarla karşı karşıyayız. Ülke dün Urfa'da, bugün Maraş'ta gencecik çocukların yaralandığı ve öldüğü silahlı saldırılarla sarsılıyor. Bu durumda istifa etmesi gereken, tarihin en başarısız Millî Eğitim Bakanı neyle uğraşıyor?\" dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/chp-li-sevkin-istifa-etmesi-gereken-tarihin-en-basarisiz-milli-egitim-bakani-neyle-ugrasiyor.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e39ddbfd",
-    "title": "Milli Eğitim Bakanı Tekin'den okullara saldırı açıklaması",
-    "source": "BirGün",
-    "time": "15/04/2026 22:45",
-    "link": "https://www.birgun.net/haber/milli-egitim-bakani-tekin-den-okullara-saldiri-aciklamasi-706071",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tekin \"Eğitim kurumlarımızda benzeri hadiselerin yaşanmaması için İçişleri, Adalet ile Aile ve Sosyal Hizmetler Bakanlıklarımız ile mevcut güvenlik önlemlerimizi güncelleyerek tüm dijital ve fiziki tehditleri kapsayan bütüncül bir güvenlik yaklaşımını hayata geçirmek üzere gerekli adımları kararlılıkla atıyoruz\" ifadelerini kullandı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/milli-egitim-bakani-tekin-den-okullara-saldiri-aciklamasi.jpg",
     "keyword": null
   }
 ]
