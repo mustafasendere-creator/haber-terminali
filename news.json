@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8b31e4aa",
+    "title": "AP: ABD ve İran ateşkesin uzatılması için prensipte anlaştı",
+    "source": "Evrensel",
+    "time": "15/04/2026 14:46",
+    "link": "https://www.evrensel.net/haber/5979760/ap-abd-ve-iran-ateskesin-uzatilmasi-icin-prensipte-anlasti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AP'nin haberine göre, ABD ve İran önümüzdeki hafta süresi dolacak olan ateşkesi uzatmak için \"prensipte anlaşma\" sağladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343123.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_14762107",
     "title": "Of'ta Kur'an-ı Kerim'i güzel okuma yarışması düzenlendi",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kahramanmaraş’ta bir ortaokulda silah sesleri duyuldu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/y-15.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_11b7f800",
-    "title": "Trump \"İran'da yeni rejimin eskisine kıyasla daha makul olduğunu ve çok iyi gittiklerini\" savundu",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 14:24",
-    "link": "https://www.aa.com.tr/tr/dunya/trump-iranda-yeni-rejimin-eskisine-kiyasla-daha-makul-oldugunu-ve-cok-iyi-gittiklerini-savundu/3906446",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran'da yeni bir \"rejimin kurulduğunu\" savunarak, \"Karşılaştırınca oldukça makul olduklarını düşünüyoruz. Gerçekten yeni bir rejim ve bence çok iyi gidiyoruz.\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
