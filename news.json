@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ec002088",
+    "title": "Tahliye edilen Başaran Aksu, madencilerle Ankara yolunda",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 22:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/tahliye-edilen-basaran-aksu-madencilerle-ankara-yolunda-2495500",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tahliyesinin ardından Doruk Madencilik işçilerinin Ankara yürüyüşüne katılan Başaran Aksu için Bağımsız Maden-İş, “Baskılar ekmek kavgasını durduramaz” açıklaması yaptı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8afd3f90-3f06-4b88-ba18-aba2258f0a2f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d296d4b7",
     "title": "İzmir’de kadınlardan Gülistan Doku çağrısı: ‘Ucu nereye giderse gitsin bu dosya sonuna kadar aydınlatılmalı’",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Erdoğan, Kanada Başbakanı Mark Carney ile bir telefon görüşmesi gerçekleştirdi. Görüşmede, Türkiye ile Kanada arasındaki ikili ilişkilerin yanı sıra bölgesel ve küresel gelişmeler ele alındı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/cumhurbaskani-erdogan-kanada-basbakani-carney-ile-gorustu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_aab66bc7",
-    "title": "Türk Telekom, sahasında Safiport Erokspor'u 93-84 yendi",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 21:44",
-    "link": "https://www.aa.com.tr/tr/spor/turk-telekom-sahasinda-safiport-eroksporu-93-84-yendi/3907074",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 25. haftasından ertelenen maçta Türk Telekom, sahasında Safiport Erokspor'u 93-84 yendi.",
-    "image": null,
     "keyword": null
   }
 ]
