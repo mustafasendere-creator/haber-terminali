@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_63a516c2",
+    "title": "100 Euro'luk çekilişten 1 milyon Euro'luk Picasso tablosu kazandı",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 13:06",
+    "link": "https://www.cumhuriyet.com.tr/yasam/100-euro-luk-cekilisten-1-milyon-euro-luk-picasso-tablosu-kazandi-2495366",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir hayır kurumu tarafından düzenlenen çekilişe 100 Euro ödeyerek katılan bir kişi, değeri 1 milyon Euro'nun üzerinde olan orijinal bir Pablo Picasso tablosunun sahibi oldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/086eb109-5954-4803-a4f8-b21b69ccfb78.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b032213d",
     "title": "Yeraltı dizinin oyuncusu Sefa Zengin AKP Grup Toplantısı'na katıldı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Çarşıbaşı Belediyespor, Trabzon İl Hakem Kurulu’nu sert ifadelerle istifaya çağırdı. Kulüp, oynadıkları maçlarda hakem kararlarının sonuçlara doğrudan etki ettiğini savundu.",
     "image": "https://resim.haber61.net/news/612796.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_a45503e3",
-    "title": "Trabzon Valisi Tahir Şahin’den Turizm Haftası mesajı",
-    "source": "Haber61",
-    "time": "15/04/2026 12:45",
-    "link": "https://www.haber61.net/trabzon/trabzon-valisi-tahir-sahinden-turizm-haftasi-mesaji-h629642.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Valisi Tahir Şahin, 15-22 Nisan Turizm Haftası dolayısıyla yayımladığı mesajda, kentin turizmdeki yükselişine dikkat çekti.",
-    "image": "https://resim.haber61.net/news/612797.jpg",
     "keyword": "trabzon"
   }
 ]
