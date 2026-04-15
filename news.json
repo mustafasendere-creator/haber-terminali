@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_87114058",
+    "title": "Norveç'in ham petrol ihracatı martta İran savaşının etkisiyle %68 arttı",
+    "source": "Euronews",
+    "time": "15/04/2026 16:46",
+    "link": "http://tr.euronews.com/business/2026/04/15/norvecin-ham-petrol-ihracati-martta-iran-savasinin-etkisiyle-68-artti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran savaşı ve Hürmüz Boğazı'nın kapanmasının fiyatları yükseltmesiyle, Norveç'in petrol ihracatı martta sıçradı, gelirler çok yıllık zirveye çıktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c4b4b27d",
     "title": "Rusya'nın hava saldırıları Slovyansk ve Sumy'yi vurdu, Ukrayna kentleri baskı altında",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’un Arsin ilçesinde kamyonetiyle 100 metrelik uçuruma yuvarlanan şahıs hayatını kaybetti.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/gfds-91.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_53799b70",
-    "title": "Reşadiye Kavşağı için suç duyurusu! Saadet Partisi’nden sert çıkış",
-    "source": "Haber61",
-    "time": "15/04/2026 16:05",
-    "link": "https://www.haber61.net/trabzon/resadiye-kavsagi-icin-suc-duyurusu-saadet-partisinden-sert-cikis-h629667.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Saadet Partisi Trabzon İl Başkanlığı, yapımı ve yıkımı tartışma konusu olan Reşadiye Kavşağı projesinde kamu zararına yol açıldığı gerekçesiyle sorumlular hakkında suç duyurusunda bulundu.",
-    "image": "https://resim.haber61.net/news/612841.jpg",
     "keyword": "trabzon"
   }
 ]
