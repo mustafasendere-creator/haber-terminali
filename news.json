@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_34e1a4ae",
+    "title": "Antalya'da yangın: Bir ev kullanılamaz hale geldi",
+    "source": "BirGün",
+    "time": "15/04/2026 18:25",
+    "link": "https://www.birgun.net/haber/antalya-da-yangin-bir-ev-kullanilamaz-hale-geldi-706046",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'da yangın çıkan müstakil ev kullanılamaz hale geldi. Yangın sırasında evde bulunan 2 çocuğun sağlık durumunun iyi olduğu öğrenildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/antalya-da-yangin-bir-ev-kullanilamaz-hale-geldi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eb49eabf",
     "title": "Okul saldırıları: Bahçeli'den dikkat çeken açıklama",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Birleşik Emekliler Sendikası üyeleri, artan yaşam maliyetleri ve enerji fiyatlarına gelen güncellemelerin ardından emekli maaşlarının yetersiz kaldığını belirterek İzmir’de bir araya geldi. Tepecik Eğitim ve Araştırma Hastanesi önünde yapılan basın açıklamasında, Nisan ayı itibarıyla alım gücünün düştüğü vurgulanarak Mayıs ayı için ara zam talebi dile getirildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c49b2d7d-f5c7-4071-b4d6-d85965ecdc12.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d72aa790",
-    "title": "Tane tane lezzet: Tam kıvamında irmik helvası tarifi",
-    "source": "Cumhuriyet",
-    "time": "15/04/2026 17:26",
-    "link": "https://www.cumhuriyet.com.tr/gurme/tane-tane-lezzet-tam-kivaminda-irmik-helvasi-tarifi-2495438",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kavrulmuş irmiğin mis gibi kokusu ve tam kıvamında şerbetiyle irmik helvası, geleneksel sofraların vazgeçilmez tatlılarından biri.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/cd506637-c347-4d37-b750-ddc45bc34d18.jpg",
     "keyword": null
   }
 ]
