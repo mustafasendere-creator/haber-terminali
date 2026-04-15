@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_18b6f166",
+    "title": "Almanya'da akaryakıta indirim: Yeni zamlar kapıda",
+    "source": "DW Türkçe",
+    "time": "15/04/2026 08:26",
+    "link": "https://www.dw.com/tr/almanya-da-akaryakıta-indirim-yeni-zamlar-kapıda/a-76777493",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman hükümetinin akaryakıta indirim planına ekonomistlerden eleştiriler var. Almanya'da enerji pahalılığını dizginlemek kolay görünmüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5cdc0757",
     "title": "Motorine bugün zam yarın indirim: Güncel akaryakıt fiyatları",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Süper Lig'in 30. haftasında kendi sahasında Başakşehir'i konuk edecek Trabzonspor'da maç biletlerine düzenleme yapıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5a2c199f-8c34-415d-a205-0709f7c1e102.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_378f7f38",
-    "title": "İzmir'de bildiri dağıtan öğrencilere pala ve bıçaklı saldırı",
-    "source": "Evrensel",
-    "time": "14/04/2026 22:45",
-    "link": "https://www.evrensel.net/haber/5979663/izmir-de-bildiri-dagitan-ogrencilere-pala-ve-bicakli-saldiri",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ege Üniversitesinde stant açıp bildiri dağıtan Öğrenci Sendikası üyeleri, kendilerini Ülkü Ocakları mensubu olarak tanıtan bir grubun palalı saldırısına uğradı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343037.jpg",
-    "keyword": null
   }
 ]
