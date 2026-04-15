@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_62dea1de",
+    "title": "Sivas’ta okul saldırısı paylaşımı yapan öğrenci gözaltına alındı",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 22:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/sivas-ta-okul-saldirisi-paylasimi-yapan-ogrenci-gozaltina-alindi-2495513",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş’taki okul saldırısının ardından sosyal medyada Sivas’ta da okullara yönelik saldırı yapılacağına dair paylaşımlar üzerine Sivas Valiliği açıklama yaptı. Valilik, söz konusu paylaşımları yaptığı tespit edilen bir öğrencinin gözaltına alındığını duyurdu",
+    "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2f1e5b94",
     "title": "İstanbul Valisi Davut Gül'den panik yaratan paylaşımlara yönelik açıklama: Asla kabul edilemez",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da çekilen Taşacak Bu Deniz dizisi, yeni fragmanı paylaştıktan kısa süre sonra Kahramanmaraş’taki saldırı nedeniyle yayından kaldırdı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/2-kopyasi-kopya-437.webp",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_f6a9ef7e",
-    "title": "Basın İlan Kurumu Trabzon’da uygulamalı mevzuat eğitimi düzenledi",
-    "source": "Haber61",
-    "time": "15/04/2026 22:05",
-    "link": "https://www.haber61.net/trabzon/basin-ilan-kurumu-trabzonda-uygulamali-mevzuat-egitimi-duzenledi-h629692.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Basın İlan Kurumu tarafından düzenlenen Bölgesel Uygulamalı Mevzuat Eğitimleri'nin ikinci ayağı Trabzon’da gerçekleştirildi.",
-    "image": "https://resim.haber61.net/news/612892.jpg",
     "keyword": "trabzon"
   }
 ]
