@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cd73d0fe",
+    "title": "\"Hesap fazla geldi\" kurşunlaması",
+    "source": "Habertürk",
+    "time": "15/04/2026 21:46",
+    "link": "https://www.haberturk.com/hesap-fazla-geldi-diye-kursunladilar-ertesi-gun-ozur-dileyip-teslim-oldular-3877347",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun’da bir barda gelen 35 bin TL’lik hesabı fazla bulup 30 bin TL ödeyen 3 arkadaş, mekândan ayrıldıktan yaklaşık 2 saat sonra iş yerine silahla ateş açtı. Ertesi gün hesabın doğru olduğunu ve indirim yapıldığını fark eden şüpheliler iş yerine gidip özür diledikten sonra polise teslim oldu. Gözaltına alınan 3 şüpheli, çıkarıldıkları mahkemece tutuklanarak cezaevine gönderildi",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776174890/3877347/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2e1c804c",
     "title": "Türk Telekom'dan 6 maçlık galibiyet serisi!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk Silahlı Kuvvetlerinin (TSK) EFES-2026 Tatbikatı'nın Simülasyon Destekli Komuta Yeri (SDKY) Safhası, ilk defa yerli ve milli yazılım \"Bertuğ\" kullanılarak İstanbul'da gerçekleştirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1ae8d8d9",
-    "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 22. duruşması sona erdi",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 21:24",
-    "link": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-22-durusmasi-sona-erdi/3907078",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 92'si tutuklu, 5'i müşteki sanık olmak üzere 414 sanığın yargılandığı davanın 22. duruşması tamamlandı.",
     "image": null,
     "keyword": null
   }
