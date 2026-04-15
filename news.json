@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_18388750",
+    "title": "Odatv'nin haberleriyle gündem oldu: Arınç'tan Erdoğan'a 'Şırnak Üniversitesi' çağrısı",
+    "source": "OdaTV",
+    "time": "15/04/2026 17:08",
+    "link": "https://www.odatv.com/guncel/odatvnin-haberleriyle-gundem-oldu-bulent-arinctan-cumhurbaskani-erdogana-sirnak-universitesi-cagrisi-120143452",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eski TBMM Başkanı Bülent Arınç, Odatv&#039;nin Türkiye gündemine taşıdığı Şırnak Üniversitesi Rektörü Abdurrahim Alkış&#039;a, tepki gösterdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/15/odatvnin-haberleriyle-gundem-oldu-bulent-arinctan-cumhurbaskani-erdogana-cagri-sirnak-universitesi-cagrisi-osq8.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_bf213a2c",
     "title": "Şanlıurfa ve Kahramanmaraş konuşulurken... Mersin'de facianın eşiğinden dönüldü",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Milli Eğitim Bakanlığı MEB, Kahramanmaraş'ta bir okula yönelik silahlı saldırıya ilişkin 4 bakanlık başmüfettişinin olayı tüm yönleriyle incelemek üzere görevlendirildiğini bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5a846924",
-    "title": "İletişim Başkanlığı'ndan medya kuruluşlarına sorumluluk çağrısı",
-    "source": "TRT Haber",
-    "time": "15/04/2026 16:46",
-    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligindan-medya-kuruluslarina-sorumluluk-cagrisi-941771.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanlığı, son günlerde meydana gelen okul saldırılarına ilişkin bir açıklama yayımlayarak, sürecin sağduyuyla yönetilmesi ve medya kuruluşlarının azami sorumluluk bilinciyle hareket etmesi gerektiğini bildirdi.",
     "image": null,
     "keyword": null
   }
