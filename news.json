@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_acb759fa",
+    "title": "Son dakika… Şanlıurfa’daki okul saldırısında 16 gözaltı",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 02:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-sanliurfa-daki-okul-saldirisinda-16-gozalti-2495568",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Emniyet Genel Müdürlüğü, Siverek’te lisede gerçekleşen silahlı saldırıya ilişkin yürütülen soruşturma kapsamında 16 şüphelinin gözaltına alındığını açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/95d17eda-eed7-41ed-a5e5-1453ad0abaf0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fe17cf6b",
     "title": "Emniyet Genel Müdürlüğü: Şanlıurfa'daki saldırıya ilişkin 16 şüpheli gözaltına alındı",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İstanbul Cumhuriyet Başsavcılığı, Kahramanmaraş ve Şanlıurfa'da meydana gelen olaylara ilişkin kamuoyunda korku ve panik yaratmaya yönelik yapılan paylaşımlarla ilgili resen soruşturma başlatıldığını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_14569890",
-    "title": "Gaziantep'te okul isimleri vererek vatandaşları paniğe sevk eden 7 kişi hakkında işlem başlatıldı",
-    "source": "TRT Haber",
-    "time": "16/04/2026 01:25",
-    "link": "https://www.trthaber.com/haber/turkiye/gaziantepte-okul-isimleri-vererek-vatandaslari-panige-sevk-eden-7-kisi-hakkinda-islem-baslatildi-941813.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gaziantep Valisi Kemal Çeber, okul isimleri verilerek vatandaşları korku ve paniğe sevk etmeyi amaçlayan paylaşımların takip edildiğini belirterek, şu ana kadar 7 hesap ve bu hesaplarla bağlantılı 7 kişi hakkında tespit yapıldığını, adli makamlara sevk edildiğini ve adli sürecin başlatıldığını bildirdi.",
     "image": null,
     "keyword": null
   }
