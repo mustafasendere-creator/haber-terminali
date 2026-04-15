@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_66e56b2c",
+    "title": "İstanbul’da en kirli hava o ilçede",
+    "source": "Sözcü",
+    "time": "15/04/2026 09:26",
+    "link": "https://www.sozcu.com.tr/istanbul-da-en-kirli-hava-o-ilcede-p310358",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da en kirli hava o ilçede",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/ekran-goruntusu-20260415-090858png--tkfHr9Hl0KB7_thDvugkw.png",
+    "keyword": null
+  },
+  {
     "id": "GND_c044f385",
     "title": "TV yayın akışı 15 Nisan Çarşamba! Bugün hangi kanalda ne var? Günün filmleri ve dizileri neler?",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’un Maçka ilçesinde süren altyapı çalışmaları, yağışların etkisiyle çamur ve ulaşım sorununa dönüştü; vatandaş ve esnaf, çalışmaların hızlandırılmasını istiyor.",
     "image": "https://resim.haber61.net/news/612747.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_8f8e413b",
-    "title": "Reşadiye Viyadüğü’nün hesabı sorulmalı!",
-    "source": "Haber61",
-    "time": "15/04/2026 09:05",
-    "link": "https://www.haber61.net/trabzon/resadiye-viyadugunun-hesabi-sorulmali-h629616.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da tartışmalı Reşadiye Viyadüğü yeniden gündemde; Ahmet Metin Genç yıkım sürecini başlatmaya hazırlanırken, muhalefet kamu zararının sorumlularından hesap sorulmasını istiyor.",
-    "image": "https://resim.haber61.net/news/612750.jpg",
     "keyword": "trabzon"
   }
 ]
