@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_200a4218",
+    "title": "Fenerbahçe Opet'in EuroLeague yarı finalindeki rakibi belli oldu!",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 20:46",
+    "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-opet-in-euroleague-yari-finalindeki-rakibi-belli-oldu-2495486",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Spar Girona, Kadınlar EuroLeague çeyrek finalinde karşılaştığı Umana Reyer'i 70-64 mağlup ederek yarı finalde Fenerbahçe Opet'in rakibi oldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c6534044-d11a-4599-b61f-f953fdba8e62.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c1922b65",
     "title": "Cumhurbaşkanı Erdoğan Kanada Başbakanı Carney ile görüştü",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD'nin İran'la yürütülen müzakerelerden sonuç alınamaması ihtimaline karşın Orta Doğu'ya \"ilerleyen günlerde binlerce ek asker göndereceği\" iddia edildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/abdnin-orta-doguya-binlerce-ek-asker-gonderecegi-iddia-edildi-ioaj.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5a50cc7a",
-    "title": "Soykırımcı İsrail, Lübnan'da 2 sağlık görevlisini öldürdü",
-    "source": "TRT Haber",
-    "time": "15/04/2026 20:05",
-    "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-lubnanda-2-saglik-gorevlisini-oldurdu-941753.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Lübnan'ın güneyindeki Nebatiye vilayetinde düzenlediği saldırıda 2 sağlık görevlisi yaşamını yitirdi.",
-    "image": null,
     "keyword": null
   }
 ]
