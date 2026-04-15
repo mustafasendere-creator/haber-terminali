@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_85d305cf",
+    "title": "@kmmedya.bsky.social: Galatasaray, Fenerbahçe, Beşiktaş ve Trabzonspor, Kahramanma...",
+    "source": "Bluesky",
+    "time": "15/04/2026 18:45",
+    "link": "https://bsky.app/profile/kmmedya.bsky.social/post/3mjjxq2duhi2g",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Galatasaray, Fenerbahçe, Beşiktaş ve Trabzonspor, Kahramanmaraş'taki ortaokulda yaşanan silahlı saldırı hakkında ım yaptı.\n\n#Gündem #Haber #Türkiye\n📢 t.me/KRBRZ_MEDYA",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eoc4a3qw2komzmqklzi2cnz5/bafkreiftn24wjl4iksthruydragngasxn4u47alqwxadixiuzp5mvp2c5u",
+    "keyword": "trabzonspor"
+  },
+  {
     "id": "GND_eaa8a5e5",
     "title": "Mersin'de lise öğrencisi okulda silahla yakalandı",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ING, Türkiye için 2026 enflasyon beklentisini %27,5’e yükseltirken büyüme tahminini düşürdü. Revizyonda artan jeopolitik riskler ve belirsizlikler nedeniyle para politikasında temkinli duruşun süreceği öngörüldü.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/10/jeopolitik-gerilimlerin-turkiye-ekonomisine-yansimalari-7ynd_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_fe1dbf92",
-    "title": "Rusya, Azerbaycan'a düşürülen AZAL uçağı için tazminat ödeyecek",
-    "source": "Ekonomim",
-    "time": "15/04/2026 17:47",
-    "link": "https://www.ekonomim.com/dunya/rusya-azerbaycana-dusurulen-azal-ucagi-icin-tazminat-odeyecek-haberi-888321",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Azerbaycan ve Rusya, 2024&#039;te Rus hava sahasında açılan ateş sonucu Kazakistan&#039;ın Aktau kenti yakınlarında düşen Azerbaycan Hava Yolları&#039;na (AZAL) ait uçağa ilişkin tazminat dahil tüm konularda anlaşmaya vardığını duyurdu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/rusya-azerbaycana-dusurulen-azal-ucagi-icin-tazminat-odeyecek-xuun_cover.jpg",
     "keyword": null
   }
 ]
