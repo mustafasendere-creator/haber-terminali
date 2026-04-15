@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b8965c94",
+    "title": "Abartı egzozlu araç trafikten men edildi",
+    "source": "TRT Haber",
+    "time": "15/04/2026 08:26",
+    "link": "https://www.trthaber.com/haber/turkiye/abarti-egzozlu-arac-trafikten-men-edildi-941684.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu'da vatandaşların ihbarı üzerine harekete geçen polis ekipleri, abartı egzoz kullanarak çevreye rahatsızlık verdiği belirlenen bir otomobili yakaladı. Sürücüye idari para cezası uygulanırken araç 30 gün süreyle trafikten men edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_18b6f166",
     "title": "Almanya'da akaryakıta indirim: Yeni zamlar kapıda",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Okan Buruk'un oğlu Ali Yiğit Buruk, sportmenliğe aykırı hareketi sebebiyle PFDK'ya sevk edildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/14/okan-burukun-oglu-ali-yigit-buruk-pfdkya-sevk-edildi-jwyx.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_f32452f6",
-    "title": "Trabzonspor'dan bilet fiyatlarına 'temsili' düzenleme!",
-    "source": "Cumhuriyet",
-    "time": "14/04/2026 22:45",
-    "link": "https://www.cumhuriyet.com.tr/spor/trabzonspor-dan-bilet-fiyatlarina-temsili-duzenleme-2495234",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig'in 30. haftasında kendi sahasında Başakşehir'i konuk edecek Trabzonspor'da maç biletlerine düzenleme yapıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5a2c199f-8c34-415d-a205-0709f7c1e102.jpg",
-    "keyword": "trabzon"
   }
 ]
