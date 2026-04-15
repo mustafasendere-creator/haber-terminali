@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d4a3f880",
+    "title": "Anket: Almanya’da aşırı sağcı AfD birinci parti",
+    "source": "Evrensel",
+    "time": "15/04/2026 15:46",
+    "link": "https://www.evrensel.net/haber/5979772/anket-almanyada-asiri-sagci-afd-birinci-parti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "YouGov anketine göre Almanya’da aşırı sağcı AfD yüzde 27 ile ilk sıraya yükselirken, koalisyon ortakları CDU/CSU ve SPD oy kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/287659.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_efdd7cdf",
     "title": "Zara'nın sahibi Amancio Ortega dünyanın en büyük emlak kralı oldu",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Mehmed: Fetihler Sultanı 35. Bölüm @trt1  YouTube",
     "image": null,
     "keyword": "trabzon fetö"
-  },
-  {
-    "id": "YRL_2523a611",
-    "title": "Eğitimciler Trabzon'dan ses verdi: \"Okul Polisi hayata geçirilsin\"",
-    "source": "Haber61",
-    "time": "15/04/2026 15:04",
-    "link": "https://www.haber61.net/trabzon/egitimciler-trabzondan-ses-verdi-okul-polisi-hayata-gecirilsin-h629649.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Şanlıurfa Siverek’te 16 kişinin yaralandığı okul saldırısının ardından Trabzon’da Eğitim-Bir-Sen ve Eğitim Sen basın açıklaması yaptı.",
-    "image": "https://resim.haber61.net/news/612810.jpg",
-    "keyword": null
   }
 ]
