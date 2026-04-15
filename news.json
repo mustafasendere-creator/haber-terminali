@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f5305150",
+    "title": "Balkan kahvaltılarının geleneksel lezzeti: Zeljanica",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 10:27",
+    "link": "https://www.cumhuriyet.com.tr/gurme/balkan-kahvaltilarinin-geleneksel-lezzeti-zeljanica-2495324",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ispanağın tazeliği ile peynirin kremsi dokusunun, tül gibi ince açılmış hamur katmanları arasında buluştuğu Zeljanica; Balkan mutfağının hem en besleyici hem de en maharet isteyen \"yeşil\" durağıdır.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/06da2fe7-a58a-4fa4-98d3-77f17a33e3f4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5ebce407",
     "title": "TÜİK üretim verilerini paylaştı: Hizmet, inşaat ve tarımda üretici maliyetleri tırmanışta",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, kış transfer döneminde kadrosuna katmak için yoğun çaba harcadığı ancak kulübü BK Hacken ile anlaşma sağlayamadığı Silas Andersen için yeniden masaya oturdu.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/sinan-silas.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_73ae3a3c",
-    "title": "Trabzonsporlu oyuncunun gözü Montella’da",
-    "source": "Haber61",
-    "time": "15/04/2026 09:45",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporlu-oyuncunun-gozu-montellada-h629621.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor formasıyla bu sezon farklı bölgelerde görev yapan Ozan Tufan, ortaya koyduğu istikrarlı performansla yeniden A Milli Takım hedefini gündeme taşıdı.",
-    "image": "https://resim.haber61.net/news/612763.jpg",
-    "keyword": "trabzon"
   }
 ]
