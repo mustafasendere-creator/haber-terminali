@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_db6d18c9",
+    "title": "@cafefutbol.bsky.social: Azul con rojo o grana tienes un montón de equipos: Trabzonsp...",
+    "source": "Bluesky",
+    "time": "15/04/2026 22:36",
+    "link": "https://bsky.app/profile/cafefutbol.bsky.social/post/3mjkdjvvhfs2a",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Azul con rojo o grana tienes un montón de equipos: Trabzonspor, Cagliari, Crystal Palace, Éibar, Extremadura, San Lorenzo, Potenza, Basel, AC Bellinzona... hasta el Bayern como recordarás ha tenido unas cuantas así. Variedad tienes para no tener que sentirte culpable 😜",
+    "image": null,
+    "keyword": "trabzonspor"
+  },
+  {
     "id": "GND_1777ca81",
     "title": "Külliye'den YİK açıklaması",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "EMEP Genel Başkanı Seyit Aslan, Urfa ve Maraş’taki şiddet olaylarının sorumlusunun tarikatları ve sermayeyi besleyen eğitim sistemi olduğunu vurguladı: “Çocukları korumayan bu düzeni hep beraber yıkalım; Bakan Yusuf Tekin istifa etmelidir”",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343182.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b6f960fb",
-    "title": "Erdoğan'dan Netanyahu'ya: 'Hiçbir güç Türkiye'ye ve cumhurbaşkanına parmak sallayamaz'",
-    "source": "Euronews",
-    "time": "15/04/2026 21:45",
-    "link": "http://tr.euronews.com/2026/04/15/erdogandan-netanyahuya-hicbir-guc-turkiyeye-ve-cumhurbaskanina-parmak-sallayamaz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Erdoğan, kendisini hedef alan açıklamalarda bulunan İsrail Başbakanı Netanyahu'ya cevap verdi. 'Kürt kardeşlerimiz üzerinden ülkemize iftira atıyorlar' diyen Erdoğan, 'Yumuşak başlı olmamızı, sağduyulu olmamızı uysal koyun olduğumuz şeklinde kimse yorumlamasın' diye ekledi.",
-    "image": null,
     "keyword": null
   }
 ]
