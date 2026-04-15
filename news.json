@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7fb8dccb",
+    "title": "Narin’in davası bitti mi şimdi?",
+    "source": "A Haber",
+    "time": "15/04/2026 08:24",
+    "link": "https://www.ahaber.com.tr/yazarlar/melih-altinok/2026/04/15/narinin-davasi-bitti-mi-simdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Narin Güran cinayeti davasında sanık Nevzat Bahtiyar hakkında \"suç delillerini yok etme, gizleme veya değiştirme\" suçundan 4 yıl 6 ay hapis cezası verilmişti.\nYapılan itirazlar üzerine Yargıtay'ın...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_891a71fd",
     "title": "ABD’nin ticaret açığının suçu dolar mı?",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, Alanyaspor karşısında kaybedilen puanlara rağmen zirve yarışındaki iddiasını sürdürüyor. Lider Galatasaray’ın da puan kaybetmesiyle umutlar yeniden tazelenirken, bordo-mavililer kritik viraja giriyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/gobek-5.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2046f51f",
-    "title": "İstanbul’da \"Düşler Zamanı: Japonya\" sergisi",
-    "source": "BirGün",
-    "time": "14/04/2026 22:24",
-    "link": "https://www.birgun.net/haber/istanbulda-dusler-zamani-japonya-sergisi-705790",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB Kültür AŞ Dijital Deneyim Merkezi’nin yeni sergisi “Düşler Zamanı: Japonya”, dijital teknolojilerle bir temas alanı kuruyor. Akın, “Sergi, ziyaretçilere, duyulara hitap eden benzersiz bir deneyim sunuyor” diyor.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/14/istanbulda-dusler-zamani-japonya-sergisi.jpg",
     "keyword": null
   }
 ]
