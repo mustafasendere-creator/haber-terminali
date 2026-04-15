@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02fa3610",
+    "title": "Son dakika... Kahramanmaraş'ta okulda silahlı saldırı: Can kaybı var!",
+    "source": "Cumhuriyet",
+    "time": "15/04/2026 14:47",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kahramanmaras-ta-okulda-silahli-saldiri-can-kaybi-var-2495378",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta bir okulda silah sesleri duyuldu. Olay yerine çok sayıda polis ve sağlık ekibi sevk edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b42fd35d-a6e3-4e30-9146-14f85664c9b6.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_f24dfcbc",
     "title": "Eğitim Sen Trabzon Şubesi’nden Siverek’teki Saldırıya Sert Tepki! “Sorumlular İstifa Etmeli”",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş’ta bir ortaokulda silah sesleri duyuldu. Olay yerinde ölü ve yaralıların olduğu belirtildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/kahramanmarasta-ortaokula-silahli-saldiri-veliler-sinir-krizi-gecirdi-69mf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ff467b8f",
-    "title": "Liverpool'un yıldızı Hugo Ekitike kabus yaşıyor! Dünya Kupası'nı kaçıracak",
-    "source": "Haber Global",
-    "time": "15/04/2026 14:27",
-    "link": "https://haberglobal.com/spor/liverpoolun-yildizi-hugo-ekitike-kabus-yasiyor-dunya-kupasini-kaciracak-518952",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Liverpool'un UEFA Şampiyonlar Ligi çeyrek finalinde PSG'ye 2-0 yenildiği maçta sakatlanan Hugo Ekitike'nin durumunun ciddi olduğu ve uzun süre sahalardan uzak kalacağı bildirildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/liverpoolun-yildizi-hugo-ekitike-kabus-yasiyor-dunya-kupasini-kaciracak-tx6v.jpg",
     "keyword": null
   }
 ]
