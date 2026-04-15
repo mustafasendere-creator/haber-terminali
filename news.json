@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_47fb53d2",
+    "title": "İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırılarda 9 kişi hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 09:25",
+    "link": "https://www.aa.com.tr/tr/live-blog/israil-ordusunun-lubnanin-guneyine-duzenledigi-saldirilarda-9-kisi-hayatini-kaybetti/1051",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Lübnan'ın güneyine gece saatlerinden bu yana gerçekleştirdiği saldırılarda 9 kişi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_7290d485",
     "title": "Cumhur İttifakı, CHP’yi Seyre Dalmış",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul’da sokak çetelerine mensup oldukları iddia edilen ve ‘haraç’ motivasyonuyla 5 ayrı ilçede 6 farklı olaya karışmakla suçlanan 7’si 18 yaşından küçük 17 şüpheli düzenlenen operasyonda yakalandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/istanbulda-cete-operasyonu-17-supheli-gozaltinda-uppx.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_cd34ad3b",
-    "title": "Akaryakıtta motorine indirim geldi! İşte son fiyatlar",
-    "source": "Haber Global",
-    "time": "15/04/2026 08:46",
-    "link": "https://haberglobal.com/ekonomi/15-nisan-benzin-kac-lira-motorine-indirim-geldi-518819",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ile İran arasında görüşmelerin süreceği beklentileri petrol fiyatlarını düşürdü! Bu da akaryakıta indirim olarak yansıdı... Motorine dün gece indirim geldi. İndirim pompaya yansıdı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/15-nisan-benzin-kac-lira-motorine-indirim-geldi-3fbx.jpg",
     "keyword": null
   }
 ]
