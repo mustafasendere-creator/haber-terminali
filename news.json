@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4865da59",
+    "title": "TÃ¼rkiye'nin maden ihracatÄ± 1,5 milyar dolarÄ± aÅŸtÄ±",
+    "source": "TRT Haber",
+    "time": "15/04/2026 14:26",
+    "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-maden-ihracati-15-milyar-dolari-asti-941748.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Maden ihracatÄ± ilk Ã§eyrekte yÃ¼zde 14 artarak 1 milyar 565 milyon 237 bin dolara ulaÅŸtÄ±.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_347d2a63",
     "title": "Kanye West'e Avrupa'da peş peşe engel, İstanbul planı devam",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Türkiye Ormancılık Yarışmaları (TOY 2026) Karadeniz bölge elemeleri Trabzon'da başladı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-15-135614.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_d938e589",
-    "title": "Yavuz Aydın’dan veri düzenlemesine tepki: Mahremiyet vurgusu",
-    "source": "Haber61",
-    "time": "15/04/2026 14:04",
-    "link": "https://www.haber61.net/gundem/yavuz-aydindan-veri-duzenlemesine-tepki-mahremiyet-vurgusu-h629657.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İYİ Parti Trabzon Milletvekili Yavuz Aydın, sosyal yardım başvurularında geniş veri erişimi sağlayan düzenlemeye tepki gösterdi. Aydın, teklifin vatandaşın mahremiyetini riske attığını söyledi.",
-    "image": "https://resim.haber61.net/news/612819.jpg",
     "keyword": null
   }
 ]
