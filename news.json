@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a872b600",
+    "title": "Araştırma: Günde 2-3 fincan kahve ruhsal bozukluk riskini azalttı",
+    "source": "Euronews",
+    "time": "15/04/2026 08:26",
+    "link": "http://tr.euronews.com/saglik/2026/04/15/arastirma-gunde-2-3-fincan-kahve-ruhsal-bozukluk-riskini-azaltti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni bir araştırmaya göre, ölçülü kahve tüketimi ruh sağlığı bozukluklarına yakalanma riskinin daha düşük olmasıyla ilişkilendiriliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_789eadc0",
     "title": "Finlandiya ile İsveç demir yoluyla bağlanacak: AB'nin en uzun tren yolculuğu",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe - Vakıfbank maçı hangi gün oynanacak, saat kaçta başlayacak? Maç hangi kanalda yayınlanacak? Vakıfbank veya Fenerbahçe kazanırsa ne olacak? Yanıtlar haberimizde.",
     "image": "https://static.birgun.net/resim/haber/2026/04/14/fenerbahce-vakifbank-maci-hangi-gun-saat-kacta-ve-hangi-kanalda.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_8afb76b3",
-    "title": "Trabzonspor'a müjdeli haber!",
-    "source": "Günebakış",
-    "time": "14/04/2026 22:44",
-    "link": "https://www.gunebakis.com.tr/trabzonspora-mujdeli-haber/27812207",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ligde kritik bir döneme girilirken Onuachu, Batagov ve Muçi’den güzel haber geldi…",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/tf2-1.jpg",
     "keyword": null
   }
 ]
