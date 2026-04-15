@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_57a99ca9",
+    "title": "Kahramanmaraş: Okulda silahlı saldırıda 9 kişi öldü",
+    "source": "DW Türkçe",
+    "time": "15/04/2026 18:25",
+    "link": "https://www.dw.com/tr/kahramanmaraş-okulda-silahlı-saldırıda-9-kişi-öldü/a-76790820",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta bir ortaokulda düzenlenen silahlı saldırıda hayatını kaybedenlerin sayısı 9'a yükseldi. Saldırıda 13 kişi de yaralandı. Okulda 8'inci sınıf öğrencisi olan saldırganın babası gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7bcb2e7c",
     "title": "O sırada İtalya: Toprak kaydı, 13 yetkiliye soruşturma",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yıldız Teknik Üniversitesi profesörleri, ameliyatlarda dokuların şişirilip boşaltılmasında kullanılacak akıllı şırınga ile olası riskleri ortadan kaldıran buluşa imza attı",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/ytulu-profesorlerden-ameliyatlarda-riski-sifirlayan-akilli-siringa-ub9g_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bf7c4b1c",
-    "title": "MHP lideri Devlet Bahçeli: Kontrolsüz dijitalleşme, çocukların ruh sağlığını etkiledi",
-    "source": "Ekonomim",
-    "time": "15/04/2026 17:27",
-    "link": "https://www.ekonomim.com/gundem/mhp-lideri-devlet-bahceli-kontrolsuz-dijitallesme-cocuklarin-ruh-sagligini-etkiledi-haberi-888317",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Genel Başkanı Devlet Bahçeli, Kahramanmaraş’taki okul saldırısının ardından olayın tüm yönleriyle aydınlatılması beklenmeden yapılan siyasi yorumların yanlış olduğunu belirterek, acıların istismar edilmemesi gerektiğini vurguladı; kontrolsüz dijitalleşme, sosyal medya ve akran zorbalığının çocuklar üzerindeki olumsuz etkilerine dikkat çekti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/19/bahceliden-bayram-mesaji-israilin-basini-cektigi-felaket-dunyanin-muhtelif-bolgelerine-sicramadan-durdurulmali-psmj_cover.jpg",
     "keyword": null
   }
 ]
