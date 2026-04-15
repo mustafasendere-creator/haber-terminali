@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6deecdd1",
+    "title": "CENTCOM: İlk 48 saat içinde hiçbir gemi ABD ablukasını aşamadı",
+    "source": "Ekonomim",
+    "time": "15/04/2026 20:06",
+    "link": "https://www.ekonomim.com/dunya/centcom-ilk-48-saat-icinde-hicbir-gemi-abd-ablukasini-asamadi-haberi-888342",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı&#039;ndan (CENTCOM), Hürmüz Boğazı&#039;nda uygulanan ablukaya ilişkin yapılan açıklamada, &quot;İlk 48 saat içinde hiçbir gemi ABD ablukasını aşamadı ve 9 gemi, ABD kuvvetlerinin geri dönme talimatına uyarak İran limanlarına veya kıyı bölgelerine geri döndü&quot; denildi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/centcom-ilk-48-saat-icinde-hicbir-gemi-abd-ablukasini-asamadi-iokb_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8bb8cfac",
     "title": "Taksim metro asansöründe yangın",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Adana'da sosyal medya üzerinden \"karakola ve okula saldırı yapacağız\" paylaşımlarında bulunan şahıs gözaltına alındı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6ca8fc6e-8b85-40b1-b8d9-368357334b1e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9bd8a75f",
-    "title": "Kahramanmaraş'taki okula saldırının ardından... Erdoğan: 'Acının siyaseti olmaz'",
-    "source": "Cumhuriyet",
-    "time": "15/04/2026 19:26",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/kahramanmaras-taki-okula-saldirinin-ardindan-erdogan-acinin-siyaseti-olmaz-2495471",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan, Kahramanmaraş'taki 9 kişinin hayatını kaybettiği okul saldırısının ardından \"Milletçe hepimizin yüreğine kor bir ateş düşüren böyle bir saldırının siyasi polemiklere ve reyting kaygısına malzeme yapılmaması, vicdani olduğu kadar ahlaki bir görevdir. Acının siyaseti olmaz\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
     "keyword": null
   }
 ]
