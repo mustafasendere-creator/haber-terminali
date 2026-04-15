@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e1bbf2c",
+    "title": "İstanbul'da yapılan uygulamada 1149 kişi gözaltına alındı",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 10:45",
+    "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yapilan-uygulamada-1149-kisi-gozaltina-alindi/3905954",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da polis ekiplerince yapılan denetimde, çeşitli suçlardan aranan 600 şüphelinin de aralarında bulunduğu toplam 1149 kişi gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8cb89fae",
     "title": "Anadolu Ajansı 2025 Yılı Genel Kurul Toplantısı Davet Duyurusu",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trendyol Süper Lig'de Trabzonspor ve Kocaelispor maçlarında 5 puan kaybederek şampiyonluk yarışında ağır darbe alan Galatasaray'da sezon sonunda yaprak dökümü yaşanacak. Sarı-kırmızılılarda Okan Buruk'un vazgeçilmezi olan isimlere de veda edilecek.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/galatasarayda-tam-4-ayrilik-birden-okan-burukun-vazgecilmezleri-de-gonderilecek-evkl.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_7f98aa0d",
-    "title": "Trabzonspor'da orta sahaya yeni ayar!",
-    "source": "Günebakış",
-    "time": "15/04/2026 10:04",
-    "link": "https://www.gunebakis.com.tr/trabzonsporda-orta-sahaya-yeni-ayar/27812257",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/14/large/aa-20260123-40349374-40349372-trabzonspor-kasimpasa-1.webp",
-    "keyword": null
   }
 ]
