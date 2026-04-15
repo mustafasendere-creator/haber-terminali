@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_46ec3ed6",
+    "title": "Erdoğan'dan Kahramanmaraş'taki saldırıya dair açıklama",
+    "source": "BirGün",
+    "time": "15/04/2026 21:05",
+    "link": "https://www.birgun.net/haber/erdogan-dan-kahramanmaras-taki-saldiriya-dair-aciklama-706058",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AKP Genel Başkanı ve Cumhurbaşkanı Erdoğan Kahramanmaraş'taki okul saldırısına yönelik \"Milletçe hepimizin yüreğine kor bir ateş düşüren böyle bir saldırının siyasi polemiklere ve reyting kaygısına malzeme yapılmaması, vicdani olduğu kadar ahlaki bir görevdir. Acının siyaseti olmaz\" ifadelerini kullandı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/erdogan-dan-kahramanmaras-taki-saldiriya-dair-aciklama.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_533db420",
     "title": "ABD'de erkeklere zorunlu askerlik görevi geri getirildi",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "CHP Araklı İlçe Başkanı Osman Dilber, Araklı’daki sorunlar üzerinden belediye yönetimine yönelik eleştirilerde bulundu.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/chpli-dilberden-cebiye-elestiri-yonetim-zafiyeti-var-1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_11913570",
-    "title": "TBMM Başkanı Kurtulmuş: İsrail'in BM üyeliği mutlaka askıya alınmalı",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 20:24",
-    "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-israilin-bm-uyeligi-mutlaka-askiya-alinmali/3907004",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": null,
     "keyword": null
   }
 ]
