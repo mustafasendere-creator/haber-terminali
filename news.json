@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_11e39b0a",
+    "title": "İletişim Başkanı Duran: Kahramanmaraş'taki saldırı tüm boyutlarıyla inceleniyor",
+    "source": "TRT Haber",
+    "time": "15/04/2026 18:46",
+    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-kahramanmarastaki-saldiri-tum-boyutlariyla-inceleniyor-941764.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanı Burhanettin Duran, Kahramanmaraş'ta okuldaki silahlı saldırıya ilişkin \"Olayın tüm boyutları ilgili kurumlarımız tarafından titizlikle incelenmekte olup, sürece dair gerekli tüm adımlar atılmaktadır.\" ifadesini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7f305fba",
     "title": "Bakan Çiftçi: Okul saldırısında 8'i öğrenci 9 kişi hayatını kaybetti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kahramanmaraş’taki okul saldırısının ardından 4 bakan bölgeye gitti. İçişleri Bakanı Mustafa Çiftçi, saldırıda 9 kişinin hayatını kaybettiğini açıkladı.",
     "image": "https://resim.haber61.net/news/612868.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8a2e22b0",
-    "title": "Hazine'den tahvil ihracı için 4 finans kuruluşuna yetki",
-    "source": "OdaTV",
-    "time": "15/04/2026 17:47",
-    "link": "https://www.odatv.com/ekonomi/hazine-ve-maliye-bakanligindan-tahvil-ihraci-icin-4-finans-kurulusuna-yetki-120143443",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hazine ve Maliye Bakanlığı, dolar cinsinden beş yıl vadeli tahvil ihracı için dört finans kuruluşuna yetki verdi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/17/hazine-ve-maliye-bakanligi-verileri-saniyede-odenen-vergi-455-bin-lira-dygw.jpg",
     "keyword": null
   }
 ]
