@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8bb8cfac",
+    "title": "Taksim metro asansöründe yangın",
+    "source": "Habertürk",
+    "time": "15/04/2026 20:06",
+    "link": "https://www.haberturk.com/taksim-metro-istasyonu-nda-asansorde-yangin-cikti-3877397",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Taksim Metro İstasyonu'nda bulunan asansörde bilinmeyen nedenle yangın çıktı. İhbar üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. Yangın nedeniyle Taksim Metro Cumhuriyet Tüneli alt geçidi kapatıldı. Ekiplerin çalışmaları sürüyor",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776191269/3877397/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_aa9253a2",
     "title": "Bebeğini çöpe atmıştı! Cani anne hakim karşısında",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan, Kahramanmaraş'taki 9 kişinin hayatını kaybettiği okul saldırısının ardından \"Milletçe hepimizin yüreğine kor bir ateş düşüren böyle bir saldırının siyasi polemiklere ve reyting kaygısına malzeme yapılmaması, vicdani olduğu kadar ahlaki bir görevdir. Acının siyaseti olmaz\" dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_206d701b",
-    "title": "Cumhurbaşkanlığı YİK Erdoğan başkanlığında toplandı",
-    "source": "Haber Global",
-    "time": "15/04/2026 19:26",
-    "link": "https://haberglobal.com/gundem/cumhurbaskanligi-yik-erdogan-baskanliginda-toplandi-519008",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında, Cumhurbaşkanlığı Yüksek İstişare Kurulu (YİK) toplandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/cumhurbaskanligi-yik-erdogan-baskanliginda-toplandi-nxvk.jpg",
     "keyword": null
   }
 ]
