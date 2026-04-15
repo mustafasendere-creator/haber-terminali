@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_efdbac5e",
+    "title": "ABD'nin Orta Doğu'ya \"binlerce ek asker göndereceği\" iddiası",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 19:44",
+    "link": "https://www.aa.com.tr/tr/dunya/abdnin-orta-doguya-binlerce-ek-asker-gonderecegi-iddiasi/3906950",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin İran'la yürütülen müzakerelerden sonuç alınamaması ihtimaline karşın Orta Doğu'ya \"ilerleyen günlerde binlerce ek asker göndereceği\" ileri sürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_84eb9ea0",
     "title": "Başkan Erdoğan Kanada Başbakanı Carney ile görüştü",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Siverek ve Kahramanmaraş'taki saldırılar okullardaki güvenlik sorununu bir kez daha gündeme getirdi. Eğitim sendikaları düzenledikleri eylemde Milli Eğitim Bakanı Yusuf Tekin'in istifasını istedi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_bdcedcb7",
-    "title": "Trabzon’da Av Yasağı Başladı: 21 Bin Ton Hamsi Avlandı",
-    "source": "Taka Gazetesi",
-    "time": "15/04/2026 18:45",
-    "link": "https://www.takagazete.com.tr/trabzonda-av-yasagi-basladi-21-bin-ton-hamsi-avlandi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da 15 Nisan itibarıyla av yasağı başladı. İl Müdürü İsa Kaplan, sezonda 21 milyon kilogramdan fazla hamsi avlandığını açıkladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/e8c11f58-cb8c-4eb3-ab80-8a14ed5d02de.jpg",
-    "keyword": "trabzon"
   }
 ]
