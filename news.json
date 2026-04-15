@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_823bdae3",
+    "title": "IMF küresel kamu borcunun 2029'a kadar GSYH'nin yüzde 100'üne ulaşacağını öngörüyor",
+    "source": "Anadolu Ajansı",
+    "time": "15/04/2026 17:24",
+    "link": "https://www.aa.com.tr/tr/ekonomi/imf-kuresel-kamu-borcunun-2029a-kadar-gsyhnin-yuzde-100une-ulasacagini-ongoruyor/3906771",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Para Fonu (IMF), küresel kamu borcunun Gayrisafi Yurt İçi Hasıla'ya (GSYH) oranının 2029'da daha önce yalnızca İkinci Dünya Savaşı'nın ardından görülen bir seviye olan yüzde 100'e ulaşmasının beklendiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_35b01623",
     "title": "Siverek’teki saldırgan sessiz sedasız defnedildi",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mersin'in Tarsus ilçesinde lise son sınıf öğrencisi, okulda tabanca ile yakalandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/mersinde-bir-lise-ogrencisi-silahla-yakalandi-dirp.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e00193f7",
-    "title": "Yer: Yalova! “Kadının fotoğrafını çekti” iddiası sonrası linç girişimi",
-    "source": "Haber Global",
-    "time": "15/04/2026 16:46",
-    "link": "https://haberglobal.com/gundem/yer-yalova-kadinin-fotografini-cekti-iddiasi-sonrasi-linc-girisimi-518997",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yalova'da yolda yürüyen bir kadının fotoğrafını çektiği iddia edilen Y.A., .evredekiler tarafından linç girişimine uğradı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/yer-yalova-kadinin-fotografini-cekti-iddiasi-sonrasi-linc-girisimi-hadm.jpg",
     "keyword": null
   }
 ]
