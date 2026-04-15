@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4580db25",
+    "title": "İzmir'de Karşıyaka Belediyesindeki emekçiler yarın tam gün iş bırakacak",
+    "source": "Evrensel",
+    "time": "15/04/2026 16:46",
+    "link": "https://www.evrensel.net/haber/5979784/izmirde-karsiyaka-belediyesindeki-emekciler-yarin-tam-gun-is-birakacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karşıyaka Belediyesi'nde toplu iş sözleşmesinin askıya alınmasına tepki gösteren belediye emekçileri, Tüm Bel-Sen 2 No'lu Şube'nin çağrısıyla yarın tam gün iş bırakma eylemi gerçekleştirecek.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343156.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f8570a1c",
     "title": "Maraş’taki okula silahlı saldırı: Saldırganın babası Uğur Mersinli gözaltına alındı",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor ve Beşiktaş, Kahramanmaraş'taki okullara yönelik hain saldırıyı kınıyor.\n\n#Gündem #Haber #Türkiye\n📢 t.me/KRBRZ_MEDYA",
     "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eoc4a3qw2komzmqklzi2cnz5/bafkreiefhrdgcjiyjjm2m66mjr3l2ycip3dcf5tv3v3i3ai7mj2tw4xuky",
     "keyword": "trabzonspor"
-  },
-  {
-    "id": "TKP_ce3da76e",
-    "title": "GençLig Ateşi Trabzon’u Sardı! Liseler Arası Dev Turnuva Başladı",
-    "source": "Günebakış",
-    "time": "15/04/2026 16:05",
-    "link": "https://www.gunebakis.com.tr/genclig-atesi-trabzonu-sardi-liseler-arasi-dev-turnuva-basladi/27816868",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Türkiye Gençlik Vakfı (TÜGVA) tarafından 81 ilde eş zamanlı olarak bu yıl ikincisi düzenlenen ‘GençLig Liseler Arası Futbol Turnuvası’nın Trabzon müsabakaları, Valilik, Büyükşehir Belediyesi ve İl Milli Eğitim Müdürlüğü&#039;nün ev sahipliğinde başladı. Turnuvanın Türkiye finali de Haziran ayında Trabzon’da gerçekleştirilecek.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/genclig-liseler-arasi-futbol-turnuvasi-basladi-1778151874.jpeg",
-    "keyword": "trabzon"
   }
 ]
