@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_92753549",
+    "title": "40. Çocuk Şenliği başlıyor: İstanbul’da sahne çocukların",
+    "source": "Evrensel",
+    "time": "15/04/2026 21:05",
+    "link": "https://www.evrensel.net/haber/5979765/40-cocuk-senligi-basliyor-istanbulda-sahne-cocuklarin",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB Şehir Tiyatroları’nın 40. Çocuk Şenliği, 23 Nisan’da oyunlar, atölyeler ve sokak etkinlikleriyle başlıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343129.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_66fc6d30",
     "title": "BES-AR: Açlık sınırı 47 bin 458 TL",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Felipe Augusto’nun menajeri Lekka De Camargo’nun Zenit ile görüşmek üzere Rusya’ya gittiği öğrenildi.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/trabzonsporda-felipe-augusto-gelismes-menajeri-rusyada.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4321a3c2",
-    "title": "Trabzonspor’da Paul Onuachu seferberliği: Başakşehir maçına yetiştirilmeye çalışılıyor",
-    "source": "BirGün",
-    "time": "15/04/2026 20:25",
-    "link": "https://www.birgun.net/haber/trabzonsporda-paul-onuachu-seferberligi-basaksehir-macina-yetistirilmeye-calisiliyor-706016",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bordo-mavililerde sakatlığı süren Paul Onuachu için sağlık ekibi seferber oldu. Nijeryalı golcünün pazar günkü Başakşehir maçına yetiştirilmesi hedefleniyor.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/trabzonsporda-paul-onuachu-seferberligi-basaksehir-macina-yetistirilmeye-calisiliyor.jpg",
     "keyword": null
   }
 ]
