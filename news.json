@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_533db420",
+    "title": "ABD'de erkeklere zorunlu askerlik görevi geri getirildi",
+    "source": "BirGün",
+    "time": "15/04/2026 21:04",
+    "link": "https://www.birgun.net/haber/abd-de-erkeklere-zorunlu-askerlik-gorevi-geri-getirildi-706059",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD, Vietnam Savaşı'nın ardından kaldırdığı zorunlu askerlik görevini geri getirdi. Orduya kaydolmayan ABD vatandaşlarına ciddi cezalar uygulanacağı belirtildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/abd-de-erkeklere-zorunlu-askerlik-gorevi-geri-getirildi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1628ac3a",
     "title": "TBMM'de ortak karar: Kahramanmaraş'taki okul saldırısı sonrası araştırma komisyonu kuruluyor",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_99891a50",
-    "title": "İsrail basını: Ordu, Gazze'deki gibi Lübnan'da yıkımı genişletiyor ve askeri noktaları artırıyor",
-    "source": "Anadolu Ajansı",
-    "time": "15/04/2026 20:24",
-    "link": "https://www.aa.com.tr/tr/dunya/israil-basini-ordu-gazzedeki-gibi-lubnanda-yikimi-genisletiyor-ve-askeri-noktalari-artiriyor/3906999",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail basını, İsrail ordusunun, Lübnan'ın güneyindeki kara saldırıları çapını genişlettiğini, askeri noktaları artırdığını ve Gazze Şeridi'nde yaptığına benzer şekilde evleri yıktığını bildirdi.",
     "image": null,
     "keyword": null
   }
