@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fdde4be5",
+    "title": "Tahran'da bomba patladı",
+    "source": "Habertürk",
+    "time": "15/04/2026 11:47",
+    "link": "https://www.haberturk.com/tahran-da-bomba-patladi-3877434",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın başkenti Tahran'da bir bombanın patladığı, olayda can kaybı veya yaralanmanın olmadığı bildirildi. İran devlet televizyonu, patlamanın \"hain unsurların\" sabotajı olduğunu duyurdu",
+    "image": "https://im.haberturk.com/l/2026/04/15/ver1776219340/3877434/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_87b861e8",
     "title": "Park halindeki araçlara zarar vermişti; tutuklandı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor gelecek sezonun kadrosunu kurmak için çalışmalara başlarken hedefte iki yıldız var; Salih Özcan ve Oğuz Aydın.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/fatih-tekke1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_45ed446c",
-    "title": "Çevreci turiste ödül: Kopenhag’da başladı, Berlin sırada",
-    "source": "10Haber",
-    "time": "15/04/2026 11:25",
-    "link": "https://10haber.net/cevre/cevreci-turiste-odul-kopnhagda-basladi-berlin-sirada-695287/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya’nın başkenti Berlin’de çöp toplayan turistler ödüllendirilecek. ‘BerlinPay’ adı verilen uygulamanın bu yaz başlaması planlanıyor. Programın bu yılki odak noktası su kaynakları olacak. Projeye dair şunlar duyuruldu: “Sorumlu davranışları görünür kılıyor ve ödüllendiriyoruz. Su kenarında ve suyun üstünde bilinçli davranan, çöp toplayan, mahalleyi güzelleştiren ya da sosyal projeleri destekleyen herkes katılımcı işletmelerden bir teşekkür alacak: [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69df3f6bd6d171.30283722.jpg",
     "keyword": null
   }
 ]
