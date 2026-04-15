@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_78e4d78f",
+    "title": "Maraş Valisi Ünlüer'den 'okul saldırısı' açıklaması: 5 silah ve 7 şarjörle geldi",
+    "source": "Evrensel",
+    "time": "15/04/2026 21:25",
+    "link": "https://www.evrensel.net/haber/5979766/maras-valisi-unluer-den-okul-saldirisi-aciklamasi-5-silah-ve-7-sarjorle-geldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Maraş'ta Ayser Çalık Ortaokulu'nda yaşanan silahlı saldırıya dair açıklama yapan Vali Mükerrem Ünlüer, \"Saldırgan 8’inci sınıf öğrencisi. Babası eski bir emniyetçi. 5 silah ve 7 şarjörle baskını gerçekleştirdi\" dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343131.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_6cba5ed2",
     "title": "Trabzon Barosu’ndan okullardaki şiddet olaylarına karşı acil önlem çağrısı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Giresun Espiye’deki kazada bir kişi hayatını kaybederken, merkezde meydana gelen ikinci kazada 6 kişi yaralandı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/15/large/giresunda-trabzon-plakali-aracin-karistigi-kazada-1-olu-6-yarali.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_58450f77",
-    "title": "BBC, 500 milyon sterlin tasarruf için her 10 çalışanından birini işten çıkartacak",
-    "source": "BBC Türkçe",
-    "time": "15/04/2026 20:45",
-    "link": "https://www.bbc.com/turkce/articles/cz7884r909no",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BBC, \"önemli mali baskılarla\" başa çıkmak amacıyla 1800 ila 2000 arasında, bir başka deyişle neredeyse her 10 çalışandan birini işten çıkaracağını duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
