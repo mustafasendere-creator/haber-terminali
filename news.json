@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1fdd6b96",
+    "title": "Kağıthane'de zincirleme trafik kazası: 6 araç hasar gördü",
+    "source": "BirGün",
+    "time": "16/04/2026 16:13",
+    "link": "https://www.birgun.net/haber/kagithane-de-zincirleme-trafik-kazasi-6-arac-hasar-gordu-706245",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kağıthane'de otomobilin ani fren yapması üzerine 6 otomobilin karıştığı zincirleme kaza meydana geldi. Kazada ölen ya da yaralanan olmadı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/kagithane-de-zincirleme-trafik-kazasi-6-arac-hasar-gordu.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1ec964a1",
     "title": "Kırmızı bültenle aranan suç örgütü lideri İstanbul'da yakalandı",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Belçika'dan İsrail'e ambargo: Britanya'nın askeri sevkiyatına el konuldu 16.04.2026 DikenBelçika, Britanya'nın İsrail'e yolladığı askeri sevkiyata Liege Havalimanı'nda el koydu.\nThe post Belçika'dan İsrail'e ambargo: Britanya'nın askeri sevkiyatına el konuldu appeared first on #site_linkat 16.04.2026 .",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4dec7732",
-    "title": "Ukrayna: Rusya'nın düzenlediği saldırılarda en az 15 kişi öldü ve 95 kişi yaralandı",
-    "source": "Evrensel",
-    "time": "16/04/2026 15:34",
-    "link": "https://www.evrensel.net/haber/5979933/ukrayna-rusyanin-duzenledigi-saldirilarda-en-az-15-kisi-oldu-ve-95-kisi-yaralandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya’nın Kiev, Odessa ve Dnipropetrovsk’a düzenlediği saldırılarda en az 15 kişi hayatını kaybetti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343283.jpg",
     "keyword": null
   }
 ]
