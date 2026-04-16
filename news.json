@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fb9d54f2",
+    "title": "Evi ateşe verdi: Babasına telefon açıp söndürmesini istedi",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 03:24",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/evi-atese-verdi-babasina-telefon-acip-sondurmesini-istedi-2495476",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne’nin Keşan ilçesinde madde bağımlısı ve psikolojik sorunları olduğu iddia edilen Y.Y. (23), ailesiyle oturduğu evi ateşe verdikten sonra telefonla aradığı babası R.Y.’ye (53) gelip söndürmesini istedi. İtfaiye ekiplerinin müdahalesiyle söndürülürken, Y.Y. ise polis tarafından gözaltına alındı. Olayla ilgili inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d51c78ad-c6cb-4eda-aaef-d9fb9f60cca4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_64d68875",
     "title": "Nvidia, kuantum bilgisayarlar için açık yapay zeka modeli Ising'i duyurdu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Hazine Bakanı Scott Bessent Beyaz Saray’da düzenlenen basın toplantısında, \"Ülkelere, İran petrolünü satın alıyorlarsa ya da bankalarında İran parası duruyorsa, dolaylı yaptırımlar uygulamaya hazır olduğumuzu söyledik\" ifadelerini kullanırken, Beyaz Saray Basın Sözcüsü Karoline Leavitt, ABD’nin İran’dan ateşkesin uzatılması talebinde bulunduğuna yönelik iddiaları yalanladı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/15/abd-hazine-bakani-bessent-iran-petrolu-alan-ulkelere-dolayli-yaptirim-uygulamaya-haziriz-qvcr.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7372c1f0",
-    "title": "DMM: 'Saldırı sonucu kayıp çocuklar var' iddiaları asılsızdır",
-    "source": "TRT Haber",
-    "time": "16/04/2026 01:45",
-    "link": "https://www.trthaber.com/haber/gundem/dmm-saldiri-sonucu-kayip-cocuklar-var-iddialari-asilsizdir-941811.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, Kahramanmaraş'ta meydana gelen hadiseyi istismar ederek, sosyal medya üzerinden yayılmaya çalışılan \"saldırı sonucu kayıp çocuklar var\" iddialarının asılsız olduğunu belirtti.",
-    "image": null,
     "keyword": null
   }
 ]
