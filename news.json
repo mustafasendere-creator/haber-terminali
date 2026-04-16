@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2066f016",
+    "title": "Merkez Bankası rezervleri yükselişte",
+    "source": "OdaTV",
+    "time": "16/04/2026 17:56",
+    "link": "https://www.odatv.com/ekonomi/merkez-bankasi-burut-rezervleri-iki-haftadir-yukseliste-120143587",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Cumhuriyet Merkez Bankası brüt rezervleri, 10 Nisan ile sona eren haftada 9,27 milyar dolarlık artışla 170,91 milyar dolara çıktı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/01/merkez-bankasindan-savas-mudahalesi-swad.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7a2a43a0",
     "title": "Tam Finans’tan KOBİ odaklı büyüme hedefi",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İran arasında varılan ateşkese karşın ABD'den ülkeye yönelik yeni bir tehdit daha geldi. ABD Savunma Bakanı Pete Hegseth, İran yönetiminin kötü bir seçim yapması durumunda ülkenin altyapısı, elektriği ve enerjisine \"bombalar yağdırılacağı\" tehdidinde bulundu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/abdden-irana-yeni-tehdit-altyapiya-bombalar-yagdirilacak-ykd6.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8eaf4935",
-    "title": "Okullara yönelik tehdit paylaşımları yapan öğrenci tutuklandı",
-    "source": "Haber Global",
-    "time": "16/04/2026 17:34",
-    "link": "https://haberglobal.com/gundem/okullara-yonelik-tehdit-paylasimlari-yapan-ogrenci-tutuklandi-519254",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sivas'ta sosyal medyadan ildeki okullara yönelik saldırı olacağına yönelik paylaşım öğrenci çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/okullara-yonelik-tehdit-paylasimlari-yapan-ogrenci-tutuklandi-pwys.jpg",
     "keyword": null
   }
 ]
