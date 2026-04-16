@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1ee6b15f",
+    "title": "Trump: İsrail ve Lübnan 10 günlük bir ateşkeste mutabık kaldı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 19:14",
+    "link": "https://www.trthaber.com/haber/dunya/trump-israil-ve-lubnan-10-gunluk-bir-ateskeste-mutabik-kaldi-941928.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trump, İsrail ve Lübnan'ın 10 günlük bir ateşkes konusunda mutabık kaldıklarını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b5abb277",
     "title": "Trump: İsrail ve Lübnan 10 günlük ateşkeste anlaştı",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Araklı’da düzenlenen ormancılık yarışmasında 6 ilden ekipler Turup Millet Ormanı’nda yarıştı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/20260416aw685068-10.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d64d5f0a",
-    "title": "İş makinesinin kovasının çarptığı işçi öldü",
-    "source": "Evrensel",
-    "time": "16/04/2026 18:33",
-    "link": "https://www.evrensel.net/haber/5979971/is-makinesinin-kovasinin-carptigi-isci-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tekirdağ’ın Malkara ilçesinde fiber optik kablo döşeme çalışması sırasında iş makinesinin kovasının çarptığı 74 yaşındaki işçi Ökkeş Erol hayatını kaybetti. Operatör gözaltına alınırken olayla ilgili soruşturma başlatıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343321.jpg",
-    "keyword": null
   }
 ]
