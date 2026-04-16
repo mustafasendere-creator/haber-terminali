@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5e6e29ee",
+    "title": "ABD çekildi, Kasrek Hava Üssü Suriye ordusunun kontrolüne geçti",
+    "source": "10Haber",
+    "time": "16/04/2026 15:53",
+    "link": "https://10haber.net/dunya/abd-cekildi-kasrek-hava-ussu-suriye-ordusunun-kontrolune-gecti-695707/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye Savunma Bakanlığı Medya ve İletişim Ofisinin, Suriye resmi haber ajansı SANAda yayımlanan açıklamasına göre, Suriye ordusu birlikleri, uluslararası koalisyon güçlerinin çekilmesinin ardından Haseke kırsalındaki Kasrek Hava Üssü&#8217;nü devraldı. Yerel kaynaklardan alınan bilgiye göre, ABD güçlerinin tahliyesinin ardından terör örgütü YPG&#8217;ye bağlı unsurlar üssün içindeki bazı araçları ateşe verdi. Kasrek Hava Üssü daha sonra Suriye [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69e0d303382d95.75264723.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_246a604f",
     "title": "Güvenlik talebi yok sayıldı: AKP'li isim \"Eski Türkiye manzarası\" demiş",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları KKM geçen hafta 13 milyon lira azalarak 1 milyar 502 milyon liraya geriledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8fd43515",
-    "title": "BOTAŞ, 2 yeni LNG taşıma gemisi alacak",
-    "source": "TRT Haber",
-    "time": "16/04/2026 15:15",
-    "link": "https://www.trthaber.com/haber/ekonomi/botas-2-yeni-lng-tasima-gemisi-alacak-941901.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Boru Hatları ile Petrol Taşıma AŞ BOTAŞ, 2 yeni sıvılaştırılmış doğal gaz LNG taşıma gemisi temini için ihaleye çıktı.",
     "image": null,
     "keyword": null
   }
