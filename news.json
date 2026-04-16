@@ -1,5 +1,17 @@
 [
   {
+    "id": "TKP_dc55977a",
+    "title": "Trabzon'da ekmeğe zam!",
+    "source": "Günebakış",
+    "time": "16/04/2026 22:53",
+    "link": "https://www.gunebakis.com.tr/trabzonda-ekmege-zam/27825862",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzon ekmek fiyatları güncellendi; 200 gram ekmek 17,5 TL, 2000 gram ekmek 175 TL olarak açıklandı.",
+    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/ekmek.jpg",
+    "keyword": "trabzon"
+  },
+  {
     "id": "GND_80e20cba",
     "title": "ABD Başkanı Trump: İran'la anlaşma yapmaya çok yakınız",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Adalet Bakanı Akın Gürlek, Adana merkezli 8 ilde \"Bayğaralar\" organize suç örgütüne yönelik operasyonda yakalanan 216 şüpheli ile 5 suça sürüklenen çocuğun tutuklandığını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3b011668",
-    "title": "TFF Tahkim Kurulu, Trabzonspor'a verilen para cezalarını onadı",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 22:13",
-    "link": "https://www.aa.com.tr/tr/spor/tff-tahkim-kurulu-trabzonspora-verilen-para-cezalarini-onadi/3908525",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Futbol Federasyonu (TFF) Tahkim Kurulu, Profesyonel Futbol Disiplin Kurulu (PFDK) tarafından Trabzonspor'a verilen cezaları onadı.",
     "image": null,
     "keyword": null
   }
