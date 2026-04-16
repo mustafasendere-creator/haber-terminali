@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7de7c498",
+    "title": "İran'dan ABD'nin Hürmüz'deki deniz ablukası girişimine tepki",
+    "source": "TRT Haber",
+    "time": "16/04/2026 21:33",
+    "link": "https://www.trthaber.com/haber/dunya/irandan-abdnin-hurmuzdeki-deniz-ablukasi-girisimine-tepki-941937.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran'ın Birleşmiş Milletler BM Daimi Temsilcisi Amir Said İravani, ABD'nin Hürmüz Boğazı'ndaki deniz ablukası girişiminin hukuka aykırı açık bir saldırganlık eylemi olduğunu söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3147c833",
     "title": "Trump: Lübnan ile İsrail arasında 10 günlük ateşkes sağlandı",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Mehmed: Fetihler Sultanı 65. Bölüm @trt1  YouTube",
     "image": null,
     "keyword": "mevlüt selami yardım"
-  },
-  {
-    "id": "GND_7d6295af",
-    "title": "Eğitim sendikaları Ankara'da eylemde",
-    "source": "OdaTV",
-    "time": "16/04/2026 20:34",
-    "link": "https://www.odatv.com/guncel/egitim-sendikalari-ankarada-eylemde-120143596",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa ve Kahramanmaraş&#039;ta gerçekleştirilen ölümlü saldırıların ardından çeşitli eğitim sendikaları Türkiye genelinde iş bırakma eylemi düzenledi. Protestolar Ankara&#039;da devam ediyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/egitim-sendikalari-ankarada-eylemde-yul0.jpg",
-    "keyword": null
   }
 ]
