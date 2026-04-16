@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e74a376e",
+    "title": "NATO Genel Sekreteri Rutte: Ankara zirvesini sabırsızlıkla bekliyorum",
+    "source": "TRT Haber",
+    "time": "16/04/2026 23:14",
+    "link": "https://www.trthaber.com/haber/dunya/nato-genel-sekreteri-rutte-ankara-zirvesini-sabirsizlikla-bekliyorum-941945.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NATO Genel Sekreteri Mark Rutte, temmuz ayında Ankara'da düzenlenecek NATO Zirvesi'nde savunma harcamaları konusunun ele alınacağını belirterek, zirveyi sabırsızlıkla beklediğini ifade etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b3211655",
     "title": "Güney MarmaraAdalar hattında feribot seferlerine hava engeli",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_063fce36",
-    "title": "IMF, savaştan ötürü Orta Doğu ve Kuzey Afrika ekonomilerinin büyümesinde bu yıl yavaşlama öngörüyor",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 22:33",
-    "link": "https://www.aa.com.tr/tr/ekonomi/imf-savastan-oturu-orta-dogu-ve-kuzey-afrika-ekonomilerinin-buyumesinde-bu-yil-yavaslama-ongoruyor/3908577",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Para Fonu (IMF), savaşın etkisiyle Orta Doğu ve Kuzey Afrika bölge ekonomisinin büyüme hızının, bu yıl yavaşlayarak yüzde 1,1'e gerileyeceği tahmininde bulundu.",
     "image": null,
     "keyword": null
   }
