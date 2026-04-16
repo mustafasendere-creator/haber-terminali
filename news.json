@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5c900d1c",
+    "title": "ABD Başkanı Trump'tan İran açıklaması: Görüşme hafta sonu olabilir",
+    "source": "Haber Global",
+    "time": "16/04/2026 21:14",
+    "link": "https://haberglobal.com/gundem/abd-baskani-trumptan-iran-aciklamasi-gorusme-hafta-sonu-olabilir-519284",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran konusunda büyük ilerleme kaydettiklerini ve bir sonraki görüşmenin hafta sonu gerçekleşebileceğini belirtti. Trump, anlaşma olmaması hâlinde çatışmaların tekrardan başlayacağını ifade etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
+    "keyword": null
+  },
+  {
     "id": "TKP_1c854e33",
     "title": "Trabzonspor Zirvede! Trabzonspor’dan İstatistiklerle Güç Gösterisi",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Erdoğan, Kuzey Kıbrıs Cumhurbaşkanı Tufan Erhürman ile Dolmabahçe Çalışma Ofisi'nde bir araya geldi. Görüşmede bölgesel konular ile Türkiye-Kuzey Kıbrıs gündemdeydi. Erdoğan'ın görüşmede, İran'a yönelik saldırılar nedeniyle Avrupa ülkeleri tarafından Kıbrıs'a yerleştirilen askeri unsurların kalıcı olmaması gerektiğini ifade ettiği bildirildi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/16/erdogan-ile-erhurman-bir-araya-geldi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a6d5185c",
-    "title": "DİSK, KESK, TMMOB ve TTB: 1 Mayıs'ta Kadıköy'deyiz",
-    "source": "BirGün",
-    "time": "16/04/2026 20:33",
-    "link": "https://www.birgun.net/haber/disk-kesk-tmmob-ve-ttb-1-mayis-ta-kadikoy-deyiz-706284",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DİSK, KESK, TMMOB ve TTB, 2026 1 Mayıs'ının Kadıköy İskele Meydanı'nda gerçekleşeceğini duyurdu.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/disk-kesk-tmmob-ve-ttb-1-mayis-ta-kadikoy-deyiz.jpg",
     "keyword": null
   }
 ]
