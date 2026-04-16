@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70295aa3",
+    "title": "Polis noktasına yönelik terör saldırısına ilişkin gözaltına alınan saldırgan tutuklandı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 20:53",
+    "link": "https://www.trthaber.com/haber/turkiye/polis-noktasina-yonelik-teror-saldirisina-iliskin-gozaltina-alinan-saldirgan-tutuklandi-941934.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beşiktaş'ta, Yapı Kredi Plaza önündeki polis noktasına yönelik terör saldırısına ilişkin gözaltına alınan terörist Onur Çelik tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_99b952e8",
     "title": "Okullardaki saldırılara ilişkin paylaşım yapan 2 kişi tutuklandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TruthSocial'dan açıklama yapan Trump, ateşkesin 10 gün süreceğini bildirdi. Trump, \"Dünya genelinde 9 savaşı çözmüş olmak benim için bir onurdu ve bu da 10’uncusu olacak. Haydi, BUNU BAŞARALIM!\" ifadesini kullandı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/16/trump-duyurdu-israil-in-saldirilari-altindaki-lubnan-da-ateskes.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_0a531821",
-    "title": "TFF açıkladı! Tüm maçlar öncesi dikkat çeken uygulama",
-    "source": "61 Saat",
-    "time": "16/04/2026 20:13",
-    "link": "https://www.61saat.com/tff-acikladi-tum-maclar-oncesi-dikkat-ceken-uygulama",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TFF, haftasonu programında Kahramanmaraş’ta hayatını kaybedenler için 1 dakikalık saygı duruşu kararı açıkladı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/4-kopya-257.png",
     "keyword": null
   }
 ]
