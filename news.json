@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6192de82",
+    "title": "Okul saldırıları sonrası çocuklara Telegram gözaltıları",
+    "source": "DW Türkçe",
+    "time": "16/04/2026 14:15",
+    "link": "https://www.dw.com/tr/okul-saldırıları-sonrası-çocuklara-telegram-gözaltıları/a-76805048",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yargı ve emniyet güçleri, Kahramanmaraş ve Şanlıurfa'daki okul saldırıları sonrası \"saldırı tehdidi\" yaptığı iddia edilen çocukları gözaltına aldı. Yetkililer özellikle Telegram'daki paylaşımları inceliyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_6c098368",
     "title": "Tarih Verildi! Trabzon Meydan Köprü Altı Dinlenme Tesisi Oluyor",
     "source": "Günebakış",
@@ -946,17 +958,5 @@
     "summary": "Türkiye’yi sarsan okul saldırılarının ardından Trabzon’da bir ortaokulun sosyal medya hesabına yapılan tehdit içerikli yorum paniğe neden oldu. Emniyet birimleri hızla devreye girdi.",
     "image": "https://resim.haber61.net/news/612939.jpg",
     "keyword": null
-  },
-  {
-    "id": "SOC_0c6b6c91",
-    "title": "@veryansintv.bsky.social: Emniyet’ten ‘Telegram’ adımı: C31K grubu kapatıldı\n\nwww.very...",
-    "source": "Bluesky",
-    "time": "16/04/2026 09:27",
-    "link": "https://bsky.app/profile/veryansintv.bsky.social/post/3mjlqxd4qms2a",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "Emniyet’ten ‘Telegram’ adımı: C31K grubu kapatıldı\n\nwww.veryansintv.com/emniyetten-t...",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3jnshcqslrllgbyqdxuijxoz/bafkreihx3tcjeo7gente4al6t7hnuqieknvholzkneexinunodeuwnbrfi",
-    "keyword": "c31k"
   }
 ]
