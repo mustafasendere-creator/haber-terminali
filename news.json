@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_349fc33c",
+    "title": "Öğrencilerden İstanbul İl Milli Eğitim Müdürlüğü önünde eylem: “Yusuf Tekin istifa etmek için daha kaç kişinin yaşamını yitirmesini bekliyor”",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 21:34",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/ogrencilerden-istanbul-il-milli-egitim-mudurlugu-onunde-eylem-yusuf-tekin-istifa-etmek-icin-daha-kac-kisinin-yasamini-yitirmesini-bekliyor-2495807",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir grup öğrenci, okullardaki şiddet olaylarına karşı İstanbul Milli Eğitim Müdürlüğü önünde eylem yaptı. Açıklamada, “Biz Yusuf Tekin’in başını çektiği kamusal, bilimsel ve laik eğitimimize saldırılara karşı bir aradayız, Milli Eğitim Müdürlüğü’nün karşısındayız. Geleceğimizi karartanlara karşı kurtarılacak bir geleceğimiz olduğunu ve bunu Yusuf Tekin’e rağmen bizim kurtaracağımızı söylemek için buradayız. Yusuf Tekin istifa etmek için daha kaç çocuğun, kaç öğretmenin yaşamını yitirmesini bekliyor” denildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b6d8a207-580e-4a25-8243-44d4bbfbb49f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_566d1d72",
     "title": "Trump'tan 'İran' iddiaları: 'Anlaşma yapmak istiyor, nükleeri vermeyi kabul ettiler'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "KESK Samsun Şubeler Platformu, “Eğitimde şiddet tesadüf değil, sistematik bir sonuçtur” diyerek Milli Eğitim Bakanı’nı istifaya çağırdı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343336.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f21acc63",
-    "title": "Lufthansa küçülmeye gidiyor",
-    "source": "BirGün",
-    "time": "16/04/2026 20:53",
-    "link": "https://www.birgun.net/haber/lufthansa-kuculmeye-gidiyor-706293",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Alman havayolu şirketi Lufthansa, grevleri ve yakıt fiyatlarındaki artışı sebep göstererek küçülmeye gideceğini duyurduç",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/lufthansa-kuculmeye-gidiyor.jpg",
     "keyword": null
   }
 ]
