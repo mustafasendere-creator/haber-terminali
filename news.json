@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ebe748ac",
+    "title": "Son dakika... Kütahya Simav’da 3.6 büyüklüğünde deprem",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 19:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kutahya-simav-da-3-6-buyuklugunde-deprem-2495789",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AFAD verilerine göre Simav’da meydana gelen 3.6 büyüklüğündeki deprem yerin 10.64 kilometre derinliğinde gerçekleşti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f9a4a770-0b61-4774-9401-5ed4bbd53f23.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ca660660",
     "title": "Fatih'te silahlı saldırı: Yaralı var",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hatay’da kendi tırını tamir ettiği esnada aracın hareket etmesiyle tekerlerin altında kalarak ezilen şoför hayatını kaybetti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/kendi-tirini-tamir-ederken-soforun-aci-sonu-lkmk.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ec6be175",
-    "title": "MHP'den peş peşe kararlar: Teşkilatlar feshedildi... Sayı artıyor",
-    "source": "OdaTV",
-    "time": "16/04/2026 19:15",
-    "link": "https://www.odatv.com/guncel/mhpden-pes-pese-kararlar-teskilatlar-feshedildi-sayi-artiyor-120143543",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Genel Başkan Yardımcısı Semih Yalçın, MHP Kütahya, Eskişehir ve Kars İl Teşkilatının feshedildiğini açıkladı. Odatv MHP kaynaklarından feshi kararının sebebini öğrendi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/mhpden-pes-pese-kararlar-kutahya-ve-eskisehir-il-teskilatlari-feshedildi-qfss.jpg",
     "keyword": null
   }
 ]
