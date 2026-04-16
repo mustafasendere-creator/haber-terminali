@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e6c05f1c",
+    "title": "İran Cumhurbaşkanı, ABD'nin mesajını getiren Pakistan Genelkurmay Başkanı ile görüştü",
+    "source": "BirGün",
+    "time": "16/04/2026 23:53",
+    "link": "https://www.birgun.net/haber/iran-cumhurbaskani-abd-nin-mesajini-getiren-pakistan-genelkurmay-baskani-ile-gorustu-706307",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan ile ABD'nin mesajını iletmek üzere gelen Pakistan'ın Genelkurmay Başkanı Mareşal Asım Munir Tahran'da görüştü.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/iran-cumhurbaskani-abd-nin-mesajini-getiren-pakistan-genelkurmay-baskani-ile-gorustu.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a473a421",
     "title": "Hakan Fidan, Pakistan Başbakanı Şahbaz Şerif ile görüştü",
     "source": "BirGün",
@@ -946,17 +958,5 @@
     "summary": "DFSK C31  YouTube",
     "image": null,
     "keyword": "c31"
-  },
-  {
-    "id": "GND_e9e556b3",
-    "title": "Dev derbinin hakemi Halil Umut Meler oldu",
-    "source": "OdaTV",
-    "time": "16/04/2026 22:54",
-    "link": "https://www.odatv.com/spor/dev-derbinin-hakemi-halil-umut-meler-oldu-120143603",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yunanistan Süper Ligi’nde Panathinaikos ile Olympiakos arasında oynanacak derbiyi Türk hakem Halil Umut Meler yönetecek. Dev karşılaşma pazar günü 21.00’de Apostolos Nikolaidis Stadı’nda oynanacak.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/dev-derbinin-hakemi-halil-umut-meler-oldu-m4qh.jpg",
-    "keyword": null
   }
 ]
