@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c2274e20",
+    "title": "Gaziantep’te işçi cinayeti: Toprak altında kaldı, hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "16/04/2026 19:53",
+    "link": "https://www.evrensel.net/haber/5979980/gaziantepte-isci-cinayeti-toprak-altinda-kaldi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şahinbey ilçesinde kanalizasyon hattı çalışması sırasında meydana gelen göçükte toprak altında kalan 52 yaşındaki Necmettin Doğan, kaldırıldığı hastanede 5 gün süren yaşam mücadelesini kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343331.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_54cede3b",
     "title": "Trabzonspor’un eski yıldızı için İtalya devi devrede!",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Avrupa Birliği (AB) Komisyonu, Google'a arama motoru verilerini üçüncü taraflarla paylaşmasını önerdi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d216daff-182b-4d17-a01f-50b31640355e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_36b93e4a",
-    "title": "DİSK, KESK, TMMOB ve TTB: 1 Mayıs'ta Kadıköy'deyiz",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 19:14",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/disk-kesk-tmmob-ve-ttb-1-mayis-ta-kadikoy-deyiz-2495783",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "DİSK, KESK, TMMOB ve TTB, 2026 1 Mayısı'nın Kadıköy İskele Meydanı'nda gerçekleşeceğini duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e977a6e1-5aef-4fbb-8a11-0851d660ddc3.jpg",
     "keyword": null
   }
 ]
