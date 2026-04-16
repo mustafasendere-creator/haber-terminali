@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2e6db76b",
+    "title": "Uçak bilet fiyatlarına dev zam",
+    "source": "BirGün",
+    "time": "16/04/2026 03:04",
+    "link": "https://www.birgun.net/haber/ucak-bilet-fiyatlarina-dev-zam-705922",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uçak yolculuklarında zam kapıda. İç hatlarda tavan fiyatın 6 bin 990 liraya yükseltilmesinin ardından uzman isim, yakıt maliyetlerindeki devasa artış nedeniyle bilet fiyatlarında %35’e varan yeni zamların 'kaçınılmaz' olduğu uyarısında bulundu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/15/ucak-bilet-fiyatlarina-dev-zam.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9a7e131d",
     "title": "Şanlıurfa’daki okul saldırısında 16 şüpheli gözaltına alındı",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Eğitim-İş ve Eğitim Sen okullarda can güvenliğinin sağlanması talebiyle 16-17 Nisan tarihlerinde Türkiye genelinde iş bırakma kararı aldı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/16/ogretmenlerden-2-gun-daha-is-birakma-karari-5qww_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4bb35a42",
-    "title": "Aile dehşeti! Eşini öldürdü, kızını yaraladı",
-    "source": "Sözcü",
-    "time": "16/04/2026 01:25",
-    "link": "https://www.sozcu.com.tr/aile-dehseti-esini-oldurdu-kizini-yaraladi-p310610",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aile dehşeti! Eşini öldürdü, kızını yaraladı",
-    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/ailejpg-dNUQdPD6l0yrmY6NsVoOyA.jpg",
     "keyword": null
   }
 ]
