@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e9cec515",
+    "title": "AB, Körfez ülkeleriyle yakınlaşmak istiyor",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 16:13",
+    "link": "https://www.aa.com.tr/tr/dunya/ab-korfez-ulkeleriyle-yakinlasmak-istiyor/3907948",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Körfez ülkeleriyle daha yakın ortaklık kurmak istediklerini duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_da19347f",
     "title": "PAB 152. Genel Kurulunda adil küresel ekonominin inşasına ilişkin taslak karar değerlendirildi",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "İzmir’de eğitim emekçileri ve kitle örgütleri, partiler okullardaki saldırılara karşı sokağa çıktı. En güvenli yerler olması gereken okullarda peş peşe silahlı saldırıların yaşandığı belirtilen açıklamada; “Saldırılar oluyor, sorumlusu yok\" denildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343284.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_37c35de1",
-    "title": "Trabzonlu Karateci Hırvatistan Yolcusu: Eyüp Yılmaz’dan Büyük Başarı",
-    "source": "Taka Gazetesi",
-    "time": "16/04/2026 15:34",
-    "link": "https://www.takagazete.com.tr/trabzonlu-karateci-hirvatistan-yolcusu-eyup-yilmazdan-buyuk-basari",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Of Karate Kulübü sporcusu Eyüp Yılmaz, Hırvatistan'daki WKF Dünya Gençlik Ligi'nde Milli Takım formasıyla ter dökecek. Trabzon'un gururu Eyüp'ün başarı dolu yolculuğu!",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/571c3e47-7771-40ff-ada0-fe14457dffc1.jpg",
-    "keyword": "trabzon"
   }
 ]
