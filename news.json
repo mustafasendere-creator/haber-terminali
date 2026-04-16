@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1075022",
+    "title": "İğneden ipliğe hissediliyor",
+    "source": "BirGün",
+    "time": "16/04/2026 05:44",
+    "link": "https://www.birgun.net/haber/igneden-iplige-hissediliyor-706101",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD-İran’ın müzakere süreci motorin fiyatını aşağı çekse de uçak biletinden gıdaya fiyat artışları devam ediyor. Hafta ortasına motorine zam uyarıları yapıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/igneden-iplige-hissediliyor.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_2cddb9a0",
     "title": "Ataol’un doğum günü!",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD’nin İran’a yönelik deniz ablukası iddiaları ve bölgedeki askeri hareketlilik sürerken, Hürmüz Boğazı’nda bulunan Türkiye'ye ait gemiler bölgeden çıkış yaparak \"güvenli sular\"a yöneldi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342177.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f9473cde",
-    "title": "100 euroya Picasso: 1 milyon euro değerindeki tablo çekilişle sahibini buldu",
-    "source": "BirGün",
-    "time": "16/04/2026 02:45",
-    "link": "https://www.birgun.net/haber/100-euroya-picasso-1-milyon-euro-degerindeki-tablo-cekilisle-sahibini-buldu-705923",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa'da bir kişi, 1 milyon euro değerindeki Picasso eserine, düzenlenen çekiliş sonucunda 100 euroya sahip oldu.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/100-euroya-picasso-1-milyon-euro-degerindeki-tablo-cekilisle-sahibini-buldu.jpg",
     "keyword": null
   }
 ]
