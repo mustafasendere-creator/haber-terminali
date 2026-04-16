@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f51f1f8d",
+    "title": "Merkez Bankası rezervleri 170,9 milyar dolara çıktı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 15:34",
+    "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1709-milyar-dolara-cikti-941902.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Cumhuriyet Merkez Bankasının TCMB toplam rezervleri, 10 Nisan haftasında bir önceki haftaya göre 9 milyar 270 milyon dolar artarak 170 milyar 915 milyon dolara yükseldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9000cf67",
     "title": "Hegseth: İran nükleer anlaşmaya uymazsa, ABD operasyonları yeniden başlatmaya hazır",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ordu, Giresun ve Trabzon’da fındık üretiminde dikkat çeken verim düşüşü, “Bahçeler yaşlandı mı?” sorusunu gündeme taşıyor.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/trabzon-2.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_ff9003b6",
-    "title": "Beton pompasının bomu yüksek gerilim hattına çarptı: 1'i ağır 2 işçi yaralandı",
-    "source": "BirGün",
-    "time": "16/04/2026 15:13",
-    "link": "https://www.birgun.net/haber/beton-pompasinin-bomu-yuksek-gerilim-hattina-carpti-1-i-agir-2-isci-yaralandi-706237",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır'ın merkez Kayapınar ilçesinde yapımı devam eden bir hastane inşaatında çalışan beton pompasının bomu, çalışma sırasında yüksek gerilim hattına çarptı. Çarpma sırasında elektrik akımına kapılan 1'i ağır 2 işçi yaralandı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/beton-pompasinin-bomu-yuksek-gerilim-hattina-carpti-1-i-agir-2-isci-yaralandi.jpg",
     "keyword": null
   }
 ]
