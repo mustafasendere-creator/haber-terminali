@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d1b556da",
+    "title": "Bolu'da rüşvet operasyonu: 3 gözaltı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 23:34",
+    "link": "https://www.trthaber.com/haber/turkiye/boluda-rusvet-operasyonu-3-gozalti-941950.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu'da düzenlenen rüşvet operasyonunda 3 şüpheli gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_2e2e4d50",
     "title": "Burak Yılmaz'a iki maç men, 75 gün hak mahrumiyeti ve para cezası",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TOKİ, 45 ilde 353 arsayı yüzde 25 peşinat ve 48 ay vade ile satışa çıkaracak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/318137.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_34527797",
-    "title": "CHP Bursa Grup Sözcüsü Akbulut: Zedelenen yalnızca bir makam değil, doğrudan demokrasidir",
-    "source": "BirGün",
-    "time": "16/04/2026 22:53",
-    "link": "https://www.birgun.net/haber/chp-bursa-grup-sozcusu-akbulut-zedelenen-yalnizca-bir-makam-degil-dogrudan-demokrasidir-706303",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa Büyükşehir Belediye Meclisi, Bozbey'in yerine seçilen AKP'li Şahin Biba'nın başkanlığında ilk defa toplandı. CHP'li üyeler Başkan Bozbey'in tutuklanmasını protesto etti.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/chp-bursa-grup-sozcusu-akbulut-zedelenen-yalnizca-bir-makam-degil-dogrudan-demokrasidir.jpg",
     "keyword": null
   }
 ]
