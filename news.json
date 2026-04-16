@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f9cb3c58",
+    "title": "Kahramanmaraş'ta saldırganı etkisiz hale getiren Necmettin Bekçi yaşadıklarını anlattı",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 19:53",
+    "link": "https://www.aa.com.tr/tr/gundem/kahramanmarasta-saldirgani-etkisiz-hale-getiren-necmettin-bekci-yasadiklarini-anlatti/3908304",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta okula yönelik saldırının faili İsa Aras Mersinli'ye müdahale ederek etkisiz hale getiren velilerden Necmettin Bekçi, okulda yaşananları anlattı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0bf70bd9",
     "title": "CANLI | Başkan Erdoğan'dan önemli açıklamalar",
     "source": "A Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Başkanı Ertuğrul Doğan, yaz transfer dönemi için liste hazır olduğunu ve görüşmelerin başladığını açıkladı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/trabzonspordan-beklenen-transfer-aciklamasi-gorusmeler-basladi-ayriliklar-netlesti-1.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_51a4552d",
-    "title": "Ankara yürüyüşünde 4. gün: Doruk Madencilik işçilerinden ikisi baygınlık geçirdi",
-    "source": "Evrensel",
-    "time": "16/04/2026 19:13",
-    "link": "https://www.evrensel.net/haber/5979974/ankara-yuruyusunde-4-gun-doruk-madencilik-iscilerinden-ikisi-bayginlik-gecirdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Doruk Madencilik işçileri Eskişehir Mihalıççık’tan Ankara’ya başlattıkları yürüyüşte 4. günü geride bıraktı. Ödenmeyen ücret ve tazminatları için yollara düşen emekçilerden ikisi, yürüyüş sırasında fenalaşarak hastaneye kaldırıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342804.jpg",
-    "keyword": null
   }
 ]
