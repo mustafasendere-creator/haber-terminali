@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b3211655",
+    "title": "Güney MarmaraAdalar hattında feribot seferlerine hava engeli",
+    "source": "TRT Haber",
+    "time": "16/04/2026 23:14",
+    "link": "https://www.trthaber.com/haber/turkiye/guney-marmara-adalar-hattinda-feribot-seferlerine-hava-engeli-941946.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güney MarmaraAdalar hattında yarın bazı feribot seferleri olumsuz hava şartları nedeniyle iptal edildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_956af1b3",
     "title": "Epstein bağlantılı eski İngiliz Büyükelçi'nin, olumsuz güvenlik raporuna rağmen ABD'ye atandığı ortaya çıktı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uluslararası Para Fonu (IMF), savaşın etkisiyle Orta Doğu ve Kuzey Afrika bölge ekonomisinin büyüme hızının, bu yıl yavaşlayarak yüzde 1,1'e gerileyeceği tahmininde bulundu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_2748c355",
-    "title": "Kerkük'e 100 yıl sonra Türk Vali seçildi",
-    "source": "OdaTV",
-    "time": "16/04/2026 22:15",
-    "link": "https://www.odatv.com/guncel/kerkuke-100-yil-sonra-turk-vali-secildi-120143600",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Irak’ın Kerkük vilayeti valiliği görevine, Irak Türkmen Cephesi (ITC) Başkanı Muhammed Seman Ağa seçildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/kerkuke-100-yil-sonra-turk-vali-secildi-va2x.jpg",
     "keyword": null
   }
 ]
