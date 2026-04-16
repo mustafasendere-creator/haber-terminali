@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f9c0015c",
+    "title": "BM: İsrail'in Gazze'deki yerleşim bölgelerine saldırıları ve top atışları devam ediyor",
+    "source": "TRT Haber",
+    "time": "16/04/2026 22:34",
+    "link": "https://www.trthaber.com/haber/dunya/bm-israilin-gazzedeki-yerlesim-bolgelerine-saldirilari-ve-top-atislari-devam-ediyor-941942.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler BM, İsrail'in ateşkes kurallarının geçerli olduğu Gazze'ye yönelik saldırılarının devam ettiğini, bunun \"daha fazla sivili tehlikeye attığını\" bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3890fac2",
     "title": "Kahramanmaraş ve Siverek: Okullarda şiddet neden artıyor?",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Eğitim Sen İstanbul 7 No’lu Şube, Urfa ve Maraş’taki okul saldırılarını protesto ederek Milli Eğitim Bakanı Yusuf Tekin’i istifaya çağırdı; eylemde MESEM ve Maarif Modeli’nin yarattığı tahribata dikkat çekildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343338.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7cd9027a",
-    "title": "Infantino, savaşa rağmen İran'ın ABD'nin ev sahipliğindeki Dünya Kupası'nda oynayacağında ısrarlı",
-    "source": "Euronews",
-    "time": "16/04/2026 21:53",
-    "link": "http://tr.euronews.com/2026/04/16/infantino-savasa-ragmen-iranin-abdnin-ev-sahipligindeki-dunya-kupasinda-oynayacaginda-isra",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "FIFA başkanı, devam eden savaşa rağmen İran'ın Dünya Kupası'nda oynayacağını doğruladı ve sporun köprüler kurması ve siyasetin dışında kalması gerektiğini söyledi.",
-    "image": null,
     "keyword": null
   }
 ]
