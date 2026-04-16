@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3d79aef",
+    "title": "ASKİ 15 Nİsan barajlar",
+    "source": "Habertürk",
+    "time": "16/04/2026 20:15",
+    "link": "https://www.haberturk.com/15-nisan-aski-barajlar-ankara-barajlarinda-su-seviyesi-yuzde-kac-oldu-3877459",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Başkentte havaların yavaş yavaş ısınmasıyla birlikte, vatandaşların en çok merak ettiği konuların başında Ankara barajlarındaki su oranı geliyor. Ankara Su ve Kanalizasyon İdaresi (ASKİ) tarafından paylaşılan verilere göre, başkente su sağlayan barajların son durumu açıklandı. İşte 15 Nisan itibarıyla ASKİ barajlarının güncel durumu...",
+    "image": "https://im.haberturk.com/l/2026/04/15/ver1776233957/3877459/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_934a060f",
     "title": "İSKİ 15 Nisan baraj doluluk oranı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul’un kalbinde, CVK Hotels &amp; Resorts Grubu’nun lüks segmentteki oteli CVK Park Bosphorus Hotel’in, İstanbul’un eşsiz manzarasına sahip mekânı Izaka Terrace’ta İki gece boyunca gerçekleşen “Four Hands Dinner” etkinliği, farklı mutfak kültürlerini aynı sofrada buluşturarak misafirlerine unutulmaz bir akşam yaşattı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/16/izaka-terraceta-iki-sefin-imza-lezzetleri-ayni-masada-bulustu-8ywy_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bd790443",
-    "title": "Trump duyurdu: İsrail ve Lübnan 10 günlük ateşkeste anlaştı",
-    "source": "Ekonomim",
-    "time": "16/04/2026 19:35",
-    "link": "https://www.ekonomim.com/dunya/trump-duyurdu-israil-ve-lubnan-10-gunluk-ateskeste-anlasti-haberi-888580",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İsrail ve Lübnan’ın 10 günlük geçici bir ateşkes anlaşmasına vardıklarını duyurdu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/trump-cin-irana-silah-gondermemeyi-kabul-etti-eqvx_cover.jpg",
     "keyword": null
   }
 ]
