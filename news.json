@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0af95083",
+    "title": "Kahramanmaraş: Okulda silahlı saldırıda 10 kişi öldü",
+    "source": "DW Türkçe",
+    "time": "16/04/2026 14:54",
+    "link": "https://www.dw.com/tr/kahramanmaraş-okulda-silahlı-saldırıda-10-kişi-öldü/a-76790820",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta bir ortaokulda düzenlenen silahlı saldırıda hayatını kaybedenlerin sayısı 10'a yükseldi. Saldırıda çok sayıda kişi de yaralandı. Okulda 8'inci sınıf öğrencisi olan saldırganın babası tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_57541b17",
     "title": "Hüseyin Kazaz Kültür Merkezi Kapılarını Açıyor",
     "source": "Kuzey Ekspres",
@@ -946,17 +958,5 @@
     "summary": "Eğitim Sen Denizli Şubesi Urfa'daki saldırının ardından Maraş'taki okulda yaşanan katliamı protesto etti. Okullarda can güvenliği talep edilen açıklamada yaşam nöbetine katılım çağrısı yapıldı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343265.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_0344cc80",
-    "title": "Trabzonspor Ukraynalı oyuncu için Alman devleriyle savaşıyor",
-    "source": "Haber61",
-    "time": "16/04/2026 14:34",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-ukraynali-oyuncu-icin-alman-devleriyle-savasiyor-h629757.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Dinamo Kiev forması giyen Matviy Ponomarenko’ya ilgisinin bulunduğu öğrenildi. Ancak bordo-mavililerin genç forvet transferinde zorlu bir süreçle karşı karşıya olduğu, oyuncuya Almanya’dan dev kulüplerin ilgisi olduğunu ifade etti.",
-    "image": "https://resim.haber61.net/news/613004.jpg",
-    "keyword": "trabzon"
   }
 ]
