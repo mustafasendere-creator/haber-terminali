@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d42a2cce",
+    "title": "Avrupa borsaları günü karışık seyirle kapattı",
+    "source": "Ekonomim",
+    "time": "16/04/2026 19:35",
+    "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-gunu-karisik-seyirle-kapatti-haberi-888581",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa borsaları haftanın dördüncü işlem gününü karışık seyirle tamamladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/07/avrupa-borsalari-gunu-dususle-kapatti-hin9_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_86bdd0df",
     "title": "Bugün televizyonda neler var?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye İstatistik Kurumu (TÜİK) şubat ayına ilişkin ücretli çalışan istatistiklerini yayımladı. Buna göre Şubat 2025&#8217;te 15 milyon 297 bin 723 kişi olan sanayi, inşaat ve ticaret-hizmet sektörleri toplamında ücretli çalışan sayısı, şubatta yüzde 1,3 artışla 15 milyon 501 bin 511 kişiye yükseldi. Söz konusu ayda ücretli çalışan sayısı, sanayi sektöründe yıllık bazda yüzde 3,2 azaldı, [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69e0aab7c4c6f5.12608402.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_36545b84",
-    "title": "Meteoroloji’den hafta sonu uyarısı: Yağış geliyor, sıcaklık düşüyor",
-    "source": "BirGün",
-    "time": "16/04/2026 19:13",
-    "link": "https://www.birgun.net/haber/meteorolojiden-hafta-sonu-uyarisi-yagis-geliyor-sicaklik-dusuyor-706254",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji'nin verilerine göre, hafta sonu yurt genelinde çok bulutlu ve yağışlı hava hakim olacak. İç ve batı kesimlerde mevsim normallerinin üzerinde seyreden hava sıcaklıkları, hafta sonu kuzeybatıdan başlayarak azalacak ve yer yer mevsim normallerinin altına düşecek.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/meteorolojiden-hafta-sonu-uyarisi-yagis-ve-sicaklik-dususu.jpg",
     "keyword": null
   }
 ]
