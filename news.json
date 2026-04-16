@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5cb3615c",
+    "title": "Mersin'de 'Narenciye' krizi",
+    "source": "OdaTV",
+    "time": "16/04/2026 07:06",
+    "link": "https://www.odatv.com/guncel/mersinde-narenciye-krizi-120143489",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin&#039;de ormanlık alana oluşturulan narenciye bahçelerinin kaldırılması kararına tepki gösteren köylüler, iş makinelerinin önünde oturarak polis ekipleriyle karşı karşıya geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/mersinde-narenciye-krizi-3zif.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f1e51c4b",
     "title": "Karaköy Palas yeniden açılıyor: KÜME'den sanat dünyasına yeni merkez",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Sakarya Adapazarı'nda 3 sokak boyunca polisle çatışan şahıs, okul önünde vurularak etkisiz hale getirildi. Aksiyon filmlerini aratmayan çatışma anı ve şahsın etkisiz hale getirilmesi saniye saniye cep telefonu kamerasıyla kaydedildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/sakaryada-polisle-catisan-sahis-okul-onunde-vuruldu-o-anlar-kamerada-octw.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_890bc687",
-    "title": "Hrant Dink Hafıza Mekânı",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 04:04",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/hrant-dink-hafiza-mekani-2495526",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Zaman uçuyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar96_cover.jpeg",
-    "keyword": "hrant dink"
   }
 ]
