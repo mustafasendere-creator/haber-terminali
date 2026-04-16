@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_07d0e9b2",
+    "title": "Nadir görülen bir asteroit, Dünya'ya uydulardan daha yakın bir mesafeden geçecek",
+    "source": "TRT Haber",
+    "time": "16/04/2026 07:05",
+    "link": "https://www.trthaber.com/haber/dunya/nadir-gorulen-bir-asteroit-dunyaya-uydulardan-daha-yakin-bir-mesafeden-gececek-941821.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"99942 Apophis\" adlı göktaşı, 2029 yılında Dünya'nın yakınından tarihi bir geçiş yapmaya hazırlanıyor. Yaklaşık 340 metre genişliğindeki devasa asteroit, 13 Nisan 2029 Cuma günü Dünya'ya 32 bin kilometre mesafeye kadar yaklaşacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bb9ae79a",
     "title": "ABD ve İran arasında ateşkesin uzatılması için dolaylı görüşmeler sürüyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/15/global-para-sisteminde-degisim-olur-mu-o4dv_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3238e379",
-    "title": "6 sene sonra... Gülistan Doku soruşturmasında 'PTS kayıtları' ortaya çıktı",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 03:45",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/6-sene-sonra-gulistan-doku-sorusturmasinda-pts-kayitlari-ortaya-cikti-2495455",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli’de Gülistan Doku soruşturması kapsamında gözaltına alınan şüpheli Mustafa Türkay Sonel ve hakkında yakalama kararı çıkartılan arkadaşı Umut Altaş’ın aynı araçta olduğu Plaka Tanıma Sistemi (PTS) kayıtları ortaya çıktı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8cfaf307-2b8c-4bd0-8486-e866b11a9a48.jpg",
     "keyword": null
   }
 ]
