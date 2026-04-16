@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_51a4552d",
+    "title": "Ankara yürüyüşünde 4. gün: Doruk Madencilik işçilerinden ikisi baygınlık geçirdi",
+    "source": "Evrensel",
+    "time": "16/04/2026 19:13",
+    "link": "https://www.evrensel.net/haber/5979974/ankara-yuruyusunde-4-gun-doruk-madencilik-iscilerinden-ikisi-bayginlik-gecirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Doruk Madencilik işçileri Eskişehir Mihalıççık’tan Ankara’ya başlattıkları yürüyüşte 4. günü geride bıraktı. Ödenmeyen ücret ve tazminatları için yollara düşen emekçilerden ikisi, yürüyüş sırasında fenalaşarak hastaneye kaldırıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342804.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d1b5e57d",
     "title": "Lufthansa, yakıt maliyetleri ve grevler nedeniyle CityLine'ı kapatma kararı aldı",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Milliyetçi Hareket Partisi (MHP) Trabzon Arsin İlçe Başkanlığı’na Abdülaziz Turgut’un ataması resmen tamamlandı. Yeni yönetim kurulu listesi de belli oldu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/8-kopyasi-3-148.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_7c3f067d",
-    "title": "Online nefret gruplarına dair bilinenler: Okul saldırıları Telegram'da mı örgütleniyor?",
-    "source": "Euronews",
-    "time": "16/04/2026 18:33",
-    "link": "http://tr.euronews.com/next/2026/04/16/online-nefret-gruplarina-dair-bilinenler-okul-saldirilari-telegramda-mi-orgutleniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nefret ve şantaj grupları neden Discord ve Telegram'dan çıkıyor? Peki bu platformları tamamen yasaklamak çözüm olur mu?",
-    "image": null,
-    "keyword": null
   }
 ]
