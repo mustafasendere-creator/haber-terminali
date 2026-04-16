@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0e86b1d1",
+    "title": "Samsung Galaxy Watch modellerindeki batarya sorunu çıkmazı",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 20:34",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/samsung-galaxy-watch-modellerindeki-batarya-sorunu-cikmazi-2495798",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsung'un Galaxy Watch 5 ve Watch 6 Classic akıllı saat modellerinde teknik bir sorun bulunuyor. Bu sorun, kullanıcıların bataryalarının çok kısa sürede tükenmesine neden oluyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/3785a02b-d3ec-4379-bea0-9bbd61bd161c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_235f3ade",
     "title": "Lionel Messi İspanya'da kulüp satın aldı!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Pakistan hükümeti, ABD ve İran'ın yakında tekrar ateşkes için müzakereler yapmaya istekli olduğunu ancak yer ve tarih bilgisinin bulunmadığını bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8032a635",
-    "title": "Cumhurbaşkanı Erdoğan, Somali Cumhurbaşkanı Mahmud ile görüştü",
-    "source": "TRT Haber",
-    "time": "16/04/2026 19:54",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-somali-cumhurbaskani-mahmud-ile-gorustu-941929.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Somali Cumhurbaşkanı Hasan Şeyh Mahmud ile bir araya geldi.",
     "image": null,
     "keyword": null
   }
