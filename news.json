@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_936b2959",
+    "title": "İzmir'de binlerce eğitim emekçisi şiddete karşı sokaktaydı: Saldırılar oluyor, sorumlusu yok",
+    "source": "Evrensel",
+    "time": "16/04/2026 20:53",
+    "link": "https://www.evrensel.net/haber/5979934/izmir-de-binlerce-egitim-emekcisi-siddete-karsi-sokaktaydi-saldirilar-oluyor-sorumlusu-yok",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir’de eğitim emekçileri ve kitle örgütleri, partiler okullardaki saldırılara karşı sokağa çıktı. En güvenli yerler olması gereken okullarda peş peşe silahlı saldırıların yaşandığı belirtilen açıklamada; “Saldırılar oluyor, sorumlusu yok\" denildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343284.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_334bfb27",
     "title": "İskender Bayhan, Alican Uludağ ve Merdan Yanardağ'ın mesajını iletti: 'Okul katliamları güvenlikle çözülemez'",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail hapishanelerinden serbest bırakılan Filistinli Muhammed Zeki el-Bekri, 20 ay boyunca farklı cezaevleri ve gözaltı merkezlerinde maruz kaldığını söylediği işkence ve kötü muameleyi, \"Hapisten girdiğim gibi çıkmadım.\" sözleriyle dile getirdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_2953a72e",
-    "title": "Trabzon’da 12 yabancı acente ağırlandı! Yeni hedefler yeni pazarlar",
-    "source": "Haber61",
-    "time": "16/04/2026 20:13",
-    "link": "https://www.haber61.net/trabzon/trabzonda-12-yabanci-acente-agirlandi-yeni-hedefler-yeni-pazarlar-h629800.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’daÖzbekistan ve Rusya’dan gelen 12 seyahat acentesini ağırlandı. FAM Trip organizasyonunun, bölge turizmine katkı sağlamayı ve Trabzon’un uluslararası bilinirliğini artırmayı hedeflediği belirtildi.",
-    "image": "https://resim.haber61.net/news/613083.jpg",
     "keyword": null
   }
 ]
