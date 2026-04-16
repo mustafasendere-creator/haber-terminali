@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8f3417a5",
+    "title": "MEB önünde \"yaşam nöbeti\": Okullarımız güvenli değil",
+    "source": "DW Türkçe",
+    "time": "16/04/2026 14:54",
+    "link": "https://www.dw.com/tr/meb-önünde-yaşam-nöbeti-okullarımız-güvenli-değil/a-76803470",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Okullardaki saldırılar nedeniyle Milli Eğitim Bakanlığı önünde \"yaşam nöbeti\" başlatan eğitim sendikaları, \"Gelin, hep birlikte eğitime, öğretmenlere, çocuklara ve geleceğimize sahip çıkalım\" çağrısı yaptı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_ff125885",
     "title": "Trabzon sağlık sektöründe \"Kaçak bakıcı\" iddiası! Hastanelerde denetim zafiyeti mi var?",
     "source": "Kuzey Ekspres",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Yomra’da yaşayan 1926 doğumlu Cemalettin Çalık, ailesinin düzenlediği sürprizle 100. yaş gününü kutladı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/16/large/cemalettin-calik.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_ad10ab1e",
-    "title": "Eski Trabzonsporlu oyuncu futbola veda etti",
-    "source": "Haber61",
-    "time": "16/04/2026 14:34",
-    "link": "https://www.haber61.net/trabzonspor/eski-trabzonsporlu-oyuncu-futbola-veda-etti-h629758.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un eski golcülerinden Oscar Cardozo, aktif futbol kariyerini noktaladı. Paraguaylı santrfor, uzun yıllara yayılan kariyerini ülkesinin Libertad takımında tamamladı.",
-    "image": "https://resim.haber61.net/news/613006.jpg",
-    "keyword": "trabzon"
   }
 ]
