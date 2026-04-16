@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d64d5f0a",
+    "title": "İş makinesinin kovasının çarptığı işçi öldü",
+    "source": "Evrensel",
+    "time": "16/04/2026 18:33",
+    "link": "https://www.evrensel.net/haber/5979971/is-makinesinin-kovasinin-carptigi-isci-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tekirdağ’ın Malkara ilçesinde fiber optik kablo döşeme çalışması sırasında iş makinesinin kovasının çarptığı 74 yaşındaki işçi Ökkeş Erol hayatını kaybetti. Operatör gözaltına alınırken olayla ilgili soruşturma başlatıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343321.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_345601b4",
     "title": "MHP Arsin İlçe Başkanlığı’na Abdülaziz Turgut Atandı",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kahramanmaraş&#039;ta i Ayser Çalık Ortaokulu&#039;nda meydana gelen silahlı saldırı olayında, saldırganı bir veli ile öğretmenin durdurduğu ortaya çıktı",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/16/large/olay.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ac31a8d8",
-    "title": "Şanlıurfa'daki okul saldırısında yaralanan 10 kişi taburcu edildi",
-    "source": "TRT Haber",
-    "time": "16/04/2026 17:55",
-    "link": "https://www.trthaber.com/haber/turkiye/sanliurfadaki-okul-saldirisinda-yaralanan-10-kisi-taburcu-edildi-941921.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa Valisi Hasan Şıldak, Siverek ilçesindeki bir okula düzenlenen silahlı saldırıda yaralanan 10 kişinin, tedavilerinin ardından taburcu edildiğini bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
