@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_476fd7ac",
+    "title": "Meteoroloji'den son rapor: Bu illerimize yarından itibaren sağanak yağış geliyor",
+    "source": "Haber Global",
+    "time": "16/04/2026 06:25",
+    "link": "https://haberglobal.com/gundem/16-nisan-2026-hava-durumu-meteorolojiden-son-rapor-bu-illerimize-yarindan-itibaren-saganak-yagis-geliyor-519059",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji 16 Nisan 2026 hava durumu raporunu yayımladı. Yeni rapora göre yarından itibaren 76 ilimizde sağanak yağış bekleniyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/16-nisan-2026-hava-durumu-meteorolojiden-son-rapor-bu-illerimize-yarindan-itibaren-saganak-yagis-geliyor-wbjg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_edb54602",
     "title": "Öğretmeni Kahramanmaraş canisi İsa Aras Mersinli'yi anlattı!",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Zonguldak’ın Ereğli ilçesine bağlı Gülüç beldesinde eski Belediye Başkanı Gökhan Mustafa Demirtaş, yolsuzluk ve görevi kötüye kullanma iddiaları kapsamında gözaltına alındı. Operasyonda 3 belediye personeli de yakalandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/eac2266b-73f4-47b9-b9c2-30f253553434.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_818361d4",
-    "title": "Okul saldırıları sonrası korkunç paylaşımlar... Yer ve tarih verip tehdit ettiler: İstanbul Valisi Davut Gül'den açıklama",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 03:05",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/okul-saldirilari-sonrasi-korkunc-paylasimlar-yer-ve-tarih-verip-tehdit-ettiler-istanbul-valisi-davut-gul-den-aciklama-2495498",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş ve Şanlıurfa’da meydana gelen okul saldırıları sonrası Telegram gruplarında saldırıları öven mesajlar ortaya çıktı. Gruplarla yapılan konuşmalarda saldırganların övüldüğü ve yeni saldırılar için tarih verildiği görüldü. İstanbul Valisi Davut Gül’den konuya ilişkin bir açıklama geldi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e7bbe3b8-43ab-49ed-b80f-21f4c47b6871.jpg",
     "keyword": null
   }
 ]
