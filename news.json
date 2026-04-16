@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bde18917",
+    "title": "Gülistan Doku'nun annesi Bedriye Doku: Ben kızımın kemiklerini almadan ölüme kadar burada oturacağım",
+    "source": "Evrensel",
+    "time": "16/04/2026 16:13",
+    "link": "https://www.evrensel.net/haber/5979941/gulistan-doku-nun-annesi-bedriye-doku-ben-kizimin-kemiklerini-almadan-olume-kadar-burada-oturacagim",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adliye önünde konuşan anne Bedriye Doku, soruşturmanın baş şüphelisinin dönemin Tunceli Valisi Tuncay Sonel olduğunu söyleyerek, “Kızımın kemiklerini almadan buradan gitmeyeceğim” dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343295.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_318c3d6c",
     "title": "Menderes Emek ve Demokrasi Platformu: \"Okullarda şiddet istemiyoruz",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Aydın'ın Efeler ilçesinde polis ekiplerinin 'dur' ihtarına uymayıp trafik kurallarını hiçe sayarak kaldırımdan ilerleyen ve vatandaşlara korku dolu anlar yaşatan şahıs kovalamaca sonucu yakalandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/kaldirimdan-kacti-500-bin-liradan-oldu-vg23.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f51f1f8d",
-    "title": "Merkez Bankası rezervleri 170,9 milyar dolara çıktı",
-    "source": "TRT Haber",
-    "time": "16/04/2026 15:34",
-    "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1709-milyar-dolara-cikti-941902.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Cumhuriyet Merkez Bankasının TCMB toplam rezervleri, 10 Nisan haftasında bir önceki haftaya göre 9 milyar 270 milyon dolar artarak 170 milyar 915 milyon dolara yükseldi.",
-    "image": null,
     "keyword": null
   }
 ]
