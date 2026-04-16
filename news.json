@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8dab7cee",
+    "title": "Hafta sonu yağmur var",
+    "source": "10Haber",
+    "time": "16/04/2026 17:54",
+    "link": "https://10haber.net/cevre/hafta-sonu-yagmur-var-2-695770/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğünden yapılan açıklamaya göre, yarın yurt genelinde parçalı ve çok bulutlu, Ege, Akdeniz, Doğu ve Güneydoğu Anadolu&#8217;nun batısı ile Bilecik, Bolu, Ankara, Eskişehir, Konya, Karaman, Niğde, Kayseri ve Sivas çevrelerinde sağanak ve yer yer gök gürültülü sağanak bekleniyor. Rüzgarın Marmara’da kuzeyli yönlerden, Doğu Akdeniz ile Kayseri ve Niğde çevrelerinde güneydoğulu yönlerden kuvvetli eseceği [&#8230;]",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69e0f66431e9b4.04862253.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5a6f10c6",
     "title": "Sürdürülebilir Küresel Mimarlık Ödülü İstanbul’da verildi",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gaziantep'in İslahiye ilçesinde, Kahramanmaraş ve Şanlıurfa’daki okul saldırıları üzerinden adliyeyi hedef gösteren paylaşımlar yapan C.D., tutuklandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/adliyeyi-hedef-alan-paylasimlar-sonrasi-harekete-gecildi-tutuklandi-rou0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bd414ac1",
-    "title": "Cumhurbaşkanı Erdoğan, KKTC Cumhurbaşkanı Erhürman ile bir araya geldi",
-    "source": "Haber Global",
-    "time": "16/04/2026 17:14",
-    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-kktc-cumhurbaskani-erhurman-ile-bir-araya-geldi-519253",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ile görüştü.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/cumhurbaskani-erdogan-kktc-cumhurbaskani-erhurman-ile-bir-araya-geldi-el2u.jpg",
     "keyword": null
   }
 ]
