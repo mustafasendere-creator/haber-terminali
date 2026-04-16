@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e5e36a5d",
+    "title": "Sanko Süper Film fabrikasında iş cinayeti: İki işçi hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "16/04/2026 23:33",
+    "link": "https://www.evrensel.net/haber/5979918/sanko-super-film-fabrikasinda-is-cinayeti-iki-isci-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırklareli’nin Lüleburgaz ilçesinde Sanko Süper Film fabrikasında iş makinasının devrilmesi sonucu iki işçi yaşamını yitirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343263.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_abbea755",
     "title": "Sarayın gümüşleri internette satılmış: Elysee'deki hırsızlığa hapis cezası",
     "source": "Euronews",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Voleybol Vodafone Sultanlar Ligi play-off final serisi dördüncü maçında Fenerbahçe Medicana, sahasında VakıfBank'ı 3-2 mağlup etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3c5765da",
-    "title": "Yağız Kaan Erdoğmuş satranç tarihine geçti",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 22:53",
-    "link": "https://www.aa.com.tr/tr/spor/yagiz-kaan-erdogmus-satranc-tarihine-gecti/3908530",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli satranççı Yağız Kaan Erdoğmuş, 2700 ELO (satranç derecelendirme sistemi) barajını aşarak dünya satranç tarihinde \"bu seviyeye ulaşan en genç büyükusta\" ünvanını aldı.",
     "image": null,
     "keyword": null
   }
