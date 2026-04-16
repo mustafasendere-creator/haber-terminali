@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_77c0c478",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect westbound delays on Route C31 at C...",
+    "source": "Bluesky",
+    "time": "16/04/2026 16:36",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjmfa22rxf2z",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert: Expect westbound delays on Route C31 at Capitol Heights Station due to an incident. Track your bus in real time by visiting wmata.com/metropulse",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "GND_0e6de8a8",
     "title": "Borlease'te neler oluyor: Şirket krizde, hisseler yükselişte... Tavan fiyatların perde arkası",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Şanlıurfa ve Kahramanmaraş yaşanan okul saldırılarının ardından onlarca sosyal medya hesabı kapatıldı. Peki, C31K nedir? C31K grubunun amacı ne? C31K açılımı ne?",
     "image": "https://media.cumhuriyet.com.tr/Archive/c2d1bbac-e91e-47fc-a8f8-d23144fea4cd.jpg",
     "keyword": "c31k"
-  },
-  {
-    "id": "GND_bd083afa",
-    "title": "Schengen bölgesinde pasaport otomasyonu gecikmelere neden oluyor",
-    "source": "10Haber",
-    "time": "16/04/2026 16:13",
-    "link": "https://10haber.net/populer/pasaport-kontrolunde-uygulama-degisti-yeni-sistem-ucak-kacirtiyor-695689/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği genelinde manuel pasaport damgalama işleminin yerini alan dijital Entry/Exit System (EES), uygulama aşamasına geçilmesiyle birlikte havalimanı yer hizmetlerinde yeni bir çalışma düzenini beraberinde getirdi. Biyometrik veri kayıt prosedürleri nedeniyle pasaport kontrol noktalarındaki işlem sürelerinde artış gözlemlenirken; resmi makamlar ve havalimanı işletmecileri, sistemin işleyişine yönelik farklı değerlendirmelerde bulunuyor. Mevcut tablonun, yolcu trafiğinin artacağı yaz [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69e0cb5394b0f5.39644413.jpg",
-    "keyword": null
   }
 ]
