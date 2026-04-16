@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d43ff931",
+    "title": "Siverek'te okul saldırısı: 16 kişi gözaltına alındı",
+    "source": "DW Türkçe",
+    "time": "16/04/2026 08:05",
+    "link": "https://www.dw.com/tr/siverek-te-okul-saldırısı-16-kişi-gözaltına-alındı/a-76802749",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'da lisede silahlı saldırı olayında 16 şüpheli gözaltına alındı. Olayda 16 kişi yaralanmıştı. Bir gün sonra Kahramanmaraş'ta meydana gelen okul saldırısında ise 9 can kaybı oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b5848aea",
     "title": "Feray Aytekin Aydoğan: Öğretmenlerin sesini duymamak politik tercihti",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Okul bahçemiz yenileniyor. Okulumuz bahçesine iki adet basketbol potası monte edildi. Öğrencilerimizin boş zamanlarını daha verimli kullanmalarını sağlamaya çalışıyoruz. Akçaabat belediyesi başkanlığına ve spor işleri müdürlüğüne okulumuz adına teşekkü  x.com",
     "image": null,
     "keyword": "mevlüt selami yardım"
-  },
-  {
-    "id": "GND_fbb96a97",
-    "title": "Sovyetler çöktü... Neoliberalizm krizde... Çin nasıl başardı: Batı'nın kavramları yetersiz",
-    "source": "OdaTV",
-    "time": "16/04/2026 06:25",
-    "link": "https://www.odatv.com/yazarlar/soner-yalcin/sovyetler-coktu-neoliberalizm-krizde-cin-nasil-basardi-batinin-kavramlari-yetersiz-120143459",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Soner Yalçın yazdı...",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/15/sovyetler-coktu-neoliberalizm-krizde-cin-nasil-basardi-batinin-kavramlari-yetersiz-u3fj.jpg",
-    "keyword": null
   }
 ]
