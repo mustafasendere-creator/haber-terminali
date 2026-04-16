@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_25f5ebb5",
+    "title": "Hafta sonu hava durumu nasıl olacak?",
+    "source": "TRT Haber",
+    "time": "16/04/2026 15:54",
+    "link": "https://www.trthaber.com/haber/turkiye/hafta-sonu-hava-durumu-nasil-olacak-941906.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İç ve batı kesimlerde mevsim normallerinin üzerinde seyreden hava sıcaklıkları, hafta sonu kuzeybatıdan başlayarak azalacak ve yer yer mevsim normallerinin altına düşecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b5659093",
     "title": "Okul saldırıları: Çocuklar arasında şiddet neden büyüyor?",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Okul saldırıları: İncel ve C31K nedir?\r\n\r\nŞanlıurfa ve Kahramanmaraş'taki okul saldırıları sonrası polis, onlarca sosyal medya hesabının kapatıldığını açıkladı\r\n\r\nPeki, incellik ve C31K ile ilişkilendirilen bu hesaplara dair ne biliniyor?",
     "image": null,
     "keyword": "c31k"
-  },
-  {
-    "id": "GND_9a131292",
-    "title": "Okul saldırılarını öven çocuğa gözaltı",
-    "source": "OdaTV",
-    "time": "16/04/2026 15:16",
-    "link": "https://www.odatv.com/guncel/okul-saldirilarini-oven-cocuga-gozalti-120143557",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bolu’da bir ortaokul öğrencisinin WhatsApp grubunda paylaştığı tehdit içerikli ses kayıtları paniğe neden oldu. Okul müdürü ve arkadaşlarını hedef alan 13 yaşındaki öğrenci polis ekiplerince gözaltına alındı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/okul-saldirilarini-oven-cocuga-gozalti-aejm.png",
-    "keyword": null
   }
 ]
