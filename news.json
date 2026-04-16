@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_905df8c9",
+    "title": "Daha Neler - YouTube",
+    "source": "YouTube",
+    "time": "16/04/2026 17:58",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZDVhTWJmcVlfaEV1YUo1UTRycW12YVFtay1meEVack1wVER2RTdCNlZFSTlwLThLS3FhejE3cWdmZ0NfbF84MGJhNFh6X2N4ZEJqdmJR",
+    "type": "SOC",
+    "prefix": "▶️",
+    "summary": "Daha Neler  YouTube",
+    "image": null,
+    "keyword": "c31k"
+  },
+  {
     "id": "SOC_5808b9a3",
     "title": "@metrobusinfo.bsky.social: C31 Service Alert Update: Buses are operating on or near sch...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye'yi sarsan okul saldırılarıyla ilgili tehdit paylaşımları yapan 127 kişi gözaltına alındı",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/3/kolluk-polis-jandarma-operasyon-gozalti-tutuklama-spot-10jpg-LBJbWvM7QUODDR_hDBTlCA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6edba82e",
-    "title": "Okul saldırıları sonrası operasyonlar sürüyor... Emniyet son verileri açıkladı: 127 kişiye gözaltı, 1115 URL adresine erişim engeli!",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 17:34",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/okul-saldirilari-sonrasi-operasyonlar-suruyor-emniyet-son-verileri-acikladi-127-kisiye-gozalti-1115-url-adresine-erisim-engeli-2495763",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Emniyet Genel Müdürlüğü, Kahramanmaraş ve Şanlıurfa'da okullara yönelik saldırıların ardından \"halkı yanıltıcı nitelikte paylaşımlar yapan, tehdit ve eylem\" çağrısında bulunan 127 kişinin gözaltına alındığını, 1115 internet adresinin ise erişime kapatıldığını açıkladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/74c3945e-4b44-41cc-9eda-d8b985e1ad1e.jpg",
     "keyword": null
   }
 ]
