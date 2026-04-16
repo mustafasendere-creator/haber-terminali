@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c1de95d6",
+    "title": "Pakistan heyeti İran'da",
+    "source": "Habertürk",
+    "time": "16/04/2026 23:15",
+    "link": "https://www.haberturk.com/pakistanli-ust-duzey-heyetin-abd-iran-muzakerelerini-gorusmek-icin-iran-a-gittigi-belirtildi-3877622",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pakistan Genelkurmay Başkanı Mareşal Asım Munir'in başkanlığındaki heyetin, ABD'den İran'a bir mesaj iletmek ve iki ülke arasında ikinci tur görüşmeleri planlamak üzere İran'a doğru yola çıktığı bildirildi.",
+    "image": "https://im.haberturk.com/l/2026/04/15/ver1776262046/3877622/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_65dd6f3c",
     "title": "Bakanlar ateşkesi basından mı öğrendi? Netanyahu'dan 'acil güvenlik' kabinesi toplantısı iddiası",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un Galatasaray maçı sonrası aldığı cezalara yaptığı itiraz sonuçlandı. Tahkim Kurulu bazı cezaları kaldırırken, tribün blokeleri ve bazı para cezalarını onadı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/mansetler-1-335.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_11f43202",
-    "title": "Trump: 'İsrail ve Lübnan 10 günlük ateşkes konusunda anlaştı'",
-    "source": "Euronews",
-    "time": "16/04/2026 22:33",
-    "link": "http://tr.euronews.com/2026/04/16/trump-israil-ve-lubnan-10-gunluk-ateskes-konusunda-anlasti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trump perşembe günü erken saatlerde İsrail ve Lübnanlı liderlerin 30 yıldan uzun bir süredir ilk kez doğrudan bir görüşme yaparak çatışmaların durdurulması konusunu ele alacaklarını duyurmuştu.",
-    "image": null,
-    "keyword": null
   }
 ]
