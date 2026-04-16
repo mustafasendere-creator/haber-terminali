@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_566d1d72",
+    "title": "Trump'tan 'İran' iddiaları: 'Anlaşma yapmak istiyor, nükleeri vermeyi kabul ettiler'",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 21:34",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-iddialari-anlasma-yapmak-istiyor-nukleeri-vermeyi-kabul-ettiler-2495808",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, yaptığı açıklamalarda İran'ın anlaşma yapmak istediğini ve elindeki nükleerleri vermeyi kabul edip, nükleer silah gelişmekten vazgeçtiklerini iddia etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/28243fb5-5c7d-4ecc-9720-8d98ed7e06bf.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_e5b1b04e",
     "title": "Trabzonspor'un eski teknik adamından dikkat çeken sözler: ''İstanbul kulüplerinin borcu bir devletin borcundan fazla''",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Alman havayolu şirketi Lufthansa, grevleri ve yakıt fiyatlarındaki artışı sebep göstererek küçülmeye gideceğini duyurduç",
     "image": "https://static.birgun.net/resim/haber/2026/04/16/lufthansa-kuculmeye-gidiyor.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0e6e4f56",
-    "title": "ABD Temsilciler Meclisi, Trump'ın İran saldırılarını kısıtlayan \"savaş yetkileri\" tasarısını sadece 1 oy farkla reddetti",
-    "source": "BirGün",
-    "time": "16/04/2026 20:53",
-    "link": "https://www.birgun.net/haber/abd-temsilciler-meclisi-trump-in-iran-saldirilarini-kisitlayan-savas-yetkileri-tasarisini-sadece-1-oy-farkla-reddetti-706292",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Temsilciler Meclisi, ABD Başkanı Trump'ın İran'da askeri güç kullanmasına yönelik yetkilerini kısıtlayan tasarıyı sadece 1 oy farkla reddetti.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/abd-temsilciler-meclisi-trump-in-iran-saldirilarini-kisitlayan-savas-yetkileri-tasarisini-sadece-1-oy-farkla-reddetti.jpg",
     "keyword": null
   }
 ]
