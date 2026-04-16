@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6e78b70a",
+    "title": "Dünyanın en iyi 100 mutfağı belli oldu",
+    "source": "Habertürk",
+    "time": "16/04/2026 14:55",
+    "link": "https://www.haberturk.com/dunyanin-en-iyi-100-mutfagi-belli-oldu-zirvede-italya-var-turkiye-kacinci-sirada-3877172",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dijital gastronomi rehberi TasteAtlas (Lezzet Atlası), ‘’Dünyanın en iyi 100 mutfağı’’ listesini açıkladı. İtalyan mutfağının zirvede yer aldığı listede Türkiye’nin sıralaması ise dikkat çekti. İşte TasteAtlas'a göre dünyanın en iyi mutfakları ve Türkiye’nin listedeki yeri...",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776205737/3877172/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_9e0a0567",
     "title": "Güncel altın fiyatları",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Narin Güran cinayeti davasında yeniden yargılanan ailenin komşusu Nevzat Bahtiyar, \"nitelikli kasten öldürme suçuna yardım\" suçundan 17 yıl hapis cezasına mahkum edildi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_25ae114e",
-    "title": "Trabzonspor - Başakşehir maçının hakemi açıklandı!",
-    "source": "Kuzey Ekspres",
-    "time": "16/04/2026 14:35",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27821693/trabzonspor-basaksehir-macinin-hakemi-aciklandi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig’in 30. haftasında Trabzonspor’un evinde RAMS Başakşehir’i ağırlayacağı maçın hakem kadrosu belli oldu.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2024/11/27/large/hakem1.webp",
-    "keyword": "trabzon"
   }
 ]
