@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bfe5a98d",
+    "title": "Euro Bölgesi'nde enflasyon fırladı: Beklentiler aşıldı",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 14:16",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/euro-bolgesi-nde-enflasyon-firladi-beklentiler-asildi-2495691",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eurostat tarafından açıklanan mart ayı enflasyon verileri, Euro Bölgesi ve AB’de fiyat artışlarının hızlandığını ortaya koydu. Açıklanan veriler piyasa beklentilerinin üzerinde gerçekleşti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d8c2fa87-632c-41b0-a331-ad75062e26cd.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_291d6f82",
     "title": "Trabzon'da futbol zirvesi",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon&#039;un Ortahisar, Akçaabat, Arsin ve Araklı ilçelerinde 16 Nisan 2026 tarihinde yatırım ve bakım çalışmaları nedeniyle planlı elektrik kesintileri yapılacak.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/01/30/large/trabzon-elektrik-kesintisi-30-ocak-2026-cuma-tam-liste.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_6eaa9f2e",
-    "title": "TBMM Başkanı Kurtulmuş, PAB Yönlendirme Komitesi toplantısına katıldı",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 09:45",
-    "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-pab-yonlendirme-komitesi-toplantisina-katildi/3907298",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, TBMM'nin ev sahipliğinde İstanbul'da gerçekleştirilen Parlamentolar Arası Birlik (PAB) 152'nci Genel Kurulu kapsamındaki PAB Yönlendirme Komitesi toplantısına katıldı.",
-    "image": null,
     "keyword": null
   }
 ]
