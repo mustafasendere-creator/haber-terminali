@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1abb302d",
+    "title": "Samsun’da Eğitimde şiddete karşı büyük yürüyüş: Bu karanlığı birlikte dağıtacağız",
+    "source": "Evrensel",
+    "time": "16/04/2026 20:53",
+    "link": "https://www.evrensel.net/haber/5979986/samsun-da-egitimde-siddete-karsi-buyuk-yuruyus-bu-karanligi-birlikte-dagitacagiz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "KESK Samsun Şubeler Platformu, “Eğitimde şiddet tesadüf değil, sistematik bir sonuçtur” diyerek Milli Eğitim Bakanı’nı istifaya çağırdı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343336.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f21acc63",
     "title": "Lufthansa küçülmeye gidiyor",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Temsilciler Meclisi, Başkan Donald Trump'ın İran'a yönelik saldırılarının Kongre onayına tabi olmasını öngören \"savaş yetkileri\" tasarısını Cumhuriyetçilerin oylarıyla sadece 1 oy farkla reddetti.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_15ff9fce",
-    "title": "Gümüşhane’de üniversite öğrencilerinden alkışlanacak hareket!",
-    "source": "Haber61",
-    "time": "16/04/2026 20:13",
-    "link": "https://www.haber61.net/gumushane/gumushanede-universite-ogrencilerinden-alkislanacak-hareket-h629801.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Gümüşhane Üniversitesi öğrencilerin bir araya gelerek lise öğrencilerine yönelik kitap desteği takdir gördü.",
-    "image": "https://resim.haber61.net/news/613084.jpg",
     "keyword": null
   }
 ]
