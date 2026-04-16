@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f21acc63",
+    "title": "Lufthansa küçülmeye gidiyor",
+    "source": "BirGün",
+    "time": "16/04/2026 20:53",
+    "link": "https://www.birgun.net/haber/lufthansa-kuculmeye-gidiyor-706293",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman havayolu şirketi Lufthansa, grevleri ve yakıt fiyatlarındaki artışı sebep göstererek küçülmeye gideceğini duyurduç",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/lufthansa-kuculmeye-gidiyor.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0e6e4f56",
     "title": "ABD Temsilciler Meclisi, Trump'ın İran saldırılarını kısıtlayan \"savaş yetkileri\" tasarısını sadece 1 oy farkla reddetti",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Gümüşhane Üniversitesi öğrencilerin bir araya gelerek lise öğrencilerine yönelik kitap desteği takdir gördü.",
     "image": "https://resim.haber61.net/news/613084.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_98017181",
-    "title": "Kriz kapıda: 6 haftalık yakıt kaldı",
-    "source": "OdaTV",
-    "time": "16/04/2026 19:54",
-    "link": "https://www.odatv.com/guncel/kriz-kapida-6-haftalik-yakit-kaldi-120143594",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası Enerji Ajansı Başkanı Fatih Birol, Avrupa’da jet yakıtı stoklarının hızla tükendiğini belirterek, Orta Doğu’dan tedarik sağlanamazsa uçuş iptallerinin gündeme gelebileceğini açıkladı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/kriz-kapida-6-haftalik-yakit-kaldi-8dng.jpg",
     "keyword": null
   }
 ]
