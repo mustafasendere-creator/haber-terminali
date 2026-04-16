@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f1006c5c",
+    "title": "Kahramanmaraş'taki saldırıda hayatını kaybeden öğretmene son veda",
+    "source": "TRT Haber",
+    "time": "16/04/2026 17:34",
+    "link": "https://www.trthaber.com/haber/gundem/kahramanmarastaki-saldirida-hayatini-kaybeden-ogretmene-son-veda-941903.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ın Onikişubat ilçesinde okulda düzenlenen silahlı saldırıda hayatını kaybeden matematik öğretmeni Ayla Kara son yolculuğuna uğurlandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0e64216b",
     "title": "Başkentte bir tırda 3 bin 125 güneş gözlüğü ele geçirildi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş’ta okula silahlı saldırı düzenleyen öğrencinin saldırıyı gerçekleştirmeden 2 gün önce poligonda atış yaptığı görüntüler ortaya çıktı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/16/kahramanmaras-saldirganinin-poligonda-atis-talimi-yaptigi-anlar-kamerada-6kxe_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0234b831",
-    "title": "İstanbul'da 264 bin nokta takibe alındı",
-    "source": "Habertürk",
-    "time": "16/04/2026 16:56",
-    "link": "https://www.haberturk.com/istanbul-da-264-bin-nokta-takibe-alindi-3877627",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Büyükşehir Belediyesi (İBB), yaz aylarının yaklaşmasıyla birlikte 39 ilçede yürüttüğü vektörlerle mücadele çalışmalarını yoğunlaştırdı. Bilimsel veriler ve dijital takip sistemleri eşliğinde yürütülen hazırlıklar kapsamında, şehir genelindeki 264 binden fazla üreme kaynağı kontrol altına alınıyor. İstanbul genelinde sürdürülen çalışmalar; Avrupa Yakası'nda 4, Anadolu Yakası'nda 3 birim olmak üzere toplam 7 merkezden koordine ediliyor",
-    "image": "https://im.haberturk.com/l/2026/04/15/ver1776262974/3877627/jpg/1280x1280",
     "keyword": null
   }
 ]
