@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_11f43202",
+    "title": "Trump: 'İsrail ve Lübnan 10 günlük ateşkes konusunda anlaştı'",
+    "source": "Euronews",
+    "time": "16/04/2026 22:33",
+    "link": "http://tr.euronews.com/2026/04/16/trump-israil-ve-lubnan-10-gunluk-ateskes-konusunda-anlasti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trump perşembe günü erken saatlerde İsrail ve Lübnanlı liderlerin 30 yıldan uzun bir süredir ilk kez doğrudan bir görüşme yaparak çatışmaların durdurulması konusunu ele alacaklarını duyurmuştu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4b38d4a8",
     "title": "7. İzmir Kitap Fuarı yarın başlıyor",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bolu’da İl Jandarma Komutanlığı ekiplerinin Manavlar ve Pazarcılar Esnaf Odası ile Kredi ve Kefalet Kooperatifi’nde yaptığı aramaların ardından Başkan Mustafa Altındal ve 2 personeli gözaltına alındı. Belediye soruşturmasıyla bağlantılı olduğu belirtilen operasyon sonrası 3 isim adliyeye sevk edildi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/16/bolu-belediyesi-ne-yonelik-sorusturma-2-adrese-baskin-3-gozalti.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_080c5abe",
-    "title": "Kahramanmaraş'taki okul saldırısında hayatını kaybeden Ayla öğretmenin eşi Ramazan Kara: \"Örnek bir öğretmendi\"",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 21:53",
-    "link": "https://www.aa.com.tr/tr/gundem/kahramanmarastaki-okul-saldirisinda-hayatini-kaybeden-ayla-ogretmenin-esi-ramazan-kara-ornek-bir-ogretmendi/3908494",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş'taki okul saldırısında hayatını kaybeden Ayla öğretmenin eşi Ramazan Kara, eşinin örnek bir öğretmen olduğunu belirterek, \"Öğrencilerini çok severdi. Emekliliği geldiği halde emekli olmamıştı. 'Ben okulu çok seviyorum' diyordu.\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
