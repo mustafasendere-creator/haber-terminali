@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f7fea61",
+    "title": "KKM bakiyesindeki azalma yavaşladı",
+    "source": "Haber Global",
+    "time": "16/04/2026 15:15",
+    "link": "https://haberglobal.com/ekonomi/kkm-bakiyesindeki-azalma-yavasladi-519213",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları (KKM) geçen hafta 13 milyon lira azalarak 1 milyar 502 milyon liraya geriledi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/kkm-bakiyesindeki-azalma-yavasladi-xluj.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_88d1d953",
     "title": "Ariana Grande, Robert De Niro ve Ben Stiller'ın kadroda olduğu Focker In-Law'dan fragman geldi!",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "KESK Adana Şubeler Platformu Valiliğe yürüyerek okullara yönelik saldırıları protesto etti. Yurttaşların destek verdiği eylemde, eğitim kurumlarının çocuklar ve eğitim emekçileri için en güvenli alanlar olması gerektiği vurgulandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343275.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_58db863d",
-    "title": "OpenAI, Anthropic'ten sonra sınırlı erişimli siber güvenlik modeli tanıttı",
-    "source": "Euronews",
-    "time": "16/04/2026 14:54",
-    "link": "http://tr.euronews.com/next/2026/04/16/openai-anthropicten-sonra-sinirli-erisimli-siber-guvenlik-modeli-tanitti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Chat GPT 5.4 Cyber, onu kullanacak doğrulanmış siber güvenlik profesyonelleri için, güvenlik sorularına yönelik kısıtlamaları önemli ölçüde azaltıyor.",
-    "image": null,
     "keyword": null
   }
 ]
