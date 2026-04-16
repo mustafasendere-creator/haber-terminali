@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_29352066",
+    "title": "Gülistan Doku soruşturmasında gözaltına alınan 1 şüpheli tutuklandı",
+    "source": "BirGün",
+    "time": "16/04/2026 18:53",
+    "link": "https://www.birgun.net/haber/gulistan-doku-sorusturmasinda-gozaltina-alinan-1-supheli-tutuklandi-706279",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Munzur Üniversitesi öğrencisi Gülistan Doku’nun kaybolmasına ilişkin yürütülen soruşturma kapsamında gözaltına alınan eski polis Gökhan Ertok tutuklandı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/gulistan-doku-sorusturmasinda-gozaltina-alinan-1-supheli-tutuklandi.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_e3ea8b55",
     "title": "CHP'den AKP'ye geçen Serik Belediye Başkanı: En iyi hizmeti sunmak amacıyla yeni bir yol yürümeye karar verdim",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Emniyet, Kahramanmaraş ve Şanlıurfa'da okullara yönelik saldırıların ardından \"halkı yanıltıcı nitelikte paylaşımlar yapan, tehdit ve eylem\" çağrısında bulunan 127 kişinin gözaltına alındığını, 1115 internet adresinin ise erişime kapatıldığını duyurdu.",
     "image": "https://static.birgun.net/resim/haber/2026/04/16/emniyet-ten-okul-saldirilari-hakkinda-aciklama-127-kisi-gozaltina-alindi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5ece5b96",
-    "title": "ABD Savunma Bakanı'ndan İran'a yönelik tehdit",
-    "source": "BirGün",
-    "time": "16/04/2026 18:13",
-    "link": "https://www.birgun.net/haber/abd-savunma-bakani-ndan-iran-a-yonelik-tehdit-706273",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Savunma Bakanı Hegseth, İran yönetiminin kötü bir seçim yapması durumunda ülkenin altyapısı, elektriği ve enerjisine \"bombalar yağdırılacağı\" tehdidinde bulundu.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/abd-savunma-bakani-ndan-iran-a-yonelik-tehdit.jpg",
     "keyword": null
   }
 ]
