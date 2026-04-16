@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_177759c2",
+    "title": "Yüksekova'da bir okulda hareketli dakikalar... Liseden gelen ihbar, güvenlik güçlerini teyakkuza geçirdi",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 19:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/yuksekova-da-bir-okulda-hareketli-dakikalar-liseden-gelen-ihbar-guvenlik-guclerini-teyakkuza-gecirdi-2495785",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari'nin Yüksekova ilçesinde bir liseden gelen ihbar, güvenlik güçlerini teyakkuza geçirdi. Yapılan detaylı incelemelerin ardından ihbarın asılsız olduğu anlaşıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c087b1ef-36fe-4232-9bf3-cbb39e2e7a65.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_cccf6906",
     "title": "Arda Güler, Şampiyonlar Ligi'nde haftanın en iyi 11'inde!",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Milli Eğitim Bakanı Yusuf Tekin, Adalet Bakanı Akın Gürlek, Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Kahramanmaraş'taki okul saldırısında hayatını kaybeden öğretmen Ayla Kara'nın ailesine taziye ziyaretinde bulundu.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "SOC_83514788",
-    "title": "@nurfe.bsky.social: SUMELA MONASTERY, TRABZON",
-    "source": "Bluesky",
-    "time": "16/04/2026 18:57",
-    "link": "https://bsky.app/profile/nurfe.bsky.social/post/3mjmpdg55ok2e",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "SUMELA MONASTERY, TRABZON",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:azz3znjsst6xe5g27apnh65c/bafkreieb5a6j6fm4wydsi4uzorx6o32u5sfngrvhsavqg2rfxwvhflk5cm",
-    "keyword": "trabzon"
   }
 ]
