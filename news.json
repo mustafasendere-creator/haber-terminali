@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64d68875",
+    "title": "Nvidia, kuantum bilgisayarlar için açık yapay zeka modeli Ising'i duyurdu",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 03:24",
+    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/nvidia-kuantum-bilgisayarlar-icin-acik-yapay-zeka-modeli-ising-i-duyurdu-2495475",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nvidia, kuantum bilişim alanındaki çalışmalarını hızlandırmayı hedefleyen yeni nesil açık yapay zeka modellerini tanıttı. Ising adı verilen bu modeller, klasik bilgisayarlarla kuantum sistemler arasındaki köprüyü güçlendirmeyi ve kullanışlı kuantum bilgisayarların geliştirilme sürecini hızlandırmayı amaçlıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2321f1b8-10c3-49db-837a-01a228791c79.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_07f01473",
     "title": "Danıştay’dan metro ihaleleri için kritik karar: İBB'nin talebi kabul edildi",
     "source": "BirGün",
@@ -946,17 +958,5 @@
     "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, Kahramanmaraş'ta meydana gelen hadiseyi istismar ederek, sosyal medya üzerinden yayılmaya çalışılan \"saldırı sonucu kayıp çocuklar var\" iddialarının asılsız olduğunu belirtti.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_b778f714",
-    "title": "Provokasyon yapan 66 URL adresi hakkında erişimin engellenmesi talebinde bulunuldu",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 01:45",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/provokasyon-yapan-66-url-adresi-hakkinda-erisimin-engellenmesi-talebinde-bulunuldu-2495560",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Kahramanmaraş’ta bir okulda meydana gelen saldırıya ilişkin Telegramda 'provokasyon' yapan 66 URL adresi hakkında içerik çıkarılması ve erişimin engellenmesi talebinde bulunuldu. Saldırıya ilişkin görüntülerin paylaşıldığı tespit edilen ve yaklaşık 100 bin üyesi bulunan ‘C31K’ adlı grup kapatıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8548aaf1-2a70-4983-9f9a-232732a03212.jpg",
-    "keyword": "c31k"
   }
 ]
