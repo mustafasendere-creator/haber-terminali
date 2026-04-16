@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_123dc7c7",
+    "title": "Cumhurbaşkanı Erdoğan, Somali Cumhurbaşkanı Hasan Şeyh Mahmud ile görüştü",
+    "source": "Haber Global",
+    "time": "16/04/2026 19:14",
+    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-somali-cumhurbaskani-hasan-seyh-mahmud-ile-gorustu-519270",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Somali Cumhurbaşkanı Hasan Şeyh Mahmud ile bir araya geldi. Görüşmede ikili ilişkiler ve bölgesel gelişmeler ele alındı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/cumhurbaskani-erdogan-somali-cumhurbaskani-hasan-seyh-mahmud-ile-gorustu-hj5q.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_de2e0694",
     "title": "ABD'nin Wisconsin eyaletinde şiddetli yağış ve sel nedeniyle acil durum ilan edildi",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Ortahisar Kanuni Bulvarı’nda taş yüklü kamyon yangını çıktı, itfaiye müdahalesiyle söndürüldü, maddi hasar oluştu.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/20260416aw685078-1.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_0620ae99",
-    "title": "BİRTEK-SEN: Mehmet Türkmen 1 Mayıs'ı yine tutsak geçirecek",
-    "source": "Evrensel",
-    "time": "16/04/2026 18:34",
-    "link": "https://www.evrensel.net/haber/5979970/birtek-sen-mehmet-turkmen-1-mayisi-yine-tutsak-gecirecek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BİRTEK-SEN Genel Başkanı Mehmet Türkmen’in yargılandığı dosyada tahliye talebinin reddedilmesine dair açıklama yapan sendika \"Bir sendika başkanı sırf işçilerin hakkını savunduğu için 1 Mayıs’ı cezaevinde geçirecek\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/339066.jpg",
-    "keyword": null
   }
 ]
