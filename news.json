@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_80e20cba",
+    "title": "ABD Başkanı Trump: İran'la anlaşma yapmaya çok yakınız",
+    "source": "TRT Haber",
+    "time": "16/04/2026 22:53",
+    "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-iranla-anlasma-yapmaya-cok-yakiniz-941943.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İranlı yetkililerle bu hafta sonu görüşmelere dönebileceklerini belirterek, \"İran'la anlaşma yapmaya çok yakınız.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_d706eb8d",
     "title": "Trabzonspor'a PFDK'dan şok ceza!",
     "source": "Günebakış",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye Futbol Federasyonu (TFF) Tahkim Kurulu, Profesyonel Futbol Disiplin Kurulu (PFDK) tarafından Trabzonspor'a verilen cezaları onadı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7fc40fae",
-    "title": "A Milli Kadın Hentbol Takımı'nın Avrupa Şampiyonası grubu belli oldu",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 22:13",
-    "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-hentbol-takiminin-avrupa-sampiyonasi-grubu-belli-oldu/3908526",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Kadın Hentbol Takımı'nın 2026 Kadınlar Avrupa Hentbol Şampiyonası'ndaki rakipleri belli oldu.",
     "image": null,
     "keyword": null
   }
