@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b33f7051",
+    "title": "İran’ın Belucistan bölgesinde saldırı: Üç polis hayatını kaybetti",
+    "source": "10Haber",
+    "time": "16/04/2026 18:33",
+    "link": "https://10haber.net/dunya/iranin-belucistan-bolgesinde-saldiri-uc-polis-hayatini-kaybetti-695638/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yarı resmi Tesnim Haber Ajansına göre Sistan-Beluçistan eyaletine bağlı Seravan ilçesinde kimliği henüz belirlenemeyen silahlı kişiler devriye görevindeki polis memurlarına ateş açtı. Silahlı saldırıda 3 polis memuru hayatını kaybetti. Saldırganların yakalanması için geniş çaplı çalışmaların başlatıldığı belirtildi.",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69e0ac05dd6d90.58696114.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fe4e0544",
     "title": "USS Gerald R. Ford uçak gemisi ‘en uzun süre görev yapma’ rekoru kırdı",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun'un Asarcık ilçesinde 'Kütüp-Anne Projesi' yürütülüyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/aa/asarcik-ilcesinde-kutup-anne-projesi-yurutuluyor.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7990cc61",
-    "title": "Halk Sağlığı Uzmanları Derneği: Çocuk ve ergen ruh sağlığı hizmetleri erişilebilir olmalıdır",
-    "source": "Evrensel",
-    "time": "16/04/2026 17:54",
-    "link": "https://www.evrensel.net/haber/5979961/halk-sagligi-uzmanlari-dernegi-cocuk-ve-ergen-ruh-sagligi-hizmetleri-erisilebilir-olmalidir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "HASUDER, okullarda artan şiddetin çok boyutlu bir halk sağlığı sorunu olduğunu belirterek; çocuk ve ergen ruh sağlığı hizmetlerinin erişilebilir hale getirilmesi ve koruyucu mekanizmaların güçlendirilmesi çağrısı yaptı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343313.jpg",
     "keyword": null
   }
 ]
