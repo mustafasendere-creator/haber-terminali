@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c5765da",
+    "title": "Yağız Kaan Erdoğmuş satranç tarihine geçti",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 22:53",
+    "link": "https://www.aa.com.tr/tr/spor/yagiz-kaan-erdogmus-satranc-tarihine-gecti/3908530",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli satranççı Yağız Kaan Erdoğmuş, 2700 ELO (satranç derecelendirme sistemi) barajını aşarak dünya satranç tarihinde \"bu seviyeye ulaşan en genç büyükusta\" ünvanını aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_a36cc633",
     "title": "Trabzonspor - Başakşehir Süper Lig Tribün Doluluk oranı ██████████░░░░░░ %71.9 Satılan Bilet 27.212 / 37.815 Kalan 10.603 - x.com",
     "source": "X (Twitter)",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe Medicana, Voleybol Sultanlar Ligi final serisi dördüncü maçında karşılaştığı VakıfBank'ı 3-2 mağlup ederek seride durumu 2-2 yaptı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/48f517c9-f82f-43f3-8180-094d536c34d9.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0af290bb",
-    "title": "Netanyahu ateşkesi kabul etti: 'İşgale devam' dedi",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 21:54",
-    "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-ateskesi-kabul-etti-isgale-devam-dedi-2495814",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump'ın duyurduğu geçici ateşkesi kabul ettiklerini belirterek, Lübnan'ın güneyinde işgal ettikleri bölgede kalmaya devam edeceklerini söyledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/152d4801-90f2-40dc-ade4-9992eabccfd6.jpg",
     "keyword": null
   }
 ]
