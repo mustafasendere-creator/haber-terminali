@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f0a764a4",
+    "title": "Gülistan Doku soruşturması: Eski polis Gökhan Ertok tutuklandı",
+    "source": "Evrensel",
+    "time": "16/04/2026 18:33",
+    "link": "https://www.evrensel.net/haber/5979969/gulistan-doku-sorusturmasi-eski-polis-gokhan-ertok-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturması kapsamında gözaltına alınan eski polis memuru Gökhan Ertok tutuklandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/225582.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_daa7e90f",
     "title": "Trabzon’da Ormancılık Yarışması: 6 İl Turup Millet Ormanı’nda Buluştu",
     "source": "Günebakış",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bir okulda yaşanan şiddet olayı, sadece olayın yaşandığı yeri etkilemiyor. O görüntüler ve haberler, yüzlerce kilometre uzaktaki çocuklarda da korku, kaygı ve güvensizlik duygusu oluşturabiliyor. Burada yalnızca fiziksel güvenlik değil, çocukların maruz kaldığı ekran içeriği ve haber dili de belirleyici oluyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_eed965fd",
-    "title": "Suriye Dışişleri Bakanlığı, ABD askeri noktalarının devrinden memnuniyet duyduğunu açıkladı",
-    "source": "TRT Haber",
-    "time": "16/04/2026 17:55",
-    "link": "https://www.trthaber.com/haber/dunya/suriye-disisleri-bakanligi-abd-askeri-noktalarinin-devrinden-memnuniyet-duydugunu-acikladi-941920.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suriye Dışişleri Bakanlığı, Suriyede ABD güçlerinin konuşlandığı askeri noktaların Suriye hükümetine teslim sürecini memnuniyetle karşıladığını duyurdu.",
     "image": null,
     "keyword": null
   }
