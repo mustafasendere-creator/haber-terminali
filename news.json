@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b99c646e",
+    "title": "Gülistan Doku soruşturması: İhraç edilen polis ifadesinde dönemin Tunceli Valisi'ni işaret etti",
+    "source": "BirGün",
+    "time": "16/04/2026 17:13",
+    "link": "https://www.birgun.net/haber/gulistan-doku-sorusturmasi-ihrac-edilen-polis-ifadesinde-donemin-tunceli-valisi-ni-isaret-etti-706262",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturması kapsamında gözaltına alınan, eski polis memuru Gökhan Ertok'un savcılık ifadesi ortaya çıktı. Ertok, Gülistan Doku’ya ait SIM kartın kendisine dönemin Tunceli Valisi Tuncay Sonel’in yakın koruma polisi Şükrü Eroğlu tarafından verildiğini söyledi. Tuncay Sonel’in Gülistan Doku'nun WhatsApp yazışmaları ile sosyal medya mesajlaşmalarındaki önemli verilerin silinmesi yönünde talimat verdiğini de kaydetti.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/gulistan-doku-sorusturmasi-ihrac-edilen-polis-ifadesinde-donemin-tunceli-valisi-ni-isaret-etti.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_c0134fb0",
     "title": "Trabzon’da ekmek fiyatına zam! İşte yeni ekmek fiyatları",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "C31 Service Alert: Expect westbound delays on Route C31 at Capitol Heights Station due to an incident. Track your bus in real time by visiting wmata.com/metropulse",
     "image": null,
     "keyword": "c31"
-  },
-  {
-    "id": "GND_0e6de8a8",
-    "title": "Borlease'te neler oluyor: Şirket krizde, hisseler yükselişte... Tavan fiyatların perde arkası",
-    "source": "OdaTV",
-    "time": "16/04/2026 16:35",
-    "link": "https://www.odatv.com/ekonomi/bor-holdingte-neler-oluyor-sirket-krizde-borlease-hisseleri-yukseliste-tavan-fiyatlarin-perde-arkasi-120143548",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bor Holding&#039;teki finansal kriz, grubun sigorta koluna sıçradı. SEDDK devreye girdi ve poliçe yetkisini iptal etti. Finansal tablo alarm verirken, Bor Holding bünyesindeki Borlease&#039;nin borsadaki tavan serileri dikkat çekti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/bor-holdingte-neler-oluyor-sirket-krizde-borlease-hisseleri-yukseliste-tavan-fiyatlarin-perde-arkasi-bp9o.jpg",
-    "keyword": null
   }
 ]
