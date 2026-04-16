@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d683f816",
+    "title": "Fenerbahçe Beko galibiyetle bitirdi: 5 maçlık hasreti sona erdi!",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 23:34",
+    "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-beko-galibiyetle-bitirdi-5-maclik-hasreti-sona-erdi-2495847",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Beko, EuroLeague normal sezonunun son haftasında deplasmanda karşılaştığı ASVEL'i 81-76 mağlup etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/89031d26-34cf-4438-a0f6-c00f6e46ec5c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eeff2f76",
     "title": "AKP’li meclis üyesi okul saldırılarını protesto eden öğretmenleri hedef gösterdi",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Gaziantep'te bir şahıs 4 çocuk annesi kadını bıçaklayarak öldürdükten sonra bileklerini keserek intihara teşebbüs etti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/gaziantepte-dehset-tartistigi-kadini-oldurdu-ardindan-bileklerini-kesti-dl2z.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_dc55977a",
-    "title": "Trabzon'da ekmeğe zam!",
-    "source": "Günebakış",
-    "time": "16/04/2026 22:53",
-    "link": "https://www.gunebakis.com.tr/trabzonda-ekmege-zam/27825862",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon ekmek fiyatları güncellendi; 200 gram ekmek 17,5 TL, 2000 gram ekmek 175 TL olarak açıklandı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/ekmek.jpg",
-    "keyword": "trabzon"
   }
 ]
