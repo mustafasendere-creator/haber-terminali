@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de2e0694",
+    "title": "ABD'nin Wisconsin eyaletinde şiddetli yağış ve sel nedeniyle acil durum ilan edildi",
+    "source": "TRT Haber",
+    "time": "16/04/2026 19:14",
+    "link": "https://www.trthaber.com/haber/dunya/abdnin-wisconsin-eyaletinde-siddetli-yagis-ve-sel-nedeniyle-acil-durum-ilan-edildi-941879.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'de etkili olan şiddetli yağışlar ve sel sebebiyle Wisconsin eyaletinde acil durum ilan edilirken Michigan eyaletindeki Ann Arbor ve Lincoln Park kentlerinde hortum meydana geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_6d065b40",
     "title": "İngiltere Başbakanı, sosyal medya şirketlerine çocuk güvenliği için baskıyı artırıyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "BİRTEK-SEN Genel Başkanı Mehmet Türkmen’in yargılandığı dosyada tahliye talebinin reddedilmesine dair açıklama yapan sendika \"Bir sendika başkanı sırf işçilerin hakkını savunduğu için 1 Mayıs’ı cezaevinde geçirecek\" dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/339066.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f0a764a4",
-    "title": "Gülistan Doku soruşturması: Eski polis Gökhan Ertok tutuklandı",
-    "source": "Evrensel",
-    "time": "16/04/2026 18:33",
-    "link": "https://www.evrensel.net/haber/5979969/gulistan-doku-sorusturmasi-eski-polis-gokhan-ertok-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gülistan Doku soruşturması kapsamında gözaltına alınan eski polis memuru Gökhan Ertok tutuklandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/225582.jpg",
     "keyword": null
   }
 ]
