@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de93586b",
+    "title": "Valizinden 2 bin 200 canlı karınca çıktı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 08:05",
+    "link": "https://www.trthaber.com/haber/dunya/valizinden-2-bin-200-canli-karinca-cikti-941825.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kenya'da bir mahkeme, valizinde yurt dışına canlı karınca kaçırmaya çalışan Çinli bir yolcuyu 1 milyon şilin yaklaşık 7 bin 750 dolar para ve 12 ay hapis cezasına çarptırdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_014d4632",
     "title": "Liderler zirvesi Antalyada: Gözler ADF2026da",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Kahramanmaraş’ta bir okulda yaşanan silahlı saldırının ardından, görüntüleri Telegram üzerinden yayan ve provokatif paylaşımlar yaptığı tespit edilen hesaplara yönelik adli süreç başlatıldı. Bu kapsamda 66 URL adresi için içerik çıkarma ve erişim engeli talebinde bulunulurken, yaklaşık 100 bin üyeli “C31K” adlı Telegram grubunun kapatıldığı bildirildi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/16/kahramanmarastaki-okul-saldirisi-66-internet-adresi-icin-erisim-engeli-talebi.jpg",
     "keyword": "c31k"
-  },
-  {
-    "id": "YRL_c831fc15",
-    "title": "Türkiye Kira Artışında Avrupa Şampiyonu! 2025 Verileri Açıklandı...",
-    "source": "Taka Gazetesi",
-    "time": "16/04/2026 06:44",
-    "link": "https://www.takagazete.com.tr/turkiye-kira-artisinda-avrupa-sampiyonu-2025-verileri-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "2025 verilerine göre Türkiye, %77,6’lık kira artışıyla Avrupa'da zirveye yerleşti. En yakın rakibi Karadağ’ı dörde katlayan Türkiye’deki konut krizinin detayları burada.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/avrupa-birinci.jpg",
-    "keyword": null
   }
 ]
