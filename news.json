@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_46e58cbc",
+    "title": "FBI'dan okul saldırıları raporu: Saldırganlar hangi davranışları gösteriyor?",
+    "source": "BirGün",
+    "time": "16/04/2026 16:33",
+    "link": "https://www.birgun.net/haber/fbi-dan-okul-saldirilari-raporu-saldirganlar-hangi-davranislari-gosteriyor-706267",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye iki gün üst üste ABD'den aşina olduğumuz okul saldırılarıyla sarsıldı. FBI tarafından hazırlanan rapor okul saldırılarını gerçekleştiren saldırganların profiline ilişkin ipuçları veriyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/fbi-dan-okul-saldirilari-raporu-saldirganlar-hangi-davranislari-gosteriyor.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_fcf9b292",
     "title": "ABD Savunma Bakanı Hegseth'ten İran'a yönelik tehdit",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "KESK Gaziantep Şubeler Platformu’nun, “Okul katliamlarından dolayı yaşam nöbetindeyiz” sloganıyla gerçekleştirdiği protesto eyleminde güvenli, eğitim güvenli okul talep edilerek; “Çalışırken ölmek istemiyoruz” denildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343293.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6befab8d",
-    "title": "Almanya'da mülteci yurdunda yangın: Kundaklama ihtimali araştırılıyor",
-    "source": "Evrensel",
-    "time": "16/04/2026 15:53",
-    "link": "https://www.evrensel.net/haber/5979938/almanyada-multeci-yurdunda-yangin-kundaklama-ihtimali-arastiriliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya’nın Raunheim kentindeki mülteci ve evsizlerin kaldığı konteyner yerleşiminde çıkan yangın büyük hasara yol açtı. Can kaybı yaşanmazken, kundaklama ihtimali araştırılıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/306805.jpg",
     "keyword": null
   }
 ]
