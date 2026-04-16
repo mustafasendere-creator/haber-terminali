@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_318c3d6c",
+    "title": "Menderes Emek ve Demokrasi Platformu: \"Okullarda şiddet istemiyoruz",
+    "source": "Evrensel",
+    "time": "16/04/2026 16:13",
+    "link": "https://www.evrensel.net/haber/5979943/menderes-emek-ve-demokrasi-platformu-okullarda-siddet-istemiyoruz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Menderes Emek ve Demokrasi Platformu okul saldırılarını protesto etti. Öğrenci ve velilerin katıldığı eylemde \"Okullarda şiddet istemiyoruz\", \"Yusuf Tekin istifa\" sloganları atıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343296.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ac88d18c",
     "title": "İzmir'de Eğitim-İş'ten şiddete karşı yürüyüş: \"Bu mücadeleden geri adım atmayacağız\"",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye Cumhuriyet Merkez Bankasının TCMB toplam rezervleri, 10 Nisan haftasında bir önceki haftaya göre 9 milyar 270 milyon dolar artarak 170 milyar 915 milyon dolara yükseldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9000cf67",
-    "title": "Hegseth: İran nükleer anlaşmaya uymazsa, ABD operasyonları yeniden başlatmaya hazır",
-    "source": "TRT Haber",
-    "time": "16/04/2026 15:34",
-    "link": "https://www.trthaber.com/haber/dunya/hegseth-iran-nukleer-anlasmaya-uymazsa-abd-operasyonlari-yeniden-baslatmaya-hazir-941904.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Savunma Bakanı Hegseth, İran'ın nükleer anlaşmayı kabul etmemesi halinde askeri seçeneklerin masada olduğunu belirtti. Hegseth, Tahran yönetiminin yanlış bir karar vererek anlaşmaya yanaşmaması durumunda, ABD kuvvetlerinin savaş hariç operasyonları yeniden başlatmaya hazır olduğunu açıkladı.",
     "image": null,
     "keyword": null
   }
