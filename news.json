@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b5e92a50",
+    "title": "Kartal'da yalnız yaşayan kadın evinde bıçaklanmış halde ölü bulundu",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 15:35",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kartal-da-yalniz-yasayan-kadin-evinde-bicaklanmis-halde-olu-bulundu-2495719",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kartal'da 5 katlı binanın 5'inci katında yalnız yaşayan Ruhan Çalu (52), evinde bıçaklanmış halde kanlar içinde ölü olarak bulundu. Çalu'nun cenazesi incelenmek üzere Adli Tıp Kurumu Morguna kaldırılırken, polis inceleme başlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/821c2c40-e4a1-4c59-87fa-f633804c2fa1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_ad194774",
     "title": "Adı Galatasaray ile anılıyordu: Manchester City, Bernardo Silva kararını resmen duyurdu",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Organize Sanayi Bölgeleri Üst Kuruluşu (OSBÜK) Yönetim Kurulu Başkanı Memiş Kütükcü ve\nYönetim Kurulu Üyeleri, Trabzon Ticaret Borsası’nı (TTB) ziyaret ederek çeşitli konularda\ngörüş alışverişinde bulundular.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/i-m-g-3792.JPG",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_018ca6c1",
-    "title": "'Süper El Nino' uyarısı: Türkiye'yi hangi dönemde etkileyecek?",
-    "source": "BirGün",
-    "time": "16/04/2026 15:13",
-    "link": "https://www.birgun.net/haber/super-el-nino-uyarisi-turkiye-yi-hangi-donemde-etkileyecek-706236",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Prof. Dr. Levent Kurnaz, temmuz sonundan itibaren Süper El Nino etkisiyle sıcaklık rekorları beklendiğini kaydetti. Kurnaz, \"Türkiye açısından özellikle eylül-ekim gibi ortalamaların çok çok üstüne çıkacağını gösteriyor. Yazı belki çok ölmeden geçiririz ama eylül-ekim gibi iyiden iyiye yüksek sıcaklıklarla karşı karşıya kalacağız\" değerlendirmesinde bulundu.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/super-el-nino-uyarisi-turkiye-yi-hangi-donemde-etkileyecek-1.jpg",
-    "keyword": null
   }
 ]
