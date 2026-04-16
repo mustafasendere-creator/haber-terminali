@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2f6317c4",
+    "title": "AYM'den 10 siyasi partiye mali denetim",
+    "source": "Habertürk",
+    "time": "16/04/2026 15:16",
+    "link": "https://www.haberturk.com/aym-nin-siyasi-parti-mali-denetimleri-resmi-gazetede-3877700",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anayasa Mahkemesi'nin 10 siyasi partinin mali denetimlerine ilişkin kararları, Resmi Gazete'de yayımlandı",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776297399/3877700/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_fb6eaa0b",
     "title": "Şanlıurfa'daki lise saldırısında 16 gözaltı",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Okullardaki saldırılar nedeniyle Milli Eğitim Bakanlığı önünde \"yaşam nöbeti\" başlatan eğitim sendikaları, \"Gelin, hep birlikte eğitime, öğretmenlere, çocuklara ve geleceğimize sahip çıkalım\" çağrısı yaptı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_ff125885",
-    "title": "Trabzon sağlık sektöründe \"Kaçak bakıcı\" iddiası! Hastanelerde denetim zafiyeti mi var?",
-    "source": "Kuzey Ekspres",
-    "time": "16/04/2026 14:54",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27822931/trabzon-saglik-sektorunde-kacak-bakici-iddiasi-hastanelerde-denetim-zafiyeti-mi-var",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’daki devlet ve özel hastanelerde çalışma izni olmayan yabancı uyruklu hasta bakıcıların fahiş fiyatlarla faaliyet gösterdiği iddia ediliyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/16/large/hasta-bakici.webp",
-    "keyword": "trabzon"
   }
 ]
