@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a6d5185c",
+    "title": "DİSK, KESK, TMMOB ve TTB: 1 Mayıs'ta Kadıköy'deyiz",
+    "source": "BirGün",
+    "time": "16/04/2026 20:33",
+    "link": "https://www.birgun.net/haber/disk-kesk-tmmob-ve-ttb-1-mayis-ta-kadikoy-deyiz-706284",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DİSK, KESK, TMMOB ve TTB, 2026 1 Mayıs'ının Kadıköy İskele Meydanı'nda gerçekleşeceğini duyurdu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/disk-kesk-tmmob-ve-ttb-1-mayis-ta-kadikoy-deyiz.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_12f0b00a",
     "title": "Engelli Filistinli, yaralı olmasına rağmen İsrail hapishanesinde gördüğü işkenceyi anlattı",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Küresel insani sorunlara ışık tutmayı hedefleyen TRT Humanitarian Film Festival için başvurular başladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_472f653c",
-    "title": "CANLI-Cumhurbaşkanı Erdoğan konuşuyor",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 19:53",
-    "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/3908147",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
     "image": null,
     "keyword": null
   }
