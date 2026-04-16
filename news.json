@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_799a58ae",
+    "title": "LME'de alüminyum 4 yılın zirvesini gördü",
+    "source": "Ekonomim",
+    "time": "16/04/2026 14:55",
+    "link": "https://www.ekonomim.com/emtia/lmede-aluminyum-4-yilin-zirvesini-gordu-haberi-888535",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "LME’de alüminyum fiyatları 4 yılın zirvesini test ettikten sonra sınırlı geri çekilse de yüksek seyrini korurken, spot fiyatların vadeli kontratların üzerine çıkması kısa vadeli arz sıkışıklığına işaret etti.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/16/lmede-aluminyum-4-yilin-zirvesini-gordu-vzzu_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_502fc356",
     "title": "BOTAŞ LNG gemileri için ihaleye çıktı",
     "source": "Ekonomim",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD ile Hamas arasında, 10 Ekim 2025'te varılan ateşkesten bu yana 14 Nisan'da ilk kez doğrudan görüşme gerçekleştirildiği iddia edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_612f7ad5",
-    "title": "Trump duyurdu: İsrail ile Lübnan liderleri buluşuyor",
-    "source": "DW Türkçe",
-    "time": "16/04/2026 14:35",
-    "link": "https://www.dw.com/tr/trump-duyurdu-israil-ile-lübnan-liderleri-buluşuyor/a-76803889",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İsrail ile Lübnan arasında uzun bir aradan sonra üst düzey görüşmeler olacağını söyledi. Dün başlayan müzakerelerde, iki ülkenin temel amaçları farklı.",
     "image": null,
     "keyword": null
   }
