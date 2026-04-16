@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e7e8665",
+    "title": "Brezilya'da bir turist bir şiş kebaba 70 bin tl ödedi",
+    "source": "TRT Haber",
+    "time": "16/04/2026 07:05",
+    "link": "https://www.trthaber.com/haber/dunya/brezilyada-bir-turist-bir-sis-kebaba-70-bin-tl-odedi-941823.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rio de Janeiro'da bir seyyar satıcı, dikkatsiz bir İngiliz turiste yaklaşık 70 bin TL'ye kebap satarak büyük bir dolandırıcılığa imza attı. Copacabana sahilinde gerçekleşen olayda, ödeme terminalini manipüle eden zanlı polis tarafından yakalandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_db8b986d",
     "title": "Ekvador'da yolcu otobüsü uçuruma yuvarlandı: Çok sayıda ölü ve yaralı var",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Atatürkçü Düşünce Derneği’nce (ADD); kendisini “Antikemalist ve şeriatçı” olarak tanıtan Ali Akbaş’ın “Gargat - Kemalist Eseratin Gerçek Sahipleri” kitabıyla fotoğraf çekilmesi nedeniyle Milli Eğitim Bakanı Yusuf Tekin hakkıda suç duyurusunda bulunuldu. Dilekçede; “Bakan tarafından laiklik gibi temel bir ilke hiçe sayıldığından ‘Anayasyı ihlal’ suçu işlenmiştir” denildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5f6258d5-5a23-4cb8-b9aa-0073db32f9c5.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a56cade1",
-    "title": "İnternet sitelerinde reddetseniz bile izleniyor olabilirsiniz",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 03:45",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/internet-sitelerinde-reddetseniz-bile-izleniyor-olabilirsiniz-2495467",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kullanıcıların internet sitelerinde gezerken, kabul etmeyi ya da reddetmeyi seçtiği çerezler aslında hiçbir anlam ifade etmiyor olabilir. Araştırma, siz kabul etmeseniz dahi izlenebileceğini söylüyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0fe50f4c-86a3-4c0d-8f03-b2c6cfc8f4dc.jpg",
     "keyword": null
   }
 ]
