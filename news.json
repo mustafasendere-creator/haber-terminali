@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_ed4b51cc",
+    "title": "Altında rüzgar tersine döndü",
+    "source": "Sözcü",
+    "time": "16/04/2026 08:46",
+    "link": "https://www.sozcu.com.tr/altinda-ruzgar-tersine-dondu-p311632",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altında rüzgar tersine döndü",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/altin1jpg-0e3Yp1j_tE2hXWxMMB4ddw.jpg",
+    "keyword": null
+  },
+  {
+    "id": "GND_ef1b92a2",
+    "title": "Meteoroloji açıkladı: 16 Nisan 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 08:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-16-nisan-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2495571",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 16 Nisan Perşembe gününe ilişkin hava durumu raporunu yayımladı. Rapora göre; öğle saatlerinden sonra Batı Karadeniz'in yüksek kesimleri ve İç Anadolu'nun kuzeyi ile Doğu Akdeniz'in Toroslar mevkiinin kısa süreli yerel sağanak yağışlı geçeceği tahmin ediliyor. Kıyı Ege ile Akdeniz kıyılarında da bu gece saatlerine kadar toz taşınımının etkili olması bekleniyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ad3f86ad-ebb4-4548-a680-4edecc8b7bc0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9363cf9a",
     "title": "Zonguldak'ta okuluna saldırı yapacağına dair mesaj atan öğrenciye gözaltı!",
     "source": "Cumhuriyet",
@@ -933,30 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP Lideri Özel, bir süredir kamuoyunun gündemini meşgul eden, “Mutlak butlan” tartışmalarıyla ilgili kurmaylarına, “Halkın gerçek gündemini gölgelemesine izin vermeyin” mesajını verdi. Özel öte yandan, ara seçim talepli temaslarda tüm partilerin desteğini aldıklarını da kaydetti.",
     "image": "https://static.birgun.net/resim/haber/2026/04/16/chp-halkin-gundemini-golgelemesin.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_2488ca3e",
-    "title": "Akaryakıt Fiyatlarında Sert Düşüş! Motorine Büyük İndirim Sonrası Yeni Liste Açıklandı",
-    "source": "Taka Gazetesi",
-    "time": "16/04/2026 08:05",
-    "link": "https://www.takagazete.com.tr/akaryakit-fiyatlarinda-sert-dusus-motorine-buyuk-indirim-sonrasi-yeni-liste-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Akaryakıt fiyatlarında sert düşüş yaşanırken motorine gelen büyük indirim sonrası yeni liste açıklandı ve özellikle Trabzon başta olmak üzere fiyatlar yeniden şekillendi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2025/09/sofor-benzin.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2322aee3",
-    "title": "Tam Finans yeni şubesini Alanya'da açtı",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 08:04",
-    "link": "https://www.aa.com.tr/tr/ekonomi/tam-finans-yeni-subesini-alanyada-acti/3907273",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tam Finans, Antalya'nın Alanya ilçesindeki şubesini törenle hizmete açtı.",
-    "image": null,
     "keyword": null
   }
 ]
