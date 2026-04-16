@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_94293b2f",
+    "title": "Urfa’daki okula silahlı saldırı: 16 kişi gözaltında",
+    "source": "Evrensel",
+    "time": "16/04/2026 07:45",
+    "link": "https://www.evrensel.net/haber/5979834/urfa-daki-okula-silahli-saldiri-16-kisi-gozaltinda",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Urfa'da Ahmet Koyuncu Mesleki ve Teknik Anadolu Lisesi’nde eski bir öğrencinin gerçekleştirdiği silahlı saldırıya ilişkin yürütülen soruşturmada 16 kişi gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/342953.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4a193157",
     "title": "IEA Başkanı Fatih Birol, yeniden Time’ın “dünyanın en etkili 100 ismi” listesinde",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "C31 Service Alert Update: Buses are operating on or near schedule following an earlier medical emergency. Track your bus in real time by visiting metropulse.wmata.com/bus",
     "image": null,
     "keyword": "c31"
-  },
-  {
-    "id": "SOC_b1706f82",
-    "title": "🚨 Trabzon’da okul tehdit mesajı tepki çekti! Akçaabat ilçesi Mevlüt Selami Yardım Ortaokulu’nun sosyal medya hesabında paylaşılan bir gönderiye yazılan “Cuma günü ayık olun” yorumu dikkat çekti. Şanlıurfa ve Kahramanmaraş’ta iki okula öğrenciler tarafınd - x.com",
-    "source": "X (Twitter)",
-    "time": "16/04/2026 04:45",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Md3dySnVCVG81ekl5dEFpZzRIUTlaREF0WlNIZHVOYXJ4ektsamhNTlJObm81RjRGVWpVU1FzbEZTbmVFemx6UW04UEtWejFVZGp0TmFuMGFFUlJ6Ql9fTmt1djZqSUZqSUVYX3dOLU5Zdw",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "🚨 Trabzon’da okul tehdit mesajı tepki çekti! Akçaabat ilçesi Mevlüt Selami Yardım Ortaokulu’nun sosyal medya hesabında paylaşılan bir gönderiye yazılan “Cuma günü ayık olun” yorumu dikkat çekti. Şanlıurfa ve Kahramanmaraş’ta iki okula öğrenciler tarafınd  x.com",
-    "image": null,
-    "keyword": "mevlütselamiyardım"
   }
 ]
