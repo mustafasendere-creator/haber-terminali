@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fe141074",
+    "title": "Zeynep Sönmez'den WTA 500'e damga",
+    "source": "OdaTV",
+    "time": "16/04/2026 03:45",
+    "link": "https://www.odatv.com/spor/zeynep-sonmezden-wta-500e-damga-120143488",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Milli tenisçi Zeynep Sönmez Stuttgart’taki WTA 500 turnuvasında dünya 8 numarası Jasmine Paolini’yi 6-2, 6-2 yenerek ikinci tura yükseldi. Sönmez, kariyerinde ilk kez ilk 10’daki bir rakibi mağlup etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/zeynep-sonmezden-wta-500e-damga-cwef.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c9b93a8a",
     "title": "Mersin'de 'Narenciye' kavgası",
     "source": "OdaTV",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk milli futbolcu Arda Güler, Real Madrid formasıyla Şampiyonlar Ligi tarihinde en hızlı gol atan oyuncu oldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_088b7ba4",
-    "title": "İran Meclis Başkanı Kalibaf: İran ile direniş (Hizbullah), ister savaşta ister ateşkeste olsun bir bütündür",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 02:04",
-    "link": "https://www.aa.com.tr/tr/live-blog/iran-meclis-baskani-kalibaf-iran-ile-direnis-hizbullah-ister-savasta-ister-ateskeste-olsun-bir-butundur/1128",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Meclis Başkanı Muhammed Kalibaf, ateşkes görüşmelerinde silahsızlandırılması gündeme gelen Hizbullah’ın İran’la bir bütün olduğunu söyledi. Tahran-Washington ateşkesinin Lübnan’ı da kapsadığını, ABD’nin anlaşmaya uyması gerektiğini belirtti.",
     "image": null,
     "keyword": null
   }
