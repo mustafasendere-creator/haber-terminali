@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9363cf9a",
+    "title": "Zonguldak'ta okuluna saldırı yapacağına dair mesaj atan öğrenciye gözaltı!",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 08:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/zonguldak-ta-okuluna-saldiri-yapacagina-dair-mesaj-atan-ogrenciye-gozalti-2495572",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sınıf arkadaşlarının bulunduğu Whatsapp grubuna okulda saldırı yapacağına yönelik mesajlar atan 17 yaşındaki lise öğrencisi B.T.A. polis ekipleri tarafından evine düzenlenen operasyonla gözaltına alındı. Evde yapılan aramada 6 kurusıkı tabanca mermisi ele geçirilirken, B.T.A.’nın daha önce eğitim gördüğü lisede, sınıfta torpil patlattığı için okuldan atıldığı ortaya çıktı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7cb26bce-36ec-4b52-bb51-f6ab33ccf321.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dc6438cc",
     "title": "Kahramanmaraş’taki okul saldırısı sonrası 66 site için erişim engeli talebi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Tam Finans, Antalya'nın Alanya ilçesindeki şubesini törenle hizmete açtı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_15459889",
-    "title": "Bebekler şehit olur mu?",
-    "source": "A Haber",
-    "time": "16/04/2026 08:04",
-    "link": "https://www.ahaber.com.tr/yazarlar/hilal-kaplan/2026/04/16/bebekler-sehit-olur-mu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "KAHİREDevamı için tıklayınız",
-    "image": "",
     "keyword": null
   }
 ]
