@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64a11fd9",
+    "title": "New York borsası yükselişle açıldı",
+    "source": "Ekonomim",
+    "time": "16/04/2026 17:15",
+    "link": "https://www.ekonomim.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-888565",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "New York borsası, ABD ve İran&#039;ın anlaşmaya varabileceğine yönelik iyimserliğin sürmesiyle güne yükselişle başladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/20/wall-streette-25-milyar-dolarlik-hamle-ozel-kredi-savaslari-kizisiyor-io5r_cover.gif",
+    "keyword": null
+  },
+  {
     "id": "GND_a664146c",
     "title": "Okullar ne zaman kapanıyor?",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da düzenlenen Ulusal Beslenme ve Gastronomi Sempozyumu, “Türk Mutfağında İnovatif Yaklaşımlar” temasıyla akademi ve sektör temsilcilerini bir araya getirdi.",
     "image": "https://resim.haber61.net/news/613028.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_5826f68e",
-    "title": "Trabzon’da OSB Karadeniz Toplantısı: Sanayi ve üretim vurgusu",
-    "source": "Taka Gazetesi",
-    "time": "16/04/2026 16:54",
-    "link": "https://www.takagazete.com.tr/trabzonda-osb-karadeniz-toplantisi-sanayi-ve-uretim-vurgusu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "OSB Karadeniz Toplantısı Trabzon’da gerçekleştirildi. Başkan Ahmet Metin Genç, sanayicilere destek mesajı vererek üretimin önemine dikkat çekti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/e709dfbb-bf82-44ad-86db-016e1181cf8d.jpg",
-    "keyword": null
   }
 ]
