@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_5808b9a3",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert Update: Buses are operating on or near sch...",
+    "source": "Bluesky",
+    "time": "16/04/2026 17:57",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjmil6byuw2l",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert Update: Buses are operating on or near schedule following an earlier incident. Track your bus in real time by visiting metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "GND_101f608f",
     "title": "Yapay zeka araçlarındaki tek bir sorgu 6 litre su tüketimine mi yol açıyor?",
     "source": "Teyit.org",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Emniyet Genel Müdürlüğü, Kahramanmaraş ve Şanlıurfa'da okullara yönelik saldırıların ardından \"halkı yanıltıcı nitelikte paylaşımlar yapan, tehdit ve eylem\" çağrısında bulunan 127 kişinin gözaltına alındığını, 1115 internet adresinin ise erişime kapatıldığını açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/74c3945e-4b44-41cc-9eda-d8b985e1ad1e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a8cded18",
-    "title": "Ayrılık sonrası 'yara bandı' ilişkisi: Uzmanlar en büyük psikolojik hatayı açıkladı",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 17:34",
-    "link": "https://www.cumhuriyet.com.tr/yasam/ayrilik-sonrasi-yara-bandi-iliskisi-uzmanlar-en-buyuk-psikolojik-hatayi-acikladi-2495764",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "'Yara bandı ilişkisi' olarak tanımlanan bu sürecin tek başına bir sorun olmadığını belirten psikologlar, yapılan tek bir hatanın duygusal yıkımı büyütebileceği konusunda uyarıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8d730a27-bcd1-49f0-9ef7-7dcc46cd329d.jpg",
     "keyword": null
   }
 ]
