@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_58db863d",
+    "title": "OpenAI, Anthropic'ten sonra sınırlı erişimli siber güvenlik modeli tanıttı",
+    "source": "Euronews",
+    "time": "16/04/2026 14:54",
+    "link": "http://tr.euronews.com/next/2026/04/16/openai-anthropicten-sonra-sinirli-erisimli-siber-guvenlik-modeli-tanitti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Chat GPT 5.4 Cyber, onu kullanacak doğrulanmış siber güvenlik profesyonelleri için, güvenlik sorularına yönelik kısıtlamaları önemli ölçüde azaltıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_418e8af6",
     "title": "Massive Attack ve Tom Waits, ICE baskınlarını hedef alan protesto şarkısında buluştu",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Meydan’daki viyadük altı dinlenme alanına dönüştürülüyor. Proje kapsamında yeşil alanlar ve oturma alanları Mayıs’ta hizmete açılacak.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/dce46748-4358-446c-838b-cc762c60519c.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9a7b5fba",
-    "title": "İsrail'in Paris Büyükelçisi ile aşırı sağcı Marine Le Pen arasında gizli görüşme",
-    "source": "BirGün",
-    "time": "16/04/2026 14:34",
-    "link": "https://www.birgun.net/haber/israil-in-paris-buyukelcisi-ile-asiri-sagci-marine-le-pen-arasinda-gizli-gorusme-706242",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail’in Paris Büyükelçiliği, aşırı sağcı Ulusal Birlik (RN) partisinin önde gelen ismi Marine Le Pen’in Büyükelçi Joshua Zarka ile gizli bir görüşme yaptığına ilişkin iddiaların basına yansımasının ardından görüşmeyi doğruladı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/israil-in-paris-buyukelcisi-ile-asiri-sagci-marine-le-pen-arasinda-gizli-gorusme.jpg",
     "keyword": null
   }
 ]
