@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_abc61a93",
+    "title": "Ormanda cansız beden bulundu",
+    "source": "Habertürk",
+    "time": "16/04/2026 15:16",
+    "link": "https://www.haberturk.com/iskenderun-da-ormanda-cansiz-beden-bulundu-3877697",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay İskenderun'daki ormanlık alanda bir erkeğe ait cansız beden bulundu. Olayla ilgili soruşturma başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776292819/3877697/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2f6317c4",
     "title": "AYM'den 10 siyasi partiye mali denetim",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da yeniden kültürel ve sanatsal faaliyetlere ev sahipliği yapacak olan Hüseyin Kazaz Kültür Merkezi, yarın saat 19.00’da yapılacak törenle kapılarını açıyor.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/16/large/huseyin-kazaz.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_8f3417a5",
-    "title": "MEB önünde \"yaşam nöbeti\": Okullarımız güvenli değil",
-    "source": "DW Türkçe",
-    "time": "16/04/2026 14:54",
-    "link": "https://www.dw.com/tr/meb-önünde-yaşam-nöbeti-okullarımız-güvenli-değil/a-76803470",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Okullardaki saldırılar nedeniyle Milli Eğitim Bakanlığı önünde \"yaşam nöbeti\" başlatan eğitim sendikaları, \"Gelin, hep birlikte eğitime, öğretmenlere, çocuklara ve geleceğimize sahip çıkalım\" çağrısı yaptı.",
-    "image": null,
-    "keyword": null
   }
 ]
