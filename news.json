@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6ff02100",
+    "title": "Rusya'dan Ukrayna'nın Kiev, Dnipro ve Odesa kentlerine saldırı",
+    "source": "Euronews",
+    "time": "16/04/2026 14:14",
+    "link": "http://tr.euronews.com/my-europe/2026/04/16/rusyadan-ukraynanin-kiev-dnipro-ve-odesa-kentlerine-saldiri",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kiev'de en az beş kişi öldü ve 21 kişi yaralandı. Bu arada Ukrayna, Rus sanayi tesislerine saldırmaya devam etti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5eea870a",
     "title": "S&P 500 ve Nasdaq, İran savaşı etkilerine rağmen tarihi zirveye çıktı",
     "source": "Euronews",
@@ -946,17 +958,5 @@
     "summary": "Kahramanmaraş’ta bir okulda meydana gelen saldırıya ilişkin Telegramda provokasyon yapan 66 URL adresi hakkında içerik çıkarılması ve erişimin engellenmesi talebinde bulunuldu. Saldırıya ilişkin görüntülerin paylaşıldığı tespit edilen ve yaklaşık 100 bin üyesi bulunan ‘C31K’ adlı grup kapatıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/3deda962-20f0-4721-9b15-5ca63c57c64d.jpg",
     "keyword": "c31k"
-  },
-  {
-    "id": "YRL_d643774c",
-    "title": "Akçaabat’ta Okul Hesabına Tehdit Yorumu: “Cuma Günü Ayık Olun”",
-    "source": "Günebakış",
-    "time": "16/04/2026 09:24",
-    "link": "https://www.gunebakis.com.tr/akcaabatta-okul-hesabina-tehdit-yorumu-cuma-gunu-ayik-olun/27819669",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Akçaabat’taki okul hesabına yapılan “Cuma günü ayık olun” yorumu sonrası emniyet inceleme başlattı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/akcaabatta-okul-hesabina-tehdit-yorumu-cuma-gunu-ayik-olun-1.jpg",
-    "keyword": null
   }
 ]
