@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_938031fb",
+    "title": "Borsa günü düşüşle tamamladı",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 18:33",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/3908181",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,36 değer kaybederek 14.201,05 puandan tamamladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_0dd54739",
     "title": "@kendinemimar.bsky.social: C31K ismli telegramda bir yapılanma var çoğunluğu Türk düşma...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’un Vakfıkebir ilçesine bağlı Büyükliman Mahallesi’nde doğal gaz çalışmaları resmen başladı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/2b5d3795-fff2-405f-93dc-912ebc883a13.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_bdb3f110",
-    "title": "Trabzonspor’a TÜGVA Ziyareti: Karşılıklı Hediyeleşme ve Mesajlar",
-    "source": "Günebakış",
-    "time": "16/04/2026 17:54",
-    "link": "https://www.gunebakis.com.tr/trabzonspora-tugva-ziyareti-karsilikli-hediyelesme-ve-mesajlar/27824427",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, TÜGVA heyetini ağırladı; ziyarette karşılıklı hediyeler verildi, gençlik çalışmaları vurgulandı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/krc04429-1776350886.webp",
     "keyword": "trabzon"
   }
 ]
