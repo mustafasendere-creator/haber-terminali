@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d5e66004",
+    "title": "Atatürk, halkçı bir devlet adamıdır!",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 05:25",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/sevgi-ozel/ataturk-halkci-bir-devlet-adamidir-2495510",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Atatürk Anadolu’da, imparatorluğun uzak topraklarında yıllarca savaşmış...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar135_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_890bc687",
     "title": "Hrant Dink Hafıza Mekânı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dersim Barosu, Gülistan Doku soruşturması kapsamında şüphelilere CMK uyarınca hukuki destek verilmemesi kararını geri çekti. Baro, soruşturmanın sağlıklı ilerlemesi için avukat görevlendirmelerine açık olunduğunu ve sürecin adaletin tesisi amacıyla takip edildiğini açıkladı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/15/dersim-barosu-gulistan-doku-sorusturmasindaki-kararini-geri-cekti.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7291238c",
-    "title": "Şanlıurfa'da okula düzenlenen silahlı saldırıya ilişkin 16 şüpheli gözaltına alındı",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 02:44",
-    "link": "https://www.aa.com.tr/tr/gundem/sanliurfada-okula-duzenlenen-silahli-saldiriya-iliskin-16-supheli-gozaltina-alindi/3907247",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Emniyet Genel Müdürlüğü (EGM), Şanlıurfa'nın Siverek ilçesinde bulunan Ahmet Koyuncu Mesleki ve Teknik Anadolu Lisesi'ndeki silahlı saldırıya ilişkin 16 şüphelinin gözaltına alındığını bildirdi.",
-    "image": null,
     "keyword": null
   }
 ]
