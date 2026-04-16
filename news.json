@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e8a280f2",
+    "title": "Kahramanmaraş’taki okul saldırısını gerçekleştiren saldırganın babası tutuklandı",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 07:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kahramanmaras-taki-okul-saldirisini-gerceklestiren-saldirganin-babasi-tutuklandi-2495570",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş’ta 9 kişinin yaşamını yitirdiği okul saldırısına ilişkin soruşturmada, saldırıyı gerçekleştiren öğrencinin babası U.M.’nin tutuklandığı açıklandı. Açıklamada \"İlk bulgular çerçevesinde olayın terör bağlantısına dair herhangi bir tespit bulunmamakta olup, bireysel bir saldırı olduğu değerlendirilmektedir\" denildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c2425dd5-e63f-4b43-b579-02eb9341a4e4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d7a94a75",
     "title": "\"Kahramanmaraş'taki okul saldırısında kayıp çocuklar var\" iddiasıyla ilgili açıklama",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Atatürk Anadolu’da, imparatorluğun uzak topraklarında yıllarca savaşmış...",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar135_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_890bc687",
-    "title": "Hrant Dink Hafıza Mekânı",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 05:25",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/hrant-dink-hafiza-mekani-2495526",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Zaman uçuyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar96_cover.jpeg",
     "keyword": null
   }
 ]
