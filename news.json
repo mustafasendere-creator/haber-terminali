@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_687dac1f",
+    "title": "Kahramanmaraş'ta okulu basıp 9 kişiyi öldüren saldırganın son mesajları ortaya çıktı",
+    "source": "BirGün",
+    "time": "16/04/2026 19:13",
+    "link": "https://www.birgun.net/haber/kahramanmaras-ta-okulu-basip-9-kisiyi-olduren-saldirganin-son-mesajlari-ortaya-cikti-706277",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta Ayser Çalık Ortaokulu'na silahlı saldırı düzenleyip 8'i çocuk 9 kişiyi öldüren İsa A.M.'nin son mesajları ortaya çıktı. Saldırganın son yazışmalarında okulu basacağını ve katliam yapacağını yazdığı aktarıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/okulu-basip-9-kisiyi-olduren-saldirganin-son-mesajlari-ortaya-cikti.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2169bfc4",
     "title": "Küba lideri Canel, ABD'nin askeri saldırısının ihtimal dahilinde olduğunu söyledi",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "BM raportörleri, Epstein soruşturmasında ortaya çıkan \"insan ticareti\" iddialarına ilişkin hesap sorulması çağrısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_938031fb",
-    "title": "Borsa günü düşüşle tamamladı",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 18:33",
-    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/3908181",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,36 değer kaybederek 14.201,05 puandan tamamladı.",
     "image": null,
     "keyword": null
   }
