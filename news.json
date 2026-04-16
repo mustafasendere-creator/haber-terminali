@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fcfef7fc",
+    "title": "Lufthansa’dan küçülme kararı: Tasarruf paketi açıklandı",
+    "source": "Ekonomim",
+    "time": "16/04/2026 20:34",
+    "link": "https://www.ekonomim.com/havacilik/lufthansadan-kuculme-karari-tasarruf-paketi-aciklandi-haberi-888586",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alman havacılık devi Lufthansa, yakıt maliyetleri ve operasyonel zorluklar nedeniyle CityLine iştirakini kapatma ve filosundaki uçakları emekli etme kararı aldı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/16/lufthansadan-sonra-eurowings-pilotlari-da-grev-karari-aldi-xnmu_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c2f04e49",
     "title": "Vakıf Katılım emekli promosyonu ne kadar?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AFAD verilerine göre Simav’da meydana gelen 3.6 büyüklüğündeki deprem yerin 10.64 kilometre derinliğinde gerçekleşti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/f9a4a770-0b61-4774-9401-5ed4bbd53f23.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ca660660",
-    "title": "Fatih'te silahlı saldırı: Yaralı var",
-    "source": "Haber Global",
-    "time": "16/04/2026 19:54",
-    "link": "https://haberglobal.com/gundem/fatihte-silahli-saldiri-yarali-var-519276",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'un Fatih ilçesinde bir kişi uğradığı silahlı saldırıda yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/fatihte-silahli-saldiri-yarali-var-04bu.jpg",
     "keyword": null
   }
 ]
