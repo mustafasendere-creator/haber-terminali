@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d6d5f2f9",
+    "title": "Emniyet'ten okul saldırıları hakkında açıklama: 127 kişi gözaltına alındı",
+    "source": "BirGün",
+    "time": "16/04/2026 18:13",
+    "link": "https://www.birgun.net/haber/emniyet-ten-okul-saldirilari-hakkinda-aciklama-127-kisi-gozaltina-alindi-706271",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Emniyet, Kahramanmaraş ve Şanlıurfa'da okullara yönelik saldırıların ardından \"halkı yanıltıcı nitelikte paylaşımlar yapan, tehdit ve eylem\" çağrısında bulunan 127 kişinin gözaltına alındığını, 1115 internet adresinin ise erişime kapatıldığını duyurdu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/emniyet-ten-okul-saldirilari-hakkinda-aciklama-127-kisi-gozaltina-alindi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5ece5b96",
     "title": "ABD Savunma Bakanı'ndan İran'a yönelik tehdit",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İsrail’in, kendince İran’dan Türkiye’ye uzanan bir “güvenlik koridoru” oluşturma hedefi konuşuladursun, Netanyahu’nun asıl 800 kilometrelik koridoru Suriye-Lübnan hattında şekilleniyor.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/herkes-irani-konusuyor-ama-gozden-kacan-esas-koridor-israil-ne-pisiriyor-cqzu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_efb9eb86",
-    "title": "ABD'den İran’a sert uyarı: İran kötü bir seçim yaparsa hem abluka olacak hem de bombalar yağacak",
-    "source": "Ekonomim",
-    "time": "16/04/2026 17:35",
-    "link": "https://www.ekonomim.com/dunya/abdden-irana-sert-uyari-iran-kotu-bir-secim-yaparsa-hem-abluka-olacak-hem-de-bombalar-yagacak-haberi-888569",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Savunma Bakanı Pete Hegseth düzenlediği basın toplantısında, &quot;Eğer İran kötü bir seçim yaparsa o zaman hem abluka olacak hem de altyapı, enerji üretimi ve enerji sektörüne bombalar yağacak&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/13/abd-irana-yonelik-saldirilara-destek-icin-160tan-fazla-yakit-ikmal-ucagi-konuslandirdi-xzkk_cover.jpg",
     "keyword": null
   }
 ]
