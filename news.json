@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1862fde3",
+    "title": "Bir egzersiz 8 kronik hastalık riskini azaltıyor",
+    "source": "TRT Haber",
+    "time": "16/04/2026 08:06",
+    "link": "https://www.trthaber.com/haber/dunya/bir-egzersiz-8-kronik-hastalik-riskini-azaltiyor-941824.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bilim dünyasında uzun süredir kabul gören \"daha çok hareket et, daha az otur\" tavsiyesi yerini daha spesifik bir yaklaşıma bırakıyor. European Heart Journal'da yayımlanan çalışma, günlük hareketlerin küçük bir kısmını bile \"yüksek yoğunluklu\" hale getirmenin sekiz farklı kronik hastalık riskini ciddi oranda düşürdüğünü ortaya koydu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_de93586b",
     "title": "Valizinden 2 bin 200 canlı karınca çıktı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da belediye yapılanmasından kültür sanat hareketliliğine, siyasi değişimlerden Meclis’teki dikkat çeken kareye kadar birçok gelişme gündemde. Şehirde hem idari hem sosyal alanda hareketli bir süreç yaşanıyor.",
     "image": "https://resim.haber61.net/news/612908.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_4720aee0",
-    "title": "Kahramanmaraş’taki okul saldırısı: 66 site için erişim engeli talebi",
-    "source": "BirGün",
-    "time": "16/04/2026 06:44",
-    "link": "https://www.birgun.net/haber/kahramanmarastaki-okul-saldirisi-66-site-icin-erisim-engeli-talebi-706105",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Kahramanmaraş’ta bir okulda yaşanan silahlı saldırının ardından, görüntüleri Telegram üzerinden yayan ve provokatif paylaşımlar yaptığı tespit edilen hesaplara yönelik adli süreç başlatıldı. Bu kapsamda 66 URL adresi için içerik çıkarma ve erişim engeli talebinde bulunulurken, yaklaşık 100 bin üyeli “C31K” adlı Telegram grubunun kapatıldığı bildirildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/kahramanmarastaki-okul-saldirisi-66-internet-adresi-icin-erisim-engeli-talebi.jpg",
-    "keyword": "c31k"
   }
 ]
