@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_097d2726",
+    "title": "Saldırı sonrası Gürlek'ten yeni açıklama: 95 gözaltı, 35 kişi aranıyor",
+    "source": "OdaTV",
+    "time": "16/04/2026 18:35",
+    "link": "https://www.odatv.com/guncel/saldiri-sonrasi-gurlekten-yeni-aciklama-95-gozalti-35-kisi-araniyor-120143546",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adalet Bakanı Akın Gürlek, Şanlıurfa ve Kahramanmaraş’ta yaşanan okul saldırıları sonrası yürütülen soruşturmalarda dijital paylaşımlara yönelik geniş çaplı operasyon başlatıldığını duyurdu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/saldiri-sonrasi-gurlekten-aciklama-onlarca-hesap-icin-dugmeye-basildi-bsit.png",
+    "keyword": null
+  },
+  {
     "id": "GND_114cb76e",
     "title": "Aksaray'da iki kardeş, husumetlisini bıçakladı: Gencin durumu ciddi",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "C31 Service Alert Update: Buses are operating on or near schedule following an earlier incident. Track your bus in real time by visiting metropulse.wmata.com/bus",
     "image": null,
     "keyword": "c31"
-  },
-  {
-    "id": "GND_101f608f",
-    "title": "Yapay zeka araçlarındaki tek bir sorgu 6 litre su tüketimine mi yol açıyor?",
-    "source": "Teyit.org",
-    "time": "16/04/2026 17:56",
-    "link": "https://teyit.org/analiz/yapay-zeka-araclarindaki-tek-bir-sorgu-6-litre-su-tuketimine-mi-yol-aciyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "NTV kanalında yayınlanan “Bambaşka Sohbetler” programında yapay zekaya sorulan tek bir sorunun 6 litre su tüketimine yol açtığı iddia edildi.",
-    "image": "https://md.teyit.org/2026/04/ai-su-kapak.webp",
-    "keyword": null
   }
 ]
