@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9a7b5fba",
+    "title": "İsrail'in Paris Büyükelçisi ile aşırı sağcı Marine Le Pen arasında gizli görüşme",
+    "source": "BirGün",
+    "time": "16/04/2026 14:34",
+    "link": "https://www.birgun.net/haber/israil-in-paris-buyukelcisi-ile-asiri-sagci-marine-le-pen-arasinda-gizli-gorusme-706242",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail’in Paris Büyükelçiliği, aşırı sağcı Ulusal Birlik (RN) partisinin önde gelen ismi Marine Le Pen’in Büyükelçi Joshua Zarka ile gizli bir görüşme yaptığına ilişkin iddiaların basına yansımasının ardından görüşmeyi doğruladı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/israil-in-paris-buyukelcisi-ile-asiri-sagci-marine-le-pen-arasinda-gizli-gorusme.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0bbc8f11",
     "title": "Arda Güler tek maçla 5 rekor kırdı",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Rusya, Almanya ve Türkiye gibi ülkelerde Ukrayna'ya İHA desteği veren şirketlerin adreslerini paylaşarak gözdağı verdi. Dimitri Medvedev, bu listenin Rus ordusu için \"potansiyel hedef listesi\" olduğunu duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e079a359",
-    "title": "Kahramanmaraş saldırısı: İnceller ve C31K nedir?",
-    "source": "DW Türkçe",
-    "time": "16/04/2026 14:15",
-    "link": "https://www.dw.com/tr/kahramanmaraş-saldırısı-inceller-ve-c31k-nedir/a-70458731",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa ve Kahramanmaraş'taki okul saldırıları sonrası polis, onlarca sosyal medya hesabının kapatıldığını açıkladı. Peki incellik ve C31K ile ilişkilendirilen bu hesaplara dair ne biliniyor?",
     "image": null,
     "keyword": null
   }
