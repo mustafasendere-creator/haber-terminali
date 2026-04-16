@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_23558791",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect westbound delays on Route C31 due ...",
+    "source": "Bluesky",
+    "time": "16/04/2026 23:17",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjmwn4qz4q2l",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert: Expect westbound delays on Route C31 due to a bus with a mechanical problem. Track your bus in real time at metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "SOC_e13635c2",
     "title": "Bomba patladı ! Başkan resmen açıkladı ! Görüşmeler başladı ! #trabzonspor - YouTube",
     "source": "YouTube",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Birleşmiş Milletler BM, İsrail'in ateşkes kurallarının geçerli olduğu Gazze'ye yönelik saldırılarının devam ettiğini, bunun \"daha fazla sivili tehlikeye attığını\" bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_3890fac2",
-    "title": "Kahramanmaraş ve Siverek: Okullarda şiddet neden artıyor?",
-    "source": "DW Türkçe",
-    "time": "16/04/2026 22:33",
-    "link": "https://www.dw.com/tr/kahramanmaraş-ve-siverek-okullarda-şiddet-neden-artıyor/a-76809101",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Siverek ve Kahramanmaraş'taki okul saldırıları sonrası çocuklar arasındaki şiddetin yaygınlaşması tartışılıyor. Prof. Dr. Emre Erdoğan, dikkatlerin sadece dijital alana çevrilmesinin yanlış olduğunu söylüyor.",
     "image": null,
     "keyword": null
   }
