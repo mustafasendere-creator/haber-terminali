@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_101f608f",
+    "title": "Yapay zeka araçlarındaki tek bir sorgu 6 litre su tüketimine mi yol açıyor?",
+    "source": "Teyit.org",
+    "time": "16/04/2026 17:56",
+    "link": "https://teyit.org/analiz/yapay-zeka-araclarindaki-tek-bir-sorgu-6-litre-su-tuketimine-mi-yol-aciyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NTV kanalında yayınlanan “Bambaşka Sohbetler” programında yapay zekaya sorulan tek bir sorunun 6 litre su tüketimine yol açtığı iddia edildi.",
+    "image": "https://md.teyit.org/2026/04/ai-su-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "GND_741d78c6",
     "title": "Cumhurbaşkanı Erdoğan, Kuzey Makedonya Cumhurbaşkanı ile görüştü",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "'Yara bandı ilişkisi' olarak tanımlanan bu sürecin tek başına bir sorun olmadığını belirten psikologlar, yapılan tek bir hatanın duygusal yıkımı büyütebileceği konusunda uyarıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8d730a27-bcd1-49f0-9ef7-7dcc46cd329d.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_03a6964e",
-    "title": "İsrail basını yazdı: İsrail-Lübnan’dan ateşkes hazırlığı",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 17:34",
-    "link": "https://www.cumhuriyet.com.tr/dunya/israil-basini-yazdi-israil-lubnan-dan-ateskes-hazirligi-2495765",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in Haaretz gazetesi, İsrail ordusunun bu akşam saat 19:00 sonrasında Lübnan'da yürürlüğe girecek ateşkes için hazırlık yaptığını iddia etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/cd645166-b14b-444d-ac47-185d637aa0e6.jpg",
     "keyword": null
   }
 ]
