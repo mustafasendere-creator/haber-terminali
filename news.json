@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e326b78",
+    "title": "Okul saldırılarının sırrı",
+    "source": "A Haber",
+    "time": "16/04/2026 07:44",
+    "link": "https://www.ahaber.com.tr/yazarlar/salih-tuna/2026/04/16/okul-saldirilarinin-sirri",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'dan gelen o uğursuz haberin şokunu henüz atlatamamışken, bu kez de Kahramanmaraş'taki okul saldırısıyla kanımız dondu.\nDaha önce biri çıkıp Türkiye'de böyle şeyler olacak deseydi, o...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_c18ed20c",
     "title": "Capacity skandalı",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hızla değişen dünyada yeni bir eğitim sisteminin zorunlu olduğunu belirten uzmanlar, bilimin önemini vurguladı. Uygarlığın, refahın, gücün, teknolojinin ve başarının temelinde bilim olduğuna dikkat çekilerek bunun eğitiminde yön bulma fırsatı sunduğu belirtildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/d9734f18-4c4e-49e8-bc6a-3ccae77c5350.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_469a6530",
-    "title": "Kim Kime Dum Duma - 16 Nisan 2026",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 04:24",
-    "link": "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-16-nisan-2026-2495552",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": ".",
-    "image": "https://media.cumhuriyet.com.tr/Archive/789aefb4-29d9-4feb-aa39-bf134ea2d0b4.jpg",
     "keyword": null
   }
 ]
