@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_66e0e1e4",
+    "title": "Altın fiyatları yükselişte",
+    "source": "Habertürk",
+    "time": "16/04/2026 17:15",
+    "link": "https://www.haberturk.com/savas-bitiyor-mu-altin-fiyatlari-yukseliste-iste-16-nisan-2026-guncel-gram-altin-ceyrek-altin-cumhuriyet-altin-fiyatlari-3877707-ekonomi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son günlerde petrol fiyatlarının düşmesi, merkez bankalarının faizleri daha uzun süre sabit tutmasına veya artırmasına neden olabilecek enflasyon endişelerinin azalması sonucu altın fiyatları yükseldi. Sabah saatlerinde ons altın yüzde 0,79 yükselişle 4 bin 820 dolar gram altın ise yüzde 0,71 yükselişle 6 bin 941 TL'den işlem görüyor",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776313889/3877707/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_d4deeb77",
     "title": "Boşandılar",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’un Başakşehir FK ile 19 Nisan Pazar günü Papara Park’ta oynayacağı maç öncesi tribün ilgisi dikkat çekti. Haber61’in edindiği bilgiye göre karşılaşma için şu ana kadar 20 bin taraftar bilet aldı.",
     "image": "https://resim.haber61.net/news/613037.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_71474dfd",
-    "title": "Ulaştırma Bakanı Uraloğlu’ndan dikkat çeken havacılık mesajı; “Havacılık Yatırımlarıyla Türkiye Güçleniyor”",
-    "source": "Taka Gazetesi",
-    "time": "16/04/2026 16:54",
-    "link": "https://www.takagazete.com.tr/ulastirma-bakani-uraloglundan-dikkat-ceken-havacilik-mesaji-havacilik-yatirimlariyla-turkiye-gucleniyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ulaştırma Bakanı Abdulkadir Uraloğlu, havacılık yatırımlarının arttığını açıkladı. Yeni pist ve tesislerle kapasite büyüyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/55c30f3f-329b-4fcf-b6c3-5f2514ac5e6b.jpg",
-    "keyword": null
   }
 ]
