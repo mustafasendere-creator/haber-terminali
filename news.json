@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_81aa364d",
+    "title": "Siverek'te okula düzenlenen silahlı saldırıda yaralanan 10 kişi taburcu edildi",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 16:53",
+    "link": "https://www.aa.com.tr/tr/gundem/siverekte-okula-duzenlenen-silahli-saldirida-yaralanan-10-kisi-taburcu-edildi/3908014",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa Valisi Hasan Şıldak, Siverek ilçesindeki bir okula düzenlenen silahlı saldırıda yaralanan 10 kişinin, tedavilerinin ardından taburcu edildiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_52d09ebe",
     "title": "Haaretz: Lübnan Cumhurbaşkanı Avn, İsrail'in saldırıları nedeniyle Netanyahu ile görüşmeyi reddetti",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Vietnam Meclis Başkanı Tran Thanh Man ve beraberindeki heyeti kabul etti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_b1e60d45",
-    "title": "İnşaatta elektrik akımına kapılan 2 işçiden biri öldü, diğeri yaralandı",
-    "source": "TRT Haber",
-    "time": "16/04/2026 16:14",
-    "link": "https://www.trthaber.com/haber/turkiye/insaatta-elektrik-akimina-kapilan-2-isciden-biri-oldu-digeri-yaralandi-941910.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır'ın merkez Kayapınar ilçesinde inşatta elektrik akımına kapılan 2 işçiden biri hayatını kaybetti, diğeri yaralandı.",
     "image": null,
     "keyword": null
   }
