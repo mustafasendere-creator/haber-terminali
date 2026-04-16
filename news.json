@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1ec964a1",
+    "title": "Kırmızı bültenle aranan suç örgütü lideri İstanbul'da yakalandı",
+    "source": "BirGün",
+    "time": "16/04/2026 16:13",
+    "link": "https://www.birgun.net/haber/kirmizi-bultenle-aranan-suc-orgutu-lideri-istanbul-da-yakalandi-706246",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Azerbaycan'da işlediği suçlardan dolayı kırmızı bültenle aranan suç örgütü lideri İnkılap B, Eyüpsultan'daki rezidansa düzenlenen operasyonla gözaltına alındı. Şüpheli İnkılap B, 2024'te İstanbul Havalimanı'nda 16 kilogram külçe altının ele geçirilmesine ilişkin dosya kapsamında aranıyordu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/kirmizi-bultenle-aranan-suc-orgutu-lideri-istanbul-da-yakalandi.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_80cf3801",
     "title": "Kahramanmaraş saldırısı: İncel ve C31K nedir?",
     "source": "DW Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Rusya’nın Kiev, Odessa ve Dnipropetrovsk’a düzenlediği saldırılarda en az 15 kişi hayatını kaybetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343283.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7a72f2cc",
-    "title": "Antep’te patron tacizi: Cinsel saldırı suçu değil, kadın işçinin şikayeti sorgulandı",
-    "source": "Evrensel",
-    "time": "16/04/2026 15:34",
-    "link": "https://www.evrensel.net/haber/5979932/antepte-patron-tacizi-cinsel-saldiri-sucu-degil-kadin-iscinin-sikayeti-sorgulandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antep’te fabrika patronu tarafından cinsel saldırı ve tacize uğrayan kadın işçinin davasında, mahkeme ve sanık avukatı işçiye şikayetini neden geç yaptığı sorusunu yöneltti; sanık duruşmaya katılmadı, zorla getirilme kararı verildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343282.jpg",
     "keyword": null
   }
 ]
