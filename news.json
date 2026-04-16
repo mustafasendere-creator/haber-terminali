@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3c90c95",
+    "title": "Eğitim Sen Denizli Şubesi’nden Maraş’taki katliama tepki",
+    "source": "Evrensel",
+    "time": "16/04/2026 14:34",
+    "link": "https://www.evrensel.net/haber/5979920/egitim-sen-denizli-subesinden-marastaki-katliama-tepki",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eğitim Sen Denizli Şubesi Urfa'daki saldırının ardından Maraş'taki okulda yaşanan katliamı protesto etti. Okullarda can güvenliği talep edilen açıklamada yaşam nöbetine katılım çağrısı yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343265.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_0344cc80",
     "title": "Trabzonspor Ukraynalı oyuncu için Alman devleriyle savaşıyor",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/trabzonspor-hisseleri-yuzde-14-geriledidd-1.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_72c6c172",
-    "title": "Avrupa basınında Arda Güler gündem oldu: \"Neuer'in kabusu, Güler'in zaferi oldu\"",
-    "source": "Haber Global",
-    "time": "16/04/2026 14:16",
-    "link": "https://haberglobal.com/spor/avrupa-basininda-arda-guler-gundem-oldu-neuerin-kabusu-gulerin-zaferi-oldu-519193",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Real Madrid'de forma giyen milli futbolcu Arda Güler'in Bayern Münih karşısındaki unutulmaz performansı Avrupa basınında manşetleri süsledi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/avrupa-basininda-arda-guler-gundem-oldu-neuerin-kabusu-gulerin-zaferi-oldu-iaai.jpg",
-    "keyword": null
   }
 ]
