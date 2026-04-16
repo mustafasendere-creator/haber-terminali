@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_14a8ec5c",
+    "title": "Hürmüz düğümü: Türkiye'de enerjiye zam baskısı",
+    "source": "DW Türkçe",
+    "time": "16/04/2026 07:45",
+    "link": "https://www.dw.com/tr/hürmüz-düğümü-türkiye-de-enerjiye-zam-baskısı/a-76795817",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hürmüz Boğazı'ndaki abluka nedeniyle enerji piyasalarındaki tedirginlik artıyor. IEA Başkanı Fatih Birol \"çok ciddi bir kriz\" uyarısı yaparken Türkiye'de motorine yeni zam geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_9ce564bb",
     "title": "Trabzon’da Bugün Elektrik Alarmı! Saatler Sürecek Kesintiler Hayatı Durduracak",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Fener Ajans 🇹🇷 (@ajansfenercom) / Posts / X  x.com",
     "image": null,
     "keyword": "trabzon fetö"
-  },
-  {
-    "id": "SOC_a81151a4",
-    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect westbound delays on Route C31 at M...",
-    "source": "Bluesky",
-    "time": "16/04/2026 05:06",
-    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjlasrd43d2a",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "C31 Service Alert: Expect westbound delays on Route C31 at Marion Barry Ave SE & 13th St due to an incident. Track your bus in real time by visiting metropulse.wmata.com/bus",
-    "image": null,
-    "keyword": "c31"
   }
 ]
