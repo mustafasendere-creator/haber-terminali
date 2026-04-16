@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_acef0503",
+    "title": "Narin Güran davası: Nevzat Bahtiyar'a 17 yıl hapis cezası",
+    "source": "BBC Türkçe",
+    "time": "16/04/2026 14:13",
+    "link": "https://www.bbc.com/turkce/articles/cj383rdzkyro",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Narin Güran davasında, Yargıtay'ın hakkındaki kararı bozmasıyla yeniden yargılanan Nevzat Bahtiyar'a 17 yıl hapis cezası verildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_90c2b9a9",
     "title": "İhlas Haber Ajansı (@ihacomtr) / Posts / X - x.com",
     "source": "X (Twitter)",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’un Şahinkaya Mahallesi nüfusuna kayıtlı, Gölcük’te ikamet eden emekli öğretmen Muzaffer Mustafa Altuncu vefat etti.",
     "image": "https://resim.haber61.net/news/612932.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_7152806d",
-    "title": "Trabzon’da bugün hava nasıl olacak? Meteoroloji açıkladı",
-    "source": "Haber61",
-    "time": "16/04/2026 09:05",
-    "link": "https://www.haber61.net/trabzon/trabzonda-bugun-hava-nasil-olacak-meteoroloji-acikladi-3-h629711.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Meteoroloji verilerine göre Trabzon’da hava parçalı ve az bulutlu olacak, sıcaklık 13 derece civarında seyredecek.",
-    "image": "https://resim.haber61.net/news/612933.jpg",
     "keyword": "trabzon"
   }
 ]
