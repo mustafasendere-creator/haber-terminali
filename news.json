@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_1184a414",
+    "title": "@besgenelmerkezi.bsky.social: 📢 İnsanca, eşit ve adil bir kamu hizmeti ile en temel hakkım...",
+    "source": "Bluesky",
+    "time": "16/04/2026 14:38",
+    "link": "https://bsky.app/profile/besgenelmerkezi.bsky.social/post/3mjm2ytiris26",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "📢 İnsanca, eşit ve adil bir kamu hizmeti ile en temel hakkımız olan yaşam hakkımız için iş bıraktık.\n\n📍Trabzon SGK İl Müdürlüğü\n\nUrfa’da, İzmir’de, Maraş’ta yaşanan silahlı saldırılar münferit değil; şiddetin kaynağı iktidarın uyguladığı sosyo-ekonomik politikalardır.\n\n#ŞiddeteHayır",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qjkdzcozpufteikraicfs7ku/bafkreid74lr5n7f3ldahzo4yjsbz74a5ylmasrubqyrtf76noemkn4zwaa",
+    "keyword": "trabzon"
+  },
+  {
     "id": "SOC_2bf1c7cd",
     "title": "@besgenelmerkezi.bsky.social: Büro Emekçileri Sendikası Trabzon Şubesi, okul sağdırıları m...",
     "source": "Bluesky",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_bdc66c5d",
-    "title": "Video Hizbullah'ın İsrail'in askeri karargahına düzenlediği saldırıyı mı gösteriyor?",
-    "source": "Teyit.org",
-    "time": "16/04/2026 14:18",
-    "link": "https://teyit.org/analiz/video-hizbullahin-israilin-askeri-karargahina-duzenledigi-saldiriyi-mi-gosteriyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sosyal medyada Hizbullah’ın, İsrail’in askeri karargahına saldırı düzenlediği, çok sayıda ölü ve yaralının olduğu iddia edildi.",
-    "image": "https://md.teyit.org/2026/04/hizbullah-israil-karargah-saldiri.webp",
-    "keyword": null
   }
 ]
