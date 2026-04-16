@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d849f48b",
+    "title": "Piyasa değeri 3 milyon dolar... Türkiye'ye kaçak yollarla getirdikleri elması satamadan yakalandılar!",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 16:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/piyasa-degeri-3-milyon-dolar-turkiye-ye-kacak-yollarla-getirdikleri-elmasi-satamadan-yakalandilar-2495745",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Cumhuriyet Başsavcılığı, Endonezya'dan Türkiye'ye kaçak yollarla sokulan yaklaşık 3 milyon dolar değerindeki elması Kapalıçarşı'da satmaya çalışan 6 şüphelinin yakalandığını duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8665dcc8-5e95-4d5d-84a2-938d3f77e7b0.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_dcb61a25",
     "title": "Trabzon Şalpazarı'nda Güvenlik Danışma Kurulu Toplantısı yapıldı",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Esin Davutoğlu Şenol (@esenol) / Posts / X  x.com",
     "image": null,
     "keyword": "hrant dink"
-  },
-  {
-    "id": "GND_267ce464",
-    "title": "Ataol Behramoğlu 'laiklik ifadesi verdi",
-    "source": "OdaTV",
-    "time": "16/04/2026 15:35",
-    "link": "https://www.odatv.com/guncel/84-yasindaki-sair-ataol-behramoglu-laiklik-ifadesi-verdi-120143552",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“Laikliği Birlikte Savunuyoruz” bildirisine imza attığı gerekçesiyle ifade veren 84 yaşındaki Ataol Behramoğlu, bildirideki görüşlerin suç değil anayasal hak olduğunu vurguladı. Behramoğlu, Milli Eğitim Bakanı Yusuf Tekin hakkında suç duyurusunda bulundu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/84-yasindaki-sair-ataol-behramoglu-laiklik-ifadesi-verdi-0kjn.jpg",
-    "keyword": null
   }
 ]
