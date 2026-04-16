@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e3af603c",
+    "title": "Galatasaray Üniversitesi öğrencileri Bakan Tekin'in istifasını istedi",
+    "source": "BirGün",
+    "time": "16/04/2026 14:13",
+    "link": "https://www.birgun.net/haber/galatasaray-universitesi-ogrencileri-bakan-tekin-in-istifasini-istedi-706229",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Urfa ve Maraş'ta art arda yaşanan ve can kayıplarına yol açan okul saldırılarına tepki gösteren Galatasaray Üniversitesi öğrencileri ile Eğitim Sen üyesi kamu emekçileri, üniversite kampüsünden Beşiktaş Meydanı'na yürüdü. Okullardaki güvenlik zafiyetine ve MEB'in politikalarına tepki gösteren öğrenciler, Milli Eğitim Bakanı Yusuf Tekin'i istifaya çağırdı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/galatasaray-universitesi-ogrencileri-bakan-tekin-in-istifasini-istedi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_acef0503",
     "title": "Narin Güran davası: Nevzat Bahtiyar'a 17 yıl hapis cezası",
     "source": "BBC Türkçe",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da yaşanan gelişmelerin ardından Çarşıbaşı Ortaokulu Müdürlüğü, öğrenci ve öğretmen güvenliği için yeni tedbirleri duyurdu. Okula girişlerde randevu şartı getirildi.",
     "image": "https://resim.haber61.net/news/612929.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_51afc7c3",
-    "title": "Trabzon’a acı haber: Emekli öğretmen hayatını kaybetti",
-    "source": "Haber61",
-    "time": "16/04/2026 09:05",
-    "link": "https://www.haber61.net/trabzon/trabzona-aci-haber-emekli-ogretmen-hayatini-kaybetti-1-h629710.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un Şahinkaya Mahallesi nüfusuna kayıtlı, Gölcük’te ikamet eden emekli öğretmen Muzaffer Mustafa Altuncu vefat etti.",
-    "image": "https://resim.haber61.net/news/612932.jpg",
     "keyword": "trabzon"
   }
 ]
