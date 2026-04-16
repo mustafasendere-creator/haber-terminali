@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_066d37ce",
+    "title": "ABD, Suriyedeki son askeri üssü Kasrekten çekildi",
+    "source": "TRT Haber",
+    "time": "16/04/2026 14:54",
+    "link": "https://www.trthaber.com/haber/dunya/abd-suriyedeki-son-askeri-ussu-kasrekten-cekildi-941898.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin çekildiği Haseke'deki Kasrek Hava Üssü, Suriye ordusunun kontrolüne geçti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0af95083",
     "title": "Kahramanmaraş: Okulda silahlı saldırıda 10 kişi öldü",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "Trabzon'da Atatürk Alanı'nda yer alan viyadüklerin altı modern bir dinlenme alanına dönüştürülecek. Oturma alanları ve peyzaj düzenlemeleriyle yeşil dokuya kavuşturulacak olan alanın, Mayıs ayı içerisinde hizmete açılması hedefleniyor.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/fds-81.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d3c90c95",
-    "title": "Eğitim Sen Denizli Şubesi’nden Maraş’taki katliama tepki",
-    "source": "Evrensel",
-    "time": "16/04/2026 14:34",
-    "link": "https://www.evrensel.net/haber/5979920/egitim-sen-denizli-subesinden-marastaki-katliama-tepki",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eğitim Sen Denizli Şubesi Urfa'daki saldırının ardından Maraş'taki okulda yaşanan katliamı protesto etti. Okullarda can güvenliği talep edilen açıklamada yaşam nöbetine katılım çağrısı yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343265.jpg",
-    "keyword": null
   }
 ]
