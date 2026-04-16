@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_36b93e4a",
+    "title": "DİSK, KESK, TMMOB ve TTB: 1 Mayıs'ta Kadıköy'deyiz",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 19:14",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/disk-kesk-tmmob-ve-ttb-1-mayis-ta-kadikoy-deyiz-2495783",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DİSK, KESK, TMMOB ve TTB, 2026 1 Mayısı'nın Kadıköy İskele Meydanı'nda gerçekleşeceğini duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e977a6e1-5aef-4fbb-8a11-0851d660ddc3.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d436064d",
     "title": "Fenerbahçe Medicana, play-off 5-8 etabında finale çıktı!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Katil İsrail ordusunun Ekim 2023'ten beri Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 345e ulaştı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_07bdca06",
-    "title": "DSÖ, İsrail'in saldırdığı Lübnan'da sağlık hizmetlerinin 133 kez hedef alındığını kayıtlara geçirdi",
-    "source": "TRT Haber",
-    "time": "16/04/2026 18:34",
-    "link": "https://www.trthaber.com/haber/dunya/dso-israilin-saldirdigi-lubnanda-saglik-hizmetlerinin-133-kez-hedef-alindigini-kayitlara-gecirdi-941883.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünya Sağlık Örgütü DSÖ Genel Direktörü Tedros Adhanom Ghebreyesus, \"İsrail saldırıları DSÖ, savaşın başlangıcından bu yana sağlık hizmetlerine yönelik 133 saldırı kaydetti. Bu saldırılarda 88 kişi öldü ve 206 kişi yaralandı.\" ifadelerini kullandı.",
     "image": null,
     "keyword": null
   }
