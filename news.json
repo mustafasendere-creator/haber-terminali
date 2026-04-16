@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3d5bc3b3",
+    "title": "Rüzgar ve güneşin elektrik kurulu gücündeki payı yüzde 33e çıktı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 14:15",
+    "link": "https://www.trthaber.com/haber/ekonomi/ruzgar-ve-gunesin-elektrik-kurulu-gucundeki-payi-yuzde-33e-cikti-941891.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin toplam elektrik kurulu gücünde rüzgar ve güneş enerjisinin payı mart sonu itibarıyla yüzde 33'e ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_da8d0fca",
     "title": "Emek ve Demokrasi platformu Trabzon'da “eğitim” için ayağa kalktı",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonlu Mustafa Kemal Doğrul vefat etti, cenazesi Perşembe günü Trabzon Çaykara’da toprağa verilecek.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/ekran-goruntusu-2026-04-16-1777137593.png",
-    "keyword": null
-  },
-  {
-    "id": "YRL_291d6f82",
-    "title": "Trabzon'da futbol zirvesi",
-    "source": "Günebakış",
-    "time": "16/04/2026 09:44",
-    "link": "https://www.gunebakis.com.tr/trabzonda-futbol-zirvesi/27818538",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Futbol Adamları Derneği Yönetim Kurulu ve TÜFAD Trabzon Şubesi Yönetim Kurulu bir araya geldi",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/15/large/ekran-goruntusu-2026-04-15-1777248459.png",
     "keyword": null
   }
 ]
