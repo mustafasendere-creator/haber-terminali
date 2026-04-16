@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_99418ec5",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert Update: Buses are operating on or near sch...",
+    "source": "Bluesky",
+    "time": "16/04/2026 04:46",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjkzldhjvq22",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert Update: Buses are operating on or near schedule following an earlier medical emergency. Track your bus in real time by visiting metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "SOC_b1706f82",
     "title": "🚨 Trabzon’da okul tehdit mesajı tepki çekti! Akçaabat ilçesi Mevlüt Selami Yardım Ortaokulu’nun sosyal medya hesabında paylaşılan bir gönderiye yazılan “Cuma günü ayık olun” yorumu dikkat çekti. Şanlıurfa ve Kahramanmaraş’ta iki okula öğrenciler tarafınd - x.com",
     "source": "X (Twitter)",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hollanda merkezli bir girişim, Avrupalı kullanıcılara teknoloji devlerinin sosyal medya platformlarına yerli bir alternatif sunuyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_07d316b2",
-    "title": "Tarih netleşti: İstanbul 3 gün boyunca çöl tozunun etkisinde kalacak",
-    "source": "BirGün",
-    "time": "16/04/2026 02:24",
-    "link": "https://www.birgun.net/haber/tarih-netlesti-istanbul-3-gun-boyunca-col-tozunun-etkisinde-kalacak-705939",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji uzmanları, İstanbul'un bugünden (15 Nisan Çarşamba) itibaren 3 gün boyunca Sahra Çölü'nden gelen çöl tozunun etkisi altında kalacağını bildirdi. Çöl tozu 17 Nisan Cuma günü etkisini yitirmeye başlayacak.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/15/tarih-netlesti-istanbul-3-gun-boyunca-col-tozunun-etkisinde-kalacak.jpg",
     "keyword": null
   }
 ]
