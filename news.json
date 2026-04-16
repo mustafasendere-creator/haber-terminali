@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_941eb913",
+    "title": "Erdoğan ile Erhürman bir araya geldi",
+    "source": "BirGün",
+    "time": "16/04/2026 20:33",
+    "link": "https://www.birgun.net/haber/erdogan-ile-erhurman-bir-araya-geldi-706283",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erdoğan, Kuzey Kıbrıs Cumhurbaşkanı Tufan Erhürman ile Dolmabahçe Çalışma Ofisi'nde bir araya geldi. Görüşmede bölgesel konular ile Türkiye-Kuzey Kıbrıs gündemdeydi. Erdoğan'ın görüşmede, İran'a yönelik saldırılar nedeniyle Avrupa ülkeleri tarafından Kıbrıs'a yerleştirilen askeri unsurların kalıcı olmaması gerektiğini ifade ettiği bildirildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/erdogan-ile-erhurman-bir-araya-geldi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a6d5185c",
     "title": "DİSK, KESK, TMMOB ve TTB: 1 Mayıs'ta Kadıköy'deyiz",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş’ta silahlı saldırıda 9 kişinin öldüğü Ayser Çalık Ortaokulu’nun Okul Aile Birliği Başkanı Hülya Çevik, 1 ay önce başka bir okula tayini çıkan müdür yardımcısı Alparslan Yıldırım’ın saldırgan öğrenci İsa A.M.'yi çok iyi tanıdığını belirterek, \"Bu çocuk kalemle avucuna batıran, açkıyla elini kesen, kendi boğazını kesen, agresif hareketleri olabilen biriydi. Bu çocuk zaten Alparslan hocamın takibindeydi ve ‘Korkmayın. Ben o çocuğun çantasını yoklamadan içeri almıyorum’ derdi” dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/16/okul-saldirgani-cantasi-aranmadan-okula-alinmiyormus.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f1a03b0d",
-    "title": "\"8. TRT Humanitarian Film Festival\"e başvurular başladı",
-    "source": "Anadolu Ajansı",
-    "time": "16/04/2026 19:53",
-    "link": "https://www.aa.com.tr/tr/kultur/8-trt-humanitarian-film-festivale-basvurular-basladi-/3908303",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küresel insani sorunlara ışık tutmayı hedefleyen TRT Humanitarian Film Festival için başvurular başladı.",
-    "image": null,
     "keyword": null
   }
 ]
