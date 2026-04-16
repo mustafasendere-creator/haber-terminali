@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_85f1fd0c",
+    "title": "Meteorolojiden toz taşınımı uyarısı: Bazı bölgelerde sağanak etkili (16.04.2026)",
+    "source": "Evrensel",
+    "time": "16/04/2026 07:45",
+    "link": "https://www.evrensel.net/haber/5979833/meteorolojiden-toz-tasinimi-uyarisi-bazi-bolgelerde-saganak-etkili-16042026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ülke genelinde hava parçalı ve az bulutlu olacak, bazı bölgelerde öğleden sonra kısa süreli sağanak görülecek. Kuzey Afrika kaynaklı toz taşınımı Akdeniz ve Ege kıyılarında etkili olurken, Doğu’nun yüksek kesimleri için çığ tehlikesi var.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343041.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_94293b2f",
     "title": "Urfa’daki okula silahlı saldırı: 16 kişi gözaltında",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "İran ve ABD kontrollü bir tırmanışa doğru mu gidiyor, yoksa daha geniş çaplı kaçınılmaz bir savaşa mı sürükleniyor? \nBundan sonra yaşanabileceklere dair dört olası senaryo.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "SOC_99418ec5",
-    "title": "@metrobusinfo.bsky.social: C31 Service Alert Update: Buses are operating on or near sch...",
-    "source": "Bluesky",
-    "time": "16/04/2026 04:46",
-    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjkzldhjvq22",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "C31 Service Alert Update: Buses are operating on or near schedule following an earlier medical emergency. Track your bus in real time by visiting metropulse.wmata.com/bus",
-    "image": null,
-    "keyword": "c31"
   }
 ]
