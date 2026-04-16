@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8587091f",
+    "title": "Rusya'dan Kiev, Odesa ve Dnipro'ya saldırı: En az 12 kişi öldü",
+    "source": "Euronews",
+    "time": "16/04/2026 15:53",
+    "link": "http://tr.euronews.com/video/2026/04/16/kiev-odessa-ve-dniproya-rus-saldirilarinda-en-az-12-kisi-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya'nın Kiev, Odesa ve Dnipro'ya düzenlediği saldırılarda, aralarında bir çocuğun da bulunduğu en az 12 kişi öldü. Çatışmalar ve sonuçsuz ateşkes girişimleri nisan ortasında da devam ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3d00511d",
     "title": "Karadeniz’de petrol tankeri vuruldu: Türk kaptan yaralandı",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Ticaret Odası hizmet binası, İzmir Büyükşehir Belediyesi Engelli Çalışmaları Şube Müdürlüğü tarafından kentte yalnızca 24 binanın alabildiği 3 yıldızlı Kırmızı Bayrak ile ödüllendirildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/68238697-0f2a-411e-8f9d-1b758e387650.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_f95c3bba",
-    "title": "Son dakika... MHP'de sular durulmuyor: Kütahya'nın ardından Eskişehir Teşkilatı da feshedildi",
-    "source": "Cumhuriyet",
-    "time": "16/04/2026 15:15",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-mhp-de-sular-durulmuyor-kutahya-nin-ardindan-eskisehir-teskilati-da-feshedildi-2495716",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika haberi... MHP Genel Başkan Yardımcısı Semih Yalçın, sosyal medya hesabından yaptığı duyuruda, MHP Kütahya İl Teşkilatı'nın ardından Eskişehir İl Teşkilatı'nın da feshedildiğini duyurdu",
-    "image": "https://media.cumhuriyet.com.tr/Archive/47eff5e2-c00d-4b57-8bc8-0a145399ce92.jpg",
     "keyword": null
   }
 ]
