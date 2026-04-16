@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c9bf55fb",
+    "title": "Okul saldırısında ihmal iddiaları… Tayin edilen müdür yardımcısı ‘Ben o çocuğun çantasını yoklamadan içeri almıyorum’ demiş",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 18:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/okul-saldirisinda-ihmal-iddialari-tayin-edilen-mudur-yardimcisi-ben-o-cocugun-cantasini-yoklamadan-iceri-almiyorum-demis-2495779",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş’ta silahlı saldırıda 9 kişinin öldüğü Ayser Çalık Ortaokulu’nun Okul Aile Birliği Başkanı Hülya Çevik, 1 ay önce başka bir okula tayini çıkan müdür yardımcısı Alparslan Yıldırım’ın saldırgan öğrenci İsa Aras Mersinli’yi çok iyi tanıdığını belirterek, \"Bu çocuk kalemle avucuna batıran, açkıyla elini kesen, kendi boğazını kesen, agresif hareketleri olabilen biriydi. Bu çocuk zaten Alparslan hocamın takibindeydi ve ‘Korkmayın. Ben o çocuğun çantasını yoklamadan içeri almıyorum’ derdi” dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c26faa18-efa2-43d1-81e7-7e02aed78879.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_912409b3",
     "title": "Volkan Demirel Onyekuru'yu neden kadro dışı bıraktığını açıkladı",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'un Beşiktaş ilçesinde İsrail Konsolosluğu'nun da bulunduğu bina önünde çıkan çatışmada yaralı olarak etkisiz hale getirilen saldırganlardan Onur Ç., tedavisinin tamamlanmasının ardından taburcu edilerek adliyeye sevk edildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/son-dakika-israil-konsoloslugu-onundeki-catisma-tedavisi-tamamlanan-saldirgan-adliyeye-sevk-edildi-ej4p.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_712573f2",
-    "title": "İsrail'in Lübnan'a düzenlediği saldırılarda can kaybı 2 bini aştı",
-    "source": "Haber Global",
-    "time": "16/04/2026 18:14",
-    "link": "https://haberglobal.com/dunya/israilin-lubnana-duzenledigi-saldirilarda-can-kaybi-2-bini-asti-519260",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan Sağlık Bakanlığı tarafından yapılan açıklamaya göre, İsrail saldırılarında ölenlerin sayısı 2 bin 196'ya yükseldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/israilin-lubnana-duzenledigi-saldirilarda-can-kaybi-2-bini-asti-vhul.jpg",
     "keyword": null
   }
 ]
