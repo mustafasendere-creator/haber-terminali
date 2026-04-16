@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_33405a08",
+    "title": "Araç uyarı ışıkları ne anlatıyor?",
+    "source": "Habertürk",
+    "time": "16/04/2026 14:36",
+    "link": "https://www.haberturk.com/her-surucunun-bilmesi-gerekiyor-direksiyon-basinda-hayat-kurtaran-isaretler-arac-uyari-isiklari-ne-anlatiyor-3877451",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aracınızın gösterge panelinde yanan her ışık aslında bir mesaj veriyor. Bazıları yalnızca bilgilendirme amacı taşırken, bazıları ciddi arızaların habercisi olabilir. Peki hangi ışık ne anlama geliyor? İşte sürücülerin mutlaka bilmesi gereken araç uyarı ışıkları…",
+    "image": "https://im.haberturk.com/l/2026/04/15/ver1776290406/3877451/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_5ed4ebab",
     "title": "Son depremler listesi",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Mesai arkadaşımız Yunus Mermertaş’ın kayınvalidesi Sevim Arslan hayatını kaybetti.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/16/large/kaza.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_1501b44a",
-    "title": "Dubai'nin simge oteli kapanıyor: Müşteriler başka adreslere yönlendirildi",
-    "source": "OdaTV",
-    "time": "16/04/2026 14:17",
-    "link": "https://www.odatv.com/guncel/dubainin-simge-oteli-kapaniyor-musteriler-baska-adreslere-yonlendirildi-120143555",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşik Arap Emirlikleri&#039;nin Dubai şehrinin en önemli turistik mekanlarından Burj Al Arab Oteli, restorasyon çalışması nedeniyle 18 aylığına kapanıyor. Şehrin simgeleri arasında yer alan otel İran&#039;ın misilleme saldırılarında fiziksel hasara maruz kaldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/dubainin-simge-oteli-kapaniyor-musteriler-baska-adreslere-yonlendirildi-n99o.jpg",
-    "keyword": null
   }
 ]
