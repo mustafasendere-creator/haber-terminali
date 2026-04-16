@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3c1781db",
+    "title": "TBMM Başkanı Kurtulmuş, TÜRKPA üyesi ülkelerin meclis başkanlarıyla bir araya geldi",
+    "source": "Anadolu Ajansı",
+    "time": "16/04/2026 16:53",
+    "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkpa-uyesi-ulkelerin-meclis-baskanlariyla-bir-araya-geldi/3908022",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TBMM Başkanı Numan Kurtulmuş, Türk Devletleri Parlamenter Asamblesi (TÜRKPA) üyesi ülkelerin meclis başkanlarıyla bir araya geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_1f85beb5",
     "title": "Saadet Partisi Trabzon Kadın Kolları’ndan sert açıklama: “Okullarda yaşananlar toplumsal çürümenin göstergesi”",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzon, Giresun ve Ordu’da fındıkta verim geriliyor, üretici zorlanıyor. Uzmanlara göre çözüm, yaşlanan bahçelerin yenilenmesinden geçiyor.",
     "image": "https://resim.haber61.net/news/613019.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_80cf3801",
-    "title": "Kahramanmaraş saldırısı: İncel ve C31K nedir?",
-    "source": "DW Türkçe",
-    "time": "16/04/2026 16:14",
-    "link": "https://www.dw.com/tr/kahramanmaraş-saldırısı-incel-ve-c31k-nedir/a-70458731",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa ve Kahramanmaraş'taki okul saldırıları sonrası polis, onlarca sosyal medya hesabının kapatıldığını açıkladı. Peki incellik ve C31K ile ilişkilendirilen bu hesaplara dair ne biliniyor?",
-    "image": null,
-    "keyword": null
   }
 ]
