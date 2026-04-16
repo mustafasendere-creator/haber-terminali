@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_26ec03a8",
+    "title": "Çocuklarda artan şiddet alarmı: Toplumsal kırılma yaşıyoruz",
+    "source": "BirGün",
+    "time": "16/04/2026 15:33",
+    "link": "https://www.birgun.net/haber/cocuklarda-artan-siddet-alarmi-toplumsal-kirilma-yasiyoruz-706251",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Okullarda artan şiddet olaylarına ilişkin pediatristler, çocuklarda şiddetin bireysel değil toplumsal bir kriz haline geldiğine dikkat çekti. Uzmanlar, denetimsiz silahlanmadan ekranlardaki şiddet kültürüne kadar geniş bir alanda acil önlem çağrısı yaptı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/cocuklarda-artan-siddet-alarmi-toplumsal-kirilma-yasiyoruz.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_b748ff33",
     "title": "Trabzon'da belediyeler de yaza hazırlanıyor! Denize sıfır tesis yenilendi...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Boru Hatları ile Petrol Taşıma AŞ (BOTAŞ), 2 yeni sıvılaştırılmış doğal gaz (LNG) taşıma gemisi temini için ihaleye çıktı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/16/botas-lng-gemileri-icin-ihaleye-cikti-wu8v_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ad30e41e",
-    "title": "İki ilde uyuşturucu operasyonu: 8 tutuklama",
-    "source": "Habertürk",
-    "time": "16/04/2026 14:55",
-    "link": "https://www.haberturk.com/tekirdag-merkezli-uyusturucu-operasyonu-8-tutuklama-3877703",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tekirdağ ve İstanbul'da düzenlenen uyuşturucu operasyonunda gözaltına alınan 26 şüpheliden 8'i tutuklandı",
-    "image": "https://im.haberturk.com/l/2026/04/16/ver1776308758/3877703/jpg/1280x1280",
     "keyword": null
   }
 ]
