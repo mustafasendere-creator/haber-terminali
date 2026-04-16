@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b750ad32",
+    "title": "İstanbul'da \"okula saldırı\" paylaşımı yapan çocuk tutuklandı",
+    "source": "Ekonomim",
+    "time": "16/04/2026 16:15",
+    "link": "https://www.ekonomim.com/gundem/istanbulda-okula-saldiri-paylasimi-yapan-cocuk-tutuklandi-haberi-888553",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da okullara yönelik saldırı planı içerdiği öne sürülen tehdit paylaşımı gerekçesiyle gözaltına alınan çocuk M.A., çıkarıldığı mahkemece tutuklandı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/8-ilde-baygaralar-operasyonu-287-kisi-gozaltina-alindi-b1fu_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_62e57ab7",
     "title": "ABD’de işsizlik başvuruları sert düştü",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "MÜSİAD Trabzon Şube Başkanı Mesut İskenderoğlu, Haber61 TV'nin Bakış programında ekonomik sorunlara ve gündeme dair değerlendirmelerde bulundu.",
     "image": "https://resim.haber61.net/news/613016.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_507bc4e7",
-    "title": "BBC’de mali kriz: 10 çalışandan birini işten çıkaracak",
-    "source": "10Haber",
-    "time": "16/04/2026 15:53",
-    "link": "https://10haber.net/dunya/bbcde-mali-kriz-10-calisandan-birini-isten-cikaracak-695701/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BBC’de tam zamanlı olarak 21 bin 500 kişi çalışıyor. Medya kuruluşu 1800 ila 2 bin kişiyi işten çıkarmayı planlıyor. BBC yöneticisi Davies&#8217;e bazı kanal ya da hizmetlerin toptan iptal edilmesi de ihtimal dahilinde: “Her şeyi ele almamız gerekiyor ve kaçınılmaz olarak 500 milyon sterlin tutarında bazı büyük ve zorlu seçimler olacak ama bunu dikkatlice ele [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69e0d1f7474ce6.72508143.jpg",
-    "keyword": null
   }
 ]
