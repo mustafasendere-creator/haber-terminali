@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c18ed20c",
+    "title": "Capacity skandalı",
+    "source": "A Haber",
+    "time": "16/04/2026 07:44",
+    "link": "https://www.ahaber.com.tr/yazarlar/mahmut-ovur/2026/04/16/capacity-skandali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB eksenli \"İmamoğlu Suç Örgütü\" davasının en çarpıcı \"rüşvet ve irtikâp\" olayı İstanbul Bakırköy'deki Capacity AVM olayında yaşandı. Medya günlerce bu konuyu konuştu.\nBunun nedeni de herhalde ilk...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_d9486c6b",
     "title": "Tüp bebek ve kaplıca masrafı devletten",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": ".",
     "image": "https://media.cumhuriyet.com.tr/Archive/789aefb4-29d9-4feb-aa39-bf134ea2d0b4.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e0c2820c",
-    "title": "ABD Senatosundan 'savaş onayına' ret",
-    "source": "OdaTV",
-    "time": "16/04/2026 04:05",
-    "link": "https://www.odatv.com/guncel/abd-senatosundan-savas-onayina-ret-120143490",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Senatosu, Başkan Donald Trump’ın İran’a yönelik askeri operasyonlar için Kongre onayı almasını şart koşan yasa tasarısını 47’ye karşı 52 oyla reddetti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/16/abd-senatosundan-savas-onayina-ret-uupi.jpg",
     "keyword": null
   }
 ]
