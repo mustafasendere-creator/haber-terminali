@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8bf36ae5",
+    "title": "Balıkesir'de bir iş yerine ateş açıldı: 1 kişi öldü",
+    "source": "BirGün",
+    "time": "16/04/2026 22:13",
+    "link": "https://www.birgun.net/haber/balikesir-de-bir-is-yerine-ates-acildi-1-kisi-oldu-706297",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesirde motorsikletli iki kişi bir mekana ateş açtı. Ateş açılan mekanın bitişiğindeki mekanda yemek yiyen bir akademisyen hayatını kaybetti.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/16/balikesir-de-bir-is-yerine-ates-acildi-1-kisi-oldu.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_624a6e11",
     "title": "Trabzon'da kayık tartışması kanlı bitti! 2 kişi yaralandı, şüpheli kaçtı...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Süper Lig’de şampiyonluk yarışını sürdürürken sadece puan tablosunda değil, hücum istatistiklerinde de zirvede yer alıyor. Bordo-Mavililer, özellikle duran toplar ve hava hakimiyetiyle fark yaratıyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/s-e-v-i-n-c-c-c-27.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_e60df1ca",
-    "title": "CHP'li Sibel Suiçmez'den Bakan Tekin'e istifa çağrısı! \"Çocukları koruyamayan hükümet suçludur.\"",
-    "source": "Kuzey Ekspres",
-    "time": "16/04/2026 21:14",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27823315/chpli-sibel-suicmezden-bakan-tekine-istifa-cagrisi-cocuklari-koruyamayan-hukumet-sucludur",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Okullardaki şiddet sarmalına karşı TBMM Genel Kurulu&#039;nda sesini yükselten Sibel Suiçmez, &quot;Rehberlik sistemi neden çalışmıyor?&quot; diye sordu.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/02/08/large/chpli-suicmezden-kadinlarin-sandikla-bulusmasinin-91-yili-mesaji.webp",
-    "keyword": null
   }
 ]
