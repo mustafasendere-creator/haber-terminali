@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f7432f8d",
+    "title": "Suriye: ABD askerleri tamamen çekildi",
+    "source": "DW Türkçe",
+    "time": "16/04/2026 20:14",
+    "link": "https://www.dw.com/tr/suriye-abd-askerleri-tamamen-çekildi/a-76814823",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şam, ülkede konuşlu bulunan ABD askerlerinin tamamının Suriye dışına çıktığını bildirdi. Açıklamada, sürecin \"iki hükümetin tam mutabakatıyla\" gerçekleştiği vurgulandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_54cede3b",
     "title": "Trabzonspor’un eski yıldızı için İtalya devi devrede!",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Konut Fiyat Endeksi KFE, martta aylık bazda yüzde 2, yıllık bazda yüzde 26,4 arttı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_8e222e7a",
-    "title": "Trabzon'da seyir halindeki tır alev aldı",
-    "source": "Kuzey Ekspres",
-    "time": "16/04/2026 19:34",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27824688/trabzonda-seyir-halindeki-tir-alev-aldi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da hafriyat yüklü bir tırın motor kısmında çıkan yangın, itfaiye ekiplerince söndürüldü.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/16/large/trabzonda-seyir-halindeki-tir-alev-aldi.jpg",
     "keyword": null
   }
 ]
