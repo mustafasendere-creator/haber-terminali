@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eeff2f76",
+    "title": "AKP’li meclis üyesi okul saldırılarını protesto eden öğretmenleri hedef gösterdi",
+    "source": "Cumhuriyet",
+    "time": "16/04/2026 23:34",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/akp-li-meclis-uyesi-okul-saldirilarini-protesto-eden-ogretmenleri-hedef-gosterdi-2495848",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa ve Kahramanmaraş’ta yaşanan okul saldırılarının ardından protesto düzenleyen öğretmenleri AKP’li Balıkesir Belediye Meclis Üyesi Mehmet Birol Şahin hedef gösterdi. Şahin yaptığı paylaşımda \"Bunları okullarımızda istemiyoruz\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d4769818-40af-4e19-a24f-1758fa7ea159.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2b301631",
     "title": "İBB davasında Çağlar Türkmen savunma yaptı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon ekmek fiyatları güncellendi; 200 gram ekmek 17,5 TL, 2000 gram ekmek 175 TL olarak açıklandı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/16/large/ekmek.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_80e20cba",
-    "title": "ABD Başkanı Trump: İran'la anlaşma yapmaya çok yakınız",
-    "source": "TRT Haber",
-    "time": "16/04/2026 22:53",
-    "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-iranla-anlasma-yapmaya-cok-yakiniz-941943.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İranlı yetkililerle bu hafta sonu görüşmelere dönebileceklerini belirterek, \"İran'la anlaşma yapmaya çok yakınız.\" dedi.",
-    "image": null,
-    "keyword": null
   }
 ]
