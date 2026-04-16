@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aedd70aa",
+    "title": "DMM'den okul saldırısına ilişkin uyarı",
+    "source": "Habertürk",
+    "time": "16/04/2026 22:15",
+    "link": "https://www.haberturk.com/dmm-den-kahramanmaras-taki-saldiriya-iliskin-provokasyon-uyarisi-3877646",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Kahramanmaraş'ta bir okulda gerçekleştirilen silahlı saldırıya ilişkin, \"Vatandaşlarımızın, kara propaganda ve psikolojik harp amacı taşıyan paylaşımlara itibar etmeyip hassas olması, yalnızca yetkili makamlarca yapılan resmi açıklamaları esas alması kritik önem arz etmektedir.\" uyarısında bulundu.",
+    "image": "https://im.haberturk.com/l/2026/04/15/ver1776269548/3877646/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2c826a94",
     "title": "Şans Topu sonuçları açıklandı!",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "ABD Başkanı Donald Trump, yaptığı açıklamalarda İran'ın anlaşma yapmak istediğini ve elindeki nükleerleri vermeyi kabul edip, nükleer silah gelişmekten vazgeçtiklerini iddia etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/28243fb5-5c7d-4ecc-9720-8d98ed7e06bf.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_e5b1b04e",
-    "title": "Trabzonspor'un eski teknik adamından dikkat çeken sözler: ''İstanbul kulüplerinin borcu bir devletin borcundan fazla''",
-    "source": "Kuzey Ekspres",
-    "time": "16/04/2026 21:33",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27825655/trabzonsporun-eski-teknik-adamindan-dikkat-ceken-sozler-istanbul-kuluplerinin-borcu-bir-devletin-borcundan-fazla",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un eski teknik direktörü Sadi Tekelioğlu, Türk futbolundaki maaş ve borç dengesine sert eleştirilerde bulundu.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/16/large/trabzonsporun-eski-teknik-adamindan-dikkat-ceken-sozlerjpg2.jpg",
-    "keyword": "trabzon"
   }
 ]
