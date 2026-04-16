@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f82aa586",
+    "title": "Gülistan Doku soruşturmasında eksik kamera kayıtları tespiti yer aldı",
+    "source": "TRT Haber",
+    "time": "16/04/2026 23:34",
+    "link": "https://www.trthaber.com/haber/turkiye/gulistan-doku-sorusturmasinda-eksik-kamera-kayitlari-tespiti-yer-aldi-941944.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tunceli'de 5 Ocak 2020'den itibaren kendisinden haber alınamayan üniversite öğrencisi Gülistan Doku'nun kaybolmasına ilişkin dosyaya giren görüntü inceleme raporunda \"eksik kamera kayıtlarının bulunduğu, kamera operatörünün standart dışına çıkarak araçları takip ettiği ve kısa bir süre boş alanı çektiği\" tespitleri yer aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bdbaed00",
     "title": "Dışişleri Bakanı Fidan, Pakistan Başbakanı Şerif ile görüştü",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir’de Karşıyaka Belediyesi emekçileri, okullarda yaşanan şiddet olaylarına tepki gösterdi. Tüm Bel-Sen 2 No'lu Şube'nin yetkili olduğu işyerinde iki gün boyunca iş bırakılacak.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343258.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_18f64239",
-    "title": "CHP'li Adıgüzel'den İletişim Başkanlığı'na belgeli yanıt: \"Asıl dezenformasyonu siz yapıyorsunuz\"",
-    "source": "Evrensel",
-    "time": "16/04/2026 22:53",
-    "link": "https://www.evrensel.net/haber/5979924/chpli-adiguzelden-iletisim-baskanligina-belgeli-yanit-asil-dezenformasyonu-siz-yapiyorsunuz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Milletvekili Mustafa Adıgüzel, İletişim Başkanlığı’nın maden sahalarına ilişkin “on binde 8” açıklamasına ÇED raporlarıyla yanıt vererek, verilerin gerçeği yansıtmadığını söyledi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343271.jpg",
     "keyword": null
   }
 ]
