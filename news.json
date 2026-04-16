@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cbf1c76b",
+    "title": "KKM bakiyesinde düşüş sürüyor",
+    "source": "TRT Haber",
+    "time": "16/04/2026 15:15",
+    "link": "https://www.trthaber.com/haber/ekonomi/kkm-bakiyesinde-dusus-suruyor-941900.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kur korumalı Türk lirası mevduat ve katılma hesapları KKM geçen hafta 13 milyon lira azalarak 1 milyar 502 milyon liraya geriledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8fd43515",
     "title": "BOTAŞ, 2 yeni LNG taşıma gemisi alacak",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "İYİ Parti Trabzon Ortahisar İlçe Başkanı Kemal Eraydın, son dönemde okullarda yaşanan üzücü olayların ardından Milli Eğitim Bakanı’na yönelik dikkat çeken bir açıklamada bulundu.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-16-144304.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_ed1c52f8",
-    "title": "'Saldırıdan sonra 13 gün kritik': Bilimsel çalışmalar 'okul saldırganları' hakkında ne söylüyor?",
-    "source": "Euronews",
-    "time": "16/04/2026 14:53",
-    "link": "http://tr.euronews.com/2026/04/16/saldiridan-sonra-13-gun-kritik-bilimsel-calismalar-okul-saldirganlari-hakkinda-ne-soyluyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD başta olmak üzere dünyanın kanayan yaralarından biri olan okul saldırıları, Türkiye'de nispeten nadir görülüyordu. İki gün arka arkaya yaşanan son saldırılar, hem bu olayların ardındaki motivasyonu hem de yayılma ihtimalini gündeme getiriyor.",
-    "image": null,
-    "keyword": null
   }
 ]
