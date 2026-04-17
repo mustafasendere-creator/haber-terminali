@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e744777",
+    "title": "Gülistan Doku: Eski Tunceli Valisi Tuncay Sonel açığa alındı",
+    "source": "DW Türkçe",
+    "time": "17/04/2026 14:47",
+    "link": "https://www.dw.com/tr/gülistan-doku-eski-tunceli-valisi-tuncay-sonel-açığa-alındı/a-76817590",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturması kapsamında eski Tunceli Valisi Tuncay Sonel hakkında soruşturma başlatıldı. İçişleri Bakanlığı soruşturma bağlamında Sonel'i açığa aldı. Sonel'in oğlu Mustafa Türkay S. gözaltında tutuluyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_c690cd80",
     "title": "Kuvvetli yağış bekleniyor: İçişleri Bakanlığı'ndan dört il için sarı kodlu uyarı",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Dinamo Kiev’in genç golcüsü Matviy Ponomarenko için girişimlere başladı. Dortmund ve Leipzig de oyuncunun peşinde.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-11-98.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_b18a6492",
-    "title": "Trabzon'da yaşam nöbetinde üçüncü gün!",
-    "source": "Kuzey Ekspres",
-    "time": "17/04/2026 14:27",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27829321/trabzonda-yasam-nobetinde-ucuncu-gun",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Türkiye&#039;yi sarsan okul saldırılarının ardından tepkiler dinmiyor. Trabzon Emek ve Demokrasi Platformu, &quot;Yaşam İçin Nöbetteyiz&quot; diyerek şiddete karşı ses yükseltmeye devam ediyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/17/large/yasam.jpg",
-    "keyword": null
   }
 ]
