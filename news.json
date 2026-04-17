@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_40585285",
+    "title": "Avrupa'da gaz fiyatları Hürmüz Boğazı'nın açılacağı açıklamasıyla yüzde 9'a yakın düştü",
+    "source": "Ekonomim",
+    "time": "17/04/2026 17:07",
+    "link": "https://www.ekonomim.com/sektorler/enerji/avrupada-gaz-fiyatlari-hurmuz-bogazinin-acilacagi-aciklamasiyla-yuzde-9a-yakin-dustu-haberi-888767",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa&#039;da mayıs vadeli doğal gaz kontratı, dünün kapanışına göre yüzde 8,7 düşüşle 38,74 Euro oldu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/17/avrupada-gaz-fiyatlari-hurmuz-bogazinin-acilacagi-aciklamasiyla-yuzde-9a-yakin-dustu-xjyu_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dc21874f",
     "title": "Steel Summit 2026, küresel çelik sektörünü ikinci kez Çeşme’de buluşturacak",
     "source": "Ekonomim",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, ülke genelinde yaşanan ve kamuoyunda büyük üzüntüye yol açan saldırılar sonrası hayatını kaybeden öğretmen ve öğrenciler için düzenlenen gıyabi cenaze namazına katıldı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/g-e-n-c-179.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_55ba9f51",
-    "title": "Bulgaristan'da seçimler: Budapeşte etkisi Sofya'ya sıçrayacak mı?",
-    "source": "Euronews",
-    "time": "17/04/2026 16:46",
-    "link": "http://tr.euronews.com/my-europe/2026/04/17/bulgaristanda-secimler-budapeste-etkisi-sofyaya-sicrayacak-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anketler eski Cumhurbaşkanı Rumen Radev'in yeni partisi İlerici Bulgaristan'ın birinci sıraya yerleşebileceğini gösteriyor. Radev'in yükselişi, Macaristan ve Başbakan Viktor Orban ile karşılaştırmalara neden oldu.",
-    "image": null,
-    "keyword": null
   }
 ]
