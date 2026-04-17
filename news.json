@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aed131aa",
+    "title": "Gebze 1 Mayıs'ı için resmi başvuru yapıldı",
+    "source": "Evrensel",
+    "time": "17/04/2026 20:05",
+    "link": "https://www.evrensel.net/haber/5980158/gebze-1-mayisi-icin-resmi-basvuru-yapildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gebze Sendikalar Birliği'nin 1 Mayıs için yedi kişilik miting tertip komitesi oluşturuldu, resmi başvuru Kaymakamlık Yazı İşleri Müdürlüğü'ne yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343513.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dc9a1a1b",
     "title": "Pasifik Eurasia’dan ilk adım: Şanghay ihracat blok treni İzmir’den yola çıktı",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon 1. Amatör Lig&#039;inde kritik haftaya girildi.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/sampiyonluk-yarisi.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_c6e1e150",
-    "title": "Avrasya Üniversitesi’nde tomara tavası tanıtıldı",
-    "source": "Kuzey Ekspres",
-    "time": "17/04/2026 19:26",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27831390/avrasya-universitesinde-tomara-tavasi-tanitildi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ulusal Beslenme ve Gastronomi Sempozyumu’nda Trabzon’un yerel lezzetleri şeflerin sunumlarıyla tanıtıldı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/17/large/avrasya-universitesinde-tomara-tavasi-tanitildi.jpg",
-    "keyword": null
   }
 ]
