@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ff8adeba",
+    "title": "Suudi Arabistan, bu yılki hacı adaylarını karşılamaya hazır olduğunu açıkladı",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 00:25",
+    "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-bu-yilki-haci-adaylarini-karsilamaya-hazir-oldugunu-acikladi/3910172",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan, bu yılki Hac mevsimi için tüm uluslararası limanlarının hacıları karşılamaya hazır olduğunu ve ülkeye girişlerini kolaylaştırmak için en son teknolojilerin ve personelin görevlendirildiğini açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_72f51de6",
     "title": "@kmmedya.bsky.social: Hatay'da polis memuru babasına ait silahla intihar eden  İ.Z...",
     "source": "Bluesky",
@@ -946,17 +958,5 @@
     "summary": "Burak Yılmaz: 1 gün önce Galatasaray’ın Konyaspor’a attığı gol iptal ediliyor, 1 gün sonra Trabzonspor bana aynı golü atıyor veriliyor. Fenerbahçe-Beşiktaş maçındaki penaltı, penaltı mı Allah aşkına? Ne Beşiktaş’ı koruyorum ne de Fenerbahçe’ye bir şey yapıy  x.com",
     "image": null,
     "keyword": "trabzonspor"
-  },
-  {
-    "id": "GND_146e1387",
-    "title": "Fenerbahçe 2-2 Rizespor",
-    "source": "Evrensel",
-    "time": "17/04/2026 23:25",
-    "link": "https://www.evrensel.net/haber/5980165/fenerbahce-2-2-rizespor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe–Çaykur Rizespor maçında goller peş peşe geldi. Sowe ile öne geçen Rizespor, 10 kişi kalmasına rağmen Talisca ve Kerem’in gollerine Laçi ile yanıt vererek sahadan 2-2’lik beraberlikle ayrıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343517.jpg",
-    "keyword": null
   }
 ]
