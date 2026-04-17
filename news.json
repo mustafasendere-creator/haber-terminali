@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7aa7d983",
+    "title": "İstanbul Yarı Maratonu pazar günü koşulacak",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 21:06",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-yari-maratonu-pazar-gunu-kosulacak-2496073",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Yarı Maratonu, 19 Nisan Pazar günü 21'inci kez koşulacak ve 'En Hızlı Yarı, En Hızlı Sen' sloganıyla start alacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d17b3e7e-d7e5-4dcd-ac95-f0c0e0c7b16c.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_061424bc",
     "title": "Chelsea, Moises Caicedo'nun sözleşmesini uzattı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un kültür ve sanat hayatında önemli bir yere sahip olan Hüseyin Kazaz Kültür Merkezi, 1,5 yıllık aranın ardından kapılarını yeniden sanatseverlere açtı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/huseyin-kazaz-2.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_b0d1ca9e",
-    "title": "Eski Tunceli Devlet Hastanesi Başhekimi Çağdaş Özdemir gözaltına alındı",
-    "source": "TRT Haber",
-    "time": "17/04/2026 20:26",
-    "link": "https://www.trthaber.com/haber/gundem/eski-tunceli-devlet-hastanesi-bashekimi-cagdas-ozdemir-gozaltina-alindi-942075.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli Cumhuriyet Başsavcılığının yürütmekte olduğu Gülistan Doku soruşturması kapsamında dönemin Tunceli Devlet Hastanesi Başhekimi Çağdaş Özdemir, Bursada gözaltına alındı.",
-    "image": null,
-    "keyword": null
   }
 ]
