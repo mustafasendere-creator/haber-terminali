@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_09afc9cf",
+    "title": "F.Bahçe normal sezonu galibiyetle bitirdi",
+    "source": "Habertürk",
+    "time": "17/04/2026 17:27",
+    "link": "https://www.haberturk.com/ldlc-asvel-76-fenerbahce-beko-81-mac-sonucu-3877956-spor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Beko, EuroLeague'de normal sezonun 38. ve son haftasında LDLC ASVEL'i 81-76 mağlup etti.",
+    "image": "https://im.haberturk.com/l/2026/04/17/ver1776374099/3877956/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_236ed3bc",
     "title": "Yaşlı kadının bağışlanan karaciğeri bir hastaya umut oldu",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Sahipsiz hayvanlara yönelik çalışmalar kapsamında Trabzon İli Sahipsiz Hayvanları Koruma Birliği (TİSKOB) kuruldu. Başkanlığını Vali Tahir Şahin’in yaptığı birliğin birinci başkan vekilliğine Büyükşehir Belediye Başkanı Ahmet Metin Genç seçildi.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/trabzonda-sahipsiz-hayvanlari-koruma-birligi-kuruldu.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6e2d4393",
-    "title": "İstanbul Yarı Maratonu pazar günü koşulacak",
-    "source": "BirGün",
-    "time": "17/04/2026 17:05",
-    "link": "https://www.birgun.net/haber/istanbul-yari-maratonu-pazar-gunu-kosulacak-706518",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Büyükşehir Belediyesi (İBB) iştiraki Spor İstanbul’un düzenleyeceği Türkiye İş Bankası 21. İstanbul Yarı Maratonu pazar günü gerçekleştirilecek.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/istanbul-yari-maratonu-pazar-gunu-kosulacak.jpg",
     "keyword": null
   }
 ]
