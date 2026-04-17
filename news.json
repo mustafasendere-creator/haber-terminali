@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0bc69946",
+    "title": "İran, Hürmüz Boğazı'nı açtığını duyurdu",
+    "source": "BBC Türkçe",
+    "time": "17/04/2026 16:45",
+    "link": "https://www.bbc.com/turkce/articles/crr18lwg59wo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ile Lübnan arasında 10 günlük bir ateşkes anlaşmasına varılması sonrası Tahran yönetimi Hürmüz Boğazı'nı açtı. İran Dışişleri Bakanı Abbas Arakçi, sosyal medyadan kararı duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_045ae7b8",
     "title": "IFAD Genel Başkan Yardımcısı Mukeshimana: Gıda güvenliği küresel güvenlikle yakından bağlantılı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Uçakta doğan bebeklerin vatandaşlığı, sanıldığı gibi 'gökyüzüne' değil, doğum anındaki konuma ve ebeveynlerin uyruğuna bağlı olarak belirleniyor. Gerçek vakalar ise bu kararın bazen sadece dakikalarla değişebildiğini gösteriyor.",
     "image": "https://im.haberturk.com/l/2026/04/15/ver1776291695/3877528/jpg/1280x1280",
     "keyword": null
-  },
-  {
-    "id": "TKP_03a4f487",
-    "title": "TÜGVA heyeti Trabzonspor yönetimiyle bir araya geldi",
-    "source": "Taka Gazetesi",
-    "time": "17/04/2026 16:08",
-    "link": "https://www.takagazete.com.tr/tugva-heyeti-trabzonspor-yonetimiyle-bir-araya-geldi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "TÜGVA Genel Başkan Yardımcısı Muhammet Orhan, Trabzonspor’u ziyaret etti. Görüşmede gençlik projeleri ve iş birliği vurgusu öne çıktı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/ziyaret-55.png",
-    "keyword": "trabzon"
   }
 ]
