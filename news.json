@@ -1,5 +1,29 @@
 [
   {
+    "id": "YRL_9d7f154c",
+    "title": "Yükselişini Trabzonspor’da yaşamıştı! Zirveyi yine aynı renklerde yapabilir",
+    "source": "61 Saat",
+    "time": "17/04/2026 19:45",
+    "link": "https://www.61saat.com/yukselisini-trabzonsporda-yasamisti-zirveyi-yine-ayni-renklerde-yapabilir",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trabzonspor forması giydiği sezonda tekrardan Avrupa’ya büyük liglere transfer olan Alexander Sörloth’u Barcelona istiyor.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/trabzonspor-manset-1-79.png",
+    "keyword": null
+  },
+  {
+    "id": "GND_1ac20cff",
+    "title": "Bolu’da \"okula saldırı yapacağım\" diyen çocuk gözaltına alındı",
+    "source": "BirGün",
+    "time": "17/04/2026 19:45",
+    "link": "https://www.birgun.net/haber/boluda-okula-saldiri-yapacagim-diyen-cocuk-gozaltina-alindi-706531",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu'da bir sekizinci sınıf öğrencisinin arkadaşlarına \"okula saldıracağını\" söylemesi öteki öğrencileri tedirgin edince velilerine söyledi. Velilerin ihbarının ardından sekizinci sınıf öğrencisi gözaltına alındı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/boluda-okula-saldiri-yapacagim-diyen-cocuk-gozaltina-alindi.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_4424cad3",
     "title": "Eski Tunceli Valisi Sonel hakkında şok soruşturma: Elazığ’da gözaltına alındı",
     "source": "Haber61",
@@ -932,30 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump'ın İran ve Lübnan ile ateşkes yapmasını İsrail'e dayattığı ve dış politikada Başbakan Binyamin Netanyahu'yu köşeye sıkıştırdığı belirtildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_115448e4",
-    "title": "Trump'tan İsrail'e yasak: Yeter artık",
-    "source": "TRT Haber",
-    "time": "17/04/2026 18:46",
-    "link": "https://www.trthaber.com/haber/dunya/trumptan-israile-yasak-yeter-artik-942061.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, \"İsrail artık Lübnan'ı bombalamayacak. ABD tarafından bunu yapmaları yasaklandı\" dedi. Trump, yaptığı açıklamada \"Artık yeter\" ifadesini kullandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_098d0b18",
-    "title": "Siirt fıstığında yok yılı ezberi bozuluyor",
-    "source": "TRT Haber",
-    "time": "17/04/2026 18:46",
-    "link": "https://www.trthaber.com/haber/ekonomi/siirt-fistiginda-yok-yili-ezberi-bozuluyor-942065.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Siirtte son 20 yılın en düzenli ve bereketli yağışlarının görülmesi, fıstık üreticilerini heyecanlandırdı. Normal şartlarda ürünün az olduğu 'yok yılı' olmasına rağmen, yağışlarla birlikte hem kalite hem de verimde artış bekleyen uzmanlar, çiftçilere bu kritik dönemde gübreleme ve bakım çalışmalarını aksatmamaları çağrısında bulundu.",
     "image": null,
     "keyword": null
   }
