@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9311c5e5",
+    "title": "Ataşehir Belediyesine yolsuzluk operasyonu: 18 şüpheli gözaltına alındı",
+    "source": "TRT Haber",
+    "time": "18/04/2026 02:25",
+    "link": "https://www.trthaber.com/haber/gundem/atasehir-belediyesine-yolsuzluk-operasyonu-18-supheli-gozaltina-alindi-942088.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ataşehir Belediyesinde ihale, imar ve iskan işlemlerine ilişkin rüşvet alındığı iddiasıyla yürütülen soruşturma kapsamında, aralarında Belediye Başkanı Onursal Adıgüzel'in de bulunduğu 18 kişi gözaltına alındı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_273054ef",
     "title": "Deprem bölgesinde 'kredi' tartışması: “Kısıtlamalar bölgeyi daha da zorlar”",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Fenerbahçe Teknik Direktörü Domenico Tedesco, istifa sorusu üzerine açıklama yaptı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/e760a93a-27a7-45c7-b833-79fa670b365a.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_dfd40245",
-    "title": "İran’dan Hürmüz Boğazı uyarısı: 'Abluka sürerse gereken karşı adımları atacağız'",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 00:46",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/iran-dan-hurmuz-bogazi-uyarisi-abluka-surerse-gereken-karsi-adimlari-atacagiz-2496154",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Sözcüsü İsmail Bekayi, ateşkese uyulması üzerine Hürmüz Boğazı’nda gemi geçişlerinin yeniden ve kontrollü şekilde sağlanacağını açıkladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/7ad98c2a-c311-4c9c-829a-35b95e108695.jpg",
     "keyword": null
   }
 ]
