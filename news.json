@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8d6b7fa6",
+    "title": "Manisa'da kanalizasyon çalışmasında göçük: 1 işçi hayatını kaybetti",
+    "source": "BirGün",
+    "time": "17/04/2026 22:25",
+    "link": "https://www.birgun.net/haber/manisa-da-kanalizasyon-calismasinda-gocuk-1-isci-hayatini-kaybetti-706461",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'nın Şehzadeler ilçesinde kanalizasyon hattı çalışması sırasında meydana gelen göçükte 1 işçi hayatını kaybetti.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/manisa-da-kanalizasyon-calismasinda-gocuk-1-isci-toprak-altinda-kaldi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f48ed038",
     "title": "Ayhan Bora Kaplan davası: 4 kişi hakkında tahliye kararı",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli Eğitim Bakanlığı tarafından yapılan açıklamaya göre, 26 Nisan'da düzenlenecek İlköğretim ve Ortaöğretim Kurumları Bursluluk Sınavı (İOKBS) giriş yeri belgeleri, e-Okul'da erişime açıldı. Fotoğraflı sınav giriş belgeleri, elektronik ortamda okul müdürlükleri tarafından alınacak, mühürlenerek onaylandıktan sonra sınava girecek öğrencilere teslim edilecek.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/meb-acikladi-bursluluk-sinavi-giris-belgeleri-erisime-acildi-59tm.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e1cf0c92",
-    "title": "İlköğretim ve Ortaöğretim Kurumları Bursluluk Sınavı giriş belgeleri erişime açıldı",
-    "source": "TRT Haber",
-    "time": "17/04/2026 21:25",
-    "link": "https://www.trthaber.com/haber/egitim/ilkogretim-ve-ortaogretim-kurumlari-bursluluk-sinavi-giris-belgeleri-erisime-acildi-942078.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Eğitim Bakanlığınca 26 Nisan'da düzenlenecek İlköğretim ve Ortaöğretim Kurumları Bursluluk Sınavı İOKBS giriş yeri belgeleri, eOkul'da erişime açıldı.",
-    "image": null,
     "keyword": null
   }
 ]
