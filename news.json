@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d7fa2b54",
+    "title": "İzmir’de okul saldırısı hazırlığı iddiası: 8 öğrenci gözaltına alındı",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 18:06",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/izmir-de-okul-saldirisi-hazirligi-iddiasi-8-ogrenci-gozaltina-alindi-2496088",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir’in Torbalı ilçesinde, WhatsApp grubunda okul saldırısı planladıkları iddia edilen 8 lise öğrencisi jandarma operasyonuyla gözaltına alındı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b91022d2-b5cc-4ea9-886f-0f0da415b660.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a4444ade",
     "title": "Rusya, Ukrayna'ya dron desteği veren Avrupalı şirketlerin listesini yayınladı ve uyardı: Sonuçları olur",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AFAD'ın paylaştığı verilere göre, saat 15.40'ta merkez üssü Erzincan'ın Üzümlü ilçesi olan 4.1 büyüklüğünde bir deprem yaşandı. Depremin derinliği 10.94 kilometre olarak kaydedildi. Valilik can ve mal kaybının yaşanmadığını duyurdu.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/erzincan-da-4-1-buyuklugunde-deprem.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_30cbb90a",
-    "title": "Trabzonlu 86 yaşındaki üretici dert yandı: “Hayvancılık bitti”",
-    "source": "Haber61",
-    "time": "17/04/2026 17:45",
-    "link": "https://www.haber61.net/trabzon/trabzonlu-86-yasindaki-uretici-dert-yandi-hayvancilik-bitti-h629841.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da 86 yaşındaki Abbas Topaloğlu, artan maliyetler ve gençlerin ilgisizliği nedeniyle hayvancılığın bitme noktasına geldiğini söyledi.",
-    "image": "https://resim.haber61.net/news/613158.jpg",
     "keyword": null
   }
 ]
