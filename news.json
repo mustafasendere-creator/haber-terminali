@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_55ba9f51",
+    "title": "Bulgaristan'da seçimler: Budapeşte etkisi Sofya'ya sıçrayacak mı?",
+    "source": "Euronews",
+    "time": "17/04/2026 16:46",
+    "link": "http://tr.euronews.com/my-europe/2026/04/17/bulgaristanda-secimler-budapeste-etkisi-sofyaya-sicrayacak-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anketler eski Cumhurbaşkanı Rumen Radev'in yeni partisi İlerici Bulgaristan'ın birinci sıraya yerleşebileceğini gösteriyor. Radev'in yükselişi, Macaristan ve Başbakan Viktor Orban ile karşılaştırmalara neden oldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1e5a94a7",
     "title": "OpenAI yaşam bilimleri için GPT-Rosalind modelini tanıttı",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Samsun’un Canik ilçesinde jandarma ekiplerince düzenlenen uyuşturucu operasyonunda 5 bin 120 gram kubar esrar ele geçirildi. Gözaltına alınan şüpheli, çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi.",
     "image": "https://resim.haber61.net/news/613218.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5aceda6f",
-    "title": "Maraş ve Urfa saldırılarıyla ilgili paylaşımlara 411 yakalama kararı",
-    "source": "BBC Türkçe",
-    "time": "17/04/2026 16:25",
-    "link": "https://www.bbc.com/turkce/articles/cpd5pw3zz89o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş Ayser Çalık Ortaokulu'ndaki silahlı saldırı sonrasında yürütülen soruşturma kapsamında poligon görevlisi bir polis memuru açığa alındı.",
-    "image": null,
     "keyword": null
   }
 ]
