@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b11031de",
+    "title": "İzmir’de 8 lise öğrencisi sosyal medya paylaşımlarından dolayı gözaltına alındı",
+    "source": "BirGün",
+    "time": "17/04/2026 21:05",
+    "link": "https://www.birgun.net/haber/izmirde-8-lise-ogrencisi-sosyal-medya-paylasimlarindan-dolayi-gozaltina-alindi-706539",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Torbalı'da sosyal medya paylaşımlarından dolayı 8 liseli jandarma tarafından gözaltına alındı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/izmirde-8-lise-ogrencisi-sosyal-medya-paylasimlarindan-dolayi-gozaltina-alindi.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_87b702a2",
     "title": "Trabzonspor’dan tribünlerde fark yaratacak karar!",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Malta bayraklı Celestyal Discovery kruvaziyer gemisi 47 gün boyunca Dubai'de limanda kaldıktan sonra Hürmüz Boğazı'ndan geçen ilk yolcu gemisi oldu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_214dab91",
-    "title": "Taşacak Bu Deniz dizisi bu akşam yayınlanacak mı?",
-    "source": "Haber61",
-    "time": "17/04/2026 20:25",
-    "link": "https://www.haber61.net/gundem/tasacak-bu-deniz-dizisi-bu-aksam-yayinlanacak-mi-h629886.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TRT 1 ekranlarının sevilen dizisi Taşacak Bu Deniz’in yeni bölümünün 17 Nisan Cuma akşamı yayınlanıp yayınlanmayacağı izleyiciler tarafından merak konusu oldu.",
-    "image": "https://resim.haber61.net/news/613239.jpg",
     "keyword": null
   }
 ]
