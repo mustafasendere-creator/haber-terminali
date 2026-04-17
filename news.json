@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_395ffd6b",
+    "title": "\"Okullara saldırı\" paylaşımları: Samsun'da gözaltına alınan 7 öğrenciden birine ev hapsi",
+    "source": "BirGün",
+    "time": "18/04/2026 00:05",
+    "link": "https://www.birgun.net/haber/okullara-saldiri-paylasimlari-samsun-da-gozaltina-alinan-7-ogrenciden-birine-ev-hapsi-706444",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun'da \"okullara saldırı olabileceği\" yönündeki paylaşımları nedeniyle 7 öğrenci gözaltına alındı. Gözaltındaki şüpheliler emniyetteki işlemlerinin ardından adliyeye sevk edildi. Sulh ceza hakimliğine çıkarılan zanlılardan C.G'ye ev hapsi verildi, 6'sı ise adli kontrol şartıyla serbest bırakıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/okullara-saldiri-paylasimlari-samsun-da-7-ogrenci-gozaltina-alindi-1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6278b19b",
     "title": "İzmir’de sosyal medya paylaşımından gözaltına alınan 8 liseliden 2'sine ev hapsi 2'sine adli kontrol verildi",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bazı insanlar bir odaya girdiklerinde hiçbir şey yapmasalar bile tüm gözler onlara döner. İşte en karizmatik ve çekici 3 burç...",
     "image": "https://media.cumhuriyet.com.tr/Archive/af438337-6e0a-498c-ac22-57c0692b26ff.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_93469a5c",
-    "title": "Kerem Aktürkoğlu: 'Skandal bir karar!'",
-    "source": "Cumhuriyet",
-    "time": "17/04/2026 23:06",
-    "link": "https://www.cumhuriyet.com.tr/spor/kerem-akturkoglu-skandal-bir-karar-2496136",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig'de Fenerbahçe, öne geçtiği maçta Çaykur Rizespor ile 2-2 berabere kaldı. Maçın ardından Fenerbahçeli yıldızlar maçı değerlendirdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/cc17a0f1-ab0a-4b59-8879-0d40bb07ba27.jpg",
     "keyword": null
   }
 ]
