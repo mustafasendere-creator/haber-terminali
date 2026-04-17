@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4ea9a670",
+    "title": "İran duyurdu: Hürmüz boğazı tamamen açıldı",
+    "source": "BirGün",
+    "time": "17/04/2026 16:05",
+    "link": "https://www.birgun.net/haber/iran-duyurdu-hurmuz-bogazi-tamamen-acildi-706512",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika- İran Dışişleri Bakanı Arakçi Hürmüz Boğazı'nın tamamen açıldığını açıkladı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/iran-duyurdu-hurmuz-bogazi-tamamen-acildi.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_32be100d",
     "title": "Trabzonspor - Başakşehir maçı hangi gün ve saat kaçta?",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Türkiye tarihine geçti: 3 milyon dolarlık dev pırlanta emniyette",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/istanbulendonezyadankacakgetirilen1264715376459jpg-_29ocdfRs02ulbwL9wG7sA.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ac7f2689",
-    "title": "Abdullah Avcı şampiyonluk yarışını değerlendirdi: 'Senaryolarla değil keyifli bir şekilde...'",
-    "source": "Cumhuriyet",
-    "time": "17/04/2026 15:28",
-    "link": "https://www.cumhuriyet.com.tr/spor/abdullah-avci-sampiyonluk-yarisini-degerlendirdi-senaryolarla-degil-keyifli-bir-sekilde-2496028",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Abdullah Avcı, Süper Lig'de keyifli bir şampiyonluk yarışının yaşandığını söyledi. Ligdeki şampiyonluk mücadelesiyle ilgili Avcı, \"Aslında keyifli bir süreç yaşanıyor. Senaryolarla değil keyifli bir şekilde sahanın içinde kalıp buraya bakmak, bu oyunları görmek bizi daha mutlu edecek\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2243d69a-bffe-44db-a2dc-d4e5fd1d0882.jpg",
     "keyword": null
   }
 ]
