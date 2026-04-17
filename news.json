@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e6f07963",
+    "title": "Tanker devrildi can pazarı yaşandı",
+    "source": "OdaTV",
+    "time": "18/04/2026 00:06",
+    "link": "https://www.odatv.com/guncel/tanker-devrildi-can-pazari-yasandi-120143734",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin’in Silifke ilçesinde çimento tankerinin kanala devrilmesi sonucu araçta sıkışan sürücü, itfaiye ekiplerinin çalışmasıyla kurtarıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/17/tanker-devrildi-can-pazari-yasandi-qxaq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_eb82f76a",
     "title": "15 sterline bilet 212 sterline tatil",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Euronews'in konuştuğu Hıristiyan ilahiyatçılar, Washington ile Vatikan arasında tırmanan söz düellosunun Katolik ahlak anlayışına dair önemli soruları gündeme getirdiğini düşünüyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f12987d6",
-    "title": "Gaziantep'teki göçükte yaralanan işçi hayatını kaybetti",
-    "source": "BirGün",
-    "time": "17/04/2026 23:25",
-    "link": "https://www.birgun.net/haber/gaziantep-teki-gocukte-yaralanan-isci-hayatini-kaybetti-706450",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gaziantep'in Şahinbey 11 Nisan'da kanalizasyon çalışması yapıldığı esnada oluşan göçüğün altında kalan Necmettin Doğan (52) tedavi gördüğü hastanede hayatını kaybetti.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/gaziantep-teki-gocukte-yaralanan-isci-hayatini-kaybetti.jpg",
     "keyword": null
   }
 ]
