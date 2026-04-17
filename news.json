@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_64c35ae0",
+    "title": "Kayseri'de bıçaklı kavga: 4 yaralı",
+    "source": "Habertürk",
+    "time": "17/04/2026 17:07",
+    "link": "https://www.haberturk.com/kayseri-de-bicakli-kavga-4-yarali-3877960",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'de iki grup arasında çıkan bıçaklı kavgada yaralanan 4 kişi hastaneye kaldırıldı",
+    "image": "https://im.haberturk.com/l/2026/04/17/ver1776376061/3877960/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_1b973ebe",
     "title": "Avustralya vatandaşlarına vize muafiyeti",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "GPT-Rosalind modeli, biyolojik araştırmaları ve ilaç keşfi süreçlerini hızlandırmak için tasarlanmıştır.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_d4541559",
-    "title": "Başkan Genç: Hepimizin Ortak Amacı Daha Cazip Bir Trabzon",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "17/04/2026 16:46",
-    "link": "https://www.karadenizdesonnokta.com.tr/baskan-genc-hepimizin-ortak-amaci-daha-cazip-bir-trabzon",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-17-at-155514.jpeg",
-    "keyword": "trabzon"
   }
 ]
