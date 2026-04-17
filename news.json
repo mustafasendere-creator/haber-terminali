@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_acaf4e74",
+    "title": "4 il için sarı kodlu uyarı: Kuvvetli sağanak geliyor",
+    "source": "BirGün",
+    "time": "17/04/2026 15:26",
+    "link": "https://www.birgun.net/haber/4-il-icin-sari-kodlu-uyari-kuvvetli-saganak-geliyor-706489",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı'nın sosyal medya hesabından yapılan açıklamada, Mersin, Adana, Ankara ve Antalya için kuvvetli sağanak ve gök gürültülü sağanak beklendiği belirtilerek sarı kodlu meteorolojik uyarı yapıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/4-il-icin-sari-kodlu-uyari-kuvvetli-saganak-geliyor.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_1be6e44c",
     "title": "Arsin'de 4. Halı Saha Turnuvası...",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ordu Büyükşehir Belediyesi tarafından 6 ilçede üreticilere 45 ton tohumluk patates dağıtıldı, 180 dekar arazi üretime kazandırılacak.",
     "image": "https://resim.haber61.net/news/613196.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1014f5a3",
-    "title": "ABD istihbaratı: Çin'in İran'a gelişmiş radar sistemi sağlamayı değerlendirdiği tespit edildi",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 15:05",
-    "link": "https://www.aa.com.tr/tr/dunya/abd-istihbarati-cinin-irana-gelismis-radar-sistemi-saglamayi-degerlendirdigi-tespit-edildi/3909204",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD istihbaratının, ABD ve İsrail'in İran'a yönelik saldırılarıyla başlayan savaşın ardından Çin'in Tahran'a gelişmiş radar sistemleri sağlamayı değerlendirdiğine dair bulgular elde ettiği iddia edildi.",
-    "image": null,
     "keyword": null
   }
 ]
