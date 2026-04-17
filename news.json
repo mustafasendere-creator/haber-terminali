@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f60cdfcc",
+    "title": "Maraş'taki saldırgan poligonda atış yapmıştı: Bir polis görevden uzaklaştırıldı",
+    "source": "BirGün",
+    "time": "18/04/2026 00:25",
+    "link": "https://www.birgun.net/haber/maras-taki-saldirgan-poligonda-atis-yapmisti-bir-polis-gorevden-uzaklastirildi-706430",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Maraş'ta 15 Nisan'da Ayser Çalık Ortaokulu’nda silahlı saldırıyı düzenleyen İsa A.M'nin 13 Nisan'da atış yaptığı poligonda görevli M.Y. isimli polisin görevden uzaklaştırıldığı duyuruldu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/maras-taki-saldirgan-poligonda-atis-yapmisti-bir-polis-gorevden-uzaklastirildi-2.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_23277e08",
     "title": "Grevde 75. gün: 'Grevcan' öğretmenleri yine yalnız bırakmadı",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig'de konuk ettiği Rizespor ile 2-2 berabere kalan Fenerbahçe, bu sezon evinde 5. kez puan kaybetti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/fenerbahce-evinde-5-kez-puan-kaybetti-twys.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_69516192",
-    "title": "Fenerbahçe'nin Rizespor'a karşı serisi sona erdi",
-    "source": "Haber Global",
-    "time": "17/04/2026 23:25",
-    "link": "https://haberglobal.com/spor/fenerbahcenin-rizespora-karsi-serisi-sona-erdi-519488",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 30. haftasında sahasında Rizespor ile 2-2 berabere kalan Fenerbahçe'nin rakibine karşı elde ettiği 13 maçlık galibiyet serisi sona erdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/fenerbahcenin-rizespora-karsi-serisi-sona-erdi-fsgj.jpg",
     "keyword": null
   }
 ]
