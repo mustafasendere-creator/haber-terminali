@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4be14b2b",
+    "title": "İletişim Başkanı Duran, Azerbaycan Cumhurbaşkanı Müşaviri Hacıyev ile görüştü",
+    "source": "Haber Global",
+    "time": "18/04/2026 00:06",
+    "link": "https://haberglobal.com/gundem/iletisim-baskani-duran-azerbaycan-cumhurbaskani-musaviri-haciyev-ile-gorustu-519495",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Azerbaycan Cumhurbaşkanı Müşaviri Hikmet Hacıyev ile bir araya geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/iletisim-baskani-duran-azerbaycan-cumhurbaskani-musaviri-haciyev-ile-gorustu-3vvu.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_403e1ed6",
     "title": "Domenico Tedesco: \"Asla pes etmeyeceğiz\"",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Meğer Trabzon gs şampiyon olsun diye çalışmıyormuş, FB Trabzon'u yenerek gs için çalışıyormuş.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "SOC_02741956",
-    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect westbound delays on Route C31 at M...",
-    "source": "Bluesky",
-    "time": "17/04/2026 23:08",
-    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjpocnmcgt25",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "C31 Service Alert: Expect westbound delays on Route C31 at Minnesota Ave Station due to a bus with a mechanical problem. Track your bus in real time by visiting metropulse.wmata.com/bus",
-    "image": null,
-    "keyword": "c31"
   }
 ]
