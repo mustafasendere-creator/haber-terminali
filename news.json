@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4832fea1",
+    "title": "Elektrikli otomobillerde 2026'da en fazla teşviki hangi Avrupa ülkeleri veriyor?",
+    "source": "Euronews",
+    "time": "17/04/2026 17:46",
+    "link": "http://tr.euronews.com/business/2026/04/17/elektrikli-araclar-2026da-en-cok-destegi-hangi-avrupa-ulkeleri-sagladi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa’da bataryalı elektrikli otomobil satışları artıyor. Analistler, İran’daki savaşın etkilediği yüksek benzin fiyatlarının, tüketicileri içten yanmalı araçlardan uzaklaştırarak bu eğilimi güçlendireceğini öngörüyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_e94ac4bf",
     "title": "Gıyabi cenaze namazı kılındı!",
     "source": "Karadeniz'de Sonnokta",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hürmüz açıldı: Piyasalar coştu",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/sozcu-son-dakika-aciljpg-mp-2HQqSxk68YgXG_O1T0w.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b683345c",
-    "title": "Trump’tan İran çıkışı: 'Deniz ablukası devam edecek'",
-    "source": "Cumhuriyet",
-    "time": "17/04/2026 17:07",
-    "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-cikisi-deniz-ablukasi-devam-edecek-2496072",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı’nın uluslararası ticarete tamamen açık olduğunu ancak İran’a yönelik deniz ablukasının devam ettiğini açıkladı. Trump, mevcut düzenlemenin İran ile yürütülen süreç tamamlanana kadar süreceğini vurguladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/dadfe868-81d6-44ae-b923-3e98119e43a2.jpg",
     "keyword": null
   }
 ]
