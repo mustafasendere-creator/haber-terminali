@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_cc020b01",
+    "title": "@dlkkrhsn.bsky.social: Ortamına göre Kürdü Laz yapar, ortamına göre Yahudi'yi Ermen...",
+    "source": "Bluesky",
+    "time": "17/04/2026 18:47",
+    "link": "https://bsky.app/profile/dlkkrhsn.bsky.social/post/3micp52ea7c22",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Ortamına göre Kürdü Laz yapar, ortamına göre Yahudi'yi Ermenileştirir öyle anlatırdık. Ama farklılıklarımız öylesine öcü hale getirildi ki, birbirimize fıkra anlatmaktan bile çekinir olduk...\" \n\nHrant Dink, Agos, 31 Mart 2000",
+    "image": null,
+    "keyword": "hrant dink"
+  },
+  {
+    "id": "GND_072a0652",
+    "title": "Özel'den 23 Nisan kutlamalarına ilişkin açıklama: Yas ortamına uygun ama hiçbir töreni iptal etmeden kutlanmalı",
+    "source": "Ekonomim",
+    "time": "17/04/2026 18:47",
+    "link": "https://www.ekonomim.com/gundem/ozelden-23-nisan-kutlamalarina-iliskin-aciklama-yas-ortamina-uygun-ama-hicbir-toreni-iptal-etmeden-kutlanmali-haberi-888787",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İspanya&#039;da gazetecilerin sorularını yanıtlayan CHP Genel Başkanı Özel, &quot;23 Nisan, büyük bir coşkuyla, müzikle, eğlenceyle değil, yas ortamına da uygun olarak ama asla ve asla hiçbir töreni iptal etmeden ama elbette ki konserlerle, eğlencelerle değil de günün gerektirdiği şekilde ama mutlaka kutlanmalıdır&quot; dedi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/17/ozelden-23-nisan-kutlamalarina-iliskin-aciklama-yas-ortamina-uygun-ama-hicbir-toreni-iptal-etmeden-kutlanmali-oq5p_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_0d23487f",
     "title": "@ottomanvampire.bsky.social: Happy 30th birthday to Agos Weekly, the Armenian-Turkish new...",
     "source": "Bluesky",
@@ -934,29 +958,5 @@
     "summary": "Trabzonspor, Trendyol Süper Lig Mehmet Ali Yılmaz Sezonu’nun 30. haftasında oynayacağı RAMS Başakşehir maçı hazırlıklarına bugün yaptığı antrenmanla devam etti. Bordo-mavililer, hazırlıklarını yarın tamamlayacak.",
     "image": "https://resim.haber61.net/news/613229.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_2aa8f389",
-    "title": "Almanya, Hürmüz Boğazı'na mayın tarama botları gönderebilir",
-    "source": "Euronews",
-    "time": "17/04/2026 18:25",
-    "link": "http://tr.euronews.com/my-europe/2026/04/16/almanya-hurmuz-bogazina-mayin-tarama-botlari-gonderebilir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya, Hürmüz Boğazı’nın güvenliğini sağlamak üzere belirli şartların yerine getirilmesi kaydıyla ve çatışmalar sona erdikten sonra bölgeye mayın tarama botları, bir refakat gemisi ve keşif uçakları konuşlandırabilir.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_7965bc01",
-    "title": "Trabzon’da Seyir Halindeki Taş Kamyonu Alev Alev Yandı: İşte O Anlar...",
-    "source": "Taka Gazetesi",
-    "time": "17/04/2026 18:25",
-    "link": "https://www.takagazete.com.tr/video/trabzonda-seyir-halindeki-tas-kamyonu-alev-alev-yandi-iste-o-anlar",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da taş kamyonunda çıkan yangın kısa süreli paniğe yol açtı. İtfaiyenin hızlı müdahalesiyle alevler büyümeden söndürüldü.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/trabzon-yangin-1-5.png",
-    "keyword": null
   }
 ]
