@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a3004820",
+    "title": "Lufthansa'da kriz büyüyor: Yakıt maliyetleri ve grevler nedeniyle CityLine kapatılacak",
+    "source": "BirGün",
+    "time": "18/04/2026 00:25",
+    "link": "https://www.birgun.net/haber/lufthansa-da-kriz-buyuyor-yakit-maliyetleri-ve-grevler-nedeniyle-cityline-kapatilacak-706433",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pilot ve kabin ekibi grevleri beşinci güne girerken Lufthansa’da operasyonlar ciddi şekilde aksadı. Frankfurt Havalimanı’nda yüzlerce uçuş iptal edilirken şirket, artan maliyetler ve iş uyuşmazlıklarını gerekçe göstererek iştiraki CityLine’ın faaliyetlerini erken sonlandırma kararı aldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/lufthansa-da-kriz-buyuyor-yakit-maliyetleri-ve-grevler-nedeniyle-cityline-kapatilacak.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d4cb81f4",
     "title": "Filistin İnsan Hakları Merkezi: Filistinli esirlere yönelik ihlallerde benzeri görülmemiş artış var",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, Beşinci Antalya Diplomasi Forumu marjında bugün TürkiyeMısırPakistanSuudi Arabistan Dışişleri Bakanları Üçüncü Toplantısı'na ev sahipliği yaptı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a658a0bd",
-    "title": "Burhanettin Duran: Türkiye ile Azerbaycan arasındaki köklü kardeşlik bağları güçleniyor",
-    "source": "TRT Haber",
-    "time": "17/04/2026 23:25",
-    "link": "https://www.trthaber.com/haber/gundem/burhanettin-duran-turkiye-ile-azerbaycan-arasindaki-koklu-kardeslik-baglari-gucleniyor-942084.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İletişim Başkanı Burhanettin Duran, Antalya Diplomasi Forumu 2026 kapsamında Azerbaycan Cumhuriyeti Cumhurbaşkanı Yardımcısı, Hikmet Hacıyev ile bir araya geldi.",
     "image": null,
     "keyword": null
   }
