@@ -1,5 +1,29 @@
 [
   {
+    "id": "TKP_3e982c1e",
+    "title": "Trabzonspor harıl harıl! Başakşehir hazırlıkları devam ediyor",
+    "source": "Haber61",
+    "time": "17/04/2026 18:26",
+    "link": "https://www.haber61.net/trabzonspor/trabzonspor-haril-haril-basaksehir-hazirliklari-devam-ediyor-h629881.html",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzonspor, Trendyol Süper Lig Mehmet Ali Yılmaz Sezonu’nun 30. haftasında oynayacağı RAMS Başakşehir maçı hazırlıklarına bugün yaptığı antrenmanla devam etti. Bordo-mavililer, hazırlıklarını yarın tamamlayacak.",
+    "image": "https://resim.haber61.net/news/613229.jpg",
+    "keyword": "trabzon"
+  },
+  {
+    "id": "GND_2aa8f389",
+    "title": "Almanya, Hürmüz Boğazı'na mayın tarama botları gönderebilir",
+    "source": "Euronews",
+    "time": "17/04/2026 18:25",
+    "link": "http://tr.euronews.com/my-europe/2026/04/16/almanya-hurmuz-bogazina-mayin-tarama-botlari-gonderebilir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya, Hürmüz Boğazı’nın güvenliğini sağlamak üzere belirli şartların yerine getirilmesi kaydıyla ve çatışmalar sona erdikten sonra bölgeye mayın tarama botları, bir refakat gemisi ve keşif uçakları konuşlandırabilir.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_7965bc01",
     "title": "Trabzon’da Seyir Halindeki Taş Kamyonu Alev Alev Yandı: İşte O Anlar...",
     "source": "Taka Gazetesi",
@@ -932,30 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye'nin erkenci kiraz üretim merkezlerinden Manisa'nın Şehzadeler ilçesinde yılın ilk ürünleri, sembolik açık artırmada kilogramı 6 bin liradan alıcı buldu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_1e707c36",
-    "title": "Zeytinyağı üretiminde Türkiye rüzgarı: Üretim yüzde 92 arttı",
-    "source": "TRT Haber",
-    "time": "17/04/2026 17:47",
-    "link": "https://www.trthaber.com/haber/ekonomi/zeytinyagi-uretiminde-turkiye-ruzgari-uretim-yuzde-92-artti-942063.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Merkezi İspanya'da bulunan Uluslararası Zeytin Konseyi IOC, Türkiye'nin son yıllarda zeytinyağı üretiminde kaydettiği güçlü artışla küresel pazarda öne çıkan ülkeler arasına girdiğini, ihracattaki artışın ise ülkenin rekabet gücünü pekiştirdiğini bildirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_cd3827b1",
-    "title": "EFES-2026 Tatbikatı'nın \"Simülasyon Destekli Komuta Yeri Safhası\" İzmir'de gerçekleştirildi",
-    "source": "İHA Trabzon",
-    "time": "17/04/2026 17:47",
-    "link": "https://www.aa.com.tr/tr/gundem/efes-2026-tatbikatinin-simulasyon-destekli-komuta-yeri-safhasi-izmirde-gerceklestirildi/3909295",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Türk Silahlı Kuvvetlerinin (TSK) EFES-2026 Tatbikatı'nın Simülasyon Destekli Komuta Yeri (SDKY) Safhası, 21 ülkeden 103'ü yabancı 646 personelin katılımıyla İzmir'de tamamlandı.",
     "image": null,
     "keyword": null
   }
