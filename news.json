@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e707c36",
+    "title": "Zeytinyağı üretiminde Türkiye rüzgarı: Üretim yüzde 92 arttı",
+    "source": "TRT Haber",
+    "time": "17/04/2026 17:47",
+    "link": "https://www.trthaber.com/haber/ekonomi/zeytinyagi-uretiminde-turkiye-ruzgari-uretim-yuzde-92-artti-942063.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Merkezi İspanya'da bulunan Uluslararası Zeytin Konseyi IOC, Türkiye'nin son yıllarda zeytinyağı üretiminde kaydettiği güçlü artışla küresel pazarda öne çıkan ülkeler arasına girdiğini, ihracattaki artışın ise ülkenin rekabet gücünü pekiştirdiğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_cd3827b1",
     "title": "EFES-2026 Tatbikatı'nın \"Simülasyon Destekli Komuta Yeri Safhası\" İzmir'de gerçekleştirildi",
     "source": "İHA Trabzon",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "İRAN'dan gelen son dakika Hürmüz Boğazı kararı piyasalara bahar havası yaşattı. Hürmüz Boğazı'nın açılması ile birlikte altın fiyatları anında 7 bin liranın üstüne sıçradı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/yayaaa.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_3e62d9d5",
-    "title": "4 ilde \"yasa dışı bahis\" soruşturması: 25 şüpheli tutuklandı",
-    "source": "BirGün",
-    "time": "17/04/2026 17:25",
-    "link": "https://www.birgun.net/haber/4-ilde-yasa-disi-bahis-sorusturmasi-25-supheli-tutuklandi-706517",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin merkezli 4 ildeki \"yasa dışı bahis\" operasyonunda yakalanan 25 şüpheli tutuklandı. Şüphelilerin üniversite öğrencileri üzerine farklı banka ile kripto varlık hesapları açtıkları ve telefon hattı temin ederek yasa dışı bahis suçu işledikleri tespit edildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/4-ilde-yasa-disi-bahis-sorusturmasi-25-supheli-tutuklandi.jpg",
     "keyword": null
   }
 ]
