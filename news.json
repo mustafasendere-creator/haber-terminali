@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3265b02e",
+    "title": "Almanya'da deri fabrikasında facia: 3 işçi hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "17/04/2026 20:06",
+    "link": "https://www.evrensel.net/haber/5980140/almanyada-deri-fabrikasinda-facia-3-isci-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya’nın Hessen eyaletindeki deri fabrikasında üç işçi yaşamını yitirdi, iki işçi ağır yaralandı. İlk bulgular, işçilerin kuyuda karbonmonoksit gazından zehirlenmiş olabileceğini gösteriyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343493.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0ac3efcf",
     "title": "24 saatte 15 işçi hayatını kaybetti: 'Kaza değil, sistematik bir sınıf cinayetidir'",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,72 değer kazancıyla 14.587,93 puandan tamamlayarak tüm zamanların en yüksek günlük ve haftalık kapanışını gerçekleştirirken, gördüğü en yüksek seviye rekorunu 14.601,12 puana taşıdı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_f06657e1",
-    "title": "Trump: İran Hürmüz Boğazı'nı bir daha asla kapatmayacağını kabul etti",
-    "source": "TRT Haber",
-    "time": "17/04/2026 19:26",
-    "link": "https://www.trthaber.com/haber/dunya/trump-iran-hurmuz-bogazini-bir-daha-asla-kapatmayacagini-kabul-etti-942074.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın Tahran yönetimi tarafından açıldığını kaydederek \"İran, Hürmüz Boğazı'nı bir daha asla kapatmayacağını kabul etti.\" ifadesini kullandı.",
     "image": null,
     "keyword": null
   }
