@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_20481292",
+    "title": "Çin ile Yeni Zelanda arasında keşif uçağı gerilimi",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 16:27",
+    "link": "https://www.cumhuriyet.com.tr/dunya/cin-ile-yeni-zelanda-arasinda-kesif-ucagi-gerilimi-2496056",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pekin yönetimi, Yeni Zelanda Hava Kuvvetleri'ne ait \"Poseidon 8A\" (P-8A) tipi deniz devriye ve keşif uçağının, Çin hava sahası yakınında uçuşunu protesto etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/3d9b705b-3993-4def-86ac-8ef4ce382194.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2ac0342a",
     "title": "Hürmüz Boğazı açıldı: Petrol çakıldı, altın yükselişe geçti",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/trabzonda-3-kent-istisare-toplantisi-gerceklesti-2.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_50615554",
-    "title": "İstanbul'da zehir tacirlerine operasyon: 19 gözaltı",
-    "source": "TRT Haber",
-    "time": "17/04/2026 16:07",
-    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-zehir-tacirlerine-operasyon-19-gozalti-942035.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da 7 ilçede uyuşturucu satıcılarına yönelik düzenlenen operasyonda, 19 şüpheli gözaltına alındı.",
-    "image": null,
-    "keyword": null
   }
 ]
