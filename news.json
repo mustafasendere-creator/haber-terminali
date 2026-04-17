@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2987f59e",
+    "title": "İPA’dan yeni girişim: İstanbul İnovasyon Konseyi kuruldu",
+    "source": "BirGün",
+    "time": "17/04/2026 23:45",
+    "link": "https://www.birgun.net/haber/ipadan-yeni-girisim-istanbul-inovasyon-konseyi-kuruldu-706434",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Planlama Ajansı öncülüğünde kurulan İstanbul İnovasyon Konseyi ile kentin inovasyon ekosisteminin tek çatı altında toplanması hedeflenirken, İstanbul’un Avrupa’da insan odaklı inovasyon merkezlerinden biri haline gelmesi için yol haritası oluşturulacak.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/ipadan-yeni-girisim-istanbul-inovasyon-konseyi-kuruldu.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_ec420846",
     "title": "Erman Toroğlu’ndan olay sözler ligde şampiyonluk tartışması alevlendi; \"Şampiyon Kimse Söyleyin!\"",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Fenerbahçe, sahasında Çaykur Rizespor ile berabere kalırken zirve yarışında önemli bir puan kaybı yaşadı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/17/large/zirve-yarisinda-flas-sonuc-trabzonspora-guzel-haber.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_d267694b",
-    "title": "Ayhan Bora Kaplan davasında dikkat çeken iddia: ’15 Temmuz’da silahları MİT’ten aldık’",
-    "source": "Cumhuriyet",
-    "time": "17/04/2026 22:46",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ayhan-bora-kaplan-davasinda-dikkat-ceken-iddia-15-temmuz-da-silahlari-mit-ten-aldik-2496125",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ayhan Bora Kaplan'ın davasında savunma yapan Muhammed Kaplan, 15 Temmuz'da darbecilere karşı kullandıkları silahları Milli İstihbarat Teşkilatı'ndan (MİT) aldıklarını iddia etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0470b739-f604-4a8a-baa8-aafe4b9401d8.jpg",
-    "keyword": null
   }
 ]
