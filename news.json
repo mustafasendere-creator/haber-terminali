@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6a7ebaa7",
+    "title": "Erdoğan: İran'da barışa ulaşana kadar ateşkesin uzatılması için çalışacağız",
+    "source": "BirGün",
+    "time": "17/04/2026 22:05",
+    "link": "https://www.birgun.net/haber/erdogan-iran-da-barisa-ulasana-kadar-ateskesin-uzatilmasi-icin-calisacagiz-706543",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erdoğan, Antalya Diplomasi Forumu için Türkiye'de bulunan Pakistan Başbakanı Şahbaz Şerif'i kabul etti. Erdoğan'ın görüşmede, İran’da barışa ulaşana kadar ateşkesin uzatılması için çalışacağını belirttiği kaydedildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/cumhurbaskani-erdogan-iran-da-barisa-ulasana-kadar-ateskesin-uzatilmasi-icin-calisacagiz.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_9e3aecc7",
     "title": "Trabzonspor’a ağır ceza Galatasaray’a sınırlı yaptırım tartışma yarattı",
     "source": "Taka Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’da Fatih Tekke farkı konuşuluyor. Engin Aslan, düşük bütçeye rağmen zirve yarışındaki başarıya dikkat çekti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/d0b3bf9e-eb8b-4789-9549-76d5bb8cbca4.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3b379621",
-    "title": "Anketlere göre Almanya'da aşırı sağcı AfD birinci parti",
-    "source": "DW Türkçe",
-    "time": "17/04/2026 21:06",
-    "link": "https://www.dw.com/tr/anketlere-göre-almanya-da-aşırı-sağcı-afd-birinci-parti/a-76789745",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'da bu hafta içinde açıklanan iki ankette de aşırı sağcı AfD birinci parti konumuna yükseldi. Friedrich Merz liderliğindeki koalisyon hükümetini oluşturan partiler ise oy kaybediyor.",
-    "image": null,
-    "keyword": null
   }
 ]
