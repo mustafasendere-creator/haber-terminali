@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f0b09ec8",
+    "title": "ABD, Suriye'deki tüm önemli askeri üslerin devir teslim işlemlerini tamamladığını duyurdu",
+    "source": "Anadolu Ajansı",
+    "time": "17/04/2026 22:25",
+    "link": "https://www.aa.com.tr/tr/dunya/abd-suriyedeki-tum-onemli-askeri-uslerin-devir-teslim-islemlerini-tamamladigini-duyurdu/3910083",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Suriye'deki önemli üslerin devir tesliminin tamamlandığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_90f75fcb",
     "title": "Fenerbahçe, liderlik şansını son dakika golüyle yitirdi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Kahramanmaraş'ta 15 Nisan'da İsa A.M'nin silahlı saldırı düzenlediği Ayser Çalık Ortaokulu velilerin talepleri doğrultusunda geçici süreyle eğitim ve öğretime kapatıldı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/maras-ta-saldirinin-gerceklestigi-okul-gecici-olarak-kapatildi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b9668fca",
-    "title": "MHP'de feshedilen il teşkilatlarının sayısı 7'ye yükseldi",
-    "source": "BirGün",
-    "time": "17/04/2026 21:25",
-    "link": "https://www.birgun.net/haber/mhp-de-feshedilen-il-teskilatlarinin-sayisi-7-ye-yukseldi-706491",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP'de Çanakkale ve Bilecik ve Muğla il teşkilatları da feshedildi. Böylece feshedilen il teşkilatlarının sayısı 7'ye çıktı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/mhp-de-bir-il-teskilati-daha-feshedildi.jpg",
     "keyword": null
   }
 ]
