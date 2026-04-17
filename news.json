@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_87860ec0",
+    "title": "MHP'den istifa etmişti: İzzet Ulvi Yönter X'teki hesabını kapattı",
+    "source": "BirGün",
+    "time": "17/04/2026 21:25",
+    "link": "https://www.birgun.net/haber/mhp-den-istifa-etmisti-izzet-ulvi-yonter-x-teki-hesabini-kapatti-706493",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MHP'deki görevinden istifa eden İzzet Ulvi Yönter, sosyal medya platformu X'teki (eski adıyla Twitter) hesabını kapattı. Yönter, istifa kararının ardından sosyal medya hesabını bir süreliğine korumaya almıştı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/mhp-den-istifa-etmisti-izzet-ulvi-yonter-x-teki-hesabini-kapatti.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_abd6a849",
     "title": "Cumhurbaşkanı Başdanışmanı Akif Çağatay Kılıç: Türkiye, diyalog süreçlerine katkı sunmaya devam edecektir",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Güney Kore Strateji ve İstihbarattan Sorumlu Bakan Yardımcısı Jeong, ülkesi ile Türkiye arasındaki köklü ilişkilerin ve işbirliğinin, savunma sanayisinden enerjiye, teknolojiden altyapıya uzanan alanlarda son yıllarda daha da güçlendiğini söyledi.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "SOC_e6c89da4",
-    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect eastbound on Route C31 due to a me...",
-    "source": "Bluesky",
-    "time": "17/04/2026 20:28",
-    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjpfbm5k4e2o",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "C31 Service Alert: Expect eastbound on Route C31 due to a medical emergency. Track your bus in real time by visiting metropulse.wmata.com/bus",
-    "image": null,
-    "keyword": "c31"
   }
 ]
