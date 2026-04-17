@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ccf92cfe",
+    "title": "BM: Gazze'de günde ortalama 47 kadın ve kız çocuğu öldürüldü",
+    "source": "Anadolu Ajansı",
+    "time": "17/04/2026 17:25",
+    "link": "https://www.aa.com.tr/tr/dunya/bm-gazzede-gunde-ortalama-47-kadin-ve-kiz-cocugu-olduruldu/3909643",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BM Kadın Birimi Cenevre Ofisi Direktörü Calltorp, Ekim 2023'ten Aralık 2025'e kadar Gazze'de 38 binden fazla kadın ve kız çocuğunun öldürüldüğünü belirterek \"Bu da günde ortalama 47 kadın ve kız çocuğunun öldürüldüğü anlamına geliyor.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_a3466b5b",
     "title": "60 saniyede bugün (17 Nisan 2026)",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Emek ve Demokrasi Platformu, Kahramanmaraş ve Şanlıurfa’da iki ayrı okulda yaşanan silahlı saldırıları Meydan Parkı’nda düzenlediği basın açıklamasıyla protesto etti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/y-a-s-a-m-2.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_4dcd56a7",
-    "title": "İzmir’de binlerce öğretmen İl Milli Eğitim önünden seslendi: Yaşanılan olaylar münferit değildir",
-    "source": "Evrensel",
-    "time": "17/04/2026 16:47",
-    "link": "https://www.evrensel.net/haber/5980121/izmirde-binlerce-ogretmen-il-milli-egitim-onunden-seslendi-yasanilan-olaylar-munferit-degildir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir’de iş bırakan eğitim emekçileri, okul saldırılarına karşı yürüdü. Açıklamada şiddetin münferit olmadığı vurgulanarak yoksulluk, eşitsizlik ve eğitim politikaları eleştirildi, istifa çağrısı yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343464.jpg",
-    "keyword": null
   }
 ]
