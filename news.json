@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3e62d9d5",
+    "title": "4 ilde \"yasa dışı bahis\" soruşturması: 25 şüpheli tutuklandı",
+    "source": "BirGün",
+    "time": "17/04/2026 17:25",
+    "link": "https://www.birgun.net/haber/4-ilde-yasa-disi-bahis-sorusturmasi-25-supheli-tutuklandi-706517",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin merkezli 4 ildeki \"yasa dışı bahis\" operasyonunda yakalanan 25 şüpheli tutuklandı. Şüphelilerin üniversite öğrencileri üzerine farklı banka ile kripto varlık hesapları açtıkları ve telefon hattı temin ederek yasa dışı bahis suçu işledikleri tespit edildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/4-ilde-yasa-disi-bahis-sorusturmasi-25-supheli-tutuklandi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_10940d6f",
     "title": "Emekli işçi başvurdu: Yargıtay’dan emsal \"ücret zammı\" kararı",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Erzincan'ın Üzümlü ilçesinde 4,1 büyüklüğünde deprem meydana geldi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_acbcf3e7",
-    "title": "Cumhurbaşkanı Erdoğan'dan Antalya'da diplomasi trafiği",
-    "source": "TRT Haber",
-    "time": "17/04/2026 16:47",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-antalyada-diplomasi-trafigi-942056.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya Diplomasi Forumu ADF kapsamında ikili görüşmeler gerçekleştirdi.",
     "image": null,
     "keyword": null
   }
