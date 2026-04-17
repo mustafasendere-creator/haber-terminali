@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88744342",
+    "title": "İsrail Türkiye ile tüm ilişkilerini sonlandırdı mı?",
+    "source": "Teyit.org",
+    "time": "17/04/2026 13:51",
+    "link": "https://teyit.org/analiz/israil-turkiye-ile-tum-iliskilerini-sonlandirdi-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medyada yer alan paylaşımlarda İsrail’in Türkiye ile ilişkilerini sonlandırarak konsolosluk ve elçiliklerini kapatacağını açıkladığı iddia edildi.",
+    "image": "https://md.teyit.org/2026/04/turkey-israel-kapak.webp",
+    "keyword": null
+  },
+  {
     "id": "TKP_13181396",
     "title": "Trabzon'da kaymakamlık yapmıştı... Eski Vali Tuncay Sonel'e soruşturma!",
     "source": "Kuzey Ekspres",
@@ -946,17 +958,5 @@
     "summary": "Bilim insanları, yükselen deniz seviyelerinin kenti yutmakla tehdit etmesi nedeniyle hiçbir uyum tedbirinin Venedik’i ayakta tutamayacağı uyarısında bulunuyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_5d603644",
-    "title": "Trabzonspor Teknik Direktörü Tekke’nin prensi Mustafa Eskihellaç! Lövik vasatta kaldı",
-    "source": "Haber61",
-    "time": "17/04/2026 13:47",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-teknik-direktoru-tekkenin-prensi-mustafa-eskihellac-lovik-h629839.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Başakşehir maçı öncesi Trabzonspor’da sol çizgideki rekabetin verileri dikkat çekti. Asıl mevkisi sol bek olan Mustafa Eskihellaç, hem savunmada hem hücum hattında formayı bırakmazken Mathias Lövik ise beklentilerin altında kaldı.",
-    "image": "https://resim.haber61.net/news/613154.jpg",
-    "keyword": "trabzon"
   }
 ]
