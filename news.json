@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_236ed3bc",
+    "title": "Yaşlı kadının bağışlanan karaciğeri bir hastaya umut oldu",
+    "source": "Habertürk",
+    "time": "17/04/2026 17:27",
+    "link": "https://www.haberturk.com/rize-de-yasli-kadinin-bagislanan-karacigeri-bir-hastaya-umut-oldu-3877958",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rize'de tedavi gördüğü hastanede beyin ölümü gerçekleşen 96 yaşındaki Refiye Kıdal'ın bağışlanan karaciğeri, Malatya'da nakil bekleyen bir hastaya umut oldu",
+    "image": "https://im.haberturk.com/l/2026/04/17/ver1776375040/3877958/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2b8845af",
     "title": "Atamalar ve görevden almalar Resmi Gazete'de",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Büyükşehir Belediyesi (İBB) iştiraki Spor İstanbul’un düzenleyeceği Türkiye İş Bankası 21. İstanbul Yarı Maratonu pazar günü gerçekleştirilecek.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/istanbul-yari-maratonu-pazar-gunu-kosulacak.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_38160d67",
-    "title": "İran'ın \"Hürmüz\" kararının ardından Avrupa'da gaz fiyatları sert düştü",
-    "source": "BirGün",
-    "time": "17/04/2026 17:05",
-    "link": "https://www.birgun.net/haber/iran-in-hurmuz-kararinin-ardindan-avrupa-da-gaz-fiyatlari-sert-dustu-706520",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa'da gaz fiyatları Hürmüz Boğazı'nın açılacağı açıklamasıyla 38 euroya geriledi. Avrupa'da mayıs vadeli doğalgaz kontratı, dünün kapanışına göre yüzde 8,7 düşüşle 38,74 euro oldu",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/iran-in-hurmuz-kararinin-ardindan-avrupa-da-gaz-fiyatlari-sert-dustu.jpg",
     "keyword": null
   }
 ]
