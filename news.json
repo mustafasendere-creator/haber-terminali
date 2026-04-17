@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_daf0297c",
+    "title": "Uçakta doğan bebek hangi ülkenin vatandaşı olur?",
+    "source": "Habertürk",
+    "time": "17/04/2026 16:08",
+    "link": "https://www.haberturk.com/ucus-sirasinda-dogan-bir-bebek-hangi-ulkenin-vatandasligini-alir-cevap-birkac-dakikaya-bagli-olabilir-3877528",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uçakta doğan bebeklerin vatandaşlığı, sanıldığı gibi 'gökyüzüne' değil, doğum anındaki konuma ve ebeveynlerin uyruğuna bağlı olarak belirleniyor. Gerçek vakalar ise bu kararın bazen sadece dakikalarla değişebildiğini gösteriyor.",
+    "image": "https://im.haberturk.com/l/2026/04/15/ver1776291695/3877528/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_03a4f487",
     "title": "TÜGVA heyeti Trabzonspor yönetimiyle bir araya geldi",
     "source": "Taka Gazetesi",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "MHP, Çanakkale ve Bilecik il teşkilatlarının, parti tüzüğünün 52. ve 54. maddelerinin tanıdığı yetkiye istinaden, tüzüğün 34. maddesi uyarınca feshedildiğini duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_fdb56a64",
-    "title": "Bakan Fidan: Küresel ve bölgesel meseleler Antalyada tüm yönleriyle masaya yatırılacak",
-    "source": "TRT Haber",
-    "time": "17/04/2026 15:47",
-    "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-kuresel-ve-bolgesel-meseleler-antalyada-tum-yonleriyle-masaya-yatirilacak-942048.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya Diplomasi Forumunda konuşan Bakan Fidan, \"belirsizliklerin yoğunlaştığı bu dönemde asıl soru geleceği hangi akılla, hangi iradeyle ve ne tür bir vizyonla şekillendireceğimizdir. Tam da bu amaçla küresel ve bölgesel meseleler Antalyada tüm yönleriyle masaya yatırılacak, çözümler ortak akıl ve hikmetle burada inşallah şekillenecektir\" dedi.",
     "image": null,
     "keyword": null
   }
