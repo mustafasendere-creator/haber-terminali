@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d399105d",
+    "title": "Zamanı durduran festival 54 yaşında",
+    "source": "BirGün",
+    "time": "17/04/2026 14:25",
+    "link": "https://www.birgun.net/haber/zamani-durduran-festival-54-yasinda-706465",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "11-25 Haziran arasında gerçekleştirilecek 54’üncü İstanbul Müzik Festivali; doğa, doğaçlama ve farkındalık temalı etkinliklere odaklanıyor. Festivali Direktörü Efruz Çakırkaya, “Müzik, zamanın akışını yavaşlatan ve insanı ana döndüren bir güç” diyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/zamani-durduran-festival-54-yasinda.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_91339561",
     "title": "Trabzon'da zamlı ekmek tepkisi: Vatandaş ne diyor?",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Bordo-mavililerde Batagov’un oynama ihtimali düşük görülürken, Onuachu ile Muçi için kararın sağlık kurulunun değerlendirmesi ve son antrenmanların ardından verilmesi bekleniyor.",
     "image": "https://resim.haber61.net/news/613177.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7dda6fd2",
-    "title": "17. TRT Uluslararası Belgesel Ödülleri'nin finalistleri açıklandı",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 14:05",
-    "link": "https://www.aa.com.tr/tr/kultur/17-trt-uluslararasi-belgesel-odullerinin-finalistleri-aciklandi/3909223",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bu yıl 17'ncisi düzenlenen TRT Uluslararası Belgesel Ödülleri'nin finalistleri belli oldu.",
-    "image": null,
     "keyword": null
   }
 ]
