@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9bae3f63",
+    "title": "Okul saldırganları önceden tespit edilebilir mi, işaretler neler?",
+    "source": "BBC Türkçe",
+    "time": "17/04/2026 18:05",
+    "link": "https://www.bbc.com/turkce/articles/cx2e1zznxz8o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uzmanlar okul saldırganlarında bazı ortak örüntüler olabileceğine dikkat çekiyor. BBC Türkçe bu örüntülerin neler olabileceğini ve bunları tespit etmenin saldırıları önlemeye nasıl yardımcı olabileceğini araştırdı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_3e982c1e",
     "title": "Trabzonspor harıl harıl! Başakşehir hazırlıkları devam ediyor",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Yarı Maratonu, 19 Nisan Pazar günü 21'inci kez koşulacak ve 'En Hızlı Yarı, En Hızlı Sen' sloganıyla start alacak.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/istanbul-yari-maratonu-pazar-gunu-kosulacak-yshg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f4ee8a97",
-    "title": "Cumhurbaşkanı Erdoğan: ADF küresel aklın ve global vicdanın ortak kürsüsü haline geldi",
-    "source": "TRT Haber",
-    "time": "17/04/2026 17:26",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-adf-kuresel-aklin-ve-global-vicdanin-ortak-kursusu-haline-geldi-942033.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya Diplomasi Forumu'nun sadece diplomatik temas alanı olmadığını belirterek, \"Bu organizasyonu; dünyanın nereye doğru gittiği, insanlığın hangi değerler etrafında buluşabileceği üzerine derinlikli istişarelerin yapıldığı bir akıl platformu olarak görüyoruz\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
