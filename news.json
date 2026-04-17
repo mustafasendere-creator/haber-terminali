@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_403fca79",
+    "title": "@anonturk.bsky.social: 🇹🇷 Trabzon Deprem Bölgesi mi? Trabzon'da Fay Var mı?\nTrabzon...",
+    "source": "Bluesky",
+    "time": "17/04/2026 13:47",
+    "link": "https://bsky.app/profile/anonturk.bsky.social/post/3mjnsh3kr2q2h",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "🇹🇷 Trabzon Deprem Bölgesi mi? Trabzon'da Fay Var mı?\nTrabzon deprem bölgesi mi sorusu, Ortahisar açıklarında meydana gelen son sarsıntının ardından yeniden gündeme geldi. Trabzon’da fay var mı, Karadeniz Fayı ne kadar teh…\n#Türkiye #Turkiye #Haber #Gündem #Gundem #BirGün #BirGun",
+    "image": null,
+    "keyword": "trabzon gündem"
+  },
+  {
     "id": "GND_37f1d86e",
     "title": "Eski Polonya Genelkurmay Başkanı: Türkiye, AB güvenlik denkleminde olursa Rusya için tablo değişir",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hukuk sisteminin en temel unsurlarından biri hiç kuşkusuz süredir. Hukuki güvenliğin sağlanması, idari işlemlerin kesinleşmesi ve uyuşmazlıkların makul bir süre içinde sona ermesi, süreye ilişkin kurallara sıkı sıkıya bağlıdır. Ancak sürenin bir başka yüzü daha var. Kanunda öngörülen süreler içinde gerekli işlem yapılmadığında, kişiler çok ciddi hak kayıplarıyla karşılaşabilir. Bunların içinde en kritik olanlardan biri [&#8230;]",
     "image": "https://i.10haber.net/wp-content/uploads/2026/04/Ekran-Resmi-2026-04-16-19.01.48.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_a5e50126",
-    "title": "Laiklik bildirisi gerekçesiyle ifade veren Ataol Behramoğlu'ndan, Yusuf Tekin hakkında suç duyurusu",
-    "source": "BirGün",
-    "time": "17/04/2026 00:13",
-    "link": "https://www.birgun.net/haber/laiklik-bildirisi-gerekcesiyle-ifade-veren-ataol-behramoglu-ndan-yusuf-tekin-hakkinda-suc-duyurusu-706220",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şair Ataol Behramoğlu, “Laikliği Birlikte Savunuyoruz” bildirisi sebebiyle ifade verdiği Adalar İlçe Emniyet Müdürlüğü’nde Milli Eğitim Bakanı Yusuf Tekin hakkında laiklik karşıtı beyanları ve uygulamalardan dolayı suç duyurusunda bulundu.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/16/laiklik-bildirisi-gerekcesiyle-ifade-veren-ataol-behramoglu-ndan-yusuf-tekin-hakkinda-suc-duyurusu.jpg",
     "keyword": null
   }
 ]
