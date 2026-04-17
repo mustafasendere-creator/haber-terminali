@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eb66b568",
+    "title": "“Protesto sınırını aşmak lazım”",
+    "source": "Evrensel",
+    "time": "17/04/2026 20:46",
+    "link": "https://www.evrensel.net/haber/5980135/protesto-sinirini-asmak-lazim",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli’de de bugün eğitim emekçileri sendikalarının çağrısı ile iş bırakarak alana çıktılar. Ancak bu saldırıları sadece protesto ederek durdurmanın mümkün olmadığının da farkındalar.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343484.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_ac2780b6",
     "title": "Trabzon’da Hüseyin Kazaz Kültür Merkezi yeniden hizmete açıldı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da meydana gelen çığ anı cep telefonu kamerasına yansıdı. Çaykara’da kaydedilen görüntüler dikkat çekerken bölgede risk sürüyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/8bd28daf-084f-4e6e-b274-5441c37b0115.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_887e8ea4",
-    "title": "Borsa haftayı rekorlarla kapattı",
-    "source": "BirGün",
-    "time": "17/04/2026 20:05",
-    "link": "https://www.birgun.net/haber/borsa-haftayi-rekorlarla-kapatti-706534",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BIST 100 endeksi, günü yüzde 2,72 değer kazanıp 14.587,93 puandan tamamlayarak tüm zamanların en yüksek günlük ve haftalık kapanışını gerçekleştirirken, gördüğü en yüksek seviye rekorunu 14.601,12 puana taşıdı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/borsa-haftayi-rekorlarla-kapatti.jpg",
     "keyword": null
   }
 ]
