@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_4e51728a",
+    "title": "@velev.news: Okul saldırısıyla gündem olmuştu: Emniyet’ten ‘C31K’ Telegra...",
+    "source": "Bluesky",
+    "time": "17/04/2026 17:48",
+    "link": "https://bsky.app/profile/velev.news/post/3mjp62mzfkn2c",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Okul saldırısıyla gündem olmuştu: Emniyet’ten ‘C31K’ Telegram kanalı açıklaması \n\nvelev.press/gundem/okul-...",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5r2vrmujnzzu4qpgfwszkf66/bafkreickmc2cto2pdc2itlhnlljhw5fhc3nlblzpl6lmqdf2tj6e2mnsuq",
+    "keyword": "c31k"
+  },
+  {
     "id": "GND_7b3b55f6",
     "title": "Kentler demokrasi için Barselona'da: Ahmet Aras'da katılacak",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir Tabip Odası Genel Kurulu bu hafta sonu gerçekleştirilecek. Üç grubun yarışacağı seçimde, adaylar sağlık sistemindeki kriz, hekim hakları ve mesleki örgütlenmenin geleceğine ilişkin değerlendirmelerde bulundu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/276905.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_96fcb6d4",
-    "title": "İsveç’te hak örgütleri, hükümetin göçmenlere yönelik 'dürüst yaşam' planına tepki gösterdi",
-    "source": "Euronews",
-    "time": "17/04/2026 17:26",
-    "link": "http://tr.euronews.com/my-europe/2026/04/17/isvecte-hak-orgutleri-hukumetin-gocmenlere-yonelik-durust-yasam-planina-tepki-gosterdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Göçmenlere hukuki destek sağlayan İsveç Mülteci Hukuk Merkezi, söz konusu düzenlemelerin oturma izni süreçlerini öngörülemez hale getireceğini belirtiyor.",
-    "image": null,
     "keyword": null
   }
 ]
