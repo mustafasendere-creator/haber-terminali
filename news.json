@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba8631d9",
+    "title": "Diyarbakır'da kaydedildi! Kısa sürede yakalandı!",
+    "source": "Habertürk",
+    "time": "17/04/2026 23:47",
+    "link": "https://www.haberturk.com/son-dakika-diyarbakir-da-kaydedildi-kisa-surede-yakalandi-3877881",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır'da paniğe yol açan bir görüntü kaydedildi. Olayda elinde pompalı tüfekle meydanda yürüyen şüpheli, polis ekipleri tarafından gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776350171/3877881/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_11b5628f",
     "title": "CHP'den kanun için AYM'ye iptal başvurusu",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor’da Ernest Muçi sakatlığını atlattı. Arnavut yıldızın Başakşehir maçında forma giymesi bekleniyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/90c84eb1-72e8-4fc4-816c-4082c5198951.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_8e59dcfe",
-    "title": "Papara Park'ta tüm biletler tükendi!",
-    "source": "Günebakış",
-    "time": "17/04/2026 23:06",
-    "link": "https://www.gunebakis.com.tr/papara-parkta-tum-biletler-tukendi/27832023",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor&#039;da Genel Sekreter Sami Karaman, maç öncesi taraftarlara çağrıda bulundu.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/papara.jpg",
     "keyword": "trabzon"
   }
 ]
