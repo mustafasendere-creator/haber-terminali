@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_439d2122",
+    "title": "Okul saldırıları... Ayla öğretmenin oğlu konuştu! 'Kahraman bir anneye sahip olduğumuz için gururluyuz'",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 18:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/okul-saldirilari-ayla-ogretmenin-oglu-konustu-kahraman-bir-anneye-sahip-oldugumuz-icin-gururluyuz-2496093",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş’ta silahlı saldırıda öğrencilerini korumak isterken hayatını kaybeden öğretmen Ayla Kara’nın oğlu avukat Furkan Kara, annesinin okulu ve çocukları çok sevdiğini belirterek, “Morali bozuk olduğunda okula giderdi. Derse girince bütün sıkıntılarını unuttuğunu söylerdi. Nitekim o gün de grev olmasına rağmen yine okula gitti, dersine girdi, söz konusu üzücü hadise gerçekleşti. Kendisini çocuklara siper ettiğini öğrendik. O bizi gururlandırdı. Her ne kadar bir tarafımız çok hüzünlü olsa da kahraman bir anneye sahip olduğumuzu düşünüyoruz.” dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/74ed00f2-424a-4d42-9b8d-9c0c89a6d05b.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f5ffee05",
     "title": "Son dakika deprem oldu! AFAD, Kandilli deprem listesi!",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’un yıldız kalecisi André Onana, milli takıma olası dönüşü hakkında açıklamalarda bulundu. Son olarak Afrika Uluslar Kupası kadrosuna alınmayan başarılı file bekçisi, Kamerun Milli Takımı’na hizmet etmeye istekli olduğunu belirterek emekli olmadığını vurguladı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/onana-4.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_d4feef81",
-    "title": "Bakan Yardımcısı Çelik: Yıllık 60 bin civarında kolluk şikayetine bakıyoruz",
-    "source": "BirGün",
-    "time": "17/04/2026 18:25",
-    "link": "https://www.birgun.net/haber/bakan-yardimcisi-celik-yillik-60-bin-civarinda-kolluk-sikayetine-bakiyoruz-706524",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakan Yardımcısı ve Kolluk Gözetim Komisyonu Başkanı Ali Çelik, Türkiye genelinde yaklaşık 600 bin kolluk personelinin vatandaşların huzur ve güvenliği için görev yaptığını ifade ederek, yıllık ortalama 60 bin civarında kolluk şikayeti bulunduğunu ve bunlara ilişkin soruşturmalar açıldığını söyledi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/bakan-yardimcisi-celik-yillik-60-bin-civarinda-kolluk-sikayetine-bakiyoruz.jpg",
     "keyword": null
   }
 ]
