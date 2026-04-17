@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1b3ff198",
+    "title": "Petrol sert düştü: Yüzde 10'u aştı",
+    "source": "Ekonomim",
+    "time": "17/04/2026 16:48",
+    "link": "https://www.ekonomim.com/sektorler/enerji/petrol-sert-dustu-yuzde-10u-asti-haberi-888764",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fiyatlardaki düşüşte, İran&#039;ın Lübnan&#039;daki ateşkesin ardından Hürmüz Boğazı&#039;ndan geçişlerin serbest olduğunu duyurması etkili oldu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/13/opecnin-ham-petrol-uretimi-770-milyon-varil-dustu-jlc0_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_676c703d",
     "title": "Mehmet Şimşek açıkladı: Türkiye’nin COP31 yol haritası netleşiyor",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon&#039;da akademik başarıları ve örnek davranışları dolayısıyla Ali Soylu Anadolu İmam Hatip Lisesi öğrencileri, Trabzonspor Kulübü&#039;nü ziyaret etti.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/17/large/tsss.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_acabd5ab",
-    "title": "Resmi Gazete: Dört ilde acele kamulaştırma",
-    "source": "Diken",
-    "time": "17/04/2026 16:26",
-    "link": "https://www.diken.com.tr/resmi-gazete-dort-ilde-acele-kamulastirma/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Resmi Gazete: Dört ilde acele kamulaştırma 17.04.2026 DikenResmi Gazete'de yayınlanan karara göre dört ildeki bazı taşınmazlar acele kamulaştırılma yapılacak.\nThe post Resmi Gazete: Dört ilde acele kamulaştırma appeared first on #site_linkat 17.04.2026 .",
-    "image": null,
     "keyword": null
   }
 ]
