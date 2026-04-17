@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_48104251",
+    "title": "Bombalı saldırı yapacağını söyleyen liseli tutuklandı: Evinden cephanelik çıktı!",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 15:07",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/bombali-saldiri-yapacagini-soyleyen-liseli-tutuklandi-evinden-cephanelik-cikti-2496022",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta meydana gelen okul saldırısının ardından sosyal medyada bombalı saldırı yapacağını söyleyen şüpheli gözaltına alındı. Sanığın evinde yapılan aramada hücum yeleği, kamuflaj, kask, bıçak ve biber gazı ve çeşitli saldırı araçları ele geçirildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/66eb1d35-0735-419f-8b2b-f54bd2b8df5e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e86f9525",
     "title": "Gülistan Doku soruşturmasında flaş gelişme: İtirafçı olmak istiyor",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Kahramanmaraş'taki saldırıdan yaralı kurtulan Fatma: Arkadaşım bana siper oldu 17.04.2026 DikenKahramanmaraş'taki okul saldırısından 'arkadaşının siper olmasıyla kurtulan' Fatma İkra Çam, \"O okula gitmekten çok korkuyorum\" dedi.\nThe post Kahramanmaraş'taki saldırıdan yaralı kurtulan Fatma: Arkadaşım bana siper oldu appeared first on #site_linkat 17.04.2026 .",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_32edde90",
-    "title": "Trabzonspor Transferde Vites Yükseltti: Yıldız İçin Alman Devi İle Yarışta!",
-    "source": "Taka Gazetesi",
-    "time": "17/04/2026 14:47",
-    "link": "https://www.takagazete.com.tr/foto-galeri/trabzonspor-transferde-vites-yukseltti-yildiz-icin-alman-devi-ile-yarista",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Noel Aseko transferi için Avrupa devleriyle yarışıyor. Bayern Münih’in kararı süreci zorlaştırsa da girişimler sürüyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-12-112.jpg",
-    "keyword": "trabzon"
   }
 ]
