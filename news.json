@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6908034c",
+    "title": "MHP'de 2 il teşkilatı daha feshedildi",
+    "source": "BirGün",
+    "time": "17/04/2026 15:25",
+    "link": "https://www.birgun.net/haber/mhp-de-2-il-teskilati-daha-feshedildi-706491",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MHP'de İstanbul, Kütahya, Eskişehir ve Kars'ın ardından Çanakkale ve Bilecik il teşkilatı da feshedildi. Buradaki il başkanlıkları görevine atama yapıldığı duyuruldu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/mhp-de-bir-il-teskilati-daha-feshedildi.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_0f7f0702",
     "title": "İYİ Partili Ofluoğlu’ndan Trabzon Çıkışı! \"Gençlerimizi İşsizliğe ve Göçe Mahkum Etmeyeceğiz\"",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Karadeniz Teknik Üniversitesi Tıp Fakültesi akademisyen ve öğrencileri, Kahramanmaraş’taki okul saldırısını protesto etti.",
     "image": "https://resim.haber61.net/news/613197.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d4df1b79",
-    "title": "Moldova Cumhurbaşkanı Sandu'dan \"Karadeniz bölgesinde barış\" için işbirliği mesajı",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 15:05",
-    "link": "https://www.aa.com.tr/tr/gundem/moldova-cumhurbaskani-sandudan-karadeniz-bolgesinde-baris-icin-isbirligi-mesaji/3909277",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Moldova Cumhurbaşkanı Maya Sandu, Karadeniz bölgesinde barış için tüm ülkelerle birlikte çalışmaları gerektiğini söyledi.",
-    "image": null,
     "keyword": null
   }
 ]
