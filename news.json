@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0312a5b9",
+    "title": "Galatasaray'da seçim tarihi belli oldu",
+    "source": "BirGün",
+    "time": "17/04/2026 15:45",
+    "link": "https://www.birgun.net/haber/galatasaray-da-secim-tarihi-belli-oldu-706488",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray'da başkanlık seçiminin tarihi belli oldu. Alınan karara göre en geç 23 Mayıs'ta seçim gerçekleşecek.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/galatasaray-da-secim-tarihi-belli-oldu.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_d5992d6a",
     "title": "Trabzon'da 3. Kent İstişare Toplantısı Gerçekleşti!",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ailesinin, arkadaşlarının ve öğretmenlerinin ifadelerinden Kahramanmaraş'ta okul basan 13 yaşındaki İsa Aras Mersinli'nin ciddi psikolojik sorunları olduğunu anlıyoruz.\nBunun yanı sıra ortaya çıkan...Devamı için tıklayınız",
     "image": "",
-    "keyword": null
-  },
-  {
-    "id": "YRL_d75a0367",
-    "title": "Trabzon’da turizm zabıta ofislerinden 28 bin kişiye hizmet",
-    "source": "Haber61",
-    "time": "17/04/2026 15:25",
-    "link": "https://www.haber61.net/trabzon/trabzonda-turizm-zabita-ofislerinden-28-bin-kisiye-hizmet-h629867.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Büyükşehir Belediyesi’nin turizm zabıta ofisleri, 2024’ten bu yana 28 bin 311 yerli ve yabancı turiste rehberlik ve destek sağladı.",
-    "image": "https://resim.haber61.net/news/613203.jpg",
     "keyword": null
   }
 ]
