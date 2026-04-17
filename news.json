@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_2a827d00",
+    "title": "Batman’da 2 çocuk akıntıya kapıldı: 1 ölü, 1 yaralı",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 23:26",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/batman-da-2-cocuk-akintiya-kapildi-1-olu-1-yarali-2496138",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Batman'da çayan giren iki çocuk akıntıya kapılıp sürüklendi Çocuklardan birisi boğulurken diğeri hastaneye kaldırıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/20b77839-fede-468b-836d-846fcb7d5ba4.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_6f52c690",
     "title": "A101’in sahibi Carrefoursa’yı devralıyor",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "SES Dersim Şubesi, Gülistan Doku’nun hastane kayıtlarının silindiği ve ilgili başhekimin ödüllendirildiği iddialarına ilişkin açıklama yaptı. Açıklamada, “Gerçeklerin üzeri örtüldükçe yeni katliamların önü açılıyor” denildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342978.jpg",
     "keyword": null
-  },
-  {
-    "id": "SOC_1ef4d8a4",
-    "title": "@turkcuhabernet.bsky.social: Trabzonspor Başakşehir maçı ne zaman, saat kaçta, hangi kana...",
-    "source": "Bluesky",
-    "time": "17/04/2026 22:46",
-    "link": "https://bsky.app/profile/turkcuhabernet.bsky.social/post/3mjo6gj3q4i2o",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "Trabzonspor Başakşehir maçı ne zaman, saat kaçta, hangi kanalda? Ts Başakşehir muhtemel 11'ler!",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rdgicisfqo2scmmzz7zomcti/bafkreihxzae4egat5omfu2hlurcgh6ncftehoi6hl5ipgvaquh7qdlyjn4",
-    "keyword": "trabzonspor"
   }
 ]
