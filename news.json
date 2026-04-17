@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e8977996",
+    "title": "Altının kilogram fiyatı 6 milyon 965 bin liraya yükseldi",
+    "source": "Anadolu Ajansı",
+    "time": "17/04/2026 16:45",
+    "link": "https://www.aa.com.tr/tr/ekonomi/altinin-kilogram-fiyati-6-milyon-965-bin-liraya-yukseldi/3909631",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda (KMKTP) standart altının kilogram fiyatı, günün sonunda 6 milyon 965 bin liraya çıktı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_1c58f011",
     "title": "Rize ve Artvin ortak turizm hamlesini fuarla başlattı",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "KCT 1461 Trabzon FK, genç kadrosuyla dikkat çekiyor. Kırklarelispor maçı öncesi takım, gelecek sezonun temellerini atmaya odaklandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/1461-206.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_5f59009a",
-    "title": "Erzincan'da korkutan deprem",
-    "source": "Sözcü",
-    "time": "17/04/2026 16:08",
-    "link": "https://www.sozcu.com.tr/erzincan-da-4-1-deprem-p312135",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Erzincan'da korkutan deprem",
-    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/sozcu-son-dakika-aciljpg-mp-2HQqSxk68YgXG_O1T0w.jpg",
-    "keyword": null
   }
 ]
