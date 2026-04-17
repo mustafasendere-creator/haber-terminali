@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1b3d06f9",
+    "title": "Manisa'da yılın ilk kiraz hasadı yapıldı",
+    "source": "TRT Haber",
+    "time": "17/04/2026 17:47",
+    "link": "https://www.trthaber.com/haber/ekonomi/manisada-yilin-ilk-kiraz-hasadi-yapildi-942062.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin erkenci kiraz üretim merkezlerinden Manisa'nın Şehzadeler ilçesinde yılın ilk ürünleri, sembolik açık artırmada kilogramı 6 bin liradan alıcı buldu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_1e707c36",
     "title": "Zeytinyağı üretiminde Türkiye rüzgarı: Üretim yüzde 92 arttı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran'ın Hürmüz Boğazı kararı altın fiyatlarına da yansıdı. Altının gram fiyatı, yüzde 2.05 artarak 7 bin liraya yükseldi. Altının onsu da yüzde 1.49 arttı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/iran-in-hurmuz-karari-sonrasi-altin-fiyatlari-ucusa-gecti.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_2b2c91cb",
-    "title": "Akaryakıta rekor indirim gelebilir",
-    "source": "61 Saat",
-    "time": "17/04/2026 17:25",
-    "link": "https://www.61saat.com/akaryakita-rekor-indirim-gelebilir",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İRAN'dan gelen son dakika Hürmüz Boğazı kararı piyasalara bahar havası yaşattı. Hürmüz Boğazı'nın açılması ile birlikte altın fiyatları anında 7 bin liranın üstüne sıçradı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/yayaaa.png",
     "keyword": null
   }
 ]
