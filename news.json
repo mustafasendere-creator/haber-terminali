@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ab2db72b",
+    "title": "Maraş'taki okul saldırısı: 5 öğrenci yoğun bakımda",
+    "source": "BirGün",
+    "time": "18/04/2026 01:05",
+    "link": "https://www.birgun.net/haber/maras-taki-okul-saldirisi-5-ogrenci-yogun-bakimda-706426",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş Valiliği, Ayser Çalık Ortaokulu’ndaki silahlı saldırıda yaralanan öğrencilerin durumuna ilişkin açıklama yaptı. Açıklamada, \"Yaralanan 8 öğrencimizin tedavileri farklı hastanelerde devam etmekte olup, bu öğrencilerimizden 5’inin tedavisi yoğun bakımda sürdürülmektedir\" denildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/maras-taki-okul-saldirisi-5-ogrenci-yogun-bakimda.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_59c04339",
     "title": "16 NİSAN 2026 REYTİNG SONUÇLARI | Sürpriz program zirvede!",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uşak’ta bir otomobilin evin bahçe duvarına çarpıp devrilmesi sonucu meydana gelen kazada 1 kişi hayatını kaybetti, 1 kişi ağır yaralandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/17/basliksiz-1-tulf_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_33990997",
-    "title": "Kayseri’de iki otomobil çarpıştı: 1 yaralı",
-    "source": "Gazete Duvar",
-    "time": "18/04/2026 00:05",
-    "link": "https://www.gazeteduvar.com.tr/kayseride-iki-otomobil-carpisti-1-yarali-haber-1765825",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayseri’nin Kocasinan ilçesinde önünde ilerleyen otomobile arkadan çarpan otomobil sürücüsü yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/17/basliksiz-1-d3o9_cover.jpg",
     "keyword": null
   }
 ]
