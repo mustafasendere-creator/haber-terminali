@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bd340c2d",
+    "title": "Hatay'da turfanda soğan hasadına başlandı",
+    "source": "Anadolu Ajansı",
+    "time": "17/04/2026 14:25",
+    "link": "https://www.aa.com.tr/tr/ekonomi/hatayda-turfanda-sogan-hasadina-baslandi/3909237",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'ın Reyhanlı ilçesinde hasadına başlanan turfanda soğandan 122 bin tonun üzerinde rekolte bekleniyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_91339561",
     "title": "Trabzon'da zamlı ekmek tepkisi: Vatandaş ne diyor?",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da dört çocuk harçlıklarını biriktirip kahvaltı yapmaya gelmişler. Gülerken çevreyi rahatsız etmemeye dikkat ediyor,ağızlarında lokma varken konuşmuyor ya da ağzını kapatarak cevap veriyor, soru kendisine yöneltilmemişse araya girmiyorlar. Babaları  x.com",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "SOC_82456bf0",
-    "title": "@wmata-incidents.bsky.social: Bus incident reported for routes: C31.\nAlert: C31 Service Al...",
-    "source": "Bluesky",
-    "time": "17/04/2026 13:52",
-    "link": "https://bsky.app/profile/wmata-incidents.bsky.social/post/3mjnfuaucmm2t",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "Bus incident reported for routes: C31.\nAlert: C31 Service Alert: Expect delays until 7:00pm. Track your bus in real time at https://metropulse.wmata.com/bus\nUpdated: 2026-04-16 17:05:57 (Eastern)",
-    "image": null,
-    "keyword": "c31"
   }
 ]
