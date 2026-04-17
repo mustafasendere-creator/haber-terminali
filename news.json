@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_15d11d1c",
+    "title": "ATO, ‘5. Uluslararası Ankara Marka Buluşmaları’ etkinliğini tanıttı: ATO’dan yapay zeka ile markaları bir araya getiren etkinlik",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 14:48",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/ato-5-uluslararasi-ankara-marka-bulusmalari-etkinligini-tanitti-ato-dan-yapay-zeka-ile-markalari-bir-araya-getiren-etkinlik-2496014",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Ticaret Odası (ATO), Cermodern Flow Dijital Salon’da yaptığı basın toplantısıyla 24-25 Nisan tarihlerinde ATO Congresium’da yaşama geçirilecek olan “5. Uluslararası Ankara Marka Buluşmaları” etkinliğini tanıttı. ATO Yönetim Kurulu Başkanı Gürsel Baran, etkinliğin bu yıl markaların yapay zeka ile olan etkileşimini ele alacağını anlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/90291327-18f6-4016-ab30-ae4364ee27e0.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_944c9080",
     "title": "Son dakika... MHP'deki 'tasfiye rüzgarı' sürüyor: Bilecik ve Çanakkale il teşkilatları da feshedildi!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Avrupa'da hükümetlerin, kamu çalışanlarının ABD merkezli mesajlaşma uygulaması WhatsApp ve Signal kullanımlarını sınırlandırmaya başladığı bildirildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_59a1b914",
-    "title": "Elektrikte ortak standart: Dünya 230 voltta buluşabilir",
-    "source": "TRT Haber",
-    "time": "17/04/2026 14:27",
-    "link": "https://www.trthaber.com/haber/yasam/elektrikte-ortak-standart-dunya-230-voltta-bulusabilir-942024.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünya, şebeke gerilimi için 230 voltta buluşmak üzere adımlar atıyor. Buna rağmen Türk vatandaşları Amerika kıtasına geçecekse 110 volta, Suudi Arabistan gibi ülkelere gidecekse farklı priz tiplerine hazırlıklı olmak zorunda. Bu ayrımın temelinde ise yine TeslaEdison ayrılığı var.",
     "image": null,
     "keyword": null
   }
