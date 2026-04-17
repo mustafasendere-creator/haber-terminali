@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cf868d36",
+    "title": "Rize'de Uluslararası Kaçkar Turizm Fuarı başladı",
+    "source": "TRT Haber",
+    "time": "17/04/2026 17:26",
+    "link": "https://www.trthaber.com/haber/kultur-sanat/rizede-uluslararasi-kackar-turizm-fuari-basladi-942059.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rize ve Artvin Valiliğince bu yıl ilk kez düzenlenen \"Uluslararası Kaçkar Turizm Fuarı\" başladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_eccd82a5",
     "title": "Okul saldırıları: Yusuf Tekin'e istifa çağrıları büyüyor",
     "source": "DW Türkçe",
@@ -946,17 +958,5 @@
     "summary": "🇹🇷 Resmi Gazete'de yayımlandı: Birçok ilde acele kamulaştırma kararları\nAKP Genel Başkanı ve Cumhurbaşkanı Tayyip Erdoğan imzasıyla Resmî Gazete’de yayımlanan kararlarda, Urfa, Trabzon, Antalya, Gaziantep, Mersin, Adana ve Siirt’te yol proj…\n#Türkiye #Turkiye #Haber #Gündem #Gundem #BirGün #BirGun",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_4a0f1d92",
-    "title": "Tanju Özcan'ın duruşmasında gerginlik: Avukat Uğur Poyraz salondan çıkarıldı",
-    "source": "OdaTV",
-    "time": "17/04/2026 16:48",
-    "link": "https://www.odatv.com/guncel/bolu-belediye-baskani-tanju-ozcanin-durusmasinda-gerginlik-avukat-ugur-poyraz-mahkemeden-cikarildi-120143712",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bolu Belediye Başkanı Tanju Özcan&#039;ın bugün görülen &quot;şantaj&quot; davasında tansiyon yükseldi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/17/tanju-ozcana-hapis-istemi-la0d.jpg",
-    "keyword": null
   }
 ]
