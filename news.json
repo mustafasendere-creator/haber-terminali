@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f10bd6e1",
+    "title": "İranlılar kırılgan ateşkes ortamında ABD'yle bir anlaşma olup olmayacağını merak ediyor",
+    "source": "BBC Türkçe",
+    "time": "17/04/2026 14:05",
+    "link": "https://www.bbc.com/turkce/articles/c62le6zwd20o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BBC'nin kıdemli dış haberler muhairi Lyse Doucet, savaşın yeniden başlamasını önlemek için diplomatik çabaların yoğunlaştığı bir dönemde İran'dan bildiriyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_28a5552d",
     "title": "Uydu görüntüleriyle İsrail'in Lübnan'ın güneyindeki yıkımı",
     "source": "BBC Türkçe",
@@ -946,17 +958,5 @@
     "summary": "ABD Başkanı Donald Trump'ın \"sona ermesi gerekiyor\" dediği İran savaşında dikkatler Pakistan'da imzalanacağı belirtilen ABD-İran'ın mutabakat zaptına çevrildi. Bu arada Paris de Hürmüz konferansına ev sahipliği yapıyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "SOC_e70855ae",
-    "title": "@id-journal.bsky.social: In PR 2017, ZIKV seroprevalence ↓ from 20% to 9.6% with 85% ...",
-    "source": "Bluesky",
-    "time": "17/04/2026 13:48",
-    "link": "https://bsky.app/profile/id-journal.bsky.social/post/3mjnkvawves2u",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "In PR 2017, ZIKV seroprevalence ↓ from 20% to 9.6% with 85% AGO use 🦟. Stronger effect in older adults, large households, homebodies. AGOs cut Zika ⚡️, pesticide-free.",
-    "image": null,
-    "keyword": "agos"
   }
 ]
