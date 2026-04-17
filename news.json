@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_893f3738",
+    "title": "İsrail ile Lübnan arasındaki ateşkes sonrası güneye doğru dönüşler başladı",
+    "source": "Haber Global",
+    "time": "17/04/2026 16:27",
+    "link": "https://haberglobal.com/dunya/israil-ile-lubnan-arasindaki-ateskes-sonrasi-guneye-dogru-donusler-basladi-519437",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ile Lübnan arasındaki ateşkesin yürürlüğe girmesinin ardından güneye doğru dönüşler başladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/israil-ile-lubnan-arasindaki-ateskes-sonrasi-guneye-dogru-donusler-basladi-lrxq.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b2bf99ab",
     "title": "Parlamentolar Arası Birliğin genel kurulu kapsamında Türkiye ve BMnin sahadaki işbirliği konuşuldu",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Sahipsiz hayvanlara yönelik çalışmalar kapsamında Trabzon İli Sahipsiz Hayvanları Koruma Birliği (TİSKOB) kuruldu. Başkanlığını Vali Tahir Şahin’in yaptığı birliğin birinci başkan vekilliğine Büyükşehir Belediye Başkanı Ahmet Metin Genç seçildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/hayvan.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_e47123f5",
-    "title": "Okul saldırılarına karşı ABD ve Avrupa ne yapıyor?",
-    "source": "DW Türkçe",
-    "time": "17/04/2026 16:07",
-    "link": "https://www.dw.com/tr/okul-saldırılarına-karşı-abd-ve-avrupa-ne-yapıyor/a-76829586",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş'taki okul saldırısı sonrası eğitim kurumlarında güvenliğin nasıl artırılacağı tartışılıyor. Peki konu ABD ve Avrupa'da nasıl ele alınıyor?",
-    "image": null,
-    "keyword": null
   }
 ]
