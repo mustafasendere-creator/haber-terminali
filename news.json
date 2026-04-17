@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_38f2a92a",
+    "title": "Macron: \"Hürmüz Boğazı'nın tamamen, derhal ve koşulsuz olarak yeniden açılmasını talep ediyoruz\"",
+    "source": "Anadolu Ajansı",
+    "time": "17/04/2026 18:45",
+    "link": "https://www.aa.com.tr/tr/dunya/macron-hurmuz-bogazinin-tamamen-derhal-ve-kosulsuz-olarak-yeniden-acilmasini-talep-ediyoruz/3909829",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Hürmüz Boğazı’na ilişkin son gelişmeleri memnuniyetle karşıladıklarını belirterek, Boğaz’ın tamamen, derhal ve koşulsuz olarak açılmasını istedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7562618e",
     "title": "AK Parti Gençlik Kolları dünya barışında Türkiye'nin rolünü gençlere anlatıyor",
     "source": "Anadolu Ajansı",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Heyelanın meydana geldiği HakkariVan kara yolunda ulaşım kontrollü sağlanıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_ddd23f6a",
-    "title": "Mersin merkezli yasa dışı bahis operasyonunda 25 tutuklama",
-    "source": "TRT Haber",
-    "time": "17/04/2026 18:06",
-    "link": "https://www.trthaber.com/haber/turkiye/mersin-merkezli-yasa-disi-bahis-operasyonunda-25-tutuklama-942070.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin merkezli 4 ildeki \"yasa dışı bahis\" operasyonunda gözaltına alınan 25 zanlı tutuklandı.",
     "image": null,
     "keyword": null
   }
