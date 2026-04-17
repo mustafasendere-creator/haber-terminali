@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4383b5a",
+    "title": "İşçiler üretimi durdurdu: Bekaert işçisi grevde",
+    "source": "BirGün",
+    "time": "18/04/2026 01:45",
+    "link": "https://www.birgun.net/haber/isciler-uretimi-durdurdu-bekaert-iscisi-grevde-706421",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli’de Bekaert fabrikasında toplu iş sözleşmesi görüşmelerinde uzlaşma sağlanamaması üzerine işçiler greve çıktı. Özçelik-İş Sendikası’nın örgütlü olduğu fabrikada grev pankartı asılırken, işçiler 1,5 yıllık sözleşmesiz dönemin telafisini ve ücret artışını talep ediyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/isciler-uretimi-durdurdu-bekaert-iscileri-grevde.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3c2d08f7",
     "title": "Negligence underground, conflict above ground",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İşçiler, okul saldırılarını yalnızca güvenlik değil, ekonomik koşullar, aile yapısı ve eğitim politikalarıyla bağlantılı bir sorun olarak değerlendirdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/342964.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_797fa242",
-    "title": "Okulda güvenlik ahlak bekçiliğinden ibaret",
-    "source": "Evrensel",
-    "time": "18/04/2026 00:25",
-    "link": "https://www.evrensel.net/haber/5980130/okulda-guvenlik-ahlak-bekciliginden-ibaret",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Okula kasap bıçağı getiren öğrenci sadece uyarı cezası alırken, her gün bizim formamızın boyu, makyajımız inceleniyor. Okulda disiplin dedikleri ‘ahlak’ polisliğinden ibaret. Bu yaklaşımın sonuçlarıyla en acı şekliyle yüzleşiyoruz.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343459.jpg",
     "keyword": null
   }
 ]
