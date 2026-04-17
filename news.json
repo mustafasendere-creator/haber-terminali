@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bcf70aac",
+    "title": "Trump: İran'la bir iki gün içinde nihai bir anlaşmaya varabiliriz",
+    "source": "TRT Haber",
+    "time": "17/04/2026 21:25",
+    "link": "https://www.trthaber.com/haber/dunya/trump-iranla-bir-iki-gun-icinde-nihai-bir-anlasmaya-varabiliriz-942079.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'la \"bir veya iki gün içinde\" anlaşmaya varmalarının muhtemel olduğu değerlendirmesinde bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_3e9c4fc1",
     "title": "Çekmeköy’de velilerden okul saldırılarını protesto: Yetkililer şiddete karşı önlem almalı",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "ABD Başkanı Donald Trump, İran'la bir sonraki doğrudan görüşmenin bu hafta sonu olabileceğini belirterek, “İran'la anlaşma yapmaya çok yakınız” dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/trump-iran-la-anlasmaya-cok-yakiniz.webp",
-    "keyword": null
-  },
-  {
-    "id": "YRL_b00d159b",
-    "title": "Trabzon'da tuvalet ücretleri zamlandı",
-    "source": "Günebakış",
-    "time": "17/04/2026 20:45",
-    "link": "https://www.gunebakis.com.tr/trabzonda-tuvalet-ucretleri-zamlandi/27831695",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Atatürk Alanı’nda tuvalet ücreti 5 TL’den 10 TL’ye çıkarıldı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/tuvalet-zamlandi.jpg",
     "keyword": null
   }
 ]
