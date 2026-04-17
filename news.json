@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6f52c690",
+    "title": "A101’in sahibi Carrefoursa’yı devralıyor",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 23:26",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/a101-in-sahibi-carrefoursa-yi-devraliyor-2496141",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yeni Mağazacılık AŞ, Sabancı Holding ve Carrefour Grubu ile anlaşarak Carrefoursa’nın yüzde 89,28’lik hissesini devralma sürecini başlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e5d3417a-6846-4836-b0a2-020db5e13702.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_330f354b",
     "title": "İBB 2025 yılı faaliyet Raporu’nu Başkan Vekili Nuri Aslan açıkladı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Başakşehir maçı ne zaman, saat kaçta, hangi kanalda? Ts Başakşehir muhtemel 11'ler!",
     "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rdgicisfqo2scmmzz7zomcti/bafkreihxzae4egat5omfu2hlurcgh6ncftehoi6hl5ipgvaquh7qdlyjn4",
     "keyword": "trabzonspor"
-  },
-  {
-    "id": "GND_7e8b170b",
-    "title": "Turkuaz Mahalle Dayanışması: “Eğitimde şiddet yapısal bir sorun haline geldi”",
-    "source": "Evrensel",
-    "time": "17/04/2026 22:46",
-    "link": "https://www.evrensel.net/haber/5980178/turkuaz-mahalle-dayanismasi-egitimde-siddet-yapisal-bir-sorun-haline-geldi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara’da Turkuaz Mahalle Dayanışması’nın çağrısıyla yapılan açıklamada, okul saldırılarının münferit olmadığı vurgulanarak eğitimde şiddetin yapısal bir sorun haline geldiği belirtildi, bilimsel ve kamusal eğitim çağrısı yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343527.jpg",
-    "keyword": null
   }
 ]
