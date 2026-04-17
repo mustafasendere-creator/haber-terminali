@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_05e29a2c",
+    "title": "İran Hürmüz Boğazı'nı açtığını duyurdu",
+    "source": "DW Türkçe",
+    "time": "17/04/2026 17:07",
+    "link": "https://www.dw.com/tr/iran-hürmüz-boğazı-nı-açtığını-duyurdu/a-76833765",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanı Abbas Arakçi, Lübnan'da da geçerli olan ateşkesin sonuna kadar Hürmüz Boğazı'nın tüm ticari gemilere açıldığını duyurdu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_0192079d",
     "title": "Trump'tan İran'a: Teşekkürler ama deniz ablukası sürecek",
     "source": "Diken",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Akçaabat’ta yurt ve okul arasındaki ulaşım sorunu büyüyor. Öğrenciler düzenli otobüs hattı talep ediyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/5e6a4dbc-32d7-43b8-8931-a2386eb0b464.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7af44fee",
-    "title": "Bakanlık ifşa etti: Halka at ve eşek eti yedirmişler",
-    "source": "BirGün",
-    "time": "17/04/2026 16:45",
-    "link": "https://www.birgun.net/haber/bakanlik-ifsa-etti-halka-at-ve-esek-eti-yedirmisler-706504",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tarım ve Orman Bakanlığı gıda denetimlerinde uygunsuzluk tespit edilen markaları paylaştı. Bir işletmenin at ve eşek eti yedirdiği ortaya çıktı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/bakanlik-ifsa-etti-halka-at-ve-esek-eti-yedirmisler.jpg",
     "keyword": null
   }
 ]
