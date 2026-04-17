@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1b973ebe",
+    "title": "Avustralya vatandaşlarına vize muafiyeti",
+    "source": "Habertürk",
+    "time": "17/04/2026 17:07",
+    "link": "https://www.haberturk.com/avustralya-vatandaslarina-vize-muafiyeti-resmi-gazete-de-3877962",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avustralya vatandaşlarına, Türkiye'ye yapacakları turistik amaçlı seyahatlerde vize muafiyeti sağlanmasına ilişkin Cumhurbaşkanı Kararı Resmi Gazete'de yayımlandı",
+    "image": "https://im.haberturk.com/l/2026/04/17/ver1776377004/3877962/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_c6ef3b0f",
     "title": "İSKİ İstanbul su kesintileri",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "",
     "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-17-at-155514.jpeg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_88eebb9d",
-    "title": "Travel + Leisure, dünyanın en lüks yeni otellerini seçti",
-    "source": "Euronews",
-    "time": "17/04/2026 16:46",
-    "link": "http://tr.euronews.com/gezi/2026/04/17/travel-leisure-dunyanin-en-luks-yeni-otellerini-secti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bu yılın 'It List' seçkisinde, Maldivler’de geceliği 11 bin euro olan bir otel, Güney Afrika’da altı süitlik çadırlı kamp ve Hindistan’ın ikinci en yüksek zirvesine bakan lüks bir ekolojik konaklama tesisi öne çıkıyor.",
-    "image": null,
-    "keyword": null
   }
 ]
