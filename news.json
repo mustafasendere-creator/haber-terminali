@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e4de2692",
+    "title": "BM: Gazze'de günde ortalama 47 kadın ve kız çocuğu öldürüldü",
+    "source": "TRT Haber",
+    "time": "17/04/2026 17:47",
+    "link": "https://www.trthaber.com/haber/dunya/bm-gazzede-gunde-ortalama-47-kadin-ve-kiz-cocugu-olduruldu-942064.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler Kadın Birimi UN Women Cenevre Ofisi Direktörü Sofia Calltorp, Ekim 2023'ten Aralık 2025'e kadar Gazze'de 38 binden fazla kadın ve kız çocuğunun öldürüldüğünü belirterek \"Bu da günde ortalama 47 kadın ve kız çocuğunun öldürüldüğü anlamına geliyor.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_28a68a94",
     "title": "Trabzon’un geleceği masaya yatırıldı: “Ne kadar yorulsak azdır”",
     "source": "Karadeniz Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Emekli olduktan sonra eksik ödemelerini fark eden bir işçinin açtığı davada Yargıtay, ücret farkı hesaplamasında emsal teşkil edecek yeni bir kriter belirledi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/emekli-isci-basvurdu-yargitaydan-emsal-ucret-zammi-karari.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_3905891a",
-    "title": "Trabzon’da balık tezgahlarında son durum",
-    "source": "Haber61",
-    "time": "17/04/2026 17:25",
-    "link": "https://www.haber61.net/trabzon/trabzonda-balik-tezgahlarinda-son-durum-h629843.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "15 Nisan itibarıyla başlayan av yasağının ardından balık tezgahlarında kültür balıkları öne çıktı. Somon, en çok tercih edilen ürün oldu.",
-    "image": "https://resim.haber61.net/news/613162.jpg",
     "keyword": null
   }
 ]
