@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c8c30c4c",
+    "title": "İran savaşı başladığından beri Hürmüz Boğazı'ndan ilk yolcu gemisi geçti",
+    "source": "Euronews",
+    "time": "17/04/2026 23:45",
+    "link": "http://tr.euronews.com/2026/04/17/iran-savasi-basladigindan-beri-hurmuz-bogazindan-ilk-yolcu-gemisi-gecti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran ve ABD, savaşın başından bu yana fiilen kapalı olan Hürmüz Boğazı'nın ateşkes boyunca ticari trafiğe tamamen açık olacağını açıkladı. Bunun ardından su yolundan ilk yolcu gemisini geçti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8fd06ba1",
     "title": "Otomobil ile traktör çarpıştı: 3 yaralı",
     "source": "Gazete Duvar",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, COP31 öncesinde Türkiye’nin dokuz maddeden oluşan iklim eylem gündemini açıkladı. Şimşek, sürecin yalnızca taahhütlerle sınırlı kalmaması, somut ve ölçülebilir sonuçlara odaklanması gerektiğini vurguladı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/06/mehmet-simsek-asil-konu-tum-bu-kazanimlari-kalici-hale-getirecek-yapisal-donusum-pndk_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_345eeab3",
-    "title": "CarrefourSA’nın satışı için anlaşma tamamlandı: İşte yeni sahibi...",
-    "source": "Ekonomim",
-    "time": "17/04/2026 22:47",
-    "link": "https://www.ekonomim.com/ekonomi/carrefoursanin-satisi-icin-anlasma-tamamlandi-iste-yeni-sahibi-haberi-888814",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sabancı Holding ve Fransız Carrefour, CarrefourSA&#039;daki toplam yüzde 89,28&#039;lik hissesini A101 marketler zincirinin sahibi olan Yeni Mağazacılık AŞ&#039;ye devretmek üzere anlaşmaya vardı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/17/carrefoursanin-satisi-icin-anlasma-tamamlandi-iste-yeni-sahibi-a4dl_cover.jpg",
     "keyword": null
   }
 ]
