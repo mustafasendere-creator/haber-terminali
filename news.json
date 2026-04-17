@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_de862428",
+    "title": "ADF 2026'da 'Suriye'nin İstikrara Giden Yolu' başlıklı panel düzenlendi",
+    "source": "TRT Haber",
+    "time": "17/04/2026 23:46",
+    "link": "https://www.trthaber.com/haber/gundem/adf-2026da-suriyenin-istikrara-giden-yolu-baslikli-panel-duzenlendi-942081.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakan Yardımcısı Musa Kulaklıkaya, Suriye'nin her zaman dış işlerinin en önemli noktalarından biri olduğunu, ülkedeki gelişmelerin Türkiye'yi doğrudan etkilediğini söyledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_64de741d",
     "title": "İstanbul'dan ilk hac kafilesi kutsal topraklara uğurlandı",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Çaykur Rizespor Fenerbahçe deplasmanında VAR kararlarıyla gündeme geldi. Yeşil-Mavililer öne geçtiği maçtan 2-2’lik sonuçla ayrıldı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/rizespor-31.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f5ab0447",
-    "title": "Konyaspor, deplasmanda Antalyaspor'u 2-0 mağlup etti",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 23:05",
-    "link": "https://www.aa.com.tr/tr/spor/konyaspor-deplasmanda-antalyasporu-2-0-maglup-etti/3910013",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TÜMOSAN Konyaspor, Trendyol Süper Lig'in 30. haftasında deplasmanda Hesap.com Antalyaspor'u 2-0 yendi.",
-    "image": null,
     "keyword": null
   }
 ]
