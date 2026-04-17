@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_03e63d83",
+    "title": "Borsa İstanbul tüm zamanların en yüksek günlük ve haftalık kapanışını gerçekleştirdi",
+    "source": "Anadolu Ajansı",
+    "time": "17/04/2026 18:45",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-haftayi-rekorlarla-tamamladi/3909821",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Borsa İstanbul'da BIST 100 endeksi, 14.601,12 puanla rekor kırarken, 14.587,93 seviyesiyle tüm zamanların en yüksek günlük ve haftalık kapanışını gerçekleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_f9f7cfb0",
     "title": "Kahramanmaraş’taki okul saldırısı sonrası: 7 tutuklama",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Okul çağındaki çocukları, diğer öğrencilere ve öğretmenlere karşı şiddet içerikli eylemler gerçekleştirmeye teşvik ettiği ve şiddete yönlendirici paylaşımlar yaptığı belirlenen YouTube'daki \"Minecraft Parodileri\" isimli hesaba erişim engeli getirildi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/youtubeda-siddete-tesvik-edici-paylasimlar-yapan-minecraft-parodileri-hesabina-erisim-engeli-0kxp.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_7f8105db",
-    "title": "Cumhurbaşkanı Erdoğan'dan Antalya Diplomasi Forumu paylaşımı",
-    "source": "TRT Haber",
-    "time": "17/04/2026 18:06",
-    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-antalya-diplomasi-forumu-paylasimi-942068.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Beş sene önce diplomasinin nabzını tutacak küresel bir platform hedefiyle çıktığımız yolda bugün görüyoruz ki Antalya Diplomasi Forumu; küresel aklın, global vicdanın ve geleceğe dair umudun ortak kürsüsü haline gelmiştir\" açıklamasını yaptı.",
-    "image": null,
     "keyword": null
   }
 ]
