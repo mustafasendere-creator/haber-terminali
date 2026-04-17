@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_acdb08ab",
+    "title": "Erdoğan, Azerbaycan Cumhurbaşkanı Aliyev ile görüştü",
+    "source": "Ekonomim",
+    "time": "17/04/2026 20:27",
+    "link": "https://www.ekonomim.com/gundem/erdogan-azerbaycan-cumhurbaskani-aliyev-ile-gorustu-haberi-888801",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile görüştü.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/17/erdogan-azerbaycan-cumhurbaskani-aliyev-ile-gorustu-bv3m_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1e72ca3f",
     "title": "Asvel- Fenerbahçe Beko maçı ne zaman?",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Alman hava yolu şirketi Lufthansa'da pilotların grevi bugün de devam ederken, şirketin maliyet artışları gerekçesiyle iştiraki CityLine'ın operasyonlarını durdurma kararı alması krizi derinleştirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a8f07fe0",
-    "title": "Eski Tunceli Valisi Tuncay Sonel gözaltına alındı",
-    "source": "TRT Haber",
-    "time": "17/04/2026 19:46",
-    "link": "https://www.trthaber.com/haber/gundem/eski-tunceli-valisi-tuncay-sonel-gozaltina-alindi-942073.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli Cumhuriyet Başsavcılığının yürütmekte olduğu Gülistan Doku soruşturması kapsamında dönemin Tunceli Valisi Tuncay Sonel Elazığda gözaltına alındı.",
     "image": null,
     "keyword": null
   }
