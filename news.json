@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7f1a6e15",
+    "title": "Manisa'da göçük altında kalan işçi öldü",
+    "source": "TRT Haber",
+    "time": "17/04/2026 14:47",
+    "link": "https://www.trthaber.com/haber/turkiye/manisada-gocuk-altinda-kalan-isci-oldu-942041.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'nın Şehzadeler ilçesinde kanalizasyon hattı çalışması sırasında meydana gelen göçükte 1 işçi hayatını kaybetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_00fed032",
     "title": "ABD Elçisi Barrack: Bölgelerin kendi sorunlarını çözdüğü bir düzen kuruluyor",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da av yasağı sonrası balık tezgahlarında kültür balıkları öne çıktı. Somon ise uygun fiyatıyla en çok tercih edilen tür oldu.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/balik-fiyatlari-1-1.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_0b11034a",
-    "title": "Adalet bakanı 'Bazı çocuk suçlarından aileleri de sorumlu tutulabilir' demiş",
-    "source": "Diken",
-    "time": "17/04/2026 14:27",
-    "link": "https://www.diken.com.tr/adalet-bakani-bazi-cocuk-suclarindan-aileleri-de-sorumlu-tutulabilir-demis/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet bakanı 'Bazı çocuk suçlarından aileleri de sorumlu tutulabilir' demiş 17.04.2026 DikenAdalet Bakanı Akın Gürlek, çocuklarca işlenen şiddet ve adam öldürme gibi suçlardan, ailelerinin de sorumlu tutulabileceklerini söylemiş.\nThe post Adalet bakanı 'Bazı çocuk suçlarından aileleri de sorumlu tutulabilir' demiş appeared first on #site_linkat 17.04.2026 .",
-    "image": null,
-    "keyword": null
   }
 ]
