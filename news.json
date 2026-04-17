@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4e98ca4c",
+    "title": "Kocaeli’de işçiler üretimi durdurdu: ‘Kayıpların telafisi için grev!’",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 18:06",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/kocaeli-de-isciler-uretimi-durdurdu-kayiplarin-telafisi-icin-grev-2496087",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli’de Bekaert fabrikasında toplu iş sözleşmesinde uzlaşma sağlanamayınca işçiler greve başladı. İşçiler, 1,5 yıllık sözleşmesiz dönemin telafisini ve ücret artışı talep ediyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/39276751-3496-4aea-95a0-2da1a264b6d1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d7fa2b54",
     "title": "İzmir’de okul saldırısı hazırlığı iddiası: 8 öğrenci gözaltına alındı",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AFAD'ın aktardığına göre Ege Denizi'nde 4.1 büyüklüğünde bir deprem meydana geldi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/ege-denizi-nde-4-1-lik-deprem.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_b3fab099",
-    "title": "Erzincan'da 4.1 büyüklüğünde deprem",
-    "source": "BirGün",
-    "time": "17/04/2026 17:45",
-    "link": "https://www.birgun.net/haber/erzincan-da-4-1-buyuklugunde-deprem-706515",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AFAD'ın paylaştığı verilere göre, saat 15.40'ta merkez üssü Erzincan'ın Üzümlü ilçesi olan 4.1 büyüklüğünde bir deprem yaşandı. Depremin derinliği 10.94 kilometre olarak kaydedildi. Valilik can ve mal kaybının yaşanmadığını duyurdu.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/erzincan-da-4-1-buyuklugunde-deprem.jpg",
     "keyword": null
   }
 ]
