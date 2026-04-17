@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5f2f38cb",
+    "title": "Karabacak \"Barajı doldurduk suyu çiftçimize ulaştırdık\"",
+    "source": "Ekonomim",
+    "time": "17/04/2026 13:51",
+    "link": "https://www.ekonomim.com/sehirler/karabacak-baraji-doldurduk-suyu-ciftcimize-ulastirdik-haberi-888734",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beylikova Belediyesi, tarımsal üretimi desteklemek ve çiftçilerin su ihtiyacını karşılamak amacıyla yürüttüğü çalışmalar sonucunda Beylikova Barajı’nda doluluk oranı yüzde 95 seviyesine ulaştı. Barajdaki mevcut debinin de katkısıyla toplam su miktarı 23 milyon metreküpe yükseldi. Beylikova Belediye Başkanı Hakan Karabacak, “50 bin dekarlık tarım arazisine su ulaştırdık” dedi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/17/karabacak-baraji-doldurduk-suyu-ciftcimize-ulastirdik-nzza_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_3cf53d6c",
     "title": "Trabzonspor'da iki ayrılık kesinleşti! Sezon sonu gidiyorlar",
     "source": "Kuzey Ekspres",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Akçaabat’ta trafik ışıklarında meydana gelen zincirleme kazada can kaybı yaşanmadı. Olay sonrası uzun araç kuyrukları oluştu.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_eb963ffa",
-    "title": "Trabzon’da 65 yaş üstü kadınlar için örnek proje: Hayat boyu öğreniyorlar",
-    "source": "Haber61",
-    "time": "17/04/2026 13:46",
-    "link": "https://www.haber61.net/trabzon/trabzonda-65-yas-ustu-kadinlar-icin-ornek-proje-hayat-boyu-ogreniyorlar-h629846.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da başlatılan eğitim modeliyle 65 yaş üstü kadınlar sosyal hayata katılıyor, yeni beceriler kazanıyor ve aktif bir yaşam sürdürüyor.",
-    "image": "https://resim.haber61.net/news/613166.jpg",
-    "keyword": "trabzon"
   }
 ]
