@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0b38c8ee",
+    "title": "Özgür Özel, önceki Filistin Başbakanı Mohammad Shtayyeh ile görüştü",
+    "source": "BirGün",
+    "time": "17/04/2026 15:05",
+    "link": "https://www.birgun.net/haber/ozgur-ozel-onceki-filistin-basbakani-mohammad-shtayyeh-ile-gorustu-706495",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Barselona'da bulunan CHP lideri Özgür Özel, önceki Filistin Başbakanı Mohammad Shtayyeh ile görüştü.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/ozgur-ozel-onceki-filistin-basbakani-mohammad-shtayyeh-ile-gorustu.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_d3b6bbef",
     "title": "Ordu’da bir ilk: Gırtlak kanseri ameliyatı başarıyla yapıldı",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Kahramanmaraş’ta yaşanan silahlı saldırının ardından Ayser Çalık Ortaokulu için kapatma kararı alındı. Öğrenciler ise çevredeki okullara nakledilecek.",
     "image": "https://resim.haber61.net/news/613191.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_f226dc3d",
-    "title": "Trabzon’da şiddet tepkisi: “Eğitim yuvaları güvenli olmalı”",
-    "source": "Haber61",
-    "time": "17/04/2026 14:45",
-    "link": "https://www.haber61.net/trabzon/trabzonda-siddet-tepkisi-egitim-yuvalari-guvenli-olmali-h629859.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da okul saldırılarına tepki gösteren Türk Eğitim-Sen Şube Başkanı Coşkun Dilber, “Şiddete sıfır tolerans” çağrısı yaptı.",
-    "image": "https://resim.haber61.net/news/613193.jpg",
     "keyword": null
   }
 ]
