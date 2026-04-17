@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eded8320",
+    "title": "Ateşkes başladı, Beyrut'ta patlama sesleri geldi",
+    "source": "Sözcü",
+    "time": "17/04/2026 15:28",
+    "link": "https://www.sozcu.com.tr/israil-ile-lubnan-arasindaki-ateskes-yururluge-girdi-p311893",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ateşkes başladı, Beyrut'ta patlama sesleri geldi",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/israil-lubnan-bayrak-img-1jpg-SRRYv4CPgE_NvFBvtx38YQ.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c627d4cb",
     "title": "Türkiye'den Avustralya vatandaşlarına vize muafiyeti",
     "source": "Sözcü",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Diyarbakır'da hemzemin geçitte yük trenine çarpan otomobilin sürücüsü yaralandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4b31b052",
-    "title": "ADF'de Aşırı Üretim, Yetersiz Beslenme paneli düzenlendi",
-    "source": "TRT Haber",
-    "time": "17/04/2026 15:07",
-    "link": "https://www.trthaber.com/haber/gundem/adfde-asiri-uretim-yetersiz-beslenme-paneli-duzenlendi-942039.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İslam Gıda Güvenliği Teşkilatı IOFS Direktörü Berik Aryn, küresel bir sorun haline gelen gıda güvenliğinde pratik çözümler elde edebilmek için bilim ile siyasetin birbirine yaklaştırılması, iklim değişimi kaynaklı benzer sıkıntılarla mücadele eden bölgeler arasında bilgi ve deneyim paylaşımı yapılması çağrısında bulundu.",
     "image": null,
     "keyword": null
   }
