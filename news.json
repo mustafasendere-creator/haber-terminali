@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_f9e4f401",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect delays until 5:00pm. Track your bu...",
+    "source": "Bluesky",
+    "time": "17/04/2026 22:08",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjpf35dwqp2n",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert: Expect delays until 5:00pm. Track your bus in real time at metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "GND_ae0e3979",
     "title": "Toz torbası derdine son: 18 Nisan Cumartesi ŞOK'a Altus Toz Torbasız Süpürge geliyor!",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MHP'deki görevinden istifa eden İzzet Ulvi Yönter, sosyal medya platformu X'teki (eski adıyla Twitter) hesabını kapattı. Yönter, istifa kararının ardından sosyal medya hesabını bir süreliğine korumaya almıştı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/mhp-den-istifa-etmisti-izzet-ulvi-yonter-x-teki-hesabini-kapatti.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_abd6a849",
-    "title": "Cumhurbaşkanı Başdanışmanı Akif Çağatay Kılıç: Türkiye, diyalog süreçlerine katkı sunmaya devam edecektir",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 21:25",
-    "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-basdanismani-akif-cagatay-kilic-turkiye-diyalog-sureclerine-katki-sunmaya-devam-edecektir/3909937",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya Diplomasi Forumu kapsamında düzenlenen \"Güney Kafkasya: Stratejik Merkez Olma Yolunda\" başlıklı panelde, kalıcı barış arayışları ile enerji ve ticaret koridorları üzerinden şekillenen yeni bölgesel dengeler ele alındı.",
-    "image": null,
     "keyword": null
   }
 ]
