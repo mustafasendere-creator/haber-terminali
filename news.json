@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_45ba7600",
+    "title": "Kastamonu’da motosiklet otomobile çarptı: 1 yaralı",
+    "source": "Gazete Duvar",
+    "time": "18/04/2026 00:25",
+    "link": "https://www.gazeteduvar.com.tr/kastamonuda-motosiklet-otomobile-carpti-1-yarali-haber-1765820",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu’nun Tosya ilçesinde önündeki otomobile çarpan motosikletin sürücüsü yaralandı.",
+    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/04/17/basliksiz-1-huvr_cover.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_b4893ee2",
     "title": "Rize’de Trabzon plakalı aracın karıştığı kazada 4 yaralı!",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Büyükşehir Belediyesi’nin (İBB) 2025 yılı Faaliyet Raporu toplantısında, kentin tarihi ve manevi mirasına vurgu yapılarak önemli mesajlar verildi. Toplantıda, İstanbul’un bir \"sevda kalesi\" olduğu belirtilirken, engellemelere rağmen hizmetlerin aksamadan devam edeceği ifade edildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/028b9a4b-7d3c-4bff-be18-b43c0b006491.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_58abd279",
-    "title": "Trabzonspor'dan taraftarına Başakşehir maçı öncesi çağrı",
-    "source": "Haber Global",
-    "time": "17/04/2026 23:26",
-    "link": "https://haberglobal.com/spor/trabzonspordan-taraftarina-basaksehir-maci-oncesi-cagri-519487",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trabzonspor Kulübü Genel Sekreteri Sami Karaman, Trendyol Süper Lig'in 30. haftasında 19 Nisan Pazar günü sahasında oynayacağı RAMS Başakşehir maçı öncesinde bordo-mavili taraftara çağrıda bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/trabzonspordan-taraftarina-basaksehir-maci-oncesi-cagri-pdjc.jpg",
     "keyword": null
   }
 ]
