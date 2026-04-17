@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_6c255d98",
+    "title": "@metrobusinfo.bsky.social: C21, C31, P97 Service Alert: Expect delays until 7:45pm. Tra...",
+    "source": "Bluesky",
+    "time": "17/04/2026 23:08",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjppkkom7k2v",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C21, C31, P97 Service Alert: Expect delays until 7:45pm. Track your bus in real time at metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "GND_e4ef7ae2",
     "title": "A101 Carrefoursa'yı satın alıyor",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Son yıllarda tatlı menülerinin tartışmasız bir numarası olan magnoliayı evde tam kıvamında yapmak aslında bir sır! İşte garanti ölçülü magnolia tarifi...",
     "image": "https://media.cumhuriyet.com.tr/Archive/96a95a6a-8c74-4271-b150-583c021a6497.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_605cd968",
-    "title": "Eğitimciler Kadıköy’den seslendi: 'Bu şiddet sürdürülen yanlış politikaların doğrudan sonucu'",
-    "source": "Cumhuriyet",
-    "time": "17/04/2026 22:26",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/egitimciler-kadikoy-den-seslendi-bu-siddet-surdurulen-yanlis-politikalarin-dogrudan-sonucu-2496122",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Okullarda art arda yaşanan şiddet olayları, işlenen cinayetlerle ilgili Kadıköy İskele'de bir açıklama yapan eğitim emekçileri, sendika ve meslek örgütü temsilcileri, iktidarın eğitim politikaları üzerinden toplumda derin bir çürüme zemini yarattığı vurguladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/456d5e6a-c46c-4dae-ab0d-c04bdd0eb6a2.jpg",
     "keyword": null
   }
 ]
