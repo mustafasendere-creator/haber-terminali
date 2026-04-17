@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_90f75fcb",
+    "title": "Fenerbahçe, liderlik şansını son dakika golüyle yitirdi",
+    "source": "Anadolu Ajansı",
+    "time": "17/04/2026 22:25",
+    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-liderlik-sansini-son-dakika-goluyle-yitirdi/3910016",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig'in 30. haftasında konuk ettiği Çaykur Rizespor ile 90+8. dakikada yediği golle 2-2 berabere kalan Fenerbahçe, liderlik fırsatını tepti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_f9e4f401",
     "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect delays until 5:00pm. Track your bu...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MHP'de Çanakkale ve Bilecik ve Muğla il teşkilatları da feshedildi. Böylece feshedilen il teşkilatlarının sayısı 7'ye çıktı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/mhp-de-bir-il-teskilati-daha-feshedildi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_87860ec0",
-    "title": "MHP'den istifa etmişti: İzzet Ulvi Yönter X'teki hesabını kapattı",
-    "source": "BirGün",
-    "time": "17/04/2026 21:25",
-    "link": "https://www.birgun.net/haber/mhp-den-istifa-etmisti-izzet-ulvi-yonter-x-teki-hesabini-kapatti-706493",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP'deki görevinden istifa eden İzzet Ulvi Yönter, sosyal medya platformu X'teki (eski adıyla Twitter) hesabını kapattı. Yönter, istifa kararının ardından sosyal medya hesabını bir süreliğine korumaya almıştı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/mhp-den-istifa-etmisti-izzet-ulvi-yonter-x-teki-hesabini-kapatti.jpg",
     "keyword": null
   }
 ]
