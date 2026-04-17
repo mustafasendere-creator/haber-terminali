@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8f79926c",
+    "title": "Galatasaray’da seçim tarihi açıklandı",
+    "source": "Haber Global",
+    "time": "17/04/2026 14:28",
+    "link": "https://haberglobal.com/spor/galatasarayda-secim-tarihi-aciklandi-519414",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray, 23 Mayıs Cumartesi günü olağan seçim toplantısının yapılacağını duyurdu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/galatasarayda-secim-tarihi-aciklandi-feld.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_1d3bfac1",
     "title": "Kahramanmaraş’ta okul saldırısı sonrası kamera kurup ağladı, bakanlık inceleme başlattı",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Telegram'da başka okulları hedef alan C31K grubu ifşa olduklarını fark ettikten sonra yeni hesap açtılar…  x.com",
     "image": null,
     "keyword": "c31k"
-  },
-  {
-    "id": "GND_57d27505",
-    "title": "Fatma İkra, kaybettiği öğretmeni ve arkadaşlarının acısını yaşıyor",
-    "source": "TRT Haber",
-    "time": "17/04/2026 14:07",
-    "link": "https://www.trthaber.com/haber/turkiye/fatma-ikra-kaybettigi-ogretmeni-ve-arkadaslarinin-acisini-yasiyor-942023.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş'taki okul saldırısından arkadaşının kendisine siper olmasıyla kurtulan ve pencereden atlayarak yaralanan 5. sınıf öğrencisi Fatma İkra Çam, yaşadığı dehşeti ve kaybettiği öğretmeni ile arkadaşlarının acısını paylaştı.",
-    "image": null,
-    "keyword": null
   }
 ]
