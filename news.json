@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f52fb143",
+    "title": "Beyoğlu'nda yolcu minibüsü kaza yaptı: 5 yaralı",
+    "source": "BirGün",
+    "time": "17/04/2026 14:06",
+    "link": "https://www.birgun.net/haber/beyoglu-nda-yolcu-minibusu-kaza-yapti-5-yarali-706473",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyoğlu'nda yolcu minibüsü ve otomobilin çarpıştığı kazada 5 kişi yaralandı. Yaralılar hastaneye kaldırılırken kazaya karışan araçlar çekici ile kaldırıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/beyoglu-nda-yolcu-minibusu-kaza-yapti-5-yarali.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_8ab4709f",
     "title": "Yusuf Erdoğan’dan Vefa Örneği: Araklıspor’a Dev Destek!",
     "source": "Günebakış",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Araklı’da Araklıspor’a destek büyüdü, Yusuf Erdoğan’ın mesajı kritik maç öncesi takıma moral verdi. Yusuf Erdoğan yetiştiği takımlardan biri olan Araklıspor&#039;u unutmadı, destek verdi...",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/yusuf-erdogandan-vefa-ornegi-araklispora-dev-destek-1776420027.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_bc79038a",
-    "title": "Tarımsal destekleme ödemesi bugün yapılacak",
-    "source": "TRT Haber",
-    "time": "17/04/2026 13:49",
-    "link": "https://www.trthaber.com/haber/ekonomi/tarimsal-destekleme-odemesi-bugun-yapilacak-942028.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, 12 milyar 813 milyon lira tarımsal destek ödemesinin bugün çiftçilerin hesaplarına aktarılacağını duyurdu.",
-    "image": null,
-    "keyword": null
   }
 ]
