@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6d6e8e97",
+    "title": "AB'nin sosyal medyada yaş doğrulama uygulaması '2 dakikada hacklendi' mi?",
+    "source": "Euronews",
+    "time": "17/04/2026 18:25",
+    "link": "http://tr.euronews.com/next/2026/04/17/abnin-sosyal-medyada-yas-dogrulama-uygulamasi-2-dakikada-hacklendi-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siber güvenlik uzmanları, AB'nin sosyal medya yaş doğrulama için geliştirdiği uygulamanın kodlarında “bariz açıklar” bulunduğunu öne sürerek Brüksel’i sert şekilde eleştirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_dbed2c66",
     "title": "Trabzonspor'un genç yıldızı ameliyat oldu",
     "source": "Günebakış",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Kent İstişare Toplantıları’nda konuşan Başkan Ahmet Metin Genç, şehirdeki tüm paydaşlarla birlikte hareket ederek Trabzon’u daha yaşanabilir hale getirmeyi hedeflediklerini söyledi.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_23219e3c",
-    "title": "Almanya: Deepfake fotoğraf yayanlara hapis cezası geliyor",
-    "source": "DW Türkçe",
-    "time": "17/04/2026 17:47",
-    "link": "https://www.dw.com/tr/almanya-deepfake-fotoğraf-yayanlara-hapis-cezası-geliyor/a-76835057",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'da son haftalarda gündeme gelen dijital şiddet ve yapay zeka ile oluşturulan pornografik içeriklere karşı yasa tasarısı hazırlandı. Tasarı faillere ağır cezalar öngörüyor.",
-    "image": null,
-    "keyword": null
   }
 ]
