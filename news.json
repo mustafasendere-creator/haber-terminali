@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_88e45436",
+    "title": "İsrail ateşkesi ihlal etti",
+    "source": "Habertürk",
+    "time": "17/04/2026 16:27",
+    "link": "https://www.haberturk.com/israil-lubnan-ile-varilan-ateskesi-ateskesi-ihlal-etti-3877974",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in Lübnan'ın güneyindeki el-Hiyam ve Dibbin beldelerine 10 günlük geçici ateşkesin yürürlüğe girmesine rağmen hava saldırısı düzenlediği bildirildi",
+    "image": "https://im.haberturk.com/l/2026/04/17/ver1776396722/3877974/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_57746f80",
     "title": "Eğitim emekçilerinin yaşam nöbetine katılan Bakırhan: İnsanların adaleti mevcut yönetimden değil, mafya baronlarından beklediği bir süreçteyiz",
     "source": "Independent",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Protesto, yazarların imzaladığı açık bir mektupla ortaya kondu. Mektupta, muhafazakâr yayıncı Vincent Bolloré, gerici ve sağ görüşleri teşvik etmekle suçlandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/fransada-yuzden-fazla-yazar-grasset-yayinevini-terk-etti-mfzj.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b3f1bc91",
-    "title": "İstanbul'da 18 Nisan Cumartesi büyük elektrik kesintileri olacak!",
-    "source": "Haber Global",
-    "time": "17/04/2026 16:07",
-    "link": "https://haberglobal.com/gundem/istanbulda-18-nisan-cumartesi-buyuk-elektrik-kesintileri-olacak-519348",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BEDAŞ, İstanbul'da elektrik kesintilerinin yaşanacağını açıkladı. İşte 18 Nisan 2026 Cumartesi planlı ve bakım çalışması amaçlı elektrik kesintilerinin olacağı ilçe ve mahalleler.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/istanbulda-18-nisan-cumartesi-buyuk-elektrik-kesintileri-olacak-grba.jpg",
     "keyword": null
   }
 ]
