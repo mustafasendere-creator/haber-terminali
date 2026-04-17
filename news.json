@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_83de9012",
+    "title": "KÜÇÜKÇEKMECE İCRA DAİRESİ",
+    "source": "Haber Global",
+    "time": "18/04/2026 00:05",
+    "link": "https://haberglobal.com/resmi-ilanlar/kucukcekmece-icra-dairesi-519188",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/16/icra4dosya-ziud.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b60ad276",
     "title": "EuroLeague Kadınlar'da finalin adı Fenerbahçe-Galatasaray",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "C21, C31, P97 Service Alert: Expect delays until 7:45pm. Track your bus in real time at metropulse.wmata.com/bus",
     "image": null,
     "keyword": "c31"
-  },
-  {
-    "id": "GND_e4ef7ae2",
-    "title": "A101 Carrefoursa'yı satın alıyor",
-    "source": "OdaTV",
-    "time": "17/04/2026 23:07",
-    "link": "https://www.odatv.com/ekonomi/a101-carrefoursayi-satin-aliyor-120143732",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sabancı Holding, CarrefourSA sermayesinin yüzde 89,28’sini A101&#039;in sahibi Yeni Mağazacılık’a satıyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/17/a101-carrefoursayi-satin-aliyor-wcub.jpg",
-    "keyword": null
   }
 ]
