@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a015c7ee",
+    "title": "Okul saldırısındaki öğrencilere gözaltı",
+    "source": "OdaTV",
+    "time": "17/04/2026 18:47",
+    "link": "https://www.odatv.com/guncel/okul-saldirisindaki-ogrencilere-gozalti-120143725",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir&#039;in Torbalı ilçesinde bir okulda saldırı hazırlığı yaptığı iddia edilen 8 öğrenci, jandarma ekiplerince düzenlenen operasyonla gözaltına alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/17/okul-saldirisindaki-ogrencilere-gozalti-iwjy.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_cc020b01",
     "title": "@dlkkrhsn.bsky.social: Ortamına göre Kürdü Laz yapar, ortamına göre Yahudi'yi Ermen...",
     "source": "Bluesky",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’da düzenlenen ormancılık yarışmalarında ekipler kıyasıya mücadele etti. Bölge elemeleri mesleki becerileri ön plana çıkardı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/trabzon-ormancilar-1-1.png",
     "keyword": null
-  },
-  {
-    "id": "TKP_3e982c1e",
-    "title": "Trabzonspor harıl harıl! Başakşehir hazırlıkları devam ediyor",
-    "source": "Haber61",
-    "time": "17/04/2026 18:26",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-haril-haril-basaksehir-hazirliklari-devam-ediyor-h629881.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Trendyol Süper Lig Mehmet Ali Yılmaz Sezonu’nun 30. haftasında oynayacağı RAMS Başakşehir maçı hazırlıklarına bugün yaptığı antrenmanla devam etti. Bordo-mavililer, hazırlıklarını yarın tamamlayacak.",
-    "image": "https://resim.haber61.net/news/613229.jpg",
-    "keyword": "trabzon"
   }
 ]
