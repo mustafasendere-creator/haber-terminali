@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e292c611",
+    "title": "Hamas'tan, idam yasasının durdurulması için acil uluslararası müdahale çağrısı",
+    "source": "TRT Haber",
+    "time": "17/04/2026 14:47",
+    "link": "https://www.trthaber.com/haber/dunya/hamastan-idam-yasasinin-durdurulmasi-icin-acil-uluslararasi-mudahale-cagrisi-942040.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hamas, 17 Nisan Filistinli Esirler Günü dolayısıyla uluslararası topluma, İsrail hapishanelerindeki Filistinli esirlerin korunması ve idam yasasının durdurulması için acil müdahale çağrısında bulundu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_7f1a6e15",
     "title": "Manisa'da göçük altında kalan işçi öldü",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "TRT 1&#039;de yayınlanan Taşacak Bu Deniz dizisinin yeni bölümünün yayınlanıp yayınlanmayacağı merak konusuydu. TRT, yeni bölümü ekranlara getirmemeye karar verdi.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/17/large/tasacak-bu-deniz.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_9bee1d86",
-    "title": "Balıkta yeni dönem: En çok tercih edilen balık bakın hangisi oldu?",
-    "source": "Taka Gazetesi",
-    "time": "17/04/2026 14:27",
-    "link": "https://www.takagazete.com.tr/balikta-yeni-donem-en-cok-tercih-edilen-balik-bakin-hangisi-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da av yasağı sonrası balık tezgahlarında kültür balıkları öne çıktı. Somon ise uygun fiyatıyla en çok tercih edilen tür oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/balik-fiyatlari-1-1.png",
-    "keyword": "trabzon"
   }
 ]
