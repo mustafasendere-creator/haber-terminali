@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3c27768",
+    "title": "İsrail’den Lübnan açıklaması: Ateşkes geçici, operasyon sürecek",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 15:47",
+    "link": "https://www.cumhuriyet.com.tr/dunya/israil-den-lubnan-aciklamasi-ateskes-gecici-operasyon-surecek-2496036",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Savunma Bakanı Israel Katz, İsrail ile Hizbullah arasında yürürlüğe giren 10 günlük ateşkesin “geçici” olduğunu belirterek, İsrail ordusunun Lübnan’daki işgalini sürdüreceğini açıkladı. Katz, hedeflerinin Hizbullah’ı silahsızlandırmak olduğunu ifade etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e951b383-ae38-421f-a8d6-37c8415aa9cb.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c71a5c6b",
     "title": "YKKED’den Köy Enstitülerinin kuruluşunun 86’ncı yıl dönümü açıklaması",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor'da Olağan Divan Genel Kurul için tarih netlik kazandı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/olalala.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_557237f0",
-    "title": "Lübnan'da ateşkes yürürlüğe girdi, hasarlı Kasmiye Köprüsü yeniden açıldı",
-    "source": "Euronews",
-    "time": "17/04/2026 15:26",
-    "link": "http://tr.euronews.com/video/2026/04/17/lubnanda-ateskes-yururluge-girdi-hasarli-kasmiye-koprusu-yeniden-acildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan ile İsrail, cuma sabahı 10 günlük ateşkese girdi; ordu, İsrail saldırılarının vurduğu, Sur’u bölgeye bağlayan hasarlı Kasmiye Köprüsü’nde tek şeritli geçişi yeniden açtı.",
-    "image": null,
-    "keyword": null
   }
 ]
