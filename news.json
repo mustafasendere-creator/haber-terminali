@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_85cc44e8",
+    "title": "Bulgaristan'da seçim ihlalleri nedeniyle 360 kişi gözaltına alındı",
+    "source": "Anadolu Ajansı",
+    "time": "17/04/2026 21:25",
+    "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-secim-ihlalleri-nedeniyle-360-kisi-gozaltina-alindi/3910020",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bulgaristan İçişleri Bakanı Emil Dechev, 19 Nisan'da yapılacak erken genel seçimler öncesinde seçim yasasını ihlal ettikleri gerekçesiyle şu ana kadar 360 kişinin gözaltına alındığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_04c510e3",
     "title": "Araç Muayenesinde yeni dönem: muayene istasyonlarında yoğunluğu bitecek",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dış Ekonomik İlişkiler Kurulu (DEİK) Başkanı Nail Olpak, &quot;Ticaret her şeyin önüne geçemez ama ticari ilişkilerin iyi olduğu süreçlerde barış biraz daha kolay olabiliyor.&quot; dedi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/17/deik-baskani-nail-olpak-sanayiciler-asgari-ucretin-uzerinde-zam-yapacak-wwqo_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_34330544",
-    "title": "Hürmüz Boğazı’ndan 47 gün sonra ilk yolcu gemisi geçti",
-    "source": "Ekonomim",
-    "time": "17/04/2026 20:27",
-    "link": "https://www.ekonomim.com/dunya/hurmuz-bogazindan-47-gun-sonra-ilk-yolcu-gemisi-gecti-haberi-888799",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Malta bayraklı &quot;Celestyal Discovery&quot;, 47 günün ardından Hürmüz Boğazı’nı geçen ilk yolcu gemisi oldu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/17/hurmuz-bogazindan-47-gun-sonra-ilk-yolcu-gemisi-gecti-gpjg_cover.jpg",
     "keyword": null
   }
 ]
