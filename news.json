@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_7f8105db",
+    "title": "Cumhurbaşkanı Erdoğan'dan Antalya Diplomasi Forumu paylaşımı",
+    "source": "TRT Haber",
+    "time": "17/04/2026 18:06",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-antalya-diplomasi-forumu-paylasimi-942068.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Beş sene önce diplomasinin nabzını tutacak küresel bir platform hedefiyle çıktığımız yolda bugün görüyoruz ki Antalya Diplomasi Forumu; küresel aklın, global vicdanın ve geleceğe dair umudun ortak kürsüsü haline gelmiştir\" açıklamasını yaptı.",
+    "image": null,
+    "keyword": null
+  },
+  {
+    "id": "GND_54ebe3b0",
+    "title": "HakkariVan kara yolunda ulaşım kontrollü sağlanıyor",
+    "source": "TRT Haber",
+    "time": "17/04/2026 18:06",
+    "link": "https://www.trthaber.com/haber/turkiye/hakkari-van-kara-yolunda-ulasim-kontrollu-saglaniyor-942069.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Heyelanın meydana geldiği HakkariVan kara yolunda ulaşım kontrollü sağlanıyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ddd23f6a",
     "title": "Mersin merkezli yasa dışı bahis operasyonunda 25 tutuklama",
     "source": "TRT Haber",
@@ -932,30 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk Silahlı Kuvvetlerinin (TSK) EFES-2026 Tatbikatı'nın Simülasyon Destekli Komuta Yeri (SDKY) Safhası, 21 ülkeden 103'ü yabancı 646 personelin katılımıyla İzmir'de tamamlandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a158bcb6",
-    "title": "Avustralya'da İslam karşıtlarının hedefindeki Bendigo Camisi törenle ibadete açıldı",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 17:45",
-    "link": "https://www.aa.com.tr/tr/dunya/avustralyada-islam-karsitlarinin-hedefindeki-bendigo-camisi-torenle-ibadete-acildi/3909731",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avustralya'da Bendigo kentinin ilk camisi, ırkçı grupların ve İslam karşıtlarının yıllarca süren protestolarına ve inşa edilmemesi için hukuki engelleme çabalarına rağmen törenle ibadete açıldı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_dac9042b",
-    "title": "Bakan Şimşek, COP31 Eylem Gündemi'nin detaylarını paylaştı",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 17:45",
-    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-cop31-eylem-gundeminin-detaylarini-paylasti/3909734",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, İklim Eylemi için Maliye Bakanları Koalisyonu Bakanlar Toplantısı'nda COP31 gündem taslağını sunduklarını belirterek, eylem gündeminin 9 öncelik etrafında şekillenmeye başladığını ifade etti.",
     "image": null,
     "keyword": null
   }
