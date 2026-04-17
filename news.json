@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fabac7cd",
+    "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+    "source": "Haber Global",
+    "time": "17/04/2026 15:47",
+    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogandan-aciklamalar-519427",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya Diplomasi Forumu açılışında konuşuyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
+    "keyword": null
+  },
+  {
     "id": "GND_966777cd",
     "title": "MHP, Çanakkale ve Bilecik il teşkilatlarını feshetti",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Ordu'da, ileri evre gırtlak kanseri tanısı konulan bir hastaya, ilde ilk kez gerçekleştirilen larenjektomi ve boyun diseksiyonu ameliyatı başarıyla uygulandı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/orduda-ileri-evre-girtlak-kanseri-ameliyati-ilk-kez-basariyla-gerceklestirildi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_6a1349b1",
-    "title": "Jet yakıtı krizi yolcuları ve havayollarını nasıl etkiledi?",
-    "source": "Euronews",
-    "time": "17/04/2026 15:26",
-    "link": "http://tr.euronews.com/gezi/2026/04/17/jet-yakiti-krizi-yolculari-ve-havayollarini-nasil-etkiledi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran’daki savaşın başlamasından bu yana jet yakıtı fiyatları yaklaşık ikiye katlandı. Yakıt sıkıntısı yaşanabilir.",
-    "image": null,
     "keyword": null
   }
 ]
