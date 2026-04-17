@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_86dada59",
+    "title": "Çin'in uzay merkezinde araç dışı çalışmalar görüntülendi",
+    "source": "Evrensel",
+    "time": "17/04/2026 16:26",
+    "link": "https://www.evrensel.net/haber/5980118/cinin-uzay-merkezinde-arac-disi-calismalar-goruntulendi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin uzay istasyonunda bulunan Shenzhou-21'nda görevli mürettebat üçüncü görev dışı faaliyetlerini tamamladı. Taykonotların çalışmaları görüntülendi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343454.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_fc1fc978",
     "title": "Trabzon’da 28 bin kişiye ulaşıldı!",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "İran, Hürmüz Boğazı’nın ateşkes süresince ticari gemilere açıldığını duyurdu. Küresel ticaret açısından kritik gelişme.",
     "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/09/img-3545.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_71599e43",
-    "title": "İspanya'da göç düzenlemesi: Göç memurları, iş yükünü hafifleten anlaşma sonrası grevi iptal etti",
-    "source": "Euronews",
-    "time": "17/04/2026 16:06",
-    "link": "http://tr.euronews.com/my-europe/2026/04/17/ispanyada-goc-duzenlemesi-goc-memurlari-is-yukunu-hafifleten-anlasma-sonrasi-grevi-iptal-e",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya, 1986 ile 2005 yılları arasında ülkede yasa dışı durumda bulunan göçmenler için altı kez af çıkardı.",
-    "image": null,
     "keyword": null
   }
 ]
