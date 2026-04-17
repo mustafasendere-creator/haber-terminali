@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_74d609d3",
+    "title": "Şanlıurfa'da bir ortaokulda öğretmene saldırı girişimi",
+    "source": "BirGün",
+    "time": "17/04/2026 21:45",
+    "link": "https://www.birgun.net/haber/sanliurfa-da-bir-ortaokulda-ogretmene-saldiri-girisimi-706481",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'nın Siverek Dumlupınar Ortaokulu’nda bir veli, bıçakla öğretmene saldırmak istedi. Saldırgan polis tarafından engellenerek gözaltına alındı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/sanliurfa-da-bir-ortaokulda-ogretmene-saldiri-girisimi-2.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_17a1d8ee",
     "title": "Herkes onu konuşmuştu! Nurhan teyze Sebatlı oyunculara sarma yedirdi",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "YAKIŞIKLI MISIRCI ÜZERİNE  YouTube",
     "image": null,
     "keyword": "trabzon okul"
-  },
-  {
-    "id": "TKP_8a8e837e",
-    "title": "Başkan Genç müjdeyi verdi: Trabzon’a Yeni Kültür Sanat Merkezi Geliyor",
-    "source": "Günebakış",
-    "time": "17/04/2026 20:46",
-    "link": "https://www.gunebakis.com.tr/baskan-genc-mujdeyi-verdi-trabzona-yeni-kultur-sanat-merkezi-geliyor/27831650",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un kültür ve sanat hayatında önemli bir yere sahip olan Hüseyin Kazaz Kültür Merkezi, 1,5 yıllık aranın ardından kapılarını yeniden sanatseverlere açtı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/baskan-genc-mujde.jpg",
-    "keyword": "trabzon"
   }
 ]
