@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_33f7f85a",
+    "title": "Red Bull’da büyük final",
+    "source": "Cumhuriyet",
+    "time": "17/04/2026 13:49",
+    "link": "https://www.cumhuriyet.com.tr/spor/red-bull-da-buyuk-final-2495999",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Red Bull’un global sokak futbolu etkinliği Red Bull Four 2 Score Türkiye’de son eleme turu ve Türkiye Finali, 18-19 Nisan’da İzmir’de yapılacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/00c1c6c7-fcf7-4ebc-9f56-c7701552cd3f.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_a230c96e",
     "title": "17 Nisan Trabzon Gündemi!",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/kahramanmarastaki-aci-saldiri-sonrasi-trabzonda-saf-tutuldu-1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_503d6b8a",
-    "title": "İsrail polisi Mescid-i Aksa imam hatibi Şeyh Sabri'nin Aksa'ya girişini engelledi",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 13:45",
-    "link": "https://www.aa.com.tr/tr/dunya/israil-polisi-mescid-i-aksa-imam-hatibi-seyh-sabrinin-aksaya-girisini-engelledi/3909200",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail polisi, Mescid-i Aksa imam hatibi ve Kudüs Yüksek İslam Heyeti Başkanı Şeyh İkrime Sabri'nin cuma namazı için Aksa'ya girmesini gerekçe göstermeksizin engelledi.",
-    "image": null,
     "keyword": null
   }
 ]
