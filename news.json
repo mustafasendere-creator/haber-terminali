@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_02741956",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect westbound delays on Route C31 at M...",
+    "source": "Bluesky",
+    "time": "17/04/2026 23:08",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjpocnmcgt25",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert: Expect westbound delays on Route C31 at Minnesota Ave Station due to a bus with a mechanical problem. Track your bus in real time by visiting metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "SOC_6c255d98",
     "title": "@metrobusinfo.bsky.social: C21, C31, P97 Service Alert: Expect delays until 7:45pm. Tra...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Trendyol Süper Lig'in 30. haftasında Konyaspor deplasmanda Antalyaspor'u 2-0 yendi. Yeşil beyazlılar, Süper Lig'de yenilmezlik serisini 6 maça çıkardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/6eb7b29e-b175-4f8a-b7ac-674fd2174c6e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_609a08e3",
-    "title": "Kafelerin en çok satanı: Kıvamı şaşmayan orijinal çilekli magnolia tarifi...",
-    "source": "Cumhuriyet",
-    "time": "17/04/2026 22:26",
-    "link": "https://www.cumhuriyet.com.tr/gurme/kafelerin-en-cok-satani-kivami-sasmayan-orijinal-cilekli-magnolia-tarifi-2496121",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son yıllarda tatlı menülerinin tartışmasız bir numarası olan magnoliayı evde tam kıvamında yapmak aslında bir sır! İşte garanti ölçülü magnolia tarifi...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/96a95a6a-8c74-4271-b150-583c021a6497.jpg",
     "keyword": null
   }
 ]
