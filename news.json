@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a7ea27f3",
+    "title": "Sizi hangi yiyecek rahatlatır?",
+    "source": "Habertürk",
+    "time": "17/04/2026 16:08",
+    "link": "https://www.haberturk.com/sizi-hangi-yiyecek-rahatlatir-dunya-mutfaginda-comfort-food-yukselisi-3877348",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gündelik hayatın stresi ve karmaşası içinde hepimiz bazen çocukluğumuzun güvenli kollarına dönmek isteriz. İşte tam bu noktada, bizi bir tabak yemekle geçmişe götüren ve ruhumuzu saran \"comfort food\" yani rahatlatıcı yiyecekler imdadımıza yetişiyor. Dünya mutfağında giderek yükselen bu lezzet trendinin arkasındaki sırları ve en popüler örnekleri sizin için derledik!",
+    "image": "https://im.haberturk.com/l/2026/04/14/ver1776373081/3877348/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_bb3c5a59",
     "title": "Trabzon’da Örnek Öğrencilere Büyük Ödül",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "AA Finans’ın beklenti anketine katılan ekonomistler, nisan ayında Türkiye Cumhuriyet Merkez Bankasının (TCMB) politika faizini yüzde 37 seviyesinde sabit tutmasını bekliyor.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/merkez-bankasi-haftaya-ne-yapacak-beklentiler-belli-oldu-3wc4.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_fabac7cd",
-    "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-    "source": "Haber Global",
-    "time": "17/04/2026 15:47",
-    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogandan-aciklamalar-519427",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya Diplomasi Forumu açılışında konuşuyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
     "keyword": null
   }
 ]
