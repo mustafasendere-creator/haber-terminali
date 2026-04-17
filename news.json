@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_38cf259a",
+    "title": "Erdoğan'dan \"Hürmüz Boğazı\" açıklaması",
+    "source": "BirGün",
+    "time": "17/04/2026 16:45",
+    "link": "https://www.birgun.net/haber/erdogan-dan-hurmuz-bogazi-aciklamasi-706506",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya Diplomasi Forumu’nun açılış oturumunda yaptığı konuşmada bölgesel gelişmelere değinen AKP'li Cumhurbaşkanı Erdoğan, ABD-İsrail arasında sağlanan geçici ateşkesin önemli olduğunu, Körfez ülkelerinin de Hürmüz Boğazı'na erişim hakkının kısıtlanmaması gerektiğini söyledi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/erdogan-kuresel-sistemde-yasanan-kriz-ahlaki-ve-varolussaldir.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_32be100d",
     "title": "Trabzonspor - Başakşehir maçı hangi gün ve saat kaçta?",
     "source": "BirGün",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor&#039;un eski gol kralı Alexander Sörloth gösterdiği başarılı performans sonrasında Barcelona&#039;nın transfer listesine girdi.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/17/large/sorloth-2.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a7ea27f3",
-    "title": "Sizi hangi yiyecek rahatlatır?",
-    "source": "Habertürk",
-    "time": "17/04/2026 16:08",
-    "link": "https://www.haberturk.com/sizi-hangi-yiyecek-rahatlatir-dunya-mutfaginda-comfort-food-yukselisi-3877348",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gündelik hayatın stresi ve karmaşası içinde hepimiz bazen çocukluğumuzun güvenli kollarına dönmek isteriz. İşte tam bu noktada, bizi bir tabak yemekle geçmişe götüren ve ruhumuzu saran \"comfort food\" yani rahatlatıcı yiyecekler imdadımıza yetişiyor. Dünya mutfağında giderek yükselen bu lezzet trendinin arkasındaki sırları ve en popüler örnekleri sizin için derledik!",
-    "image": "https://im.haberturk.com/l/2026/04/14/ver1776373081/3877348/jpg/1280x1280",
-    "keyword": null
   }
 ]
