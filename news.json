@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_5a945499",
+    "title": "Haaretz: Trump, Lübnan ve İran'da şartları dikte ederek Netanyahu'yu köşeye sıkıştırıyor",
+    "source": "TRT Haber",
+    "time": "17/04/2026 18:46",
+    "link": "https://www.trthaber.com/haber/dunya/haaretz-trump-lubnan-ve-iranda-sartlari-dikte-ederek-netanyahuyu-koseye-sikistiriyor-942060.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump'ın İran ve Lübnan ile ateşkes yapmasını İsrail'e dayattığı ve dış politikada Başbakan Binyamin Netanyahu'yu köşeye sıkıştırdığı belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
+    "id": "GND_115448e4",
+    "title": "Trump'tan İsrail'e yasak: Yeter artık",
+    "source": "TRT Haber",
+    "time": "17/04/2026 18:46",
+    "link": "https://www.trthaber.com/haber/dunya/trumptan-israile-yasak-yeter-artik-942061.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, \"İsrail artık Lübnan'ı bombalamayacak. ABD tarafından bunu yapmaları yasaklandı\" dedi. Trump, yaptığı açıklamada \"Artık yeter\" ifadesini kullandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_098d0b18",
     "title": "Siirt fıstığında yok yılı ezberi bozuluyor",
     "source": "TRT Haber",
@@ -932,30 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Almanya Başbakanı Merz, Orta Doğu'da barış ve istikrarın en kısa sürede sağlanmasının tüm tarafların çıkarına olduğunu, enerji fiyatlarının hızla düşmesi, krizin transatlantik ilişkiler açısından bir \"stres testine\" dönüşmemesi gerektiğini kaydetti.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_384f174f",
-    "title": "Borsa İstanbul tüm zamanların en yüksek günlük ve haftalık kapanışını gerçekleştirdi",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 18:25",
-    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbul-tum-zamanlarin-en-yuksek-gunluk-ve-haftalik-kapanisini-gerceklestirdi/3909821",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_c5cc33ad",
-    "title": "Enes Ünal'ın takımı Bournemouth'ta Iraola dönemi sona eriyor",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 18:25",
-    "link": "https://www.aa.com.tr/tr/spor/enes-unalin-takimi-bournemouthta-iraola-donemi-sona-eriyor/3909824",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli futbolcu Enes Ünal'ın da formasını giydiği İngiltere Premier Lig ekiplerinden Bournemouth, 43 yaşındaki İspanyol teknik direktörü Andoni Iraola'nın sezon sonunda kulüpten ayrılacağını duyurdu.",
     "image": null,
     "keyword": null
   }
