@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c917874d",
+    "title": "Yapay zekayla donatılan robot köpek artık görevleri okuyup mantık yürütebiliyor",
+    "source": "Independent",
+    "time": "17/04/2026 16:08",
+    "link": "https://www.indyturk.com/node/775847/bi%CC%87li%CC%87m/yapay-zekayla-donat%C4%B1lan-robot-k%C3%B6pek-art%C4%B1k-g%C3%B6revleri-okuyup-mant%C4%B1k-y%C3%BCr%C3%BCtebiliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Önde gelen robotik üreticisi Boston Dynamics, ev işlerini bağımsız bir şekilde yapabilen yapay zeka destekli yeni robotunu tanıttı.\n\nŞirketin ilk kez 2016'da tanıttığı dört ayaklı Spot robotu, artık Google DeepMind'ın en yeni robotik yapay zeka modeliyle donatılarak \"bedenlenmiş akıl yürütme\" yeteneklerine kavuştu.\n\n\nfazla oku\n\nBu bölüm, konuyla ilgili referans noktalarını içerir. (Related Nodes field)\n\n\nGemini Robotics-ER 1.6 yapay zeka modelini kullanan dört ayaklı cihazın tanıtımında, robotun görevleri tahtadan okuduktan sonra yerine getirdiği görülüyor.\n\nBu görevler arasında ortalığı toplamak, teneke kutuları geri dönüşüme atmak ve fare kapanlarında ölü kemirgen olup olmadığını kontrol etmek yer alıyor.\n\nBoston Dynamics yapay zeka entegrasyonunun, bir operatörün Spot robotunu manuel kontrol etmesiyle \"aynı\" olduğunu belirtiyor.\n\nTanıtım videosunda robot köpeğin, gerçek bir köpeği tasmayla gezdirdiği ve ona kovalaması için top attığı da görülüyor.\n \n\n\n   \n\nTanıtım videosunda Boston Dynamics'in Spot robotunun bir köpeği gezdirdiği gösteriliyor (Boston Dynamics)\n\n\n\nYapay zeka güncellemesi, insanların kod satırları yazmak yerine doğal dil kullanarak robotla etkileşime girmesine olanak tanıyor.\n\nSpot mühendisi Issac Ross, \"Spot gibi robotlar, karmaşık ve değişken ortamlarda hareket etme, veri ve sensör okumalarını toplama ve nesneleri kullanmada halihazırda son derece yetkin\" diyor.\n\n\nBu demo, kullanıcıların Spot'un eylemlerini yönlendirmek için gelecekte karmaşık kodlar yerine doğal dile daha fazla başvurabileceğine işaret ediyor. Mühendisin rolü, hedef ve amaçları belirlemeye doğru kayıyor.\n\n\nGoogle DeepMind, robotik şirketlerinin görevleri eğitim almadan yerine getirebilen robotlar geliştirmek için bunları kullanacağını umarak Gemini AI modellerini geçen yıl ilk kez tanıtmıştı.\n\nBoston Dynamics bu modelleri \"test eden güvenilir\" birkaç şirketten biri ancak yapay zeka özellikli robotların ne zaman ticari olarak piyasaya sürüleceği henüz belli değil. The Independent daha fazla bilgi için şirketle temasa geçti.\n\nSpot'un önceki sürümleri, otomobil üretim tesislerinden roket fırlatma rampalarına kadar her alanda halihazırda kullanılıyor.\n\nDahili akıl yürütme özelliğinin eklenmesi ve doğal dilde iletişim kurma yeteneği, robotların ev ortamlarında da kullanılmasını sağlayabilir.\n\nBoston Dynamics'ten Spot'un genel müdürü Marco da Silva, \"Alet okuma ve görevlerde daha güvenilir şekilde akıl yürütme gibi yetenekler, Spot'un gerçek dünyadaki zorlukları tamamen otonom olarak görmesini, anlamasını ve bunlara tepki vermesini sağlayacak\" ifadelerini kullanıyor.\n \n\n\n\n\nDeepMind, bedenlenmiş akıl yürütme özelliği sayesinde robotların \"dijital zekayla fiziksel eylem arasındaki boşluğu kapatarak\" çeşitli ortamlarda görevleri tek başlarına yerine getirebileceklerini belirtiyor.\n\nDeepMind'dan Laura Graesser ve Peng Xu blog yazısında, \"Robotların günlük hayatımızda ve endüstrilerimizde gerçekten yararlı olabilmesi için sadece talimatları uygulamakla kalmaması, fiziksel dünya hakkında akıl yürütmesi de gerekiyor\" diye yazıyor.\n\n\nUzamsal muhakeme ve çoklu bakış açısı anlayışını geliştirerek, yeni nesil fiziksel ajanlara yeni bir özerklik düzeyi getiriyoruz.\n\n\n\n\n*İçerik orijinal haline bağlı kalınarak çevrilmiştir. Independent Türkçe'nin editöryal politikasını yansıtmayabilir.\n\nindependent.co.uk/tech\n\nIndependent Türkçe için çeviren: Büşra Ağaç\n\n\n\n\nçeviriteknolojirobotikrobotYAPAY ZEKASpot robot, aldığı Google Gemini güncellemesiyle görevleri kendi başına yerine getirebiliyorAnthony CuthbertsonCuma, Nisan 17, 2026 - 15:00Main image: \n  &lt;p&gt;Boston Dynamics, robot köpeği Spot&#039;a yapay zeka yetenekleri kazandırmak için Google&#039;ın Gemini Robotics modelini cihaza entegre etti (Boston Dynamics)&lt;/p&gt;\n\nBİLİMrelated nodes: Google&#039;dan dikkat çeken yapay zeka robotu atılımıÇinli Alibaba&#039;dan fiziksel yapay zeka atılımı: &quot;Google ve Nvidia&#039;yı geçti&quot;Yere eğilen ve sırtını geriye büken insansı robot heyecan yarattıLabel: ÇEVİRİType: videoSEO Title: VİDEO | Yapay zekayla donatılan robot köpek artık görevleri okuyup mantık yürütebiliyorcopyright Independentturkish: original url: https://www.independent.co.uk/tech/robot-dog-boston-dynamics-google-deepmind-ai-b2958743.html",
+    "image": "https://www.indyturk.com/sites/default/files/styles/800xauto/public/thumbnails/image/2026/04/17/1369612-1569038664.jpg?itok=ASCyOv6Y",
+    "keyword": null
+  },
+  {
     "id": "GND_c3c5fe6d",
     "title": "Erdoğan: İsrail'in müzakere sürecini dinamitlemesine karşı hazır olunmalı",
     "source": "Independent",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Çalkalanmanın olduğu bir dönemde global seviyede ikili ve bölgesel iş birliklerinin çok daha önem kazandığını görebiliriz. Türkiye olarak diplomasiyi her şeyin üstünde tutup çatışmaların önüne koyuyoruz. Bu yüzden çoklu, bölgesel iş birliklerinde yer almaktayız.\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a551e203",
-    "title": "Karabük'teki Hadrianopolis Antik Kenti'nde 1500 yıllık bıçaklar bulundu",
-    "source": "Diken",
-    "time": "17/04/2026 15:47",
-    "link": "https://www.diken.com.tr/karabukteki-hadrianopolis-antik-kentinde-1500-yillik-bicaklar-bulundu/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Karabük'teki Hadrianopolis Antik Kenti'nde 1500 yıllık bıçaklar bulundu 17.04.2026 DikenKarabük'teki Hadrianopolis Antik Kenti'nde 1500 yıllık olduğu değerlendirilen bıçaklar ve 'kösüre taşı (bileme taşı)' ortaya çıktı.\nThe post Karabük'teki Hadrianopolis Antik Kenti'nde 1500 yıllık bıçaklar bulundu appeared first on #site_linkat 17.04.2026 .",
     "image": null,
     "keyword": null
   }
