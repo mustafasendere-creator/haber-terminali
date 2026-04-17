@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f0f288b3",
+    "title": "İran'ın Hürmüz açıklaması sonrası petrol fiyatlarında sert düşüş",
+    "source": "BirGün",
+    "time": "17/04/2026 17:45",
+    "link": "https://www.birgun.net/haber/iran-in-hurmuz-aciklamasi-sonrasi-petrol-fiyatlarinda-sert-dusus-706513",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, Hürmüz Boğazı'nın tüm ticari gemilerin geçişine tamamen açık olacağını açıkladı. Bunun ardından brent petrolün varil fiyatı, yüzde 8,7 azaldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/17/iran-in-hurmuz-aciklamasi-sonrasi-petrol-fiyatlarinda-sert-dusus.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_4947b574",
     "title": "Trabzonspor'da RAMS Başakşehir maçı hazırlıkları sürüyor",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Dışişleri Bakanı Abbas Arakçi, Lübnan'da da geçerli olan ateşkesin sonuna kadar Hürmüz Boğazı'nın tüm ticari gemilere açıldığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_0192079d",
-    "title": "Trump'tan İran'a: Teşekkürler ama deniz ablukası sürecek",
-    "source": "Diken",
-    "time": "17/04/2026 17:06",
-    "link": "https://www.diken.com.tr/trumptan-irana-tesekkurler-ama-deniz-ablukasi-surecek/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trump'tan İran'a: Teşekkürler ama deniz ablukası sürecek 17.04.2026 DikenTrump, Hürmüz Boğazı'nı açtığı için İran'a teşekkür etti fakat deniz ablukasının 'yüzde 100 anlaşmaya dek' süreceğini kaydetti.\nThe post Trump'tan İran'a: Teşekkürler ama deniz ablukası sürecek appeared first on #site_linkat 17.04.2026 .",
     "image": null,
     "keyword": null
   }
