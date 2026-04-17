@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_bd0ffd3e",
+    "title": "@t24.com.tr: 🔴 Okul saldırılarıyla ilgili suç içerikli paylaşım yapan 12 ...",
+    "source": "Bluesky",
+    "time": "17/04/2026 19:28",
+    "link": "https://bsky.app/profile/t24.com.tr/post/3mjpcdouhrk2j",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "🔴 Okul saldırılarıyla ilgili suç içerikli paylaşım yapan 12 kişiye soruşturma: 17 yaşındaki \"C31K\" Telegram kanalı yöneticisi de gözaltında!\nt24.com.tr/haber/okul-s...",
+    "image": null,
+    "keyword": "c31k"
+  },
+  {
     "id": "SOC_bde6071a",
     "title": "@gazimustafa-kemal.bsky.social: SON DAKİKA | Telegram’daki “C31K” adlı grubun yöneticilerind...",
     "source": "Bluesky",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ay’da nükleer enerji kullanımı, güneş enerjisinin yarattığı bazı temel sınırlamaları aşmayı hedefliyor. Bunlar arasında, Güneş ışığının olmadığı uzun Ay geceleri ve görev menzilinin sınırlı olması yer alıyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_929410d8",
-    "title": "Gülistan Doku soruşturmasında ilk tutuklama: İhraç polis memuru 'delil yok etmekle' suçlanıyor",
-    "source": "Euronews",
-    "time": "17/04/2026 18:46",
-    "link": "http://tr.euronews.com/2026/04/16/gulistan-doku-sorusturmasinda-ilk-tutuklama-ihrac-polis-memuru-delil-yok-etmekle-suclaniyo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli'de 2020'den bu yana kayıp olan üniversite öğrencisi Gülistan Doku ile ilgili soruşturmada gözaltıların ardından ilk tutuklama geldi. İhraç edilmiş polis memuru Gökhan Ertok 'delilleri yok etme' suçlaması ile tutuklandı.",
     "image": null,
     "keyword": null
   }
