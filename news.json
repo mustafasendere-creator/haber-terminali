@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_28adbca6",
+    "title": "Saldırgana müdahale eden kahraman veli konuştu!",
+    "source": "Habertürk",
+    "time": "18/04/2026 00:26",
+    "link": "https://www.haberturk.com/son-dakika-saldirgana-mudahale-eden-kahraman-veli-konustu-o-anlari-anlatti-3877863",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'yi sarsan Kahramanmaraş'ta okuldaki dehşette, saldırganı etkisiz hale getiren \"kahraman\" velilerden N.B. o anları anlattı. N.B, \"Çocuklarım okulda olduğu için koşarak okula gittim. Okulun arka kapısından, kantin bölümünden bina içerisine girdim. Arka merdivenlerden çıktığımda bir şahsın yerde yattığını ve bu şahsı tutmaya çalışan birkaç kişiyi gördüm.\" ifadelerini kullandı. Veli, yerde yatan ve tutulmaya çalışılan kişinin saldırgan olduğunu anladığını ve ardından müdahale ettiğini anlattı",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776345690/3877863/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_2cfd946a",
     "title": "Kamera bantlama savunması",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "2026 bedelli askerlik ücreti ne kadar oldu sorusu, yeni düzenleme sonrası en çok araştırılan konular arasında yer aldı. TBMM’de kabul edilen yasa ile birlikte bedelli askerlik ücretine zam gelirken, başvuru şartları ve sevk tarihleri de netleşti. İşte 2026 bedelli askerlik hakkında tüm detaylar…",
     "image": "https://static.birgun.net/resim/haber/2026/01/06/2026-bedelli-askerlik-ucreti-ne-kadar-bedelli-askerlik-basvurulari-ve-odeme-gunu.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2cf43550",
-    "title": "Eğitim Sen'den 24 saatlik oturma eylemi: Şiddet münferit değil, sistematik sorundur!",
-    "source": "BirGün",
-    "time": "17/04/2026 23:45",
-    "link": "https://www.birgun.net/haber/egitim-sen-den-24-saatlik-oturma-eylemi-siddet-munferit-degil-sistematik-sorundur-706447",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eğitim Sen Eskişehir Şubesi, okullarda artan şiddete karşı Yediler Parkı’nda 24 saatlik oturma eylemi başlattı. Açıklamada, saldırıların münferit değil sistematik olduğu vurgulanarak güvenlik zafiyetlerine dikkat çekildi, Milli Eğitim Bakanı Yusuf Tekin istifaya çağrıldı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/egitim-sen-eskisehir-den-24-saatlik-oturma-eylemi-siddet-munferit-degil-sistematik-sorundur.jpg",
     "keyword": null
   }
 ]
