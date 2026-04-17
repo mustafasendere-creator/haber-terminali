@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_28a5552d",
+    "title": "Uydu görüntüleriyle İsrail'in Lübnan'ın güneyindeki yıkımı",
+    "source": "BBC Türkçe",
+    "time": "17/04/2026 14:05",
+    "link": "https://www.bbc.com/turkce/articles/c89530qn1e8o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "BBC'nin teyit ve doğrulama birimi BBC Verify'ın elde ettiği uydu görüntüleri ve videolar, Lübnan'ın güneyindeki kasaba ve köylerin İsrail tarafından yıkılarak yerle bir edildiğini ortaya koydu.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ecc3ddb4",
     "title": "Gördüğü rüyayla kanseri teşhis edildi: Beynimiz uykuda bize mesaj gönderebilir mi?",
     "source": "BBC Türkçe",
@@ -946,17 +958,5 @@
     "summary": "In PR 2017, ZIKV seroprevalence ↓ from 20% to 9.6% with 85% AGO use 🦟. Stronger effect in older adults, large households, homebodies. AGOs cut Zika ⚡️, pesticide-free.",
     "image": null,
     "keyword": "agos"
-  },
-  {
-    "id": "TKP_5635d3e9",
-    "title": "TEİAŞ Trabzon’da spor buluşması: İş birliği mesajı verildi",
-    "source": "61 Saat",
-    "time": "17/04/2026 13:48",
-    "link": "https://www.61saat.com/teias-trabzonda-spor-bulusmasi-is-birligi-mesaji-verildi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "TEİAŞ 14. Bölge Müdürü Sezgin Vural, Türkiye Curling Federasyonu Başkanı Kenan Şebin ile Trabzon Gençlik ve Spor İl Müdürü Lokman Arıcıoğlu ve beraberindeki heyeti makamında ağırladı. Ziyarette sporun gelişimi ve kurumlar arası iş birliği konuları ele alındı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/s-s-s-3.png",
-    "keyword": "trabzon"
   }
 ]
