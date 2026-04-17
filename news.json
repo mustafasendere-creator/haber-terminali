@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1f69188d",
+    "title": "Tekirdağ'da 'kokoreç kalmadı' diyen işletmeciyi başından vurdu",
+    "source": "Evrensel",
+    "time": "17/04/2026 14:06",
+    "link": "https://www.evrensel.net/haber/5980082/tekirdagda-kokorec-kalmadi-diyen-isletmeciyi-basindan-vurdu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cihan T, kokoreç işletmecisi Gökhan Oğrak’ı, evinin penceresinden av tüfeğiyle vurarak başından ağır yaraladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343430.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_11b6bcd5",
     "title": "Doruk Madencilik işçileri direnişin 5’inci gününde: \"Seçim zamanı işçilere söz verenler şimdi nerede?\"",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "İYİ Parti Genel Başkan Yardımcısı Kevser Ofluoğlu, saha çalışmaları kapsamında Trabzon’da gazetecilerle bir araya gelerek hem ülke gündemine hem de bölgesel sorunlara ilişkin değerlendirmelerde bulundu.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/17/large/kevser-ofluoglu-trabzonda-konustu-1776385898.jpeg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_33f7f85a",
-    "title": "Red Bull’da büyük final",
-    "source": "Cumhuriyet",
-    "time": "17/04/2026 13:49",
-    "link": "https://www.cumhuriyet.com.tr/spor/red-bull-da-buyuk-final-2495999",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Red Bull’un global sokak futbolu etkinliği Red Bull Four 2 Score Türkiye’de son eleme turu ve Türkiye Finali, 18-19 Nisan’da İzmir’de yapılacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/00c1c6c7-fcf7-4ebc-9f56-c7701552cd3f.jpg",
-    "keyword": null
   }
 ]
