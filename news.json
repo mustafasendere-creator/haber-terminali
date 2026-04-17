@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_403e1ed6",
+    "title": "Domenico Tedesco: \"Asla pes etmeyeceğiz\"",
+    "source": "Haber Global",
+    "time": "18/04/2026 00:05",
+    "link": "https://haberglobal.com/spor/domenico-tedesco-asla-pes-etmeyecegiz-519494",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Teknik Direktörü Domenico Tedesco, \"20 saniye kala o golü yiyorsunuz. Nasıl hissedebilirim. Bugün modum düşük olacak. Ama yarından itibaren pozitif olarak uyanmak isteyeceğim. Hala gitmemiz gereken yol var. Durum pozitif. Asla pes etmeyeceğiz\" değerlendirmesini yaptı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/17/domenico-tedesco-asla-pes-etmeyecegiz-v1ea.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_83de9012",
     "title": "KÜÇÜKÇEKMECE İCRA DAİRESİ",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "SOC",
     "prefix": "🦋",
     "summary": "C31 Service Alert: Expect westbound delays on Route C31 at Minnesota Ave Station due to a bus with a mechanical problem. Track your bus in real time by visiting metropulse.wmata.com/bus",
-    "image": null,
-    "keyword": "c31"
-  },
-  {
-    "id": "SOC_6c255d98",
-    "title": "@metrobusinfo.bsky.social: C21, C31, P97 Service Alert: Expect delays until 7:45pm. Tra...",
-    "source": "Bluesky",
-    "time": "17/04/2026 23:08",
-    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjppkkom7k2v",
-    "type": "SOC",
-    "prefix": "🦋",
-    "summary": "C21, C31, P97 Service Alert: Expect delays until 7:45pm. Track your bus in real time at metropulse.wmata.com/bus",
     "image": null,
     "keyword": "c31"
   }
