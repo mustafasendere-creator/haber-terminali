@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a60d090a",
+    "title": "Türkiye'ye iade edilmişti... Heykel başı Smyrna'da!",
+    "source": "Habertürk",
+    "time": "18/04/2026 00:06",
+    "link": "https://www.haberturk.com/abd-den-iade-edilen-smyrna-kokenli-heykel-basi-izmir-de-ziyarete-acildi-3877877",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'den Türkiye'ye iade edilen Smyrna Antik Kenti kökenli mermer heykel başı, doğduğu topraklardaki İzmir Arkeoloji Müzesi'nde sergilenmeye başladı",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776348677/3877877/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_8dd31d12",
     "title": "Ayvalık Belediyesi çalışmalarda sona yaklaştı",
     "source": "Habertürk",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ticaret Bakanlığı, bir marketler zincirinde satışa sunulduğu iddia edilen ayakkabıda domuz derisi bulunduğuna ilişkin \"Söz konusu ürünün satışına rastlanmamış olup, ilgili ürünün güncel satışta bulunmadığı tespit edilmiştir. ifadesini kullandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_750653b7",
-    "title": "Bakan Fidan, Türkiye-Mısır-Pakistan-Suudi Arabistan Dışişleri Bakanları 3. Toplantısı'na ev sahipliği yaptı",
-    "source": "Anadolu Ajansı",
-    "time": "17/04/2026 23:25",
-    "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiye-misir-pakistan-suudi-arabistan-disisleri-bakanlari-3-toplantisina-ev-sahipligi-yapti/3910122",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, Antalya'da Türkiye-Mısır-Pakistan-Suudi Arabistan Dışişleri Bakanları 3. Toplantısı'na ev sahipliği yaptı.",
     "image": null,
     "keyword": null
   }
