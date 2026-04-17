@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_8c8b5b79",
+    "title": "Son dakika... Erzincan'da 4.1 büyüklüğünde deprem!",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 02:46",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-erzincan-da-4-1-buyuklugunde-deprem-2496050",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika haberi... Erzincan’ın Üzümlü ilçesinde 4.1 büyüklüğünde bir deprem kaydedildi. AFAD verilerine göre; yerin yaklaşık 11 kilometre derinliğinde gerçekleşen sarsıntı, çevre ilçelerde de hissedildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/06e9079a-dd77-479a-bf3e-834218b0db07.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2e1f8a09",
     "title": "Gülistan Doku dosyası Meclis gündeminde: 'Delilleri karartan kamu görevlileri yargılanacak mı?'",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İtalya'nın Napoli kentinde 3 kişi, kent merkezindeki Credit Agricole Bankasının şubesini soydu. Saldırganlar, soygun sırasında bankada bulunan 25 kişiyi rehin aldı. Güvenlik güçlerinin şubenin içerisine girmesi sonrasında soyguncuların, banka zeminindeki bir delikten kaçtığı tespit edildi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/17/napoli-de-banka-soygunu-25-kisi-rehin-alindi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_8b8d9600",
-    "title": "TMMOB Koordinasyon Başkanı Prof. Dr. Çolak, Büyükşehir Başkanına niçin teşekkür etti?",
-    "source": "Günebakış",
-    "time": "18/04/2026 01:05",
-    "link": "https://www.gunebakis.com.tr/tmmob-koordinasyon-baskani-prof-dr-colak-buyuksehir-baskanina-nicin-tesekkur-etti/27832239",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TMMOB İl Koordinasyon Kurulu Başkanı Prof. Dr. Ebru Çolak, Trabzon’daki Meslek Odalarının görüştüğü Üçüncü Kent İstişare Toplantısında Büyükşehir Belediye Başkanı A. Metin Genç’e ayrıcalıklı olarak teşekkür etti.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/18/large/tmmob-baskani.jpg",
     "keyword": null
   }
 ]
