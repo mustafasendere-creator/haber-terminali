@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9bec03f9",
+    "title": "Erzincan’da 4.1 büyüklüğünde deprem (17.04.2026)",
+    "source": "Evrensel",
+    "time": "17/04/2026 16:26",
+    "link": "https://www.evrensel.net/haber/5980117/erzincanda-41-buyuklugunde-deprem-17042026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzincan’ın Üzümlü ilçesinde meydana gelen 4.1 büyüklüğündeki deprem çevrede hissedildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/336042.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_3c18e151",
     "title": "TBMM Bayındırlık, İmar, Ulaştırma ve Turizm Komisyonu Başkanı Adil Karaismailoğlu: Siyasi bakış açısından bağımsız...",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Üç maskeli soyguncu, 16 Nisan 2026 Perşembe günü Napoli’deki bir banka soygununda 25 kişiyi rehin aldı; ardından kentin kanalizasyon şebekesine açılan bir tünelden kaçtı, dedi yetkililer.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_09b6f1e8",
-    "title": "AB, 180 milyon avroluk bulut ihalesini dört Avrupalı şirkete verdi",
-    "source": "10Haber",
-    "time": "17/04/2026 16:06",
-    "link": "https://10haber.net/bilim-teknoloji/ab-180-milyon-avroluk-bulut-ihalesini-dort-avrupali-sirkete-verdi-696007/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AB Komisyonu, dijital bağımsızlığını güçlendirmek amacıyla AB kurumları, kuruluşları ve ajanslarının 6 yıl boyunca toplam 180 milyon avroya kadar egemen bulut hizmeti satın almasına olanak tanıyan ihalenin sonuçlandırıldığını açıkladı. Açıklamada, ihalenin Lüksemburg merkezli Post Telecom, Almanya merkezli StackIT, Fransa merkezli Scaleway ve Belçika merkezli Proximus şirketlerine verildiği, böylece AB kurumlarının bulut hizmetlerini Avrupa merkezli sağlayıcılardan [&#8230;]",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/04/image_69e22f2a694035.83608366.jpg",
     "keyword": null
   }
 ]
