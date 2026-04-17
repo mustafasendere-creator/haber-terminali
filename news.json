@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_688319f1",
+    "title": "Dışişleri Bakanı Fidan konuşuyor",
+    "source": "TRT Haber",
+    "time": "17/04/2026 15:27",
+    "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-konusuyor-942048.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Antalya Diplomasi Forumunda konuşuyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "TKP_f4473f00",
     "title": "81 ilde okul güvenlikleri artırıldı! Trabzon'da durum nasıl?",
     "source": "Karadeniz Gazetesi",
@@ -946,17 +958,5 @@
     "summary": "Ondokuz Mayıs Üniversitesi (OMÜ) ev sahipliğinde, TÜBİTAK destekli proje kapsamında 'Tarihi Kültür Miraslarında Kullanılan Yüzey Boyalarının Teknolojik Düzeylerinin Mühendislik Karakterizasyon Teknikleriyle Tespiti ve Analizi: Rize Uygulaması' başlıklı değerlendirme çalıştayı düzenlendi. Açılışta konuşan OMÜ Rektör Yardımcısı Prof. Dr. Çetin Kurnaz, 'Disiplinlerarası çalışmalar bilimsel değer üretiyor' ifadeleriyle mühendislik, tarih ve coğrafya disiplinlerinin ortak üretim gücüne dikkat çekti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/agency/iha/rektor-yardimcisi-kurnaz-disiplinlerarasi-calismalar-bilimsel-deger-uretiyor.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_d925b384",
-    "title": "Abdullah Avcı'dan şampiyonluk yarışı yorumu! \"Fatih Tekke...\"",
-    "source": "Kuzey Ekspres",
-    "time": "17/04/2026 15:06",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27829686/abdullah-avcidan-sampiyonluk-yarisi-yorumu-fatih-tekke",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor&#039;un eski teknik direktörü Abdullah Avcı, Süper Lig&#039;deki zirve yarışını değerlendirirken Galatasaray&#039;ın avantajlı olduğunu söyledi. Avcı ayrıca Trabzonspor teknik direktörü Fatih Tekke&#039;ye destek mesajı verdi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/17/large/avci.jpg",
-    "keyword": "trabzon"
   }
 ]
