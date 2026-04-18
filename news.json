@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_b2920fe7",
+    "title": "Juventus'ta Kenan Yıldız gelişmesi",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 17:41",
+    "link": "https://www.cumhuriyet.com.tr/spor/juventus-ta-kenan-yildiz-gelismesi-2496307",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Juventus'ta antrenmanlara geri dönen Kenan Yıldız, Bologna maçında forma giyebilecek.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/696cac57-57e7-4b71-bd0b-d6ecce6a9adc.jpg",
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_0d91bafa",
     "title": "Ayser Çalık Ortaokulu'nun tabelası, yeni binaya asıldı",
     "source": "Haber Global",
@@ -999,17 +1012,5 @@
     "summary": "Deplasmanda Şişli Yeditepe Engelliler Spor Kulübü ile karşılaşan Trabzon Büyükşehir Belediyesi Ampute Futbol Kulübü, rakibini 2-1 mağlup ederek haftayı 3 puanla tamamladı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/ampute.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_acccf2a8",
-    "title": "Anahtar Parti Dernekpazarı İlçe Başkanı Belli Oldu",
-    "source": "Kuzey Ekspres",
-    "time": "18/04/2026 17:21",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27835564/anahtar-parti-dernekpazari-ilce-baskani-belli-oldu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Anahtar Parti, Trabzon’un Dernekpazarı ilçesinde 1. Olağan Kongresi’ni büyük bir coşku ve yoğun katılımla gerçekleştirdi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/anahtar2.webp",
-    "keyword": null
   }
 ]
