@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_90253ab9",
+    "title": "Fenerbahçe'nin borcu açıklandı",
+    "source": "Haber Global",
+    "time": "18/04/2026 14:49",
+    "link": "https://haberglobal.com/spor/fenerbahcenin-borcu-aciklandi-519566",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Denetim Kurulu Başkanı Mehmet Vodina, Fenerbahçe Spor Kulübü'nün toplam borcunun 27 milyar 293 milyon TL olduğunu açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/fenerbahcenin-borcu-aciklandi-scem.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_985e46aa",
     "title": "Ataşehir Belediyesi’ne yönelik rüşvet soruşturması: Gözaltı sayısı 20'ye yükseldi",
     "source": "Haber Global",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Son 5 yıldır devam eden siyasi istikrarsızlık döngüsünden çıkmak isteyen Bulgaristan'da seçmenler yarın sandık başına gidecek. Yarın yapılacak erken genel seçimlere 14 siyasi parti ve 10 koalisyon katılacak, Türkiye'de yaşayan Bulgaristan vatandaşları için 27 sandık kurulacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_30400845",
-    "title": "Antalya Diplomasi Forumu'nda çocukların dijital güvenliği öne çıktı",
-    "source": "TRT Haber",
-    "time": "18/04/2026 14:39",
-    "link": "https://www.trthaber.com/haber/turkiye/antalya-diplomasi-forumunda-cocuklarin-dijital-guvenligi-one-cikti-942142.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocukların dijital mecralarda korunmasına yönelik düzenlemelerin yalnızca Türkiye'de değil birçok ülkede gündeme geldiğini belirterek, 18 aydır çocuklarla, ailelerle, akademisyenlerle beraber çalışarak Türkiye'ye özgü bir model hayata geçirdiklerini söyledi.",
     "image": null,
     "keyword": null
   }
