@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6ecdd20d",
+    "title": "Lübnan'da Fransız barış gücü askerlerine saldırı",
+    "source": "BirGün",
+    "time": "18/04/2026 16:39",
+    "link": "https://www.birgun.net/haber/lubnan-da-fransiz-baris-gucu-askerlerine-saldiri-706665",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "UNIFIL, Hizbullah tarafından düzenlendiği düşünülen saldırıda Fransız barış gücü askerinin öldüğünü açıkladı. Öte yandan Lübnan Cumhurbaşkanı Avn, Fransız mevkidaşına taziyede bulunarak saldırıya ilişkin soruşturma açılması ve faillerinin bulunması talimatını verdi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/lubnan-da-fransiz-baris-gucu-askerlerine-saldiri.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_b5300790",
     "title": "Sebat Gençlikspor, Yozgat Bozokspor'a mağlup",
     "source": "Günebakış",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uluslararası suç örgütü liderlerinden olduğu öne sürülen Daniel Kinahan, İrlanda’nın talebi üzerine Dubai’de gözaltına alındı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/4ccb9204-6ace-46ec-bd88-f4ee5d03dc7e.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a414e05e",
-    "title": "Saldırıların ardından en büyük soru: Çocukları okula gönderelim mi? 'Kalıcı çözüm bilimsel ve pedagojik bir eğitim sisteminden geçiyor'",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 15:20",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/saldirilarin-ardindan-en-buyuk-soru-cocuklari-okula-gonderelim-mi-kalici-cozum-bilimsel-ve-pedagojik-bir-egitim-sisteminden-geciyor-2496225",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye’yi sarsan okul saldırılarının ardından öğretmenler üç gün iş bıraktı; veliler ise çocuklarını okula gönderme konusunda kaygı yaşıyor. Konuya ilişkin Cumhuriyet'e konuşan TÖBSEN Genel Başkanı Deniz Ezer, \"Güvenlik görevlisi ya da fiziki önlemler elbette gerekli ancak kalıcı çözüm bilimsel ve pedagojik bir eğitim sisteminden geçiyor\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/97d05406-8da5-4ecd-b433-eb92cbc8c974.jpg",
     "keyword": null
   }
 ]
