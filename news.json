@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a777c9ff",
+    "title": "İçişleri Bakanlığı duyurdu: 20 ilde kuvvetli yağış ve sel uyarısı",
+    "source": "BirGün",
+    "time": "18/04/2026 13:25",
+    "link": "https://www.birgun.net/haber/icisleri-bakanligi-duyurdu-20-ilde-kuvvetli-yagis-ve-sel-uyarisi-706639",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, 18 Nisan Cumartesi günü için 20 ilde kuvvetli ve yer yer şiddetli sağanak uyarısı yaptı. Bakanlık, sel, su baskını, dolu ve çamur şeklinde yağış riskine karşı tedbir çağrısında bulundu",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/icisleri-bakanligi-duyurdu-20-ilde-kuvvetli-yagis-ve-sel-uyarisi.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_3fc0abf1",
     "title": "Başkan Genç Net Konuştu: \"Trabzon'a Mavi Bayrak Gelecek\"",
     "source": "Günebakış",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran Silahlı Kuvvetleri'nin savaşı yürüten birimi Hatemül Enbiya Merkez Karargahı, ABDnin deniz ablukasına devam etmesi nedeniyle Hürmüz Boğazının kontrolünün önceki haline geri döndüğünü açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_5c47d829",
-    "title": "Göçle boşalan hayalet köy Lübbey turizmle ayağa kalkacak",
-    "source": "TRT Haber",
-    "time": "18/04/2026 12:46",
-    "link": "https://www.trthaber.com/haber/turkiye/gocle-bosalan-hayalet-koy-lubbey-turizmle-ayaga-kalkacak-942127.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir'in Ödemiş ilçesinde göçler sonucu yalnızca birkaç ailenin kaldığı, terk edilmiş görüntüsü nedeniyle \"hayalet köy\" olarak anılan Lübbey Mahallesi, turizmle cazibe merkezi haline getirilecek.",
     "image": null,
     "keyword": null
   }
