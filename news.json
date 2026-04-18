@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d4e22411",
+    "title": "Sektör ve uzmanlar değerlendiriyor: Televizyon dizileri şiddeti özendiriyor mu?",
+    "source": "BBC Türkçe",
+    "time": "18/04/2026 10:25",
+    "link": "https://www.bbc.com/turkce/articles/c3v62gqvppno",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa ve Kahramanmaraş'ta yaşanan okul saldırılarının ardından çok sayıda kişi TV yapımlarında yer alan şiddet sahnelerini eleştirdi. Peki TV dizileri gerçekten de şiddeti özendiriyor mu? Uzmanlar ve sektörden insanlar neler söylüyor? BBC News Türkçe'den Burak Abatay'ın haberi",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_d9cdf57e",
     "title": "Trabzon’da elektrik kesintisi: Akçaabat ve Düzköy’de birçok mahalle etkilenecek",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gülistan Doku soruşturmasında adliyeye sevk edilen eski erkek arkadaşı Zeinal Abakarov ve üvey babası Engin Yücer tutuklandı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/gulistan-doku-sorusturmasi-zeinal-abakarov-ve-uvey-babasi-tutuklandi-1.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_516fca20",
-    "title": "KTÜ Rektörü Prof. Dr. Çuvalcı’dan İstanbul’da İki Ayrı Ziyaret",
-    "source": "Haber61",
-    "time": "18/04/2026 09:45",
-    "link": "https://www.haber61.net/trabzon/ktu-rektoru-prof-dr-cuvalcidan-istanbulda-iki-ayri-ziyaret-h629915.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "KTÜ Rektörü Prof. Dr. Hamdullah Çuvalcı, Türk-Alman Üniversitesi Rektörü Prof. Dr. Cemal Yıldız ile VakıfBank Genel Müdürlüğü görevine atanan Osman Arslan'ı ziyaret etti.",
-    "image": "https://resim.haber61.net/news/613296.jpg",
     "keyword": null
   }
 ]
