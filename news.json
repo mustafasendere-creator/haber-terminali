@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_020d9351",
+    "title": "Gözaltına alınan eski Tunceli Valisi Tuncay Sonel, Erzurum’a getirildi",
+    "source": "Evrensel",
+    "time": "18/04/2026 12:26",
+    "link": "https://www.evrensel.net/haber/5980218/gozaltina-alinan-eski-tunceli-valisi-tuncay-sonel-erzuruma-getirildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturması kapsamında Elazığ’da gözaltına alınan eski Tunceli Valisi Tuncay Sonel, sabah saatlerinde Erzurum’a getirildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343012.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_00be66d7",
     "title": "İran Hürmüz Boğazı'nı tekrar kapattı",
     "source": "Kuzey Ekspres",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Avrupa hedefi için ilk 2’yi zorluyor. Bordo-mavililer hem lig hem kupa yoluyla Avrupa kupalarına katılmak istiyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/d1306d1d-f4d2-49ea-bb35-e42e554cbd08.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3e5b2837",
-    "title": "İstanbul Tabip Odası seçimi öncesi 'liste birleşmesi' krizi: Aynı isimler, farklı logolar...",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 11:46",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-tabip-odasi-secimi-oncesi-liste-birlesmesi-krizi-ayni-isimler-farkli-logolar-2496213",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Tabip Odası seçimleri öncesi Değişim Grubu ile Türk Hekimleri Grubu’nun \"listelerinin birleştiği\" iddiası tartışma yarattı. İddialara tepki gösteren Demokratik Katılım Grubu, aynı isimlerin farklı listelerle sunulmasının seçmeni yanıltabileceğini savundu. İşte ayrıntılar...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/56f75481-ca14-4421-9410-cc4af48dd084.jpg",
-    "keyword": null
   }
 ]
