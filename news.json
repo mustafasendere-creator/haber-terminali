@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_10e63b85",
+    "title": "Gülistan Doku soruşturması: Tuncay Sonel’in yakın koruması Şükrü Eroğlu tutuklandı",
+    "source": "Evrensel",
+    "time": "18/04/2026 15:39",
+    "link": "https://www.evrensel.net/haber/5980251/gulistan-doku-sorusturmasi-tuncay-sonel-in-yakin-korumasi-sukru-eroglu-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturmasında gözaltına alınan dönemin Tunceli Valisi Tuncay Sonel’in yakın koruması Şükrü Eroğlu, “kasten öldürme” suçlamasıyla tutuklandı. Dosyada tutuklu sayısı 9’a yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343590.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3edc2006",
     "title": "Van’da pazar esnafı ve yurttaşlar tepkili: “Hiçbir şey alınmıyor, her şey giderek pahalanıyor”",
     "source": "Evrensel",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ABD'ye ait \"USS Gerald R. Ford\" uçak gemisinin, Akdeniz'deki bir aydan uzun süren onarım sürecinin ardından Kızıldeniz'e döndüğü ve böylece yeniden Orta Doğu bölgesinde konuşlandırıldığı iddia edildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e3b2dc8f",
-    "title": "TBMM Başkanı Kurtulmuş, Cezayir Ulusal Halk Meclisi Başkanı Boughali ile görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 15:18",
-    "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-cezayir-ulusal-halk-meclisi-baskani-boughali-ile-gorustu/3910592",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, Cezayir Ulusal Halk Meclisi Başkanı İbrahim Boughali ile Parlamentolar Arası Birlik (PAB) 152'nci Genel Kurulu marjında bir araya geldi.",
     "image": null,
     "keyword": null
   }
