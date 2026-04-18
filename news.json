@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_acc31368",
+    "title": "Kuvvetli fırtına TIR'da taşınan konteyneri yola uçurdu!",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 11:27",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kuvvetli-firtina-tir-da-tasinan-konteyneri-yola-ucurdu-2496207",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İskenderun ilçesinde kuvvetli fırtına seyir halindeki TIR'da taşınan yük konteynerini yola uçurdu. Olayda yaralanan olmazken, konteynerin tırdan yola uçtuğu anlar araç kamerasına yansıdı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e9272738-983a-4ad6-9afd-d4ee8e95b357.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3e84fcb1",
     "title": "Şimşek’ten küresel ekonomi mesajı: 'Riskleri çeşitlendirmek zorundayız'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Enerji ve Tabii Kaynaklar Bakanlığı ile TÜBİTAK iş birliğinde düzenlenen \"Lise Öğrencileri Arası Enerji Verimliliği Proje Yarışması\"nın sonuçları açıklandı.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_72be47e0",
-    "title": "Çömlekçi'de yılların sorununa sonunda kazma vuruldu",
-    "source": "Haber61",
-    "time": "18/04/2026 11:05",
-    "link": "https://www.haber61.net/trabzon/comlekcide-yillarin-sorununa-sonunda-kazma-vuruldu-h629902.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Çömlekçi Mahallesi’nde yıllar içinde atıl ve sağlıksız bir alana dönüşen altgeçit, Büyükşehir Belediyesi’nin başlattığı yenileme çalışmasıyla modern bir görünüme kavuşturuluyor.",
-    "image": "https://resim.haber61.net/news/613274.jpg",
     "keyword": null
   }
 ]
