@@ -1,5 +1,18 @@
 [
   {
+    "id": "SOC_60f57b88",
+    "title": "@thejungleview.bsky.social: 🎥 A video of Liam Kelly's goal against Türkiye in the UEFA U...",
+    "source": "Bluesky",
+    "time": "18/04/2026 18:12",
+    "link": "https://bsky.app/profile/thejungleview.bsky.social/post/3mjrptfc7mk2p",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "🎥 A video of Liam Kelly's goal against Türkiye in the UEFA U16 Development Tournament on Friday.\n\nWatch ⤵️",
+    "image": null,
+    "keyword": "türkiye",
+    "has_video": false
+  },
+  {
     "id": "SOC_cf8056d1",
     "title": "@gazeteoksijen.com: İBB'nin 1 lira kararının ardından: Yerebatan’da ilk 5 saatte...",
     "source": "Bluesky",
@@ -1024,19 +1037,6 @@
     "summary": "🇹🇷 İstanbul Tabip Odası seçimi: İktidara yakın iki grup ittifakla giriyor\n18.04.2026 Diken İstanbul Tabip Odası, yarın seçime gidiyor. AKP iktidarına yakın Değişim Grubu’y…\n#Türkiye #Turkiye #Haber #Gündem #Gundem #Diken",
     "image": null,
     "keyword": "türkiye",
-    "has_video": false
-  },
-  {
-    "id": "GND_9e1042b8",
-    "title": "Ödemiş'te eğitim sendikalarından okullardaki şiddete tepki: Sorumlular hesap verene kadar mücadele edeceğiz",
-    "source": "Evrensel",
-    "time": "18/04/2026 17:39",
-    "link": "https://www.evrensel.net/haber/5980266/odemiste-egitim-sendikalarindan-okullardaki-siddete-tepki-sorumlular-hesap-verene-kadar-mucadele-edecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eğitim Sen, Eğitim İş ve Eğitimin Gücü Ödemiş'te okullarda yaşanan şiddete karşı ortak yürüyüş ve basın açıklaması düzenledi. Öğrenci ve velilerin destek verdiği yürüyüşte sorumlular hesap verene kadar mücadelenin süreceği belirtildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343609.jpg",
-    "keyword": null,
     "has_video": false
   }
 ]
