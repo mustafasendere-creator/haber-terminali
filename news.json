@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d8b3fdbf",
+    "title": "BM: Gazze'nin hiçbir yerinde siviller için güvenlik bulunmuyor",
+    "source": "TRT Haber",
+    "time": "18/04/2026 07:26",
+    "link": "https://www.trthaber.com/haber/dunya/bm-gazzenin-hicbir-yerinde-siviller-icin-guvenlik-bulunmuyor-942094.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler BM, ateşkese rağmen İsrail'in saldırılarının devam ettiği Gazze'de yaşayan Filistinliler için \"garanti edilmiş bir güvenliğin\" olmadığını bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_f7c09486",
     "title": "PCHR: İsrail'in esir ihlallerinde benzeri görülmemiş artış yaşanıyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul LCW deposundan genç bir işçi, 1 Mayıs'ı tatil değil, \"yalnız olmadığını görme günü\" olarak tanımlıyor. Ağır şartlara ve geçim derdine karşı, tüm genç işçileri beraber olmaya çağırıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/322697.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_3dbd19ed",
-    "title": "İsimleri yok paraları bol: Bütçeden vakıflar can suyu",
-    "source": "BirGün",
-    "time": "18/04/2026 05:25",
-    "link": "https://www.birgun.net/haber/isimleri-yok-paralari-bol-butceden-vakiflar-can-suyu-706575",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bütçeden, “Kâr amacı gütmeyen diğer kuruluşlar” adı altında faaliyet gösteren vakıf ve derneklere Mart 2026’da rekor kaynak transferi yapıldığı açığa çıktı. 2025 yılının tamamında 1,4 milyar TL olan ismi açıklanmayan vakıf ve derneklere yapılan kaynak transferinin, yalnızca Mart 2026’da 1,1 milyar TL olarak gerçekleştiği belirlendi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/isimleri-yok-paralari-bol-butceden-vakiflar-can-suyu.jpg",
     "keyword": null
   }
 ]
