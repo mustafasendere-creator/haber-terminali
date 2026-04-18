@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_05098813",
+    "title": "İstanbul Yüksek Ticaret ve Marmara Üniversitesi İktisadi ve İdari Bilimler Fakültesi Mezunları Derneği ve İSTİVAK’tan okul saldırılarına tepki",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 20:25",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-yuksek-ticaret-ve-marmara-universitesi-iktisadi-ve-idari-bilimler-fakultesi-mezunlari-dernegi-ve-istivak-tan-okul-saldirilarina-tepki-2496326",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa ve Kahramanmaraş’ta okullara yönelik saldırılar sonrası İstanbul Yüksek Ticaret ve Marmara Üniversitesi İktisadi ve İdari Bilimler Fakültesi Mezunları Derneği ile İSTİVAK açıklama yaptı. Açıklamada, eğitim kurumlarının hedef alınmasının toplumun geleceğine yönelik bir saldırı olduğu vurgulandı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c26faa18-efa2-43d1-81e7-7e02aed78879.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_da47f530",
     "title": "CANLI YAYIN: Gençlerbirliği - Galatasaray | CANLI ANLATIM: Trendyol Süper Lig 30. hafta mücadelesi",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Valisi Tahir Şahin, Naci Orhan Bilgisayar Bilimleri ve Kodlama Eğitim Merkezi’nde öğrencilerin çalışmalarını yerinde inceledi.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/trabzon-valisi-tahir-sahinden-kodlama-merkezine-ziyaretjpg3.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "SOC_5682ff40",
-    "title": "Bilim Şenliği @bilimsenligi · 29d TÜBİTAK 4005 Kültürel Mira...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 20:06",
-    "link": "https://x.com/bilimsenligi/status/2045540557821239545",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "Bilim Şenliği @bilimsenligi · 29d TÜBİTAK 4005 Kültürel Miras Oyunla Canlanıyor: Öğretmenler Yapay Zekâ ile “Kültür Oyunları” Geliştirecek!Proje kapsamında Trabzon, Giresun, Rize, Bayburt ve Gümüşhane illerinde görev yapan toplam 25 #Türkçe ve #SosyalBilgileröğretmeni kabul edilecektir. bilimsenligi.com/tubitak-4005-k … 20",
-    "image": "https://pbs.twimg.com/media/HGM4SMhXwAAg-2X?format=jpg&name=small",
-    "keyword": "\"trabzon\" and (\"açıklama\" or \"karar\" or \"iptal\" or \"istifa\" or \"atama\" or \"proje\" or \"ihale\" or \"tepki\" or \"yürüyüş\" or \"eylem\" or \"basın açıklaması\" or \"miting\") -filter:replies"
   }
 ]
