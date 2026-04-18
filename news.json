@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b1da2872",
+    "title": "Liberland Cumhurbaşkanı Gürsel Tekin’le görüştü",
+    "source": "OdaTV",
+    "time": "18/04/2026 20:07",
+    "link": "https://www.odatv.com/guncel/liberland-cumhurbaskani-gursel-tekinle-gorustu-120143828",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Liberland Cumhurbaşkanı Vít Jedlička, Türkiye ziyaretinde Gürsel Tekin ile bir araya geldi. Liberland vatandaşlığına Türkiye’den yoğun ilgi olduğunu ve yaklaşık 80 bin başvuru yapıldığını açıkladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/liberland-cumhurbaskani-gursel-tekinle-gorustu-kkcf.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_561c1d5f",
     "title": "Ayser Çalık Ortaokulu'nun tabelası taşındığı binaya asıldı",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Gülistan Doku ile ilgili yürütülen soruşturmada adliyeye sevk edilen dönemin Tunceli Valisi Tuncay Sonel'in oğlu Mustafa Türkay Sonel tutuklandı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/gulistan-doku-sorusturmasi-valinin-oglu-mustafa-turkay-sonel-tutuklandi.png",
     "keyword": null
-  },
-  {
-    "id": "SOC_d9a73904",
-    "title": "Fuar Dergisi @fuardergisi · 43d TİSAD Başkanı Murat Çavga Çi...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 20:03",
-    "link": "https://x.com/fuardergisi/status/2045536183199916290",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "Fuar Dergisi @fuardergisi · 43d TİSAD Başkanı Murat Çavga Çinli Ziyaretçilerin Trabzon’a İlgisi Büyük  fuardergisi.com.tr/tisad-baskani- …  #tisad #muratçavga #trabzon #ekonomi #haber #gündem #şirkethaberleri TİSAD Başkanı Murat Çavga Çinli Ziyaretçilerin Trabzon’a İlgisi Büyük Kaynak: fuardergisi.com.tr 8",
-    "image": null,
-    "keyword": "\"trabzon\" and (\"ajan\" or \"bakan\" or \"emniyet\" or \"fetö\" or \"gündem\" or \"c31k\" or \"c31\" or \"halkevi\" or \"halk evi\" or \"intihar\" or \"istihbarat\" or \"jandarma\" or \"memur\" or \"okul\" or \"polis\" or \"sol\" or \"sondakika\" or \"son dakika\" or \"ziyaret\")"
   }
 ]
