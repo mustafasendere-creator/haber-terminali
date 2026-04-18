@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a9948718",
+    "title": "Euroleague'in sayı kralı Olympiakos'tan Sasha Vezenkov oldu",
+    "source": "Haber Global",
+    "time": "18/04/2026 20:05",
+    "link": "https://haberglobal.com/spor/euroleaguein-sayi-krali-olympiakostan-sasha-vezenkov-oldu-519627",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Euroleague'de normal sezon karşılaşmalarının tamamlanmasının ardından sayı kralı ödülünün sahibi Olympiakos'tan Sasha Vezenkov oldu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/euroleaguein-sayi-krali-olympiakostan-sasha-vezenkov-oldu-fvqx.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_1f7e0071",
     "title": "Trabzonspor'da tutunamamıştı, şimdi alkışları topluyor! ''İnanılmaz bir yetenek''",
     "source": "Kuzey Ekspres",
@@ -961,18 +973,5 @@
     "image": null,
     "keyword": "\"trabzon\" and (\"cehennem\" or \"cuma\" or \"ket\" or \"saldırı\" or \"okul\" or \"baskın\" or \"öğretmen\" or \"öğrenci\" or \"şiddet\" or \"bıçak\" or \"kavga\" or \"dehşet\" or \"tehdit\" or \"olay yeri\" or \"lise\")",
     "has_video": false
-  },
-  {
-    "id": "SOC_f0dbbb07",
-    "title": "Capella @mycapella01 · 1m #ErdemŞanlı bu sefer de Göztepe ma...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 19:36",
-    "link": "https://x.com/mycapella01/status/2045540890924429421",
-    "type": "SOC",
-    "prefix": "📹",
-    "summary": "Capella @mycapella01 · 1m #ErdemŞanlı bu sefer de Göztepe maçında Trabzonspor formasıyla göründü. İçindeki İso Furtuna'yı susturamıyor sanırım  From  Nan 10",
-    "image": null,
-    "keyword": "\"c31\" or \"c31k\" or \"polis intihar\" or \"trabzonspor\"",
-    "has_video": true
   }
 ]
