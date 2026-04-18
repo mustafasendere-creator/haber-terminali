@@ -1,5 +1,18 @@
 [
   {
+    "id": "TKP_0b6d9c72",
+    "title": "Trabzonspor’a Yaslı Haber",
+    "source": "Taka Gazetesi",
+    "time": "18/04/2026 18:49",
+    "link": "https://www.takagazete.com.tr/trabzonspora-yasli-haber",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "2003-2005 yılları arasında Trabzonspor Başkanlığı yapan Atay Aktuğ hayatını kaybetti.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/18cfb3693cd74bf0bb0ff300fe248273.webp",
+    "keyword": "trabzon",
+    "has_video": false
+  },
+  {
     "id": "GND_fa1c70a0",
     "title": "CHP'li Ülkü İnanlı: Gerçek ortada; ekonomi kötü yönetiliyor, bedelini herkes ödüyor",
     "source": "BirGün",
@@ -1022,19 +1035,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Viktor Orban, adli sorunları olan yabancı siyasetçi dostlarına sığınma hakkı tanımıştı. Müstakbel Başbakan Peter Magyar ise kendileri ayrılmadığı takdirde bu kişileri sınır dışı edeceğini açıkladı.",
-    "image": null,
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "GND_4b950cde",
-    "title": "Dünya artan enerji fiyatlarına karşı hangi önlemleri alıyor?",
-    "source": "DW Türkçe",
-    "time": "18/04/2026 17:59",
-    "link": "https://www.dw.com/tr/dünya-artan-enerji-fiyatlarına-karşı-hangi-önlemleri-alıyor/a-76811841?maca=tur-rss-tur-all-1495-rdf",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya’da bir litre mazot, ABD ve İsrail’in İran’a yönelik saldırısından önceye kıyasla yaklaşık yüzde 40 daha pahalı. Birçok ülkede de durum buna benzer. Peki hükümetler, rekor fiyat artışlarına karşı ne yapıyor?",
     "image": null,
     "keyword": null,
     "has_video": false
