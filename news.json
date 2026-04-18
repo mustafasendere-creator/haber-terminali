@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0bd04274",
+    "title": "Kadıköy'de 12 saatlik su kesintisi",
+    "source": "TRT Haber",
+    "time": "18/04/2026 14:39",
+    "link": "https://www.trthaber.com/haber/turkiye/kadikoyde-12-saatlik-su-kesintisi-942144.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Su ve Kanalizasyon İdaresi İSKİ, yapımı devam eden ÜmraniyeAtaşehirGöztepe Metro Hattı inşaatı çalışmaları nedeniyle, pazartesi günü Kadıköy'de bazı mahallelere 12 saat süreyle su verilemeyeceğini bildirdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9c91ae2a",
     "title": "Antalya Diplomasi Forumu kapsamında COP31 paneli düzenlendi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Emek Partisi Kayseri İl Örgütü, büyükşehir belediyesinin ulaşım zammına tepki göstererek, emekliye verilen nakdi destek ile birlikte yapılan artışın “göz boyama” olduğunu söyledi; zamların geri çekilmesini istedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343572.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_498b41af",
-    "title": "Cumartesi Anneleri 1099. haftada sordu: 45 yıldır yanıt yok, Nurettin Yedigöl nerede?",
-    "source": "Evrensel",
-    "time": "18/04/2026 13:56",
-    "link": "https://www.evrensel.net/haber/5980234/cumartesi-anneleri-1099-haftada-sordu-45-yildir-yanit-yok-nurettin-yedigol-nerede",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumartesi Anneleri, 1099. hafta buluşmasında 1981’de gözaltında kaybedilen Nurettin Yedigöl’ün akıbetini sorarak, 45 yıldır sonuçsuz kalan dosyada hakikatin ve adaletin ortaya çıkarılmasını istedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343574.jpg",
     "keyword": null
   }
 ]
