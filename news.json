@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_51d5058a",
+    "title": "Kayıp olarak aranıyordu: 16 yaşındaki Feyza'dan kötü haber",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 10:27",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/kayip-olarak-araniyordu-16-yasindaki-feyza-dan-kotu-haber-2496197",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Isparta’da sabah saatlerinden itibaren kayıp olarak aranan lise öğrencisi 16 yaşındaki Feyza Keskin, akşam saatlerinde boş bir binanın önünde hareketsiz halde bulundu. Yapılan incelemede genç kızın hayatını kaybettiği belirlendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/993bee8e-7bc6-4121-b455-90ca74638033.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_80dee63f",
     "title": "Trump’tan Küba’ya müdahale sinyali: 70 yıldır beklenen gün gelecek",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Air Canada, ABD ve İsrail'in İran'a saldırıları nedeniyle uçak yakıtı fiyatlarının ikiye katlanmasını gerekçe göstererek bazı hatlarını uçuşa kapattığını duyurdu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_6d9d2331",
-    "title": "Teknoloji devlerinin veri merkezi harcamaları 400 milyar doları aştı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 10:05",
-    "link": "https://www.aa.com.tr/tr/bilim-teknoloji/teknoloji-devlerinin-veri-merkezi-harcamalari-400-milyar-dolari-asti/3910307",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Teknoloji şirketlerinin veri merkezi yatırımlarına yönelik sermaye harcamaları geçen yıl 400 milyar doların üzerine çıktı.",
     "image": null,
     "keyword": null
   }
