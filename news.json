@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_bb2c6618",
+    "title": "Lübnanlıların ateşkesle birlikte ülkenin güneyindeki evlerine dönüşü sürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 20:03",
+    "link": "https://www.aa.com.tr/tr/dunya/lubnanlilarin-ateskesle-birlikte-ulkenin-guneyindeki-evlerine-donusu-suruyor-/3910874",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail saldırılarıyla yerinden edilen Lübnanlı ailelerin, ilan edilen ateşkesin ikinci gününde dönüşleri devam ediyor.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_8a968fc0",
     "title": "Gülistan Doku soruşturmasında dönemin Tunceli Valisi olan Sonel'in oğlu tutuklandı",
     "source": "Anadolu Ajansı",
@@ -1020,19 +1032,6 @@
     "summary": "Bangladeş Dışişleri Bakanı Khalilur Rahman, Hürmüz Boğazı'nın yeniden açılmamasının \"enerji mevcudiyetini zorlaştıracağını\" belirterek, tedarik zincirlerinin normale dönmesinin zaman alacağını söyledi.",
     "image": null,
     "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "TKP_e4013a42",
-    "title": "Trabzonspor'un eski başkanı Atay Aktuğ vefat etti",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 18:48",
-    "link": "https://www.cumhuriyet.com.tr/spor/trabzonspor-un-eski-baskani-atay-aktug-vefat-etti-2496322",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Kulübü eski başkanı Atay Aktuğ vefat etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b5eaca4b-9c11-4f0b-a9c5-cb57276c75fa.jpg",
-    "keyword": "trabzon",
     "has_video": false
   }
 ]
