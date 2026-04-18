@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_86ab8beb",
+    "title": "Ataşehir Belediyesi'ne gece yarısı operasyonu: Onursal Adıgüzel gözaltına alındı",
+    "source": "BirGün",
+    "time": "18/04/2026 03:25",
+    "link": "https://www.birgun.net/haber/atasehir-belediyesi-ne-gece-yarisi-operasyonu-onursal-adiguzel-gozaltina-alindi-706582",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Ataşehir Belediyesi’ne gece yarısı operasyonu düzenlendi. Belediye Başkanı Onursal Adıgüzel dahil 18 kişi gözaltına alındı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/atasehir-belediyesi-ne-gece-yarisi-operasyonu-onursal-adiguzel-gozaltina-alindi.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_66c7803e",
     "title": "@muhammedmustafa.bsky.social: Üniversitelerde artan öğrenci sayıları artıyor ancak yemek v...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Cumhuriyet Başsavcılığı'ndan yapılan açıklamada, okul çağındaki çocukları, diğer öğrencilere ve öğretmenlere karşı şiddet içerikli eylemler gerçekleştirmeye teşvik ettiği ve şiddete yönlendirici paylaşımlar yaptığı iddiasıyla YouTube'daki \"Minecraft Parodileri\" isimli hesaba erişim engeli getirildi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/bassavcilik-minecraft-parodileri-isimli-hesaba-erisim-engeli-getirdi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bf66dea8",
-    "title": "S&P Türkiye'nin kredi notunu teyit etti",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 01:25",
-    "link": "https://www.aa.com.tr/tr/ekonomi/sp-turkiyenin-kredi-notunu-teyit-etti/3910210",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası kredi derecelendirme kuruluşu Standard & Poor's (S&amp;P), Türkiye'nin kredi notlarını \"BB-/B\" olarak teyit etti, not görünümünü \"durağan\" olarak tuttu.",
-    "image": null,
     "keyword": null
   }
 ]
