@@ -1,5 +1,18 @@
 [
   {
+    "id": "SOC_3840c7fc",
+    "title": "@sondakikatr.bsky.social: 📰 🔴 SON DAKİKA: ‘Zelenskiy, Kuzey Akım sabotajına bizzat ona...",
+    "source": "Bluesky",
+    "time": "18/04/2026 18:57",
+    "link": "https://bsky.app/profile/sondakikatr.bsky.social/post/3mjrsbydciz2j",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "📰 🔴 SON DAKİKA: ‘Zelenskiy, Kuzey Akım sabotajına bizzat onay verdi’\n\nKaynak: Sputnik Türkiye\n\n#haber #sondakika #gündem #türkiye #dünya",
+    "image": null,
+    "keyword": "türkiye",
+    "has_video": false
+  },
+  {
     "id": "SOC_bb52e4ea",
     "title": "@kmmedya.bsky.social: Bolu’da 78 kişinin hayatını kaybettiği Kartalkaya katliamınd...",
     "source": "Bluesky",
@@ -1024,19 +1037,6 @@
     "summary": "Motorin fiyatlarında 8 TL indirim beklentisi gündemde. Hürmüz Boğazı’nın açılması sonrası petrol düşerken, akaryakıt indirimi ne kadar olacak sorusu öne çıkıyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/motorin-indirim.png",
     "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "TKP_df2e7f66",
-    "title": "Trabzonspor’dan Taziye Mesajı:Eski başkan Atay Aktuğ vefat etti",
-    "source": "Haber61",
-    "time": "18/04/2026 18:28",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspordan-taziye-mesajieski-baskan-atay-aktug-vefat-etti-h629962.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un hem futbolcu hem de başkan olarak hizmet veren efsane isimlerinden Atay Aktuğ, 81 yaşında hayatını kaybetti.",
-    "image": "https://resim.haber61.net/news/613378.jpg",
-    "keyword": "trabzon",
     "has_video": false
   }
 ]
