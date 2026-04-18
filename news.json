@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_852dd2d9",
+    "title": "Estetikle yüzünü değiştiren cinayet zanlısı yakalandı",
+    "source": "TRT Haber",
+    "time": "18/04/2026 13:27",
+    "link": "https://www.trthaber.com/haber/turkiye/estetikle-yuzunu-degistiren-cinayet-zanlisi-yakalandi-942101.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da 2010 yılında işlenen bir cinayetin azmettiricisi olduğu iddiasıyla 7 yıldır Gürcistan'da firari olan Barış Mirza, estetik operasyonlarla yüzünü değiştirip kardeşinin kimliğiyle Türkiye'ye giriş yapınca Ankara polisinin titiz takibiyle yakalanarak tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9b3a5160",
     "title": "İstanbul Havalimanında üçlü pistle 50 bin ton karbon emisyonu önlendi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzon Üniversitesi Dekanı Prof. Dr. İsmail Hakkı Demircioğlu, okul saldırılarının ardından güvenli okul kavramının yeniden gündeme geldiğini belirtti.",
     "image": "https://resim.haber61.net/news/613327.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2cf7ba86",
-    "title": "Naci Görür, Erzincan depreminin ardından uyardı: \"Yeri kritik\"",
-    "source": "BirGün",
-    "time": "18/04/2026 13:05",
-    "link": "https://www.birgun.net/haber/naci-gorur-erzincan-depreminin-ardindan-uyardi-yeri-kritik-706627",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Erzincan’ın Üzümlü ilçesinde meydana gelen 4,1 büyüklüğündeki depremi değerlendiren Prof. Dr. Naci Görür, sarsıntının küçük olmasına rağmen Kuzey Anadolu Fay Hattı üzerindeki Yedisu Fay zonunda gerçekleştiğine dikkat çekerek, olası büyük bir deprem riskine karşı uyardı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/naci-gorur-erzincan-depreminin-ardindan-uyardi-yeri-kritik.jpg",
     "keyword": null
   }
 ]
