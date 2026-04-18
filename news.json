@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_fbe5e41d",
+    "title": "Meclis yeni komisyonun kurulmasını beklerken, eskinin önerisi rafta bekliyor: Çözüm 20 yıldır Meclis’te",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 06:45",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/meclis-yeni-komisyonun-kurulmasini-beklerken-eskinin-onerisi-rafta-bekliyor-cozum-20-yildir-meclis-te-2496132",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Okul saldırıları sonrası Meclis’te çocukların şiddete yönelmesiyle ilgili yeni bir komisyonun kurulması beklenirken, bundan 20 yıl önce aynı amaçla kurulan komisyonun raporundaki tespitler rafta kaldı. Raporda çocukların psikolojik takibinin yapılması, okul sonrası sanat, spor ve kültür etkinliklerine yönlendirilmesi, evlerinde silah bulunduran ebeveynlerin silahları evden çıkarmasını sağlamaları gibi öneriler yer alıyordu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9ac0ba22-a861-483c-a57f-5ad648ad7c69.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f4ba1da0",
     "title": "Gülistan Doku davası: İtirafçı eski polisin ifadesi ortaya çıktı! İki isimi işaret etti",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "🛑Okul saldırılarının ardında olduğu iddia edilen grup emekli \n\n🛑Babüroğlu X hesabından yaptığı açıklamada\"C31K örgütünden dün telefonuma bu tehdit mesajı geldi. Telefonu nereden buluyorlar? Örgütlü oldukları belli.Yasal işlem başlattım, ama yine de paylaşmakta yarar gördüm.Kamuoyunun bilgisine\" dedi",
     "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d5p2j2zrhu5j7vw5wpormayc/bafkreib3tfbpknrzrg4224ckbma2n24rjlklsdybqpwbovpgnwjer5npkq",
     "keyword": "c31k"
-  },
-  {
-    "id": "GND_cc7bc778",
-    "title": "Genç kızın acı sonu",
-    "source": "OdaTV",
-    "time": "18/04/2026 03:25",
-    "link": "https://www.odatv.com/guncel/zonguldakta-kamyonun-carptigi-genc-kizdan-aci-haber-120143746",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Zonguldak&#039;ın Devrek ilçesinde yolun karşısına geçerken kamyonun çarptığı genç kız hayatını kaybetti.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/zonguldakta-kamyonun-carptigi-genc-kizdan-aci-haber-cvsm.jpg",
-    "keyword": null
   }
 ]
