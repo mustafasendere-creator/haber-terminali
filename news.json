@@ -1,5 +1,18 @@
 [
   {
+    "id": "TKP_df2e7f66",
+    "title": "Trabzonspor’dan Taziye Mesajı:Eski başkan Atay Aktuğ vefat etti",
+    "source": "Haber61",
+    "time": "18/04/2026 18:28",
+    "link": "https://www.haber61.net/trabzonspor/trabzonspordan-taziye-mesajieski-baskan-atay-aktug-vefat-etti-h629962.html",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzonspor’un hem futbolcu hem de başkan olarak hizmet veren efsane isimlerinden Atay Aktuğ, 81 yaşında hayatını kaybetti.",
+    "image": "https://resim.haber61.net/news/613378.jpg",
+    "keyword": "trabzon",
+    "has_video": false
+  },
+  {
     "id": "TKP_c6a9ac20",
     "title": "Trabzonspor Başkanı Ertuğrul Doğan'dan vefat eden Atay Aktuğ için taziye mesajı",
     "source": "Haber61",
@@ -1022,19 +1035,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Almanya ve Fransa'nın ortak yeni nesil savaş uçağı projesi rafa kalkmak üzere. Aylardır aşılamayan krizin çözümüne yönelik arabuluculuk girişimi de sonuç vermedi. Artık gözler Kıbrıs'taki Merz-Macron görüşmesinde.",
-    "image": null,
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "GND_f6732597",
-    "title": "İran ABD ablukası nedeniyle Hürmüz Boğazı'nı yeniden kapattı",
-    "source": "DW Türkçe",
-    "time": "18/04/2026 17:40",
-    "link": "https://www.dw.com/tr/iran-abd-ablukası-nedeniyle-hürmüz-boğazı-nı-yeniden-kapattı/a-76841281?maca=tur-rss-tur-all-1495-rdf",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran ordusu, Cuma günü yeniden deniz trafiğine açılan Hürmüz Boğazı'nda \"sıkıyönetime\" geri dönüldüğünü açıkladı. Kapatma kararına gerekçe olarak ABD'nin İran limanlarına yönelik deniz ablukasını kaldırmaması gösterildi.",
     "image": null,
     "keyword": null,
     "has_video": false
