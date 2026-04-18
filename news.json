@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b495e5b9",
+    "title": "Moskova’da Son Yayın",
+    "source": "BirGün",
+    "time": "18/04/2026 05:05",
+    "link": "https://www.birgun.net/makale/moskovada-son-yayin-706579",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Baskının en ileri aşaması, insanların konuşamaması değil, konuşacak bir şey kaldığına artık inanmamasıdır. My Undesirable Friends: Last Air in Moscow belgeseli, hakikatin bir \"saldırı\" olarak kodlandığı o gri bölgeyi, birikerek artan bir klostrofobiyle kaydediyor.",
+    "image": "https://static.birgun.net/resim/makale/2026/04/18/moskovada-son-yayin.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3a51b3bb",
     "title": "Cumhur İttifakı İstanbul Tabip Odası’na çökmeye çalışıyor",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Polonya’da düzenlenecek olan Budokaido Dünya Şampiyonası öncesinde, Türkiye’nin dört bir yanından gelerek Hatay’ın Yayladağı ilçesinde kampa giren Millî Sporcular, ilçe protokolü tarafından ziyaret edildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/milli-sporculara-moral-ziyareti-sroz.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_553971f7",
-    "title": "Özgür Özel, GPM Liderler Resepsiyonu’na katıldı",
-    "source": "Ekonomim",
-    "time": "18/04/2026 01:45",
-    "link": "https://www.ekonomim.com/gundem/ozgur-ozel-gpm-liderler-resepsiyonuna-katildi-haberi-888837",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Genel Başkanı Özgür Özel, İspanya&#039;da yapılan Küresel İlerici Seferberlik’in (GPM) Liderler Resepsiyonu’na katıldı",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/18/ozgur-ozel-gpm-liderler-resepsiyonuna-katildi-mczk_cover.jpg",
     "keyword": null
   }
 ]
