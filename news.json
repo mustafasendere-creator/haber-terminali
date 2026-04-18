@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_be7a824e",
+    "title": "Denizli’de Ortadoğu ve NATO paneli: “İşçilerin ve halkların güvenliğinin garantisi birleşik mücadelesi”",
+    "source": "Evrensel",
+    "time": "18/04/2026 16:59",
+    "link": "https://www.evrensel.net/haber/5980257/denizlide-ortadogu-ve-nato-paneli-iscilerin-ve-halklarin-guvenliginin-garantisi-birlesik-mucadelesi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Denizli’de düzenlenen “Ortadoğu’da savaş, NATO ve emperyalizm” panelinde konuşan EMEP’li İskender Bayhan, NATO’nun halkların güvenliğini sağlamadığını belirterek, çözümün işçi ve ezilen halkların birleşik mücadelesinde olduğunu vurguladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343596.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_51408d10",
     "title": "SES Kayseri Şubesi: “Sağlıkta ve toplumda şiddete karşı mücadele büyütülmeli”",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Sakarya merkezli 13 ilde düzenlenen yasa dışı bahis operasyonunda, siber suçlarla mücadele ekipleri büyük bir şebekeyi çökertti.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/yakalandilar.webp",
     "keyword": null
-  },
-  {
-    "id": "TKP_1914f9a7",
-    "title": "Trabzonspor Genel Sekreteri Sami Karaman’dan taraftara çağrı; “40 Bin Yürek Tek Bir Ses”",
-    "source": "Taka Gazetesi",
-    "time": "18/04/2026 16:40",
-    "link": "https://www.takagazete.com.tr/trabzonspor-genel-sekreteri-sami-karamandan-taraftara-cagri-40-bin-yurek-tek-bir-ses",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’dan Başakşehir maçı öncesi taraftara çağrı geldi. Sami Karaman, Papara Park’ta 40 bin kişinin tek yürek olacağını söyledi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-11-99.jpg",
-    "keyword": "trabzon"
   }
 ]
