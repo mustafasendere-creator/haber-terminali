@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_74163a96",
+    "title": "Halikarnas Balıkçısı ‘Merhaba Günü’ etkinlikleriyle anılıyor",
+    "source": "Evrensel",
+    "time": "18/04/2026 17:39",
+    "link": "https://www.evrensel.net/haber/5980270/halikarnas-balikcisi-merhaba-gunu-etkinlikleriyle-aniliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bodrum’la özdeşleşen Halikarnas Balıkçısı, “Merhaba Günü” kapsamında çeşitli etkinliklerle anılıyor. Doğa, barış ve hoşgörü temalı etkinlikler Muğla’nın yanı sıra İzmir, Aydın ve İstanbul’da da kutlanıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343613.jpg",
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_5739e9de",
     "title": "İtalya Başbakanı Azerbaycan’a gidiyor: Roma-Bakü hattında enerji diplomasisi",
     "source": "Euronews",
@@ -971,17 +984,5 @@
     "summary": "Trabzon Büyükşehir Belediyesi Ampute Futbol Kulübü, Şişli Yeditepe Engelliler SK’yı deplasmanda 2-1 mağlup ederek haftayı galibiyetle kapattı.",
     "image": "https://resim.haber61.net/news/613364.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9012a062",
-    "title": "Merkez Bankası verileri: Milyonlarca memuru ve emekliyi bekleyen zam oranı ne?",
-    "source": "BirGün",
-    "time": "18/04/2026 17:19",
-    "link": "https://www.birgun.net/haber/merkez-bankasi-verileri-milyonlarca-memuru-ve-emekliyi-bekleyen-zam-orani-ne-706675",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milyonlarca emeklinin ve memurun temmuz ayında alacağı zammı 2026'nın ilk 6 aylık enflasyonu belirleyecek. Merkez Bankası'ndan konuyla ilgili önemli bir ipucu geldi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/merkez-bankasi-duyurdu-milyonlarca-memuru-ve-emekliyi-ilgilendiriyor.jpg",
-    "keyword": null
   }
 ]
