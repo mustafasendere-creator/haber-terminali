@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_0a6cc69f",
+    "title": "@anonturk.bsky.social: 🇹🇷 Adıgüzel: Bu yaşadıklarımız tamamen siyasi, tekrar buluşa...",
+    "source": "Bluesky",
+    "time": "18/04/2026 17:11",
+    "link": "https://bsky.app/profile/anonturk.bsky.social/post/3mjrmanlxhq2l",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "🇹🇷 Adıgüzel: Bu yaşadıklarımız tamamen siyasi, tekrar buluşacağız\n18.04.2026 Diken İstanbul'da gözaltına alınan CHP'li Ataşehir Belediye Başkanı Onursal Adıgüzel, \"Bu yaşa…\n#Türkiye #Turkiye #Haber #Gündem #Gundem #Diken",
+    "image": null,
+    "keyword": "türkiye"
+  },
+  {
     "id": "SOC_bf16488c",
     "title": "@kmmedya.bsky.social: Aziz Yıldırım: \n\n“Kızıma üzülme dedim. \n\n'Ne demek üzülme, s...",
     "source": "Bluesky",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bir dizi petrol ve LPG tankeri Hürmüz Boğazı'nı geçerek Basra Körfezi'nden çıkarken, Katar'a ait yüklü halde bulunan 4 sıvılaştırılmış doğal gaz LNG tankeri Boğaz'a doğru ilerliyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_82f2bb75",
-    "title": "Kabe'nin örtüsü, her yıl hac mevsiminde yapılan uygulama kapsamında 3 metre yukarı kaldırıldı",
-    "source": "TRT Haber",
-    "time": "18/04/2026 16:42",
-    "link": "https://www.trthaber.com/haber/dunya/kabenin-ortusu-her-yil-hac-mevsiminde-yapilan-uygulama-kapsaminda-3-metre-yukari-kaldirildi-942153.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suudi Arabistanda yetkililer, hac sezonu hazırlıkları kapsamında Kabe'nin örtüsünün alt kısmını 3 metre yukarı kaldırdı.",
     "image": null,
     "keyword": null
   }
