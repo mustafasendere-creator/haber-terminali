@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3b1fb026",
+    "title": "Sınırlama getiriliyor: Sim kartlarda yeni dönem",
+    "source": "BirGün",
+    "time": "18/04/2026 11:05",
+    "link": "https://www.birgun.net/haber/sinirlama-getiriliyor-sim-kartlarda-yeni-donem-706601",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Maraş ve Urfa'daki saldırıların ardından alınacak önlemlere yenileri ekleniyor. Buna göre çocuklar için SIM Kart üretilecek. Çocuk hatlarında internete erişim kısıtlanacak.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/sinirlama-getiriliyor-sim-kartlarda-yeni-donem.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_a36c248a",
     "title": "Trabzon'da ilçe belediyesi iş makinesi satacak...",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzon, sadece Karadeniz’in değil, Türkiye’nin en köklü basın geleneklerinden birine ev sahipliği yapıyor. 1901 yılında başlayan bu serüven, bugün dijital dünyada yankılanmaya devam ediyor. Peki, Trabzon basını işgallerden darbelere, şampiyonluklardan dijital devrime nasıl ayakta kaldı? İşte usta gazetecilerin gözünden Trabzon basınının dünü ve bugünü...",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/pr3.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_dcdcf816",
-    "title": "İcra dosyalarında tarihi rekor: Her gün 7 bin yeni mağdur!",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 10:27",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/icra-dosyalarinda-tarihi-rekor-her-gun-7-bin-yeni-magdur-2496196",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Mersin Milletvekili Gülcan Kış, batık borçların 381 milyar liraya ulaştığı Türkiye’de icra takibindeki 4,2 milyon kişinin birçok Avrupa ülkesinin nüfusunu geçtiğini vurguladı. Kış, neredeyse her haneye bir dosyanın düştüğü bu düzenin, yönetilebilir bir yük olmaktan çıktığını vurguladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/3a190bb6-c8ad-4fd2-a9ea-1eccfe62369d.jpg",
-    "keyword": null
   }
 ]
