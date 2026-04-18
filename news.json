@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_aa52dd50",
+    "title": "İçişleri Bakanlığı duyurdu: Çok sayıda il için 'kuvvetli yağış' ve 'sel' uyarısı",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 15:40",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-duyurdu-cok-sayida-il-icin-kuvvetli-yagis-ve-sel-uyarisi-2496271",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İçişleri Bakanlığı, kuvvetli ve gök gürültülü sağanak nedeniyle bazı iller için \"sarı\" ve \"turuncu\" kodlu meteorolojik uyarıda bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/6a9a0abf-11e8-4d89-b0ef-70441490b6a5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_81a65e44",
     "title": "Günlük Burç Yorumları: 19 Nisan Pazar İkizler Burcu Yorumu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bayram öncesi otobüsle yolculuk yapmak isteyenlere kötü haber geldi. Artan maliyetler sebebiyle şehirlerarası otobüslerin bilet fiyatlarına zam geliyor.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/firmalar-anlasti-otobus-fiyatlarina-dev-zam.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_041355a2",
-    "title": "65 yıllık hatırasını bağışladı: Fikriye Nine’den örnek davranış",
-    "source": "Haber61",
-    "time": "18/04/2026 15:18",
-    "link": "https://www.haber61.net/ordu/65-yillik-hatirasini-bagisladi-fikriye-nineden-ornek-davranis-h629945.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu’nun Ünye ilçesinde yaşayan Fikriye Ateş, evlendiği gün takılan beşibirlik altınlarını Kur’an kursu inşaatı için bağışladı.",
-    "image": "https://resim.haber61.net/news/613350.jpg",
     "keyword": null
   }
 ]
