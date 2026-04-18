@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d4b2236a",
+    "title": "'Yeni Nesil Köy Enstitüleri' büyüyor",
+    "source": "OdaTV",
+    "time": "18/04/2026 20:07",
+    "link": "https://www.odatv.com/guncel/yeni-nesil-koy-enstituleri-buyuyor-120143827",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep’te başlayan “İHT Kırsal Kütüphane” projesi Bursa’ya taşınıyor. Projeyle köylerde mini kültür merkezleri kurularak eğitim ve kültür hayatının canlandırılması hedefleniyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/yeni-nesil-koy-enstituleri-buyuyor-dnu7.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_b1da2872",
     "title": "Liberland Cumhurbaşkanı Gürsel Tekin’le görüştü",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "ahmet @kontraapress · 48d @SotAkademisi  adlı kişiye yanıt olarak sol beke koymurlar abi adamı sağdan alıp yanına koyuyorlar bu kadar üst üste kötü oyunun açıklaması bu olamaz. trabzon 2. devre sağa geçti yine oyuna olumlu katkısı sıkıntılıydı 1 2 63",
     "image": null,
     "keyword": "\"trabzon\" and (\"ajan\" or \"bakan\" or \"emniyet\" or \"fetö\" or \"gündem\" or \"c31k\" or \"c31\" or \"halkevi\" or \"halk evi\" or \"intihar\" or \"istihbarat\" or \"jandarma\" or \"memur\" or \"okul\" or \"polis\" or \"sol\" or \"sondakika\" or \"son dakika\" or \"ziyaret\")"
-  },
-  {
-    "id": "GND_66adf955",
-    "title": "Gülistan Doku soruşturması: Valinin oğlu Mustafa Türkay Sonel tutuklandı",
-    "source": "BirGün",
-    "time": "18/04/2026 20:03",
-    "link": "https://www.birgun.net/haber/gulistan-doku-sorusturmasi-valinin-oglu-mustafa-turkay-sonel-tutuklandi-706692",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gülistan Doku ile ilgili yürütülen soruşturmada adliyeye sevk edilen dönemin Tunceli Valisi Tuncay Sonel'in oğlu Mustafa Türkay Sonel tutuklandı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/gulistan-doku-sorusturmasi-valinin-oglu-mustafa-turkay-sonel-tutuklandi.png",
-    "keyword": null
   }
 ]
