@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_63aa2778",
+    "title": "Sabiha Gökçen'de yangın paniği",
+    "source": "Habertürk",
+    "time": "18/04/2026 14:49",
+    "link": "https://www.haberturk.com/sabiha-gokcen-havalimani-nin-2-pistinin-altindaki-tunelde-arac-yangini-panige-neden-oldu-3878232",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kurtköy'de Sabiha Gökçen Havalimanı yolundaki tünelde seyir halindeki kamyonette çıkan yangın paniğe neden oldu. Yangın nedeniyle tünel giriş ve çıkışında uzun araç kuyrukları oluşurken kamyonet kullanılamaz hale geldi",
+    "image": "https://im.haberturk.com/l/2026/04/17/ver1776452858/3878232/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_41b5a4d3",
     "title": "Cinayet davasında karar açıklandı",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "DEM Parti Grup Başkanvekili Gülistan Kılıç Koçyiğit, \"Bugün okulları karakola çevirerek güvenliği sağlayamayız. Bunu söylememiz gerekiyor. Onun için burada gerçekten çok gönlü bir bakış açısına, birlikte hareket etmeye, birlikte tartışmaya ve bu konuda en doğru, en sağlıklı yolu, yöntemi bulmaya da ihtiyacımız olduğunu ifade etmemiz gerekiyor. Bu anlamıyla çoklu bir sorun var\" dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/de746a66-5f07-4f8c-872d-1838d3224d5f.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_52e7dfac",
-    "title": "Cumartesi Anneleri 1099. haftada Nurettin Yedigöl'ün akıbetini sordu: 'Ağır işkenceye maruz kaldı'",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 14:39",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/cumartesi-anneleri-1099-haftada-nurettin-yedigol-un-akibetini-sordu-agir-iskenceye-maruz-kaldi-2496254",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumartesi Anneleri 1099'uncu hafta buluşmasında, 45 yıldır haber alınamayan Nurettin Yedigöl için bir araya geldi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/053802f8-db70-440d-b327-4c9507d880e3.jpg",
     "keyword": null
   }
 ]
