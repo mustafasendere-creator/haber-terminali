@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_3f559025",
+    "title": "Kilit!",
+    "source": "A Haber",
+    "time": "18/04/2026 07:45",
+    "link": "https://www.ahaber.com.tr/yazarlar/bulent-erandac/2026/04/18/kilit",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diplomasinin kalbi Antalya'da atıyor. Antalya, ABD ile İran ve Rusya ile Ukrayna arasındaki krizlerin kilidini açabilecek bir diplomasi merkezi olarak öne çıkıyor.\n\nDünya kaotik bir sürece girerken,...Devamı için tıklayınız",
+    "image": "",
+    "keyword": null
+  },
+  {
     "id": "GND_9380e40d",
     "title": "Haftanın notları: Hiçbir şey bilmiyorsunuz!",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Okullardaki silahlı saldırıların ardından eğitimde şiddete karşı MEB anlık çözümlerle şiddeti engellemeye çalışıyor. Eğitim Sen’den Gülez, “Şiddet sistemin ürettiği bir sorundur. Çözüm ise sistemi dönüştürmekte yatıyor” dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/sorun-boyle-cozulmez.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_1ad00c14",
-    "title": "Bir nesil suç sarmalına itildi",
-    "source": "BirGün",
-    "time": "18/04/2026 05:45",
-    "link": "https://www.birgun.net/haber/bir-nesil-suc-sarmalina-itildi-706572",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suça sürüklenen çocuk sayısı artarken şiddetin yaşı da düşüyor. 2025’te 12 bin 285 çocuk hakkında silah ya da bıçak kullanmaktan işlem başlatıldı. Yargılaması tamamlanan bin 799 çocuk mahkûmiyet aldı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/bir-nesil-suc-sarmalina-itildi.jpg",
     "keyword": null
   }
 ]
