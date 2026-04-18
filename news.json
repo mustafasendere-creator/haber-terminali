@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f1e23ca7",
+    "title": "Maraş'ta saldırının yaşandığı okulun tabelası taşınacağı binaya asıldı",
+    "source": "BirGün",
+    "time": "18/04/2026 20:03",
+    "link": "https://www.birgun.net/haber/maras-ta-saldirinin-yasandigi-okulun-tabelasi-tasinacagi-binaya-asildi-706681",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta 15 Nisan'da 9 kişinin hayatını kaybettiği silahlı saldırının yaşandığı ve geçici olarak kapatılan Ayser Çalık Ortaokulu'nun tabelası taşınacağı binaya asıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/maras-ta-saldirinin-yasandigi-okulun-tabelasi-tasinacagi-binaya-asildi.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_430ce1b1",
     "title": "@kafasinagorebyy · 19d göztepe maçında trabzon,trabzon maçın...",
     "source": "X (Twitter)",
@@ -1004,19 +1016,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor’un eski başkanı ve kentin önemli isimlerinden Atay Aktuğ’un vefatı büyük üzüntü yarattı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/trabzonsporun-eski-baskani-atay-aktug-hayatini-kaybetti.jpg",
-    "keyword": "trabzon",
-    "has_video": false
-  },
-  {
-    "id": "TKP_0b6d9c72",
-    "title": "Trabzonspor’a Yaslı Haber",
-    "source": "Taka Gazetesi",
-    "time": "18/04/2026 18:49",
-    "link": "https://www.takagazete.com.tr/trabzonspora-yasli-haber",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "2003-2005 yılları arasında Trabzonspor Başkanlığı yapan Atay Aktuğ hayatını kaybetti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/18cfb3693cd74bf0bb0ff300fe248273.webp",
     "keyword": "trabzon",
     "has_video": false
   }
