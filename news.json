@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_62c643c8",
+    "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
+    "source": "BirGün",
+    "time": "18/04/2026 14:36",
+    "link": "https://www.birgun.net/haber/ankara-da-yarin-bazi-yollar-trafige-kapatilacak-706643",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Emniyet Müdürlüğü, yarın düzenlenecek \"Bilkent Yol Koşusu\" nedeniyle bazı yollar trafiğe kapatılacak.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/ankara-da-yarin-bazi-yollar-trafige-kapatilacak.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_99e62285",
     "title": "Gazze'deki soykırımda can kaybı 72 bin 549'a yükseldi!",
     "source": "BirGün",
@@ -946,17 +958,5 @@
     "summary": "📌Ermenistan Meclis Başkanı Simonyan İstanbul'da 📌Türkiye'yi ortak olmaya ve bizimle birlikte barışı örmeye davet ediyoruz ▪️Ermenistan Meclis Başkanı Alen Simonyan, Parlamentolararası Birlik (IPU) 152. Genel Kurulu nedeniyle iki gündür İstanbul'da. Sim  x.com",
     "image": null,
     "keyword": "agos"
-  },
-  {
-    "id": "GND_75c45500",
-    "title": "Trump: UFO belgeleri yakında yayımlanacak",
-    "source": "DW Türkçe",
-    "time": "18/04/2026 13:27",
-    "link": "https://www.dw.com/tr/trump-ufo-belgeleri-yakında-yayımlanacak/a-76841273",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"Çok ilginç belgeler bulduk\" diyen ABD Başkanı Donald Trump, yakında UFO'lar ve dünya dışı yaşamla ilgili belgelerin kamuoyu ile paylaşılacağını açıkladı.",
-    "image": null,
-    "keyword": null
   }
 ]
