@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0b90eb52",
+    "title": "Sakarya'da vagon üretim tesisinde yangın paniği",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 14:49",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/sakarya-da-vagon-uretim-tesisinde-yangin-panigi-2496260",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sakarya’nın Pamukova ilçesinde vagon üretim tesisinde üretilen vagon çıkan yangında kullanılamaz hale geldi. Yangınla ilgili inceleme başlatıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/af9a5e57-7b70-4d8d-9743-70dde82dc6f1.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f67296f0",
     "title": "İstanbul Havalimanı'nda üçlü pist operasyonları bir yıldır hizmette",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Barcelona’da düzenlenen ve dünyanın dört bir yanından ilerici liderleri bir araya getiren “demokrasiyi savunma zirvesi”, hafta sonunun en önemli siyasi etkinliklerinden biri oldu. İspanya Başbakanı Pedro Sanchez çeşitli ülke liderleriyle birlikte yaptığı açıklamalarda Donald Trump'a karşı duruşunu sözlerden aksiyona çevirdi ve \"Artık zamanı geldi\" diyerek yapılması gerekenleri anlattı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/pedro-sanchez-trumpin-zulmune-karsi-harekete-gecti-sadece-direnmek-yetmez-artik-zamani-geldi-4ccf.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_45a4786e",
-    "title": "İran Dışişleri Bakan Yardımcısı Hatipzade: Savaş çıkarsa çok sert karşılık vereceğiz",
-    "source": "TRT Haber",
-    "time": "18/04/2026 14:39",
-    "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakan-yardimcisi-hatipzade-savas-cikarsa-cok-sert-karsilik-verecegiz-942136.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Bakan Yardımcısı Hatipzade, \"İran, şu an müzakere çerçevesini tamamlamaya odaklı, henüz kesin anlaşma yok. İran Diplomasi istiyor ama ABDnin baskı ve maksimalist taleplerini reddediyor. Savaş çıkarsa çok sert karşılık vereceğiz.\" dedi.",
-    "image": null,
     "keyword": null
   }
 ]
