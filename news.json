@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dcdcf816",
+    "title": "İcra dosyalarında tarihi rekor: Her gün 7 bin yeni mağdur!",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 10:27",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/icra-dosyalarinda-tarihi-rekor-her-gun-7-bin-yeni-magdur-2496196",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Mersin Milletvekili Gülcan Kış, batık borçların 381 milyar liraya ulaştığı Türkiye’de icra takibindeki 4,2 milyon kişinin birçok Avrupa ülkesinin nüfusunu geçtiğini vurguladı. Kış, neredeyse her haneye bir dosyanın düştüğü bu düzenin, yönetilebilir bir yük olmaktan çıktığını vurguladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/3a190bb6-c8ad-4fd2-a9ea-1eccfe62369d.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_51d5058a",
     "title": "Kayıp olarak aranıyordu: 16 yaşındaki Feyza'dan kötü haber",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Çoruh Nehri üzerindeki asma köprüler, zorlu coğrafyada hem ulaşımı sağlıyor hem de bölgenin kültürel mirası olarak varlığını sürdürüyor.",
     "image": "https://resim.haber61.net/news/613298.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_ed6052a2",
-    "title": "Kanadalı hava yolu şirketi, uçak yakıtı maliyetlerindeki artış nedeniyle 6 hattını uçuşa kapattı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 10:05",
-    "link": "https://www.aa.com.tr/tr/ekonomi/kanadali-hava-yolu-sirketi-ucak-yakiti-maliyetlerindeki-artis-nedeniyle-6-hattini-ucusa-kapatti/3910303",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Air Canada, ABD ve İsrail'in İran'a saldırıları nedeniyle uçak yakıtı fiyatlarının ikiye katlanmasını gerekçe göstererek bazı hatlarını uçuşa kapattığını duyurdu.",
-    "image": null,
     "keyword": null
   }
 ]
