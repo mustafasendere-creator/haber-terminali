@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_71dcc545",
+    "title": "Bundesliga'da tarihi an: Marie-Louise Eta ilk maçına Wolfsburg karşısında çıktı",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 20:25",
+    "link": "https://www.cumhuriyet.com.tr/spor/bundesliga-da-tarihi-an-marie-louise-eta-ilk-macina-wolfsburg-karsisinda-cikti-2496325",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bundesliga'da Union Berlin, Marie-Louise Eta yönetimindeki ilk maçına Wolfsburg karşısında çıktı. Eta, lig tarihinde görev yapan ilk kadın teknik direktör olarak tarihe geçti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/1340c80e-39f9-4c8a-a3c7-ae2facfff9af.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_05098813",
     "title": "İstanbul Yüksek Ticaret ve Marmara Üniversitesi İktisadi ve İdari Bilimler Fakültesi Mezunları Derneği ve İSTİVAK’tan okul saldırılarına tepki",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "masal @masalgibimiydi · 1 sa ya zamanında hercai fanlığı yapmış biri olarak Trabzon halkına sesleniyorum nasıl sahnelerin spoisi düşmüyor ya hercaide sahneyi iptal ettirmişliğimiz bile var #isfad #erzey #tasacakbudeni̇z 730",
     "image": null,
     "keyword": "\"trabzon\" and (\"açıklama\" or \"karar\" or \"iptal\" or \"istifa\" or \"atama\" or \"proje\" or \"ihale\" or \"tepki\" or \"yürüyüş\" or \"eylem\" or \"basın açıklaması\" or \"miting\") -filter:replies"
-  },
-  {
-    "id": "TKP_0a5eb926",
-    "title": "Trabzon Valisi Tahir Şahin’den kodlama merkezine ziyaret!",
-    "source": "Kuzey Ekspres",
-    "time": "18/04/2026 20:06",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27836075/trabzon-valisi-tahir-sahinden-kodlama-merkezine-ziyaret",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Valisi Tahir Şahin, Naci Orhan Bilgisayar Bilimleri ve Kodlama Eğitim Merkezi’nde öğrencilerin çalışmalarını yerinde inceledi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/trabzon-valisi-tahir-sahinden-kodlama-merkezine-ziyaretjpg3.jpg",
-    "keyword": "trabzon"
   }
 ]
