@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_315005f5",
+    "title": "Ataşehir Belediyesi'ne gece yarısı operasyon: Belediye Başkanı Onursal Adıgüzel ile birlikte 18 kişi gözaltına alındı",
+    "source": "Evrensel",
+    "time": "18/04/2026 03:45",
+    "link": "https://www.evrensel.net/haber/5980193/atasehir-belediyesi-ne-gece-yarisi-operasyon-belediye-baskani-onursal-adiguzel-ile-birlikte-18-kisi-gozaltina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Anadolu Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında, Ataşehir Belediyesine yönelik operasyonda aralarında Belediye Başkanı Onursal Adıgüzel'in de bulunduğu 18 kişi gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343544.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9c28de1b",
     "title": "‘1 Mayıs’ta parçalı değil birleşik ses çıkmalı’",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un genç hukukçuları Miray Şahinöz ve Enes Kılıç, Akçaabat ilçesinde kurdukları Kılıç Hukuk Bürosu’nun açılışını yoğun katılımlı bir törenle gerçekleştirdi.",
     "image": "https://resim.haber61.net/news/613264.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_0fb55723",
-    "title": "Meslek Fabrikası nöbeti sona erdi: 'Mücadele İzmir’in her sokağında sürecek’",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 01:25",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/meslek-fabrikasi-nobeti-sona-erdi-mucadele-izmir-in-her-sokaginda-surecek-2496113",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP İzmir İl Başkanı Çağatay Güç, Meslek Fabrikası için 12 gündür süren nöbetin sona erdiğini ancak mücadelenin İzmir’in her sokağında devam edeceğini açıkladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2488c434-fd23-464c-a4b5-4b920a1128f0.jpg",
-    "keyword": null
   }
 ]
