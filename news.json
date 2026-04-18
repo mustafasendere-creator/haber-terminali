@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9e83f965",
+    "title": "Kayıp olarak aranan 16 yaşındaki milli oyuncu Feyza Keskin'in cansız bedenine ulaşıldı",
+    "source": "BirGün",
+    "time": "18/04/2026 13:25",
+    "link": "https://www.birgun.net/haber/kayip-olarak-aranan-16-yasindaki-milli-oyuncu-feyza-keskin-in-cansiz-bedenine-ulasildi-706638",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Isparta'da kayıp olarak aranan 16 yaşındaki milli satranç oyuncusu Feyza Keskin, boş bir binanın önünde ölü bulundu. Olayla ilgili soruşturma başlatıldı. Keskin'in kesin ölüm nedeni otopsi sonucuyla netleşecek.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/kayip-olarak-aranan-16-yasindaki-milli-oyuncu-feyza-keskin-in-cansiz-bedenine-ulasildi.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_ffbe8e8a",
     "title": "Trabzonspor ile RAMS Başakşehir FK 36’ncı randevuda",
     "source": "Haber Global",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Devlet Tiyatrosu, “Kırmızı Küre” ve “Eldivenlerimi Kim Aldı?” oyunlarıyla Çocuk Oyunları Haftası’na katılıyor. Türkiye genelinde 14 ilde düzenlenecek etkinliklerde çocuklar tiyatroyla buluşacak.",
     "image": "https://resim.haber61.net/news/613325.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_444ab590",
-    "title": "İran: Seyrüsefer serbestisi sağlanmazsa Hürmüz'deki sıkı denetim sürecek",
-    "source": "TRT Haber",
-    "time": "18/04/2026 12:46",
-    "link": "https://www.trthaber.com/haber/dunya/iran-seyrusefer-serbestisi-saglanmazsa-hurmuzdeki-siki-denetim-surecek-942119.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Devrim Muhafızları Ordusu, \"ABD, İran'a giden ve İran'dan gelen gemiler için tam seyrüsefer serbestisini sağlamadığı sürece Hürmüz, İran'ın sıkı kontrolü altında kalmaya devam edecek\" açıklamasında bulundu.",
-    "image": null,
-    "keyword": null
   }
 ]
