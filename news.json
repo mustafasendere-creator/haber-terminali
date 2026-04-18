@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_02871156",
+    "title": "Antarktika'nın simge türleri yok olma eşiğinde",
+    "source": "TRT Haber",
+    "time": "18/04/2026 13:06",
+    "link": "https://www.trthaber.com/haber/dunya/antarktikanin-simge-turleri-yok-olma-esiginde-942131.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Doğayı Koruma Birliği IUCN, imparator penguen ve Antarktika kürklü fokunun koruma statüsünü 'nesli tehlikede' kategorisine yükseltti. Uzmanlar, deniz buzlarının erken erimesi ve besin zincirindeki kırılmalar nedeniyle bu türlerin popülasyonlarında kritik düşüşler yaşandığını kaydetti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4e682930",
     "title": "İran medyası: ABD ile müzakerelerin bir sonraki turuna henüz onay verilmedi",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Dünya fosil yakıt kıskacında alternatif çıkış yolları ararken, Pekin yönetimi stratejik bir zamanlamayla temiz teknoloji ihracatını küresel ekonominin merkezine yerleştirdi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/18/dunya-karanliktan-korkarken-gunes-cinden-mi-doguyor-i1f1_cover.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_68ca59bc",
-    "title": "Gençlerbirliği - Galatasaray maçının VAR'ı Abdullah Buğra Taşkınsoy oldu",
-    "source": "Ekonomim",
-    "time": "18/04/2026 12:27",
-    "link": "https://www.ekonomim.com/spor/genclerbirligi-galatasaray-macinin-vari-abdullah-bugra-taskinsoy-oldu-haberi-888881",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig’din 30. haftasında bugün oynanacak Gençlerbirliği - Galatasaray maçının Video Yardımcı Hakemi (VAR) Abdullah Buğra Taşkınsoy oldu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/18/genclerbirligi-galatasaray-macinin-vari-abdullah-bugra-taskinsoy-oldu-ksv1_cover.jpg",
     "keyword": null
   }
 ]
