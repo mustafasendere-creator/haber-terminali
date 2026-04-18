@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9d30f0cd",
+    "title": "Şişli’de korkutan baca yangını",
+    "source": "Haber Global",
+    "time": "18/04/2026 13:06",
+    "link": "https://haberglobal.com/gundem/sislide-korkutan-baca-yangini-519578",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şişli’de 5 katlı binanın girişinde bulunan iş yerinin bacasında çıkan yangın paniğe sebep oldu. Yangın itfaiye ekiplerinin müdahalesiyle söndürülürken, bina sakinleri kendini dışarıya attı. Bir kişi dumandan etkilenirken, çıkan yangınla ilgili inceleme başlatıldı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/sislide-korkutan-baca-yangini-xftx.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3f1b1c8e",
     "title": "Cumhurbaşkanı Erdoğan'dan ADF'de diplomasi trafiği",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hatay&#039;da evin camından çıkarak korkuluklarda gezinen çocuğun yürekleri ağza getiren anları cep telefonu kamerasına yansıdı.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/kiz-cocugu-cama-cikti-yurudu-korkuluktan-asagi-sarkti-q47m.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_5f6e7546",
-    "title": "ABD, Rus petrolüne yönelik yaptırım muafiyetini uzattı",
-    "source": "Ekonomim",
-    "time": "18/04/2026 12:27",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/abd-rus-petrolune-yonelik-yaptirim-muafiyetini-uzatti-haberi-888873",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD, dün itibarıyla tankerlere yüklenen Rus petrolüne yönelik yaptırım muafiyetini uzattı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/18/abd-rus-petrolune-yonelik-yaptirim-muafiyetini-uzatti-uq6w_cover.jpg",
     "keyword": null
   }
 ]
