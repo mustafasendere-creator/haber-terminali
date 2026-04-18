@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cb389a66",
+    "title": "İstanbul'da yarın bazı yollar trafiğe kapatılacak",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 15:01",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-yarin-bazi-yollar-trafige-kapatilacak-2496232",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İBB iştiraki Spor İstanbul’un düzenleyeceği Türkiye İş Bankası 21. İstanbul Yarı Maratonu nedeniyle pazar günü çok sayıda yol trafiğe kapalı olacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f8ed219e-a5a2-4b7f-abbc-e7cfb7c30e84.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5bac3df4",
     "title": "Muğla'da deniz kenarında erkek cesedi bulundu",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İran Dışişleri Bakan Yardımcısı Said Hatipzade, Trump’ın yeni saldırı tehdidine “Çok konuşuyor” sözleriyle yanıt verdi. Hatipzade, saldırı halinde İran’ın son askere kadar direneceğini söyledi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/65ff9830-c435-4931-8694-2bc68fe74733.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_8676b052",
-    "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 14:49",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-da-yarin-bazi-yollar-trafige-kapatilacak-2496246",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara Emniyet Müdürlüğü, yarın düzenlenecek \"Bilkent Yol Koşusu\" nedeniyle bazı yollar trafiğe kapatılacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/ba2e0820-7a54-4e0a-b416-0a74d57150ee.jpg",
     "keyword": null
   }
 ]
