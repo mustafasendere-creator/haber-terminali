@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0ce395fe",
+    "title": "İran'dan Trump'ın uranyum iddiasına yalanlama",
+    "source": "TRT Haber",
+    "time": "18/04/2026 07:26",
+    "link": "https://www.trthaber.com/haber/dunya/irandan-trumpin-uranyum-iddiasina-yalanlama-942099.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD Başkanı Donald Trump'ın 'İran'ın zenginleştirilmiş uranyumunun ABD'ye taşınacağı' yönündeki iddialarını yalanlayarak, uranyumun hiçbir şekilde ülke dışına çıkarılmayacağını ve bu konunun müzakere masasında olmadığını açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_85f677bf",
     "title": "@javierpanzardo.bsky.social: 🏊‍♀️ 🥇 #Natacion | Agostina Hein sigue haciendo historia en ...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "\"Zeynep, 10 lira\" , \"Mehmet, 40 lira\" , \"Ayşe, 30 lira\" , \"Ahmet, 20 lira...\" Bu isimler ve karşılarındaki rakamlar bir apartman aidat listesinden ya da mahalle bakkalının sararmış not defterinden değil... Ortaokul öğrencilerinin kantindeki \"veresiye\" kâğıdından.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/ortaokullarda-beslenme-sinavi-kantinlerde-veresiye-donemi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_bb87884a",
-    "title": "Tutuklanmama gerekçe olan haber - 3",
-    "source": "BirGün",
-    "time": "18/04/2026 05:25",
-    "link": "https://www.birgun.net/makale/tutuklanmama-gerekce-olan-haber-3-706577",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklu muhabirimiz İsmail Arı cezaevinden yazdı: Beni tutuklama bahanelerinden biri de “Hâkim ve savcılar, yazılı sınavın ardından mülakatla seçiliyor” demem. Peki, mülakatla seçilmiyorlar mı? Bu yalan mı? Mülakat denilince halkın aklına ilk gelen torpil değil mi?",
-    "image": "https://static.birgun.net/resim/makale/2026/04/18/tutuklanmama-gerekce-olan-haber-3.jpg",
     "keyword": null
   }
 ]
