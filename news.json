@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_09f0a316",
+    "title": "@metrobusinfo.bsky.social: C31 Service Alert: Expect westbound delays on Route C31 at C...",
+    "source": "Bluesky",
+    "time": "18/04/2026 09:48",
+    "link": "https://bsky.app/profile/metrobusinfo.bsky.social/post/3mjpwjsfggm2p",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "C31 Service Alert: Expect westbound delays on Route C31 at Capitol Heights Station due to a police investigation. Track your bus in real time by visiting metropulse.wmata.com/bus",
+    "image": null,
+    "keyword": "c31"
+  },
+  {
     "id": "GND_b785cb71",
     "title": "Kurbanlık piyasasının değeri 330 milyar lira...",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Gustavo Petro, ABD istihbaratının (CIA) iktidar partisinin adaylarından Ivan Cepeda’ya yönelik suikast planına dair “somut bilgiler” taşıdığını iddia etti. Kolombiya’da seçim süreci şiddet ve tehdit tartışmalarıyla sürerken, muhalefet adayları da güvenlik risklerine dikkat çekiyor.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/kolombiya-lideri-petro-dan-iddia-partisinin-adayi-cepeda-hakkinda-suikast-plani.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_ecc598b2",
-    "title": "İşte yeni sezon forma tarihi",
-    "source": "61 Saat",
-    "time": "18/04/2026 09:25",
-    "link": "https://www.61saat.com/iste-yeni-sezon-forma-tarihi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un bu sezon üst seviye bir ciro elde ettiği formalar sezon sonu yaklaşmasına rağmen yoğun talep görüyor.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/s-e-z-o-n-2.png",
     "keyword": null
   }
 ]
