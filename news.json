@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1b1abe10",
+    "title": "Resmi Gazete'de yayımlandı: Yemek ücretinde SGK düzenlemesi",
+    "source": "Evrensel",
+    "time": "18/04/2026 11:06",
+    "link": "https://www.evrensel.net/haber/5980206/resmi-gazetede-yayimlandi-yemek-ucretinde-sgk-duzenlemesi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SGK düzenlemesine göre yemek bedelinde günlük 300 TL'yi aşan kısım sigorta primine tabi olacak. İşyerinde verilen yemekler tamamen istisna kapsamındayken, dışarıdan sağlanan yemek desteğinde 300 TL'ye kadar olan tutar muaf tutulacak.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343556.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_3374e636",
     "title": "Trabzon’da hafta sonu planı yapanlar bu habere dikkat!",
     "source": "61 Saat",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor&#039;da Fatih Tekke, scout ekibiyle birlikte hazırlanan gelecek sezonun transfer listesini yönetime teslim etti. Listede hemen her bölge için oyuncu hazırlanırken, en az 3 tecrübeli oyuncu beklentisi de var",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/tekke1.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_423f35a2",
-    "title": "'Sahte sertifika' operasyonunda 6 tutuklama",
-    "source": "Habertürk",
-    "time": "18/04/2026 10:27",
-    "link": "https://www.haberturk.com/aydin-merkezli-sahte-sertifika-operasyonu-6-tutuklama-3878278",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aydın merkezli 10 ilde düzenlenen 'sahte sertifika' operasyonunda gözaltına alınan 17 şüpheliden 6'sı tutuklandı",
-    "image": "https://im.haberturk.com/l/2026/04/18/ver1776475855/3878278/jpg/1280x1280",
-    "keyword": null
   }
 ]
