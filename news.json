@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_430ce1b1",
+    "title": "@kafasinagorebyy · 19d göztepe maçında trabzon,trabzon maçın...",
+    "source": "X (Twitter)",
+    "time": "18/04/2026 20:03",
+    "link": "https://x.com/kafasinagorebyy/status/2045542365801202046",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "@kafasinagorebyy · 19d göztepe maçında trabzon,trabzon maçında göztepe forması giyen erdem'in dikkat çekiş 0:01 TheRisk falan Arşiv  adlı kullanıcıdan 1 69",
+    "image": null,
+    "keyword": "\"trabzon\" and (\"son dakika\" or \"sondakika\" or \"flaş\" or \"acil\" or \"önemli gelişme\" or \"ihbar\" or \"sıcak gelişme\" or \"az önce\" or \"şimdi\" or \"dikkat\") -filter:replies"
+  },
+  {
     "id": "SOC_879422ae",
     "title": "Batuhan @shnbatuhann · 1 sa Parodi hesabı @modisempoku  adlı...",
     "source": "X (Twitter)",
@@ -1006,19 +1018,6 @@
     "summary": "2003-2005 yılları arasında Trabzonspor Başkanlığı yapan Atay Aktuğ hayatını kaybetti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/18cfb3693cd74bf0bb0ff300fe248273.webp",
     "keyword": "trabzon",
-    "has_video": false
-  },
-  {
-    "id": "GND_fa1c70a0",
-    "title": "CHP'li Ülkü İnanlı: Gerçek ortada; ekonomi kötü yönetiliyor, bedelini herkes ödüyor",
-    "source": "BirGün",
-    "time": "18/04/2026 18:48",
-    "link": "https://www.birgun.net/haber/chp-li-ulku-inanli-gercek-ortada-ekonomi-kotu-yonetiliyor-bedelini-herkes-oduyor-706682",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Büyükşehir Belediye Meclisi’nde 2025 yılı faaliyet raporu kabul edilirken, oturumda ekonomik gelişmelere ilişkin tartışmalar yaşandı. CHP'li Ülkü İnanlı, konuşmasında Türkiye ekonomisine ilişkin dikkat çekici veriler ve değerlendirmelerde bulundu. AKP'li Cumhurbaşkanı Erdoğan'ın belediye başkanlığı döneminden de örnekler veren İnanlı,",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/chp-li-ulku-inanli-gercek-ortada-ekonomi-kotu-yonetiliyor-bedelini-herkes-oduyor.jpg",
-    "keyword": null,
     "has_video": false
   }
 ]
