@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_66c7803e",
+    "title": "@muhammedmustafa.bsky.social: Üniversitelerde artan öğrenci sayıları artıyor ancak yemek v...",
+    "source": "Bluesky",
+    "time": "18/04/2026 03:06",
+    "link": "https://bsky.app/profile/muhammedmustafa.bsky.social/post/3m3w3eohakk2c",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Üniversitelerde artan öğrenci sayıları artıyor ancak yemek ve barınma sorunları artıyor.\nBir de bizim Trabzon a gelsinler..okul ve yurtlar dökülüyor...",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hjv72joxm4hhdjy4jscunq2z/bafkreicm5aw6g73vnlusszgkj5l2zp3nuz7xqlmof7znjjhopzhnxk3jqa",
+    "keyword": "trabzon okul"
+  },
+  {
     "id": "GND_acf8d3d9",
     "title": "Ataşehir Belediyesine operasyon: 21 gözaltı kararı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Uluslararası kredi derecelendirme kuruluşu Standard & Poor's (S&amp;P), Türkiye'nin kredi notlarını \"BB-/B\" olarak teyit etti, not görünümünü \"durağan\" olarak tuttu.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_81d8b2c2",
-    "title": "Tır kamyoneti biçti: Acı haber geldi",
-    "source": "OdaTV",
-    "time": "18/04/2026 01:06",
-    "link": "https://www.odatv.com/guncel/tir-kamyoneti-bicti-aci-haber-geldi-120143737",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tarsus-Adana-Gaziantep Otoyolu’nda kamyonetin karşı şeride geçerek tırla çarpışması sonucu meydana gelen kazada 1 kişi hayatını kaybetti, 1 kişi ağır yaralandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/tir-kamyoneti-bicti-aci-haber-geldi-k6c3.jpg",
     "keyword": null
   }
 ]
