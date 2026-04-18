@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0d24590c",
+    "title": "Üniversiteliler İzmir'de tiyatro festivalinde buluştu",
+    "source": "Evrensel",
+    "time": "18/04/2026 10:45",
+    "link": "https://www.evrensel.net/haber/5980205/universiteliler-izmirde-tiyatro-festivalinde-bulustu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "“Aynı Işığın Altında” Üniversite Tiyatro Festivali, Güzelyalı Nazım Hikmet Kültür Merkezi'nde gerçekleştirildi. Farklı üniversitelerden toplulukların sahnelediği oyunlar 3 gün boyunca izleyicilerle buluştu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343555.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_0dbb9666",
     "title": "KTÜ Rektörü Prof. Dr. Çuvalcı’dan İstanbul’da İki Ayrı Ziyaret",
     "source": "Günebakış",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor, Trendyol Süper Lig'in 30. haftasında yarın RAMS Başakşehir'i konuk edecek.",
     "image": null,
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_6425f9ee",
-    "title": "Avrupa'nın zirvesinde Türk finali yarın oynanacak",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 10:25",
-    "link": "https://www.aa.com.tr/tr/spor/avrupanin-zirvesinde-turk-finali-yarin-oynanacak/3910316",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kadın basketbolunun kulüpler düzeyinde Avrupa'daki \"bir numaralı\" organizasyonu olan FIBA Avrupa Ligi'nde 2025-2026 sezonunun şampiyonu, yarın iki Türk ekibi Galatasaray Çağdaş Faktoring ile Fenerbahçe Opet'in karşılaşacağı final maçında belli olacak",
-    "image": null,
-    "keyword": null
   }
 ]
