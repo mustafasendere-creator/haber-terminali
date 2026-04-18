@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_1f9ddf6a",
+    "title": "Geçici olarak kapatılmıştı: Kahramanmaraş'ta saldırının yaşandığı okulun tabelası, taşınacağı binaya asıldı",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 17:59",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/gecici-olarak-kapatilmisti-kahramanmaras-ta-saldirinin-yasandigi-okulun-tabelasi-tasinacagi-binaya-asildi-2496309",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş’ta 8 öğrenci ile 1 öğretmenin yaşamını yitirdiği silahlı saldırının yaşandığı Ayser Çalık Ortaokulu'nun tabelası yeni taşınacağı binaya asıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/ac1c60d5-18a9-4bf7-8ae0-711aec608816.jpg",
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_ba0eed7f",
     "title": "Seul sokaklarının çıtır lezzeti: Yangnyeom Chicken",
     "source": "Cumhuriyet",
@@ -1023,19 +1036,6 @@
     "prefix": "🔔",
     "summary": "Yargıtay emekli olduktan sonra aynı işyerinde çalışmaya devam ettiğini, ancak primlerinin eksik yatırıldığını iddia eden bir işçinin başvurusunda kritik bir karar aldı. Yüksek Mahkeme, emekli işçiyi kısmen haklı buldu.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/emekli-olup-calisanlari-ilgilendiriyor-yargitaydan-emsal-karar.jpg",
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "GND_e981f510",
-    "title": "Dünya Kupası final bilet fiyatları 11 bin doları buldu",
-    "source": "BBC Türkçe",
-    "time": "18/04/2026 17:39",
-    "link": "https://www.bbc.com/turkce/articles/cje4pexvep5o?at_medium=RSS&at_campaign=rss",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "FIFA 2026 Dünya Kupası biletlerinin ilk açık satışında final maçı biletleri için 10.990 dolara kadar ücret talep ettiği görüldü. Bu, bir futbol maçına normal giriş için şimdiye kadarki en pahalı fiyat olarak değerlendiriliyor.",
-    "image": null,
     "keyword": null,
     "has_video": false
   }
