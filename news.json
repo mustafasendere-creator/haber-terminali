@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b706fd52",
+    "title": "Kandilli duyurdu: Akdeniz açıklarında 3.7 büyüklüğünde deprem",
+    "source": "Sözcü",
+    "time": "18/04/2026 11:07",
+    "link": "https://www.sozcu.com.tr/kandilli-duyurdu-akdeniz-aciklarinda-3-7-buyuklugunde-deprem-p312300",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kandilli duyurdu: Akdeniz açıklarında 3.7 büyüklüğünde deprem",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/depremshutterstock415473103uzunjpg-_gmnMyHhvkWZaYKTICelBg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_94c28b3e",
     "title": "Doruk Madencilik işçileri Ankara'ya yürüyor: 'Hakkımız verilmeden Ankara’dan dönmeyeceğiz'",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Meteoroloji, Doğu Karadeniz’de kuvvetli yağış, rüzgar ve çığ tehlikesine karşı uyardı. Bölge genelinde sıcaklıklar düşüyor.",
     "image": "https://resim.haber61.net/news/613300.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_b594822e",
-    "title": "Trabzon zirveyi Ordu’ya kaptırdı",
-    "source": "Haber61",
-    "time": "18/04/2026 10:45",
-    "link": "https://www.haber61.net/trabzon/trabzon-zirveyi-orduya-kaptirdi-h629922.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon'da konut satışları mart ayında 656 olarak gerçekleşirken, Ordu 828 satışla bölgenin zirvesine yerleşti.",
-    "image": "https://resim.haber61.net/news/613308.jpg",
     "keyword": null
   }
 ]
