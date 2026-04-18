@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_6ddbc31a",
+    "title": "Gülistan Doku soruşturmasında tutuklu sayısı dokuza çıktı",
+    "source": "BBC Türkçe",
+    "time": "18/04/2026 17:38",
+    "link": "https://www.bbc.com/turkce/articles/cy511lprv1yo?at_medium=RSS&at_campaign=rss",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Altı yıldır kayıp olan üniversite öğrencisi Gülistan Doku ile ilgili soruşturmada tutuklu sayısı dokuza çıktı. Eski Tunceli Valisi Tuncay Sonel'in de gözaltına alınmasıyla soruşturmaya dahil olanların sayısı toplam 15'e ulaşmıştı.",
+    "image": null,
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "YRL_0a83527a",
     "title": "ATAY AKTUĞ  HAYATINI KAYBETTİ",
     "source": "Karadeniz'de Sonnokta",
@@ -955,18 +968,6 @@
     "prefix": "🌊",
     "summary": "Trabzon'da Anahtar Parti Dernekpazarı İlçesi 1. Olağan Kongresini gerçekleştirdi. İl Başkanı Kalkışım, \"Söz için değil, iş için buradayız\" mesajını verdi.",
     "image": "https://resim.haber61.net/news/613362.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_a62510ad",
-    "title": "Emine Erdoğan, \"Filistin İçin Tek Yürek\" temalı programa katıldı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 17:19",
-    "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-filistin-icin-tek-yurek-temali-programa-katildi/3910695",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Antalya Diplomasi Forumu 2026 kapsamında düzenlenen \"Filistin İçin Tek Yürek\" temalı programa katıldı.",
-    "image": null,
     "keyword": null
   }
 ]
