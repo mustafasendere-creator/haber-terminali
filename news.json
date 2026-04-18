@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e1545654",
+    "title": "Kızılcık Şerbeti bu akşam yok mu?",
+    "source": "Habertürk",
+    "time": "18/04/2026 09:47",
+    "link": "https://www.haberturk.com/kizilcik-serbeti-bu-aksam-var-mi-yok-mu-kizilcik-serbeti-yeni-bolumu-ne-zaman-17-nisan-cuma-show-tv-yayin-akisi-3878016",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cuma akşamlarının ilgiyle takip edilen yapımlarından Kızılcık Şerbeti’nin yeni bölümünün bu akşam yayımlanıp yayımlanmayacağı izleyiciler tarafından merak ediliyor. Dizinin takipçileri, yeni bölümün ekrana gelip gelmeyeceğini öğrenmek için Show TV yayın akışını yakından inceliyor. Peki Kızılcık Şerbeti bu akşam yeni bölümüyle ekranlarda olacak mı? İşte merak edilen detaylar…",
+    "image": "https://im.haberturk.com/l/2026/04/17/ver1776409826/3878016/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_61486a27",
     "title": "Gülistan Doku bulundu mu?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Venezuela’da Ulusal Meclis’in (AN) 9 Nisan’da kabul ettiği yeni maden yasası, Geçici Devlet Başkanı Delcy Rodriguez’in imzasıyla yürürlüğe girdi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_76290041",
-    "title": "Rize'de Trabzon plakalı otomobil kazaya karıştı: 4 yaralı",
-    "source": "Haber61",
-    "time": "18/04/2026 09:25",
-    "link": "https://www.haber61.net/rize/rizede-trabzon-plakali-otomobil-kazaya-karisti-4-yarali-h629913.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rize’de Karadeniz Sahil Yolu üzerinde iki otomobilin çarpışması sonucu 4 kişi yaralandı. Yaralılar hastaneye kaldırılırken kazayla ilgili inceleme başlatıldı.",
-    "image": "https://resim.haber61.net/news/613294.jpg",
     "keyword": null
   }
 ]
