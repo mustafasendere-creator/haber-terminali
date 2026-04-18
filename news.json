@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b0198332",
+    "title": "İran hava sahasının bir bölümünü uçuşlara açtı",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 11:27",
+    "link": "https://www.cumhuriyet.com.tr/dunya/iran-hava-sahasinin-bir-bolumunu-ucuslara-acti-2496205",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, hava sahasının bir bölümünü uçuşlara açtığını açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/b7eb837b-3a37-4279-90f4-d992341bad7f.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_acc31368",
     "title": "Kuvvetli fırtına TIR'da taşınan konteyneri yola uçurdu!",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'da ateş açarak öldürdüğü Filistinli bir gencin cenazesine el koyduğu belirtildi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_608b1d20",
-    "title": "Liseler arası enerji verimliliği proje yarışmasının sonuçları açıklandı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 11:05",
-    "link": "https://www.aa.com.tr/tr/ekonomi/liseler-arasi-enerji-verimliligi-proje-yarismasinin-sonuclari-aciklandi/3910346",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Enerji ve Tabii Kaynaklar Bakanlığı ile TÜBİTAK iş birliğinde düzenlenen \"Lise Öğrencileri Arası Enerji Verimliliği Proje Yarışması\"nın sonuçları açıklandı.",
     "image": null,
     "keyword": null
   }
