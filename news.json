@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6a8ba7fb",
+    "title": "Katil İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 549'a yükseldi",
+    "source": "TRT Haber",
+    "time": "18/04/2026 14:49",
+    "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-can-kaybi-72-bin-549a-yukseldi-942135.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun Ekim 2023'ten beri Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 549'a ulaştı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_9a11ef45",
     "title": "Hürmüz Boğazında 2 gemiye ateş açıldı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Diyarbakır'ın Ergani ilçesinde yağmurdan korunmak için sığındıkları ağaca yıldırım isabet etmesi sonucu 2 çocuk hayatını kaybetti, bir çocuk ağır yaralandı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_259e3948",
-    "title": "Trabzon'da raylı sistem çalışması başlıyor!",
-    "source": "Kuzey Ekspres",
-    "time": "18/04/2026 14:38",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27834297/trabzonda-rayli-sistem-calismasi-basliyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, raylı sistemde bir ay içerisinde ilk kazmanın vurulacağını söyledi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/rayli-sistem.jpg",
-    "keyword": "trabzon"
   }
 ]
