@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4e40800e",
+    "title": "Rıza Tamer, son yolculuğuna gitarıyla uğurlandı",
+    "source": "Sözcü",
+    "time": "18/04/2026 20:25",
+    "link": "https://www.sozcu.com.tr/riza-tamer-son-yolculuguna-gitariyla-ugurlandi-p312406",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rıza Tamer, son yolculuğuna gitarıyla uğurlandı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/riza3jpg-Ku_bEFNxBES1jOoubrInHg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4c3fc5b5",
     "title": "İmamoğlu’ndan Ataşehir Belediyesi operasyonuna tepki: ‘İktidar, halka hizmeti suç sayıyor!’",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Kardeşinin katilini cezaevinden çıktıktan 1 hafta sonra öldürdü",
     "image": "https://media.cumhuriyet.com.tr/Archive/e55e2a2f-2b0b-4692-a113-eba22bbbe28f.jpg",
     "keyword": null
-  },
-  {
-    "id": "SOC_2d305001",
-    "title": "Oğuz Şentürk @OguzCSOF · 2s Maden yasası biran önce iptal ed...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 20:06",
-    "link": "https://x.com/OguzCSOF/status/2045507068191191258",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "Oğuz Şentürk @OguzCSOF · 2s Maden yasası biran önce iptal edilmeli. Giresun özgür kalmalı. Giresun, Ordu, Tirebolu, Rize, Trabzon da ki tüm Akp'ye üyeliği olan herkese sesleniyorum. Ne zaman artık yeter diyeceksiniz. 42",
-    "image": null,
-    "keyword": "\"trabzon\" and (\"açıklama\" or \"karar\" or \"iptal\" or \"istifa\" or \"atama\" or \"proje\" or \"ihale\" or \"tepki\" or \"yürüyüş\" or \"eylem\" or \"basın açıklaması\" or \"miting\") -filter:replies"
   }
 ]
