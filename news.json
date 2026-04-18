@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_693ec3eb",
+    "title": "Ata tohumu eski tahıllar düşünüldüğü kadar sağlığa yararlı mı?",
+    "source": "BBC Türkçe",
+    "time": "18/04/2026 17:38",
+    "link": "https://www.bbc.com/turkce/articles/cy411vl89n5o?at_medium=RSS&at_campaign=rss",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ata tohumlarından üretilen eski tahılların sağlığa yararları konusundaki heyecan abartılı mı? Bilim insanları bu durumun sandığımız kadar net olmadığını söylüyor.",
+    "image": null,
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_4d34018f",
     "title": "Sektör ve uzmanlar değerlendiriyor: Televizyon dizileri şiddeti özendiriyor mu?",
     "source": "BBC Türkçe",
@@ -957,18 +970,6 @@
     "prefix": "🌊",
     "summary": "Davutoğlu ne yapmaya çalışıyor?",
     "image": "https://resim.haber61.net/news/613361.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_05bc881f",
-    "title": "Türkiye'den giden ilk hacı kafilesi kutsal topraklara ulaştı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 17:19",
-    "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-giden-ilk-haci-kafilesi-kutsal-topraklara-ulasti/3910599",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kutsal topraklarda hac farizasını yerine getirmek için Türkiye'den yola çıkan ilk kafile Medine-i Münevvere'ye ulaştı.",
-    "image": null,
     "keyword": null
   }
 ]
