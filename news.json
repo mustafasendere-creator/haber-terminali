@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a66cb703",
+    "title": "Bakan Kacır: Küresel ekonomide 80 yıllık ezberler bozuluyor",
+    "source": "TRT Haber",
+    "time": "18/04/2026 12:06",
+    "link": "https://www.trthaber.com/haber/gundem/bakan-kacir-kuresel-ekonomide-80-yillik-ezberler-bozuluyor-942120.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin sanayi ve teknoloji kabiliyetleriyle dünyada dönüşümün öncülerinden olduğunu belirterek, \"Küresel ekonomide özellikle son 80 yıldır benimsenmiş olan pek çok kabul artık terk ediliyor\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_4fb0f6ce",
     "title": "Saldırı görüntülerine karşı paylaşma, raporla çağrısı",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_a41a6cdd",
-    "title": "Sosyal medyada şiddet içeriklerinin paylaşımı saldırganların görünürlük kazanma riskini artırıyor",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 11:45",
-    "link": "https://www.aa.com.tr/tr/gundem/sosyal-medyada-siddet-iceriklerinin-paylasimi-saldirganlarin-gorunurluk-kazanma-riskini-artiriyor/3910407",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uzmanlar, Şanlıurfa ve Kahramanmaraş'ta okullarda yaşanan saldırı olaylarına ait görüntülerin sosyal medyada hızla yayılmasının, hem yanlış bilgi dolaşımını artırdığı hem de saldırganların görünürlük elde etmesine yol açabileceği uyarısında bulundu.",
     "image": null,
     "keyword": null
   }
