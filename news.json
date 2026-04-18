@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b40b276a",
+    "title": "Diyarbakır'da 2. 'yıldırım' vakası: Direğe yıldırım düştü, 1 yaralı",
+    "source": "BirGün",
+    "time": "18/04/2026 20:03",
+    "link": "https://www.birgun.net/haber/diyarbakir-da-2-yildirim-vakasi-direge-yildirim-dustu-1-yarali-706688",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır'ın Çınar ilçesinde bir elektrik direğine yıldırım düştü. Bu sırada yoldan geçen N.V. yaralandı. Sabah saatlerinde de Ergani'de bir okulun bahçesindeki ağaca yıldırım düşmesi sonucu 2 çocuk hayatını kaybetti.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/diyarbakir-da-2-yildirim-vakasi-direge-yildirim-dustu-1-yarali.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_95783305",
     "title": "Özgür Özel: Bir yılı aşkın süredir milyonlarla birlikte meydanlarda mücadele veriyoruz",
     "source": "BirGün",
@@ -1008,19 +1020,6 @@
     "summary": "Trabzon’da Atay Aktuğ’un vefatı şehirde büyük üzüntü yarattı; eski belediye başkanı ve Trabzonspor başkanı olarak önemli görevler üstlenmişti",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/18/large/atay-aktug.jpg",
     "keyword": "trabzon",
-    "has_video": false
-  },
-  {
-    "id": "GND_c9380e38",
-    "title": "Eyüpspor kümede kalma yolunda ümidini korudu",
-    "source": "BirGün",
-    "time": "18/04/2026 18:48",
-    "link": "https://www.birgun.net/haber/eyupspor-kumede-kalma-yolunda-umidini-korudu-706680",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eyüpspor, Karagümrük’ü 2-1 mağlup ederek 6 hafta sonra galibiyet aldı. Son sıradaki Karagümrük’ün ligde kalma şansı iyice azaldı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/eyupspor-kumede-kalma-yolunda-umidini-korudu.jpg",
-    "keyword": null,
     "has_video": false
   }
 ]
