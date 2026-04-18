@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da47f530",
+    "title": "CANLI YAYIN: Gençlerbirliği - Galatasaray | CANLI ANLATIM: Trendyol Süper Lig 30. hafta mücadelesi",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 20:25",
+    "link": "https://www.cumhuriyet.com.tr/spor/canli-yayin-genclerbirligi-galatasaray-canli-anlatim-trendyol-super-lig-30-hafta-mucadelesi-2496324",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray, Trendyol Süper Lig'in 30. haftasında Natura Dünyası Gençlerbirliği'ne konuk oluyor. Karşılaşma ile ilgili tüm ayrıntılar ve canlı anlatım Cumhuriyet.com.tr'de…",
+    "image": "https://media.cumhuriyet.com.tr/Archive/67314a3a-25ce-45c3-9eea-940192b0e097.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_39c8739f",
     "title": "Ankara'ya götürülmüştü... Galatasaray'dan flaş Victor Osimhen kararı",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Bilim Şenliği @bilimsenligi · 29d TÜBİTAK 4005 Kültürel Miras Oyunla Canlanıyor: Öğretmenler Yapay Zekâ ile “Kültür Oyunları” Geliştirecek!Proje kapsamında Trabzon, Giresun, Rize, Bayburt ve Gümüşhane illerinde görev yapan toplam 25 #Türkçe ve #SosyalBilgileröğretmeni kabul edilecektir. bilimsenligi.com/tubitak-4005-k … 20",
     "image": "https://pbs.twimg.com/media/HGM4SMhXwAAg-2X?format=jpg&name=small",
     "keyword": "\"trabzon\" and (\"açıklama\" or \"karar\" or \"iptal\" or \"istifa\" or \"atama\" or \"proje\" or \"ihale\" or \"tepki\" or \"yürüyüş\" or \"eylem\" or \"basın açıklaması\" or \"miting\") -filter:replies"
-  },
-  {
-    "id": "GND_ef85ad37",
-    "title": "Gençlerbirliği - Galatasaray maçında VIP tribünde izdiham yaşandı",
-    "source": "Haber Global",
-    "time": "18/04/2026 20:06",
-    "link": "https://haberglobal.com/spor/genclerbirligi-galatasaray-macinda-vip-tribunde-izdiham-yasandi-519625",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 30. haftasında Gençlerbirliği ile Galatasaray'ın karşı karşıya geleceği maçta ev sahibi ekibin VIP tribününde izdiham meydana geldi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/genclerbirligi-galatasaray-macinda-vip-tribunde-izdiham-yasandi-cx50.jpg",
-    "keyword": null
   }
 ]
