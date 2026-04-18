@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a82f79ea",
+    "title": "ABD Suriye'den askerlerini tamamen çekti!",
+    "source": "Haber Global",
+    "time": "18/04/2026 07:26",
+    "link": "https://haberglobal.com/dunya/abd-suriyeden-askerlerini-tamamen-cekti-519514",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Kuvvetler Komutanlığı, Suriye’deki kritik askeri üslerin devir sürecinin tamamlandığını duyurdu. Komutanlık tarafından yapılan açıklamada, söz konusu üslerin kontrolünün planlanan takvim doğrultusunda devredildiği belirtildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/abd-suriyeden-askerlerini-tamamen-cekti-obkg.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_d8b3fdbf",
     "title": "BM: Gazze'nin hiçbir yerinde siviller için güvenlik bulunmuyor",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Saray düzeninin sürmesi için...",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar43_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_73e54632",
-    "title": "‘1 Mayıs yalnız olmadığımızı görmek demek’",
-    "source": "Evrensel",
-    "time": "18/04/2026 05:25",
-    "link": "https://www.evrensel.net/haber/5980182/1-mayis-yalniz-olmadigimizi-gormek-demek",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul LCW deposundan genç bir işçi, 1 Mayıs'ı tatil değil, \"yalnız olmadığını görme günü\" olarak tanımlıyor. Ağır şartlara ve geçim derdine karşı, tüm genç işçileri beraber olmaya çağırıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/322697.jpg",
     "keyword": null
   }
 ]
