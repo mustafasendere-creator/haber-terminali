@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c4f45bad",
+    "title": "Engelli gence eziyet etmişlerdi: Mahkemeden skandal karar",
+    "source": "BirGün",
+    "time": "18/04/2026 17:19",
+    "link": "https://www.birgun.net/haber/engelli-gence-eziyet-etmislerdi-mahkemeden-skandal-karar-706672",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da zihinsel engelli Hamza S.'ye atölyede eziyet edip görüntülerini paylaşan 3 sanık, yargılandıkları davanın ilk duruşmasında adli kontrol şartıyla tahliye edildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/engelli-gence-eziyet-etmislerdi-mahkemeden-skandal-karar.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_f2dba303",
     "title": "Milletvekili Karaismailoğlu: “Şehir hastaneleri benim hayalimdir”",
     "source": "Karadeniz'de Sonnokta",
@@ -946,17 +958,5 @@
     "summary": "Vakit61 @vakit61 · 3h Translated from Turkish Show original Simultaneous illegal betting operation in 13 provinces including Trabzon: 71 detentions, 53 arrests.. Trabzon dahil 13 ilde eş zamanlı yasa dışı bahis operasyonu: 71 gözaltı, 53 tutuklama From vakit61.com 20",
     "image": null,
     "keyword": "(\"trabzon\" or \"ortahisar\" or \"akçaabat\" or \"yomra\" or \"karadeniz sahil yolu\") and (\"kaza\" or \"trafik\" or \"yangın\" or \"sel\" or \"heyelan\" or \"cinayet\" or \"operasyon\" or \"gözaltı\" or \"tutuklandı\" or \"kapalı\") -filter:replies"
-  },
-  {
-    "id": "GND_3f213058",
-    "title": "Gülistan Doku dosyasında son durum... Dokuz kişi tutuklandı",
-    "source": "OdaTV",
-    "time": "18/04/2026 16:43",
-    "link": "https://www.odatv.com/guncel/gulistan-doku-dosyasinda-son-durum-dokuz-kisi-tutuklandi-120143768",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Altı yıldır kayıp olan Gülistan Doku soruşturmasında 15 kişi gözaltına alındı. Gözaltına alınanlardan Doku&#039;nun da sevgilisinin olduğu dokuz kişi tutuklandı. Öte yandan şüpheli Umut Altaş&#039;ın ağabeyi S.A. dönemin Valisi Tuncay Sonel&#039;in oğlunun cinayeti işlediğini söyledi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/gulistan-doku-davasinda-son-durum-sekiz-kisi-tutuklandi-sg1b.jpg",
-    "keyword": null
   }
 ]
