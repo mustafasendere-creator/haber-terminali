@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_ef472a00",
+    "title": "SES Kayseri Şubesi: “Sağlıkta ve toplumda şiddete karşı mücadele büyütülmeli”",
+    "source": "Evrensel",
+    "time": "18/04/2026 17:58",
+    "link": "https://www.evrensel.net/haber/5980261/ses-kayseri-subesi-saglikta-ve-toplumda-siddete-karsi-mucadele-buyutulmeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SES Kayseri Şubesi, sağlıkta ve toplum genelinde artan şiddete dikkat çekti. Açıklamada, şiddetin sistematik nedenlerine işaret edilerek mücadele çağrısı yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343601.jpg",
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_a491b1d2",
     "title": "Ankara'da zihinsel engelli işçiye işkence davası: 3 sanık adli kontrol şartıyla tahliye edildi",
     "source": "Evrensel",
@@ -1017,18 +1030,6 @@
     "prefix": "🔔",
     "summary": "Okulları hedef alan saldırıları ve şiddet olaylarını protesto etmek isteyen öğretmenlerin ve öğrencilerin Mersin İl Milli Eğitim Müdürlüğü'ne topluca yürümesine polis izin vermedi. Öğretmenlerin önünde barikat kuran polisle göstericiler arasında zaman zaman tartışmalar yaşandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/cb74cd2b-0afb-4807-8242-50f89cb2afca.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_0cbce84a",
-    "title": "Lübnan’da BM gücüne saldırı: 1 Fransız askeri öldü",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 17:22",
-    "link": "https://www.cumhuriyet.com.tr/dunya/lubnan-da-bm-gucune-saldiri-1-fransiz-askeri-oldu-2496286",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Lübnan’ın güneyinde BM Barış Gücü’ne yönelik saldırıda 1 Fransız askeri öldü, 3 asker yaralandı. Macron, olaydan Hizbullah’ı sorumlu tutarken Lübnan hükümeti acil soruşturma başlattı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c9f6b3a9-2549-46cc-a570-7b1fd8bc1e2e.jpg",
     "keyword": null
   }
 ]
