@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7ae6986b",
+    "title": "İzmir Kitap Fuarı’nda kent hafızası raflarda",
+    "source": "Evrensel",
+    "time": "18/04/2026 16:41",
+    "link": "https://www.evrensel.net/haber/5980260/izmir-kitap-fuarinda-kent-hafizasi-raflarda",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Kitap Fuarı’nda İzmir Kent Kitaplığı tarafından hazırlanan; kentin tarihinden doğasına, kültürel mirasından çocuklara yönelik yayınlara uzanan eserler Kültürpark’ta 26 Nisan’a kadar okurların ilgisine sunuluyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343600.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_8e7d3932",
     "title": "Trabzon'da Akaryakıt Fiyatların Ne Kadar?",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Mersin'in Silifke ilçesinde örtü altının ardından açıkta da erik hasadı başladı. Can erikte kilogram fiyatı açıkta hasatla birlikte 200 liraya kadar geriledi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7e8ee4a6-3e51-49ee-8d7d-a2955c70e854.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_aa52dd50",
-    "title": "İçişleri Bakanlığı duyurdu: Çok sayıda il için 'kuvvetli yağış' ve 'sel' uyarısı",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 15:40",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-duyurdu-cok-sayida-il-icin-kuvvetli-yagis-ve-sel-uyarisi-2496271",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, kuvvetli ve gök gürültülü sağanak nedeniyle bazı iller için \"sarı\" ve \"turuncu\" kodlu meteorolojik uyarıda bulundu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/6a9a0abf-11e8-4d89-b0ef-70441490b6a5.jpg",
     "keyword": null
   }
 ]
