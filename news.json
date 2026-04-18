@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e8edfbe2",
+    "title": "Gülistan Doku soruşturması! Eski Tunceli Valisi'nin oğlu Mustafa Türkay Sonel tutuklandı",
+    "source": "Sözcü",
+    "time": "18/04/2026 20:25",
+    "link": "https://www.sozcu.com.tr/gulistan-doku-sorusturmasi-eski-tunceli-valisi-nin-oglu-mustafa-turkay-sonel-tutuklandi-p312401",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturması! Eski Tunceli Valisi'nin oğlu Mustafa Türkay Sonel tutuklandı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/sondakika880x487uzunjpg-ijjPQCBX6k_w9Rk7uxOH6g.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_4e40800e",
     "title": "Rıza Tamer, son yolculuğuna gitarıyla uğurlandı",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "marekiaro @marekiaro1761 · 2s Trabzon Devlet Tiyatrosu’nda bile haftada 3 gün, toplam 4 temsil olarak sahnelenen oyunlara bilet bulmak bile zor. Salonlar dolup taşıyor, her temsil kapalı gişe. Emrah Yalçınalp @uzakkuzey · 3s Dün Nedim Saban’ın Ahududu’suna gittim. Suna Keskin 85, Melek Baykal 71 yaşındalarmış. Ne denir bilemiyorum. Allah herkese böyle yaş alma nasip etsin. Harika performanslar.. “yaşlarına göre” değil, kemiksiz harika performanslar. Ve bir şey daha: Bilen bilir, Trabzonluluğa özel 2 91",
     "image": null,
     "keyword": "(\"trabzon\" or \"ortahisar\" or \"akçaabat\" or \"yomra\" or \"karadeniz sahil yolu\") and (\"kaza\" or \"trafik\" or \"yangın\" or \"sel\" or \"heyelan\" or \"cinayet\" or \"operasyon\" or \"gözaltı\" or \"tutuklandı\" or \"kapalı\") -filter:replies"
-  },
-  {
-    "id": "GND_da36b391",
-    "title": "Edirne'de kanlı infaz: Kardeşinin katilini cezaevinden çıktıktan 1 hafta sonra öldürdü",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 20:06",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/edirne-de-kanli-infaz-kardesinin-katilini-cezaevinden-ciktiktan-1-hafta-sonra-oldurdu-2496334",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kardeşinin katilini cezaevinden çıktıktan 1 hafta sonra öldürdü",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e55e2a2f-2b0b-4692-a113-eba22bbbe28f.jpg",
-    "keyword": null
   }
 ]
