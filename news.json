@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5b2fbae9",
+    "title": "İran, Hürmüz Boğazını yeniden kapattı",
+    "source": "TRT Haber",
+    "time": "18/04/2026 12:46",
+    "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazini-yeniden-kapatti-942123.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Silahlı Kuvvetleri'nin savaşı yürüten birimi Hatemül Enbiya Merkez Karargahı, ABDnin deniz ablukasına devam etmesi nedeniyle Hürmüz Boğazının kontrolünün önceki haline geri döndüğünü açıkladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_5c47d829",
     "title": "Göçle boşalan hayalet köy Lübbey turizmle ayağa kalkacak",
     "source": "TRT Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TCMB Başkanı Fatih Karahan, 5 Mayıs’ta TBMM Plan ve Bütçe Komisyonu’nda sunum yapacak. Toplantıda enflasyon görünümü, faiz politikası ve küresel gelişmeler ele alınacak.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/12/tcmb-baskani-fatih-karahanin-aci-gunu-tdni_cover.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_2eb5f52a",
-    "title": "Fitch, 12 Türk finans şirketinin görünümünü düşürdü",
-    "source": "Ekonomim",
-    "time": "18/04/2026 12:07",
-    "link": "https://www.ekonomim.com/finans/haberler/fitch-12-turk-finans-sirketinin-gorunumunu-dusurdu-haberi-888880",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fitch, 12 Türk banka dışı finansal kuruluşun kredi notu görünümlerini “pozitif”ten “durağan”a revize etti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/24/fitch-euro-bolgesi-hanehalki-tuketimi-istikrarli-bir-sekilde-artmaya-devam-ediyor-eb0s_cover.jpg",
     "keyword": null
   }
 ]
