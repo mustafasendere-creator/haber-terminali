@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b9bcbee8",
+    "title": "Maraş saldırısı ve Horváth’ın kitabı",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 05:05",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/murat-agirel/maras-saldirisi-ve-horvath-in-kitabi-2496163",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Neyi nasıl koruyacağımızı artık bilmiyoruz.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar459_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_dcbd952e",
     "title": "Donald Trump",
     "source": "Cumhuriyet",
@@ -946,17 +958,5 @@
     "summary": "Tunceli'de 5 Ocak 2020'den itibaren kendisinden haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili yürütülen soruşturmada adliyeye sevk edilen zanlılardan 4'ü tutuklandı.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "SOC_450f1900",
-    "title": "seda uzun (@seddoshh) / Posts / X - x.com",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 01:48",
-    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1GbU1YZGxwRG5QN0s1ZG5VRm9QeHNvVVBVY0dObjEtS2xwb0R1Z1NsOW9qV2lQdDN0MEE",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "seda uzun (@seddoshh) / Posts / X  x.com",
-    "image": null,
-    "keyword": "c31k trabzon"
   }
 ]
