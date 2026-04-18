@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_87938cc3",
+    "title": "İnşaatta çalışan çocuk işçi yüksekten düşerek hayatını kaybetti",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 15:40",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/insaatta-calisan-cocuk-isci-yuksekten-duserek-hayatini-kaybetti-2496267",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya'da çalıştığı inşaattan düşen 17 yaşındaki çocuk işçi yaşamını yitirdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a03246dd-2993-4336-9744-37ca9e055665.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_8e4c5c25",
     "title": "Beşiktaş kamp kadrosunu duyurdu: Samsunspor karşısında 3 eksik",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/2-kopyasi-2-kopya-61.webp",
-    "keyword": null
-  },
-  {
-    "id": "GND_429aa8f7",
-    "title": "Meteoroloji il il uyardı: Kuvvetli sağanak etkili olacak",
-    "source": "BirGün",
-    "time": "18/04/2026 15:18",
-    "link": "https://www.birgun.net/haber/meteoroloji-il-il-uyardi-kuvvetli-saganak-etkili-olacak-706656",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji verilerine göre, Ankara'da yerel kuvvetli yağış; Mersin, Adana, Osmaniye, Kahramanmaraş, Gaziantep ve Kilis çevrelerinde kuvvetli sağanak ve gök gürültülü sağanak etkili olacak.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/meteoroloji-il-il-uyardi-kuvvetli-saganak-etkili-olacak.jpg",
     "keyword": null
   }
 ]
