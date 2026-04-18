@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_feb5594c",
+    "title": "Moskova Ukrayna'yı vurdu, Kiev Rus petrol tesislerini hedef aldı",
+    "source": "Euronews",
+    "time": "18/04/2026 12:46",
+    "link": "http://tr.euronews.com/my-europe/2026/04/18/moskova-ukraynayi-vurdu-kiev-rus-petrol-tesislerini-hedef-aldi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna, cumartesi günü birden fazla Rus petrol rafinerisini İHA'larla vururken aynı anda topraklarına yönelik Rusya'nın 219 insansız hava aracı (İHA) saldırısını engelledi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_fbef7178",
     "title": "21 milyona can yeleği: Çünkü Titanik’ten yolcu kurtardı",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'da yarın yola çıkacaklar dikkat: 21. İstanbul Yarı Maratonu nedeniyle birçok yol trafiğe kapatılacak",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/11/yollarjpg-t9hzsZTfIEaZAVy3JkXJsg.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_e220017b",
-    "title": "Türkiye her gün başka bir şiddet sarmalı ile uyanıyor: Türkiye'nin gerçek krizi kaybolan eğitim, kaybolan gelecek…",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 12:06",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-her-gun-baska-bir-siddet-sarmali-ile-uyaniyor-turkiye-nin-gercek-krizi-kaybolan-egitim-kaybolan-gelecek-2496214",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa ve Kahramanmaraş'taki okul saldırıları, Türkiye'deki şiddet sarmalını bir kez daha gün yüzüne çıkardı. Artan şiddet olaylarının nedenlerini değerlendiren uzmanlar, sorunun tek bir sebebe indirgenemeyeceğini ve toplumsal bağlardaki kırılmanın belirleyici olduğunu vurguladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/40870187-541f-4963-bf75-6be5ff27b549.jpg",
     "keyword": null
   }
 ]
