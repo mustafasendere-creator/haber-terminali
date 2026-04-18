@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_a38d1d5b",
+    "title": "Mersin'de öğretmene barikat",
+    "source": "BirGün",
+    "time": "18/04/2026 17:39",
+    "link": "https://www.birgun.net/haber/mersin-de-ogretmene-barikat-706668",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin’de öğretmenler ve öğrencilerin, okullara yönelik saldırıları protesto etmek için yapmak istediği yürüyüşe polis izin vermedi. Barikatlarla engellenen grup, müdürlük önünde açıklama yaptı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/mersin-de-ogretmene-barikat.jpg",
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_c220cb3d",
     "title": "Emekli olup çalışanları ilgilendiriyor: Yargıtay’dan kritik karar",
     "source": "BirGün",
@@ -962,18 +975,6 @@
     "prefix": "🔔",
     "summary": "Kartal TEM bağlantı yolunda 6 aracın karıştığı zincirleme trafik kazası meydana geldi. Kazada ölen ya da yaralanan olmazken bölgede yoğun trafik oluştu.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/kartalda-6-araclik-zincirleme-kaza.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_23b4a4b8",
-    "title": "Maraş'taki okul saldırısında \"saldırganın ölmediği\" iddiası hakkında açıklama",
-    "source": "BirGün",
-    "time": "18/04/2026 17:19",
-    "link": "https://www.birgun.net/haber/maras-taki-okul-saldirisinda-saldirganin-olmedigi-iddiasi-hakkinda-aciklama-706677",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dezenformasyonla Mücadele Merkezi, Kahramanmaraş'taki okul saldırısının ardından sosyal medya mecraları ve dijital platformlarda \"saldırının failinin ölmediği\" yönündeki iddiaların asılsız olduğunu belirtti. Açıklamada, \"Söz konusu saldırganla ilgili adli ve tıbbi süreçler tamamlanmış, şahıs 16 Nisan'da gömülmüştür\" denildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/maras-taki-okul-saldirisinda-saldirganin-olmedigi-iddiasi-hakkinda-aciklama.jpg",
     "keyword": null
   }
 ]
