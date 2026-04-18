@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_052fc96e",
+    "title": "İstanbul'da faciadan dönüldü: Kartal'da 6 araçlık zincirleme kaza!",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 18:00",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-faciadan-donuldu-kartal-da-6-araclik-zincirleme-kaza-2496308",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kartal TEM bağlantı yolunda 6 aracın karıştığı zincirleme trafik kazası meydana geldi. Kazada ölen ya da yaralanan olmazken bölgede yoğun trafik oluştu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/87a7c626-54ba-4a35-836f-90daf8423a19.jpg",
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_1f9ddf6a",
     "title": "Geçici olarak kapatılmıştı: Kahramanmaraş'ta saldırının yaşandığı okulun tabelası, taşınacağı binaya asıldı",
     "source": "Cumhuriyet",
@@ -1023,19 +1036,6 @@
     "prefix": "🔔",
     "summary": "Mersin’de öğretmenler ve öğrencilerin, okullara yönelik saldırıları protesto etmek için yapmak istediği yürüyüşe polis izin vermedi. Barikatlarla engellenen grup, müdürlük önünde açıklama yaptı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/mersin-de-ogretmene-barikat.jpg",
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "GND_c220cb3d",
-    "title": "Emekli olup çalışanları ilgilendiriyor: Yargıtay’dan kritik karar",
-    "source": "BirGün",
-    "time": "18/04/2026 17:39",
-    "link": "https://www.birgun.net/haber/emekli-olup-calisanlari-ilgilendiriyor-yargitaydan-kritik-karar-706669",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yargıtay emekli olduktan sonra aynı işyerinde çalışmaya devam ettiğini, ancak primlerinin eksik yatırıldığını iddia eden bir işçinin başvurusunda kritik bir karar aldı. Yüksek Mahkeme, emekli işçiyi kısmen haklı buldu.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/emekli-olup-calisanlari-ilgilendiriyor-yargitaydan-emsal-karar.jpg",
     "keyword": null,
     "has_video": false
   }
