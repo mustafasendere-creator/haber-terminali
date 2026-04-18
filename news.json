@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_dc11bb0a",
+    "title": "Otomobil beton direğe çarptı; sürücü öldü",
+    "source": "Habertürk",
+    "time": "18/04/2026 10:27",
+    "link": "https://www.haberturk.com/tavsanli-da-otomobil-beton-direge-carpti-surucu-oldu-3878277",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya Tavşanlı'da kontrolden çıkan otomobil beton direğe çarptı. Hurdaya dönen otomobilin sürücüsü hayatını kaybetti, 1 kişi de yaralandı",
+    "image": "https://im.haberturk.com/l/2026/04/18/ver1776470217/3878277/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "TKP_0fc2aa16",
     "title": "Tekke listeyi teslim etti! Trabzonspor transferde düğmeye bastı",
     "source": "Kuzey Ekspres",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Afganistan Pakistan sınırında meydana gelen 5,3 büyüklüğündeki deprem geniş bölgede hissedildi. Derin odaklı sarsıntı büyük yıkımı önledi.",
     "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/06/sondakika111231112312.gif",
-    "keyword": null
-  },
-  {
-    "id": "GND_97197232",
-    "title": "Afganistan'ın Pakistan sınırında 5,3 büyüklüğünde deprem",
-    "source": "TRT Haber",
-    "time": "18/04/2026 10:05",
-    "link": "https://www.trthaber.com/haber/dunya/afganistanin-pakistan-sinirinda-53-buyuklugunde-deprem-942106.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Afganistan'ın Pakistan sınırında 5,3 büyüklüğünde deprem meydana geldi.",
-    "image": null,
     "keyword": null
   }
 ]
