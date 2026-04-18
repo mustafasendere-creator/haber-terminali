@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_70cc3bdb",
+    "title": "EPDK'dan hibrit yatırımlara 1500 megavat kapasite tahsisi",
+    "source": "TRT Haber",
+    "time": "18/04/2026 13:57",
+    "link": "https://www.trthaber.com/haber/ekonomi/epdkdan-hibrit-yatirimlara-1500-megavat-kapasite-tahsisi-942140.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enerji Piyasası Düzenleme Kurumu EPDK, mevcut santrallerin hibrit çok kaynaklı üretim yapısına dönüşümünü desteklemek amacıyla hidroelektrik, biyokütle ve jeotermal santraller için kapasite tahsisine ilişkin yeni düzenlemeyi yürürlüğe aldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_77040ba6",
     "title": "Yavaş: Operasyonları seyredemeyiz; konuşmanın zamanı geldi, geçiyor",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Kararın Türkiye’nin uzun vadeli kredi notu görünümünün “durağan”a çekilmesi ve ana bankalara yönelik benzer adımların ardından geldiği belirtildi. Revizyon kapsamında İstanbul Takas ve Saklama Bankası A.Ş. ile Türk ticari bankalarının iştirakleri olan finansal kuruluşlar yer aldı. Bu kuruluşlar arasında Ak Finansal Kiralama A.Ş., Alternatif Finansal Kiralama A.Ş., Deniz Finansal Kiralama A.Ş., İş Finansal Kiralama A.Ş., [&#8230;]",
     "image": "https://10haber.net/wp-content/uploads/2026/04/image_69e3595299b8a6.68915810.jpg",
     "keyword": "taka"
-  },
-  {
-    "id": "GND_67d06489",
-    "title": "BM Genel Sekreterinin Özel Temsilcisi'nden çocuklara yönelik şiddete karşı proaktif ve önleyici yaklaşım çağrısı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 13:25",
-    "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreterinin-ozel-temsilcisinden-cocuklara-yonelik-siddete-karsi-proaktif-ve-onleyici-yaklasim-cagrisi/3910482",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BM Genel Sekreterinin Çocuklara Karşı Şiddet Özel Temsilcisi Dr. Najat Maalla M’jid, çocuklara karşı şiddetin çözümünde tepkisel olmaktan ziyade önleyici ve proaktif olmaya geçilmesi gerektiğini söyledi.",
-    "image": null,
-    "keyword": null
   }
 ]
