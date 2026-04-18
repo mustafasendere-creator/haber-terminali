@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_f479004e",
+    "title": "Türk savunma sanayisi Berlin'de nitelikli insan kaynağıyla buluştu",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 17:38",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turk-savunma-sanayisi-berlinde-nitelikli-insan-kaynagiyla-bulustu/3910745",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SSB koordinasyonunda yürütülen \"Milli Yetkinlik Hamlesi\" projesi kapsamındaki \"Teknoloji ve Yetkinlik Buluşmaları\", Almanya'da yaşayan Türk öğrenci, mühendis ve akademisyenlerin yoğun katılımıyla Berlin'de gerçekleştirildi.",
+    "image": null,
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "YRL_8f0edd92",
     "title": "Trabzon eski Belediye Başkanı Atay Aktuğ hayatını kaybetti",
     "source": "Haber61",
@@ -950,18 +963,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’un Sürmene ilçesinde 15 bin metrekarelik arsa icradan satışa çıkarıldı. Muhammen bedeli 14 milyon 580 bin TL olarak belirlenen taşınmaz için ihale 9 Haziran’da yapılacak.",
     "image": "https://resim.haber61.net/news/613365.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_23cdbb91",
-    "title": "Rize Sarp Sınır Kapısı’nda 3 ayda 919 bin yolcu geçişi sağlandı",
-    "source": "Haber61",
-    "time": "18/04/2026 17:18",
-    "link": "https://www.haber61.net/artvin/rize-sarp-sinir-kapisinda-3-ayda-919-bin-yolcu-gecisi-saglandi-h629956.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rize-Artvin sınırındaki Sarp Sınır Kapısı’nda 2026’nın ilk çeyreğinde yolcu sayısı yüzde 5 artarak 919 bin 876’ya ulaştı. Ticaret hacmi ise yüzde 6 artışla 404 milyon doları buldu.",
-    "image": "https://resim.haber61.net/news/613367.jpg",
     "keyword": null
   }
 ]
