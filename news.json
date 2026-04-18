@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_9e614d8a",
+    "title": "NBA'de play-off eşleşmeleri belli oldu",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 12:46",
+    "link": "https://www.cumhuriyet.com.tr/spor/nba-de-play-off-eslesmeleri-belli-oldu-2496231",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amerikan Basketbol Ligi'nde (NBA) play-in maçlarını kazanan Phoenix Suns ve Orlando Magic, play-off bileti alan son iki takım oldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/87daeb8b-635a-4794-8000-23b8ac2df24e.jpg",
+    "keyword": null
+  },
+  {
+    "id": "TKP_430eee92",
+    "title": "Trabzonspor'dan ayrıldı kendini bulmaya başladı 'İnanılmaz bir yetenek'",
+    "source": "61 Saat",
+    "time": "18/04/2026 12:46",
+    "link": "https://www.61saat.com/trabzonspordan-ayrildi-kendini-bulmaya-basladi-inanilmaz-bir-yetenek",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzonspor'da ayrılan Olaigbe kendini bulmaya başladı.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/1231232-kopyasi-13-kopya.jpg",
+    "keyword": "trabzon"
+  },
+  {
     "id": "TKP_f9c18668",
     "title": "Trabzon heyeti Azerbaycan iş dünyası ile buluştu!",
     "source": "61 Saat",
@@ -933,30 +957,6 @@
     "prefix": "🔔",
     "summary": "Ataşehir Belediyesi'ne yönelik gece yarısı 'yolsuzluk' iddiasıyla düzenlenen operasyonda Onursal Adıgüzel’in de aralarında bulunduğu 18 kişi gözaltına alındı. Konuya ilişkin Adıgüzel'den ilk açıklama geldi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/atasehir-belediyesi-ne-operasyon-belediye-baskani-onursal-adiguzel-den-ilk-aciklama.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_2125a1c8",
-    "title": "Yaşanan okul saldırıları sonrası Taşacak Bu Deniz dizisine yeni düzenleme",
-    "source": "Haber61",
-    "time": "18/04/2026 12:25",
-    "link": "https://www.haber61.net/magazin/yasanan-okul-saldirilari-sonrasi-tasacak-bu-deniz-dizisine-yeni-duzenleme-h629930.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Eşref Rüya, Yeraltı, Teşkilat, Uzak Şehir, A.B.İ ve Taşacak Bu Deniz dizileri için yeni karar alındı. Yayıncılar, şiddet ve silah içeren sahnelerde “hassas yayın” uygulamasına geçiyor.",
-    "image": "https://resim.haber61.net/news/613324.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_340d906d",
-    "title": "Cumhurbaşkanı Erdoğan, Bosna Hersek Devlet Başkanlığı Konseyi üyeleriyle görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 12:25",
-    "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bosna-hersek-devlet-baskanligi-konseyi-uyeleriyle-gorustu/3910441",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bosna Hersek Devlet Başkanlığı Konseyi üyeleri Zeljka Cvijanovic, Denis Becirovic ve Zeljko Komsic ile çalışma kahvaltısında bir araya geldi.",
-    "image": null,
     "keyword": null
   }
 ]
