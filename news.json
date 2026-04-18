@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_bf16488c",
+    "title": "@kmmedya.bsky.social: Aziz Yıldırım: \n\n“Kızıma üzülme dedim. \n\n'Ne demek üzülme, s...",
+    "source": "Bluesky",
+    "time": "18/04/2026 17:11",
+    "link": "https://bsky.app/profile/kmmedya.bsky.social/post/3mjrmcedhfa2c",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Aziz Yıldırım: \n\n“Kızıma üzülme dedim. \n\n'Ne demek üzülme, sen nasıl konuşuyorsun' dedi.”\n\n#Gündem #Haber #Türkiye\n📢 t.me/KRBRZ_MEDYA",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eoc4a3qw2komzmqklzi2cnz5/bafkreicth5imbljhnohrprvhuf4rcqxdfvxinclkikhqbkcg7y7dd57jgq",
+    "keyword": "türkiye"
+  },
+  {
     "id": "SOC_e2565a0f",
     "title": "@kmmedya.bsky.social: Trump: \"İran bize şantaj yapamaz.\"\n\n#Gündem #Haber #Türkiye\n...",
     "source": "Bluesky",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Suudi Arabistanda yetkililer, hac sezonu hazırlıkları kapsamında Kabe'nin örtüsünün alt kısmını 3 metre yukarı kaldırdı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_08e1a83f",
-    "title": "Sanchez: BM'nin acil reforma ihtiyacı var",
-    "source": "TRT Haber",
-    "time": "18/04/2026 16:42",
-    "link": "https://www.trthaber.com/haber/dunya/sanchez-bmnin-acil-reforma-ihtiyaci-var-942154.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya Başbakanı Pedro Sanchez, Birleşmiş Milletler'in BM ve mevcut çok taraflı sistemin \"acil reforma ve yenilenmeye\" ihtiyacı olduğunu savundu.",
     "image": null,
     "keyword": null
   }
