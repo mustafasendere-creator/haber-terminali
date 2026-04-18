@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cca09a20",
+    "title": "A101 Carrefoursa’yı satın alıyor",
+    "source": "Haber Global",
+    "time": "18/04/2026 07:26",
+    "link": "https://haberglobal.com/ekonomi/a101-carrefoursayi-satin-aliyor-519513",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bünyesinde bulunan A101 mağazalarıyla Türkiye’nin 81 ilinde faaliyet gösteren Yeni Mağazacılık A.Ş., organize perakende sektörünün önde gelen şirketlerinden Carrefoursa’yı devralmak için Sabancı Holding ve Carrefour ile anlaştı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/a101-carrefoursayi-satin-aliyor-qgy6.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_a82f79ea",
     "title": "ABD Suriye'den askerlerini tamamen çekti!",
     "source": "Haber Global",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Yaşam pratiklerine göre dayatılan yetiştirme kurallarına isyan edenler arasına katılmış oluyorlar.",
     "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar84_cover.jpeg",
-    "keyword": null
-  },
-  {
-    "id": "GND_f855fc27",
-    "title": "Bir de Bundan Sonrası Var...",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 05:25",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/isik-kansu/bir-de-bundan-sonrasi-var-2496165",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Saray düzeninin sürmesi için...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar43_cover.jpeg",
     "keyword": null
   }
 ]
