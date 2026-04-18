@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4c3fc5b5",
+    "title": "İmamoğlu’ndan Ataşehir Belediyesi operasyonuna tepki: ‘İktidar, halka hizmeti suç sayıyor!’",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 20:25",
+    "link": "https://www.cumhuriyet.com.tr/siyaset/imamoglu-ndan-atasehir-belediyesi-operasyonuna-tepki-iktidar-halka-hizmeti-suc-sayiyor-2496323",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ataşehir Belediyesi’ne yönelik gece yarısı operasyonuna tutuklu İBB Başkanı Ekrem İmamoğlu tepki göstererek, \"Bugün bir kez daha görüyoruz ki, iktidar siyaset yapmayı, halka hizmet etmeyi, milletin iradesine sahip çıkmayı adeta suç saymaktadır\" dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9e08d503-2bc0-42c3-957b-5ddf97e5b1ad.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_71dcc545",
     "title": "Bundesliga'da tarihi an: Marie-Louise Eta ilk maçına Wolfsburg karşısında çıktı",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "SOC",
     "prefix": "🐦",
     "summary": "Oğuz Şentürk @OguzCSOF · 2s Maden yasası biran önce iptal edilmeli. Giresun özgür kalmalı. Giresun, Ordu, Tirebolu, Rize, Trabzon da ki tüm Akp'ye üyeliği olan herkese sesleniyorum. Ne zaman artık yeter diyeceksiniz. 42",
-    "image": null,
-    "keyword": "\"trabzon\" and (\"açıklama\" or \"karar\" or \"iptal\" or \"istifa\" or \"atama\" or \"proje\" or \"ihale\" or \"tepki\" or \"yürüyüş\" or \"eylem\" or \"basın açıklaması\" or \"miting\") -filter:replies"
-  },
-  {
-    "id": "SOC_4a9cd396",
-    "title": "masal @masalgibimiydi · 1 sa ya zamanında hercai fanlığı yap...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 20:06",
-    "link": "https://x.com/masalgibimiydi/status/2045530613029957845",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "masal @masalgibimiydi · 1 sa ya zamanında hercai fanlığı yapmış biri olarak Trabzon halkına sesleniyorum nasıl sahnelerin spoisi düşmüyor ya hercaide sahneyi iptal ettirmişliğimiz bile var #isfad #erzey #tasacakbudeni̇z 730",
     "image": null,
     "keyword": "\"trabzon\" and (\"açıklama\" or \"karar\" or \"iptal\" or \"istifa\" or \"atama\" or \"proje\" or \"ihale\" or \"tepki\" or \"yürüyüş\" or \"eylem\" or \"basın açıklaması\" or \"miting\") -filter:replies"
   }
