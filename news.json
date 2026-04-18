@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_e2565a0f",
+    "title": "@kmmedya.bsky.social: Trump: \"İran bize şantaj yapamaz.\"\n\n#Gündem #Haber #Türkiye\n...",
+    "source": "Bluesky",
+    "time": "18/04/2026 17:10",
+    "link": "https://bsky.app/profile/kmmedya.bsky.social/post/3mjrmddj5dv25",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "Trump: \"İran bize şantaj yapamaz.\"\n\n#Gündem #Haber #Türkiye\n📢 t.me/KRBRZ_MEDYA",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eoc4a3qw2komzmqklzi2cnz5/bafkreiefz5ucyn4jyihzi7iu7umfy6zsvrfw7272b4lumml2pe5fincunm",
+    "keyword": "türkiye"
+  },
+  {
     "id": "SOC_0107f7ce",
     "title": "@anonturk.bsky.social: 🇹🇷 Almanya’da bir bankada 3 haftada 3 soygun: Toplam kayıp y...",
     "source": "Bluesky",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İspanya Başbakanı Pedro Sanchez, Birleşmiş Milletler'in BM ve mevcut çok taraflı sistemin \"acil reforma ve yenilenmeye\" ihtiyacı olduğunu savundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d6b90400",
-    "title": "Emine Erdoğan, Filistin İçin Tek Yürek konulu panele katıldı",
-    "source": "TRT Haber",
-    "time": "18/04/2026 16:42",
-    "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-filistin-icin-tek-yurek-konulu-panele-katildi-942155.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Antalya Diplomasi Forumu kapsamında gerçekleştirilen \"Filistin İçin Tek Yürek\" konulu panele katıldı.",
     "image": null,
     "keyword": null
   }
