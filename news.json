@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6efa453e",
+    "title": "Okulların önünde 2 polis görevlendirildi: Veliler nasıl değerlendirdi?",
+    "source": "BirGün",
+    "time": "18/04/2026 11:25",
+    "link": "https://www.birgun.net/haber/okullarin-onunde-2-polis-gorevlendirildi-veliler-nasil-degerlendirdi-706617",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa ve Kahramanmaraş’ta yaşanan okul saldırılarının ardından eğitim kurumlarının önünde en az iki polis görevlendirildi. Bir veli, \"Güvenlik olması şart okullarda, giriş çıkışlar denetlenmeli. Rastgele herkes girebiliyordu okullara, polislerin gelmesi çok iyi oldu\" sözleriyle uygulamayı olumlu bulurken, bir başka veli ise \"Her okula polis konulması öngörülüyor ama yani böyle şeyler bence tamamen bir güvensizlik ortamı yaratacak\" dedi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/okullarin-onunde-2-emniyet-personeli-gorevlendirildi-veliler-nasil-degerlendirdi.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_8f4193ec",
     "title": "Trabzon'da uzman isimden flaş uyarı! 'Dijital mecraları ve kontrolsüz medyayı...'",
     "source": "61 Saat",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor transfer çalışmalarını sürdürürken son olarak Leicester City’nin yıldızı Abdul Fatawu için temasların başladığı öne sürüldü.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/fatawu.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_b5392f80",
-    "title": "İsrail'in Lübnan'a düzenlediği saldırılarda can kaybı 2 bin 294'e yükseldi",
-    "source": "Haber Global",
-    "time": "18/04/2026 10:46",
-    "link": "https://haberglobal.com/dunya/israilin-lubnana-duzenledigi-saldirilarda-can-kaybi-2-bin-294e-yukseldi-519543",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sağlık Bakanlığı, İsrail'in ülkeye gerçekleştirdiği saldırılarda hayatını kaybedenlerin sayısının 2 bin 294'e, yaralı sayısının ise 7 bin 544'e ulaştığını bildirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/israilin-lubnana-duzenledigi-saldirilarda-can-kaybi-2-bin-294e-yukseldi-i0j2.jpg",
     "keyword": null
   }
 ]
