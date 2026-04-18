@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ef1df650",
+    "title": "Isparta'da kayıp olarak aranan 16 yaşındaki Feyza Keskin'in cansız bedenine ulaşıldı",
+    "source": "Evrensel",
+    "time": "18/04/2026 14:38",
+    "link": "https://www.evrensel.net/haber/5980237/ispartada-kayip-olarak-aranan-16-yasindaki-feyza-keskinin-cansiz-bedenine-ulasildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Isparta'da kayıp olarak aranan 16 yaşındaki milli satranç oyuncusu Feyza Keskin, boş bir binanın önünde yaşamını yitirmiş halde bulundu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343579.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_c3190464",
     "title": "Trabzonspor'un Kiralık Yıldız Kalecisi Gidecek mi Kalacak mı Sözlerini Takmadı Son 5 Maça Odaklandı!",
     "source": "Taka Gazetesi",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Aziz Yıldırım, Divan Kurulu toplantısında açıklamalarda bulunuyor. Yıldırım, \"Bu yönetim 100 milyon euro'ya yakın borç ödedik ve borçları kapadık diyor. Borç 630 milyon euro falan diyorlardı, nerede o yalancılar?\" dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/aziz-yildirim-divan-kurulu-nda-konusuyor.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_468e71bb",
-    "title": "Fenerbahçe'nin borcu açıklandı",
-    "source": "BirGün",
-    "time": "18/04/2026 13:56",
-    "link": "https://www.birgun.net/haber/fenerbahce-nin-borcu-aciklandi-706636",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe'nin toplam borcu 27 milyar 293 milyon TL’ye olarak açıklandı. Kısa vadeli yükümlülükler 17,2 milyar TL, uzun vadeli yükümlülükler ise yaklaşık 9 milyar TL olarak kaydedildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/fenerbahce-nin-borcu-aciklandi.jpg",
     "keyword": null
   }
 ]
