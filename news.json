@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_73e54632",
+    "title": "‘1 Mayıs yalnız olmadığımızı görmek demek’",
+    "source": "Evrensel",
+    "time": "18/04/2026 05:25",
+    "link": "https://www.evrensel.net/haber/5980182/1-mayis-yalniz-olmadigimizi-gormek-demek",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul LCW deposundan genç bir işçi, 1 Mayıs'ı tatil değil, \"yalnız olmadığını görme günü\" olarak tanımlıyor. Ağır şartlara ve geçim derdine karşı, tüm genç işçileri beraber olmaya çağırıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/322697.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_3dbd19ed",
     "title": "İsimleri yok paraları bol: Bütçeden vakıflar can suyu",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Bir çocuk neden çeteleşir? Bir çocuk neden silaha sarılır? Bir çocuk neden okul basar?",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343158.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4eb365b2",
-    "title": "Davutoğlu’ndan iktidara çağrı: “23 Nisan’a kadar ulusal yas ilan edilsin”",
-    "source": "Evrensel",
-    "time": "18/04/2026 02:05",
-    "link": "https://www.evrensel.net/haber/5980092/davutoglundan-iktidara-cagri-23-nisana-kadar-ulusal-yas-ilan-edilsin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Maraş’taki okul saldırısının ardından Davutoğlu, 23 Nisan’a kadar ulusal yas ilan edilmesini ve tüm kutlamaların iptal edilmesini istedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/342122.jpg",
     "keyword": null
   }
 ]
