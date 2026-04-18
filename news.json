@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c31e4477",
+    "title": "Hatay'da fırtına etkisi: Tekneler alabora oldu, çatılar uçtu",
+    "source": "BirGün",
+    "time": "18/04/2026 08:45",
+    "link": "https://www.birgun.net/haber/hatay-da-firtina-etkisi-tekneler-alabora-oldu-catilar-uctu-706586",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay’da etkili olan fırtına yaşamı olumsuz etkiledi. İskenderun ve Arsuz’da tekneler alabora olurken çok sayıda ev ve iş yerinin çatısı uçtu. Ağaçlar devrildi, elektrik hatları zarar gördü; ekipler bölgede çalışma başlattı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/hatay-da-firtina-etkisi-tekneler-alabora-oldu-catilar-uctu.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_93c121bb",
     "title": "Gülistan Doku soruşturmasında tutuklu sayısı 8'e yükseldi",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İzmir'de yaklaşık 1,5 yıldır grevde olan Temel Conta işçileri, 'huzur ve sükûneti bozma' iddiasıyla şafak operasyonu yapılarak gözaltına alındı. Grevdeki 16 işçiden 12’si hakkında yakalama kararı çıkarıldı. Destek gecikmesi, işçilerin grev çadırlarını Digel Tekstil nöbeti devralarak boş bırakmadı. İşçiler \"Bizi bu şekilde yıldıramayacaklar\" dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/grevdeki-iscilere-safak-operasyonu-is-ekmek-yoksa-patrona-huzur-yok.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_00a6201f",
-    "title": "Meteoroloji uyardı: Yurt genelinde kuvvetli yağış beklentisi",
-    "source": "BirGün",
-    "time": "18/04/2026 07:25",
-    "link": "https://www.birgun.net/haber/meteoroloji-uyardi-yurt-genelinde-kuvvetli-yagis-beklentisi-706584",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Meteoroloji Genel Müdürlüğü, yurdun büyük bölümünde sağanak ve gök gürültülü yağış beklendiğini duyurdu. Çok sayıda il için kuvvetli yağış uyarısı yapılırken sel, su baskını, fırtına ve çığ riskine karşı yurttaşların tedbirli olması istendi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/meteoroloji-uyardi-yurt-genelinde-kuvvetli-yagis-beklentisi.jpg",
     "keyword": null
   }
 ]
