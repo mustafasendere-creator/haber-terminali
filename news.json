@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e6e1a761",
+    "title": "Kemeraltı esnafı kepenk kapattı",
+    "source": "Habertürk",
+    "time": "18/04/2026 12:27",
+    "link": "https://www.haberturk.com/kemeralti-esnafi-kepenk-kapatti-3878191",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'in tarihi Kemeraltı Çarşısı'nda otopark sorununun çözülememesine tepki gösteren esnaf, kepenk kapatma eylemi düzenledi",
+    "image": "https://im.haberturk.com/l/2026/04/17/ver1776439156/3878191/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_591e2cdd",
     "title": "Fenerbahçe-Rizespor maçı ne zaman?",
     "source": "Habertürk",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Milli Eğitim Bakanlığı (MEB), Şanlıurfa ve Kahramanmaraş'ta yaşanan okul saldırılarının ardından rehber öğretmen ile psikolojik danışmanların görev aldığı psikososyal destek çalışmalarını aralıksız sürdürüyor.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_c24d7abf",
-    "title": "Trabzon'unda aralarında olduğu futbol bahis ağına darbe: 53 tutuklama",
-    "source": "Haber61",
-    "time": "18/04/2026 12:05",
-    "link": "https://www.haber61.net/trabzon/trabzonunda-aralarinda-oldugu-futbol-bahis-agina-darbe-53-tutuklama-h629924.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Sakarya merkezli 13 ilde, Trabzon’un da aralarında bulunduğu yasa dışı bahis operasyonunda 71 şüpheli gözaltına alındı. Şüphelilerden 53’ü tutuklandı.",
-    "image": "https://resim.haber61.net/news/613311.jpg",
     "keyword": null
   }
 ]
