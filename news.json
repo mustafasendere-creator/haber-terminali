@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_eafbfcab",
+    "title": "Vakit61 @vakit61 · 3h Translated from Turkish Show original ...",
+    "source": "X (Twitter)",
+    "time": "18/04/2026 16:50",
+    "link": "https://x.com/vakit61/status/2045444135675449456",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "Vakit61 @vakit61 · 3h Translated from Turkish Show original Simultaneous illegal betting operation in 13 provinces including Trabzon: 71 detentions, 53 arrests.. Trabzon dahil 13 ilde eş zamanlı yasa dışı bahis operasyonu: 71 gözaltı, 53 tutuklama From vakit61.com 20",
+    "image": null,
+    "keyword": "(\"trabzon\" or \"ortahisar\" or \"akçaabat\" or \"yomra\" or \"karadeniz sahil yolu\") and (\"kaza\" or \"trafik\" or \"yangın\" or \"sel\" or \"heyelan\" or \"cinayet\" or \"operasyon\" or \"gözaltı\" or \"tutuklandı\" or \"kapalı\") -filter:replies"
+  },
+  {
     "id": "GND_3f213058",
     "title": "Gülistan Doku dosyasında son durum... Dokuz kişi tutuklandı",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Galatasaray'ın Macar yıldızı Dorka Juhasz, FIBA Kadınlar Avrupa Ligi’nde sezonun en değerli oyuncusu seçildi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/euroleague-de-mvp-galatasarayli-dorka-juhasz.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_1914f9a7",
-    "title": "Trabzonspor Genel Sekreteri Sami Karaman’dan taraftara çağrı; “40 Bin Yürek Tek Bir Ses”",
-    "source": "Taka Gazetesi",
-    "time": "18/04/2026 16:39",
-    "link": "https://www.takagazete.com.tr/trabzonspor-genel-sekreteri-sami-karamandan-taraftara-cagri-40-bin-yurek-tek-bir-ses",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’dan Başakşehir maçı öncesi taraftara çağrı geldi. Sami Karaman, Papara Park’ta 40 bin kişinin tek yürek olacağını söyledi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-11-99.jpg",
     "keyword": null
   }
 ]
