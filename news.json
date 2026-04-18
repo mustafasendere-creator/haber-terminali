@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_99e62285",
+    "title": "Gazze'deki soykırımda can kaybı 72 bin 549'a yükseldi!",
+    "source": "BirGün",
+    "time": "18/04/2026 14:36",
+    "link": "https://www.birgun.net/haber/gazze-deki-soykirimda-can-kaybi-72-bin-549-a-yukseldi-706644",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 549'a yükseldi. Ateşkesin yürürlüğe girdiği 10 Ekim 2025'ten bu yana İsrail'in saldırılarında 773 kişi yaşamını yitirdi, 2 bin 171 kişi yaralandı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/gazze-deki-soykirimda-can-kaybi-72-bin-549-a-yukseldi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5b977bbc",
     "title": "Milyonlarca kiracıyı ilgilendiriyor: Yargıtay'dan emsal \"depozito\" kararı",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "\"Çok ilginç belgeler bulduk\" diyen ABD Başkanı Donald Trump, yakında UFO'lar ve dünya dışı yaşamla ilgili belgelerin kamuoyu ile paylaşılacağını açıkladı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_7cf5da6e",
-    "title": "İran ABD ablukası nedeniyle Hürmüz Boğazı'nı yeniden kapattı",
-    "source": "DW Türkçe",
-    "time": "18/04/2026 13:27",
-    "link": "https://www.dw.com/tr/iran-abd-ablukası-nedeniyle-hürmüz-boğazı-nı-yeniden-kapattı/a-76841281",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran ordusu, Cuma günü yeniden deniz trafiğine açılan Hürmüz Boğazı'nda \"sıkıyönetime\" geri dönüldüğünü açıkladı. Kapatma kararına gerekçe olarak ABD'nin İran limanlarına yönelik deniz ablukasını kaldırmaması gösterildi.",
     "image": null,
     "keyword": null
   }
