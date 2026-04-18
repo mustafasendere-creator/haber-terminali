@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_4fb0f6ce",
+    "title": "Saldırı görüntülerine karşı paylaşma, raporla çağrısı",
+    "source": "TRT Haber",
+    "time": "18/04/2026 12:06",
+    "link": "https://www.trthaber.com/haber/gundem/saldiri-goruntulerine-karsi-paylasma-raporla-cagrisi-942122.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uzmanlar, okul saldırılarına ait görüntülerin sosyal medyada yayılmasının saldırganların 'ünlü olma' amacına hizmet ettiği ve dezenformasyonu artırdığı uyarısında bulunarak; bu içeriklerin paylaşılmak yerine 'şiddeti özendirme' gerekçesiyle raporlanması gerektiğini vurguladı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_84c79683",
     "title": "Dijital şiddet normalleşme tuzağında",
     "source": "TRT Haber",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Uzmanlar, Şanlıurfa ve Kahramanmaraş'ta okullarda yaşanan saldırı olaylarına ait görüntülerin sosyal medyada hızla yayılmasının, hem yanlış bilgi dolaşımını artırdığı hem de saldırganların görünürlük elde etmesine yol açabileceği uyarısında bulundu.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8f0184bc",
-    "title": "Milli güreşçi Osman Göçen için \"altın\" zamanı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 11:45",
-    "link": "https://www.aa.com.tr/tr/spor/milli-guresci-osman-gocen-icin-altin-zamani/3910400",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Serbest Güreş Milli Takımı'nın en tecrübeli ismi Osman Göçen, kariyerindeki 3 Avrupa üçüncülüğünü, altın madalyayla taçlandırmayı hedefliyor.",
     "image": null,
     "keyword": null
   }
