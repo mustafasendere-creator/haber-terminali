@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_f4f3be24",
+    "title": "Kayseri Büyükşehir Belediyesine EMEP'ten tepki: \"Emekliye göz boyama, emekçilere ulaşım zammı\"",
+    "source": "Evrensel",
+    "time": "18/04/2026 13:56",
+    "link": "https://www.evrensel.net/haber/5980232/kayseri-buyuksehir-belediyesine-emepten-tepki-emekliye-goz-boyama-emekcilere-ulasim-zammi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Emek Partisi Kayseri İl Örgütü, büyükşehir belediyesinin ulaşım zammına tepki göstererek, emekliye verilen nakdi destek ile birlikte yapılan artışın “göz boyama” olduğunu söyledi; zamların geri çekilmesini istedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343572.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_498b41af",
     "title": "Cumartesi Anneleri 1099. haftada sordu: 45 yıldır yanıt yok, Nurettin Yedigöl nerede?",
     "source": "Evrensel",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Çin’in Xi’an kentinde düzenlenen Uluslararası İpek Yolu Turizm Fuarı’nda Trabzon, “İpekyolu Damgası” ile öne çıktı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-18-130827.png",
-    "keyword": null
-  },
-  {
-    "id": "GND_47fb0c5b",
-    "title": "İsrail'in Gazze'ye saldırılarında can kaybı 72 bin 549'a yükseldi",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 13:25",
-    "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirilarinda-can-kaybi-72-bin-549a-yukseldi/3910488",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun Ekim 2023'ten beri Gazze Şeridi'ne düzenlediği saldırılarda yaşamını yitirenlerin sayısı 72 bin 549'a ulaştı.",
-    "image": null,
     "keyword": null
   }
 ]
