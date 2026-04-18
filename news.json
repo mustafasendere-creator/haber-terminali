@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_55f395f7",
+    "title": "Dışişleri Bakan Yardımcısı Büyükelçi Bozay: Türkiye bütün çatışmaların sürekli konsantre olduğu bir yerde",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 20:23",
+    "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakan-yardimcisi-buyukelci-bozay-turkiye-butun-catismalarin-surekli-konsantre-oldugu-bir-yerde/3910895",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakan Yardımcısı Bozay \"Türkiye Bir Balkan ülkesidir, bir Karadeniz ülkesidir, bir Akdeniz ülkesidir. Türkiye bir Orta Doğu ülkesidir. Bütün Avrasya'nın tam ortasındayız. Bütün çatışmaların sürekli konsantre olduğu bir yerdeyiz.\" dedi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "YRL_c9ab5c7d",
     "title": "Trabzonspor Eski Başkanı Atay Aktuğ İçin tören düzenlenecek",
     "source": "Haber61",
@@ -946,17 +958,5 @@
     "summary": "@kafasinagorebyy · 19d göztepe maçında trabzon,trabzon maçında göztepe forması giyen erdem'in dikkat çekiş 0:01 TheRisk falan Arşiv  adlı kullanıcıdan 1 69",
     "image": null,
     "keyword": "\"trabzon\" and (\"son dakika\" or \"sondakika\" or \"flaş\" or \"acil\" or \"önemli gelişme\" or \"ihbar\" or \"sıcak gelişme\" or \"az önce\" or \"şimdi\" or \"dikkat\") -filter:replies"
-  },
-  {
-    "id": "SOC_879422ae",
-    "title": "Batuhan @shnbatuhann · 1 sa Parodi hesabı @modisempoku  adlı...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 20:03",
-    "link": "https://x.com/shnbatuhann/status/2045529760898355484",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "Batuhan @shnbatuhann · 1 sa Parodi hesabı @modisempoku  adlı kişiye yanıt olarak Golü atan eleman Trabzon, Ads, Ankaragücü’nde oynamış sol bek/sol açık 1 1 30",
-    "image": "https://pbs.twimg.com/media/HGMueX9XcAEDDfm?format=jpg&name=small",
-    "keyword": "\"trabzon\" and (\"ajan\" or \"bakan\" or \"emniyet\" or \"fetö\" or \"gündem\" or \"c31k\" or \"c31\" or \"halkevi\" or \"halk evi\" or \"intihar\" or \"istihbarat\" or \"jandarma\" or \"memur\" or \"okul\" or \"polis\" or \"sol\" or \"sondakika\" or \"son dakika\" or \"ziyaret\")"
   }
 ]
