@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_d3eb2a74",
+    "title": "Bu hafta ne oldu? (18 Nisan 2026)",
+    "source": "Evrensel",
+    "time": "18/04/2026 14:48",
+    "link": "https://www.evrensel.net/haber/5980242/bu-hafta-ne-oldu-18-nisan-2026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Discord, Roblox, Wattpad yasaklandı ama okul saldırıları durmadı. Peki neden? Urfa ve Maraş’ta 9 kişi öldü, suç yine yanlış yerde arandı. Kadın ölümleri, yoksulluk, iş cinayetleri büyürken gerçek şiddet görünmez kılındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343580.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_7e6e6584",
     "title": "Mahkemeden yöre halkına engel: \"Köylülerin adalete erişimi zorlaştırılıyor",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Oscar Cardozo&#039;nun menajeri Pedro Aldave, yıldız oyuncunun Benfica&#039;dan Trabzonspor&#039;a uzanan transfer hikayesini ve Real Madrid iddialarını ilk kez açıkladı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/cardozo-di-maria.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_3ba1502d",
-    "title": "Tutuklu Kuşadası Belediye Başkanı Ömer Günel: “Kötüler kaybedecek, iyiler kazanacak”",
-    "source": "Evrensel",
-    "time": "18/04/2026 14:38",
-    "link": "https://www.evrensel.net/haber/5980236/tutuklu-kusadasi-belediye-baskani-omer-gunel-kotuler-kaybedecek-iyiler-kazanacak",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yaklaşık 1 aydır tutuklu olan Kuşadası Belediye Başkanı Ömer Günel, Silivri Cezaevi’nden gönderdiği mektupta tutukluluk sürecini “hukuksuz” olduğunu söyleyerek mücadele mesajı verdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343578.jpg",
-    "keyword": null
   }
 ]
