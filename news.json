@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_0dd6822d",
+    "title": "TİKA Başkanı Eren: Türkiye'nin kalkınma çalışmaları dünyada önünü açıyor",
+    "source": "TRT Haber",
+    "time": "18/04/2026 18:49",
+    "link": "https://www.trthaber.com/haber/turk-dunyasi/tika-baskani-eren-turkiyenin-kalkinma-calismalari-dunyada-onunu-aciyor-942166.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TİKA Başkanı Abdullah Eren, Türkiye'nin kalkınma programını çok etkili, çok verimli ve ihtiyaca yönelik çalışmalarla yaptığını belirterek \"Tüm bu çalışmalar, Türkiye'nin dünyada önünü açmaktadır.\" dedi.",
+    "image": null,
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_edc9140a",
     "title": "KKTC Cumhurbaşkanı Erhürman: Dış politikada tüm adımlar Türkiye ile istişare içerisinde atılıyor",
     "source": "TRT Haber",
@@ -1023,19 +1036,6 @@
     "prefix": "🔔",
     "summary": "<a href=\"https://www.ekonomim.com/finans/haberler/yapay-zekaya-yatirim-onerileri-icin-dogru-soru-sormanin-bir-sanati-var-haberi-888926\">\n                                                            <img align=\"right\" border=\"0\" height=\"84\" src=\"https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/11/yapay-zeka-yatirimlari-kuresel-rekabeti-tetikliyor-mu-lcq6_cover.gif\" width=\"150\" />\n                                                    </a>\n                        <h4>Birçok kişi kişisel finans konusunda yapay zekâdan destek alıyor. Uzmanlara göre, doğru bir komut (prompt) yazmak, iyi ya da zayıf bir sonuç alınması arasındaki farkı belirliyor. Yapay zekâ bazı finansal konularda faydalı olsa da özellikle kişisel finansın detaylı hesaplamalarında riskler barındırabiliyor.</h4>",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/11/yapay-zeka-yatirimlari-kuresel-rekabeti-tetikliyor-mu-lcq6_cover.gif",
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "GND_052fc96e",
-    "title": "İstanbul'da faciadan dönüldü: Kartal'da 6 araçlık zincirleme kaza!",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 18:00",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-faciadan-donuldu-kartal-da-6-araclik-zincirleme-kaza-2496308",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kartal TEM bağlantı yolunda 6 aracın karıştığı zincirleme trafik kazası meydana geldi. Kazada ölen ya da yaralanan olmazken bölgede yoğun trafik oluştu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/87a7c626-54ba-4a35-836f-90daf8423a19.jpg",
     "keyword": null,
     "has_video": false
   }
