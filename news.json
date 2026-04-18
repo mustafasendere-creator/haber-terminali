@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_abea5b53",
+    "title": "Anketlere göre Almanya'da aşırı sağcı AfD birinci parti",
+    "source": "DW Türkçe",
+    "time": "18/04/2026 17:59",
+    "link": "https://www.dw.com/tr/anketlere-göre-almanya-da-aşırı-sağcı-afd-birinci-parti/a-76789745?maca=tur-rss-tur-all-1495-rdf",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya'da bu hafta içinde açıklanan iki ankette de aşırı sağcı AfD birinci parti konumuna yükseldi. Friedrich Merz liderliğindeki koalisyon hükümetini oluşturan partiler ise oy kaybediyor.",
+    "image": null,
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_1aa887f7",
     "title": "Trump NATO'nun Hürmüz yardımını reddetti",
     "source": "DW Türkçe",
@@ -1022,19 +1035,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İran ordusu, devam eden abluka nedeniyle Hürmüz Boğazı'nı ticari gemi geçişine yeniden kapattığını duyurdu. Umman açıklarında bir petrol tankerinin iki Devrim Muhafızı botunun saldırısına uğradığı bildirildi.",
-    "image": null,
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "GND_70839938",
-    "title": "İstanbul'da yarın bazı yollar trafiğe kapatılacak",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 17:38",
-    "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yarin-bazi-yollar-trafige-kapatilacak-/3910666",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da, \"Türkiye İş Bankası 21. İstanbul Yarı Maratonu\" nedeniyle bazı yollar trafiğe kapatılacak.",
     "image": null,
     "keyword": null,
     "has_video": false
