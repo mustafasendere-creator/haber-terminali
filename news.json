@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_635a6875",
+    "title": "Fenerbahçe Yüksek Divan Kurulu Toplantısı düzenleniyor",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 11:07",
+    "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-yuksek-divan-kurulu-toplantisi-duzenleniyor-2496202",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Kulübü Yüksek Divan Kurulu Toplantısı, Faruk Ilgaz Tesisleri'nde yapılıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9a0dbc40-2817-49c2-9548-f893f7083dc5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_f5ed68cc",
     "title": "MUSKİ ekipleri altın değil, su kaçağı arıyorlar",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, Antalya Diplomasi Forumu (ADF) marjında Bakanlar düzeyinde Gazze konulu bir toplantıya ev sahipliği yapacak.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_e6ab4bf7",
-    "title": "NBA'de play-off eşleşmeleri belli oldu",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 10:45",
-    "link": "https://www.aa.com.tr/tr/spor/nbade-play-off-eslesmeleri-belli-oldu/3910326",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Amerikan Basketbol Ligi'nde (NBA) play-in maçlarını kazanan Phoenix Suns ve Orlando Magic, play-off bileti alan son iki takım oldu.",
     "image": null,
     "keyword": null
   }
