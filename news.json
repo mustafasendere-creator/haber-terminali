@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5d3ab62a",
+    "title": "İsrail ordusu, işgal altındaki Batı Şeria'da Filistinli bir genci öldürerek cenazesini alıkoydu",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 11:05",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-bati-seriada-filistinli-bir-genci-oldurerek-cenazesini-alikoydu/3910314",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'da ateş açarak öldürdüğü Filistinli bir gencin cenazesine el koyduğu belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_608b1d20",
     "title": "Liseler arası enerji verimliliği proje yarışmasının sonuçları açıklandı",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor Başakşehir maçı hazırlıklarını hız kesmeden sürdürüyor. Fatih Tekke yönetimindeki antrenman detayları ve son gelişmeler haberde.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-1-443.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_75788a8e",
-    "title": "ABD Başkanı Trump gözünü Küba'ya dikti: \"Çok yakında...\"",
-    "source": "Haber Global",
-    "time": "18/04/2026 10:27",
-    "link": "https://haberglobal.com/dunya/abd-baskani-trump-gozunu-kubaya-dikti-cok-yakinda-519535",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, \"Çok yakında, 70 yıldır beklenen gün gelecek. Buna, 'Küba için Yeni Bir Şafak' deniyor.\" dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/abd-baskani-trump-gozunu-kubaya-dikti-cok-yakinda-igit.jpg",
-    "keyword": null
   }
 ]
