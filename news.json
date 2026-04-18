@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_da8be686",
+    "title": "Trump'tan, Hürmüz Boğazı'nın kapatılması sonrası ilk mesaj: 'İran bize şantaj yapamaz!'",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 17:41",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-hurmuz-bogazi-nin-kapatilmasi-sonrasi-ilk-mesaj-iran-bize-santaj-yapamaz-2496306",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, ABD ablukasını işaret ederek Hürmüz Boğazı'nı yeniden kapattı. ABD Başkanı Donald Trump, Hürmüz'ün kapatılması sonrası yaptığı ilk açıklamada da, \"İran bize şantaj yapamaz\" vurgusu yaptı. İşte Trump'ın açıklamaları...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/c7a19641-ee51-4aa4-9dbe-432c4fdbfed5.jpg",
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_b2920fe7",
     "title": "Juventus'ta Kenan Yıldız gelişmesi",
     "source": "Cumhuriyet",
@@ -1000,17 +1013,5 @@
     "summary": "AK Parti Ortahisar İlçe Danışma Meclisi Toplantısı&#039;nda Genel Başkan Yardımcısı Mustafa Şen ve Milletvekili Adil Karaismailoğlu’nun &quot;Ortahisar’ı geri alacağız&quot; açıklamalarına CHP cephesinden yanıt geldi.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/cvap.webp",
     "keyword": null
-  },
-  {
-    "id": "TKP_3340b2f8",
-    "title": "Büyükşehir Ampute Deplasmanda Şişli’yi Devirdi",
-    "source": "Kuzey Ekspres",
-    "time": "18/04/2026 17:21",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27835610/buyuksehir-ampute-deplasmanda-sisliyi-devirdi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Deplasmanda Şişli Yeditepe Engelliler Spor Kulübü ile karşılaşan Trabzon Büyükşehir Belediyesi Ampute Futbol Kulübü, rakibini 2-1 mağlup ederek haftayı 3 puanla tamamladı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/ampute.webp",
-    "keyword": "trabzon"
   }
 ]
