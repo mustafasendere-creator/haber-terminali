@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_970ba227",
+    "title": "İstinaf'tan İnan Kıraç kararı",
+    "source": "BirGün",
+    "time": "18/04/2026 12:45",
+    "link": "https://www.birgun.net/haber/istinaf-tan-inan-kirac-karari-706628",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İş insanı İnan Kıraç'ın evliliğinin iptal edilmesi kararı hukuka uygun bulundu. Kararda ilk derece mahkemesinin tüm delilleri topladığı vurgulandı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/istinaf-tan-inan-kirac-karari.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_323fed18",
     "title": "17 NİSAN 2026 REYTİNG SONUÇLARI | Zirvenin Adı Uzun Süre Sonra İlk Defa Değişti!",
     "source": "BirGün",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin sanayi ve teknoloji kabiliyetleriyle dünyada dönüşümün öncülerinden olduğunu belirterek, \"Küresel ekonomide özellikle son 80 yıldır benimsenmiş olan pek çok kabul artık terk ediliyor\" dedi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4fb0f6ce",
-    "title": "Saldırı görüntülerine karşı paylaşma, raporla çağrısı",
-    "source": "TRT Haber",
-    "time": "18/04/2026 12:06",
-    "link": "https://www.trthaber.com/haber/gundem/saldiri-goruntulerine-karsi-paylasma-raporla-cagrisi-942122.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uzmanlar, okul saldırılarına ait görüntülerin sosyal medyada yayılmasının saldırganların 'ünlü olma' amacına hizmet ettiği ve dezenformasyonu artırdığı uyarısında bulunarak; bu içeriklerin paylaşılmak yerine 'şiddeti özendirme' gerekçesiyle raporlanması gerektiğini vurguladı.",
     "image": null,
     "keyword": null
   }
