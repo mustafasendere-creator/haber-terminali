@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_eb399c0d",
+    "title": "Beşiktaş, Süper Lig'de yarın Samsunspor'a konuk olacak",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 09:45",
+    "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-samsunspora-konuk-olacak/3910285",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beşiktaş, Trendyol Süper Lig'in 30. haftasında yarın Samsunspor ile deplasmanda karşı karşıya gelecek.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_32d75b49",
     "title": "Axios: Küba'ya giden ABD'li heyet, Castro'nun torunuyla görüştü",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon'da küçük sanayi sitelerinin taşınmasını kapsayan 1/1000 ölçekli imar planı yerel idare mahkemesi tarafından iptal edilirken karar şehir plancıları tarafından sevinçle karşılandı.",
     "image": "https://resim.haber61.net/news/613280.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_54b0a823",
-    "title": "Trabzon’da çiftçileri ilgilendiren gelişme: Belge şartı getirildi",
-    "source": "Haber61",
-    "time": "18/04/2026 09:06",
-    "link": "https://www.haber61.net/trabzon/trabzonda-ciftcileri-ilgilendiren-gelisme-belge-sarti-getirildi-h629907.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Düzköy İlçe Tarım ve Orman Müdürlüğü, bahçesinde ilaçlama yapacak çiftçilere belge zorunluluğu getirildiğini duyurdu.",
-    "image": "https://resim.haber61.net/news/613284.jpg",
     "keyword": "trabzon"
   }
 ]
