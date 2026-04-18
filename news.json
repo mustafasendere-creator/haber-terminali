@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9c28de1b",
+    "title": "‘1 Mayıs’ta parçalı değil birleşik ses çıkmalı’",
+    "source": "Evrensel",
+    "time": "18/04/2026 03:45",
+    "link": "https://www.evrensel.net/haber/5980162/1-mayista-parcali-degil-birlesik-ses-cikmali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir’den Beko işçileri, sendikal bürokrasiye ve düşük zamlara tepki göstererek 1 Mayıs’ta birleşik mücadele çağrısı yaptı: \"1 Mayıs bir istirahat günü değil, patronlara karşı sokağın sesidir.\"",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/159357.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_fe2129e1",
     "title": "@gazimustafa-kemal.bsky.social: 📍Hatay'da 19 yaşındaki bir genç kız, polis memuru babasının ...",
     "source": "Bluesky",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "CHP İzmir İl Başkanı Çağatay Güç, Meslek Fabrikası için 12 gündür süren nöbetin sona erdiğini ancak mücadelenin İzmir’in her sokağında devam edeceğini açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2488c434-fd23-464c-a4b5-4b920a1128f0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_afde5f18",
-    "title": "MESEM’liler okul saldırılarına ne diyor? ‘Sorumluların çocukları özel okulda, biz can derdindeyiz’",
-    "source": "Evrensel",
-    "time": "18/04/2026 01:25",
-    "link": "https://www.evrensel.net/haber/5980133/mesem-liler-okul-saldirilarina-ne-diyor-sorumlularin-cocuklari-ozel-okulda-biz-can-derdindeyiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Maraş ve Urfa’daki okul saldırılarının ardından konuşan MESEM öğrencileri, güvensizlik ve yalnız bırakılmışlık duygusunun hayatlarının parçası haline geldiğini anlattı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343158.jpg",
     "keyword": null
   }
 ]
