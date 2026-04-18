@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_0e0b15b6",
+    "title": "Gülistan Doku dosyasında yeni gelişme: Cinayetin işlendiği bir evden bahsediliyor",
+    "source": "Evrensel",
+    "time": "18/04/2026 17:39",
+    "link": "https://www.evrensel.net/haber/5980263/gulistan-doku-dosyasinda-yeni-gelisme-cinayetin-islendigi-bir-evden-bahsediliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturmasında dosyanın seyrini değiştirebilecek yeni ihbarlar geldi. Avukat Kenan Çetin, dosyaya eklenen yeni isimler ve “cinayetin işlendiği iddia edilen bir eve” dair savcılığa dilekçe verildiğini açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343520.jpg",
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "SOC_c089cc28",
     "title": "@sondakikatr.bsky.social: 📰 🔴 SON DAKİKA: CHP Genel Başkanı Özel: 'Şafak operasyonu ya...",
     "source": "Bluesky",
@@ -981,17 +994,5 @@
     "summary": "Anahtar Parti, Trabzon’un Dernekpazarı ilçesinde 1. Olağan Kongresi’ni yoğun katılım ve büyük bir coşkuyla gerçekleştirdi. Kongreye Anahtar Parti Trabzon İl Başkanı Muhammed Kalkışım ve il yönetimi de katıldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/ekran-resmi-2026-04-18-164059.png",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_ab84515f",
-    "title": "Ampute Haftayı Galibiyetle Tamamladı",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "18/04/2026 17:20",
-    "link": "https://www.karadenizdesonnokta.com.tr/ampute-haftayi-galibiyetle-tamamladi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/04/whatsapp-image-2026-04-18-at-164202.jpeg",
-    "keyword": null
   }
 ]
