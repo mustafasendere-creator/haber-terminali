@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_31686262",
+    "title": "CNN: ABD ile İran arasında yeni görüşmeler, pazartesi İslamabad'da yapılacak",
+    "source": "Evrensel",
+    "time": "18/04/2026 10:45",
+    "link": "https://www.evrensel.net/haber/5980204/cnn-abd-ile-iran-arasinda-yeni-gorusmeler-pazartesi-islamabadda-yapilacak",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran ve ABD arasında yeni görüşmelerin 20 Nisan Pazartesi günü Pakistan’ın başkenti İslamabad’da yapılacağı iddia edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343123.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_0d24590c",
     "title": "Üniversiteliler İzmir'de tiyatro festivalinde buluştu",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Trabzon’un Akçaabat ve Düzköy ilçelerinde 18 Nisan’da altyapı ve bakım çalışmaları nedeniyle planlı elektrik kesintileri uygulanacak.",
     "image": "https://resim.haber61.net/news/613306.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_52c3753c",
-    "title": "Trabzonspor, Süper Lig'de yarın Başakşehir'i konuk edecek",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 10:25",
-    "link": "https://www.aa.com.tr/tr/spor/trabzonspor-super-ligde-yarin-basaksehiri-konuk-edecek/3910296",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Trendyol Süper Lig'in 30. haftasında yarın RAMS Başakşehir'i konuk edecek.",
-    "image": null,
-    "keyword": "trabzon"
   }
 ]
