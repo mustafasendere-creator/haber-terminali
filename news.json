@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_84c1c021",
+    "title": "Gülistan Doku soruşturmasında Sonel'in koruması tutuklandı",
+    "source": "TRT Haber",
+    "time": "18/04/2026 17:00",
+    "link": "https://www.trthaber.com/haber/gundem/gulistan-doku-sorusturmasinda-sonelin-korumasi-tutuklandi-942150.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tunceli'de 5 Ocak 2020'den itibaren kendisinden haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili yürütülen soruşturma kapsamında, dönemin Tunceli Valisi Tuncay Sonel'in o dönem koruma polisliğini yapan Şükrü Eroğlu tutuklandı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_20b10f24",
     "title": "DMM, Kahramanmaraş'taki saldırının failinin 'ölmediği' iddialarını yalanladı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Eğitim Sen’in “Şiddetsiz Okul Deklarasyonu”nda, okullarda artan şiddetin politik ve yapısal nedenlere dayandığı vurgulandı. Çözümün bilimsel, laik ve kamusal bir eğitim sisteminin inşasında olduğu belirtildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343604.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_4c971983",
-    "title": "Hüseyin Demirtürk vefat etti... Cenazesi Trabzon’a getiriliyor",
-    "source": "Kuzey Ekspres",
-    "time": "18/04/2026 16:41",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27835335/huseyin-demirturk-vefat-etti-cenazesi-trabzona-getiriliyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Almanya&#039;da vefat eden Hüseyin Demirtürk&#039;ün cenaze işlemleri pazartesi tamamlanacak. Cenazenin Salı günü Trabzon&#039;da olması bekleniyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/huseyin-demirturk.webp",
-    "keyword": "trabzon"
   }
 ]
