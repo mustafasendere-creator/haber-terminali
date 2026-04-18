@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_74af7af8",
+    "title": "Hürmüz Boğazında iki gemiye ateş açıldı",
+    "source": "TRT Haber",
+    "time": "18/04/2026 15:19",
+    "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-iki-gemiye-ates-acildi-942141.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hürmüz Boğazı'nda, İran botunun iki gemiye ateş açtığı bildirildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e6dcf78e",
     "title": "CENTCOM: ABD, İran limanları ile sahil kesimlerindeki ablukayı güçlendiriyor",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Trabzon Büyükşehir Belediyesi, 2019&#039;da hazırlanan Trabzon’un Sürdürülebilir Enerji Eylem ve İklim Uyum Planı&#039;nı, 2053 yılı net sıfır emisyon hedefleri doğrultusunda güncelleme çalışmalarına başladı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/18/large/trabzon-buyuksehirin-hedefi-2053te-sifir-emisyon-1776512223.png",
     "keyword": null
-  },
-  {
-    "id": "TKP_7d439285",
-    "title": "BBP Genel Başkanı Mustafa Destici'nin Trabzon Programı Belli Oldu",
-    "source": "Kuzey Ekspres",
-    "time": "18/04/2026 14:59",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27834776/bbp-genel-baskani-mustafa-desticinin-trabzon-programi-belli-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Büyük Birlik Partisi (BBP) Genel Başkanı Mustafa Destici, bir dizi program ve temaslarda bulunmak üzere Trabzon’a geliyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/desitis.webp",
-    "keyword": "trabzon"
   }
 ]
