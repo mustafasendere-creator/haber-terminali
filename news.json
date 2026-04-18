@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_1e38b9c9",
+    "title": "Trump’tan İran’a açık tehdit: Anlaşma olmazsa yeniden bombalarız",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 09:46",
+    "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-a-acik-tehdit-anlasma-olmazsa-yeniden-bombalariz-2496189",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran ile anlaşmaya varılmaması durumunda bu ülkeyi yeniden bombalayacaklarını açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/35646762-6963-4be7-8408-516b05e47f14.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_2ec97430",
     "title": "Ataşehir Belediye Başkanı Onursal Adıgüzel gözaltına alındı... CHP'den peş peşe tepkiler",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon’da dün yapılan TMMOB İl Koordinasyon Kurulu toplantısı, önceki buluşmalardan farklı bir tablo ortaya koydu…",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/top-4.png",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_221ed895",
-    "title": "Ortahisar’da dikkat çeken hazırlık: Sürpriz proje gündemde!",
-    "source": "61 Saat",
-    "time": "18/04/2026 09:07",
-    "link": "https://www.61saat.com/ortahisarda-dikkat-ceken-hazirlik-surpriz-proje-gundemde",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da önümüzdeki hafta dikkatler Ortahisar Belediyesi’ne çevrilecek gibi görünüyor…",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/hi.png",
     "keyword": "trabzon"
   }
 ]
