@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_df1bb285",
+    "title": "Macron'dan Meloni'yi şaşırtan öpücük",
+    "source": "OdaTV",
+    "time": "18/04/2026 10:47",
+    "link": "https://www.odatv.com/dunya/macrondan-meloniyi-sasirtan-opucuk-120143774",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Paris, Hürmüz Boğazı gündemiyle 51 ülkenin katıldığı bir toplantıya ev sahipliği yaptı. Burada, Fransa Cumhurbaşkanı Macron&#039;un İtalya Başbakanı Meloni&#039;ye yakın teması, İtalyan lideri şaşırttı. Toplantıda ayrıca, birçok ülkenin Hürmüz&#039;e gemi yollaması kararlaştırıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/macrondan-meloniyi-sasirtan-opucuk-kwkb.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c736d2be",
     "title": "Bir Odatv belgeseli: Gülistan Doku'nun sır perdesi",
     "source": "OdaTV",
@@ -946,17 +958,5 @@
     "summary": "Bordo-mavililer, ara transferde sonuç alamadığı Silas Andersen için yaz döneminde yeniden devreye girmeye hazırlanıyor",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/dddddddeeeee.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_21dff4e2",
-    "title": "Teknoloji devlerinin veri merkezi harcamaları 400 milyar doları aştı",
-    "source": "TRT Haber",
-    "time": "18/04/2026 10:26",
-    "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknoloji-devlerinin-veri-merkezi-harcamalari-400-milyar-dolari-asti-942113.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Teknoloji şirketlerinin veri merkezi yatırımlarına yönelik sermaye harcamaları geçen yıl 400 milyar doların üzerine çıktı.",
-    "image": null,
-    "keyword": null
   }
 ]
