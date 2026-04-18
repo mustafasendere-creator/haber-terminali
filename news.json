@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c55e4593",
+    "title": "Sivas’ta sel felaketi",
+    "source": "OdaTV",
+    "time": "18/04/2026 20:25",
+    "link": "https://www.odatv.com/guncel/sivasta-sel-felaketi-120143830",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sivas’ın Yıldızeli ilçesine bağlı Karacaören köyünde etkili olan kuvvetli yağış sele neden oldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/sivasta-sel-felaketi-dz5u.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_e8edfbe2",
     "title": "Gülistan Doku soruşturması! Eski Tunceli Valisi'nin oğlu Mustafa Türkay Sonel tutuklandı",
     "source": "Sözcü",
@@ -946,17 +958,5 @@
     "summary": "CHP’li yurttaşlar, Ataşehir Belediye Başkanı Onursal Adıgüzel’in gözaltına alınmasının ardından belediye önünde nöbete başladı. Kalabalığa seslenen CHP Sözcüsü Zeynel Emre, “Bu operasyonların nedeni CHP’nin bir yıldır bu ülkenin birinci partisi olmasıdır, ilk seçimde iktidar olmasıdır, ilk seçimde iktidarı alacağı korkusudur. Bütün bu talimatlar Recep Tayyip Erdoğan tarafından verilmektedir. Ortada bir yargı falan yoktur” dedi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/c2ac294f-6139-4fea-9a62-154a8a602de3.jpg",
     "keyword": null
-  },
-  {
-    "id": "SOC_2a41c0f4",
-    "title": "marekiaro @marekiaro1761 · 2s Trabzon Devlet Tiyatrosu’nda b...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 20:06",
-    "link": "https://x.com/marekiaro1761/status/2045516579572473905",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "marekiaro @marekiaro1761 · 2s Trabzon Devlet Tiyatrosu’nda bile haftada 3 gün, toplam 4 temsil olarak sahnelenen oyunlara bilet bulmak bile zor. Salonlar dolup taşıyor, her temsil kapalı gişe. Emrah Yalçınalp @uzakkuzey · 3s Dün Nedim Saban’ın Ahududu’suna gittim. Suna Keskin 85, Melek Baykal 71 yaşındalarmış. Ne denir bilemiyorum. Allah herkese böyle yaş alma nasip etsin. Harika performanslar.. “yaşlarına göre” değil, kemiksiz harika performanslar. Ve bir şey daha: Bilen bilir, Trabzonluluğa özel 2 91",
-    "image": null,
-    "keyword": "(\"trabzon\" or \"ortahisar\" or \"akçaabat\" or \"yomra\" or \"karadeniz sahil yolu\") and (\"kaza\" or \"trafik\" or \"yangın\" or \"sel\" or \"heyelan\" or \"cinayet\" or \"operasyon\" or \"gözaltı\" or \"tutuklandı\" or \"kapalı\") -filter:replies"
   }
 ]
