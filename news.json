@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_f8e87650",
+    "title": "Ataşehir Belediye Başkanı Onursal Adıgüzel gözaltına alındı",
+    "source": "DW Türkçe",
+    "time": "18/04/2026 17:40",
+    "link": "https://www.dw.com/tr/ataşehir-belediye-başkanı-onursal-adıgüzel-gözaltına-alındı/a-76840250?maca=tur-rss-tur-all-1495-rdf",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'li Ataşehir Belediye Başkanı Onursal Adıgüzel dâhil 18 kişi, \"rüşvet, suç işlemek amacıyla örgüt kurma ve ihaleye fesat karıştırma\" iddiasıyla gözaltına alındı.",
+    "image": null,
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_3bf5ae96",
     "title": "Her üç Z kuşağı erkeğinden biri kadınlardan itaat bekliyor",
     "source": "DW Türkçe",
@@ -995,17 +1008,5 @@
     "summary": "Deplasmanda Şişli Yeditepe Engelliler Spor Kulübü ile karşılaşan Trabzon Büyükşehir Belediyesi Ampute Futbol Kulübü, rakibini 2-1 mağlup ederek haftayı 3 puanla tamamladı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/ampute.webp",
     "keyword": null
-  },
-  {
-    "id": "TKP_afc06f3a",
-    "title": "Trabzon İçin Tarihi Dönüşüm Başlıyor: 2053 Hedefi Şehri Baştan Yazacak",
-    "source": "Taka Gazetesi",
-    "time": "18/04/2026 17:20",
-    "link": "https://www.takagazete.com.tr/trabzon-icin-tarihi-donusum-basliyor-2053-hedefi-sehri-bastan-yazacak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’un geleceğini doğrudan etkileyecek kritik bir adım atıldı. Büyükşehir Belediyesi, iklim değişikliğiyle mücadelede yeni bir dönemin kapısını aralarken, şehrin kaderini değiştirecek hedefler için düğmeye bastı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/20260418020642-v-n-hka.jpeg",
-    "keyword": "trabzon"
   }
 ]
