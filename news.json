@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_32d75b49",
+    "title": "Axios: Küba'ya giden ABD'li heyet, Castro'nun torunuyla görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 09:45",
+    "link": "https://www.aa.com.tr/tr/dunya/axios-kubaya-giden-abdli-heyet-castronun-torunuyla-gorustu/3910292",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Dışişleri Bakanlığı yetkililerinin, Küba'ya giderek burada Küba'nın eski Devlet Başkanı Raul Castro'nun torunu Guillermo Rodriguez Castro'nun da aralarında bulunduğu bürokratlarla görüştüğü öne sürüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_ac23832b",
     "title": "Odatv edebiyatın değerlerini unutturmayacak: Bir 'Garip' Oktay Rifat",
     "source": "OdaTV",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Düzköy İlçe Tarım ve Orman Müdürlüğü, bahçesinde ilaçlama yapacak çiftçilere belge zorunluluğu getirildiğini duyurdu.",
     "image": "https://resim.haber61.net/news/613284.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_fe6098e8",
-    "title": "Trabzonspor ile Başakşehir 42’nci kez karşı karşıya",
-    "source": "Haber61",
-    "time": "18/04/2026 09:06",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-ile-basaksehir-42nci-kez-karsi-karsiya-h629908.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Trendyol Süper Lig’in 30’ncu haftasında sahasında Başakşehir’i konuk edecek. İki takım arasında bugüne kadar oynanan 41 resmi karşılaşmada bordo-mavililer 20 galibiyet elde ederken, konuk ekip Başakşehir ise 10 galibiyet elde etti.",
-    "image": "https://resim.haber61.net/news/613286.jpg",
     "keyword": "trabzon"
   }
 ]
