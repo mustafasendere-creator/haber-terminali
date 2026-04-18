@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ba690f4c",
+    "title": "Onursal Adıgüzel gözaltına alındı",
+    "source": "Habertürk",
+    "time": "18/04/2026 10:47",
+    "link": "https://www.haberturk.com/son-dakika-atasehir-belediye-baskani-onursal-adiguzel-gozaltina-alindi-3878276",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ataşehir Belediyesi'ne yönelik 'yolsuzluk' soruşturması kapsamında 21 şüpheli hakkında gözaltı kararı verildi. Gece saatlerinde düzenlenen operasyonda Ataşehir Belediye Başkanı Onursal Adıgüzel ile 17 şüpheli gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/04/18/ver1776466365/3878276/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "GND_b8d5023a",
     "title": "Daha 16 yaşındaydı... Kayıp ihbarı vardı! Feyza ölü bulundu!",
     "source": "Habertürk",
@@ -946,17 +958,5 @@
     "summary": "Katalan ekibi, Lewandowski sonrası için Trabzonspor'un eski yıldızını gündemine aldı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/bbarcassss.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_a86ed0cf",
-    "title": "Trabzonspor'da Onuachu gelişmesi! Maçta oynayacak mı?",
-    "source": "Kuzey Ekspres",
-    "time": "18/04/2026 10:26",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27832967/trabzonsporda-onuachu-gelismesi-macta-oynayacak-mi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’da sakatlığı geçen Onuachu antrenmanlara başladı. Başakşehir maçında oynayıp oynamayacağı son idmanda netleşecek.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/onuachu.jpg",
-    "keyword": null
   }
 ]
