@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_59a9b569",
+    "title": "Antalya Diplomasi Forumu'nda \"çocukların dijital güvenliği\" öne çıktı",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 14:36",
+    "link": "https://www.aa.com.tr/tr/gundem/antalya-diplomasi-forumunda-cocuklarin-dijital-guvenligi-one-cikti/3910404",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocukların dijital mecralarda korunmasına yönelik düzenlemelerin yalnızca Türkiye'de değil birçok ülkede gündeme geldiğini belirtti.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_e1f411c3",
     "title": "Saldırılar sonrası TVYD'den ortak bildiri: Suçlu denetlenen televizyon değil denetimsiz dijital mecra",
     "source": "A Haber",
@@ -945,18 +957,6 @@
     "prefix": "🎯",
     "summary": "Trabzon Üniversitesi Dekanı Prof. Dr. İsmail Hakkı Demircioğlu, okul saldırılarının ardından güvenli okul kavramının yeniden gündeme geldiğini belirtti.",
     "image": "https://resim.haber61.net/news/613327.jpg",
-    "keyword": "trabzon"
-  },
-  {
-    "id": "TKP_9fd5a6b9",
-    "title": "Trabzon Toptancı Hali’nde hijyen seferberliği: Esnafa eğitim verildi",
-    "source": "Haber61",
-    "time": "18/04/2026 13:26",
-    "link": "https://www.haber61.net/trabzon/trabzon-toptanci-halinde-hijyen-seferberligi-esnafa-egitim-verildi-h629933.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da toptancı hallerinde yapılan denetimlerin ardından hal esnafına yönelik hijyen eğitim programı başlatıldı.",
-    "image": "https://resim.haber61.net/news/613329.jpg",
     "keyword": "trabzon"
   }
 ]
