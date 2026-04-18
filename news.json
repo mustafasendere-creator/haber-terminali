@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c30add3b",
+    "title": "Samsun'da şişli kavga: 3 yaralı",
+    "source": "Haber Global",
+    "time": "18/04/2026 05:45",
+    "link": "https://haberglobal.com/gundem/samsunda-sisli-kavga-3-yarali-519504",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Samsun Bafra'da iki grup arasında çıkan kavgada 2 kişi kesici aletle yaralanırken, 1 kişi de darp edildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/samsunda-sisli-kavga-3-yarali-dpfc.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_70d57d38",
     "title": "1,4 milyar insanı yönetmek kolay mı sanıyorsunuz?",
     "source": "10Haber",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Ataşehir Belediyesi’ne gece yarısı operasyonu düzenlendi. Belediye Başkanı Onursal Adıgüzel dahil 18 kişi gözaltına alındı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/atasehir-belediyesi-ne-operasyon-belediye-baskani-onursal-adiguzel-gozaltina-alindi.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_01b83523",
-    "title": "Ataşehir Belediyesine yönelik operasyonda 18 şüpheli gözaltına alındı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 02:25",
-    "link": "https://www.aa.com.tr/tr/gundem/atasehir-belediyesine-yonelik-operasyonda-18-supheli-gozaltina-alindi/3910236",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ataşehir Belediyesinde ihale, imar ve iskan işlemlerine ilişkin rüşvet alındığı iddiasıyla yürütülen soruşturma kapsamında, aralarında Belediye Başkanı Onursal Adıgüzel'in de bulunduğu 18 kişi gözaltına alındı.",
-    "image": null,
     "keyword": null
   }
 ]
