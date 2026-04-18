@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b62e97cc",
+    "title": "Diyarbakır'da okulun bahçesine yıldırım düştü: 2 çocuk öldü",
+    "source": "BirGün",
+    "time": "18/04/2026 14:36",
+    "link": "https://www.birgun.net/haber/diyarbakir-da-okulun-bahcesine-yildirim-dustu-2-cocuk-oldu-706641",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır'ın Ergani ilçesinde bulunan bir ilkokulun bahçesinde bulunan ağaca sabah saatlerinde yıldırım düştü. Olay sırasında ağacın altında bulunan Serkan Yıldırım (13) ile Kasım Yıldırım (14) yaşındaki çocuklar hayatını kaybetti. Yaralanan M.Y. ise hastaneye kaldırıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/diyarbakir-da-okulun-bahcesine-yildirim-dustu-2-cocuk-oldu.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_de53c66e",
     "title": "Trabzon Büyükşehir’den 2053 hedefi: Sıfır emisyon için yeni adım",
     "source": "Haber61",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ankara'da 2010 yılında işlenen bir cinayetin azmettiricisi olduğu iddiasıyla 7 yıldır Gürcistan'da firari olan Barış Mirza, estetik operasyonlarla yüzünü değiştirip kardeşinin kimliğiyle Türkiye'ye giriş yapınca Ankara polisinin titiz takibiyle yakalanarak tutuklandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_9b3a5160",
-    "title": "İstanbul Havalimanında üçlü pistle 50 bin ton karbon emisyonu önlendi",
-    "source": "TRT Haber",
-    "time": "18/04/2026 13:27",
-    "link": "https://www.trthaber.com/haber/ekonomi/istanbul-havalimaninda-uclu-pistle-50-bin-ton-karbon-emisyonu-onlendi-942133.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Havalimanı'nda gerçekleştirilen üçlü pist operasyonuyla uçakların taksi sürelerinde ve kalkışlarında önemli kazanımlar sağlanırken, yıllık bazda yaklaşık 50 bin ton karbon emisyonu önlendi.",
     "image": null,
     "keyword": null
   }
