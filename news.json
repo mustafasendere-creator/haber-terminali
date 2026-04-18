@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_e766da70",
+    "title": "Kapadokya'nın gizli mirası \"Meryem Ana Dağı\" turizme kazandırılıyor",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 13:05",
+    "link": "https://www.aa.com.tr/tr/kultur/kapadokyanin-gizli-mirasi-meryem-ana-dagi-turizme-kazandiriliyor/3910462",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nevşehir'in Ürgüp ilçesinde, 1603 metre rakıma sahip \"Meryem Ana Dağı\"nda yer alan tarihi kalıntılar yürütülen çalışmalarla gün yüzüne çıkarıldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_85503fcd",
     "title": "Ruanda Dışişleri Bakanı Nduhungirehe'den, ülkesindeki Türk şirketlerinin altyapı yatırımlarına övgü",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Trabzonspor’da yeni sezon transfer çalışmaları kapsamında Keito Nakamura ismi gündeme geldi. Ulusal basında yer alan iddiaya göre bordo-mavililer, Reims forması giyen 25 yaşındaki Japon sol kanat için teknik ekipten olumlu rapor aldı.",
     "image": "https://resim.haber61.net/news/613319.jpg",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_9113687c",
-    "title": "Yılın ilk çeyreğinde en fazla yaş meyve sebzeyi Irak'a gönderildi",
-    "source": "TRT Haber",
-    "time": "18/04/2026 12:26",
-    "link": "https://www.trthaber.com/haber/ekonomi/yilin-ilk-ceyreginde-en-fazla-yas-meyve-sebzeyi-iraka-gonderildi-942130.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'nin 2026'nın ilk çeyreğindeki 1 milyar 305 milyon 256 bin 900 dolarlık yaş meyve sebze ihracatında Irak, yüzde 21,87'lik payla ilk sırada yer aldı.",
-    "image": null,
-    "keyword": null
   }
 ]
