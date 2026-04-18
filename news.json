@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_c1d9101e",
+    "title": "Milliyetçilerin TRÇ kavgası",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 05:05",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-ali-guller/milliyetcilerin-trc-kavgasi-2496164",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İki milliyetçi parti, MHP ve İYİ Parti, TRÇ nedeniyle karşı karşıya.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar392_cover.jpeg",
+    "keyword": null
+  },
+  {
     "id": "GND_b9bcbee8",
     "title": "Maraş saldırısı ve Horváth’ın kitabı",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Basketbol Avrupa Ligi'nde (EuroLeague) normal sezonun \"perdesi\" kapandı.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_4a69dd56",
-    "title": "Gülistan Doku soruşturmasında adliyeye sevk edilen zanlılardan 4'ü tutuklandı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 02:05",
-    "link": "https://www.aa.com.tr/tr/gundem/gulistan-doku-sorusturmasinda-adliyeye-sevk-edilen-zanlilardan-4u-tutuklandi/3910235",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli'de 5 Ocak 2020'den itibaren kendisinden haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili yürütülen soruşturmada adliyeye sevk edilen zanlılardan 4'ü tutuklandı.",
     "image": null,
     "keyword": null
   }
