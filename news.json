@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_965b5a00",
+    "title": "Bulgaristan'da son beş yılda sekizinci kez sandık kuruluyor",
+    "source": "DW Türkçe",
+    "time": "18/04/2026 17:59",
+    "link": "https://www.dw.com/tr/bulgaristan-da-son-beş-yılda-sekizinci-kez-sandık-kuruluyor/a-76835710?maca=tur-rss-tur-all-1495-rdf",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bulgaristan, son beş yıl içinde sekizinci kez parlamento seçimleri için sandık başına gidiyor. Eski Cumhurbaşkanı Rumen Radev'in zaferiyle sonuçlanması beklenen seçimler ülkeye istikrar getirecek mi?",
+    "image": null,
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_81fec908",
     "title": "Dolar, avro ve altında haftanın bilançosu",
     "source": "Diken",
@@ -1023,19 +1036,6 @@
     "prefix": "🌊",
     "summary": "Giresun’da oynanan Hentbol Erkekler Süper Lig play-off karşılaşmasında Nilüfer Belediyespor, Altınpost Giresunspor’u 36-30 mağlup etti.",
     "image": "https://resim.haber61.net/news/613370.jpg",
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "GND_4b907b34",
-    "title": "KKTC Cumhurbaşkanı Erhürman, dış politikada Türkiye ile istişare içerisinde olduklarını söyledi",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 17:38",
-    "link": "https://www.aa.com.tr/tr/gundem/kktc-cumhurbaskani-erhurman-dis-politikada-turkiye-ile-istisare-icerisinde-olduklarini-soyledi/3910733",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı Tufan Erhürman, \"Kıbrıs sorunuyla ilgili tüm adımların ve KKTC'nin dış politikasıyla ilgili tüm adımların Türkiye ile istişare içerisinde atıldığını, bunun devam edeceğini söylemiştim.\" dedi.",
-    "image": null,
     "keyword": null,
     "has_video": false
   }
