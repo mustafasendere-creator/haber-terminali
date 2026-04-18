@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_41af21e5",
+    "title": "Kütahya'da otomobil beton direğe çarptı: 1 kişi öldü, 1 kişi yaralandı",
+    "source": "BirGün",
+    "time": "18/04/2026 08:45",
+    "link": "https://www.birgun.net/haber/kutahya-da-otomobil-beton-direge-carpti-1-kisi-oldu-1-kisi-yaralandi-706585",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tavşanlı’da beton direğe çarpan otomobilde sürücü yaşamını yitirdi, 1 kişi yaralandı. İtfaiye ekiplerince araçtan çıkarılan yaralılar hastaneye kaldırılırken, kazaya ilişkin inceleme başlatıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/kutahya-da-otomobil-beton-direge-carpti-1-kisi-oldu-1-kisi-yaralandi.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_c31e4477",
     "title": "Hatay'da fırtına etkisi: Tekneler alabora oldu, çatılar uçtu",
     "source": "BirGün",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Muhalefete yönelik operasyonları kalıcılaştırmaya çalışan Saray rejiminin son hamlesi CHP’li Eşme Belediyesi oldu. Operasyon kapsamında Belediye Başkanı Yılmaz Tozan ile eşinin de aralarında bulunduğu 5 isim gözaltına alındı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/bu-rejim-gitmeden-yargiya-guven-yok.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_9438a350",
-    "title": "Grevdeki işçilere şafak operasyonu: İş, ekmek yoksa  patrona ‘huzur’ yok",
-    "source": "BirGün",
-    "time": "18/04/2026 07:25",
-    "link": "https://www.birgun.net/haber/grevdeki-iscilere-safak-operasyonu-is-ekmek-yoksa-patrona-huzur-yok-706566",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir'de yaklaşık 1,5 yıldır grevde olan Temel Conta işçileri, 'huzur ve sükûneti bozma' iddiasıyla şafak operasyonu yapılarak gözaltına alındı. Grevdeki 16 işçiden 12’si hakkında yakalama kararı çıkarıldı. Destek gecikmesi, işçilerin grev çadırlarını Digel Tekstil nöbeti devralarak boş bırakmadı. İşçiler \"Bizi bu şekilde yıldıramayacaklar\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/grevdeki-iscilere-safak-operasyonu-is-ekmek-yoksa-patrona-huzur-yok.jpg",
     "keyword": null
   }
 ]
