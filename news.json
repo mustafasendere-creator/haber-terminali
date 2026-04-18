@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_6a6a7b1c",
+    "title": "Firmalar anlaştı: Otobüs fiyatlarına dev zam",
+    "source": "BirGün",
+    "time": "18/04/2026 15:18",
+    "link": "https://www.birgun.net/haber/firmalar-anlasti-otobus-fiyatlarina-dev-zam-706659",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bayram öncesi otobüsle yolculuk yapmak isteyenlere kötü haber geldi. Artan maliyetler sebebiyle şehirlerarası otobüslerin bilet fiyatlarına zam geliyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/firmalar-anlasti-otobus-fiyatlarina-dev-zam.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_041355a2",
     "title": "65 yıllık hatırasını bağışladı: Fikriye Nine’den örnek davranış",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🌊",
     "summary": "Büyük Birlik Partisi Genel Başkanı Mustafa Destici’nin Trabzon programı açıklandı. Ziyaret kapsamında kongre, esnaf buluşmaları ve resmi temaslar yer alıyor.",
     "image": "https://resim.haber61.net/news/613345.jpg",
-    "keyword": null
-  },
-  {
-    "id": "YRL_db20310a",
-    "title": "Milli sporcu inşaat alanında ölü bulundu",
-    "source": "Haber61",
-    "time": "18/04/2026 14:58",
-    "link": "https://www.haber61.net/asayis/milli-sporcu-insaat-alaninda-olu-bulundu-h629943.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Isparta’da kayıp olarak aranan 16 yaşındaki Feyza Keskin, boş bir binanın önünde hayatını kaybetmiş halde bulundu. Milli satranç sporcusu olduğu öğrenilen Keskin için taziye mesajları yayımlandı.",
-    "image": "https://resim.haber61.net/news/613347.jpg",
     "keyword": null
   }
 ]
