@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_496c50ab",
+    "title": "Kocaelispor, Göztepe karşısında 1 puanı son anda kurtardı",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 20:06",
+    "link": "https://www.cumhuriyet.com.tr/spor/kocaelispor-goztepe-karsisinda-1-puani-son-anda-kurtardi-2496328",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig'in 30. haftasında Kocaelispor'un Göztepe'yi konuk ettiği maç, 1-1 berabere bitti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/50db0648-90c5-4f2e-9c32-1c7e46556c80.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_06b982de",
     "title": "İYİ Parti Bursa’da istifa dalgası: İlçelerde peş peşe ayrılıklar",
     "source": "Cumhuriyet",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "İsrail saldırılarıyla yerinden edilen Lübnanlı ailelerin, ilan edilen ateşkesin ikinci gününde dönüşleri devam ediyor.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_8a968fc0",
-    "title": "Gülistan Doku soruşturmasında dönemin Tunceli Valisi olan Sonel'in oğlu tutuklandı",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 20:03",
-    "link": "https://www.aa.com.tr/tr/gundem/gulistan-doku-sorusturmasinda-donemin-tunceli-valisi-olan-sonelin-oglu-tutuklandi/3910887",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli'de 5 Ocak 2020'den itibaren haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili soruşturma kapsamında, dönemin Tunceli Valisi olan Tuncay Sonel'in oğlu Mustafa Türkay Sonel tutuklandı.",
     "image": null,
     "keyword": null
   }
