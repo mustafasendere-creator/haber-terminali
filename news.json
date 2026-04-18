@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_20b10f24",
+    "title": "DMM, Kahramanmaraş'taki saldırının failinin 'ölmediği' iddialarını yalanladı",
+    "source": "TRT Haber",
+    "time": "18/04/2026 17:00",
+    "link": "https://www.trthaber.com/haber/gundem/dmm-kahramanmarastaki-saldirinin-failinin-olmedigi-iddialarini-yalanladi-942158.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dezenformasyonla Mücadele Merkezi, Kahramanmaraş'ta gerçekleşen saldırının failinin ölmediğine dair dolaşıma sokulan iddiaları yalanladı. Bu tür içeriklerin sorumluları hakkında gerekli yasal süreçlerin tamamlandığı belirtildi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_bb178664",
     "title": "İran, Hürmüz Boğazı'nı deniz ablukası nedeniyle yeniden kapattığını duyurdu",
     "source": "Diken",
@@ -946,17 +958,5 @@
     "summary": "Almanya&#039;da vefat eden Hüseyin Demirtürk&#039;ün cenaze işlemleri pazartesi tamamlanacak. Cenazenin Salı günü Trabzon&#039;da olması bekleniyor.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/huseyin-demirturk.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "YRL_d6b1f0ca",
-    "title": "Fındık Fiyatlarında Son Durum: Piyasa Neden Duruldu?",
-    "source": "Kuzey Ekspres",
-    "time": "18/04/2026 16:41",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27835058/findik-fiyatlarinda-son-durum-piyasa-neden-duruldu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Karadeniz fındık piyasasında son günlerde fiyatların belirli bir aralıkta sıkışıp kaldığı görülüyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/findik.webp",
-    "keyword": null
   }
 ]
