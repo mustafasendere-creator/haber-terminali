@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_96da6277",
+    "title": "Kocaelispor, Göztepe ile 1-1 berabere kaldı",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 20:03",
+    "link": "https://www.aa.com.tr/tr/spor/kocaelispor-goztepe-ile-1-1-berabere-kaldi/3910789",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trendyol Süper Lig'in 30. haftasında Kocaelispor ile Göztepe, 1-1 berabere kaldı.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_338581a3",
     "title": "Bakan Şimşek: IMF-Dünya Bankası Toplantılarında Türkiye'nin güçlü ekonomisiyle bu zorlu dönemi aşacağını vurguladık",
     "source": "Anadolu Ajansı",
@@ -1017,19 +1029,6 @@
     "summary": "Trabzon hem belediye hem de Trabzonspor başkanlığı yapmış olan Atay Aktuğ’un vefat haberiyle sarsıldı. Büyükşehir Belediye Başkanı Ahmet Metin Genç, Aktuğ için bir taziye mesajı yayımlayarak üzüntüsünü paylaştı.",
     "image": "https://resim.haber61.net/news/613383.jpg",
     "keyword": "trabzon",
-    "has_video": false
-  },
-  {
-    "id": "GND_1c3bc951",
-    "title": "Adana'da sulama kanalına giren kişiden haber alınamıyor",
-    "source": "BirGün",
-    "time": "18/04/2026 18:48",
-    "link": "https://www.birgun.net/haber/adana-da-sulama-kanalina-giren-kisiden-haber-alinamiyor-706687",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adana'nın merkez Yüreğir ilçesinde sulama kanalına giren yabancı uyruklu İ.İ. akıntıya kapılarak gözden kayboldu. İhbar üzerine olay yerine sevk edilen ekipler arama çalışması başlattı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/adana-da-sulama-kanalina-giren-kisiden-haber-alinamiyor.jpg",
-    "keyword": null,
     "has_video": false
   }
 ]
