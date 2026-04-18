@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_2d305001",
+    "title": "Oğuz Şentürk @OguzCSOF · 2s Maden yasası biran önce iptal ed...",
+    "source": "X (Twitter)",
+    "time": "18/04/2026 20:06",
+    "link": "https://x.com/OguzCSOF/status/2045507068191191258",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "Oğuz Şentürk @OguzCSOF · 2s Maden yasası biran önce iptal edilmeli. Giresun özgür kalmalı. Giresun, Ordu, Tirebolu, Rize, Trabzon da ki tüm Akp'ye üyeliği olan herkese sesleniyorum. Ne zaman artık yeter diyeceksiniz. 42",
+    "image": null,
+    "keyword": "\"trabzon\" and (\"açıklama\" or \"karar\" or \"iptal\" or \"istifa\" or \"atama\" or \"proje\" or \"ihale\" or \"tepki\" or \"yürüyüş\" or \"eylem\" or \"basın açıklaması\" or \"miting\") -filter:replies"
+  },
+  {
     "id": "SOC_4a9cd396",
     "title": "masal @masalgibimiydi · 1 sa ya zamanında hercai fanlığı yap...",
     "source": "X (Twitter)",
@@ -952,18 +964,5 @@
     "image": null,
     "keyword": "\"trabzon\" and (\"son dakika\" or \"sondakika\" or \"flaş\" or \"acil\" or \"önemli gelişme\" or \"ihbar\" or \"sıcak gelişme\" or \"az önce\" or \"şimdi\" or \"dikkat\") -filter:replies",
     "has_video": true
-  },
-  {
-    "id": "SOC_308dfbab",
-    "title": "Terimist @terimizmkalesi · 26m Translated from Turkish Show ...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 19:37",
-    "link": "https://x.com/terimizmkalesi/status/2045534809238155428",
-    "type": "SOC",
-    "prefix": "🐦",
-    "summary": "Terimist @terimizmkalesi · 26m Translated from Turkish Show original Son, are you kidding me? You started in Trabzon and screwed it up. We've won against Göztepe, we're going into the Kocaeli match, you made the team drop points with these dumb moves, and now that's not even enough—right before the derby, while Fener's dropped points, Osimhen Show more Galatasaray SK @GalatasaraySK · 43m Translated from Turkish  Our starting 11 and substitutes against N. D. Gençlerbirliği!  #GBvGS 1 1 256",
-    "image": "https://pbs.twimg.com/media/HGMttYQXAAAV2XT?format=jpg&name=small",
-    "keyword": "\"trabzon\" and (\"son dakika\" or \"sondakika\" or \"flaş\" or \"acil\" or \"önemli gelişme\" or \"ihbar\" or \"sıcak gelişme\" or \"az önce\" or \"şimdi\" or \"dikkat\") -filter:replies",
-    "has_video": false
   }
 ]
