@@ -1,5 +1,18 @@
 [
   {
+    "id": "GND_70839938",
+    "title": "İstanbul'da yarın bazı yollar trafiğe kapatılacak",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 17:38",
+    "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yarin-bazi-yollar-trafige-kapatilacak-/3910666",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da, \"Türkiye İş Bankası 21. İstanbul Yarı Maratonu\" nedeniyle bazı yollar trafiğe kapatılacak.",
+    "image": null,
+    "keyword": null,
+    "has_video": false
+  },
+  {
     "id": "GND_f479004e",
     "title": "Türk savunma sanayisi Berlin'de nitelikli insan kaynağıyla buluştu",
     "source": "Anadolu Ajansı",
@@ -951,18 +964,6 @@
     "prefix": "🔔",
     "summary": "Bangladeş Dışişleri Bakanı Rahman, Orta Doğu'daki güncel gelişmeler hakkında \"Gerilimin daha fazla tırmanması, yalnızca bu bölgeye ve halkına ağır zarar vermekle kalmayacak, dünya ekonomisi üzerinde büyük olumsuz etkilere yol açacak\" dedi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_01bb8f60",
-    "title": "Sürmene’de 14 milyon TL’lik arsa satışa çıkarıldı",
-    "source": "Haber61",
-    "time": "18/04/2026 17:18",
-    "link": "https://www.haber61.net/trabzon/surmenede-14-milyon-tllik-arsa-satisa-cikarildi-h629955.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Sürmene ilçesinde 15 bin metrekarelik arsa icradan satışa çıkarıldı. Muhammen bedeli 14 milyon 580 bin TL olarak belirlenen taşınmaz için ihale 9 Haziran’da yapılacak.",
-    "image": "https://resim.haber61.net/news/613365.jpg",
     "keyword": null
   }
 ]
