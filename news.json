@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_ec8e9fd2",
+    "title": "Hürmüz Boğazı'na ilerleyen gemiler U dönüşü yaptı",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 20:02",
+    "link": "https://www.aa.com.tr/tr/dunya/hurmuz-bogazina-ilerleyen-gemiler-u-donusu-yapti/3910893",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hürmüz Boğazı'na doğru ilerleyen bazı kuru yük gemisi ve tankerlerin U dönüşü yaptığı görüldü.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_b1282199",
     "title": "Katil İsrail’in yıktığı Lübnan yeniden ayağa kalkıyor! Ateşkesin ardından dev onarım seferberliği",
     "source": "A Haber",
@@ -1022,19 +1034,6 @@
     "prefix": "🔔",
     "summary": "Tanzanya Broadcasting Corporation'dan gazeteci Mayunga, Tacikistan Dışişleri Bakanlığından diplomat Saidalizoda ve Macaristan Göç Araştırmaları Enstitüsünden araştırmacı Felegyi, Antalya Diplomasi Forumu'na ilişkin olumlu görüşlerini ifade etti.",
     "image": null,
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "YRL_c92a050f",
-    "title": "SGK Sınırı Belirledi! Yemek Yardımı Artık Bu Sınırı Aşarsa Kesilecek",
-    "source": "Taka Gazetesi",
-    "time": "18/04/2026 18:48",
-    "link": "https://www.takagazete.com.tr/sgk-siniri-belirledi-yemek-yardimi-artik-bu-siniri-asarsa-kesilecek",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "SGK yemek yardımı düzenlemesi değişti. Günlük 300 TL’ye kadar olan ödemeler primden muaf tutulacak, üzeri için kesinti yapılacak.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/sgk-yardimi.png",
     "keyword": null,
     "has_video": false
   }
