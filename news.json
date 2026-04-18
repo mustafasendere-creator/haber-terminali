@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_9b2978eb",
+    "title": "TİKA Başkanı Eren'den ADF'de AA standındaki 15 Temmuz Anı Odası'na ziyaret",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 17:18",
+    "link": "https://www.aa.com.tr/tr/kurumsal-haberler/tika-baskani-erenden-adfde-aa-standindaki-15-temmuz-ani-odasina-ziyaret/3910657",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AA Yönetim Kurulu Başkanı ve Genel Müdürü Karagöz ile TİKA Başkanı Eren, ADF2026 kapsamında AA'nın stant alanında kurulan ve 15 Temmuz Demokrasi ve Milli Birlik Günü'nün 10. yılı dolayısıyla oluşturulan \"15 Temmuz Anı Odası\"nı gezdi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_025bb7d9",
     "title": "İsrail’in sürdürdüğü abluka nedeniyle gıda güvenliğinin çöktüğü Gazze’de ekmek krizi yaşanıyor",
     "source": "Anadolu Ajansı",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "BEDAŞ, İstanbul'da elektrik kesintilerinin yaşanacağını açıkladı. İşte 19 Nisan 2026 Pazar planlı ve bakım çalışması amaçlı elektrik kesintilerinin olacağı ilçe ve mahalleler.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/istanbulda-19-nisan-pazar-buyuk-elektrik-kesintileri-olacak-1rlz.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_4045c939",
-    "title": "Cumhurbaşkanı Erdoğan Komorlar Birliği Cumhurbaşkanı Assoumani Azali ile görüştü",
-    "source": "Haber Global",
-    "time": "18/04/2026 16:42",
-    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-komorlar-birligi-cumhurbaskani-assoumani-azali-ile-gorustu-519607",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 5. Antalya Diplomasi Forumu (#ADF2026) için Türkiye’de bulunan Komorlar Birliği Cumhurbaşkanı Assoumani Azali ile bir araya geldi. Görüşmede Türkiye ile Komorlar Birliği ikili ilişkileri ve bölgesel konular ele alındı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/cumhurbaskani-erdogan-komorlar-birligi-cumhurbaskani-assoumani-azali-ile-gorustu-roj3.jpg",
     "keyword": null
   }
 ]
