@@ -1,5 +1,18 @@
 [
   {
+    "id": "SOC_6f962e74",
+    "title": "@anonturk.bsky.social: 🇹🇷 İstanbul Tabip Odası seçimi: İktidara yakın iki grup itti...",
+    "source": "Bluesky",
+    "time": "18/04/2026 17:39",
+    "link": "https://bsky.app/profile/anonturk.bsky.social/post/3mjrnwdkxox2h",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "🇹🇷 İstanbul Tabip Odası seçimi: İktidara yakın iki grup ittifakla giriyor\n18.04.2026 Diken İstanbul Tabip Odası, yarın seçime gidiyor. AKP iktidarına yakın Değişim Grubu’y…\n#Türkiye #Turkiye #Haber #Gündem #Gundem #Diken",
+    "image": null,
+    "keyword": "türkiye",
+    "has_video": false
+  },
+  {
     "id": "GND_9e1042b8",
     "title": "Ödemiş'te eğitim sendikalarından okullardaki şiddete tepki: Sorumlular hesap verene kadar mücadele edeceğiz",
     "source": "Evrensel",
@@ -976,17 +989,5 @@
     "summary": "CHP Trabzon Ortahisar İlçe Başkanı Haluk Batmaz, AK Parti Trabzon Ortahisar Daraltılmış İlçe Danışma Meclisi toplantısında Ortahisar Belediyesi’ne yönelik yapılan açıklamalara yazılı bir yanıt verdi. Batmaz, “Ortahisar’ı kaybetmeyi hala içlerine sindiremedikleri her hallerinden belli” ifadelerini kullandı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/hur.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_c4f45bad",
-    "title": "Engelli gence eziyet etmişlerdi: Mahkemeden skandal karar",
-    "source": "BirGün",
-    "time": "18/04/2026 17:19",
-    "link": "https://www.birgun.net/haber/engelli-gence-eziyet-etmislerdi-mahkemeden-skandal-karar-706672",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara'da zihinsel engelli Hamza S.'ye atölyede eziyet edip görüntülerini paylaşan 3 sanık, yargılandıkları davanın ilk duruşmasında adli kontrol şartıyla tahliye edildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/engelli-gence-eziyet-etmislerdi-mahkemeden-skandal-karar.jpg",
-    "keyword": null
   }
 ]
