@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_2a41c0f4",
+    "title": "marekiaro @marekiaro1761 · 2s Trabzon Devlet Tiyatrosu’nda b...",
+    "source": "X (Twitter)",
+    "time": "18/04/2026 20:06",
+    "link": "https://x.com/marekiaro1761/status/2045516579572473905",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "marekiaro @marekiaro1761 · 2s Trabzon Devlet Tiyatrosu’nda bile haftada 3 gün, toplam 4 temsil olarak sahnelenen oyunlara bilet bulmak bile zor. Salonlar dolup taşıyor, her temsil kapalı gişe. Emrah Yalçınalp @uzakkuzey · 3s Dün Nedim Saban’ın Ahududu’suna gittim. Suna Keskin 85, Melek Baykal 71 yaşındalarmış. Ne denir bilemiyorum. Allah herkese böyle yaş alma nasip etsin. Harika performanslar.. “yaşlarına göre” değil, kemiksiz harika performanslar. Ve bir şey daha: Bilen bilir, Trabzonluluğa özel 2 91",
+    "image": null,
+    "keyword": "(\"trabzon\" or \"ortahisar\" or \"akçaabat\" or \"yomra\" or \"karadeniz sahil yolu\") and (\"kaza\" or \"trafik\" or \"yangın\" or \"sel\" or \"heyelan\" or \"cinayet\" or \"operasyon\" or \"gözaltı\" or \"tutuklandı\" or \"kapalı\") -filter:replies"
+  },
+  {
     "id": "GND_da36b391",
     "title": "Edirne'de kanlı infaz: Kardeşinin katilini cezaevinden çıktıktan 1 hafta sonra öldürdü",
     "source": "Cumhuriyet",
@@ -948,19 +960,6 @@
     "prefix": "🦋",
     "summary": "Okan Buruk: \"Ülkemizde yaşanan şiddet olayları, okullarda yaşanan olaylar... Orada ölenlerin mekanı cennet olsun. \nTekrar yaşanmaması için ülke olarak elimizden geleni yapmak zorundayız.\"\n\n#Siyaset #Türkiye #Gündem\n📢 t.me/KRBRZ_MEDYA",
     "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eoc4a3qw2komzmqklzi2cnz5/bafkreifcc4745twhhlt634f7wq5zxxldpg3amfqlxqjsnu2fpmbokv6c5m",
-    "keyword": "türkiye",
-    "has_video": false
-  },
-  {
-    "id": "SOC_2c692720",
-    "title": "Lost Medya Türkiye",
-    "source": "Reddit",
-    "time": "18/04/2026 19:37",
-    "link": "https://www.reddit.com/r/lostmediatr/",
-    "type": "SOC",
-    "prefix": "🤖",
-    "summary": "Türkçe Lost Media subredditine hoş geldiniz! Burada Türkiye'ye ait kayıp medyaların keşfedilmesine yardımcı olabilirsiniz. Hatırlayamadığınız şeyleri bulmak için r/diliminucunda 'yı ziyaret ediniz. Wikimiz: https://lostmediaarchive.fandom.com/tr/wiki/Kay%C4%B1p_Medya_Wiki   [link]",
-    "image": null,
     "keyword": "türkiye",
     "has_video": false
   }
