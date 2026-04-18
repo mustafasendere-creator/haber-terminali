@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_340d906d",
+    "title": "Cumhurbaşkanı Erdoğan, Bosna Hersek Devlet Başkanlığı Konseyi üyeleriyle görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "18/04/2026 12:25",
+    "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bosna-hersek-devlet-baskanligi-konseyi-uyeleriyle-gorustu/3910441",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bosna Hersek Devlet Başkanlığı Konseyi üyeleri Zeljka Cvijanovic, Denis Becirovic ve Zeljko Komsic ile çalışma kahvaltısında bir araya geldi.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "GND_d6628b62",
     "title": "Enerjisini güneşten alan İncesu OSB, yeşil gelecek için günde 4 bin 400 ton su arıtıyor",
     "source": "Anadolu Ajansı",
@@ -946,17 +958,5 @@
     "summary": "Ankara Valiliğince, Nezaket Haftası'nda toplumsal saygı, nezaket bilinci ile okullarda şiddet ve zorbalıkla mücadele farkındalığının artırılması amaçlanıyor.",
     "image": null,
     "keyword": null
-  },
-  {
-    "id": "TKP_c24d7abf",
-    "title": "Trabzon'unda aralarında olduğu futbol bahis ağına darbe: 53 tutuklama",
-    "source": "Haber61",
-    "time": "18/04/2026 11:46",
-    "link": "https://www.haber61.net/trabzon/trabzonunda-aralarinda-oldugu-futbol-bahis-agina-darbe-53-tutuklama-h629924.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Sakarya merkezli 13 ilde, Trabzon’un da aralarında bulunduğu yasa dışı bahis operasyonunda 71 şüpheli gözaltına alındı. Şüphelilerden 53’ü tutuklandı.",
-    "image": "https://resim.haber61.net/news/613311.jpg",
-    "keyword": "trabzon"
   }
 ]
