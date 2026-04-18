@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_0abaa434",
+    "title": "Meteoroloji uyardı: Yağış ve fırtına etkili olacak (18.04.2026)",
+    "source": "Evrensel",
+    "time": "18/04/2026 07:25",
+    "link": "https://www.evrensel.net/haber/5980195/meteoroloji-uyardi-yagis-ve-firtina-etkili-olacak-18042026",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bugün ülke genelinde sağanak ve gök gürültülü yağışlar etkili olacak. Özellikle Akdeniz, Karadeniz ve Güneydoğu’da yer yer kuvvetli ve çok kuvvetli yağış beklenirken; ani sel, su baskını, fırtına, çığ ve toz taşınımına karşı uyarı yapıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/340762.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_dfdc0a59",
     "title": "Bu hafta borsa ve altın iyi kazandırdı",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "✍️ Tolga Şardan yazdı: 🔴 “Cehennemin 31. Katı (C31K)” 📌 “C31K”’nın elbette özel anlamı var. Sanal dünyada kullanılan “Cehennemin 31. katı” tanımının kısaltılması. Adında yer alan “cehennem” vurgusuyla, bir “maneviyat kurgusu” da yok değil. Bu konuda y  x.com",
     "image": null,
     "keyword": "c31k"
-  },
-  {
-    "id": "GND_c1d9101e",
-    "title": "Milliyetçilerin TRÇ kavgası",
-    "source": "Cumhuriyet",
-    "time": "18/04/2026 05:05",
-    "link": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-ali-guller/milliyetcilerin-trc-kavgasi-2496164",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İki milliyetçi parti, MHP ve İYİ Parti, TRÇ nedeniyle karşı karşıya.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar392_cover.jpeg",
-    "keyword": null
   }
 ]
