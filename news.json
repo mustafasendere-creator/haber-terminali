@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_209d14d6",
+    "title": "Trump'tan Hürmüz açıklaması: İran bize şantaj yapamaz",
+    "source": "Haber Global",
+    "time": "18/04/2026 17:00",
+    "link": "https://haberglobal.com/dunya/trumptan-hurmuz-aciklamasi-iran-bize-santaj-yapamaz-519610",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran ordusunun dün açılan Hürmüz Boğazı'nı bugün yeniden kapatması sonrası yaptığı ilk açıklamada, \"İran bize şantaj yapamaz. Onlarla görüşüyoruz, görüşmeler iyi gidiyor.\" dedi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/trumptan-hurmuz-aciklamasi-iran-bize-santaj-yapamaz-vndd.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_84c1c021",
     "title": "Gülistan Doku soruşturmasında Sonel'in koruması tutuklandı",
     "source": "TRT Haber",
@@ -946,17 +958,5 @@
     "summary": "Türkiye Atıcılık Federasyonu tarafından düzenlenen Havalı Silahlar 2. Grup Bölge Müsabakası, Trabzon’da tüm heyecanıyla devam ediyor.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/silah.webp",
     "keyword": "trabzon"
-  },
-  {
-    "id": "GND_a926429c",
-    "title": "Eğitim Sen “Şiddetsiz Okul Deklarasyonu”nu açıkladı: “Eğitim sistemi bilimsel temelde yeniden inşa edilmelidir”",
-    "source": "Evrensel",
-    "time": "18/04/2026 16:41",
-    "link": "https://www.evrensel.net/haber/5980265/egitim-sen-siddetsiz-okul-deklarasyonunu-acikladi-egitim-sistemi-bilimsel-temelde-yeniden-insa-edilmelidir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eğitim Sen’in “Şiddetsiz Okul Deklarasyonu”nda, okullarda artan şiddetin politik ve yapısal nedenlere dayandığı vurgulandı. Çözümün bilimsel, laik ve kamusal bir eğitim sisteminin inşasında olduğu belirtildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/343604.jpg",
-    "keyword": null
   }
 ]
