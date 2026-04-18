@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_595cb3d9",
+    "title": "Gülistan Doku soruşturması: Zeinal Abakarov tutuklandı",
+    "source": "Evrensel",
+    "time": "18/04/2026 08:45",
+    "link": "https://www.evrensel.net/haber/5980199/gulistan-doku-sorusturmasi-zeinal-abakarov-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gülistan Doku soruşturmasında adliyeye sevk edilen 9 kişiden Zeinal Abakarov’un da aralarında bulunduğu 6 kişi tutuklandı. 5’i “suç delillerini gizleme ve yok etme”, 1’i ise Aygül Doku’ya yönelik “yağma” suçlamasıyla cezaevine gönderildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/192640.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_9e493593",
     "title": "7,5 milyon aboneli Minecraft Parodileri’ne erişim engeli getirildi",
     "source": "10Haber",
@@ -946,17 +958,5 @@
     "summary": "🏊‍♀️ 🥇 #Natacion | Agostina Hein sigue haciendo historia en #natacion y en los #Juegos #ODESUR de la #Juventud\n\njavierinfodeportiva.blogspot.com/2026/04/agos...",
     "image": null,
     "keyword": "agos"
-  },
-  {
-    "id": "GND_0abaa434",
-    "title": "Meteoroloji uyardı: Yağış ve fırtına etkili olacak (18.04.2026)",
-    "source": "Evrensel",
-    "time": "18/04/2026 07:25",
-    "link": "https://www.evrensel.net/haber/5980195/meteoroloji-uyardi-yagis-ve-firtina-etkili-olacak-18042026",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bugün ülke genelinde sağanak ve gök gürültülü yağışlar etkili olacak. Özellikle Akdeniz, Karadeniz ve Güneydoğu’da yer yer kuvvetli ve çok kuvvetli yağış beklenirken; ani sel, su baskını, fırtına, çığ ve toz taşınımına karşı uyarı yapıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/340762.jpg",
-    "keyword": null
   }
 ]
