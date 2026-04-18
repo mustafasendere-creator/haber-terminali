@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_5c61a23b",
+    "title": "S&P’den Türkiye kararı: Kredi notu artışı için enflasyon ve güven şart",
+    "source": "BirGün",
+    "time": "18/04/2026 08:25",
+    "link": "https://www.birgun.net/haber/s-pden-turkiye-karari-kredi-notu-artisi-icin-enflasyon-ve-guven-sart-706590",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "S&amp;P Global Ratings, Türkiye’nin kredi notunu “BB-/B”, görünümünü “durağan” olarak teyit etti. Kuruluş, enerji fiyat şoku ve rezervlerdeki seyri kritik riskler olarak işaret ederken, not artışı için enflasyon ve güvenin iyileşmesine dikkat çekti.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/s-pden-turkiye-karari-kredi-notu-artisi-icin-enflasyon-ve-guven-sart.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_44df3701",
     "title": "Cüneyit Zorlu’dan Hüseyin Kazaz tepkisi: “Bu bir hizmet değil, siyasi tasarruf”",
     "source": "Haber61",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Ridley Scott’ın kıyamet sonrası bir dünyada geçen yeni bilimkurgu filmi The Dog Stars için ilk fragman yayınlandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/usta-yonetmen-ridley-scotttan-yeni-film-the-dog-starsin-ilk-fragmani-yayinlandi-afkm.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d8543899",
-    "title": "Gazze Barış Kurulu: İsrail kısıtlamaları yardımları engelliyor",
-    "source": "TRT Haber",
-    "time": "18/04/2026 06:45",
-    "link": "https://www.trthaber.com/haber/dunya/gazze-baris-kurulu-israil-kisitlamalari-yardimlari-engelliyor-942091.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazze Barış Kurulu Yüksek Temsilcisi Nikolay Mladenov, İsrailin sınır kapıları üzerindeki geniş kapsamlı kısıtlamalarının insani yardımların Gazze Şeridi'ne girişinin önündeki başlıca engel olduğunu belirtti.",
-    "image": null,
     "keyword": null
   }
 ]
