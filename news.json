@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_4a9cd396",
+    "title": "masal @masalgibimiydi · 1 sa ya zamanında hercai fanlığı yap...",
+    "source": "X (Twitter)",
+    "time": "18/04/2026 20:06",
+    "link": "https://x.com/masalgibimiydi/status/2045530613029957845",
+    "type": "SOC",
+    "prefix": "🐦",
+    "summary": "masal @masalgibimiydi · 1 sa ya zamanında hercai fanlığı yapmış biri olarak Trabzon halkına sesleniyorum nasıl sahnelerin spoisi düşmüyor ya hercaide sahneyi iptal ettirmişliğimiz bile var #isfad #erzey #tasacakbudeni̇z 730",
+    "image": null,
+    "keyword": "\"trabzon\" and (\"açıklama\" or \"karar\" or \"iptal\" or \"istifa\" or \"atama\" or \"proje\" or \"ihale\" or \"tepki\" or \"yürüyüş\" or \"eylem\" or \"basın açıklaması\" or \"miting\") -filter:replies"
+  },
+  {
     "id": "TKP_0a5eb926",
     "title": "Trabzon Valisi Tahir Şahin’den kodlama merkezine ziyaret!",
     "source": "Kuzey Ekspres",
@@ -952,19 +964,6 @@
     "summary": "Terimist @terimizmkalesi · 26m Translated from Turkish Show original Son, are you kidding me? You started in Trabzon and screwed it up. We've won against Göztepe, we're going into the Kocaeli match, you made the team drop points with these dumb moves, and now that's not even enough—right before the derby, while Fener's dropped points, Osimhen Show more Galatasaray SK @GalatasaraySK · 43m Translated from Turkish  Our starting 11 and substitutes against N. D. Gençlerbirliği!  #GBvGS 1 1 256",
     "image": "https://pbs.twimg.com/media/HGMttYQXAAAV2XT?format=jpg&name=small",
     "keyword": "\"trabzon\" and (\"son dakika\" or \"sondakika\" or \"flaş\" or \"acil\" or \"önemli gelişme\" or \"ihbar\" or \"sıcak gelişme\" or \"az önce\" or \"şimdi\" or \"dikkat\") -filter:replies",
-    "has_video": false
-  },
-  {
-    "id": "SOC_557838e3",
-    "title": "TrabzonJerky",
-    "source": "Reddit",
-    "time": "18/04/2026 19:36",
-    "link": "https://www.reddit.com/r/TrabzonJerky/",
-    "type": "SOC",
-    "prefix": "🤖",
-    "summary": "Burası Trabzon'a ve Trabzonlulara karşı gelinecek yer değildir.   [link]",
-    "image": null,
-    "keyword": "trabzon",
     "has_video": false
   }
 ]
