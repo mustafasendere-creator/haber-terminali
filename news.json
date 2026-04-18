@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_da36b391",
+    "title": "Edirne'de kanlı infaz: Kardeşinin katilini cezaevinden çıktıktan 1 hafta sonra öldürdü",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 20:06",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/edirne-de-kanli-infaz-kardesinin-katilini-cezaevinden-ciktiktan-1-hafta-sonra-oldurdu-2496334",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kardeşinin katilini cezaevinden çıktıktan 1 hafta sonra öldürdü",
+    "image": "https://media.cumhuriyet.com.tr/Archive/e55e2a2f-2b0b-4692-a113-eba22bbbe28f.jpg",
+    "keyword": null
+  },
+  {
     "id": "SOC_2d305001",
     "title": "Oğuz Şentürk @OguzCSOF · 2s Maden yasası biran önce iptal ed...",
     "source": "X (Twitter)",
@@ -951,18 +963,5 @@
     "image": null,
     "keyword": "türkiye",
     "has_video": false
-  },
-  {
-    "id": "SOC_d569cb72",
-    "title": "Merve @Finitocokore · 1h Translated from Turkish Show origin...",
-    "source": "X (Twitter)",
-    "time": "18/04/2026 19:37",
-    "link": "https://x.com/Finitocokore/status/2045512390180007950",
-    "type": "SOC",
-    "prefix": "📹",
-    "summary": "Merve @Finitocokore · 1h Translated from Turkish Show original If we hadn't beaten Trabzon twice, we wouldn't be leading now; what I'm trying to say to you is, Trabzon's Fatih, coach. From  @FenerliIrmakarsiv 2 37",
-    "image": null,
-    "keyword": "\"trabzon\" and (\"son dakika\" or \"sondakika\" or \"flaş\" or \"acil\" or \"önemli gelişme\" or \"ihbar\" or \"sıcak gelişme\" or \"az önce\" or \"şimdi\" or \"dikkat\") -filter:replies",
-    "has_video": true
   }
 ]
