@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_a783639a",
+    "title": "'Bilinmeyen numara' işletmecilerine dev gelir",
+    "source": "Cumhuriyet",
+    "time": "18/04/2026 13:06",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/bilinmeyen-numara-isletmecilerine-dev-gelir-2496236",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kamuoyunda \"bilinmeyen numaralar\" olarak da bilinen telefonda rehberlik hizmetleri veren işletmecilerin geliri geçen yıl 128 milyon 281 bin 932 liraya ulaştı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/0222f27e-3708-4caf-96f2-729ab890fb4e.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_13210b7d",
     "title": "Pembe Köşk’te Erdal İnönü sergisi",
     "source": "Cumhuriyet",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Parlamentolar Arası Birliğin (PAB) 152. Genel Kurulu marjında \"Yapay Zeka Konusunda Parlamenter Yetkinin Uygulanması\" oturumu düzenlendi.",
     "image": null,
-    "keyword": null
-  },
-  {
-    "id": "YRL_016f962e",
-    "title": "Trabzon’da çocuk tiyatrosu haftası: Sahne çocuklarla buluşacak",
-    "source": "Haber61",
-    "time": "18/04/2026 12:45",
-    "link": "https://www.haber61.net/yasam/trabzonda-cocuk-tiyatrosu-haftasi-sahne-cocuklarla-bulusacak-h629931.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Devlet Tiyatrosu, “Kırmızı Küre” ve “Eldivenlerimi Kim Aldı?” oyunlarıyla Çocuk Oyunları Haftası’na katılıyor. Türkiye genelinde 14 ilde düzenlenecek etkinliklerde çocuklar tiyatroyla buluşacak.",
-    "image": "https://resim.haber61.net/news/613325.jpg",
     "keyword": null
   }
 ]
