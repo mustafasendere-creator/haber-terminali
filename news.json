@@ -1,5 +1,17 @@
 [
   {
+    "id": "YRL_19fc8a21",
+    "title": "Tirebolu'da maden eylemi!",
+    "source": "Kuzey Ekspres",
+    "time": "18/04/2026 12:26",
+    "link": "https://www.kuzeyekspres.com.tr/haber/27833837/tireboluda-maden-eylemi",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Giresun&#039;un Tirebolu ilçesinde maden çalışmalarına karşı eylem gerçekleştirildi.",
+    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/18/large/maden5.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_020d9351",
     "title": "Gözaltına alınan eski Tunceli Valisi Tuncay Sonel, Erzurum’a getirildi",
     "source": "Evrensel",
@@ -946,17 +958,5 @@
     "summary": "Kahramanmaraş’ta okul katliamını gerçekleştiren saldırganın her gün çantasını arayan ve psikolojik durumunu yakından takip eden müdür yardımcısının bir ay önce görevden alındığı ortaya çıktı. Okul Aile Birliği Başkanı Hülya Çevik, “Bu çocuk avucuna kalem batıran, kendi boğazını kesen agresif biriydi. Alparslan hocam ‘Korkmayın, çantasını yoklamadan içeri almıyorum’ derdi” ifadesini kullandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/54af172f-6452-4032-a205-f4b868e23267.jpg",
     "keyword": null
-  },
-  {
-    "id": "TKP_7e279d73",
-    "title": "Süper Lig’de Avrupa yarışı kızıştı Trabzonspor iddiasını sürdürüyor",
-    "source": "Taka Gazetesi",
-    "time": "18/04/2026 11:47",
-    "link": "https://www.takagazete.com.tr/super-ligde-avrupa-yarisi-kizisti-trabzonspor-iddiasini-surduruyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Avrupa hedefi için ilk 2’yi zorluyor. Bordo-mavililer hem lig hem kupa yoluyla Avrupa kupalarına katılmak istiyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/d1306d1d-f4d2-49ea-bb35-e42e554cbd08.png",
-    "keyword": "trabzon"
   }
 ]
