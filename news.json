@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_6447f72e",
+    "title": "@neilglect.bsky.social: I started playing Tokyo Xanadu for the first time, and man i...",
+    "source": "Bluesky",
+    "time": "18/04/2026 07:06",
+    "link": "https://bsky.app/profile/neilglect.bsky.social/post/3mjqkken56k2r",
+    "type": "SOC",
+    "prefix": "🦋",
+    "summary": "I started playing Tokyo Xanadu for the first time, and man it feels like the cs games, it’s so weird, from the art style and models, I feel like I’m back playing cs1 again lol. But man I forgot that this is a portable port from over a decade agos, so there some QOL issues, but seems fun",
+    "image": null,
+    "keyword": "agos"
+  },
+  {
     "id": "GND_36be6429",
     "title": "Axios: Trump'ın paylaşımı Netanyahu'yu şok etti",
     "source": "Ekonomim",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "TTB’nin yeniden gündeme taşıdığı TÜİK verilerine göre, Türkiye’de sağlık harcamalarının yüzde 19’u doğrudan yurttaşın cebinden karşılanıyor.",
     "image": "https://media.cumhuriyet.com.tr/Archive/1eef0ca7-0330-474a-8d45-cdb0bd9ad6b0.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_eb3bc002",
-    "title": "Samsun'da dehşet anları kamerada! Arkadaşını bıçakla böyle katletti",
-    "source": "Haber Global",
-    "time": "18/04/2026 04:45",
-    "link": "https://haberglobal.com/gundem/samsunda-dehset-anlari-kamerada-arkadasini-bicakla-boyle-katletti-519503",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsun Atakum'da tartıştığı arkadaşı tarafından bıçaklanan kişi yaşamını yitirdi. Dehşet anları kameraya yansıdı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/18/samsunda-dehset-anlari-kamerada-arkadasini-bicakla-boyle-katletti-uv1e.jpg",
     "keyword": null
   }
 ]
