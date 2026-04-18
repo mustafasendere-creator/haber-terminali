@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_90ae6711",
+    "title": "Hatay'da fırtına: Tekneler alabora oldu, çatılar uçtu",
+    "source": "Evrensel",
+    "time": "18/04/2026 04:45",
+    "link": "https://www.evrensel.net/haber/5980194/hatay-da-firtina-tekneler-alabora-oldu-catilar-uctu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay'ın İskenderun ve Arsuz ilçelerinde gece saatlerindeki fırtına nedeniyle 7 tekne alabora oldu, bazı ev ve iş yerlerinin çatısı uçtu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343548.jpg",
+    "keyword": null
+  },
+  {
     "id": "GND_5815d656",
     "title": "Ataşehir Belediyesi’ne operasyon: Başkan Onursal Adıgüzel gözaltında",
     "source": "Euronews",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "MHP Genel Başkan Yardımcılığı görevinden istifa eden İzzet Ulvi Yönter, kendisine destek paylaşımları yapan il örgütleri peş peşe feshedilirken sosyal medya hesabını kapattı. Yönter dün manidar bir paylaşım yaparak \"Allah bes baki heves\" demişti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/341442.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_22f713d3",
-    "title": "Poverty cannot be covered up",
-    "source": "BirGün",
-    "time": "18/04/2026 01:45",
-    "link": "https://www.birgun.net/haber/poverty-cannot-be-covered-up-706422",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "The “Fight Against Poverty” budget which has been the subject of controversy on the grounds that it is used to conceal deep-seated poverty has exceeded 100 billion TL in just three months. Between January and March 2026, more than 102.4 billion TL was allocated from the budget under the “Fight Against Poverty” program.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/17/poverty-cannot-be-covered-up.jpg",
     "keyword": null
   }
 ]
