@@ -17,26 +17,23 @@
         #main-content { display: none; }
         .header-area { display: flex; flex-direction: column; align-items: center; margin-bottom: 40px; padding-top: 10px; }
         
-        /* DEV ANA LOGO (Tam Kaplama) */
+        /* DEV ANA LOGO */
         .logo-box { 
             background: white; 
             border-radius: 50%; 
             box-shadow: 0 8px 25px rgba(0,0,0,0.15); 
-            width: 140px; height: 140px; /* Boyut 100px'den 140px'e çıktı */
+            width: 140px; height: 140px; 
             display: flex; align-items: center; justify-content: center;
-            overflow: hidden; /* Logonun dışarı taşmasını engeller */
+            overflow: hidden; 
             border: 4px solid white;
         }
-        .logo-box img { 
-            width: 100%; height: 100%; 
-            object-fit: cover; /* Daireyi tam doldurmasını sağlar */
-        }
+        .logo-box img { width: 100%; height: 100%; object-fit: cover; }
 
         /* DEV DAİRESEL SEKME TASARIMI */
         .tabs { display: flex; justify-content: center; gap: 20px; margin-bottom: 50px; flex-wrap: wrap; }
         .tab { 
             background: white; 
-            width: 85px; height: 85px; /* Sekme boyutu 65px'den 85px'e çıktı */
+            width: 85px; height: 85px; 
             border-radius: 50%; 
             cursor: pointer; 
             display: flex; align-items: center; justify-content: center; 
@@ -44,13 +41,9 @@
             border: none;
             box-shadow: 0 5px 15px rgba(0,0,0,0.08);
             overflow: hidden;
-            padding: 0; /* İç boşluğu sıfırladık */
+            padding: 0; 
         }
-        .tab img { 
-            width: 100%; height: 100%; 
-            object-fit: cover; /* İkonun daireyi tam kaplamasını sağlar */
-            transition: 0.3s;
-        }
+        .tab img { width: 100%; height: 100%; object-fit: cover; transition: 0.3s; }
         .tab:hover { transform: scale(1.1); box-shadow: 0 10px 25px rgba(0,0,0,0.15); }
         .tab.active { 
             background: var(--accent); 
@@ -148,7 +141,7 @@
             if (s) s.style.display = (s.style.display === 'block') ? 'none' : 'block';
         }
 
-function loadNews() {
+        function loadNews() {
             fetch('news.json?t=' + Date.now()).then(r => r.json()).then(data => {
                 document.querySelectorAll('.news-container').forEach(c => c.innerHTML = '');
                 data.forEach(n => {
@@ -157,19 +150,8 @@ function loadNews() {
                     
                     const kw = n.keyword ? `<span style="background:#e3f2fd; color:#0d47a1; padding:2px 8px; border-radius:6px; font-size:10px; margin-right:5px; font-weight:bold;">#${n.keyword.toUpperCase()}</span>` : '';
                     
-                    // 🚀 VİDEO VE RESİM AYRIMI BURADA YAPILIYOR
-                    let mediaHtml = '';
-                    if (n.has_video) {
-                        // Eğer video ise üzerine Play ikonu koy ve hafif karart
-                        mediaHtml = `
-                            <div class="image-wrapper" style="position: relative; background: #000; display: flex; align-items: center; justify-content: center;">
-                                <img src="${n.image || 'https://placehold.co/600x400/000000/FFFFFF?text=Video+Icerigi'}" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.5;">
-                                <div style="position: absolute; font-size: 50px; text-shadow: 0 4px 10px rgba(0,0,0,0.5);">▶️</div>
-                            </div>`;
-                    } else {
-                        // Sadece resim ise normal göster
-                        mediaHtml = `<div class="image-wrapper"><img src="${n.image}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber'"></div>`;
-                    }
+                    // Sadece resim varsa gösterilecek temiz medya bloğu
+                    const mediaHtml = n.image ? `<div class="image-wrapper"><img src="${n.image}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber'"></div>` : '';
 
                     container.innerHTML += `
                         <div class="news-card">
@@ -183,7 +165,7 @@ function loadNews() {
                                 <div id="sum-${n.id}" class="summary-box">${n.summary}</div>
                                 <div class="footer-action">
                                     <button class="btn-summary" onclick="toggleSummary('${n.id}')">📝 ÖZETİ OKU</button>
-                                    <a href="${n.link}" target="_blank" class="read-more">${n.has_video ? 'VİDEOYU İZLE ▶' : 'HABERE GİT →'}</a>
+                                    <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
                                 </div>
                             </div>
                         </div>`;
