@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_489c6891",
+    "title": "ASKİ duyurdu: Ankara'daki barajların doluluk oranında son durum",
+    "source": "BirGün",
+    "time": "18/04/2026 14:59",
+    "link": "https://www.birgun.net/haber/aski-duyurdu-ankara-daki-barajlarin-doluluk-oraninda-son-durum-706596",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara’da baraj doluluk oranları kritik seviyelerde seyretmeye devam ediyor. ASKİ verilerine göre 18 Nisan 2026 itibarıyla barajların toplam doluluk oranı yüzde 39.85 kullanılabilir aktif su oranı yüzde 32.85 oldu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/18/aski-duyurdu-ankara-daki-barajlarin-doluluk-oraninda-son-durum.jpg",
+    "keyword": null
+  },
+  {
     "id": "YRL_223aade4",
     "title": "Kayıp olarak aranıyordu: Milli sporcu Feyza Keskin ölü bulundu",
     "source": "61 Saat",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türkiye, Fas'a 1 milyar 26 milyon 405,6 bin dolarla tüm zamanların en yüksek ilk çeyrek ihracatını gerçekleştirdi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_d5fbcd25",
-    "title": "Dışişleri Bakanı Fidan, Rus mevkidaşı Lavrov ile görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 14:47",
-    "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rus-mevkidasi-lavrov-ile-gorustu/3910493",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, Antalya'da Rusya Dışişleri Bakanı Sergey Lavrov ile bir araya geldi.",
     "image": null,
     "keyword": null
   }
