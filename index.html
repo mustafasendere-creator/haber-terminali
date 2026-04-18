@@ -148,16 +148,32 @@
             if (s) s.style.display = (s.style.display === 'block') ? 'none' : 'block';
         }
 
-        function loadNews() {
+function loadNews() {
             fetch('news.json?t=' + Date.now()).then(r => r.json()).then(data => {
                 document.querySelectorAll('.news-container').forEach(c => c.innerHTML = '');
                 data.forEach(n => {
                     const container = document.getElementById(`news-${n.type}`);
                     if (!container) return;
+                    
                     const kw = n.keyword ? `<span style="background:#e3f2fd; color:#0d47a1; padding:2px 8px; border-radius:6px; font-size:10px; margin-right:5px; font-weight:bold;">#${n.keyword.toUpperCase()}</span>` : '';
+                    
+                    // 🚀 VİDEO VE RESİM AYRIMI BURADA YAPILIYOR
+                    let mediaHtml = '';
+                    if (n.has_video) {
+                        // Eğer video ise üzerine Play ikonu koy ve hafif karart
+                        mediaHtml = `
+                            <div class="image-wrapper" style="position: relative; background: #000; display: flex; align-items: center; justify-content: center;">
+                                <img src="${n.image || 'https://placehold.co/600x400/000000/FFFFFF?text=Video+Icerigi'}" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.5;">
+                                <div style="position: absolute; font-size: 50px; text-shadow: 0 4px 10px rgba(0,0,0,0.5);">▶️</div>
+                            </div>`;
+                    } else {
+                        // Sadece resim ise normal göster
+                        mediaHtml = `<div class="image-wrapper"><img src="${n.image}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber'"></div>`;
+                    }
+
                     container.innerHTML += `
                         <div class="news-card">
-                            <div class="image-wrapper"><img src="${n.image}" class="news-image" onerror="this.src='https://placehold.co/600x400?text=Haber'"></div>
+                            ${mediaHtml}
                             <div class="news-content">
                                 <div class="source-bar">
                                     <span class="tag">${kw}${n.source}</span>
@@ -167,7 +183,7 @@
                                 <div id="sum-${n.id}" class="summary-box">${n.summary}</div>
                                 <div class="footer-action">
                                     <button class="btn-summary" onclick="toggleSummary('${n.id}')">📝 ÖZETİ OKU</button>
-                                    <a href="${n.link}" target="_blank" class="read-more">HABERE GİT →</a>
+                                    <a href="${n.link}" target="_blank" class="read-more">${n.has_video ? 'VİDEOYU İZLE ▶' : 'HABERE GİT →'}</a>
                                 </div>
                             </div>
                         </div>`;
