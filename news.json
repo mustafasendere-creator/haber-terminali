@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_b38c09b7",
+    "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
+    "source": "TRT Haber",
+    "time": "18/04/2026 13:27",
+    "link": "https://www.trthaber.com/haber/turkiye/ankarada-yarin-bazi-yollar-trafige-kapatilacak-942134.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Başkentte yarın düzenlenecek \"Bilkent Yol Koşusu\" nedeniyle bazı yollar araç trafiğine kapatılacak.",
+    "image": null,
+    "keyword": null
+  },
+  {
     "id": "SOC_6b43b71f",
     "title": "📌Ermenistan Meclis Başkanı Simonyan İstanbul'da 📌Türkiye'yi ortak olmaya ve bizimle birlikte barışı örmeye davet ediyoruz ▪️Ermenistan Meclis Başkanı Alen Simonyan, Parlamentolararası Birlik (IPU) 152. Genel Kurulu nedeniyle iki gündür İstanbul'da. Sim - x.com",
     "source": "X (Twitter)",
@@ -944,18 +956,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ruanda Dışişleri Bakanı Olivier Nduhungirehe, Türk şirketlerinin ülkesinde özellikle altyapı alanında iyi yatırımları olduğunu belirterek Türkiye'yle daha fazla ticaret ve yatırım ortaklıkları geliştirmek istediklerini söyledi.",
-    "image": null,
-    "keyword": null
-  },
-  {
-    "id": "GND_150523f6",
-    "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
-    "source": "Anadolu Ajansı",
-    "time": "18/04/2026 13:05",
-    "link": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-trafige-kapatilacak/3910473",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkentte yarın düzenlenecek \"Bilkent Yol Koşusu\" nedeniyle bazı yollar araç trafiğine kapatılacak.",
     "image": null,
     "keyword": null
   }
