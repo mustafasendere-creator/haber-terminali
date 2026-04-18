@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_7e150a13",
+    "title": "Uçakta kulaklar neden ağrır?",
+    "source": "Evrensel",
+    "time": "18/04/2026 20:04",
+    "link": "https://www.evrensel.net/haber/5980290/ucakta-kulaklar-neden-agrir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Seyahat eden milyonlarca kişinin ortak sorunu olan uçak kulak ağrısı, aslında orta kulak ile dış ortam arasındaki basınç farkından kaynaklanıyor. Peki bu rahatsızlık neden yaşanır ve nasıl önlenir?",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/343638.jpg",
+    "keyword": null
+  },
+  {
     "id": "TKP_c6acc4cf",
     "title": "Trabzon'un o ilçesinde 3 metrelik kar duvarı...",
     "source": "61 Saat",
@@ -991,19 +1003,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "KKTC Cumhurbaşkanı Tufan Erhürman, \"Kıbrıs sorunuyla ilgili tüm adımların ve KKTC'nin dış politikasıyla ilgili tüm adımların Türkiye ile istişare içerisinde atıldığını, bugüne kadar tüm liderler döneminde böyle olduğunu, benim dönemimde bunun artarak devam edeceğini söylemiştim\" dedi.",
-    "image": null,
-    "keyword": null,
-    "has_video": false
-  },
-  {
-    "id": "GND_9d0bf51a",
-    "title": "Trump'tan İran'a Hürmüz mesajı: Bize şantaj yapamazlar",
-    "source": "TRT Haber",
-    "time": "18/04/2026 18:49",
-    "link": "https://www.trthaber.com/haber/dunya/trumptan-irana-hurmuz-mesaji-bize-santaj-yapamazlar-942168.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran ile yürütülen görüşmelerin \"çok iyi gittiğini\" belirterek, Tahranın Hürmüz Boğazı'nı kapatma yönündeki olası adımlarına ilişkin, \"Bize şantaj yapamazlar\" dedi.",
     "image": null,
     "keyword": null,
     "has_video": false
