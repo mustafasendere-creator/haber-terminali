@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_651414b5",
+    "title": "İstanbul su kesintisi programı",
+    "source": "Habertürk",
+    "time": "18/04/2026 11:07",
+    "link": "https://www.haberturk.com/iski-istanbul-su-kesintileri-18-nisan-2026-cumartesi-istanbul-da-sular-ne-zaman-saat-kacta-gelecek-3878271",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ), 18 Nisan Cumartesi günü bakım ve onarım çalışmaları nedeniyle su kesintisi yapılacağını duyurdu. Anadolu ve Avrupa Yakası'nda belirli mahalleleri etkileyecek kesintiler hakkında detaylı bilgilendirme yapıldı. Kent sakinleri, kesintilerin hangi saatlerde son bulacağını öğrenmek için İSKİ’nin sorgulama ekranına yöneliyor. İşte su kesintisi yaşanacak bölgeler ve planlı çalışmaların detayları…",
+    "image": "https://im.haberturk.com/l/2026/04/18/ver1776463471/3878271/jpg/1280x1280",
+    "keyword": null
+  },
+  {
     "id": "SOC_d8ad7cf4",
     "title": "Bu şehirde, bu ülkede birlikte yaşamanın, birbirini anlamaya çalışmanın en gür seslerinden biri oldu Agos Gazetesi. - x.com",
     "source": "X (Twitter)",
@@ -945,18 +957,6 @@
     "prefix": "🔔",
     "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek ABD'de akaryakıt zamlarından Türkiye'nin az etkilendiğini iddia etti. Şimşek, \"Eşel mobil sistemi sayesinde ham petrol fiyatlarından kaynaklanan enflasyon şokunu hafifletebiliyoruz\" dedi.",
     "image": "https://static.birgun.net/resim/haber/2026/04/18/mehmet-simsek-ten-akaryakit-zamlarina-iliskin-aciklama.jpg",
-    "keyword": null
-  },
-  {
-    "id": "GND_d7e5228d",
-    "title": "Domenico Tedesco’dan istifa sorusuna yanıt",
-    "source": "BirGün",
-    "time": "18/04/2026 10:45",
-    "link": "https://www.birgun.net/haber/domenico-tedescodan-istifa-sorusuna-yanit-706605",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çaykur Rizespor beraberliğinin ardından konuşan Domenico Tedesco, istifa sorusura “Umarım sorunuz bir şakadır, çılgınca bir soru” ifadeleriyle yanıt verdi.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/18/domenico-tedescodan-istifa-sorusuna-yanit.jpg",
     "keyword": null
   }
 ]
