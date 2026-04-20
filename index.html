@@ -43,7 +43,7 @@
         .login-card button { width: 100%; padding: 12px; background: var(--accent); color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; transition: 0.2s; }
         .login-card button:hover { background: #0056b3; }
 
-        #main-content { display: none; }
+        #main-content { display: none; position: relative; }
         .header-area { display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; padding-top: 10px; }
         
         /* DEV ANA LOGO */
@@ -98,12 +98,29 @@
         }
         .tab.active img { opacity: 1; }
 
-        /* TEMA DEĞİŞTİRME BUTONU (Menüye Entegre) */
-        .theme-btn {
-            font-size: 28px;
-            padding: 0;
+        /* YÜZEN TEMA DEĞİŞTİRME BUTONU (Sağ Üst Köşe) */
+        .theme-toggle-floating {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
             background: var(--card-bg);
+            border: 1px solid var(--border-color);
             color: var(--text-main);
+            font-size: 22px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            z-index: 10001; /* En üstte durması için */
+        }
+        .theme-toggle-floating:hover {
+            transform: scale(1.1) rotate(15deg);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.15);
         }
 
         /* YENİ KART DÜZENİ */
@@ -170,7 +187,11 @@
         body.dark-theme .badge-mastodon { background: rgba(92, 75, 223, 0.15); color: #8e7dff; }
         body.dark-theme .badge-default { background: #253341; color: #8b98a5; }
 
-        @media (max-width: 600px) { .tab { width: 55px; height: 55px; padding: 10px; } .logo-box { width: 100px; height: 100px; } .theme-btn { font-size: 20px; } }
+        @media (max-width: 600px) { 
+            .tab { width: 55px; height: 55px; padding: 10px; } 
+            .logo-box { width: 100px; height: 100px; }
+            .theme-toggle-floating { top: 15px; right: 15px; width: 40px; height: 40px; font-size: 18px; }
+        }
     </style>
 </head>
 <body>
@@ -181,11 +202,13 @@
             <h2 style="margin-top:0;">Giriş</h2>
             <input type="password" id="pass-input" placeholder="Şifre..." onkeypress="if(event.key==='Enter') checkPass()">
             <button onclick="checkPass()">BAĞLAN</button>
-            <p id="error-msg" style="display: none;">Hatalı Şifre!</p>
+            <p id="error-msg" style="display: none; color: #dc3545; font-size: 13px; margin-top: 12px; font-weight:bold;">Hatalı Şifre!</p>
         </div>
     </div>
 
     <div id="main-content">
+        <button id="theme-toggle" class="theme-toggle-floating" onclick="toggleTheme()" title="Gece/Gündüz Modu">🌙</button>
+
         <div class="header-area">
             <div class="logo-box">
                 <img src="logo.png" alt="Logo" onerror="this.src='https://cdn-icons-png.flaticon.com/512/21/21601.png'">
@@ -197,7 +220,6 @@
             <button id="tab-YRL" class="tab" onclick="switchTab('YRL')" title="Yerel"><img src="yerel.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/1141/1141974.png'"></button>
             <button id="tab-TKP" class="tab" onclick="switchTab('TKP')" title="Takip"><img src="anahtar.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/2550/2550260.png'"></button>
             <button id="tab-SOC" class="tab" onclick="switchTab('SOC')" title="Sosyal"><img src="sosyal.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/1968/1968641.png'"></button>
-            <button id="theme-toggle" class="tab theme-btn" onclick="toggleTheme()" title="Gece/Gündüz Modu">🌙</button>
         </div>
 
         <div id="news-GND" class="news-container active"></div>
