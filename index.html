@@ -58,47 +58,7 @@
         }
         .logo-box img { width: 100%; height: 100%; object-fit: cover; }
 
-        /* SEKME TASARIMI (YAPIŞKAN BUZLU CAM EFEKTİ) */
-        .tabs { 
-            display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; 
-            position: sticky; 
-            top: -20px; 
-            z-index: 1000; 
-            background: var(--frosted-bg); 
-            backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-            padding: 25px 10px 15px 10px; 
-            margin-bottom: 40px;
-            border-bottom: 1px solid var(--border-color);
-            box-shadow: 0 10px 20px -10px rgba(0,0,0,0.1); 
-            transition: background-color 0.3s;
-        }
-        .tab { 
-            background: var(--card-bg); 
-            width: 75px; height: 75px; 
-            border-radius: 50%; 
-            cursor: pointer; 
-            display: flex; align-items: center; justify-content: center; 
-            transition: all 0.2s ease-in-out; 
-            border: 1px solid var(--border-color);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-            padding: 12px;
-            box-sizing: border-box;
-        }
-        .tab img { width: 100%; height: 100%; object-fit: contain; transition: 0.3s; opacity: 0.8; }
-        
-        /* Gündüz modunda logolar siyah/orijinal, Gece modunda logolar parlaklaşır */
-        body.dark-theme .tab img { filter: drop-shadow(0px 0px 2px rgba(255,255,255,0.5)); opacity: 1; }
-        
-        .tab:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(0,0,0,0.15); }
-        .tab.active { 
-            background: var(--card-bg); 
-            border: 2px solid var(--accent);
-            box-shadow: 0 4px 15px rgba(0, 123, 255, 0.25); 
-            transform: translateY(-3px);
-        }
-        .tab.active img { opacity: 1; }
-
-        /* YÜZEN TEMA DEĞİŞTİRME BUTONU (Sağ Üst Köşe) */
+        /* YÜZEN TEMA DEĞİŞTİRME BUTONU */
         .theme-toggle-floating {
             position: fixed;
             top: 20px;
@@ -111,65 +71,91 @@
             color: var(--text-main);
             font-size: 22px;
             cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            display: flex; align-items: center; justify-content: center;
             box-shadow: 0 4px 12px rgba(0,0,0,0.1);
             transition: all 0.3s ease;
-            z-index: 10001; /* En üstte durması için */
+            z-index: 10001;
         }
-        .theme-toggle-floating:hover {
-            transform: scale(1.1) rotate(15deg);
-            box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+        .theme-toggle-floating:hover { transform: scale(1.1) rotate(15deg); box-shadow: 0 6px 18px rgba(0,0,0,0.15); }
+
+        /* YENİ SEKME (MENÜ) TASARIMI - YAZILI VE BÜYÜK LOGOLU */
+        .tabs { 
+            display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; 
+            position: sticky; top: -20px; z-index: 1000; 
+            background: var(--frosted-bg); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+            padding: 25px 10px 15px 10px; margin-bottom: 40px;
+            border-bottom: 1px solid var(--border-color);
+            box-shadow: 0 10px 20px -10px rgba(0,0,0,0.1); 
+            transition: background-color 0.3s;
         }
+        
+        .tab-wrapper {
+            display: flex; flex-direction: column; align-items: center; gap: 8px; width: 85px; cursor: pointer;
+        }
+        .tab-wrapper:hover .tab { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(0,0,0,0.15); }
+        .tab-wrapper:hover .tab img { opacity: 1; }
+        .tab-wrapper:hover .tab-label { color: var(--text-main); }
+
+        .tab { 
+            background: var(--card-bg); 
+            width: 75px; height: 75px; 
+            border-radius: 50%; 
+            display: flex; align-items: center; justify-content: center; 
+            transition: all 0.2s ease-in-out; 
+            border: 1px solid var(--border-color);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            padding: 0; /* İÇ BOŞLUK SIFIRLANDI, LOGO EKRANI KAPLAYACAK */
+            overflow: hidden; /* TAŞAN KISIMLARI GİZLER */
+            box-sizing: border-box;
+            pointer-events: none; /* Tıklamayı alt yazıya da yaysın diye */
+        }
+        
+        .tab img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; transition: 0.3s; opacity: 0.85; }
+        
+        body.dark-theme .tab img { filter: drop-shadow(0px 0px 2px rgba(255,255,255,0.3)); opacity: 1; }
+        
+        .tab.active { 
+            border: 3px solid var(--accent);
+            box-shadow: 0 4px 15px rgba(0, 123, 255, 0.25); 
+            transform: translateY(-3px);
+        }
+        .tab.active img { opacity: 1; }
+
+        /* BUTON ALTI YAZILARI */
+        .tab-label {
+            font-size: 11px; font-weight: 800; color: var(--text-muted); 
+            text-align: center; letter-spacing: 0.5px; line-height: 1.2; transition: 0.2s;
+        }
+        .tab.active + .tab-label { color: var(--accent); }
 
         /* YENİ KART DÜZENİ */
         .news-container { display: none; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; max-width: 1250px; margin: 0 auto; }
         .news-container.active { display: grid; }
         
-        .news-card { 
-            background: var(--card-bg); 
-            border: 1px solid var(--border-color);
-            border-radius: 12px; 
-            overflow: hidden; 
-            transition: 0.2s; 
-            display: flex; 
-            flex-direction: column; 
-            height: 100%; 
-        }
+        .news-card { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; overflow: hidden; transition: 0.2s; display: flex; flex-direction: column; height: 100%; }
         .news-card:hover { border-color: var(--accent); box-shadow: 0 6px 16px rgba(0,0,0,0.1); }
-        
         .image-wrapper { width: 100%; height: 180px; background: #eee; overflow: hidden; border-bottom: 1px solid var(--border-color); }
         .news-image { width: 100%; height: 100%; object-fit: cover; }
         
-        .card-header-bar { 
-            display: flex; justify-content: space-between; align-items: center; 
-            padding: 12px 16px; border-bottom: 1px solid var(--border-color); background: var(--card-header-bg); 
-        }
+        .card-header-bar { display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; border-bottom: 1px solid var(--border-color); background: var(--card-header-bg); }
         .badge-group { display: flex; gap: 8px; align-items: center; }
         .badge { font-size: 11px; font-weight: 700; padding: 4px 8px; border-radius: 6px; letter-spacing: 0.3px; }
         .time-text { font-size: 11px; color: var(--text-muted); font-weight: 500; }
 
         .card-body { padding: 16px; flex-grow: 1; display: flex; flex-direction: column; }
-        
-        /* Haber (Ulusal/Yerel) Stilleri */
         .news-title { font-size: 15px; font-weight: 700; margin: 0 0 10px 0; color: var(--text-main); line-height: 1.4; }
         .news-summary { display: none; font-size: 14px; color: var(--text-main); margin-bottom: 10px; line-height: 1.5; background: var(--summary-bg); padding: 12px; border-radius: 6px; border-left: 3px solid var(--accent); }
         
-        /* Sosyal Medya Stilleri */
         .social-author { font-size: 14px; font-weight: 700; margin: 0 0 8px 0; display: flex; align-items: center; gap: 6px; }
         .social-content { font-size: 14px; color: var(--text-main); line-height: 1.5; white-space: pre-wrap; word-break: break-word; }
 
-        .card-footer { 
-            padding: 12px 16px; border-top: 1px solid var(--border-color); 
-            display: flex; justify-content: space-between; align-items: center; background: var(--card-bg); 
-        }
+        .card-footer { padding: 12px 16px; border-top: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; background: var(--card-bg); }
         .btn-summary { background: var(--btn-bg); border: none; color: var(--text-main); padding: 6px 12px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 12px; transition: 0.2s; }
         .btn-summary:hover { background: var(--btn-hover); }
         .read-more { font-size: 12px; font-weight: 700; text-decoration: none; display: flex; align-items: center; gap: 4px; margin-left: auto; }
         .read-more:hover { text-decoration: underline; }
 
-        /* PLATFORM ROZET RENKLERİ (Gündüz) */
+        /* PLATFORM ROZET RENKLERİ */
         .badge-keyword { background: #e3f2fd; color: #0d47a1; }
         .badge-x { background: #e7e9ea; color: #0f1419; }
         .badge-yt { background: #ffe5e5; color: #ff0000; }
@@ -178,7 +164,6 @@
         .badge-mastodon { background: #efeaff; color: #5c4bdf; }
         .badge-default { background: #f0f2f5; color: #6e767d; }
 
-        /* PLATFORM ROZET RENKLERİ (Gece - Karanlık Tema) */
         body.dark-theme .badge-keyword { background: rgba(13, 71, 161, 0.3); color: #64b5f6; }
         body.dark-theme .badge-x { background: #2f3336; color: #e7e9ea; }
         body.dark-theme .badge-yt { background: rgba(255, 0, 0, 0.15); color: #ff4d4d; }
@@ -188,9 +173,12 @@
         body.dark-theme .badge-default { background: #253341; color: #8b98a5; }
 
         @media (max-width: 600px) { 
-            .tab { width: 55px; height: 55px; padding: 10px; } 
+            .tab-wrapper { width: 70px; }
+            .tab { width: 60px; height: 60px; } 
+            .tab-label { font-size: 9px; }
             .logo-box { width: 100px; height: 100px; }
             .theme-toggle-floating { top: 15px; right: 15px; width: 40px; height: 40px; font-size: 18px; }
+            .tabs { gap: 10px; }
         }
     </style>
 </head>
@@ -216,10 +204,25 @@
         </div>
         
         <div class="tabs">
-            <button id="tab-GND" class="tab active" onclick="switchTab('GND')" title="Ulusal"><img src="ulusal.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/2983/2983803.png'"></button>
-            <button id="tab-YRL" class="tab" onclick="switchTab('YRL')" title="Yerel"><img src="yerel.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/1141/1141974.png'"></button>
-            <button id="tab-TKP" class="tab" onclick="switchTab('TKP')" title="Takip"><img src="anahtar.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/2550/2550260.png'"></button>
-            <button id="tab-SOC" class="tab" onclick="switchTab('SOC')" title="Sosyal"><img src="sosyal.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/1968/1968641.png'"></button>
+            <div class="tab-wrapper" onclick="switchTab('GND')">
+                <button id="tab-GND" class="tab active" title="Ulusal"><img src="ulusal.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/2983/2983803.png'"></button>
+                <span class="tab-label">ULUSAL</span>
+            </div>
+            
+            <div class="tab-wrapper" onclick="switchTab('YRL')">
+                <button id="tab-YRL" class="tab" title="Yerel"><img src="yerel.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/1141/1141974.png'"></button>
+                <span class="tab-label">YEREL</span>
+            </div>
+            
+            <div class="tab-wrapper" onclick="switchTab('TKP')">
+                <button id="tab-TKP" class="tab" title="Takip"><img src="anahtar.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/2550/2550260.png'"></button>
+                <span class="tab-label">ANAHTAR KELİME</span>
+            </div>
+            
+            <div class="tab-wrapper" onclick="switchTab('SOC')">
+                <button id="tab-SOC" class="tab" title="Sosyal"><img src="sosyal.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/1968/1968641.png'"></button>
+                <span class="tab-label">SOSYAL MEDYA</span>
+            </div>
         </div>
 
         <div id="news-GND" class="news-container active"></div>
@@ -229,7 +232,7 @@
     </div>
 
     <script>
-        // TEMA YÖNETİMİ (Hafızalı)
+        // TEMA YÖNETİMİ
         function toggleTheme() {
             document.body.classList.toggle('dark-theme');
             const isDark = document.body.classList.contains('dark-theme');
@@ -237,7 +240,6 @@
             document.getElementById('theme-toggle').innerText = isDark ? '☀️' : '🌙';
         }
 
-        // Sayfa Yüklendiğinde Temayı Hatırla
         const savedTheme = localStorage.getItem('haber_temasi');
         if (savedTheme === 'dark') {
             document.body.classList.add('dark-theme');
@@ -291,7 +293,6 @@
                     const container = document.getElementById(`news-${n.type}`);
                     if (!container) return;
                     
-                    // Akıllı Rozet Sınıfları
                     let badgeClass = "badge-default";
                     let linkColor = "var(--accent)";
                     
@@ -308,16 +309,13 @@
                     let cardBody = '';
                     let actionBtn = '';
 
-                    // 🚀 SOSYAL MEDYA KARTI TASARIMI
                     if (n.type === 'SOC') {
                         cardBody = `
                             <div class="social-author" style="color:${linkColor};">${n.title}</div>
                             <div class="social-content">${n.summary}</div>
                         `;
                         actionBtn = `<a href="${n.link}" target="_blank" class="read-more" style="color:${linkColor};">GÖRÜNTÜLE →</a>`;
-                    } 
-                    // 📰 NORMAL HABER KARTI TASARIMI
-                    else {
+                    } else {
                         cardBody = `
                             <h3 class="news-title">${n.title}</h3>
                             <div id="sum-${n.id}" class="news-summary">${n.summary}</div>
