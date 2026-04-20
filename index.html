@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trabzon Haber Terminali</title>
     <style>
+        /* ☀️ GÜNDÜZ (LİGHT) TEMA DEĞİŞKENLERİ */
         :root { 
             --bg: #f4f6f8; 
             --card-bg: #ffffff; 
@@ -12,13 +13,33 @@
             --text-muted: #6e767d; 
             --accent: #007bff;
             --border-color: #eaedf0;
+            --frosted-bg: rgba(244, 246, 248, 0.85);
+            --card-header-bg: #fafbfc;
+            --summary-bg: #f8f9fa;
+            --btn-bg: #f0f2f5;
+            --btn-hover: #e4e6eb;
         }
-        body { background: var(--bg); color: var(--text-main); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 20px; }
+
+        /* 🌙 GECE (DARK) TEMA DEĞİŞKENLERİ */
+        body.dark-theme {
+            --bg: #15202b; 
+            --card-bg: #1e2732; 
+            --text-main: #f5f8fa; 
+            --text-muted: #8b98a5; 
+            --border-color: #38444d;
+            --frosted-bg: rgba(21, 32, 43, 0.85);
+            --card-header-bg: #1e2732;
+            --summary-bg: #253341;
+            --btn-bg: #253341;
+            --btn-hover: #38444d;
+        }
+
+        body { background: var(--bg); color: var(--text-main); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 20px; transition: background-color 0.3s, color 0.3s; }
         
         /* Giriş Paneli */
         #login-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: var(--bg); display: flex; align-items: center; justify-content: center; z-index: 10000; }
-        .login-card { background: white; padding: 40px; border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.06); text-align: center; width: 320px; }
-        .login-card input { width: 100%; padding: 12px; margin: 20px 0; border: 1px solid #ddd; border-radius: 8px; font-size: 16px; outline: none; box-sizing: border-box; }
+        .login-card { background: var(--card-bg); color: var(--text-main); padding: 40px; border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.2); text-align: center; width: 320px; border: 1px solid var(--border-color); }
+        .login-card input { width: 100%; padding: 12px; margin: 20px 0; border: 1px solid var(--border-color); background: var(--bg); color: var(--text-main); border-radius: 8px; font-size: 16px; outline: none; box-sizing: border-box; }
         .login-card button { width: 100%; padding: 12px; background: var(--accent); color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; transition: 0.2s; }
         .login-card button:hover { background: #0056b3; }
 
@@ -29,49 +50,61 @@
         .logo-box { 
             background: white; 
             border-radius: 50%; 
-            box-shadow: 0 8px 25px rgba(0,0,0,0.10); 
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15); 
             width: 120px; height: 120px; 
             display: flex; align-items: center; justify-content: center;
             overflow: hidden; 
-            border: 3px solid white;
+            border: 3px solid var(--accent);
         }
         .logo-box img { width: 100%; height: 100%; object-fit: cover; }
 
         /* SEKME TASARIMI (YAPIŞKAN BUZLU CAM EFEKTİ) */
         .tabs { 
             display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; 
-            position: sticky; /* Ekranın neresinde olursa olsun yapışır */
-            top: -20px; /* Body boşluğunu telafi et */
-            z-index: 1000; /* Bütün haberlerin üzerinde kalmasını sağlar */
-            background: rgba(244, 246, 248, 0.85); /* Hafif şeffaf arka plan */
-            backdrop-filter: blur(12px); /* Altından geçen haberleri buğulu yapar (Ajan Camı) */
+            position: sticky; 
+            top: -20px; 
+            z-index: 1000; 
+            background: var(--frosted-bg); 
+            backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
             padding: 25px 10px 15px 10px; 
             margin-bottom: 40px;
-            border-bottom: 1px solid rgba(0,0,0,0.05);
-            box-shadow: 0 10px 20px -10px rgba(0,0,0,0.05); /* Yere yapıştığında gölge oluşturur */
+            border-bottom: 1px solid var(--border-color);
+            box-shadow: 0 10px 20px -10px rgba(0,0,0,0.1); 
+            transition: background-color 0.3s;
         }
         .tab { 
-            background: white; 
+            background: var(--card-bg); 
             width: 75px; height: 75px; 
             border-radius: 50%; 
             cursor: pointer; 
             display: flex; align-items: center; justify-content: center; 
             transition: all 0.2s ease-in-out; 
             border: 1px solid var(--border-color);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
             padding: 12px;
             box-sizing: border-box;
         }
-        .tab img { width: 100%; height: 100%; object-fit: contain; transition: 0.3s; opacity: 0.7; }
-        .tab:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(0,0,0,0.08); }
-        .tab:hover img { opacity: 1; }
+        .tab img { width: 100%; height: 100%; object-fit: contain; transition: 0.3s; opacity: 0.8; }
+        
+        /* Gündüz modunda logolar siyah/orijinal, Gece modunda logolar parlaklaşır */
+        body.dark-theme .tab img { filter: drop-shadow(0px 0px 2px rgba(255,255,255,0.5)); opacity: 1; }
+        
+        .tab:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(0,0,0,0.15); }
         .tab.active { 
             background: var(--card-bg); 
             border: 2px solid var(--accent);
-            box-shadow: 0 4px 15px rgba(0, 123, 255, 0.15); 
+            box-shadow: 0 4px 15px rgba(0, 123, 255, 0.25); 
             transform: translateY(-3px);
         }
         .tab.active img { opacity: 1; }
+
+        /* TEMA DEĞİŞTİRME BUTONU (Menüye Entegre) */
+        .theme-btn {
+            font-size: 28px;
+            padding: 0;
+            background: var(--card-bg);
+            color: var(--text-main);
+        }
 
         /* YENİ KART DÜZENİ */
         .news-container { display: none; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; max-width: 1250px; margin: 0 auto; }
@@ -87,25 +120,24 @@
             flex-direction: column; 
             height: 100%; 
         }
-        .news-card:hover { border-color: #d0d7de; box-shadow: 0 6px 16px rgba(0,0,0,0.06); }
+        .news-card:hover { border-color: var(--accent); box-shadow: 0 6px 16px rgba(0,0,0,0.1); }
         
         .image-wrapper { width: 100%; height: 180px; background: #eee; overflow: hidden; border-bottom: 1px solid var(--border-color); }
         .news-image { width: 100%; height: 100%; object-fit: cover; }
         
         .card-header-bar { 
             display: flex; justify-content: space-between; align-items: center; 
-            padding: 12px 16px; border-bottom: 1px solid var(--border-color); background: #fafbfc; 
+            padding: 12px 16px; border-bottom: 1px solid var(--border-color); background: var(--card-header-bg); 
         }
         .badge-group { display: flex; gap: 8px; align-items: center; }
         .badge { font-size: 11px; font-weight: 700; padding: 4px 8px; border-radius: 6px; letter-spacing: 0.3px; }
-        .badge-keyword { background: #e3f2fd; color: #0d47a1; }
         .time-text { font-size: 11px; color: var(--text-muted); font-weight: 500; }
 
         .card-body { padding: 16px; flex-grow: 1; display: flex; flex-direction: column; }
         
         /* Haber (Ulusal/Yerel) Stilleri */
         .news-title { font-size: 15px; font-weight: 700; margin: 0 0 10px 0; color: var(--text-main); line-height: 1.4; }
-        .news-summary { display: none; font-size: 14px; color: #444; margin-bottom: 10px; line-height: 1.5; background: #f8f9fa; padding: 12px; border-radius: 6px; border-left: 3px solid var(--text-muted); }
+        .news-summary { display: none; font-size: 14px; color: var(--text-main); margin-bottom: 10px; line-height: 1.5; background: var(--summary-bg); padding: 12px; border-radius: 6px; border-left: 3px solid var(--accent); }
         
         /* Sosyal Medya Stilleri */
         .social-author { font-size: 14px; font-weight: 700; margin: 0 0 8px 0; display: flex; align-items: center; gap: 6px; }
@@ -113,14 +145,32 @@
 
         .card-footer { 
             padding: 12px 16px; border-top: 1px solid var(--border-color); 
-            display: flex; justify-content: space-between; align-items: center; background: #fff; 
+            display: flex; justify-content: space-between; align-items: center; background: var(--card-bg); 
         }
-        .btn-summary { background: #f0f2f5; border: none; color: #333; padding: 6px 12px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 12px; transition: 0.2s; }
-        .btn-summary:hover { background: #e4e6eb; }
+        .btn-summary { background: var(--btn-bg); border: none; color: var(--text-main); padding: 6px 12px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 12px; transition: 0.2s; }
+        .btn-summary:hover { background: var(--btn-hover); }
         .read-more { font-size: 12px; font-weight: 700; text-decoration: none; display: flex; align-items: center; gap: 4px; margin-left: auto; }
         .read-more:hover { text-decoration: underline; }
 
-        @media (max-width: 600px) { .tab { width: 60px; height: 60px; padding: 10px; } .logo-box { width: 100px; height: 100px; } }
+        /* PLATFORM ROZET RENKLERİ (Gündüz) */
+        .badge-keyword { background: #e3f2fd; color: #0d47a1; }
+        .badge-x { background: #e7e9ea; color: #0f1419; }
+        .badge-yt { background: #ffe5e5; color: #ff0000; }
+        .badge-bsky { background: #e5f3ff; color: #0085ff; }
+        .badge-reddit { background: #ffece5; color: #ff4500; }
+        .badge-mastodon { background: #efeaff; color: #5c4bdf; }
+        .badge-default { background: #f0f2f5; color: #6e767d; }
+
+        /* PLATFORM ROZET RENKLERİ (Gece - Karanlık Tema) */
+        body.dark-theme .badge-keyword { background: rgba(13, 71, 161, 0.3); color: #64b5f6; }
+        body.dark-theme .badge-x { background: #2f3336; color: #e7e9ea; }
+        body.dark-theme .badge-yt { background: rgba(255, 0, 0, 0.15); color: #ff4d4d; }
+        body.dark-theme .badge-bsky { background: rgba(0, 133, 255, 0.15); color: #4da3ff; }
+        body.dark-theme .badge-reddit { background: rgba(255, 69, 0, 0.15); color: #ff7043; }
+        body.dark-theme .badge-mastodon { background: rgba(92, 75, 223, 0.15); color: #8e7dff; }
+        body.dark-theme .badge-default { background: #253341; color: #8b98a5; }
+
+        @media (max-width: 600px) { .tab { width: 55px; height: 55px; padding: 10px; } .logo-box { width: 100px; height: 100px; } .theme-btn { font-size: 20px; } }
     </style>
 </head>
 <body>
@@ -131,7 +181,7 @@
             <h2 style="margin-top:0;">Giriş</h2>
             <input type="password" id="pass-input" placeholder="Şifre..." onkeypress="if(event.key==='Enter') checkPass()">
             <button onclick="checkPass()">BAĞLAN</button>
-            <p id="error-msg" style="color: #dc3545; font-size: 13px; margin-top: 12px; display: none; font-weight:bold;">Hatalı Şifre!</p>
+            <p id="error-msg" style="display: none;">Hatalı Şifre!</p>
         </div>
     </div>
 
@@ -147,6 +197,7 @@
             <button id="tab-YRL" class="tab" onclick="switchTab('YRL')" title="Yerel"><img src="yerel.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/1141/1141974.png'"></button>
             <button id="tab-TKP" class="tab" onclick="switchTab('TKP')" title="Takip"><img src="anahtar.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/2550/2550260.png'"></button>
             <button id="tab-SOC" class="tab" onclick="switchTab('SOC')" title="Sosyal"><img src="sosyal.png" onerror="this.src='https://cdn-icons-png.flaticon.com/512/1968/1968641.png'"></button>
+            <button id="theme-toggle" class="tab theme-btn" onclick="toggleTheme()" title="Gece/Gündüz Modu">🌙</button>
         </div>
 
         <div id="news-GND" class="news-container active"></div>
@@ -156,6 +207,21 @@
     </div>
 
     <script>
+        // TEMA YÖNETİMİ (Hafızalı)
+        function toggleTheme() {
+            document.body.classList.toggle('dark-theme');
+            const isDark = document.body.classList.contains('dark-theme');
+            localStorage.setItem('haber_temasi', isDark ? 'dark' : 'light');
+            document.getElementById('theme-toggle').innerText = isDark ? '☀️' : '🌙';
+        }
+
+        // Sayfa Yüklendiğinde Temayı Hatırla
+        const savedTheme = localStorage.getItem('haber_temasi');
+        if (savedTheme === 'dark') {
+            document.body.classList.add('dark-theme');
+            document.getElementById('theme-toggle').innerText = '☀️';
+        }
+
         async function checkPass() {
             const input = document.getElementById('pass-input').value.trim();
             const msgBuffer = new TextEncoder().encode(input);
@@ -188,7 +254,6 @@
             document.getElementById('tab-' + botType).classList.add('active');
             document.querySelectorAll('.news-container').forEach(c => c.classList.remove('active'));
             document.getElementById('news-' + botType).classList.add('active');
-            // Sekme değiştiğinde sayfayı yukarı kaydır (opsiyonel ama şık durur)
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
@@ -204,17 +269,18 @@
                     const container = document.getElementById(`news-${n.type}`);
                     if (!container) return;
                     
-                    // Akıllı Renk Seçici (Platforma Göre)
-                    let brandColor = "#6e767d"; // Varsayılan Gri
-                    let brandBg = "#f4f6f8";
-                    if (n.source.includes("X (Twitter)")) { brandColor = "#0f1419"; brandBg = "#e7e9ea"; }
-                    else if (n.source.includes("YouTube")) { brandColor = "#ff0000"; brandBg = "#ffe5e5"; }
-                    else if (n.source.includes("Bluesky")) { brandColor = "#0085ff"; brandBg = "#e5f3ff"; }
-                    else if (n.source.includes("Reddit")) { brandColor = "#ff4500"; brandBg = "#ffece5"; }
-                    else if (n.source.includes("Mastodon")) { brandColor = "#5c4bdf"; brandBg = "#efeaff"; }
+                    // Akıllı Rozet Sınıfları
+                    let badgeClass = "badge-default";
+                    let linkColor = "var(--accent)";
+                    
+                    if (n.source.includes("X (Twitter)")) { badgeClass = "badge-x"; linkColor = "#1da1f2"; }
+                    else if (n.source.includes("YouTube")) { badgeClass = "badge-yt"; linkColor = "#ff0000"; }
+                    else if (n.source.includes("Bluesky")) { badgeClass = "badge-bsky"; linkColor = "#0085ff"; }
+                    else if (n.source.includes("Reddit")) { badgeClass = "badge-reddit"; linkColor = "#ff4500"; }
+                    else if (n.source.includes("Mastodon")) { badgeClass = "badge-mastodon"; linkColor = "#5c4bdf"; }
 
                     const keywordBadge = n.keyword ? `<span class="badge badge-keyword">#${n.keyword.toUpperCase()}</span>` : '';
-                    const sourceBadge = `<span class="badge" style="background:${brandBg}; color:${brandColor};">${n.source}</span>`;
+                    const sourceBadge = `<span class="badge ${badgeClass}">${n.source}</span>`;
                     const mediaHtml = n.image ? `<div class="image-wrapper"><img src="${n.image}" class="news-image" loading="lazy"></div>` : '';
 
                     let cardBody = '';
@@ -223,10 +289,10 @@
                     // 🚀 SOSYAL MEDYA KARTI TASARIMI
                     if (n.type === 'SOC') {
                         cardBody = `
-                            <div class="social-author" style="color:${brandColor};">${n.title}</div>
+                            <div class="social-author" style="color:${linkColor};">${n.title}</div>
                             <div class="social-content">${n.summary}</div>
                         `;
-                        actionBtn = `<a href="${n.link}" target="_blank" class="read-more" style="color:${brandColor};">GÖRÜNTÜLE →</a>`;
+                        actionBtn = `<a href="${n.link}" target="_blank" class="read-more" style="color:${linkColor};">GÖRÜNTÜLE →</a>`;
                     } 
                     // 📰 NORMAL HABER KARTI TASARIMI
                     else {
@@ -236,7 +302,7 @@
                         `;
                         actionBtn = `
                             <button class="btn-summary" onclick="toggleSummary('${n.id}')">📰 Özeti Göster</button>
-                            <a href="${n.link}" target="_blank" class="read-more" style="color:var(--accent);">KAYNAĞA GİT →</a>
+                            <a href="${n.link}" target="_blank" class="read-more" style="color:${linkColor};">KAYNAĞA GİT →</a>
                         `;
                     }
 
