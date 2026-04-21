@@ -1,5 +1,53 @@
 [
   {
+    "id": "SOC_7f644d50",
+    "title": "🗣️ Dursun Çağlayan (@DursunCaglayan)",
+    "source": "X (Twitter)",
+    "time": "21/04/2026 04:34",
+    "link": "https://x.com/DursunCaglayan_/status/2046227094900752636",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Genel Başkanımız Sayın Mustafa Destici ile birlikte, Trabzon Valimiz Sayın Tahir Şahin’i makamında ziyaret ettik.\n\nNazik kabulleri ve misafirperverlikleri dolayısıyla Sayın Valimize teşekkür ediyoruz.\n@MustafaDestici\n \n@bbpgenelmerkez\n \n@bbphabermerkezi\n \n@istanbulbld",
+    "image": "https://pbs.twimg.com/media/HGWosJKbcAI_IZI?format=jpg&name=360x360",
+    "keyword": "TRABZON #ZIYARET"
+  },
+  {
+    "id": "SOC_c941a651",
+    "title": "🗣️ KdrTryk (@kadircvdrr)",
+    "source": "X (Twitter)",
+    "time": "21/04/2026 04:34",
+    "link": "https://x.com/kadircvdrr/status/2046376183047110707",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Aq bize atacağına \n@EmniyetGM\n at",
+    "image": null,
+    "keyword": "@EMNIYETGM"
+  },
+  {
+    "id": "SOC_0b231995",
+    "title": "🗣️ pıtırcık (@baharkocak18472)",
+    "source": "X (Twitter)",
+    "time": "21/04/2026 04:34",
+    "link": "https://x.com/baharkocak18472/status/2046376425498808663",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "@EmniyetGM\n ",
+    "image": null,
+    "keyword": "@EMNIYETGM"
+  },
+  {
+    "id": "SOC_ae066b29",
+    "title": "🗣️ Salih süleymanoğlu (@saliherenilyas)",
+    "source": "X (Twitter)",
+    "time": "21/04/2026 04:34",
+    "link": "https://x.com/saliherenilyas/status/2046376450362609696",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "@ahmetmgenc\n @TrabzonBelTr\n çokmu maliyetli bütçe çalışmasımı lazım bu altgeçitin adam gibi bir hale gelmesi için sizde hiç vicdan yokmu ?",
+    "image": null,
+    "keyword": "@TRABZONBELTR"
+  },
+  {
     "id": "GND_881c0556",
     "title": "Meclis’te ‘yoklama krizi’: AKP’li vekiller gelmeyince Genel Kurul kilitleniyor",
     "source": "Cumhuriyet",
@@ -4750,53 +4798,5 @@
     "summary": "İsrail’in Gazze'ye yönelik saldırılarından geriye kalan patlamamış mühimmatın infilak etmesi sonucu ağır yaralanarak, görme yetisini ve sol elinin parmaklarını kaybeden Filistinli çocuk Muhammed Avde, çocukluğunu doyasıya yaşayamadığını söyledi.",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "GND_b75506f9",
-    "title": "Gaziantep FK sahasından 3 puanla ayrıldı",
-    "source": "Anadolu Ajansı",
-    "time": "20/04/2026 22:24",
-    "link": "https://www.aa.com.tr/tr/spor/-gaziantep-fk-sahasindan-3-puanla-ayrildi/3912630",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig'in 30. hafta kapanış mücadelesinde Gaziantep FK, konuk ettiği Zecorner Kayserispor'u 3-0 mağlup etti..",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_f868ca4d",
-    "title": "Trendyol Süper Lig'de görünüm",
-    "source": "Anadolu Ajansı",
-    "time": "20/04/2026 22:24",
-    "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-gorunum/3912688",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şampiyonluk yolundaki rakipleri Fenerbahçe ve Trabzonspor'un puan kaybettiği haftayı 3 puanla kapatan Galatasaray, kalan 4 haftaya avantajlı girdi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_64be8a25",
-    "title": "Draguş onun yanına gidecekti, o Draguş'un ayağına geldi... Gaziantep'te yeni dönem!",
-    "source": "Kuzey Ekspres",
-    "time": "20/04/2026 22:05",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27846391/dragus-onun-yanina-gidecekti-o-dragusun-ayagina-geldi-gaziantepte-yeni-donem",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Burak Yılmaz sonrası hoca arayışlarını sürdüren Gaziantep FK&#039;nın, Romanyalı teknik adam Mirel Rădoi ile el sıkıştığı belirtildi. Rădoi&#039;nin gelişiyle, Trabzonsporlu Denis Draguş&#039;un transfer hikayesi de tersine döndü",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/20/large/radoi-dragus.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_1d161216",
-    "title": "Son saniyede gelen gole rağmen konuşan kaptan, Trabzonspor’un geleceği için umut dağıttı",
-    "source": "Taka Gazetesi",
-    "time": "20/04/2026 22:05",
-    "link": "https://www.takagazete.com.tr/son-saniyede-gelen-gole-ragmen-konusan-kaptan-trabzonsporun-gelecegi-icin-umut-dagitti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’da Başakşehir karşısında son dakikalarda gelen golün ardından büyük üzüntü yaşanırken, takım kaptanı Stefan Savic mücadele sonrası dikkat çeken açıklamalarda bulundu. Deneyimli savunmacı, karşılaşma boyunca ortaya koydukları performansla galibiyeti hak ettiklerini vurguladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/s-a-v-i-c-k-a-p-t-a-n.jpg",
-    "keyword": "TRABZON"
   }
 ]
