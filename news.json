@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_7b2add4c",
+    "title": "🗣️ Hekimer (@Hekimer1)",
+    "source": "X (Twitter)",
+    "time": "23/04/2026 07:34",
+    "link": "https://x.com/Hekimer1/status/2047164991619379292",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "📷 [Sadece Medya Paylaşımı]",
+    "image": "https://pbs.twimg.com/media/HGj9thnWgAAeL0X?format=jpg&name=small",
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "GND_81f2ed89",
     "title": "Dolar/TL bugün ne kadar? (23 Nisan 2026 Dolar - Euro fiyatları)",
     "source": "Ekonomim",
@@ -4784,18 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Beyaz Saray Sözcüsü Karoline Leavitt, ABD Başkanı Donald Trump'ın anlaşma önerisi konusunda İran'a birkaç gün süre verdiği yönündeki iddiaların doğru olmadığını belirterek, \"Başkan, bugün gördüğüm bazı haberlerin aksine İrandan bir öneri alınması için kesin bir son tarih belirlememiştir; bu husus, ABD Başkanı tarafından belirlenecektir.\" dedi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_f8be1402",
-    "title": "Ataşehir Belediye Başkanı Adıgüzel, görevden uzaklaştırıldı",
-    "source": "TRT Haber",
-    "time": "22/04/2026 23:44",
-    "link": "https://www.trthaber.com/haber/gundem/atasehir-belediye-baskani-adiguzel-gorevden-uzaklastirildi-942678.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ataşehir Belediye Başkanı Onursal Adıgüzel, \"suç işlemek amacıyla örgüt kurma ve rüşvet almak\" suçları nedeniyle yürütülen soruşturma kapsamında tutuklanması üzerine İçişleri Bakanlığı'nca görevden uzaklaştırıldı.",
     "image": null,
     "keyword": ""
   }
