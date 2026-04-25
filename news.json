@@ -1,5 +1,77 @@
 [
   {
+    "id": "SOC_0b441b57",
+    "title": "🗣️ HAKAN (@hakanncatal)",
+    "source": "X (Twitter)",
+    "time": "25/04/2026 22:49",
+    "link": "https://x.com/hakanncatal/status/2048125215310336216",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Muhtemelen 12/36 yine amir insiyatifine bırakılacak. Yine birşeyler vermiş gibi yapacaklar ama hiç bişey vermeyecekler...",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_11fc6c14",
+    "title": "🗣️ back too (@backtoo6)",
+    "source": "X (Twitter)",
+    "time": "25/04/2026 22:49",
+    "link": "https://x.com/backtoo6/status/2048125356792492225",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Polisin fazla çalıştığı her bir saniye haram olsun. Hakkımızı helal etmiyoruz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_8b25331e",
+    "title": "🗣️ Sinek Valesi (@denizamaodegil)",
+    "source": "X (Twitter)",
+    "time": "25/04/2026 22:49",
+    "link": "https://x.com/denizamaodegil/status/2048125649575907794",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "@EmniyetGM\n @TrafikEgm\n bu haber doğruysa tek kuruşum nasip olduysa size haram olsun. Yazık bu millete",
+    "image": null,
+    "keyword": "@EMNIYETGM"
+  },
+  {
+    "id": "SOC_b2784ac3",
+    "title": "🗣️ Kızılelma (@Ozilifb)",
+    "source": "X (Twitter)",
+    "time": "25/04/2026 22:49",
+    "link": "https://x.com/Ozilifb/status/2048125664948076866",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Gerzekalı Ne zoruna  gitti ake ?",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_ae39e922",
+    "title": "🗣️ @herald.goalbot.dev",
+    "source": "Bluesky",
+    "time": "25/04/2026 22:49",
+    "link": "https://bsky.app/profile/herald.goalbot.dev/post/3mkd2rvf3jo2v",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "GOAL! 37' — 1461 Trabzon FK. 1461 Trabzon FK 4–2 Menemen FK. 2. Lig\n\n#1461trabzonfk #menemenfk",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "TKP_b416e268",
+    "title": "GS kongreleri yine bildiğiniz gibi… Uğurcan üzerinden Trabzonspor muhasebesi yapmaya kalktılar, iyice ayarları bozuldu!",
+    "source": "61 Saat",
+    "time": "25/04/2026 22:42",
+    "link": "https://www.61saat.com/gs-kongreleri-yine-bildiginiz-gibi-ugurcan-uzerinden-trabzonspor-muhasebesi-yapmaya-kalktilar-iyice-ayarlari-bozuldu",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Galatasaray cephesinden Uğurcan Çakır transferiyle ilgili akla ve mantığa yatmayan açıklamalar gelmeye devam ediyor.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/gs-4.png",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "YRL_18e5c0e9",
     "title": "Trabzon’da Silahlı Kavga: İki Kardeş Yaralandı",
     "source": "Kuzey Ekspres",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "ABD ve İsrail'in 28 Şubat tarihinde İran'a başlattığı hava saldırılarıyla birlikte askıya alınan İstanbul Havalimanı kalkışlı ve varışlı İran uçuşları, 56 günlük aranın ardından yeniden başlatıldı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/04/25/istanbul-havalimaninda-iran-ucuslari-yeniden-basladi-xuco.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0df8357e",
-    "title": "Fırat Nehri'ne düşen kampçı için arama çalışması başlatıldı",
-    "source": "Haber Global",
-    "time": "25/04/2026 18:01",
-    "link": "https://haberglobal.com/gundem/firat-nehrine-dusen-kampci-icin-arama-calismasi-baslatildi-520880",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır'ın Çüngüş ilçesinde kamp yapan kişi, unuttuğu eşyasını almak için botla Fırat Nehri’ne açıldıktan sonra dengesini kaybedip suya düştü. Kaybolan kampçı için arama çalışması başlatıldı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/25/firat-nehrine-dusen-kampci-icin-arama-calismasi-baslatildi-n792.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_56bc0d1b",
-    "title": "İçişleri Bakanı Çiftçi: Kimsenin gözünün yaşına bakmayacağız",
-    "source": "Haber Global",
-    "time": "25/04/2026 18:01",
-    "link": "https://haberglobal.com/gundem/icisleri-bakani-ciftci-kimsenin-gozunun-yasina-bakmayacagiz-520881",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanı Mustafa Çiftçi, Gülistan Doku ve faili meçhul cinayetlere ilişkin \"Kimsenin gözünün yaşına bakılmadan adalete teslim edilecek\" dedi. Okul saldırılarından sonra yalnızca sahadaki güvenlik boyutuna odaklanmadıklarını sözlerine ekleyen Çiftçi, \"Dijital mecralarda suçu öven, saldırganlığı özendiren, korku ve infial oluşturmaya çalışan, toplumu provoke eden içeriklere karşı da hızlı ve çok yönlü bir mücadele başlattık\" ifadelerini kullandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/25/icisleri-bakani-ciftci-kimsenin-gozunun-yasina-bakmayacagiz-3mj1.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_a5b7e9a0",
-    "title": "Avrupa’nın en aktif yanardağı Etna’da şaşırtan keşif: Alışılmışın dışında çalışıyor",
-    "source": "Haber Global",
-    "time": "25/04/2026 18:01",
-    "link": "https://haberglobal.com/dunya/avrupanin-en-aktif-yanardagi-etnada-sasirtan-kesif-alisilmisin-disinda-calisiyor-520882",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa’nın en aktif volkanı Etna Yanardağı, alışılmışın dışında bir magma sistemiyle çalışıyor; 500 bin yıldır değişmeyen yapısı ve derinlerden gelen lav mekanizması bilim dünyasını şaşkına çevirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/25/avrupanin-en-aktif-yanardagi-etnada-sasirtan-kesif-alisilmisin-disinda-calisiyor-qyhf.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_9036cb4d",
-    "title": "CANLI YAYIN | Manchester City Southampton Maçı",
-    "source": "Haber Global",
-    "time": "25/04/2026 18:01",
-    "link": "https://haberglobal.com/kesfet/canli-yayin-manchester-city-southampton-maci-tabii-spor-canli-izle-520862",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere FA Cup maçında heyecan! Manchester City ile Southampton karşı karşıya gelecek. Mücadele öncesinde merak edilen konular arasında maçın yayın saati, kanalı da yer alıyor...",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/04/25/canli-yayin-manchester-city-southampton-maci-tabii-spor-canli-izle-ofi3.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e8eae486",
-    "title": "Kurban satış ve kesim yerlerinde yönelik tedbirler artırıldı",
-    "source": "TRT Haber",
-    "time": "25/04/2026 18:01",
-    "link": "https://www.trthaber.com/haber/ekonomi/kurban-satis-ve-kesim-yerlerinde-yonelik-tedbirler-artirildi-942974.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tarım ve Orman Bakanlığı, Kurban Bayramı öncesinde hayvan hareketlerinde yaşanacak artışın neden olabileceği bulaşıcı ve salgın hastalıkların engellenmesi amacıyla kurban satış ve kesim yerlerinde önlemler aldı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_31e65352",
-    "title": "Üzüm bağları dolu tülü ile korumaya alındı",
-    "source": "TRT Haber",
-    "time": "25/04/2026 18:01",
-    "link": "https://www.trthaber.com/haber/turkiye/uzum-baglari-dolu-tulu-ile-korumaya-alindi-942975.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'nin önemli üzüm üretim merkezlerinden Manisa'nın Sarıgöl ilçesindeki üreticiler, bağlarını dolu, don ve aşırı sıcak gibi olumsuz hava koşullarına karşı \"dolu tülü\" sistemiyle koruyor.",
-    "image": null,
     "keyword": ""
   }
 ]
