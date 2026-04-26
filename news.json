@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_8102c22b",
+    "title": "Taraftar otobüsün üzerinde yolculuk yaptı",
+    "source": "OdaTV",
+    "time": "27/04/2026 02:21",
+    "link": "https://www.odatv.com/guncel/taraftar-otobusun-uzerinde-yolculuk-yapti-120144810",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galibiyet kutlamalarında Galatasaylı taraftar otobüsün üzerinde yolculuk yaptı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/27/taraftar-otobusun-uzerinde-yolculuk-yapti-uzm2.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2dfeec0a",
+    "title": "Öğrencileri taciz ediyordu: Yakalandı",
+    "source": "OdaTV",
+    "time": "27/04/2026 02:21",
+    "link": "https://www.odatv.com/guncel/ogrencileri-taciz-ediyordu-yakalandi-120144811",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Sarıyer’de farklı zamanlarda sokakta yürüyen üniversite öğrencisi 2 genç kız, iddiaya göre motosikletli bir kişinin fiziksel tacizine uğradı. Olayın ardından polis ekipleri tarafından yakalanan her iki olayın şüphelisi, &quot;Alkolün etkisiyle şeytana uydum&quot; dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/27/ogrencileri-taciz-ediyordu-yakalandi-nxjx.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_58f0240a",
+    "title": "Bebeğini öldürdü iddiası: Anne tutuklandı",
+    "source": "OdaTV",
+    "time": "27/04/2026 02:21",
+    "link": "https://www.odatv.com/guncel/bebegini-oldurdu-iddiasi-anne-tutuklandi-120144812",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bolu’nun Gerede ilçesinde 2 aylık kızını boğazını keserek öldürdüğü iddiasıyla gözaltına alınan anne, sevk edildiği nöbetçi mahkemece tutuklandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/27/bebegini-oldurdu-iddiasi-anne-tutuklandi-ueno.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_921f0590",
+    "title": "İsrail’de iki eski başbakan Netanyahu’ya karşı ittifak kurdu",
+    "source": "Ekonomim",
+    "time": "27/04/2026 02:21",
+    "link": "https://www.ekonomim.com/dunya/israilde-iki-eski-basbakan-netanyahuya-karsi-ittifak-kurdu-haberi-890498",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail’in eski başbakanları Naftali Bennett ve Yair Lapid, Binyamin Netanyahu’ya karşı partilerini birleştirme konusunda anlaştı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/26/israilde-iki-eski-basbakan-netanyahuya-karsi-ittifak-kurdu-6twd_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_db29d9c6",
+    "title": "Victor Osimhen: Bu maçta antrenmanlardakinden daha az yorulduk",
+    "source": "Ekonomim",
+    "time": "27/04/2026 02:21",
+    "link": "https://www.ekonomim.com/spor/victor-osimhen-bu-macta-antrenmanlardakinden-daha-az-yorulduk-haberi-890499",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray&#039;ın Nijeryalı futbolcusu Victor Osimhen, 3-0 kazandıkları Fenerbahçe derbisinin ardından yaptığı açıklamada, &quot;Tabii ki rakibimize saygım var ama gerçekten antrenmanlardakinden daha az yorulduk bu maçta&quot; dedi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/27/victor-osimhen-bu-macta-antrenmanlardakinden-daha-az-yorulduk-lh9k_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_aee64a10",
+    "title": "Yasin Kol'a sinirlenen Ederson özür diledi",
+    "source": "Haber Global",
+    "time": "27/04/2026 02:21",
+    "link": "https://haberglobal.com/spor/yasin-kola-sinirlenen-ederson-ozur-diledi-521058",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe'nin Brezilyalı kalecisi Ederson, derbi sonrası davranışlarından dolayı taraftardan özür diledi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/04/27/yasin-kola-sinirlenen-ederson-ozur-diledi-vzxi.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_701d7bf3",
     "title": "Otomobil şarampole uçtu: Yaralılar var",
     "source": "OdaTV",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA), Ukrayna'daki Zaporijya Nükleer Santrali'nin Rusya-Ukrayna Savaşı'nın başlamasından bu yana 15. kez tüm dış kaynaklı elektriğini kaybettiğini, 1 saat sonra ise yeniden elektrik sağlandığını duyurdu.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_ea610020",
-    "title": "AFAD duyurdu! Muş'ta 4.1 büyüklüğünde deprem",
-    "source": "A Haber",
-    "time": "26/04/2026 20:21",
-    "link": "https://www.ahaber.com.tr/gundem/2026/04/26/afad-duyurdu-musta-41-buyuklugunde-deprem",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AFAD Muş Bulanık'ta saat 19:48'de 4.1 büyüklüğünde bir deprem meydana geldiğini açıkladı. Deprem yerin 15.56 kilometre derinliğinde meydana geldi.Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/453e09/1200/1200/0/0/380/381?u=https://iahbr.tmgrup.com.tr/2026/04/26/afad-duyurdu-musta-41-buyuklugunde-deprem-1777223054828.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_12dfd294",
-    "title": "Alanzinho Trabzon'a Geliyor! Göztepe Maçında Tribünde Olacak",
-    "source": "Kuzey Ekspres",
-    "time": "26/04/2026 20:02",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27883688/alanzinho-trabzona-geliyor-goztepe-macinda-tribunde-olacak",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor taraftarının sevgilisi, Brezilyalı eski yıldız Alanzinho, bordo-mavili şehre geri dönüyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/26/large/alanzinho.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_0e48dfb1",
-    "title": "Trabzonspor Basketbol'da şok sakatlık!",
-    "source": "61 Saat",
-    "time": "26/04/2026 20:02",
-    "link": "https://www.61saat.com/trabzonspor-basketbolda-sok-sakatlik-1",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'da Basketbol'da şok sakatlık gelişmesi...",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/8-kopyasi-3-163.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_12dfd294",
-    "title": "Alanzinho Trabzon'a Geliyor! Göztepe Maçında Tribünde Olacak",
-    "source": "Kuzey Ekspres",
-    "time": "26/04/2026 20:02",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27883688/alanzinho-trabzona-geliyor-goztepe-macinda-tribunde-olacak",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor taraftarının sevgilisi, Brezilyalı eski yıldız Alanzinho, bordo-mavili şehre geri dönüyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/26/large/alanzinho.webp",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_446c8fd2",
-    "title": "Kene Kabusu Geri Döndü: Tek Bir Yanlış Hayat Karartabilir!",
-    "source": "Taka Gazetesi",
-    "time": "26/04/2026 20:02",
-    "link": "https://www.takagazete.com.tr/kene-kabusu-geri-dondu-tek-bir-yanlis-hayat-karartabilir",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Havaların ısınmasıyla Kırım Kongo riski hortladı. Uzmanlar uyarıyor: Keneyi sakın elle koparmayın! İşte hayat kurtaran o kritik müdahale yöntemi ve belirtiler.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/sakin-koparmayin.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_817f0643",
-    "title": "ASELSAN'dan Gökyüzüne Çelik Kalkan: KORKUT 100/25 Sahada!",
-    "source": "Taka Gazetesi",
-    "time": "26/04/2026 20:02",
-    "link": "https://www.takagazete.com.tr/aselsandan-gokyuzune-celik-kalkan-korkut-10025-sahada",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "ASELSAN, mini ve mikro İHA tehditlerine karşı geliştirdiği KORKUT 100/25 SB sistemini tanıttı. ATOM 25 mühimmatı ile donatılan sistem, düşük maliyetli kesin çözüm sunuyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/hainlerin-korkulu.jpg",
     "keyword": ""
   }
 ]
