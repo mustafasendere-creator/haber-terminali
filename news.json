@@ -1,5 +1,41 @@
 [
   {
+    "id": "TKP_c2e25a0c",
+    "title": "Başkan Ahmet Metin Genç Taka’ya Anlattı: Viyadük Gidiyor, Pazarkapı Nefes Alıyor",
+    "source": "Taka Gazetesi",
+    "time": "26/04/2026 09:02",
+    "link": "https://www.takagazete.com.tr/baskan-ahmet-metin-genc-takaya-anlatti-viyaduk-gidiyor-pazarkapi-nefes-aliyor",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Pazarkapı projesiyle viyadük kaldırılıyor, alan yayalaştırılıyor. Ahmet Metin Genç, bölgenin Trabzon’un yeni merkezi olacağını açıkladı.",
+    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/basliksiz-23-18.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "TKP_490f652f",
+    "title": "Trabzon'da CHP'li Batmaz'dan sert çıkış: “Müjde diye sundular, satış listesine koydular!”",
+    "source": "61 Saat",
+    "time": "26/04/2026 09:02",
+    "link": "https://www.61saat.com/trabzonda-chpli-batmazdan-sert-cikis-mujde-diye-sundular-satis-listesine-koydular",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzon’da Ahi Evren Hastanesi alanına ilişkin yaşanan gelişmeler tartışmaları alevlendirirken, CHP Ortahisar İlçe Başkanı Haluk Batmaz sert açıklamalarda bulundu.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/2-kopyasi-16-kopya-4.webp",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "TKP_9a3b842b",
+    "title": "MHP Trabzon eski İl Başkanı'nın kardeş acısı",
+    "source": "Haber61",
+    "time": "26/04/2026 09:02",
+    "link": "https://www.haber61.net/trabzon/mhp-trabzon-eski-il-baskaninin-kardes-acisi-h630601.html",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "MHP Trabzon eski İl Başkanı Nihat Birinci’nin kardeşi Sadık Birinci, tedavi gördüğü hastanede yaşamını yitirdi. Cenazesi Ortahisar’da kılınacak namazın ardından defnedilecek.",
+    "image": "https://resim.haber61.net/news/614616.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_6ded4a9e",
     "title": "Türkiye 'sefalet'te dünya üçüncüsü",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonlu Doç. Dr. Oğuzhan Bahadır, Genel Sekreter Yardımcılığı görevine getirildi.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/25/large/trabzon-vakfikebirli-doc-dr-oguzhan-bahadir-genel-sekreter-yardimciligi-gorevine-getirildi-1.webp",
-    "keyword": ""
-  },
-  {
-    "id": "GND_38c19a75",
-    "title": "Trump: İlk teklifi reddettim, 10 dakika sonra daha iyisi geldi",
-    "source": "Ekonomim",
-    "time": "25/04/2026 23:22",
-    "link": "https://www.ekonomim.com/dunya/trump-ilk-teklifi-reddettim-10-dakika-sonra-daha-iyisi-geldi-haberi-890357",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pakistan&#039;daki ABD İran görüşmelerinin iptal olmasının ardından ABD Başkanı Trump gazetecilerin sorularını yanıtlayarak &quot;&quot;İlginçtir ki, ben o ilk teklifi reddettiğim anda, hem de sadece 10 dakika içinde, elimize çok daha iyi bir taslak ulaştı.&quot; dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/25/trump-ilk-teklifi-reddettim-10-dakika-sonra-daha-iyisi-geldi-1jqn_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_f8357bf9",
-    "title": "MHPli Nihat Birinci’nin acı günü",
-    "source": "61 Saat",
-    "time": "25/04/2026 23:22",
-    "link": "https://www.61saat.com/mhpli-nihat-birincinin-aci-gunu-1",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "MHP Trabzon eski İl Başkanı Nihat Birinci’nin kardeşi, Trabzon Büyük Sanayi esnaflarından Sadık Birinci hayatını kaybetti.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/n-i.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_8f67eadf",
-    "title": "Tüm uçak yolcularını ilgilendiren karar: Türkiye'de de yasaklandı",
-    "source": "Ekonomim",
-    "time": "25/04/2026 23:22",
-    "link": "https://www.ekonomim.com/havacilik/tum-ucak-yolcularini-ilgilendiren-karar-turkiyede-de-yasaklandi-haberi-890358",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sivil Havacılık Genel Müdürlüğü (SHGM) uçuş güvenliğini tehlikeye sokan taşınabilir şarj cihazların (powerbank) uçaklarda şarj edilmesinin yasaklandığını duyurdu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/25/tum-ucak-yolcularini-ilgilendiren-karar-turkiyede-de-yasaklandi-hfht_cover.jpg",
     "keyword": ""
   }
 ]
