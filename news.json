@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_e7ec0a15",
+    "title": "İzmir'de doğa yürüyüşünde kaybolan 2 çocuk, AFAD ekiplerince bulundu",
+    "source": "TRT Haber",
+    "time": "27/04/2026 05:41",
+    "link": "https://www.trthaber.com/haber/turkiye/izmirde-doga-yuruyusunde-kaybolan-2-cocuk-afad-ekiplerince-bulundu-943097.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'in Torbalı ilçesinde doğa yürüyüşünde yolunu kaybeden 15 yaşındaki 2 çocuk, AFAD ekipleri tarafından bulundu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_92077583",
+    "title": "Saldırganın iddiaları canlı yayında okundu: Trump’tan sert çıkış",
+    "source": "BirGün",
+    "time": "27/04/2026 05:41",
+    "link": "https://www.birgun.net/haber/saldirganin-iddialari-canli-yayinda-okundu-trumptan-sert-cikis-708475",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Beyaz Saray Muhabirleri Derneği yemeğinde düzenlenen silahlı saldırının şüphelisi Cole Tomas Allen’in notlarındaki ithamların CBS yayınında okunmasına tepki gösterdi. Trump, iddiaları “hasta bir insanın saçmalıkları” diye nitelendirdi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/27/trumptan-canli-yayinda-tepki-tecavuzcu-ya-da-pedofili-degilim.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_372b7253",
+    "title": "Madencilikte fren kalktı",
+    "source": "BirGün",
+    "time": "27/04/2026 05:41",
+    "link": "https://www.birgun.net/haber/madencilikte-fren-kalkti-708476",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Madencilik faaliyetleri için ormanlardan su havzalarına kadar geniş bir koruma çerçevesi çizen yönetmelik kaldırıldı. Kararı değerlendiren avukat Mert Yedek, denetimin yerini belirsizliğin aldığını dile getirdi.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/27/madencilikte-fren-kalkti.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_956d2142",
+    "title": "Işık hakim karşısında, Akbelenliler nöbette",
+    "source": "BirGün",
+    "time": "27/04/2026 05:41",
+    "link": "https://www.birgun.net/haber/isik-hakim-karsisinda-akbelenliler-nobette-708477",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Akbelen direnişçisi Esra Işık’ın, Milas Adliyesi'nde görülecek ilk duruşması bugün. \nYaşam alanlarını savunduğu gerekçesiyle tutuklanan Işık için bugün Akbelen’de ‘Adalet Nöbeti’ tutulacak. \n“Esra'mızın mücadelesine sahip çıkıyoruz” denilerek paylaşılan çağrıda, “Duruşma günü Akbelen'de buluşacağız. Köylülerimiz ve Esra'mıza destek olmak isteyen tüm dostlarımızla beraber, mücadele ettiğimiz topraklarda Adalet nöbeti tutacağız.\n\nAvukatlarımız ve dayanışmaya gelen baro temsilcileri adliyede duruşmada olacaklar. Duruşma sonucunu nöbet alanımızda bekleyeceğiz. Adliyenin rutin işleyişine engel olmamak ve adaletin tecelli etmesi en büyük önceliğimizdir. Esra'mız şirkete karşı topraklarını savundu. Adaletin yerini bulmasını diliyoruz” ifadeleri yer aldı. \n\nNE OLMUŞTU?\nTarım arazilerinin acele kamulaştırılmasına karşı yurttaşların düzenlediği eylemin ardından 30 Mart gecesi gözaltına alınan İkizköy Mahalle Muhtarı Nejla Işık’ın kızı Esra Işık, “görevi yaptırmamak için direnme” suçlamasıyla 31 Mart’ta tutuklanmıştı. Milas Cumhuriyet Başsavcılığı tarafından hazırlanan iddianame Milas 3. Asliye Ceza Mahkemesi tarafından kabul edilmişti. Avukatları, Işık’ın tutukluluk halinin devamına karar verildiğini duyurmuştu.",
+    "image": "https://static.birgun.net/resim/haber/2026/04/27/isik-hakim-karsisinda-akbelenliler-nobette.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_52ff7218",
+    "title": "Londra Maratonu'nda dünya rekorunu kıran Sabastian Sawe'nin 'gizli silahı'",
+    "source": "BBC Türkçe",
+    "time": "27/04/2026 05:41",
+    "link": "https://www.bbc.com/turkce/articles/cgrlr10448wo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sabastian Sawe Londra Maratonu'nu iki saatin altında tamamladı ve resmi bir maratonda bunu başaran ilk atlet olarak tarihe geçti. Peki maratonlarda neden hep Etiyopya ve Kenyalı atletler madalyaları topluyor?",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "YRL_7ecc9e81",
     "title": "CHP’nin Ortahisar Belediyesi içindeki salonda etkinlik yapması nasıl yorumlanmalı?",
     "source": "Günebakış",
@@ -4738,65 +4798,5 @@
     "summary": "Trabzonspor Dergisi'ne konuşan genç yetenek Christ Inao Oulai, bordo-mavili kulübü seçme nedenlerinden kariyer hedeflerine kadar dikkat çeken değerlendirmelerde bulundu.",
     "image": "https://resim.haber61.net/news/614728.jpg",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_7afa3219",
-    "title": "Trabzon’da 35 Bin Kişi Ceza Almıştı! Rams Park’taki Görüntüler Sonrası Gözler TFF’ye Çevrildi",
-    "source": "Kuzey Ekspres",
-    "time": "26/04/2026 21:22",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27883813/trabzonda-35-bin-kisi-ceza-almisti-rams-parktaki-goruntuler-sonrasi-gozler-tffye-cevrildi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Fenerbahçe’nin Galatasaray deplasmanına çıktığı derbide stat hoparlörlerinden çalınan şarkıya taraftarların küfürlü tezahüratla eşlik etmesi, akıllara Trabzonspor-Galatasaray maçı sonrası verilen 35 bin kişilik tribün cezasını getirdi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/26/large/s.webp",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_fdf572f1",
-    "title": "Kombilerin Devri Sona Eriyor! Isınma için Devrim Zamanı...",
-    "source": "Taka Gazetesi",
-    "time": "26/04/2026 21:22",
-    "link": "https://www.takagazete.com.tr/kombilerin-devri-sona-eriyor-isinma-icin-devrim-zamani",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Hollanda’da geliştirilen termoakustik teknoloji, 2027'den itibaren gazsız ve fansız ısınma dönemini başlatıyor. Helyum ve ses dalgalarıyla çalışan sistemle tanışın.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/k-o-m-i-b.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_71721bac",
-    "title": "Trabzonspor’dan Net Tavır! Augusto İçin Kapı 25 Milyon Eurodan Açılıyor",
-    "source": "Taka Gazetesi",
-    "time": "26/04/2026 21:22",
-    "link": "https://www.takagazete.com.tr/trabzonspordan-net-tavir-augusto-icin-kapi-25-milyon-eurodan-aciliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un genç yıldızı Felipe Augusto’ya Suudi Arabistan’dan gelen teklifler giderek yükseliyor. Ancak bordo-mavili yönetim, oyuncusunu kolay kolay bırakmaya niyetli değil. Kulüp, Brezilyalı forvet için kapıyı yüksek bir bonservis bedeliyle araladı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/chatgpt-image-26-nis-2026-15-06-25.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_70d27d13",
-    "title": "Mendy Transferinde Belirsizlik! Trabzonspor Karar İçin Sevilla’yı Bekliyor",
-    "source": "Taka Gazetesi",
-    "time": "26/04/2026 21:21",
-    "link": "https://www.takagazete.com.tr/mendy-transferinde-belirsizlik-trabzonspor-karar-icin-sevillayi-bekliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un orta saha oyuncusu Batista Mendy ile ilgili transfer süreci netlik kazanmadı. Bordo-mavililer, İspanyol ekibi Sevilla’nın vereceği kararı beklerken, Fransız oyuncunun geleceği birçok ihtimale açık görünüyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/04/chatgpt-image-26-nis-2026-15-11-25.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_a5988a2a",
-    "title": "Karadeniz’in medya bilinci yükseliyor",
-    "source": "Günebakış",
-    "time": "26/04/2026 21:21",
-    "link": "https://www.gunebakis.com.tr/karadenizin-medya-bilinci-yukseliyor/27883795",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon, dergi ve gazete okuma oranında zirveye yerleşti",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/04/26/large/karadenizocoin-medya-bilinci-yuekseliyor.jpg",
-    "keyword": ""
   }
 ]
