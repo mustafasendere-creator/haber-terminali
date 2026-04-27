@@ -1,5 +1,53 @@
 [
   {
+    "id": "YRL_c08174e2",
+    "title": "Trabzonspor, Konya deplasmanında kaybetti",
+    "source": "İHA Trabzon",
+    "time": "27/04/2026 23:42",
+    "link": "https://www.aa.com.tr/tr/spor/trabzonspor-konya-deplasmaninda-kaybetti/3919740",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trendyol Süper Lig'in 31. haftasında TÜMOSAN Konyaspor, konuk ettiği Trabzonspor'u 2-1 mağlup etti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "YRL_658fa99b",
+    "title": "Konyasporlu Deniz Türüç’ten Trabzonspor’a övgü dolu sözler!",
+    "source": "Kuzey Ekspres",
+    "time": "27/04/2026 23:41",
+    "link": "https://www.kuzeyekspres.com.tr/haber/27890173/konyasporlu-deniz-turucten-trabzonspora-ovgu-dolu-sozler",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Konyasporlu Deniz Türüç, Trabzonspor galibiyeti sonrası hem rakibi övdü hem de maçın ilk yarısındaki üstün oyuna dikkat çekti.",
+    "image": "https://static.daktilo.com/sites/1479/uploads/2026/04/27/large/konyasporlu-deniz-turucten-trabzonspora-ovgu-dolu-sozler.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_695169fc",
+    "title": "İstanbul’dan Trabzon’a acı haber: Araçtan fırlayan lastik hayattan kopardı",
+    "source": "Haber61",
+    "time": "27/04/2026 23:41",
+    "link": "https://www.haber61.net/trabzon/istanbuldan-trabzona-aci-haber-aractan-firlayan-lastik-hayattan-kopardi-h630758.html",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "İstanbul’da kaldırımda yürüyen Görkem Selvitorp, bir araçtan fırlayan lastiğin çarpması sonrasında hatyatını kaybetti.",
+    "image": "https://resim.haber61.net/news/614896.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_7a951de4",
+    "title": "Tekke yenilgiyi yorumladı: “Bunun sorumlusu ben ve ekibim”",
+    "source": "Haber61",
+    "time": "27/04/2026 23:41",
+    "link": "https://www.haber61.net/trabzonspor/tekke-yenilgiyi-yorumladi-bunun-sorumlusu-ben-ve-ekibim-h630759.html",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trabzonspor Teknik Direktörü Tekke, “İlk yarı, belki de geldiğimizden bu yana, belki de benim antrenörlük kariyerimdeki en kötü ilk yarılardan bir tanesi oldu. Bunun sebebini ben ve ekibime yazmak durumundayım.",
+    "image": "https://resim.haber61.net/news/614897.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_40a56fc2",
     "title": "Bahreyn’de 69 kişi vatandaşlıktan çıkarıldı",
     "source": "OdaTV",
@@ -4749,54 +4797,6 @@
     "prefix": "🔔",
     "summary": "Ölçme, Seçme ve Yerleştirme Merkezi ÖSYM Başkanlığınca, 2026 Türkiye Yurt Dışından Öğrenci Kabul Sınavı 2026TRYÖS/1 sonuçları açıklandı.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_32f5d7fa",
-    "title": "İşgalci İsrailliler, Batı Şeria'da Filistinlilere ve evlerine saldırdı",
-    "source": "TRT Haber",
-    "time": "27/04/2026 20:41",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilere-ve-evlerine-saldirdi-943197.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filistin topraklarını gasbeden İsrailliler, İsrail askerleri korumasında işgal altındaki Batı Şeria'nın Nablus kentinde Filistinlilere ve evlerine saldırdı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_37d5fdab",
-    "title": "Türkiye'de ormanların yüzde 65'i yangın riski altında",
-    "source": "DW Türkçe",
-    "time": "27/04/2026 20:41",
-    "link": "https://www.dw.com/tr/türkiye-de-ormanların-yüzde-65-i-yangın-riski-altında/a-76952576",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yangın sezonu öncesi yapılan hazırlık toplantısına katılan İçişleri Bakanı Mustafa Çiftçi, Türkiye'deki ormanların yüzde 65'inin yangına karşı \"hassas\" nitelikte olduğunu söyledi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_7f9c9b4b",
-    "title": "Gülistan Doku'nun arkadaşı Rojwelat için inceleme talebi",
-    "source": "DW Türkçe",
-    "time": "27/04/2026 20:41",
-    "link": "https://www.dw.com/tr/gülistan-doku-nun-arkadaşı-rojwelat-için-inceleme-talebi/a-76957396",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gülistan Doku'nun arkadaşı Rojwelat Kızmaz dosyasındaki takipsizlik kararının kaldırılması ve Kızmaz'ın ölümünün Doku davasındaki gelişmeler ışığında tekrar incelenmesi talep edildi. Dosya intihar denilerek kapatılmıştı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_f0df984d",
-    "title": "CHP’li Çakırözer: 5 ildeki yangınlarda 36 personele soruşturma izni yok",
-    "source": "Evrensel",
-    "time": "27/04/2026 20:41",
-    "link": "https://www.evrensel.net/haber/5981495/chpli-cakirozer-5-ildeki-yanginlarda-36-personele-sorusturma-izni-yok",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eskişehir, Bursa, İzmir, Zonguldak ve Sakarya’da 2025 yılında meydana gelen yangınlara müdahale ve yönetim sürecinde görev almış kamu personeli hakkında Tarım ve Orman Bakanlığının soruşturma izni vermediği ortaya çıktı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/341273.jpg",
     "keyword": ""
   }
 ]
