@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_5469bbc9",
+    "title": "🗣️ buraq (@buraq007)",
+    "source": "X (Twitter)",
+    "time": "29/04/2026 03:49",
+    "link": "https://x.com/buraq__007/status/2049270169457840553",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Sen nasıl bir kaskatı orospu çocuğusun, ulan açık açık yaradana küfür ediyor ya. Bu milleti toplumu tahrik etmek nedir de nedir ya \n@EmniyetGM\n \n@adaletbakanlik\n \n@SiberayEGM",
+    "image": null,
+    "keyword": "@EMNIYETGM"
+  },
+  {
+    "id": "SOC_bc37fb0d",
+    "title": "🗣️ r (@rcpakgn28)",
+    "source": "X (Twitter)",
+    "time": "29/04/2026 03:49",
+    "link": "https://x.com/rcpakgn28/status/2049271073376510004",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Nasıl düzene denk geldik Bu adamların grev yapması mı lazımdı nerde adalet Bu adamlar kaç ay maaş alamamış 9 gündür ne çözülemedi ilk günden bu adamların maaşını verecektiniz gaz yediler jop yediler aç kaldılar Devletimizden ricamdır o şirketin hiçbir ortağı bu ülkede olmamalı",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_9cb5b6b0",
+    "title": "🗣️ Nazlıhan (@nzgul7714)",
+    "source": "X (Twitter)",
+    "time": "29/04/2026 03:49",
+    "link": "https://x.com/nzgul7714/status/2049271170902462664",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "yaradan mı bunun emniyetle ne alaksı avr orospu cocouğu ozaman bütün Atayistleri tutukalsın EGM amcık ağızlı",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_d3ecffc5",
+    "title": "🗣️ mustafa sezer (@msezer1984)",
+    "source": "X (Twitter)",
+    "time": "29/04/2026 03:49",
+    "link": "https://x.com/msezer1984/status/2049271620770959705",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Merakımdan dır ya bu kaymakamı sosyal medya da yaşananlar hariç gündemi bir kenara bırakalım.  Devletin vermiş olduğu makamı kullanarak kendi emeli için yine devletin kurumlarını tehdit ederek kişinin adelet arama hakkının gasb etmek gibi hukuksuz işleri yapmış olsada savnr …",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_6a78018c",
+    "title": "🗣️ Nazlıhan (@nzgul7714)",
+    "source": "X (Twitter)",
+    "time": "29/04/2026 03:49",
+    "link": "https://x.com/nzgul7714/status/2049271861200998723",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "dinayet işelrine şikatyet etmelisin",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "GND_e170babd",
     "title": "Sahil Güvenlik aracının kaza anları",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Kağıthane'de yokuş aşağı seyir halindeyken okul servisi şoförü direksiyon hakimiyetini kaybedince servis takla atarak yakındaki bir evin çatısına düştü. Şoför kurtarıldı.",
     "image": "https://static.birgun.net/resim/haber/2026/04/28/kagithane-de-okul-servisi-takla-atip-evin-catisina-dustu.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_7fae9779",
-    "title": "Veli Ağbaba: Çiftçi 'Biz borcumuzu nasıl ödeyeceğiz?' diye düşünüyor",
-    "source": "BirGün",
-    "time": "28/04/2026 22:01",
-    "link": "https://www.birgun.net/haber/veli-agbaba-ciftci-biz-borcumuzu-nasil-odeyecegiz-diye-dusunuyor-709074",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Malatya Milletvekili Veli Ağbaba, Malatya'da yaşanan doludan yedi ilçe ve 52 mahalledeki yaklaşık 20 bin dekarlık alanda kayısı, badem ve hububatın etkilendiğini belirterek, \"Bir taraftan dolu, bir taraftan don, bir taraftan da AK Parti tarımı vurmaya devam ediyor\" ifadesini kullandı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/28/veli-agbaba-ciftci-biz-borcumuzu-nasil-odeyecegiz-diye-dusunuyor.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_5a4c0f80",
-    "title": "Özgür Özel: \"Bundan sonraki bir yılda örgüt ve genel başkan birlikte koşacak\"",
-    "source": "BirGün",
-    "time": "28/04/2026 22:01",
-    "link": "https://www.birgun.net/haber/ozgur-ozel-bundan-sonraki-bir-yilda-orgut-ve-genel-baskan-birlikte-kosacak-709075",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Genel Başkanı Özgür Özel, 4 Mayıs'tan itibaren milletvekilleri, PM üyeleri, belediye başkanları ve 106 bin sandık görevlisiyle 81 ilde sahada olacaklarını belirterek, \"Bir yıldır daha çok genel başkan koşuyordu. Buradan sonraki bir yılda örgüt ve genel başkan birlikte koşacak. Geri çekilmek, saldırıların karşısında geri adım atmak yerine aksine vites yükseltiyoruz\" ifadesini kullandı.",
-    "image": "https://static.birgun.net/resim/haber/2026/04/28/ozgur-ozel-bundan-sonraki-bir-yilda-orgut-ve-genel-baskan-birlikte-kosacak.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_dd7cf065",
-    "title": "DOSYA: Metropolde Köy Hayatı",
-    "source": "Anadolu Ajansı",
-    "time": "28/04/2026 22:01",
-    "link": "https://www.aa.com.tr/tr/gundem/dosya-metropolde-koy-hayati/3920132",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Megakentin kalabalığından birkaç kilometre uzakta sürdürülen köy yaşamı, İstanbul’da doğayla iç içe, üretime dayalı ve kültürel çeşitliliği yansıtan alternatif bir hayat sunuyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_bde483be",
-    "title": "DOSYA: İngiltere’de İslamofobi Tartışmaları",
-    "source": "Anadolu Ajansı",
-    "time": "28/04/2026 22:01",
-    "link": "https://www.aa.com.tr/tr/dunya/dosya-ingiltere-de-islamofobi-tartismalari/3920216",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere’de yıllardır uzlaşı sağlanamayan “İslamofobi” tanımı, artan nefret suçları ve siyasi tartışmalar eşliğinde yeniden gündeme gelirken, tanım eksikliği hem toplumsal hem hukuki boyutlarıyla tartışılıyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_92a8728f",
-    "title": "DOSYA: Gerçekle Sanal Arasında",
-    "source": "Anadolu Ajansı",
-    "time": "28/04/2026 22:01",
-    "link": "https://www.aa.com.tr/tr/dunya/dosya-gercekle-sanal-arasinda/3920242",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dijital dünyada hızla yükselen VTuber’lar ve yapay zeka destekli sanal içerik üreticileri, içerik üretiminde yeni bir dönemi başlatırken, gerçeklik, güven ve etik sınırlarına ilişkin tartışmaları da beraberinde getiriyor.",
-    "image": null,
     "keyword": ""
   }
 ]
