@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_eabc0b6a",
+    "title": "Erdoğan'dan 'Aile' genelgesi",
+    "source": "OdaTV",
+    "time": "02/05/2026 03:28",
+    "link": "https://www.odatv.com/guncel/erdogandan-aile-genelgesi-120145450",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan imzasıyla yayımlanan genelgeyle 2026-2035 dönemi \"Aile ve Nüfus On Yılı\" olarak ilan edildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/02/erdogandan-aile-genelgesi-9kxf.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_3af9d754",
+    "title": "Kuşadası’nda coşkulu 1 Mayıs",
+    "source": "Evrensel",
+    "time": "02/05/2026 03:28",
+    "link": "https://www.evrensel.net/haber/5982241/kusadasinda-coskulu-1-mayis",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuşadası'nda, Kuşadası Kent Dayanışması çağrısı ile bir araya gelen çok sayıda sendika, dernek, vakıf ve partinin katılımıyla 1 Mayıs’ı kutlandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/345619.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_75d31fbb",
+    "title": "Trump: İran'dan erken ayrılıp sorunun yeniden ortaya çıkmasına izin vermeyeceğiz",
+    "source": "Anadolu Ajansı",
+    "time": "02/05/2026 03:27",
+    "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abd-israil-iran-lubnan-savasi-ve-ateskes-sureci/2004",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'a karşı başlattıkları savaşa ilişkin, \"Erken ayrılıp sorunun yeniden ortaya çıkmasına izin vermeyeceğiz.\" dedi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_f4ab468b",
+    "title": "Samsun-Ordu Yolunda Kaza! Kırmızı Işıkta Durmaya Çalışan Trabzonlu Şoför Ölümden Döndü - Gunebakış",
+    "source": "Google Haberler",
+    "time": "02/05/2026 03:27",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmg3a0ZHVUp3ZDJqQVdyZDZvU0RmODVIU2dZYk1mRlF2TGY2X2swTnpLTnZFZ1lBV2RIcU5IQ2h4bVNXOTVQSXIxNkNudWNJdjVMNVNWNHNTR2xOMG11Zi0zN0RoV3RPRElEUy1oMTltWmduM0NZWEp1STVCcTN4R0VpQ1ZlZlA5N21GUUFTSWhJdkhvSTc5T0pXZGlHS3pLYWs3aDctSy1ZaElnblY0WGRXdWhjYkVYN2t1VGZvN0vSAcYBQVVfeXFMTURUTDgwZVl0UzlYdnFBcDl3MHhtS213TDhvRnRoWVRhNmF2ZldmTTAzVFZMcVg5cy1LWDJRc0VNRDRLdGcwZzhGSEhTUmRsZlRmTWJqMmJZSXRsVjlsOHI1UHVlU1RheXRtX3laa3F1Q3JuSmpHdkdOeTQwRm5OVXl4Z050Skl1b3ZTbExOcGFQY0kzTW1rTWROUGJXWnNRN1NIUkZ6aEhsckVKQ2JIN0p5OWc2STMxQ1FqdldlWXNVallWTUpB?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "TKP_ea71277e",
     "title": "Trabzon'da 1 Mayıs İşçi Bayramı Coşkusu - Rizedeyiz",
     "source": "Google Haberler",
@@ -4750,53 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_fe7353fc",
-    "title": "Şanlıurfa'da inşaat asansörü düştü: 1 işçi balkonda asılı kaldı",
-    "source": "TRT Haber",
-    "time": "01/05/2026 21:48",
-    "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-insaat-asansoru-dustu-1-isci-balkonda-asili-kaldi-943713.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şanlıurfa'nın Birecik ilçesinde inşaatta çalışan işçilerin bulunduğu seyyar asansörün düşmesi sonucu 1 işçi ağır yaralandı. Diğer işçi ise düşme sırasında balkon demirlerine tutunarak dakikalarca kurtarılmayı bekledi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_3b7bb194",
-    "title": "İranda patlamamış ABDİsrail mühimmatlarının infilak etmesi sonucu 14 asker hayatını kaybetti",
-    "source": "TRT Haber",
-    "time": "01/05/2026 21:48",
-    "link": "https://www.trthaber.com/haber/dunya/iranda-patlamamis-abd-israil-muhimmatlarinin-infilak-etmesi-sonucu-14-asker-hayatini-kaybetti-943714.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İranın Zencan eyaletinde ABD ve İsrailin saldırılarında patlamayan mühimmatların infilak etmesi sonucu Devrim Muhafızları Ordusu mensubu 14 askerin yaşamını yitirdiği bildirildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_96b841db",
-    "title": "İsrail'in alıkoyduğu Türk aktivistler yurda dönüyor",
-    "source": "TRT Haber",
-    "time": "01/05/2026 21:48",
-    "link": "https://www.trthaber.com/haber/gundem/israilin-alikoydugu-turk-aktivistler-yurda-donuyor-943715.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in alıkoyduğu Küresel Sumud Filosu aktivistlerini İstanbul'a getirecek olan uçak Giritten havalandı. Türkiye'nin yanı sıra 14 ülkeden 59 aktivist İstanbul'a getiriliyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_50d4f4ee",
-    "title": "Haydut İsrail'in uluslararası sularda Küresel Sumud Filosu'na saldırısında 31 aktivist yaralandı",
-    "source": "TRT Haber",
-    "time": "01/05/2026 21:48",
-    "link": "https://www.trthaber.com/haber/dunya/haydut-israilin-uluslararasi-sularda-kuresel-sumud-filosuna-saldirisinda-31-aktivist-yaralandi-943716.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazze'ye insani yardım ulaştırmak ve ablukayı kırmak amacıyla yola çıkan Küresel Sumud Filosu'na yönelik İsrail'in yasa dışı müdahalesinde 31 aktivistin yaralandığı bildirildi.",
-    "image": null,
-    "keyword": ""
   }
 ]
