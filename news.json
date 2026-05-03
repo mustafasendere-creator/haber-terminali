@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_7444650c",
+    "title": "🗣️ Tarla'da Çalışan Ablalarla Sohbet, Çayırbağı Köyü/Düzköy/Trabzon",
+    "source": "YouTube",
+    "time": "03/05/2026 12:55",
+    "link": "https://www.youtube.com/watch?v=YC1YEo2RD-w",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON'DA | YouTube Video (ID: YC1YEo2RD-w)",
+    "image": "https://img.youtube.com/vi/YC1YEo2RD-w/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_558c0c7a",
+    "title": "🗣️ Şampiyonluk Hayallerinden 4–1’e… Samsun Deplasman Vlogu",
+    "source": "YouTube",
+    "time": "03/05/2026 12:54",
+    "link": "https://www.youtube.com/watch?v=3byl8_D0HrM",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON'DAN | YouTube Video (ID: 3byl8D0HrM)",
+    "image": "https://img.youtube.com/vi/3byl8_D0HrM/hqdefault.jpg",
+    "keyword": "DAN #TRABZON"
+  },
+  {
     "id": "GND_aa8cd122",
     "title": "İstanbul’da bugün bazı yollar kapalı olacak! Bu saatlere dikkat",
     "source": "Sözcü",
@@ -4772,30 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Kuveyt, Körfez Savaşı'nın 1991'de sona ermesinden bu yana ilk kez geçen ay Hürmüz Boğazı’nın kapalı olması nedeniyle hiç ham petrol ihracı yapmadı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_5039728b",
-    "title": "Formula 1 Miami Grand Prix'sinde pole pozisyonu Kimi Antonelli'nin",
-    "source": "Anadolu Ajansı",
-    "time": "03/05/2026 00:47",
-    "link": "https://www.aa.com.tr/tr/spor/formula-1-miami-grand-prixsinde-pole-pozisyonu-kimi-antonellinin/3925315",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Formula 1 Dünya Şampiyonası'nda sezonun dördüncü yarışı Miami Grand Prix'sine Mercedes pilotu Kimi Antonelli ilk sıradan başlayacak.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_605a154d",
-    "title": "Milli judocu Nisanur Serin'den Gençler Avrupa Kupası'nda gümüş madalya",
-    "source": "Anadolu Ajansı",
-    "time": "03/05/2026 00:47",
-    "link": "https://www.aa.com.tr/tr/spor/milli-judocu-nisanur-serinden-gencler-avrupa-kupasinda-gumus-madalya/3925317",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli judocu Nisanur Serin, İstanbul'da devam eden Gençler Avrupa Kupası'nda gümüş madalya kazandı.",
     "image": null,
     "keyword": ""
   }
