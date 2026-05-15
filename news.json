@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_33d2945f",
+    "title": "Gazeteci Yelis Ayaz tutuklandı",
+    "source": "OdaTV",
+    "time": "16/05/2026 02:50",
+    "link": "https://www.odatv.com/guncel/gazeteci-yelis-ayaz-tutuklandi-120147292",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aydın Cumhuriyet Başsavcılığı, bazı basın yayın organlarında yer alan ‘Milletvekilinin oğlu okulu silahla bastı’ yönündeki iddiaların doğru olmadığını bildirdi. İddialara ilişkin haber yaptığı gerekçesiyle gözaltına alınan iki gazeteciden Yelis Ayaz, tutuklandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/16/gazeteci-yelis-ayaz-tutuklandi-jtcp.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_1ff4296e",
+    "title": "🗣️ Dağlarun Dumanları Aralanur Gülünce | Yeni Karadeniz Şarkısı (Hareketli) 2026",
+    "source": "YouTube",
+    "time": "16/05/2026 02:49",
+    "link": "https://www.youtube.com/watch?v=qFoqMSIqRPA",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: qFoqMSIqRPA)",
+    "image": "https://img.youtube.com/vi/qFoqMSIqRPA/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_1ccad608",
+    "title": "ABD Başkanı Trump, İran'da \"her şeyi iki günde yerle bir edebileceklerini\" iddia etti",
+    "source": "Anadolu Ajansı",
+    "time": "16/05/2026 02:49",
+    "link": "https://www.aa.com.tr/tr/live-blog/abd-baskani-trump-iranda-her-seyi-iki-gunde-yerle-bir-edebileceklerini-iddia-etti/2622",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Tahran'ın direncini hafife almadığını, ancak isterse İran'ın altyapısını \"iki günde yok edebileceklerini\" iddia etti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_46e14f52",
     "title": "İsrail Gazze'yi vurdu: 7 kişi öldü",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Yeşilay Elçileri Ziyareti / Eczacılık Günü\n\nYeşilay Trabzon Şubesi olarak Şube Personelimiz Büşra Kalyoncu tarafından, 14 Mayıs Eczacılık Günü kapsamında İpekyolu Eczanesi ziyaret edildi.\n\nKıymetli eczacımızın günü kutlanarak, Yeşilay Elçileri Projemiz tanıtıldı.",
     "image": "https://pbs.twimg.com/media/HITK361WMAMPiJe?format=jpg&name=small",
     "keyword": "ZIYARET #TRABZON"
-  },
-  {
-    "id": "SOC_bc7fb9ec",
-    "title": "🗣️ Akkadın Eğil (@AkkadEgil (· (22s)",
-    "source": "X (Twitter)",
-    "time": "15/05/2026 20:18",
-    "link": "https://x.com/AkkadEgil/status/2054990985508139175",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "AK Parti Eğil İlçe Başkanlığı \n\nGenel Merkez Yerel Yönetimler Başkan Yardımcımız,25-26. Dönem Trabzon Milletvekilimiz Sayın Ayşe Sula Köseoğlu ,İl Başkanımız Sayın Ömer İler ve İl Yerel Yönetimler Başkanımız Sayın Fehmi Kardeşoğlu bizleri Eğil ilçe başkanlığımızda ziyaret etti",
-    "image": "https://pbs.twimg.com/media/HITLZsrWsAA17As?format=jpg&name=small",
-    "keyword": "ZIYARET #TRABZON"
-  },
-  {
-    "id": "SOC_9eb807ae",
-    "title": "🗣️ T.C. Akçaabat Kaymakamlığı (@AkcaabtKaymkmlk (· (22s)",
-    "source": "X (Twitter)",
-    "time": "15/05/2026 20:18",
-    "link": "https://x.com/AkcaabtKaymkmlk/status/2054999425722827064",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "Trabzon İl Müftüsü İsmail ÇİÇEK, Kaymakamımız Sayın Yusuf CANKATAR’ı makamında ziyaret etti.",
-    "image": "https://pbs.twimg.com/media/HITTFWxWsAAVRGU?format=jpg&name=small",
-    "keyword": "ZIYARET #TRABZON"
-  },
-  {
-    "id": "SOC_0df8b3ad",
-    "title": "🗣️ S.A.Gümrükçü (@salperg1 (· (21s)",
-    "source": "X (Twitter)",
-    "time": "15/05/2026 20:18",
-    "link": "https://x.com/salperg1/status/2055011403925246214",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "“bize her yer TRABZON” ise maç isterse Konya’da olsun demeliyiz. Suni gündem oluşturup konsantrasyon bozmaya gerek yok. Ulaşımın en kolay olduğu merkezlerden biri Antalya. Yurtiçinden yurtdışından ve özellikle Antalya çevresinden renktaşlarımız gereğini yapacaktır.",
-    "image": null,
-    "keyword": "GÜNDEM #TRABZON"
   }
 ]
