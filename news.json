@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_c385db4e",
+    "title": "Kazalar art arda geldi yol kapatıldı",
+    "source": "OdaTV",
+    "time": "16/05/2026 03:09",
+    "link": "https://www.odatv.com/guncel/kazalar-art-arda-geldi-yol-kapatildi-120147293",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şırnak'ın Cizre ilçesinde 1 gün arayla aynı yerde yaşanan ve 1 kişinin hayatını kaybettiği, 2 kişinin yaralandığı kazaların ardından mahalle sakinleri yolu ulaşıma kapattı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/16/kazalar-art-arda-geldi-yol-kapatildi-pcjl.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_169dba53",
+    "title": "Önce kediyi ezdi sonra köpeği tekmeledi",
+    "source": "OdaTV",
+    "time": "16/05/2026 03:09",
+    "link": "https://www.odatv.com/guncel/once-kediyi-ezdi-sonra-kopegi-tekmeledi-120147294",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'da yabancı uyruklu bir şahıs mahalledeki esnafın beslediği kediyi ayağıyla ezip ardından bir köpeği tekmeledi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/16/once-kediyi-ezdi-sonra-kopegi-tekmeledi-dqhv.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_aa8ff763",
+    "title": "Numan Kurtulmuş: Terörsüz Türkiye hedefinde büyük mesafe alındı",
+    "source": "A Haber",
+    "time": "16/05/2026 03:08",
+    "link": "https://www.ahaber.com.tr/gundem/2026/05/16/numan-kurtulmus-terorsuz-turkiye-hedefinde-buyuk-mesafe-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TBMM Başkanı Numan Kurtulmuş, Bursa’daki programlarında “Terörsüz Türkiye” hedefi kapsamında kritik açıklamalarda bulundu. Terör örgütünün silah bırakmasının önemli bir eşik olduğunu belirten... Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/5c69cc/0/0/0/0/2048/1536?u=https://iahbr.tmgrup.com.tr/2026/05/16/1778888423977.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_33d2945f",
     "title": "Gazeteci Yelis Ayaz tutuklandı",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Milli kadın güreşçi Şirin Askara, Bulgaristan'daki 17 Yaş Altı Avrupa Şampiyonası'nda 40 kiloda bronz madalya elde etti.",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "GND_27178517",
-    "title": "Starbucks ABD'de 300 çalışanını işten çıkaracak",
-    "source": "Anadolu Ajansı",
-    "time": "15/05/2026 20:29",
-    "link": "https://www.aa.com.tr/tr/dunya/starbucks-abdde-300-calisanini-isten-cikaracak/3938964",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD merkezli kahve zinciri Starbucks, ülkede yaklaşık 300 çalışanının işine son verileceğini duyurdu.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_99b400b2",
-    "title": "Türkiye, Yemen'de hükümet ile Husiler arasındaki esir takası anlaşmasından memnun",
-    "source": "Anadolu Ajansı",
-    "time": "15/05/2026 20:29",
-    "link": "https://www.aa.com.tr/tr/gundem/turkiye-yemende-hukumet-ile-husiler-arasindaki-esir-takasi-anlasmasindan-memnun/3938967",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanlığı, Yemen'de hükümet ile Husiler arasında tutukluların serbest bırakılması konusunda varılan mutabakatın memnuniyetle karşılandığını bildirdi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_f827ab9c",
-    "title": "🗣️ YEŞİLAY TRABZON ŞUBESİ (@YesilayTrabzon (· (22s)",
-    "source": "X (Twitter)",
-    "time": "15/05/2026 20:18",
-    "link": "https://x.com/Yesilay_Trabzon/status/2054990398116810921",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "Yeşilay Elçileri Ziyareti / Eczacılık Günü\n\nYeşilay Trabzon Şubesi olarak Şube Personelimiz Büşra Kalyoncu tarafından, 14 Mayıs Eczacılık Günü kapsamında İpekyolu Eczanesi ziyaret edildi.\n\nKıymetli eczacımızın günü kutlanarak, Yeşilay Elçileri Projemiz tanıtıldı.",
-    "image": "https://pbs.twimg.com/media/HITK361WMAMPiJe?format=jpg&name=small",
-    "keyword": "ZIYARET #TRABZON"
   }
 ]
