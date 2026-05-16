@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_73d42fb0",
+    "title": "Sane'nin kutlamasındaki gizli hikaye",
+    "source": "OdaTV",
+    "time": "17/05/2026 01:50",
+    "link": "https://www.odatv.com/spor/sanenin-kutlamasindaki-gizli-hikaye-120147394",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray'ın şampiyonluk kutlamasının olduğu gece Tarkan’ın “Dudu”su eşliğinde sahneye çıkan Leroy Sane’nin coşkulu kutlaması öne çıkarken, perde arkasında onu ilk tebrik eden ailesi ve Almanya’daki sporcu geçmişi bir kez daha hatırlandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/16/sane-sahnede-kutlayanlar-nerede-4qh9.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_7ba603b4",
+    "title": "Tokat'ta sel riskine karşı bir köy tahliye edilmeye başlandı",
+    "source": "Ekonomim",
+    "time": "17/05/2026 01:50",
+    "link": "https://www.ekonomim.com/gundem/tokatta-sel-riskine-karsi-bir-koy-tahliye-edilmeye-baslandi-haberi-894509",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tokat’ın Erbaa ilçesine bağlı Kızılçubuk köyü sakinleri taşkın riskine karşı tahliye ediliyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/05/17/tokatta-sel-riskine-karsi-bir-koy-tahliye-edilmeye-baslandi-hw3l_cover.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_b5ef71a2",
     "title": "İspanya'da Eurovision protestosu",
     "source": "OdaTV",
@@ -4769,30 +4793,6 @@
     "source": "Google Haberler",
     "time": "16/05/2026 19:50",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWdRY2laR1lITkVqZElfcFdEdlM3NHotMUs4bmxwS1JYTFpYb3NWMl8tVzJPQTdaOGZXY19SR3FXNXV1SW1WYnoxMFhSUmdiNlRnT0tlUlFHX2dKeDlLT2xVd3kzT3FiX3ZsSWJKUENuelE2Ql9DTDI3NXlIMXpSSE42U0xmNmkyNmhlNHRKeTdGYXFDSHQtM1RB0gGfAUFVX3lxTE5Kang5ZGZmR3ZiU0VqdkhLQXVWQ2pPc0tvUHdXVUQtVGZpMWduelE2TzZPUExBWTZwZTdZMjdDZzlsamE1OTlaM1NTcFdOaFRPWTQyd0xZUXFSM1Vhb3ZSdzZtdWlBTVpOdkd6ZmJJWDVzb3hqWmRKY3JsUl8zZkNQcWozTDg3aTIwMVM4enY3YlhUOWlnN0gtLTdSRkk3Yw?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_32100e24",
-    "title": "Erdoğan’dan AK Parti Mesajı: Yeni Katılımlar Olabilir - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "16/05/2026 19:50",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdktkOWdpVE1GOC1FaE5hV2UwbTZfWTRfamxXZG1Mbl9GcWZPMndXWllRSWZ5ZWRQTExIYjAyU0tIOWlOVTVOTDZGdHUwNmNQX19TWTd5S0RXSmJXc3QwYUo2LVB0VWR4NGc3WjdsajBTeWtMVWhPbDlJbW00azI5c1RKbkEzOTVsUHNVOEdieUHSAZABQVVfeXFMUHZLZDlnaVRNRjgtRWhOYVdlMG02X1k0X2psV2RtTG5fRnFmTzJ3V1pZUUlmeWVkUExMSGIwMlNLSDlpTlU1Tkw2RnR1MDZjUF9fU1k3eUtEV0piV3N0MGFKNi1QdFVkeDRnN1o3bGowU3lrTFVoT2w5SW1tNGsyOXNUSm5BMzk1bFBzVThHYnlB?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_1474c598",
-    "title": "Trabzonspor Kadın Futbolda Skoru Görenler İnanamadı - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "16/05/2026 19:50",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWlZZ1NweUt2RUI5OGJUbmwzcGd6endEclZwNmRUOW13c09PanRheEFYS3ZHcUhQcDNGWFVEd1NBWlMycWZBazA2RFZMXzNzSkNjV1UwNEd0eU12M05QM1lPU2c2M2ctdDNaV1ZETFFwbWVxUFduWDNOZ1V2MVpzNzdTZXNqMHpIX0xUT2hB0gGOAUFVX3lxTE41aVlnU3B5S3ZFQjk4YlRubDNwZ3p6d0RyVnA2ZFQ5bXdzT09qdGF4QVhLdkdxSFBwM0ZYVUR3U0FaUzJxZkFrMDZEVkxfM3NKQ2NXVTA0R3R5TXYzTlAzWU9TZzYzZy10M1pXVkRMUXBtZXFQV25YM05nVXYxWnM3N1Nlc2owekhfTFRPaEE?oc=5",
     "type": "TKP",
     "prefix": "🌐 📰",
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
