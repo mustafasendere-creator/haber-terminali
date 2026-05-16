@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_bfbead2e",
+    "title": "Fed, Jerome Powell'ı geçici başkan olarak atadı",
+    "source": "TRT Haber",
+    "time": "16/05/2026 06:49",
+    "link": "https://www.trthaber.com/haber/ekonomi/fed-jerome-powelli-gecici-baskan-olarak-atadi-945262.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Merkez Bankası Fed, Jerome Powell'ın, Kevin Warsh göreve başlayana kadar geçici başkan olarak görev yapacağını açıkladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_488a4f52",
+    "title": "Kayseri'de gölette mahsur kalan 3 genç kurtarıldı",
+    "source": "TRT Haber",
+    "time": "16/05/2026 06:49",
+    "link": "https://www.trthaber.com/haber/turkiye/kayseride-golette-mahsur-kalan-3-genc-kurtarildi-945263.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'de Erciyes Dağı'ndaki Tekir Göleti'nde mahsur kalan 3 genç, AFAD ekiplerince kurtarıldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_92711287",
+    "title": "Cumhurbaşkanı Erdoğan: Kazakistan ziyaretimizi başarıyla tamamladık",
+    "source": "TRT Haber",
+    "time": "16/05/2026 06:49",
+    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kazakistan-ziyaretimizi-basariyla-tamamladik-945264.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kazakistandaki Türk Devletleri Teşkilatı Gayriresmi Zirvesi ve ikili temaslarını tamamlayarak İstanbula dönen Cumhurbaşkanı Erdoğan, sosyal medya hesabından yaptığı paylaşımda ziyaretin Türk dünyası için hayırlara vesile olmasını diledi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_c85bb19d",
+    "title": "Sıfır Atık Vakfının interaktif tiyatro oyunu okullarda",
+    "source": "TRT Haber",
+    "time": "16/05/2026 06:49",
+    "link": "https://www.trthaber.com/haber/kultur-sanat/sifir-atik-vakfinin-interaktif-tiyatro-oyunu-okullarda-945265.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sıfır Atık Vakfı tarafından çocuklara çevre bilinci ve sürdürülebilir yaşam alışkanlıkları kazandırmak amacıyla hazırlanan \"Gelecekten Gelen Çocuk\" interaktif tiyatro oyunu Türkiye'nin farklı illerinde öğrencilerle buluşacak.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_38423a25",
     "title": "İsrail ateşkese rağmen Lübnan’ı vurdu: Çok sayıda ölü ve yaralı var",
     "source": "Haber Global",
@@ -4750,53 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_82650588",
-    "title": "Trabzon İl Jandarma Komutanlığından Trabzonspor'da ziyaret - 61SAAT",
-    "source": "Google Haberler",
-    "time": "15/05/2026 21:09",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0NxdTUxMElSZk1wYzVGUEVrdnBJN0ZqMlp4OHR1Y29wWGcyMVdOQlBmLTNHSEFhWjgyWDlsMTFOTFJoQ3B6UmxhT3JfUXlxdXAyOGVEaWhyUHFycTdQRGVtclZ2eDl5REcxZmQ3Ylhnd0VTdFBMem1MWFRIdXVoVk4xa1RlMWPSAYwBQVVfeXFMTzF3djhpRGI0N3lqZC1IMXlaNUg3X1I3T1diNnRPTi1JZlZDZHdvVVNwSGU0Y2Y3ZGk0Z0VzWlVlWGpsdkF1UjU3TFZxMm55azVSMXRpVENBYTA5S1pGdzBkZEF1YmJ5cGd2OGdyWTVnVU1aYUJmX1UzS2l1cVBvQlc4dUYxRFVsTUVRNzc?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_c41ef1c0",
-    "title": "Trabzon Üniversitesi Bahar Şenlikleri’ne Katılım Sağlandı. - Aile ve Sosyal Hizmetler Bakanlığı",
-    "source": "Google Haberler",
-    "time": "15/05/2026 21:09",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVF9ZWll4Um5hS3NhQm5aUldjX3NIckd6bHZreW92dkVTN3Q4UzlTclcteVI4QTBYcmZlbUl2R2NqcmdtaTZ2MnVIb0ZBMjVEdXppejJrYVNBSjhfamttcmhZUjBkR0NjMG9RanhVdENuV1dMR194Tkl2MDRDZ2Rmb3pHNmoxWXNpVjdTcEVzajB2eU5OZ0QzUUs0NVZrWlBD?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_f333d626",
-    "title": "Trabzonspor’un Eski Futbolcusu Pereira İmzayı Attı",
-    "source": "Kuzey Ekspres",
-    "time": "15/05/2026 21:09",
-    "link": "https://www.kuzeyekspres.com.tr/haber/27993194/trabzonsporun-eski-futbolcusu-pereira-imzayi-atti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un eski futbolcularından João Pereira, Corendon Alanyaspor ile 1 yıllık yeni sözleşme imzaladı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/05/15/large/trabzonsporun-eski-futbolcusu-pereira-imzayi-atti.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_e46e21a4",
-    "title": "Trabzonspor’un gol yükünü sırtladı, şimdi tarihe göz dikti",
-    "source": "61 Saat",
-    "time": "15/05/2026 21:09",
-    "link": "https://www.61saat.com/trabzonsporun-gol-yukunu-sirtladi-simdi-tarihe-goz-dikti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'in son haftasında Natura Dünyası Gençlerbirliği'ni konuk edecek Trabzonspor'da 22 gol ile gol krallığı yarışında ilk sırada bulunan Paul Onuachu, yerini koruması halinde bu başarıyı kulüp tarihinde elde eden 6. oyuncu olacak.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/05/onuac-1.png",
-    "keyword": "TRABZON"
   }
 ]
