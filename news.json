@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_7debf84e",
+    "title": "Zeydan Karalar ameliyat oldu",
+    "source": "Ekonomim",
+    "time": "17/05/2026 04:29",
+    "link": "https://www.ekonomim.com/gundem/zeydan-karalar-ameliyat-oldu-haberi-894508",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Zeydan Karalar, ameliyat geçirdi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/02/13/tahliyesine-itiraz-edilen-adana-buyuksehir-belediye-baskani-zeydan-karalar-hakkinda-yeni-karar-nm5h_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_d0c05562",
+    "title": "Eğitim ve öğretimde laiklik",
+    "source": "Cumhuriyet",
+    "time": "17/05/2026 04:29",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/ozdemir-ince/egitim-ve-ogretimde-laiklik-2504445",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Değerli okur!",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar376_cover.jpeg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_11b7301c",
+    "title": "Adalet Bakanlığı ve Bakan Gürlek’in eylemleri hukuk sistemini tartışma konusu yaptı",
+    "source": "Cumhuriyet",
+    "time": "17/05/2026 04:29",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/adalet-bakanligi-ve-bakan-gurlek-in-eylemleri-hukuk-sistemini-tartisma-konusu-yapti-2504461",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Barosu’na kayıtlı Av. İsmail Sami Çakmak; Cumhurbaşkanlığı’na Adalet Bakanı Akın Gürlek hakkında şikayette bulundu. Çakmak şikayetinde Bakan Gürlek’in soruşturmalarda dosya bilgilerini afişe ettiğini ve bu durumun Hakimler ve Savcılar Kurulu’na güveni tartışmaya açtığını belirtti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a0bd967c-a288-4996-a75f-7c8474395716.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_796c08cf",
+    "title": "CHP soruyor ama Gürlek üç ayda hiçbir önergeye yanıt vermedi: Yanıtsız önergeler 400’ü aştı",
+    "source": "Cumhuriyet",
+    "time": "17/05/2026 04:29",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/chp-soruyor-ama-gurlek-uc-ayda-hicbir-onergeye-yanit-vermedi-yanitsiz-onergeler-400-u-asti-2504457",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP’liler, son dönemde belediye operasyonları üzerinden sızdırılan mesajlar ve paylaşılan bilgi notlarıyla ilgili Adalet Bakanı Akın Gürlek’in yanıtlaması istemiyle soru önergeleri verirken, Gürlek göreve geldiğinden bu yana hâlâ bir tane soru önergesi bile yanıtlamadı. Gürlek’in yanıtsız bıraktığı önerge sayısı 400’ü aştı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/daad4b30-d633-4c8f-ab8a-1513ecbd21f7.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_df981ce9",
+    "title": "Aptallığa övgü!",
+    "source": "Cumhuriyet",
+    "time": "17/05/2026 04:29",
+    "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/aptalliga-ovgu-2504444",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "“İnsan Aptallığının Temel Yasaları” (The Basic Laws of Human Stupidity) İtalyan tarihçi Carlo Maria Cipolla’nın 1976’da yazdığı bir kitaptır.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar22_cover.jpeg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2f984f91",
+    "title": "Gaz sızıntısından zehirlenen yurttaş hayatını kaybetti",
+    "source": "BirGün",
+    "time": "17/05/2026 04:29",
+    "link": "https://www.birgun.net/haber/gaz-sizintisindan-zehirlenen-yurttas-hayatini-kaybetti-713022",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir'de duş almak için piknik tüpüyle su ısıtan 71 yaşındaki Hatice Özsoy tüpten sızan gazdan zehirlenerek hayatını kaybetti.",
+    "image": "https://static.birgun.net/resim/haber/2026/05/17/gaz-sizintisindan-zehirlenen-yurttas-hayatini-kaybetti.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_69310c89",
     "title": "Engelliler Haftası Kapsamında Düzenlenen Birlikte Yaşam Şenliği’nde Özel Bireylerimiz Ve Aileleri Keyifli Bir Gün Geçirdi. - Aile ve Sosyal Hizmetler Bakanlığı",
     "source": "Google Haberler",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "Günlük Burç Yorumları: 17 Mayıs Pazar Yay Burcu Yorumu",
     "image": "https://media.cumhuriyet.com.tr/Archive/3b4d5ba1-607e-47f1-817f-ff8cb85fe566.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_416ffc24",
-    "title": "Trabzon da Esenler Gençlik Rotası’nda yer alacak",
-    "source": "Haber61",
-    "time": "16/05/2026 20:49",
-    "link": "https://www.haber61.net/gundem/trabzon-da-esenler-genclik-rotasinda-yer-alacak-h632521.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Esenler Belediyesi’nin 5’incisini düzenlediği Gençlik Günleri’nde gençler için birçok etkinlik yapılacak. Program kapsamında düzenlenecek “Gençlik Rotası” gezilerinde Trabzon da yer alacak.",
-    "image": "https://resim.haber61.net/news/618096.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_9ec359fd",
-    "title": "Mehmet İlhan Gülay: Yeni nesil Zara Meydan İstanbul’da",
-    "source": "Cumhuriyet",
-    "time": "16/05/2026 20:49",
-    "link": "https://www.cumhuriyet.com.tr/moda/mehmet-ilhan-gulay-yeni-nesil-zara-meydan-istanbul-da-2504425",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "WAM Asset Management İcra Kurulu Başkan Yardımcısı Mehmet İlhan Gülay, \"Meydan İstanbul’u yalnızca bir alışveriş merkezi değil, yaşam, deneyim ve güçlü markaların buluştuğu uluslararası bir perakende destinasyonu olarak konumlandırıyoruz\" açıklaması yaptı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/929c8700-e406-4e68-a273-11f6b4b9cd9d.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_3c679c84",
-    "title": "Trabzonspor’da Ernest Muçi Kararı! Dev Transferin Maliyeti Ortaya Çıktı",
-    "source": "Taka Gazetesi",
-    "time": "16/05/2026 20:49",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-ernest-muci-karari-dev-transferin-maliyeti-ortaya-cikti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, uzun süredir gündeminde yer alan Ernest Muçi transferinde kararını verdi. Bordo-Mavililerin, satın alma opsiyonunu kullanarak Arnavut futbolcunun bonservisini alacağı iddia edildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/05/chatgpt-image-16-may-2026-20-17-36.png",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_70e4ae07",
-    "title": "CHP’den Pazarkapı esnafına ziyaret! “Esnaf büyük mücadele veriyor”",
-    "source": "Haber61",
-    "time": "16/05/2026 20:49",
-    "link": "https://www.haber61.net/trabzon/chpden-pazarkapi-esnafina-ziyaret-esnaf-buyuk-mucadele-veriyor-h632522.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "CHP Trabzon İl Başkanı Mustafa Bak, Gaziantep Milletvekili Hasan Öztürkmen ve parti teşkilatıyla birlikte Pazarkapı esnafını ziyaret etti. Ziyarette artan maliyetler, kira ve vergi yükleri nedeniyle esnafın ayakta kalmakta zorlandığı vurgulandı.",
-    "image": "https://resim.haber61.net/news/618098.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_42dd9254",
-    "title": "Malatya Yeşilyurtspor'u tek golle mağlup etti: Çorluspor 1947,  2. Lig'e yükseldi",
-    "source": "Cumhuriyet",
-    "time": "16/05/2026 20:49",
-    "link": "https://www.cumhuriyet.com.tr/spor/malatya-yesilyurtspor-u-tek-golle-maglup-etti-corluspor-1947-2-lig-e-yukseldi-2504426",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çorluspor 1947, Nesine 3. Lig play-off finalinde Malatya Yeşilyurtspor'u 1-0 mağlup etti ve 2. Lig'e yükselme başarısı gösterdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/902a94e2-c767-4af6-a8c1-965367a00458.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_ff1cca05",
-    "title": "Trabzon’da Engeller Sahada Aşıldı! Özel Gereksinimli Kadınlardan Alkışlanan Maç",
-    "source": "Taka Gazetesi",
-    "time": "16/05/2026 20:49",
-    "link": "https://www.takagazete.com.tr/foto-galeri/trabzonda-engeller-sahada-asildi-ozel-gereksinimli-kadinlardan-alkislanan-mac",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediyesi ev sahipliğinde düzenlenen anlamlı etkinlikte özel gereksinimli kadınlar futbol sahasında buluştu. Engelliler Haftası kapsamında gerçekleştirilen organizasyonda işitme ve konuşma engelli ev hanımlarının oluşturduğu takımlar dostluk için mücadele etti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/05/chatgpt-image-16-may-2026-20-27-31.png",
     "keyword": ""
   }
 ]
