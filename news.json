@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_a2662732",
+    "title": "Odatv'nin hafta sonu dosyası: Niğde'de doğan Belçika çikolatası",
+    "source": "OdaTV",
+    "time": "18/05/2026 06:49",
+    "link": "https://www.odatv.com/guncel/odatvnin-hafta-sonu-dosyasi-nigdede-dogan-belcika-cikolatasi-120147524",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hafta sonu Odatv yazarları, kaleme aldıkları yazılarla film-dizi sektörü, sağlık, kültür, spor, gastronomi alanlarına çeşitli pencerelerden ışık tuttu. Yeni haftaya geçmeden önce bu yedi yazıya mutlaka göz atmayı unutmayın.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/18/odatvnin-hafta-sonu-dosyasi-nigdede-dogan-belcika-cikolatasi-kdlq.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_31da7e35",
+    "title": "Kabine bugün yoğun gündemle toplanıyor",
+    "source": "Haber Global",
+    "time": "18/05/2026 06:49",
+    "link": "https://haberglobal.com/gundem/kabine-bugun-yogun-gundemle-toplaniyor-525096",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Kabine bugün toplanacak. Kabine toplantısının gündeminde İsrail'in yayılmacı politikası, ekonomik gelişmeler ve terörsüz Türkiye süreci ele alınacak. İşte detaylar...",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/18/kabine-bugun-yogun-gundemle-toplaniyor-8h1a.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_77fb2a6a",
+    "title": "Beşiktaş'ta otomobiller çarpıştı: Çok sayıda yaralı var",
+    "source": "Haber Global",
+    "time": "18/05/2026 06:49",
+    "link": "https://haberglobal.com/gundem/besiktasta-otomobiller-carpisti-cok-sayida-yarali-var-525097",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beşiktaş'ta iki otomobilin çarpışması sonucu meydana gelen kazada 9 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/18/besiktasta-otomobiller-carpisti-cok-sayida-yarali-var-7jf3.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2f215c97",
+    "title": "Kabinede kritik başlıklar: Orta Doğu, ekonomi, güvenlik",
+    "source": "TRT Haber",
+    "time": "18/05/2026 06:49",
+    "link": "https://www.trthaber.com/haber/gundem/kabinede-kritik-basliklar-orta-dogu-ekonomi-guvenlik-945387.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yeni haftanın ilk gününde kabine toplantısına başkanlık edecek. Toplantının ana gündeminde İsrail'in bölgedeki gerilim ve çatışmayı yayma girişimleri ve buna karşı atılacak adımlar olacak. Orta Doğu'daki tüm gelişmeler ve ekonomiye yansımaları Kabine toplantısında ele alınacak.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_140c07ff",
+    "title": "İstanbul'da iki araç kafa kafaya çarpıştı: 9 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "18/05/2026 06:49",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-iki-arac-kafa-kafaya-carpisti-9-kisi-yaralandi-945388.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beşiktaş'ta iki otomobil kafa kafaya çarpıştı. Meydana gelen trafik kazasında yaralanan 9 kişi hastaneye kaldırılırken yol da bir süre trafiğe kapatıldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_645c581a",
+    "title": "'Başkasıyla evlendirecek' bahanesiyle eski nişanlısının babasını öldüren fail gözaltına alındı",
+    "source": "Evrensel",
+    "time": "18/05/2026 06:49",
+    "link": "https://www.evrensel.net/haber/5984547/baskasiyla-evlendirecek-bahanesiyle-eski-nisanlisinin-babasini-olduren-fail-gozaltina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'da nişanın bozulmasından aileyi sorumlu tutan ve eski nişanlısının baskıyla bir başkasıyla evlendirileceği iddiasını öne süren S.Ç, kadının babasına saldırdı. Taksiyle geldiği mahallede Özgür Yelegen'i tabancayla vurarak öldüren katil zanlısı gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/347812.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_a3fe3873",
     "title": "CHP'li Şahin'den Partililere Uyarı: “Kendi seçmeninizle fotoğraf çektirmeyi bırakın” - Gunebakış",
     "source": "Google Haberler",
@@ -4725,78 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, Trendyol Süper Lig’in 34. haftasında sahasında Gençlerbirliği’ne 3-0 mağlup olarak taraftarını üzdü. Karşılaşmanın ardından açıklamalarda bulunan teknik direktör Fatih Tekke, alınan sonucun bordo-mavili kulüp adına kabul edilebilir olmadığını söyledi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/05/chatgpt-image-17-may-2026-22-56-16.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_33e269d1",
-    "title": "Gençlerbirliği Trabzon’u yenip ligde kaldı",
-    "source": "10Haber",
-    "time": "17/05/2026 23:09",
-    "link": "https://10haber.net/spor/genclerbirligi-trabzonu-yenip-ligde-kaldi-704192/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "7. dakikada Nwakaeme’nin sağdan kullandığı köşe atışında, ceza alanı içinde Ozan Tufan’ın kafa vuruşunda kaleci Velho, topu kornere çeldi. 16. dakikada Nwakaeme’nin soldan ortasında, ceza alanı içinde Onuachu’nun kafa vuruşunda, top üsten auta gitti. 18. dakikada Bouchouari’nin ceza yayı çizgisi üzerinden şutunda kaleci Velho’dan dönen topu Onuachu tamamlayarak filelere gönderdi. Ancak bu oyuncu ofsaytta olduğu …",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/05/image_6a0a1e202bcec0.13424674.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_2c3ce957",
-    "title": "Şampiyon Galatasaray, sezonu Kasımpaşa mağlubiyetiyle kapattı",
-    "source": "10Haber",
-    "time": "17/05/2026 23:09",
-    "link": "https://10haber.net/spor/sampiyon-galatasaray-sezonu-kasimpasa-maglubiyetiyle-kapatti-704194/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son hafta müsabakasına şampiyonluğu garantileyerek çıkan sarı-kırmızılı ekip, Recep Tayyip Erdoğan Stadı’nda ligde kalma mücadelesi veren lacivert-beyazlılara konuk oldu. Galatasaray, mücadelenin ilk yarısında Noa Lang ve Leroy Sane ile girdiği pozisyonlardan gol çıkartamadı. Lacivert-beyazlılar, dengeli geçen ilk yarıyı Adrian Benedyczak’ın 27. dakikada attığı golle 1-0 önde tamamladı. Orta saha mücadelesi şeklinde geçen ikinci yarıda gol …",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/05/image_6a0a1e3e7ff303.04411517.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_33e269d1",
-    "title": "Gençlerbirliği Trabzon’u yenip ligde kaldı",
-    "source": "10Haber",
-    "time": "17/05/2026 23:09",
-    "link": "https://10haber.net/spor/genclerbirligi-trabzonu-yenip-ligde-kaldi-704192/",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "7. dakikada Nwakaeme’nin sağdan kullandığı köşe atışında, ceza alanı içinde Ozan Tufan’ın kafa vuruşunda kaleci Velho, topu kornere çeldi. 16. dakikada Nwakaeme’nin soldan ortasında, ceza alanı içinde Onuachu’nun kafa vuruşunda, top üsten auta gitti. 18. dakikada Bouchouari’nin ceza yayı çizgisi üzerinden şutunda kaleci Velho’dan dönen topu Onuachu tamamlayarak filelere gönderdi. Ancak bu oyuncu ofsaytta olduğu …",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/05/image_6a0a1e202bcec0.13424674.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_62837b5b",
-    "title": "Eyüpspor Fenerbahçe ile berabere kalıp ligde kalmayı başardı",
-    "source": "10Haber",
-    "time": "17/05/2026 23:09",
-    "link": "https://10haber.net/spor/eyupspor-fenerbahce-ile-berabere-kalip-ligde-kalmayi-basardi-704196/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "10. dakikada Fenerbahçe etkili geldi. Pas arası yaparak meşin yuvarlağı kapan İsmail Yüksek rakibinden sıyrılıp ceza sahasına girdi. Bu futbolcunun sol çaprazdan sert şutunda kaleci Jankat Yılmaz gole izin vermedi. 17. dakikada ikas Eyüpspor öne geçti. Fenerbahçe savunmasının uzaklaştırmak istediği topu kapan Umut Bozok, ceza yayı önüne gelip sağdan atağa katılan Legowski’ye pasını aktardı. Bu …",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/05/image_6a0a1e764ac625.47666287.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_902864e0",
-    "title": "Gençlerbirliği'nden Metin Diyadin: \"Ben Gülbaharhatun'da doğdum; mezarlığımda Bahçecik'te\"",
-    "source": "Günebakış",
-    "time": "17/05/2026 23:09",
-    "link": "https://www.gunebakis.com.tr/genclerbirliginden-metin-diyadin-ben-gulbaharhatunda-dogdum-mezarligimda-bahcecikte/28002769",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Gençlerbirliği Teknik Direktörü Metin Diyadin maç sonu açıklamalarda bulundu.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/05/17/large/genclerbirliginden-metin-diyadin-ben-gulbaharhatunda-dogdum-mezarligimda-bahcecikte-1.webp",
-    "keyword": ""
-  },
-  {
-    "id": "GND_75ec457e",
-    "title": "Süper Lig’e veda eden üçüncü ve son takım Antalyaspor oldu",
-    "source": "10Haber",
-    "time": "17/05/2026 23:09",
-    "link": "https://10haber.net/spor/super-lige-veda-eden-ucuncu-ve-son-takim-antalyaspor-oldu-704198/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "10. dakikada Antalyaspor gole yaklaştı. Sol kanattan ceza sahasına giren Ballet’in yerden etkili ortasına hareketlenen Van de Streek’in bekletmeden vuruşunda top direğe çarparak oyun alanına döndü. Dönen topu önünde bulan Safuri’nin şutunda ise top, Kocaelisporlu oyunculara çarptıktan sonra tehlikeli bölgeden uzaklaştı. 15. dakikada Ahmet Oğuz’un sağ kanattan ortasında penaltı noktasına yakın bir bölgede topla buluşan …",
-    "image": "https://i.10haber.net/wp-content/uploads/2026/05/image_6a0a1e922be005.84882878.jpg",
     "keyword": ""
   }
 ]
