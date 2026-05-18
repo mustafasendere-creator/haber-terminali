@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_ac2e1696",
+    "title": "Dereye uçtu ucuz kurtuldu",
+    "source": "OdaTV",
+    "time": "18/05/2026 03:29",
+    "link": "https://www.odatv.com/guncel/dereye-uctu-ucuz-kurtuldu-120147521",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce’nin Yığılca ilçesinde kontrolden çıkan otomobil dereye uçtu. Kazada otomobil sürücüsü hafif yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/18/dereye-uctu-ucuz-kurtuldu-tim4.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_155a9b80",
+    "title": "Trabzonspor'da Aral Şimşir ve Andersen harekatı",
+    "source": "Günebakış",
+    "time": "18/05/2026 03:29",
+    "link": "https://www.gunebakis.com.tr/trabzonsporda-aral-simsir-ve-andersen-harekati/28002846",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trabzonspor, iki genç yıldız için şartları zorluyor",
+    "image": "https://static.daktilo.com/sites/1262/uploads/2026/05/17/large/trabzonsporda-aral-simsir-ve-andersen-harekati-1.jpg",
+    "keyword": ""
+  },
+  {
     "id": "SOC_a51963aa",
     "title": "🗣️ Sosyal Medya Keşfi",
     "source": "Social Searcher (Sosyal Medya)",
@@ -4774,29 +4798,5 @@
     "summary": "Trabzonspor, Süper Lig'in son haftasında sahasında ağırladığı Gençlerbirliği'ne 3-0 yenildi. Bu sonuçla Ankara ekibi ligde kaldı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/05/17/large/kapanis.jpg",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_fe461bc5",
-    "title": "Gençlerbirliği 3 golle güldü: Trabzonspor, Süper Lig'i mağlubiyetle tamamladı",
-    "source": "Cumhuriyet",
-    "time": "17/05/2026 22:10",
-    "link": "https://www.cumhuriyet.com.tr/spor/genclerbirligi-3-golle-guldu-trabzonspor-super-lig-i-maglubiyetle-tamamladi-2504580",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trabzonspor, Trendyol Süper Lig'in 34. ve son haftasında sahasında Natura Dünyası Gençlerbirliği ile karşılaştı. Gençlerbirliği 3-0 kazanarak son haftada lige tutunmayı başardı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/af6be2f5-6944-4170-9c32-e8a17dda6734.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_3cd48654",
-    "title": "Tek golle mağlup oldu: Şampiyon Galatasaray, Kasımpaşa deplasmanında kayıp",
-    "source": "Cumhuriyet",
-    "time": "17/05/2026 22:10",
-    "link": "https://www.cumhuriyet.com.tr/spor/tek-golle-maglup-oldu-sampiyon-galatasaray-dan-kasimpasa-deplasmaninda-kayip-2504583",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig'in 34. haftasında şampiyon Galatasaray, Kasımpaşa'ya deplasmanda 1-0 mağlup oldu. Kasımpaşa, aldığı bu galibiyetle ligde kalmayı başardı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/359e0301-1c37-470f-9d1c-40f55a7d3c50.jpg",
-    "keyword": ""
   }
 ]
