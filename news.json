@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_649d4535",
+    "title": "Otomobil refüje böyle çarptı",
+    "source": "OdaTV",
+    "time": "22/05/2026 03:29",
+    "link": "https://www.odatv.com/guncel/otomobil-refuje-boyle-carpti-120148108",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Iğdır’da otomobilin refüje çarpması sonucu meydana gelen trafik kazasında 3 kişi yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/22/otomobil-refuje-boyle-carpti-v0m8.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ab193b5d",
+    "title": "SOL Parti'den CHP Lideri Özgür Özel'e ziyaret: “Dayanışmanın ötesinde birleşik mücadele gerekli”",
+    "source": "BirGün",
+    "time": "22/05/2026 03:29",
+    "link": "https://www.birgun.net/haber/sol-parti-den-chp-lideri-ozgur-ozel-e-ziyaret-dayanismanin-otesinde-birlesik-mucadele-gerekli-714144",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "SOL Parti, Ankara Bölge Adliye Mahkemesi 36. Hukuk Dairesi'nin CHP'nin 38. Olağan Kurultayı hakkında verdiği mutlak butlan kararının ardından CHP Lideri Özgür Özel'i ziyaret ederek dayanışma ve birlikte mücadele mesajlarını iletti.",
+    "image": "https://static.birgun.net/resim/haber/2026/05/22/sol-parti-den-chp-lideri-ozgur-ozel-e-ziyaret.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b2216fa3",
+    "title": "Türkiye Barolar Birliği'nden mutlak butlan tepkisi: Verilen karar çoğulcu demokrasiyi esastan etkilemektedir",
+    "source": "BirGün",
+    "time": "22/05/2026 03:29",
+    "link": "https://www.birgun.net/haber/turkiye-barolar-birligi-nden-mutlak-butlan-tepkisi-verilen-karar-cogulcu-demokrasiyi-esastan-etkilemektedir-714145",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Barolar Birliği, CHP'nin 38. Olağan Genel Kurulu'nun iptalinin ardından yaptığı açıklamada \"Karar, hukuki bir uyuşmazlığın çözümü olmanın ötesinde, yargı eliyle siyasi alana doğrudan bir müdahale görüntüsü ortaya çıkarmıştır\" dedi.",
+    "image": "https://static.birgun.net/resim/haber/2026/05/22/turkiye-barolar-birligi-nden-mutlak-butlan-tepkisi-verilen-karar-cogulcu-demokrasiyi-esastan-etkilemektedir.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_5b059d66",
+    "title": "Beşiktaş Belediyesi soruşturması: 3 şüpheli tutuklandı",
+    "source": "BirGün",
+    "time": "22/05/2026 03:29",
+    "link": "https://www.birgun.net/haber/besiktas-belediyesi-sorusturmasi-3-supheli-tutuklandi-714146",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında gözaltına alınan 3 şüpheli daha tutuklandı.",
+    "image": "https://static.birgun.net/resim/haber/2026/05/22/besiktas-belediyesi-sorusturmasi-3-supheli-tutuklandi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_be625db4",
+    "title": "Dilovası Davası: 3 sanık tahliye edildi, 5 sanık hakkında ise tutukluluğa devam kararı verildi",
+    "source": "BirGün",
+    "time": "22/05/2026 03:29",
+    "link": "https://www.birgun.net/haber/dilovasi-davasi-3-sanik-tahliye-edildi-5-sanik-hakkinda-ise-tutukluluga-devam-karari-verildi-714147",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "7 işçinin yaşamını yitirdiği parfüm dolum imalathanesi yangınıyla ilgili davanın, ikinci duruşmasının ikinci oturumu sonunda 3 sanığın tahliyesine, 5 sanığın tutukluluk hallerinin devamına karar verdi.",
+    "image": "https://static.birgun.net/resim/haber/2026/05/22/dilovasi-davasi-3-sanik-tahliye-edildi-5-sanik-hakkinda-ise-tutukluluga-devam-karari-verildi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_3b3c19b9",
+    "title": "San Diego İslam Merkezi saldırısında hayatını kaybedenler için cenaze töreni düzenledi",
+    "source": "Anadolu Ajansı",
+    "time": "22/05/2026 03:29",
+    "link": "https://www.aa.com.tr/tr/dunya/san-diego-islam-merkezi-saldirisinda-hayatini-kaybedenler-icin-cenaze-toreni-duzenledi/3945267",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'nin California eyaletindeki San Diego İslam Merkezi'nde gerçekleştirilen silahlı saldırıda hayatını kaybeden 3 kişi için cenaze töreni düzenlendi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_c6d6610f",
     "title": "Bolu'da faciadan dönüldü",
     "source": "OdaTV",
@@ -4726,77 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_d70e8154",
-    "title": "Cem Boyner'den Z kuşağı itirafı: 'Sizi kandırdık'",
-    "source": "OdaTV",
-    "time": "21/05/2026 21:30",
-    "link": "https://www.odatv.com/ekonomi/cem-boynerden-z-kusagi-itirafi-sizi-kandirdik-120148036",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Boyner Holding'in sahibi Cem Boyner, Z kuşağının kurallara ve markalara mesafeli duruşunu haklı bularak \"Sizi biz kandırdık\" dedi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/21/cem-boynerden-z-kusagi-itirafi-sizi-kandirdik-6igi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_b55fe0d4",
-    "title": "Kılıçdaroğlu'nun görevi devralmasına karar verildi - Gunebakış",
-    "source": "Google Haberler",
-    "time": "21/05/2026 21:30",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTNyOTBtZTdjejZJUnJTa0EteTl5MGNoLVRoUExYdVowX3NXMUdKQkMxU2pSTUNDLXRGOU4ySkdHeE1uVE5qOFBwWFlSaERqaHItUEZhLVgyWUY2ZW4tcXJHck9TQkdCVmo5NUF3cFFwbUR2LW1QSWtOc2RSWGd2WmhtRmd6emRhOUxjd2NXQVFuOHdWWGfSAZYBQVVfeXFMTm0zcjkwbWU3Y3o2SVJyU2tBLXk5eTBjaC1UaFBMWHVaMF9zVzFHSkJDMVNqUk1DQy10RjlOMkpHR3hNblROajhQcFhZUmhEamhyLVBGYS1YMllGNmVuLXFyR3JPU0JHQlZqOTVBd3BRcG1Edi1tUElrTnNkUlhndlpobUZnenpkYTlMY3djV0FRbjh3Vlhn?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_c551e303",
-    "title": "Gazeteci Alican Uludağ'a tahliye oldu",
-    "source": "OdaTV",
-    "time": "21/05/2026 21:30",
-    "link": "https://www.odatv.com/guncel/gazeteci-alican-uludaga-tahliye-karari-alican-uludaga-tahliye-oldu-120148047",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara 27. Asliye Ceza Mahkemesi' tutuklu gazeteci Alican Uludağ'ın tahliyesine karar verdi. Karar sonrası Uludağ 19:30 sularında tahliye edildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/21/gazeteci-alican-uludaga-tahliye-karari-alican-uludaga-tahliye-oldu-at1t.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_16eb7e43",
-    "title": "Liderler arasında en zengin kütüphane kimde",
-    "source": "OdaTV",
-    "time": "21/05/2026 21:30",
-    "link": "https://www.odatv.com/guncel/liderler-arasinda-en-zengin-kutuphane-kimde-120148055",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Zafer Partisi Genel Başkanı Ümit Özdağ, gazeteci Alev Olgay’a evinin kapılarını açtı. Özdağ’ın binlerce kitaptan oluşan devasa kütüphanesi sosyal medyada gündem oldu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/21/liderler-arasinda-en-zengin-kutuphane-kimde-qmnd.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_dcca049a",
-    "title": "İşletmeci Ali Ünal'a silahlı saldırı",
-    "source": "OdaTV",
-    "time": "21/05/2026 21:30",
-    "link": "https://www.odatv.com/guncel/isletmeci-ali-unala-silahli-saldiri-120148095",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul gece hayatının tanınan işletmecilerinden Ali Ünal, Ruby İstanbul’da çıkan tartışmanın ardından silahlı saldırıya uğrayarak yaralandı. Kıyafet uyarısıyla başladığı iddia edilen tartışmanın kavgaya dönüşmesi sonrası gerçekleşen olayla ilgili polis soruşturması başlatıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/21/isletmeci-ali-unala-silahli-saldiri-yvxt.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_33b8ad88",
-    "title": "Gazprom: Avrupa'nın doğal gaz depolarındaki doluluk tarihi düşük seviyede",
-    "source": "Ekonomim",
-    "time": "21/05/2026 21:30",
-    "link": "https://www.ekonomim.com/sektorler/enerji/gazprom-avrupanin-dogal-gaz-depolarindaki-doluluk-tarihi-dusuk-seviyede-haberi-895425",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rus enerji şirketi Gazprom, Avrupa'da yer altı doğal gaz depolarına dolum hacimlerinin, ölçüm tarihinin en düşük seviyesine gerilediğini bildirdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/01/28/gazproma-danimarkadan-boru-hatti-izni-cikti-hisseler-tavan-yapti-orwh_cover.jpg",
-    "keyword": ""
   }
 ]
