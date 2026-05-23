@@ -1,5 +1,41 @@
 [
   {
+    "id": "TKP_eda663b5",
+    "title": "Trabzonspor Kupayla Trabzon’a Döndü! Havalimanında Fatih Tekke’ye Büyük Destek",
+    "source": "Günebakış",
+    "time": "23/05/2026 04:02",
+    "link": "https://www.gunebakis.com.tr/trabzonspor-kupayla-trabzona-dondu-havalimaninda-fatih-tekkeye-buyuk-destek/28034148",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzonspor, Ziraat Türkiye Kupası’nı kazanmasının ardından gece saatlerinde Trabzon’a geldi. Taraftarlar havalimanında futbolcuları ve teknik heyeti coşkuyla karşıladı.",
+    "image": "https://static.daktilo.com/sites/1262/uploads/2026/05/23/large/trabzonspor-kupayla-trabzona-dondu-havalimaninda-fatih-tekkeye-buyuk-destek-1.webp",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "TKP_00467669",
+    "title": "Karadağ'da tarih yazan milli sporcuya Trabzon Havalimanı'nda karşılama",
+    "source": "Günebakış",
+    "time": "23/05/2026 04:02",
+    "link": "https://www.gunebakis.com.tr/karadagda-tarih-yazan-milli-sporcuya-trabzon-havalimaninda-karsilama/28033627",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "",
+    "image": "https://static.daktilo.com/sites/1262/uploads/2026/05/22/large/karadagda-tarih-yazan-milli-sporcuya-trabzon-havalimaninda-karsilama.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_4cc2cba6",
+    "title": "Düzce'de nitelikli dolandırıcılık operasyonu",
+    "source": "TRT Haber",
+    "time": "23/05/2026 04:01",
+    "link": "https://www.trthaber.com/haber/turkiye/duzcede-nitelikli-dolandiricilik-operasyonu-946041.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce'de meslek lisesi öğrencilerini çalışan olarak gösterip haksız kazanç sağlayanlara yönelik operasyonda yakalanan 21 şüpheliden 9'u tutuklandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "SOC_9c76036a",
     "title": "🗣️ Trabzon Meydan Parkı’nda Final Maçı Sırasında Gerginlik: Güvenlik Müdahale Etti",
     "source": "YouTube",
@@ -4760,42 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı etkinlikleri kapsamında Samsun'da gerçekleştirilen gösteri uçuşunun kokpit içi görüntüsünü paylaştı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_4604b448",
-    "title": "Macaristan Başbakanı: Hükümet, Uluslararası Ceza Mahkemesi'nden ayrılma niyetini geri çekiyor",
-    "source": "Anadolu Ajansı",
-    "time": "22/05/2026 23:21",
-    "link": "https://www.aa.com.tr/tr/dunya/macaristan-basbakani-hukumet-uluslararasi-ceza-mahkemesinden-ayrilma-niyetini-geri-cekiyor/3946258",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Macaristan Başbakanı Peter Magyar, Viktor Orban döneminden kalan Uluslararası Ceza Mahkemesi'nden ayrılma niyetini geri çektiklerini bildirdi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_9a214381",
-    "title": "\"Şule Senin Hikayen\" dizisinin galası Atatürk Kültür Merkezi'nde yapıldı",
-    "source": "Anadolu Ajansı",
-    "time": "22/05/2026 23:21",
-    "link": "https://www.aa.com.tr/tr/kultur/sule-senin-hikayen-dizisinin-galasi-ataturk-kultur-merkezinde-yapildi/3946260",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TRT'nin uluslararası dijital platformu tabii'nin \"Şule Senin Hikayen\" adlı yeni dizisinin galası, Atatürk Kültür Merkezi'nde (AKM) gerçekleştirildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_45564d13",
-    "title": "Prizren Yunus Emre Enstitüsünde \"Özdemir Bayraktar Teknoloji Atölyesi\" Açıldı",
-    "source": "Anadolu Ajansı",
-    "time": "22/05/2026 23:21",
-    "link": "https://www.aa.com.tr/tr/bilim-teknoloji/prizren-yunus-emre-enstitusunde-ozdemir-bayraktar-teknoloji-atolyesi-acildi/3946261",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kosova’nın Prizren şehrindeki Yunus Emre Enstitüsünde (YEE), gençlerin teknoloji ve inovasyon alanlarındaki gelişimlerine katkı sunmak amacıyla oluşturulan \"Özdemir Bayraktar Teknoloji Atölyesi\" törenle hizmete açıldı.",
     "image": null,
     "keyword": ""
   }
