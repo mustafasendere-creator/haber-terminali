@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_b79c0e93",
+    "title": "ABD alarma geçti: Beyaz Saray yakınlarında silah sesleri",
+    "source": "Haber Global",
+    "time": "24/05/2026 06:41",
+    "link": "https://haberglobal.com/dunya/abd-alarma-gecti-beyaz-saray-yakinlarinda-silah-sesleri-526267",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyaz Saray yakınlarında duyulan çok sayıdaki silah sesleri ABD'yi alarma geçirdi. ABD Gizli Servisi, Beyaz Saray yakınlarında silah sesi duyulmasına ilişkin yaptığı açıklamada şüpheli kişinin hedef alındığını ve ağır yaralı olarak kaldırıldığı hastanede hayatını kaybettiğini bildirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/24/abd-alarma-gecti-beyaz-saray-yakinlarinda-silah-sesleri-qr97.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_bcf3b4df",
+    "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ve Körfez liderleriyle görüştü",
+    "source": "Haber Global",
+    "time": "24/05/2026 06:41",
+    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ve-korfez-liderleriyle-gorustu-526268",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ve birçok mevkidaşıyla telekonferans yoluyla görüştü. Erdoğan, görüşmede, \"İran'daki sorunlar diyalog ve diplomasi yoluyla çözülmeli\" dedi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/24/cumhurbaskani-erdogan-abd-baskani-trump-ve-korfez-liderleriyle-gorustu-4vnq.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_3572839d",
+    "title": "Beyaz Saray yakınlarında silahlı saldırı",
+    "source": "TRT Haber",
+    "time": "24/05/2026 06:41",
+    "link": "https://www.trthaber.com/haber/dunya/beyaz-saray-yakinlarinda-silahli-saldiri-946112.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyaz Saray yakınlarında çok sayıda silah sesi duyuldu. Gizli Servis ile Federal Soruşturma Bürosu FBI ajanları olaya müdahale etti. Silah seslerinin duyulduğu esnada ABD Başkanı Trump da Beyaz Saray'daydı. Ağır yaralanan şüpheli saldırıda hayatını kaybetti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_b647a5fd",
+    "title": "Minibüsle pikabın çarpıştığı kazada 1 kişi öldü",
+    "source": "TRT Haber",
+    "time": "24/05/2026 06:41",
+    "link": "https://www.trthaber.com/haber/turkiye/minibusle-pikabin-carpistigi-kazada-1-kisi-oldu-946118.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yozgat'ın Boğazlıyan ilçesinde minibüs ile pikabın çarpışması sonucu 1 kişi öldü, 2 kişi yaralandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_417f4153",
+    "title": "İnanmanın Zorlaştığı Zamanlar",
+    "source": "10Haber",
+    "time": "24/05/2026 06:41",
+    "link": "https://10haber.net/yazarlar/bulent-korman/inanmanin-zorlastigi-zamanlar-705781/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye’nin bir kez daha biraz tuhaf bir döneme girdiğini düşünüyorum. Uzun süre birçok şeyin açıkça söylenmediğinden şikâyet ettik. İmaların, diplomatik cümlelerin, yarım ağız konuşmaların, üzeri örtülen meselelerin arasında; bir oraya bir buraya çekiştirilerek yaşadık. İnsanlar ne düşündüğünü söylemiyor, söyleyemiyor ya da söylemek istemiyordu. Ama mesele sadece suskunluk değildi. Birçok insanın asıl itirazı, doğru ve dürüst …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/05/hakikat.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_3c90aa23",
     "title": "Adana'da korkutan deprem: Çevre illerden de hissedildi",
     "source": "Haber Global",
@@ -4738,65 +4798,5 @@
     "summary": "CHP Malatya Milletvekili Veli Ağbaba'nın makam şoförü Gaffar Çiçek tutuklandı.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/05/23/veli-agbabanin-gozaltina-alinan-soforu-tutuklandi-ntfa.jpg",
     "keyword": ""
-  },
-  {
-    "id": "GND_c646f1bf",
-    "title": "Milli sporcu Enes Özdemir, Avrupa Karate Şampiyonası'nda altın madalya kazandı",
-    "source": "Haber Global",
-    "time": "23/05/2026 21:42",
-    "link": "https://haberglobal.com/spor/milli-sporcu-enes-ozdemir-avrupa-karate-sampiyonasinda-altin-madalya-kazandi-526240",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'da düzenlenen Avrupa Karate Şampiyonası'nda mücadele eden milli sporcu Enes Özdemir, erkek kata kategorisinde altın madalya kazandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/05/23/milli-sporcu-enes-ozdemir-avrupa-karate-sampiyonasinda-altin-madalya-kazandi-xrz4.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_36bca19f",
-    "title": "Türkiye Barolar Birliği Başkanı Sağkan, Özgür Özel'i ziyaret etti",
-    "source": "Haber Global",
-    "time": "23/05/2026 21:42",
-    "link": "https://haberglobal.com/gundem/turkiye-barolar-birligi-baskani-sagkan-ozgur-ozeli-ziyaret-etti-526244",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Barolar Birliği (TBB) Başkanı Erinç Sağkan ve beraberindeki heyet, CHP Grup Başkanı Özgür Özel'i ziyaret etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/05/23/turkiye-barolar-birligi-baskani-sagkan-ozgur-ozeli-ziyaret-etti-upsi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_55e68a70",
-    "title": "Real Madrid'in milli basketbolcusu Ömer Faruk Yurtseven: \"Böyle iyi bir takımda oynayabilmek büyük bir şans\"",
-    "source": "Haber Global",
-    "time": "23/05/2026 21:42",
-    "link": "https://haberglobal.com/spor/real-madridin-milli-basketbolcusu-omer-faruk-yurtseven-boyle-iyi-bir-takimda-oynayabilmek-buyuk-bir-sans-526242",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Real Madrid'in milli basketbolcusu Ömer Faruk Yurtseven, Euroleague finalinde Olympiakos ile oynayacakları maçın öncesinde yaptığı açıklamada, \"Heyecanlıyım, herkes buraya gelmek için çok savaştı\" dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/05/23/real-madridin-milli-basketbolcusu-omer-faruk-yurtseven-boyle-iyi-bir-takimda-oynayabilmek-buyuk-bir-sans-qyjn.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ed0386b7",
-    "title": "Formula 1 Kanada Grand Prix'sindeki sprint yarışını George Russell kazandı",
-    "source": "Haber Global",
-    "time": "23/05/2026 21:42",
-    "link": "https://haberglobal.com/spor/formula-1-kanada-grand-prixsindeki-sprint-yarisini-george-russell-kazandi-526243",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Formula 1 Dünya Şampiyonası'nın Kanada'da düzenlenen ayağındaki sprint yarışını Mercedes takımından George Russell ilk sırada tamamladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/05/23/formula-1-kanada-grand-prixsindeki-sprint-yarisini-george-russell-kazandi-waey.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_421294c7",
-    "title": "Edin Visca’dan Trabzonspor’a duygusal veda",
-    "source": "Haber Global",
-    "time": "23/05/2026 21:41",
-    "link": "https://haberglobal.com/spor/edin-viscadan-trabzonspora-duygusal-veda-526245",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un Boşnak futbolcusu Edin Visca, 5 yıllık macerasının ardından Bordo-mavili kulübe gözyaşlarıyla veda etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/05/23/edin-viscadan-trabzonspora-duygusal-veda-w9w5.jpg",
-    "keyword": "TRABZON"
   }
 ]
