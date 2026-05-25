@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_43229f93",
+    "title": "15 Temmuz dizisinde Hakan Fidan'ı kim oynayacak belli oldu",
+    "source": "OdaTV",
+    "time": "26/05/2026 01:41",
+    "link": "https://www.odatv.com/guncel/15-temmuz-dizisinde-hakan-fidani-murat-aygen-canlandiracak-120148540",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TRT 1’in 15 Temmuz’u konu alan “Asırlık Gece” dizisinin kadrosuna Murat Aygen dahil oldu. Aygen, dönemin MİT Başkanı olan Hakan Fidan’ı canlandıracak.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/26/15-temmuz-dizisinde-hakan-fidani-murat-aygen-canlandiracak-rjf8.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2860ffcc",
+    "title": "CHP'de 24 kişi işten çıkarıldı",
+    "source": "OdaTV",
+    "time": "26/05/2026 01:41",
+    "link": "https://www.odatv.com/guncel/chpde-24-kisi-isten-cikarildi-120148541",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP’de mutlak butlan kararı sonrası yeniden genel başkanlık koltuğuna oturan Kemal Kılıçdaroğlu döneminin ilk dikkat çeken adımı, genel merkezde 24 çalışanın işine son verilmesi oldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/21/canli-chp-genel-merkezinde-son-durum-dm3f.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_74700f94",
+    "title": "Trump'tan İran'a: Uranyum ya teslim edilecek ya imha edilecek",
+    "source": "Ekonomim",
+    "time": "26/05/2026 01:41",
+    "link": "https://www.ekonomim.com/dunya/trumptan-irana-uranyum-ya-teslim-edilecek-ya-imha-edilecek-haberi-896216",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'ın elindeki zenginleştirilmiş uranyum ile ilgili \"Ya derhal ABD'ye teslim edilerek buraya getirilip imha edilecek ya da tercihen İran'ın işbirliğiyle imha edilecektir\" dedi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/05/23/trumpin-iran-konusunda-guvenlik-ekibiyle-toplanti-yaptigi-iddiasi-mopt_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_3befe0d5",
+    "title": "Aziz Yıldırım'dan Fenerbahçe'ye 2 golcü sözü",
+    "source": "Ekonomim",
+    "time": "26/05/2026 01:41",
+    "link": "https://www.ekonomim.com/spor/aziz-yildirimdanfenerbahceye-2-golcu-sozu-haberi-896215",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe Başkan Adayı Aziz Yıldırım, iki santrfor transferi için isimlerin belli olduğunu ve kulüplerle görüşmelerin sürdüğünü söyledi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/05/26/aziz-yildirimdanfenerbahceye-2-golcu-sozu-kou0_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a4fdf639",
+    "title": "ABD Başkanı Trump: İran'ın elindeki zenginleştirilmiş uranyum imha edilmeli",
+    "source": "Haber Global",
+    "time": "26/05/2026 01:41",
+    "link": "https://haberglobal.com/dunya/abd-baskani-trump-iranin-elindeki-zenginlestirilmis-uranyum-imha-edilmeli-526572",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'ın elinde bulunan zenginleştirilmiş uranyumun ABD'ye getirilerek veya İran ile işbirliği halinde Uluslararası Atom Enerjisi Ajansı (UAEA) eşliğinde imha edilmesi gerektiğini belirtti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/26/abd-baskani-trump-iranin-elindeki-zenginlestirilmis-uranyum-imha-edilmeli-gotf.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ba72bf58",
+    "title": "Trump: İran'ın elindeki zenginleştirilmiş uranyumun imha edilmesi gerekiyor",
+    "source": "Anadolu Ajansı",
+    "time": "26/05/2026 01:41",
+    "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-elindeki-zenginlestirilmis-uranyumun-imha-edilmesi-gerekiyor/3948478",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'ın elinde bulunan zenginleştirilmiş uranyumun ABD'ye getirilerek veya İran ile işbirliği halinde Uluslararası Atom Enerjisi Ajansı (UAEA) eşliğinde imha edilmesi gerektiğini belirtti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_1ad67276",
     "title": "Giresun’daki Kazada Yaşamını Yitiren Aile İçin Arsin’de Gözyaşları Sel Oldu - Taka Gazete",
     "source": "Google Haberler",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "İşgalci İsrail ordusunun 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda hayatını kaybedenlerin sayısı ateşkese rağmen 34 artarak, 3 bin 185'e ulaştı.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_431b78ad",
-    "title": "Tokat Valiliği'nden 'taşkın' uyarısı",
-    "source": "TRT Haber",
-    "time": "25/05/2026 20:01",
-    "link": "https://www.trthaber.com/haber/turkiye/tokat-valiliginden-taskin-uyarisi-946242.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tokat Valiliği, vatandaşlara kentte yoğun yağışlar nedeniyle dere yatakları, su kanalları ve taşkın riski bulunan alanlardan uzak durmaları uyarısında bulundu.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_16e75d60",
-    "title": "🗣️ Belgesel Tadında Manzaralar: Santa Harabeleri | Taşköprü | 4K60Fps | Arsin - Trabzon @GugarTV61",
-    "source": "YouTube",
-    "time": "25/05/2026 20:01",
-    "link": "https://www.youtube.com/watch?v=qQ3fmy0F2tM",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: qQ3fmy0F2tM)",
-    "image": "https://img.youtube.com/vi/qQ3fmy0F2tM/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_94cbffd7",
-    "title": "🗣️ Anahtar Parti Genel Başkanı Ağıralioğlu, Trabzon’da açıklamalarda bulundu",
-    "source": "YouTube",
-    "time": "25/05/2026 20:01",
-    "link": "https://www.youtube.com/watch?v=9dyXbfdhUAo",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: 9dyXbfdhUAo)",
-    "image": "https://img.youtube.com/vi/9dyXbfdhUAo/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_f712e2dc",
-    "title": "🗣️ Bir aile yok oldu...",
-    "source": "YouTube",
-    "time": "25/05/2026 20:01",
-    "link": "https://www.youtube.com/watch?v=cSBrq7RSVog",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: cSBrq7RSVog)",
-    "image": "https://img.youtube.com/vi/cSBrq7RSVog/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_ce3ba0ae",
-    "title": "Papa 14'üncü Leo'nun ilk genelgesi yeni teknolojiler üzerine: Yapay zeka silahsızlandırılmalı",
-    "source": "Diken",
-    "time": "25/05/2026 20:01",
-    "link": "https://www.diken.com.tr/papa-14uncu-leonun-ilk-genelgesi-yeni-teknolojiler-uzerine-yapay-zeka-silahsizlandirilmali/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Papa 14'üncü Leo'nun ilk genelgesi yeni teknolojiler üzerine: Yapay zeka silahsızlandırılmalı 25.05.2026 Diken Katoliklerin ruhani lideri ve Vatikan Devlet Başkanı Papa 14'üncü Leo, yapay zeka ve gelişen teknolojiler karşısında Katolik Kilisesi'nin yaklaşımını ortaya koyan 'Magnifica Humanitas (Muhteşem İnsanlık)' adlı papalık genelgesi yayımladı. The post Papa 14'üncü Leo'nun ilk genelgesi yeni teknolojiler üzerine: Yapay zeka silahsızlandırılmalı appeared first on #sitelinkat 25.05.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_e5519741",
-    "title": "19 yaşındaki öğrenci evde ölü bulundu",
-    "source": "Kuzey Ekspres",
-    "time": "25/05/2026 20:01",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28047470/19-yasindaki-ogrenci-evde-olu-bulundu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Gümüşhane'de 19 yaşındaki üniversite öğrencisi evinde ölü bulundu.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/05/25/large/olay-yeri.jpg",
     "keyword": ""
   }
 ]
