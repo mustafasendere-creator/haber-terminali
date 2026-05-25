@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_f186274e",
+    "title": "Su altında zeybek oynadılar",
+    "source": "OdaTV",
+    "time": "25/05/2026 03:41",
+    "link": "https://www.odatv.com/guncel/su-altinda-zeybek-oynadilar-120148396",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla’nın Bodrum ilçesinde gerçekleştirilen deniz dibi temizliğinde dalgıçların su altındaki zeybek gösterisi ilginç görüntüler oluşturdu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/25/su-altinda-zeybek-oynadilar-wgue.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_3d98955b",
+    "title": "Aksaray'da alacak davası kanlı bitti! Abi bıçaklandı kardeşi darbedildi",
+    "source": "Haber Global",
+    "time": "25/05/2026 03:41",
+    "link": "https://haberglobal.com/gundem/aksarayda-alacak-davasi-kanli-bitti-abi-bicaklandi-kardesi-darbedildi-526397",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aksaray’da borç-alacak yüzenden çıkan kavgada Mustafa G. (39) bacağından bıçaklandı, kardeşi Mehmet G. (28) ise darbedildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/25/aksarayda-alacak-davasi-kanli-bitti-abi-bicaklandi-kardesi-darbedildi-sl52.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_1f575d2c",
+    "title": "Ceren Ece Öksüz’den önemli başarı",
+    "source": "Günebakış",
+    "time": "25/05/2026 03:41",
+    "link": "https://www.gunebakis.com.tr/ceren-ece-oksuzden-onemli-basari/28042989",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "",
+    "image": "https://static.daktilo.com/sites/1262/uploads/2026/05/24/large/ceren-ece-oksuzden-onemli-basari-1.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1280169a",
+    "title": "Gaziantep'te mobilya fabrikasından çıkan yangın kontrol altına alındı",
+    "source": "Anadolu Ajansı",
+    "time": "25/05/2026 03:41",
+    "link": "https://www.aa.com.tr/tr/gundem/gaziantepte-mobilya-fabrikasindan-cikan-yangin-kontrol-altina-alindi/3947685",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep'te mobilya fabrikasında çıkan yangın itfaiye ekiplerinin müdahalesiyle kontrol altına alındı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_9e19c16a",
+    "title": "Olympiakos, Basketbol Avrupa Ligi'nde 4. şampiyonluğunu elde etti",
+    "source": "Anadolu Ajansı",
+    "time": "25/05/2026 03:41",
+    "link": "https://www.aa.com.tr/tr/spor/olympiakos-basketbol-avrupa-liginde-4-sampiyonlugunu-elde-etti/3947684",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Basketbol Avrupa Ligi (EuroLeague) Dörtlü Final organizasyonu şampiyonluk maçında Real Madrid'i 92-85 mağlup eden Yunanistan ekibi Olympiakos, 4. kez kupayı müzesine götürdü.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_52d4c622",
     "title": "İzmit'te Geylani Yenigün’e acı veda: Eşi ve kızları gözyaşlarını tutamadı - Çağdaş Kocaeli Gazetesi",
     "source": "Google Haberler",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Kurban Bayramı’nda artan et tüketimi ve yoğun sofralar, sindirim sistemini zorlayabiliyor. Ancak doğru beslenme alışkanlıklarıyla hem bayram keyfi yaşamak hem de sağlığı korumak mümkündür. İşte Kurban Bayramı'nda mideyi yormadan beslenmenin 8 yolu...",
     "image": "https://media.cumhuriyet.com.tr/Archive/86cde124-9db8-470d-8e8b-4d0546d9302e.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_82721378",
-    "title": "Polis müdahalesinin ardından ‘sefa’ pozu… Medya muhtarı Kılıçdaroğlu ekibini kutladı!",
-    "source": "Cumhuriyet",
-    "time": "24/05/2026 20:21",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/polis-mudahalesinin-ardindan-sefa-pozu-medya-muhtari-kilicdaroglu-ekibini-kutladi-2506663",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Genel Merkezi’nde yaşanan polis müdahalesinin ardından Kılıçdaroğlu ekibinden Veysi Uyanık’ın, ‘sefa’ pozuna AKP’ye yakınlığı ile bilinen trol hesap ‘Medya Muhtarı’ndan destek geldi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b7158ecc-7b71-487e-bf2e-6f5d18dfdd11.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_7ed12a5b",
-    "title": "Galibiyet yetmedi: Premier Lig'den düşen son takım belli oldu",
-    "source": "Cumhuriyet",
-    "time": "24/05/2026 20:21",
-    "link": "https://www.cumhuriyet.com.tr/spor/galibiyet-yetmedi-premier-lig-den-dusen-son-takim-belli-oldu-2506662",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere Premier Lig'in son haftasında West Ham United, Leeds United karşısında 3-0 kazanmasına rağmen küme düşmekten kurtulamadı. West Ham United, ligden düşen son takım oldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/278a552a-1da0-4a14-b38f-0b4de6e47d44.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_94d04be4",
-    "title": "Liverpool'dan Salah'ın rekor maçında beraberlik",
-    "source": "Cumhuriyet",
-    "time": "24/05/2026 20:21",
-    "link": "https://www.cumhuriyet.com.tr/spor/liverpool-dan-salah-in-rekor-macinda-beraberlik-2506664",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere Premier Lig'in son haftasında Liverpool, sahasında Brentford ile 1-1 berabere kaldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/63d52390-0733-4c92-949d-2e82db2bd018.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_d495b6cf",
-    "title": "Trabzon CHP İl Binasında Tarihi Deklarasyon! \"Kendi Partilisine Gaz Sıktıran Bu Anlayış...\"",
-    "source": "Kuzey Ekspres",
-    "time": "24/05/2026 20:21",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28042698/trabzon-chp-il-binasinda-tarihi-deklarasyon-kendi-partilisine-gaz-siktiran-bu-anlayis",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ankara'da tırmanan kurultay davası krizinin ardından hareketli günler geçiren CHP Trabzon İl Başkanlığı’nda basın açıklaması düzenlendi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/05/24/large/whatsapp-image-2026-05-24-at-194032-1.jpeg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_ec9319de",
-    "title": "West Ham küme düştü, Tottenham ligde kaldı",
-    "source": "Haber Global",
-    "time": "24/05/2026 20:21",
-    "link": "https://haberglobal.com/spor/west-ham-kume-dustu-tottenham-ligde-kaldi-premier-ligde-kume-dusen-takimlar-526365",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İngiltere Premier Lig'in son haftasında oynanan maçların ardından küme düşen üçüncü takım belli oldu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/05/24/west-ham-kume-dustu-tottenham-ligde-kaldi-premier-ligde-kume-dusen-takimlar-wyza.jpg",
     "keyword": ""
   }
 ]
