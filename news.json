@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_cbc21a35",
+    "title": "Şişli'de sokak ortasında silahlı saldırı",
+    "source": "Evrensel",
+    "time": "26/05/2026 06:21",
+    "link": "https://www.evrensel.net/haber/5985799/sisli-de-sokak-ortasinda-silahli-saldiri",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Şişli'de gece yarısı bir iş yerinin önünde uğradığı silahlı saldırıda yaralanan kişi hastaneye kaldırıldı. Olay yeri inceleme ekiplerinin çalışmasının ardından sokak yeniden trafiğe açıldı, şüphelileri arama çalışmaları sürüyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/348967.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_ac6eada1",
     "title": "Nüfus kâğıdındaki toplumsal değişim: Fatma niye kayboldu",
     "source": "OdaTV",
@@ -4786,17 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_d16c72a5",
-    "title": "Trabzonspor Christ Oulai İçin 40 Milyon Euro Bonservis Bekliyor",
-    "source": "Taka Gazetesi",
-    "time": "25/05/2026 21:42",
-    "link": "https://www.takagazete.com.tr/trabzonspor-christ-oulai-icin-40-milyon-euro-bonservis-bekliyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un bu sezon dikkat çeken genç oyuncularından Christ Oulai, ortaya koyduğu performansla Avrupa kulüplerinin ilgisini çekmeyi başardı. Fildişi Sahilli futbolcu, sahadaki enerjisi, sürati ve bire birdeki etkili oyunuyla Bordo-Mavili takımın en çok konuşulan isimlerinden biri haline geldi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/05/084396b0-d0be-43ff-a98d-6c25ea7b6454.jpg",
-    "keyword": "TRABZON"
   }
 ]
