@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_48c8d751",
+    "title": "İsrail, Gazze'de ateşkesin yürürlüğe girdiği günden beri 910 Filistinliyi öldürdü",
+    "source": "Anadolu Ajansı",
+    "time": "27/05/2026 03:41",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-gazzede-ateskesin-yururluge-girdigi-gunden-beri-910-filistinliyi-oldurdu/3949419",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, Gazze Şeridi'nde ateşkesin yürürlüğe girdiği 10 Ekim 2025'ten bu yana sürdürdüğü saldırılar sonucu 910 Filistinlinin hayatını kaybettiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_d3bc1620",
+    "title": "MHP lideri Bahçeli'den CHP'ye sağduyu çağrısı: Parti tabanı kenetlenip yüklerinden arınmalı",
+    "source": "A Haber",
+    "time": "27/05/2026 03:41",
+    "link": "https://www.ahaber.com.tr/gundem/2026/05/27/mhp-lideri-bahceliden-chpye-sagduyu-cagrisi-parti-tabani-kenetlenip-yuklerinden-arinmali",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MHP Genel Başkanı Devlet Bahçeli, CHP'nin 38. Olağan Kurultayı'nın mutlak butlan kararıyla iptal edilmesinin ardından yaşanan süreci değerlendirdi. Bahçeli, CHP Genel Başkanlığı görevinin Kemal... Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/683a20/1200/1200/131/0/616/486?u=https://iahbr.tmgrup.com.tr/2026/05/27/1779841055819.jpg",
+    "keyword": ""
+  },
+  {
     "id": "SOC_d5a5697b",
     "title": "🗣️ Meryem Sürmen (@MeryemSurmen (· (16s)",
     "source": "X (Twitter)",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Hatay’da sahibinin elinden kaçan kurbanlık keçi trafiği birbirine katıp gözlerden kayboldu.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/349058.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_b2f54240",
-    "title": "WSJ: ABD donanması, Hürmüz Boğazı'ndan geçen gemilere eşlik etmeye yeniden başladı",
-    "source": "BirGün",
-    "time": "26/05/2026 20:41",
-    "link": "https://www.birgun.net/haber/wsj-abd-donanmasi-hurmuz-bogazi-ndan-gecen-gemilere-eslik-etmeye-yeniden-basladi-714969",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD donanmasının Hürmüz Boğazı'ndan geçiş yapan ticari gemilere yeniden eşlik etmeye başladığı bildirildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/05/26/wsj-abd-donanmasi-hurmuz-bogazi-ndan-gecen-gemilere-eslik-etmeye-yeniden-basladi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_2250397f",
-    "title": "Trump'tan sağlık kontrolü sonrası \"her şey mükemmel\" açıklaması",
-    "source": "Anadolu Ajansı",
-    "time": "26/05/2026 20:41",
-    "link": "https://www.aa.com.tr/tr/dunya/trumptan-saglik-kontrolu-sonrasi-her-sey-mukemmel-aciklamasi/3949278",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, rutin sağlık kontrolünü tamamladıktan sonra \"her şeyin mükemmel\" olduğunu bildirdi.",
-    "image": null,
     "keyword": ""
   }
 ]
