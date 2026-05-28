@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_0a598b41",
+    "title": "Meteoroloji'den 15 il için sarı kodlu uyarı! Şemsiyenizi almadan dışarı çıkmayın",
+    "source": "Haber Global",
+    "time": "28/05/2026 06:21",
+    "link": "https://haberglobal.com/gundem/28-mayis-2026-hava-durumu-meteorolojiden-15-il-icin-sari-kodlu-uyari-semsiyenizi-almadan-disari-cikmayin-526887",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji 28 Mayıs 2026 hava durumu raporunu yayımladı. Marmara'nın kuzey ve doğusu, İç Ege, (Antalya merkez hariç) Akdeniz, İç Anadolu, Karadeniz, Doğu Anadolu'nun kuzey ve batısı, Denizli ve Aydın çevreleri ile İzmir ve Muğla'nin doğu kesimlerinin sağanak ve gök gürültülü sağanak yağışlı, diğer yerlerin az bulutlu geçeceği tahmin ediliyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/28/28-mayis-2026-hava-durumu-meteorolojiden-15-il-icin-sari-kodlu-uyari-semsiyenizi-almadan-disari-cikmayin-avxn.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_88d956d2",
+    "title": "Özgür Özel’in acı günü!",
+    "source": "Haber Global",
+    "time": "28/05/2026 06:21",
+    "link": "https://haberglobal.com/gundem/ozgur-ozelin-aci-gunu-526888",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Özgür Özel’in amcası Necati Özel, Manisa’da 82 yaşında hayatını kaybetti. Necati Özel'in geçirdiği kalp krizi sonucu hayatını kaybettiği öğrenildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/28/ozgur-ozelin-aci-gunu-wt2k.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c525f77d",
+    "title": "Suudi Arabistan'dan hacıların sağlık durumu hakkında açıklama",
+    "source": "TRT Haber",
+    "time": "28/05/2026 06:21",
+    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistandan-hacilarin-saglik-durumu-hakkinda-aciklama-946404.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan, hac ibadetini yerine getiren hacıların genel sağlık durumunun istikrarlı olduğunu ve herhangi bir sağlık tehdidine rastlanmadığını duyurdu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_4e27019b",
+    "title": "Sağanak yurdu sarıyor: Ankara dahil birçok ilde kuvvetli yağış bekleniyor",
+    "source": "Evrensel",
+    "time": "28/05/2026 06:21",
+    "link": "https://www.evrensel.net/haber/5986032/saganak-yurdu-sariyor-ankara-dahil-bircok-ilde-kuvvetli-yagis-bekleniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trakya, Ankara, İç Ege ve Batı Karadeniz başta olmak üzere birçok bölgede yerel kuvvetli sağanak yağış bekleniyor. İşte sel ve su baskını riskine karşı uyarı yapılan iller.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/349196.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_de0683e2",
+    "title": "Kuveyt ordusu: Hava savunma sistemlerimiz füze ve İHA saldırılarını engellemeye çalışıyor",
+    "source": "Anadolu Ajansı",
+    "time": "28/05/2026 06:21",
+    "link": "https://www.aa.com.tr/tr/dunya/kuveyt-ordusu-hava-savunma-sistemlerimiz-fuze-ve-iha-saldirilarini-engellemeye-calisiyor/3950087",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kuveyt ordusu, hava savunma sistemlerinin füze ve insansız hava aracı (İHA) saldırılarını önlemeye çalıştığını açıkladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_f0433e65",
     "title": "İslam akıl çağı nasıl yok edildi: Kavgalı iki dahi",
     "source": "OdaTV",
@@ -4738,65 +4798,5 @@
     "summary": "Mutlak butlan kararı ile CHP’nin başına geçen Kemal Kılıçdaroğlu’na yönelik bir açıklama da ÇYDD’den geldi. ÇYDD, Kılıçdaroğlu yönetiminden gelecek bir bağışı kabul etmeyeceklerini ilan etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/1ea2f14f-367a-461c-a143-fa2cd1f23d26.jpeg",
     "keyword": ""
-  },
-  {
-    "id": "TKP_7cc8dc69",
-    "title": "Portekizliler duyurdu! Malheiro, Trabzonspor teknik ekibine iletti iddiası",
-    "source": "61 Saat",
-    "time": "27/05/2026 20:42",
-    "link": "https://www.61saat.com/portekizliler-duyurdu-malheiro-trabzonspor-teknik-ekibine-iletti-iddiasi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Al Wasl formasıyla geçtiğimiz sezon 35 maçta 3 gol ve 5 asistlik performans ortaya koyan Pedro Malheiro’nun Trabzonspor’a geri dönebileceği iddia edildi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/05/i-26.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_a45f3f30",
-    "title": "Özgür Özel'in acı günü: Amcası vefat etti",
-    "source": "Cumhuriyet",
-    "time": "27/05/2026 20:42",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-in-aci-gunu-amcasi-vefat-etti-2507362",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP Lideri Özgür Özel’in amcası Necati Özel, Manisa’da 82 yaşında hayatını kaybetti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/aef933bf-3eb4-46bb-8618-f0f41a4fe918.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_3f3ab626",
-    "title": "Yurt dışı basını duyurdu: Trabzonspor’dan Slovak golcü için hamle",
-    "source": "Haber61",
-    "time": "27/05/2026 20:42",
-    "link": "https://www.haber61.net/trabzonspor/yurt-disi-basini-duyurdu-trabzonspordan-slovak-golcu-icin-hamle-h633616.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Polonya basınından sızan bilgilere göre, Lechia Gdańsk forması giyen Slovak forvet Tomáš Bobček için Trabzonspor devrede.",
-    "image": "https://resim.haber61.net/news/620015.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_b4ddeaea",
-    "title": "1950 Dünya Kupası: 12 yıllık sessizlik, Hindistan'ın çıplak ayakları ve Maracanazo faciası",
-    "source": "Cumhuriyet",
-    "time": "27/05/2026 20:42",
-    "link": "https://www.cumhuriyet.com.tr/dunya-kupasi/1950-dunya-kupasi-12-yillik-sessizlik-hindistan-in-ciplak-ayaklari-ve-maracanazo-faciasi-2507363",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhuriyet Podcast’in Dünya Kupası tarihi serisi, İkinci Dünya Savaşı’nın yarattığı 12 yıllık zorunlu aranın ardından düzenlenen 1950 Brezilya Dünya Kupası ile devam ediyor. Savaş sonrası yaralarını sarmaya çalışan dünyada futbol, hem umudun hem de büyük trajedilerin sahnesi oldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/9e1a0eb8-d7d5-4770-ab4c-f8ee4bc8ad09.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_9e9f5e38",
-    "title": "Gümüşhane-Trabzon yolunda heyelan: Kaya parçaları ulaşımı durdurdu",
-    "source": "Haber61",
-    "time": "27/05/2026 20:42",
-    "link": "https://www.haber61.net/trabzon/gumushane-trabzon-yolunda-heyelan-kaya-parcalari-ulasimi-durdurdu-h633617.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Gümüşhane-Trabzon kara yolunda dağdan kopan taş ve kaya parçaları yolu trafiğe kapattı. Bölgede ulaşım servis yolundan sağlanırken, ekipler çalışmaları aralıksız sürdürüyor.",
-    "image": "https://resim.haber61.net/news/620017.jpg",
-    "keyword": "TRABZON"
   }
 ]
