@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_d0897753",
+    "title": "İran’dan füze saldırısı",
+    "source": "OdaTV",
+    "time": "29/05/2026 01:41",
+    "link": "https://www.odatv.com/dunya/irandan-fuze-saldirisi-120148825",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran basını, Buşehr yakınlarında tespit edilen ABD’ye ait bir İHA’nın hava savunma sistemleri tarafından hedef alındığını ve vurulduğunu öne sürdü. Yetkililer patlama seslerini doğrularken bölgede durumun kontrol altında olduğu belirtildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/29/irandan-fuze-saldirisi-ifdo.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_75c8f863",
+    "title": "Aziz Yıldırım'dan teknik direktör hamlesi",
+    "source": "Ekonomim",
+    "time": "29/05/2026 01:41",
+    "link": "https://www.ekonomim.com/spor/aziz-yildirimdan-teknik-direktor-hamlesi-haberi-896613",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe’de yaklaşan olağan seçimli genel kurul öncesinde gözler başkan adaylarının teknik direktör planlarına çevrildi. Sarı-lacivertli kulüpte 6-7 Haziran tarihlerinde yapılacak seçim öncesi hareketlilik sürerken, Aziz Yıldırım cephesinden dikkat çeken bir teknik adam hamlesi geldi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/05/19/aziz-yildirim-futbol-aklimiz-fenerbahceyi-bilen-sporculardan-olusacak-tjbc_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_76837b33",
+    "title": "Arjantin'in Dünya Kupası kadrosu belli oldu! Lionel Messi tarihe geçti...",
+    "source": "Cumhuriyet",
+    "time": "29/05/2026 01:41",
+    "link": "https://www.cumhuriyet.com.tr/spor/arjantin-in-dunya-kupasi-kadrosu-belli-oldu-lionel-messi-tarihe-gecti-2507679",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Arjantin Milli Futbol Takımı, 2026 FIFA Dünya Kupası'nda mücadele edecek kadrosunu duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d1b3dfe9-3c23-40cb-ad1c-d34190104f19.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_41f860bd",
     "title": "Trabzon'da Akşam Saatlerinde Yaşanan Şimşek Fırtınası Dikkat Çekti - Mersin Haber",
     "source": "Google Haberler",
@@ -4762,41 +4798,5 @@
     "summary": "Trabzonspor Basketbol’un yıldız oyuncusu Marcquise Reed, Basketbol Süper Ligi’nde normal sezonun en değerli oyuncusu (MVP) seçildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/05/291405dc-8d95-4111-9953-3a51f60d5f5d.png",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_2ab29475",
-    "title": "YouTube'da yapay zeka ile hazırlanan içerikler daha belirgin işaretlenecek",
-    "source": "Cumhuriyet",
-    "time": "28/05/2026 19:22",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/youtube-da-yapay-zeka-ile-hazirlanan-icerikler-daha-belirgin-isaretlenecek-2507597",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "YouTube'da yapay zeka kullanılarak hazırlanan içerikler daha belirgin şekilde işaretlenecek. Böylece kişiler videolarda yapay zeka kullanılmış mı yoksa kullanılmamış mı daha rahat anlayabilecek.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/314cf7c4-099c-4b5c-b3c4-503ae9158c58.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_e596b9c6",
-    "title": "Trabzonspor’da Muhammed Cham gelişmesi!",
-    "source": "Haber61",
-    "time": "28/05/2026 19:22",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-muhammed-cham-gelismesi-h633687.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un geçtiğimiz dönemde Sırbistan ekibi Kızılyıldız'a kiraladığı Muhammed Cham'ın transferi konusunda kulüpler arasında resmi anlaşma sağlandı.",
-    "image": "https://resim.haber61.net/news/620152.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_5cdb0132",
-    "title": "2 bin yıllık miras öksüz kaldı: Son büyük temsilcisi vefat etti",
-    "source": "Cumhuriyet",
-    "time": "28/05/2026 19:22",
-    "link": "https://www.cumhuriyet.com.tr/yasam/2-bin-yillik-miras-oksuz-kaldi-son-buyuk-temsilcisi-vefat-etti-2507598",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir'in Bergama ilçesinde, antik çağın mirası parşömen üretimini geleneksel yöntemlerle sürdüren dünyadaki son temsilcilerden, UNESCO \"Yaşayan İnsan Hazinesi\" unvanlı karatabak İsmail Araç, 93 yaşında hayatını kaybetti. Ömrünü adadığı 71 yıllık zanaatını yetiştirdiği çıraklarına emanet ederek vefat eden asırlık usta, son yolculuğuna uğurlandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c0941b36-bde6-4091-a7f9-1692de7f924f.jpg",
-    "keyword": ""
   }
 ]
