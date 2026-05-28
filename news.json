@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_5832d6b8",
+    "title": "🗣️ Bulutlu Fritöz (@oguzveeee (· (20s)",
+    "source": "X (Twitter)",
+    "time": "28/05/2026 04:11",
+    "link": "https://x.com/oguzveeee/status/2059488106441581037",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Trabzon sınırları içinde aynısını söyleseydin inansaydık polis gelmedi diye ağlayanlar şimdi sosyal medyada rajon kesiyor ahahahah",
+    "image": null,
+    "keyword": "TRABZON #POLIS"
+  },
+  {
+    "id": "SOC_a9bf69fd",
+    "title": "🗣️ bazidi (@zerokexani (· (17s)",
+    "source": "X (Twitter)",
+    "time": "28/05/2026 04:11",
+    "link": "https://x.com/zerokexani/status/2059535770025689354",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Şampiyon trabzon olsaydı ve bunu biz yapsaydık o yapanların bütün yedi sülaleri içerdeydi ve polis işkenceyle almıştı bile. Allah belanızı bayramda da versin faşist kişiler kurumlar yapılar.",
+    "image": null,
+    "keyword": "TRABZON #POLIS"
+  },
+  {
+    "id": "GND_acac463f",
+    "title": "Sultanbeyli'de gecekondu yangını",
+    "source": "Haber Global",
+    "time": "28/05/2026 04:01",
+    "link": "https://haberglobal.com/gundem/sultanbeylide-gecekondu-yangini-526883",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sultanbeyli'de gecekonduda çıkan yangın itfaiye ekipleri tarafından söndürüldü. Yangında ölen ya da yaralanan olmazken, gecekonduda hasar meydana geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/28/sultanbeylide-gecekondu-yangini-xobz.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_0f408435",
+    "title": "Nevşehir'de acil iniş yapan microlight çukura düştü: 2 yaralı",
+    "source": "BirGün",
+    "time": "28/05/2026 04:01",
+    "link": "https://www.birgun.net/haber/nevsehir-de-acil-inis-yapan-microlight-cukura-dustu-2-yarali-715124",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nevşehir'de motor arızası nedeniyle acil iniş yapan microlight, arazideki bir çukura düşerek kaza yaptı. Kazada yaralanan pilot Şuayip Şen ve yolcu Özgecan Doğan hastaneye kaldırıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/05/28/nevsehir-de-acil-inis-yapan-microlight-cukura-dustu-2-yarali.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_110a6d30",
+    "title": "Muğla'da kontrolden çıkan otomobil takla attı: 1'i ağır 5 yaralı",
+    "source": "BirGün",
+    "time": "28/05/2026 04:01",
+    "link": "https://www.birgun.net/haber/mugla-da-kontrolden-cikan-otomobil-takla-atti-1-i-agir-5-yarali-715125",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla’nın Menteşe ilçesinde yağış nedeniyle kayganlaşan yolda kontrolden çıkan otomobil, kayalıklara çarparak takla attı. Kaza nedeniyle araçta bulunan 5 kişi yaralandı. Yaralılardan birinin durumunun ağır olduğu öğrenildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/05/28/muglada-kontrolden-cikan-otomobil-takla-atti-1i-agir-5-yarali.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_55efe5e6",
     "title": "İsrail ordusunun Lübnan'ın Sayda kentinde bir eve düzenlediği saldırıda 2 kişi öldü",
     "source": "Anadolu Ajansı",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Kılıçdaroğlu’nun ekibi, CHP’nin sosyal medya hesaplarını kontrol etmeye başladı. CHP İzmir İl Başkanı Çağatay Güç söz konusu haberi duyurarak yeni adreslerini de paylaştı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/1ecad9b6-26a5-4936-be7c-7d34b6c62e36.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_f8e88110",
-    "title": "Eczacıbaşı, Almanya'nın kaptanını transfer etti",
-    "source": "Haber Global",
-    "time": "27/05/2026 19:21",
-    "link": "https://haberglobal.com/spor/eczacibasi-almanyanin-kaptanini-transfer-etti-526856",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eczacıbaşı Dynavit, Alman orta oyuncu Camilla Weitzel'i kadrosuna kattı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/05/27/eczacibasi-almanyanin-kaptanini-transfer-etti-fm3f.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_75217d23",
-    "title": "Barcelona'da Xavi Pascual dönemi sona erdi",
-    "source": "Haber Global",
-    "time": "27/05/2026 19:21",
-    "link": "https://haberglobal.com/spor/barcelonada-xavi-pascual-donemi-sona-erdi-526857",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Barcelona Basketbol Kulübü, başantrenör Xavi Pascual'ın sezon sonunda takımdan ayrılacağını duyurdu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/05/27/barcelonada-xavi-pascual-donemi-sona-erdi-s0wn.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_a5a34890",
-    "title": "İsrail bayramda da durmuyor: Lübnan'a yeni hava saldırıları",
-    "source": "TRT Haber",
-    "time": "27/05/2026 19:21",
-    "link": "https://www.trthaber.com/haber/dunya/israil-bayramda-da-durmuyor-lubnana-yeni-hava-saldirilari-946392.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyindeki Sur kent merkezi ve çevresine hava saldırıları başlattı. Saldırılarda, Hizbullaha ait karargahların vurulduğu öne sürüldü.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_ad14fef8",
-    "title": "Trump: İran anlaşma yapmak istiyor",
-    "source": "TRT Haber",
-    "time": "27/05/2026 19:21",
-    "link": "https://www.trthaber.com/haber/dunya/trump-iran-anlasma-yapmak-istiyor-946393.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, \"İran çok kararlı, bir anlaşma yapmak istiyorlar. Şu ana kadar, bizi tatmin edecek bir noktaya gelemediler, ama gelecekler. Ya bunu başaracağız ya da işi bitirmek zorunda kalacağız.\" dedi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_183c58f9",
-    "title": "Ah Fenerbahçe Ah! Alexander Sörloth 40 Milyon Euroluk Dev Teklif",
-    "source": "Günebakış",
-    "time": "27/05/2026 19:21",
-    "link": "https://www.gunebakis.com.tr/ah-fenerbahce-ah-alexander-sorloth-40-milyon-euroluk-dev-teklif/28057139",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un eski golcüsü Alexander Sörloth için Everton’ın Atletico Madrid’e resmi teklif sunduğu öne sürüldü.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/05/27/large/ah-fenerbahce-ah-alexander-sorloth-40-milyon-euroluk-dev-teklifsa-1.webp",
     "keyword": ""
   }
 ]
