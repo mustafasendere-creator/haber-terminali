@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_f6de42be",
+    "title": "Osmaniye'de zarar büyük",
+    "source": "OdaTV",
+    "time": "30/05/2026 01:01",
+    "link": "https://www.odatv.com/guncel/osmaniyede-zarar-buyuk-120148918",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Osmaniye’nin Bahçe ilçesinde etkili olan sağanak yağışın neden olduğu heyelanda 6 tır zarar gördü. Taşkınlar nedeniyle kapanan köy yollarında mahsur kalan vatandaşlar iş makineleriyle güvenli bölgelere taşındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/30/osmaniyede-zarar-buyuk-8itz.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9bcdbe54",
+    "title": "AK Parti üyesi emekli banka müdürü: Emekliye zam bizi yüzde 70'e götürür",
+    "source": "Ekonomim",
+    "time": "30/05/2026 01:01",
+    "link": "https://www.ekonomim.com/gundem/ak-parti-uyesi-emekli-banka-muduru-emekliye-zam-bizi-yuzde-70e-goturur-haberi-896762",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amasya'da AK Parti'nin düzenlediği bayramlaşma programında partili bir vatandaş, milletvekillerine seslenerek emeklilere zam istedi. Özel bir banka müdürü olarak görev yaparken emekli olduğunu belirtip kendi durumunun iyi olduğuna dikkat çeken 74 yaşındaki Mustafa Sildir, \"Emekliye zam istiyorum. Gerçekten emekliye verilecek zam bizi yüzde 70'e götürür. Tayyip Erdoğan Başkanımızın emekliye bakması lazım. 17 milyon emekli demek seçimi yüzde 70 alıyoruz demektir\" dedi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/05/30/ak-parti-uyesi-emekli-banka-muduru-emekliye-zam-bizi-yuzde-70e-goturur-amwq_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f6e5f4f4",
+    "title": "IEA, IMF, DTÖ ve Dünya Bankası’ndan küresel petrol stoklarına ilişkin ortak açıklama",
+    "source": "Cumhuriyet",
+    "time": "30/05/2026 01:01",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/iea-imf-dto-ve-dunya-bankasi-ndan-kuresel-petrol-stoklarina-iliskin-ortak-aciklama-2507889",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Enerji Ajansı (IEA), Uluslararası Para Fonu (IMF), Dünya Bankası Grubu ve Dünya Ticaret Örgütü’nden (DTÖ) yayımlanan ortak açıklamada, \"Deniz taşımacılığının normal seyrine dönmemesi halinde, Kuzey Yarımküre’de yaz aylarındaki zirve talep dönemi öncesinde küresel petrol stoklarının hızla erimeye devam etmesi; yakıt arz güvenliği, piyasa istikrarı ve genel ekonomik dayanıklılık açısından giderek artan riskler oluşturacaktır\" denildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2ec631c3-d5c1-4085-8084-a50e3002650c.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9093d55f",
+    "title": "İzmir'de çocuk istismarı iddiasına soruşturma: Anne gözaltına alındı",
+    "source": "Haber Global",
+    "time": "30/05/2026 01:01",
+    "link": "https://haberglobal.com/gundem/izmirde-cocuk-istismari-iddiasina-sorusturma-anne-gozaltina-alindi-527148",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sosyal medya hesapları üzerinden 11 yaşındaki bir kızın müstehcen içeriklerinin paylaşıldığına dair ihbar üzerine kızın anne ve babası hakkında gözaltı kararı verildi. Başsavcılığın talimatı doğrultusunda şüpheli anne G.A. gözaltına alındı. Mağdur A.A., adli işlemler yapılmak üzere İzmir Çocuk İzlem Merkezi’ne sevk edildi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/05/30/izmirde-cocuk-istismari-iddiasina-sorusturma-anne-gozaltina-alindi-xm6o.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_3b4d9279",
     "title": "Pegasus’un Trabzon Uçağında Panik Anları: Acil İniş Kararı Alındı - Taka Gazete",
     "source": "Google Haberler",
@@ -4749,54 +4797,6 @@
     "prefix": "🔔",
     "summary": "Muğla'nın Marmaris ilçesinde günlük tur teknesi battı.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_9855f6af",
-    "title": "Almanya'daki Solingen ırkçı saldırısının üzerinden 33 yıl geçti",
-    "source": "Anadolu Ajansı",
-    "time": "29/05/2026 19:01",
-    "link": "https://www.aa.com.tr/tr/dunya/almanyadaki-solingen-irkci-saldirisinin-uzerinden-33-yil-gecti/3951422",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'nın Solingen kentinde, 29 Mayıs 1993'te ırkçılar tarafından kundaklanan ve 5 Türk'ün hayatını kaybettiği evin önünde ve şehirde yapılan anıtta anma törenleri düzenlendi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_bc578915",
-    "title": "Paris Saint-Germain Teknik Direktörü Luis Enrique: Hedefimiz, dünyanın en iyi takımlarından biri olmaya devam etmek",
-    "source": "Anadolu Ajansı",
-    "time": "29/05/2026 19:01",
-    "link": "https://www.aa.com.tr/tr/spor/paris-saint-germain-teknik-direktoru-luis-enrique-hedefimiz-dunyanin-en-iyi-takimlarindan-biri-olmaya-devam-etmek/3951421",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Şampiyonlar Ligi finalinde yarın İngiltere'nin Arsenal takımı ile karşılaşacak Fransa temsilcisi Paris Saint-Germain'in (PSG) teknik direktörü Luis Enrique, eşleşmede bir favorinin olmadığını söyledi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_da9ae198",
-    "title": "Trump'tan İran açıklaması: Nihai karar için şimdi toplanıyoruz",
-    "source": "Ekonomim",
-    "time": "29/05/2026 18:42",
-    "link": "https://www.ekonomim.com/dunya/trumptan-iran-aciklamasi-nihai-karar-icin-simdi-toplaniyoruz-haberi-896737",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump yaptığı son açıklamada \"İran ile ilgili nihai kararı vermek üzere şimdi toplantı yapacağız\" dedi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/05/29/trumptan-iran-aciklamasi-nihai-karar-icin-simdi-toplaniyoruz-ggpi_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0c3898d6",
-    "title": "Ağıralioğlu: Bayramdan sonra seçim otobüsümüze binip yollara düşeceğiz",
-    "source": "Independent",
-    "time": "29/05/2026 18:42",
-    "link": "https://www.indyturk.com/node/777801/haber/a%C4%9F%C4%B1ralio%C4%9Flu-bayramdan-sonra-se%C3%A7im-otob%C3%BCs%C3%BCm%C3%BCze-binip-yollara-d%C3%BC%C5%9Fece%C4%9Fiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, partisinin Kurban Bayramı’nın üçüncü gününde genel merkezde düzenlenen bayramlaşma programında açıklamalarda bulundu. Ağıralioğlu, bayram sonrası saha çalışmalarına hız vereceklerini belirterek, “Bayramdan sonra seçim otobüsümüze binecek ve yollara düşeceğiz” dedi. Partisinin kısa sürede büyümesine ilişkin değerlendirmelerde bulunan Ağıralioğlu, “Şimdi birileri, ‘Anahtar Parti niye bu kadar hızla büyüyor?’ diye büyük bir merakla sormaya başladı. Aslında kurulduğumuz günden bugüne kadar kameralar bizden hep uzak olduğu için milletimizin umuduna ve güvenine dokunduğumuzu tam olarak idrak edemediler. Ama biz durmadan yolumuza devam edeceğiz” ifadelerini kullandı. Bayramlaşma programına Ağıralioğlu’nun eşi Bilge Bilgin Ağıralioğlu, annesi Hatice Ağıralioğlu ve babaannesi Fatma Ağıralioğlu da katıldı. “Partimiz devletin ve milletin partisidir” Konuşmasında partisinin vizyonuna ilişkin mesajlar veren Ağıralioğlu, Anahtar Parti’nin “devletin ve milletin partisi” olduğunu söyledi. Ağıralioğlu, “Partimiz memlekette derdi olan; artık içi boş kimlik tartışmalarından yorulanların, meşrep ayrımcılığından usanıp ‘yeter artık’ diyenlerin partisidir. Göreceksiniz bu memleket gerçek hizmetle buluşacak. Bu süreci lütfen bir bayrak yarışı gibi düşünün. Bugüne kadar iktidarda olanların eksiği, yanlışı ne varsa hepsini tamamlamak ve düzeltmek, bizim en büyük mesuliyetimizdir” diye konuştu. Devlet için faydalı olan uygulamaları sürdüreceklerini belirten Ağıralioğlu, “Devletimiz için iyi olan her şeyi devam ettirecek, kötü olan her şeye ise kararlılıkla engel olacağız. Bu ülkeyi yoran bu sistemsizliğin yerine, tıkır tıkır çalışan güçlü bir sistem kuracağız” dedi. “Milletinden başka hiçbir odağın önünde eğilmeyecektir” Türkiye’de siyasetin halkın iradesi doğrultusunda yapılması gerektiğini ifade eden Ağıralioğlu, “Türkiye'de siyaset eğer haddini ve sınırını bilmiyorsa biz Anahtar Parti olarak siyaseti tam da halkın emrinde olacağı o meşru hatta çekeceğiz” ifadelerini kullandı. Anahtar Parti’nin “milletin ve devletin asil partisi” olduğunu söyleyen Ağıralioğlu, şöyle devam etti: “Bu hareket, aziz milletinden başka hiç kimseye hesap vermeyecektir. Bu parti, iradenin partisidir; milletinden başka hiçbir odağın önünde asla eğilmeyecektir. Bu parti, cesaretin partisidir. O yüzden sizlerin bu tertemiz iradesine hiç kimse leke süremez, gölge düşüremez. Ay-yıldızlı şanlı bayrağın gölgesinde olan herkesle beraberiz ve o bayraktan başka hiçbir güce gölgelenmeyiz. Bizler, o bayrağın altında ‘86 milyon bizim öz ailemizdir’ diyen yepyeni ve sarsılmaz bir hassasiyet merkeziyiz; Türk siyasetinin yeni akıl merkeziyiz.” ANKA ANAHTAR PARTİSİ YAVUZ AĞIRALİOĞLU Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, bayram sonrası seçim çalışmalarına başlayacaklarını belirterek, “Seçim otobüsümüze binecek ve yollara düşeceğiz” dedi Cuma, Mayıs 29, 2026 - 18:30 Main image: Fotoğraf: ANKA Haber Type: news SEO Title: Ağıralioğlu: Bayramdan sonra seçim otobüsümüze binip yollara düşeceğiz copyright Independentturkish:",
-    "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/05/29/1372562-855548124.jpeg",
     "keyword": ""
   }
 ]
