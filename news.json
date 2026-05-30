@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_fd216b52",
+    "title": "Burdur'da feci kaza: 3 ölü",
+    "source": "OdaTV",
+    "time": "31/05/2026 02:02",
+    "link": "https://www.odatv.com/guncel/burdurda-feci-kaza-3-olu-120148993",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Burdur'un Bucak ilçesi sınırlarında meydana gelen ve 4 aracın karıştığı trafik kazasında 3 kişi hayatını kaybetti, 6 kişi de yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/31/burdurda-feci-kaza-3-olu-ovjp.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f49596a9",
+    "title": "Ölüm virajı bir can daha aldı",
+    "source": "OdaTV",
+    "time": "31/05/2026 02:01",
+    "link": "https://www.odatv.com/guncel/olum-viraji-bir-can-daha-aldi-120148994",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman’da sürekli kazaların yaşandığı virajda motosikletin takla atması sonucu 1 kişi hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/31/olum-viraji-bir-can-daha-aldi-zaqc.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c0527871",
+    "title": "Kanye West sahneden duyurdu: Rekor kırdık!",
+    "source": "Ekonomim",
+    "time": "31/05/2026 02:01",
+    "link": "https://www.ekonomim.com/gundem/kanye-west-sahneden-duyurdu-rekor-kirdik-haberi-896876",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünyaca ünlü rap sanatçısı Kanye West, İstanbul Atatürk Olimpiyat Stadyumu'nda konseriyle ilgili \"118 bin kişiyle tüm zamanların en yüksek katılımlı stadyum performansı rekorunu kırdık\" dedi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/05/31/kanye-west-sahneden-duyurdu-rekor-kirdik-eggo_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_0fee27df",
+    "title": "🗣️ Afra Saraçoğlu’na sosyetik damat adayı. Herkes Hande Erçel’i konuşuyor Mert Ramazan nerede yakalandı",
+    "source": "YouTube",
+    "time": "31/05/2026 02:01",
+    "link": "https://www.youtube.com/watch?v=PwDt22tAp5E",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: PwDt22tAp5E)",
+    "image": "https://img.youtube.com/vi/PwDt22tAp5E/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_e5767795",
+    "title": "Dünyaca ünlü rapçi Kanye West, ilk kez İstanbul'da konser verdi",
+    "source": "Anadolu Ajansı",
+    "time": "31/05/2026 02:01",
+    "link": "https://www.aa.com.tr/tr/kultur/dunyaca-unlu-rapci-kanye-west-ilk-kez-istanbulda-konser-verdi/3952068",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünyaca ünlü rap sanatçısı Kanye West, İstanbul'da ilk kez müzikseverlerle buluştu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_2c8a538c",
     "title": "43 ilin geçiş noktası kilitlendi",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Mardin’in Nusaybin ilçesinde meydana gelen trafik kazasında 2 kişi hafif yaralandı.",
     "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/05/30/f5haber-ne9i_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_cb276292",
-    "title": "Otomobil ile minibüs çarpıştı: 1 yaralı",
-    "source": "Gazete Duvar",
-    "time": "30/05/2026 19:01",
-    "link": "https://www.gazeteduvar.com.tr/otomobil-ile-minibus-carpisti-1-yarali-haber-1765956",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adıyaman’da minibüs ile otomobilin çarpıştığı kazada 1 kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/05/30/f5haber-cn18_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_00b97b85",
-    "title": "Hacıosmanoğlu’ndan yıllar sonra gelen Trabzonspor itirafı... \"Kurban kestim\"",
-    "source": "61 Saat",
-    "time": "30/05/2026 19:01",
-    "link": "https://www.61saat.com/haciosmanoglundan-yillar-sonra-gelen-trabzonspor-itirafi-kurban-kestim",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TFF Başkanı İbrahim Hacıosmanoğlu, Dünya Kupası öncesi açıklamalarda bulundu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/05/e59595ed-48ce-408c-b4b9-a63e1336f314.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0843ac13",
-    "title": "Balıkesir’de trafik kazası: Araçta mahsur kalan 1 kişi kurtarıldı",
-    "source": "Gazete Duvar",
-    "time": "30/05/2026 19:01",
-    "link": "https://www.gazeteduvar.com.tr/balikesirde-trafik-kazasi-aracta-mahsur-kalan-1-kisi-kurtarildi-haber-1765957",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Balıkesir-Bursa kara yolunda meydana gelen tek taraflı trafik kazasında araç içerisinde mahsur kalan 1 kişi, ekiplerin müdahalesiyle kurtarıldı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/05/30/f5haber-bupe_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_bdcd76f4",
-    "title": "Trabzon’dan batıya dönüş kabusu! Tamamen kilitlendi...",
-    "source": "61 Saat",
-    "time": "30/05/2026 19:01",
-    "link": "https://www.61saat.com/trabzondan-batiya-donus-kabusu-tamamen-kilitlendi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Bayram tatilini memleketleri Trabzon’da geçiren vatandaşların batı metropollerine dönüş yolculuğu tam bir çileye dönüştü.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/05/934132ce-c245-4cd4-a4eb-53a070eaa1ee.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_477cea4e",
-    "title": "Devrilen elektrikli motosikletteki 3 kişi yaralandı",
-    "source": "Gazete Duvar",
-    "time": "30/05/2026 19:01",
-    "link": "https://www.gazeteduvar.com.tr/devrilen-elektrikli-motosikletteki-3-kisi-yaralandi-haber-1765958",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bursa'nın İnegöl ilçesinde meydana gelen tek taraflı kazada treeporter devrildi. Kaza sonucu 1'i çocuk 3 kişi yaralandı.",
-    "image": "https://i.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/05/30/f5haber-kkmo_cover.jpg",
     "keyword": ""
   }
 ]
