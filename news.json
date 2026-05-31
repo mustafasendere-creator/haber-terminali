@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_ae5aae9a",
+    "title": "Kayahan’ın mirası yeniden kriz çıkardı",
+    "source": "OdaTV",
+    "time": "01/06/2026 02:21",
+    "link": "https://www.odatv.com/magazin/kayahanin-mirasi-yeniden-kriz-cikardi-120149074",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayahan’ın kızı Beste Açar, sanatçı Nilüfer’e sert sözlerle yüklendi. Açar, babasının eserleri üzerindeki hak mücadelesi sürerken Nilüfer’in İpek Açar Kömürcü ile birlikte hareket ettiğini öne sürerek, “Artık konuşma zamanı” dedi ve hukuki süreç başlatacağını açıkladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/01/kayahanin-mirasi-yeniden-kriz-cikardi-xfnv.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_daf34908",
+    "title": "Kılıçdaroğlu 'Cumhurbaşkanlığına aday gösterecek' denilmişti: İlhan Kesici konuştu",
+    "source": "Ekonomim",
+    "time": "01/06/2026 02:21",
+    "link": "https://www.ekonomim.com/gundem/kilicdaroglu-cumhurbaskanligina-aday-gosterecek-denilmisti-ilhan-kesici-konustu-haberi-897022",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Genel Başkanlığına mahkeme kararı ile iade edilen getirilen Kemal Kılıçdaroğlu'nun, Cumhurbaşkanlığı'na İlhan Kesici'yi aday göstereceği iddia edilmişti. İlhan Kesici, mutlak butlan kararı sonrası ilk kez konuştu.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/01/kilicdaroglu-cumhurbaskanligina-aday-gosterecek-denilmisti-ilhan-kesici-konustu-tyna_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_fd6decaa",
+    "title": "Anadolu Otoyolu'nda bayram dönüşü yoğunluğu: Trafik durma noktasına geldi",
+    "source": "BirGün",
+    "time": "01/06/2026 02:21",
+    "link": "https://www.birgun.net/haber/anadolu-otoyolu-nda-bayram-donusu-yogunlugu-trafik-durma-noktasina-geldi-715643",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kurban Bayramı tatilinin son gününde İstanbul yönüne geri dönüş yolculuğu yapan sürücüler, Anadolu Otoyolu'nun Düzce geçişinde yoğun trafiğe neden oldu. Yoğunluk nedeniyle trafik yer yer durma noktasına geldi.",
+    "image": "https://static.birgun.net/resim/haber/2026/06/01/anadolu-otoyolu-nun-duzce-gecisinde-bayram-donusu-yogunlugu-trafik-durma-noktasina-geldi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_92302fe3",
+    "title": "Viranşehir'de arazi anlaşmazlığı kavgası: 4 yaralı",
+    "source": "BirGün",
+    "time": "01/06/2026 02:21",
+    "link": "https://www.birgun.net/haber/viransehir-de-arazi-anlasmazligi-kavgasi-4-yarali-715646",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'nın Viranşehir ilçesinde komşu iki aile arasında arazi anlaşmazlığı nedeniyle çıkan taşlı ve sopalı kavgada 4 kişi yaralandı.",
+    "image": "https://static.birgun.net/resim/haber/2026/06/01/viransehir-de-arazi-anlasmazligi-kavgasi-4-yarali.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f71f8782",
+    "title": "Kolombiya cumhurbaşkanlığı seçimi ikinci tura kaldı: Sol ile aşırı sağ yarışacak",
+    "source": "BirGün",
+    "time": "01/06/2026 02:21",
+    "link": "https://www.birgun.net/haber/kolombiya-cumhurbaskanligi-secimi-ikinci-tura-kaldi-sol-ile-asiri-sag-yarisacak-715648",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kolombiya’da düzenlenen cumhurbaşkanlığı seçimlerinin ilk turunda hiçbir aday yüzde 50 barajını aşamadı. Ülkenin geleceğini belirleyecek 21 Haziran'daki ikinci turda, iktidardaki sol ittifakın adayı Iván Cepeda ile aşırı sağcı Abelardo de la Espriella karşı karşıya gelecek.",
+    "image": "https://static.birgun.net/resim/haber/2026/06/01/kolombiya-sandik-basinda-secim-ikinci-tura-kaldi-sol-ile-asiri-sag-yarisacak.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_2c79c1e5",
     "title": "Trabzon, sahil bandı bakımsız ve ilgili daire umursamıyor",
     "source": "Günebakış",
@@ -4736,66 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Bayram tatili dönüşü: İstanbul'da trafik yoğunluğu 31.05.2026 Diken Kurban Bayramı tatilinin son gününde İstanbul'da trafik yoğunluğu oldu. The post Bayram tatili dönüşü: İstanbul'da trafik yoğunluğu appeared first on #sitelinkat 31.05.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_633f5b6a",
-    "title": "Aydın'da şüpheli kadın ölümü",
-    "source": "Evrensel",
-    "time": "31/05/2026 19:01",
-    "link": "https://www.evrensel.net/haber/5986424/aydinda-supheli-kadin-olumu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aydın'ın Efeler ilçesinde 31 yaşındaki sağlık personeli Ümran Yavuz, yalnız yaşadığı evde ölü bulundu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/349555.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_76681a93",
-    "title": "Uruguay’ın 2026 Dünya Kupası kadrosu açıklandı: Muslera listede, Torreira şoku",
-    "source": "Evrensel",
-    "time": "31/05/2026 19:01",
-    "link": "https://www.evrensel.net/haber/5986425/uruguayin-2026-dunya-kupasi-kadrosu-aciklandi-muslera-listede-torreira-soku",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 Dünya Kupası için Uruguay Milli Takımı kadrosu açıklandı. Galatasaray kalecisi Fernando Muslera kadroda yer alırken Lucas Torreira listeye dahil edilmedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/322640.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_248188eb",
-    "title": "İsrail 20 yıl sonra Lübnan’daki Beaufort Kalesi’ni ele geçirdi: Fransa'dan sert tepki",
-    "source": "Euronews",
-    "time": "31/05/2026 19:01",
-    "link": "http://tr.euronews.com/2026/05/31/israil-20-yil-sonra-lubnandaki-beaufort-kalesini-ele-gecirdi-fransadan-sert-tepki",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusu Lübnan topraklarında ilerleyerek Orta Çağ’da inşa edilen stratejik Beaufort Kalesi’ne bayrağını dikti. Fransa, İsrail'in işgalini kınadı ve BM Güvenlik Konseyi’ni acil toplantıya çağırdı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_8eabce36",
-    "title": "İsrail'de Ganot Cezaevi yönetimi, Filistinli tutukluların bayram namazı kılmasını engelledi",
-    "source": "Anadolu Ajansı",
-    "time": "31/05/2026 19:01",
-    "link": "https://www.aa.com.tr/tr/dunya/israilde-ganot-cezaevi-yonetimi-filistinli-tutuklularin-bayram-namazi-kilmasini-engelledi/3952445",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail'in güneyindeki Ganot Cezaevi yönetimi, Filistinli tutukluların bayram namazı kılmalarına izin vermedi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_1ce81384",
-    "title": "A Milli Futbol Takımı, 2026 FIFA Dünya Kupası hazırlıklarını sürdürdü",
-    "source": "Anadolu Ajansı",
-    "time": "31/05/2026 19:01",
-    "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-2026-fifa-dunya-kupasi-hazirliklarini-surdurdu/3952386",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 FIFA Dünya Kupası'nda mücadele edecek A Milli Futbol Takımı, hazırlıklarını sürdürdü. Kaptan Hakan Çalhanoğlu antrenmanın ilk bölümünde takımla çalışırken, Kerem Aktürkoğlu koşulara başladı.,",
     "image": null,
     "keyword": ""
   }
