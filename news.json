@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_adfdca48",
+    "title": "Erdoğan Paşinyan ile görüştü",
+    "source": "OdaTV",
+    "time": "03/06/2026 02:22",
+    "link": "https://www.odatv.com/guncel/erdogan-pasinyan-ile-gorustu-120149352",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ermenistan Başbakanı Nikol Paşinyan ile telefonda görüştü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/03/erdogan-pasinyan-ile-gorustu-lp5b.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_340b59e4",
+    "title": "Tokat'ta Colin's işçilerinin grevi 34'üncü gününde: TİS hakkı pazarlık konusu yapılamaz",
+    "source": "Evrensel",
+    "time": "03/06/2026 02:21",
+    "link": "https://www.evrensel.net/haber/5986744/tokatta-colins-iscilerinin-grevi-34uncu-gununde-tis-hakki-pazarlik-konusu-yapilamaz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tokat’ta Colin's işçileri grevlerinin 34’üncü gününde Colin’s mağazası önünde yaptıkları açıklamada anayasal haklarının görmezden gelindiğini ifade ederek, “Toplu iş sözleşmesi hakkı pazarlık konusu yapılamaz” dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/349834.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_0edd1074",
+    "title": "Bakan Uraloğlu, yarın Gümüşhane’ye geliyor",
+    "source": "Günebakış",
+    "time": "03/06/2026 02:21",
+    "link": "https://www.gunebakis.com.tr/bakan-uraloglu-yarin-gumushaneye-geliyor/28102113",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "",
+    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/02/large/bakan-uraloglu-yarin-gumushaneye-geliyor-1.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2457401c",
+    "title": "TMO hububat taban fiyatına tepki gösteren çiftçi: Elimiz para görmedikten sonra bu işi yapmanın anlamı ne?",
+    "source": "Evrensel",
+    "time": "03/06/2026 02:21",
+    "link": "https://www.evrensel.net/haber/5986745/tmo-hububat-taban-fiyatina-tepki-gosteren-ciftci-elimiz-para-gormedikten-sonra-bu-isi-yapmanin-anlami-ne",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TMO’nun açıkladığı buğday taban fiyatına Yozgat’ta tepki gösteren çiftçiler, “Parayı kazanan tüccar, parayı kazanan gübre bayileri, parayı kazanan petroller, zararı çeken çiftçi. Elimiz para görmedikten sonra bu işi yapmanın anlamı ne” diye sordu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/349835.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_d5be9075",
+    "title": "Kılıçdaroğlu’nun belirlediği MYK ilk toplantısını yaptı",
+    "source": "Evrensel",
+    "time": "03/06/2026 02:21",
+    "link": "https://www.evrensel.net/haber/5986747/kilicdaroglunun-belirledigi-myk-ilk-toplantisini-yapti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mahkeme kararıyla CHP Genel Başkanlığı görevine dönen Kemal Kılıçdaroğlu'nun belirlediği Merkez Yönetim Kurulu ilk toplantısını yaptı. 4 saat süren toplantıya ilişkin açıklama yarın yapılacak.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/349699.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_567b404a",
+    "title": "CHP'li Gökçen hakkındaki iddialara yanıt verdi: O yazıyı ben yazmadım",
+    "source": "Evrensel",
+    "time": "03/06/2026 02:21",
+    "link": "https://www.evrensel.net/haber/5986748/chpli-gokcen-hakkindaki-iddialara-yanit-verdi-o-yaziyi-ben-yazmadim",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Gökçe Gökçen, Genel Merkez'deki odasının duvarına \"Hain Kemal\" yazısını kendisinin yazdığı yönündeki iddiaları yalanladı. Söz konusu günde Genel Merkez'de olmadığını ifade eden Gökçen, \"Dolayısıyla o yazıyı da ben yazmadım\" dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/349836.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_bc9b608b",
     "title": "CHP Kilis İl Başkanı Umut Mehmet Sapan tahliye edildi",
     "source": "OdaTV",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "Bir sigara grubuna zam 02.06.2026 Diken JTİ sigara grubuna 5 lira zam geldi. The post Bir sigara grubuna zam appeared first on #sitelinkat 02.06.2026 .",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_1d8fa868",
-    "title": "Çağrı metnine imza atmayan CHP'li Salıcı: 'Kurultaya değil paniğe karşıyım'",
-    "source": "Evrensel",
-    "time": "02/06/2026 20:21",
-    "link": "https://www.evrensel.net/haber/5986711/cagri-metnine-imza-atmayan-chpli-salici-kurultaya-degil-panige-karsiyim",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP'de 111 milletvekilinin imzasıyla yayımlanan \"Olağanüstü Kurultay 12 Temmuz'da toplansın\" çağrısında yer almayan Oğuz Kaan Salıcı, \"Tutumumda hiçbir değişiklik yoktur: Kurultayımızın mümkün olan en kısa sürede toplanması şarttır, elzemdir\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/349809.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_7d401a52",
-    "title": "Aydın'da maki yangını: 40 dekar alan zarar gördü",
-    "source": "Evrensel",
-    "time": "02/06/2026 20:21",
-    "link": "https://www.evrensel.net/haber/5986710/aydinda-maki-yangini-40-dekar-alan-zarar-gordu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aydın'ın Yenipazar ilçesindeki makilik bölgede çıkan yangın, havadan ve karadan müdahale ile 2 saatte söndürüldü. Yangında ilk belirlemelere göre 40 dekar alan zarar gördü.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/349808.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_328d4429",
-    "title": "Formalar iş yaşamını renklendirebilir mi?",
-    "source": "Evrensel",
-    "time": "02/06/2026 20:21",
-    "link": "https://www.evrensel.net/haber/5986712/formalar-is-yasamini-renklendirebilir-mi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“Sağlık kuruluşlarının her alanını dönüştürmek bizim ellerimizdedir. Bunu farklı forma renkleriyle iş hayatını renklendirmek isteyen veya kurumsal kimlik çalışmasının nesnel bir parçası kılmaya çalışanlar yapamaz, örgütlülüğümüzle biz başarabiliriz",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/161546.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_88b81708",
-    "title": "AB Komisyonu, İtalya'nın sanayi stratejisini zayıf buldu",
-    "source": "Euronews",
-    "time": "02/06/2026 20:21",
-    "link": "http://tr.euronews.com/business/2026/06/02/ab-komisyonu-italyanin-sanayi-stratejisini-zayif-buldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Komisyon, yarın yayımlanacak ülke bazlı tavsiyelerde, İtalya’nın sağlam sanayi planlarından yoksunluğunu eleştirip sermaye piyasası yatırımlarını teşvik ve vergi reformu çağrısı yapacak.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_8cb2a946",
-    "title": "Mossad Direktörü değişti: Netanyahu'nun askeri sekreteri atandı",
-    "source": "BirGün",
-    "time": "02/06/2026 20:21",
-    "link": "https://www.birgun.net/haber/mossad-direktoru-degisti-netanyahu-nun-askeri-sekreteri-atandi-716074",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail dış istihbarat servisi Mossad Direktörlüğü görevine, Netanyahu'nun askeri direktörü Roman Gofman atandı. Gofman, atanır atanmaz İran'ı yeryüzünden silmekle tehdit etti.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/02/mossad-direktoru-degisti-netanyahu-nun-askeri-sekreteri-atandi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_7c2c75a9",
-    "title": "TBMM Genel Kurulu, toplantı yeter sayısı bulunamadığı için kapandı",
-    "source": "BirGün",
-    "time": "02/06/2026 20:21",
-    "link": "https://www.birgun.net/haber/tbmm-genel-kurulu-toplanti-yeter-sayisi-bulunamadigi-icin-kapandi-716075",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Genel Kurul'da Yeni Yol Partisi'nin grup önerisinin oylanmasından önce talep üzerine yapılan yoklamada toplantı yeter sayısı bulunamayınca TBMM Başkanvekili Celal Adan, birleşimi yarın saat 14.00'te toplanmak üzere kapattı.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/02/tbmm-genel-kurulu-toplanti-yeter-sayisi-bulunamadigi-icin-kapandi.webp",
     "keyword": ""
   }
 ]
