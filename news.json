@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_7a03a4e9",
+    "title": "Taksiciye dolandırıcılık işlemi",
+    "source": "OdaTV",
+    "time": "02/06/2026 03:21",
+    "link": "https://www.odatv.com/guncel/taksiciye-dolandiricilik-islemi-120149199",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyoğlu’nda bir taksi şoförü, turist yolcuyu aracına aldıktan sonra taksimetreyi açmadı. Ekiplerce yakalanan şoföre 141 bin 500 Türk Lirası trafik idari para cezası uygulandı. Dolandırıcılık suçundan da işlem yapılan şoförün ticari taksi sürücü kartı iptal edildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/02/taksiciye-dolandiricilik-islemi-pnr0.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_b7895263",
+    "title": "🗣️ Gümüşhane'de Çılgın Destek! 2730 Metre Yükseklikte Milli Takım İçin Yürüdüler!",
+    "source": "YouTube",
+    "time": "02/06/2026 03:21",
+    "link": "https://www.youtube.com/watch?v=zRGrjSSVQIk",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: zRGrjSSVQIk)",
+    "image": "https://img.youtube.com/vi/zRGrjSSVQIk/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "TKP_2a1c71b7",
     "title": "Trabzonspor Basketbol’un Yıldızı Royce Hamm Jr.: “Trabzon’da Kazanmayı ve Bu Duyguyu Çok Seviyorum” - Gunebakış",
     "source": "Google Haberler",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Aydınpost haber sitesinin imtiyaz sahibi Yelis Ayaz hakkında tahliye kararı verildi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/01/yelis-ayaz-hakkinda-tahliye-karari-jkeq.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_ed7ddba0",
-    "title": "Husumetlisine kurşun yağdırdı, kaçıp intihar etti - Çerkezköy Haber",
-    "source": "Google Haberler",
-    "time": "01/06/2026 20:42",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGN2ZldvRUZhM3Q0c2tpVWNBMElzdUJZREwzQl8zM2xpeU9HSXdQS2JDN3VQR1NpUjg1ZmNLNFBkaUNZUWoydTRNTkczZy1fdm5UMmRIcVZmZU5XM0ZvMFdOTVQ5R05kR09ILVlWRVVRbXZnb3BmNmZueDJXc0JLbmhBRE11c0drLW1BQXdRVVhaVldMRXZTa2FJcXlpQdIBngFBVV95cUxPWGN2ZldvRUZhM3Q0c2tpVWNBMElzdUJZREwzQl8zM2xpeU9HSXdQS2JDN3VQR1NpUjg1ZmNLNFBkaUNZUWoydTRNTkczZy1fdm5UMmRIcVZmZU5XM0ZvMFdOTVQ5R05kR09ILVlWRVVRbXZnb3BmNmZueDJXc0JLbmhBRE11c0drLW1BQXdRVVhaVldMRXZTa2FJcXlpQQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "INTIHAR"
-  },
-  {
-    "id": "GND_a5231ef3",
-    "title": "Anthropic, halka arz için gizli başvuru yaptı",
-    "source": "Ekonomim",
-    "time": "01/06/2026 20:42",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/anthropic-halka-arz-icin-gizli-basvuru-yapti-haberi-897201",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD merkezli yapay zeka şirketi Anthropic, planlanan ilk halka arz süreci kapsamında ABD Menkul Kıymetler ve Borsa Komisyonuna (SEC) taslak kayıt beyanını gizli olarak sunduğunu açıkladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/03/03/pentagonla-anlasmazlik-anthropice-yaradi-0rnn_cover.jpg",
     "keyword": ""
   }
 ]
