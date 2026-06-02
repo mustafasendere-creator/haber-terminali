@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_deec70e3",
+    "title": "Hurdaya dönen araçtan ucuz kurtuldu",
+    "source": "OdaTV",
+    "time": "02/06/2026 04:01",
+    "link": "https://www.odatv.com/guncel/hurdaya-donen-aractan-ucuz-kurtuldu-120149201",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Anadolu Otoyolu Sakarya geçişinde önündeki kamyona çarpması neticesinde hurdaya dönen kamyonun sürücüsü, kazadan hafif yaralı şekilde kurtuldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/02/hurdaya-donen-aractan-ucuz-kurtuldu-gec5.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_7b6470e9",
+    "title": "AKP kulislerinde 'Mutlak butlan' için yeni bir savunma hattı kuruluyor: ‘Saray’ın değil, devlet aklının tercihi’",
+    "source": "Cumhuriyet",
+    "time": "02/06/2026 04:01",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/akp-kulislerinde-mutlak-butlan-icin-yeni-bir-savunma-hatti-kuruluyor-saray-in-degil-devlet-aklinin-tercihi-2508457",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP kurultayına ilişkin “mutlak butlan” kararının yankıları sürerken, AKP kulislerinde dikkat çekici bir söylem öne çıkıyor. Parti çevrelerinde bazı isimler, sürecin Cumhurbaşkanı Recep Tayyip Erdoğan’ın siyasi müdahalesiyle değil, devlet ve yargı bürokrasisi içindeki bazı güç merkezlerinin tercihiyle şekillendiği görüşünü dile getiriyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7619ff76-a52d-403d-9fcd-118a6c961120.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_def7a9bf",
+    "title": "Avcılar'da kolonlarından sesler gelen 5 katlı bina tahliye edildi",
+    "source": "TRT Haber",
+    "time": "02/06/2026 04:01",
+    "link": "https://www.trthaber.com/haber/turkiye/avcilarda-kolonlarindan-sesler-gelen-5-katli-bina-tahliye-edildi-946847.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Avcılar'da 5 katlı bir binanın giriş kısmındaki merdivenler, yan tarafındaki temel kazısındaki toprak kayması nedeniyle çöktü. Bu sırada kolonlarından gelen sesler üzerine bina tahliye edildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_447c403a",
     "title": "Trabzon Ticaret Borsası’nda Yeni Dönem! Meclis Başkanlığına Yılmaz Karadeniz Seçildi - Gunebakış",
     "source": "Google Haberler",
@@ -4762,41 +4798,5 @@
     "summary": "İsviçre'nin Baden kentinde yolcular artık ne durağı ne de sabit güzergâhı olan, saatlere bağlı kalmayan bir otobüs hizmetinden yararlanabiliyor. Yavaşlamaya davet mi?",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "GND_19f5fe1b",
-    "title": "Litvanya dev soğuk çorba festivaliyle pembeye büründü",
-    "source": "Euronews",
-    "time": "01/06/2026 21:01",
-    "link": "http://tr.euronews.com/video/2026/06/01/litvanya-dev-soguk-corba-festivaliyle-pembeye-burundu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Vilnius’un Pembe Çorba Festivali’ne, Litvanya’nın ünlü soğuk pancar çorbasını üç gün boyunca yarışlar, kostümler, köpük kaydıraklar ve büyük toplu öğle yemekleriyle kutlayan 100 binden fazla kişinin katılması bekleniyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_4a7c3ff8",
-    "title": "İsrail askerleri Gazze'deki Cibaliya Mülteci Kampı'nda onlarca evi ateşe verdi",
-    "source": "Anadolu Ajansı",
-    "time": "01/06/2026 21:01",
-    "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-gazzedeki-cibaliya-multeci-kampinda-onlarca-evi-atese-verdi/3953506",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail askerlerinin Gazze Şeridi'nin kuzeyindeki Cibaliya Mülteci Kampı'nın doğusunda onlarca ev ve mülkü ateşe verdiği bildirildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_2d3d4c4d",
-    "title": "Trabzonspor’dan Alvaro Rodriguez Hamlesi: Elche İle İlk Temas Kuruldu - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "01/06/2026 20:42",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjFGZ0x0a0pVSXZoS3YyYWkxWFk2UEFocWdxMFpFQ2h2LXN2Xzh2NnNSdFZHVUVBeWMyS0JSWExfcHZWakg5VU00c2YtR0MwMm83WDVrRG53blFmU2FHSTU1a3BhUDZsaWJKNjlYc0xsQUNfT0ltcGFKb3pPQWNYQjd5X1dIc21hanlUQUwtemI2bDBVUTlsR2lFLVhmd9IBowFBVV95cUxQbTBYNlkwY3F5TVVrRDB6bWxNRGpkU20zVXhkZ2J3Rl9yU0hTNWNqV01SLVlMRHVrVk9WRmZQcG5IRUc3Ujdvd0lYamJnNi0wNG5BeVhjenYxa21PZlAtd2E3c0d0SDFpbmUxNzRfcDh2UGQwQTlpdTlHekV3Q3Q0SzQ5ai1aT2tnTzNLVW9oVXVQWFRzRXVTSTB0NVpDMXlMWnZj?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
   }
 ]
