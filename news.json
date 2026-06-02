@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_1ca64ae2",
+    "title": "Genç rapçi Aishe hayatını kaybetti",
+    "source": "Haber Global",
+    "time": "02/06/2026 06:21",
+    "link": "https://haberglobal.com/magazin/genc-rapci-aishe-hayatini-kaybetti-527567",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "\"Aishe\" adıyla tanınan rap sanatçısı Tuğçe Ayşe Güler, hayatını kaybetti",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/06/02/genc-rapci-aishe-hayatini-kaybetti-7lmy.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_48c94899",
+    "title": "Avcılar'da kolonlarından ses gelen 5 katlı bina tahliye edildi",
+    "source": "TRT Haber",
+    "time": "02/06/2026 06:21",
+    "link": "https://www.trthaber.com/haber/turkiye/avcilarda-kolonlarindan-ses-gelen-5-katli-bina-tahliye-edildi-946847.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Avcılar'da 5 katlı bir binanın giriş kısmındaki merdivenler, yan tarafındaki temel kazısındaki toprak kayması nedeniyle çöktü. Bu sırada kolonlarından gelen sesler üzerine bina tahliye edildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_f1194eea",
+    "title": "Avcılar'da kentsel dönüşüme girecek binanın merdivenleri çöktü, apartmanda kalanlar son anda kurtarıldı",
+    "source": "Evrensel",
+    "time": "02/06/2026 06:21",
+    "link": "https://www.evrensel.net/haber/5986580/avcilarda-kentsel-donusume-girecek-binanin-merdivenleri-coktu-apartmanda-kalanlar-son-anda-kurtarildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avcılar'da inşaat kazısı nedeniyle yaşanan toprak kayması, henüz tamamen boşaltılmayan beş katlı binanın giriş merdivenlerini yıktı. Binada mahsur kalan, aralarında çocukların da bulunduğu yedi kişi son anda tahliye edildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/349703.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_4e98ec1f",
+    "title": "Trabzonspor’un Sattığı Olaigbe Konyaspor’da Kriz Yarattı! Yönetim Harekete Geçti",
+    "source": "Günebakış",
+    "time": "02/06/2026 06:21",
+    "link": "https://www.gunebakis.com.tr/trabzonsporun-sattigi-olaigbe-konyasporda-kriz-yaratti-yonetim-harekete-gecti/28077005",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trabzonspor’un devre arasında Konyaspor’a transfer ettiği Olaigbe’nin sosyal medyada kulübü takip etmeyi bırakması, Konya cephesinde yeni bir tartışmayı beraberinde getirdi.",
+    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/01/large/trabzonsporun-sattigi-olaigbe-konyasporda-kriz-yaratti-yonetim-harekete-gecti-1.webp",
+    "keyword": ""
+  },
+  {
+    "id": "GND_0010f66f",
+    "title": "Filistin: İsrail'in ezanları susturmayı öngören yasa tasarısı \"dini savaş\" ilanı",
+    "source": "Anadolu Ajansı",
+    "time": "02/06/2026 06:21",
+    "link": "https://www.aa.com.tr/tr/dunya/filistin-israilin-ezanlari-susturmayi-ongoren-yasa-tasarisi-dini-savas-ilani-/3953688",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filistin Devlet Başkanı Mahmud Abbas'ın Din İşlerinden Sorumlu Başdanışmanı Şeyh Mahmud el-Hebbaş, İsrail'in camilerde ezanı yasaklamaya yönelik attığı adımın \"dini savaş\" ilanı olduğunu bildirdi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_32d572c0",
     "title": "Mutlak butlandan bir gün sonra... Erdoğan’ın sessiz manevrası",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, geride kalan sezonda yerli oyuncu rotasyonunda yaşadığı sıkıntıları yeni dönemde tekrarlamak istemiyor. Bu doğrultuda transfer çalışmalarını özellikle savunma hattında yoğunlaştıran Bordo-Mavililer, altyapısından yetişen eski oyuncusu Ahmet Can Kaplan için yeniden devreye girdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/chatgpt-image-1-haz-2026-15-21-41.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_50375af8",
-    "title": "İzmir'de Gezi anması: Yılgınlık yok, mücadeleye devam",
-    "source": "BirGün",
-    "time": "01/06/2026 21:41",
-    "link": "https://www.birgun.net/haber/izmir-de-gezi-anmasi-yilginlik-yok-mucadeleye-devam-715827",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gezi Direnişi 13’üncü yılında İzmir’de de anıldı. İzmir Emek ve Demokrasi Güçleri tarafından yapılan açıklamada, “Gezi direniştir, Gezi halkların özgürlük, eşitlik ve adalet iradesidir. Yılgınlık yok, mücadeleye devam” denildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/01/izmirde-gezi-anmasi-yilginlik-yok-mucadeleye-devam.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_8a963eea",
-    "title": "İran, ABD ile iletişimi kesti: Hürmüz Boğazı'nı kapatmak gündemde",
-    "source": "BirGün",
-    "time": "01/06/2026 21:41",
-    "link": "https://www.birgun.net/haber/iran-abd-ile-iletisimi-kesti-hurmuz-bogazi-ni-kapatmak-gundemde-715828",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail’in Lübnan’a yönelik saldırıları nedeniyle ABD ile arabulucular üzerinden yürüttüğü mesaj alışverişini durduran İran, müzakerelerin yeniden başlaması için işgalin son bulmasını şart koştu. Tahran yönetiminin Hürmüz Boğazı’nı tamamen kapatmayı da masaya yatırdığı bildirildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/01/iran-abd-ile-iletisimi-kesti-hurmuz-bogazi-ni-kapatmak-gundemde.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_4cd62b53",
-    "title": "CHP Trabzon Delegelerinden olağanüstü kurultay için toplu imza",
-    "source": "Günebakış",
-    "time": "01/06/2026 21:41",
-    "link": "https://www.gunebakis.com.tr/chp-trabzon-delegelerinden-olaganustu-kurultay-icin-toplu-imza/28076877",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/01/large/chp-trabzon-delegelerinden-olagaanuestue-kurultay-icgin-toplu-imza.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_82e04503",
-    "title": "ABD'nin Ankara Büyükelçisi Barrack'tan yeni görevine ilişkin paylaşım",
-    "source": "Anadolu Ajansı",
-    "time": "01/06/2026 21:41",
-    "link": "https://www.aa.com.tr/tr/dunya/abdnin-ankara-buyukelcisi-barracktan-yeni-gorevine-iliskin-paylasim/3953537",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin Ankara Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack, mevcut görevlerine ek olarak Irak Özel Temsilcisi olarak atanmasından gurur duyduğunu belirtti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_0d0297f2",
-    "title": "Malta'daki havai fişek fabrikasında şiddetli patlama meydana geldi, 2 kişi hafif yaralandı",
-    "source": "Anadolu Ajansı",
-    "time": "01/06/2026 21:41",
-    "link": "https://www.aa.com.tr/tr/dunya/maltadaki-havai-fisek-fabrikasinda-siddetli-patlama-meydana-geldi-2-kisi-hafif-yaralandi/3953535",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Malta'nın Maghtab bölgesinde havai fişek üretilen fabrikada sabah erken saatlerde meydana gelen şiddetli patlama sonucu 2 kişi hafif yaralandı.",
-    "image": null,
     "keyword": ""
   }
 ]
