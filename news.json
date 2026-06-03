@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_ab0f1783",
+    "title": "Kaldırımda akılalmaz kaza",
+    "source": "OdaTV",
+    "time": "03/06/2026 03:22",
+    "link": "https://www.odatv.com/guncel/kaldirimda-akilalmaz-kaza-120149354",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Brezilya’da kaldırımda yürüyen kadın, rögar kapağı sabit olmayan kanalizasyona düştü. Rögar kapağı kadının üstüne kapandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/03/kaldirimda-akilalmaz-kaza-3np6.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_13d14a85",
+    "title": "Adıyaman'da silahlı saldırıda ölen kişinin kimliği belirlendi",
+    "source": "Haber Global",
+    "time": "03/06/2026 03:22",
+    "link": "https://haberglobal.com/gundem/adiyamanda-silahli-saldirida-olen-kisinin-kimligi-belirlendi-527740",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman’da, pusuya düşürülerek taranan araçta vurularak öldürülen şahsın kimliği belirlendi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/06/03/adiyamanda-silahli-saldirida-olen-kisinin-kimligi-belirlendi-xabv.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_e659005e",
+    "title": "🗣️ OYUN BİTTİ! BİR AN ÖNCE ÖNLEM ALIN! “Korkutmak İstemiyorum Ama..” ŞALTERİ İNDİRDİLER! PARANI KORU!",
+    "source": "YouTube",
+    "time": "03/06/2026 03:21",
+    "link": "https://www.youtube.com/watch?v=3OTGtUZzjwo",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 3OTGtUZzjwo)",
+    "image": "https://img.youtube.com/vi/3OTGtUZzjwo/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_40f8d1ca",
     "title": "Trump'tan yapay zeka kararnamesi",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Brezilya’da kaldırımda yürüyen kadın, rögar kapağı sabit olmayan kanalizasyona düştü. Rögar kapağı kadının üstüne kapandı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/02/sokakta-yuruyen-kadin-kanalizasyona-dustu-rogar-kapagi-ustune-kapandi-video-snku_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_250d0240",
-    "title": "CHP 38. Olağan Kurultay soruşturması: Özkan Yalım ve Turgut Koç ifade verdi",
-    "source": "Cumhuriyet",
-    "time": "02/06/2026 20:22",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/chp-38-olagan-kurultay-sorusturmasi-ozkan-yalim-ve-turgut-koc-ifade-verdi-2508774",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "'Mutlak butlan' kararıyla iptal edilen CHP'nin 38. Olağan Kurultayı'na dair yürütülen soruşturmada yeni bir gelişme yaşandı. Uşak Belediye Başkanlığı görevinden uzaklaştırılan Özkan Yalım ile iş insanı Turgut Koç ifade verdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/155c2f17-61fa-4042-a4a1-3d436df5baa3.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_4c32d1e8",
-    "title": "Trabzonspor'un Yeni Transferi Paylaştı Taraftar Coştu!",
-    "source": "Günebakış",
-    "time": "02/06/2026 20:22",
-    "link": "https://www.gunebakis.com.tr/trabzonsporun-yeni-transferi-paylasti-taraftar-costu/28102044",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Basketbol Takımı'nın yeni transferi Tolga Geçim, yaptığı paylaşımıyla bordo-mavili taraftarların yoğun ilgisiyle karşılaştı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/02/large/trabzonsporun-yeni-transferi-paylasti-taraftar-costu-1.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_3e0b045f",
-    "title": "Küçükçekmece'de iş makinesini taşıyan çekici devrildi: Sürücü hayatını kaybetti",
-    "source": "Haber Global",
-    "time": "02/06/2026 20:22",
-    "link": "https://haberglobal.com/gundem/kucukcekmecede-is-makinesini-tasiyan-cekici-devrildi-surucu-hayatini-kaybetti-527713",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'un Küçükçekmece ilçesinde iş makinesi taşıyan çekici, kontrolden çıkarak devrildi. Kazada devrilen iş makinesinin altında kalan sürücü olay yerinde yaşamını yitirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/06/02/kucukcekmecede-is-makinesini-tasiyan-cekici-devrildi-surucu-hayatini-kaybetti-nubb.jpg",
     "keyword": ""
   }
 ]
