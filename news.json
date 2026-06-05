@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_17a75ef6",
+    "title": "ABD'den Orta Doğu için uyarı",
+    "source": "OdaTV",
+    "time": "05/06/2026 04:01",
+    "link": "https://www.odatv.com/guncel/abdden-orta-dogu-icin-uyari-120149636",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'den Orta Doğu'daki \"güvenlik ortamının karmaşıklığı\" nedeniyle bölgeye yönelik seyahat uyarısı geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/05/abdden-orta-dogu-icin-uyari-lihv.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a2ed7a87",
+    "title": "MHP’de ‘mutlak butlan’ kaygısı: ‘Süreç sekteye uğramasın’",
+    "source": "Cumhuriyet",
+    "time": "05/06/2026 04:01",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/mhp-de-mutlak-butlan-kaygisi-surec-sekteye-ugramasin-2509464",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "MHP Genel Başkanı Devlet Bahçeli'nin CHP'deki mutlak butlan kararına ilişkin \"Şimdiki genel başkan Kemal Kılıçdaroğlu'dur\" sözleri yeni tartışma yaratırken, MHP kulislerinde asıl endişenin CHP'deki iç kriz değil, açılım sürecinin siyasi gündemin gerisine düşmesi olduğu belirtiliyor. AKP ile MHP arasında sürecin yasal zemini konusunda görüş ayrılıklarının sürdüğü de ifade ediliyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9c1b6ea1-12bd-42ab-acc4-5f86cc1fcd70.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_25447db5",
+    "title": "Kahramanmaraş'ta kayınpederi tarafından bıçaklanan damat öldü",
+    "source": "Haber Global",
+    "time": "05/06/2026 04:01",
+    "link": "https://haberglobal.com/gundem/kahramanmarasta-kayinpederi-tarafindan-bicaklanan-damat-oldu-528153",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ın Dulkadiroğlu ilçesinde kayınpeder ile damadı arasında çıkan tartışma cinayetle sonuçlandı. Bıçaklanan 30 yaşındaki damat, kaldırıldığı hastanede hayatını kaybetti. Olayın ardından kaçan şüpheli kayınpederin yakalanması için çalışma başlatıldı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/06/05/kahramanmarasta-kayinpederi-tarafindan-bicaklanan-damat-oldu-wiij.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_f02dff1b",
     "title": "ELLERİM KÜÇÜK HAYALLERİM BÜYÜK ÇOCUK ŞENLİĞİ BİENALİ COŞKUYLA GERÇEKLEŞTİRİLDİ - Trabzon MEB",
     "source": "Google Haberler",
@@ -4762,41 +4798,5 @@
     "summary": "Apple, App Store ekosisteminin 2025 yılında küresel ölçekte geliştiricilerin faturalandırma ve satışlarından 1,4 trilyon doların üzerinde bir hacme ulaştığını açıkladı.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/04/apple-app-store-ekosistemi-2025te-14-trilyon-dolara-ulasti-xwxj_cover.jpg",
     "keyword": ""
-  },
-  {
-    "id": "GND_954e78d1",
-    "title": "Koç Topluluğu 100. yılında 6 bin kişiyle Anıtkabir’de",
-    "source": "Ekonomim",
-    "time": "04/06/2026 21:02",
-    "link": "https://www.ekonomim.com/gundem/koc-toplulugu-100-yilinda-6-bin-kisiyle-anitkabirde-haberi-897939",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Koç Topluluğu'nun 100. yılı kapsamında yaklaşık 6 bin kişilik heyetle Anıtkabir'i ziyaret etti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/04/koc-toplulugu-100-yilinda-6-bin-kisiyle-anitkabirde-dobx_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_974dc120",
-    "title": "Fitch'ten Türkiye değerlendirmesi: Büyüme tahminini aşağı çekti",
-    "source": "Ekonomim",
-    "time": "04/06/2026 21:02",
-    "link": "https://www.ekonomim.com/ekonomi/fitchten-turkiye-degerlendirmesi-buyume-tahminini-asagi-cekti-haberi-897940",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, mart ayında yüzde 3,6 olarak açıkladığı Türkiye ekonomisinin bu yılki büyüme tahminini, petrol krizinin etkileriyle yüzde 2,8'e düşürdü.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/28/fitch-kuresel-sukuk-piyasasinda-gorunum-direncli-bhng_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_d017dafa",
-    "title": "Trabzon’da rekor ceza iddiası çöktü! Gerçek bambaşka çıktı",
-    "source": "Haber61",
-    "time": "04/06/2026 21:02",
-    "link": "https://www.haber61.net/trabzon/trabzonda-rekor-ceza-iddiasi-coktu-gercek-bambaska-cikti-h634348.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Sosyal medyada ve bazı ulusal yayın organlarında Trabzon’un Of ilçesinde bir sürücüye 1 milyon 200 bin TL trafik cezası kesildiği iddiaları asılsız çıktı.",
-    "image": "https://resim.haber61.net/news/621291.jpg",
-    "keyword": "TRABZON"
   }
 ]
