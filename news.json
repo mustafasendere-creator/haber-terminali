@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_20e62eb9",
+    "title": "Lunaparkta korkunç kaza",
+    "source": "OdaTV",
+    "time": "07/06/2026 01:21",
+    "link": "https://www.odatv.com/guncel/lunaparkta-korkunc-kaza-120149877",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amasya’daki lunaparkta “ranger (kamikaze)” adlı eğlence aletinde meydana gelen kazada, 20 yaşındaki çalışan Burak Kırıkçı kabinin çarpması sonucu ağır yaralandı. Hastaneye kaldırılan genç, tüm müdahalelere rağmen hayatını kaybetti. Olayla ilgili soruşturma başlatıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/07/lunaparkta-korkunc-kaza-s4rr.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_48cf1e94",
+    "title": "Türkiye-Venezuela: 0-0",
+    "source": "Evrensel",
+    "time": "07/06/2026 01:21",
+    "link": "https://www.evrensel.net/haber/5987276/turkiye-venezuela-0-0",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası hazırlıkları kapsamında Türkiye, Venezuela ile karşı karşıya geldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/350398.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c4ed00eb",
+    "title": "ABD'de haziranın ilk günlerindeki aile içi cinayetler endişeye neden oldu",
+    "source": "Anadolu Ajansı",
+    "time": "07/06/2026 01:21",
+    "link": "https://www.aa.com.tr/tr/dunya/abdde-haziranin-ilk-gunlerindeki-aile-ici-cinayetler-endiseye-neden-oldu/3958806",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD’de “aile içi şiddet” olaylarında hızlı artış yaşanırken, haziran ayının ilk günlerinde işlenen cinayetlerin, Kovid-19 salgını sonrası dönemdeki yükselişe işaret ettiği belirtildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_a289a7a7",
     "title": "Trabzon Kültür Yolu Festivali Tarihlerine Sivil Toplumdan İtiraz - HaberGo",
     "source": "Google Haberler",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Gazze'de 5 Haziran Dünya Çevre Günü'nde İsrail ablukası ve işgali nedeniyle biriken katı atıkların, çevre ve insan sağlığı üzerinde ciddi tehlike oluşturduğu belirtildi.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_c3896d42",
-    "title": "İstanbul İslam ekonomisinin küresel buluşma noktası oldu",
-    "source": "Anadolu Ajansı",
-    "time": "06/06/2026 19:01",
-    "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-islam-ekonomisinin-kuresel-bulusma-noktasi-oldu/3958647",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AlBaraka İslam Ekonomisi Forumu Mütevelli Heyeti Başkanı Abdullah Saleh Kamel, İstanbul'un tarih boyunca ticaret, finans ve medeniyetlerin buluşma noktası olduğunu belirtti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_cea9b8a1",
-    "title": "Radardan kaçamadılar: Tek taşla üç çete yakalandı... Odatv ayrıntılara ulaştı",
-    "source": "OdaTV",
-    "time": "06/06/2026 18:42",
-    "link": "https://www.odatv.com/ozel/200-milyar-tllik-dev-operasyon-radardan-kacamadilar-tek-tasla-uc-cete-yakalandi-odatv-ayrintilara-ulasti-120149864",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Vergi müfettişleri; şaibeli maç, kripto bahis ve kara para aklama üzerine kurulu üç çeteyi aynı anda deşifre etti. İlk aşamada 2 bin 100 şüpheli tespit edildi, işlem hacmi 200 milyar TL'yi aştı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/06/200-milyar-tllik-dev-operasyon-radardan-kacamadilar-tek-tasla-uc-cete-yakalandi-odatv-ayrintilara-ulasti-zjhu.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e75f99c2",
-    "title": "Günlük Burç Yorumları: 7 Haziran Pazar Yengeç Burcu Yorumu",
-    "source": "Cumhuriyet",
-    "time": "06/06/2026 18:42",
-    "link": "https://www.cumhuriyet.com.tr/astroloji/yengec-burcu/gunluk-burc-yorumlari-7-haziran-pazar-yengec-burcu-yorumu-2509915",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Günlük Burç Yorumları: 7 Haziran Pazar Yengeç Burcu Yorumu",
-    "image": "https://media.cumhuriyet.com.tr/Archive/468de6f3-f835-4967-974a-a7ed137b9cf0.jpg",
     "keyword": ""
   }
 ]
