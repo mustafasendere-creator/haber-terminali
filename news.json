@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_bda2f0e6",
+    "title": "Meteoroloji'den yüksek sıcaklık uyarısı! 5 derece birden artacak",
+    "source": "Haber Global",
+    "time": "06/06/2026 06:41",
+    "link": "https://haberglobal.com/gundem/6-haziran-2026-hava-durumu-meteorolojiden-yuksek-sicaklik-uyarisi-5-derece-birden-artacak-528290",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji, 6 Haziran 2026 hava durumu raporunu yayımladı. Yeni rapora göre hava sıcaklıkları yurdun güney ve doğu kesimlerinde mevsim normalleri civarında, diğer yerlerde normallerinin 3-5 derece üzerinde seyretmesi bekleniyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/06/06/6-haziran-2026-hava-durumu-meteorolojiden-yuksek-sicaklik-uyarisi-5-derece-birden-artacak-ykes.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_0cf1672a",
+    "title": "Son dakika deprem oldu! AFAD, Kandilli deprem listesi!",
+    "source": "Haber Global",
+    "time": "06/06/2026 06:41",
+    "link": "https://haberglobal.com/gundem/son-dakika-deprem-oldu-afad-kandilli-deprem-listesi-528289",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AFAD, Kandilli deprem son dakika haberleri anbean güncelleniyor. Yaşadığı bölgede sarsıntı hisseden vatandaşlar deprem mi oldu, az önce deprem nerede oldu? sorularına yanıt arıyor. İşte 6 Haziran 2026 AFAD son depremler, Kandilli Rasathanesi son dakika deprem listesi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/06/06/son-dakika-deprem-oldu-afad-kandilli-deprem-listesi-gkp2.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_abc0745d",
+    "title": "Hürmüz’de sıcak saatler… İran saldırdı, ABD düşürdü",
+    "source": "10Haber",
+    "time": "06/06/2026 06:41",
+    "link": "https://10haber.net/dunya/hurmuzde-sicak-saatler-iran-saldirdi-abd-dusurdu-709217/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Cuma günü Hürmüz Boğazı’na doğru çok sayıda insansız hava aracı fırlattı ve ABD Merkez Komutanlığı, iki ülke arasındaki kırılgan ateşkesi tehdit eden son şiddet dalgasında bunların en az dördünü düşürdüğünü açıkladı. Merkez Komutanlığı, sosyal medyada yaptığı açıklamada, tek yönlü saldırı insansız hava araçlarının “bölgesel deniz trafiği için acil bir tehdit oluşturduğunu” belirtti. Askeri yetkililer, …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/06/hurmuz.webp",
+    "keyword": ""
+  },
+  {
     "id": "GND_74009d61",
     "title": "Birleşmiş Milletler raporuna göre tavuk eti tüketimi son 60 yılda 6 kat arttı",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Trabzon'da \"Hayat Boyu Öğrenme Haftası\" kapsamında 2 bin 500 kursiyerin hazırladığı el sanatları ürünlerinden oluşan serginin açılışı gerçekleştirildi.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/06/ekran-resmi-2026-06-05-210203.png",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_53f2d7dd",
-    "title": "Trabzonspor Ernest Muçi transferini bitirdi !İşte sözleşme detayları ve garanti ücreti",
-    "source": "Haber61",
-    "time": "05/06/2026 21:22",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-ernest-muci-transferini-bitirdi-iste-sozlesme-detaylari-ve-h634441.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un geçtiğimiz sezon satın alma opsiyonuyla kiraladığı profesyonel futbolcu Ernest Muçi' ile resmi sözleşme imzalandığını duyurdu.",
-    "image": "https://resim.haber61.net/news/621446.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_f31a730b",
-    "title": "Trabzonspor'un yeni transferi Ruslan sağlık kontrolünden geçti!",
-    "source": "Haber61",
-    "time": "05/06/2026 21:22",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporun-yeni-transferi-ruslan-saglik-kontrolunden-gecti-h634442.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ruslan Malinovskyi, Trabzonspor'un kulübünün sağlık sponsoru olan hastanede detaylı taramadan geçti.",
-    "image": "https://resim.haber61.net/news/621444.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_ccbbae78",
-    "title": "Trabzonspor'dan bir KAP daha! Yıldız Oyuncunun Maliyeti belli oldu",
-    "source": "Kuzey Ekspres",
-    "time": "05/06/2026 21:22",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28119961/trabzonspordan-bir-kap-daha-yildiz-oyuncunun-maliyeti-belli-oldu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, geçtiğimiz sezon kiralık olarak kadrosunda yer alan Ernest Muçi’nin bonservisini alarak oyuncuyla 3+1 yıllık sözleşme imzaladığını duyurdu.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/06/05/large/trabzonspordan-bir-kap-daha-maliyeti-belli-oldu3.jpg",
-    "keyword": ""
   }
 ]
