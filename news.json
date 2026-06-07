@@ -1,5 +1,41 @@
 [
   {
+    "id": "SOC_e2188ead",
+    "title": "🗣️ Trabzon dini yüksek ihtisas merkezi ",
+    "source": "YouTube",
+    "time": "07/06/2026 03:01",
+    "link": "https://www.youtube.com/watch?v=wJ_gI0EgVSc",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: wJgI0EgVSc)",
+    "image": "https://img.youtube.com/vi/wJ_gI0EgVSc/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_4ae09899",
+    "title": "Dünya Kupası’na ikide ikiyle gidiyoruz… A Milli Takım, Venezuela'yı geriden gelip devirdi",
+    "source": "Cumhuriyet",
+    "time": "07/06/2026 03:01",
+    "link": "https://www.cumhuriyet.com.tr/dunya-kupasi/dunya-kupasi-na-ikide-ikiyle-gidiyoruz-a-milli-takim-venezuela-yi-geriden-gelip-devirdi-2510018",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımı, 2026 FIFA Dünya Kupası hazırlıkları kapsamında son hazırlık maçında Miami'de Venezuela'yı 2-1 yendi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/fd303fe7-45e6-4223-a9ae-17316d96576e.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_40aae355",
+    "title": "Bizim Çocuklar, Venezuela'yı 21 mağlup etti",
+    "source": "TRT Haber",
+    "time": "07/06/2026 03:01",
+    "link": "https://www.trthaber.com/haber/turkiye/bizim-cocuklar-venezuelayi-2-1-maglup-etti-947410.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımımız, Dünya Kupası öncesi son provasına çıktı. Ayyıldızlılar hazırlık maçında Venezuela'yı 21 mağlup etti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_eddafc18",
     "title": "Adalet Bakanlığı 15 Bin Personel Alacak! Başvuru Takvimi Resmen Açıklandı - Taka Gazete",
     "source": "Google Haberler",
@@ -4760,42 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Sezonun ikinci grand slam tenis turnuvası Fransa Açık'ta (Roland Garros) Polonyalı Maja Chwalinska'yı finalde yenen Rus Mirra Andreeva, şampiyonluğunu ilan etti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_43865241",
-    "title": "e-YÖKDİL sonuçları açıklandı",
-    "source": "Anadolu Ajansı",
-    "time": "06/06/2026 19:21",
-    "link": "https://www.aa.com.tr/tr/gundem/e-yokdil-sonuclari-aciklandi/3958684",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM), Elektronik Yükseköğretim Kurumları Yabancı Dil Sınavı (e-YÖKDİL 2026/3 İngilizce-Fen Bilimleri) sonuçları açıklandı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_16a66df5",
-    "title": "Fenerbahçe Kulübü Başkan Adayı Hakan Safi: Şu ana kadar 3 oyuncuyla anlaşma sağladık",
-    "source": "Anadolu Ajansı",
-    "time": "06/06/2026 19:21",
-    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubu-baskan-adayi-hakan-safi-su-ana-kadar-3-oyuncuyla-anlasma-sagladik/3958644",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe Kulübü Başkan Adayı Hakan Safi, \"Transfer temaslarımız haftalar öncesinde başladı. Şu ana kadar 3 oyuncuyla anlaşma sağladık. Luis Suarez, Merih Demiral ve Mason Greenwood ile anlaştık. Bitmedi dahası da geliyor.\" dedi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_8e39cb91",
-    "title": "Fenerbahçe Kulübü Başkan Adayı Aziz Yıldırım: Beni Aziz Yıldırım yapan şey Fenerbahçe ve sizlersiniz",
-    "source": "Anadolu Ajansı",
-    "time": "06/06/2026 19:21",
-    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubu-baskan-adayi-aziz-yildirim-beni-aziz-yildirim-yapan-sey-fenerbahce-ve-sizlersiniz/3958660",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe Kulübü Başkan Adayı Aziz Yıldırım, gerçekleştirilen olağanüstü seçimli genel kurulda üyelere seslendi.",
     "image": null,
     "keyword": ""
   }
