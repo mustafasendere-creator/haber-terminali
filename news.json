@@ -1,5 +1,41 @@
 [
   {
+    "id": "SOC_5d2c3fd1",
+    "title": "🗣️ @ensondakika.bsky.social",
+    "source": "Bluesky",
+    "time": "08/06/2026 22:34",
+    "link": "https://bsky.app/profile/ensondakika.bsky.social/post/3mnsffww65k2g",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Trabzonspor, Noah Jose Saviolo'yu renklerine bağladı\n\nTrabzon - Trabzonspor, 22 yaşındaki Noah Jose Saviolo'yu 5 yıllığına renklerine bağladığını duyurdu.\n\nhttps://plux.tr/yx56vn",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wjh7tghcq2w3nh6k35pp5lhb/bafkreidqslrhoi6etyvkuetkimpkd46v3qxc3uzjgnc7ibebfprqo3lfta",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_807cafd4",
+    "title": "🗣️ @canligaste.bsky.social",
+    "source": "Bluesky",
+    "time": "08/06/2026 22:34",
+    "link": "https://bsky.app/profile/canligaste.bsky.social/post/3mnsffxpvmu2m",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Trabzonspor, Noah Jose Saviolo'yu renklerine bağladı\n\nTrabzon — Trabzonspor, 22 yaşındaki Noah Jose Saviolo'yu 5 yıllığına renklerine bağladığını duyurdu.\n\nhttps://plux.tr/ol97ca",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mgoompfmtbproin4zn2cinr5/bafkreidqslrhoi6etyvkuetkimpkd46v3qxc3uzjgnc7ibebfprqo3lfta",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_5a83bad2",
+    "title": "🗣️ @frandroid.tabnet.ca",
+    "source": "Bluesky",
+    "time": "08/06/2026 22:34",
+    "link": "https://bsky.app/profile/frandroid.tabnet.ca/post/3mnsfyhzafc2h",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Dear Google Calendar, would you please autocomplete place news in the new event UI to places in my country first?  I start typing \"T... r... a...\" and it autocompletes to Trabzon, Turkiye.  I live in Toronto.  What are the odds?",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_e7c44f50",
     "title": "Hull City coşkusu Antalya’ya taştı: Acun Ilıcalı taraftarı buluşturdu",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_3fc6e7e9",
-    "title": "Türkiye'nin kader seçimi yaklaşıyor - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "08/06/2026 18:31",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOdjVCTXBpSzctQzNYNF9LTTlpRWpGVVdNLWM3ZVBpX1FhcUQ5N2N4TUdydlVjQ3d2N0NGNDU2dWNNVGRsb2ljc0JTZC1oMnk0aGNvOXp4NGtTbnRveWNPUWZJZUM1ZXdtQjFBZGxCOG1JMllfT25r?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "GND_16a01451",
-    "title": "Koç Holding'e ait bankaya üçüncü silahlı saldırı",
-    "source": "Euronews",
-    "time": "08/06/2026 18:31",
-    "link": "http://tr.euronews.com/2026/06/08/koc-holdinge-ait-bankaya-ucuncu-silahli-saldiri",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kimliği belirsiz kişi ya da kişiler, Diyarbakır'da Koç grubuna bağlı banka şubesine silahlı saldırı düzenledi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_fe954baf",
-    "title": "Le Havre'de 38 bin sahte spor ayakkabı 15 yıl süren davanın ardından imha edildi",
-    "source": "Euronews",
-    "time": "08/06/2026 18:31",
-    "link": "http://tr.euronews.com/business/2026/06/08/le-havrede-38-bin-sahte-spor-ayakkabi-15-yil-suren-davanin-ardindan-imha-edildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2011'de Çin'den gelen üç konteynerde ele geçirilen 38 bin sahte spor ayakkabı, 15 yıllık dava sonrası Le Havre'da imha edildi; operasyon, Fransa'daki sahteciliğin çapını gösteriyor.",
-    "image": null,
-    "keyword": ""
   }
 ]
