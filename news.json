@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_ffc0c4e6",
+    "title": "🗣️ Emekliler Derneği Başkanı Ateş Püskürdü  “Bu Zam Zulüm Zammı”",
+    "source": "YouTube",
+    "time": "08/06/2026 12:54",
+    "link": "https://www.youtube.com/watch?v=qDHlgAlJsjw",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: qDHlgAlJsjw)",
+    "image": "https://img.youtube.com/vi/qDHlgAlJsjw/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_d95cc29d",
+    "title": "🗣️ Trabzon Star Pansiyon | Trabzon, Turkey | Hotel Review 🛏️",
+    "source": "YouTube",
+    "time": "08/06/2026 12:54",
+    "link": "https://www.youtube.com/watch?v=GuJGPpIvP7A",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: GuJGPpIvP7A)",
+    "image": "https://img.youtube.com/vi/GuJGPpIvP7A/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_f44e346c",
     "title": "Kılıçdaroğlu yazı gönderdi: CHP'de Parti Meclisi toplanıyor",
     "source": "Ekonomim",
@@ -4774,29 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_7cd46417",
-    "title": "Filipinler'de 7,8 büyüklüğünde deprem: En az 4 kişi yaşamını yitirdi",
-    "source": "Evrensel",
-    "time": "08/06/2026 11:12",
-    "link": "https://www.evrensel.net/haber/5987363/filipinler-de-7-8-buyuklugunde-deprem-en-az-4-kisi-yasamini-yitirdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filipinler'in Mindanao bölgesinde meydana gelen 7,8 büyüklüğündeki depremde ilk belirlemelere göre 4 kişi yaşamını yitirdi, 200'den fazla kişi yaralandı. Depremin ardından tsunami uyarıları yapılırken çok sayıda yapıda hasar oluştu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/350526.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_21bfb8ea",
-    "title": "Pera Müzesi’nde ışığın ve kıyının izinde bir sergi turu",
-    "source": "Evrensel",
-    "time": "08/06/2026 11:12",
-    "link": "https://www.evrensel.net/haber/5987384/pera-muzesi-nde-isigin-ve-kiyinin-izinde-bir-sergi-turu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pera Müzesi, “Suyun Kıyısında: Halil Paşa’nın Yaşamı ve Sanatı” sergisi kapsamında, küratör Dr. Özlem İnay Erten’in rehberliğinde sergi turu düzenliyor. Etkinlik, 24 Haziran’da sanatseverlerle buluşacak.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/350532.jpg",
-    "keyword": ""
   }
 ]
