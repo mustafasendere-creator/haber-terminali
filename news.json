@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_a0045038",
+    "title": "Turkey short trip itinerary",
+    "source": "Reddit",
+    "time": "08/06/2026 23:14",
+    "link": "https://www.reddit.com/r/travel/comments/1u0immp/turkey_short_trip_itinerary/",
+    "type": "SOC",
+    "prefix": "🟠 🤖",
+    "summary": "I got this out of my interests for doing a Turkey trip in late June / early July. Does this itinerary/logistics seem realistic or possible? Going for work and somehow got some extra days. Usually not much tired while travelling, will work like a motor while travelling, so if a bit tight no much worries.🙃 Would suggest if overnight busses and all exists would be better Day 1 — Istanbul (night onwards free from work) Sultanahmet night walk Hagia Sophia + Blue Mosque at night Stay in Sultanahmet Day 2 — Istanbul → Cappadocia Grand Bazaar in the morning Then to Göreme (whats the best way there?) Rose Valley hike Uçhisar sunset Day 3 — Cappadocia Sunrise hot air balloon Göreme Open Air Museum Derinkuyu Underground City Day 4 — Cappadocia → Uzungöl I don’t know how to reach Uzungöl Is a bus possible after Day 3 overnight? Lake walk + overnight stay Day 5 — Uzungöl → Ayder → Trabzon Sunrise at Uzungöl Drive to Ayder Plateau (but how?) Back to Trabzon at night Day 6 — Trabzon → Istanbul → back home Early morning flight to Istanbul Evening international flight home Is this possible? Please suggest realistic ways to do it, preferably somewhat budget-friendly but flexible. Is there anything to keep in mind pls? submitted by /u/ahhshitnigg to r/travel link yorumlar",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_87556950",
+    "title": "🗣️ NİLÜFER BELEDİYE - TRABZON İSKOFYA SPOR Yıldız Kızlar Türkiye Şampiyonası",
+    "source": "YouTube",
+    "time": "08/06/2026 23:14",
+    "link": "https://www.youtube.com/watch?v=EAxZaN7yykE",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: EAxZaN7yykE)",
+    "image": "https://img.youtube.com/vi/EAxZaN7yykE/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_8f46ca78",
     "title": "Konya itfaiyesinden acı haber",
     "source": "OdaTV",
@@ -4774,29 +4798,5 @@
     "summary": "Trabzonspor, Flamengo'nun 18 yaşındaki yıldızı Ryan Roberto için teklifini 6 milyon eurodan 10 milyon euroya yükseltti. Brezilya ekibi ise oyuncuyu satmaya sıcak bakmıyor.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/08/large/trabzonspordan-ryan-roberto-icin-yeni-hamle-teklif-10-milyon-euroya-cikti-1.webp",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_7aba935d",
-    "title": "Grammy ödüllü söz yazarı Talay Riley öldürüldü",
-    "source": "OdaTV",
-    "time": "08/06/2026 18:33",
-    "link": "https://www.odatv.com/kultur-sanat/grammy-odullu-soz-yazari-talay-riley-olduruldu-120150071",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Grammy ödüllü söz yazarı Talay Riley, Londra'da uğradığı bıçaklı saldırı sonucu hayatını kaybetti. Pop müziğin dev isimleriyle çalışan 35 yaşındaki sanatçının ölümü müzik dünyasında büyük üzüntü yarattı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/08/grammy-odullu-soz-yazari-talay-riley-olduruldu-ndu5.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e4d3b824",
-    "title": "Trump'ın 'Chagos planı' İngilizleri kızdıracak",
-    "source": "OdaTV",
-    "time": "08/06/2026 18:33",
-    "link": "https://www.odatv.com/dunya/trumpin-chagos-plani-ingilizleri-kizdiracak-120150072",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beyaz Saray, ABD ile İngiltere'nin ortak üssü Diego Garcia'nın da bulunduğu Chagos Takımadaları'nı satın alarak Londra'yı devre dışı bırakmayı planlıyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/08/trumpin-chagos-plani-ingilizleri-kizdiracak-jwaz.jpg",
-    "keyword": ""
   }
 ]
