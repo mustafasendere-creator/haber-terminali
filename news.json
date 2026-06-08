@@ -1,5 +1,53 @@
 [
   {
+    "id": "SOC_86fcc80a",
+    "title": "🗣️ @anonturk.bsky.social",
+    "source": "Bluesky",
+    "time": "08/06/2026 13:34",
+    "link": "https://bsky.app/profile/anonturk.bsky.social/post/3mnrhzitcjl2s",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "🇹🇷 Bakanlık bazı iller için \"sarı\" kodlu uyarı yaptı: Sağanak, dolu ve fırtına bekleniyor\nİçişleri Bakanlığı, Trabzon, Rize, Giresun ve Artvin çevrelerinde, Osmaniye çevreleri ile Adana'nın doğu, Kahramanmaraş'ın güneybatısı, Hatay'ın kıyı ilçeleri, Batman, …\n#Türkiye #Turkiye #Haber #Gündem #Gunde…",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_5cb836b2",
+    "title": "🗣️ @sondakikahaberler.bsky.social",
+    "source": "Bluesky",
+    "time": "08/06/2026 13:34",
+    "link": "https://bsky.app/profile/sondakikahaberler.bsky.social/post/3mnri4c6zfk2e",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Trabzon Kültür Yolu Festivali Başladı: Binlerce Kişi Bengü Şarkılarıyla Coştu - Eti Haber www.etihaber.com/trabzon-kult...",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_de4b05f4",
+    "title": "🗣️ TENİS OYNAMAK ÇOK KEYİFLİ",
+    "source": "YouTube",
+    "time": "08/06/2026 13:34",
+    "link": "https://www.youtube.com/watch?v=pqHEK2gAVEo",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: pqHEK2gAVEo)",
+    "image": "https://img.youtube.com/vi/pqHEK2gAVEo/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_ef5f30b4",
+    "title": "🗣️ Bengü, Korkma Kalbim’i Trabzon İçin Söyledi #bengü #trabzon #konser #kültüryolu #bengükonseri",
+    "source": "YouTube",
+    "time": "08/06/2026 13:34",
+    "link": "https://www.youtube.com/watch?v=NNDUxQa6GR4",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: NNDUxQa6GR4)",
+    "image": "https://img.youtube.com/vi/NNDUxQa6GR4/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "TKP_0d0bdf5e",
     "title": "Filyos Çayı’na düşerek kaybolan CHP İl Başkan Yardımcısını arama çalışmaları sürüyor - Elmas 67",
     "source": "Google Haberler",
@@ -4749,54 +4797,6 @@
     "prefix": "🔔",
     "summary": "Özel sermaye şirketlerinin yazılım satın alma anlaşmaları pandemi dönemi öncesi seviyelere geriledi!",
     "image": "https://i.haberglobal.com/storage/files/images/2026/06/08/yapay-zeka-yazilim-satin-almalarini-dusurdu-fdhk.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_01c1bc9f",
-    "title": "Putin’den Zelenski’ye: Görüşmeye gerek yok",
-    "source": "Haber Global",
-    "time": "08/06/2026 11:32",
-    "link": "https://haberglobal.com/dunya/putinden-zelenskiye-gorusmeye-gerek-yok-528576",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Devlet Başkanı Vladimir Putin, St. Petersburg Uluslararası Ekonomi Forumu kapsamında düzenlenen ana oturumda Ukrayna savaşı, barış görüşmeleri ve ABD siyasetine ilişkin dikkat çeken açıklamalarda bulundu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/06/08/putinden-zelenskiye-gorusmeye-gerek-yok-44xc.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_4b66851c",
-    "title": "Ekonomi Koordinasyon Kurulu toplandı",
-    "source": "Haber Global",
-    "time": "08/06/2026 11:32",
-    "link": "https://haberglobal.com/ekonomi/ekonomi-koordinasyon-kurulu-toplandi-528579",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ekonomi Koordinasyon Kurulu (EKK), Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/06/08/ekonomi-koordinasyon-kurulu-toplandi-lxnx.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_4ccf3a23",
-    "title": "Sarıyer'de trafikte gösterilen silah, oyuncak çıktı",
-    "source": "Haber Global",
-    "time": "08/06/2026 11:32",
-    "link": "https://haberglobal.com/gundem/sariyerde-trafikte-gosterilen-silah-oyuncak-cikti-528580",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Sarıyer'de seyir halindeki araçtan silah gösteren 23 yaşındaki E.K., ihbar üzerine emniyet güçlerince yakalandı. Zanlının kullandığı silahın oyuncak olduğu anlaşıldı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/06/08/sariyerde-trafikte-gosterilen-silah-oyuncak-cikti-zrwl.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_50ea8dda",
-    "title": "Bakan Ersoy paylaştı! 2 bin 300 yıllık miras 'tarihi sit alanı' olarak tescillendi",
-    "source": "Haber Global",
-    "time": "08/06/2026 11:32",
-    "link": "https://haberglobal.com/kultur-sanat/bakan-ersoy-paylasti-2-bin-300-yillik-miras-tarihi-sit-alani-olarak-tescillendi-528581",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Büyük İskender’in Perslere karşı ilk büyük zaferini kazanarak Asya’ya uzanan seferinin kapılarını açtığı Granikos Savaş Alanı, Çanakkale’nin Biga ilçesinde yürütülen bilimsel araştırmalar ve arkeolojik bulgular doğrultusunda “Tarihi Sit Alanı” olarak tescillendi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/06/08/bakan-ersoy-paylasti-2-bin-300-yillik-miras-tarihi-sit-alani-olarak-tescillendi-ip1v.jpg",
     "keyword": ""
   }
 ]
