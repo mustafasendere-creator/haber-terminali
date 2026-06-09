@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_e321a80f",
+    "title": "ABD İran'ı vurdu",
+    "source": "OdaTV",
+    "time": "10/06/2026 01:32",
+    "link": "https://www.odatv.com/guncel/abd-irani-vurdu-120150249",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CENTCOM, X hesabından yaptığı açıklamada, İran'a yönelik karşı saldırılar düzenlemeye başladıklarını duyurdu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/10/abd-irani-vurdu-viw4.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ea97d6d0",
+    "title": "New York borsası günü karışık seyirle kapattı",
+    "source": "Ekonomim",
+    "time": "10/06/2026 01:32",
+    "link": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-karisik-seyirle-kapatti-haberi-898846",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "New York borsası haftanın ikinci işlem gününü karışık seyirle tamamladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/04/new-york-borsasi-gunu-karisik-seyirle-kapatti-nure_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6ab11617",
+    "title": "İran: Sözler tutulmazsa en iyi konuştuğumuz dile geçeceğiz",
+    "source": "Ekonomim",
+    "time": "10/06/2026 01:32",
+    "link": "https://www.ekonomim.com/dunya/iran-sozler-tutulmazsa-en-iyi-konustugumuz-dile-gececegiz-haberi-898847",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Meclisi ve Müzakere Heyeti Başkanı Muhammed Bakır Kalibaf, verilen sözler tutulmazsa en iyi bildikleri dile geçeceklerini belirtti.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/04/12/iran-meclis-baskani-kalibaf-mantikla-gelirlerse-biz-de-mantikla-cevap-veririz-2bff_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f03f5710",
+    "title": "HSK kararnamesi Resmi Gazete'de",
+    "source": "Ekonomim",
+    "time": "10/06/2026 01:32",
+    "link": "https://www.ekonomim.com/gundem/hsk-kararnamesi-resmi-gazetede-haberi-898851",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakimler ve Savcılar Kurulunun (HSK) 11 Cumhuriyet savcısı ve 3 hakim adayının atama kararnamesi Resmi Gazete'de yayımlandı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/10/hsk-kararnamesi-resmi-gazetede-i4jy_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9db2a2e5",
+    "title": "Bircan Yıldırım'ın sosyal medya hesaplarının kapatılması kararı",
+    "source": "Evrensel",
+    "time": "10/06/2026 01:31",
+    "link": "https://www.evrensel.net/haber/5987623/bircan-yildirimin-sosyal-medya-hesaplarinin-kapatilmasi-karari",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara 4. Sulh Ceza Hakimliği, Ankara Cumhuriyet Başsavcılığı'nın talebi üzerine Bircan Yıldırım isimli sosyal medya içerik üreticisinin hesabı hakkında kapatma kararı vererek BTK'ye gönderdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/248606.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_97a5557d",
+    "title": "Suavi'den eserlerinin kullanımına ilişkin tepki: Eserlerimin butlanla gelenler tarafından kullanılmasını istemiyorum",
+    "source": "Evrensel",
+    "time": "10/06/2026 01:31",
+    "link": "https://www.evrensel.net/haber/5987624/suaviden-eserlerinin-kullanimina-iliskin-tepki-eserlerimin-butlanla-gelenler-tarafindan-kullanilmasini-istemiyorum",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sanatçı Suavi, CHP'deki mutlak butlan kararı sonrası kendisine ait olan ya da yorumcusu olduğu eserleri ile ilgili yaptığı açıklamada; “Eserlerimin butlan ile gelenler tarafından kullanılmasını istemiyorum” dedi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/181765.jpg",
+    "keyword": ""
+  },
+  {
     "id": "SOC_3e4e8b68",
     "title": "🗣️ Ferdi Zeyrek yaşasaydı ! Besim Dutlulu ne demek istedi? AKP’li meclis üyesinden şaşırtan çıkış. ",
     "source": "YouTube",
@@ -4726,77 +4798,5 @@
     "summary": "Dışişleri Bakanı Hakan Fidan, Türkiye'nin dış temsilciliklerinde görev yapacak büyükelçi ve daimi temsilcilerin yeni görev yerlerini tebliğ etti. Tahran'dan Kiev'e, Doha'dan Seul'e uzanan kapsamlı... Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/2b42b3/1200/1200/286/0/772/486?u=https://iahbr.tmgrup.com.tr/2026/06/09/disislerinden-buyukelciliklerde-atama-bakan-fidan-yeni-gorevlerini-teblig-etti-1781027116219.jpg",
     "keyword": ""
-  },
-  {
-    "id": "YRL_917726c8",
-    "title": "Ertuğrul Doğan'dan Onana, Onuachu ve Nwakaeme İçin Net Transfer Açıklaması!",
-    "source": "Günebakış",
-    "time": "09/06/2026 21:11",
-    "link": "https://www.gunebakis.com.tr/ertugrul-dogandan-onana-onuachu-ve-nwakaeme-icin-net-transfer-aciklamasi/28141408",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Başkanı Ertuğrul Doğan, A Spor'da yaptığı açıklamalarda Andre Onana, Paul Onuachu ve Tony Nwakaeme'nin geleceğiyle ilgili net konuştu. Başkan Doğan, Onuachu için gelen yaklaşık 20 milyon euroluk teklifi geri çevirdiklerini açıkladı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/09/large/thumbs-b-c-e5028a51c72de484e6af01faed27b7a4.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_4dfcebbe",
-    "title": "Trabzonspor Başkanı Ertuğrul Doğan’dan Transfer Açıklaması: 8 İmza Tamam, 4 Oyuncu Yolda",
-    "source": "Taka Gazetesi",
-    "time": "09/06/2026 21:11",
-    "link": "https://www.takagazete.com.tr/trabzonspor-baskani-ertugrul-dogandan-transfer-aciklamasi-8-imza-tamam-4-oyuncu-yolda",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Başkanı Ertuğrul Doğan, transfer çalışmaları ve kulübün geleceğine ilişkin yaptığı açıklamalarla bordo-mavili camiada heyecan yarattı. Başkanın verdiği rakamlar ve transfer planları yeni sezon öncesi beklentileri artırdı.",
-    "image": "https://takagazetecomtr.teimg.com/takagazete-com-tr/uploads/2025/09/img-3545.gif",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_e58279f6",
-    "title": "Ertuğrul Doğan açıkladı: \"Taraftarın yıldız oyuncu beklentisi var.\"",
-    "source": "Haber61",
-    "time": "09/06/2026 21:11",
-    "link": "https://www.haber61.net/trabzonspor/ertugrul-dogan-acikladi-taraftarin-yildiz-oyuncu-beklentisi-var-h634784.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Başkanı Ertuğrul Doğan, bordo-mavili taraftarların heyecanla beklediği yıldız transferi konusunda yeşil ışık yaktı. Başkan Doğan, teknik direktör Fatih Tekke'nin raporu doğrultusunda hareket edeceklerini belirtti.",
-    "image": "https://resim.haber61.net/news/622008.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_917726c8",
-    "title": "Ertuğrul Doğan'dan Onana, Onuachu ve Nwakaeme İçin Net Transfer Açıklaması!",
-    "source": "Günebakış",
-    "time": "09/06/2026 21:11",
-    "link": "https://www.gunebakis.com.tr/ertugrul-dogandan-onana-onuachu-ve-nwakaeme-icin-net-transfer-aciklamasi/28141408",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Başkanı Ertuğrul Doğan, A Spor'da yaptığı açıklamalarda Andre Onana, Paul Onuachu ve Tony Nwakaeme'nin geleceğiyle ilgili net konuştu. Başkan Doğan, Onuachu için gelen yaklaşık 20 milyon euroluk teklifi geri çevirdiklerini açıkladı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/09/large/thumbs-b-c-e5028a51c72de484e6af01faed27b7a4.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_e58279f6",
-    "title": "Ertuğrul Doğan açıkladı: \"Taraftarın yıldız oyuncu beklentisi var.\"",
-    "source": "Haber61",
-    "time": "09/06/2026 21:11",
-    "link": "https://www.haber61.net/trabzonspor/ertugrul-dogan-acikladi-taraftarin-yildiz-oyuncu-beklentisi-var-h634784.html",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Başkanı Ertuğrul Doğan, bordo-mavili taraftarların heyecanla beklediği yıldız transferi konusunda yeşil ışık yaktı. Başkan Doğan, teknik direktör Fatih Tekke'nin raporu doğrultusunda hareket edeceklerini belirtti.",
-    "image": "https://resim.haber61.net/news/622008.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_f2b12f4d",
-    "title": "Bir polis daha hayatına son verdi: Yaşamayı çok isterdim... - Haber Hürriyeti",
-    "source": "Google Haberler",
-    "time": "09/06/2026 20:51",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzkzMnpfOXlJSFQyMVRyZXVJcjBjeU5XMUIwVE1IbHJMbERUenlodnZpNDZiRWduRk5rVjhETkZBMWp4SHczZkxMSFBUY3pydWs5WjV2ZUVhVWRsdmRHemVpci0waE5iVTJTT2tOcVdYYUY1MTZ6ODhUNkdadjhSd2hNaDlhNC1QdlRRUk02WGoxZnpkbS0wN1Y4Z3RCSC1JV1EwQ1MwTlTSAagBQVVfeXFMUEc5MzJ6Xzl5SUhUMjFUcmV1SXIwY3lOVzFCMFRNSGxyTGxEVHp5aHZ2aTQ2YkVnbkZOa1Y4RE5GQTFqeEh3M2ZMTEhQVGN6cnVrOVo1dmVFYVVkbHZkR3plaXItMGhOYlUyU09rTnFXWGFGNTE2ejg4VDZHWnY4UndoTWg5YTQtUHZUUVJNNlhqMWZ6ZG0tMDdWOGd0QkgtSVdRMENTME5U?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "POLIS"
   }
 ]
