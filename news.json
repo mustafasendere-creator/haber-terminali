@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_797015d0",
+    "title": "🗣️ Sosyal Medya Keşfi",
+    "source": "Social Searcher (Sosyal Medya)",
+    "time": "09/06/2026 09:58",
+    "link": "https://www.youtube.com/c/FlashHaberTV/videos",
+    "type": "SOC",
+    "prefix": "🌐 🔍",
+    "summary": "Flash Haber TV - YouTube",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_30d00937",
+    "title": "🗣️ Instagram Keşfi",
+    "source": "Social Searcher (Instagram)",
+    "time": "09/06/2026 09:58",
+    "link": "https://www.instagram.com/reel/DZWvmeVtidx/",
+    "type": "SOC",
+    "prefix": "🟣 📸",
+    "summary": "Neden burayı bana daha önce söylemediniz   İşbirliği ... - Instagram",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "GND_ddd294b3",
     "title": "'Kapalı Devre' bahis sistemi deşifre edildi: 2 yılda 608 milyonluk vurgun",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Cumhuriyet Halk Partisi, tarihinin en gergin günlerinden birine hazırlanıyor. Bugün hem mahkeme tarafından atanan genel başkan Kemal Kılıçdaroğlu hem de partinin seçilmiş genel başkanı Özgür Özel Meclis’te grup toplantısı yapacaklarını ilan etti ve geri adım atmadı. İki taraf toplamda 6 bin CHP’liyi de Meclis’e davet etti. Kılıçdaroğlu dün akşam ansızın “Kurultay sürecini Perşembe günü Parti …",
     "image": "https://i.10haber.net/wp-content/uploads/2026/06/ozel-ve-kk.webp",
-    "keyword": ""
-  },
-  {
-    "id": "GND_67fa7354",
-    "title": "Irmak öğretmenin ölümü aydınlatılsın!",
-    "source": "BirGün",
-    "time": "09/06/2026 08:32",
-    "link": "https://www.birgun.net/haber/irmak-ogretmenin-olumu-aydinlatilsin-717078",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ağrı Hamur’da görev yapan 24 yaşındaki öğretmen Irmak Ayşe Koparan, şüpheli şekilde yaşamını yitirdi. Koparan’ın cenazesi, otopsi işlemleri için Ağrı Eğitim ve Araştırma Hastanesi morguna kaldırıldı. Koparan’ın ailesinin İzmir’de yaşadığı öğrenilirken genç öğretmenin cenazesinin otopsi işlemlerinin tamamlanmasının ardından İzmir’de toprağa verilmesinin beklendiği belirtildi. Eğitim Sen Ağrı Şubesi, anaokulu öğretmeni Koparan’ın yaşamını yitirmesine ilişkin yaptığı açıklamada, olayın tüm yönleriyle araştırılması çağrısında bulundu. Eğitim Sen Ağrı Şubesi açıklamasında, “Bir eğitim emekçisi neden kendisini çaresiz hisseder? Neden yaptığı başvurular sonuçsuz kalır” soruları yöneltildi. Sendika, Koparan’ın yaşamını yitirmesiyle sonuçlanan sürecin bütün yönleriyle araştırılması gerektiğini vurguladı.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/09/irmak-ogretmenin-olumu-aydinlatilsin.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0cc62dfe",
-    "title": "Oğuz Tansel Şiir Ödülü Nilay Özer'e verildi",
-    "source": "BirGün",
-    "time": "09/06/2026 08:32",
-    "link": "https://www.birgun.net/haber/oguz-tansel-siir-odulu-nilay-ozer-e-verildi-717088",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bilkent Üniversitesi tarafından düzenlenen Oğuz Tansel Şiir Ödülü'nün bu yılki kazananı belli oldu. Ödül, şair Nilay Özer'in \"Yüzü Kelebeklerle Örtülü\" adlı eserine verildi. Her yıl dönüşümlü olarak çocuk edebiyatı, halk bilimi ve şiir dallarında verilen ödül, edebiyatçı, eğitmen, halk bilimci ve şair Oğuz Tansel'in anısını yaşatmayı amaçlıyor. Jüri, ödül gerekçesinde Nilay Özer'in şiirlerinde insanın parçalanmış ve dağınık varoluşunu özgün bir imge dünyasıyla yeniden kurduğuna dikkat çekti. Açıklamada, Özer'in şiiri yalnızca bir metin üretim alanı olmaktan çıkarıp kırılganlıkların ve gizli kalmış yaşantıların izini süren bir \"benlik arkeolojisine\" dönüştürdüğü belirtildi. Oğuz Tansel Şiir Ödülü jürisi, Mert Tutucu'nun \"Apokrif İnciler\" adlı eserini de övgüye değer buldu. Oğuz Tansel Şiir Ödülü'nün takdim edileceği törenin eylül ayında Bilkent Üniversitesi'nde düzenleneceği bildirildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/09/oguz-tansel-siir-odulu-nilay-ozer-e-verildi.jpg",
     "keyword": ""
   }
 ]
