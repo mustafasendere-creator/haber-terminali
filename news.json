@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_a861ad87",
+    "title": "Kütahya'da feci kaza: 1 ölü, 2 yaralı",
+    "source": "OdaTV",
+    "time": "12/06/2026 02:38",
+    "link": "https://www.odatv.com/guncel/kutahyada-feci-kaza-1-olu-2-yarali-120150540",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya-Afyonkarahisar karayolunda iki otomobilin karıştığı kazada 1 kişi hayatını kaybetti, 2 kişi yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/12/kutahyada-feci-kaza-1-olu-2-yarali-wmyg.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_f43ed03b",
+    "title": "🗣️ @comparetowhat.bsky.social",
+    "source": "Bluesky",
+    "time": "12/06/2026 02:37",
+    "link": "https://bsky.app/profile/comparetowhat.bsky.social/post/3mo2eyyvqnq2h",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "https://comparetowhat.com/en/youngstown-vs-trabzon-cost-of-living-lifestyle-housing-and-quality-of-life?utmsource=bluesky&utmmedium=social&utmcampaign=postizcomparison&utmcontent=comparison108314youngstown-vs-trabzon-cost-of-living-lifestyle-housing-and-quality-of-life",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vrkzei3lrtaf7ehszykdlekc/bafkreifioy7iuqork3bn3c3g3gdvo4qtndycmx2zpvpcxkbhve2l7i4jdi",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_0ed50031",
     "title": "Korkutan olay: Gökyüzünü böcekler sardı",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🌊",
     "summary": "Erzurum Ticaret ve Sanayi Odası, bölgesel ticaret açısından önemli bir heyeti ağırladı. Duhok Ticaret ve Sanayi Odası Başkanı Şukri Cemil Nuri, IKBY Ticaret ve Sanayi Odaları Birliği Başkan Yardımcısı Avraz Bahjat Abdullah, Erbil Turizm Bakanlığı yetkilileri ve iş insanı Ferit Kaya’nın yer aldığı heyet, ETSO Yönetim Kurulu Başkanı Saim Özakalın ile bir araya geldi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/chatgpt-image-11-haz-2026-13-19-00.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_2a3397fb",
-    "title": "Ankara'da sahte deterjan operasyonu: 3 ton ele geçildi",
-    "source": "BirGün",
-    "time": "11/06/2026 20:36",
-    "link": "https://www.birgun.net/haber/ankara-da-sahte-deterjan-operasyonu-3-ton-ele-gecildi-717662",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara'da polisin ihbar üzerine bir depoya yaptığı baskında 3 ton sahte toz ve sıvı deterjan ele geçirildi. 1 kişi hakkında işlem başlatıldı.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/11/ankara-da-sahte-deterjan-operasyonu-3-ton-ele-gecildi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_413ddd66",
-    "title": "Trabzon Raylı Sistem Projesinde Kritik Eşik Aşıldı",
-    "source": "Günebakış",
-    "time": "11/06/2026 20:36",
-    "link": "https://www.gunebakis.com.tr/trabzon-rayli-sistem-projesinde-kritik-esik-asildi/28153874",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, şehrin geleceğine yön verecek raylı sistemin yapım ihalesinin onaylandığını ve ilk kazmanın 2-3 hafta içerisinde vurulacağını açıkladı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/11/large/rayli-sistem-de-kritik-esisk.jpg",
     "keyword": ""
   }
 ]
