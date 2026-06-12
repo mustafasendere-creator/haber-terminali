@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_bab3800f",
+    "title": "🗣️ G (@bortecine61 (· (17s)",
+    "source": "X (Twitter)",
+    "time": "12/06/2026 03:47",
+    "link": "https://x.com/bortecine61__/status/2064976481151820127",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Azerbaycan Türk’ü minik Sehra Trabzon ziyaretinde Şehit Eren Bülbül’ün kabrini ziyaret etmiş şehidimizin annesine sarılmış. Senin o yüreğini yerim ben.  ",
+    "image": null,
+    "keyword": "ZIYARET #TRABZON"
+  },
+  {
+    "id": "TKP_15d54f1d",
+    "title": "Trabzonspor’dan Yeboah Hamlesi: İtalya’dan Sıcak Gelişme - Taka Gazete",
+    "source": "Google Haberler",
+    "time": "12/06/2026 03:37",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGNrTzB0aHZhalg0bWprUWhvUFlXb3NyX2RzREZPUGk1WHlUbU43d2JsaDY0d05uWnF2Nl9ieDNKUnozNG5kb3NYSE1PUzJZSG05d0t4ckVHWndybVZCcTN6NXkzOTBNRnZYelkyS2w1b2xnTUhTazBLM2dGOUxzQUdjYzJaN1RQbGdKa3pvWnfSAZABQVVfeXFMTXhja08wdGh2YWpYNG1qa1Fob1BZV29zcl9kc0RGT1BpNVh5VG1ON3dibGg2NHdOblpxdjZfYngzSlJ6MzRuZG9zWEhNT1MyWUhtOXdLeHJFR1p3cm1WQnEzejV5MzkwTUZ2WHpZMktsNW9sZ01IU2swSzNnRjlMc0FHY2MyWjdUUGxnSmt6b1p3?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "TAKA"
+  },
+  {
     "id": "TKP_00191117",
     "title": "Trabzon Ampute Futbol Takımı Kupasını Taraftarıyla Kaldıracak - Gunebakış",
     "source": "Google Haberler",
@@ -4774,29 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_c5690c8e",
-    "title": "Kayserispor, İlhan Parlak'ı göreve getirdi",
-    "source": "Haber Global",
-    "time": "11/06/2026 20:37",
-    "link": "https://haberglobal.com/spor/kayserispor-ilhan-parlaki-goreve-getirdi-529276",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayserispor, İlhan Parlak'ın kulübün genel koordinatörlük görevine getirildiğini duyurdu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/06/11/kayserispor-ilhan-parlaki-goreve-getirdi-ftp7.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0e7d9c74",
-    "title": "Zonguldak'ta balık tutarken denize düşen adam hayatını kaybetti",
-    "source": "Haber Global",
-    "time": "11/06/2026 20:37",
-    "link": "https://haberglobal.com/gundem/zonguldakta-balik-tutarken-denize-dusen-adam-hayatini-kaybetti-529284",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Zonguldak'ta kayalıklarda balık tuttuğu sırada dengesini kaybederek denize düşen 67 yaşındaki yaşlı adam yaşamını yitirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/06/11/zonguldakta-balik-tutarken-denize-dusen-adam-hayatini-kaybetti-nf7h.jpg",
-    "keyword": ""
   }
 ]
