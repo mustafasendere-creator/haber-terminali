@@ -1,5 +1,41 @@
 [
   {
+    "id": "SOC_45c0c32d",
+    "title": "🗣️ X Keşfi",
+    "source": "Social Searcher (X)",
+    "time": "17/06/2026 02:40",
+    "link": "https://x.com/Marco6121/status/2066987256179552751",
+    "type": "SOC",
+    "prefix": "🌐 🔍",
+    "summary": "Trabzon ve Trabzonspor'u çok seven tatillerini yaylada geçiren ...",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_4059d2fa",
+    "title": "İbrahim Hacıosmanoğlu tepki göstermişti: Okan Buruk'tan Fatih Terim'e destek!",
+    "source": "Cumhuriyet",
+    "time": "17/06/2026 02:39",
+    "link": "https://www.cumhuriyet.com.tr/spor/ibrahim-haciosmanoglu-tepki-gostermisti-okan-buruk-tan-fatih-terim-e-destek-2512858",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray Teknik Direktörü Okan Buruk, katıldığı bir YouTube kanalında deneyimli teknik direktör Fatih Terim'in sözlerine tepki gösteren Türkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu hakkında açıklamalarda bulundu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/871d5de1-333e-426f-bfc9-93a0871c65ae.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_fa07ab3e",
+    "title": "Mescidi Aksa Hatibi Şeyh Sabri: Kudüs'te büyükelçilik açmak, işgalci İsrail'e meşruiyet kazandırmayacak",
+    "source": "TRT Haber",
+    "time": "17/06/2026 02:39",
+    "link": "https://www.trthaber.com/haber/dunya/mescid-i-aksa-hatibi-seyh-sabri-kuduste-buyukelcilik-acmak-isgalci-israile-mesruiyet-kazandirmayacak-948420.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mescidi Aksa İmam Hatibi ve Kudüs Yüksek İslam Heyeti Başkanı Şeyh İkrime Sabri, Kudüs'te büyükelçiliklerin açılmasıyla statüsünün değişmeyeceğinin altını çizerek, \"Kudüs kenti eskiden beri Filistin'e aitti ve böyle kalmaya devam edecek\" ifadesini kullandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "SOC_3a1427df",
     "title": "🗣️ Facebook Keşfi",
     "source": "Social Searcher (Facebook)",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "İçişleri Bakanlığı, Silivri Belediye Başkanı Bora Balcıoğlu'nun görevden uzaklaştırıldığını duyurdu. Bakanlıktan yapılan açıklamada, Balcıoğlu hakkında Silivri Cumhuriyet Başsavcılığı tarafından... Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/0602d0/1200/1200/0/89/499/588?u=https://iahbr.tmgrup.com.tr/2026/06/16/icisleri-bakanligi-duyurdu-silivri-belediye-baskani-bora-balcioglu-gorevden-uzaklastirildi-1781632918603.jpeg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_eb66cf77",
-    "title": "Trabzonspor’da Adam Gnezda Cerin İddiası Yeniden Gündeme Geldi",
-    "source": "Taka Gazetesi",
-    "time": "16/06/2026 21:18",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-adam-gnezda-cerin-iddiasi-yeniden-gundeme-geldi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’da orta saha transferi için tanıdık bir isim yeniden gündeme geldi. Geçtiğimiz yaz bordo-mavililerle adı sıkça anılan Panathinaikos’un Sloven futbolcusu Adam Gnezda Cerin için Yunan basınında dikkat çeken haberler yer aldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/gazze-cerin.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_9a2d37b5",
-    "title": "Avrasya Üniversitesi’nde Mezuniyet Coşkusu",
-    "source": "Karadeniz'de Sonnokta",
-    "time": "16/06/2026 21:18",
-    "link": "https://www.karadenizdesonnokta.com.tr/avrasya-universitesinde-mezuniyet-coskusu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://karadenizdesonnoktacomtr.teimg.com/crop/1280x720/karadenizdesonnokta-com-tr/uploads/2026/06/1-107.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_d66ba5ca",
-    "title": "Deniz temizse mavi bayrak neden yok?",
-    "source": "Günebakış",
-    "time": "16/06/2026 21:18",
-    "link": "https://www.gunebakis.com.tr/deniz-temizse-mavi-bayrak-neden-yok/28181579",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Sağlık Bakanlığı deniz sularını temiz olduğunu açıkladı vatandaş ikna olmadı",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/16/large/deniz-temizse-mavi-bayrak-neden-yok-1.webp",
     "keyword": ""
   }
 ]
