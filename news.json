@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_6bc513cd",
+    "title": "İmamoğlu sokağa çıktı: 'Devlet aklı' dedi",
+    "source": "OdaTV",
+    "time": "18/06/2026 02:59",
+    "link": "https://www.odatv.com/guncel/imamoglu-sokaga-cikti-devlet-akli-dedi-120151306",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tutuklu İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, \"Devlet, milletle mücadele etmeyi bırakıp milletin aklını, vicdanını ve iradesini kendi stratejik aklıyla buluşturmak zorunda.\" dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/18/imamoglu-sokakta-mucadele-mesaji-1m37.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ad0adcad",
+    "title": "25 yaşındaki işçinin acı sonu",
+    "source": "OdaTV",
+    "time": "18/06/2026 02:59",
+    "link": "https://www.odatv.com/guncel/25-yasindaki-iscinin-aci-sonu-120151310",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Trabzon'un Araklı ilçesinde bir inşaatta çalıştığı sırada elektrik akımına kapılan 25 yaşındaki inşaat işçisi hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/18/25-yasindaki-iscinin-aci-sonu-anov.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_ad0adcad",
+    "title": "25 yaşındaki işçinin acı sonu",
+    "source": "OdaTV",
+    "time": "18/06/2026 02:58",
+    "link": "https://www.odatv.com/guncel/25-yasindaki-iscinin-aci-sonu-120151310",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Trabzon'un Araklı ilçesinde bir inşaatta çalıştığı sırada elektrik akımına kapılan 25 yaşındaki inşaat işçisi hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/18/25-yasindaki-iscinin-aci-sonu-anov.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "SOC_e4100941",
     "title": "🗣️ 6 OK GAZETE (@solcumedyahaber (· (16s)",
     "source": "X (Twitter)",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "İzmir'de boşanma aşamasında olduğu eşi Fatma C.'yi (27) görüntülü arayıp, çocuğunun boğazına bıçak dayadığı gerekçesiyle yargılanan Şiyar Alpaslan (31) hakkında esas hakkında mütalaasını sunan Cumhuriyet savcısı, Alpaslan'ın 'Çocuğuna yönelik basit yaralama' ve 'Eşe karşı tehdit' suçlarından cezalandırılmasını talep etti. Duruşma, 13 Ekim'e ertelendi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/b0cb5bce-c1d7-470a-b23e-29ce360a60b0.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_3bb35e40",
-    "title": "FIVB Milletler Ligi'nin ikinci etabına galibiyetle başladık: Filenin Sultanları, Belçika'ya set vermedi!",
-    "source": "Cumhuriyet",
-    "time": "17/06/2026 21:19",
-    "link": "https://www.cumhuriyet.com.tr/spor/fivb-milletler-ligi-nin-ikinci-etabina-galibiyetle-basladik-filenin-sultanlari-belcika-ya-set-vermedi-2513064",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "A Milli Kadın Voleybol Takımı, 2026 FIVB Milletler Ligi'ndeki (VNL) Ankara etabının ilk maçında Belçika'yı 3-0 mağlup etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/744f48db-f0ea-4bb4-87fc-e6571d350e5d.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_eb92a61e",
-    "title": "Son Dakika... Fed, faiz kararını açıkladı",
-    "source": "Cumhuriyet",
-    "time": "17/06/2026 21:19",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-fed-faiz-kararini-acikladi-2513065",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fed, politika faizini beklentiler dahilinde yüzde 3.5-3.75 aralığında sabit tuttu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ec641f4c",
-    "title": "‘İhraç’ kararları sonrası Kılıçdaroğlu’dan ilk paylaşım: 'Devlete liyakati ve yerli duruşu yeniden getireceğiz'",
-    "source": "Cumhuriyet",
-    "time": "17/06/2026 21:19",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ihrac-kararlari-sonrasi-kilicdaroglu-dan-ilk-paylasim-devlete-liyakati-ve-yerli-durusu-yeniden-getirecegiz-2513066",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP'de il başkanlarına yönelik görevden alma ve disiplin süreçlerinin ardından ilk kez açıklama yapan Kemal Kılıçdaroğlu, \"Biz, koltuk sevdasıyla sermayeye ve sömürüye dayalı küresel odakların projelerine eş başkanlık yapanlardan değiliz\" dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/44ecf750-43a1-44a6-9c5f-dbd20b95f079.jpg",
     "keyword": ""
   }
 ]
