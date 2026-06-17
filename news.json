@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_45231d4b",
+    "title": "İstanbul'da çocuk parkında silahlı saldırı",
+    "source": "OdaTV",
+    "time": "18/06/2026 02:19",
+    "link": "https://www.odatv.com/guncel/istanbulda-cocuk-parkinda-silahli-saldiri-120151308",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Eyüpsultan’da kimliği henüz belirlenemeyen şahısların parktaki gruba yönelik silahlı saldırısında 3’ü ağır 5 kişi yaralandı. Olayın ardından kaçan şüphelilerin kullandığı sahte plakalı otomobil, Kemerburgaz Kent Ormanı girişinde yanmış halde bulundu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/18/istanbulda-cocuk-parkinda-catisma-ps7v.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_265c7e4e",
+    "title": "Sinema biletlerinde yüzde 70'e kadar indirim dönemi! Karar Resmi Gazete'de",
+    "source": "Ekonomim",
+    "time": "18/06/2026 02:19",
+    "link": "https://www.ekonomim.com/gundem/sinema-biletlerinde-yuzde-70e-kadar-indirim-donemi-karar-resmi-gazetede-haberi-900613",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Resmî Gazete’de yayımlanan yeni düzenlemeyle sinema biletlerinde uygulanabilecek indirim oranları yeniden belirlendi. Öğrenci ve kamu çalışanlarına yüzde 40, engelli ve gazilere yüzde 50, film özel biletlerinde ise yüzde 70’e kadar indirim yapılabilecek. İnternet üzerinden alınan biletlere ek indirim olacak.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/18/sinema-biletlerinde-yuzde-70e-kadar-indirim-donemi-karar-resmi-gazetede-lq3w_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9d0cd47c",
+    "title": "Günlük Burç Yorumları: 18 Haziran Perşembe Akrep Burcu Yorumu",
+    "source": "Cumhuriyet",
+    "time": "18/06/2026 02:19",
+    "link": "https://www.cumhuriyet.com.tr/astroloji/akrep-burcu/gunluk-burc-yorumlari-18-haziran-persembe-akrep-burcu-yorumu-2513009",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Günlük Burç Yorumları: 18 Haziran Perşembe Akrep Burcu Yorumu",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d09e9e89-682c-461f-af41-4783cc9892c2.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_dfc4ce97",
+    "title": "Filenin Sultanları FIVB Milletler Ligi'nde Fransa ile karşılaşacak",
+    "source": "TRT Haber",
+    "time": "18/06/2026 02:19",
+    "link": "https://www.trthaber.com/haber/turkiye/filenin-sultanlari-fivb-milletler-liginde-fransa-ile-karsilasacak-948543.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Kadın Voleybol Takımımız, FIVB Milletler Ligi'nin ikinci haftasındaki ikinci maçında bugün Fransa ile karşılaşacak. Karşılaşma, saat 19.30'da başlayacak.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_c55dc3e1",
+    "title": "Bakan Fidan: Türkiye, Rusya-Ukrayna müzakerelerine ev sahipliği dahil her türlü desteğe hazır",
+    "source": "Evrensel",
+    "time": "18/06/2026 02:19",
+    "link": "https://www.evrensel.net/haber/5988721/bakan-fidan-turkiye-rusya-ukrayna-muzakerelerine-ev-sahipligi-dahil-her-turlu-destege-hazir",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Rusya’ya yaptığı iki günlük ziyaretin ardından yaptığı açıklamada, Türkiye’nin Rusya-Ukrayna savaşının diplomasi masasında sona ermesi için müzakerelere ev sahipliği dahil her türlü desteğe hazır olduğunu belirtti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/351711.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ff7cd962",
+    "title": "Körfez ülkeleri, Hürmüz krizi sonrası demir yolu bağlantılarını geliştirmeyi görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "18/06/2026 02:18",
+    "link": "https://www.aa.com.tr/tr/ekonomi/korfez-ulkeleri-hurmuz-krizi-sonrasi-demir-yolu-baglantilarini-gelistirmeyi-gorustu/3970309",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Körfez İşbirliği Konseyi (KİK) ülkelerinin, Hürmüz Boğazı’ndaki krizin ardından tedarik zincirlerinin güvenliğini artırmak ve olası aksamalara karşı önlem almak amacıyla ulaştırma ve lojistik alanındaki projeleri ele aldığı bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_7ce59934",
     "title": "İmamoğlu sokakta: Mücadele mesajı",
     "source": "OdaTV",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "A Milli Kadın Voleybol Takımı, 2026 FIVB Voleybol Milletler Ligi'nin 2'nci haftasının ilk karşılaşmasında Belçika'yı Ankara'da 3-0 mağlup etti.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/06/17/filenin-sultalari-ankarada-belcikayi-3-0-yendi-nyul.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_1f8e46a8",
-    "title": "İsrail Lübnan'ın güneyini fosfor bombasıyla hedef aldı",
-    "source": "Haber Global",
-    "time": "17/06/2026 21:19",
-    "link": "https://haberglobal.com/dunya/israil-lubnanin-guneyini-fosfor-bombasiyla-hedef-aldi-530262",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail ordusunun, ateşkese ve ABD ile İran arasında sağlanan mutabakata rağmen Lübnan'ın güneyindeki Nebatiye vilayetinin kırsal alanını topçu atışları ve fosfor bombasıyla hedef aldığı bildirildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/06/17/israil-lubnanin-guneyini-fosfor-bombasiyla-hedef-aldi-etnv.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_9f0f59f5",
-    "title": "ABDİran mutabakat metni sızdı: 14 maddelik anlaşmada neler var?",
-    "source": "TRT Haber",
-    "time": "17/06/2026 21:19",
-    "link": "https://www.trthaber.com/haber/dunya/abd-iran-mutabakat-metni-sizdi-14-maddelik-anlasmada-neler-var-948521.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ile İran arasındaki gerilimi resmiyete döken 14 maddelik mutabakat zaptı yayınlandı. Anlaşma uyarınca Hürmüz Boğazı ticarete açılırken İrana yönelik petrol ve finans yaptırımları kaldırılıyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_209a3702",
-    "title": "Trabzonspor Türk Pogba Lakaplı Kenan Haroun İçin Yeniden Harekete Geçti",
-    "source": "Taka Gazetesi",
-    "time": "17/06/2026 21:19",
-    "link": "https://www.takagazete.com.tr/trabzonspor-turk-pogba-lakapli-kenan-haroun-icin-yeniden-harekete-gecti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, genç ve gelecek vadeden oyuncu transferi için çalışmalarını sürdürüyor. Bordo-mavililer, Belçika ekibi Genk’te forma giyen 19 yaşındaki orta saha oyuncusu Kenan Haroun’u yeniden transfer listesine aldı. Uzun süredir scout ekibi tarafından takip edilen ve hakkında olumlu raporlar hazırlanan genç futbolcu için teknik direktör Fatih Tekke’nin de onay verdiği ifade edildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/chatgpt-image-17-haz-2026-15-53-33.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_209a3702",
-    "title": "Trabzonspor Türk Pogba Lakaplı Kenan Haroun İçin Yeniden Harekete Geçti",
-    "source": "Taka Gazetesi",
-    "time": "17/06/2026 21:19",
-    "link": "https://www.takagazete.com.tr/trabzonspor-turk-pogba-lakapli-kenan-haroun-icin-yeniden-harekete-gecti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, genç ve gelecek vadeden oyuncu transferi için çalışmalarını sürdürüyor. Bordo-mavililer, Belçika ekibi Genk’te forma giyen 19 yaşındaki orta saha oyuncusu Kenan Haroun’u yeniden transfer listesine aldı. Uzun süredir scout ekibi tarafından takip edilen ve hakkında olumlu raporlar hazırlanan genç futbolcu için teknik direktör Fatih Tekke’nin de onay verdiği ifade edildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/chatgpt-image-17-haz-2026-15-53-33.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ade4b97b",
-    "title": "BM'den Lübnan'da İsrail ihlalleri ve ateş açma olaylarının \"kademeli olarak\" arttığı uyarısı",
-    "source": "Anadolu Ajansı",
-    "time": "17/06/2026 21:19",
-    "link": "https://www.aa.com.tr/tr/dunya/bmden-lubnanda-israil-ihlalleri-ve-ates-acma-olaylarinin-kademeli-olarak-arttigi-uyarisi/3970129",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler (BM), Lübnan ile İsrail arasındaki ateşkese rağmen İsrail ordusunun Lübnan'a yönelik saldırı ve ihlalleri sürdürdüğünü belirterek, hafta başından bu yana bölgede ateş açmaların \"kademeli olarak\" arttığı uyarısında bulundu.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_0eedf33c",
-    "title": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,5-3,75 aralığında sabit tuttu",
-    "source": "Anadolu Ajansı",
-    "time": "17/06/2026 21:18",
-    "link": "https://www.aa.com.tr/tr/ekonomi/abd-merkez-bankasi-politika-faizini-beklentiler-dahilinde-yuzde-3-5-3-75-araliginda-sabit-tuttu/3970140",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,5-3,75 aralığında sabit tuttu.",
-    "image": null,
     "keyword": ""
   }
 ]
