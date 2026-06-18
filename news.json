@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_b342bcad",
+    "title": "Yıldırım spor salonunu alev alev yaktı",
+    "source": "OdaTV",
+    "time": "18/06/2026 03:39",
+    "link": "https://www.odatv.com/guncel/yildirim-spor-salonunu-alev-alev-yakti-120151312",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu’da küle dönen jimnastik salonuna yıldırımın düştüğü anlar cep telefonu kamerasıyla görüntülendi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/18/yildirim-spor-salonunu-alev-alev-yakti-qhcg.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_212e20e0",
+    "title": "Körfez ülkeleri Hürmüz krizi sonrası demir yolu bağlantılarını geliştirmeyi görüştü",
+    "source": "TRT Haber",
+    "time": "18/06/2026 03:39",
+    "link": "https://www.trthaber.com/haber/dunya/korfez-ulkeleri-hurmuz-krizi-sonrasi-demir-yolu-baglantilarini-gelistirmeyi-gorustu-948544.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Körfez İşbirliği Konseyi ülkeleri, Hürmüz Boğazındaki krizin ardından tedarik zincirlerinin güvenliğini artırmak ve olası aksamalara karşı önlem almak amacıyla ulaştırma ve lojistik alanındaki projeleri ele aldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_294ab7ea",
+    "title": "Hakkari’de İntihar Girişimi! - Hakkari Objektif Haber",
+    "source": "Google Haberler",
+    "time": "18/06/2026 03:38",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZXVQSGt2b1VMWEF5dFhJNlNOOTZjc2JSbzdJSFlTN3BjSUJUd2EtZE1Fd1lObFotZEliZkRkNVNmYUItMC1KNHJRU3FSbGpFUmg3S05XUzdDejdWdEJzanRZTTRhaFhPM2JZbXNvdVdxQVZndC1LOFhNUXZZLXRNZ21DTTFPenlIcFJjTXNSdmlLdw?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "GND_76745505",
     "title": "Erzincan'daki ölümlü kavganın görüntüleri çıktı",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, Türkiye’nin 500 Büyük Sanayi Kuruluşu arasında yer alan 8 Konyalı firmayı ve çalışanlarını tebrik etti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/17/baskan-altay-iso-500-de-yer-alan-konyali-firmalari-tebrik-etti-voeo_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_b83f8509",
-    "title": "Bayraktar AKINCI TİHA, BOZOK mühimmatı ile harekat halindeki hedefi tam isabetle vurdu",
-    "source": "Ekonomim",
-    "time": "17/06/2026 21:20",
-    "link": "https://www.ekonomim.com/sektorler/savunma-sanayi/bayraktar-akinci-tiha-bozok-muhimmati-ile-harekat-halindeki-hedefi-tam-isabetle-vurdu-haberi-900568",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bayraktar AKINCI TİHA, BOZOK Lazer Güdümlü Minyatür Mühimmatı ile harekat halindeki hedefi tam isabetle vurdu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/17/bayraktar-akinci-tiha-bozok-muhimmati-ile-harekat-halindeki-hedefi-tam-isabetle-vurdu-rx5g_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_dc7020a5",
-    "title": "Son dakika... Fed haziran ayı faiz kararını açıkladı",
-    "source": "Sözcü",
-    "time": "17/06/2026 21:20",
-    "link": "https://www.sozcu.com.tr/son-dakika-fed-haziran-ayi-faiz-kararini-acikladi-p328864",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Son dakika... Fed haziran ayı faiz kararını açıkladı",
-    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/son-dakikajpg-9mT3Y5uP9kaxQQSAiTOa3A.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e92f72fe",
-    "title": "Avrupa Parlamentosu Türkiye raporunu kabul etti: 'Fırsat penceresi kapanıyor'",
-    "source": "Cumhuriyet",
-    "time": "17/06/2026 21:20",
-    "link": "https://www.cumhuriyet.com.tr/dunya/avrupa-parlamentosu-turkiye-raporunu-kabul-etti-firsat-penceresi-kapaniyor-2513032",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Parlamentosu, Türkiye’nin AB üyelik sürecine ilişkin raporu 381 oyla kabul etti. Adalet Bakanı Akın Gürlek'e yaptırım istenen maddenin de yer aldığı raporda, “AB genişleme politikasının yeniden ivme kazandığı bir dönemde Türkiye’nin demokratik reform eksikliği nedeniyle bu fırsat penceresini kaçırdığı” belirtildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/855f5437-79d1-4ba0-9fda-be9780201f33.jpg",
     "keyword": ""
   }
 ]
