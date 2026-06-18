@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_161290f5",
+    "title": "Bursa'da devrilen motosikletin sürücüsü ağır yaralandı",
+    "source": "Haber Global",
+    "time": "18/06/2026 03:59",
+    "link": "https://haberglobal.com/gundem/bursada-devrilen-motosikletin-surucusu-agir-yaralandi-530291",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın İnegöl ilçesinde devrilen motosikletin sürücüsü ağır yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/06/18/bursada-devrilen-motosikletin-surucusu-agir-yaralandi-ur0m.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_da69782e",
+    "title": "Navigasyon yanlış yolu gösterdi, dereye uçtu",
+    "source": "TRT Haber",
+    "time": "18/06/2026 03:59",
+    "link": "https://www.trthaber.com/haber/turkiye/navigasyon-yanlis-yolu-gosterdi-dereye-uctu-948545.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursada iddiaya göre navigasyonun yanlış göstermesi sonucu direksiyon hakimiyetini kaybeden sürücü dereye uçtu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_aa5443ad",
+    "title": "Pakistan, ABD-İran mutabakat metninin iki ülke arasında elektronik olarak imzalandığını duyurdu",
+    "source": "Anadolu Ajansı",
+    "time": "18/06/2026 03:58",
+    "link": "https://www.aa.com.tr/tr/live-blog/pakistan-abd-iran-mutabakat-metninin-iki-ulke-arasinda-elektronik-olarak-imzalandigini-duyurdu/4067",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Pakistan Başbakanı Şahbaz Şerif, ABD ve İran'ın \"İslamabad Mutabakat Anlaşması\"nı elektronik olarak imzaladığını açıkladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_b342bcad",
     "title": "Yıldırım spor salonunu alev alev yaktı",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Beylikdüzü’ndeki metrobüs durağında yaşanan \"yan bakma\" tartışmasında bıçaklanan bir kişi hayatını kaybetti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/17/beylikduzunde-metrobuste-olumlu-saldiri-edjb.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_66b40b65",
-    "title": "LGBT odaklı uygulama Hornet'e erişim engeli",
-    "source": "OdaTV",
-    "time": "17/06/2026 21:20",
-    "link": "https://www.odatv.com/guncel/lgbt-odakli-uygulama-hornete-erisim-engeli-120151265",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "LGBTİ+ odaklı sosyal ağ ve tanışma uygulaması Hornet’in internet sitesi ile mobil uygulamalarına erişim engeli getirildi. Kararın, İstanbul 3. Sulh Ceza Hakimliği tarafından alındığı bildirildi.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/17/lgbt-odakli-uygulama-hornete-erisim-engeli-5nk4.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d7d3f2ae",
-    "title": "Başakşehir'in UEFA Konferans Ligi rakibi belli oldu",
-    "source": "OdaTV",
-    "time": "17/06/2026 21:20",
-    "link": "https://www.odatv.com/spor/basaksehirin-uefa-konferans-ligi-rakibi-belli-oldu-120151266",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Avrupa Konferans Ligi 2. Eleme Turu’nda Başakşehir'in rakibi belli oldu. Turuncu lacivertliler, Sarajevo ile Inter Turku eşleşmesinin galibiyle karşı karşıya gelecek.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/17/basaksehirin-uefa-konferans-ligi-rakibi-belli-oldu-fwho.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_9a77ae8b",
-    "title": "Başkan Altay, İSO 500 ‘de yer alan Konyalı firmaları tebrik etti",
-    "source": "Ekonomim",
-    "time": "17/06/2026 21:20",
-    "link": "https://www.ekonomim.com/sehirler/baskan-altay-iso-500-de-yer-alan-konyali-firmalari-tebrik-etti-haberi-900518",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, Türkiye’nin 500 Büyük Sanayi Kuruluşu arasında yer alan 8 Konyalı firmayı ve çalışanlarını tebrik etti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/17/baskan-altay-iso-500-de-yer-alan-konyali-firmalari-tebrik-etti-voeo_cover.jpg",
     "keyword": ""
   }
 ]
