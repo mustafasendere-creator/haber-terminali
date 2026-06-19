@@ -1,5 +1,77 @@
 [
   {
+    "id": "SOC_06dae577",
+    "title": "🗣️ Facebook Keşfi",
+    "source": "Social Searcher (Facebook)",
+    "time": "19/06/2026 04:01",
+    "link": "https://www.facebook.com/duytrabzon/posts/%C3%BCnl%C3%BC-manifest-grubu-trabzonda-konser-vereceksosyal-medyada-yay%C4%B1lan-ve-k%C4%B1sa-s%C3%BCred/1469176511890799/",
+    "type": "SOC",
+    "prefix": "🔵 📘",
+    "summary": "Ünlü Manifest Grubu Trabzon'da Konser Verecek Sosyal medyada ...",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_d100b11c",
+    "title": "🗣️ Facebook Keşfi",
+    "source": "Social Searcher (Facebook)",
+    "time": "19/06/2026 04:01",
+    "link": "https://www.facebook.com/tgrthabertv/posts/izmir-bb-ba%C5%9Fkan%C4%B1-cemil-tugay-chpden-istifa-etti%EF%B8%8Ftgrt-haber-ankara-temsilcisi-fat/1459498836222279/",
+    "type": "SOC",
+    "prefix": "🔵 📘",
+    "summary": "İzmir BB Başkanı Cemil Tugay CHP'den istifa etti 🗣️TGRT Haber ...",
+    "image": null,
+    "keyword": "CHP"
+  },
+  {
+    "id": "SOC_a92c71ec",
+    "title": "🗣️ Facebook Keşfi",
+    "source": "Social Searcher (Facebook)",
+    "time": "19/06/2026 04:01",
+    "link": "https://www.facebook.com/haber61tv/posts/trabzonu-sarsan-olay-polis-memuru-kafas%C4%B1na-s%C4%B1k%C4%B1p-denize-d%C3%BC%C5%9Ft%C3%BC/1566281958842100/",
+    "type": "SOC",
+    "prefix": "🔵 📘",
+    "summary": "Trabzon'u sarsan olay! Polis memuru kafasına sıkıp denize düştü",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_848ca83a",
+    "title": "Kayıp polis ölü bulundu",
+    "source": "OdaTV",
+    "time": "19/06/2026 03:59",
+    "link": "https://www.odatv.com/guncel/kayip-polis-olu-bulundu-120151434",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Giresun’da iki gündür kendisinden haber alınamayan polis memuru, sahilde ölü olarak bulundu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/19/kayip-polis-olu-bulundu-h4yr.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_575a0038",
+    "title": "Gustavo Alfaro'dan Türkiye maçı öncesi açıklama: 'Biz Avustralya’dan daha farklı bir oyun oynayacağız'",
+    "source": "Cumhuriyet",
+    "time": "19/06/2026 03:59",
+    "link": "https://www.cumhuriyet.com.tr/dunya-kupasi/gustavo-alfaro-dan-turkiye-maci-oncesi-aciklama-biz-avustralya-dan-daha-farkli-bir-oyun-oynayacagiz-2513439",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası D Grubu ikinci maçında A Milli Futbol Takımı'yla karşılaşacak Paraguay'ın teknik direktör Gustavo Alfaro, Türkiye'yle zorlu bir maça çıkacaklarını söyledi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/fbf99186-a3ae-4222-9205-9932cc68d76e.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_df258823",
+    "title": "Ev sahibi ülkelerden Kanada, turnuva tarihindeki ilk galibiyetini elde etti",
+    "source": "Anadolu Ajansı",
+    "time": "19/06/2026 03:58",
+    "link": "https://www.aa.com.tr/tr/spor/ev-sahibi-ulkelerden-kanada-turnuva-tarihindeki-ilk-galibiyetini-elde-etti/3971490",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası B Grubu'nda oynanan maçta Kanada, Katar'ı 6-0 mağlup etti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "SOC_3a2572c1",
     "title": "🗣️ T.C. Trabzon Valiliği (@TrabzonValilik (· (14s)",
     "source": "X (Twitter)",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "2026 Dünya Kupası A Grubu’nun ikinci maçında Çekya ile Güney Afrika 1-1 berabere kaldı. Michal Sadilek’in erken golüyle öne geçen Çekya, üstünlüğünü koruyamazken Güney Afrika’ya bir puanı 83’üncü dakikada penaltıdan Teboho Mokoena getirdi.",
     "image": "https://static.birgun.net/resim/haber/2026/06/18/guney-afrika-bir-puani-son-dakikalarda-kurtardi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d07f60a0",
-    "title": "Cami inşaatında iş cinayeti: 1 işçi öldü, 1 işçi ağır yaralı",
-    "source": "BirGün",
-    "time": "18/06/2026 21:59",
-    "link": "https://www.birgun.net/haber/cami-insaatinda-is-cinayeti-1-isci-oldu-1-isci-agir-yarali-719106",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aydın İncirliova'da inşaatı devam eden bir caminin iskelesinden düşen bir işçi hayatını kaybederken öteki işçi ağır yaralandı.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/18/cami-insaatinda-is-cinayeti-1-isci-oldu-1-isci-agir-yarali.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_8ffd261a",
-    "title": "ABD Başkan Yardımcısı Vance: Abluka kaldırıldı, İran mutabakata uyarsa fonları açılacak",
-    "source": "BirGün",
-    "time": "18/06/2026 21:59",
-    "link": "https://www.birgun.net/haber/abd-baskan-yardimcisi-vance-abluka-kaldirildi-iran-mutabakata-uyarsa-fonlari-acilacak-719107",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkan Yardımcısı, müzakereler için 60 günlük sürenin bugün itibarıyla resmen başladığını bildirdi.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/18/abd-baskan-yardimcisi-vance-abluka-kaldirildi-iran-mutabakata-uyarsa-fonlari-acilacak.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_a7f4c161",
-    "title": "Trabzonspor’dan Shomurodov Hamlesi! Başakşehir’in İstediği Rakam Dudak Uçuklattı - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "18/06/2026 21:59",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEFnRzl5NlhsOEZKQ3MzSktDS0pkOEJUYW5BbndKQUpPTml0UXBrbmhyQW1LMV9CYngzLVM1eTRxMXhJTFdmVnBESENEQkx0R0JjQWRVOTBjOTJnVXZnV0hCN19jQkpoMm82eEp4VFJLNUZYS3JjNDU5Q2RLdWFkR1pmeWNWb2tfRkVHM2ZjM3Q1LUhuRkQwckVuWHZvT2FPVzVnWUdjd09UenfSAbABQVVfeXFMUFhMM2xzMUVvVkhpZDl1UTJ5cGxMcC1yancyRURiVjdiQnkySlJqU1JUcm04c3loM2hfTWRzVzlPN2tRemxzLXhVeEJDNEx0ckx4bWlvMHA1azlsd1VjdG5QYjMyOW5wX3FEZ3Q3ZW5aYnM0dGlOLVE1Qm10ZVk2RlQyV3d1TzVaQng0MWZhNm5Da2dZUURnVnJLUDl3enhSRUd3c0xKSG53VFY2aUVuWks?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "GND_1daf139a",
-    "title": "Trump'tan uyarı: \"Lübnan, Hizbullah ve İsrail'de tam bir ateşkes bekliyoruz\"",
-    "source": "BirGün",
-    "time": "18/06/2026 21:59",
-    "link": "https://www.birgun.net/haber/trump-tan-uyari-lubnan-hizbullah-ve-israil-de-tam-bir-ateskes-bekliyoruz-719108",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trump açıklamasında \"Lübnan, Hizbullah ve İsrail dahil olmak üzere, tüm cephelerde tam bir ateşkes bekliyoruz\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/18/trump-tan-uyari-lubnan-hizbullah-ve-israil-de-tam-bir-ateskes-bekliyoruz.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d01672bd",
-    "title": "İzmir Büyükşehir Belediyesi Başkanı Cemil Tugay CHP'den istifa etti",
-    "source": "BirGün",
-    "time": "18/06/2026 21:59",
-    "link": "https://www.birgun.net/haber/izmir-buyuksehir-belediyesi-baskani-cemil-tugay-chp-den-istifa-etti-719109",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2024 yılından bu yana İzmir Büyükşehir Belediyesi Başkanlığı yapan Cemil Tugay, seçildiği parti CHP'den istifa ettiğini duyurdu.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/18/izmir-buyuksehir-belediyesi-baskani-cemil-tugay-chp-den-istifa-etti.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_377f52bc",
-    "title": "Spotify İstanbul ofisi açıldı",
-    "source": "BirGün",
-    "time": "18/06/2026 21:59",
-    "link": "https://www.birgun.net/haber/spotify-istanbul-ofisi-acildi-719110",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Spotify MENAT+ Genel Müdürü Akshat Harbola \"İstanbul'daki yeni ofisimiz Türkiye'ye, sanatçılarına, müzik sektörüne ve müzik dinleyicilerine yönelik uzun vadeli bağlılığımızın bir göstergesi\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/06/18/spotify-istanbul-ofisi-acildi.jpg",
     "keyword": ""
   }
 ]
