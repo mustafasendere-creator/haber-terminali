@@ -1,5 +1,41 @@
 [
   {
+    "id": "SOC_c65f263c",
+    "title": "🗣️ Sosyal Medya Keşfi",
+    "source": "Social Searcher (Sosyal Medya)",
+    "time": "20/06/2026 03:58",
+    "link": "https://www.youtube.com/watch?v=by97H0X4k-s",
+    "type": "SOC",
+    "prefix": "🌐 🔍",
+    "summary": "\"Beni kim buraya getirdi?\" - Taşacak Bu Deniz 1. Bölüm - YouTube",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "GND_5c7b0742",
+    "title": "MAÇ ÖZETİ | İskoçya: 0 - Fas: 1",
+    "source": "Haber Global",
+    "time": "20/06/2026 03:56",
+    "link": "https://haberglobal.com/spor/mac-ozeti-iskocya-0-fas-1-530653",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası C Grubu'nda Fas, İskoçya'yı Saibari'nin attığı golle 1-0 mağlup etti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/06/20/mac-ozeti-iskocya-0-fas-1-ij0h.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_84296722",
+    "title": "Trabzon'da 16. Uluslararası Sanat Günleri başladı - Marmara Yaşam",
+    "source": "Google Haberler",
+    "time": "20/06/2026 03:55",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVnVEMzgzYWNhM3NjUThsamRQaEpqM3dYajFZY0R6cWhLd3gySFBMV0xFcnYwd2FESjJQZ296alM1d0xnMWduM0FfNkFqalFybVRwcTRRcjZ3MWF0OXE3NmhrRW8zdkY4OU91SFkxWjA0Z0VycW1FYzhpWFNKcHl3c1pybzlGOXFPanZ3VmsxVVo5YVdzbVhzSDNRNWdhSkU?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "TKP_1d905ad2",
     "title": "Körfez’de eşinin ihbarı ekipleri alarma geçirdi! Gerçek kısa sürede ortaya çıktı - Çağdaş Kocaeli Gazetesi",
     "source": "Google Haberler",
@@ -4762,41 +4798,5 @@
     "summary": "Trabzonspor’da yeni sezon öncesi kaleci transferi için hareketli saatler yaşanıyor. Bordo-mavili ekip, Andre Onana’nın yeniden kiralanması konusunda Manchester United ile prensip anlaşmasına varırken, Kamerunlu eldivenin vereceği yanıtı beklemeye geçti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/whatsapp-image-2026-06-19-at-152734.jpeg",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_42b9f0ad",
-    "title": "🗣️ Instagram Keşfi",
-    "source": "Social Searcher (Instagram)",
-    "time": "19/06/2026 20:59",
-    "link": "https://www.instagram.com/p/DZxSX42thUD/",
-    "type": "SOC",
-    "prefix": "🟣 📸",
-    "summary": "Bugün Trabzon havaalanı üstündeki colado Cafe'yi ziyarete gittik ...",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_73139fc8",
-    "title": "🗣️ Instagram Keşfi",
-    "source": "Social Searcher (Instagram)",
-    "time": "19/06/2026 20:59",
-    "link": "https://www.instagram.com/reel/DZwvvNfN0pG/",
-    "type": "SOC",
-    "prefix": "🟣 📸",
-    "summary": "Trabzon'un Sürmene ilçesinde bir binanın yağmur suyu tahliye ...",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_f0d6b022",
-    "title": "🗣️ X Keşfi",
-    "source": "Social Searcher (X)",
-    "time": "19/06/2026 20:59",
-    "link": "https://x.com/AkpartiArnvtky/status/2067910465720549616",
-    "type": "SOC",
-    "prefix": "🌐 🔍",
-    "summary": "AK Parti Arnavutköy",
-    "image": null,
-    "keyword": "GÜNDEM"
   }
 ]
