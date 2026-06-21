@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_99c932d8",
+    "title": "İsrail basını: ABD, İran müzakereleri öncesinde Lübnan'da gerilimi azaltması için İsrail'e baskı yapıyor",
+    "source": "Anadolu Ajansı",
+    "time": "21/06/2026 03:55",
+    "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abd-israil-iran-lubnan-savasi-ve-baris-muzakereleri/4229",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail basınına göre, ABD, İsviçre'de İran ile yapılması planlanan görüşmeleri baltalamaması adına Lübnan'da herhangi bir askeri tırmanmadan kaçınması için İsrail'e baskı yapıyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_d280ed0e",
+    "title": "Büyükşehir Belediyesi YKS sürecinde öğrencileri ve velileri yalnız bırakmadı - Gunebakış",
+    "source": "Google Haberler",
+    "time": "21/06/2026 03:55",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMFR0cDB2d2R0X3dJeTVJWF9vRmw3YXkzYXVRVG5GTmNhdDlyVTd3bHd5OUs0MVZjSVN5RHRVWVphSEgtN1NvdGFzQUJtOTdjbDJyeHlmNnNhRE5xSHRBU1dndE96eWpqNndDVW1MSGpHc3FmcUJTSXBKM01yMHFvQllrcGRUM2VrelB0eTYyUGxMTTlxeDNjVExwUVVRSFVIS3pmZnlsZ0d4aktLOGpUcUV6TVQ?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "TKP_56b9d226",
+    "title": "YKS'de Motosikletli Destek - Son Dakika",
+    "source": "Google Haberler",
+    "time": "21/06/2026 03:55",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3Rm5uVjFjZHhtZUthTE5FaDVIRy1jQkUyWENJWXUzUlFmVUoyeTlzbzB0bldTdzBxRVVPUkc1LWFvUjU5SFpHRGtOMXB0bUdOS0FEeGkyaDk4YmRGUlpsRFkzY0VkOFJYeF9ISThtbEpjakpwLXVpVFJLMULSAXxBVV95cUxQN0ZublYxY2R4bWVLYUxORWg1SEctY0JFMlhDSVl1M1JRZlVKMnk5c28wdG5XU3cwcUVVT1JHNS1hb1I1OUhaR0RrTjFwdG1HTktBRHhpMmg5OGJkRlJabERZM2NFZDhSWHhfSEk4bWxKY2pKcC11aVRSSzFC?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "SOC_585004ce",
     "title": "🗣️ Facebook Keşfi",
     "source": "Social Searcher (Facebook)",
@@ -4762,41 +4798,5 @@
     "summary": "Çağdaş Bayraktar ile Aydın Sohbetleri bugün saat 20.00'de Meltem ...",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "SOC_45751abf",
-    "title": "🗣️ Instagram Keşfi",
-    "source": "Social Searcher (Instagram)",
-    "time": "20/06/2026 20:39",
-    "link": "https://www.instagram.com/reel/DZz_YZ8MiX_/",
-    "type": "SOC",
-    "prefix": "🟣 📸",
-    "summary": "Cumhuriyet Halk Partisi sürekli kamuoyunun önünde kendi içindeki ...",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "SOC_42ed5dcd",
-    "title": "🗣️ Instagram Keşfi",
-    "source": "Social Searcher (Instagram)",
-    "time": "20/06/2026 20:39",
-    "link": "https://www.instagram.com/p/DZzW4OuMiQX/",
-    "type": "SOC",
-    "prefix": "🟣 📸",
-    "summary": "Bir tarafta 13 seçim kaybetmeyi içine sindirebilmiş bir Kemal ...",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "SOC_31ce1865",
-    "title": "🗣️ X Keşfi",
-    "source": "Social Searcher (X)",
-    "time": "20/06/2026 20:39",
-    "link": "https://x.com/61saat/status/2068328318026285417",
-    "type": "SOC",
-    "prefix": "🌐 🔍",
-    "summary": "CHP kuşatma altında… Yeni parti kurulacak mı?",
-    "image": null,
-    "keyword": "CHP"
   }
 ]
