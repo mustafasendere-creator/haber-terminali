@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_9db55b3d",
+    "title": "Ankara'da kahreden kaza",
+    "source": "OdaTV",
+    "time": "23/06/2026 02:16",
+    "link": "https://www.odatv.com/guncel/ankarada-kahreden-kaza-120151915",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Kahramankazan ilçesinde scootera binen 11 yaşındaki bir çocuk, aracın çarpması sonucu hayatını kaybetti. Kaza anı güvenlik kamerasına saniye saniye yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/23/ankarada-kahreden-kaza-z2me.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_b7a3bb75",
+    "title": "Başkan Keleş'ten Millet Bahçesine sahip çıkma çağrısı! - Gunebakış",
+    "source": "Google Haberler",
+    "time": "23/06/2026 02:16",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUpsMlF2czIxTkRtcnJ4QkU4RWZjeVJ1dlItWUZMME5Wc3Z3N3VyMEIxeFZRX1BCUk5iblZlUTdiZnhmSXNHRWZVVzZLX1NyM193dHJweHg5ZWFLZnNONDdmRDJocDNtZy1XVDBqdkI2Y29icW91MGtzUENUZzBjS05jSGhtYWp3OWRjTXRrN2dlc3lG0gGaAUFVX3lxTE1rVDJEWl9STU9PVFBzWURCUlBtLXpWdnBwZ0hiWFo2dWMxY1NXWU1jRzdBQ2RmQndtODVmazVXaDJDTVdwcHhvV055dE9LbDJ2NzVXRWsyeDdTd1o2bG12QjJLcjlKN0pIQVNhdVhxeHllVWRDeTNrTkQ0Ry1rVnpkODVEVmM0S3hIeXJrVllBT3RuNHVhWlU5Y2c?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "GND_c8fc891e",
+    "title": "CHP'li Yavuzyılmaz'dan Esenboğa'daki 3. piste ilişkin açıklama: “Uçaklar yeni piste neredeyse hiç inemiyor”",
+    "source": "Evrensel",
+    "time": "23/06/2026 02:16",
+    "link": "https://www.evrensel.net/haber/5989415/chp-li-yavuzyilmaz-dan-esenboga-daki-3-piste-iliskin-aciklama-ucaklar-yeni-piste-neredeyse-hic-inemiyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'li Yavuzyılmaz, açılışı 19 Ocak 2026'da Cumhurbaşkanı Erdoğan tarafından yapılan Esenboğa Havalimanı'nın 3. pistine, yolcu uçaklarının neredeyse hiç inemediğini, hafriyatın ILS ve VOR sistemlerinin sinyal alanlarını etkilediğini söyledi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/352283.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a5e06561",
+    "title": "Bursa'da mutlak butlana karşı barikat: Karar aykırı, tanımıyoruz",
+    "source": "Evrensel",
+    "time": "23/06/2026 02:16",
+    "link": "https://www.evrensel.net/haber/5989416/bursada-mutlak-butlana-karsi-barikat-karar-aykiri-tanimiyoruz",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'de atanmış Kılıçdaroğlu yönetiminin, Bursa İl Başkanı Nihat Yeşiltaş'ı görevden alması ve yerine Turgut Özkan'ı ataması sonucu Bursa Belediyesine barikat kuruldu. Arabulucu olarak gelen ekip ise tepkiyle karşılandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/352288.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_8321a8a3",
+    "title": "Almanya Savunma Bakanı Pistorius ülkesinin savunma alanında harekete geçmeyerek 6 yıl kaybettiğini belirtti",
+    "source": "Anadolu Ajansı",
+    "time": "23/06/2026 02:15",
+    "link": "https://www.aa.com.tr/tr/dunya/almanya-savunma-bakani-pistorius-ulkesinin-savunma-alaninda-harekete-gecmeyerek-6-yil-kaybettigini-belirtti/3975016",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya Savunma Bakanı Boris Pistorius, Rusya'nın Kırım'ı işgal ettiği dönemde harekete geçmeyen ülkesinin, silahlı kuvvetlerin donanımı ve sivil-askeri savunma açısından 6 yıl kaybettiğini söyledi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_91031e14",
     "title": "Çekya'da 'Ankara' krizi sürüyor",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Türkiye Futbol Federasyonu, 2026-2027 sezonu için Süper Lig kulüplerinin harcama limitlerini açıkladı. En yüksek limite sahip kulüp 9 milyar lirayı aşan rakamla Galatasaray oldu.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/22/super-lig-harcama-limitlerini-aciklandi-bmbo.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0e527ad2",
-    "title": "Gaziantep uçağında yürekler ağza geldi",
-    "source": "OdaTV",
-    "time": "22/06/2026 20:37",
-    "link": "https://www.odatv.com/guncel/gaziantep-ucaginda-yurekler-agza-geldi-120151895",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Stuttgart–Gaziantep seferini yapan SunExpress’e ait yolcu uçağının Gaziantep Havalimanı’na inişinin ardından lastiği patladı, ön iniş takımında hasar oluştu. Uçaktaki 186 yolcu ve 6 mürettebat güvenli şekilde tahliye edilirken, olayla ilgili inceleme başlatıldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/22/gaziantep-ucaginda-yurekler-agza-geldi-hecz.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_8ee59c04",
-    "title": "DUS yerleştirme sonuçları açıklandı",
-    "source": "Ekonomim",
-    "time": "22/06/2026 20:37",
-    "link": "https://www.ekonomim.com/egitim/dus-yerlestirme-sonuclari-aciklandi-haberi-901507",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) 2026 Diş Hekimliğinde Uzmanlık Eğitimi Giriş Sınavı'nın (2026-DUS) 1. dönem yerleştirme sonuçları açıklandı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/22/56d8650b-d90e-4e66-aaaa-a09ca6684e3-gkgd_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_05d72910",
-    "title": "İletişim Başkanı Duran'dan \"Yeşil Vatan\" paylaşımı:",
-    "source": "Ekonomim",
-    "time": "22/06/2026 20:37",
-    "link": "https://www.ekonomim.com/gundem/iletisim-baskani-durandan-yesil-vatan-paylasimi-haberi-901516",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"776 gözetleme kulesi, 175 hava aracı, 5 bin 597 kara aracı, 28 bin orman kahramanı personelimiz ve yüz binlerce gönüllümüzle, 7 gün 24 saat 'Yeşil Vatan'ı yalnız bırakmıyoruz.\" ifadesini kullandı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/22/iletisim-baskani-durandan-yesil-vatan-paylasimi-x8mm_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_df33c8fa",
-    "title": "Erdoğan, Irak Başbakanı Zeydi ile görüştü",
-    "source": "Ekonomim",
-    "time": "22/06/2026 20:37",
-    "link": "https://www.ekonomim.com/gundem/erdogan-irak-basbakani-zeydi-ile-gorustu-haberi-901515",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Irak Başbakanı Ali Zeydi ile telefon görüşmesi gerçekleştirdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/22/erdogan-irak-basbakani-zeydi-ile-gorustu-waio_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ae351d6d",
-    "title": "İlişkilerde anne-baba rolüne bürünen 5 burç: Bu burçlar partnerlerinin mutluluğunu ve güvenliğini her şeyden önemli görerek aşırı korumacı davranabiliyor...",
-    "source": "Cumhuriyet",
-    "time": "22/06/2026 20:37",
-    "link": "https://www.cumhuriyet.com.tr/astroloji/iliskilerde-anne-baba-rolune-burunen-5-burc-bu-burclar-partnerlerinin-mutlulugunu-ve-guvenligini-her-seyden-onemli-gorerek-asiri-korumaci-davranabiliyor-2514419",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Astrolojide bazı burçlar ilişkilerde yalnızca partner olmayı değil, aynı zamanda koruyan, kollayan ve her detayı düşünen kişi olmayı da üstlenebilir. İşte ilişkilerde anne-baba rolüne bürünen 5 burç...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b5bb5dc0-74cd-4db4-86bd-5b814514afcd.jpg",
     "keyword": ""
   }
 ]
