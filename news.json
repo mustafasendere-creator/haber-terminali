@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_a3551a22",
+    "title": "Ankara'da çocukların maçında aileler kavga etti",
+    "source": "OdaTV",
+    "time": "23/06/2026 03:16",
+    "link": "https://www.odatv.com/spor/ankarada-cocuklarin-macinda-aileler-kavga-etti-120151918",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da çocuklar arasında oynanan amatör futbol maçında, tribünlerdeki veliler arasında çıkan kavga cep telefonu kamerasına yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/23/ankarada-cocuklarin-macinda-aileler-kavga-etti-pvhi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9fb61cca",
+    "title": "Fırtına nedeniyle ertelenmişti: Fransa - Irak maçının ikinci yarısı başladı",
+    "source": "Cumhuriyet",
+    "time": "23/06/2026 03:16",
+    "link": "https://www.cumhuriyet.com.tr/dunya-kupasi/firtina-nedeniyle-ertelenmisti-fransa-irak-macinin-ikinci-yarisi-basladi-2514539",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Olumsuz hava koşulları nedeniyle ikinci yarısının başlaması ertelenen Fransa - Irak maçı, yaklaşık 2 saatlik aranın ardından tekrar başladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9ce174d2-f942-4a1e-8e87-a74b32f674af.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_4ca83282",
     "title": "Kaldırıma çarpan motosiklet metrelerce savruldu: 1 ölü",
     "source": "Haber Global",
@@ -4772,30 +4796,6 @@
     "type": "SOC",
     "prefix": "⚫ 🎵",
     "summary": "Cumhurbaşkanı Erdoğan: Siyaset kurumu koltuk ve kariyer ... - TikTok",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "SOC_58ba3528",
-    "title": "🗣️ TikTok Keşfi",
-    "source": "Social Searcher (TikTok)",
-    "time": "22/06/2026 20:39",
-    "link": "https://www.tiktok.com/@yurttastv/video/7654145350160223505",
-    "type": "SOC",
-    "prefix": "⚫ 🎵",
-    "summary": "CHP'li Aşkın Genç: Her 100 liralık verginin yaklaşık 24 lirası faize gitti",
-    "image": null,
-    "keyword": "CHP"
-  },
-  {
-    "id": "SOC_8b457b21",
-    "title": "🗣️ TikTok Keşfi",
-    "source": "Social Searcher (TikTok)",
-    "time": "22/06/2026 20:39",
-    "link": "https://www.tiktok.com/@yurttastv/video/7654179001589615873",
-    "type": "SOC",
-    "prefix": "⚫ 🎵",
-    "summary": "Deniz Yavuzyılmaz Esenboğa Havalimanındaki olayı \"Büyük ...",
     "image": null,
     "keyword": "GÜNDEM"
   }
