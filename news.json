@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_97c055aa",
+    "title": "Eskişehir'de faciadan dönüldü",
+    "source": "OdaTV",
+    "time": "25/06/2026 02:36",
+    "link": "https://www.odatv.com/guncel/eskisehirde-faciadan-donuldu-120152238",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir'de park halindeyken freni boşalan ve sürücüsü bulunmayan kamyon, yokuş aşağı hızlanarak parka doğru ilerledi. Kamyon, park halindeki iki kamyona çarparak çok sayıda vatandaşın bulunduğu parka 2 metre kala durabildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/25/eskisehirde-faciadan-donuldu-sq66.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c56cf405",
+    "title": "Gözaltındaki 208 kişinin emniyetteki işlemleri tamamlandı. Bu sabah savcılığa sevk edilmeleri bekleniyor",
+    "source": "Evrensel",
+    "time": "25/06/2026 02:36",
+    "link": "https://www.evrensel.net/haber/5989708/gozaltindaki-208-kisinin-emniyetteki-islemleri-tamamlandi-bu-sabah-savciliga-sevk-edilmeleri-bekleniyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da NATO Zirvesi öncesi gözaltına alınan 208 kişinin emniyetteki ifade işlemleri tamamlanırken, bugün savcılığa sevk edilmeleri bekleniliyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/352525.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_edaa2f4a",
+    "title": "Japonya'da 6,9 büyüklüğünde deprem meydana geldi",
+    "source": "Anadolu Ajansı",
+    "time": "25/06/2026 02:35",
+    "link": "https://www.aa.com.tr/tr/dunya/japonyada-6-9-buyuklugunde-deprem-meydana-geldi/3977229",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Japonya'nın kuzeydoğusundaki Iwate eyaleti açıklarında 6,9 büyüklüğünde deprem meydana geldiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_7dbcdd74",
+    "title": "Arsin Kooperatifi’nde Sunguroğlu yeniden başkan seçildi - Gunebakış",
+    "source": "Google Haberler",
+    "time": "25/06/2026 02:35",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGJuWWdxWXljS3dDRGdLMjFqTXBkc2d5dDdkU3VYT0NtVGFSWXBRcVhiYk5LNlJfMmtKUFpMMmQ0WnZlNXJkNm9kVDI3ZFFoMXkxMFBVU21oTHRycGFJc1ZyNVRJdmphN09oNDZGWW5rcFVHZnNxVHM0Q1gtSkpxNDVvSnkzZmVJWFVXbjdsWGZlYmZFS1JxMUdkQ03SAZwBQVVfeXFMUFBibllncVl5Y0t3Q0RnSzIxak1wZHNneXQ3ZFN1WE9DbVRhUllwUXFYYmJOSzZSXzJrSlBaTDJkNFp2ZTVyZDZvZFQyN2RRaDF5MTBQVVNtaEx0cnBhSXNWcjVUSXZqYTdPaDQ2Rllua3BVR2ZzcVRzNENYLUpKcTQ1b0p5M2ZlSVhVV243bFhmZWJmRUtScTFHZENN?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "TKP_b651fdc8",
+    "title": "Rusya sadece enerji değil su zengini de bir ülke - Gazete Oku",
+    "source": "Google Haberler",
+    "time": "25/06/2026 02:35",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3k2X1l2bEtpbHpSU3ZNQXAxZHY3TFBxYkxiV0lTclpQLWZHeU1IemFYai1sUjdzYnFoRDRQeE5reEw5NUpMc3E2ZTZSdEFQY3RMX3l3dXdGa0dXWEo3d19Za3lXdFhrRHQ5aUxjSTRNdHQxSk1weFhSUTJ6S2prVXBROGlJTXhyMjN4eGNBTG5YZF9icDlOdDkwYTBIRmlmcHBZ?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "TKP_3c8f23e9",
+    "title": "‘Ben yapmadım, Allah yaptı’ - Gazete Oku",
+    "source": "Google Haberler",
+    "time": "25/06/2026 02:35",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLXVXeHNwVjQwVnA1aWk3UUVXRG1CRVMtdU5wd2ZLajBqek5ETDJCZFZ3RklTTHF5cHg5OHhwcXJDZU1wSFNCNlNrR0NLcFZXY1VoNzZheTM2TjhjcmdOV1pVQmhubFd4U3hOV3MwSlE4dFAxT0JLQUJjM25iMXVBR0hkNzd3THB1Wmc?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "GND_9a63dfa9",
     "title": "Ankara'daki feci kazada sürücü tutuklandı",
     "source": "OdaTV",
@@ -4726,77 +4798,5 @@
     "summary": "ABD Dışişleri Bakanı Marco Rubio, İran'la teknik düzeyde yürütülen görüşmeler kapsamında heyetlerin gelecek hafta yeniden bir araya geleceğini belirtti.",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "GND_e987dece",
-    "title": "NATO zirvesi öncesi gazetecilere akreditasyon şoku",
-    "source": "DW Türkçe",
-    "time": "24/06/2026 20:36",
-    "link": "https://www.dw.com/tr/nato-zirvesi-öncesi-gazetecilere-akreditasyon-şoku/a-77698121",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'de birçok medya kuruluşu ve gazeteci, NATO zirvesi için akreditasyon taleplerinin reddedildiğini açıkladı. NATO'nun yanıt metninde \"gerekçenin açıklanamayacağını\" belirtmesi tepki çekti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_406f2fbb",
-    "title": "CHP’den istifa ettikten sonra AKP’ye katılan Nimet Özdemir kimdir?",
-    "source": "Evrensel",
-    "time": "24/06/2026 20:36",
-    "link": "https://www.evrensel.net/haber/5989684/chp-den-istifa-ettikten-sonra-akp-ye-katilan-nimet-ozdemir-kimdir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "17 Haziran’da CHP’den istifa eden İstanbul Milletvekili Nimet Özdemir, AKP’nin bugünkü Meclis Grup Toplantısında rozet taktı. Özdemir toplantı öncesinde AKP’ye geçişiyle ilgili basından gelen sorulara, “Aynı Nimet’im, değişen bir şey yok” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/352513.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_2ee21f3a",
-    "title": "CHP Lideri Özgür Özel, Diyarbakır ve Gaziantep’e gidiyor",
-    "source": "Evrensel",
-    "time": "24/06/2026 20:36",
-    "link": "https://www.evrensel.net/haber/5989686/chp-lideri-ozgur-ozel-diyarbakir-ve-gaziantepe-gidiyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Özgür Özel, bu haftaki saha çalışmaları kapsamında, cuma günü Diyarbakır’a, cumartesi günü Gaziantep’e gidecek.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/352515.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_7281d8af",
-    "title": "Kriz Notları |'NATO 3.0 ne anlama geliyor?",
-    "source": "Evrensel",
-    "time": "24/06/2026 20:36",
-    "link": "https://www.evrensel.net/haber/5989685/kriz-notlari-nato-3-0-ne-anlama-geliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kriz Notları’nda bu hafta Doç. Dr. Ümit Akçay ve Dr. Ali Rıza Güngen, 7 - 8 Temmuz tarihlerinde Türkiye'de yapılacak NATO zirvesini değerlendiriyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/352514.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_6c9d22bc",
-    "title": "Adana'da kamyonetin çarptığı kişi yaralandı",
-    "source": "Gazete Duvar",
-    "time": "24/06/2026 20:36",
-    "link": "https://www.gazeteduvar.com.tr/adanada-kamyonetin-carptigi-kisi-yaralandi-haber-1766067",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adana'da hal kompleksi içerisinde kontrolden çıkan kamyonet, iş yeri önünde oturan kişiye çarptı. Yaralanan şahıs hastaneye kaldırılırken, kaza anı güvenlik kamerasına yansıdı.",
-    "image": "https://img.gazeteduvar.com.tr/2/150/84/storage/files/images/2026/06/24/basliksiz-1-9prb_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_0dfa35fd",
-    "title": "Doğada 20 kiloluk mantar buldu - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "24/06/2026 20:36",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KRjhfQkFZbEh2czJtaXQybGhzRU1ZQ0tLa053d0NkQXEzYWNIdi1qOGlXZ29ZQkd2cXp0UXotTlFDdnBBNE0yeG5WSEVtYkloeExiZF9ORHNCdUdlaC1NRGNUd2pMTDAxYk5FRHFFTVRLd9IBckFVX3lxTE9KRjhfQkFZbEh2czJtaXQybGhzRU1ZQ0tLa053d0NkQXEzYWNIdi1qOGlXZ29ZQkd2cXp0UXotTlFDdnBBNE0yeG5WSEVtYkloeExiZF9ORHNCdUdlaC1NRGNUd2pMTDAxYk5FRHFFTVRLdw?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
   }
 ]
