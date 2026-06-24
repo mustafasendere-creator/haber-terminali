@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_914c4fd8",
+    "title": "Arızalanan tekneyi kurtarmaya giden tekne arızalandı",
+    "source": "OdaTV",
+    "time": "24/06/2026 03:16",
+    "link": "https://www.odatv.com/guncel/antalyada-arizalanan-tekneyi-kurtarmaya-giden-tekne-arizalandi-120152072",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Serik ilçesine bağlı Boğazkent sahili açıklarındaki sığlık alanda karaya oturan gezi teknesindeki 3 kişiyi kurtarmaya giden balıkçı teknesi de arızalanınca 5 kişi denizde mahsur kaldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/24/antalyada-arizalanan-tekneyi-kurtarmaya-giden-tekne-arizalandi-qtbn.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_dda9ccc6",
+    "title": "Umman: Hürmüz Boğazı'nda geçici deniz koridoru için IMO ile koordinasyon sağlandı",
+    "source": "Anadolu Ajansı",
+    "time": "24/06/2026 03:15",
+    "link": "https://www.aa.com.tr/tr/dunya/umman-hurmuz-bogazinda-gecici-deniz-koridoru-icin-imo-ile-koordinasyon-saglandi/3976089",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Umman, tüm gemiler için Hürmüz Boğazı'nda geçici bir deniz koridoru kullanım seçeneği üzerine Uluslararası Denizcilik Örgütü (IMO) ile koordinasyon sağladıklarını açıkladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_89b4e717",
     "title": "Büyük oyun, küçük hesaplar ve bir partinin kendini yemesi",
     "source": "Evrensel",
@@ -4774,29 +4798,5 @@
     "summary": "Bakan Uraloğlu, Avrupa Yatırım Bankasının İstanbul Kuzey Demiryolu Geçişi Projesi'ne finansman katkısı sağlamasına yönelik niyet beyanında bulunduğunu açıkladı.",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "GND_33a13384",
-    "title": "ABD Dışişleri Bakanı: Hürmüz Boğazı'nda geçiş ücreti talep edilemez",
-    "source": "TRT Haber",
-    "time": "23/06/2026 20:56",
-    "link": "https://www.trthaber.com/haber/dunya/abd-disisleri-bakani-hurmuz-bogazinda-gecis-ucreti-talep-edilemez-949126.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Dışişleri Bakanı Marco Rubio, İran ve Umman arasında Hürmüz Boğazı'nın işletmesine ilişkin görüşmeler devam ederken \"Hürmüz Boğazı'nın uluslararası sular olduğunu ve herhangi bir ülkenin geçiş ücreti talep etme hakkı bulunmadığını\" belirtti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_913e2dc2",
-    "title": "'Ordu, Trabzon ve Rize'nin deprem riski' Prof. Dr. Bektaş - Enerji Ekonomisi",
-    "source": "Google Haberler",
-    "time": "23/06/2026 20:56",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUpHRGFjVG1XbUhXZE5xVk5HMmVGOTJ5MFk2M0hOcHpTVVhhcHc2UjVTaGJubU90TTZBS2plbTVTVmZxZjVqSmpFZkNvNnRtT0JmME1Ra2djUHo2aGpKZ0xfM1ItOVFfQ3FmYm1tUlJ0Zk1Ia1pGTUNtZUE0aGRjQ2NVako4Wm9DYXdpZGRPcldOcDBuRHc?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
   }
 ]
