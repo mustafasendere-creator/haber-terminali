@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_338f8617",
+    "title": "Duvara sıkışan kediyi itfaiye kurtardı",
+    "source": "OdaTV",
+    "time": "26/06/2026 02:56",
+    "link": "https://www.odatv.com/guncel/duvara-sikisan-kediyi-itfaiye-kurtardi-120152365",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Yatağan ilçesinde taş duvar arasına sıkışan kedi, itfaiye ekipleri tarafından kurtarıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/26/duvara-sikisan-kediyi-itfaiye-kurtardi-mdri.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_d521e00f",
+    "title": "2026 Dünya Kupası E Grubu maçı: Fildişi Sahili, Curaçao'yu 2-0 yenerek üst tura çıktı",
+    "source": "Evrensel",
+    "time": "26/06/2026 02:56",
+    "link": "https://www.evrensel.net/haber/5989869/2026-dunya-kupasi-e-grubu-maci-fildisi-sahili-curacaoyu-2-0-yenerek-ust-tura-cikti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası E Grubu maçında Fildişi Sahili, Curaçao’yu 2-0 mağlup etti. Fildişi Sahili 6 puanla grup aşamasını ikinci sırada tamamlayarak son 32 turuna kaldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/352696.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f6677c5c",
+    "title": "Kütahya'da işçi cinayeti: Metal fabrikasındaki patlamada yaralanan Recep Gedik hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "26/06/2026 02:55",
+    "link": "https://www.evrensel.net/haber/5989870/kutahyada-isci-cinayeti-metal-fabrikasindaki-patlamada-yaralanan-recep-gedik-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya'daki Gediz OSB'de, metal fabrikasında meydana gelen patlamada yaralanan işçi Recep Tetik, 8 gün süren tedavinin ardından hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/352697.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f208b6fd",
+    "title": "Türkiye, Dünya Kupası'nda ilk puanının peşinde",
+    "source": "BBC Türkçe",
+    "time": "26/06/2026 02:55",
+    "link": "https://www.bbc.co.uk/turkce/live/clyw4ley4l7t",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye, 2026 Dünya Kupası D Grubu'ndaki üçüncü ve son maçında ev sahibi ülkelerden ABD ile karşı karşıya geliyor. İlk iki maçında mağlup olan ve gruptan elenmesi kesinleşen Ay Yıldızlılar ilk puanını almak istiyor",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_a4c14390",
+    "title": "Trabzon'da hayvansever kadın, kanadına olta iğnesi saplanan karabatağı kurtardı - T24",
+    "source": "Google Haberler",
+    "time": "26/06/2026 02:55",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMW1SXzFJRGV3MUh5ZWFhY3AxbzNQelNNczBlLUV0Tkl2Z2U1MEVqVmpiRmVjMXVpbnhOUnNTOS1pMnVyeWd3enVuZUpsckN6eVhMU3BJanMxVVhuRWViekhadWxaYWhuajBqdlNETFZleENyaVRVRHNCdkJGOXVqd0tYdFkyc2x4dXI4T2pCeURVZE5SZUh4OUVSNGdOaW9EbzhBeldfek82Y18wbXViZg?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_e2c2de85",
     "title": "Hakan Fidan nükleer tesis gezdi",
     "source": "OdaTV",
@@ -4738,65 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_58c88fbf",
-    "title": "Trabzonspor Noah Markmann Transferi İçin Danimarka’da Takibi Sıklaştırdı - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "25/06/2026 20:56",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1NOV0RfOVJUWmtEdTBnZ0h1aU83cjRSUS1uWHJoejlaOXd1aDI2b09uNHFGdGVFbDU1UlZScmJVUjhENGVwQTdCdnh3QWRkOGFlSDFpOE5Jc3FoaHBQYW5iSlY0eGc2cklGcW5aZk82YnhPTEp0ZG5tcUlmZ210TUxoR1ZZMkZMWDh5LVp3MW8zZ0xxZmljUkJ6Vnd3MHdOTHRZ0gGoAUFVX3lxTE11cDdzLURwaHY5M2ZremU2Tl9tOTZaV0NIYWFBT2pSX1JVcjU1Nnl1blBfQlVmNmdDLWtYSjktbThQRExHQVFOMW5OaGtYUUVzRm9LV18ydlhoN3F4ZDZpZV9iVnIzZXV3Sk9yby1JSkRFNjJUSUEtLVlydWcyWEN5NDU1ZU9CYklQMFhySUNrdW5JSWFIX1NjWXR6SmF0MUdFMFNLQ2htUQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_218c5e04",
-    "title": "Rize'deki feci kazada hayatını kaybedenler toprağa verildi - Gündem Artvin",
-    "source": "Google Haberler",
-    "time": "25/06/2026 20:55",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSTNOc0psUS1oTkl3RkhsTkh2S0VKQ2ZybVQ3TkpQcENDMVRRR0JiWnJpLVRsNy1YalV6bzZTRVVPWUpxX2dTQldjbVh5dzVvS2U5Q1VMRGV2UGhWTWVPY29rRDluVWlmMDFhUWVmQUNJakdqa1F2SUgxbW5DcFl5RnhXT094VUpORWlhUFRNTS1yMVpB0gGUAUFVX3lxTFBJM05zSmxRLWhOSXdGSGxOSHZLRUpDZnJtVDdOSlBwQ0MxVFFHQmJacmktVGw3LVhqVXpvNlNFVU9ZSnFfZ1NCV2NtWHl3NW9LZTlDVUxEZXZQaFZNZU9jb2tEOW5VaWYwMWFRZWZBQ0lqR2prUXZJSDFtbkNwWXlGeFdPT3hVSk5FaWFQVE1NLXIxWkE?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_ce3b344a",
-    "title": "Adana'da Çukobirlik'in atıl durumdaki hasarlı 16 katlı binası kontrollü yıkıldı",
-    "source": "Anadolu Ajansı",
-    "time": "25/06/2026 20:55",
-    "link": "https://www.aa.com.tr/tr/gundem/adanada-cukobirlikin-atil-durumdaki-hasarli-16-katli-binasi-kontrollu-yikildi-/3978162",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adana'da, 6 Şubat 2023'teki depremler sonrası ağır hasarlı olduğu tespit edilen Çukobirlik'in atıl durumdaki 16 katlı binasının, 420 kilogram patlayıcı kullanılarak kontrollü yıkımı yapıldı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_d7a05789",
-    "title": "NATO Zirvesi öncesi operasyonda gözaltına alınan 24 tutuklama!",
-    "source": "A Haber",
-    "time": "25/06/2026 20:55",
-    "link": "https://www.ahaber.com.tr/gundem/2026/06/25/nato-zirvesi-oncesi-operasyonda-gozaltina-alinan-24-tutuklama",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara'da NATO Zirvesi öncesinde terör örgütlerine yönelik düzenlenen operasyonlarda gözaltına alınan şüphelilerden 24'ü tutuklandı. Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/30868d/1200/1200/100/0/461/361?u=https://iahbr.tmgrup.com.tr/2026/06/25/1782409160196.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_b264c91e",
-    "title": "Trabzonspor'da Batista Mendy için flaş transfer iddiası!",
-    "source": "Kuzey Ekspres",
-    "time": "25/06/2026 20:55",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28234643/trabzonsporda-batista-mendy-icin-flas-transfer-iddiasi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un Fransız orta saha oyuncusu Batista Mendy, Avrupa kulüplerinin radarına girmeye devam ediyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/06/25/large/trabzonsporda-batista-mendy-icin-flas-transfer-iddiasi.jpg",
-    "keyword": "TRABZON"
   }
 ]
