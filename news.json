@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_e271e408",
+    "title": "Son dakika... İki ülkede büyük deprem: Önce 6,9 sonra 7,5...",
+    "source": "Sözcü",
+    "time": "25/06/2026 03:56",
+    "link": "https://www.sozcu.com.tr/iki-ulkede-buyuk-deprem-once-6-9-sonra-7-5-p330921",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son dakika... İki ülkede büyük deprem: Önce 6,9 sonra 7,5...",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/depremshutterstock415473103uzunjpg-Y0CEYMRigk6Jw1u7fL-5JA.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_65727396",
+    "title": "Venezuela'da 7,1 büyüklüğünde deprem",
+    "source": "TRT Haber",
+    "time": "25/06/2026 03:56",
+    "link": "https://www.trthaber.com/haber/dunya/venezuelada-71-buyuklugunde-deprem-949250.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güney Amerika ülkesi Venezuela'nın iç kesimlerinde 7,1 büyüklüğünde deprem meydana geldiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_a41efa15",
+    "title": "Brezilya, C Grubu'nda 7 puanla lider olarak son 32 turuna kaldı",
+    "source": "Anadolu Ajansı",
+    "time": "25/06/2026 03:55",
+    "link": "https://www.aa.com.tr/tr/spor/brezilya-c-grubunda-7-puanla-lider-olarak-son-32-turuna-kaldi/3977244",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası C Grubu son maçlarında Brezilya, İskoçya'yı 3-0 mağlup etti ve grup lideri olarak son 32 turuna kaldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_d916d2e4",
+    "title": "Fas, C Grubu'nu ikinci sırada tamamlayarak son 32 turuna kaldı",
+    "source": "Anadolu Ajansı",
+    "time": "25/06/2026 03:55",
+    "link": "https://www.aa.com.tr/tr/spor/fas-c-grubunu-ikinci-sirada-tamamlayarak-son-32-turuna-kaldi/3977245",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası C Grubu son maçında Fas, Haiti'yi 4-2 mağlup ederek 7 puanla 2. sırada son 32 turuna kaldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_64341d44",
+    "title": "241. İntihar Girişimi Yüksekova'da Yaşandı: 'İntiharkolik' İsimli Kişi İkna Edildi - Ege Alternatif",
+    "source": "Google Haberler",
+    "time": "25/06/2026 03:55",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUl9hT3hZZWNrUFVEZVhxZ0RCeE9OdGhtWXVwQVR5MkQyalhOOEVlUE85WW91VWRXYXZQaG9YQkFJUG1zQVRWUkhQUm1TZS1wYkEtUkFuOEdnWVNwMkxzZENGSnNtNVloMWZUV0VvaUtRQkN6Y2I1OHJacWZ5X2dfdWN0SkVGa2FGNWJfalFTMUFjdV9wSlZqTHFtMk1VS2FhNHoyRmVlNHBqaDZQOC1SOV9BeDN4TS1OMU5RTA?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "GND_eede5709",
     "title": "Iğdır'da Tasua Gecesi'nde Kerbela şehitleri anıldı",
     "source": "OdaTV",
@@ -4738,65 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_1efa9383",
-    "title": "Trabzonspor’da Kaio Cesar Transferi İçin Kritik Süreç Başladı - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "24/06/2026 20:55",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2ItUl9kQWNfazAwYlQ1SWF6YUhQTmcwTVJucDRMNHN5US01S1l0VjlYOUQ5cHFFbnNQeWc0blZ6WlhBVFZSdHh6bnZwQi00MWR3THVKNGNTWk5wMU50NmFfb1c2cEZHTThpdlEtLVVVUWYxSzNLdmtRdjRjZ3RHWlJyWmVpWG1OTjRxdVIwOUVWMVFk0gGaAUFVX3lxTE50OU1WUy0yZko4aXJvQ0VLT0dVdmxWQmlQdEdheXV0VG1OdFBGT25HY1FlNV9oallDcUtVZkdybFRQWnAyaVNvWnhWWnFiNGt4ZWVBLUtaeUV3Tm5JQnJxZkMzMEFYUmRxanlsS2pTR2dXU2pFdGxaVXVFY2V5b1BsdmE1bGplbXlVbEFFUi1xMWpUQVhSQXotRnc?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "YRL_3bc3bbde",
-    "title": "Karadeniz Sahil Yolu'nda feci kaza! Sürücü kaçtı, genç kadın hayatını kaybetti",
-    "source": "Kuzey Ekspres",
-    "time": "24/06/2026 20:55",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28228650/karadeniz-sahil-yolunda-feci-kaza-surucu-kacti-genc-kadin-hayatini-kaybetti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rize'de yolun karşısına geçmeye çalışan 33 yaşındaki Demet Yıldız, kamyonetin çarpması sonucu yaşamını yitirdi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/06/24/large/rizede-yolun-karsisina-gecmeye-calisan-33-yasindaki-demet-yildiz-kamyonetin-carpmasi-sonucu-yasamini-yitirdi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_3c407dc3",
-    "title": "Trabzonspor’da Kaio Cesar Transferi İçin Kritik Süreç Başladı",
-    "source": "Taka Gazetesi",
-    "time": "24/06/2026 20:55",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-kaio-cesar-transferi-icin-kritik-surec-basladi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’da transfer çalışmaları hız kesmeden devam ederken sağ kanat hattı için yeni bir isim gündeme geldi. Viktor Tsygankov ve Edon Zhegrova’dan beklediği olumlu dönüşleri alamayan Bordo-Mavili ekip, alternatif listesini genişletti. Fırtına’nın bu kez rotasını Brezilya bağlantılı bir transfere çevirdiği ve Corinthians’ta kiralık olarak forma giyen Kaio Cesar’ı takip ettiği öğrenildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/whatsapp-image-2026-06-24-at-151407.jpeg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_5a95d40c",
-    "title": "Altyapı ve scout ekibinde değişim bekleniyor",
-    "source": "61 Saat",
-    "time": "24/06/2026 20:55",
-    "link": "https://61saat.com/altyapi-ve-scout-ekibinde-degisim-bekleniyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Kulüp içi gelişmelere de değinen 61 saat Spor Müdürü Hasan Tüncel, Trabzonspor’da altyapı ile ilgili ciddi bir değişim yaşanacağını daha önce ekranlarda ifade ettiklerini hatırlattı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/06/e-r-e-n-5.png",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_3c407dc3",
-    "title": "Trabzonspor’da Kaio Cesar Transferi İçin Kritik Süreç Başladı",
-    "source": "Taka Gazetesi",
-    "time": "24/06/2026 20:55",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-kaio-cesar-transferi-icin-kritik-surec-basladi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’da transfer çalışmaları hız kesmeden devam ederken sağ kanat hattı için yeni bir isim gündeme geldi. Viktor Tsygankov ve Edon Zhegrova’dan beklediği olumlu dönüşleri alamayan Bordo-Mavili ekip, alternatif listesini genişletti. Fırtına’nın bu kez rotasını Brezilya bağlantılı bir transfere çevirdiği ve Corinthians’ta kiralık olarak forma giyen Kaio Cesar’ı takip ettiği öğrenildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/whatsapp-image-2026-06-24-at-151407.jpeg",
-    "keyword": "TRABZON"
   }
 ]
