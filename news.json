@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_34c44b4b",
+    "title": "İsrail askerleri Suriye'nin Dera kırsalındaki bir köye girdi",
+    "source": "Evrensel",
+    "time": "27/06/2026 02:36",
+    "link": "https://www.evrensel.net/haber/5990016/israil-askerleri-suriyenin-dera-kirsalindaki-bir-koye-girdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail askerlerinin, Suriye'nin güneyindeki Dera ili kırsalındaki Cemle köyüne girerek sivil yerleşim alanlarında konuşlandığı bildirildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/352848.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1ec3a69c",
+    "title": "Ankara'da NATO Zirvesi operasyonu: 178 kişi tutuklandı",
+    "source": "BirGün",
+    "time": "27/06/2026 02:36",
+    "link": "https://www.birgun.net/haber/ankara-da-nato-zirvesi-operasyonu-178-kisi-tutuklandi-720749",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NATO Zirvesi öncesi gözaltına alınan ve bugün adliyeye sevk edilen 90 kişiden 55'i tutuklandı, 6 kişi hakkında ev hapsi kararı verildi. Ankara Cumhuriyet Başsavcılığı, toplam tutuklu sayısının 178 olduğunu açıkladı.",
+    "image": "https://static.birgun.net/resim/haber/2026/06/26/nato-zirvesi-oncesi-gozaltina-alinan-49-kisi-daha-adliyeye-sevk-edildi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_76244a8c",
+    "title": "Başkan Erdoğan Sapanca’da: AK Parti kampı bugün 10.30’da başlıyor",
+    "source": "A Haber",
+    "time": "27/06/2026 02:35",
+    "link": "https://www.ahaber.com.tr/gundem/2026/06/27/baskan-erdogan-sapancada-ak-parti-kampi-bugun-1030da-basliyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AK Parti 33. İstişare ve Değerlendirme Toplantısı, Başkan Erdoğan’ın 10.30’daki açılış konuşmasıyla başlayacak. Başkan Erdoğan, yoğun güvenlik önlemleri ve vatandaşların sevgi gösterileri eşliğinde... Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/b8a164/1200/1200/129/0/804/675?u=https://iahbr.tmgrup.com.tr/2026/06/26/1782494389175.jpeg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_eebda34a",
+    "title": "🗣️ Trabzon,  Karadeniz Sahilleri. Yemek Masamdan Sahil. Deniz Sahilinde Gezinti.",
+    "source": "YouTube",
+    "time": "27/06/2026 02:35",
+    "link": "https://www.youtube.com/watch?v=7xMtawjAcMQ",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 7xMtawjAcMQ)",
+    "image": "https://img.youtube.com/vi/7xMtawjAcMQ/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_3c454141",
     "title": "Rapçi Serhado gözaltına alındı",
     "source": "OdaTV",
@@ -4750,53 +4798,5 @@
     "summary": "Trabzonspor, yeni sezon öncesi Metehan Mimaroğlu transferini resmileştirdi. Bordo-mavililer, 31 yaşındaki futbolcuyla 1 yıllık anlaşmayı Türkiye Futbol Federasyonu'na bildirdi.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/26/large/trabzonspor-yeni-transferini-tffde-duyurdu.jpg",
     "keyword": ""
-  },
-  {
-    "id": "YRL_dec1b026",
-    "title": "Trabzon’da müzik ve halk dansları aynı sahnede buluştu!",
-    "source": "61 Saat",
-    "time": "26/06/2026 20:15",
-    "link": "https://61saat.com/trabzonda-muzik-ve-halk-danslari-ayni-sahnede-bulustu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon İl Milli Eğitim Müdürlüğü tarafından düzenlenen programda, Trabzon Maarif Orkestrası’nın Senfonik Türküler Konseri ile Halk Dansları Topluluğu’nun yıl sonu gösterisi sanatseverlerle buluştu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/06/whatsapp-image-2026-06-26-at-195452.jpeg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_4ac7bd69",
-    "title": "KTÜ’de, Üretken Yapay Zekâ ile Yenilikçi Öğretim Eğitimi Düzenlendi",
-    "source": "61 Saat",
-    "time": "26/06/2026 20:15",
-    "link": "https://61saat.com/ktude-uretken-yapay-zeka-ile-yenilikci-ogretim-egitimi-duzenlendi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Karadeniz Teknik Üniversitesi (KTÜ) Öğretme ve Öğrenme Merkezi (Ö-MER) tarafından 24-26 Haziran 2026 tarihleri arasında düzenlenen ve TÜBİTAK 2237-A Bilimsel Eğitim Etkinliklerini Destekleme Programı kapsamında, yüz yüze desteklenen “Mühendislik Eğitiminde Üretken Yapay Zekâ Destekli Yenilikçi Öğretim Tasarımı Eğitimi” başlıklı program sona erdi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/06/e4650893-7ab3-42aa-be27-e4b309903067.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_b2ae7139",
-    "title": "Trabzon yolundaki kaza sonrası emekli öğretmen hayatını kaybetmişti! Sanığa 11 yıl hapis",
-    "source": "Haber61",
-    "time": "26/06/2026 20:15",
-    "link": "https://www.haber61.net/giresun/trabzon-yolundaki-kaza-sonrasi-emekli-ogretmen-hayatini-kaybetmisti-saniga-h636442.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Giresun'da hasarlı trafik kazasının ardından çıkan kavgada emekli öğretmen Abdullah Coşkun'un yaşamını yitirmesine ilişkin davada karar açıklandı. Mahkeme, sanığı 11 yıl hapis cezasına çarptırdı.",
-    "image": "https://resim.haber61.net/news/624788.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_58bc6d01",
-    "title": "🗣️ @anonturk.bsky.social",
-    "source": "Bluesky",
-    "time": "26/06/2026 20:15",
-    "link": "https://bsky.app/profile/anonturk.bsky.social/post/3mp7gxyvyc72f",
-    "type": "SOC",
-    "prefix": "🔵 🦋",
-    "summary": "🇹🇷 İçişleri Bakanlığı Ordu ve Trabzon'da kuvvetli yağış ve fırtına uyarısı yaptı\n\n#Türkiye #Haber #Gündem #Ordu #Trabzon #Yağış #Sözcü",
-    "image": null,
-    "keyword": "TRABZON"
   }
 ]
