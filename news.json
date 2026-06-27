@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_8b936183",
+    "title": "Ürdün maçı öncesi... Scaloni, Messi kararını açıkladı",
+    "source": "Cumhuriyet",
+    "time": "27/06/2026 03:36",
+    "link": "https://www.cumhuriyet.com.tr/dunya-kupasi/urdun-maci-oncesi-scaloni-messi-kararini-acikladi-2515824",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Arjantin Teknik Direktörü Lionel Scaloni, 28 Haziran Pazar günü TSİ 05.00'te oynanacak Ürdün maçında Lionel Messi'nin yedek kulübesinde başlayacağını açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/5115fc7f-6fce-436a-a877-74517fb6a133.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b5c5b7e5",
+    "title": "Hürmüz Boğazı'nda sıcak saatler: ABD'nin hava saldırısına İran misilleme yaptı",
+    "source": "Evrensel",
+    "time": "27/06/2026 03:35",
+    "link": "https://www.evrensel.net/haber/5990020/hurmuz-bogazi-nda-sicak-saatler-abd-nin-hava-saldirisina-iran-misilleme-yapti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ordusu, \"dün Hürmüz Boğazı'ndan geçen ticari gemiye düzenlenen saldırıya yanıt\" gerekçiseyle İran'a hava saldırıları düzenlediğini duyurdu. İran saldırıya karşılık, ABD ordusunun bölgedeki konuşlanma noktalarını vurduğunu açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/352852.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_032a3dbb",
+    "title": "Venezuela Geçici Devlet Başkanı Rodriguez, ABD Başkanı Trump ile telefonda görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "27/06/2026 03:35",
+    "link": "https://www.aa.com.tr/tr/dunya/venezuela-gecici-devlet-baskani-rodriguez-abd-baskani-trump-ile-telefonda-gorustu/3979447",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Venezuela Geçici Devlet Başkanı Delcy Rodriguez, ABD Başkanı Donald Trump ve ABD Dışişleri Bakanı Marco Rubio ile telefon görüşmesi gerçekleştirdiğini bildirdi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_06e2f0d2",
     "title": "Dilovası işçi katliamı davasında bilirkişi raporu: Belediye kaçak yapıya göz yummuş, yangın raporu alamamasına rağmen ruhsat vermiş",
     "source": "Evrensel",
@@ -4762,41 +4798,5 @@
     "summary": "Eğitim Sen'in yayımladığı yıl sonu raporuna göre, okullar tarikatların laboratuvarı haline getirilirken, bütçe patronlara ve dini kurumlara aktarıldı. Emekçi çocukları ise açlığa ve güvencesizliğe mahkûm edildi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/352830.jpg",
     "keyword": ""
-  },
-  {
-    "id": "GND_be0889bb",
-    "title": "Kolombiya seçimlerinde zafer aşırı-sağın: Ülkeyi ve bölgeyi neler bekliyor? | Patria Grande - Latin Amerika Gündemi",
-    "source": "Evrensel",
-    "time": "26/06/2026 20:16",
-    "link": "https://www.evrensel.net/haber/5989991/kolombiya-secimlerinde-zafer-asiri-sagin-ulkeyi-ve-bolgeyi-neler-bekliyor-patria-grande-latin-amerika-gundemi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kolombiya seçimlerinde zafer aşırı-sağcı aday Abelardo de la Espriella’nın oldu. Ülkeyi ve bölgeyi nasıl bir gelecek bekliyor? Ertan Erol ve Kavel Alparslan, Patria Grande’de konuşuyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/352822.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_d874c775",
-    "title": "Kalkışım: \"turizmde Daha Güçlü Bir Trabzon Mümkün\" - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "26/06/2026 20:16",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXljQ0JTM0hlYlpyX3N1OFlMZFV2b1V4SlQtd2xUZlduX2xqS0Z5WWxrRUw4VUVDd2RBVzgxdElsWGo3Y080aWdDU1N4Z3duRTB0blVXTm5lWFVjZFdRa05nQ2VKLVEyOEFvcHpLZXd2dk9qWFQ3V1dXMVpBMTBrUGo1WHFTaHhR0gGIAUFVX3lxTE55eWNDQlMzSGViWnJfc3U4WUxkVXZvVXhKVC13bFRmV25fbGpLRnlZbGtFTDhVRUN3ZEFXODF0SWxYajdjTzRpZ0NTU3hnd25FMHRuVVdObmVYVWNkV1FrTmdDZUotUTI4QW9wektld3Z2T2pYVDdXV1cxWkExMGtQajVYcVNoeFE?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_925908d2",
-    "title": "Trabzonspor'da Ertuğrul Doğan Konuşuyor: Transferde Kimler Var? - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "26/06/2026 20:16",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGpPaUtXWnE5M0hRVHptcm1vN0syaTZuT3ozRTFnN29iN09OaWFEREZvWU52TFVWZ0pQRDhuanhYd2RmM0dpaDFaU2VPd2ZDem8wLWFqSjVRWjBnN08yQTE1TlNhZGRUcmZQMTdNZVdENlhMUVRlM1FKVjh1NDlnVGtsSkZMTTlmUHBpWWpvM0lwMjdXT0dFZHJ30gGaAUFVX3lxTE80ak9pS1dacTkzSFFUem1ybW83SzJpNm5PejNFMWc3b2I3T05pYURERm9ZTnZMVVZnSlBEOG5qeFh3ZGYzR2loMVpTZU93ZkN6bzAtYWpKNVFaMGc3TzJBMTVOU2FkZFRyZlAxN01lV0Q2WExRVGUzUUpWOHU0OWdUa2xKRkxNOWZQcGlZam8zSXAyN1dPR0Vkcnc?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
   }
 ]
