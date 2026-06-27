@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_a282f84d",
+    "title": "Tekirdağ'da tarım arazisi yangını büyüdü",
+    "source": "OdaTV",
+    "time": "28/06/2026 02:56",
+    "link": "https://www.odatv.com/guncel/tekirdagda-tarim-arazisi-yangini-buyudu-120152596",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tekirdağ'ın Marmaraereğlisi ilçesinde dört farklı noktaya yayılan tarım arazisi yangını, şiddetli rüzgarın etkisiyle geniş alana sıçradı. Çok sayıda ekip ile TOMA'ların da destek verdiği söndürme çalışmaları sürerken, alevler yerleşim yerlerine ulaşmadan söndürüldü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/27/tekirdagda-tarim-arazisi-yangini-buyudu-yerlesim-yerlerini-tehdit-ediyor-v20t.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6d867e3b",
+    "title": "T.C. KÜÇÜKÇEKMECE 6. AİLE MAHKEMESİ",
+    "source": "Cumhuriyet",
+    "time": "28/06/2026 02:56",
+    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kucukcekmece-6-aile-mahkemesi-2516063",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "T.C. KÜÇÜKÇEKMECE 6. AİLE MAHKEMESİ",
+    "image": "https://media.cumhuriyet.com.tr/Archive/90632456-01ee-4b17-8a4e-5707709d1cda.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1ecb896e",
+    "title": "T.C.İSTANBUL ANADOLU 5. İCRA DAİRESİ MÜDÜRLÜĞÜ",
+    "source": "Cumhuriyet",
+    "time": "28/06/2026 02:56",
+    "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-istanbul-anadolu-5-icra-dairesi-mudurlugu-2516062",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "T.C.İSTANBUL ANADOLU 5. İCRA DAİRESİ MÜDÜRLÜĞÜ",
+    "image": "https://media.cumhuriyet.com.tr/Archive/a6e24b98-2edf-4d4f-a72f-aa4431966ad0.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_3660f980",
+    "title": "İran basını: Ülkenin güneyindeki Sirik kentinde patlama sesleri duyuldu",
+    "source": "Haber Global",
+    "time": "28/06/2026 02:56",
+    "link": "https://haberglobal.com/dunya/iran-basini-ulkenin-guneyindeki-sirik-kentinde-patlama-sesleri-duyuldu-531918",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran devlet televizyonu, ülkenin güneyindeki Sirik kentinde patlama sesleri duyulduğunu bildirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/06/28/iran-basini-ulkenin-guneyindeki-sirik-kentinde-patlama-sesleri-duyuldu-aa1e.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_a2c56755",
     "title": "T.C. ANKARA BATI SULH HUKUK MAHKEMESİ",
     "source": "Cumhuriyet",
@@ -4749,54 +4797,6 @@
     "prefix": "🔔",
     "summary": "AK Parti Sözcüsü Ömer Çelik Terörsüz Bölge hedefine ulaşmak için bu adımları atmaya devam ediyoruz. Şimdiye kadar pek çok adım atıldı ama gelinen aşama artık yeni bir aşamadır\" dedi.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/27/omer-celik-terorsuz-turkiyede-yeni-bir-asamadayiz-yjid_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_8366aeb9",
-    "title": "Kadir İnanır'ın vasiyeti sorusuna yeğeninden yanıt geldi",
-    "source": "Ekonomim",
-    "time": "27/06/2026 19:37",
-    "link": "https://www.ekonomim.com/gundem/kadir-inanirin-vasiyeti-sorusuna-yegeninden-yanit-geldi-haberi-902668",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kadir İnanır'ın Türkiye'yi yasa boğan ölümünün ardından çocuğu olmaması nedeni ile en çok merak edilen konulardan biri vasiyeti oldu. Yeğeni Levent İnanır, usta isim Kadir İnanır'ın vasiyeti ile ilgili söylentilere açıklık getirdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/26/kadir-inanirin-cenaze-programi-belli-oldu-beku_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_000998f8",
-    "title": "Tuşba'da 3.1 büyüklüğünde deprem",
-    "source": "Ekonomim",
-    "time": "27/06/2026 19:37",
-    "link": "https://www.ekonomim.com/gundem/tusbada-31-buyuklugunde-deprem-haberi-902669",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Van'ın Tuşba ilçesinde saat 17.57'de 3.1 büyüklüğünde bir deprem meydana geldi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/06/27/tusbada-31-buyuklugunde-deprem-h2vj_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_bac11833",
-    "title": "ABD'nin kredi notu teyit edildi",
-    "source": "Cumhuriyet",
-    "time": "27/06/2026 19:36",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-nin-kredi-notu-teyit-edildi-2515911",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Standard and Poor's, ABD'nin kredi notunu \"AA+\" ve kısa vadeli kredi notunu \"A-1+\" olarak teyit etti. Not görünümü ise \"durağan\" olarak kaydedildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/9e2894eb-28bf-447f-b155-1e958c440c9a.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c5709f6e",
-    "title": "Çin, ilk çeyrekte 180 milyar doların üzerinde cari fazla verdi",
-    "source": "Cumhuriyet",
-    "time": "27/06/2026 19:36",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/cin-ilk-ceyrekte-180-milyar-dolarin-uzerinde-cari-fazla-verdi-2515913",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çin'de cari işlemler dengesinin, bu yılın ilk çeyreğinde 184,3 milyar dolar fazla verdiği bildirildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/36d074b6-804c-4ce8-87da-f84d58fb46d9.jpg",
     "keyword": ""
   }
 ]
