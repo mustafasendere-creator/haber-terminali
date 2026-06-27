@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_06e2f0d2",
+    "title": "Dilovası işçi katliamı davasında bilirkişi raporu: Belediye kaçak yapıya göz yummuş, yangın raporu alamamasına rağmen ruhsat vermiş",
+    "source": "Evrensel",
+    "time": "27/06/2026 03:15",
+    "link": "https://www.evrensel.net/haber/5990021/dilovasi-isci-katliami-davasinda-bilirkisi-raporu-belediye-kacak-yapiya-goz-yummus-yangin-raporu-alamamasina-ragmen-ruhsat-vermis",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli'de 7 işçinin hayatını kaybettiği Dilovası işçi katliamına ilişkin bilirkişi raporunda fabrikanın kaçak yapı olduğu açılışından itibaren belediyenin bilgisi dahilinde olduğu, itfaiye raporu alınamamasına rağmen ruhsat verildiği belirtildi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/352853.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_63236381",
+    "title": "Çin, 2026'nın ilk çeyreğinde 184,3 milyar dolar cari fazla verdi",
+    "source": "Anadolu Ajansı",
+    "time": "27/06/2026 03:15",
+    "link": "https://www.aa.com.tr/tr/ekonomi/cin-2026nin-ilk-ceyreginde-184-3-milyar-dolar-cari-fazla-verdi/3979444",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin'de cari işlemler dengesinin, bu yılın ilk çeyreğinde 184,3 milyar dolar fazla verdiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_ee7eed0f",
     "title": "Film sahnelerini aratmayan kovalamaca polis kamerasında - Bursa Saati Gazetesi",
     "source": "Google Haberler",
@@ -4774,29 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_c4108ce6",
-    "title": "NATO Zirvesi İçin Ankara'da Üst Düzey Güvenlik - HaberTS",
-    "source": "Google Haberler",
-    "time": "26/06/2026 20:15",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FbkdKODVVUzNQRnp4ME54R29SUnA2Nk1FVzlTUXdWRTlqMkhZVHVwQ1p2cXN2eEVQcUlHQVRVUGFOMGRTZXpDRjA1Z2M1OFlBcHBYenczYW1QMEpkNk1oVFZRdXJBcW9NWHlWY2V2Wk5ZT1FBVzJkRlJFSjcxUdIBfkFVX3lxTE9FbkdKODVVUzNQRnp4ME54R29SUnA2Nk1FVzlTUXdWRTlqMkhZVHVwQ1p2cXN2eEVQcUlHQVRVUGFOMGRTZXpDRjA1Z2M1OFlBcHBYenczYW1QMEpkNk1oVFZRdXJBcW9NWHlWY2V2Wk5ZT1FBVzJkRlJFSjcxUQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_acfab34a",
-    "title": "Türk sinemasının unutulmaz oyuncusu Kadir İnanır",
-    "source": "Anadolu Ajansı",
-    "time": "26/06/2026 20:15",
-    "link": "https://www.aa.com.tr/tr/kultur/turk-sinemasinin-unutulmaz-oyuncusu-kadir-inanir/3979157",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk sinemasında canlandırdığı karakterlerle hafızalara kazınan usta oyuncu Kadir İnanır, yaklaşık yarım asrı aşan kariyerinde Yeşilçam'ın unutulmaz isimleri arasında yer aldı.",
-    "image": null,
-    "keyword": ""
   }
 ]
