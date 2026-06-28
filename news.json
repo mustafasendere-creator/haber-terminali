@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_9e6086e9",
+    "title": "Cami cemaatine bıçaklı saldırı: 2 ölü",
+    "source": "OdaTV",
+    "time": "28/06/2026 03:36",
+    "link": "https://www.odatv.com/guncel/cami-cemaatine-bicakli-saldiri-2-olu-120152611",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'nin Kocasinan ilçesinde psikolojik sorunları olduğu iddia edilen bir kişi, yatsı namazı öncesinde cami cemaatine bıçakla saldırdı. Olayda 2 kişi yaşamını yitirirken, şüpheli jandarma ekiplerince yakalanarak gözaltına alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/28/cami-cemaatine-bicakli-saldiri-2-olu-5hfe.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b00b51fd",
+    "title": "Hırvatistan, Gana'yı 2-1 mağlup etti",
+    "source": "Anadolu Ajansı",
+    "time": "28/06/2026 03:35",
+    "link": "https://www.aa.com.tr/tr/spor/hirvatistan-ganayi-2-1-maglup-etti/3980147",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası L Grubu'nda Hırvatistan, Gana'yı 2-1 yenerken, iki takım da son 32 turuna yükseldi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_fc7bc8f3",
     "title": "Hürmüz Boğazı'nda gerilim tırmanıyor: ABD'den İran'a yeni saldırı",
     "source": "OdaTV",
@@ -4774,29 +4798,5 @@
     "summary": "Türkiye İhracatçılar Meclisi (TİM) Olağan Genel Kurulu’nda güven tazeleyen Trabzonlu Mustafa Gültepe, yeniden başkanlık koltuğuna oturdu.",
     "image": "https://resim.haber61.net/news/624945.jpg",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_0adbb8a1",
-    "title": "🗣️ @hbr-1.bsky.social",
-    "source": "Bluesky",
-    "time": "27/06/2026 19:55",
-    "link": "https://bsky.app/profile/hbr-1.bsky.social/post/3mpbvxjiaas2t",
-    "type": "SOC",
-    "prefix": "🔵 🦋",
-    "summary": "⚠ İçişleri Bakanlığı: Yarın Ordu, Giresun, Trabzon ve Rize'de şiddetli yağış ve fırtına beklentisi... #﻿\n\n🔗 www.sozcu.com.tr/icisleri-bak...",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_312dfd3b",
-    "title": "Erdoğan 'normalleşme' dedi: Kılıçdaroğlu cephesine sorduk",
-    "source": "OdaTV",
-    "time": "27/06/2026 19:37",
-    "link": "https://www.odatv.com/ozel/erdogan-normallesme-dedi-kilicdaroglu-cephesine-sorduk-120152594",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bugün yaptığı konuşmada \"normalleşme\" mesajı veren Cumhurbaşkanı Erdoğan, ortak noktalarını büyütmeye hazır olduğunu söyledi. Erdoğan, konuşmasında CHP'ye ise özellikle vurgu yaptı. \"Mutlak butlan\" kararıyla CHP sözcülüğüne atanan Müslim Sarı'ya partisinin değerlendirmesini sorduk.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/27/erdogan-normallesme-dedi-kilicdaroglu-cephesine-sorduk-qvum.jpg",
-    "keyword": ""
   }
 ]
