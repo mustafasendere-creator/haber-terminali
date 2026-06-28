@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_ddb05cc5",
+    "title": "O güzel atlara binip gittiler",
+    "source": "Cumhuriyet",
+    "time": "28/06/2026 05:36",
+    "link": "https://www.cumhuriyet.com.tr/pazar-yazilari/o-guzel-atlara-binip-gittiler-2516043",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kanada’nın resmi sloganı “Bir denizden öteki denize”dir...",
+    "image": "https://media.cumhuriyet.com.tr/cumhuriyet-noimage.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_74f57ab0",
+    "title": "Kolombiya, Portekiz ile golsüz berabere kaldı",
+    "source": "Anadolu Ajansı",
+    "time": "28/06/2026 05:35",
+    "link": "https://www.aa.com.tr/tr/spor/kolombiya-portekiz-ile-golsuz-berabere-kaldi/3980160",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası K Grubu son maçında, Portekiz ile Kolombiya 0-0 berabere kaldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "YRL_e1f3eb69",
+    "title": "Altın Post Gerçekten Giresun Adası’nda mı Saklı?",
+    "source": "Günebakış",
+    "time": "28/06/2026 05:35",
+    "link": "https://www.gunebakis.com.tr/altin-post-gercekten-giresun-adasinda-mi-sakli/28246120",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Amazon kraliçelerinin tapınak inşa ettiği, Argonotların Altın Post’un peşine düşüp lanetle ayrıldığı Giresun Adası, bugün hala mitoloji ile gerçeğin sınırında gezinen binlerce yıllık sırlarını saklıyor.",
+    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/28/large/giresun-adasi-altin-post-kapak-2.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_9836ffcb",
     "title": "‘İyimserler’in gücü",
     "source": "Cumhuriyet",
@@ -4761,42 +4797,6 @@
     "prefix": "🌊",
     "summary": "Kulüpler Birliği Vakfı’nın yeni sezon öncesi gerçekleştirdiği toplantı, yabancı oyuncu kuralı gündemiyle başlamasına rağmen kısa sürede farklı bir tartışmanın merkezine dönüştü. Trabzonspor Başkanı Ertuğrul Doğan’ın başkanlık ettiği toplantıda, kulüplerin yeni sezona dair beklentileri, rekabet dengesi ve federasyon kararları masaya yatırıldı.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/chatgpt-image-27-haz-2026-12-49-59.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0b9cf6d5",
-    "title": "Silivri'de devrilen yolcu minibüsündeki 2 kişi yaşamını yitirdi, 10 kişi yaralandı",
-    "source": "Anadolu Ajansı",
-    "time": "27/06/2026 20:35",
-    "link": "https://www.aa.com.tr/tr/gundem/silivride-devrilen-yolcu-minibusundeki-2-kisi-yasamini-yitirdi-10-kisi-yaralandi/3979998",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Silivri'de yol kenarındaki otluk alana devrilen yolcu minibüsündeki 2 kişi yaşamını yitirdi, 10 kişi yaralandı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_2865c295",
-    "title": "ANADER 10. yılında yeni dönem vizyonunu açıkladı",
-    "source": "Günebakış",
-    "time": "27/06/2026 20:35",
-    "link": "https://www.gunebakis.com.tr/anader-10-yilinda-yeni-donem-vizyonunu-acikladi/28245361",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "ANADER 10. Yılında Trabzon basını ile bir araya gelerek basın açıklamasında bulundu",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/06/27/large/anader-10-yilinda-yeni-donem-vizyonunu-acikladi2.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_897f9427",
-    "title": "Babadan kalan borç kavgasında silah çekildi: 21 yaşındaki genç ağır yaralandı",
-    "source": "Haber61",
-    "time": "27/06/2026 20:35",
-    "link": "https://www.haber61.net/giresun/babadan-kalan-borc-kavgasinda-silah-cekildi-21-yasindaki-genc-agir-h636531.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Giresun'un Eynesil ilçesine bağlı Ören beldesinde, babasından kalan borcun istenmesi üzerine çıkan tartışmada silahlar konuştu; 21 yaşındaki genç ağır yaralandı.",
-    "image": "https://resim.haber61.net/news/624949.jpg",
     "keyword": ""
   }
 ]
