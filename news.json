@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_4de3ad13",
+    "title": "Panelvanın feci kazasında 1 ölü var",
+    "source": "OdaTV",
+    "time": "29/06/2026 03:16",
+    "link": "https://www.odatv.com/guncel/panelvanin-feci-kazasinda-1-olu-var-120152702",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kocaeli'nin Kartepe ilçesinde panelvanın yön tabelasına çarptığı kazada 1 kişi hayatını kaybetti, 1’i çocuk 2 kişi yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/29/panelvanin-feci-kazasinda-1-olu-var-vtfg.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a29c358e",
+    "title": "İsrail ordusunun, anlaşmaya rağmen Lübnan'ın güneyindeki 2 pilot bölgeden çekilmediği öne sürüldü",
+    "source": "Anadolu Ajansı",
+    "time": "29/06/2026 03:15",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-anlasmaya-ragmen-lubnanin-guneyindeki-2-pilot-bolgeden-cekilmedigi-one-suruldu/3980700",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun, Lübnan ile ABD arabuluculuğunda varılan çerçeve anlaşma kapsamında çekilmesi gereken iki pilot bölgeden \"hazırlıkların tamamlanmamasını\" gerekçe göstererek çekilmediği iddia edildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_c79b37da",
     "title": "Zorla aracına bindiği kadının parası ve kolyesini gasp etti",
     "source": "OdaTV",
@@ -4772,30 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Türk sinemasının usta ismi Kadir İnanır'ın cenazesi, Barbaros Hayreddin Paşa Camisi'nde kılınan namazın ardından Ulus Mezarlığı'nda toprağa verildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_62f7a2e8",
-    "title": "Kadir İnanır’ın cenazesinde Kılıçdaroğlu gerginliği",
-    "source": "Evrensel",
-    "time": "28/06/2026 19:16",
-    "link": "https://www.evrensel.net/haber/5990210/kadir-inanirin-cenazesinde-kilicdaroglu-gerginligi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk sinemasının usta ismi Kadir İnanır için düzenlenen cenaze töreninde Kemal Kılıçdaroğlu’nun saf arasından geçişi sırasında gerginlik yaşandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/353051.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ebc39c53",
-    "title": "İstanbul Onur Yürüyüşü'ne polis müdahalesi: 'En az 50 kişi gözaltında'",
-    "source": "BBC Türkçe",
-    "time": "28/06/2026 19:15",
-    "link": "https://www.bbc.com/turkce/articles/c1jyerrkl61o",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"Açık s'açık yürüyoruz\" temasıyla düzenlenen 24'üncü İstanbul Onur Yürüyüşü için 28 Haziran Pazar günü İstanbul Kadıköy'de toplanan gruplara polis müdahale etti.",
     "image": null,
     "keyword": ""
   }
