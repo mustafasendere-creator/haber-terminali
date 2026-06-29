@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_eb18da93",
+    "title": "Iğdır'da heimlich manevrası küçük çocuğu kurtardı",
+    "source": "OdaTV",
+    "time": "29/06/2026 03:36",
+    "link": "https://www.odatv.com/guncel/igdirda-heimlich-manevrasi-kucuk-cocugu-kurtardi-120152703",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Iğdır'da ailesiyle birlikte kahvaltı yapan Nehir Akçay'ın nefes borusuna yiyecek kaçtı. Nefes almakta güçlük çeken küçük çocuğu, kafenin işletmecisi Erkan Abakan'ın heimlich manevrası kurtardı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/29/igdirda-heimlich-manevrasi-kucuk-cocugu-kurtardi-bzof.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_4eabf23f",
+    "title": "🗣️ GÖK TAŞI - 44 - METEORİTE ",
+    "source": "YouTube",
+    "time": "29/06/2026 03:35",
+    "link": "https://www.youtube.com/watch?v=63JJp4exX1Y",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 63JJp4exX1Y)",
+    "image": "https://img.youtube.com/vi/63JJp4exX1Y/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_4de3ad13",
     "title": "Panelvanın feci kazasında 1 ölü var",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "İstanbul Silivri'de meydana gelen ot yangını, bir işletmenin seramik deposuna sıçradı. Yangın nedeniyle işletmede milyonlarca liralık zarar meydana geldi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/06/28/silivride-cikan-yangin-seramik-deposuna-sicradi-milyon-liralik-zarar-var-f4k4.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_6f4858ab",
-    "title": "Kadir İnanır için Harbiye Muhsin Ertuğrul Sahnesi'nde cenaze töreni düzenlendi",
-    "source": "TRT Haber",
-    "time": "28/06/2026 19:16",
-    "link": "https://www.trthaber.com/haber/kultur-sanat/kadir-inanir-icin-harbiye-muhsin-ertugrul-sahnesinde-cenaze-toreni-duzenlendi-949590.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cuma günü İstanbul'da tedavi gördüğü hastanede 77 yaşında vefat eden Türk sinemasının usta ismi Kadir İnanır için Harbiye Muhsin Ertuğrul Sahnesi'nde cenaze töreni düzenlendi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_d4414599",
-    "title": "Kadir İnanır son yolculuğuna uğurlandı",
-    "source": "TRT Haber",
-    "time": "28/06/2026 19:16",
-    "link": "https://www.trthaber.com/haber/turkiye/kadir-inanir-son-yolculuguna-ugurlandi-949605.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk sinemasının usta ismi Kadir İnanır'ın cenazesi, Barbaros Hayreddin Paşa Camisi'nde kılınan namazın ardından Ulus Mezarlığı'nda toprağa verildi.",
-    "image": null,
     "keyword": ""
   }
 ]
