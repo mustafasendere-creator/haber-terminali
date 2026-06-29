@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_b81a4b67",
+    "title": "Hayatta en büyük başarı…",
+    "source": "10Haber",
+    "time": "29/06/2026 05:55",
+    "link": "https://10haber.net/yazarlar/ayse-arman/hayatta-en-buyuk-basari-715799/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son günlerde hayatın anlamı üzerine çok düşünüyorum. Hepimize bi hayat veriliyor. Uzun ya da kısa… Kolay ya da zor… Nasıl yaşayacağımıza biz karar veriyoruz. Bir sahnedeyiz. Adı hayat. Rolümüzü oynuyoruz. Sonra bi gün o sahneden iniyoruz. Bize ayrılan süre doluyor. Ve oyundan çıkıyoruz, çıkarılıyoruz. İnsanlar da bizi uğurluyor. İşte o uğurlanış… Belki de nasıl yaşadığımızın …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/06/Ekran-Resmi-2026-06-29-05.30.30.png",
+    "keyword": ""
+  },
+  {
+    "id": "GND_628f13b6",
+    "title": "Fatih Altaylı yazdı: CHP’nin başına gelenler CHP’nin iç işi mi? Erdoğan haklı mı?",
+    "source": "10Haber",
+    "time": "29/06/2026 05:55",
+    "link": "https://10haber.net/siyaset/fatih-altayli-yazdi-chpnin-basina-gelenler-chpnin-ic-isi-mi-erdogan-hakli-mi-715802/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erdoğan haksız mı! Cumhurbaşkanı Erdoğan, kayyum meselesinin kendi meseleleri olmadığını CHP’nin iç meselesi olduğunu söylüyor, CHP içindeki kamplaşmayla dalga geçiyor, CHP’nin burada oluşan yarasına sürekli parmağını basarak ana muhalefetin canını acıtıyor. Özgür Özel ise bu durumdan iktidarı sorumlu tutan açıklamalar yapmaya devam ediyor. Açık söylemek gerekirse ben burada Cumhurbaşkanı Erdoğan’a hak veriyorum. Elbette ki, CHP’yi …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/01/chp.jpeg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_244b0158",
+    "title": "SGK'den SUT'ta kapsamlı değişiklik: İlaç, tedavi ve geri ödeme kuralları değişti",
+    "source": "BirGün",
+    "time": "29/06/2026 05:55",
+    "link": "https://www.birgun.net/haber/sgk-den-sut-ta-kapsamli-degisiklik-ilac-tedavi-ve-geri-odeme-kurallari-degisti-721073",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Resmi Gazete'de yayımlanan Sağlık Hizmetleri Fiyatlandırma Komisyonu Kararı ile Sağlık Uygulama Tebliği'nde (SUT) ilaç listeleri, geri ödeme kuralları, SMA tedavi kriterleri, tanı ve tedavi işlemleri, fizik tedavi uygulamaları ile çok sayıda tıbbi malzemenin fiyat ve kullanım esaslarında değişikliğe gidildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/06/29/sgk-den-sut-ta-kapsamli-degisiklik-ilac-tedavi-ve-geri-odeme-kurallari-degisti.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_d301fbca",
+    "title": "Yol haritası netleşti",
+    "source": "BirGün",
+    "time": "29/06/2026 05:55",
+    "link": "https://www.birgun.net/haber/yol-haritasi-netlesti-721087",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP’nin seçilmiş yönetiminin yol haritası netleşiyor. Adli tatilin başlangıcı olan 20 Temmuz’a haftalar kala yeni partinin kurulması kesin gözüyle bakıyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/06/29/yol-haritasi-netlesti.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_aed65c34",
+    "title": "“Kara kutu” açıldı: Milyarlar elde etti",
+    "source": "BirGün",
+    "time": "29/06/2026 05:55",
+    "link": "https://www.birgun.net/haber/kara-kutu-acildi-milyarlar-elde-etti-721088",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyanet Vakfı’nın 2025’te nakit bağışlardan 13,5 milyar TL topladığı açığa çıktı. Sayıştay denetimine tabi olmaması nedeniyle “Diyanet’in kara kutusu” olarak nitelendirilen vakfın toplam geliri 2025’in sonunda 20,2 milyar TL’ye fırladı.",
+    "image": "https://static.birgun.net/resim/haber/2026/06/29/kara-kutu-acildi-milyarlar-elde-etti.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e9bca0bf",
+    "title": "Seferihisar Belediyesi operasyonu: Başkan Yetişkin'in de aralarında olduğu 20 kişi adliyede",
+    "source": "BirGün",
+    "time": "29/06/2026 05:55",
+    "link": "https://www.birgun.net/haber/seferihisar-belediyesi-operasyonu-baskan-yetiskin-in-de-aralarinda-oldugu-20-kisi-adliyede-721089",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'de Seferihisar Belediyesi'ne yönelik \"rüşvet\" soruşturması kapsamında gözaltına alınan Seferihisar Belediye Başkanı İsmail Yetişkin ile 19 kişi, emniyetteki işlemlerinin ardından adliyeye sevk edildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/06/29/seferihisar-belediyesi-operasyonu-baskan-yetiskin-in-de-aralarinda-oldugu-20-kisi-adliyede.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_c9a6b312",
     "title": "İzmir Seferihisar Belediyesi'ne yönelik rüşvet soruşturması: 20 şüpheli adliyeye sevk edildi",
     "source": "Haber Global",
@@ -4725,78 +4797,6 @@
     "prefix": "🌊",
     "summary": "Tarım ve Orman Bakanlığı’nın yeni düzenlemesiyle sığırların kulak küpelerinde barkodun yanı sıra karekod kullanımı da mümkün hale geldi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/chatgpt-image-28-haz-2026-13-09-43.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_65cd277a",
-    "title": "Trabzonspor’da Ernest Muçi İçin Napoli’den Dev Teklif: 16 Milyon Euro Ve Kiralık Oyuncu İddiası",
-    "source": "Taka Gazetesi",
-    "time": "28/06/2026 20:35",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-ernest-muci-icin-napoliden-dev-teklif-16-milyon-euro-ve-kiralik-oyuncu-iddiasi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Transfer çalışmalarını sürdüren Trabzonspor’da gözler yalnızca yapılacak takviyelere değil, mevcut kadrodaki oyunculara gelen tekliflere de çevrildi. Bordo-mavili ekibin Beşiktaş’tan 8,5 milyon euro bonservis bedeliyle kadrosuna kattığı Ernest Muçi için İtalya’dan dikkat çeken bir iddia ortaya atıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/whatsapp-image-2026-06-28-at-160140.jpeg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_65cd277a",
-    "title": "Trabzonspor’da Ernest Muçi İçin Napoli’den Dev Teklif: 16 Milyon Euro Ve Kiralık Oyuncu İddiası",
-    "source": "Taka Gazetesi",
-    "time": "28/06/2026 20:35",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-ernest-muci-icin-napoliden-dev-teklif-16-milyon-euro-ve-kiralik-oyuncu-iddiasi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Transfer çalışmalarını sürdüren Trabzonspor’da gözler yalnızca yapılacak takviyelere değil, mevcut kadrodaki oyunculara gelen tekliflere de çevrildi. Bordo-mavili ekibin Beşiktaş’tan 8,5 milyon euro bonservis bedeliyle kadrosuna kattığı Ernest Muçi için İtalya’dan dikkat çeken bir iddia ortaya atıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/06/whatsapp-image-2026-06-28-at-160140.jpeg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_701922f7",
-    "title": "Her şeyi belediyeden beklemediler... Mahalleli el ele verdi, atıl durak yeniden hayat buldu",
-    "source": "61 Saat",
-    "time": "28/06/2026 20:35",
-    "link": "https://61saat.com/her-seyi-belediyeden-beklemediler-mahalleli-el-ele-verdi-atil-durak-yeniden-hayat-buldu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon'un Arsin ilçesine bağlı Hancıoğlu Mahallesi'nde yıllardır kullanılmayan minibüs durağı, mahalle sakinleri Recep Şahin ve Abdullah Şahin'in girişimiyle yenilendi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/06/c690c1d4-ee1d-4ea7-b84e-829f841b5271.png",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_701922f7",
-    "title": "Her şeyi belediyeden beklemediler... Mahalleli el ele verdi, atıl durak yeniden hayat buldu",
-    "source": "61 Saat",
-    "time": "28/06/2026 20:35",
-    "link": "https://61saat.com/her-seyi-belediyeden-beklemediler-mahalleli-el-ele-verdi-atil-durak-yeniden-hayat-buldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'un Arsin ilçesine bağlı Hancıoğlu Mahallesi'nde yıllardır kullanılmayan minibüs durağı, mahalle sakinleri Recep Şahin ve Abdullah Şahin'in girişimiyle yenilendi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/06/c690c1d4-ee1d-4ea7-b84e-829f841b5271.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_65c3efa1",
-    "title": "Trabzon’da akılalmaz kaza: Geri gelen araç otluk alanda yatan şahsa çarptı",
-    "source": "Haber61",
-    "time": "28/06/2026 20:35",
-    "link": "https://www.haber61.net/trabzon/trabzonda-akilalmaz-kaza-geri-gelen-arac-otluk-alanda-yatan-sahsa-carpti-h636608.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’un Akçaabat ilçesinde tarlaya ot almaya giden bir sürücü, otluk alanda yatan şahsı fark etmeyerek aracıyla çarptı. Yaralanan vatandaş hastaneye kaldırıldı.",
-    "image": "https://resim.haber61.net/news/625076.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_672ac12f",
-    "title": "17 yaşındaki çocuk denizde kayboldu! Arama çalışmaları sürüyor",
-    "source": "Haber61",
-    "time": "28/06/2026 20:35",
-    "link": "https://www.haber61.net/trabzon/17-yasindaki-cocuk-denizde-kayboldu-arama-calismalari-suruyor-h636609.html",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ordu'nun Ünye ilçesinde, valiliğin getirdiği yasağa rağmen serinlemek için arkadaşlarıyla birlikte denize giren 17 yaşındaki Aytekin E., şiddetli dalgalara kapılarak gözden kayboldu.",
-    "image": "https://resim.haber61.net/news/625075.jpg",
     "keyword": ""
   }
 ]
