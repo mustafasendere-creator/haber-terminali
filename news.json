@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_8d529bf9",
+    "title": "Almanlar şokta: Dünya Kupası macerası bitti",
+    "source": "OdaTV",
+    "time": "30/06/2026 03:16",
+    "link": "https://www.odatv.com/spor/almanlar-sokta-dunya-kupasi-macerasi-bitti-120152859",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası son 32 turu maçında Paraguay, normal süresi ve uzatma dakikaları 1-1 biten maçın seri penaltı atışlarında Almanya'yı 4-3 mağlup ederek adını son 16 turuna yazdırdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/30/almanlar-sokta-dunya-kupasi-macerasi-bitti-p9ig.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_9a2eb53e",
+    "title": "🗣️ AHMET KAYA (CHP) 🆚 AHMET METİN GENÇ (AK PARTİ) 😱  TRABZON'DA KİM DAHA BAŞARILI ❓ Sokak Röportajları",
+    "source": "YouTube",
+    "time": "30/06/2026 03:15",
+    "link": "https://www.youtube.com/watch?v=Gk-98iW3gmw",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON CHP | YouTube Video (ID: Gk-98iW3gmw)",
+    "image": "https://img.youtube.com/vi/Gk-98iW3gmw/hqdefault.jpg",
+    "keyword": "CHP #TRABZON"
+  },
+  {
     "id": "GND_11ba3686",
     "title": "Paraguay, Almanya'yı eleyerek Dünya Kupası'nda son 16 turuna yükseldi",
     "source": "Haber Global",
@@ -4774,29 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_f13bcfdb",
-    "title": "Trabzonspor’da Abdul Fatawu Hamlesi: Sağ Kanatta Yeni Plan - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "29/06/2026 20:35",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2hGTXV2M2JnY2V6UVlzM3RKVmdxREtmVXExa0lIa2p0NkhKcFVzd1EyTFBwYW5PSTVEZS0xYmc0TnRWYW1xUGxQejdxZVhfQVFLZGY3a0tESlFVd19EWk9GME96MzlmaUVlMVEwR19GSmdXNWhUSTlfSUs5X3RqVDAwQzU5Q19HWUN1NmxkVdIBlAFBVV95cUxOeWs5UXl4dXRZaXNSNFhGMXVJTThwbFgzalIxaVN3R0wyeUYtZkRISGhxYWx0TmZlYmE1R3VGQXo0clBWNXUxU1V2MHJ6MktXbGV1TThZY3dZSldkSkxRUThaVGZIcnJqd2hDU1dTeVhMOGhWaTAzWFJPbzRvRW0zOGZPVXNnYzdYSTJVV3MwR0pPMEpu?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "GND_3e376ab1",
-    "title": "Cumhurbaşkanı Erdoğan, Türkmenistan Milli Lideri Berdimuhamedov ile telefonda görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "29/06/2026 20:35",
-    "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkmenistan-milli-lideri-berdimuhamedov-ile-telefonda-gorustu/3981569",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkmenistan Milli Lideri ve Halk Maslahatı Başkanı Gurbangulu Berdimuhamedov ile telefon görüşmesi gerçekleştirdi.",
-    "image": null,
-    "keyword": ""
   }
 ]
