@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_2fedfeeb",
+    "title": "Katar denizcilik kararı: Askıya aldı",
+    "source": "OdaTV",
+    "time": "30/06/2026 03:56",
+    "link": "https://www.odatv.com/guncel/katar-denizcilik-karari-askiya-aldi-120152861",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Katar yönetimi, ülke genelinde deniz seyrüseferini ve bazı denizcilik faaliyetlerini ikinci bir duyuruya kadar geçici olarak askıya alma kararı aldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/30/katar-denizcilik-karari-askiya-aldi-zbnq.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_7960b24c",
+    "title": "Almanya Dünya Kupası'na veda etti, Paraguay son 16'da",
+    "source": "TRT Haber",
+    "time": "30/06/2026 03:56",
+    "link": "https://www.trthaber.com/haber/spor/almanya-dunya-kupasina-veda-etti-paraguay-son-16da-949713.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "2026 FIFA Dünya Kupası son 32 turunda Almanya'yı normal süresi ve uzatmaları 11 biten maçta seri penaltı atışlarının ardından 43 mağlup eden Paraguay, adını son 16 turuna yazdırdı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_89bb979b",
     "title": "Ankara'da faciadan dönüldü",
     "source": "OdaTV",
@@ -4769,30 +4793,6 @@
     "source": "Google Haberler",
     "time": "29/06/2026 20:36",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVA4b1NWci1RQVhJWnREZDVqMGJtcmg3QVZmT1ZNXy1ESWxGWUttYlJKekdYR2N1VlM2b3ZEY3FIcmZleTlaaGtZQWdwcThYZTh4c0EtUTh1WUdKM05kdWNwcHhJdWpZeEluWk5oUXExcFdGSXpjaEdDbHJDS3NrY3NlZ9IBgwFBVV95cUxQcVA4b1NWci1RQVhJWnREZDVqMGJtcmg3QVZmT1ZNXy1ESWxGWUttYlJKekdYR2N1VlM2b3ZEY3FIcmZleTlaaGtZQWdwcThYZTh4c0EtUTh1WUdKM05kdWNwcHhJdWpZeEluWk5oUXExcFdGSXpjaEdDbHJDS3NrY3NlZw?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_f5f8c78b",
-    "title": "Çorum'da intihar girişiminde bulunan şahsın atlamasını polis önledi - Kastamonu Gündem Gazetesi",
-    "source": "Google Haberler",
-    "time": "29/06/2026 20:36",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzVKMkMtQkl5Y0xjVFd6OWRGVmRocV8xb0t0N1M4MVN0ajFqVTNsT1Z5MEN2Ri1uemt5SmI2WGpBRVdKUUR2MFpyTFE5Y0E0cy1zRDZhdFpWQ3NEQnJjMlFNZFhISXZ1b1JOUXFJamV5aS1zelRwam1LR0Q5dWtCMFZZNVkwQXZyejlTMk1WMUJFU215cHlkSXgyeEV3ZXBITGhINFhhNUE5ZHpFSUtpeEs5RzhfUFNHTC1v0gG7AUFVX3lxTE1fNUoyQy1CSXljTGNUV3o5ZEZWZGhxXzFvS3Q3UzgxU3RqMWpVM2xPVnkwQ3ZGLW56a3lKYjZYakFFV0pRRHYwWnJMUTljQTRzLXNENmF0WlZDc0RCcmMyUU1kWEhJdnVvUk5RcUlqZXlpLXN6VHBqbUtHRDl1a0IwVlk1WTBBdnJ6OVMyTVYxQkVTbXlweWRJeDJ4RXdlcEhMaEg0WGE1QTlkekVJS2l4SzlHOF9QU0dMLW8?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "INTIHAR #POLIS"
-  },
-  {
-    "id": "TKP_f6b76252",
-    "title": "Yahya Şahin Hoca Trabzon'da Dualarla Son Yolculuğuna Uğurlandı - Gunebakış",
-    "source": "Google Haberler",
-    "time": "29/06/2026 20:36",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JZdXFDMDNPYkhab2pDMFNYWjRQMzNXMmc3a2VTV0w4S3dXdDJRM05fbXo2MHNoZTI3SlFTNWNIS3FSY0VvZXVRal9ja240Nm1aMEd6dkFiNjVfeHlhUmV3VmxqWEtyb0ZTSDRyT1RmR1VRRzM5YkVCT0h6aURfQTRrVkdGZDlVbjhYUXNrUXBBbWZzeTNMazFRdngxQUd2OUhQWG5B0gGmAUFVX3lxTE1HQll1cUMwM09iSFpvakMwU1haNFAzM1cyZzdrZVNXTDhLd1d0MlEzTl9tejYwc2hlMjdKUVM1Y0hLcVJjRW9ldVFqX2NrbjQ2bVowR3p2QWI2NV94eWFSZXdWbGpYS3JvRlNINHJPVGZHVVFHMzliRUJPSHppRF9BNGtWR0ZkOVVuOFhRc2tRcEFtZnN5M0xrMVF2eDFBR3Y5SFBYbkE?oc=5",
     "type": "TKP",
     "prefix": "🌐 📰",
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
