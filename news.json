@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_8e5ea75e",
+    "title": "Mahkeme iptal etti Trump 'Çin'in zaferi' dedi",
+    "source": "OdaTV",
+    "time": "01/07/2026 03:56",
+    "link": "https://www.odatv.com/guncel/mahkeme-iptal-etti-trump-cinin-zaferi-dedi-120152997",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'de Yüksek Mahkeme, Başkan Donald Trump'ın doğumla vatandaşlığı sınırlayan başkanlık kararnamesini anayasaya aykırı bularak geçersiz kıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/01/mahkeme-iptal-etti-trump-cinin-zaferi-dedi-mgpn.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6de9a44c",
+    "title": "2 ilde terör örgütü DEAŞ'a operasyon",
+    "source": "TRT Haber",
+    "time": "01/07/2026 03:56",
+    "link": "https://www.trthaber.com/haber/turkiye/2-ilde-teror-orgutu-deasa-operasyon-949837.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce ve Bursa'da eş zamanlı düzenlenen terör örgütü DEAŞ operasyonunda 13 şüpheli gözaltına alındı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_e0eada45",
+    "title": "İsrail, Lübnan'ın güneyindeki \"pilot\" bölgelerden çekilmeyi erteleme kararı aldı",
+    "source": "Anadolu Ajansı",
+    "time": "01/07/2026 03:55",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-lubnanin-guneyindeki-pilot-bolgelerden-cekilmeyi-erteleme-karari-aldi/3982779",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail yönetiminin, \"Beyrut ile ortak bir denetim mekanizması üzerinde anlaşmaya varılmasının beklenmesi\" gerekçesiyle Lübnan'ın güneyindeki iki pilot bölgeden ordusunu çekme işlemini erteleme kararı aldığı bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_286f6087",
     "title": "Şanlıurfa'da intihar girişiminde bulunan Fen İşleri Daire Başkanı yaşamını yitirdi",
     "source": "Haber Global",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Iraklı yetkililerle Türkiye- Irak arasında güvenlik ve istihbarat iş birliğinin güçlendirilmesi konularını ele aldı.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_5910d7c7",
-    "title": "Karar Resmi Gazete'de! Yurt dışında görevli memurlar için yeni dönem",
-    "source": "A Haber",
-    "time": "30/06/2026 21:35",
-    "link": "https://www.ahaber.com.tr/gundem/2026/06/30/karar-resmi-gazetede-yurt-disinda-gorevli-memurlar-icin-yeni-donem",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yurt dışında sürekli görev yapan kamu personelinin maaş sisteminde kapsamlı değişikliğe gidildi. Başkan Recep Tayyip Erdoğan'ın imzasıyla yürürlüğe giren yeni kararla birlikte, yurt dışı aylıklarının... Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/ee3dd3/1200/1200/75/0/243/168?u=https://iahbr.tmgrup.com.tr/2026/06/30/1782843758429.jpeg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_8b6e7c74",
-    "title": "Çorum’da intihar girişiminde bulunan şahsın atlamasını polis önledi - MSN",
-    "source": "Google Haberler",
-    "time": "30/06/2026 21:35",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOU1PakhtSFhsZ2N2Um8tbzRrNkJDVFp5bmhyczM4UUR5MVdsaHYxem11YURTQTF4ZEtUVExWQ3daVFpYYmh4SkROc2xoM1U2M1pvakg3VXRrZ1ZNRXRwd3lPSUVkdWR5V3dQUU9lWklMN19BVlU1ZUZheVFrb0lDLVB6NTBDbjc0VmxCTEMwbURKMXRMc25LV1huZklCZDdFOHRzb1B3a3V5Nk0zMDFubmxzdXBUXzJybGlEd1A4VmgtTTlrbzdfd1V2ZF9iYzBFbF9manlqZ0N2RjBWNW9majFhUDQ1dDhzM2c?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "INTIHAR #POLIS"
-  },
-  {
-    "id": "YRL_8b018135",
-    "title": "Karadeniz Sahil Yolu'nda feci kaza! 1 yaralı",
-    "source": "Kuzey Ekspres",
-    "time": "30/06/2026 21:35",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28261967/karadeniz-sahil-yolunda-feci-kaza-1-yarali",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Giresun'un Eynesil ilçesinde kavşakta iki otomobilin çarpıştığı kazada 1 kişi yaralandı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/06/30/large/giresunun-eynesil-ilcesinde-kavsakta-iki-otomobilin-carpistigi-kazada-1-kisi-yaralandi.jpg",
     "keyword": ""
   }
 ]
