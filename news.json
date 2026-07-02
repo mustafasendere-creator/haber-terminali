@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_6b3d0c95",
+    "title": "Pape Thiaw'dan Belçika mağlubiyeti sonrası dikkat çeken açıklama",
+    "source": "Cumhuriyet",
+    "time": "02/07/2026 03:36",
+    "link": "https://www.cumhuriyet.com.tr/dunya-kupasi/pape-thiaw-dan-belcika-maglubiyeti-sonrasi-dikkat-ceken-aciklama-2517236",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Senegal Teknik Direktörü Pape Thiaw, Belçika'ya 3-2 kaybettikleri maçın ardından açıklamalarda bulundu. Thiaw, yenilginin acı verdiğini ancak oyuncularını gösterdikleri mücadele nedeniyle tebrik etmek gerektiğini söyledi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/298a45a4-5063-4766-b401-68430408e46f.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f97e11cb",
+    "title": "ABD helikopteri Arap Denizi'ne acil iniş yaptı: 4 kişilik mürettebattan 3'ü kurtarıldı, 1'i kayıp",
+    "source": "Evrensel",
+    "time": "02/07/2026 03:35",
+    "link": "https://www.evrensel.net/haber/5990700/abd-helikopteri-arap-denizine-acil-inis-yapti-4-kisilik-murettebattan-3u-kurtarildi-1i-kayip",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Deniz Kuvvetleri Merkez Komutanlığı, bir helikopterinin Arap Denizi'nde \"acil durum su inişi\" gerçekleştirdiğini, 4 kişilik mürettebattan 3'ünün kurtarıldığını, 1 kişinin henüz bulunamadığını açıkladı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/268878.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_89dfa4f7",
+    "title": "NATO Liderler Zirvesi kapsamında yaklaşık 56 bin güvenlik personeli görev alacak - CNN Türk",
+    "source": "Google Haberler",
+    "time": "02/07/2026 03:35",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHZmdVBzcmt3UU1aQUVJN19MVHBmOVNXOGIxcFV0b2UxWE92WW1ZYXpDQmctSE5YN2lQVUNKbWQ2dlE4NW9mWklENXpnQjBnMmJVNDlpMlNNaVcxRVdLNVdXcEZ4SVdCV3pDbWJQYm56X2dSWUlRRDl0dUFjNTl3ZnllUGJwaElrRmxsNjVlamVqalhjbXlLMGgyUlA4Z3lRX0p6U2l1ZDVFMVlOdDU2YlE4WXI0OU94eDV5Qw?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_ce6a90fa",
+    "title": "🗣️ Trabzon 1 Temmuz 2026 Kabotaj Bayramı",
+    "source": "YouTube",
+    "time": "02/07/2026 03:35",
+    "link": "https://www.youtube.com/watch?v=z6eWH2L_VW0",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: z6eWH2LVW0)",
+    "image": "https://img.youtube.com/vi/z6eWH2L_VW0/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_a8cc5b61",
     "title": "Aromaterapi ürünleri artık sadece eczanelerde satılacak",
     "source": "TRT Haber",
@@ -4750,53 +4798,5 @@
     "summary": "Trabzonspor’un yabancı oyuncu planlamasında Onana detayı öne çıktı. Bordo-mavililerin mevcut tabloda 2 yabancı transfer hakkı bulunduğu, oyunculara gelecek tekliflere göre bu sayının değişebileceği belirtildi.",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "YRL_55b58d96",
-    "title": "Trabzonspor’da kritik karar! Kadro iskeleti korunacak mı?",
-    "source": "Haber61",
-    "time": "01/07/2026 21:35",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-kritik-karar-kadro-iskeleti-korunacak-mi/636860",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’da yeni sezon öncesi kadro planlaması şekillenirken, mevcut iskeletin korunması gerektiği vurgulandı. Muçi için konuşulan tekliflere dair de dikkat çeken bir değerlendirme geldi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_dfb6f9cb",
-    "title": "Trabzon'da kaçak CD operasyonu - Haber61",
-    "source": "Google Haberler",
-    "time": "01/07/2026 21:35",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hNVNmS1BuQm1SekFuMkZqZXBSSXQyZXRXaGowa3BNNVdkVm1rdU1MSnZkOEd0MW5SRlFiOWp0bWRuWTRFQm9DaVlvblpRMFdjWHUwcXp1WGdMQWhBSzZ1eGx5Sl90SFZsMzhzRjRETXVnemZjcE5F0gF8QVVfeXFMT0FaWktRaE82al9EWUQ2dkRlSGVpQUhHdUJxaHhabDZqMHBZcHVwb0ZXT19nUUVnRWI3MkUzV21DMlBJejF4NXN6OGpfb05rbnkxWUJIbGtkMC13T0ExNk1lb2tTZzBMRS1FNWV3TnVRQTBVY3hvRFhlNVFBRQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_0bcbfbab",
-    "title": "Vali Tahir Şahin'e Teşekkür Ziyareti",
-    "source": "Karadeniz Gazetesi",
-    "time": "01/07/2026 21:35",
-    "link": "https://www.karadenizgazete.com.tr/karadeniz/trabzon/vali-tahir-sahine-tesekkur-ziyareti/617366",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Valisi Tahir Şahin'e gerçekleştirilen ziyarette, kentin turizm potansiyeli, sektörün geleceği ve kurumlar arası iş birliği konuları ele alındı.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_643658e6",
-    "title": "Trabzonspor’da Yuri Alberto Sürprizi: Corinthians İle İlk Temas Kuruldu",
-    "source": "Taka Gazetesi",
-    "time": "01/07/2026 21:35",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-yuri-alberto-surprizi-corinthians-ile-ilk-temas-kuruldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Felipe Augusto’nun Zenit’e transferi sonrası yeni bir santrafor transferi için harekete geçti. Gündemde birçok isim var. Ancak Bordo-Mavili ekipten yeni bir sürpriz hamle geldi. Fırtına’nın Brezilya ekibi Corinthians’ta forma giyen 25 yaşındaki oyuncu Yuri Alberto’yu gündemine aldı. Bonservisinin yüzde 50 hakkı Zenit Kulübünde olan Yuri Alberto’nun Corinthians ile 2030’a kadar sözleşmesi bulunuyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/07/whatsapp-image-2026-07-01-at-151510.jpeg",
-    "keyword": "TRABZON"
   }
 ]
