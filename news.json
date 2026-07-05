@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_2c327b01",
+    "title": "🗣️ @anonturk.bsky.social",
+    "source": "Bluesky",
+    "time": "05/07/2026 03:29",
+    "link": "https://bsky.app/profile/anonturk.bsky.social/post/3mpucscou5g26",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "🇹🇷 4 ilde denize girme yasağı getirildi\n\n#Türkiye #Haber #Gündem #Trabzon #Giresun #Rize #Independent #Dünya",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "SOC_9f4a48af",
     "title": "🗣️ Arkhy (@Arkhyy (· (23s)",
     "source": "X (Twitter)",
@@ -4784,18 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Ülke genelinde havaların ısınmasıyla yangınlar başladı; yetkililer ile halkı en çok endişelendiren Vouzela yangını. Yardım çağrısına yanıt veren bazı uluslararası ekipler sahaya ulaştı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_245ffdec",
-    "title": "Fransa: ilk Ebola vakası iyileşti, taburcu oldu",
-    "source": "Euronews",
-    "time": "04/07/2026 20:09",
-    "link": "http://tr.euronews.com/saglik/2026/07/04/fransa-ilk-ebola-vakasi-iyilesti-taburcu-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sağlık Bakanı Stéphanie Rist, Fransa’da teşhis edilen ilk Ebola vakasının iyileştiğini açıkladı. Hasta tedavi gördüğü hastaneden taburcu edildi.",
     "image": null,
     "keyword": ""
   }
