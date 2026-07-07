@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_70ca5667",
+    "title": "🗣️ Fengo Hotel & Spa - Feels Like a 5-Star | Trabzon, Turkey🏨",
+    "source": "YouTube",
+    "time": "08/07/2026 02:49",
+    "link": "https://www.youtube.com/watch?v=jIn1ZoRXPgY",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: jIn1ZoRXPgY)",
+    "image": "https://img.youtube.com/vi/jIn1ZoRXPgY/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_9537a074",
+    "title": "Otoyolda emniyet şeridinde duran tıra otomobil çarptı; 2 kişi hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "08/07/2026 02:49",
+    "link": "https://www.evrensel.net/haber/5991542/otoyolda-emniyet-seridinde-duran-tira-otomobil-carpti-2-kisi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'nın Ceyhan ilçesinde otoyolda arıza nedeniyle emniyet şeridinde duran TIR'a arkadan çarpan otomobildeki iki kişi hayatını kaybetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/354266.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_018c6843",
     "title": "Bolulu emekli polis memuru Memduh Dönmez, İzmir’de intihar etti - bolununsesi.com",
     "source": "Google Haberler",
@@ -4774,29 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_93562c32",
-    "title": "Gürkan Demirkale’den Taka Gazetesine Veda Ziyareti; \"Gönlümün Bir Parçasını Bırakıyorum\" - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "07/07/2026 21:11",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRU4xLU5xVFdtQ3dQdnlxbWl1dXBzdUhzRUg2cTNnRlpOR2FvVEJ6MEM4NGlBeVNyN2p6R19xR1hpaXpjdzhpcmdGMEtfZi03cVNlckxIYnYxdHBNSklhSWlId0dwUG5IcTBsZk94My1zcGNTZ09DVmhRdFFGYUJpUEZvS19iVVJoZnEzaUdTTXEyUV9zUmU5eHdQRHJIQUdMSmpZWHBlMWhUTm16b0pacVBMZDjSAboBQVVfeXFMUGM4ckFpY2xiX0F2a2QtOEdWV0g0THozRUdYUmhTQlgySldiVzAwZTVwRU9UU0QyOVUyUlVWeEdaZHJ5czFVdGpyM09ONWQxWHFXbU53VDZYczNlYk9ZWXdvQUpqUFRIVUktZXVaUWpiTmlrLTlSZXowakppZFFrRlN2U1dRQzVrejlJeHZwZDRzaGpVdFR0SzM4MXNmZW1NaVlTVjhWY1JKTUQwY2t0TDJKSEZCUEZRc3FB?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_6ff56023",
-    "title": "Trabzonspor'dan ses getirecek transfer hamlesi!",
-    "source": "Kuzey Ekspres",
-    "time": "07/07/2026 21:11",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28301841/trabzonspordan-ses-getirecek-transfer-hamlesi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Wolverhampton forması giyen Tolu Arokodare transferi için girişimlerini hızlandırdı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/07/07/large/trabzonspordan-ses-getirecek-transfer-hamlesi5.jpg",
-    "keyword": "TRABZON"
   }
 ]
