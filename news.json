@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_994007b3",
+    "title": "Eve giren yılanı itfaiye çıkarttı",
+    "source": "OdaTV",
+    "time": "17/07/2026 03:15",
+    "link": "https://www.odatv.com/guncel/duzcede-eve-giren-yilani-itfaiye-cikartti-120155008",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce’nin Gümüşova ilçesine bağlı Çaybükü köyünde bir eve giren yılan, vatandaşların ihbarı üzerine olay yerine sevk edilen Cumayeri Belediyesi itfaiye ekiplerince yakalandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/17/duzcede-eve-giren-yilani-itfaiye-cikartti-ycyi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_7e2349ad",
+    "title": "İran saldırıları nedeniyle Bahreyn'de sirenler çaldı, Kuveyt'te hava savunma sistemleri devreye girdi",
+    "source": "TRT Haber",
+    "time": "17/07/2026 03:14",
+    "link": "https://www.trthaber.com/haber/dunya/iran-saldirilari-nedeniyle-bahreynde-sirenler-caldi-kuveytte-hava-savunma-sistemleri-devreye-girdi-951425.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran saldırıları nedeniyle Bahreyn'de sirenlerin çaldığı, Kuveyt'te ise hava savunma sistemlerinin devreye girdiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_b70ea773",
     "title": "İstanbul'da baz istasyonu yandı",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Kırıkkale'de kayıp ihbarı yapılan Yusuf A'nın parçalanmış cesedinin evin tuvaletinde bulunmasına ilişkin gözaltına alınan 5 şüpheliden oğlu Ö.A. tutuklandı. Diğer 4 şüpheli adli kontrol şartıyla serbest bırakıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/275fdd42-9312-4db7-b3e8-72f3cebe9ee9.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_6640e180",
-    "title": "Valilikten 'Avrasya Tüneli' açıklaması: Trafiğe açıldı mı?",
-    "source": "Cumhuriyet",
-    "time": "16/07/2026 21:36",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/valilikten-avrasya-tuneli-aciklamasi-trafige-acildi-mi-2521470",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Valiliği Avrasya Tüneli'nde boru patlamasıyla oluşan su birikintisi nedeniyle kapanan araç trafiğinin 20.25 itibariyle açıldığını duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/0ffd06f5-4916-4dbb-a450-c5b8077675cc.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_118afe62",
-    "title": "Çikolata krizlerine en masum çözüm: Unsuz ve şekersiz fit brownie",
-    "source": "Cumhuriyet",
-    "time": "16/07/2026 21:36",
-    "link": "https://www.cumhuriyet.com.tr/gurme/cikolata-krizlerine-en-masum-cozum-unsuz-ve-sekersiz-fit-brownie-2521471",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sağlıklı beslenme rutininizi bozmadan, yoğun tempoda kendinizi ödüllendirmenin en lezzetli yolu olan unsuz ve şekersiz fit brownie, tam bir enerji deposu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c8d2cf76-ced7-47fd-bfab-1124d053f080.jpg",
     "keyword": ""
   }
 ]
