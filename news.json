@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_046a7d4e",
+    "title": "Mahsun Kırmızıgül'den Haluk Levent'e sitem",
+    "source": "OdaTV",
+    "time": "18/07/2026 02:16",
+    "link": "https://www.odatv.com/guncel/mahsun-kirmizigulden-haluk-levente-sitem-120155139",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mahsun Kırmızıgül, Ahbap Derneği soruşturması kapsamında tutuklanan Haluk Levent’e yönelik sitem içeren duygusal bir paylaşım yaptı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/11/11/mahsun-kirmizigul-bir-gecede-kazandigimi-bir-ayda-kazanamazlar-hmhr.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_5047afff",
+    "title": "AKP’den S-400 açıklaması: Bir şekilde çözülecek",
+    "source": "OdaTV",
+    "time": "18/07/2026 02:16",
+    "link": "https://www.odatv.com/guncel/hulusi-akardan-s-400-aciklamasi-120155140",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TBMM Milli Savunma Komisyonu’nun AKP’li başkanı Akar, \"S-400 konusunun bir şekilde çözüleceğini\" söyledi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/18/hulusi-akardan-s-400-aciklamasi-bjih.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_93b4537d",
+    "title": "Bisiklet sürerken tay giymesiyle tartışıldı: Vali görevden alındı",
+    "source": "OdaTV",
+    "time": "18/07/2026 02:16",
+    "link": "https://www.odatv.com/guncel/ardahan-valisi-mehmet-fatih-cicekli-gorevden-alindi-120155141",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bisiklet sürerken tayt giymesiyle TBMM gündemine getirilen Ardahan Valisi Mehmet Fatih Çiçekli Resmi Gazete'de yayımlanan Cumhurbaşkanlığı Kararnamesi ile görevden alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/18/ardahan-valisi-mehmet-fatih-cicekli-gorevden-alindi-5tgs.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_23d81941",
     "title": "Çin'den yapay zeka atılımı",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_e77729dd",
-    "title": "Ümit Özdağ Trabzon Temaslarını Günebakış’a Anlattı: Ekonomik Buhrana Dikkat Çekti - Gunebakış",
-    "source": "Google Haberler",
-    "time": "17/07/2026 20:33",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYzlSeEdhdHYtcnMwbU1vb01remF6clQ1NkNpaE1ub2hKMW44bkl3b3BoTzhNV0pmVnNvOTBlblhfZ3NPRHpwSm00eUp3NERZdXhHY2hQVExUWEl0eXZpdG9UTUxXS3VlNVZfa25UY3VfTDd5TVlFZ2VrTG9yQm1NOHBVZmlJLWNHeHMtaHkyZ3VPanVIMzVwdlJTUDRGemFnT2tQU3hiRjN3bzZJbTVSRFgxcUxnRllHdTBGVFRB0gG-AUFVX3lxTE9jOVJ4R2F0di1yczBtTW9vTWt6YXpyVDU2Q2loTW5vaEoxbjhuSXdvcGhPOE1XSmZWc285MGVuWF9nc09EenBKbTR5Snc0RFl1eEdjaFBUTFRYSXR5dml0b1RNTFdLdWU1Vl9rblRjdV9MN3lNWUVnZWtMb3JCbU04cFVmaUktY0d4cy1oeTJndU9qdUgzNXB2UlNQNEZ6YWdPa1BTeGJGM3dvNkltNVJEWDFxTGdGWUd1MEZUVEE?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNEBAKIŞ"
-  },
-  {
-    "id": "TKP_a25c2e0a",
-    "title": "'Oulai kaçırıldı' iddiaları asılsız! - Gunebakış",
-    "source": "Google Haberler",
-    "time": "17/07/2026 20:33",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBybjU0bUI0cjRfNUZkN2gtLURfdEo2ckJLM2dvWXNNOVgydjdleThSNWhsTzE5WHQzcHMxbGVqN0xfMmtudVJxc2U4ck9PWjNjSDF2QUNlV0Zxa2c1cmV4ck5VUWY5MTlyd2pQUmVXLVgtV3dPMm9lbHJIa9IBgAFBVV95cUxNZEtXM1FWZDcxMm9EWm9SbWVCOS1nNGg5M3ViQnFPYl8wS0lJa3NySnQxdEEtTEhVNk1xdnlNX2NuVzYycWFIN3hOOGZRMGJDLWU4OE9wMGEtOFNBelo0TDM1dlF5am9Ed1pvalNKV0hkNzhQVmRCQlNrLTlPbWJrcQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_e3e4af2e",
-    "title": "Günebakış Sordu, Ümit Özdağ Trabzon Hedeflerini Anlattı: Trabzon için yeni sanayi koridoru önerisi - Gunebakış",
-    "source": "Google Haberler",
-    "time": "17/07/2026 20:33",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaEtHbmhWYWgtTzROb3lEZEpiRFNtdUEyVzdxeDhvVzJZMFMzaGRacVdYMmRyY0hCcm91LXZIM0tFQWxMcFk2cmZ6LTI4bFA1SzRlUmVCNVlGOFptNnk3T0xXM1Y0YXpHeGNYTldZT2ZkenpyNlFqN3lUcUMxVTdaTExQc3pRTk9fRkxLLWpzT1M2YVpvZ2VGY2k1ZE9PQS00NGQzcnVEYjVBbE1pdy1pZzJxT2h3LWVGVjl4ZUdzaGt3c3RzbGI1U3NRejhJQjTSAdQBQVVfeXFMUEVrZlFZU3hubWRWU0YyN1FwVUphUHlPTy1TLWh1eWxLVWhKX0dnZnZvS1lHNm9GSndWcjZjbUppT2s1YktLNk1SZ09UQlpsUWhmaGRFMkhhTG40QmdBNW5hSVR1clZVRExuakpTMTdhMFY2Y2lZLUR2eVpSNEU3SkhhQVVQM0ZzUkFrYnhFM1lfSm8wak5LTS1qbnZ3ZXliY1Zkc1lBSXBLZGo5X29MTFNpb0FpZUdLZXhfeHpmNUx5S2NrTlRiTF93QXlZVlFVRXlWQS0?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNEBAKIŞ"
   }
 ]
