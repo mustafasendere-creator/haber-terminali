@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_ac53d890",
+    "title": "Bakan Bayraktar'dan Karadeniz açıklaması",
+    "source": "OdaTV",
+    "time": "18/07/2026 03:35",
+    "link": "https://www.odatv.com/guncel/enerji-ve-tabii-kaynaklar-bakani-alparslan-bayraktardan-karadeniz-aciklamasi-120155147",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Karadeniz’de doğal gaz üretimini bu yılın sonunda 2 katına, 2028’de 4 katına çıkaracaklarını açıkladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/12/11/bakan-alparslan-bayraktardan-turk-dunyasina-enerji-cagrisi-hazar-birlestiren-olmali-tv1p.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_ef2fbecc",
+    "title": "🗣️ Sidny Lopes Cabral, Trabzon'da",
+    "source": "YouTube",
+    "time": "18/07/2026 03:32",
+    "link": "https://www.youtube.com/watch?v=1ODu_9pk35Y",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 1ODu9pk35Y)",
+    "image": "https://img.youtube.com/vi/1ODu_9pk35Y/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_42fe35a9",
+    "title": "🗣️ Trabzonspor'un Yeni Transferi Lopes Cabral Trabzon'a Geldi!",
+    "source": "YouTube",
+    "time": "18/07/2026 03:32",
+    "link": "https://www.youtube.com/watch?v=PrPbZttAo_Q",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: PrPbZttAoQ)",
+    "image": "https://img.youtube.com/vi/PrPbZttAo_Q/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "SOC_84dfd89b",
     "title": "🗣️ SAANE10 (@Saane10 (· (11s)",
     "source": "X (Twitter)",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Akdeniz'in en büyük kartal vatozu türlerinden biri olan vaccarella (boğa kartal vatozu), Trieste kıyılarında giderek daha sık ve kalabalık gruplar halinde görülmeye başladı.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_29a02cb8",
-    "title": "İstanbul'da toplu ulaşım ve belediye kreşlerine zam: İşte yeni tarife",
-    "source": "Euronews",
-    "time": "17/07/2026 20:34",
-    "link": "http://tr.euronews.com/business/2026/07/17/istanbulda-toplu-ulasim-ve-belediye-kreslerine-zam-iste-yeni-tarife",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BB Meclisi temmuz ayı toplantılarının üçüncü oturumu Meclis 2. Başkanvekili Gencay Özcan başkanlığında Saraçhane'deki belediye binasında yapıldı. Oturumdan toplu ulaşım ve kreş hizmetine zam kararı çıktı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_42a41dbf",
-    "title": "10 yıllık hukuk mücadelesinde zafer: Eski Tüm Bel-Sen Şube Başkanı Sarıca, göreve iade davasını kazandı",
-    "source": "BirGün",
-    "time": "17/07/2026 20:34",
-    "link": "https://www.birgun.net/haber/10-yillik-hukuk-mucadelesinde-zafer-eski-tum-bel-sen-sube-baskani-sarica-goreve-iade-davasini-kazandi-724382",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Denizli Büyükşehir Belediyesindeki görevinden KHK ile ihraç edilen Tüm Bel-Sen önceki dönem Şube Başkanı Mehmet Sarıca, 10 yıl süren hukuk mücadelesinin ardından görevine iade edildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/07/17/10-yillik-hukuk-mucadelesinde-zafer-eski-tum-bel-sen-sube-baskani-sarica-goreve-iade-davasini-kazandi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d64aaefe",
-    "title": "Eğitim-İş'ten YÖK'e 'depremzede öğrenci' tepkisi: \"Osmaniye deprem bölgesi değil mi?\"",
-    "source": "BirGün",
-    "time": "17/07/2026 20:34",
-    "link": "https://www.birgun.net/haber/egitim-is-ten-yok-e-depremzede-ogrenci-tepkisi-osmaniye-deprem-bolgesi-degil-mi-724383",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "YÖK'ün depremzede üniversite öğrencilerine yönelik özel öğrencilik hakkını 2026-2027 eğitim-öğretim yılında yalnızca 4 ilde uzatmasına tepki gösteren Eğitim-İş Osmaniye Şubesi, kararın adaletsiz olduğunu belirterek Osmaniye'nin de kapsama alınmasını talep etti.",
-    "image": "https://static.birgun.net/resim/haber/2026/07/17/egitim-is-ten-yok-e-depremzede-ogrenci-tepkisi-osmaniye-deprem-bolgesi-degil-mi.jpg",
     "keyword": ""
   }
 ]
