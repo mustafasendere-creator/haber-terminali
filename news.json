@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_02391fe6",
+    "title": "Hakkari'de iki otomobilin çarpıştığı kazada 7 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "19/07/2026 03:34",
+    "link": "https://www.trthaber.com/haber/turkiye/hakkaride-iki-otomobilin-carpistigi-kazada-7-kisi-yaralandi-951578.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari'de iki otomobilin çarpışması sonucu yaralanan 7 kişi hastaneye kaldırıldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "SOC_9522b282",
+    "title": "🗣️ Guven Palace | Orta (Trabzon), Turkey | Hotel Review 🌟",
+    "source": "YouTube",
+    "time": "19/07/2026 03:32",
+    "link": "https://www.youtube.com/watch?v=ufpLFAT3YZ8",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: ufpLFAT3YZ8)",
+    "image": "https://img.youtube.com/vi/ufpLFAT3YZ8/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_5fa77f44",
+    "title": "🗣️ Fatih'in Trabzon Seferi",
+    "source": "YouTube",
+    "time": "19/07/2026 03:32",
+    "link": "https://www.youtube.com/watch?v=vVoDASUt5tk",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: vVoDASUt5tk)",
+    "image": "https://img.youtube.com/vi/vVoDASUt5tk/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_f1350511",
     "title": "Filistinli kadın, İsrail ordusunun ambulansı bekletmesi sonucu hayatını kaybetti",
     "source": "Anadolu Ajansı",
@@ -4762,41 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_c4b91b38",
-    "title": "Trabzon'da kontrolden çıkan otomobil uçuruma düştü: 2 yaralı - Saray Medya",
-    "source": "Google Haberler",
-    "time": "18/07/2026 19:35",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm94bVdZN0dHSEtyREpyeDJXYTZYZVFOa0RDTE9hSzFKWUFNdloxNlFpVjNOaTM3SlNxMXkyWElUc0tLTFlKQkdrSE1MaHdaa2xmTGs3MzVraEZDM2dleldPdmhkU1JGV2FIU0NudXpOd3R5bFdkX256MU5YWWtHc2ZZeWsxTGU3Qm9ra2NEVUZaaUI4azFiaF8zTERTMUtnU0E?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_09c6b688",
-    "title": "Bakan Kurum açıkladı: 7 milyona yakın vatandaşımızı konutlarına kavuşturduk",
-    "source": "Haber Global",
-    "time": "18/07/2026 19:35",
-    "link": "https://haberglobal.com/gundem/bakan-kurum-acikladi-7-milyona-yakin-vatandasimizi-konutlarina-kavusturduk-535328",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 81 ilde yaklaşık 7 milyon vatandaşın sosyal konutlarına kavuştuğunu açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/07/18/bakan-kurum-acikladi-7-milyona-yakin-vatandasimizi-konutlarina-kavusturduk-v3fr.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_175432ca",
-    "title": "Sokak ortasında dehşet! Silahlı saldırıda hayatını kaybetti",
-    "source": "Haber Global",
-    "time": "18/07/2026 19:35",
-    "link": "https://haberglobal.com/gundem/sokak-ortasinda-dehset-silahli-saldirida-hayatini-kaybetti-535329",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır'ın Silvan ilçesinde sokak ortasında silahlı saldırıya uğrayan şahıs yaşamını yitirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/07/18/sokak-ortasinda-dehset-silahli-saldirida-hayatini-kaybetti-dao3.jpg",
-    "keyword": ""
   }
 ]
