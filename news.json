@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_b56b4a70",
+    "title": "İrana yönelik ABD saldırıları 9. gecesinde devam ediyor",
+    "source": "TRT Haber",
+    "time": "20/07/2026 03:54",
+    "link": "https://www.trthaber.com/haber/dunya/irana-yonelik-abd-saldirilari-9-gecesinde-devam-ediyor-951645.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD ordusu, İrana yönelik saldırıların 9. gecesinde devam ettiğini duyurdu. ABD Merkez Komutanlığı, İrana karşı yeni bir saldırı dalgasının başlatıldığını duyurdu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "SOC_d2a33bb4",
+    "title": "🗣️ Kızılağaç Yaylası ",
+    "source": "YouTube",
+    "time": "20/07/2026 03:52",
+    "link": "https://www.youtube.com/watch?v=7frgGhpXVTw",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 7frgGhpXVTw)",
+    "image": "https://img.youtube.com/vi/7frgGhpXVTw/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_ccc8e28e",
     "title": "Yürümekte zorluk çeken babasının tekerlekli sandalyesini ateşe verdi",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🌊",
     "summary": "Ahbap soruşturması kapsamında gözaltına alınan Oğuzhan Uğur'un emniyetteki ifadesi tamamlandı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/07/19/large/oguzhan-ugurdan-ahbap-sorusturmasinda-ilk-savunma-iliskim-yok.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_ee3a3161",
-    "title": "Trabzonspor'da Sağ Kanat Transferinde Dario Osorio Israrı! Pazarlıklar Kritik Aşamaya Geldi",
-    "source": "Taka Gazetesi",
-    "time": "19/07/2026 20:53",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-sag-kanat-transferinde-dario-osorio-israri-pazarliklar-kritik-asamaya-geldi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, yeni sezon öncesi sağ kanat transferine odaklandı. Listenin ilk sırasında yer alan Dario Osorio için pazarlıklar sürerken, Bordo-Mavililer alternatif isimleri de hazır tutuyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/07/whatsapp-image-2026-07-19-at-154938.jpeg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_ee3a3161",
-    "title": "Trabzonspor'da Sağ Kanat Transferinde Dario Osorio Israrı! Pazarlıklar Kritik Aşamaya Geldi",
-    "source": "Taka Gazetesi",
-    "time": "19/07/2026 20:53",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-sag-kanat-transferinde-dario-osorio-israri-pazarliklar-kritik-asamaya-geldi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, yeni sezon öncesi sağ kanat transferine odaklandı. Listenin ilk sırasında yer alan Dario Osorio için pazarlıklar sürerken, Bordo-Mavililer alternatif isimleri de hazır tutuyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/07/whatsapp-image-2026-07-19-at-154938.jpeg",
     "keyword": ""
   }
 ]
