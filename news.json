@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_8ebc07a5",
+    "title": "Bartın'da yoldan çıkan araç su kanalında gitti",
+    "source": "OdaTV",
+    "time": "23/07/2026 02:35",
+    "link": "https://www.odatv.com/guncel/bartinda-yoldan-cikan-arac-su-kanalinda-gitti-120155836",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bartın'da ana yoldan çıkan araç, yaklaşık 50 metre boyunca su kanalının üzerinde seyretti. Takla atan aracın sürücüsü kazayı yara almadan atlattı. O anlar güvenlik kamerasına yansıdı",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/23/bartinda-yoldan-cikan-arac-su-kanalinda-gitti-l6kj.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2f5db405",
+    "title": "Kayseri’de otomobil ile çarpışan polis aracı devrildi: 3 yaralı",
+    "source": "Haber Global",
+    "time": "23/07/2026 02:34",
+    "link": "https://haberglobal.com/gundem/kayseride-otomobil-ile-carpisan-polis-araci-devrildi-3-yarali-535957",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri’de otomobil ile çarpışan polis aracının devrildiği kazada 2’si bekçi 3 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/07/23/kayseride-otomobil-ile-carpisan-polis-araci-devrildi-3-yarali-fbfa.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1182d6eb",
+    "title": "Kayseri'de polis aracının karıştığı kazada 3 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "23/07/2026 02:34",
+    "link": "https://www.trthaber.com/haber/turkiye/kayseride-polis-aracinin-karistigi-kazada-3-kisi-yaralandi-951931.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'nin Kocasinan ilçesinde polis aracının karıştığı kazada 2'si bekçi 3 kişi yaralandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_6043d1e0",
+    "title": "Tesla'nın karı ikinci çeyrekte azaldı",
+    "source": "Anadolu Ajansı",
+    "time": "23/07/2026 02:34",
+    "link": "https://www.aa.com.tr/tr/dunya/teslanin-kari-ikinci-ceyrekte-azaldi-/4006373",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'li elektrikli otomobil üreticisi Tesla'nın net karı, bu yılın ikinci çeyreğinde yıllık bazda yüzde 5 azalış kaydetti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_b6dfc064",
+    "title": "2026-2027 EĞİTİM ÖĞRETİM YILI ORTAÖĞRETİM (LİSE) ÖĞRENCİLERİNİN GÜNÜ BİRLİK TAŞINMASI - Gunebakış",
+    "source": "Google Haberler",
+    "time": "23/07/2026 02:33",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmdzYjZuRWpKcDAzXzFyVFNlSUpLdTNIVkU2UTlpQ1h1QWZ2bHE2QjFUNDNBZmJyX3BhVzZSZHBWOEZQRDF6MmtUaEMyMk5tX1NtRXNUVE5sX2NKOHQyVV8zeXhWNVR4SXU4NlJVZmhvLWp2aFFfZDhxaDl4WFp6eW12WW1mems3aTlnX3Buczg2anV1aUJERktiLU5tNHZKejdXNWVRUTg4T3NnNlVvWXdUbVFMY1ZyT25LOWZ30gHDAUFVX3lxTE0wQ1hqWEZodnZINjlDVGNHXzNYZXRTYWltODdxY3Y0Q1M0NzlhYllrSVNTUmxyOXlEZDNvMGxuWUYxUl9XbzdOaVJ1aW1BRmROY2FBV0ZNX0xzTUN5aHdYZnpnNFd6Q0NHdy1ab0NpZ1NIWnBQWWxpczdWRHM1TE5fOE12dDV3SXZEMkVTTWpqNURtR1RwNmJiU3VneXN1ZmJaY3VRT1VfRTdOZDBDM0x6VXNteWNncWpyZ3Y0T0MtTHRPVQ?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "SOC_1da522d4",
     "title": "🗣️ DENİZTOPRAK2 (@TOPRAK2 (· (17s)",
     "source": "X (Twitter)",
@@ -4738,65 +4798,5 @@
     "summary": "Trabzon kampını tamamlayan bordo-mavili takımda hazırlık maçlarıyla birlikte rekabetin artacağı, futbolcuların yeni sezon kadrosuna girebilmek için mücadele edeceği belirtildi.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_61bd4346",
-    "title": "Trabzon’un YKS gururu! Bir okuldan 10 öğrenciyle 13 Türkiye derecesi",
-    "source": "61 Saat",
-    "time": "22/07/2026 21:33",
-    "link": "https://www.61saat.com/trabzonun-yks-gururu-bir-okuldan-10-ogrenciyle-13-turkiye-derecesi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da eğitim alanındaki başarılarına bir yenisini daha ekleyen Mahmud Celaleddin Ökten Anadolu İmam Hatip Lisesi, 2026 Yükseköğretim Kurumları Sınavı (YKS) sonuçlarında elde ettiği Türkiye dereceleriyle büyük gurur yaşattı. Akademik başarısını her geçen yıl daha da yukarı taşıyan okul, farklı puan türlerinde Türkiye'de ilk 1000'e 10 öğrenci 13 derece ile Trabzon'da en başarılı okul oldu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/07/f1af3ce7-3e3f-4b69-a430-c4140c33b1eb.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_1a83fbae",
-    "title": "Trabzonspor’da Avusturya kampı öncesi yeni dönem! Forma savaşı başlıyor",
-    "source": "Haber61",
-    "time": "22/07/2026 21:33",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-avusturya-kampi-oncesi-yeni-donem-forma-savasi-basliyor/638622",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon kampını tamamlayan bordo-mavili takımda hazırlık maçlarıyla birlikte rekabetin artacağı, futbolcuların yeni sezon kadrosuna girebilmek için mücadele edeceği belirtildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_2c7cde04",
-    "title": "🗣️ Trabzon İl Kültür ve Turizm Müdürlüğü (@trabzoniktm (· (12s)",
-    "source": "X (Twitter)",
-    "time": "22/07/2026 21:23",
-    "link": "https://x.com/trabzoniktm/status/2079810969673384139",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "Doğanın sesi, huzurun adresi… Araklı Asmasu Şelalesi’ni keşfetmek için rotanızı Trabzon’a çevirin. \n\nFotoğraf : Türkan Albayrak \n\n#trabzon #araklı #asmasuşelalesi #karadeniz #photooftheday",
-    "image": "https://pbs.twimg.com/media/HNz5CkXXIAATpOT?format=jpg&name=small",
-    "keyword": "TRABZON #KARADENIZ"
-  },
-  {
-    "id": "SOC_6859f578",
-    "title": "🗣️ Karadeniz (@KaradenizGzts (· (12s)",
-    "source": "X (Twitter)",
-    "time": "22/07/2026 21:23",
-    "link": "https://x.com/Karadeniz_Gzts/status/2079811452521574492",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "BU HABERİ OKUMADAN PLAN YAPMAYIN\n\nTrabzon'da Bugün Hava Nasıl Olacak\nkaradenizgazete.com.tr/karadeniz/trab\n…",
-    "image": "https://pbs.twimg.com/media/HNz5ESrWUAAnJuj?format=jpg&name=small",
-    "keyword": "TRABZON #KARADENIZ"
-  },
-  {
-    "id": "SOC_85c671cd",
-    "title": "🗣️ Zülal Kutluer (@zllktlr (· (23s)",
-    "source": "X (Twitter)",
-    "time": "22/07/2026 21:23",
-    "link": "https://x.com/zllktlr/status/2079632270625816792",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "\"Anneleri ne yazıkki öldü mama yiyebiliyorlar ama çocuklar bebekleri rahat bırakmıyor . Bebekler anneleri olmadığı için yola atlıyor cok  acil geçici kalıcı yuva arıyoruz güvenli bir bahçede olur .\nİletişim :0532 519 06 68 Trabzon \nfacebook.com/10006442274222\n…",
-    "image": "https://pbs.twimg.com/media/HNxWcgUWoAEyJeL?format=jpg&name=360x360",
-    "keyword": "ACIL #TRABZON"
   }
 ]
