@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_4c1404a6",
+    "title": "Uşak'ta dut toplarken çatıdan düşen adam hayatını kaybetti",
+    "source": "OdaTV",
+    "time": "22/07/2026 03:57",
+    "link": "https://www.odatv.com/guncel/usakta-dut-toplarken-catidan-dusen-adam-hayatini-kaybetti-120155678",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uşak'ta dut toplamak için çıktığı çatıdan düşen 57 yaşındaki adam hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/22/usakta-dut-toplarken-catidan-dusen-adam-hayatini-kaybetti-fx6r.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_02fd1325",
+    "title": "TBMM Genel Kurulu'nda CHP, DEM Parti, İYİ Parti ve Yeni Yol Partisi'nin önerileri AKP ve MHP oylarıyla reddedildi",
+    "source": "BirGün",
+    "time": "22/07/2026 03:54",
+    "link": "https://www.birgun.net/haber/tbmm-genel-kurulu-nda-chp-dem-parti-iyi-parti-ve-yeni-yol-partisi-nin-onerileri-akp-ve-mhp-oylariyla-reddedildi-724941",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Genel Kurul'da, Yeni Yol Partisi'nin \"BBP eski Genel Başkanı Muhsin Yazıcıoğlu'nun vefat ettiği helikopter kazası\", İYİ Parti'nin \"15 Temmuz hain darbe girişimi\", DEM Parti'nin \"20 Temmuz 2015'te Suruç'ta yaşanan hadiseler\" ve CHP'nin \"fındık politikaları\" ile ilgili grup önerileri ayrı ayrı görüşüldü. Önerilerin tamamı AKP ve MHP oylarıyla reddedildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/07/22/tbmm-genel-kurulu-nda-chp-dem-parti-iyi-parti-ve-yeni-yol-partisi-nin-onerileri-akp-ve-mhp-oylariyla-reddedildi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_02e0b29b",
+    "title": "Ukrayna'nda görev değişikliği: Genelkurmay Başkanı Sırskiy görevden alındı",
+    "source": "BirGün",
+    "time": "22/07/2026 03:54",
+    "link": "https://www.birgun.net/haber/ukrayna-nda-gorev-degisikligi-genelkurmay-baskani-sirskiy-gorevden-alindi-724942",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zelenski, mevcut Genelkurmay Başkanı Oleksandr Sırskiy'nin yerine Ukrayna Ordusu Müşterek Kuvvetler Komutanı Tuğgeneral Mykhailo Drapatiy'nin atanmasına karar verdiğini açıkladı.",
+    "image": "https://static.birgun.net/resim/haber/2026/07/22/ukrayna-nda-gorev-degisikligi-genelkurmay-baskani-sirskiy-i-gorevden-alindi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ffad4f7b",
+    "title": "İstanbul'da 3 günlük metal fırtınası başlıyor",
+    "source": "BirGün",
+    "time": "22/07/2026 03:54",
+    "link": "https://www.birgun.net/haber/istanbul-da-3-gunluk-metal-firtinasi-basliyor-724943",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Metal müziğin üç büyük devi 24, 25 ve 26 Temmuz tarihlerinde İstanbul'da konser verecek. Lamb of God, Accept ve In Flames; Bonus Parkorman ve Maximum Uniq Açıkhava sahnelerinde hayranlarıyla buluşacak.",
+    "image": "https://static.birgun.net/resim/haber/2026/07/22/istanbul-da-3-gunluk-metal-firtinasi-basliyor.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_42e69dc0",
     "title": "Sınav sonuçları açıklandı, KTÜ Rektörü Çuvalcı, öğrencileri Trabzon’a davet etti - Gunebakış",
     "source": "Google Haberler",
@@ -4750,53 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TAKA"
-  },
-  {
-    "id": "GND_35fb1352",
-    "title": "Dilovası Davası'nda tutuklu  Akat \"Ben devletime milyonlarca lira vergi ödemiş bir iş adamıyım\"",
-    "source": "BirGün",
-    "time": "21/07/2026 21:34",
-    "link": "https://www.birgun.net/haber/dilovasi-davasi-nda-tutuklu-akat-ben-devletime-milyonlarca-lira-vergi-odemis-bir-is-adamiyim-724926",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dilovası'nda kaçak parfüm dolumu yapılan fabrikada çıkan yangında 3'ü çocuk 7 işçinin can vermesiyle ilgili davanın üçüncü duruşması Kandıra Cezaevi içindeki duruşma salonunda yapılıyor. Duruşmanın öğleden sonraki bölümünde mütalaaya karşı söz alan tutuklu Ali Osman Akat, \"Ben devletime milyonlarca lira vergi ödemiş bir iş adamıyım. Şirketlerimde denetimler yapıldı, 100 lira bile ceza almadık… İnsan hayatı önemlidir ama benim birinci derece değer verdiğim konu, vergi ödeyemeyecek duruma düştüm. Ne kazandıysam şirketlerime yatırdım, istihdam sağladım. İstihdam için üretim olması lazım. Üretim yapamıyoruz nakit akışımız düştü\" sözleriyle tahliye istedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/07/21/dilovasi-davasi-nda-tutuklu-akat-ben-devletime-milyonlarca-lira-vergi-odemis-bir-is-adamiyim.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_f44e603e",
-    "title": "Trabzonspor'da Hedef Üç Kupa! Güçlenen Kadrosuyla Şampiyonluk Yarışına Hazır - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "21/07/2026 21:34",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjFrLXdOUF80ampEZS05bjU4SHhTT1pnb3FRbUtDeFkwMUY2TnRvckRYVXdCNlVIM1ZVUm9Ib01zYlVzNDRXZ0hpWkMtcEJLQnBaMDhEbmRKR3pXNHYwbkFORUVtSk9scE5GWWVDaV9hWDZzRVFsRjZaUDZ5anU5LWxrUFR0RU1pYjNHMTVMaURPTVNZYzBKeFNCa2NYX1MwLWlyencwRdIBrAFBVV95cUxPdjliXzhvMnh0OC1ZYmNkeEl4X0RyVVU1XzlDel9LYVhXYnlzOGZIenFnNldvVDhPVmVLbmJ6WHplUFN1aXBsUDFPSEZneEV6Y1VvU1dvTC1rNnhCdE5lNHBIZXhUU0NKMUJmenNWd3BzQ241dUVTQ1U1cmFTdWRJbjVkRVpDbXRDdWtiZEltbHZ0U3FNQ3F3SmI4Yk0xWTNSZmU5UTEza0trOEdj?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "GND_3058e9b8",
-    "title": "Didim açıklarında tekne yanarak battı: 2 kişi kurtarıldı",
-    "source": "BirGün",
-    "time": "21/07/2026 21:34",
-    "link": "https://www.birgun.net/haber/didim-aciklarinda-tekne-yanarak-batti-2-kisi-kurtarildi-724927",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Aydın Didim açıklarında bulunan bir gemide makine dairesinde yangın çıktı. Tekne batarken tekneden atlayan iki kişi kurtarıldı.",
-    "image": "https://static.birgun.net/resim/haber/2026/07/21/didim-aciklarinda-tekne-yanarak-batti-2-kisi-kurtarildi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e85071f4",
-    "title": "Fenerbahçe, Şampiyonlar Ligi'nde ikinci ön eleme turunda ilk maçında Gornik Zabrze'yi ağırlıyor",
-    "source": "BBC Türkçe",
-    "time": "21/07/2026 21:34",
-    "link": "https://www.bbc.com/turkce/articles/cn7nreynp3yo",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe, Şampiyonlar Ligi ikinci ön eleme turu maçında Polonya ligi temsilcilerinden Gornik Zabrze'yi konuk ediyor. Maç 21.00'de başladı.",
-    "image": null,
-    "keyword": ""
   }
 ]
