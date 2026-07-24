@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_75ed636c",
+    "title": "Zonguldak'ta dalga boyu 3 metreye ulaştı",
+    "source": "OdaTV",
+    "time": "24/07/2026 03:35",
+    "link": "https://www.odatv.com/guncel/zonguldakta-dalga-boyu-3-metreye-ulasti-120155994",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zonguldak kent merkezinde etkili olan rüzgar nedeniyle Liman Caddesi kıyı şeridinde yüksekliği 3 metreyi bulan dalgalar oluştu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/24/zonguldakta-dalga-boyu-3-metreye-ulasti-muft.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_5f71477a",
+    "title": "Beş soruda Lozan Barış Antlaşması: Gizli maddeleri ve geçerlilik süresi var mı?",
+    "source": "BBC Türkçe",
+    "time": "24/07/2026 03:34",
+    "link": "https://www.bbc.com/turkce/articles/c5yv935d0z5o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Lozan Barış Antlaşması'nın imzalanması üzerinden 103 yıl geçti. Batı ülkelerine kapitülasyonların kaldırılmasından ülke sınırlarının uluslararası olarak tanınmasına kadar birçok konuyu düzenleyen belge, Türkiye'nin kurucu antlaşması kabul ediliyor. BBC Türkçe, Lozan ile ilgili yanlış bilinen gerçekleri uzmanlara sordu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_ae703d7d",
+    "title": "'Yeni Parti' için alternatifli hazırlık: Kuruluş için geri sayım",
+    "source": "BBC Türkçe",
+    "time": "24/07/2026 03:34",
+    "link": "https://www.bbc.com/turkce/articles/c0jlnyg5v8po",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Grup Başkanı Özgür Özel'in öncülüğünde kurulması planlanan yeni parti için hazırlıklar son aşamaya geldi. Kuruluş dilekçesinin İçişleri Bakanlığı'na verilmesi öncesinde parti ismi, kurucu milletvekilleri, örgütlenme modeli ve Meclis'teki olası dengelere ilişkin kritik ayrıntılar netleşmeye başladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_a3e2f487",
     "title": "Burdur'da kötü kokunun kaynağı çöp ev çıktı",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "📺 TRABZON | YouTube Video (ID: Yzxy8JOf-Q4)",
     "image": "https://img.youtube.com/vi/Yzxy8JOf-Q4/hqdefault.jpg",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_94c5e677",
-    "title": "🗣️ Dr. Sezgin Mumcu (@drsezginmumcu (· (22s)",
-    "source": "X (Twitter)",
-    "time": "23/07/2026 21:22",
-    "link": "https://x.com/drsezginmumcu/status/2080012333632352727",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "Genel Başkan Yardımcımız, Teşkilat Başkanımız Sayın \n@abuyukgumus\n başkanlığında Doğu Karadeniz Bölge Teşkilat Toplantımızı video konferans yöntemiyle gerçekleştirdik.\n\nToplantımızın Trabzon teşkilatımıza ve bölge illerimize hayırlara vesile olmasını diliyorum.",
-    "image": "https://pbs.twimg.com/media/HN2wMEzXoAArt0n?format=jpg&name=small",
-    "keyword": "TRABZON #KARADENIZ"
-  },
-  {
-    "id": "SOC_24ab2694",
-    "title": "🗣️ Serdar Türkmen (@serturkmen61 (· (22s)",
-    "source": "X (Twitter)",
-    "time": "23/07/2026 21:22",
-    "link": "https://x.com/serturkmen61/status/2080019771291267475",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "Karadeniz bölgesinin en plansız, en çağ dışı şehri Trabzon!\nŞehirden dışarı çıkmayan birçok Trabzonlu bunun farkında bile değil. Ordu, Rize, Giresun; Trabzon'a tur bindirdi.",
-    "image": null,
-    "keyword": "TRABZON #KARADENIZ"
-  },
-  {
-    "id": "SOC_9cc2c059",
-    "title": "🗣️ dursers (@dursers (· (21s)",
-    "source": "X (Twitter)",
-    "time": "23/07/2026 21:22",
-    "link": "https://x.com/dursers/status/2080024330281316399",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "Trabzonspor olmasaydı Trabzon sıradan bir şehir olurdu. Trabzon Karadeniz bölgesinin kalbi iken şu an çağdışı bir şehir haline geldi. Halkın ufku yok,itirazı yok.Şehirde yaşamayan Trabzonlular Şehrin virane görüntüsüne üzülmekten başka bir şey yapamıyor.",
-    "image": null,
-    "keyword": "TRABZON #KARADENIZ"
   }
 ]
