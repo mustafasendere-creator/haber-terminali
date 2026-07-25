@@ -1,5 +1,77 @@
 [
   {
+    "id": "SOC_70b2a2a5",
+    "title": "🗣️ Trabzon Haber Merkezi (@trabzonhabermer (· (14s)",
+    "source": "X (Twitter)",
+    "time": "25/07/2026 03:22",
+    "link": "https://x.com/trabzonhabermer/status/2080589878161481863",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "ÇGD Doğu Karadeniz Şube Başkanı Gençağa Karafazlı: \"Sansür Halkın Haber Alma Hakkına Saldırıdır\"",
+    "image": null,
+    "keyword": "TRABZON #KARADENIZ"
+  },
+  {
+    "id": "SOC_2513ae77",
+    "title": "🗣️ Türkiye Ajansı (@turkiyeajansi (· (9s)",
+    "source": "X (Twitter)",
+    "time": "25/07/2026 03:22",
+    "link": "https://x.com/turkiyeajansi/status/2080670650751181141",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": " SON DAKİKA |  Trabzon’a yeni havalimanı müjdesi \ndlvr.it/TThTNk  #Trabzon #Havalimanı #Karadeniz",
+    "image": null,
+    "keyword": "TRABZON #SON"
+  },
+  {
+    "id": "SOC_412294d2",
+    "title": "🗣️ Trabzon Aile ve Sosyal Hizmetler İl Müdürlüğü (@trabzonashm (· (8s)",
+    "source": "X (Twitter)",
+    "time": "25/07/2026 03:22",
+    "link": "https://x.com/trabzonashm/status/2080677155743080856",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Kuruluşumuz Vakfıkebir Sosyal Hizmet Merkezi personeli Aile ve Tüketici Bilimcisi Kezban Çilingir ile Sosyal Hizmet Personeli Elif Yılmaz tarafından, 24.07.2026 tarihinde Çarşıbaşı ilçesinde ikamet eden Gazilerimiz Mehmet Çalış ve Nuri Zihni hanelerinde ziyaret edildi.",
+    "image": "https://pbs.twimg.com/media/HOAM106WkAArqe_?format=jpg&name=360x360",
+    "keyword": "TRABZON #ZIYARET"
+  },
+  {
+    "id": "GND_6f225dc4",
+    "title": "Tartışmalı Yüzüklerin Efendisi dizisinin yeni sezonundan ilk fragman geldi",
+    "source": "OdaTV",
+    "time": "25/07/2026 03:15",
+    "link": "https://www.odatv.com/guncel/tartismali-yuzuklerin-efendisi-dizisinin-yeni-sezonundan-ilk-fragman-geldi-120156142",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yayınlandığı ilk günden bu yana özellikle J.R.R. Tolkien’in eserlerine yaklaşımı nedeniyle hayranlar arasında yoğun tartışmalara konu olan The Lord of the Rings: The Rings of Power'dan yeni sezon için ilk fragman geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/25/tartismali-yuzuklerin-efendisi-dizisinin-yeni-sezonundan-ilk-fragman-geldi-wwpq.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_d19bdd8f",
+    "title": "Nevşehir'de iki araç çarpıştı: 5 yaralı",
+    "source": "Habertürk",
+    "time": "25/07/2026 03:15",
+    "link": "https://www.haberturk.com/nevsehir-de-iki-arac-carpisti-5-yarali-3900949",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nevşehir'de minibüs ile hafif ticari aracın çarpıştığı kazada yaralanan 5 kişi hastaneye kaldırıldı",
+    "image": "https://im.haberturk.com/l/2026/07/25/ver1784937925/3900949/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_d827f001",
+    "title": "SON DAKİKA! Akın Gürlek’den bomba açıklama? Çetin Emeç cinayeti de araştırılıyor! - SON TV",
+    "source": "Google Haberler",
+    "time": "25/07/2026 03:13",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWdVZE8yOEJTMXlNMVA3Ym9uQTI4TW5hMW5iZ0wtQUdNVUNLNzBMV0RxQnlpaUJMOGdwZ1dWeDE1Um5EQnBodFRIbjFKUDZVajZKdVRMSTY4VjgxbWM0NnF6ZWhKUzdTUTV2M1dqVEY2YnFTZFlQYVE3TUtMcUVjNXhlZm5WN1pQX3JFYk5WQzhnSTBTenhiOUpibzU0dw?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "GND_7ab8e156",
     "title": "Otizmli ultra maraton yüzücüsü Tuna Tunca, Kuzey Kanalı'nı geçti",
     "source": "Anadolu Ajansı",
@@ -4726,77 +4798,5 @@
     "summary": "Trabzonspor'un yeni transferi Malinovskyi, \"Trabzonspor taraftarının hafta hafta futbolla yaşadığının, futbolun tam içinde olduğunun ve sonuçlardan büyük bir mutluluk ya da üzüntü duyduğunun farkındayım. Ben de onları mutlu etmeye çalışacağım.\" dedi.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_fd305288",
-    "title": "🗣️ Üniversite arkadaşlarımla Trabzon Turu | Göllüalan Yayla şenlikleri | Şalpazarı | Trabzon merkez",
-    "source": "YouTube",
-    "time": "24/07/2026 20:52",
-    "link": "https://www.youtube.com/watch?v=5kMDIqnNKTQ",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: 5kMDIqnNKTQ)",
-    "image": "https://img.youtube.com/vi/5kMDIqnNKTQ/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_ced11825",
-    "title": "Gülistan Doku soruşturmasında yeni tutuklama",
-    "source": "OdaTV",
-    "time": "24/07/2026 20:36",
-    "link": "https://www.odatv.com/guncel/gulistan-doku-sorusturmasinda-yeni-tutuklama-120156118",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli'de 5 Ocak 2020'den itibaren kendisinden haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili yürütülen soruşturmada gözaltına alınan bilişim şirketinin sahibi tutuklandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/24/gulistan-doku-sorusturmasinda-yeni-tutuklama-0ngv.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_72bc3f05",
-    "title": "Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı",
-    "source": "OdaTV",
-    "time": "24/07/2026 20:36",
-    "link": "https://www.odatv.com/guncel/eyupsultan-belediye-baskan-yardimcisi-hasan-karabulut-tutuklandi-120156119",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çankaya Belediyesine yönelik yolsuzluk soruşturması kapsamında, Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/24/eyupsultan-belediye-baskan-yardimcisi-hasan-karabulut-tutuklandi-gvdy.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d76f9f6e",
-    "title": "Gülistan Doku soruşturması: Bilişim şirketi sahibi de tutuklandı",
-    "source": "Ekonomim",
-    "time": "24/07/2026 20:36",
-    "link": "https://www.ekonomim.com/gundem/gulistan-doku-sorusturmasi-bilisim-sirketi-sahibi-de-tutuklandi-haberi-908045",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tunceli ve Erzurum Cumhuriyet Başsavcılığı tarafından yürütülen Gülistan Doku soruşturması kapsamında gözaltında bulunan ACA bilişim şirketinin sahibi Mehmet Aca tutuklandı. Soruşturmada tutuklu sayısı 14'e çıktı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/07/24/gulistan-doku-sorusturmasi-bilisim-sirketi-sahibi-de-tutuklandi-zrqp_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_966c1955",
-    "title": "Bakan Fidan, Ukraynalı mevkidaşı Sybiha ile görüştü",
-    "source": "Ekonomim",
-    "time": "24/07/2026 20:36",
-    "link": "https://www.ekonomim.com/gundem/bakan-fidan-ukraynali-mevkidasi-sybiha-ile-gorustu-haberi-908044",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dışişleri Bakanı Hakan Fidan, Ukrayna Dışişleri Bakanı Andrii Sybiha ile gerçekleştirdiği görüşmede Rusya-Ukrayna Savaşı'ndaki gelişmeleri ele aldı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/07/24/bakan-fidan-ukraynali-mevkidasi-sybiha-ile-gorustu-riso_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_88bd8e97",
-    "title": "Rusya'dan Ukrayna açıklaması: ABD'den yeni teklifler bekleyeceğiz",
-    "source": "Ekonomim",
-    "time": "24/07/2026 20:36",
-    "link": "https://www.ekonomim.com/dunya/rusyadan-ukrayna-aciklamasi-abdden-yeni-teklifler-bekleyecegiz-haberi-908046",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kremlin Sözcüsü Dmitriy Peskov, ABD'den Ukrayna krizinin çözümüne yönelik yeni teklifler bekleyeceklerini ve bu tekliflerin öncelikle Rusya için kabul edilebilir olması gerektiğini belirtti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/07/24/rusyadan-ukrayna-aciklamasi-abdden-yeni-teklifler-bekleyecegiz-2lfx_cover.jpg",
-    "keyword": ""
   }
 ]
