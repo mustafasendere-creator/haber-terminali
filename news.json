@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_782ddcce",
+    "title": "Moody's Türkiye'nin kredi notunu güncellemedi",
+    "source": "Habertürk",
+    "time": "25/07/2026 06:55",
+    "link": "https://www.haberturk.com/moodys-turkiye-nin-kredi-notunu-guncellemedi-3900945-ekonomi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası kredi derecelendirme kuruluşu Moody's, Türkiye'nin kredi notuyla ilgili bir karar almazken ülkeye ilişkin periyodik incelemesini tamamladığını bildirdi",
+    "image": "https://im.haberturk.com/l/2026/07/25/ver1784950131/3900945/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c1ae7184",
+    "title": "İstanbul güne sağanak yağışla başladı!",
+    "source": "Haber Global",
+    "time": "25/07/2026 06:54",
+    "link": "https://haberglobal.com/gundem/istanbul-gune-saganak-yagisla-basladi-536298",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul’da beklenen yağış başladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/07/25/istanbul-gune-saganak-yagisla-basladi-vluj.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_8f24b284",
+    "title": "ABD Başkanı Trump, gelecek başkanlık seçimlerinde \"bir kez daha aday olacağını\" açıkladı",
+    "source": "Anadolu Ajansı",
+    "time": "25/07/2026 06:53",
+    "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-gelecek-baskanlik-secimlerinde-bir-kez-daha-aday-olacagini-acikladi/4008797",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, bir sonraki başkanlık seçimlerinde \"bir kez daha aday olacağını\" duyurdu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_ac30cd98",
     "title": "İstanbul'da etkili sağanak",
     "source": "Habertürk",
@@ -4760,42 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "YENİ Parti'nin kurulması Almanya'daki CHP birliklerini de hareketlendirdi. Başkent Berlin'deki CHP Birliği Derneği tüzük değişikliğine giderek adını YENİ Parti Berlin Birliği e.V. olarak değiştirmeye hazırlanıyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_bec1c5fe",
-    "title": "Alman SPD'den Özgür Özel'in YENİ Parti'sine tam destek",
-    "source": "DW Türkçe",
-    "time": "24/07/2026 21:35",
-    "link": "https://www.dw.com/tr/alman-spd-den-özgür-özel-in-yeni-parti-sine-tam-destek/a-78106037",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya'da CHP'nin kardeş partisi SPD'nin lideri Lars Klingbeil, Özgür Özel'e tam destek açıklayarak ilişkilerin YENİ Parti ile sürdürüleceği mesajını verdi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_7b12207d",
-    "title": "Pedro Sanchez'den Özgür Özel'e destek: Tam zamanı olduğunu hissettiniz",
-    "source": "Diken",
-    "time": "24/07/2026 21:35",
-    "link": "https://www.diken.com.tr/pedro-sanchezden-ozgur-ozele-destek-tam-zamani-oldugunu-hissettiniz/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pedro Sanchez'den Özgür Özel'e destek: Tam zamanı olduğunu hissettiniz 24.07.2026 Diken İspanya Başbakanı ve Sosyalist Enternasyonel Başkanı Pedro Sanchez, YENİ Parti Genel Başkanı seçilen Özgür Özel'e \"Güçlü bir lider olarak temel ilkelerin ihlal edildiği bu dönemin bir atılım yapmak için tam zamanı olduğunu hissettiniz\" dedi. The post Pedro Sanchez'den Özgür Özel'e destek: Tam zamanı olduğunu hissettiniz appeared first on #sitelinkat 24.07.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_94e681ad",
-    "title": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet görevden uzaklaştırıldı",
-    "source": "Diken",
-    "time": "24/07/2026 21:35",
-    "link": "https://www.diken.com.tr/izmit-belediye-baskani-fatma-kaplan-hurriyet-gorevden-uzaklastirildi/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet görevden uzaklaştırıldı 24.07.2026 Diken CHP'li İzmit Belediye Başkanı Fatma Kaplan Hürriyet, tutuklanmasının ardından görevinden uzaklaştırıldı. The post İzmit Belediye Başkanı Fatma Kaplan Hürriyet görevden uzaklaştırıldı appeared first on #sitelinkat 24.07.2026 .",
     "image": null,
     "keyword": ""
   }
