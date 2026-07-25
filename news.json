@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_ac30cd98",
+    "title": "İstanbul'da etkili sağanak",
+    "source": "Habertürk",
+    "time": "25/07/2026 06:35",
+    "link": "https://www.haberturk.com/istanbul-da-etkili-saganak-3900950",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da gece saatlerinde sağanak etkili oldu. Kağıthane'de bazı cadde ve sokaklarda su birikintileri oluşurken, araçlar ilerlemekte güçlük çekti",
+    "image": "https://im.haberturk.com/l/2026/07/25/ver1784949315/3900950/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6232fe89",
+    "title": "Adana'da silahla vurulan genç kadın öldü",
+    "source": "Habertürk",
+    "time": "25/07/2026 06:35",
+    "link": "https://www.haberturk.com/adana-da-silahla-vurulan-genc-kadin-oldu-3900951",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da silahlı saldırıya uğrayan 24 yaşındaki kadın, ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/07/25/ver1784949872/3900951/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ffd98e6e",
+    "title": "Acılı yemekler ömrü uzatabilir",
+    "source": "Diken",
+    "time": "25/07/2026 06:34",
+    "link": "https://www.diken.com.tr/acili-yemekler-omru-uzatabilir/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Acılı yemekler ömrü uzatabilir 25.07.2026 Diken Acılı yemeklerin ömrü uzatabileceğine ilişkin ikna edici araştırmalar var. The post Acılı yemekler ömrü uzatabilir appeared first on #sitelinkat 25.07.2026 .",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_e57d2e43",
+    "title": "Umut, ucuz bir şey değil",
+    "source": "10Haber",
+    "time": "25/07/2026 06:34",
+    "link": "https://10haber.net/yazarlar/ayse-arman/umut-ucuz-bir-sey-degil-723172/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Biliyorsunuz Özgür Özel istifa etti. Yeni bir parti kuruyor. Bina bir tarafta. Mühür bir tarafta. Amblem, tabela, arşiv, o koca miras… hepsi bir tarafta. Vekiller, il başkanları ve -anketlere bakılırsa- seçmen öbür tarafta. Peki parti hangisi? Bu sorunun cevabını tapu değil, algı verir. Meclis’te ana muhalefet unvanı el değiştiriyor. Grup imkanları, Hazine yardımı, komisyon dengeleri… …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/07/ozel.webp",
+    "keyword": ""
+  },
+  {
+    "id": "GND_17db1c98",
+    "title": "Fatih Altaylı yazdı: Henüz olunmamış şampiyonluğu kutlamayın",
+    "source": "10Haber",
+    "time": "25/07/2026 06:34",
+    "link": "https://10haber.net/siyaset/fatih-altayli-yazdi-henuz-olunmamis-sampiyonlugu-kutlamayin-723175/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "“Kale” AK Parti’ye geçerse kimse şaşırmasın CHP’li belediye başkanlarının önce gözaltına alınıp ardından tutuklanmasının artık rutin bir işlem haline geldiğini, sıradanlaştığını ve hatta haber değerini bile yitirdiğini daha önce de yazdık. Keza paçayı kurtarmak için bazı belediye başkanlarının da AK Parti’ye geçmek için sıraya girdiğini “Yok canım o da olmaz” dediğiniz isimlerin bile AK Parti’den, …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/07/ozgur-ozel-scaled.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_a2a3ab89",
     "title": "Lüks restoranlardan ev mutfaklarına; 1990’ların akışkan çikolatalı keki",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet görevden uzaklaştırıldı 24.07.2026 Diken CHP'li İzmit Belediye Başkanı Fatma Kaplan Hürriyet, tutuklanmasının ardından görevinden uzaklaştırıldı. The post İzmit Belediye Başkanı Fatma Kaplan Hürriyet görevden uzaklaştırıldı appeared first on #sitelinkat 24.07.2026 .",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_949c54af",
-    "title": "EMEP Eskişehir Örgütü: Egemen sendikal bürokrasi anlayışına işçilerin tahammülü kalmadı",
-    "source": "Evrensel",
-    "time": "24/07/2026 21:34",
-    "link": "https://www.evrensel.net/haber/5993549/emep-eskisehir-orgutu-egemen-sendikal-burokrasi-anlayisina-iscilerin-tahammulu-kalmadi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Emek Partisi Eskişehir İl Başkanı Ceren Kökoğlu, Eskişehir’de belediye işçilerinin içinde bulunduğu duruma ilişkin, “İşçi iradesini tanımayan sendikal bürokrasi karşısında tutum alan belediye işçilerinin yanındayız” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/356036.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e05c934f",
-    "title": "Butlan yönetimi tarafından İzmir İl Başkanlığı'ndan alınmıştı: Çağatay Güç, CHP'den istifa ettiğini duyurdu",
-    "source": "Evrensel",
-    "time": "24/07/2026 21:34",
-    "link": "https://www.evrensel.net/haber/5993550/butlan-yonetimi-tarafindan-izmir-il-baskanligindan-alinmisti-cagatay-guc-chpden-istifa-ettigini-duyurdu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mutlak Butlan yönetimi tarafından İzmir İl Başkanlığı görevinden alınan Çağatay Güç, CHP'den istifa ettiğini ve Özgür Özel'in başkanı olduğu Yeni Parti'nin yanında olacağını duyurdu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/356037.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_1ebe6c8c",
-    "title": "İmamoğlu'ndan Yeni Parti için ilk paylaşım: \"Yürüyelim arkadaşlar\"",
-    "source": "Evrensel",
-    "time": "24/07/2026 21:34",
-    "link": "https://www.evrensel.net/haber/5993551/imamoglundan-yeni-parti-icin-ilk-paylasim-yuruyelim-arkadaslar",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklu Cumhurbaşkanı Adayı ve seçilmiş İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu, bugün kuruluşu ilan edilen Yeni Parti’ye ilişkin paylaşım yaptı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/354534.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_e824b1d0",
-    "title": "Galatasaray'da Mali Kriz İddiası! Haluk Yürekli'nin Açıklamaları Gündem Oldu - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "24/07/2026 21:34",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZTRubS01TDJad0l3SXM2Mm84bkhPMkhlOHN5R3ktRlY0UXlXeEJ2Q05uWmhGN256Um9DeWgtRWMtNEtWYVZEYzJNZUJZNmdCN3NscmhHcmFtRU5JQVpNcVdZTzhRR0lrLTkyY2dQbl9sQ25sU2IwT1ZGOHRKMkpxcUhZZGdOdlM5OUkxQmVhdGZvM1lMOVo2dmdiWTdVU0JTSEJfQmtMZHJ5dnPSAasBQVVfeXFMT2U0bm0tNUwyWndJd0lzNjJvOG5ITzJIZThzeUd5LUZWNFF5V3hCdkNOblpoRjduelJvQ3loLUVjLTRLVmFWRGMyTWVCWTZnQjdzbHJoR3JhbUVOSUFaTXFXWU84UUdJay05MmNnUG5fbENubFNiME9WRjh0SjJKcXFIWWRnTnZTOTlJMUJlYXRmbzNZTDlaNnZnYlk3VVNCU0hCX0JrTGRyeXZz?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "GND_e2c472a4",
-    "title": "Manisa Büyükşehir Belediye Başkanı Besim Dutlulu YENİ Parti'ye geçeceğini duyurdu: \"Ülkenin yeniliğe ihtiyacı var\"",
-    "source": "BirGün",
-    "time": "24/07/2026 21:34",
-    "link": "https://www.birgun.net/haber/manisa-buyuksehir-belediye-baskani-besim-dutlulu-yeni-parti-ye-gececegini-duyurdu-ulkenin-yenilige-ihtiyaci-var-725527",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Manisa Büyükşehir Belediye Başkanı Besim Dutlulu, CHP'den istifa ederek Özgür Özel genel başkanlığında kurulan YENİ Parti'ye geçeceğini açıkladı. Sosyal medya hesabından paylaşım yapan Dutlulu, \"CHP'de kalmanın ülke menfaati açısından doğru olduğunu düşünmüyorum\" ifadelerini kullandı.",
-    "image": "https://static.birgun.net/resim/haber/2026/07/24/manisa-buyuksehir-belediye-baskani-besim-dutlulu-yeni-parti-ye-gececegini-duyurdu-ulkenin-yenilige-ihtiyaci-var.jpg",
     "keyword": ""
   }
 ]
