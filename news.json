@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_6ce9f44b",
+    "title": "Karabük'te 73 yaşındaki adam evinde ölü bulundu",
+    "source": "Haber Global",
+    "time": "26/07/2026 03:54",
+    "link": "https://haberglobal.com/gundem/karabukte-73-yasindaki-adam-evinde-olu-bulundu-536429",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karabük'te 73 yaşındaki Turgut Yıldız, ekipler tarafından evinde ölü bulundu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/07/26/karabukte-73-yasindaki-adam-evinde-olu-bulundu-lec7.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c3497a01",
+    "title": "Kitap okumak gerçekten seksi mi?",
+    "source": "Diken",
+    "time": "26/07/2026 03:54",
+    "link": "https://www.diken.com.tr/kitap-okumak-gercekten-seksi-mi/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kitap okumak gerçekten seksi mi? 26.07.2026 Diken Ünlülerin kurduğu kitap kulüplerinden ve kitaplı sosyal medya paylaşımlarının ardından okumanın yeniden seksi hale gelip gelmediği tartışılıyor. The post Kitap okumak gerçekten seksi mi? appeared first on #sitelinkat 26.07.2026 .",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_3759bacf",
+    "title": "Evrensel'in manşeti | Yüzünü yıka çalış",
+    "source": "Evrensel",
+    "time": "26/07/2026 03:54",
+    "link": "https://www.evrensel.net/haber/5993665/evrenselin-manseti-yuzunu-yika-calis",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enflasyonu düşürme gerekçesiyle uygulanan kemer sıkma programı ve uluslararası meşruiyet arayışları ekonomide düzelme sağlamıyor. Ücretler erirken, emekçilere ise sıcaktan fenalaşan liman işçisine söylenen \"Yüzünü yıka çalış\" anlayışı reva görülüyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/356132.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_c4375eaf",
+    "title": "3 days in trabzon",
+    "source": "Reddit",
+    "time": "26/07/2026 03:53",
+    "link": "https://www.reddit.com/r/AskTurkey/comments/1v6o2l9/3_days_in_trabzon/",
+    "type": "SOC",
+    "prefix": "🟠 🤖",
+    "summary": "I am going to trabzon for 3 days, any reccomendations for fun actviites and things i should od. i would love to do something like an ATV tour with the beautoful views. please give me all suggestions. submitted by /u/Substantial-Box4550 to r/AskTurkey link yorumlar",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_48cc9ca0",
     "title": "Kastamonu'da sağanak hayatı olumsuz etkiledi",
     "source": "TRT Haber",
@@ -4749,54 +4797,6 @@
     "prefix": "🔔",
     "summary": "Araştırmanın temelinde, yaşam boyunca hücrelerde biriken somatik mutasyonlar yer alıyor.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_9597ab11",
-    "title": "Venezuela’daki çifte depremin ardından bir ay: trajedinin bilançosu",
-    "source": "Euronews",
-    "time": "25/07/2026 19:54",
-    "link": "http://tr.euronews.com/2026/07/25/venezueladaki-cifte-depremin-ardindan-bir-ay-trajedinin-bilancosu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Venezuela’daki çifte depremin üzerinden bir ay geçti; resmi bilançoya göre 5.500’den fazla ölü, 16.700 yaralı. Binlerce aile hâlâ evsiz, hükümet kayıp sayısını güncellemiyor; maddi zarar 19,6 milyar dolar.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_9886b5f1",
-    "title": "İzmir merkezli 4 ilde bahis operasyonu: 20 tutuklama",
-    "source": "BirGün",
-    "time": "25/07/2026 19:54",
-    "link": "https://www.birgun.net/haber/izmir-merkezli-4-ilde-bahis-operasyonu-20-tutuklama-725667",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir merkezli 4 ilde, hesaplarında 2 milyar liralık para hareketi saptanan yasa dışı bahis örgütüne yönelik operasyonda gözaltına alınan 34 şüpheliden, aralarında örgüt lideri H.P.'nin de bulunduğu 20 kişi tutuklandı.",
-    "image": "https://static.birgun.net/resim/haber/2026/07/25/izmir-merkezli-4-ilde-bahis-operasyonu-20-tutuklama.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_6479cb96",
-    "title": "Diyarbakır'da gıda zehirlenmesi şüphesi: 7'si çocuk 8 kişi hastaneye kaldırıldı",
-    "source": "BirGün",
-    "time": "25/07/2026 19:54",
-    "link": "https://www.birgun.net/haber/diyarbakir-da-gida-zehirlenmesi-suphesi-7-si-cocuk-8-kisi-hastaneye-kaldirildi-725668",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır'ın Bismil ilçesinde bir marketten aldıkları atıştırmalıkları tükettikten sonra rahatsızlanan 7'si çocuk 8 kişi, zehirlenme şüphesiyle hastaneye kaldırıldı. Olayla ilgili inceleme başlatıldı.",
-    "image": "https://static.birgun.net/resim/haber/2026/07/25/diyarbakir-da-gida-zehirlenmesi-suphesi-7-si-cocuk-8-kisi-hastaneye-kaldirildi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_6e8d74e0",
-    "title": "CHP'de \"mukaddes yol\" tartışmalı atama",
-    "source": "BirGün",
-    "time": "25/07/2026 19:54",
-    "link": "https://www.birgun.net/haber/chp-de-mukaddes-yol-tartismali-atama-725669",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP İzmir İl Başkanı Utku Gümrükçü tarafından Selçuk İlçe Başkanlığı’na atanan Ali Akyüz’ün, geçmiş seçim dönemlerinde AKP’li isimlere başarı dilediği ve 2024 yerel seçimlerinde CHP’nin adayına destek vermediği ortaya çıktı.",
-    "image": "https://static.birgun.net/resim/haber/2026/07/25/chpde-mukaddes-yol-tartismali-atama.jpg",
     "keyword": ""
   }
 ]
