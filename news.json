@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_48cc9ca0",
+    "title": "Kastamonu'da sağanak hayatı olumsuz etkiledi",
+    "source": "TRT Haber",
+    "time": "26/07/2026 03:14",
+    "link": "https://www.trthaber.com/haber/turkiye/kastamonuda-saganak-hayati-olumsuz-etkiledi-952212.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu'nun Doğanyurt ilçesinde etkili olan sağanak birçok noktada su baskınlarına ve taşkınlara neden oldu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_605658ad",
+    "title": "Orta Karadeniz için kuvvetli sağanak uyarısı",
+    "source": "TRT Haber",
+    "time": "26/07/2026 03:14",
+    "link": "https://www.trthaber.com/haber/turkiye/orta-karadeniz-icin-kuvvetli-saganak-uyarisi-952213.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Orta Karadeniz'in bazı illeri ve Kastamonu için kuvvetli sağanak ve gök gürültülü sağanak uyarısında bulunuldu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_64dfcefa",
     "title": "Günlük Burç Yorumları: 26 Temmuz Pazar Boğa Burcu Yorumu",
     "source": "Cumhuriyet",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "CHP İzmir İl Başkanı Utku Gümrükçü tarafından Selçuk İlçe Başkanlığı’na atanan Ali Akyüz’ün, geçmiş seçim dönemlerinde AKP’li isimlere başarı dilediği ve 2024 yerel seçimlerinde CHP’nin adayına destek vermediği ortaya çıktı.",
     "image": "https://static.birgun.net/resim/haber/2026/07/25/chpde-mukaddes-yol-tartismali-atama.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e2f8117e",
-    "title": "ABD'de orman yangınlarına müdahale sırasında hayatını kaybeden itfaiyecilerin sayısı 4'e yükseldi",
-    "source": "Anadolu Ajansı",
-    "time": "25/07/2026 19:54",
-    "link": "https://www.aa.com.tr/tr/dunya/abdde-orman-yanginlarina-mudahale-sirasinda-hayatini-kaybeden-itfaiyecilerin-sayisi-4e-yukseldi/4009326",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'de haziran ayı sonunda Colorado ile Utah eyaletleri sınırında orman yangınlarına müdahale sırasında hayatını kaybeden itfaiyecilerin sayısının 4'e yükseldiği bildirildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_5fa44e1b",
-    "title": "Rusya'da benzin ihracatı yasağının süresi yıl sonuna kadar uzatılacak",
-    "source": "Anadolu Ajansı",
-    "time": "25/07/2026 19:53",
-    "link": "https://www.aa.com.tr/tr/ekonomi/rusyada-benzin-ihracati-yasaginin-suresi-yil-sonuna-kadar-uzatilacak/4009329",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak, benzin ihracatına yönelik yasağın süresinin yıl sonuna kadar uzatılacağını, dizel yakıt ihracatına getirilen kısıtlamanın ise piyasanın normale dönmesiyle kaldırılacağını bildirdi.",
-    "image": null,
     "keyword": ""
   }
 ]
