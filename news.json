@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_8b7b6a73",
+    "title": "Van Gölü doldu taştı",
+    "source": "OdaTV",
+    "time": "27/07/2026 03:35",
+    "link": "https://www.odatv.com/guncel/van-golu-doldu-tasti-120156367",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Van’da mevsim normallerinin üzerinde seyreden sıcak hava nedeniyle yurttaşlar Van Gölü sahillerine akın etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/27/van-golu-doldu-tasti-4voz.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_5c907725",
+    "title": "Yan Diomande Real Madrid'de: PSG resmen çekildi",
+    "source": "OdaTV",
+    "time": "27/07/2026 03:35",
+    "link": "https://www.odatv.com/spor/yan-diomande-real-madridde-psg-resmen-cekildi-120156368",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Real Madrid, PSG'nin yarıştan çekilmesinin ardından Leipzig'in yıldızı Yan Diomande'yi kadrosuna kattı. Bonservis bedelinin 100 milyon Euro'yu aşması bekleniyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/27/yan-diomande-real-madridde-psg-resmen-cekildi-kl91.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ff91df02",
+    "title": "Nişanlı çifti, trafik kazası ayırdı: 1 ölü, 1 yaralı",
+    "source": "Habertürk",
+    "time": "27/07/2026 03:35",
+    "link": "https://www.haberturk.com/mugla-da-nisanli-cifti-trafik-kazasi-ayirdi-1-olu-1-yarali-3901248",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla Seydikemer'de kontrolden çıkarak bağ evine çarpan otomobilin sürücüsü Semih Uçar hayatını kaybetti, nişanlısı Zeynep Yüksel ise yaralandı",
+    "image": "https://im.haberturk.com/l/2026/07/27/ver1785107228/3901248/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b4d8adab",
+    "title": "Şara, Cumhurbaşkanı Erdoğanın yaptırımların kaldırılması için arabuluculuk yaptığını söyledi",
+    "source": "TRT Haber",
+    "time": "27/07/2026 03:34",
+    "link": "https://www.trthaber.com/haber/dunya/sara-cumhurbaskani-erdoganin-yaptirimlarin-kaldirilmasi-icin-arabuluculuk-yaptigini-soyledi-952271.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suriye Cumhurbaşkanı Ahmed Şara, Suudi Arabistan ile Türkiye'nin geçen yıl Suriye'ye yönelik yaptırımların kaldırılması konusunda arabuluculuk girişiminde bulunduğunu, Cumhurbaşkanı Recep Tayyip Erdoğan'ın da ABD nezdinde bu konuda devreye girdiğini söyledi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_89189feb",
+    "title": "AK Parti Merkez Yürütme Kurulu bugün toplanıyor",
+    "source": "TRT Haber",
+    "time": "27/07/2026 03:34",
+    "link": "https://www.trthaber.com/haber/gundem/ak-parti-merkez-yurutme-kurulu-bugun-toplaniyor-952274.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AK Parti Merkez Yürütme Kurulu MYK, Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan başkanlığında bugün toplanacak.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_24a959ba",
     "title": "Trabzonspor’un Genç Golcüsü Poyraz Efe Yıldırım Muğlaspor’da - Gunebakış",
     "source": "Google Haberler",
@@ -4737,66 +4797,6 @@
     "prefix": "🌐 📰",
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_fe33b042",
-    "title": "Trabzonspor ilk ciddi sınavında Frankfurt’a 3-0 yenildi - Gunebakış",
-    "source": "Google Haberler",
-    "time": "26/07/2026 20:34",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDl1YURjVklMLWZlVHNCSlh5aFAycFp1VDM4anZzWFM4eV9Sb2twcTh4X1RHNGxRQmZqT2tYejJiNWxhWFMxbnp3RkljckJObVVUTlB6YklpWUpIaGhMYU4zOEduZ2RRVFZGTUktMlNJcDRtSVVFOFl0V2E3RTZKM2xqQTRnU0RVRHVnaXUtaFI3cU4ySGNtVzVGV3jSAZwBQVVfeXFMTmg5dWFEY1ZJTC1mZVRzQkpYeWhQMnBadVQzOGp2c1hTOHlfUm9rcHE4eF9URzRsUUJmak9rWHoyYjVsYVhTMW56d0ZJY3JCTm1VVE5QemJJaVlKSGhoTGFOMzhHbmdkUVRWRk1JLTJTSXA0bUlVRThZdFdhN0U2SjNsakE0Z1NEVUR1Z2l1LWhSN3FOMkhjbVc1Rld4?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_09758241",
-    "title": "Bosna Hersek'te 460. Geleneksel Mostar Köprüsü Atlayışları yapıldı",
-    "source": "Anadolu Ajansı",
-    "time": "26/07/2026 20:34",
-    "link": "https://www.aa.com.tr/tr/kultur/bosna-hersekte-460-geleneksel-mostar-koprusu-atlayislari-yapildi/4009942",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bosna Hersek'in güneyindeki Mostar kentinde 460. Geleneksel Mostar Köprüsü Atlayışları düzenlendi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_ebfcbfac",
-    "title": "Gençlik ve Spor Bakanı Osman Aşkın Bak: Spora yapılan büyük yatırımlar var",
-    "source": "Anadolu Ajansı",
-    "time": "26/07/2026 20:34",
-    "link": "https://www.aa.com.tr/tr/spor/genclik-ve-spor-bakani-osman-askin-bak-spora-yapilan-buyuk-yatirimlar-var/4009948",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2026 FIVB Milletler Ligi (VNL) finalinde Brezilya'yı 3-1 yenerek şampiyon olan A Milli Kadın Voleybol Takımı'nı tebrik etti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_ee439aba",
-    "title": "Kapıyı kırdı pankartları indirdi! CHP Düzce İl Başkanlığından gerilim",
-    "source": "A Haber",
-    "time": "26/07/2026 20:33",
-    "link": "https://www.ahaber.com.tr/gundem/2026/07/26/kapiyi-kirdi-pankartlari-indirdi-chp-duzce-il-baskanligindan-gerilim",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "CHP'de Kemal Kılıçdaroğlu'nun yeniden genel başkan olmasının ardından Düzce İl Başkanlığı'nda görev değişimi gerginliğe neden oldu. Partiden ihraç edilen Özcan Dağıstanlı'nın yerine atanan Kenan Akın,... Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/a7e96b/1200/1200/38/0/582/544?u=https://iahbr.tmgrup.com.tr/2026/07/26/kapiyi-kirdi-pankartlari-indirdi-chp-duzce-il-baskanligindan-gerilim-1785085909407.jpeg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_0acfe2d2",
-    "title": "Fatih Tekke basın toplantısında konuştu! ''Bir maçta olacak bir şey değil''",
-    "source": "Kuzey Ekspres",
-    "time": "26/07/2026 20:33",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28410679/fatih-tekke-basin-toplantisinda-konustu-bir-macta-olacak-bir-sey-degil",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Eintracht Frankfurt karşılaşmasının ardından düzenlediği basın toplantısında konuştu.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/07/26/large/fatih-tekke-basin-toplantisinda-konustu.jpg",
     "keyword": "TRABZON"
   }
 ]
