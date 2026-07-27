@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_1ee40d7f",
+    "title": "Deneyim müzeciliğiyle Göbeklitepe’den başlayarak diğer medeniyetlere zaman yolculuğu",
+    "source": "Cumhuriyet",
+    "time": "27/07/2026 04:54",
+    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/deneyim-muzeciligiyle-gobeklitepe-den-baslayarak-diger-medeniyetlere-zaman-yolculugu-2524071",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ayasofya ve Efes deneyim müzelerinin yaratıcısı DEM Müzecilik, Göbeklitepe’den Maya’ya insanlık tarihine iz bırakmış antik medeniyetleri ileri teknolojiyle buluşturan yeni küresel projesi \"Timewalk\"un ilk durağını Londra'da açtı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/4fe2c40d-3206-478e-960c-2c439b6f510f.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b5d826f2",
+    "title": "Bölgesel asgari ücret tartışması yeniden ısıtılıyor. Sendikalara göre amaç zamdan kaçmak",
+    "source": "Cumhuriyet",
+    "time": "27/07/2026 04:54",
+    "link": "https://www.cumhuriyet.com.tr/ekonomi/bolgesel-asgari-ucret-tartismasi-yeniden-isitiliyor-sendikalara-gore-amac-zamdan-kacmak-2524069",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mevcut asgari ücretin yurdun her yerinde açlık sınırının altında kaldığına dikkat çeken emek cephesi, eşitsizlik yaratacak uygulama yerine geçim ücretinin artırılmasını savunuyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/19be0145-493b-4124-bcd8-63d7a65bd6f7.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_75e83833",
+    "title": "Perşembe Yaylası için ek rapor istendi",
+    "source": "Cumhuriyet",
+    "time": "27/07/2026 04:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/persembe-yaylasi-icin-ek-rapor-istendi-2524068",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ordu İdare Mahkemesi, Perşembe Yaylası'nı da kapsayan Aybastı, Korgan ve Kabataş ilçelerindeki maden arama sondajı çalışmalarına yönelik yürütmenin durdurulması kararını bu aşamada erteleyerek bilirkişi heyetinden 14 başlıkta ayrıntılı ek rapor hazırlanmasını istedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/f6b746bc-8c11-4d66-9248-fd241950b222.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_bdf65c62",
+    "title": "Mahkeme İkizköy’deki 679 parsel alanı kapsayan davaların tamamını durdurdu",
+    "source": "Cumhuriyet",
+    "time": "27/07/2026 04:54",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/mahkeme-ikizkoy-deki-679-parsel-alani-kapsayan-davalarin-tamamini-durdurdu-2524066",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kamuoyunda büyük yankı uyandıran davada köylülerin avukatları, alınan kararın önemli bir hukuki kazanım olduğunu söyledi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/6652b0f1-4396-470e-af75-f89cb3c268c8.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_3fc47a1e",
     "title": "Savaş uzadıkça Tahran’da kazanan Payidari oluyor",
     "source": "Cumhuriyet",
@@ -4750,53 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_e7478c93",
-    "title": "Trabzonspor'da kanat için sürpriz hamle! Premier Lig'den flaş isim gündemde",
-    "source": "Kuzey Ekspres",
-    "time": "26/07/2026 20:53",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28410746/trabzonsporda-kanat-icin-surpriz-hamle-premier-ligden-flas-isim-gundemde",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Yeni sezon öncesi transfer çalışmalarını sürdüren Trabzonspor'un, kanat hattını güçlendirmek için Aston Villa forması giyen Fildişili futbolcu Evann Guessand'ı gündemine aldığı öne sürüldü.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/07/26/large/trabzonsporda-kanat-icin-surpriz-hamle7.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_c82982fb",
-    "title": "Trabzonspor'da Yerli Operasyonu! Ali Habeşoğlu ve Mithat Pala İçin Kritik Hamle",
-    "source": "Taka Gazetesi",
-    "time": "26/07/2026 20:53",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-yerli-operasyonu-ali-habesoglu-ve-mithat-pala-icin-kritik-hamle",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Yeni sezon öncesi kadrosunu güçlendirmek isteyen Trabzonspor, Bodrum FK'nın golcüsü Ali Habeşoğlu ile Çaykur Rizespor'un başarılı futbolcusu Mithat Pala'nın transferi için temaslarını hızlandırdı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/07/cda26446-725f-47b7-ac55-fd4271b07565.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_8d5f1380",
-    "title": "Çarşıbaşı’nda yayla geleneği büyüyor! Kadıköylülerden ikinci yayla çıkarması",
-    "source": "61 Saat",
-    "time": "26/07/2026 20:53",
-    "link": "https://www.61saat.com/carsibasinda-yayla-gelenegi-buyuyor-kadikoylulerden-ikinci-yayla-cikarmasi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'un Çarşıbaşı ilçesine bağlı Kadıköy Mahallesi'nde, vatandaşlardan gelen yoğun talep üzerine Kaldırım Yaylası'na ikinci gezi düzenlendi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/07/whatsapp-image-2026-07-26-at-203607-1.jpeg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_4305700c",
-    "title": "Mine Mahruki'den cezaevi açıklaması: Nasuh Mahruki 48 kişilik koğuşta 54 kişi kalıyor",
-    "source": "OdaTV",
-    "time": "26/07/2026 20:35",
-    "link": "https://www.odatv.com/guncel/mine-mahrukiden-cezaevi-aciklamasi-nasuh-mahruki-48-kisilik-kogusta-54-kisi-kaliyor-120156352",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKUT kurucusu Nasuh Mahruki'nin eşi Mine Mahruki, Silivri Cezaevi'ndeki kapalı görüş sonrası eşinin sağlık durumunun iyi olduğunu belirterek 48 kişilik koğuşta 54 kişiyle kaldığını aktardı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/26/mine-mahrukiden-cezaevi-aciklamasi-nasuh-mahruki-48-kisilik-kogusta-54-kisi-kaliyor-drvd.jpg",
-    "keyword": ""
   }
 ]
