@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_772a33fd",
+    "title": "İzmir’de ilginç kaza: Otomobil tekneyle çarpıştı",
+    "source": "OdaTV",
+    "time": "28/07/2026 03:55",
+    "link": "https://www.odatv.com/guncel/izmirde-ilginc-kaza-otomobil-tekneyle-carpisti-120156530",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir-Çeşme Otoyolu'nda seyir halindeki bir otomobil, çekiciyle taşınmakta olan tekneye arkadan çarparak altına girdi. İlginç kaza görenleri hayrete düşürdü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/28/izmirde-ilginc-kaza-otomobil-tekneyle-carpisti-yspm.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e21ae6b7",
+    "title": "Milli para atıcılar Dünya Kupası'nda bronz madalya kazandı",
+    "source": "TRT Haber",
+    "time": "28/07/2026 03:54",
+    "link": "https://www.trthaber.com/haber/turkiye/milli-para-aticilar-dunya-kupasinda-bronz-madalya-kazandi-952362.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sırbistan'da düzenlenen WSPS Para Atıcılık Dünya Kupası'nda yarışan milli sporcular, takım halinde bronz madalya aldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_79609e3c",
+    "title": "Brezilya'dan aşırı sağcı Milei'ye tepki: \"Görülmemiş bir provokasyon\"",
+    "source": "BirGün",
+    "time": "28/07/2026 03:54",
+    "link": "https://www.birgun.net/haber/brezilya-dan-asiri-sagci-milei-ye-tepki-gorulmemis-bir-provokasyon-725985",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Arjantin'in aşırı sağcı Devlet Başkanı Javier Milei'nin Brezilya ziyaretinde Devlet Başkanı Lula da Silva ile Yüksek Mahkeme Yargıcı Moraes'i hedef alması iki ülke arasında diplomatik krize yol açtı. Brezilya, açıklamaları \"görülmemiş bir provokasyon\" olarak niteleyerek Buenos Aires Büyükelçisi'ni geri çağırdı.",
+    "image": "https://static.birgun.net/resim/haber/2026/07/28/brezilya-dan-asiri-sagci-milei-ye-tepki-gorulmemis-bir-provokasyon.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_49fb1a30",
+    "title": "İşgal altındaki Batı Şeria'da yerleşimci şiddeti tırmanıyor: ABD, personelinin bölgeye girişini kısıtladı",
+    "source": "BirGün",
+    "time": "28/07/2026 03:54",
+    "link": "https://www.birgun.net/haber/isgal-altindaki-bati-seria-da-yerlesimci-siddeti-tirmaniyor-abd-personelinin-bolgeye-girisini-kisitladi-725988",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail işgali altındaki Batı Şeria'da tırmanan yerleşimci saldırıları ve artan istikrarsızlık gerekçesiyle ABD, bölgedeki hükümet çalışanları ve aile fertlerinin seyahatlerini 29 Temmuz Çarşamba gününe kadar geçici olarak kısıtladı.",
+    "image": "https://static.birgun.net/resim/haber/2026/07/28/isgal-altindaki-bati-seria-da-yerlesimci-siddeti-tirmaniyor-abd-personelinin-bolgeye-girisini-kisitladi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_d73b500d",
+    "title": "🗣️ Horon Ekibi Kuran Kadınlar Hem Stres Atıyor Hem Kültürlerini Yaşatıyor",
+    "source": "YouTube",
+    "time": "28/07/2026 03:52",
+    "link": "https://www.youtube.com/watch?v=x9wlLxvxTCo",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: x9wlLxvxTCo)",
+    "image": "https://img.youtube.com/vi/x9wlLxvxTCo/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_f3ab0aa3",
     "title": "Karaya oturan \"Rapid\" gemisine alıcı çıkmadı",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Trendyol 1'inci Lig ekiplerinden Vanspor, 2026-2027 sezonundaki iç saha maçlarını Akhisar Spor Toto Stadı'nda oynayacak.",
     "image": "https://media.cumhuriyet.com.tr/Archive/0c88be30-30c1-46c6-a82c-6109c87d8f66.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_f0b3398b",
-    "title": "FED faiz kararı ne zaman açıklanacak? 2026 Temmuz FED faiz kararı ne olacak?",
-    "source": "Cumhuriyet",
-    "time": "27/07/2026 20:36",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-2026-temmuz-fed-faiz-karari-ne-olacak-2524192",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küresel piyasaların kilitlendiği ABD Merkez Bankası (FED) Temmuz 2026 faiz kararı için geri sayım başladı. Peki, FED faiz kararı ne zaman açıklanacak? 2026 Temmuz FED faiz kararı ne olacak?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/57650b2e-ecc9-451e-80df-adf2db1bdf90.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e9d9422a",
-    "title": "Samsun’da masaj salonuna fuhuş operasyonu",
-    "source": "Cumhuriyet",
-    "time": "27/07/2026 20:36",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/samsun-da-masaj-salonuna-fuhus-operasyonu-2524194",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Samsun’un Atakum ilçesinde faaliyet gösteren bir masaj salonuna yönelik düzenlenen fuhuş operasyonunda gözaltına alınan işletme sahibi ile 2 çalışan adliyeye sevk edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/6f645593-77b7-436d-a085-b95dba22526f.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c4987a1c",
-    "title": "Türk voleyboluna Daniele Santarelli damgası",
-    "source": "Cumhuriyet",
-    "time": "27/07/2026 20:36",
-    "link": "https://www.cumhuriyet.com.tr/spor/turk-voleyboluna-daniele-santarelli-damgasi-2524193",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İtalyan başantrenör Daniele Santarelli, A Milli Kadın Voleybol Takımı'nın başında uluslararası organizasyonlarda elde ettiği başarılarla Türk voleyboluna damga vurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1ff7ecf3-00f8-4e03-83c4-3566f3c6078b.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_25379fa1",
-    "title": "Bir aile yok oldu... Antalya'daki feci kazada hayatını kaybeden 5 kişi son yolculuğuna uğurlandı",
-    "source": "Cumhuriyet",
-    "time": "27/07/2026 20:36",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/bir-aile-yok-oldu-antalya-daki-feci-kazada-hayatini-kaybeden-5-kisi-son-yolculuguna-ugurlandi-2524195",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya'nın Manavgat ilçesinde uçuruma yuvarlanan araçta yaşamını yitiren aynı aileden 3'ü çocuk 5 kişi, memleketleri Konya'da son yolculuklarına uğurlandı. Cenazeler, Karatay'daki Aliyenler Mezarlığı'nda kılınan cenaze namazının ardından gözyaşları arasında toprağa verildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/722c8b01-136b-4a05-bbf6-31d4767fe907.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c7551ac2",
-    "title": "Son Dakika... AHBAP Derneği'ne kayyım atandı",
-    "source": "Cumhuriyet",
-    "time": "27/07/2026 20:35",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ahbap-dernegi-ne-kayyim-atandi-2524280",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "'AHBAP Derneği' soruşturması kapsamında, derneğin tüm mal varlığının idare yetkisi yönetim kayyımına devredildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
     "keyword": ""
   }
 ]
