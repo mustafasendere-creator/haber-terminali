@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_ef57da9e",
+    "title": "Malatyaspor bu sezon liglere katılmayacak",
+    "source": "OdaTV",
+    "time": "28/07/2026 03:15",
+    "link": "https://www.odatv.com/spor/malatyaspor-bu-sezon-liglere-katilmayacak-120156528",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Malatya Yeşilyurt Spor Kulübü ile Yeni Malatyaspor arasında yapılan görüşmeler sonucunda, Yeni Malatyaspor'un 2026-2027 sezonunda resmi müsabakalara katılmaması konusunda ortak karar alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/15/super-lig-sampiyonla-basliyor-3xol.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1b101585",
+    "title": "Bursa'da feci kaza: 1 ağır yaralı",
+    "source": "Haber Global",
+    "time": "28/07/2026 03:14",
+    "link": "https://haberglobal.com/gundem/bursada-feci-kaza-1-agir-yarali-536681",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın Nilüfer ilçesinde yolun karşısına geçmek isterken otomobilin çarptığı yaya ağır yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/07/28/bursada-feci-kaza-1-agir-yarali-1pjm.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_7444020f",
     "title": "Tunceli'de bozayı piknikçilerin sofrasına misafir oldu",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Mersin'in Silifke ilçesinde tırın devrilmesi sonucu sürücü yaralanırken, çok sayıda büyükbaş hayvan telef oldu.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/07/27/mersinde-buyukbas-hayvan-yuklu-tir-devrildi-cok-sayida-hayvan-telef-oldu-9mnu.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_5c786ef6",
-    "title": "CANLI YAYIN | Galatasaray - Venezia",
-    "source": "Haber Global",
-    "time": "27/07/2026 20:35",
-    "link": "https://haberglobal.com/spor/s-sport-izle-galatasaray-venezia-maci-canli-izle-536663",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray, yeni sezon çalışmaları kapsamında İtalyan ekip Venezia ile hazırlık maçında karşı karşıya geliyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/07/27/s-sport-izle-galatasaray-venezia-maci-canli-izle-xgah.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_74d0e809",
-    "title": "Ahbap Derneğine kayyım atandı",
-    "source": "TRT Haber",
-    "time": "27/07/2026 20:35",
-    "link": "https://www.trthaber.com/haber/gundem/ahbap-dernegine-kayyim-atandi-952348.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Cumhuriyet Başsavcılığının yürüttüğü \"Ahbaplar Suç Örgütü\" soruşturması kapsamında, Ahbap Derneğinin tüm mal varlığının idare yetkisi yönetim kayyımına devredildi.",
-    "image": null,
     "keyword": ""
   }
 ]
