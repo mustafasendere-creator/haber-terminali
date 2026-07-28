@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_7f71e095",
+    "title": "TÜGVA okulunda Cumhurbaşkanı Erdoğan’ın ceza almasına neden olan dizeler okutuldu: Pedagoji hiçe sayıldı",
+    "source": "Cumhuriyet",
+    "time": "28/07/2026 04:55",
+    "link": "https://www.cumhuriyet.com.tr/egitim/tugva-okulunda-cumhurbaskani-erdogan-in-ceza-almasina-neden-olan-dizeler-okutuldu-pedagoji-hice-sayildi-2524327",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "TÜGVA'nın Sivas şubesindeki yaz okulunda çocuklara, Cumhurbaşkanı Tayyip Erdoğan'ın 1997'de okumasının ardından hapis cezası almasına neden olan dizeler okutuldu. Bursa şubesinde ise çocukların topluca tekbir getirdiği görüntüler yayımlanırken, TÖBSEN bu uygulamaların pedagojik değil ideolojik bir tercih olduğunu belirterek tepki gösterdi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/7ad221f2-03e8-47b6-9f9e-89f9bb31e129.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a744760d",
+    "title": "Ankara'da seyir halindeki otobüste yangın çıktı",
+    "source": "Haber Global",
+    "time": "28/07/2026 04:55",
+    "link": "https://haberglobal.com/gundem/ankarada-seyir-halindeki-otobuste-yangin-cikti-536683",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Polatlı'da yolda seyir halinde giden bir otobüste yangın çıktı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/07/28/ankarada-seyir-halindeki-otobuste-yangin-cikti-ym5m.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2d3c395d",
+    "title": "MEB yönetmeliğinde kapsamlı değişiklik: Okullarda yeni uygulamalar",
+    "source": "BirGün",
+    "time": "28/07/2026 04:54",
+    "link": "https://www.birgun.net/haber/meb-yonetmeliginde-kapsamli-degisiklik-okullarda-yeni-uygulamalar-725995",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Resmi Gazete'de yayımlanan yönetmelik değişikliğiyle okul öncesi eğitim ve ilköğretim kurumlarında çok sayıda uygulama yeniden düzenlendi. Okullarda \"arama\" yapılabilmesine olanak tanınırken, devamsızlık, kayıt, nakil, seçmeli ders ve veli görüşmelerine ilişkin yeni kurallar getirildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/07/28/meb-yonetmeliginde-kapsamli-degisiklik-okullarda-yeni-uygulamalar.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e1adeabb",
+    "title": "Resmi veriler ortaya koydu: 17 milyon işçinin yalnızca yüzde 13,8'i sendikalı",
+    "source": "BirGün",
+    "time": "28/07/2026 04:54",
+    "link": "https://www.birgun.net/haber/resmi-veriler-ortaya-koydu-17-milyon-iscinin-yalnizca-yuzde-13-8-i-sendikali-725996",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çalışma ve Sosyal Güvenlik Bakanlığı'nın Temmuz 2026 sendika istatistikleri Resmi Gazete'de yayımlandı. Türkiye'de 17 milyon 630 bin 475 işçiden 2 milyon 432 bin 789'unun sendika üyesi olduğu açıklanırken, sendikalaşma oranı yüzde 13,79 olarak kaydedildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/07/28/resmi-veriler-ortaya-koydu-17-milyon-iscinin-yalnizca-yuzde-13-8-i-sendikali.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e1062e90",
+    "title": "Resmi Gazete'de yayımlandı: Kamu kurumlarının internet sitelerine KVKK ayarı",
+    "source": "BirGün",
+    "time": "28/07/2026 04:54",
+    "link": "https://www.birgun.net/haber/resmi-gazete-de-yayimlandi-kamu-kurumlarinin-internet-sitelerine-kvkk-ayari-725997",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kişisel Verileri Koruma Kurulu (KVKK), kamu tüzel kişiliğini haiz veri sorumlularının kişisel verileri internet ortamında paylaşmasına ilişkin ilke kararı aldı. Karara göre kamu kurumları, internet sitelerinde kişisel veri paylaşmadan önce hukuki dayanağı değerlendirecek, gerekli olmayan verileri yayımlamayacak ve veri güvenliğine yönelik teknik ve idari tedbirleri almakla yükümlü olacak.",
+    "image": "https://static.birgun.net/resim/haber/2026/07/28/resmi-gazete-de-yayimlandi-kamu-kurumlarinin-internet-sitelerine-kvkk-ayari.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_b31c56d7",
     "title": "Ankara'daki 'müstehcenlik' soruşturmasında 7 tutuklama",
     "source": "Habertürk",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "İstanbul'da bu hafta dolu dolu bir programı ile sanat tutkunları buluşacak. İşte bu haftanın etkinlikleri...",
     "image": "https://media.cumhuriyet.com.tr/Archive/041ad770-f66c-4c12-88e4-28ca22b1c097.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_9e0e6520",
-    "title": "Çölyak dostu: Badem unlu, yüksek proteinli brownie tarifi...",
-    "source": "Cumhuriyet",
-    "time": "27/07/2026 20:55",
-    "link": "https://www.cumhuriyet.com.tr/gurme/colyak-dostu-badem-unlu-yuksek-proteinli-brownie-tarifi-2524282",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Çölyak hastaları için mutfaktaki en büyük tehlike olan \"çapraz bulaşma\" riskini ortadan kaldıran bu güvenli reçete; sadece glütensiz değil, aynı zamanda yoğun çikolata tadıyla yoğun çalışma saatlerinde veya aktif günlerde enerjinizi tazeleyecek kusursuz bir alternatif.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/2693483d-6550-4f49-a57c-0ab224dcf04c.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_4c62c0de",
-    "title": "Genç millilerden Slovakya'ya 30 sayılık fark!",
-    "source": "Cumhuriyet",
-    "time": "27/07/2026 20:55",
-    "link": "https://www.cumhuriyet.com.tr/spor/genc-millilerden-slovakya-ya-30-sayilik-fark-2524283",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, Avrupa 18 Yaş Altı Erkekler Basketbol Şampiyonası'ndaki üçüncü maçında karşılaştığı Slovakya'yı 93-63 mağlup etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/33fbebaf-aa8d-4ef2-b4c9-3ca55cd1ed63.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c7bc92a0",
-    "title": "Tartıştığı ağabeyini bulamayınca yengesini öldürdü",
-    "source": "Haber Global",
-    "time": "27/07/2026 20:55",
-    "link": "https://haberglobal.com/yasam/tartistigi-agabeyini-bulamayinca-yengesini-oldurdu-536664",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tartıştığı ağabeyinin yerini öğrenmek isteyen şahıs, tarlada karşılaştığı yengesini katletti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/07/27/tartistigi-agabeyini-bulamayinca-yengesini-oldurdu-m7ln.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d04539fd",
-    "title": "Ahbap Derneğine kayyum atandı",
-    "source": "DW Türkçe",
-    "time": "27/07/2026 20:54",
-    "link": "https://www.dw.com/tr/ahbap-derneğine-kayyum-atandı/a-78136765",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ahbap Derneğine yönelik soruşturma kapsamında, derneğin tüm mal varlığının idarî yetkisi kayyuma devredildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_65c7bd4a",
-    "title": "Bahçeli'den Kılıçdaroğlu ve Özel'e çağrı",
-    "source": "DW Türkçe",
-    "time": "27/07/2026 20:54",
-    "link": "https://www.dw.com/tr/bahçeli-den-kılıçdaroğlu-ve-özel-e-çağrı/a-78136726",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MHP Genel Başkanı Bahçeli, CHP ve Yeni Parti ile ilişkili gelişmelere dair bir yazılı açıklamada bulundu. Bahçeli mesajında tartışmalı rozet töreni iddialarına da değindi.",
-    "image": null,
     "keyword": ""
   }
 ]
