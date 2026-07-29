@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_ae294902",
+    "title": "NATO’dan Türk Yıldızları paylaşımı",
+    "source": "OdaTV",
+    "time": "30/07/2026 02:55",
+    "link": "https://www.odatv.com/guncel/natodan-turk-yildizlari-paylasimi-120156824",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "NATO, Türk Yıldızları'nın Cumhurbaşkanı Recep Tayyip Erdoğan'ın ABD Başkanı Donald Trump'ı karşıladığı anda yaptığı selamlama uçuşunun görüntülerini ‘Hassas Kanatlar’ notuyla paylaştı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/30/natodan-turk-yildizlari-paylasimi-t4fv.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a8162f7c",
+    "title": "Muğla'da 3.9 büyüklüğünde deprem",
+    "source": "Haber Global",
+    "time": "30/07/2026 02:54",
+    "link": "https://haberglobal.com/gundem/muglada-39-buyuklugunde-deprem-537042",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AFAD'ın paylaştığı verilere göre, Muğla'nın Marmaris ilçesinde saat 02.00'de 3.9 büyüklüğünde deprem meydana geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/07/30/muglada-39-buyuklugunde-deprem-emqs.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_d02154e4",
+    "title": "İzmir Dikili'de makilikte yangın",
+    "source": "Evrensel",
+    "time": "30/07/2026 02:54",
+    "link": "https://www.evrensel.net/haber/5994180/izmir-dikilide-makilikte-yangin",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'in Dikili ilçesinde makilik alanda çıkan yangına müdahale sürüyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/356600.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_2a1c3922",
     "title": "Manisa CHP İl Başkanlığı’nda kavga: 1 yaralı",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Amerika Merkez Bankası (Fed) temmuz ayı faiz kararını açıkladı. Fed beklentiler doğrultusunda temmuzda faiz aralığını yüzde 3,50 - 3,75 bandında tutmaya devam etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/bdede429-b9d3-4e0c-abcb-8c60727fe00f.jpeg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_681f80d3",
-    "title": "Ahmet Davutoğlu siyaseti neden bıraktı? Gelecek Partisi neden kapandı?",
-    "source": "Cumhuriyet",
-    "time": "29/07/2026 21:15",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ahmet-davutoglu-siyaseti-neden-birakti-gelecek-partisi-neden-kapandi-2524873",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gelecek Partisi Genel Başkanı Ahmet Davutoğlu, siyaseti bıraktığını ve Gelecek Partisi'nin siyasi faaliyetlerini sonlandırma kararı aldıklarını açıkladı. Peki, Ahmet Davutoğlu siyaseti neden bıraktı? Gelecek Partisi neden kapandı?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/094e585d-3964-4316-ae10-db4aab2f1eb2.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c0a31abe",
-    "title": "Fed faiz kararını açıkladı!",
-    "source": "Haber Global",
-    "time": "29/07/2026 21:15",
-    "link": "https://haberglobal.com/ekonomi/fed-faiz-kararini-acikladi-537016",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Merkez Bankası (Fed), politika faizini beklentiler doğrultusunda yüzde 3,5-3,75 aralığında sabit tuttu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/07/29/fed-faiz-kararini-acikladi-hjet.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_f53377d5",
-    "title": "Nuri Şahin: Sentetik zeminin çok dezavantajını görmedim",
-    "source": "Haber Global",
-    "time": "29/07/2026 21:15",
-    "link": "https://haberglobal.com/spor/nuri-sahin-sentetik-zeminin-cok-dezavantajini-gormedim-537017",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Konferans Ligi 2. eleme turu rövanşında yarın Finlandiya ekibi Inter Turku'ya konuk olacak İstanbul Başakşehir'de teknik direktör Nuri Şahin, tur atlayacaklarından emin olduğunu söyledi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/07/29/nuri-sahin-sentetik-zeminin-cok-dezavantajini-gormedim-os17.jpg",
     "keyword": ""
   }
 ]
