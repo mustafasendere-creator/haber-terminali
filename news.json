@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_4bc35786",
+    "title": "Ataol Behramoğlu Cumhuriyet gazetesinden ayrıldı",
+    "source": "OdaTV",
+    "time": "29/07/2026 06:55",
+    "link": "https://www.odatv.com/medya/ataol-behramoglu-cumhuriyet-gazetesinden-ayrildi-son-kose-yazisi-120156682",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ünlü yazar Ataol Behramoğlu, 1995'ten bu yana sürdürdüğü Cumhuriyet gazetesindeki köşe yazarlığını bıraktığını açıkladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/29/ataol-behramoglu-cumhuriyet-gazetesinden-ayrildi-son-kose-yazisi-luo9.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_d0e9732e",
+    "title": "UEFA'dan Gianni Infantino'ya tepki: Çizgiyi aşıyor",
+    "source": "OdaTV",
+    "time": "29/07/2026 06:55",
+    "link": "https://www.odatv.com/spor/uefadan-gianni-infantinoya-tepki-cizgiyi-asiyor-120156683",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "FIFA Başkanı Gianni Infantino'nun Dünya Kupası organizasyonlarının hisselerini özel yatırımcılara açma planı, UEFA'nın sert tepkisini çekti. UEFA, futbolun yönetimi ve ruhunun ticari bir varlık gibi alınıp satılamayacağını vurguladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/29/uefadan-gianni-infantinoya-tepki-cizgiyi-asiyor-cxgk.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_86913c85",
+    "title": "ABD'den Çin'in ürettiği insansı robotlara ithalat yasağı",
+    "source": "TRT Haber",
+    "time": "29/07/2026 06:54",
+    "link": "https://www.trthaber.com/haber/dunya/abdden-cinin-urettigi-insansi-robotlara-ithalat-yasagi-952450.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amerika Birleşik Devletleri yönetimi, ulusal güvenlik risklerini gerekçe göstererek yabancı menşeli yeni insansı robotların ve güç dönüştürücülerinin ülkeye ithalatını yasakladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_3800d5b6",
+    "title": "Şarjdaki elektrikli otomobilde yangın ve patlama",
+    "source": "TRT Haber",
+    "time": "29/07/2026 06:54",
+    "link": "https://www.trthaber.com/haber/turkiye/sarjdaki-elektrikli-otomobilde-yangin-ve-patlama-952451.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseride bir elektrikli araç şarj istasyonundayken henüz belirlenemeyen nedenle alev aldı. Patlamanın da olduğu araçtaki yangını itfaiye ekipleri yaptığı müdahale sonucu söndürdü. Araçta hasar meydana gelirken olayın sebebini öğrenmek için inceleme başlatıldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_5df6213e",
+    "title": "Fransa yeni bir sıcak hava kıyametine hazırlanıyor",
+    "source": "TRT Haber",
+    "time": "29/07/2026 06:54",
+    "link": "https://www.trthaber.com/haber/dunya/fransa-yeni-bir-sicak-hava-kiyametine-hazirlaniyor-952452.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa'nın güneybatısındaki Gironde bölgesinde günlerdir devam eden orman yangınları, sıcaklıkların yeniden artmasıyla birlikte yeni noktalarda alevlendi. İtfaiye ekipleri, alevleri kontrol altına almak için çalışmalarını sürdürüyor. Bölgede hava sıcaklığının 40 dereceye ulaşması bekleniyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_2d7788db",
+    "title": "Bursa'da kuvvetli rüzgar çatıyı yerinden söktü",
+    "source": "TRT Haber",
+    "time": "29/07/2026 06:54",
+    "link": "https://www.trthaber.com/haber/turkiye/bursada-kuvvetli-ruzgar-catiyi-yerinden-soktu-952453.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'nın Osmangazi ilçesinde kuvvetli rüzgar nedeniyle bir iş yerinin çatısı uçtu, savrulan çatı parçaları yola ve tramvay hattına düştü.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_ce5b1b88",
     "title": "Wenyen Gabriel: Mülteci kampından NBA oyunculuğuna...",
     "source": "OdaTV",
@@ -4726,77 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "INTIHAR"
-  },
-  {
-    "id": "GND_d4125266",
-    "title": "İsrail ordusu, Gazze'de bir camiyi daha hava saldırısıyla yerle bir etti",
-    "source": "Anadolu Ajansı",
-    "time": "28/07/2026 22:14",
-    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazzede-bir-camiyi-daha-hava-saldirisiyla-yerle-bir-etti/4011945",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İsrail savaş uçakları, Gazze kent merkezindeki El-Muttakin Camisi'ni bombalayarak tamamen yıktı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_fd3f235a",
-    "title": "İran: Umman’a Hürmüz’ün bir kısmının tamamen, diğerinin kısmen kontrolümüzde kalmasını önerdik",
-    "source": "Anadolu Ajansı",
-    "time": "28/07/2026 22:14",
-    "link": "https://www.aa.com.tr/tr/dunya/iran-umman-a-hurmuz-un-bir-kisminin-tamamen-digerinin-kismen-kontrolumuzde-kalmasini-onerdik/4011951",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, Umman ile gerçekleştirdikleri görüşmede Hürmüz Boğazı'ndaki bir güzergahın tamamen, diğer güzergahın ise bir bölümünün İran'ın kontrolünde olmasını önerdiklerini belirtti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_ef4c483c",
-    "title": "Trabzonspor'da Avusturya kampı devam ediyor",
-    "source": "Kuzey Ekspres",
-    "time": "28/07/2026 22:13",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28422701/trabzonsporda-avusturya-kampi-devam-ediyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Fatih Tekke yönetiminde Avusturya'da yeni sezon hazırlıklarını sürdürdü. Takım yarın çift antrenman yapacak.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/07/28/large/antre.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_ef4c483c",
-    "title": "Trabzonspor'da Avusturya kampı devam ediyor",
-    "source": "Kuzey Ekspres",
-    "time": "28/07/2026 22:13",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28422701/trabzonsporda-avusturya-kampi-devam-ediyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, Fatih Tekke yönetiminde Avusturya'da yeni sezon hazırlıklarını sürdürdü. Takım yarın çift antrenman yapacak.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/07/28/large/antre.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_38d66ef8",
-    "title": "Trabzon’da Her 6 Kişiden biri AK Partili",
-    "source": "Günebakış",
-    "time": "28/07/2026 22:13",
-    "link": "https://www.gunebakis.com.tr/trabzonda-her-6-kisiden-biri-ak-partili/28422493",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "AK Parti İl Başkanı Mumcu güncel üye sayısını 130 bin 32 olarak açıkladı",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/07/28/large/trabzonda-her-6-kisiden-biri-ak-partili8-1.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_ba8f412f",
-    "title": "Okullara Mescit Düzenlemesi; Valilikten 39 İlçeye Yazı Gönderildi",
-    "source": "Taka Gazetesi",
-    "time": "28/07/2026 22:13",
-    "link": "https://www.takagazete.com.tr/okullara-mescit-duzenlemesi-valilikten-39-ilceye-yazi-gonderildi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "İstanbul Valiliği, yeni okul projelerinde mescit alanı ayrılmasını, mevcut okullarda ise uygun bölümlerin mescide dönüştürülmesini 39 ilçeden de istedi. İstanbul Valiliği, okullarda mescit alanları oluşturulmasına ilişkin hazırlanan yazıyı 39 ilçe kaymakamlığı ile ilgili kurumlara gönderdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/07/4c7966a6-8ca7-4fdf-ab2e-5e459e1a8ae8.png",
-    "keyword": ""
   }
 ]
