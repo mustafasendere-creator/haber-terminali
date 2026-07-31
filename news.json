@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_598128e9",
+    "title": "Bayburt'ta kaza: 8 yaralı",
+    "source": "Habertürk",
+    "time": "01/08/2026 02:55",
+    "link": "https://www.haberturk.com/bayburt-ta-trafik-kazasi-8-yarali-3902558",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bayburt'ta kamyonetle hafif ticari aracın çarpışması sonucu 8 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/08/01/ver1785540373/3902558/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_36ff1e99",
+    "title": "🗣️ Mini Futbol Trabzon Bahar Sezonu Çeyrek Final  Kasketliler - Akıncılar",
+    "source": "YouTube",
+    "time": "01/08/2026 02:52",
+    "link": "https://www.youtube.com/watch?v=JOECayqajK8",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: JOECayqajK8)",
+    "image": "https://img.youtube.com/vi/JOECayqajK8/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_9e58b76c",
     "title": "'Büyük Altay'a kayyum geliyor",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "İtalya, Fas'tan İspanya'nın Kuzey Afrika'daki Ceuta kentine yaşanan kitlesel göçmen akınının ardından İspanya ile Schengen uygulamasını askıya aldığını açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/fb3451b4-b591-4071-8d6c-de84f1710818.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_a98384b7",
-    "title": "Fenerbahçe-Sturm Graz maçına İngiliz hakem",
-    "source": "Haber Global",
-    "time": "31/07/2026 20:55",
-    "link": "https://haberglobal.com/spor/fenerbahce-sturm-graz-macina-ingiliz-hakem-537324",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Şampiyonlar Ligi 3. ön eleme turunda Fenerbahçe'nin Sturm Graz'ı ağırlayacağı maçı İngiliz hakem Chris Kavanagh yönetecek.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/07/31/fenerbahce-sturm-graz-macina-ingiliz-hakem-8tzd.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_cef75beb",
-    "title": "CHP Sözcüsü Sarı duyurdu: 12 ile atama yaptı",
-    "source": "Haber Global",
-    "time": "31/07/2026 20:55",
-    "link": "https://haberglobal.com/gundem/chp-sozcusu-sari-duyurdu-12-ile-atama-yapti-537323",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "MYK gündemine ilişkin açıklamalarda bulunan CHP Genel Başkan Yardımcısı ve Sözcüsü Müslim Sarı, 12 ile yeni il başkanı atandığını açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/07/31/chp-sozcusu-sari-duyurdu-12-ile-atama-yapti-igcs.jpg",
     "keyword": ""
   }
 ]
