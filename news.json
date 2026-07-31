@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_f19a96af",
+    "title": "Fransa ve İspanya'da 'yangına yatkın' hava koşulları riski arttı",
+    "source": "TRT Haber",
+    "time": "31/07/2026 03:54",
+    "link": "https://www.trthaber.com/haber/dunya/fransa-ve-ispanyada-yangina-yatkin-hava-kosullari-riski-artti-952663.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İnsan faaliyetlerinden kaynaklı iklim değişikliği, Fransa'da son dönemdeki yıkıcı orman yangınlarını tetikleyen aşırı hava koşullarının ortaya çıkma riskini bu ülkede en az 2, İspanya'da ise 20 kat artırdı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_a8fd210a",
+    "title": "Sahil Güvenlik Komutanlığı'na uzman erbaş alınacak",
+    "source": "TRT Haber",
+    "time": "31/07/2026 03:54",
+    "link": "https://www.trthaber.com/haber/gundem/sahil-guvenlik-komutanligina-uzman-erbas-alinacak-952664.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sahil Güvenlik Komutanlığı, uzman erbaş alımı yapılacağını duyurdu. Başvurular 312 Ağustos'ta eDevlet aracılığıyla yapılabilecek.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_78ac59a6",
+    "title": "Kızıldeniz'de çok uluslu koalisyon hazırlığı: Türkiye'nin de desteği var",
+    "source": "Euronews",
+    "time": "31/07/2026 03:54",
+    "link": "http://tr.euronews.com/2026/07/31/kizildenizde-cok-uluslu-koalisyon-turkiyenin-de-destegi-var",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Koalisyonu Suudi Arabistan Savunma Bakanlığı duyurdu. 14 ülke, bir deniz savunması koalisyonu kurmak için anlaştıklarını bildirdi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_8ed41c8a",
+    "title": "Minik Trabzonspor Taraftarı Gözyaşlarını Tutamadı, Onana Teselli Etti - Gunebakış",
+    "source": "Google Haberler",
+    "time": "31/07/2026 03:53",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDEybThqa2dWWEF5WWJ2YW13S2lZRTBJVjZoMnZ5Zkx3NUxtdG9YTXpTcjhLNlhjZUVQSDdMYk1VUWo5MHpSblMyejVLNDM4aHJVc2FWOXFSN1U4SV9nRHZicE02ODc1VWRvWDdwR1czeEsxcEh0a25VNGplQTNTUU9JSzdiMERiRzlZcUZjbllZNkpEX2FTaExsc3BZMFE5dlVHTktxSlNONm11d3Nn0gGvAUFVX3lxTE40MTJtOGprZ1ZYQXlZYnZhbXdLaVlFMElWNmgydnlmTHc1TG10b1hNelNyOEs2WGNlRVBIN0xiTVVRajkwelJuUzJ6NUs0MzhoclVzYVY5cVI3VThJX2dEdmJwTTY4NzVVZG9YN3BHVzN4SzFwSHRrblU0amVBM1NRT0lLN2IwRGJHOVlxRmNuWVk2SkRfYVNoTGxzcFkwUTl2VUdOS3FKU042bXV3c2c?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
+    "id": "SOC_91009cc8",
+    "title": "🗣️ @ensonhbr.bsky.social",
+    "source": "Bluesky",
+    "time": "31/07/2026 03:52",
+    "link": "https://bsky.app/profile/ensonhbr.bsky.social/post/3mrv3hsedyf2e",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "#Trabzonspor #Trabzon #JaeEunSong #TrabzonsporKadınFutbol #Spor #Cumhuriyet\n\nDaha fazlası: https://t.me/ensonhbr",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_45d55abb",
+    "title": "🗣️ Şampiyonluk Vakti | Trabzonspor Marşı (2026)",
+    "source": "YouTube",
+    "time": "31/07/2026 03:52",
+    "link": "https://www.youtube.com/watch?v=K-n8qSV5sRY",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: K-n8qSV5sRY)",
+    "image": "https://img.youtube.com/vi/K-n8qSV5sRY/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_df210bd7",
     "title": "Samsun'da ambulansın feci kazası",
     "source": "OdaTV",
@@ -4726,77 +4798,5 @@
     "summary": "Trabzon'da Tescilli Konuta Müdahale Şoku: Kurul Affetmedi \n@gazetegunebakis\n @TurkResmiGazete\n @tcresmigazete\n #Trabzon #Çaykara #TrabzonHaberleri #KültürVarlıkları #SitAlani #Rize #TarihiMiras #SonDakika #Restorasyon #gundem #viral #trend #konut #rize",
     "image": null,
     "keyword": "SONDAKIKA #TRABZON"
-  },
-  {
-    "id": "SOC_d53fca19",
-    "title": "🗣️ Zekeriya Mete (@ZekeriyaMete4 (· (13s)",
-    "source": "X (Twitter)",
-    "time": "30/07/2026 22:22",
-    "link": "https://x.com/ZekeriyaMete4/status/2082697139042287722",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "Takip etmiyorsunuz sanırım\nBir hafta karadenizde bafra ordu giresun trabzon Rize ve ilçelerini ziyaret ettik.\nHer hafta bir veya iki il ziyareti var .\nSahada halkın arasında olan tek lider\nİyi takip edin lütfen",
-    "image": null,
-    "keyword": "TRABZON #ZIYARET"
-  },
-  {
-    "id": "SOC_95a69879",
-    "title": "🗣️ Erzincan Birlik Medya (@Birlik024 (· (12s)",
-    "source": "X (Twitter)",
-    "time": "30/07/2026 22:22",
-    "link": "https://x.com/Birlik024/status/2082712881301250540",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "İki Hat, Tek Bölge: Erzincan Hattı mı, Rize Hattı mı? \nHABERİN DETAYI LİNKTE...\nerzincanbirlikmedya.com/iki-hat-tek-bo\n… #bayburt #ERZİNCAN #ERZURUM #Gümüşhane #rize #sondakika #trabzon #Ekonomi",
-    "image": "https://pbs.twimg.com/media/HOdITl1XoAAPDF4?format=jpg&name=small",
-    "keyword": "SONDAKIKA #TRABZON"
-  },
-  {
-    "id": "SOC_ef201517",
-    "title": "🗣️ HABER.COM (@habercomsosyal (· (22s)",
-    "source": "X (Twitter)",
-    "time": "30/07/2026 22:22",
-    "link": "https://x.com/habercomsosyal/status/2082567598021972086",
-    "type": "SOC",
-    "prefix": "⚫ 🐦",
-    "summary": "Trabzon Akçaabat'ta ezber bozan istifa eylemi! \n\nCHP'den ayrılıp YENİ Parti'ye geçen eski İlçe Başkanı, tabeladaki \"HALK\" yazısının H ve L harflerini sökerek partiye rest çekti:",
-    "image": null,
-    "keyword": "TRABZON #ISTIFA"
-  },
-  {
-    "id": "GND_c4b5f42d",
-    "title": "Son dakika Cem Küçük gözaltına alındı! İşte yapılan suçlama",
-    "source": "Ekonomim",
-    "time": "30/07/2026 22:16",
-    "link": "https://www.ekonomim.com/gundem/son-dakika-cem-kucuk-gozaltina-alindi-haberi-909262",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ünlü ekran yüzü Cem Küçük gözaltına alındı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/07/30/son-dakika-cem-kucuk-gozaltina-alindi-iste-yapilan-suclama-xubt_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e52c5a7b",
-    "title": "TÜRK-İŞ: Bölgesel asgari ücreti kesin bir dille reddetmekteyiz",
-    "source": "Ekonomim",
-    "time": "30/07/2026 22:16",
-    "link": "https://www.ekonomim.com/ekonomi/turk-is-bolgesel-asgari-ucreti-kesin-bir-dille-reddetmekteyiz-haberi-909263",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TÜRK-İŞ Başkanlar Kurulu, bölgesel asgari ücret tartışmalarına ilişkin \"ülke genelinde eşit ve adil biçimde uygulanmasını savunmakta, bölgesel asgari ücreti kesin bir dille reddetmekteyiz\" ifadelerini kullandı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/10/ergun-atalay-acikladi-turk-is-asgari-ucret-toplantisina-katilacak-mi-clx8_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c04cc985",
-    "title": "Beşiktaş Midtjylland'ı devirdi: Bir üst tura çıktı",
-    "source": "Ekonomim",
-    "time": "30/07/2026 22:16",
-    "link": "https://www.ekonomim.com/spor/besiktas-midtjyllandi-devirdi-bir-ust-tura-cikti-haberi-909264",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beşiktaş, UEFA Avrupa Ligi 2. eleme turu maçında Midtjylland'ı deplasmanda 2-0 yendi ve tur atladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/07/30/besiktas-midtjyllandi-devirdi-bir-ust-tura-cikti-leq7_cover.jpg",
-    "keyword": ""
   }
 ]
