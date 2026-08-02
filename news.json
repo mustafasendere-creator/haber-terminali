@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_104dd3a7",
+    "title": "Trump: Hürmüz konusunda anlaşma var",
+    "source": "Habertürk",
+    "time": "03/08/2026 02:55",
+    "link": "https://www.haberturk.com/son-dakika-trump-hurmuz-konusunda-anlasma-var-3902851",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Trump, \"İran ile Hürmüz konusunda bir anlaşma var. Nükleer silahların temizlenmesi konusunda da bir anlaşma olacak\" dedi. Trump, İran'la müzakerelerin 3 Ağustos Pazartesi günü yeniden başlayacağını ve bir anlaşmanın sağlanması konusunda iyimser olduğunu belirtti",
+    "image": "https://im.haberturk.com/l/2026/08/03/ver1785708562/3902851/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_946cc2c8",
+    "title": "Kayseri'de silahlı kavga: Karı koca yaralandı",
+    "source": "Habertürk",
+    "time": "03/08/2026 02:55",
+    "link": "https://www.haberturk.com/kayseri-de-silahli-kavga-kari-koca-yaralandi-3902861",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'nin merkez Kocasinan ilçesinde iki grup arasında çıkan silahlı kavgada, kurşun isabet eden karı koca yaralandı",
+    "image": "https://im.haberturk.com/l/2026/08/03/ver1785713767/3902861/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ecd4246c",
+    "title": "ABD Başkanı Trump, İran'la müzakerelerin pazartesi günü yeniden başlayacağını açıkladı",
+    "source": "Haber Global",
+    "time": "03/08/2026 02:54",
+    "link": "https://haberglobal.com/gundem/abd-baskani-trump-iranla-muzakerelerin-pazartesi-gunu-yeniden-baslayacagini-acikladi-537605",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'la müzakerelerin 3 Ağustos Pazartesi günü yeniden başlayacağını ve bir anlaşmanın sağlanması konusunda iyimser olduğunu belirtti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/08/03/abd-baskani-trump-iranla-muzakerelerin-pazartesi-gunu-yeniden-baslayacagini-acikladi-tc8d.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_f77e1deb",
     "title": "Edirne'de devrilen traktörün altında kalan çift hayatını kaybetti",
     "source": "BirGün",
@@ -4761,42 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor'un kamp dönemindeki tek hamlesi olarak dikkat çeken genç golcü Rene Mitongo için geçici ayrılık kararı kapıda.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/08/02/large/trabzonsporda-rene-mitongo-icin-gecici-ayrilik-kararie-1.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_ea717335",
-    "title": "Cenk Özkacar’dan dikkat çeken Trabzonspor itirafı!",
-    "source": "61 Saat",
-    "time": "02/08/2026 21:13",
-    "link": "https://www.61saat.com/cenk-ozkacardan-dikkat-ceken-trabzonspor-itirafi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, Avusturya kampındaki son hazırlık maçında Udinese’yi Muçi’nin golüyle 1-0 mağlup etti.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/08/sadadas-1.png",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_ea717335",
-    "title": "Cenk Özkacar’dan dikkat çeken Trabzonspor itirafı!",
-    "source": "61 Saat",
-    "time": "02/08/2026 21:13",
-    "link": "https://www.61saat.com/cenk-ozkacardan-dikkat-ceken-trabzonspor-itirafi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Avusturya kampındaki son hazırlık maçında Udinese’yi Muçi’nin golüyle 1-0 mağlup etti.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/08/sadadas-1.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_fde79074",
-    "title": "Melih Kabasakal’dan duygusal dönüş açıklaması: Yeniden yuvamdayım!",
-    "source": "61 Saat",
-    "time": "02/08/2026 21:13",
-    "link": "https://www.61saat.com/melih-kabasakaldan-duygusal-donus-aciklamasi-yeniden-yuvamdayim",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un yeni transferlerinden Melih Kabasakal, Udinese maçının ardından bordo-mavili takıma dönüşü, kamp süreci ve Fatih Tekke ile ilgili açıklamalarda bulundu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/08/cccc-1.png",
     "keyword": ""
   }
 ]
