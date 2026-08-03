@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_f55c0a8f",
+    "title": "Mısır'da 5.3 büyüklüğünde deprem",
+    "source": "Haber Global",
+    "time": "03/08/2026 03:54",
+    "link": "https://haberglobal.com/gundem/misirda-53-buyuklugunde-deprem-537607",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AFAD'ın paylaştığı verilere göre, Mısır'da gece 03.00'te 5.3 büyüklüğünde deprem meydana geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/08/03/misirda-53-buyuklugunde-deprem-icke.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4ba5fb67",
+    "title": "Mısır'da 5,3 büyüklüğünde deprem",
+    "source": "Anadolu Ajansı",
+    "time": "03/08/2026 03:54",
+    "link": "https://www.aa.com.tr/tr/dunya/misirda-5-3-buyuklugunde-deprem/4016578",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mısır'ın İsmailiye kentinde 5,3 büyüklüğünde deprem meydana geldiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_2206f760",
+    "title": "Esenyurt'ta silahlı kavga: 2 yaralı - Bursa Saati Gazetesi",
+    "source": "Google Haberler",
+    "time": "03/08/2026 03:53",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lX2Vtelp2TTVZZGFhUndrRUZhOUR1RFFrdFV1b0h3TG9jSHNTOFNuTF9DaFJLaU5RTUZEME9yMHdWUnhZdUVOZW1PRDIyb0pTbjZFWGotX0dPU05MbmZ3MWhzNmgxMjFjVFhWTHd3Ni1CZWRfZ0HSAXZBVV95cUxPZV9lbXpadk01WWRhYVJ3a0VGYTlEdURRa3RVdW9Id0xvY0hzUzhTbkxfQ2hSS2lOUU1GRDBPcjB3VlJ4WXVFTmVtT0QyMm9KU242RVhqLV9HT1NOTG5mdzFoczZoMTIxY1RYVkx3dzYtQmVkX2dB?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNDEM"
+  },
+  {
     "id": "GND_8fa826dd",
     "title": "15 Temmuz Şehitler Köprüsü trafiğe kapatıldı",
     "source": "Haber Global",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Fransa’nın Moselle vilayetinde bir fabrika deposunda çıkan yangında zehirli maddelerin yayılması üzerine civardaki 5 kasabada yaşayan yaklaşık 30 bin kişiye \"evden çıkmayın\" çağrısı yapıldı. 150 itfaiyecinin müdahalesiyle söndürülen yangında 3 kişi hafif yaralandı.",
     "image": "https://static.birgun.net/resim/haber/2026/08/02/fransa-da-yangin-sonrasi-zehirli-madde-alarmi-30-bin-kisiye-evden-cikmayin-uyarisi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_36ae2b9a",
-    "title": "Swat bölgesinde karakol girişinde intihar saldırısı: ölü sayısı 13 - Aksiyon.com.TR",
-    "source": "Google Haberler",
-    "time": "02/08/2026 21:14",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREhzbk81b0pXRHk5SS1Vd1Z5TzdtRmNZT3VfVU9fZmxqSXBpYmRIandycUFrQUNHR1BRYTV4c0VVajdIMUNvU28wWFUtN3o5TXZiQkxGUHo0VnFLVFBuOWphdEw4TzBRSVBnelBNaU9zelMwaF9nOHhxMER4NlRVNFlfbDlxR0tPTmJQM1dwYWg3MWNtNnhzdXNFN2J1cEsy0gGmAUFVX3lxTE9KT0xqZFFvOWNrWHo4VGNLM1pqLU5jcnhFTThCX3NqQXphQWlwQ1NBY09hNW5aSEJPbWxUQmZDWTBKc3ZnQzVHNlM1bENLZ05CekNnMHlUQjJQTzJwOTlPbzltaDBjRGc2X0VWYmtMRmFiako2RzdmOTZ3WXZnNV9hLTRUVmNsQTFGSHFNR3ZfZnFiMkJKS21IMG8xVXo3VDBSMU9SZ2c?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "INTIHAR"
-  },
-  {
-    "id": "GND_0761be5e",
-    "title": "Ankara Başsavcılığı'ndan Sera Kadıgil'e 'cumhurbaşkanına hakaret' ve 'tehdit' soruşturması",
-    "source": "BirGün",
-    "time": "02/08/2026 21:14",
-    "link": "https://www.birgun.net/haber/ankara-bassavciligi-ndan-sera-kadigil-e-cumhurbaskanina-hakaret-ve-tehdit-sorusturmasi-727042",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara Cumhuriyet Başsavcılığı, TİP Milletvekili Sera Kadıgil hakkında İzmir’deki mitingde yaptığı konuşma nedeniyle ‘cumhurbaşkanına hakaret’ ve ‘tehdit’ suçlamasıyla soruşturma başlattı.",
-    "image": "https://static.birgun.net/resim/genel/birgun-son-dakika-haberi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_81cc2b05",
-    "title": "Samsun’da halk otobüsü devrildi: 21 kişi yaralandı",
-    "source": "Kuzey Ekspres",
-    "time": "02/08/2026 21:14",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28450187/samsunda-halk-otobusu-devrildi-21-kisi-yaralandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsun’un Çarşamba ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği özel halk otobüsünün yoldan çıkarak devrilmesi sonucu ilk belirlemelere göre 21 kişi yaralandı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/08/02/large/samsunda-halk-otobusu-devrildi-21-kisi-yaralandi.webp",
     "keyword": ""
   }
 ]
