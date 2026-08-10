@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_f8e23c2b",
+    "title": "Gözde başkentte kanlı pazar",
+    "source": "OdaTV",
+    "time": "10/08/2026 03:48",
+    "link": "https://www.odatv.com/guncel/cape-townda-uc-ayri-saldiri-120158114",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güney Afrika Cumhuriyeti'nin Cape Town şehrinde düzenlenen üç ayrı silahlı saldırıda 11 kişi hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/10/cape-townda-uc-ayri-saldiri-zzj5.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_fa264079",
+    "title": "45.000 haneye elektrik verecek: 64 liraya satıldı!",
+    "source": "Ekonomim",
+    "time": "10/08/2026 03:48",
+    "link": "https://www.ekonomim.com/foto-galeri/ekonomi/45000-haneye-elektrik-verecekti-100-tl-altina-satildi-galeri-911117",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Enerji sektöründe global çapta sıkıntılar yaşanırken, 45 bin haneye elektrik sağlayacak TwinHub yüzer rüzgar projesi için beklenmedik durum yaşandı. Artan maliyetler nedeniyle şirket sadece 1 sterline satıldı. İşte detaylar…",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/08/10/45000-haneye-elektrik-verecekti-100-tl-altina-satildi-ozsu_cover.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_7d6766d2",
     "title": "Manisa'da otomobil şarampole savruldu: İkisi ağır 3 yaralı",
     "source": "Haber Global",
@@ -4774,29 +4798,5 @@
     "summary": "📺 S:HABER | YouTube Video (ID: IRYyvNrxz98)",
     "image": "https://img.youtube.com/vi/IRYyvNrxz98/hqdefault.jpg",
     "keyword": "S:HABER"
-  },
-  {
-    "id": "GND_7442475b",
-    "title": "İş makinesinin altında kalan işçi öldü",
-    "source": "Habertürk",
-    "time": "09/08/2026 20:48",
-    "link": "https://www.haberturk.com/son-dakika-siirt-te-tamir-ettigi-is-makinesinin-altinda-kalan-isci-oldu-3904373",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Siirt'in Şirvan ilçesinde maden işletmesinde arızalanan kepçeyi tamir eden 28 yaşındaki Emin Kubay, iş makinesinin altında kalarak hayatını kaybetti. Hastaneye kaldırılan Kubay, doktorların tüm müdahalesine rağmen kurtarılamazken, olayla ilgili soruşturma başlatıldı",
-    "image": "https://im.haberturk.com/l/2026/08/09/ver1786269215/3904373/jpg/1280x1280",
-    "keyword": ""
-  },
-  {
-    "id": "GND_3d38b124",
-    "title": "Yolcu ve İETT otobüsü çarpıştı! Yaralılar var",
-    "source": "Habertürk",
-    "time": "09/08/2026 20:48",
-    "link": "https://www.haberturk.com/son-dakika-yolcu-ve-iett-otobusu-carpisti-yaralilar-var-3904380",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Arnavutköy'de yolcu otobüsü ile İETT otobüsü çarpıştı. Kazada 4 kişi yaralandı",
-    "image": "https://im.haberturk.com/l/2026/08/09/ver1786272406/3904380/jpg/1280x1280",
-    "keyword": ""
   }
 ]
