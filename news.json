@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_58f3a106",
+    "title": "🗣️ @hbr-2.bsky.social",
+    "source": "Bluesky",
+    "time": "15/08/2026 02:49",
+    "link": "https://bsky.app/profile/hbr-2.bsky.social/post/3mt3dd2jrc22y",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "📰 Sanatevi kararı Trabzon'da kültür ve sanat ortamını tartışmaya açtı ﻿#TürkMühendislikYasası #İYİ Parti'den #25YildailEmriMujdesi\n\n🔗 www.cumhuriyet.com.tr/kultur-sanat...",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_ca77b690",
+    "title": "Fransa'da tırmanış sırasında dağcıların üzerine taş ve kaya parçaları yağdı",
+    "source": "OdaTV",
+    "time": "15/08/2026 02:49",
+    "link": "https://www.odatv.com/guncel/fransada-tirmanis-sirasinda-dagcilarin-uzerine-tas-ve-kaya-parcalari-yagdi-120158786",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa'nın Mont Blanc Dağı'nda bulunan Gouter Koridoru'nda dağcıların üzerine taş ve kaya parçalarının düştüğü anlar kameraya yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/15/fransada-tirmanis-sirasinda-dagcilarin-uzerine-tas-ve-kaya-parcalari-yagdi-ryfe.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_746147be",
+    "title": "'Hürmüz'ü Amerikan toprağı ilan edeceğim' diyen Trump'a İran'dan yanıt",
+    "source": "Ekonomim",
+    "time": "15/08/2026 02:49",
+    "link": "https://www.ekonomim.com/dunya/hurmuzu-amerikan-topragi-ilan-edecegim-diyen-trumpa-irandan-yanit-haberi-912275",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, Hürmüz Boğazı'nı ABD toprağı ilan edeceğini söyleyen ABD Başkanı Donald Trump'a verdiği yanıtta \"Hürmüz Boğazı, ne tweetle ele geçirilebilir ne uçak gemisiyle ne emir çıkararak ne de seçim konuşmasıyla\" ifadelerini kullandı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/08/15/hurmuzu-amerikan-topragi-ilan-edecegim-diyen-trumpa-irandan-yanit-nvry_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_636c3e64",
+    "title": "Endonezya'da 7,7 büyüklüğünde deprem!",
+    "source": "Habertürk",
+    "time": "15/08/2026 02:49",
+    "link": "https://www.haberturk.com/endonezya-da-7-7-buyuklugunde-deprem-3905758",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güneydoğu Asya ülkesi Endonezya'da 7,7 büyüklüğünde deprem meydana geldi. Depremin ardından tsunami riskine ilişkin uyarılar yapıldı",
+    "image": "https://im.haberturk.com/l/2026/08/15/ver1786749353/3905758/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c3d2a355",
+    "title": "Edirne'de korkunç kaza! Kopan parmak dakikalarca arandı",
+    "source": "Haber Global",
+    "time": "15/08/2026 02:49",
+    "link": "https://haberglobal.com/gundem/edirnede-korkunc-kaza-kopan-parmak-dakikalarca-arandi-539460",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne'de sürücüsünün hakimiyetini yitirdiği otomobil takla attı. Kazada F.K. yaralandı. F.K.'nın kopan parmağı olay yerinde dakikalarca arandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/08/15/edirnede-korkunc-kaza-kopan-parmak-dakikalarca-arandi-xo27.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_dfc3a473",
     "title": "Trabzonspor'da Ayrılık: Sağlık Kontrolünden Geçemedi, Yollar Ayrıldı! - Günebakış Gazetesi",
     "source": "Google Haberler",
@@ -4737,66 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, Süper Lig 2026-2027 sezonunun ilk haftasında saat 19.00’da Kasımpaşa’ya konuk olacak. Bordo-mavililerin hedefi galibiyet.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/08/14/large/trabzonspor-3-puan-pesinde-kasimpasada-onemli-eksik.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_332171f1",
-    "title": "Cumhurbaşkanı Erdoğan: 40 yıllık terörü biz çözüyoruz",
-    "source": "Haber Global",
-    "time": "14/08/2026 21:29",
-    "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-40-yillik-teroru-biz-cozuyoruz-539437",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti'nin 25. kuruluş yıl dönümü programında açıklamalarda bulunuyor.",
-    "image": "https://i.haberglobal.com/storage/files/images/2021/09/23/haberglobal-sondakika-1jxM.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_908a9ffa",
-    "title": "Yunanistan'da orman yangınları sürüyor",
-    "source": "TRT Haber",
-    "time": "14/08/2026 21:29",
-    "link": "https://www.trthaber.com/haber/dunya/yunanistanda-orman-yanginlari-suruyor-953994.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yunanistan bugün de ülkenin farklı bölgelerinde yangınlarla mücadelesini sürdürdü.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_191d50b8",
-    "title": "Kene kaynaklı KKKA şüphesi: Karabük'te bir kişi hayatını kaybetti",
-    "source": "Diken",
-    "time": "14/08/2026 21:29",
-    "link": "https://www.diken.com.tr/kene-kaynakli-kkka-suphesi-karabukte-bir-kisi-hayatini-kaybetti/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kene kaynaklı KKKA şüphesi: Karabük'te bir kişi hayatını kaybetti 14.08.2026 Diken Karabük'te Kırım Kongo Kanamalı Ateşi (KKKA) hastalığı şüphesiyle tedavi gören kişi hayatını kaybetti. The post Kene kaynaklı KKKA şüphesi: Karabük'te bir kişi hayatını kaybetti appeared first on #sitelinkat 14.08.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_482d8d2e",
-    "title": "Trabzonspor ve Avrupa kupalarındaki Türk ekiplerinden TFF’ye erteleme talebi hazırlığı",
-    "source": "Haber61",
-    "time": "14/08/2026 21:29",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-ve-avrupa-kupalarindaki-turk-ekiplerinden-tffye-erteleme-talebi-hazirligi/640632",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un da aralarında bulunduğu Avrupa kupalarında mücadele edecek Türk kulüpleri, Avrupa maçlarının oynanacağı haftalardaki Süper Lig karşılaşmalarının ertelenmesi için Türkiye Futbol Federasyonu’na ortak talepte bulunmaya hazırlanıyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_5378ce5e",
-    "title": "AK Parti, 25. yılını kutluyor: Erdoğan'dan 'tarihi konuşma' bekleniyor",
-    "source": "Euronews",
-    "time": "14/08/2026 21:29",
-    "link": "http://tr.euronews.com/2026/08/14/ak-parti-25-yilini-kutluyor-erdogandan-tarihi-konusma-bekleniyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla gerçekleştirilen AK Parti 25. yıl kutlaması, \"Milletimizle Çeyrek Asır, Türkiye Geleceğe Hazır\" sloganıyla tanıtıldı.",
-    "image": null,
     "keyword": ""
   }
 ]
