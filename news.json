@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_7e80101a",
+    "title": "Kadınlar geçim mücadelesini kredi kartlarıyla sürdürüyor",
+    "source": "Evrensel",
+    "time": "16/08/2026 03:29",
+    "link": "https://www.evrensel.net/haber/5996524/kadinlar-gecim-mucadelesini-kredi-kartlariyla-surduruyor",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kadınların anlattıkları, geçim sorununun cinsiyet boyutunu da ortaya koyuyor. Çünkü ev içindeki bakım yükü, çocukların ihtiyaçları, mutfak masrafları ve aile bütçesini denkleştirme sorumluluğu kadınların omuzlarında taşınıyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/358774.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9bb49ed9",
+    "title": "Datça Belediye Başkanı Aytaç Kurt ve meclis üyeleri CHP'den istifa ederek YENİ Parti'ye katıldı",
+    "source": "BirGün",
+    "time": "16/08/2026 03:28",
+    "link": "https://www.birgun.net/haber/datca-belediye-baskani-aytac-kurt-ve-meclis-uyeleri-chp-den-istifa-ederek-yeni-parti-ye-katildi-729495",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Datça Belediye Başkanı Aytaç Kurt ve belediye meclis üyeleri, Datça Demokrasi Evi’nde düzenlenen törenle YENİ Parti’ye katıldı. YENİ Parti Muğla milletvekilleri ve ilçe yönetiminin katıldığı programda Kurt, Atatürk ilkeleri ve adalet vurgusuyla mücadeleyi sürdüreceklerini belirtti.",
+    "image": "https://static.birgun.net/resim/haber/2026/08/16/datca-belediye-baskani-aytac-kurt-ve-meclis-uyeleri-chp-den-istifa-ederek-yeni-parti-ye-katildi.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_6d23f752",
     "title": "'Adamlık': Milyarlarca dolarlık bir mağduriyet endüstrisi",
     "source": "Diken",
@@ -4773,30 +4797,6 @@
     "prefix": "🎯",
     "summary": "Süper Lig’in ilk haftasında Kasımpaşa’ya konuk olan Trabzonspor, sahadan 1-1 beraberlikle ayrıldı. Bordo-mavililerin golünü Noah Saviolo, Kasımpaşa’nın golünü penaltıdan Adrian Benedyczak kaydetti.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/358772.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_a4d1300b",
-    "title": "\"X-Men\"e yeni karakterler katıldı İşte yeni kadro",
-    "source": "Ekonomim",
-    "time": "15/08/2026 21:49",
-    "link": "https://www.ekonomim.com/kultur-sanat/x-mene-yeni-karakterler-katildi-iste-yeni-kadro-haberi-912362",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Marvel Studios'un yeni \"X-Men\" filmi için oluşturduğu oyuncu kadrosu da resmen duyuruldu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/08/15/x-mene-yeni-karakterler-katildi-iste-yeni-kadro-xvqu_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_b07d24d4",
-    "title": "Trabzonspor, Kasımpaşa'ya takıldı: Salah ilk kez sahada",
-    "source": "BirGün",
-    "time": "15/08/2026 21:49",
-    "link": "https://www.birgun.net/haber/trabzonspor-kasimpasa-ya-takildi-salah-ilk-kez-sahada-729479",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig'in ilk haftasında Trabzonspor, deplasmanda Kasımpaşa ile 1-1 berabere kaldı. Bordo-mavililerin golünü Noah Saviolo kaydederken ev sahibi ekip Adrian Benedyczak'ın penaltısıyla karşılık verdi. Yeni transfer Mohamed Salah ise ikinci yarıda oyuna girerek ilk kez Trabzonspor forması giydi.",
-    "image": "https://static.birgun.net/resim/haber/2026/08/15/trabzonspor-a-istanbul-da-tek-puan-salah-ilk-kez-sahada.jpg",
     "keyword": "TRABZON"
   }
 ]
