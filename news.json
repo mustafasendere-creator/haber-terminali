@@ -1,5 +1,77 @@
 [
   {
+    "id": "SOC_c721684e",
+    "title": "🗣️ Haber61.net (@haber61 (· (18s)",
+    "source": "X (Twitter)",
+    "time": "17/08/2026 03:12",
+    "link": "https://x.com/haber_61/status/2088870288960168138",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Trabzon turizmi Bakan Ersoy’un gündeminde",
+    "image": null,
+    "keyword": "TRABZON #BAKAN"
+  },
+  {
+    "id": "SOC_841e35e5",
+    "title": "🗣️ Orhan (@orhanabi1914 (· (16s)",
+    "source": "X (Twitter)",
+    "time": "17/08/2026 03:12",
+    "link": "https://x.com/orhanabi1914/status/2088886831517487323",
+    "type": "SOC",
+    "prefix": "⚫ 🐦",
+    "summary": "Spor yasasi deplasman taraftarinin ev sahibin tarafina girmesini hele forma bayrak vs ile yasakliyor. Kapidan giriste engellemeyen polis ve cocugu maca forma ile getiren baba esasen sucludur.Salah trabzon yada gs formasi ile fener trubunine girilebilirmi?gercekci olalim",
+    "image": null,
+    "keyword": "POLIS #TRABZON"
+  },
+  {
+    "id": "GND_71b21152",
+    "title": "27 yıldır dinmeyen acı: 17 Ağustos unutulmadı",
+    "source": "OdaTV",
+    "time": "17/08/2026 03:03",
+    "link": "https://www.odatv.com/guncel/27-yildir-dinmeyen-aci-17-agustos-unutulmadi-120158964",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "17 Ağustos 1999 Marmara Depremi’nin yıl dönümünde acı bilanço ve Düzce’de yaşanan yıkım bir kez daha yürekleri sızlattı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/16/27-yildir-dinmeyen-aci-17-agustos-unutulmadi-8l77.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6169fe66",
+    "title": "İnegöl'de iki araç çarpıştı: İki yaralı",
+    "source": "Haber Global",
+    "time": "17/08/2026 03:03",
+    "link": "https://haberglobal.com/gundem/inegolde-iki-arac-carpisti-iki-yarali-539730",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa İnegöl'de iki otomobilin kafa kafaya çarpışması sonucu meydana gelen kazada 2 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/08/17/inegolde-iki-arac-carpisti-iki-yarali-cnoi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_0dc3f2f5",
+    "title": "Dersim'de sağanak yağış heyelana yol açtı: Karayolu ulaşıma kapandı",
+    "source": "BirGün",
+    "time": "17/08/2026 03:03",
+    "link": "https://www.birgun.net/haber/dersim-de-saganak-yagis-heyelana-yol-acti-karayolu-ulasima-kapandi-729640",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dersim-Pülümür-Erzincan karayolunun Zağge mevkisinde sağanak nedeniyle heyelan meydana geldi. Yamaçtan kopan toprak ve kaya parçalarının temizlenmesinin ardından yol yeniden ulaşıma açıldı.",
+    "image": "https://static.birgun.net/resim/haber/2026/08/17/dersimde-saganak-yagis-heyelana-yol-acti-karayolu-ulasima-kapandi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b336b8dd",
+    "title": "Trump'tan Mekke Ortak Savunma Anlaşması'na destek: Bu, büyük, cesur ve önemli bir ilk adım",
+    "source": "BirGün",
+    "time": "17/08/2026 03:03",
+    "link": "https://www.birgun.net/haber/trump-tan-mekke-ortak-savunma-anlasmasi-na-destek-bu-buyuk-cesur-ve-onemli-bir-ilk-adim-729643",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Türkiye, Suudi Arabistan ve Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması'ndan memnuniyet duyduğunu belirterek, üç ülkenin liderlerini tebrik etti. Trump, \"Bu, büyük, cesur ve önemli bir ilk adım\" dedi.",
+    "image": "https://static.birgun.net/resim/haber/2026/08/17/donald-trump-tan-mekke-ortak-savunma-anlasmasi-na-destek.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_42645c5c",
     "title": "Hatay'da feci kaza: TIR'la kafa kafaya çarpıştı",
     "source": "OdaTV",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "Arda Güler'in formasını giydiği Real Madrid, hazırlık maçında karşılaştığı Schalke 04'ü 3-0 mağlup etti.",
     "image": "https://media.cumhuriyet.com.tr/Archive/8e26f051-a2fe-4b3e-9738-fcfb58aee05c.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0df97fcf",
-    "title": "Türkiye ve 7 ülkeden İsrail'e tepki: Ortak açıklama yaptılar",
-    "source": "Cumhuriyet",
-    "time": "16/08/2026 21:03",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/turkiye-ve-7-ulkeden-israil-e-tepki-ortak-aciklama-yaptilar-2529585",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye, Mısır, Ürdün, Pakistan, Birleşik Arap Emirlikleri (BAE), Katar, Endonezya ve Suudi Arabistan; İsrail’in ABD Başkanı Donald Trump'ın Gazze Planına ilişkin yol haritasını uygulamayı reddetmesini kınadı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/fc1ec542-7fbe-44bf-ae03-f754d4e80943.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_55f56cf0",
-    "title": "Akıllıca seçim yapma konusunda böceklerden öğreneceğimiz 5 şey",
-    "source": "Cumhuriyet",
-    "time": "16/08/2026 21:03",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/akillica-secim-yapma-konusunda-boceklerden-ogrenecegimiz-5-sey-2529584",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Biz insanlar, uzun uzun düşünebilme yeteneğimiz sayesinde kendimizi evrim piramidinin tepesinde görmeye eğilimliyiz. Ancak bütün bu değerlendirme süreci bazen bizi pek de ileriye götürmüyor. Kusursuz değiliz ve sık sık yanlış kararlar veriyoruz.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/55e1cf3e-3dc0-40cd-a59a-3ea15df6ed91.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ffa770e3",
-    "title": "Ajax'a kendi evinde Heerenveen çelmesi!",
-    "source": "Cumhuriyet",
-    "time": "16/08/2026 21:03",
-    "link": "https://www.cumhuriyet.com.tr/spor/ajax-a-kendi-evinde-heerenveen-celmesi-2529586",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ajax, Hollanda 1. Futbol Ligi'nin (Eredivisie) ikinci haftasında kendi sahasında ağırladığı Heerenveen ile 2-2 berabere kaldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a1d2b567-d72c-4aed-b17a-18607a016281.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_17c9a8d9",
-    "title": "Kahve Dünyası’nın sahibi Birol Altınkılıç hayatını kaybetti",
-    "source": "Cumhuriyet",
-    "time": "16/08/2026 21:03",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kahve-dunyasi-nin-sahibi-birol-altinkilic-hayatini-kaybetti-2529587",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahve Dünyası ve Altınmarka Grubu’nun kurucusu Birol Altınkılıç’ın kalp krizi sonucu hayatını kaybetti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e9f73c6b-1827-4bbb-a094-e0771634e566.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_4a354875",
-    "title": "Trabzonspor - Ferencvaros maçının bilet fiyatları açıklandı",
-    "source": "Haber Global",
-    "time": "16/08/2026 21:03",
-    "link": "https://haberglobal.com/spor/trabzonspor-ferencvaros-macinin-bilet-fiyatlari-aciklandi-539705",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Avrupa Ligi play-off turu ilk maçında Trabzonspor ile Macaristan temsilcisi Ferencvaros arasında 20 Ağustos Perşembe günü oynanacak karşılaşmanın biletleri yarın satışa çıkarılacak.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/08/16/trabzonspor-ferencvaros-macinin-bilet-fiyatlari-aciklandi-peca.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_f5fc6475",
-    "title": "Tokat'ta 20 metrelik çukura düşen tilki yavrusu kurtarıldı",
-    "source": "Diken",
-    "time": "16/08/2026 21:03",
-    "link": "https://www.diken.com.tr/tokatta-20-metrelik-cukura-dusen-tilki-yavrusu-kurtarildi/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tokat'ta 20 metrelik çukura düşen tilki yavrusu kurtarıldı 16.08.2026 Diken Tokat'ın Reşadiye ilçesinde yaklaşık 20 metre derinliğindeki çukura düşen tilki yavrusu kurtarıldı. The post Tokat'ta 20 metrelik çukura düşen tilki yavrusu kurtarıldı appeared first on #sitelinkat 16.08.2026 .",
-    "image": null,
     "keyword": ""
   }
 ]
