@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_e5e7aca9",
+    "title": "Netanyahu’dan suikast girişimi iddiası",
+    "source": "OdaTV",
+    "time": "25/08/2026 03:43",
+    "link": "https://www.odatv.com/guncel/netanyahudan-suikast-girisimi-iddiasi-120160013",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Başbakanı Binyamin Netanyahu, İran'ın, oğullarından birine suikast girişiminde bulunduğunu öne sürdü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/20/netanyahudan-lubnanda-saldirilari-durdurun-emri-5o09.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_403086fe",
+    "title": "Tunceli'de temel kazısı sırasında toprak kayması oldu",
+    "source": "TRT Haber",
+    "time": "25/08/2026 03:43",
+    "link": "https://www.trthaber.com/haber/turkiye/tuncelide-temel-kazisi-sirasinda-toprak-kaymasi-oldu-954822.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tunceli'de bir inşaatın temel kazısı sırasında toprak kayması meydana geldi. Bitişikteki 5 katlı bina tedbir amaçlı tahliye edildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_dc902550",
     "title": "Sosyal medya fenomeni 'Rıdvan Abi' tutuklandı",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Türkiye'nin 2002'de 24,5 milyar dolarlık tarımsal hasılayla dünyada 12'nci sırada yer aldığını belirterek, 2025 verilerine göre 83,2 milyar dolarlık tarımsal hasılayla dünyada 7'nci, Avrupa'da ise birinci sıraya yükseldiğini belirtti.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_f22f904c",
-    "title": "İran: ABD, mutabakat zaptının uygulanması konusunda somut adımlar atmalı",
-    "source": "TRT Haber",
-    "time": "24/08/2026 22:03",
-    "link": "https://www.trthaber.com/haber/dunya/iran-abd-mutabakat-zaptinin-uygulanmasi-konusunda-somut-adimlar-atmali-954809.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızayi, ABD'nin davranışını değiştirmesi ve mutabakat zaptında yer alan şartların uygulanması konusunda somut adımlar atması gerektiğini söyledi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_3c33a5ec",
-    "title": "Okul saldırısında ölen öğretmenin ailesinden 5,1 milyon liralık tazminat davası",
-    "source": "Evrensel",
-    "time": "24/08/2026 22:03",
-    "link": "https://www.evrensel.net/haber/5997550/okul-saldirisinda-olen-ogretmenin-ailesinden-5-1-milyon-liralik-tazminat-davasi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Maraş'taki okul saldırısında hayatını kaybeden öğretmen Ayla Kara'nın ailesi, İsa Aras Mersinli'nin tutuklu babasına 5,1 milyon liralık tazminat davası açtı. Mahkeme, ebeveyn sorumluluğunu vurgulayarak babanın tüm mal varlığına ihtiyati haciz koydu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/359875.jpg",
     "keyword": ""
   }
 ]
