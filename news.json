@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_6912bc89",
+    "title": "19 ilde yasa dışı bahis operasyonu: 31 tutuklama",
+    "source": "Habertürk",
+    "time": "25/08/2026 05:43",
+    "link": "https://www.haberturk.com/cankiri-merkezli-yasa-disi-bahis-operasyonu-31-tutuklama-3907850",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çankırı merkezli 19 ilde düzenlenen yasa dışı bahis operasyonlarında yakalanan 39 şüpheliden 31'i tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/08/25/ver1787624453/3907850/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e7169ac4",
+    "title": "Bursa'da otomobil araziye girip takla attı",
+    "source": "Haber Global",
+    "time": "25/08/2026 05:43",
+    "link": "https://haberglobal.com/gundem/bursada-otomobil-araziye-girip-takla-atti-540915",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa Nilüfer'de yol kenarındaki araziye savrulup takla atan otomobildeki 3'ü yabancı uyruklu 5 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/08/25/bursada-otomobil-araziye-girip-takla-atti-jbs6.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_5f532184",
+    "title": "İnsanları Okumak: Söylediklerinden Çok Söylemediklerine Bakın",
+    "source": "10Haber",
+    "time": "25/08/2026 05:43",
+    "link": "https://10haber.net/yazarlar/mehmet-ogutcu/insanlari-okumak-soylediklerinden-cok-soylemediklerine-bakin-731476/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hayatım boyunca diplomatlarla, siyasetçilerle, iş insanlarıyla, yatırımcılarla, bürokratlarla, dünyanın çok farklı kültürlerinden insanlarla aynı masaya oturdum. Pek çok müzakereye girdim, dostluklar kurdum, yanıldığım insanlar da oldu, ilk görüşte doğru okuduklarım da. Zaman içinde insanları söyledikleri kadar, hatta bazen söylediklerinden daha fazla, söylemedikleri üzerinden okumayı öğrendim. Elbette bunun kusursuz bir formülü yok. Bir insanın gözünü kaçırması …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/08/Gemini_Generated_Image_7wzi7d7wzi7d7wzi-scaled.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_0a9d4051",
     "title": "Bilecik dâhil 71 ilde uyuşturucu madde satıcılarına yönelik operasyon - takipgazetesi.com.tr",
     "source": "Google Haberler",
@@ -4761,42 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’un santrfor arayışındaki yeni aday Borussia Dortmund forması giyen Fábio Silva oldu.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/08/24/large/trabzonsporun-gundemindeki-yildiz-icin-dikkat-ceken-iddia4.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_04da4e44",
-    "title": "Fabinho'nun yıllık ücreti ve forma numarası açıklandı",
-    "source": "Haber Global",
-    "time": "24/08/2026 22:23",
-    "link": "https://haberglobal.com/spor/fabinhonun-yillik-ucreti-ve-forma-numarasi-aciklandi-540894",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Brezilyalı orta saha Fabinho ile 2 yıllık anlaşma sağlandığını açıkladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/08/24/fabinhonun-yillik-ucreti-ve-forma-numarasi-aciklandi-stpg.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_ba2f767e",
-    "title": "Mevlit Kandili dualarla idrak edildi",
-    "source": "Anadolu Ajansı",
-    "time": "24/08/2026 22:23",
-    "link": "https://www.aa.com.tr/tr/gundem/mevlit-kandili-dualarla-idrak-edildi/4036244",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye genelinde vatandaşlar, Mevlit Kandili dolayısıyla birçok camide namaz kılıp dua etti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_3455a9db",
-    "title": "Başkan Erdoğan'dan Mevlid Kandili mesajı",
-    "source": "A Haber",
-    "time": "24/08/2026 22:23",
-    "link": "https://www.ahaber.com.tr/gundem/2026/08/24/baskan-erdogandan-mevlid-kandili-mesaji",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Başkan Recep Tayyip Erdoğan, Mevlid Kandili dolayısıyla mesaj yayımladı. Erdoğan'ın mesajında \"Leyle-i Mevlid’in ülkemiz, milletimiz ve tüm insanlık için hayırlara vesile olmasını niyaz ediyorum\"... Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/89457d/0/0/0/0/1638/2048?u=https://iahbr.tmgrup.com.tr/2026/08/24/baskan-erdogandan-mevlid-kandili-mesaji-1787598374525.jpg",
     "keyword": ""
   }
 ]
