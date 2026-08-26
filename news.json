@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_50ac655f",
+    "title": "🗣️ FAALİYET FİLMİ TEMMUZ 2026",
+    "source": "YouTube",
+    "time": "26/08/2026 03:44",
+    "link": "https://www.youtube.com/watch?v=0-sunetrtNk",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 0-sunetrtNk)",
+    "image": "https://img.youtube.com/vi/0-sunetrtNk/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_e5b0b2c0",
+    "title": "Belçika'da salmonella alarmı",
+    "source": "OdaTV",
+    "time": "26/08/2026 03:44",
+    "link": "https://www.odatv.com/guncel/belcikada-salmonella-alarmi-120160167",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Belçika'da salmonella bakterisi bulaşan yumurtaları tüketen en az 306 kişi hastalandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/19/ingilterede-salmonella-alarmi-pqo2.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_d6146090",
     "title": "Trabzon bu kadroyla oynasa şampiyonluk garanti mi? - Sporx.com",
     "source": "Google Haberler",
@@ -4769,30 +4793,6 @@
     "source": "Google Haberler",
     "time": "25/08/2026 21:24",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHgxQm5kbXd6a1VNczhnUnhBZmVqaXIzcU5hSGVjZzJoLUtza1JUNXRhVUtsZ1JfYjNyR1dRaWh2UmFtSnpQblVrQ01UaDVTQnR2cnZfTmZ6V0VEaHlkY3VSNnJSc0FGSkNqbDFqNTNYc3BCdWluRU5ReEVNbTYwcVRKTzRaaXZ0dElmUDdtUU3SAZABQVVfeXFMUGR4MUJuZG13emtVTXM4Z1J4QWZlamlyM3FOYUhlY2cyaC1Lc2tSVDV0YVVLbGdSX2IzckdXUWlodlJhbUp6UG5Va0NNVGg1U0J0dnJ2X05meldFRGh5ZGN1UjZyUnNBRkpDamwxajUzWHNwQnVpbkVOUXhFTW02MHFUSk80Wml2dHRJZlA3bVFN?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNEBAKIŞ"
-  },
-  {
-    "id": "TKP_5fbb12ce",
-    "title": "Avrasya Üniversitesi’nde Kayıt Coşkusu... Rekor Doluluğa Ulaştı! - Günebakış Gazetesi Trabzon",
-    "source": "Google Haberler",
-    "time": "25/08/2026 21:24",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1lVT290SkhKaXVNbW8zSXBiWGxqN0RvWVNCYzNfQ2haSVNIRjloUzNDUUl6Z2xWT3JMSGpzRHZ0YURkMTJYbTFPVEpVZ3BvYXdheTdvQWZ6dmpZSC0zY25GUE9MdjRTUVpieE5hZERsazRJeTdZbWRtQzJUX1MzTkZ0b0J4NW14Qm0yZDdoWGZ6ZGRHZnlISDZHRDU2aVNlZjY00gGjAUFVX3lxTE53WVVPb3RKSEppdU1tbzNJcGJYbGo3RG9ZU0JjM19DaFpJU0hGOWhTM0NRSXpnbFZPckxIanNEdnRhRGQxMlhtMU9USlVncG9hd2F5N29BZnp2allILTNjbkZQT0x2NFNRWmJ4TmFkRGxrNEl5N1ltZG1DMlRfUzNORnRvQng1bXhCbTJkN2hYZnpkZEdmeUhINkdENTZpU2VmNjQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNEBAKIŞ"
-  },
-  {
-    "id": "TKP_20d1a328",
-    "title": "Trabzon'un Vakfıkebir İlçesinde Feci Kaza! 1 Kişi Hayatını Kaybetti! - Günebakış Gazetesi Trabzon",
-    "source": "Google Haberler",
-    "time": "25/08/2026 21:24",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkhYdVF0WGM4aGdoeWE3ajhHLTVrS2tRWFdscnlzUTdLbXFQcGFmNWRIZ1dyQ0NvMFZvT01VRGhwSGhwSTlPWE80YmllZEx5a2N6N29INzRrM2h0SWc3cTBnUHFrdGxLaVdYdHFFM0pJdURTb3FCc25mdU01WFFyQ0tnblNuUUJ2OFdhM0tvZzFYZ29wNldPZG90bGdCOGowTEdoZW9R0gGrAUFVX3lxTE1lUllzQnlTSWdxdTBnV2xPZHZ0bmw3ZjZVcXRFRlFyR3NDNGpMSmJncl9ZZk5pUlo1Vlo1ZFlCUFp6NWx6QnpscUVsb1g0ZnNmMS12SUhfSzRfRkJFNDRQeTI4c0Z1dzQ5UldDNXRLZndzWnRITlh5VVg1eEtNeTFtZHZQZXZ2eFl0U09Nc1Z0bmp0Tm1VSTN1T2ZKQUJaTEFfeDhfTkV3aHlYYw?oc=5",
     "type": "TKP",
     "prefix": "🌐 📰",
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
