@@ -1,5 +1,17 @@
 [
   {
+    "id": "SOC_be907e11",
+    "title": "🗣️ @ensonhbr.bsky.social",
+    "source": "Bluesky",
+    "time": "27/08/2026 06:09",
+    "link": "https://bsky.app/profile/ensonhbr.bsky.social/post/3mtztrav35q27",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Konya - Kütahya - Malatya - Manisa - Mardin - Mersin - Muğla - Muş - Nevşehir - Niğde - Ordu - Osmaniye - Rize - Sakarya - Samsun - Siirt - Sinop - Sivas - Şanlıurfa - Şırnak - Tekirdağ - Tokat - Trabzon - Tunceli - Uşak - Van - Yalova - Yozgat - Zonguldak - Arama - Anasayfa - Gündem -",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_44a14219",
     "title": "Sabancı Müzesi’nde Yoko Ono Sergisi: Hisset... Haykır... Hayal et...",
     "source": "Cumhuriyet",
@@ -4786,17 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_3de1592e",
-    "title": "AKP’li Menemen Belediyesi’nde festivale para var işçi alacağına yok",
-    "source": "Evrensel",
-    "time": "26/08/2026 23:50",
-    "link": "https://www.evrensel.net/haber/5997901/akpli-menemen-belediyesinde-festivale-para-var-isci-alacagina-yok",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İşçilerin alacaklarını ödemeyen AKP’li Menemen Belediyesi düzenlediği 6. Bozalan İncir Festivali’nde milyonlarca lira harcamaya devam ederken, işçiler ise alacakları için icra yolu ile Menemen Belediyesinin mallarına el koymaya hazırlanıyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/360285.jpg",
-    "keyword": ""
   }
 ]
