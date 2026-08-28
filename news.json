@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_61b90648",
+    "title": "Gece çalışan şantiye vatandaşı kızdırdı",
+    "source": "OdaTV",
+    "time": "29/08/2026 02:30",
+    "link": "https://www.odatv.com/guncel/uskudarda-gece-saatlerindeki-insaat-calismasina-mahalliden-tepki-120160572",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Üsküdar'da bir sitenin şantiyesindeki çalışmaların gece saatlerinde de devam etmesine mahalle sakinleri tepki gösterdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/29/uskudarda-gece-saatlerindeki-insaat-calismasina-mahalliden-tepki-bv7e.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_bbfe38ef",
+    "title": "Seferihisar'ın tutuklu Belediye Başkanı'nın makam sürücüsü gözaltına alındı",
+    "source": "Ekonomim",
+    "time": "29/08/2026 02:30",
+    "link": "https://www.ekonomim.com/gundem/seferihisarin-tutuklu-belediye-baskaninin-makam-surucusu-gozaltina-alindi-haberi-914965",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir'de Seferihisar Belediyesi'ne yönelik yürütülen geniş çaplı rüşvet soruşturması kapsamında; tutuklanarak görevden uzaklaştırılan eski Belediye Başkanı İsmail Yetişkin ve başkan yardımcısı G.P.'nin makam şoförleri gözaltına alındı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/08/29/seferihisarin-tutuklu-belediye-baskaninin-makam-surucusu-gozaltina-alindi-s3dg_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b73f43fb",
+    "title": "Alihan Kuriş operasyonunda karar: 35 tutuklama...",
+    "source": "Cumhuriyet",
+    "time": "29/08/2026 02:30",
+    "link": "https://www.cumhuriyet.com.tr/spor/alihan-kuris-operasyonunda-karar-35-tutuklama-2533273",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Alihan Kuriş operasyonunda gözaltına alınan 35 şüpheli tutuklandı. 2 şüpheli ise adli kontrolle serbest bırakıldı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/6a444815-e106-4c79-9575-0e7e93e37cde.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ba28728b",
+    "title": "Adana'da, aranan 35 şüpheli yakalandı",
+    "source": "TRT Haber",
+    "time": "29/08/2026 02:30",
+    "link": "https://www.trthaber.com/haber/turkiye/adanada-aranan-35-supheli-yakalandi-955265.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da polis ekiplerince helikopter ve dron destekli kentin farklı noktalarında yapılan denetimlerde çeşitli suçlardan aranan 35 şüpheli yakalandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_5bf51d89",
+    "title": "Trabzon yaylalarında temizlik çalışması yapıldı - Toplumsal Haber",
+    "source": "Google Haberler",
+    "time": "29/08/2026 02:30",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkw1US00LUJ1RHZsTGRGLXBQQnc4YmdNbVViRy1jUlYtejAwc1hPd1ZjTHBNMmlSbFpBam5OREs2bk1vcm83ZnhaSG9tNFhiLXFNYl8xNm9IZWV2NHNkQVlUNWljSDRHbnJMaFp3VjRubnpiem9JYmhFNmFGcFFuc0JrRElGdm9VSkg1SHM3aDBsdlk?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_5217bb01",
+    "title": "🗣️ @ensonhbr.bsky.social",
+    "source": "Bluesky",
+    "time": "29/08/2026 02:30",
+    "link": "https://bsky.app/profile/ensonhbr.bsky.social/post/3mu6ijbznnd2i",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Kocaeli - Konya - Kütahya - Malatya - Manisa - Mardin - Mersin - Muğla - Muş - Nevşehir - Niğde - Ordu - Osmaniye - Rize - Sakarya - Samsun - Siirt - Sinop - Sivas - Şanlıurfa - Şırnak - Tekirdağ - Tokat - Trabzon - Tunceli - Uşak - Van - Yalova - Yozgat - Zonguldak - Arama - Anasayfa -",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_62916c54",
     "title": "Benzin alırken direksiyonda sızdı",
     "source": "OdaTV",
@@ -4726,77 +4798,5 @@
     "summary": "Akşehir Belediyesi’nin sosyal destek projesinin 5. etabında 379 aileye toplam 4 milyon 821 bin TL ödeme yapıldı. 2026 yılı için 20 milyon TL olarak belirlenen sosyal yardım bütçesi kapsamında destekler, ailelerdeki kadınların hesaplarına yatırıldı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2bc6aa26-21dd-43e9-a025-4d1e63342cca.jpg",
     "keyword": ""
-  },
-  {
-    "id": "GND_d5156ca4",
-    "title": "Eski CHP Genel Başkanvekili Cevdet Selvi hayatını kaybetti",
-    "source": "Cumhuriyet",
-    "time": "28/08/2026 21:31",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/eski-chp-genel-baskanvekili-cevdet-selvi-hayatini-kaybetti-2533173",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eski CHP Genel Başkan Vekili ve Milletvekili Cevdet Selvi hayatını kaybetti. Selvi için 31 Ağustos Pazartesi günü saat 11.00'de TBMM'de tören düzenlenecek.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/83f05c82-5e41-4b3d-84b2-035657406989.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ebc55c92",
-    "title": "Mamak’ta 30 Ağustos’a özel program",
-    "source": "Cumhuriyet",
-    "time": "28/08/2026 21:31",
-    "link": "https://www.cumhuriyet.com.tr/yerel-gundem/mamak-ta-30-agustos-a-ozel-program-2533175",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mamak Belediyesi, 30 Ağustos Zafer Bayramı’nın 104. yıl dönümünü yarın saat 19.00’de 100. Yıl Ege Millet Bahçesi’nde düzenlenecek özel programla kutlayacak. Programda konser, DJ performansı, halk oyunları ve Engelsiz Türküler Korosu yer alacak. Programın ardından, 30 Ağustos’ta da Mamak Belediyesi binası önünde düzenlenecek çelenk sunma töreniyle anılacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/78b53e65-1d56-4bd9-80d5-cef8e06fcfcc.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0777c673",
-    "title": "İstanbul Zeytinburnu'nda İETT otobüsü bahçe duvarına çarpmıştı... 1 yolcu hayatını kaybetti, 2’si ağır 17 yaralı",
-    "source": "Cumhuriyet",
-    "time": "28/08/2026 21:31",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-istanbul-zeytinburnu-nda-iett-otobusu-sitenin-bahce-duvarina-carpti-yaralilar-var-2533176",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Zeytinburnu'nda, İETT otobüsünün bir sitenin duvarına çarpması sonucu 1 vatandaş hayatını kaybetti, 2’si ağır 17 kişi de yaralandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/df61d5aa-b91f-472f-8743-51939f8fcf83.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_8203d6a7",
-    "title": "Trabzonspor’da Rade Obrenovic İsyanı: Cabral Kararı Bardağı Taşırdı - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "28/08/2026 21:31",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa05zcXF5Y2pBdjZuXzNWN2FPNlJaNHhtYndfZU83cE1xV1FwY3JDa0JiZ0x2cFUxcVhBcHE5amtZMHZKSVM2U2o2c3NKYldRYXMtMU1NZWhvaXZoNTNFcGE2cGlxbUFueGNVZkxKV0pHb3I4Sjd2UzF4cUh5NDB6MjVsNnhXaHpUTU04MTZQa09GQmpBY1AtaC05bw?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "TKP_c7f09b24",
-    "title": "3 aydır alacaklarını alamayan işçi canına kıymaya kalktı! - Özgür Kocaeli",
-    "source": "Google Haberler",
-    "time": "28/08/2026 21:31",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVJiaVV4X3BmNlB5RURqcEtHUThVV2pSek9RMFpqV3ZaMGF6NEwyZ1p1MXRQVzZXMDdLWW45VmR3UTNmRi1yS1lBN2h4bXBoTzRBS3h3aU5KMnItWFlDX1hIa3NFbkUxczFwUFI4eGI5emd5cGFuaFRuaHRqRkJ2NDZ4amFDZzBjQVdlUUduZG5rV05MVG9HTHFKX25mUnUzT21EQno4QUhoYVnSAasBQVVfeXFMTnFSYmlVeF9wZjZQeUVEanBLR1E4VVdqUnpPUTBaald2WjBhejRMMmdadTF0UFc2VzA3S1luOVZkd1EzZkYtcktZQTdoeG1waE80QUt4d2lOSjJyLVhZQ19YSGtzRW5FMXMxcFBSOHhiOXpneXBhbmhUbmh0akZCdjQ2eGphQ2cwY0FXZVFHbmRua1dOTFRvR0xxSl9uZlJ1M09tREJ6OEFIaGFZ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_cef35ebd",
-    "title": "Elazığ'da Evinin Çatısına Canına Kıydı - Günışığı Gazetesi",
-    "source": "Google Haberler",
-    "time": "28/08/2026 21:31",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWFYYS0yVm41UVlZTE00NHhZdU5aUHpRR041eGx3MVRlV2wxcEhFSXhsOHY1WWYwd3Y1SDltU2FuQTZoOWtrMXVUdS1jRWplZTNEVVR4Y2xnRlBhdFZlekI5LWljUTVNcGs1Uks0ZjdEY1psYUZ0eU15QXZ5WlloU2VZWFREY0d3TEptbTl30gGTAUFVX3lxTFBoVWg1d2N1XzFocnJReGs0U3FCYjJBQ2sxTDAyejE1QlFfaFBidEZWNHp5Zk93R1ZocEM4aU1ka0c0UHRfUDI3UGNVdlBaOVZyeEUtV0UtVWluNnkwUk9VRHFsWUk1cUYxTGcxaXBYVWNGOXRSTWxHMzB0clpqakQ1YTJsQ0ZKc2Fvdnh3b0dGOTdzSQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
   }
 ]
