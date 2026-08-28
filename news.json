@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_4c6563dd",
+    "title": "Yeşilköy'de 'yeşil' tehlike",
+    "source": "OdaTV",
+    "time": "29/08/2026 01:30",
+    "link": "https://www.odatv.com/guncel/yesilkoy-sahilinde-kirlilik-alarmi-120160565",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Yeşilköy sahilinde Marmara Denizi'nin kıyı kesimindeki kirlilik dikkat çekerken \"Denize girme yasaktır\" tabelalarına rağmen vatandaşların, aralarında çocukların da bulunduğu grupların serinlemek amacıyla denize girdiği görüldü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/29/yesilkoy-sahilinde-kirlilik-alarmi-5igr.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e0bc9d70",
+    "title": "Babasının kullandığı minibüsün çarptığı çocuk öldü",
+    "source": "Habertürk",
+    "time": "29/08/2026 01:30",
+    "link": "https://www.haberturk.com/antalya-da-babasinin-kullandigi-minibusun-carptigi-cocuk-oldu-3908853",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya Serik'te, babasının geri manevra yaptığı servis minibüsünün altında kalan 1,5 yaşındaki Yakup Emir Ş. ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti. Yürek yakan kaza anı güvenlik kamerasına yansıdı",
+    "image": "https://im.haberturk.com/l/2026/08/29/ver1787954657/3908853/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b1d2dc26",
+    "title": "Manchester City, başkent deplasmanında farklı kazandı",
+    "source": "Anadolu Ajansı",
+    "time": "29/08/2026 01:30",
+    "link": "https://www.aa.com.tr/tr/spor/manchester-city-baskent-deplasmaninda-farkli-kazandi/4040692",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiltere Premier Lig'in ikinci haftasında oynanan maçta Manchester City, deplasmanda Crystal Palace'ı 4-1 mağlup etti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_46ff310e",
+    "title": "YENİ Parti’de Osman Dilber’den Adaylık Mesajı - Günebakış Gazetesi Trabzon",
+    "source": "Google Haberler",
+    "time": "29/08/2026 01:30",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTQwQlVIWnJKVEtGU3phdjJoYjFwMk52N29pVjRhSzZTeWZ2MjBGNGplbFNaTzNUMG5UdXFsT1BxN3cxUDdTVWR2cTF5WHJ2dEdZR1hKNmtueEw3SnVMRVplV0J1Yzh3YlRrZ1FOcHdxMFM3emFxRDJuQ2laMXpGRHRsVmV2cFBt0gGOAUFVX3lxTE5aRlZkNHFnbGdlUlNhVmFwdm9ZY05oSW5RaVpqR2lrSXM3cnhkOW9OTjBSZEJFcFgwTi1oTlV1enMyR0h6UThzaUY2R2U0S2ZLRjNFX1BENEQtV0QzeFVfVEIxMFI2Sl9HSHJudHNWc2dXTldiTXRHOTJJRWdJMTB6bWdobTFBX3NQNHV1U2c?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNEBAKIŞ"
+  },
+  {
+    "id": "SOC_20dad68e",
+    "title": "🗣️ MECLİS'TE GİZLİ PAZARLIK: İktidarın Sandık ve Meşruiyet Oyununu Uzman İsim Deşifre Etti",
+    "source": "YouTube",
+    "time": "29/08/2026 01:29",
+    "link": "https://www.youtube.com/watch?v=KVWIB9upq-s",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: KVWIB9upq-s)",
+    "image": "https://img.youtube.com/vi/KVWIB9upq-s/hqdefault.jpg",
+    "keyword": "S:SONDAKIKA"
+  },
+  {
     "id": "SOC_8c3c7df4",
     "title": "🗣️ @BasdericiSamet",
     "source": "X (Zamantika)",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Panelsan'da sendikalaştıktan sonra işten çıkarılan işçilerin direnişi sürüyor. Patron, işçilerin çadır kurduğu alana tırları park ettirdi. Direnişte kararlı olan işçiler, fabrikanın kapısına çadır kurarak direnişi sürdürüyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/360601.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_b9ae4694",
-    "title": "Trabzonspor’da Malinovskyi sessizliğini bozdu: “Duygularınıza saygı duyuyorum”",
-    "source": "Haber61",
-    "time": "28/08/2026 21:30",
-    "link": "https://www.haber61.net/trabzonspor/trabzonsporda-malinovskyi-sessizligini-bozdu-duygulariniza-saygi-duyuyorum/641913",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Ferencvaros karşısında gördüğü kırmızı kartın ardından sessizliğini bozan Ruslan Malinovskyi, yaşanan mağlubiyet nedeniyle duyduğu üzüntüyü dile getirerek bordo-mavili camiadan destek istedi.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_b946c79f",
-    "title": "Hakkında tahliye kararı verilen Deniz Göktaş, cezaevinden çıkmadan yeniden tutuklandı",
-    "source": "Evrensel",
-    "time": "28/08/2026 21:30",
-    "link": "https://www.evrensel.net/haber/5998226/hakkinda-tahliye-karari-verilen-deniz-goktas-cezaevinden-cikmadan-yeniden-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklu komedyen Deniz Göktaş hakkında tutukluluğuna yapılan itiraz sonrası tahliye kararı verildi. Tahliye kararı sonrası SEGBİS ile sulh ceza hakimliğine çıkarılan Göktaş, cezaevinden çıkamadan “suçu ve suçluyu övme” suçlamasıyla yeniden tutuklandı",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/353298.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_01cfe1ad",
-    "title": "İzlanda'nın AB referandumu: Oylama öncesi bilinmesi gerekenler, Avrupa'ya etkileri",
-    "source": "Euronews",
-    "time": "28/08/2026 21:30",
-    "link": "http://tr.euronews.com/my-europe/2026/08/28/izlandanin-ab-referandumu-oylama-oncesi-bilinmesi-gerekenler-avrupaya-etkileri",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzlanda'nın Avrupa Birliği'ne yeniden katılım müzakerelerini başlatıp başlatmama konusundaki cumartesi referandumu hakkında bilmeniz gerekenler.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_14666050",
-    "title": "🗣️ \"ONLAR DÜŞMAN, TÜRKİYE'YE GÜVEN OLMAZ!\" İsrail'in Lideri Netanyahu'dan Hadsiz Açıklama!",
-    "source": "YouTube",
-    "time": "28/08/2026 21:30",
-    "link": "https://www.youtube.com/watch?v=I8TUTI5fj4s",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: I8TUTI5fj4s)",
-    "image": "https://img.youtube.com/vi/I8TUTI5fj4s/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
-  },
-  {
-    "id": "GND_36120930",
-    "title": "İmamoğlu'ndan toplatılan kitabına dair açıklama: Savunmamı herkes görecek",
-    "source": "BirGün",
-    "time": "28/08/2026 21:30",
-    "link": "https://www.birgun.net/haber/imamoglu-ndan-toplatilan-kitabina-dair-aciklama-savunmami-herkes-gorecek-731661",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ekrem İmamoğlu daha baskı aşamasındayken toplatma kararı alınan kitabına dair sosyal medya hesabından açıklama yaparak \"Yılmayacağım! Susmayacağım! Durmayacak ve teslim olmayacağım! Milletle beraber bu kitabı milyonlar okuyacak. Savunmamı herkes görecek. Yasakçılar dahil!\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/08/28/imamoglu-ndan-toplatilan-kitap-aciklamasi-savunmami-herkes-gorecek.jpg",
     "keyword": ""
   }
 ]
