@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_a7481f13",
+    "title": "\"Domuz sandım\" dediği akrabasını öldüren şüpheli tutuklandı",
+    "source": "OdaTV",
+    "time": "29/08/2026 03:10",
+    "link": "https://www.odatv.com/guncel/domuz-sandim-dedigi-akrabasini-olduren-supheli-tutuklandi-120160574",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zonguldak’ın Devrek ilçesinde akrabası Kenan Basan’ı tüfekle vurarak ölümüne neden olan şüpheli, adli kontrol şartıyla serbest bırakılmasının ardından Cumhuriyet Savcısının itirazı üzerine tutuklandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/29/domuz-sandim-dedigi-akrabasini-olduren-supheli-tutuklandi-eu4a.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_bd9bc65c",
+    "title": "\"Tarihin en büyük petrol anlaşmasını yaptık\"",
+    "source": "Habertürk",
+    "time": "29/08/2026 03:10",
+    "link": "https://www.haberturk.com/trump-tarihin-en-buyuk-petrol-anlasmasini-yaptik-3908855",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Venezuela ile \"dünya tarihinin en büyük petrol anlaşmasına\" vardıklarını ve Venezuela'daki 65 milyar varilden fazla petrol rezervinin büyük bölümü üzerinde kontrol sağladıklarını belirtti",
+    "image": "https://im.haberturk.com/l/2026/08/29/ver1787961375/3908855/jpg/1280x1280",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b5b42d14",
+    "title": "Trump: Venezuela ile dünya tarihinin en büyük petrol anlaşmasına imza attık",
+    "source": "TRT Haber",
+    "time": "29/08/2026 03:10",
+    "link": "https://www.trthaber.com/haber/dunya/trump-venezuela-ile-dunya-tarihinin-en-buyuk-petrol-anlasmasina-imza-attik-955266.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Venezuela ile \"dünya tarihinin en büyük petrol anlaşmasına\" vardıklarını ve Venezuela'daki 65 milyar varilden fazla petrol rezervinin büyük bölümü üzerinde kontrol sağladıklarını belirtti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "SOC_cda4351d",
+    "title": "Mahallede fiber olmaması sorunu 2026",
+    "source": "Reddit",
+    "time": "29/08/2026 03:09",
+    "link": "https://www.reddit.com/r/teknoloji/comments/1w16zmj/mahallede_fiber_olmaması_sorunu_2026/",
+    "type": "SOC",
+    "prefix": "🟠 🤖",
+    "summary": "Merhaba Antalyada 1000 mbit net kullanıyorum Trabzon a taşınacağım ancak sanırım fiber yok nasıl bir adım atmalıyım fiber getirtme gibi bir söz konusu oluyor mu submitted by /u/MrDoganer to r/teknoloji link yorumlar",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "SOC_36d814df",
     "title": "🗣️ Trabz10 TV (@Trabz10TV (· (6s)",
     "source": "X (Twitter)",
@@ -4750,53 +4798,5 @@
     "summary": "Trabzonspor, Ferencvaros maçının ardından istifa eden teknik direktör Fatih Tekke'nin istifasını kabul etmedi. Tekke, bugün yapılan antrenmanda takımın başında yer alırken, yaşananların ardından bir açıklama yaptı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/f1becea4-9af5-4447-8853-d28a2281de5e.jpg",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_0ae8f5d1",
-    "title": "Filenin Sultanları, Polonya'ya altın sette kaybetti",
-    "source": "Haber Global",
-    "time": "28/08/2026 21:50",
-    "link": "https://haberglobal.com/spor/filenin-sultanlari-polonyaya-altin-sette-kaybetti-541541",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 Avrupa Voleybol Şampiyonası A Grubu 5. ve son maçında A Milli Kadın Voleybol Takımı, Polonya'ya 3-2 mağlup olarak gruptaki ilk yenilgisini aldı. Ay-yıldızlılar grubu 2. bitirerek adını son 16 turuna yazdırdı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/08/28/filenin-sultanlari-polonyaya-altin-sette-kaybetti-ijcj.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ecc51e74",
-    "title": "Filenin Sultanları Avrupa Şampiyonası'nda son 16'da",
-    "source": "TRT Haber",
-    "time": "28/08/2026 21:50",
-    "link": "https://www.trthaber.com/haber/gundem/filenin-sultanlari-avrupa-sampiyonasinda-son-16da-955258.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası beşinci maçında Polonya'ya 32 mağlup olan A Milli Kadın Voleybol Takımımız, son 16 turunda Azerbaycan ile eşleşti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_108af736",
-    "title": "Hollanda'da 'Donald Trump hapı' uyarısı: Kullanmayın, ölebilirsiniz",
-    "source": "Diken",
-    "time": "28/08/2026 21:50",
-    "link": "https://www.diken.com.tr/hollandada-donald-trump-hapi-uyarisi-kullanmayin-olebilirsiniz/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hollanda'da 'Donald Trump hapı' uyarısı: Kullanmayın, ölebilirsiniz 28.08.2026 Diken Hollanda sağlık otoriteleri, ABD Başkanı Donald Trump’ın kafası şeklinde tasarlanan ve ölümcül olduğu belirtilen uyuşturucu haplarına karşı uyardı. The post Hollanda'da 'Donald Trump hapı' uyarısı: Kullanmayın, ölebilirsiniz appeared first on #sitelinkat 28.08.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_ffb2b1af",
-    "title": "🗣️ Cansız Bedenleri Sahile Vurmuştu! 3 Kardeşin Ölümünde Kan Donduran Defter Detayı! | Star Ana Haber",
-    "source": "YouTube",
-    "time": "28/08/2026 21:50",
-    "link": "https://www.youtube.com/watch?v=0tDmaOhqCnw",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: 0tDmaOhqCnw)",
-    "image": "https://img.youtube.com/vi/0tDmaOhqCnw/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
   }
 ]
