@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_ab3898e3",
+    "title": "'Geçmişin karanlığını asla yok sayamayız'",
+    "source": "BirGün",
+    "time": "30/08/2026 05:30",
+    "link": "https://www.birgun.net/haber/gecmisin-karanligini-asla-yok-sayamayiz-731846",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sinemacı Ferit Karahan yeni filmi “Cinlerin Düğünü”nde kadınların sürüklediği bir hikâyeye imza atıyor. Dünya prömiyerini Toronto’da yapacak olan film geçmişe dair karanlıkların hayatımızı nasıl etkilediğini ortaya koyuyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/08/30/gecmisin-karanligini-asla-yok-sayamayiz.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_7682b5af",
+    "title": "Korunan alana cezaevi yapılacak",
+    "source": "BirGün",
+    "time": "30/08/2026 05:30",
+    "link": "https://www.birgun.net/haber/korunan-alana-cezaevi-yapilacak-731847",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Develi’de “Önemli Doğa Alanı” sınırlarında kalan 220 dönümlük tarım arazisi imara açıldı. Çevre Bakanlığı, Adalet Bakanlığı’nın talebiyle planı değiştirerek koruma altındaki alanı cezaevi inşaatına ayırdı.",
+    "image": "https://static.birgun.net/resim/haber/2026/08/30/korunan-alana-cezaevi-yapilacak.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_3b941986",
+    "title": "Doku soruşturmasında 10 kişiye daha gözaltı",
+    "source": "BirGün",
+    "time": "30/08/2026 05:30",
+    "link": "https://www.birgun.net/haber/doku-sorusturmasinda-10-kisiye-daha-gozalti-731848",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Doku soruşturması kapsamında dün 10 kişi daha gözaltına alındı. Gözaltına alınanların arasında dönemin İl Jandarma Komutan vekili ve İl Jandarma Alay Komutan yardımcısı A. Kahraman ile eşinin de bulunduğu öğrenildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/08/30/doku-sorusturmasinda-10-kisiye-daha-gozalti.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_705c1c19",
     "title": "Erzincan'da sağanak su baskınlarına neden oldu",
     "source": "TRT Haber",
@@ -4762,41 +4798,5 @@
     "summary": "Konyaspor’un Kocaelispor’a 2-1 mağlup olduğu mücadelede eski Trabzonsporlu Enis Bardhi, gördüğü kırmızı kartın ardından karşılaşmanın öne çıkan isimlerinden biri oldu.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/08/29/large/trabzonsporun-eski-yildizi-saskina-cevirdi8.jpg",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_7964e94b",
-    "title": "Fiorentina kaybetti, Oulai performansıyla alkış aldı",
-    "source": "Günebakış",
-    "time": "29/08/2026 23:10",
-    "link": "https://www.gunebakis.com.tr/fiorentina-kaybetti-oulai-performansiyla-alkis-aldi/28608537",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’dan Fiorentina’ya transfer olan Christ Inao Oulai, Frosinone karşısında ilk kez 11’de oynadı ve 7,0 puanla takımının en yüksek derecesine ulaştı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/08/29/large/fiorentina-kaybetti-oulai-performansiyla-alkis-aldi-1.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_66c6b9a3",
-    "title": "Antalya'da makilik alanda yangın",
-    "source": "Diken",
-    "time": "29/08/2026 23:10",
-    "link": "https://www.diken.com.tr/antalyada-makilik-alanda-yangin-2/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya'da makilik alanda yangın 29.08.2026 Diken Antalya'nın Serik ilçesinde otluk ve makilik alanda yangın çıktı. The post Antalya'da makilik alanda yangın appeared first on #sitelinkat 29.08.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_0f17acd0",
-    "title": "Galatasaray-Göztepe: 2-1",
-    "source": "Evrensel",
-    "time": "29/08/2026 23:10",
-    "link": "https://www.evrensel.net/haber/5998366/galatasaray-goztepe-2-1",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig’in üçüncü haftasında Galatasaray, Göztepe’yi konuk etti. Göztepe 16. dakikada gol atarak öne geçti. 33. dakikada Galatasaray beraberliği yakaladı. Galatasaray 55. dakikada 2-1 öne geçti.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/360732.jpg",
-    "keyword": ""
   }
 ]
