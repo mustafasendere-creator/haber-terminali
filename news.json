@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_7461e954",
+    "title": "Trump'tan İran'a 'nükleer saldırı' itirafı",
+    "source": "OdaTV",
+    "time": "01/09/2026 02:30",
+    "link": "https://www.odatv.com/guncel/trumptan-irana-nukleer-saldiri-itirafi-120160906",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, \"İran’a karşı nükleer silah kullanma seçeneğini eledim. Buna gerek yok\" dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/19/trumptan-iran-karari-abd-iran-gorusmeleri-durduruldu-halc.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ed1bcd84",
+    "title": "Bitexen'in sahibi Kemal Cenk Erdem tutuklandı",
+    "source": "Ekonomim",
+    "time": "01/09/2026 02:30",
+    "link": "https://www.ekonomim.com/gundem/bitexenin-sahibi-kemal-cenk-erdem-tutuklandi-haberi-915444",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DinamikPay soruşturması kapsamında gözaltına alınan Bitexen'in sahibi Kemal Cenk Erdem, mal varlığı değerlerinin gayrimeşru kaynağını gizlemek suçundan çıkarıldığı hakimlikçe tutuklandı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/01/bitexenin-sahibi-kemal-cenk-erdem-tutuklandi-4pgb_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_0dc1a4cf",
+    "title": "Trabzonspor’da Fatih Tekke Sorumluluğu Üstlendi: \"Ayağa Kalkacağız\" - Günebakış Gazetesi Trabzon",
+    "source": "Google Haberler",
+    "time": "01/09/2026 02:30",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajZVVFNoVjduTUhGUnJGVmhVQTRZcndOalNfbnlEclBrbnpMTDNfRlR0VVQxNEFmV2hBbXduU19SS3A1ZTR4OWJ0N1NVNWlEZHlUTERIdjdGNWZ2U1NxcmlaU0NRVEpFaUNzakQ1V09ZbnJVOXlqVjJGbG5mTmxUZERSZlQwVmlUbmR3d3ZxVGtUUmxxbUVlMGhqWHdJZ0t5V3hITzl5NWrSAagBQVVfeXFMTmo2VVRTaFY3bk1IRlJyRlZoVUE0WXJ3TmpTX255RHJQa256TEwzX0ZUdFVUMTRBZldoQW13blNfUktwNWU0eDlidDdTVTVpRGR5VExESHY3RjVmdlNTcXJpWlNDUVRKRWlDc2pENVdPWW5yVTl5alYyRmxuZk5sVGREUmZUMFZpVG5kd3d2cVRrVFJscW1FZTBoalh3SWdLeVd4SE85eTVq?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNEBAKIŞ"
+  },
+  {
+    "id": "GND_033bdadd",
+    "title": "Diyarbakır'da Amedspor coşkusu: Trabzonspor maçı ve sonrası neler yaşandı?",
+    "source": "BBC Türkçe",
+    "time": "01/09/2026 02:30",
+    "link": "https://www.bbc.com/turkce/articles/cevwen201rko",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır'da maç heyecanı oldukça yüksekti. Amedspor ile Trabzonspor A takımı düzeyinde ilk defa karşılaştı. Biletler günler öncesinden tükendi. Galibiyet sokaklarda kutlandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_701f4fc7",
+    "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
+    "source": "Anadolu Ajansı",
+    "time": "01/09/2026 02:30",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu/4043165",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail, ateşkese rağmen Lübnan'ın güneyindeki çeşitli bölgelere saldırılar düzenledi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "TKP_033bdadd",
+    "title": "Diyarbakır'da Amedspor coşkusu: Trabzonspor maçı ve sonrası neler yaşandı?",
+    "source": "BBC Türkçe",
+    "time": "01/09/2026 02:30",
+    "link": "https://www.bbc.com/turkce/articles/cevwen201rko",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Diyarbakır'da maç heyecanı oldukça yüksekti. Amedspor ile Trabzonspor A takımı düzeyinde ilk defa karşılaştı. Biletler günler öncesinden tükendi. Galibiyet sokaklarda kutlandı.",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "TKP_9da569bd",
     "title": "Gülistan Doku soruşturmasında yeni gelişme. Balık adam tutuklandı - NTV Haber",
     "source": "Google Haberler",
@@ -4726,77 +4798,5 @@
     "summary": "Süper Lig'in 3. haftasında Amedspor, Trabzonspor'u son dakikada attığı golle 2-1 yendi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/360939.jpg",
     "keyword": ""
-  },
-  {
-    "id": "TKP_de7ad8cd",
-    "title": "Trabzonspor Diyarbakır’da Yıkıldı: 90. Dakikada Gelen Gol Sonucu Belirledi",
-    "source": "Günebakış",
-    "time": "31/08/2026 23:50",
-    "link": "https://www.gunebakis.com.tr/trabzonspor-diyarbakirda-yikildi-90-dakikada-gelen-gol-sonucu-belirledi/28619581",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Amedspor deplasmanında Salah ile öne geçtiği maçta üstünlüğünü koruyamadı. Bordo-mavililer sahadan 2-1 mağlup ayrıldı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/08/31/large/trabzonspor-diyarbakirda-yikildi-90-dakikada-gelen-gol-sonucu-belirledi.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_80e1d133",
-    "title": "Beşiktaş Çorum FK'yı farklı yendi: Vlahovic hat-trick yaptı",
-    "source": "Evrensel",
-    "time": "31/08/2026 23:50",
-    "link": "https://www.evrensel.net/haber/5998604/besiktas-corum-fk-yi-farkli-yendi-vlahovic-hat-trick-yapti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 3. haftasında Beşiktaş, Çorum FK'yı 6-2 yendi. Dusan Vlahovic gollerine hat-trick yaparak başladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/360940.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_187e169c",
-    "title": "Amedspor'dan Trabzonspor galibiyeti sonrası gönderme",
-    "source": "61 Saat",
-    "time": "31/08/2026 23:50",
-    "link": "https://www.61saat.com/amedspordan-trabzonspor-galibiyeti-sonrasi-gonderme",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor 1 - 0 öne geçtiği karşılaşmada Amedspor'a 2 - 1 mağlup oldu. Maçın sonunda Amedspor yönetiminden Trabzonspor'a statta gönderme geldi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/08/amed-2.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_7e1b925a",
-    "title": "Trabzonspor'da Onuachu alarmı!",
-    "source": "61 Saat",
-    "time": "31/08/2026 23:50",
-    "link": "https://www.61saat.com/trabzonsporda-onuachu-alarmi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "rabzonspor'da gol kralı Paul Onuachu bu sezon hayal kırıklığı yaratıyor. 9 lig maçıdır gol atamayan Onuachu, Amedspor maçında da etkisiz kaldı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/08/alarm-3.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_a01973d7",
-    "title": "Diyarbakır Valiliği’nden Trabzonspor Taraftarına Saldırı Açıklaması: “Münferit Hadise”",
-    "source": "Günebakış",
-    "time": "31/08/2026 23:50",
-    "link": "https://www.gunebakis.com.tr/diyarbakir-valiliginden-trabzonspor-taraftarina-saldiri-aciklamasi-munferit-hadise/28619621",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Diyarbakır Valiliği, Trabzonspor taraftarlarını taşıyan otobüse Ergani’de taşlı saldırı düzenlendiğini ve bir aracın camında hasar oluştuğunu açıkladı.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/08/31/large/diyarbakir-valiliginden-trabzonspor-taraftarina-saldiri-aciklamasi-munferit-hadise.webp",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_d521e4be",
-    "title": "Trabzonspor Diyarbakır’da son dakikada yıkıldı! Tatsız tuzsuz!",
-    "source": "Haber61",
-    "time": "31/08/2026 23:50",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-diyarbakirda-son-dakikada-yikildi-tatsiz-tuzsuz/642192",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Trendyol Süper Lig’in 3. haftasında deplasmanda karşılaştığı Amed SK’ya 2-1 mağlup oldu. Bordo-mavililer Mohamed Salah’ın golüyle öne geçerken, ev sahibi ekip Sor ile eşitliği sağladı. 90. dakikada sahneye çıkan Gift Orban, Amed SK’ya galibiyeti getirdi.",
-    "image": null,
-    "keyword": "TRABZON"
   }
 ]
