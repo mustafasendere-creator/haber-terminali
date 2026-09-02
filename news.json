@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_2b10df88",
+    "title": "Türkiye'de 5 yılda deniz kazalarında 151 kişi hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "02/09/2026 03:30",
+    "link": "https://www.evrensel.net/haber/5998797/turkiyede-5-yilda-deniz-kazalarinda-151-kisi-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ulaştırma ve Altyapı Bakanlığı'nın verilerine göre; Türkiye'de 2021-2025 yılları arasında toplam deniz aracı kaza sayısı 1.695. Bu kazalarda 151 kişi yaşamını yitirirken, 116 kişi ise kayboldu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/361099.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_eb7d7397",
+    "title": "🗣️ Balıkçılar “Vira Bismillah” Dedi: Tezgahlarda Palamut Bereketi",
+    "source": "YouTube",
+    "time": "02/09/2026 03:29",
+    "link": "https://www.youtube.com/watch?v=HOd9QGEdjRk",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: HOd9QGEdjRk)",
+    "image": "https://img.youtube.com/vi/HOd9QGEdjRk/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_ac4b9167",
+    "title": "🗣️ #Canlı | Trabzon Raylı Sistem Hattı Temel Atma Töreni",
+    "source": "YouTube",
+    "time": "02/09/2026 03:29",
+    "link": "https://www.youtube.com/watch?v=B_wCkVYitFQ",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: BwCkVYitFQ)",
+    "image": "https://img.youtube.com/vi/B_wCkVYitFQ/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "SOC_1456dec3",
     "title": "🗣️ @sudenurburce",
     "source": "X (Zamantika)",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig ekibi Kocaelispor, 23 yaşındaki Norveçli oyuncu Tobias Gulliksen'i renklerine bağladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/a82c5abf-2bed-4c63-970f-e22600929230.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0d0e1b32",
-    "title": "Gökçek ailesine soruşturma… AKP'li vekil Osman Gökçek’ten yanıt: ‘Büyük bir memnuniyet duyuyorum’",
-    "source": "Cumhuriyet",
-    "time": "01/09/2026 22:30",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/gokcek-ailesine-sorusturma-akp-li-vekil-osman-gokcek-ten-yanit-buyuk-bir-memnuniyet-duyuyorum-2534152",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek ve ailesinin Almanya’daki şirketleri, gayrimenkul yatırımları ve para trafiğine ilişkin iddialar üzerine başlatılan soruşturma sürerken, AKP Ankara Milletvekili Osman Gökçek açıklama yaptı. Gökçek, hem Ankara Cumhuriyet Başsavcılığı’nın soruşturmasından hem de Mansur Yavaş’ın yaptığı suç duyurusundan memnuniyet duyduğunu belirterek, “Kimin doğru söylediği, hangi iddiaların gerçeği yansıttığı ortaya çıkacaktır” dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/ccd4bde3-aba3-459b-a3c7-14b3eea407b4.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_9d7525d8",
-    "title": "Trabzonspor'da Gençlerbirliği maçı öncesi Hüseyin Çimşir kararı - Habertürk",
-    "source": "Google Haberler",
-    "time": "01/09/2026 22:30",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzBydng1YTdzYzFpSmI5SFB3dXludFAyR0lYbVdFem1FNmZkdWtoWTlxa051Nm9iNFo1cVNKa09vZ0RMYVpFMVRmYng3WElBUDRoYjl2WjJGdHFoU3pLZkNuaWxmMjd2V2J0UkVnTWQwLUdJMDRocmdXNnNCUEo1a1J6RUNDOThhcGdaV1JtRkRuUGVRYkFsVGd5eVRTbnF5cVpFZTVHdzJxbUhFNnJjMzAtZGJHYlI5QmJSYjFJVHFHTHB4Y1E?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_4f230b6e",
-    "title": "Türk mobil oyun sektörü dünyada adından söz ettiriyor",
-    "source": "Cumhuriyet",
-    "time": "01/09/2026 22:30",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/turk-mobil-oyun-sektoru-dunyada-adindan-soz-ettiriyor-2534153",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye'nin 1 milyar dolar değerlemeyi aşarak \"Turcorn\" (unicorn) ünvanı alan 8 teknoloji şirketinden 3'ü oyun sektöründe faaliyet gösterirken Türk mobil oyun geliştiricileri küresel gelirlerini ve yatırım çekme kabiliyetlerini hızla artırıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f5c4f671-7622-4999-9783-ea2c8bb9acaf.jpg",
     "keyword": ""
   }
 ]
