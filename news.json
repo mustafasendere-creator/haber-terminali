@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_ab2b529b",
+    "title": "🗣️ @TrabzonValilik",
+    "source": "X (Zamantika)",
+    "time": "03/09/2026 22:21",
+    "link": "https://x.com/i/web/status/2095554501105143849",
+    "type": "SOC",
+    "prefix": "🟪 ⚡",
+    "summary": "Vali Tahir Şahin, Türkiye İyilik Kulübü Platformu Başkanı Pınar Dağ Ayabakan, Kulüp Başkanı Elmira Ayabakan ve Proje Koordinatörü Eşcan Celile Dağıstan’ı kabul etti. 🔗 Veri Kaynağı: zamantika.com",
+    "image": null,
+    "keyword": "PROJE"
+  },
+  {
+    "id": "SOC_0063f6c8",
+    "title": "🗣️ @Tiberanzon61",
+    "source": "X (Zamantika)",
+    "time": "03/09/2026 22:21",
+    "link": "https://x.com/i/web/status/2095564662670500063",
+    "type": "SOC",
+    "prefix": "🟪 ⚡",
+    "summary": "SON KALE TRABZON! Zağnos Vadisinden meydana uzanan gizli tünelde, şamdanların titrek ışığında, Yüce Trabzonlular kutlu hükmü vermiş karar Hatuncuk Camii’nin bacasından göğe yükselen üç beyaz dumanla ilan edilmiştir. Kutlu karara uymayanların başı amansızca ezilecektir! 🔗 Veri Kaynağı: zamantika.com",
+    "image": null,
+    "keyword": "KARAR #TRABZON"
+  },
+  {
+    "id": "SOC_5305ec40",
+    "title": "🗣️ @Trabzon360Haber",
+    "source": "X (Zamantika)",
+    "time": "03/09/2026 22:21",
+    "link": "https://x.com/i/web/status/2095570325060850080",
+    "type": "SOC",
+    "prefix": "🟪 ⚡",
+    "summary": "🚨 Saviolo’nun sağlık durumu belli oldu Diyarbakır deplasmanında yaşadığı sakatlık nedeniyle oyuna devam edemeyen Noah Saviolo’nun sağlık durumuyla ilgili açıklama yapıldı. Yapılan kontroller sonucunda Saviolo’nun sağ omuz arka kas grubunda yaralanmaya bağlı kanama ve kemik ödemi tespit edildiği belirtildi. Kulüpten yapılan açıklamada, oyuncunun tedavisine başlandığı ifade edildi. 🔗 Veri Kaynağı: zamantika.com",
+    "image": null,
+    "keyword": "AÇIKLAMA"
+  },
+  {
+    "id": "SOC_253190ce",
+    "title": "🗣️ @trabzonfedai",
+    "source": "X (Zamantika)",
+    "time": "03/09/2026 22:21",
+    "link": "https://x.com/i/web/status/2095572013246992647",
+    "type": "SOC",
+    "prefix": "🟪 ⚡",
+    "summary": "YA ŞENOL YA İSTİFA! #ŞenolGüneşGöreve 🔗 Veri Kaynağı: zamantika.com",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_978fea79",
+    "title": "🗣️ @evrenselgzt",
+    "source": "X (Zamantika)",
+    "time": "03/09/2026 22:21",
+    "link": "https://x.com/i/web/status/2095582375400886381",
+    "type": "SOC",
+    "prefix": "🟪 ⚡",
+    "summary": "Dışişleri Bakanı Hakan Fidan'ın Trabzon ziyareti \"zorunlu nedenlerle\" iptal edildi evrensel.net/haber/5999058/… 🔗 Veri Kaynağı: zamantika.com",
+    "image": null,
+    "keyword": "IPTAL #TRABZON"
+  },
+  {
     "id": "GND_e9d24d2e",
     "title": "Beşiktaş’ın yüzde 8,39’luk payı satıldı",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "İzmir’in Buca ilçesinde tartıştığı kişinin evinin önüne pompalı tüfekle gelen F.K. (53), sokakta rastgele ateş açtı. Saçmalar nedeniyle bazı park halindeki araçlar zarar görürken, şüphelinin sokakta silahla koştuğu anlar cep telefonu kamerasına yansıdı. Kaçan şüpheli, Torbalı’da düzenlenen operasyonla yakalandı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/ac294e68-5d03-42ec-9dc0-cb1b7ec55c76.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_80dd7c96",
-    "title": "Kendisine zarar verdiğini ihbar etti: Araçta fenalaşmış halde bulundu",
-    "source": "Cumhuriyet",
-    "time": "03/09/2026 19:31",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kendisine-zarar-verdigini-ihbar-etti-aracta-fenalasmis-halde-bulundu-2534692",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Burdur’da 112 Acil Çağrı Merkezi’ni arayarak kendisine zarar verdiği yönünde ihbarda bulunan kadın, araç içerisinde bulundu. Ekiplere kendisine zarar vermediğini ancak fenalaştığını söyleyen kadın, ambulansla hastaneye kaldırıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/829f56ad-38a5-44a3-9dfe-f67f865b2a88.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_4f7ed335",
-    "title": "İBB yurt başvuru sonuçları açıklandı",
-    "source": "Haber Global",
-    "time": "03/09/2026 19:31",
-    "link": "https://haberglobal.com/gundem/ibb-yurt-basvuru-sonuclari-aciklandi-542415",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Büyükşehir Belediyesi tarafından üniversite öğrencilerine barınma imkanı sunulan yükseköğrenim yurtlarının başvuru sonuçları açıklandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/09/03/ibb-yurt-basvuru-sonuclari-aciklandi-qwgg.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_dcc93923",
-    "title": "ABD Başkanı Trump'tan Hürmüz Boğazı'na ilişkin paylaşım: Petrol akışı yeniden yükselişte",
-    "source": "Haber Global",
-    "time": "03/09/2026 19:31",
-    "link": "https://haberglobal.com/gundem/abd-baskani-trumptan-hurmuz-bogazina-iliskin-paylasim-petrol-akisi-yeniden-yukseliste-542421",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, sosyal medya hesabından Hürmüz Boğazı'ndan geçen petrol sevkiyatına ilişkin görsel paylaşarak küresel petrol akışının yeniden yükselişe geçtiğini iddia etti.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/09/03/abd-baskani-trumptan-hurmuz-bogazina-iliskin-paylasim-petrol-akisi-yeniden-yukseliste-72lz.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_02beaa70",
-    "title": "Barış için şans var mı?",
-    "source": "Haber Global",
-    "time": "03/09/2026 19:31",
-    "link": "https://haberglobal.com/gundem/baris-icin-sans-var-mi-542422",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Rusya-Ukrayna savaşında dört yılı aşkın süredir yürütülen barış girişimlerinden sonuç elde edilemedi. Vladimir Putin ise taraflar arasındaki temasların sürdüğünü belirterek, savaşın sona erdirilmesi için halen şans olduğunu söyledi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/09/03/baris-icin-gercekten-sans-var-mi-kcw0.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ad5fffe0",
-    "title": "Eski Bakan Denizolgun'un ölümü soruşturmasında ilk gözaltı",
-    "source": "Haber Global",
-    "time": "03/09/2026 19:31",
-    "link": "https://haberglobal.com/gundem/eski-bakan-denizolgunun-olumu-sorusturmasinda-ilk-gozalti-542423",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un şüpheli ölümüne ilişkin yürütülen soruşturmada Denizolgun’un doktoru N.D yalan tanıklık suçlamasıyla gözaltına alındı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/09/03/eski-bakan-denizolgunun-olumu-sorusturmasinda-ilk-gozalti-cqmg.jpg",
     "keyword": ""
   }
 ]
