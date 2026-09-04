@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_ad59ea20",
+    "title": "🗣️ @Sleymansen33834",
+    "source": "X (Zamantika)",
+    "time": "04/09/2026 12:21",
+    "link": "https://x.com/i/web/status/2095737108300275768",
+    "type": "SOC",
+    "prefix": "🟪 ⚡",
+    "summary": "@oencueonuroenc Hayvanlar da Ergani de Trabzon a irkçı saldırı yaptı. 🔗 Veri Kaynağı: zamantika.com",
+    "image": null,
+    "keyword": "SALDIRI #TRABZON"
+  },
+  {
+    "id": "SOC_ae3f070e",
+    "title": "🗣️ @trttrabzonradyo",
+    "source": "X (Zamantika)",
+    "time": "04/09/2026 12:21",
+    "link": "https://x.com/i/web/status/2095760696734523872",
+    "type": "SOC",
+    "prefix": "🟪 ⚡",
+    "summary": "4 Eylül 2026 Cuma Dinlemek için ⤵️ 🌐 radyo.trt.net.tr 🎧 trtdinle.com 🔗 Veri Kaynağı: zamantika.com",
+    "image": null,
+    "keyword": "CUMA"
+  },
+  {
     "id": "GND_e57ea585",
     "title": "Gazeteci Lale Özan Arslan gözaltına alındı",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Dolar bir rekor daha kırdı!",
     "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/8/dolarveeuronekadarpng-bwfB6F_HeUiMb2sMMQ2TiA.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d40728e6",
-    "title": "Mersin limanında kimyasal sızıntısı iddiası: Çok sayıda işçi hastaneye kaldırıldı",
-    "source": "Cumhuriyet",
-    "time": "04/09/2026 10:11",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/mersin-limaninda-kimyasal-sizintisi-iddiasi-cok-sayida-isci-hastaneye-kaldirildi-2534809",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin Limanı'nda iddiaya göre bir konteynerin delinmesi sonucu gaz sızıntısu oldu. Bölgeye sevk edilen ambulanslarla çok sayıda çalışanın hastaneye kaldırıldığı öğrenildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/bdff6188-0cfb-478f-beaf-d202f0ed7d56.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d8f6f417",
-    "title": "Belçika - Türkiye maçı ne zaman, saat kaçta, hangi kanalda? Şifresiz mi?",
-    "source": "Cumhuriyet",
-    "time": "04/09/2026 10:11",
-    "link": "https://www.cumhuriyet.com.tr/spor/belcika-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2534810",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Potanın Perileri, Basketbol Kadınlar Dünya Kupası'nın ilk maçında Belçika ile karşı karşıya gelecek. Mücadele TSİ 18.30'da başlayacak.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e5748a99-feb2-4c5c-8460-9b42d259e37e.jpg",
     "keyword": ""
   }
 ]
