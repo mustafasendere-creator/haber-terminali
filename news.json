@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_41bdefef",
+    "title": "Yüzerek Yunanistan’a geçmeye çalıştı",
+    "source": "OdaTV",
+    "time": "06/09/2026 02:30",
+    "link": "https://www.odatv.com/guncel/yuzerek-yunanistana-gecmeye-calisti-120161612",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla'nın Bodrum ilçesi açıklarında yüzerek yasa dışı yollarla yurt dışına çıkmaya çalışan düzensiz göçmen yakalandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/06/yuzerek-yunanistana-gecmeye-calisti-s55u.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_766a22e1",
+    "title": "Hürmüz'de 6 gemi hedef alındı",
+    "source": "OdaTV",
+    "time": "06/09/2026 02:30",
+    "link": "https://www.odatv.com/guncel/hurmuzde-6-gemi-hedef-alindi-120161613",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusu, ABD'nin Basra Körfezi'nde İran'a ait ticari gemilere düzenlediği saldırılara misilleme gerçekleştirildiğini, Hürmüz Boğazı'ndan izinsiz geçen 3 petrol tankeri ile diğer bölgelerde ABD bağlantılı 3 gemiyi hedef aldıklarını duyurdu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/27/abdden-hurmuzde-saldiri-ml5s.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_f42c9a1a",
+    "title": "İstanbul’da ‘korsan taksi’ kontrolü Emekli polis uygulama yapan polisi öldürdü - Nûmedya24",
+    "source": "Google Haberler",
+    "time": "06/09/2026 02:30",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SeFQ5RDhBd2FFU3RtMm9PZE5LT080eW9tWXpvWkpVVzZEZ1VzU2pOQll5VzItWWFNT0x0VGJfYlltRGpMdzdrck1NSDZVOTJZRXotbkxRRzJ4cUgxbXpNRUxkR0s5MXo3cXc?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "POLIS"
+  },
+  {
+    "id": "GND_c79c347b",
+    "title": "Kremlin: Putin, ABD'li temsilcilerle Ukrayna krizini ve ikili ilişkileri görüştü",
+    "source": "TRT Haber",
+    "time": "06/09/2026 02:30",
+    "link": "https://www.trthaber.com/haber/dunya/kremlin-putin-abdli-temsilcilerle-ukrayna-krizini-ve-ikili-iliskileri-gorustu-956017.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya Devlet Başkanı Vladimir Putin'in ABD Başkanı Donald Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner ile görüşmesinde Ukrayna krizi ve ikili ilişkilerin ele alındığını söyledi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_021b3658",
+    "title": "Kremlin: Putin, ABD'li temsilcilerle Ukrayna krizini ve ikili ilişkileri görüştü",
+    "source": "Anadolu Ajansı",
+    "time": "06/09/2026 02:30",
+    "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-abdli-temsilcilerle-ukrayna-krizini-ve-ikili-iliskileri-gorustu/4048493",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya Devlet Başkanı Vladimir Putin'in ABD Başkanı Donald Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner ile görüşmesinde Ukrayna krizi ve ikili ilişkilerin ele alındığını söyledi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "SOC_d9d12661",
+    "title": "🗣️ Rota Star Hotel Beyoğlu | İstanbul, Turkey | Hotel Review 🏨",
+    "source": "YouTube",
+    "time": "06/09/2026 02:29",
+    "link": "https://www.youtube.com/watch?v=cSnf8RpRWow",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:TRABZON | YouTube Video (ID: cSnf8RpRWow)",
+    "image": "https://img.youtube.com/vi/cSnf8RpRWow/hqdefault.jpg",
+    "keyword": "S:TRABZON"
+  },
+  {
     "id": "GND_6d81e00e",
     "title": "A101'E MOTOSİKLETLER GELİYOR! GÜÇ VE PERFORMANS BİR ARADA (A101 10-16 EYLÜL)",
     "source": "Ekonomim",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "Antalya’nın Alanya ilçesinde bir otelin iskelesinden sığ suya balıklama atlayan 39 yaşındaki 3 çocuk babası kaldırıldığı hastanede yaşamını yitirdi.",
     "image": "https://i.haberglobal.com/storage/files/images/2026/09/05/alanyada-korkunc-olay-iskeleden-sig-suya-baliklama-atlayan-adam-hayatini-kaybetti-zkhs.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_5bb162c9",
-    "title": "Erzurumspor, Konyaspor'u yenerek Süper Lig'de siftah yaptı",
-    "source": "Haber Global",
-    "time": "05/09/2026 20:11",
-    "link": "https://haberglobal.com/spor/erzurumspor-konyasporu-yenerek-super-ligde-siftah-yapti-542737",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Süper Lig'in 4. haftasında Erzurumspor sahasında Konyaspor'u 1-0 yenerek bu sezonki ilk galibiyetini aldı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/09/05/erzurumspor-konyasporu-yenerek-super-ligde-siftah-yapti-akdy.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_890be5f2",
-    "title": "Yunanistan'da gösteri sırasında savaş uçağı düştü: 2 pilot hayatını kaybetti",
-    "source": "Haber Global",
-    "time": "05/09/2026 20:11",
-    "link": "https://haberglobal.com/dunya/yunanistanda-gosteri-sirasinda-savas-ucagi-dustu-2-pilot-hayatini-kaybetti-542738",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yunanistan'da hava gösterisi sırasında F-4 Phantom savaş uçağı düştü. Yaşanan kazada 2 pilot yaşamını yitirdi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/09/05/yunanistanda-gosteri-sirasinda-savas-ucagi-dustu-2-pilot-hayatini-kaybetti-fk6s.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_77bfb1d9",
-    "title": "Bakan Gürlek duyurdu: Yasa dışı bahis sitelerine operasyon",
-    "source": "Haber Global",
-    "time": "05/09/2026 20:10",
-    "link": "https://haberglobal.com/gundem/bakan-gurlek-duyurdu-yasa-disi-bahis-sitelerine-operasyon-542740",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Akın Gürlek, \"Fenerbahçe-Beşiktaş karşılaşması öncesi yasa dışı bahis sitelerine yönelen para trafiğini kesintiye uğratmak amacıyla İstanbul Cumhuriyet Başsavcılığımızın koordinasyonunda kapsamlı bir operasyon gerçekleştirildi.\" dedi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/09/05/bakan-gurlek-duyurdu-yasa-disi-bahis-sitelerine-operasyon-ynyq.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0f14d7ff",
-    "title": "Okul saldırganı Mersinli'nin tahliye edilen annesi yeniden tutuklandı",
-    "source": "Diken",
-    "time": "05/09/2026 20:10",
-    "link": "https://www.diken.com.tr/okul-saldirgani-mersinlinin-tahliye-edilen-annesi-yeniden-tutuklandi/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Okul saldırganı Mersinli'nin tahliye edilen annesi yeniden tutuklandı 05.09.2026 Diken Kahramanmaraş'ta 10 kişinin öldüğü okul saldırısını düzenleyen İsa Aras Mersinli'nin annesi Peyman Pınar Mersinli yeniden tutuklandı. The post Okul saldırganı Mersinli'nin tahliye edilen annesi yeniden tutuklandı appeared first on #sitelinkat 05.09.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_2b699c7d",
-    "title": "Ehliyet alacaklar dikkat: Direksiyon sınavı 1 saate kadar sürebilecek - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "05/09/2026 20:10",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT2JZbS1nQUxJd2x2YUpqNE5FNmhocXhubXdRQjhaVnA0OEFpemFqeUw2emFMTHZmZl9OMjZ6d3JvaVc3MzlXWWlwMGdOOEhreW4ydUNyTWQ4WklXUkFCVEN2azdGRi1oNW9ENExna2huSjRFU0ktTFVxN0dlMHNJSzBlM3VNVEM0OTdHeEhGaVB3c0Q2MXRhT0s2WkdoLWc?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
-  },
-  {
-    "id": "GND_adae82aa",
-    "title": "Fenerbahçe-Beşiktaş: 0-0",
-    "source": "Evrensel",
-    "time": "05/09/2026 20:10",
-    "link": "https://www.evrensel.net/haber/5999325/fenerbahce-besiktas-0-0",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe ve Beşiktaş Süper Lig’in 4. haftasında sarı lacivertli ekibin ev sahipliği ile karşı karşıya geldi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/361631.jpg",
     "keyword": ""
   }
 ]
