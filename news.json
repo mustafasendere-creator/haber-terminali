@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_cccb4268",
+    "title": "Bir Croissant’tan 246 Çeşit Peynire: Fransa’yı Sofrada Anlamak",
+    "source": "10Haber",
+    "time": "06/09/2026 05:50",
+    "link": "https://10haber.net/yazarlar/mehmet-ogutcu/bir-croissanttan-246-cesit-peynire-fransayi-sofrada-anlamak-735020/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bir ülkeyi anlamak için her zaman anayasasına, bütçesine ya da dış politikasına bakmanız gerekmez. Bazen kahvaltı masasına oturmanız yeterlidir. Fransa bunun en güzel örneklerinden biri. Nice’te sabahları köşedeki boulangerie’den sıcak ekmek alanları, küçük bir kafede espresso içerken gazetesini açanları izliyorum. Masada çoğu zaman pek bir şey yok: kahve, biraz ekmek, tereyağı, reçel. Belki bir croissant. …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/09/peynir.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_ce685bca",
+    "title": "",
+    "source": "Mastodon",
+    "time": "06/09/2026 05:50",
+    "link": "https://masto.ai/@emsc/117221765915276704",
+    "type": "SOC",
+    "prefix": "🟣 🐘",
+    "summary": "🔔#Earthquake (#deprem) M1.3 strikes 8 km S of # Trabzon (Türkiye) 20 min ago. More info: https:// m.emsc.eu/?id=2056376",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_997d39e9",
     "title": "Kırmızı ışıklar neden hala yanıyor?",
     "source": "10Haber",
@@ -4773,30 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’da düzenlenen 23. İmam Hatipliler Kurultayı, eğitimden Gazze’ye uzanan mesajların verildiği kapanış programıyla tamamlandı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/09/05/large/23-imam-hatipliler-kurultayi-trabzonda-sona-erdi.webp",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e176ceeb",
-    "title": "Hollanda'nın 11 kentinde Gazze'deki çocuklarla dayanışma için uçurtmalar uçuruldu",
-    "source": "Anadolu Ajansı",
-    "time": "05/09/2026 21:10",
-    "link": "https://www.aa.com.tr/tr/dunya/hollandanin-11-kentinde-gazzedeki-cocuklarla-dayanisma-icin-ucurtmalar-ucuruldu/4048324",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Hollanda'nın farklı kentlerinde, Gazze'deki çocuklarla dayanışma amacıyla uçurtmalar uçuruldu.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_8c14ba09",
-    "title": "Süper Lig'de sezonun ilk derbisinde Fenerbahçe ile Beşiktaş Kadıköy'de karşılaşıyor",
-    "source": "Anadolu Ajansı",
-    "time": "05/09/2026 21:10",
-    "link": "https://www.aa.com.tr/tr/spor/super-ligde-sezonun-ilk-derbisinde-fenerbahce-ile-besiktas-kadikoyde-karsilasiyor/4048355",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig'in 4. haftasındaki Fenerbahçe-Beşiktaş derbisinin ilk yarısı 1-1 sona erdi.",
-    "image": null,
     "keyword": ""
   }
 ]
