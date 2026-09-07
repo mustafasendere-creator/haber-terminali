@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_e50262e2",
+    "title": "Kadını kurtarırken bıçaklandı",
+    "source": "OdaTV",
+    "time": "07/09/2026 03:11",
+    "link": "https://www.odatv.com/guncel/kadini-kurtarirken-bicaklandi-120161703",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman’da erkek arkadaşı tarafından darbedilen kadını kurtarmak isteyen gencin bıçaklı saldırıya uğradığı anlar kameraya yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/kadini-kurtarirken-bicaklandi-5byy.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f5affe84",
+    "title": "Soykırımcı İsraillilerin Batı Şeria'da düzenlediği saldırılarda 1 Filistinli hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "07/09/2026 03:10",
+    "link": "https://www.trthaber.com/haber/dunya/soykirimci-israillilerin-bati-seriada-duzenledigi-saldirilarda-1-filistinli-hayatini-kaybetti-956073.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İşgal altındaki Batı Şeria'nın Kalkilya ile Doğu Kudüs kentlerinde, Filistin topraklarını gasbeden İsraillilerin düzenlediği saldırılarda 1 Filistinli yaşamını yitirdi, 3 Filistinli yaralandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_14e639b9",
+    "title": "DOSYA: HİYEROGLİFLERDEN EMOJİLERE",
+    "source": "Anadolu Ajansı",
+    "time": "07/09/2026 03:10",
+    "link": "https://www.aa.com.tr/tr/gundem/dosya-hiyerogliflerden-emojilere/4049174",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "21. yüzyılda dijitalleşen iletişim, evrensel bir dil iddiasındaki emojileri öne çıkarıyor. Jest ve mimiklerin yerini alan bu yeni iletişim biçimi, özellikle gençlerin entelektüel gelişimine etkisi açısından tartışılıyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "SOC_13860a35",
+    "title": "🗣️ Trabzonspor - Gençlerbirliği Maç Sonu Teknik Direktör Hüseyin Çimşir'in Açıklamaları",
+    "source": "YouTube",
+    "time": "07/09/2026 03:09",
+    "link": "https://www.youtube.com/watch?v=igN4sO77Odw",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: igN4sO77Odw)",
+    "image": "https://img.youtube.com/vi/igN4sO77Odw/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "SOC_3aac9a2f",
     "title": "🗣️ Tek Erkek BulL (@jigolotekerkek (· (17s)",
     "source": "X (Twitter)",
@@ -4749,54 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor, Trendyol Süper Lig’in 4. haftasında Gençlerbirliği ile karşı karşıya geliyor. Papara Park’ta oynanacak mücadele bu akşam saat 20.00’de başladı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/09/32d919f6-3e46-4309-b133-224e83d7bcfe.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_5469fa41",
-    "title": "Trabzonspor-Gençlerbirliği maçı sonrası son gelişmeler",
-    "source": "61 Saat",
-    "time": "06/09/2026 22:10",
-    "link": "https://www.61saat.com/trabzonspor-genclerbirligi-maci-sonrasi-son-gelismeler",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/09/chatgpt-image-6-eyl-2026-13-16-28-kopya-7.png",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_24b8d492",
-    "title": "🗣️ ABD ile savaş yeniden başlayınca İran apar topar Türkiye ve S. Arabistan'la diplomatik temasa geçti!",
-    "source": "YouTube",
-    "time": "06/09/2026 22:10",
-    "link": "https://www.youtube.com/watch?v=ByOGcloaI6M",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: ByOGcloaI6M)",
-    "image": "https://img.youtube.com/vi/ByOGcloaI6M/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
-  },
-  {
-    "id": "YRL_c2d41077",
-    "title": "Krallar sahneye çıktı! Trabzonspor farka koştu",
-    "source": "Haber61",
-    "time": "06/09/2026 22:10",
-    "link": "https://www.haber61.net/trabzonspor/krallar-sahneye-cikti-trabzonspor-farka-kostu/642727",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, Gençlerbirliği’ni Papara Park’ta 5-0 mağlup ederek 3 puanın sahibi oldu. Bordo-mavililer, ligde 4 maç sonunda puanını 7’ye yükseltti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_9e8a8027",
-    "title": "Gerisi çorap söküğü gibi geldi!",
-    "source": "Haber61",
-    "time": "06/09/2026 22:10",
-    "link": "https://www.haber61.net/makale/gerisi-corap-sokugu-gibi-geldi/642728",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Fatih Tekke’nin istifa etmesinden sonra Hüseyin Çimşir hocaya şans verildi. Görüldü ki önce takım içi sorunlardan başlamış Hüseyin hoca...",
-    "image": null,
     "keyword": ""
   }
 ]
