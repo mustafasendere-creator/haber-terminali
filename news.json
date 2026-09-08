@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_91fc8057",
+    "title": "New York borsası günü düşüşle kapattı",
+    "source": "Ekonomim",
+    "time": "09/09/2026 01:30",
+    "link": "https://www.ekonomim.com/ekonomi/new-york-borsasi-gunu-dususle-kapatti-haberi-917058",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Orta Doğu'da süren gerilimlerin petrol fiyatlarını tırmandırmasıyla New York borsası günü düşüşle tamamladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/07/10/new-york-borsasi-yukselisle-kapandi-tgo4_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_fa6d6edc",
+    "title": "Trump'tan Kanada'ya ticaret hamlesi: Kamu ihalelerinden çıkarılacak",
+    "source": "Ekonomim",
+    "time": "09/09/2026 01:30",
+    "link": "https://www.ekonomim.com/dunya/trumptan-kanadaya-ticaret-hamlesi-kamu-ihalelerinden-cikarilacak-haberi-917059",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Kanada'nın Amerikan şirketleri ve çiftçilerine adil ticaret imkanı sunmadığını belirterek, Kanada menşeli ürünlerin kamu ihalelerinden çıkarılması yönünde talimat verdiğini açıkladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/05/trumptan-iran-aciklamasi-o-bolgede-gelisme-olursa-vurabiliriz-v9y2_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_35b15ce0",
+    "title": "Orman yangınlarıyla mücadele: Antalya, Adana ve Mersin'deki son durum",
+    "source": "Evrensel",
+    "time": "09/09/2026 01:30",
+    "link": "https://www.evrensel.net/haber/5999741/orman-yanginlariyla-mucadele-antalya-adana-ve-mersin-deki-son-durum",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tarım ve Orman Bakanlığına bağlı Orman Genel Müdürlüğü (OGM), Antalya ve Mersin'deki orman yangınlarının enerjisini düşürdüklerini, Adana'da ise devam eden yangına aralıksız müdahale ettiklerini bildirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/362006.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_bbf51b3a",
+    "title": "Trump: İran'a çok sert bir ders verdik",
+    "source": "BirGün",
+    "time": "09/09/2026 01:30",
+    "link": "https://www.birgun.net/haber/trump-iran-a-cok-sert-bir-ders-verdik-733681",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, “İran çok ağır şekilde cezalandırıldı. Onlara gerçekten çok sert bir ders verdik” dedi",
+    "image": "https://static.birgun.net/resim/haber/2026/09/09/trump-iran-a-cok-sert-bir-ders-verdik.webp",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_411d0936",
+    "title": "BİNA İKMAL İNŞAATI YAPTIRILACAKTIR - Günebakış Gazetesi Trabzon",
+    "source": "Google Haberler",
+    "time": "09/09/2026 01:30",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdjFuYzhZaFlCWTd3QlJQRE9CMG45SlJYTWVkVnh0ZkY4dUdXRDdabzRYZzRGX09JTU9IbXltczJMRGp3U1lPTXpOZkQ3THNOYXB3V0FFRHZVVE03UUswZU80Q3h1bzQwSHNQYmQ5aEpsUVU1R29LT2tYSGZDR0t6S1FR0gGCAUFVX3lxTE92MW5jOFloWUJZN3dCUlBET0IwbjlKUlhNZWRWeHRmRjh1R1dEN1pvNFhnNEZfT0lNT0hteW1zMkxEandTWU9Nek5mRDdMc05hcHdXQUVEdlVUTTdRSzBlTzRDeHVvNDBIc1BiZDloSmxRVTVHb0tPa1hIZkNHS3pLUVE?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNEBAKIŞ"
+  },
+  {
+    "id": "TKP_35879cd1",
+    "title": "UZUNKUM YAŞAM ALANI MİLET BAHÇESİ TEMEL ATMA TÖRENİ - Günebakış Gazetesi Trabzon",
+    "source": "Google Haberler",
+    "time": "09/09/2026 01:30",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlFkZVEtUE00VFZWMFI4TkJoSldnOXQteTM4MERhenlVMlc0VC0yOW41OVlCbXNPN1RSV0JsWWF0RTFIVUpJSm5hdkNCc0hPYjFGTFpPVzJUR1BYRG9pbHduRGtBNmdMSGVsN0J4dUlZMHBIdm5lZkhTMzNtS3FqTkZBcFVySkZTN1dvRWhKS2Jyc2dTWmYzadIBmAFBVV95cUxQSlFkZVEtUE00VFZWMFI4TkJoSldnOXQteTM4MERhenlVMlc0VC0yOW41OVlCbXNPN1RSV0JsWWF0RTFIVUpJSm5hdkNCc0hPYjFGTFpPVzJUR1BYRG9pbHduRGtBNmdMSGVsN0J4dUlZMHBIdm5lZkhTMzNtS3FqTkZBcFVySkZTN1dvRWhKS2Jyc2dTWmYzaQ?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNEBAKIŞ"
+  },
+  {
     "id": "GND_9992c414",
     "title": "İran'ın stratejik noktalarında patlama sesleri",
     "source": "Ekonomim",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "İBB davası: Fatoş Pınar Türker duruşma salonunda bayıldı 08.09.2026 Diken İstanbul Büyükşehir Belediyesi (İBB) davasında bugün (8 Eylül) görülen duruşmada tutuklu İBB Medya A.Ş. Müdürü Fatoş Pınar Türker bayıldı. The post İBB davası: Fatoş Pınar Türker duruşma salonunda bayıldı appeared first on #sitelinkat 08.09.2026 .",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_625ea7a2",
-    "title": "Portekiz'de komedi festivaline Seinfeld boykotu",
-    "source": "Evrensel",
-    "time": "08/09/2026 20:50",
-    "link": "https://www.evrensel.net/haber/5999720/portekiz-de-komedi-festivaline-seinfeld-boykotu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Portekiz’in başkenti Lizbon'da düzenlenecek uluslararası mizah festivalinde çok sayıda sanatçı, etkinliğin baş konuğu ABD'li komedyen Jerry Seinfeld’in İsrail’e verdiği destek nedeniyle programdan çekildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/100518.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0d7b0e4c",
-    "title": "KYK taahhütname onayı 2026: e-Devlet'ten nasıl yapılır, son gün ne zaman?",
-    "source": "Evrensel",
-    "time": "08/09/2026 20:50",
-    "link": "https://www.evrensel.net/haber/5999722/kyk-taahhutname-onayi-2026-e-devletten-nasil-yapilir-son-gun-ne-zaman",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026-2027 KYK yurt başvuru sonuçlarının açıklanmasının ardından kayıt süreci başladı. Yurda yerleşmeye hak kazanan öğrencilerin ilk kayıt ücretini ödedikten sonra e-Devlet üzerinden taahhütname onayını tamamlaması gerekiyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/144842.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_2034f9ee",
-    "title": "Beşiktaş'ın golcüsü Vlahovic PFDK'ya sevk edildi",
-    "source": "Evrensel",
-    "time": "08/09/2026 20:50",
-    "link": "https://www.evrensel.net/haber/5999721/besiktasin-golcusu-vlahovic-pfdkya-sevk-edildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe-Beşiktaş derbisi sonrası Beşiktaş'ın golcüsü Dusan Vlahovic, Fenerbahçe Başkanı Aziz Yıldırım ve Kerem Aktürkoğlu PFDK'ya sevk edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/361423.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_f7d78be6",
-    "title": "Üsküdar AKP'ye geçti, Yeni Parti miting kararı aldı: Tarih verildi",
-    "source": "Evrensel",
-    "time": "08/09/2026 20:50",
-    "link": "https://www.evrensel.net/haber/5999724/uskudar-akp-ye-gecti-yeni-parti-miting-karari-aldi-tarih-verildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni Parti Merkez Yönetim Kurulu'nda yapılan toplantıda Üsküdar'da miting düzenlenmesi kararlaştırıldı. Mitingin 12 Eylül Cumartesi akşamı yapılacağı belirtildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/361527.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_1f62045e",
-    "title": "İZENERJİ’de işten çıkarılan işçiler eyleme geçiyor: İşimizi geri istiyoruz",
-    "source": "Evrensel",
-    "time": "08/09/2026 20:50",
-    "link": "https://www.evrensel.net/haber/5999723/izenerji-de-isten-cikarilan-isciler-eyleme-geciyor-isimizi-geri-istiyoruz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İZENERJİ’de sağlık raporları gerekçe gösterilerek işten çıkarılan 79 işçi, iki aydır sonuç alamadıklarını belirterek eyleme geçme kararı aldı. İşçiler, pazartesi günü Kültürpark’taki İzmir Büyükşehir Belediyesi binası önünde bir araya gelecek.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/142859.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_b3b9130a",
-    "title": "Beşiktaş'tan olağanüstü seçimli genel kurul kararı",
-    "source": "BirGün",
-    "time": "08/09/2026 20:50",
-    "link": "https://www.birgun.net/haber/besiktas-tan-olaganustu-secimli-genel-kurul-karari-733653",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kulüpten yapılan açıklamada \"8 Eylül 2026 tarihinde Tüpraş Stadyumu’nda bir toplantı gerçekleştiren Yönetim Kurulumuz, Olağanüstü Seçimli Genel Kurul Toplantısı yapılması kararı almıştır. Olağanüstü Seçimli Genel Kurul Toplantısı, 27 Eylül Pazar günü yapılacaktır\" denildi.",
-    "image": "https://static.birgun.net/resim/haber/2026/09/08/besiktas-tan-olaganustu-secimli-genel-kurul-karari.jpg",
     "keyword": ""
   }
 ]
