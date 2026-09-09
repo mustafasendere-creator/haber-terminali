@@ -1,5 +1,17 @@
 [
   {
+    "id": "GND_57ab5265",
+    "title": "Kamyon ile tankerin feci kazası",
+    "source": "OdaTV",
+    "time": "10/09/2026 02:39",
+    "link": "https://www.odatv.com/guncel/kamyon-ile-tankerin-feci-kazasi-120162093",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Isparta’nın Yalvaç ilçesinde kamyon ile LNG tankeri kavşakta çarpıştı. Kazada 3 kişi yaralanırken, olay anı güvenlik kamerasına yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/10/kamyon-ile-tankerin-feci-kazasi-ujn7.jpg",
+    "keyword": ""
+  },
+  {
     "id": "SOC_f451fcd6",
     "title": "🗣️ @araklininnabzi",
     "source": "X (Zamantika)",
@@ -4786,17 +4798,5 @@
     "summary": "Ernest Muçi, Trabzonspor'un hücum hattında 90 dakika başına isabetli şut üretmekte takımın alandaki lideri oldu.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_ce79a2d6",
-    "title": "Adana'da tarlada erkek cesedi bulundu",
-    "source": "Cumhuriyet",
-    "time": "09/09/2026 21:59",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/adana-da-tarlada-erkek-cesedi-bulundu-2536257",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adana’nın Sarıçam ilçesinde tarlada erkek cesedi bulundu. Kimlik belgesi bulunmayan ceset, olay yerindeki incelemelerin ardından kesin ölüm nedeninin belirlenmesi ve kimlik tespiti için Adana Adli Tıp Kurumu morguna kaldırıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4db5d031-279e-4aa0-93dd-90ba1839dd05.jpg",
-    "keyword": ""
   }
 ]
