@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_90aaa826",
+    "title": "Suudi Arabistan'da ortalık karıştı",
+    "source": "OdaTV",
+    "time": "12/09/2026 02:54",
+    "link": "https://www.odatv.com/guncel/suudi-arabistanda-petrol-boru-hatti-vuruldu-120162345",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan'daki petrol boru hattı sistemi, Irak'tan havalandığı değerlendirilen insansız hava araçlarıyla vuruldu. Doğu-Batı boru hattının, saldırıların ardından tedbiren kapatıldığı açıklandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/12/suudi-arabistanda-petrol-boru-hatti-vuruldu-dsv9.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_8cd08c85",
+    "title": "Yemen ordusu, Muha'da çok sayıda Husi unsurunun etkisiz hale getirildiğini duyurdu",
+    "source": "Anadolu Ajansı",
+    "time": "12/09/2026 02:53",
+    "link": "https://www.aa.com.tr/tr/live-blog/yemen-ordusu-muhada-cok-sayida-husi-unsurunun-etkisiz-hale-getirildigini-duyurdu/6355",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yemen ordusu, ülkenin batısındaki Taiz iline bağlı Kızıldeniz kıyısındaki Muha kenti ve çevresine düzenlenen hava saldırılarında çok sayıda Husi unsurunun etkisiz hale getirildiğini, askeri araç ve silahların imha edildiğini bildirdi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_1694a14a",
     "title": "Şanlıurfa'da cinayet zanlısı evde oluşturulan gizli bölmede yakalandı",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor’un Konyaspor deplasmanında Onuachu, Salah, Muçi ve Aral’dan skor katkısı bekleniyor. Bordo-mavililer yıldızlarına güveniyor.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/09/747f0e83-6c9b-437e-a0c3-cd86e9280ed5.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_49eb1764",
-    "title": "Fenerbahçe: İsmail Kartal görevinin başında",
-    "source": "Diken",
-    "time": "11/09/2026 20:53",
-    "link": "https://www.diken.com.tr/fenerbahce-ismail-kartal-gorevinin-basinda/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe: İsmail Kartal görevinin başında 11.09.2026 Diken Fenerbahçe Spor Kulübü açıklamasında \"İsmail Kartal görevinin başındadır\" dendi. The post Fenerbahçe: İsmail Kartal görevinin başında appeared first on #sitelinkat 11.09.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_f2bc9d59",
-    "title": "Fenerbahçe'den resmi açıklama: İsmail Kartal görevine devam ediyor",
-    "source": "Evrensel",
-    "time": "11/09/2026 20:53",
-    "link": "https://www.evrensel.net/haber/6000104/fenerbahce-den-resmi-aciklama-ismail-kartal-gorevine-devam-ediyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe yaptığı resmi bilgilendirmeyle Roma maçı sonrası istifasını açıklayan teknik direktör İsmail Kartal'ın görevine devam edeceğini duyurdu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/362285.jpg",
     "keyword": ""
   }
 ]
