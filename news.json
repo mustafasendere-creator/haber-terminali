@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_a25323a9",
+    "title": "Su kuyusunda facia! 2 ölü",
+    "source": "Habertürk",
+    "time": "13/09/2026 05:34",
+    "link": "https://www.haberturk.com/gundem/kahramanmaras-ta-su-kuyusunda-facia-2-olu-3912104",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta temizlemek için girdikleri su kuyusunda zehirlenen 2 kişi hayatını kaybetti",
+    "image": "https://im.haberturk.com/l/2026/09/13/ver1789266089/3912104/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_240a1693",
+    "title": "İktidar bir yandan tasarruf söylemini yinelerken, diğer yandan kamuya milyonlarca liralık araçlar alınacak: Hep aynı ezber!",
+    "source": "Cumhuriyet",
+    "time": "13/09/2026 05:33",
+    "link": "https://www.cumhuriyet.com.tr/turkiye/iktidar-bir-yandan-tasarruf-soylemini-yinelerken-diger-yandan-kamuya-milyonlarca-liralik-araclar-alinacak-hep-ayni-ezber-2537028",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İktidar, kamuda tasarruf söylemlerini yinelerken, gelecek yıl alınacak taşıtların tahmini alım bedellerini de belirledi. Kamuya yine milyonlarca lira bedelle binek otomobiller alınacak.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/d78a6ddc-9e85-47be-8c19-714dd627bcda.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c5bbaafb",
+    "title": "Milyonlarca çocuk okul sıralarında aç",
+    "source": "BirGün",
+    "time": "13/09/2026 05:33",
+    "link": "https://www.birgun.net/haber/milyonlarca-cocuk-okul-siralarinda-ac-734404",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çocuk yoksulluğu derinleşirken milyonlarca öğrenci okula aç gidiyor. Ülkede çocukların yüzde 5,5’i yetersiz beslenme nedeniyle bodurluk yaşarken MEB, okullarda ücretsiz yemek talebini görmezden gelmeye devam ediyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/09/13/milyonlarca-cocuk-okul-siralarinda-ac.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_1c523656",
     "title": "Düğün dönüşü kaza: 21 yaralı",
     "source": "Habertürk",
@@ -4761,42 +4797,6 @@
     "prefix": "🎯",
     "summary": "Geçen hafta Gençlerbirliği karşısında 3 puan alan Trabzonspor, Konya deplasmanından eli boş döndü.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/12/large/ts-1.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_624c7926",
-    "title": "Trabzon’da şehitler için anma programı düzenleniyor",
-    "source": "Kuzey Ekspres",
-    "time": "12/09/2026 22:34",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28689380/trabzonda-sehitler-icin-anma-programi-duzenleniyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon, aziz şehitlerin hatırasını yaşatmak amacıyla düzenlenecek özel bir anma programına ev sahipliği yapmaya hazırlanıyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/12/large/ehitler.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_200a51d8",
-    "title": "Konyaspor'dan Trabzonspor'a statta gönderme!",
-    "source": "Kuzey Ekspres",
-    "time": "12/09/2026 22:34",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28689467/konyaspordan-trabzonspora-statta-gonderme",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'in 5. haftasında Konyaspor'a 1-0 mağlup olan Trabzonspor'a, maç sonunda stat hoparlörlerinden \"Katula Katula\" şarkısı çalındı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/12/large/konya.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_967d5856",
-    "title": "Trabzonspor’un sorununu Konyaspor’un hocası açıkladı",
-    "source": "Kuzey Ekspres",
-    "time": "12/09/2026 22:34",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28689526/trabzonsporun-sorununu-konyasporun-hocasi-acikladi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'u 1-0 mağlup eden Konyaspor'da teknik direktör İlhan Palut, maç sonu çarpıcı açıklamalarda bulundu.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/12/large/palut.jpg",
     "keyword": "TRABZON"
   }
 ]
