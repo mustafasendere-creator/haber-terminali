@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_3efe3638",
+    "title": "Kuran Kursu öğrencileri apar topar hastaneye kaldırıldı",
+    "source": "OdaTV",
+    "time": "14/09/2026 03:53",
+    "link": "https://www.odatv.com/guncel/kuran-kursu-ogrencileri-apar-topar-hastaneye-kaldirildi-120162560",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep'in Nizip ilçesinde yedikleri tavuk dönerden zehirlenen yatılı Kur'an Kursu'ndaki 26 öğrenci hastaneye kaldırıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/14/kuran-kursu-ogrencileri-apar-topar-hastaneye-kaldirildi-7lcp.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_8b40cfc2",
+    "title": "Suudi Arabistan'da erken uyarı sistemi devrede",
+    "source": "Habertürk",
+    "time": "14/09/2026 03:53",
+    "link": "https://www.haberturk.com/dunya/suudi-arabistan-da-erken-uyari-sistemi-devrede-3912205",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan, ülkenin güneyindeki Hamis Muşayt, Abha, Cazan ve Necran kentlerindeki potansiyel tehlikelere karşı erken uyarı sisteminin devreye alındığını duyurdu",
+    "image": "https://im.haberturk.com/l/2026/09/13/ver1789333899/3912205/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4e89d162",
+    "title": "Yemen'deki çatışmalar ve göç dalgası, Kızıldeniz kıyısında insani krizi derinleştiriyor",
+    "source": "Anadolu Ajansı",
+    "time": "14/09/2026 03:53",
+    "link": "https://www.aa.com.tr/tr/dunya/yemendeki-catismalar-ve-goc-dalgasi-kizildeniz-kiyisinda-insani-krizi-derinlestiriyor/4056263",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yemen hükümet güçleri ile Husiler arasında ülkenin batı kıyısında askeri çatışmalar şiddetlenirken, hava harekatları ve karadaki çatışmalar her iki tarafta da ağır can kayıplarına ve on binlerce sivilin yerinden edilmesine yol açıyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_9be72d58",
     "title": "Sarhoş TIR sürücüsü dehşet saçtı",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Southern Illinois Üniversitesi araştırmacıları, genetik olarak değiştirilmiş mayalar kullanarak plastiği proteine dönüştürdü. Üç boyutlu yazıcıyla basılan kurabiyeler, derin uzay görevlerinde gıda sorununu çözmeye yardımcı olabilir.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/362567.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c41196d7",
-    "title": "Çalınmasını istememişti: Yeni Parti mitinglerindeki \"Yiğidim Aslanım\" için Zülfü Livaneli'den açıklama",
-    "source": "Evrensel",
-    "time": "13/09/2026 20:13",
-    "link": "https://www.evrensel.net/haber/6000410/calinmasini-istememisti-yeni-parti-mitinglerindeki-yigidim-aslanim-icin-zulfu-livaneliden-aciklama",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"Yiğidim Aslanım\"ın Yeni Parti mitinglerinde artık kullanılmamasını isteyen Zülfü Livaneli, talebinin siyasi bir anlam taşımadığını belirtti. Livaneli, \"Kimse altında bir şey aramasın\" dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/158519.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c60c5512",
-    "title": "Kaşif Kozinoğlu'nun ölümünde yeni gelişme: Kurtlar Vadisi senaristleri ifadeye çağrıldı",
-    "source": "Evrensel",
-    "time": "13/09/2026 20:13",
-    "link": "https://www.evrensel.net/haber/6000412/kasif-kozinoglunun-olumunde-yeni-gelisme-kurtlar-vadisi-senaristleri-ifadeye-cagrildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kaşif Kozinoğlu soruşturması kapsamında Kurtlar Vadisi Pusu senaristleri Raci Şaşmaz, Bahadır Özdener ve Cüneyt Aysan'ın ifadelerine başvurulacak.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/361831.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_970e6be9",
-    "title": "Fransa'da 2027 yarışı: Le Pen kampanyasını başlattı, gözler Bardella ile gerilimde",
-    "source": "Euronews",
-    "time": "13/09/2026 20:13",
-    "link": "https://tr.euronews.com/my-europe/2026/09/13/fransada-2027-yarisi-le-pen-kampanyasini-baslatti-gozler-bardella-ile-gerilimde",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa'nın kuzeyindeki siyasi kalesine dönen aşırı sağcı Ulusal Birlik (RN) lideri Marine Le Pen, pazar günü ilk büyük seçim konuşmasını yaptı.",
-    "image": null,
     "keyword": ""
   }
 ]
