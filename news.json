@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_55f432bf",
+    "title": "🗣️ Beklenmedik bir fırsat her şeyi değiştirene kadar, okula asla geri dönemeyeceğini düşünüyordu",
+    "source": "YouTube",
+    "time": "16/09/2026 02:17",
+    "link": "https://www.youtube.com/watch?v=ZSP5KbBwUG0",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:TRABZON | YouTube Video (ID: ZSP5KbBwUG0)",
+    "image": "https://img.youtube.com/vi/ZSP5KbBwUG0/hqdefault.jpg",
+    "keyword": "S:TRABZON"
+  },
+  {
+    "id": "GND_b89c161d",
+    "title": "Moda sektörü fiyat rekabetinden değer rekabetine geçmeye hazırlanıyor",
+    "source": "Ekonomim",
+    "time": "16/09/2026 02:17",
+    "link": "https://www.ekonomim.com/sektorler/tekstil/moda-sektoru-fiyat-rekabetinden-deger-rekabetine-gecmeye-hazirlaniyor-haberi-918444",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yüksek maliyetler ve Asya ülkelerinin fiyat avantajı karşısında rekabet gücü baskılanan Türk moda endüstrisi, büyüme rotasını katma değerli üretim üzerine kuruyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/16/moda-sektoru-fiyat-rekabetinden-deger-rekabetine-gecmeye-hazirlaniyor-tini_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_09c98921",
+    "title": "Park halindeki TIR alevler içinde kaldı",
+    "source": "Haber Global",
+    "time": "16/09/2026 02:17",
+    "link": "https://haberglobal.com/gundem/park-halindeki-tir-alevler-icinde-kaldi-544327",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Avcılar'da park halindeki bir TIR alev alev yandı. Yangında TIR'ın kupası metal yığınına dönerken, alevler hediyelik eşya yüklü dorseye sıçramadan söndürüldü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/09/16/park-halindeki-tir-alevler-icinde-kaldi-frvx.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_25ae805d",
+    "title": "İsrail'den biri muhafız 7 Filistinliye Mescid-i Aksa'ya 6 ay giriş yasağı",
+    "source": "Anadolu Ajansı",
+    "time": "16/09/2026 02:17",
+    "link": "https://www.aa.com.tr/tr/dunya/israilden-biri-muhafiz-7-filistinliye-mescid-i-aksaya-6-ay-giris-yasagi/4058380",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in aralarında bir Aksa muhafızının da bulunduğu 7 Filistinliye Mescid-i Aksa'ya 6 ay boyunca giriş yasağı getirdiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_aac64ab1",
+    "title": "İsrail'de seçim öncesi Netanyahu ile Ben-Gvir arasındaki anlaşmazlık tırmanıyor",
+    "source": "Anadolu Ajansı",
+    "time": "16/09/2026 02:17",
+    "link": "https://www.aa.com.tr/tr/dunya/israilde-secim-oncesi-netanyahu-ile-ben-gvir-arasindaki-anlasmazlik-tirmaniyor/4058405",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'de yaklaşan genel seçimler öncesinde Başbakan Binyamin Netanyahu liderliğindeki iktidardaki Likud Partisi ile aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir liderliğindeki Yahudi Gücü Partisi arasında gerginlik yaşandığı bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_ded271f2",
     "title": "Trabzon’da zararlı popülasyonu artınca harekete geçildi - 61SAAT",
     "source": "Google Haberler",
@@ -4738,65 +4798,5 @@
     "summary": "İstanbul İl Milli Eğitim Müdürlüğünce, Gazzeli çocukların umuduna ortak olmak amacıyla \"Uçurtmalar Vurulmasın, Gökyüzü Çocuklara Kalsın\" etkinliği düzenlendi.",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "TKP_508fa9db",
-    "title": "Galatasaray maçı öncesi Trabzonspor'a iki müjde!",
-    "source": "Cumhuriyet",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-maci-oncesi-trabzonspor-a-iki-mujde-2537869",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Süper Lig'in 6. haftasında kendi sahasında Galatasaray'ı konuk edecek Trabzonspor'da Arseniy Batagov ve Tim Jabol-Folcarelli takımla antrenmanlara başladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/04ebb4ef-7d30-4415-8afb-bf1b61418388.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_a0d12a24",
-    "title": "Ahmet Mümtaz Taylan’ın ilk fotoğraf sergisi “Noksan” 30 Eylül’de açılıyor",
-    "source": "Evrensel",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.evrensel.net/haber/6000677/ahmet-mumtaz-taylanin-ilk-fotograf-sergisi-noksan-30-eylulde-aciliyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sanatçı Ahmet Mümtaz Taylan’ın farklı coğrafyalarda çektiği fotoğrafları bir araya getiren ilk sergisi “Noksan”, 30 Eylül’de LEE Art Project’te açılacak.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/362815.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_2e5de094",
-    "title": "Fonları temerrüde düşen Pusula Portföy'den açıklama",
-    "source": "Evrensel",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.evrensel.net/haber/6000678/fonlari-temerrude-dusen-pusula-portfoyden-aciklama",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Pusula Portföy, kurucusu olduğu bazı yatırım fonlarının katılma payı iade ödemelerinde temerrüt oluştuğunu açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/362510.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_1606da98",
-    "title": "Okul alışverişi yapan velilere uyarı: Etiketleri kontrol edin",
-    "source": "Taka Gazetesi",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.takagazete.com.tr/okul-alisverisi-yapan-velilere-uyari-etiketleri-kontrol-edin",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ticaret Bakanlığı, kırtasiye alışverişi yapan velileri uyardı. Kaynağı belirsiz ürünlerden uzak durulması ve etiketlerin kontrol edilmesi istendi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/09/ef871ad5-3a38-48f5-b087-dd33af5e1cd4.png",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_2ad045c9",
-    "title": "Uluslararası Hrant Dink Ödülü 18. kez sahiplerini buluyor",
-    "source": "Evrensel",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.evrensel.net/haber/6000674/uluslararasi-hrant-dink-odulu-18-kez-sahiplerini-buluyor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Uluslararası Hrant Dink Ödülü, Hrant Dink’in doğum günü olan 15 Eylül’de 18. kez sahiplerini buluyor.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/362814.jpg",
-    "keyword": "DINK #HRANT"
   }
 ]
