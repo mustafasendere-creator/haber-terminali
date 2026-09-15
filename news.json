@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_f917dc88",
+    "title": "🗣️ Trabzon/Uzungöl den ayrıldım.Çaykara üzeri~Rize ye sürüyorum.Motosiklet ile 81 il Türkiye",
+    "source": "YouTube",
+    "time": "16/09/2026 02:38",
+    "link": "https://www.youtube.com/watch?v=S8_8YGJrzPw",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: S88YGJrzPw)",
+    "image": "https://img.youtube.com/vi/S8_8YGJrzPw/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_efcca440",
+    "title": "Park halindeki kamyoneti kundakladı",
+    "source": "OdaTV",
+    "time": "16/09/2026 02:37",
+    "link": "https://www.odatv.com/guncel/park-halindeki-kamyoneti-kundakladi-120162840",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Konya'nın Karapınar ilçesinde park halindeki bir kamyonet kimliği belirsiz bir kişi tarafında ateşe verildi. Olay anı güvenlik kamerasına yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/16/park-halindeki-kamyoneti-kundakladi-4o7c.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c6c1e98f",
+    "title": "'İsrail, bütçe edeniyle hava savunma füzesi alımı durdurdu'",
+    "source": "Ekonomim",
+    "time": "16/09/2026 02:37",
+    "link": "https://www.ekonomim.com/dunya/israil-butce-edeniyle-hava-savunma-fuzesi-alimi-durdurdu-haberi-918445",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail Savunma ve Maliye bakanlıkları arasında yaşanan bütçe anlaşmazlığı nedeniyle orduya aktarılması gereken 15 milyar şekellik (yaklaşık 4,92 milyar dolar) ödeneğin dondurulduğu ve hava savunma sistemleri için füze alımının durduğu bildirildi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/16/israil-butce-edeniyle-hava-savunma-fuzesi-alimi-durdurdu-cjpt_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e3b839c7",
+    "title": "İstanbulİzmir Otoyolu'nda zincirleme kaza",
+    "source": "TRT Haber",
+    "time": "16/09/2026 02:37",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbul-izmir-otoyolunda-zincirleme-kaza-956954.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbulİzmir Otoyolu'nun Yalova kesiminde meydana gelen zincirleme trafik kazasında 11 kişi yaralandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_c6d0785b",
+    "title": "Open AI'ın patronu Altman: Yapay zekadan korkmak doğru ama dünya bize güvenmeli",
+    "source": "BBC Türkçe",
+    "time": "16/09/2026 02:37",
+    "link": "https://www.bbc.com/turkce/articles/c9m2m4l45e5ko",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yapay zeka şirketi OpenAI'ın patronu Sam Altman \"Dünya, doğru olanı yapacağımıza güvenmeli çünkü bu doğru olan şey ve biz bu işin boyutunun ve öneminin farkındayız\" dedi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "SOC_55f432bf",
     "title": "🗣️ Beklenmedik bir fırsat her şeyi değiştirene kadar, okula asla geri dönemeyeceğini düşünüyordu",
     "source": "YouTube",
@@ -4738,65 +4798,5 @@
     "summary": "Trabzonspor'un yeni teknik direktörü Thomas Reis, Trabzon Havalimanı'nda Trabzonspor atkısını takarken taraftarlarla üçlü çektirdi.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_4e7be795",
-    "title": "ABD Merkez Kuvvetler Komutanlığı doğruladı... Dokuz ülkenin genelkurmay başkanları 'gizli zirve'de buluştu",
-    "source": "Cumhuriyet",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.cumhuriyet.com.tr/dunya/abd-merkez-kuvvetler-komutanligi-dogruladi-dokuz-ulkenin-genelkurmay-baskanlari-gizli-zirve-de-bulustu-2537871",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD, İsrail ve yedi Arap ülkesinin üst düzey askeri komutanlarının geçen hafta Almanya'da kamuoyuna açıklanmayan bir toplantı gerçekleştirdiği ortaya çıktı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/4944a8f0-3bc1-4701-a24a-4f48f15a2795.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_bdc744c0",
-    "title": "11 yıl önceki paylaşımı gerekçe gösterildi: Suay Karaman’a ‘Cumhurbaşkanına hakaret’ davası",
-    "source": "Cumhuriyet",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/11-yil-onceki-paylasimi-gerekce-gosterildi-suay-karaman-a-cumhurbaskanina-hakaret-davasi-2537872",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tüm Öğretim Elemanları Derneği Genel Sekreteri Suay Karaman’a, 11 yıl önceki sosyal medya paylaşımı gerekçe gösterilerek “Cumhurbaşkanına hakaret” iddiasıyla dava açıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/21490933-c0ff-42c7-a3d5-3d853727a781.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_a077aff2",
-    "title": "Trabzonspor'a iki müjde birden!",
-    "source": "Habertürk",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.haberturk.com/spor/trabzonspor-a-galatasaray-maci-oncesi-iki-mujde-birden-3912711",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Galatasaray ile oynayacağı maçın hazırlıklarını sürdürürken, Folcarelli ve Batagov'un takımla çalışmalara başlaması yüzleri güldürdü.",
-    "image": "https://im.haberturk.com/l/2026/09/15/ver1789495118/3912711/jpg/1920x1080",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_4b72ad1a",
-    "title": "Romanya’da çiftçiler güvenlik güçleriyle çatıştı: Çok sayıda yaralı var",
-    "source": "Haber Global",
-    "time": "15/09/2026 21:17",
-    "link": "https://haberglobal.com/gundem/romanyada-ciftciler-guvenlik-gucleriyle-catisti-cok-sayida-yarali-var-544313",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Romanya’da çiftçiler ve besiciler, başkent Bükreş’te düzenledikleri protestoda güvenlik güçleriyle çatıştı. Çıkan çatışmada 24 kişi yaralanırken, 26 kişi de gözaltına alındı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/09/15/romanyada-ciftciler-guvenlik-gucleriyle-catisti-cok-sayida-yarali-var-xldq.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_b05ce815",
-    "title": "İstanbul'da uçurtmalar Gazzeli çocuklar için uçuruldu",
-    "source": "TRT Haber",
-    "time": "15/09/2026 21:17",
-    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-ucurtmalar-gazzeli-cocuklar-icin-ucuruldu-956937.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul İl Milli Eğitim Müdürlüğünce, Gazzeli çocukların umuduna ortak olmak amacıyla \"Uçurtmalar Vurulmasın, Gökyüzü Çocuklara Kalsın\" etkinliği düzenlendi.",
-    "image": null,
-    "keyword": ""
   }
 ]
