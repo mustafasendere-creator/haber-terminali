@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_e1366511",
+    "title": "Bingöl'de orman yangını",
+    "source": "Habertürk",
+    "time": "17/09/2026 03:37",
+    "link": "https://www.haberturk.com/gundem/bingol-de-orman-yangini-3913002",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bingöl'ün Genç ilçesinde çıkan orman yangını, ekiplerin müdahalesiyle kontrol altına alındı",
+    "image": "https://im.haberturk.com/l/2026/09/17/ver1789604297/3913002/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e2a34102",
+    "title": "Bakırköy'de otomobil alevler içinde kaldı",
+    "source": "Haber Global",
+    "time": "17/09/2026 03:37",
+    "link": "https://haberglobal.com/gundem/bakirkoyde-otomobil-alevler-icinde-kaldi-544519",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Bakırköy D-100 Karayolu üzerinde seyir halindeki otomobil alev alev yandı. İtfaiye ekipleri, otomobili saran alevlere müdahale ederek söndürdü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/09/17/bakirkoyde-otomobil-alevler-icinde-kaldi-a8g9.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1a22903b",
+    "title": "Usta oyuncu Münir Canar, yaşamını yitirdi",
+    "source": "BirGün",
+    "time": "17/09/2026 03:37",
+    "link": "https://www.birgun.net/haber/usta-oyuncu-munir-canar-yasamini-yitirdi-735209",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tiyatro, sinema ve televizyon dünyasının usta isimlerinden Münir Canar, 81 yaşında hayatını kaybetti. Devlet Tiyatroları (DT) Genel Müdürlüğü, Canar için taziye mesajı yayımladı.",
+    "image": "https://static.birgun.net/resim/haber/2026/09/17/usta-oyuncu-munir-canar-yasamini-yitirdi.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_a09bf355",
     "title": "Okul servisi duvara çarptı",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzon’un Çaykara ilçesinde düzenlenecek 2. Uzungöl Kış Festivali için alan düzenlemesi ve etkinlik planlaması başladı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/09/16/large/uzungolde-2027-hazirligi-basladi-festival-alani-incelendi.webp",
-    "keyword": ""
-  },
-  {
-    "id": "GND_8e37927b",
-    "title": "Saadet Partisi'nden motorin fiyatı tepkisi: Türkiye 100 yılı dediklerinde anlamalıydık",
-    "source": "Evrensel",
-    "time": "16/09/2026 21:37",
-    "link": "https://www.evrensel.net/haber/6000840/saadet-partisinden-motorin-fiyati-tepkisi-turkiye-100-yili-dediklerinde-anlamaliydik",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Saadet Partisi Genel Başkanı Mahmut Arıkan, motorinin litre fiyatının 100 lirayı aşacak olmasına, Türkiye 100 yılı dediklerinde anlamalıydık\" açıklamasıyla tepki gösterdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/362931.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_54daf7f6",
-    "title": "Fed, Trump’a rağmen oybirliğiyle 2023’ten beri ilk faiz artışını yaptı",
-    "source": "Euronews",
-    "time": "16/09/2026 21:37",
-    "link": "https://tr.euronews.com/business/2026/09/16/fed-trumpa-ragmen-oybirligiyle-2023ten-beri-ilk-faiz-artisini-yapti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Merkez Bankası, gösterge faizini çeyrek puan artırarak yüzde 3,75-4 aralığına yükseltti. Temmuz 2023’ten bu yana ilk artış olan karar, 12’ye 0 oyla kabul edildi ve Başkan Kevin Warsh’ı kendisini atayan ABD Başkanıyla karşı karşıya getirdi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_b97c4b47",
-    "title": "Bakasetas’tan muhteşem başlangıç!",
-    "source": "61 Saat",
-    "time": "16/09/2026 21:37",
-    "link": "https://www.61saat.com/bakasetastan-muhtesem-baslangic",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Anastasios Bakasetas yeni takımına erken alıştı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/09/45bfbafa-5ff0-4370-a5de-3cb8b8584c8b.png",
     "keyword": ""
   }
 ]
