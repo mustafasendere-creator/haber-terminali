@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_a09bf355",
+    "title": "Okul servisi duvara çarptı",
+    "source": "OdaTV",
+    "time": "17/09/2026 03:17",
+    "link": "https://www.odatv.com/guncel/okul-servisi-duvara-carpti-120163001",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Sarıyer’de okul servisi, sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu duvara çarptı. Kazada servis şoförü yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/17/okul-servisi-duvara-carpti-afkj.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4f163c4d",
+    "title": "Senatör Graham'ın anısına Rusya'ya yaptırım tasarısı kabul edildi",
+    "source": "Habertürk",
+    "time": "17/09/2026 03:17",
+    "link": "https://www.haberturk.com/dunya/senator-graham-in-anisina-rusya-ya-yaptirim-tasarisi-kabul-edildi-3913001",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Temsilciler Meclisi, İsrail'e verdiği destekle tanınan ve 11 Temmuz'da ani şekilde hayatını kaybeden Cumhuriyetçi Senatör Lindsey Graham'ın anısına Rusya'ya yönelik yaptırımları içeren yasa tasarısını kabul etti",
+    "image": "https://im.haberturk.com/l/2026/09/17/ver1789603804/3913001/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
     "id": "TKP_4d2030b8",
     "title": "Samsun emniyetinden hızlı müdahale: Genç kızı darbedip görüntüleri paylaşan 2 çocuk tutuklandı - samsunhaber.com",
     "source": "Google Haberler",
@@ -4773,30 +4797,6 @@
     "prefix": "🌊",
     "summary": "Anastasios Bakasetas yeni takımına erken alıştı.",
     "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/09/45bfbafa-5ff0-4370-a5de-3cb8b8584c8b.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_acc583e3",
-    "title": "Gümüşhane’de korkutan kaza! Otomobil ters döndü",
-    "source": "61 Saat",
-    "time": "16/09/2026 21:37",
-    "link": "https://www.61saat.com/gumushanede-korkutan-kaza-otomobil-ters-dondu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Gümüşhane'de tünel çıkışı meydana gelen trafik kazasında 1 kişi yaralandı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/09/ekran-resmi-2026-09-16-212959.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_29300ed9",
-    "title": "Trabzon’da şimşekler geceyi gündüze çevirdi!",
-    "source": "Haber61",
-    "time": "16/09/2026 21:37",
-    "link": "https://www.haber61.net/gundem/trabzonda-simsekler-geceyi-gunduze-cevirdi/643633",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon’da gece saatlerinde etkili olan gök gürültülü sağanak sırasında peş peşe çakan yıldırımlar gökyüzünü aydınlatırken, yağışlı havanın önümüzdeki günlerde de sürmesi bekleniyor.",
-    "image": null,
     "keyword": ""
   }
 ]
