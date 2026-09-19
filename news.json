@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_8a1b92fb",
+    "title": "🗣️ Sağanak vurdu! #Trabzon",
+    "source": "YouTube",
+    "time": "19/09/2026 06:18",
+    "link": "https://www.youtube.com/watch?v=v7UuQbgzuKo",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: v7UuQbgzuKo)",
+    "image": "https://img.youtube.com/vi/v7UuQbgzuKo/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_bda4d354",
+    "title": "Meteoroloji’den Doğu Karadeniz için kritik uyarı: Yağış 100 kilograma ulaşacak",
+    "source": "Haber Global",
+    "time": "19/09/2026 06:17",
+    "link": "https://haberglobal.com/gundem/meteorolojiden-dogu-karadeniz-icin-kritik-uyari-yagis-100-kilograma-ulasacak-544824",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, Giresun, Trabzon, Rize ve Artvin için kuvvetli yağış uyarısında bulundu. Cumartesi günü Rize kıyıları ile Artvin’in kuzeyinde yağışın metrekareye 100 kilograma kadar çıkması beklenirken; sel, su baskını, heyelan, yıldırım ve kuvvetli rüzgâra karşı vatandaşların tedbirli olması istendi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/09/19/meteorolojiden-dogu-karadeniz-icin-kritik-uyari-yagis-100-kilograma-ulasacak-18mt.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4353d329",
+    "title": "Akaryakıt Avrupa'yı vurdu: 6 ülkeden petrol devlerine ek vergi çağrısı",
+    "source": "Haber Global",
+    "time": "19/09/2026 06:17",
+    "link": "https://haberglobal.com/ekonomi/akaryakit-avrupayi-vurdu-6-ulkeden-petrol-devlerine-ek-vergi-cagrisi-544825",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Avrupa'da yükselen petrol fiyatlarının akaryakıta yansıması hükümetleri harekete geçirdi. Avrupa Birliği maliye bakanları, enerji şirketlerinin yüksek petrol ve gaz fiyatlarından elde ettiği olağanüstü kârlara AB genelinde ek vergi getirilmesini tartışıyor. Almanya'nın da aralarında bulunduğu 6 ülke Avrupa Komisyonu'ndan adım atmasını istiyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/09/19/akaryakit-avrupayi-vurdu-6-ulkeden-petrol-devlerine-ek-vergi-cagrisi-hnhs.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "TKP_bda4d354",
+    "title": "Meteoroloji’den Doğu Karadeniz için kritik uyarı: Yağış 100 kilograma ulaşacak",
+    "source": "Haber Global",
+    "time": "19/09/2026 06:17",
+    "link": "https://haberglobal.com/gundem/meteorolojiden-dogu-karadeniz-icin-kritik-uyari-yagis-100-kilograma-ulasacak-544824",
+    "type": "TKP",
+    "prefix": "🎯",
+    "summary": "Meteoroloji Genel Müdürlüğü, Giresun, Trabzon, Rize ve Artvin için kuvvetli yağış uyarısında bulundu. Cumartesi günü Rize kıyıları ile Artvin’in kuzeyinde yağışın metrekareye 100 kilograma kadar çıkması beklenirken; sel, su baskını, heyelan, yıldırım ve kuvvetli rüzgâra karşı vatandaşların tedbirli olması istendi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/09/19/meteorolojiden-dogu-karadeniz-icin-kritik-uyari-yagis-100-kilograma-ulasacak-18mt.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_f5024089",
+    "title": "Ben bu kadını tanıyamadım, siz gerçekten tanıdınız mı?",
+    "source": "10Haber",
+    "time": "19/09/2026 06:17",
+    "link": "https://10haber.net/yazarlar/ertugrul-ozkok/ben-bu-kadini-taniyamadim-siz-gercekten-tanidiniz-mi-738689/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "60 yaşında bir kadının yüzü, estetikle kaç yaşında bir yüz haline getirilebilir. Bu sorunun cevabını bu hafta Vogue dergisinin kapağında gördüğüm çok çarpıcı bir fotoğrafla öğrendim…. Öğrendiğim cevap şuydu. Yeni estetik teknolojisi ile 60 yaşında bir kadının yüzü “tanınmayacak kadar genç bir yüze” çevrilebilirmiş. O yüz meğer dünyanın en iyi tanıdığı kadınlarından biriymiş Dergi bu …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-21.20.35-4.jpeg",
+    "keyword": ""
+  },
+  {
     "id": "GND_9d1e0648",
     "title": "Kızılhaç'tan Yemen'deki hastanelere 22 tonluk tıbbi malzeme desteği",
     "source": "TRT Haber",
@@ -4738,65 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_ada01c67",
-    "title": "Meral Akşener Vakfı'nın logosu belli oldu",
-    "source": "OdaTV",
-    "time": "18/09/2026 22:18",
-    "link": "https://www.odatv.com/guncel/meral-aksener-vakfinin-logosu-belli-oldu-120163258",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İYİ Parti'nin kurucu Genel Başkanı Meral Akşener’in vakfının logosu belli oldu. Logoda yarım yaprak görseli ile Meral Akşener Vakfı yazısı yer aldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/18/meral-aksener-vakfinin-logosu-belli-oldu-dsed.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_f56de25e",
-    "title": "Meral Akşener Vakfı’nın logosu belli oldu",
-    "source": "Ekonomim",
-    "time": "18/09/2026 22:18",
-    "link": "https://www.ekonomim.com/gundem/meral-aksener-vakfinin-logosu-belli-oldu-haberi-919221",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İYİ Parti'nin kurucu Genel Başkanı Meral Akşener'in yardım amacıyla kurduğu Meral Akşener Vakfı'nın logosu belli oldu.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/10/25/sessizligini-bozdu-meral-aksenerden-aylar-sonra-ilk-mesaj-sz1i_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_8338e26a",
-    "title": "Trabzon’da Sağanak Sonrası Elektrik Kesintisi ve Su Baskını",
-    "source": "Kuzey Ekspres",
-    "time": "18/09/2026 22:18",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28836115/trabzonda-saganak-sonrasi-elektrik-kesintisi-ve-su-baskini",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da etkili olan sağanak yağış, kent genelinde yaşamı olumsuz etkiledi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/18/large/trabzonda-saganak-sonrasi-elektrik-kesintisi-ve-su-baskini2.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_56290d13",
-    "title": "Trabzon Valiliği Açıkladı! 533 Personel ve 376 Araç Sahada",
-    "source": "Kuzey Ekspres",
-    "time": "18/09/2026 22:18",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28836146/trabzon-valiligi-acikladi-533-personel-ve-376-arac-sahada",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon’da etkili olan kuvvetli yağışlara karşı ekiplerin sahadaki çalışmaları sürüyor.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/18/large/trabzon-valiligi-acikladi-533-personel-ve-376-arac-sahada.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_2cedc569",
-    "title": "İstanbul Küçükçekmece'de bina çöktü: Yaralılar var",
-    "source": "Ekonomim",
-    "time": "18/09/2026 22:18",
-    "link": "https://www.ekonomim.com/gundem/istanbul-kucukcekmecede-bina-coktu-yaralilar-var-haberi-919222",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Küçükçekmece'de kentsel dönüşüm kapsamında yıkımı yapılan binanın bir bölümünün çökmesi sonucu yoldan geçen 2 kişi yaralanarak hastaneye kaldırıldı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/18/istanbul-kucukcekmecede-bina-coktu-yaralilar-var-krdu_cover.jpg",
-    "keyword": ""
   }
 ]
