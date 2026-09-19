@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_7c110cc5",
+    "title": "🗣️ @ensonhbr.bsky.social",
+    "source": "Bluesky",
+    "time": "20/09/2026 02:38",
+    "link": "https://bsky.app/profile/ensonhbr.bsky.social/post/3mvvrygdryn2g",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Nwaiwu, hocası hakkında \"Çok iyi bir hoca olduğunu söyleyebilirim\" diyerek takımın bu performansındaki etkenliğini vurguladı. #Galatasaray #Trabzonspor #SüperLig #Trabzon #ChibuikeNwaiwu #ThomasReis #Spor #StarGazete Daha fazlası: https://t.me/ensonhbr",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_4cd22570",
+    "title": "Kuzey Amerika dışındaki ilk Diplodocus fosili İspanya'da bulundu",
+    "source": "Evrensel",
+    "time": "20/09/2026 02:37",
+    "link": "https://www.evrensel.net/haber/6001229/kuzey-amerika-disindaki-ilk-diplodocus-fosili-ispanyada-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İspanya'nın Teruel kentinde yürütülen kazılarda 150 milyon yıllık Diplodocus fosili bulundu. Kuzey Amerika dışında ilk kez rastlanan 25 metrelik dev dinozor, Jura Dönemi'nde kıtalararası kara bağlantılarının varlığına da kanıt niteliğinde.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/363243.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_9f1bad90",
     "title": "Thomas Reis maç sonu tek tek açıkladı! Maç, Salah, Melih, Sakatlıklar, Samsunspor... - Günebakış Gazetesi Trabzon",
     "source": "Google Haberler",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Belçika'da yapılan kamuoyu araştırması, bugün seçim yapılması halinde aşırı sağcı Vlaams Belang'ın Flaman bölgesinde, aşırı solcu Belçika İşçi Partisinin (PVDA/PTB) ise Brüksel'de ilk sırada yer alacağını ortaya koydu.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_1a59c8e0",
-    "title": "Trabzonspor, Galatasaray'ı farklı yendi",
-    "source": "İHA Trabzon",
-    "time": "19/09/2026 22:38",
-    "link": "https://www.aa.com.tr/tr/spor/trabzonspor-galatasarayi-farkli-yendi/4062172",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trendyol Süper Lig'in 6. haftasında Trabzonspor, Galatasaray'ı 4-0 mağlup etti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_c4424a94",
-    "title": "Salah şov yaptı, Trabzonspor aslanı kediye çevirdi!",
-    "source": "Kuzey Ekspres",
-    "time": "19/09/2026 22:38",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28839852/salah-sov-yapti-trabzonspor-aslani-kediye-cevirdi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor sahasında ağırladığı Galatasaray'ı 4-0'lık net bir skorla mağlup ederek 3 puanı aldı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/19/large/salah-galata.jpg",
     "keyword": ""
   }
 ]
