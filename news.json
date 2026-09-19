@@ -1,5 +1,53 @@
 [
   {
+    "id": "SOC_d83998a1",
+    "title": "🗣️ @anonturk.bsky.social",
+    "source": "Bluesky",
+    "time": "19/09/2026 06:57",
+    "link": "https://bsky.app/profile/anonturk.bsky.social/post/3mvtrznmw4q2o",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "🇹🇷 Berat Albayrak Trabzon’a geldi #Türkiye #Haber #Gündem #Trabzon #Galatasaray #SadıkAlbayrak #HalkTV",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_5ad5c985",
+    "title": "Kayalıklara çarpan panelvanın sürücüsü öldü",
+    "source": "Habertürk",
+    "time": "19/09/2026 06:57",
+    "link": "https://www.haberturk.com/gundem/giresun-da-kayaliklara-carpan-panelvanin-surucusu-oldu-3913530",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Giresun Dereli'de yol kenarındaki kayalıklara çarpan panelvanın sürücüsü, ağır yaralı olarak kaldırıldığı hastanede yaşamını yitirdi",
+    "image": "https://im.haberturk.com/l/2026/09/19/ver1789789223/3913530/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_8b1fadc2",
+    "title": "Sınır kapısında TIR şoförleri kavgası: 3 yaralı",
+    "source": "Habertürk",
+    "time": "19/09/2026 06:57",
+    "link": "https://www.haberturk.com/gundem/cilvegozu-sinir-kapisi-nda-tir-soforleri-kavgasi-3-yarali-3913535",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay Reyhanlı'daki Cilvegözü Sınır Kapısı'ndan geçmek için bekleyen TIR'ların karıştığı kazanın ardından şoförler arasında kavga çıktı. Kavgada, 3 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/09/19/ver1789789699/3913535/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_78f2d69a",
+    "title": "4 il için 'sarı' kodlu uyarı: Sağanak bekleniyor",
+    "source": "TRT Haber",
+    "time": "19/09/2026 06:57",
+    "link": "https://www.trthaber.com/haber/turkiye/4-il-icin-sari-kodlu-uyari-saganak-bekleniyor-957334.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Son hava tahminlerine göre, Karadeniz Bölgesi'nde yağışlı hava etkisini sürdürüyor. 4 il için 'sarı' kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_258f3f94",
     "title": "Trabzon’da sağanak hayatı felç etti: Galatasaraylılar son anda kurtuldu - Halk TV",
     "source": "Google Haberler",
@@ -4749,54 +4797,6 @@
     "prefix": "🔔",
     "summary": "Kürt Dili ve Edebiyatı alanındaki doçentlik başvurusu, üniversiteden KHK ile ihraç edilmesinin ardından iptal edilen Selim Temo, hukuk mücadelesi sonucu unvanını aldığını söyledi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/130268.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_dee510e8",
-    "title": "Kuşadası Körfezi'nde 3,8 büyüklüğünde deprem",
-    "source": "Evrensel",
-    "time": "18/09/2026 22:37",
-    "link": "https://www.evrensel.net/haber/6001110/kusadasi-korfezinde-38-buyuklugunde-deprem",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ege Denizi'nde Kuşadası Körfezi açıklarında 3,8 büyüklüğünde deprem meydana geldi. AFAD, depremin 7,83 kilometre derinlikte gerçekleştiğini açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/331030.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ceb49c72",
-    "title": "Almanya, dünyanın ilk lazer füzyon santralini kuruyor",
-    "source": "Euronews",
-    "time": "18/09/2026 22:37",
-    "link": "https://tr.euronews.com/my-europe/2026/09/18/almanya-dunyanin-ilk-lazer-fuzyon-santralini-kuruyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünyanın ilk lazer füzyon enerji santrali Almanya’da inşa ediliyor. Kapatılan Biblis nükleer santralinin sahasında fisyondan füzyona geçiliyor. Euronews muhabiri Hans von der Brelie, korunan sahaya özel izinle girdi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_fee524e0",
-    "title": "ABD'nin, yanlış yapay zeka analizi nedeniyle Çin gemisini durdurmayı planladığı öne sürüldü",
-    "source": "Anadolu Ajansı",
-    "time": "18/09/2026 22:37",
-    "link": "https://www.aa.com.tr/tr/dunya/abdnin-yanlis-yapay-zeka-analizi-nedeniyle-cin-gemisini-durdurmayi-planladigi-one-suruldu/4061540",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD ordusunun, yapay zeka yardımıyla oluşturulan yanlış istihbarat analizi nedeniyle nükleer silah bileşenleri taşıdığı sanılan Orta Doğu'daki bir Çin gemisini durdurmaya yönelik alarma geçtiği iddia edildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_6429655e",
-    "title": "Fahiş fiyat vurguncularına yargı hamlesi! 40 şüpheli tutuklandı",
-    "source": "A Haber",
-    "time": "18/09/2026 22:37",
-    "link": "https://www.ahaber.com.tr/gundem/2026/09/18/fahis-fiyat-vurguncularina-yargi-hamlesi-40-supheli-tutuklandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yaş sebze ve meyve piyasasındaki fahiş fiyat uygulamasına yönelik soruşturma kapsamında mahkemeye sevk edilen 40 şüphelinin tamamı tutuklandı. Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/744d77/1200/1200/186/0/672/486?u=https://iahbr.tmgrup.com.tr/2026/09/18/fahis-fiyat-vurguncularina-yargi-hamlesi-40-supheli-tutuklandi-1789759426967.jpeg",
     "keyword": ""
   }
 ]
