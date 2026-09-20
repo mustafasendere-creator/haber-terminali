@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_0c7a7ae4",
+    "title": "Antalya açıklarında teknede yaralanan kişi tahliye edildi",
+    "source": "TRT Haber",
+    "time": "20/09/2026 06:17",
+    "link": "https://www.trthaber.com/haber/turkiye/antalya-aciklarinda-teknede-yaralanan-kisi-tahliye-edildi-957413.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Kemer ilçesi açıklarında teknede yaralanan kişi, sahil güvenlik ekiplerince karaya çıkarılarak hastaneye kaldırıldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_3207d91b",
+    "title": "Rapor yayımlandı: Meteoroloji'den kuvvetli yağış uyarısı",
+    "source": "BirGün",
+    "time": "20/09/2026 06:17",
+    "link": "https://www.birgun.net/haber/rapor-yayimlandi-meteoroloji-den-kuvvetli-yagis-uyarisi-735760",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji, 20 Eylül hava durumu raporunu yayımladı. Rapora göre; İstanbul, Tekirdağ, Kırklareli, Adana, Ankara, Çankırı, Kırıkkale, Bolu, Sinop, Samsun, Trabzon, Rize, Artvin, Erzurum ve Kars'ta sağanak ve gök gürültülü sağanak bekleniyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/09/20/rapor-yayimlandi-meteoroloji-den-kuvvetli-yagis-uyarisi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_107d5287",
+    "title": "Yapay zeka hikâyesi",
+    "source": "BirGün",
+    "time": "20/09/2026 06:17",
+    "link": "https://www.birgun.net/makale/yapay-zeka-hikayesi-735782",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yapay zekânın yalnızca birkaç büyük şirket tarafından geliştirilebilecek kadar tehlikeli ve karmaşık olduğuna toplum ikna edilirse, bu şirketlerin rakiplerini dışarıda bırakması kolaylaşır. Küçük şirketler, bağımsız araştırmacılar ve açık kaynak projeleri “güvenlik riski” gerekçesiyle sınırlandırılabilir. Devletlerden daha fazla destek, enerji, veri, yatırım ve hukuki ayrıcalık talep edilebilir. Böylece “İnsanlığı yapay zekânın olası tehlikelerinden koruyacağız” diyenlerle yapay zekâ üzerindeki gücü elinde tutmak isteyenler aynı kişiler hâline gelir.",
+    "image": "https://static.birgun.net/resim/makale/2026/09/20/yapay-zeka-hikayesi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_6c96d725",
+    "title": "Sen misin Türkiye'yi beğenmeyen! Kulüpsüz kalan yıldız futbolcuyu eski takımı bile istemedi",
+    "source": "Kuzey Ekspres",
+    "time": "20/09/2026 06:17",
+    "link": "https://www.kuzeyekspres.com.tr/haber/28841633/sen-misin-turkiyeyi-begenmeyen-kulupsuz-kalan-yildiz-futbolcuyu-eski-takimi-bile-istemedi",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Süper Lig ekiplerinin tekliflerine sıcak bakmayan Jadon Sancho kulüpsüz kaldı. Bonservisi elinde olan İngiliz yıldıza Dortmund da kapıyı kapattı.",
+    "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/19/large/sss.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_44dad242",
+    "title": "Yeniden kurulacak bir ülke için Yan Yana",
+    "source": "BirGün",
+    "time": "20/09/2026 06:17",
+    "link": "https://www.birgun.net/makale/yeniden-kurulacak-bir-ulke-icin-yan-yana-735783",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İşimiz zor. Zaman kısıtlı. Türkiye o tayin edici tarihi an’a yaklaşıyor. Her birimiz tek tek ve sol sosyalist parti ve grupların her biri tek tek bu mücadelenin önderi gibi hissetmeli. Çıkış yolu en başta mümkün en geniş kesimlerin direngen muhalefetini örgütlemekten geçtiğine göre birleşilmeli, genişlemeliyiz. Muhalefete moral veren, ileri götüren, güven veren demokratik yapılar ortaya çıkarmalıyız. Bu mümkündür. Sol, sosyalistler tarihi bir sorumlulukla karşı karşıyadır. Sahada işler zorlaştığında ortada dimdik duran, cesaret veren bir sol demokrat cephe oyun değiştirici olabilir. Hiçbir rezervin, hiçbir şerhin, hiçbir grup çıkarının hesaba takılması söz konusu olamaz.",
+    "image": "https://static.birgun.net/resim/makale/2026/09/20/yeniden-kurulacak-bir-ulke-icin-yan-yana.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b211c0a3",
+    "title": "Bölüne bölüne incelmek",
+    "source": "BirGün",
+    "time": "20/09/2026 06:17",
+    "link": "https://www.birgun.net/makale/bolune-bolune-incelmek-735784",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yan yana gelmek, ilk bakışta çok kolaymış gibi görünen iki kelimelik bir eylem. Oysa bugün Türkiye’de belki de en zor siyasal adımlardan biri. Birbirimize benzediğimiz için değil; birbirimizin varlığını, sözünü ve hakkını vazgeçilmez saydığımız için yan yana durabilmek ise başkaca önemli.",
+    "image": "https://static.birgun.net/resim/makale/2026/09/20/bolune-bolune-incelmek.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_0c79a96f",
     "title": "Manisa'da yolcu otobüsü kaza yaptı: 18 yaralı",
     "source": "TRT Haber",
@@ -4726,77 +4798,5 @@
     "summary": "#Galatasaray #Trabzonspor #SüperLig #Trabzon #Protesto #Spor #GalatasarayTeknik #StarGazete Daha fazlası: https://t.me/ensonhbr",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_b6a1c345",
-    "title": "Saviolo’dan galibiyet sonrası iddialı sözler: “Gollerime devam edeceğim”",
-    "source": "Haber61",
-    "time": "19/09/2026 22:58",
-    "link": "https://www.haber61.net/trabzonspor/saviolodan-galibiyet-sonrasi-iddiali-sozler-gollerime-devam-edecegim/643946",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Galatasaray’ı 4-0 mağlup ettiği karşılaşmada gol atan Noah Saviolo, maçın ardından açıklamalarda bulundu.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_06530faa",
-    "title": "Trabzonspor'dan G.Saray'a 'kedi' göndermesi!",
-    "source": "Habertürk",
-    "time": "19/09/2026 22:58",
-    "link": "https://www.haberturk.com/spor/trabzonspor-dan-galatasaray-a-kedi-gondermesi-3913689",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trabzonspor, 4-0'lık Galatasaray galibiyetinin ardından \"Ararım seni her yerde\" başlığıyla bir video paylaşırken, videoda yer alan kedi sevme sahnesi Galatasaray'a gönderme olarak yorumlandı.",
-    "image": "https://im.haberturk.com/l/2026/09/19/ver1789846882/3913689/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_b673d0a1",
-    "title": "Franculino Djú galibiyetin sırrını açıkladı: “Hocamızın istediklerini yaptık”",
-    "source": "Haber61",
-    "time": "19/09/2026 22:58",
-    "link": "https://www.haber61.net/trabzonspor/franculino-dju-galibiyetin-sirrini-acikladi-hocamizin-istediklerini-yaptik/643947",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Galatasaray’ı 4-0 mağlup ettiği karşılaşmanın ardından Franculino Djú açıklamalarda bulundu.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_4b239e6e",
-    "title": "🗣️ Trabzonspor Derbiyi 4 Golle Kazandı 🔥 Ertem Şener #shorts #trabzonspor #galatasaray",
-    "source": "YouTube",
-    "time": "19/09/2026 22:58",
-    "link": "https://www.youtube.com/watch?v=DzmfNkezZBk",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: DzmfNkezZBk)",
-    "image": "https://img.youtube.com/vi/DzmfNkezZBk/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_07b60e57",
-    "title": "Nwaiwu’dan Thomas Reis’e güven: “Birçok başarı elde edeceğiz”",
-    "source": "Haber61",
-    "time": "19/09/2026 22:58",
-    "link": "https://www.haber61.net/trabzonspor/nwaiwudan-thomas-reise-guven-bircok-basari-elde-edecegiz/643948",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Galatasaray’ı 4-0 mağlup ettiği karşılaşmanın ardından Chibuike Nwaiwu açıklamalarda bulundu.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_23783cb6",
-    "title": "Atatürk’e hakaret eden şüpheli yakalandı",
-    "source": "Habertürk",
-    "time": "19/09/2026 22:58",
-    "link": "https://www.haberturk.com/dunya/ataturke-hakaret-eden-supheli-yakalandi-3913690",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Şişli’de sokakta yaşanan tartışma sırasında Atatürk ve Atatürkçülere yönelik hakaret içerikli sözler söylediği belirlenen Serkan S. polis ekiplerince yakalandı. Şüphelinin adliyeye sevk edileceği öğrenildi",
-    "image": "https://im.haberturk.com/l/2026/09/19/ver1789846896/3913690/jpg/1920x1080",
-    "keyword": ""
   }
 ]
