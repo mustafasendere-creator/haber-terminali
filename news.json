@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_77ffbb62",
+    "title": "🗣️ Trabzonsporlu taraftarlardan Mohamed Salah yaylasına yoğun ilgi",
+    "source": "YouTube",
+    "time": "22/09/2026 03:38",
+    "link": "https://www.youtube.com/watch?v=kvR2kta83KM",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: kvR2kta83KM)",
+    "image": "https://img.youtube.com/vi/kvR2kta83KM/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_aaf8e4a3",
+    "title": "Tedesco yeni takımını buldu",
+    "source": "OdaTV",
+    "time": "22/09/2026 03:37",
+    "link": "https://www.odatv.com/spor/tedesco-yeni-takimini-buldu-120163602",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fenerbahçe'nin ardından Bologna'nın başına geçen Domenico Tedesco, İtalyan ekibindeki kısa macerasının ardından yeniden Almanya'ya dönmeye hazırlanıyor. 41 yaşındaki teknik adamın Bundesliga ekibiyle anlaşmaya yakın olduğu belirtildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/12/tedescodan-fenerbahce-itirafi-her-puan-kaybi-kriz-ortami-yaratiyor-gnaf.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_971045b7",
     "title": "Türkiye'de demans tablosu: Uzmanlardan riskleri azaltmaya yönelik öneriler - Taka Gazete",
     "source": "Google Haberler",
@@ -4774,29 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_ed55cd53",
-    "title": "Merz: Bu seçim derin bir dönüm noktası",
-    "source": "Habertürk",
-    "time": "21/09/2026 20:58",
-    "link": "https://www.haberturk.com/dunya/merz-bu-secim-derin-bir-donum-noktasi-3914106",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, partisinin eyalet seçimlerindeki yenilgisini “ağır bir darbe” olarak nitelendirdi. Merz, \"Bu seçim, derin bir dönüm noktasıdır. CDU için Almanya’da yüzde 5 barajını aşamamamız ve eyalet meclisindeki tüm grup üyeliğimizi kaybetmemiz, dramatik ve benzeri görülmemiş bir sonuçtur.\" dedi.",
-    "image": "https://im.haberturk.com/l/2026/09/21/ver1790012191/3914106/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "GND_279b1809",
-    "title": "F.Bahçe, Emma Meesseman'la uzattı!",
-    "source": "Habertürk",
-    "time": "21/09/2026 20:58",
-    "link": "https://www.haberturk.com/spor/fenerbahce-emma-meesseman-ile-sozlesme-yeniledi-3914107",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe Kadın Basketbol Takımı, Emma Meesseman ile 1 yıllık yeni sözleşme imzaladı.",
-    "image": "https://im.haberturk.com/l/2026/09/21/ver1790012454/3914107/jpg/1920x1080",
-    "keyword": ""
   }
 ]
