@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_2f8ed4bf",
+    "title": "Erdoğan Zelenskiy ile görüştü",
+    "source": "OdaTV",
+    "time": "24/09/2026 01:58",
+    "link": "https://www.odatv.com/guncel/erdogan-zelenskiy-ile-gorustu-120163840",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, New York'ta Ukrayna Başbakanı Vladimir Zelenskiy'i kabul etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/24/erdogan-zelenskiy-ile-gorustu-vg7z.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6549d50b",
+    "title": "Mansur Yavaş istifası sonrası ilk kez konuştu: Hayretle izliyorum",
+    "source": "Ekonomim",
+    "time": "24/09/2026 01:58",
+    "link": "https://www.ekonomim.com/gundem/mansur-yavastan-istifasi-sonrasi-ilk-kez-konustu-hayretle-izliyorum-haberi-920331",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP'den istifa eden ADD Başkanı Mansur Yavaş, istifasının ardından yaptığı ilk açıklamada \"Ayrılma niyetim yoktu, bugünkü sözler çok ağır geldi; istifa kararımın Cumhurbaşkanlığı seçimiyle ilgisi yok\" dedi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/24/mansur-yavastan-istifasi-sonrasi-ilk-kez-konustu-hayretle-izliyorum-a8wb_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_79fe0923",
+    "title": "11 yıl sonra ilk ziyaret! Şi Cinping, Trump bizzat karşıladı",
+    "source": "Ekonomim",
+    "time": "24/09/2026 01:58",
+    "link": "https://www.ekonomim.com/dunya/11-yil-sonra-ilk-ziyaret-si-cinping-trump-bizzat-karsiladi-haberi-920330",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, Washington'a resmi ziyarette bulunan Çin Devlet Başkanı Şi Cinping'i askeri havalimanında karşıladı.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/24/11-yil-sonra-ilk-ziyaret-si-cinping-trump-bizzat-karsiladi-aoxy_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b66d08c6",
+    "title": "Enflasyon oranı ne zaman açıklanacak?",
+    "source": "Habertürk",
+    "time": "24/09/2026 01:58",
+    "link": "https://www.haberturk.com/bilgi/foto/enflasyon-orani-ne-zaman-aciklanacak-saat-kacta-eylul-2026-tefe-tufe-tuik-enflasyon-orani-beklentisi-ne-yonde-3914663",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eylül enflasyon oranı için geri sayım sürüyor. Ağustos ayında yıllık enflasyon yüzde 31,51 olmuştu. Türkiye İstatistik Kurumu tarafından yayımlanacak rakamlar ile birlikte 2026 yılının dokuzuncu ayına ait enflasyon oranı netleşecek. Eylül ayı enflasyonunun açıklanması sonrasında ekim ayı konut ve iş yeri kira artış oranları da belli olacak. Peki Enflasyon oranı ne zaman açıklanacak, saat kaçta? Eylül 2026 enflasyon oranı beklentisi ne yönde?",
+    "image": "https://im.haberturk.com/l/2026/09/24/ver1790202850/3914663/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1ce0bef6",
+    "title": "Gazze'de kış öncesi insani felaket uyarısı: \"Çadırların yüzde 60'ı kullanılamaz durumda",
+    "source": "Evrensel",
+    "time": "24/09/2026 01:57",
+    "link": "https://www.evrensel.net/haber/6001822/gazzede-kis-oncesi-insani-felaket-uyarisi-cadirlarin-yuzde-60i-kullanilamaz-durumda",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gazze'deki Hükümet Medya Ofisi, İsrail'in soykırım saldırıları ve yıkımları nedeniyle evsiz kalarak çadırlara sığınan yüz binlerce Filistinlinin kış mevsiminin yaklaşmasıyla büyük bir insanlık felaketiyle karşı karşıya olduğunu bildirdi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/363751.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_1a18b558",
     "title": "Trabzonspor’dan Salah’ın adını reklamda kullanan işletmelere uyarı - Günebakış Gazetesi Trabzon",
     "source": "Google Haberler",
@@ -4738,65 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNEBAKIŞ"
-  },
-  {
-    "id": "TKP_50b2e082",
-    "title": "Trabzon’da Salah’ın fotoğraf çektirdiği taşın yanına bank konuldu - Günebakış Gazetesi Trabzon",
-    "source": "Google Haberler",
-    "time": "23/09/2026 20:59",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnBaQ1ktWGxva25fTkFPendBOC1ZbXpWQy0zQ3VxbzY2V3lGQ1FYUTdpaFd6WmRXc1RnSG5zTVl4d3lwd2VVVWpnb1pkQzZrZkF6cUItb1cxX3kyX290QTBrVXlWbHIzNFlMcE03ZU8xVDNjc3pNUERtSUlmM1BScWpzNlI2WTNfVVNnUUQ0d3pQQWRxelA1MGdRODl3aWtRYlRudnRENXrSAagBQVVfeXFMTUJwWkNZLVhsb2tuX05BT3p3QTgtWW16VkMtM0N1cW82Nld5RkNRWFE3aWhXelpkV3NUZ0huc01ZeHd5cHdlVVVqZ29aZEM2a2ZBenFCLW9XMV95Ml9vdEEwa1V5VmxyMzRZTHBNN2VPMVQzY3N6TVBEbUlJZjNQUnFqczZSNlkzX1VTZ1FENHd6UEFkcXpQNTBnUTg5d2lrUWJUbnZ0RDV6?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNEBAKIŞ"
-  },
-  {
-    "id": "TKP_69c7ab64",
-    "title": "AKP’li vekilin Öcalan’la ilgili sözlerini haberleştiren gazeteciler gözaltına alındı - Tr724",
-    "source": "Google Haberler",
-    "time": "23/09/2026 20:59",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHk3cmNVZjRIR21NNExtemJXVnFRUkdESVZ6RVNxR3lLVm9lNDlGVU56eWZ1VVFWSVJ3WTE1eVlwV1V1VmNkcFc0XzlBTkhKYUhhWlF6TG52VnFqcEt5bnYyVzZEZTBJbTdmME1na201SWFMM20zckg0dTZVX1JBcTRsaFRNTU5tLVJjVElOcjhIVC1NVFZKNDNac3VCRHhYV20yUy10cUw?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_e2ed372e",
-    "title": "İnönü Üniversitesi Otopark'a Zam Yaptı Tepkiler Arttı! - malatyadan.com",
-    "source": "Google Haberler",
-    "time": "23/09/2026 20:59",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3IyUTMyTHlzU3B4UXJuUk9LVXMwQnRBbGE3OWhxbEpkMUNEZDFlMG1CUFdKRDV0UHhtY0ExdXpLWldubHRxRkFxYTU4N19kTEJ5OGh1bnpNWTZmYjlSdGxudlRmcTN6eWlJcElBeXJ2ZGhOUE11LUZvdFZUa1U4WmVra3Nlak9TQ09NLV9RYkVOblXSAZMBQVVfeXFMTldyMlEzMkx5c1NweFFyblJPS1VzMEJ0QWxhNzlocWxKZDFDRGQxZTBtQlBXSkQ1dFB4bWNBMXV6S1pXbmx0cUZBcWE1ODdfZExCeThodW56TVk2ZmI5UnRsbnZUZnEzenlpSXBJQXlydmRoTlBNdS1Gb3RWVGtVOFpla2tzZWpPU0NPTS1fUWJFTm5V?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_780c7dd7",
-    "title": "﻿İki oğlunu birden kaybetti... Bir babanın en zor anı - Star Gazetesi",
-    "source": "Google Haberler",
-    "time": "23/09/2026 20:59",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzJGMVdGWFFBdnNiLXpiUFVsQjA0TE5pcGszanFXVC16WU51LURNUjRqV1dLSlUySi1MUmN2eTVjVnJielZEMHMwRDBXLXA1NDZwd0ltTDhpXzBDdlZyeEtwTXc5SE5TTDFucFAxMXFka3hIbVZoSnhTekhJcFhqRmhJM0lxeEp3R29BWHNnNjFaSFhXaHRBdzU5Q2xNUdIBngFBVV95cUxObzJGMVdGWFFBdnNiLXpiUFVsQjA0TE5pcGszanFXVC16WU51LURNUjRqV1dLSlUySi1MUmN2eTVjVnJielZEMHMwRDBXLXA1NDZwd0ltTDhpXzBDdlZyeEtwTXc5SE5TTDFucFAxMXFka3hIbVZoSnhTekhJcFhqRmhJM0lxeEp3R29BWHNnNjFaSFhXaHRBdzU5Q2xNUQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_0d22647b",
-    "title": "Çok Sıcak İçeceklerde Kanser Riski: Çay Ve Kahve Nasıl Tüketilmeli? - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "23/09/2026 20:59",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa19CUE5Bejh3cHowV3E0eTNpakpkQ0duNVNOQWFBcl9oMWhzN0tKbEVKby1vNWdDRXl1akRMbk9IdEhaVXFtRVZRaW5DYUhJREZ6LVhCQVA2R3Y3d0dBbkswYUx4cGRKOEpHNzF2QzJYbHJCcnRTUjVIN3NRVTJWN0dBN1paai1nV3QyN0tGVVB2N0tUdExGQkNfWQ?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
   }
 ]
