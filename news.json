@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_8eb019e5",
+    "title": "Çamura saplanarak mahsur kalan vatandaş kurtarıldı",
+    "source": "OdaTV",
+    "time": "23/09/2026 03:17",
+    "link": "https://www.odatv.com/guncel/camura-saplanarak-mahsur-kalan-vatandas-kurtarildi-120163727",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kahramanmaraş'ta köprü altındaki çamurluk alanda mahsur kalan kişi, ekiplerin çalışmasıyla kurtarıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/23/camura-saplanarak-mahsur-kalan-vatandas-kurtarildi-nb54.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_7a0aee40",
+    "title": "Dışişleri Bakanı Fidan, İngiliz mevkidaşıyla görüştü",
+    "source": "Haber Global",
+    "time": "23/09/2026 03:17",
+    "link": "https://haberglobal.com/gundem/disisleri-bakani-fidan-ingiliz-mevkidasiyla-gorustu-545403",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Birleşik Krallık Dışişleri Bakanı Ed Miliband ile bir araya geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/09/23/disisleri-bakani-fidan-ingiliz-mevkidasiyla-gorustu-bmjb.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_8e7e5a21",
+    "title": "Bakan Fidan'dan New York'ta diplomasi trafiği! İngiliz mevkidaşı Ed Miliband ile görüştü",
+    "source": "A Haber",
+    "time": "23/09/2026 03:17",
+    "link": "https://www.ahaber.com.tr/gundem/2026/09/23/hakan-fidan-ingiltere-disisleri-bakani-ed-miliband-ile-gorustu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, BM 81. Genel Kurulu kapsamında bulunduğu New York'ta temaslarını sürdürürken, İngiltere Dışişleri Bakanı Ed Miliband ile bir araya geldi. Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/72be16/1200/1200/103/0/769/666?u=https://iahbr.tmgrup.com.tr/2026/09/23/hakan-fidan-ingiltere-disisleri-bakani-ed-miliband-ile-gorustu-1790121586841.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_a37c8277",
     "title": "Enver Altaylı'nın MİT günleri: Kod adı Ümit... CIA'dan Sovyetoloji eğitimi aldı... Albümünden özel fotoğraflar - Odatv",
     "source": "Google Haberler",
@@ -4761,42 +4797,6 @@
     "prefix": "🌊",
     "summary": "Mohamed Salah, Trabzonspor formasıyla Türkiye kariyerine oldukça etkileyici bir giriş yaptı. Liverpool’da geçirdiği 9 yıllık dönemin ardından bordo-mavili takıma katılan 34 yaşındaki yıldız, kısa sürede hücum hattının en dikkat çeken ismi haline geldi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/09/whatsapp-image-2026-09-22-at-201513.jpeg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d2bb3b2f",
-    "title": "Erdoğan'dan Manisa'daki okul saldırısıyla ilgili ilk açıklama",
-    "source": "BirGün",
-    "time": "22/09/2026 21:17",
-    "link": "https://www.birgun.net/haber/erdogan-dan-manisa-daki-okul-saldirisiyla-ilgili-ilk-aciklama-736313",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKP Genel Başkanı ve Cumhurbaşkanı Recep Tayyip Erdoğan, Manisa'nın Turgutlu ilçesindeki silahlı saldırıya ilişkin ilgili birimlerin soruşturmayı sürdürdüğünü, gerekli tüm tedbirlerin alındığını bildirdi.",
-    "image": "https://static.birgun.net/resim/haber/2026/09/22/erdogan-dan-manisa-daki-okul-saldirisiyla-ilgili-ilk-aciklama.webp",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e6c605b0",
-    "title": "Enver Altaylı hakkında 'Kamu görevlisine karşı tehdit' suçundan soruşturma başlatıldı",
-    "source": "BirGün",
-    "time": "22/09/2026 21:17",
-    "link": "https://www.birgun.net/haber/enver-altayli-hakkinda-kamu-gorevlisine-karsi-tehdit-sucundan-sorusturma-baslatildi-736314",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturma kapsamında tutuklanan Enver Altaylı hakkında başsavcı vekilini tehdit ettiği gerekçesiyle soruşturma başlatıldı.",
-    "image": "https://static.birgun.net/resim/haber/2026/09/22/enver-altayli-hakkinda-kamu-gorevlisine-karsi-tehdit-sucundan-sorusturma-baslatildi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_df2dd9fb",
-    "title": "Tutuklu Adalar Belediye Başkanı Akpolat: Adalar’da kullanılan her oy yalnızca bir tercih değildir, Adalıların iradesidir",
-    "source": "BirGün",
-    "time": "22/09/2026 21:17",
-    "link": "https://www.birgun.net/haber/tutuklu-adalar-belediye-baskani-akpolat-adalarda-kullanilan-her-oy-yalnizca-bir-tercih-degildir-adalilarin-iradesidir-736315",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklu Adalar Belediye Başkanı Ali Ercan Akpolat, \"Bugün verilecek kararlar yalnızca bir seçimin sonucu olmayacaktır. Aynı zamanda Adalıların kendilerine emanet ettiği iradeye nasıl sahip çıkıldığının da bir göstergesi olacaktır\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/09/22/tutuklu-adalar-belediye-baskani-akpolat-adalarda-kullanilan-her-oy-yalnizca-bir-tercih-degildir-adalilarin-iradesidir.webp",
     "keyword": ""
   }
 ]
