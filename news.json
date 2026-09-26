@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_c01963ea",
+    "title": "Suudi Arabistan'da Cazan bölgesi için acil durum uyarısı yapıldı",
+    "source": "Anadolu Ajansı",
+    "time": "26/09/2026 03:47",
+    "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanda-cazan-bolgesi-icin-acil-durum-uyarisi-yapildi/4069825",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Sivil Savunma Genel Müdürlüğü, ülkenin güneyindeki Cazan bölgesinde potansiyel tehlikelere karşı uyarı mesajı yayımladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "SOC_a95228b8",
+    "title": "🗣️ Erasmus Projesi ile Trabzon'a Farklı Ülkelerden Gelen Gençlerden Doğa Gezisi ve Dağcılık Faaliyeti",
+    "source": "YouTube",
+    "time": "26/09/2026 03:47",
+    "link": "https://www.youtube.com/watch?v=HNPOO4aIEko",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: HNPOO4aIEko)",
+    "image": "https://img.youtube.com/vi/HNPOO4aIEko/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_9ec50fce",
     "title": "Mısır: Filistin halkının zorla yerinden edilmesini kesin bir dille reddediyoruz",
     "source": "Anadolu Ajansı",
@@ -4772,30 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "BM, Netanyahu'nun Lübnan'da çok sayıda kişinin ölümüne ve yaralanmasına yol açan çağrı cihazını konuşması sırasında göstermesine ilişkin, dünya liderlerine BM Genel Kurul salonunun ciddiyetine ve kutsiyetine saygı göstermeleri çağrısında bulundu.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_77c19cdb",
-    "title": "Milli boksör Emrah Yaşar, Avrupa şampiyonu oldu",
-    "source": "Anadolu Ajansı",
-    "time": "25/09/2026 21:47",
-    "link": "https://www.aa.com.tr/tr/spor/milli-boksor-emrah-yasar-avrupa-sampiyonu-oldu/4069643",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "2026 Avrupa Boks Şampiyonası'nda milli sporcu Emrah Yaşar altın madalya kazandı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_1b2d2cd2",
-    "title": "Trabzon’da yarın hava nasıl olacak? Meteoroloji’den dikkat çeken tahmin",
-    "source": "Haber61",
-    "time": "25/09/2026 21:47",
-    "link": "https://www.haber61.net/trabzon/trabzon-da-yarin-hava-nasil-olacak-meteoroloji-den-dikkat-ceken-tahmin/644457",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Meteoroloji Genel Müdürlüğü’nün 26 Eylül Cumartesi günü için yayımladığı tahminlere göre Trabzon’da parçalı bulutlu bir hava bekleniyor.",
     "image": null,
     "keyword": ""
   }
