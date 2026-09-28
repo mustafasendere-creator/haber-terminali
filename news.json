@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_082a40b5",
+    "title": "Motosikletin çarpma anı kamerada",
+    "source": "OdaTV",
+    "time": "29/09/2026 02:48",
+    "link": "https://www.odatv.com/guncel/motosikletin-carpma-ani-kamerada-120164393",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sinop'ta motosikletin kamyonete çarpması sonucu meydana gelen kazada 1 kişi hafif şekilde yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/29/motosikletin-carpma-ani-kamerada-orta.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1c5bb07b",
+    "title": "Putin ordudaki personel sayısını 2 milyon 441 bin 630'a çıkardı",
+    "source": "Evrensel",
+    "time": "29/09/2026 02:48",
+    "link": "https://www.evrensel.net/haber/6002552/putin-ordudaki-personel-sayisini-2-milyon-441-bin-630a-cikardi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Rusya Devlet Başkanı Vladimir Putin, Rus ordusundaki personel sayısını 2 milyon 441 bin 630’a çıkaran kararnameyi imzaladı. Ordudaki asker sayısı ise 15 bin 500 artarak 1 milyon 550 bin 500’e ulaştı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/364381.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_d760dc23",
+    "title": "Gana, ABD'nin sağlık anlaşmasını veri paylaşımı ve denetim şartları nedeniyle reddetti",
+    "source": "Evrensel",
+    "time": "29/09/2026 02:48",
+    "link": "https://www.evrensel.net/haber/6002553/gana-abdnin-saglik-anlasmasini-veri-paylasimi-ve-denetim-sartlari-nedeniyle-reddetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gana Cumhurbaşkanı Mahama, ülkesinin ABD'nin sağlık yardımlarının yerine geçmesi amacıyla önerdiği sağlık anlaşmasını, hassas sağlık verilerinin paylaşılması, karşı finansman yükümlülüğü ve ilaçların denetimiyle ilgili hükümler nedeniyle reddetti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/364382.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_632577de",
     "title": "Trabzonspor Ruslan Malinovskyi'nin Ameliyat Oldu - gunebakis.com.tr",
     "source": "Google Haberler",
@@ -4761,42 +4797,6 @@
     "prefix": "🌊",
     "summary": "Artvin’in Hopa ilçesinde yağış nedeniyle kayganlaşan yolda kontrolden çıkan kamyon, yol kenarındaki dere yatağına devrildi. Kazada kamyon sürücüsü yaralanarak hastaneye kaldırıldı.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_7362b5f0",
-    "title": "🗣️ İNGİLTERE'DE İRAN ALARMI! İran'dan Fairford Hava Üssüne Gizli Operasyon Hamlesi mi?",
-    "source": "YouTube",
-    "time": "28/09/2026 21:47",
-    "link": "https://www.youtube.com/watch?v=WjGPvp3Es8c",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:HABER | YouTube Video (ID: WjGPvp3Es8c)",
-    "image": "https://img.youtube.com/vi/WjGPvp3Es8c/hqdefault.jpg",
-    "keyword": "S:HABER"
-  },
-  {
-    "id": "GND_a7428487",
-    "title": "TOKİ’den 47 ilde arsa satışı: Yüzde 25 peşinat, 48 ay vade",
-    "source": "OdaTV",
-    "time": "28/09/2026 21:29",
-    "link": "https://www.odatv.com/guncel/tokiden-47-ilde-yuzde-25-pesinatli-arsa-satisi-120164369",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Toplu Konut İdaresi Başkanlığı (TOKİ), Türkiye genelinde 47 ilde bulunan toplam 406 arsayı açık artırma yöntemiyle satışa çıkarıyor.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/28/yuzde-25-pesinat-48-ay-vade-vexd.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_43688000",
-    "title": "İstanbul’da 548 bin hastane randevusu boşa gitti",
-    "source": "OdaTV",
-    "time": "28/09/2026 21:29",
-    "link": "https://www.odatv.com/guncel/548-bin-hastane-randevusu-bosa-gitti-120164372",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul İl Sağlık Müdürü Doç. Dr. Abdullah Emre Güner, kentte yılın ilk 7 ayında 130 milyon muayene ve 1 milyon 200 bin ameliyat yapıldığını açıkladı. Güner’in verdiği en dikkat çekici rakam ise MHRS’den randevu alıp iptal etmeden gitmeyen 548 bin kişiye ilişkin oldu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/28/548-bin-hastane-randevusu-bosa-gitti-mk2w.jpg",
     "keyword": ""
   }
 ]
