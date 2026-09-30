@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_0a34d26a",
+    "title": "Ankara'da lise öğrencileri kavga etti",
+    "source": "OdaTV",
+    "time": "30/09/2026 03:29",
+    "link": "https://www.odatv.com/guncel/ankarada-lise-ogrencileri-kavga-etti-120164511",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara’nın Sincan ilçesi Saraycık Mahallesi’nde bulunan Ertuğrulgazi Mesleki ve Teknik Anadolu Lisesi’nde 9’uncu sınıf öğrencileri arasında kavga çıktı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/30/ankarada-lise-ogrencileri-kavga-etti-hmog.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_fb9096ad",
+    "title": "İş insanı Cengiz Avcı hakkında yakalama kararı çıkarıldı",
+    "source": "BirGün",
+    "time": "30/09/2026 03:28",
+    "link": "https://www.birgun.net/haber/is-insani-cengiz-avci-hakkinda-yakalama-karari-cikarildi-737722",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Cumhuriyet Başsavcılığı, iş insanı Cengiz Avcı hakkında yakalama kararı çıkardı. Tüm mallarına tedbir kararı getirilirken, bazı mallarına el konuldu.",
+    "image": "https://static.birgun.net/resim/haber/2026/09/30/is-insani-cengiz-avci-hakkinda-yakalama-karari-cikarildi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_e978860d",
+    "title": "🗣️ TRABZON BŞB. SK - BEYKOZ BLD. SK | ERKEKLER SÜPER LİGİ 6.HAFTA",
+    "source": "YouTube",
+    "time": "30/09/2026 03:27",
+    "link": "https://www.youtube.com/watch?v=LihsZaWLrmo",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: LihsZaWLrmo)",
+    "image": "https://img.youtube.com/vi/LihsZaWLrmo/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_4eef27f5",
     "title": "Karasu'da nehir taşınca mahalle Venedik'e döndü",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Profesyonel Futbol Disiplin Kurulu, Trabzonspor ile Galatasaray arasında oynanan karşılaşmanın ardından sarı-kırmızılı kulübe, teknik direktör Okan Buruk’a ve Lesley Ugochukwu’ya ceza verdi.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_42ec37e1",
-    "title": "Girne açıklarında batan gemi: Ölü sayısı 18'e yükseldi",
-    "source": "Diken",
-    "time": "29/09/2026 22:28",
-    "link": "https://www.diken.com.tr/girne-aciklarinda-batan-gemi-olu-sayisi-18e-yukseldi/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Girne açıklarında batan gemi: Ölü sayısı 18'e yükseldi 29.09.2026 Diken Girne açıklarında batan gemide kaybolan bir kişinin daha cesedine ulaşıldı. Böylece hayatını kaybedenlerin sayısı 18’e yükseldi. The post Girne açıklarında batan gemi: Ölü sayısı 18'e yükseldi appeared first on #sitelinkat 29.09.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_5282b745",
-    "title": "Fon vurgunu soruşturması: Melis Sütşurup Sandal ve babası hakkında yakalama kararı",
-    "source": "Evrensel",
-    "time": "29/09/2026 22:28",
-    "link": "https://www.evrensel.net/haber/6002670/fon-vurgunu-sorusturmasi-melis-sutsurup-sandal-ve-babasi-hakkinda-yakalama-karari",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fon vurgunu soruşturmasında sanatçı Mustafa Sandal’ın eşi Melis Sütşurup Sandal ve babası Cihan Sütşurup'un malvarlıklarına el konuldu, aynı zamanda haklarında yakalama kararı çıkarıldı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/336559.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_342966e0",
-    "title": "İstanbul Tabip Odası'ndan Sağlık Bakanlığı'na REDES uygulamasına ilişkin “şeffaflık” çağrısı",
-    "source": "Evrensel",
-    "time": "29/09/2026 22:28",
-    "link": "https://www.evrensel.net/haber/6002677/istanbul-tabip-odasindan-saglik-bakanligina-redes-uygulamasina-iliskin-seffaflik-cagrisi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Tabip Odası Risk Esaslı Denetim Sistemi (REDES) sistemine ilişkin yaptığı açıklamada; Sağlık Bakanlığı'na, REDES'e ve uygulama doğrultusunda açılan soruşturmalara ilişkin şeffaflık çağrısında bulunuldu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/364486.jpg",
-    "keyword": ""
   }
 ]
