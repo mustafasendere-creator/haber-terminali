@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_7dd5c7eb",
+    "title": "Bir Türk'ün öldürülmesi yasayı değiştirdi",
+    "source": "OdaTV",
+    "time": "01/10/2026 03:38",
+    "link": "https://www.odatv.com/guncel/bir-turkun-oldurulmesi-yasayi-degistirdi-120164664",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Almanya’da biletsiz bir yolcunun saldırısı sonucu hayatını kaybeden Türk kondüktör Serkan Çalar’ın ardından hükümet harekete geçti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/01/bir-turkun-oldurulmesi-yasayi-degistirdi-ni2a.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_db2df91e",
+    "title": "🗣️ AK Parti’nin Türkiye Yüzyılı Buluşmaları Trabzon'da gerçekleştiriliyor - CANLI YAYIN",
+    "source": "YouTube",
+    "time": "01/10/2026 03:38",
+    "link": "https://www.youtube.com/watch?v=tIlZBxJrWww",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: tIlZBxJrWww)",
+    "image": "https://img.youtube.com/vi/tIlZBxJrWww/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "TKP_114d428d",
     "title": "Emekliler: Bu bir siyasi bir cinayettir! - Kocaeli Barış Gazetesi",
     "source": "Google Haberler",
@@ -4774,29 +4798,5 @@
     "summary": "📺 S:HABER | YouTube Video (ID: gdgZjXigNyE)",
     "image": "https://img.youtube.com/vi/gdgZjXigNyE/hqdefault.jpg",
     "keyword": "S:HABER"
-  },
-  {
-    "id": "SOC_8d1eb1d6",
-    "title": "🗣️ 4 Çocukla Karadeniz Macerası Başladı! 🌿 Trabzon, Sümela, Hamsiköy & Uzungöl | Vlog 1",
-    "source": "YouTube",
-    "time": "30/09/2026 21:38",
-    "link": "https://www.youtube.com/watch?v=NI4Cjt9EAHM",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: NI4Cjt9EAHM)",
-    "image": "https://img.youtube.com/vi/NI4Cjt9EAHM/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_39ca4468",
-    "title": "YENİ Parti Trabzon’da Tonya İlçe Başkanı Yeniden Seçildi",
-    "source": "Kuzey Ekspres",
-    "time": "30/09/2026 21:37",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28905305/yeni-parti-trabzonda-tonya-ilce-baskani-yeniden-secildi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "YENİ Parti Trabzon İl Başkanlığı’nın ilçe kongreleri kapsamında Tonya’da gerçekleştirilen kongrede, Kurucu İlçe Başkanı Özgür Uzun yeniden başkanlığa seçildi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/09/30/large/yeni-parti-trabzonda-kongre-mesaisi-suruyor.jpg",
-    "keyword": ""
   }
 ]
