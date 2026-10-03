@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_83c41629",
+    "title": "Kastamonu'da otobüs çarpan yaya öldü",
+    "source": "Haber Global",
+    "time": "03/10/2026 03:37",
+    "link": "https://haberglobal.com/gundem/kastamonuda-otobus-carpan-yaya-oldu-546988",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu Taşköprü'de karşıya geçmek isteyen yayaya yolcu otobüsü çarptı. Hastaneye kaldırılan yaya, yapılan müdahalelere rağmen kurtarılamadı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/03/kastamonuda-otobus-carpan-yaya-oldu-be3w.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_216bbfbb",
+    "title": "İsrail ordusunun Gazze'de bir binaya düzenlediği saldırıda 1'i çocuk 5 Filistinli öldü",
+    "source": "Anadolu Ajansı",
+    "time": "03/10/2026 03:37",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-bir-binaya-duzenledigi-saldirida-1i-cocuk-5-filistinli-oldu/4076659",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusunun ateşkese rağmen Gazze'de bir daireyi bombalaması sonucu biri kız çocuğu 5 Filistinli hayatını kaybetti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_9c53759f",
     "title": "Analiz: Veri merkezleri 6 trilyon dolarlık bir saatli bomba",
     "source": "Diken",
@@ -4774,29 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "GND_5dee9d2b",
-    "title": "Galatasaray 3-0'dan döndü",
-    "source": "OdaTV",
-    "time": "02/10/2026 21:18",
-    "link": "https://www.odatv.com/spor/galatasaray-3-0dan-dondu-120164940",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray, hazırlık maçında karşılaştığı Trendyol 1. Lig ekiplerinden Orfa Yapı Pendikspor ile 3-3 berabere kaldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/02/galatasaray-3-0dan-dondu-bh1t.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d88290ff",
-    "title": "Prof. Dr. İoanna Kuçuradi hayatını kaybetti",
-    "source": "Ekonomim",
-    "time": "02/10/2026 21:18",
-    "link": "https://www.ekonomim.com/gundem/prof-dr-ioanna-kucuradi-hayatini-kaybetti-haberi-922241",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Felsefe ve insan hakları alanında yaptığı çalışmalarıyla tanınan Prof. Dr. İoanna Kuçuradi hayatını aybetti.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/02/prof-dr-ioanna-kucuradi-hayatini-kaybetti-tb1e_cover.jpg",
-    "keyword": ""
   }
 ]
