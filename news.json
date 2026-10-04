@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_e4891e73",
+    "title": "Diyarbakır’da kahreden olay: Usta hayatını kaybetti, 2 çırağı ağır yaralandı",
+    "source": "OdaTV",
+    "time": "05/10/2026 02:58",
+    "link": "https://www.odatv.com/guncel/diyarbakirda-kahreden-olay-usta-hayatini-kaybetti-2-ciragi-agir-yaralandi-120165230",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır’ın Bismil ilçesinde sacı çekmek isterken yüksek gerilim hattına temas etmesi sonucu elektrik akımına kapılan kaynak ustası hayatını kaybederken, 2 çırağı da ağır yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/05/diyarbakirda-kahreden-olay-usta-hayatini-kaybetti-2-ciragi-agir-yaralandi-pqzx.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_1542e65d",
+    "title": "🗣️ MUHTEŞEM KÖY DÜĞÜNLERİ",
+    "source": "YouTube",
+    "time": "05/10/2026 02:58",
+    "link": "https://www.youtube.com/watch?v=g53ReQ3-pUk",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: g53ReQ3-pUk)",
+    "image": "https://img.youtube.com/vi/g53ReQ3-pUk/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "GND_ea2ced48",
     "title": "Ronaldosuz Portekiz çok rahat",
     "source": "OdaTV",
@@ -4774,29 +4798,5 @@
     "summary": "📺 S:SONDAKIKA | YouTube Video (ID: aFrzymjtUNo)",
     "image": "https://img.youtube.com/vi/aFrzymjtUNo/hqdefault.jpg",
     "keyword": "S:SONDAKIKA"
-  },
-  {
-    "id": "YRL_03ab63c2",
-    "title": "Adana'da Peş Peşe Depremler! Bir Sarsıntı Daha",
-    "source": "Kuzey Ekspres",
-    "time": "04/10/2026 19:37",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28926470/adanada-pes-pese-depremler-bir-sarsinti-daha",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Adana’nın Saimbeyli ilçesinde gün içerisinde yaşanan sarsıntıların ardından bir deprem daha meydana geldi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/04/large/adanada-pes-pese-depremler-bir-sarsinti-daha.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_7cba81be",
-    "title": "Deniz Ateş Bitnel yıllar sonra Galatasaray–Trabzonspor maçını anlattı: Hatasını itiraf etti",
-    "source": "Taka Gazetesi",
-    "time": "04/10/2026 19:37",
-    "link": "https://www.takagazete.com.tr/deniz-ates-bitnel-yillar-sonra-galatasaray-trabzonspor-macini-anlatti-hatasini-itiraf-etti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Galatasaray–Trabzonspor maçında Bordo-Mavili takıma 4 kırmızı kart gösteren eski hakem Deniz Ateş Bitnel, yıllar sonra karşılaşmanın son bölümünde yaşananları anlattı. Bitnel, uzatma süresi konusunda hata yaptığını kabul ederken dikkat çeken bir ayrıntıyı da ilk kez bu kadar açık şekilde paylaştı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/saskin-hakem-carpici-mansetler.png",
-    "keyword": ""
   }
 ]
