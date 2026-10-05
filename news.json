@@ -1,5 +1,41 @@
 [
   {
+    "id": "SOC_42cff339",
+    "title": "🗣️ Trabzonlu lise öğrencilerinden hayat kurtaracak yerli cihaz",
+    "source": "YouTube",
+    "time": "05/10/2026 03:58",
+    "link": "https://www.youtube.com/watch?v=Yfpi7sL5V78",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: Yfpi7sL5V78)",
+    "image": "https://img.youtube.com/vi/Yfpi7sL5V78/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_2a1b087d",
+    "title": "Brezilya bölündü: Seçim ikinci tura kaldı",
+    "source": "OdaTV",
+    "time": "05/10/2026 03:57",
+    "link": "https://www.odatv.com/guncel/brezilya-bolundu-secim-ikinci-tura-kaldi-120165234",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Brezilya’da cumhurbaşkanlığı seçimlerinin ilk turunda hiçbir aday yüzde 50’yi aşamadı. İlk turu önde tamamlayan Flávio Bolsonaro ile mevcut Cumhurbaşkanı Luiz Inácio Lula da Silva, 25 Ekim’de yapılacak ikinci turda karşı karşıya gelecek.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/05/brezilya-bolundu-secim-ikinci-tura-kaldi-k732.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_0bb1eeb8",
+    "title": "🗣️ La Perato | Hotel Review 🛏️",
+    "source": "YouTube",
+    "time": "05/10/2026 03:57",
+    "link": "https://www.youtube.com/watch?v=tmSIF-yPgHg",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:TRABZON | YouTube Video (ID: tmSIF-yPgHg)",
+    "image": "https://img.youtube.com/vi/tmSIF-yPgHg/hqdefault.jpg",
+    "keyword": "S:TRABZON"
+  },
+  {
     "id": "TKP_89feec22",
     "title": "Ermenistan’da en çok tanınan Türk gazeteci - Serbestiyet",
     "source": "Google Haberler",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Yıllardır seçim vaadi olmaktan öteye geçmeyen Pertek Köprüsü için CHP Elazığ Milletvekili Gürsel Erol’dan çağrı geldi. Ulaştırma Bakanı Uraloğlu’nun adımlarını hatırlatan Erol, projenin 2027 Yatırım Programı’na alınarak fiilen başlatılmasını istedi.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/04/elazigin-cozulmeyen-secim-vaadi-pertek-koprusu-yrfh.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_efce49a8",
-    "title": "\"Eğitim öğretim devam edecek\"",
-    "source": "Habertürk",
-    "time": "04/10/2026 19:38",
-    "link": "https://www.haberturk.com/gundem/ak-parti-sozcusu-celik-egitim-ogretim-devam-edecek-3917179",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Adana ve Osmaniye'de meydana gelen depremler sonrası Deprem Koordinasyon Merkezi'nde açıklamalarda bulundu. Herhangi bir can kaybı olmadığını belirten Çelik, \"Herhangi bir uyarı olmadığı müddetçe okullar sağlamdır, eğitim öğretim devam edecektir. Ailelerimiz müsterih bir şekilde evlatlarını okullara gönderebilirler.\" ifadelerini kullandı.",
-    "image": "https://im.haberturk.com/l/2026/10/04/ver1791130860/3917179/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "GND_87ae8feb",
-    "title": "Günlük Burç Yorumları: 5 Ekim Pazartesi Aslan burcu Yorumu",
-    "source": "Cumhuriyet",
-    "time": "04/10/2026 19:38",
-    "link": "https://www.cumhuriyet.com.tr/astroloji/aslan-burcu/gunluk-burc-yorumlari-5-ekim-pazartesi-aslan-burcu-yorumu-2543598",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Günlük Burç Yorumları: 5 Ekim Pazartesi Aslan burcu Yorumu",
-    "image": "https://media.cumhuriyet.com.tr/Archive/168f5c1c-0dd0-4b0d-88ca-62216f33c0ef.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0ce6be51",
-    "title": "Azerbaycan'a kendi sahasında tek gol yetti!",
-    "source": "Cumhuriyet",
-    "time": "04/10/2026 19:38",
-    "link": "https://www.cumhuriyet.com.tr/spor/azerbaycan-a-kendi-sahasinda-tek-gol-yetti-2543649",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Azerbaycan, UEFA Uluslar Ligi'nin 4. maçında kendi sahasında ağırladığı Litvanya'yı 1-0 mağlup etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d67896e5-1439-476b-8607-6988b41bc21c.jpg",
     "keyword": ""
   }
 ]
