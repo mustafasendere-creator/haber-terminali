@@ -1,5 +1,65 @@
 [
   {
+    "id": "TKP_e2f6f5c1",
+    "title": "Trabzonspor’da ROTA’dan Doğan’a destek, tribünlerde yeni karar - Günebakış Gazetesi Trabzon",
+    "source": "Google Haberler",
+    "time": "06/10/2026 02:38",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDhrcVFXb1lORDc1RF84dVBPVkJpWm9OU3NzLTlZRkpKcUtlcWdzZ0x3VExsR1ptc0NDMkZvZU9vckpkX0trSklmLWdJY09QYXpHd2JpXzlVTkNTVGtwc3BYMmVlZUJrRWpHYUhDcFBsdnluOUVhZ1lDZy13UHREdzVLQUFPNHhodW4wT21ra010NURMVk9jNU1jNUk0VW5peFHSAaIBQVVfeXFMTkQ4a3FRV29ZTkQ3NURfOHVQT1ZCaVpvTlNzcy05WUZKSnFLZXFnc2dMd1RMbEdabXNDQzJGb2VPb3JKZF9La0pJZi1nSWNPUGF6R3diaV85VU5DU1RrcHNwWDJlZWVCa0VqR2FIQ3BQbHZ5bjlFYWdZQ2ctd1B0RHc1S0FBTzR4aHVuME9ta2tNdDVETFZPYzVNYzVJNFVuaXhR?oc=5",
+    "type": "TKP",
+    "prefix": "🌐 📰",
+    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
+    "image": null,
+    "keyword": "GÜNEBAKIŞ"
+  },
+  {
+    "id": "GND_449318d7",
+    "title": "Fransa'daki olaylar Belçika'ya sıçradı",
+    "source": "OdaTV",
+    "time": "06/10/2026 02:38",
+    "link": "https://www.odatv.com/guncel/fransadaki-olaylar-belcikaya-sicradi-120165399",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa'da başlayan ve Belçika'ya sıçrayan öğrenci protestoları yeniden alevlendi. Çıkan olaylarda 16 kişi gözaltına alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/06/fransadaki-olaylar-belcikaya-sicradi-s7qi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c76b308b",
+    "title": "A Milli Takım Teknik Direktörü Montella: ''Tarihimizde ilk defa böyle değerli 4 maç oynadık''",
+    "source": "Haber Global",
+    "time": "06/10/2026 02:37",
+    "link": "https://haberglobal.com/spor/a-milli-takim-teknik-direktoru-montella-tarihimizde-ilk-defa-boyle-degerli-4-mac-oynadik-547373",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella, seviye konusunda sözlerinin yanlış anlaşıldığını belirterek, \"Deneyim kazanmamız gerektiğini kastediyorum. Tarihimizde ilk defa böyle değerli 4 maç oynadık. Geleceğe umut dolu bakabiliyoruz. Bu deneyimler bizi geliştirecek\" dedi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/06/a-milli-takim-teknik-direktoru-montella-tarihimizde-ilk-defa-boyle-degerli-4-mac-oynadik-ezuo.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_34ae4748",
+    "title": "Nijerya'da askeri uçak kazası nedeniyle 3 günlük \"ulusal yas\" ilan edildi",
+    "source": "Anadolu Ajansı",
+    "time": "06/10/2026 02:37",
+    "link": "https://www.aa.com.tr/tr/dunya/nijeryada-askeri-ucak-kazasi-nedeniyle-3-gunluk-ulusal-yas-ilan-edildi/4079100",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nijerya Cumhurbaşkanı Bola Ahmed Tinubu'nun, Ondo eyaletinde askeri uçağın düşmesi sonucu hayatını kaybeden Nijerya Hava Kuvvetleri (NAF) personeli için ülkede 3 günlük ulusal yas ilan ettiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_6bb55eb0",
+    "title": "Türkiye'den Nijerya'daki askeri uçak kazasında hayatını kaybedenler için taziye mesajı",
+    "source": "Anadolu Ajansı",
+    "time": "06/10/2026 02:37",
+    "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-nijeryadaki-askeri-ucak-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4079102",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanlığı, Nijerya'nın Ondo eyaletinde bugün askeri bir uçağın düşmesi sonucu hayatını kaybedenler için taziye mesajı yayımladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "SOC_a7f7d821",
     "title": "🗣️ @anonturk.bsky.social",
     "source": "Bluesky",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Samsung yeni yaptığı bir açıklamada dünya çapında 1,2 milyardan fazla Galaxy telefon kullanıcısı olduğunu duyurdu.",
     "image": "https://media.cumhuriyet.com.tr/Archive/2b8c4647-68e6-4622-b6ca-740880039f13.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e840c8d0",
-    "title": "Riyad’da kritik toplantı, Mekke İttifakı harekete geçti: Kolektif caydırıcılık devreye giriyor",
-    "source": "Cumhuriyet",
-    "time": "05/10/2026 22:00",
-    "link": "https://www.cumhuriyet.com.tr/dunya/riyad-da-kritik-toplanti-mekke-ittifaki-harekete-gecti-kolektif-caydiricilik-devreye-giriyor-2544001",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Suudi Arabistan, Türkiye ve Pakistan’ın taraf olduğu Mekke İttifakı kapsamında Riyad’da düzenlenen acil toplantıda, Husilerin saldırılarına karşı “kolektif caydırıcılık önlemlerinin” devreye alınması kararlaştırıldı. Suudi Arabistan Savunma Bakanı Prens Halid bin Selman, üç ülkenin saldırılara karşı ortak hareket etme konusunda uzlaştığını açıkladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/aef4c26b-006d-4527-b008-3747b6c6e6a7.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_0702a334",
-    "title": "Asla yırtılmayan ve yapışmayan ev yapımı taze makarna hamurunun tüm sırları: Evde makarna nasıl yapılır?",
-    "source": "Cumhuriyet",
-    "time": "05/10/2026 22:00",
-    "link": "https://www.cumhuriyet.com.tr/gurme/asla-yirtilmayan-ve-yapismayan-ev-yapimi-taze-makarna-hamurunun-tum-sirlari-evde-makarna-nasil-yapilir-2543990",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sadece un ve yumurtanın, usta işi bir yoğurma tekniği ve sabırla buluşarak ipeksi bir gastronomi şaheserine dönüştüğü o kusursuz formül sahnede. Hamurun esnekliğini belirleyen un seçiminden, glüteni uyandıran bilek hareketlerine ve ipek gibi açılmasını sağlayan dinlendirme sırlarına kadar; taze makarna hamurunun tüm ayrıntıları...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/8460ae05-f0f1-4486-b6f0-c506e965e62f.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_5d25ce78",
-    "title": "Gençlerbirliği Başkanı açıkladı: Metin Diyadin'den istifa kararı!",
-    "source": "Cumhuriyet",
-    "time": "05/10/2026 22:00",
-    "link": "https://www.cumhuriyet.com.tr/spor/genclerbirligi-baskani-acikladi-metin-diyadin-den-istifa-karari-2544002",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gençlerbirliği Başkanı Arda Çakmak, Teknik Direktör Metin Diyadin'in istifa ettiğini duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/b181d14e-2e31-4ffe-9235-8fac4746f285.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_eb16cb4d",
-    "title": "Son Dakika... Mersin'de bir belediye başkanına daha tutuklama talebi",
-    "source": "Cumhuriyet",
-    "time": "05/10/2026 22:00",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-mersin-de-bir-belediye-baskanina-daha-tutuklama-talebi-2544003",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Mersin Yenişehir Belediyesi'ne yönelik operasyonda gözaltına alınan Yenişehir Belediye Başkanı Özyiğit, tutuklama istemiyle hakimliğe sevk edildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5492ecf8-cc2b-420c-8153-7194d97c80d6.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_764a49ed",
-    "title": "AJet uçağında bomba notu paniği: 143 kişi tahliye edildi",
-    "source": "Haber Global",
-    "time": "05/10/2026 22:00",
-    "link": "https://haberglobal.com/gundem/ajet-ucaginda-bomba-notu-panigi-143-kisi-tahliye-edildi-547357",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ankara’dan Şanlıurfa’ya giden AJet’in 4180 sefer sayılı yolcu uçağında patlayıcı madde bulunduğuna ilişkin bir not tespit edildi. Uçak saat 20.05’te Şanlıurfa GAP Havalimanı’na iniş yaparken, 136 yolcu ile 7 mürettebatın güvenli şekilde tahliye edilmesi için tedbir alındı. Uçakta güvenlik birimleri tarafından arama yapılacağı bildirildi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/10/05/ajet-ucaginda-bomba-notu-panigi-143-kisi-tahliye-edildi-pu9x.jpg",
     "keyword": ""
   }
 ]
