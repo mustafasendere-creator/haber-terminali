@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_fcce3bf1",
+    "title": "TEKNOFEST Güneydoğu'ya katılım sayısı açıklandı",
+    "source": "OdaTV",
+    "time": "05/10/2026 03:18",
+    "link": "https://www.odatv.com/guncel/teknofest-guneydoguya-katilim-sayisi-aciklandi-120165231",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa'da düzenlenen dünyanın en büyük havacılık, uzay ve teknoloji festivali TEKNOFEST Güneydoğu'yu 1 milyon 300 bin kişi ziyaret etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/05/teknofest-guneydoguya-katilim-sayisi-aciklandi-zq1w.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_639d2949",
+    "title": "AFAD duyurdu: Adana'da 4,1 büyüklüğünde deprem",
+    "source": "Haber Global",
+    "time": "05/10/2026 03:17",
+    "link": "https://haberglobal.com/gundem/afad-duyurdu-adanada-41-buyuklugunde-deprem-547238",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana Saimbeyli'de 4,1 büyüklüğünde deprem meydana geldi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/05/afad-duyurdu-adanada-41-buyuklugunde-deprem-s5hs.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_e4891e73",
     "title": "Diyarbakır’da kahreden olay: Usta hayatını kaybetti, 2 çırağı ağır yaralandı",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔴 ▶️",
     "summary": "📺 S:SONDAKIKA | YouTube Video (ID: GuvnSfWcps)",
     "image": "https://img.youtube.com/vi/_GuvnSfWcps/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
-  },
-  {
-    "id": "GND_8328d022",
-    "title": "EMEP Hatay kongresinde birleşik mücadele çağrısı: “Kendi gücümüze güveneceğiz”",
-    "source": "Evrensel",
-    "time": "04/10/2026 19:37",
-    "link": "https://www.evrensel.net/haber/6003431/emep-hatay-kongresinde-birlesik-mucadele-cagrisi-kendi-gucumuze-guvenecegiz",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Savaş, baskı, sömürü ve deprem sonrası yıkımın tartışıldığı Emek Partisi Hatay İl Kongresinde, insanca ve güvende yaşamın halkların ve emekçilerin ortak mücadelesiyle mümkün olacağı vurgulandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/365111.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_67b689d3",
-    "title": "🗣️ İRAN'DAN TRUMP'A SAVAŞ YANITI! \"Eskisinden Daha Hazırız!\"",
-    "source": "YouTube",
-    "time": "04/10/2026 19:37",
-    "link": "https://www.youtube.com/watch?v=aFrzymjtUNo",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: aFrzymjtUNo)",
-    "image": "https://img.youtube.com/vi/aFrzymjtUNo/hqdefault.jpg",
     "keyword": "S:SONDAKIKA"
   }
 ]
