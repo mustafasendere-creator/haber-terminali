@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_b6cd3f6f",
+    "title": "'Trafiğin Ablası'ndan acı haber",
+    "source": "OdaTV",
+    "time": "08/10/2026 02:58",
+    "link": "https://www.odatv.com/guncel/trafigin-ablasi-yasemin-bodur-karasudan-aci-haber-120165712",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uzun yıllar Kütahya Emniyet Müdürlüğü Trafik Şube Müdürlüğü’nde görev yapan Yasemin Bodur Karasu önceki gün beylik silahı ile intihar etti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/08/trafigin-ablasi-yasemin-bodur-karasudan-aci-haber-jkbf.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_595d917a",
+    "title": "Polisten kaçan ehliyetsiz motosiklet sürücüsüne 410 bin lira ceza",
+    "source": "OdaTV",
+    "time": "08/10/2026 02:58",
+    "link": "https://www.odatv.com/guncel/polisten-kacan-ehliyetsiz-motosiklet-surucusune-410-bin-lira-ceza-120165709",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kastamonu’nun Cide ilçesinde polisin ‘dur’ ihtarına uymayarak kaçan 16 yaşındaki motosiklet sürücüsü, yaşanan kovalamaca sonucunda yakalandı. Sürücüye 410 bin 719 TL idari para cezası uygulanırken, motosiklet ise 120 gün trafikten men edildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/08/polisten-kacan-ehliyetsiz-motosiklet-surucusune-410-bin-lira-ceza-xqi0.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4a3ea067",
+    "title": "Kağıthane'de korkunç kaza: 1 ölü, 2 yaralı",
+    "source": "Haber Global",
+    "time": "08/10/2026 02:57",
+    "link": "https://haberglobal.com/gundem/kagithanede-korkunc-kaza-1-olu-2-yarali-547696",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Kağıthane'de aynı yönde seyir halindeki taksiye arkadan çarpan otomobil bariyerlere savruldu. Otomobilin sürücüsü, kaldırıldığı hastanede hayatını kaybetti, 2 kişi yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/08/kagithanede-korkunc-kaza-1-olu-2-yarali-l6pz.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ad63f842",
+    "title": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında çıkan yangın kontrol altına alındı",
+    "source": "Anadolu Ajansı",
+    "time": "08/10/2026 02:57",
+    "link": "https://www.aa.com.tr/tr/gundem/balikesirin-bandirma-ilcesinde-yag-fabrikasinda-cikan-yangin-kontrol-altina-alindi/4081599",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında çıkan yangın kontrol altına alındı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "SOC_5a733032",
     "title": "🗣️ @sondakikamm.bsky.social",
     "source": "Bluesky",
@@ -4750,53 +4798,5 @@
     "summary": "Kayserinin Develi ilçesinde, iki işçi servisi ile bir iş makinesinin karıştığı trafik kazasında 1 kişi hayatını kaybetti, 15 kişi yaralandı.",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "TKP_ccb6fb90",
-    "title": "Avrupa gecesinde kazanan Trabzonspor!",
-    "source": "61 Saat",
-    "time": "07/10/2026 21:18",
-    "link": "https://www.61saat.com/avrupa-gecesinde-kazanan-trabzonspor",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Basketbol Takımı, Basketbol Şampiyonlar Ligi’nde normalde süresi 76-76 biten maçı uzatmalarda kazanmayı başardı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/10/asasdas-kurtarildi-245.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_38b7cc0e",
-    "title": "Trabzonspor'da milli oyuncular takıma döndü!",
-    "source": "61 Saat",
-    "time": "07/10/2026 21:18",
-    "link": "https://www.61saat.com/trabzonsporda-milli-oyuncular-takima-dondu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, cumartesi günü deplasmanda oynayacağı Samsunspor karşılaşmasının hazırlıklarını Mehmet Ali Yılmaz Tesisleri’nde gerçekleştirdiği antrenmanla sürdürdü.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/10/652ab1b2-beee-4eb6-8c69-5524d353ac67.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_6ae8462a",
-    "title": "İzmir Tabip Odası, 'Dr. Cemil Tugay'ı kınadı: Mesleğimizin üyesi olması üzüntümüzü artırıyor",
-    "source": "Diken",
-    "time": "07/10/2026 21:17",
-    "link": "https://www.diken.com.tr/izmir-tabip-odasi-dr-cemil-tugayi-kinadi-meslegimizin-uyesi-olmasi-uzuntumuzu-artiriyor/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir Tabip Odası, 'Dr. Cemil Tugay'ı kınadı: Mesleğimizin üyesi olması üzüntümüzü artırıyor 07.10.2026 Diken İzmir Tabip Odası, AKP’ye geçen İzmir Büyükşehir Belediye Başkanı Cemil Tugay için \"Ülkemizin tarihine geçen şerefli hekimlerin yanında ne yazık ki bir kara leke olarak anılacaktır\" açıklamasını yaptı. The post İzmir Tabip Odası, 'Dr. Cemil Tugay'ı kınadı: Mesleğimizin üyesi olması üzüntümüzü artırıyor appeared first on #sitelinkat 07.10.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_d2602a20",
-    "title": "Trabzonspor’dan Avrupa’da tarihi başlangıç! Nanterre’yi uzatmada yıktı",
-    "source": "Haber61",
-    "time": "07/10/2026 21:17",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-basketbol-avrupa-ya-galibiyetle-basladi/645533",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor Basketbol Takımı, kulüp tarihinde ilk kez mücadele ettiği Basketbol Şampiyonlar Ligi’ne galibiyetle başladı. Bordo-mavililer, normal süresi 76-76 eşitlikle tamamlanan karşılaşmada Nanterre 92’yi uzatma sonunda 93-83 mağlup etti.",
-    "image": null,
-    "keyword": "TRABZON"
   }
 ]
