@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_ab4f6190",
+    "title": "Kafa kafaya facia: 4 ölü, 1 yaralı",
+    "source": "Sözcü",
+    "time": "07/10/2026 03:57",
+    "link": "https://www.sozcu.com.tr/kafa-kafaya-facia-4-olu-1-yarali-p366813",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kafa kafaya facia: 4 ölü, 1 yaralı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/kaza3jpg-nwgOgIg2v0e65V5lyd5nDA.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a6aa03b6",
+    "title": "Bakan Göktaş: Yeni bir özel bakım hizmet modelini hayata geçiriyoruz",
+    "source": "TRT Haber",
+    "time": "07/10/2026 03:57",
+    "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-yeni-bir-ozel-bakim-hizmet-modelini-hayata-geciriyoruz-959336.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği yürürlüğe girdi. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, yönetmeliğe ilişkin \"Teknik yeterlilik, şeffaflık, uygulama birliği, hukuki güvence ve engelli birey odaklı hizmet anlayışını esas alan yeni bir özel bakım hizmet modelini hayata geçiriyoruz\" ifadelerini kullandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_bae3c2cf",
+    "title": "Engelli bireylere yönelik özel bakımda yeni dönem! Yönetmelik Resmi Gazete'de yayımlandı",
+    "source": "A Haber",
+    "time": "07/10/2026 03:57",
+    "link": "https://www.ahaber.com.tr/gundem/2026/10/07/engelli-bireylere-yonelik-ozel-bakimda-yeni-donem",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Aile ve Sosyal Hizmetler Bakanlığı ile Hazine ve Maliye Bakanlığınca hazırlanan yeni yönetmelikle, 81 ilde hizmet veren özel bakım merkezlerinin açılış, denetim, ödeme ve yerleştirme süreçlerine... Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/ec219d/1200/1200/248/0/734/486?u=https://iahbr.tmgrup.com.tr/2026/10/07/1791333393333.jpeg",
+    "keyword": ""
+  },
+  {
     "id": "GND_d6eaa028",
     "title": "Bakan Göktaş'tan 'özel bakım merkezleri' paylaşımı",
     "source": "Habertürk",
@@ -4762,41 +4798,5 @@
     "summary": "📺 S:HABER | YouTube Video (ID: JN04evoQg4)",
     "image": "https://img.youtube.com/vi/JN0_4evoQg4/hqdefault.jpg",
     "keyword": "S:HABER"
-  },
-  {
-    "id": "SOC_8c26df56",
-    "title": "Uzungol from Trabzon in February - is it accessible by public transport or rental car?",
-    "source": "Reddit",
-    "time": "06/10/2026 21:37",
-    "link": "https://www.reddit.com/r/AskTurkey/comments/1wz9y31/uzungol_from_trabzon_in_february_is_it_accessible/",
-    "type": "SOC",
-    "prefix": "🟠 🤖",
-    "summary": "Would it be possible to get there by rental car or minibus? We are going in late February. Thanks a lot in advance! submitted by /u/CleanAbrocoma2161 to r/AskTurkey link yorumlar",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_74e7af62",
-    "title": "Uzungol from Trabzon in February - is it accessible by public transport or rental car?",
-    "source": "Reddit",
-    "time": "06/10/2026 21:37",
-    "link": "https://www.reddit.com/r/TurkeyMeta/comments/1wz9yzx/uzungol_from_trabzon_in_february_is_it_accessible/",
-    "type": "SOC",
-    "prefix": "🟠 🤖",
-    "summary": "submitted by /u/CleanAbrocoma2161 to r/TurkeyMeta link yorumlar",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_5a33eb2d",
-    "title": "🗣️ Beşiktaş - Trabzonspor Maç Sonu Yayını | BlackWallStudio",
-    "source": "YouTube",
-    "time": "06/10/2026 21:37",
-    "link": "https://www.youtube.com/watch?v=mYKLrsH_oNs",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: mYKLrsHoNs)",
-    "image": "https://img.youtube.com/vi/mYKLrsH_oNs/hqdefault.jpg",
-    "keyword": "TRABZON"
   }
 ]
