@@ -1,5 +1,77 @@
 [
   {
+    "id": "SOC_5a733032",
+    "title": "🗣️ @sondakikamm.bsky.social",
+    "source": "Bluesky",
+    "time": "08/10/2026 02:38",
+    "link": "https://bsky.app/profile/sondakikamm.bsky.social/post/3mxcy2o2geg2m",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "🌍 DÜNYA GÜNDEMİ | Bu kez muradı... 👉 Tüm detaylar ve sıcak gelişmeler için: 🔗 https://haberlesende.com/2026/10/07/bu-kez-muradina-erecek-mi-trumpin-nobel-hayali-yeniden-harlandi-odulu-vermezlerse-onlar-icin-itibar-kaybi-olur/ #Haber #Trabzon #ABD #Dünya",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:75w7fudfg7hqwpvqmeocpbbq/bafkreicerekoc43fae2psduzym7eauupzf2hyerlen3roanvnfbo4k2hhi",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_1a3c153f",
+    "title": "🗣️ @sondakikamm.bsky.social",
+    "source": "Bluesky",
+    "time": "08/10/2026 02:38",
+    "link": "https://bsky.app/profile/sondakikamm.bsky.social/post/3mxd3cywvpx2t",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "💡 TEKNOLOJİ & BİLİM | Office 2021 Desteği Sona Eriyor: İşte Yapabileceğiniz 5 S... ⚡ Dakika dakika tüm son durum: 🔗 https://haberlesende.com/2026/10/07/office-2021-destegi-sona-eriyor-iste-yapabileceginiz-5-secenek/ #Haber #Trabzon #YapayZeka #Teknoloji",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:75w7fudfg7hqwpvqmeocpbbq/bafkreicerekoc43fae2psduzym7eauupzf2hyerlen3roanvnfbo4k2hhi",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_bf3945e8",
+    "title": "🗣️ @sondakikamm.bsky.social",
+    "source": "Bluesky",
+    "time": "08/10/2026 02:38",
+    "link": "https://bsky.app/profile/sondakikamm.bsky.social/post/3mxd4e3anh42y",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "⚽ SPOR HABERİ | Trabzonspor, Nanterre 92’yi mağlup etti! 📌 Merak edilen tüm gelişmeler haberimizde: 🔗 https://haberlesende.com/2026/10/07/trabzonspor-nanterre-92yi-maglup-etti/ #Haber #Trabzon #Trabzonspor #TS",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:75w7fudfg7hqwpvqmeocpbbq/bafkreicerekoc43fae2psduzym7eauupzf2hyerlen3roanvnfbo4k2hhi",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_6eab7a6f",
+    "title": "🗣️ 20 Gün Önce Boşandığı Kocası 7 Kurşunla Öldürdü! | Star Ana Haber",
+    "source": "YouTube",
+    "time": "08/10/2026 02:38",
+    "link": "https://www.youtube.com/watch?v=Z-_93mBSsdc",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: Z-93mBSsdc)",
+    "image": "https://img.youtube.com/vi/Z-_93mBSsdc/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_e0b14e2f",
+    "title": "İran, ABD'nin müzakerelerde sunduğu önerilere yanıtını arabulucular üzerinden iletecek",
+    "source": "TRT Haber",
+    "time": "08/10/2026 02:37",
+    "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-muzakerelerde-sundugu-onerilere-yanitini-arabulucular-uzerinden-iletecek-959469.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran, ABD'nin müzakerelerde sunduğu önerilere ilişkin yanıtını arabulucular aracılığıyla ileteceğini açıkladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_e5732021",
+    "title": "YTÜ’de veri ihlali: Öğrencilerin kişisel verileri güvende mi?",
+    "source": "Evrensel",
+    "time": "08/10/2026 02:37",
+    "link": "https://www.evrensel.net/haber/6003933/ytude-veri-ihlali-ogrencilerin-kisisel-verileri-guvende-mi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yıldız Teknik Üniversitesinde günlerdir süren sistem kesintilerinin arkasından fidye yazılımı saldırısı çıktı. KVKK, yaklaşık 144 bin öğrenci ve 2 bin 500 personelin etkilendiği veri ihlalini kamuoyuna duyurdu.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/323689.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_8e4bd1e9",
     "title": "TAKA MÜZİK VE HALKOYUNLARI DERNEĞİ'NDE YENİ SEZON HEYECANI - Ses Ver Trabzon",
     "source": "Google Haberler",
@@ -4726,77 +4798,5 @@
     "summary": "Trabzonspor Basketbol Takımı, kulüp tarihinde ilk kez mücadele ettiği Basketbol Şampiyonlar Ligi’ne galibiyetle başladı. Bordo-mavililer, normal süresi 76-76 eşitlikle tamamlanan karşılaşmada Nanterre 92’yi uzatma sonunda 93-83 mağlup etti.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_ea46a548",
-    "title": "🗣️ Yunan Komutandan Canlı Yayında Provokasyon! \"İsrail KKTC'yi Vurur NATO Hiçbir Şey Yapamaz!\"",
-    "source": "YouTube",
-    "time": "07/10/2026 21:17",
-    "link": "https://www.youtube.com/watch?v=cv554x-Ye1Q",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: cv554x-Ye1Q)",
-    "image": "https://img.youtube.com/vi/cv554x-Ye1Q/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
-  },
-  {
-    "id": "YRL_ff8f5471",
-    "title": "Trabzonspor Basketbol'dan Avrupa'da tarihi başlangıç!",
-    "source": "Kuzey Ekspres",
-    "time": "07/10/2026 21:17",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28945151/trabzonspor-basketboldan-avrupada-tarihi-baslangic",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Basketbol Takımı, kulüp tarihinde ilk kez boy gösterdiği Basketbol Şampiyonlar Ligi’ne zaferle adım attı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/07/large/asket.webp",
-    "keyword": ""
-  },
-  {
-    "id": "GND_73d2db27",
-    "title": "Avrupa'da Türkiye üzerinden kara para aklayan örgüte operasyon",
-    "source": "Evrensel",
-    "time": "07/10/2026 21:17",
-    "link": "https://www.evrensel.net/haber/6003910/avrupada-turkiye-uzerinden-kara-para-aklayan-orgute-operasyon",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Almanya ve Hollanda’da, altın kaçakçılığı yoluyla suç gelirlerini akladığı iddia edilen Türkiye bağlantılı bir ağa operasyon düzenlendi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/365492.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_29994bd4",
-    "title": "🗣️ PUTİN ŞOKTA! Fransa Lideri Macron Nükleer Denizaltıdan Dev Füzeyi Böyle Ateşledi!",
-    "source": "YouTube",
-    "time": "07/10/2026 21:17",
-    "link": "https://www.youtube.com/watch?v=XLeYw2biCOE",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: XLeYw2biCOE)",
-    "image": "https://img.youtube.com/vi/XLeYw2biCOE/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
-  },
-  {
-    "id": "YRL_2e2cdbed",
-    "title": "Trabzonspor’da Samsunspor Maçı Öncesi Dikkat Çeken Gelişme: Antrenmana O İsim de Katıldı",
-    "source": "Taka Gazetesi",
-    "time": "07/10/2026 21:17",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-samsunspor-maci-oncesi-dikkat-ceken-gelisme-antrenmana-o-isim-de-katildi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, Samsunspor deplasmanı öncesinde hazırlıklarını sürdürürken Mehmet Ali Yılmaz Tesisleri’ndeki son antrenmanda yaşanan gelişme dikkat çekti. Bordo-Mavililerde milli takımlardan dönen isimlerin çalışmalara katılması teknik heyetin elini güçlendirdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/firtinada-surpriz-antrenman-goruntusu.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_f0112200",
-    "title": "Haklı Fesihte 6 İş Günü Ayrıntısı: Süre Tazminatı Nasıl Etkiliyor?",
-    "source": "Taka Gazetesi",
-    "time": "07/10/2026 21:17",
-    "link": "https://www.takagazete.com.tr/hakli-fesihte-6-is-gunu-ayrintisi-sure-tazminati-nasil-etkiliyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Haklı fesih hakkını kullanmak için geçerli neden tek başına yetmiyor. Altı iş günü ve bir yıllık sınır, işçi ile işveren açısından kritik önem taşıyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/hakli-fesihte-6-is-gunu-m-a-n-s-e-t.png",
-    "keyword": ""
   }
 ]
