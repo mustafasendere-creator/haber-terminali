@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_2bc7ff26",
+    "title": "Yener İnce'den Osimhen sözleri",
+    "source": "OdaTV",
+    "time": "08/10/2026 03:58",
+    "link": "https://www.odatv.com/spor/yener-inceden-osimhen-sozleri-120165711",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Galatasaray Kulüp Doktoru Yener İnce, sakatlığı bulunan oyuncuların tedavi süreçlerine değinirken, basında çıkan asılsız iddialara da tepki gösterdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/08/yener-inceden-osimhen-sozleri-fjti.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a543cb5d",
+    "title": "Otomobil taksiye çarptı: 1 ölü, 2 yaralı",
+    "source": "Habertürk",
+    "time": "08/10/2026 03:57",
+    "link": "https://www.haberturk.com/gundem/kagithane-de-otomobil-taksiye-carpti-1-olu-2-yarali-3918033",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Kağıthane'de taksiyle çarpışan otomobilin sürücüsü hayatını kaybetti, yaralanan 2 kişi hastaneye kaldırıldı",
+    "image": "https://im.haberturk.com/l/2026/10/08/ver1791420546/3918033/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_5f7663fc",
+    "title": "Bandırma'da yağ fabrikasında yangın",
+    "source": "Haber Global",
+    "time": "08/10/2026 03:57",
+    "link": "https://haberglobal.com/gundem/bandirmada-yag-fabrikasinda-yangin-547697",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir Bandırma'da faaliyet gösteren yağ fabrikasında çıkan yangına ekiplerin müdahalesi sürüyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/08/bandirmada-yag-fabrikasinda-yangin-iblf.jpg",
+    "keyword": ""
+  },
+  {
     "id": "SOC_c2de0a10",
     "title": "🗣️ @sondakikamm.bsky.social",
     "source": "Bluesky",
@@ -4761,42 +4797,6 @@
     "prefix": "🔴 ▶️",
     "summary": "📺 TRABZON | YouTube Video (ID: rKBzg1rnYYM)",
     "image": "https://img.youtube.com/vi/rKBzg1rnYYM/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_2e2cdbed",
-    "title": "Trabzonspor’da Samsunspor Maçı Öncesi Dikkat Çeken Gelişme: Antrenmana O İsim de Katıldı",
-    "source": "Taka Gazetesi",
-    "time": "07/10/2026 21:18",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-samsunspor-maci-oncesi-dikkat-ceken-gelisme-antrenmana-o-isim-de-katildi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Samsunspor deplasmanı öncesinde hazırlıklarını sürdürürken Mehmet Ali Yılmaz Tesisleri’ndeki son antrenmanda yaşanan gelişme dikkat çekti. Bordo-Mavililerde milli takımlardan dönen isimlerin çalışmalara katılması teknik heyetin elini güçlendirdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/firtinada-surpriz-antrenman-goruntusu.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_5d6de867",
-    "title": "İçişleri Bakan Yardımcısı'ndan fon soruşturması açıklaması: 'Üzgünüz, yorgunuz ama daha doğrusu kırgınız'",
-    "source": "Cumhuriyet",
-    "time": "07/10/2026 21:18",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakan-yardimcisi-ndan-fon-sorusturmasi-aciklamasi-uzgunuz-yorgunuz-ama-daha-dogrusu-kirginiz-2544660",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakan Yardımcısı Bülent Turan, fon soruşturmalarına ilişkin,“Üzgünüz, yorgunuz ama daha doğrusu kırgınız. Yapanın yanına kâr kalmayan bir süreci hep beraber yaşayacağız” dedi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/dde833f2-27e9-4ed6-b039-27bb0bc73bf2.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_7a16b949",
-    "title": "🗣️ #trabzon #köyhayatı #fındıkfiyatları #cok üzüldük",
-    "source": "YouTube",
-    "time": "07/10/2026 21:18",
-    "link": "https://www.youtube.com/watch?v=R1ZPVI2OzME",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: R1ZPVI2OzME)",
-    "image": "https://img.youtube.com/vi/R1ZPVI2OzME/hqdefault.jpg",
     "keyword": "TRABZON"
   }
 ]
