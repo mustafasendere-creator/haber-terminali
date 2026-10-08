@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_7d951b1c",
+    "title": "Astronotlar Antalya'da öğrencilerle buluştu",
+    "source": "TRT Haber",
+    "time": "08/10/2026 03:17",
+    "link": "https://www.trthaber.com/haber/bilim-teknoloji/astronotlar-antalyada-ogrencilerle-bulustu-959470.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "77. Uluslararası Uzay Kongresi için Antalya'ya gelen astronotlar, Aksu Uçak Bakım Teknolojisi Mesleki ve Teknik Anadolu Lisesi öğrencileriyle bir araya geldi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_136ce5ad",
+    "title": "Kağıthane'de otomobil ile taksi çarpıştı: 1 ölü, 2 yaralı",
+    "source": "TRT Haber",
+    "time": "08/10/2026 03:17",
+    "link": "https://www.trthaber.com/haber/turkiye/kagithanede-otomobil-ile-taksi-carpisti-1-olu-2-yarali-959471.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Kağıthane ilçesinde otomobil ile taksinin çarpışması sonucu 1 kişi öldü, 2 kişi yaralandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_b6cd3f6f",
     "title": "'Trafiğin Ablası'ndan acı haber",
     "source": "OdaTV",
@@ -4774,29 +4798,5 @@
     "summary": "Trabzonspor’un Samsunspor hazırlıklarına Muhammed Salah, Chibuike Nwaiwu, Mustafa Eskihellaç ve Melih Kabasakal da millî dönüşü katıldı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/10/07/large/gece-antrenmaninda-dort-oyuncunun-donusu.webp",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_68caa91d",
-    "title": "Trabzonspor Avrupa’ya zaferle başladı! Nanterre’yi uzatmada devirdi",
-    "source": "Günebakış",
-    "time": "07/10/2026 21:18",
-    "link": "https://www.gunebakis.com.tr/trabzonspor-avrupaya-zaferle-basladi-nanterreyi-uzatmada-devirdi/28945141",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Basketbol Şampiyonlar Ligi A Grubu’ndaki ilk maçında Nanterre 92’yi uzatmaya giden mücadelede 93-83 mağlup etti.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/10/07/large/trabzonsporun-avrupa-zaferi.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_e6e43203",
-    "title": "Kayseri'de zincirleme trafik kazası: 1 ölü, 15 yaralı",
-    "source": "TRT Haber",
-    "time": "07/10/2026 21:18",
-    "link": "https://www.trthaber.com/haber/turkiye/kayseride-zincirleme-trafik-kazasi-1-olu-15-yarali-959455.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayserinin Develi ilçesinde, iki işçi servisi ile bir iş makinesinin karıştığı trafik kazasında 1 kişi hayatını kaybetti, 15 kişi yaralandı.",
-    "image": null,
-    "keyword": ""
   }
 ]
