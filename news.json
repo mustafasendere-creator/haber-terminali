@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_2ea970ae",
+    "title": "İstanbul'da 7 katlı bina kısmen çöktü: 1 kişi aranıyor",
+    "source": "TRT Haber",
+    "time": "09/10/2026 03:37",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-7-katli-bina-kismen-coktu-1-kisi-araniyor-959568.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Maltepe'de kısmi çökme sonucu 2 kişinin hayatını kaybettiği, 10 kişinin yaralı kurtarıldığı 7 katlı binanın enkazında iki kişinin daha cansız bedenine ulaşıldı. Olayda hayatını kaybedenlerin sayısı 4'e yükselirken, enkazda bulunduğu değerlendirilen 1 kişiyi arama çalışmaları devam ediyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_07c9b03b",
+    "title": "Manisa'da bir evde yangın çıktı: Fenalaşan ev sahibi hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "09/10/2026 03:37",
+    "link": "https://www.trthaber.com/haber/turkiye/manisada-bir-evde-yangin-cikti-fenalasan-ev-sahibi-hayatini-kaybetti-959585.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisa'nın Kula ilçesinde bir evde çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Yangın nedeniyle fenalaşarak hastaneye kaldırılan ev sahibi yapılan müdahalelere rağmen hayatını kaybetti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_81aa3d9b",
     "title": "Kadıköy'de silahla havaya 6 el ateş eden F.Ü., polis iknasıyla gözaltına alındı. - Son Dakika",
     "source": "Google Haberler",
@@ -4774,29 +4798,5 @@
     "summary": "AK Parti Trabzon Milletvekili Vehbi Koç, Of İrfanlı Mahallesi’nde yapılması planlanan 24 derslikli ilkokul projesinin 2026 yılı yatırım programına alındığını açıkladı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/08/large/ak-parti-trabzon-milletvekili-vehbi-koctan-ofa-okul-mujdesi6.jpg",
     "keyword": ""
-  },
-  {
-    "id": "GND_8ce7581e",
-    "title": "Galatasaray'dan ilginç paylaşım: Sinan sen ne yaptın…",
-    "source": "Haber Global",
-    "time": "08/10/2026 21:18",
-    "link": "https://haberglobal.com/spor/galatasaraydan-ilginc-paylasim-sinan-sen-ne-yaptin-547853",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray Kulübü'nün sosyal medyadan yaptığı \"Sinan sen ne yaptın…\" paylaşımının anlamı daha sonrasında anlaşıldı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/10/08/galatasaraydan-ilginc-paylasim-sinan-sen-ne-yaptin-y5kv.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_1982acc6",
-    "title": "Trabzonlu Ahmet Muhammet İnan’ın cenazesi teslim edildi",
-    "source": "61 Saat",
-    "time": "08/10/2026 21:18",
-    "link": "https://www.61saat.com/trabzonlu-ahmet-muhammet-inanin-cenazesi-teslim-edildi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "İstanbul Maltepe’de 7 katlı binanın 3 katının çökmesi sonucu hayatını kaybeden Trabzonlu Ahmet Muhammet İnan’ın cenazesi, otopsi işlemlerinin ardından ailesine teslim edildi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/10/a-67.png",
-    "keyword": "TRABZON"
   }
 ]
