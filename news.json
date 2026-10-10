@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_aa357a20",
+    "title": "Kuzey Marmara Otoyolu'nda feci kaza: Araçtan savrulan sürücü hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "10/10/2026 04:57",
+    "link": "https://www.trthaber.com/haber/turkiye/kuzey-marmara-otoyolunda-feci-kaza-aractan-savrulan-surucu-hayatini-kaybetti-959706.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Başakşehir'de önce bariyerlere ardından otomobile çarpan hafif ticari aracın sürücüsü, çarpmanın şiddetiyle yola savrularak olay yerinde hayatını kaybetti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_c33c0f96",
+    "title": "Beyoğlu'nda taksiye çarpan otomobil park halindeki kamyonetin altına girdi: 3 yaralı",
+    "source": "TRT Haber",
+    "time": "10/10/2026 04:57",
+    "link": "https://www.trthaber.com/haber/turkiye/beyoglunda-taksiye-carpan-otomobil-park-halindeki-kamyonetin-altina-girdi-3-yarali-959707.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Beyoğlu'nda taksiye arkadan çarpan otomobil, park halindeki bir kamyonetin altına girdi. Kazada otomobilde sıkışan 3 kişi yaralandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "SOC_22b41e00",
     "title": "🗣️ Trabzon Pidesi ve Köfte Denedik! | Beni Yemeğe Götür 5. Bölüm",
     "source": "YouTube",
@@ -4773,30 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzonspor'da Umut Nayir ile yolların ayrılması ihtimali bulunuyor. Bordo Mavili ekipte hücum hattındaki kontenjanda rahatlamaya gidilip verimlilik esaslı transferler düşünülüyor. Nayir, Konyaspor'daki performansının gerisinde kaldı...",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/10/09/large/trabzonsporda-ayrilik-bileti-1791569485.webp",
-    "keyword": ""
-  },
-  {
-    "id": "GND_8731e2b0",
-    "title": "Uzayda 10,6 milyar yıl öteden gelen bir sinyal yakalandı",
-    "source": "Euronews",
-    "time": "09/10/2026 21:17",
-    "link": "https://tr.euronews.com/2026/10/09/uzayda-106-milyar-yil-oteden-gelen-bir-sinyal-yakalandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bilim insanları, evrenin henüz 3 milyar yaşında olduğu dönemde ortaya çıkan güçlü bir radyo sinyali tespit etti. Dünya'ya ulaşması 10 milyar yıldan uzun süren sinyal, bugüne kadar kaynağı belirlenebilen en uzak hızlı radyo patlaması olarak kayıtlara geçti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_652c02a1",
-    "title": "Yapay zeka şirketlerinin 'felaket' hazırlığı yaptığı iddia edildi: '6 ila 12 ayda yaşanabilir'",
-    "source": "Euronews",
-    "time": "09/10/2026 21:17",
-    "link": "https://tr.euronews.com/2026/10/09/yapay-zeka-sirketlerinin-felaket-hazirligi-yaptigi-iddia-edildi-6-ila-12-ayda-yasanabilir",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yapay zeka sektörünün önde gelen isimleri, finans sistemlerini, internet bağlantılarını veya elektrik ve su altyapısını devre dışı bırakabilecek büyük çaplı bir siber saldırıdan endişe ediyor. Temsilciler tatbikat hazırlığında.",
-    "image": null,
     "keyword": ""
   }
 ]
