@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_2b8ec9f3",
+    "title": "12 Gündür kayıptı: Şanlıurfa'da bulundu",
+    "source": "OdaTV",
+    "time": "11/10/2026 01:38",
+    "link": "https://www.odatv.com/guncel/12-gundur-kayipti-sanliurfada-bulundu-120166126",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman'da 12 gün önce kaybolan 16 yaşındaki Elvan Yücetaş, polis ekiplerinin yürüttüğü titiz çalışmalar sonucunda Şanlıurfa'da bulundu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/11/12-gundur-kayipti-sanliurfada-bulundu-od3w.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6a371995",
+    "title": "23 günlük bilanço: BIST 100 yüzde 6,53, BIST 30 yüzde 3,63 geriledi",
+    "source": "Ekonomim",
+    "time": "11/10/2026 01:37",
+    "link": "https://www.ekonomim.com/gundem/23-gunluk-bilanco-bist-100-yuzde-653-bist-30-yuzde-363-geriledi-haberi-923901",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fon soruşturmasının gündemde olduğu 16 Eylül–9 Ekim 2026 döneminde Borsa İstanbul'da düşüş sürdü. BIST 100 endeksi 856,60 puan kaybederek yüzde 6,53, BIST 30 endeksi ise 570,77 puan gerileyerek yüzde 3,63 değer kaybetti. Merkezi Kayıt Kuruluşu'nun (MKK) eylül ayı verilerine dayanan rakamlar ise pay senedi portföy değerinde ağustos sonuna kıyasla 5,33 trilyon TL'lik azalmaya işaret etti. 9 Ekim'e kadar olan düşüş dikkate alındığında kayıp miktarının 6,5 trilyon TL'yi aşacağı tahmin ediliyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/16/likidite-sikisikligi-borsa-istanbulu-ters-duz-etti-0lxw_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_554c5505",
+    "title": "Oryantiringde uluslararası başarıların temeli altyapıda atılıyor",
+    "source": "Anadolu Ajansı",
+    "time": "11/10/2026 01:37",
+    "link": "https://www.aa.com.tr/tr/spor/oryantiringde-uluslararasi-basarilarin-temeli-altyapida-atiliyor/4084797",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye Oryantiring Federasyonu Başkanı Atilla Güler, uluslararası yarışmalarda elde edilen başarıların sürdürülebilir hale getirilmesi için altyapı çalışmalarına ağırlık verdiklerini belirterek \"Geleceğin milli takımını hazırlıyoruz.\" dedi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_f7aee0a1",
+    "title": "Hiperaktivite tanısı konulan çocuk yönlendirildiği boksta Türkiye şampiyonu oldu",
+    "source": "Anadolu Ajansı",
+    "time": "11/10/2026 01:37",
+    "link": "https://www.aa.com.tr/tr/spor/hiperaktivite-tanisi-konulan-cocuk-yonlendirildigi-boksta-turkiye-sampiyonu-oldu/4084804",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Siirt'te hiperaktivite tanısı konulan 14 yaşındaki Berat Yıldırım, babasının yönlendirmesiyle başladığı boksta altın madalyanın sahibi oldu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_45912744",
+    "title": "Erzurum'da 17 yıllık ortalamaya göre eylülde sıcaklık arttı, yağış yaklaşık yüzde 47 azaldı",
+    "source": "Anadolu Ajansı",
+    "time": "11/10/2026 01:37",
+    "link": "https://www.aa.com.tr/tr/gundem/erzurumda-17-yillik-ortalamaya-gore-eylulde-sicaklik-artti-yagis-yaklasik-yuzde-47-azaldi/4084803",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum'da bu yıl eylül ayında hava sıcaklıkları uzun yıllar ortalamasına göre 0,3 derece arttı, yağış miktarı ise yaklaşık yüzde 47 azaldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_918b79f5",
     "title": "Prof. Dr. Orhan Şen'den Türkiye İçin Süper El Niño Uyarısı - Taka Gazete",
     "source": "Google Haberler",
@@ -4736,66 +4796,6 @@
     "type": "YRL",
     "prefix": "🌊",
     "summary": "Mohamed Salah, Süper Lig’de sezonun ilk 7 maçında 7 gol ve 3 asist üreterek toplam 10 gole katkı sağladı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_d4328517",
-    "title": "Trabzonspor yenilgisi sonrası Fink’ten ayrılık sorusuna yanıt",
-    "source": "Haber61",
-    "time": "10/10/2026 20:17",
-    "link": "https://www.haber61.net/trabzonspor/trabzonspor-yenilgisi-sonrasi-fink-ten-ayrilik-sorusuna-yanit/645861",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Samsunspor Teknik Direktörü Thorsten Fink, Trabzonspor’a 3-0 mağlup oldukları maçın ardından takımını ayağa kaldıracağına inandığını belirterek, “Ben bir savaşçıyım” dedi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_0f0af7cf",
-    "title": "Galatasaray Kulübünün yıllık olağan genel kurul toplantısı sona erdi",
-    "source": "Anadolu Ajansı",
-    "time": "10/10/2026 20:17",
-    "link": "https://www.aa.com.tr/tr/spor/galatasaray-kulubunun-yillik-olagan-genel-kurul-toplantisi-sona-erdi/4084649",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray Kulübünde Dursun Özbek başkanlığındaki yönetim kurulu, 1 Haziran 2025-31 Mayıs 2026 dönemindeki faaliyetlerinden dolayı ibra edildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_96dffb79",
-    "title": "İYV Başkanı Necmeddin Bilal Erdoğan, Türkiye'nin çok daha güçlü olduğunu belirtti",
-    "source": "Anadolu Ajansı",
-    "time": "10/10/2026 20:17",
-    "link": "https://www.aa.com.tr/tr/gundem/iyv-baskani-necmeddin-bilal-erdogan-turkiyenin-cok-daha-guclu-oldugunu-belirtti/4084653",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İlim Yayma Vakfı (İYV) Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Türkiye'nin artık 25 yıl önceki Türkiye olmadığını, daha güçlü bir Türkiye olduğunu söyledi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_c3fc4163",
-    "title": "Bakan Kacır: IAC 2026, bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi oldu",
-    "source": "Anadolu Ajansı",
-    "time": "10/10/2026 20:17",
-    "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-iac-2026-bugune-kadarki-en-buyuk-ve-en-gorkemli-uluslararasi-uzay-kongresi-oldu/4084656",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sanayi ve Teknoloji Bakanı Kacır, 77. Uluslararası Uzay Kongresi'nin (IAC 2026) bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi olduğunu bildirdi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_0ec5108d",
-    "title": "Nobel Barış Ödülü sahibi Pillay, ABD'nin UCM'ye yaptırımlarının \"kabul edilemez\" olduğunu söyledi",
-    "source": "Anadolu Ajansı",
-    "time": "10/10/2026 20:17",
-    "link": "https://www.aa.com.tr/tr/dunya/nobel-baris-odulu-sahibi-pillay-abdnin-ucmye-yaptirimlarinin-kabul-edilemez-oldugunu-soyledi/4084669",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Nobel Barış Ödülü'nü alan Güney Afrikalı hukukçu Navanethem Navi Pillay, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yaptırım uygulama kararının \"kabul edilemez\" olduğunu belirtti.",
     "image": null,
     "keyword": ""
   }
