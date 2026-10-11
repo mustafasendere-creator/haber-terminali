@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_0e43420e",
+    "title": "Nepal'de yine felaket anları",
+    "source": "OdaTV",
+    "time": "12/10/2026 01:58",
+    "link": "https://www.odatv.com/guncel/nepalde-yine-felaket-anlari-120166223",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Nepal’in Gorkha bölgesinde heyelan sonrası meydana gelen sel çok sayıda evi ve köprüyü sürüklerken, 5 kişi kayboldu, 49 kişi kurtarıldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/nepalde-yine-felaket-anlari-cecq.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c93ce708",
+    "title": "'Bir büyükşehir daha AK Parti'ye geçecek' denmişti... O kent kendini belli etti",
+    "source": "Ekonomim",
+    "time": "12/10/2026 01:57",
+    "link": "https://www.ekonomim.com/gundem/bir-buyuksehir-daha-ak-partiye-gececek-denmisti-o-kent-kendini-belli-etti-haberi-924048",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın’ın, bir büyükşehir belediyesinin daha AK Parti’ye geçeceğini açıklamasının ardından gözler İzmir Büyükşehir Belediye Başkanı Cemal Tugay'ın sonrasında hangi başkanın AK Parti'ye geçeceğine çevrilmişti. Son kulis ile AK Parti'ye geçecek başkan ve ne zaman geçeceği söylendi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/12/bir-buyuksehir-daha-ak-partiye-gececek-denmisti-o-kent-kendini-belli-etti-pfvt_cover.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_5854525a",
     "title": "Hindistan uçağında yangın paniği",
     "source": "OdaTV",
@@ -4774,29 +4798,5 @@
     "summary": "Malta bayraklı gemi makine arızası nedeniyle Kanlıca önlerinde sürüklendi. Bu nedenle Boğaz trafiği çift yönlü olarak askıya alındı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/7bfabe8f-a285-4cf4-b3b8-0415d2d4d9b5.jpg",
     "keyword": ""
-  },
-  {
-    "id": "TKP_73c2beab",
-    "title": "1461 Trabzon Bursa'da son anda kurtardı!",
-    "source": "61 Saat",
-    "time": "11/10/2026 20:38",
-    "link": "https://www.61saat.com/1461-trabzon-bursada-son-anda-kurtardi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "TFF 2. Lig Kırmızı Grup'un 6. haftasında 1461 Trabzon FK, deplasmanda karşılaştığı Karacabey Belediyespor ile 2-2 berabere kaldı. Bordo-mavililer, 89. dakikada bulduğu golle Bursa deplasmanından 1 puan çıkardı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/10/5a1bc516-b632-41fb-8ed5-0b8ffe12f0ba.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_24b2dd5e",
-    "title": "Trabzon Barosu Başkanını belirliyor!",
-    "source": "Haber61",
-    "time": "11/10/2026 20:38",
-    "link": "https://www.haber61.net/trabzon/trabzon-barosu-baskanini-belirliyor/645933",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon Barosu’nda yeni başkanın belirleneceği seçimlerde 1.663 avukattan 926’i oy kullandı. Mevcut Başkan Hakan Orhan ile Mustafa Çağrı Yayla’nın yarıştığı seçimde gözler sandıklardan çıkacak sonuçlara çevrildi.",
-    "image": null,
-    "keyword": "TRABZON"
   }
 ]
