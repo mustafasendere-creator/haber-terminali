@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_8c7df3fb",
+    "title": "Zelenskiy Trump'a şart koştu",
+    "source": "OdaTV",
+    "time": "12/10/2026 02:38",
+    "link": "https://www.odatv.com/guncel/zelenskiy-trumpa-sart-kostu-120166225",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Devlet Başkanı Vladimir Zelenskiy, Rusya ile 60 günlük bir ateşkes konusunda anlaşmaya varılması halinde ülkede seçim düzenleyebileceklerini belirtti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/10/zelenskiyden-cilgin-teklif-turkiye-de-listede-5epc.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_687c3adf",
+    "title": "Küçükçekmece'de yıkılan bina çöktü",
+    "source": "OdaTV",
+    "time": "12/10/2026 02:38",
+    "link": "https://www.odatv.com/guncel/kucukcekmecede-yikilan-bina-coktu-120166226",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Küçükçekmece'de kentsel dönüşüm kapsamında yıkımı gerçekleştirilen 7 katlı binanın çökme anı, cep telefonu kamerasına yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/kucukcekmecede-yikilan-bina-coktu-g6hm.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_cd70b9ba",
+    "title": "Jandarma Genel Komutanlığına 135 muvazzaf subay alınacak",
+    "source": "Habertürk",
+    "time": "12/10/2026 02:37",
+    "link": "https://www.haberturk.com/gundem/jandarma-genel-komutanligina-135-muvazzaf-subay-alinacak-3918965",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Jandarma Genel Komutanlığı bünyesinde istihdam edilmek üzere 135 muvazzaf subay alınacak. Başvurular 12–26 Ekim 2026 tarihleri arasında Jandarma ve Sahil Güvenlik Akademisi Başkanlığı Personel Temin Sistemi üzerinden e-Devlet aracılığıyla yapılacak. Tabip ve diş tabibi branşlarında KPSS ve ALES şartı aranmayacak",
+    "image": "https://im.haberturk.com/l/2026/10/12/ver1791761015/3918965/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_df5519d3",
+    "title": "Kayseri'de otomobille çarpışan motosiklet sürücüsü ağır yaralandı",
+    "source": "Haber Global",
+    "time": "12/10/2026 02:37",
+    "link": "https://haberglobal.com/gundem/kayseride-otomobille-carpisan-motosiklet-surucusu-agir-yaralandi-548261",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri Melikgazi'de otomobille çarpışan motosikletin sürücüsü ağır yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/12/kayseride-otomobille-carpisan-motosiklet-surucusu-agir-yaralandi-gy1o.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a56b0ec0",
+    "title": "Riyad'daki Kral Halid Havalimanı'na yönelik dünkü saldırıda 1 kişi öldü, 11 kişi yaralandı",
+    "source": "TRT Haber",
+    "time": "12/10/2026 02:37",
+    "link": "https://www.trthaber.com/haber/dunya/riyaddaki-kral-halid-havalimanina-yonelik-dunku-saldirida-1-kisi-oldu-11-kisi-yaralandi-959841.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Sivil Havacılık Genel Kurulu GACA, Riyad'daki Kral Halid Uluslararası Havalimanı'nı hedef alan saldırıda 1 kişinin hayatını kaybettiğini, 11 kişinin yaralandığını açıkladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_16d327c3",
     "title": "Türkiye'nin Zincir Market Tablosu: BİM Satışta Zirveye Yerleşti - Taka Gazete",
     "source": "Google Haberler",
@@ -4736,66 +4796,6 @@
     "type": "SOC",
     "prefix": "🔵 🦋",
     "summary": "Motorcycle Accident in Trabzon’s Akçaabat District: Rider Killed A motorcyclist lost their life in a traffic accident at the entrance to Sera Lake in the Yıldızlı neighborhood of Akçaabat, Trabzon, after reportedly being hit by another vehicle.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_93f604cf",
-    "title": "Trabzonspor’un rakibi KuPS üst üste ikinci kez kaybetti",
-    "source": "61 Saat",
-    "time": "11/10/2026 20:38",
-    "link": "https://www.61saat.com/trabzonsporun-rakibi-kups-ust-uste-ikinci-kez-kaybetti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un UEFA Konferans Ligi’ndeki rakibi KuPS, Finlandiya Veikkausliiga Şampiyonluk Grubu’nda FC Inter deplasmanında 1-0 mağlup oldu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/10/ps.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_4886e865",
-    "title": "🗣️ @hukukihabernet.bsky.social",
-    "source": "Bluesky",
-    "time": "11/10/2026 20:38",
-    "link": "https://bsky.app/profile/hukukihabernet.bsky.social/post/3mxmi5viguk2j",
-    "type": "SOC",
-    "prefix": "🔵 🦋",
-    "summary": "Trabzon Barosu Başkanlığına Hakan Orhan yeniden seçildi www.hukukihaber.net/trabzon-baro...",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_536ecc7a",
-    "title": "BM: Cibuti açıklarındaki gemi kazasında 139 kişi hayatını kaybetti, 84 kişi kayıp",
-    "source": "Independent",
-    "time": "11/10/2026 20:38",
-    "link": "https://www.indyturk.com/node/783701/d%C3%BCnya/bm-cibuti-a%C3%A7%C4%B1klar%C4%B1ndaki-gemi-kazas%C4%B1nda-139-ki%C5%9Fi-hayat%C4%B1n%C4%B1-kaybetti-84-ki%C5%9Fi-kay%C4%B1p",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), Cibuti açıklarında meydana gelen gemi kazasında hayatını kaybedenlerin sayısının 139'a yükseldiğini, kayıp sayısının ise 84 olduğunu belirtti. IOM tarafından yapılan yazılı açıklamada, Cibuti açıklarında 305 kişiyi taşıyan bir teknenin alabora olduğu aktarıldı. Kazada 139 kişinin hayatını kaybettiği, 84 kişinin de kayıp olduğu bildirilen açıklamada, kazanın Cibuti açıklarında meydana gelen \"en ölümcül kaza\" olduğu kaydedildi. Açıklamada, kayıpların bulunamamasına ilişkin endişelerin arttığı, Cibutili yetkililerinin arama ve kurtarma çalışmalarına devam ettiği belirtildi. Yerel yetkililerin hayatta kalanlara tıbbi bakım sağladığı bildirilen açıklamada, hayatını kaybedenler için saygın cenaze törenlerinin düzenlendiği bilgisi paylaşıldı. Açıklamada görüşlerine yer verilen IOM Cibuti Misyon Şefi Alexandre Coissac, \"Bu, yıkıcı bir can kaybı\" ifadesini kullandı. fazla oku Bu bölüm, konuyla ilgili referans noktalarını içerir. (Related Nodes field) Hayatta kalanlar ve sevdiklerini kaybeden veya akrabalarından haber alamayan ailelerle dayanışma içerisinde olduklarını belirten Coissac, \"Ekiplerimiz, acil yardım sağlamak için yerel yetkililerle birlikte sahada bulunuyor. Bu trajedi, ekonomik fırsatlar arayan göçmenlerin bu göç koridorunda karşılaştığı tehlikelerin acı bir hatırlatıcısıdır.\" değerlendirmesinde bulundu. IOM'den daha sonra yapılan açıklamada, alabora olan teknenin 9 Ekim gecesi Cibuti'den Yemen'e doğru 305 kişiyle yola çıktığını ve arama kurtarma çalışmalarının devam ettiği kaydedildi. Açıklamada, söz konusu kazanın Afrika Boynuzu ülkelerinden düzensiz göçmenlerin, Aden Körfezi veya Kızıldeniz’i geçerek Yemen üzerinden Körfez ülkelerine ulaşmaya çalıştığı tehlikeli göç güzergahı olan Doğu Rotası'nda kaydedilen en ölümcül gemi kazalarından biri olduğu aktarıldı. Açıklamada görüşlerine yer verilen IOM Genel Direktörü Amy Pope, \"Kimse başka güvenli bir yol olmadığına inanmadıkça böyle bir tekneye binmez. Bu ölümleri normalmiş gibi ele almaya devam edemeyiz. Güvenli ve yasal yollar hayat kurtarır\" yorumunda bulundu. Pope, hükümetlere ve bağışçılara bir sonraki tekne batmadan önce harekete geçmelerini çağrısında da bulundu. IOM daha önceki açıklamasında, kazada 109 kişinin hayatını kaybettiğini, 116'dan fazla kişinin de kayıp olduğunu bildirmişti. AA CİBUTİ Teknede 305 kişinin bulunduğu açıklandı Pazar, Ekim 11, 2026 - 20:30 Main image: Fotoğraf: X Dünya related nodes: DSP Genel Başkanı Aksakal: Sayın Bahçeli'nin yeniden ve ısrarla gündeme getirdiği konu kabul edilebilir değildir CHP Sözcüsü Sarı: Çok rahat kazanmamız gereken seçimi ucu ucuna ve zorla kazanıyoruz YENİ Parti Genel Başkanı Özel: Bu millet sandıktan çıkan iradesini kimseye teslim etmeyecek Type: news SEO Title: BM: Cibuti açıklarındaki gemi kazasında 139 kişi hayatını kaybetti, 84 kişi kayıp copyright Independentturkish:",
-    "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/11/1381528-503329086.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_142a6dc5",
-    "title": "Nuri Şahin’e Trabzonspor üzerinden sert soru! “İlahi adalet mi?”",
-    "source": "61 Saat",
-    "time": "11/10/2026 20:38",
-    "link": "https://www.61saat.com/nuri-sahine-trabzonspor-uzerinden-sert-soru-ilahi-adalet-mi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Başakşehir Teknik Direktörü Nuri Şahin, Konyaspor maçının ardından düzenlenen basın toplantısında Trabzonspor’un Türkiye Kupası şampiyonluğu üzerinden yöneltilen dikkat çekici bir soruyla karşılaştı. Konya basınından gelen “İlahi adalet olarak yorumlayabilir miyiz?” sorusuna Şahin’den yanıt geldi.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/10/de58fd57-9c33-4bbe-bd0f-fa6743fdc519.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_1d420de3",
-    "title": "🗣️ @liberaltrhaber.bsky.social",
-    "source": "Bluesky",
-    "time": "11/10/2026 20:38",
-    "link": "https://bsky.app/profile/liberaltrhaber.bsky.social/post/3mxmiv442wc26",
-    "type": "SOC",
-    "prefix": "🔵 🦋",
-    "summary": "Karacabey Belediyespor ile 1461 Trabzon FK 2-2 berabere kaldı Karacabey Belediyespor ile 1461 Trabzon FK 2-2 berabere kaldı: maç özeti, kilit anlar ve takım değerlendirmeleri profesyonel bakışla.",
     "image": null,
     "keyword": "TRABZON"
   }
