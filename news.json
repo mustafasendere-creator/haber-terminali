@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_dc7e2a10",
+    "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti",
+    "source": "BBC Türkçe",
+    "time": "13/10/2026 02:37",
+    "link": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Serebral palsiyle yaşayan Mitte, Emmy ödüllü drama dizisinde Walter White Jr. rolünü canlandırıyordu",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_3ff29099",
+    "title": "İsrail bir uçağa Endonezyalı mürettebat bulundurduğu gerekçesiyle iniş izni vermedi",
+    "source": "Anadolu Ajansı",
+    "time": "13/10/2026 02:37",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-bir-ucaga-endonezyali-murettebat-bulundurdugu-gerekcesiyle-inis-izni-vermedi/4086695",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in, mürettebatında diplomatik ilişkisi bulunmayan Endonezyalı bir kişi bulundurduğu gerekçesiyle Etiyopya'dan kalkan bir uçağa ülkeye iniş izni vermediği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_d898ad92",
     "title": "17 milyon liralık dolandırıcılık soruşturmasında 26 tutuklama",
     "source": "OdaTV",
@@ -4774,29 +4798,5 @@
     "summary": "📺 TRABZON | YouTube Video (ID: z6bab-g3Ad4)",
     "image": "https://img.youtube.com/vi/z6bab-g3Ad4/hqdefault.jpg",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_8c838e60",
-    "title": "Trabzonspor'un net borcu: 2,9 milyar TL",
-    "source": "Ekonomim",
-    "time": "12/10/2026 21:18",
-    "link": "https://www.ekonomim.com/sirketler/trabzonsporun-net-borcu-29-milyar-tl-haberi-924218",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, 1 Haziran-31 Ağustos 2026 dönemine ilişkin mali tablolarını Kamuyu Aydınlatma Platformu’nda (KAP) açıkladı. Bordo-mavili kulüp, açıklamasında 31 Ağustos 2026 itibarıyla net borcunun 2,9 milyar TL olduğunu bildirdi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2025/12/15/trabzonspor-temettu-kararini-acikladi-hrji_cover.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_6568dabd",
-    "title": "Sakarya'da 3 aracın karıştığı kazada 2 kişi öldü, 3 kişi yaralandı",
-    "source": "Haber Global",
-    "time": "12/10/2026 21:18",
-    "link": "https://haberglobal.com/yasam/sakaryada-3-aracin-karistigi-kazada-2-kisi-oldu-3-kisi-yaralandi-548373",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Sakarya’nın Geyve ilçesinde meyve yüklü traktör, hafif ticari araç ve tırın karıştığı trafik kazasında 2 kişi hayatını kaybetti, 3 kişi yaralandı. Hayatını kaybeden traktör sürücüsünün AK Parti Geyve ilçe yönetim kurulu üyesi ve eski meclis üyesi Adnan İzmir olduğu belirlendi.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/10/12/sakaryada-3-aracin-karistigi-kazada-2-kisi-oldu-3-kisi-yaralandi-idke.jpg",
-    "keyword": ""
   }
 ]
