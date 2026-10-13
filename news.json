@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_87c6e9d7",
+    "title": "Kaybolan vatandaş dronla bulundu",
+    "source": "OdaTV",
+    "time": "13/10/2026 03:18",
+    "link": "https://www.odatv.com/guncel/kaybolan-vatandas-dronla-bulundu-120166393",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yalova’nın Çınarcık ilçesine bağlı Ortaburun mevkisinde kestane toplamak amacıyla ormanlık alana giden 50 yaşındaki C.G. kayboldu. İhbar üzerine bölgede başlatılan arama kurtarma çalışmaları sonucunda AFAD ekipleri, vatandaşı termal dron ile yerini tespit eder kurtardı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/13/kaybolan-vatandas-dronla-bulundu-gydb.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_97218159",
+    "title": "Türkiye'de son dönemde artan okul saldırıları bize ne anlatıyor?",
+    "source": "BBC Türkçe",
+    "time": "13/10/2026 03:17",
+    "link": "https://www.bbc.com/turkce/articles/c84g17z41dyeo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye'nin farklı kentlerindeki bazı okullarda bu yıl düzenlenen saldırılarda 10'dan fazla öğrenci hayatını kaybetti. Peki bu saldırılar bize ne anlatıyor?",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_3b54406a",
+    "title": "İsrail basını: Netanyahu Husilere müdahale etmek istiyor, Prens Selman karşı çıkıyor",
+    "source": "Anadolu Ajansı",
+    "time": "13/10/2026 03:17",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-husilere-mudahale-etmek-istiyor-prens-selman-karsi-cikiyor/4086709",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail basını, Başbakan Binyamin Netanyahu'nun Yemen'deki Husilere müdahale etmek istediğini, buna karşın Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın buna karşı çıktığını iddia etti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_3e8ee6ff",
     "title": "Emeklilik Tarihinde Kritik Hesap: Kıdem Tazminatı Farkı Büyüyebilir - Taka Gazete",
     "source": "Google Haberler",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "İstanbul’da Ümraniye Bilim Merkezi (Bilim Ümraniye) ekipleri, Uluslararası Uzay İstasyonu’nun (ISS) güneş önünden geçişini özel ekipmanlarla anbean görüntüledi. Bu çalışma, Türkiye'de bir bilim merkezi tarafından gerçekleştirilen ilk ISS geçiş gözlemi olarak kayıtlara geçti.",
     "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/turkiyede-bir-ilk-bilim-umraniye-issnin-gunes-onunden-gecisini-basariyla-goruntuledi-8kmh.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_41905d9d",
-    "title": "MHP’li vekilin yaralandığı kaza kamerada",
-    "source": "OdaTV",
-    "time": "12/10/2026 21:19",
-    "link": "https://www.odatv.com/guncel/mhpli-vekilin-yaralandigi-kaza-kamerada-120166374",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kahramanmaraş’ın Afşin ilçesinde MHP Kahramanmaraş Milletvekili Zuhal Karakoç’un da yaralandığı, 1 kişinin hayatını kaybettiği trafik kazasının güvenlik kamerası görüntüleri ortaya çıktı. Görüntülerde iki aracın kavşakta çarpıştığı anlar yer aldı.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/mhpli-vekilin-yaralandigi-kaza-kamerada-fll1.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_6fc2ed41",
-    "title": "Lokman Arıcıoğlu 61saat’e konuştu: “Spor şehri Trabzon’a yakışır bir sezon olsun” - 61SAAT",
-    "source": "Google Haberler",
-    "time": "12/10/2026 21:19",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhEVXRQV0YyaEhqZVY2WnVLa1ZsMGFZNXJCVDl2N2RhZ29IT1dKbUZrZ1JDbVJJcGZCbUYxeFBZN2xFM0R5ZEMtSEpzRUU4eC1NNkRxbHRsS3NDYllRZ3hJWHBLcGFoUndnd00zZUF4U0thTHFKNEFsOHd4Yi1MSXN6XzVuSG4tU0s2NDMtQm1CQXZjUnNPVHlya0dqdzIy?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_c3cae7da",
-    "title": "Yağışta kayan TIR evin bahçesine girdi",
-    "source": "OdaTV",
-    "time": "12/10/2026 21:19",
-    "link": "https://www.odatv.com/guncel/yagista-kayan-tir-evin-bahcesine-girdi-120166375",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tokat'ın Sulusaray ilçesinde yağış nedeniyle kayarak bir evin bahçesine giren tırın sürücüsü yara almadan kurtuldu.",
-    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/yagista-kayan-tir-evin-bahcesine-girdi-ywzd.jpg",
     "keyword": ""
   }
 ]
