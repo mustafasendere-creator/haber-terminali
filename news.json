@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_b2a2d472",
+    "title": "Beyaz Saray'da büyükelçi krizi sürüyor",
+    "source": "OdaTV",
+    "time": "14/10/2026 02:58",
+    "link": "https://www.odatv.com/guncel/trump-hukumeti-abdnin-yunanistan-buyukelcisi-guilfoyledan-istifasini-istedi-120166570",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Beyaz Saray Sözcüsü Katie Zacharia, ABD Başkanı Donald Trump hükümetinin ABD'nin Yunanistan Büyükelçisi Kimberly Guilfoyle'dan istifa etmesini istediğini açıkladı. Beyaz Saray'ın açıklamasının ardından Guilfoyle istifa ettiğini duyurdu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/trump-hukumeti-abdnin-yunanistan-buyukelcisi-guilfoyledan-istifasini-istedi-z9gk.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_547d5df4",
+    "title": "Kırıkkale'de feci ölüm! Akıma kapılarak can verdi",
+    "source": "Haber Global",
+    "time": "14/10/2026 02:57",
+    "link": "https://haberglobal.com/gundem/kirikkalede-feci-olum-akima-kapilarak-can-verdi-548579",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırıkkale'de elektrik direğinde akıma kapılarak ağır yaralanan 66 yaşındaki kişi, kaldırıldığı hastanede hayatını kaybetti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/kirikkalede-feci-olum-akima-kapilarak-can-verdi-kde1.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_99dd41ac",
     "title": "WhatsApp Mesaj Zamanlama Nasıl Çalışacak? İlk Ayrıntılar Ortaya Çıktı - Taka Gazete",
     "source": "Google Haberler",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "TFF, Trendyol Süper Lig'in 7. haftasında oynanan mücadelelerde hakemlerin inceleme gittiği pozisyonların VAR kayıtlarını açıkladı.",
     "image": "https://im.haberturk.com/l/2026/10/13/ver1791915845/3919467/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "GND_03c769eb",
-    "title": "TURKA, TÜVTÜRK istasyonlarını devralmak üzere görüşmelere başladı",
-    "source": "Habertürk",
-    "time": "13/10/2026 21:38",
-    "link": "https://www.haberturk.com/ekonomi/turka-tuvturk-istasyonlarini-devralmak-uzere-gorusmelere-basladi-3919468",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "TURKA ile TÜVTÜRK tarafı arasında mevcut araç muayene istasyonlarının devralınmasına yönelik görüşmeler kapsamında iyi niyet anlaşması imzalandı",
-    "image": "https://im.haberturk.com/l/2026/10/13/ver1791915919/3919468/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "GND_23af127c",
-    "title": "Söylemeden anlamanızı istiyorlar: İlişkide en fazla beklentiye giren 5 burç",
-    "source": "Cumhuriyet",
-    "time": "13/10/2026 21:38",
-    "link": "https://www.cumhuriyet.com.tr/astroloji/soylemeden-anlamanizi-istiyorlar-iliskide-en-fazla-beklentiye-giren-5-burc-2546448",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İlişkilerinde ilgi, romantizm ve anlayış bekleyen bazı burçlar, partnerlerinin söylenmeyenleri bile fark etmesini istiyor. İşte aşkta beklentileriyle öne çıkan 5 burç...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/ef02020e-f700-4311-98e2-a1799792b660.jpg",
     "keyword": ""
   }
 ]
