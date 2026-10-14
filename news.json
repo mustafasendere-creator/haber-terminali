@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_70ced7f5",
+    "title": "Ticaret Bakanlığı'ndan gramaj uyarısı",
+    "source": "OdaTV",
+    "time": "15/10/2026 02:33",
+    "link": "https://www.odatv.com/guncel/ticaret-bakanligindan-gramaj-uyarisi-120166715",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ticaret Bakanlığı Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan, \"Gramaj bilgisinin paylaşılması zorunluluğuna ve sorumluluğuna dair Ticaret Bakanlığımız sektöre uyarı yazısı iletmiştir\" dedi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/ticaret-bakanligindan-gramaj-uyarisi-ojhz.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_8eb54830",
+    "title": "Düzce'de eğitime kuvvetli yağış engeli",
+    "source": "TRT Haber",
+    "time": "15/10/2026 02:32",
+    "link": "https://www.trthaber.com/haber/turkiye/duzcede-egitime-kuvvetli-yagis-engeli-960137.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce Valiliğinden yapılan açıklamada, meteorolojik verilere göre il genelinde şiddetli yağış uyarısı yapıldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "SOC_8c665e34",
+    "title": "🗣️ ABD-İsrail İran'a Yeni Saldırı mı Başlatacak? Trump ve Netanyahu Yerlerde!",
+    "source": "YouTube",
+    "time": "15/10/2026 02:32",
+    "link": "https://www.youtube.com/watch?v=o5tdES3o-jQ",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:HABER | YouTube Video (ID: o5tdES3o-jQ)",
+    "image": "https://img.youtube.com/vi/o5tdES3o-jQ/hqdefault.jpg",
+    "keyword": "S:HABER"
+  },
+  {
+    "id": "GND_df4dfb48",
+    "title": "Trump, İran'a yönelik bir saldırının zamanlamasını sızdıranların \"vurulması\" gerektiğini savundu",
+    "source": "Anadolu Ajansı",
+    "time": "15/10/2026 02:31",
+    "link": "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-bir-saldirinin-zamanlamasini-sizdiranlarin-vurulmasi-gerektigini-savundu/4089138",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, İran'a yönelik bir saldırının zamanlamasının haber kuruluşlarına sızdırılmasının ardından saldırıyı iptal ettiğini söyleyerek, \"Bu sızıntıyı yapanlar vurulmalı.\" dedi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_0af16021",
     "title": "Elektrikli Otomobiller Avrupa'da Benzinliyi Geçti, Türkiye'de Pay Arttı - Taka Gazete",
     "source": "Google Haberler",
@@ -4749,54 +4797,6 @@
     "prefix": "🔔",
     "summary": "Müzisyen Efsun’un ilk romanı “Âşıklar Timi”, Marjinal Kültür Yayınları etiketiyle okurlarla buluştu. 1990’lı yılların politik atmosferinde geçen roman, aşkı, gençlik ilişkilerini ve insanın duygusal dayanıklılığını mizahi bir anlatımla ele alıyor.",
     "image": "https://static.birgun.net/resim/haber/2026/10/14/efsunun-ilk-romani-asiklar-timi-yayimlandi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_1f27c8a4",
-    "title": "Mohamed Salah KuPS maçında oynayacak mı? Dikkat çeken yorum!",
-    "source": "Haber61",
-    "time": "14/10/2026 22:11",
-    "link": "https://www.haber61.net/trabzonspor/mohamed-salah-kups-macinda-oynayacak-mi-dikkat-ceken-yorum/646258",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Haber61 TV'de yayınlanan Saha Kenarı programında Mohamed Salah'ın KuPS karşısında forma giyip giymeyeceği değerlendirildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_c6a29e3f",
-    "title": "Filistin'den uluslararası topluma silahlı Yahudi yerleşimci grupların terör örgütü ilan edilmesi çağrısı",
-    "source": "Anadolu Ajansı",
-    "time": "14/10/2026 22:11",
-    "link": "https://www.aa.com.tr/tr/dunya/filistinden-uluslararasi-topluma-silahli-yahudi-yerlesimci-gruplarin-teror-orgutu-ilan-edilmesi-cagrisi/4088969",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Filistin Dışişleri Bakanlığı, işgal altındaki Batı Şeria'da Filistinlilere saldıran silahlı Yahudi yerleşimci grupların terör örgütü olarak tanımlanmasını, bu kişilere ve destekçilerine caydırıcı yaptırımlar uygulanmasını istedi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_b3038c0d",
-    "title": "Trump, Japonya'nın ABD'de iki çip fabrikası için 21 milyar dolara kadar yatırım yapacağını açıkladı",
-    "source": "Anadolu Ajansı",
-    "time": "14/10/2026 22:11",
-    "link": "https://www.aa.com.tr/tr/dunya/trump-japonyanin-abdde-iki-cip-fabrikasi-icin-21-milyar-dolara-kadar-yatirim-yapacagini-acikladi/4088934",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, Japonya'nın New York eyaletinde GlobalFoundries tarafından işletilecek iki yarı iletken üretim tesisi için 21 milyar dolara kadar yatırım yapacağını duyurdu.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_15b0c9be",
-    "title": "Yemen'de tırmanan askeri gerilim insani krizi derinleştirdi",
-    "source": "Anadolu Ajansı",
-    "time": "14/10/2026 22:11",
-    "link": "https://www.aa.com.tr/tr/dunya/yemende-tirmanan-askeri-gerilim-insani-krizi-derinlestirdi/4088991",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "BM, Yemen'de 800 bin kişiye gıda yardımının ulaştırılamadığını duyururken, Kızılhaç, hastanelerin benzeri görülmemiş bir yaralı akını karşısında çökme noktasına geldiği uyarısında bulundu.",
-    "image": null,
     "keyword": ""
   }
 ]
