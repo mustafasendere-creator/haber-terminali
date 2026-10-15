@@ -1,5 +1,53 @@
 [
   {
+    "id": "SOC_a4d4d36c",
+    "title": "🗣️ Adım Adım Trabzon  - Merkez / Ortahisar Sahili",
+    "source": "YouTube",
+    "time": "15/10/2026 03:33",
+    "link": "https://www.youtube.com/watch?v=-lEreuTKX68",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: -lEreuTKX68)",
+    "image": "https://img.youtube.com/vi/-lEreuTKX68/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_0e010279",
+    "title": "Armutlu’da sel sularına kapılan adamı böyle kurtardı",
+    "source": "OdaTV",
+    "time": "15/10/2026 03:33",
+    "link": "https://www.odatv.com/guncel/armutluda-sel-sularina-kapilan-adami-boyle-kurtardi-120166720",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yalova Armutlu'da sel sularına kapılan bir kişi çevredeki vatandaş tarafından kurtarıldı. O anlar kameraya da kaydedildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/armutluda-sel-sularina-kapilan-adami-boyle-kurtardi-22sc.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_067e8c31",
+    "title": "TIR kaza yaptı: Yüksekova-Van karayolunda onlarca araç yolda mahsur kaldı",
+    "source": "OdaTV",
+    "time": "15/10/2026 03:33",
+    "link": "https://www.odatv.com/guncel/tir-kaza-yapti-yuksekova-van-karayolunda-onlarca-arac-yolda-mahsur-kaldi-120166721",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hakkari’nin Yüksekova ilçesinde TIR'ın bariyerlere çarparak kaza yapması sonucu onlarca araç yolda mahsur kaldı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/tir-kaza-yapti-yuksekova-van-karayolunda-onlarca-arac-yolda-mahsur-kaldi-ylxj.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_39c400b3",
+    "title": "İstanbul'da meydana gelen selde 1 kişi hayatını kaybetti",
+    "source": "TRT Haber",
+    "time": "15/10/2026 03:32",
+    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-meydana-gelen-selde-1-kisi-hayatini-kaybetti-960135.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da etkili olan sağanak nedeniyle Ayazağa'da meydana gelen selde 1 kişi boğularak hayatını kaybetti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_b0e912ed",
     "title": "Murat Boz ve Demet Özdemir İstanbul'daki sağanak yağışta mahsur kaldı",
     "source": "OdaTV",
@@ -4750,53 +4798,5 @@
     "summary": "Fon tasfiyesine ilişkin kanun teklifi komisyondan geçti 14.10.2026 Diken AKP'nin Meclis'e sunduğu dokuz maddelik ‘Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi’ komisyondan geçti. The post Fon tasfiyesine ilişkin kanun teklifi komisyondan geçti appeared first on #sitelinkat 14.10.2026 .",
     "image": null,
     "keyword": ""
-  },
-  {
-    "id": "GND_90b49a93",
-    "title": "İstanbul'da beş üniversite eğitime ara verdi",
-    "source": "Diken",
-    "time": "14/10/2026 22:12",
-    "link": "https://www.diken.com.tr/istanbulda-bes-universite-egitime-ara-verdi/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da beş üniversite eğitime ara verdi 14.10.2026 Diken İstanbul'da sağanak yağış nedeniyle beş üniversite eğitime ara verdi. The post İstanbul'da beş üniversite eğitime ara verdi appeared first on #sitelinkat 14.10.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_23100056",
-    "title": "İTÜ'de sınıfı ve yurdu su bastı",
-    "source": "Evrensel",
-    "time": "14/10/2026 22:12",
-    "link": "https://www.evrensel.net/haber/6004964/itu-de-sinifi-ve-yurdu-su-basti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul'da etkili olan sağanak yağışın ardından İstanbul Teknik Üniversitesi Tarihi Taşkışla'daki binalar ve yurdu su bastı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/366452.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_6948d692",
-    "title": "Rutte’den müttefik ülkelere Ukrayna’ya daha fazla hava savunma sistemi gönderme çağrısı",
-    "source": "Euronews",
-    "time": "14/10/2026 22:12",
-    "link": "https://tr.euronews.com/2026/10/14/rutteden-muttefik-ulkelere-ukraynaya-daha-fazla-hava-savunma-sistemi-gonderme-cagrisi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "NATO Genel Sekreteri Mark Rutte, müttefik ülkelerin Ukrayna’ya, özellikle hava savunması alanında, daha fazla destek sağlaması gerektiğini söyledi. Rutte’nin çağrısı, Rusya’nın Kiev’e yönelik hava saldırılarını ciddi ölçüde artırdığı bir dönemde geldi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_6cd61870",
-    "title": "🗣️ Prof.Dr. Aygün Attar Türkiye-Azerbaycan Kardeşliğini Hedef Alan Provokatörlere Haddini Bildirdi!",
-    "source": "YouTube",
-    "time": "14/10/2026 22:12",
-    "link": "https://www.youtube.com/watch?v=z1gh0ry2dKY",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:HABER | YouTube Video (ID: z1gh0ry2dKY)",
-    "image": "https://img.youtube.com/vi/z1gh0ry2dKY/hqdefault.jpg",
-    "keyword": "S:HABER"
   }
 ]
