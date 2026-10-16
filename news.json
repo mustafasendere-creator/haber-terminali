@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_7433ce9d",
+    "title": "AFAD: Ülke genelinde müdahale çalışmalarında 60 bin 395 personel ve 8 bin 927 araç görev yapmaktadır",
+    "source": "TRT Haber",
+    "time": "17/10/2026 02:32",
+    "link": "https://www.trthaber.com/haber/turkiye/afad-ulke-genelinde-mudahale-calismalarinda-60-bin-395-personel-ve-8-bin-927-arac-gorev-yapmaktadir-960369.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Afet ve Acil Durum Yönetimi Başkanlığı, ülke genelinde etkili olan yağışlarla mücadelede 60 bin 395 personel ve 1060 AFAD gönüllüsü ile 8 bin 927 aracın görev yaptığını bildirdi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_aea7a1db",
+    "title": "Filistin'e desteği nedeniyle telif ücreti kesintiye uğradı: İrlandalı yazar Sally Rooney'nin kitapları İngiltere'de satılamayacak",
+    "source": "BirGün",
+    "time": "17/10/2026 02:31",
+    "link": "https://www.birgun.net/haber/filistin-e-destegi-nedeniyle-telif-ucreti-kesintiye-ugradi-irlandali-yazar-sally-rooney-nin-kitaplari-ingiltere-de-satilamayacak-740807",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dünyaca ünlü İrlandalı yazar Sally Rooney, İngiltere'de yasaklı örgüt ilan edilen \"Palestine Action\" grubuna verdiği destek nedeniyle kitaplarının İngiltere'deki satıştan çekildiğini duyurdu. Rooney'nin yayınevi Faber, telif gelirlerinin yazara aktarılamaması gerekçesiyle satışı durdurdu.",
+    "image": "https://static.birgun.net/resim/haber/2026/10/17/filistin-e-destek-nedeniyle-telif-ucreti-kesildi-irlandali-yazar-sally-rooney-nin-kitaplari-ingiltere-de-satilamayacak.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2a97b429",
+    "title": "AFAD'dan şiddetli yağış uyarısı: \"Meteorolojik bilgilendirmeleri takip edin\"",
+    "source": "BirGün",
+    "time": "17/10/2026 02:31",
+    "link": "https://www.birgun.net/haber/afad-dan-siddetli-yagis-uyarisi-meteorolojik-bilgilendirmeleri-takip-edin-740809",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ülke genelinde etkili olan şiddetli yağışların ardından açıklama yapan AFAD, sel ve su baskınlarına karşı yurttaşlara uyarıda bulundu. Açıklamada, meteorolojik bilgilendirmelerin ve yetkili mercilerin yaptığı uyarıların dikkate alınması istendi.",
+    "image": "https://static.birgun.net/resim/haber/2026/10/17/afad-dan-siddetli-yagis-uyarisi-meteorolojik-bilgilendirmeleri-takip-edin.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_3022b380",
+    "title": "Suudi Arabistan'ın Abha ve Hamis Muşayt kentlerinde erken uyarı sistemi devreye alındı",
+    "source": "Anadolu Ajansı",
+    "time": "17/10/2026 02:31",
+    "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-abha-ve-hamis-musayt-kentlerinde-erken-uyari-sistemi-devreye-alindi/4091591",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneyindeki Abha ve Hamis Muşayt kentleri için erken uyarı sisteminin devreye alındığını duyurdu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_a5acbb7e",
+    "title": "İsrail askerleri Batı Şeria'da 3 Filistinliyi gözaltına aldı, 3 kişiyi yaraladı",
+    "source": "Anadolu Ajansı",
+    "time": "17/10/2026 02:31",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-3-filistinliyi-gozaltina-aldi-3-kisiyi-yaraladi/4091590",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail askerleri, işgal altındaki Batı Şeria'nın kuzeyindeki Cenin kentinde 3 Filistinliyi gözaltına aldı, 3 Filistinliyi de darbederek yaraladı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_55006688",
+    "title": "BMGK, Guterres'in yerine önerilecek aday için ilk kez \"renk kodlu\" ön oylama yaptı",
+    "source": "Anadolu Ajansı",
+    "time": "17/10/2026 02:31",
+    "link": "https://www.aa.com.tr/tr/dunya/bmgk-guterresin-yerine-onerilecek-aday-icin-ilk-kez-renk-kodlu-on-oylama-yapti/4091581",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), bu yıl sonunda görev süresi bitecek olan Genel Sekreter Antonio Guterres'in yerine aday olacak 7 isim için ilk kez \"renk kodlu\" ön yoklama yaptı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_4fad3f34",
     "title": "Türk Hava Yolları ve CFM, Mutabakat Anlaşması imzaladı",
     "source": "Ekonomim",
@@ -4725,78 +4797,6 @@
     "prefix": "🌊",
     "summary": "UEFA Konferans Ligi'nin ilk haftasında Finlandiya temsilcisi KuPS Kuopio'yu deplasmanda 4-2 mağlup eden Trabzonspor'da teknik direktör Thomas Reis, galibiyetin ardından yaptığı savunma uyarısıyla dikkat çekti.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/4-gol-yetmez-kim-hak-verdi.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_f12f405f",
-    "title": "Tesla Roadster’ın Uçuş Gösterisi: Spacex Teknolojisi Sahneye Çıktı",
-    "source": "Taka Gazetesi",
-    "time": "16/10/2026 21:32",
-    "link": "https://www.takagazete.com.tr/tesla-roadsterin-ucus-gosterisi-spacex-teknolojisi-sahneye-cikti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Tesla, yeni Roadster prototipini Teksas’taki etkinlikte sergiledi. İticilerle havalanan aracın performansı ve üretim takvimi açıklandı. Detaylar belli.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/tesla-roadster-ucus-gosterisi-m-a-n-s-e-t.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_4a6f9da0",
-    "title": "Eğitim Sen Samsun Şube: Çocukların çantaları değil, eğitimin sorunları araştırın",
-    "source": "Evrensel",
-    "time": "16/10/2026 21:32",
-    "link": "https://www.evrensel.net/haber/6005279/egitim-sen-samsun-sube-cocuklarin-cantalari-degil-egitimin-sorunlari-arastirin",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Eğitim Sen Samsun Şubesi, bir okulda yardımcı kaynakların incelendiği gerekçesiyle öğrencilerin çantalarının ve dolaplarının karıştırılmasına karşı yaptığı açıklamada “Eğitim sorunlarını araştırın” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/366722.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_ce0d01e5",
-    "title": "Trabzonspor'da Franculino Djú Fırtınası! KuPS Maçında 2 Gol Attı Ama Eksikleri Dikkat Çekti!",
-    "source": "Taka Gazetesi",
-    "time": "16/10/2026 21:32",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-franculino-dju-firtinasi-kups-macinda-2-gol-atti-ama-eksikleri-dikkat-cekti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor tarihinin en pahalı transferi Franculino Dju, Onuachu’nun sakatlığının ardından KUPS karşılaşmasına henüz 8. dakikada dahil oldu ve attığı 2 golle gecenin yıldızları arasına girdi. Bordo-Mavili taraftarlara büyük umut veren genç forvet, skor katkısıyla ön plana çıksa da sergilediği performansın içinde geliştirmesi gereken birçok özelliği de gözler önüne serdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/trabzonsporda-coskulu-gol-kutlamasi.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_5b66ec33",
-    "title": "Valilik açıkladı: Üsküdar'da yeni belediye başkanvekilinin seçileceği tarih belli oldu",
-    "source": "Evrensel",
-    "time": "16/10/2026 21:32",
-    "link": "https://www.evrensel.net/haber/6005281/valilik-acikladi-uskudar-da-yeni-belediye-baskanvekilinin-secilecegi-tarih-belli-oldu",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin’in hayatını kaybetmesinin ardından İstanbul Valiliği, yeni başkan vekilinin seçilmesi amacıyla Belediye Meclisi’nin toplanacağı tarihi açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/356522.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_501bdf87",
-    "title": "Trabzonspor, Beşiktaş derbisinin hazırlıklarına başladı",
-    "source": "Haber Global",
-    "time": "16/10/2026 21:32",
-    "link": "https://haberglobal.com/spor/trabzonspor-besiktas-derbisinin-hazirliklarina-basladi-549062",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Süper Lig'in 8. haftasında sahasında Beşiktaş ile oynayacağı derbi maçının hazırlıklarına başladı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/10/16/trabzonspor-besiktas-derbisinin-hazirliklarina-basladi-l0to.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "YRL_4f6a826e",
-    "title": "Trabzonspor'da Thomas Reis Fırtınası! Üç Maçta Üç Galibiyet ve Avrupa'da Kritik Başlangıç!",
-    "source": "Taka Gazetesi",
-    "time": "16/10/2026 21:32",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-thomas-reis-firtinasi-uc-macta-uc-galibiyet-ve-avrupada-kritik-baslangic",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, Thomas Reis yönetiminde üst üste üçüncü galibiyetini aldı. KuPS deplasmanındaki 4-2'lik zaferin ardından Alman hocanın sözleri dikkat çekti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/98b164fb-2cfa-4251-bcec-52de4d99441a.jpg",
     "keyword": ""
   }
 ]
