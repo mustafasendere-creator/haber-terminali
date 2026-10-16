@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_0b8b0406",
+    "title": "Yeni Beyaz Saray Sözcüsü Zacharia'nın görevine 5 gün sonra son verildi",
+    "source": "OdaTV",
+    "time": "17/10/2026 02:52",
+    "link": "https://www.odatv.com/guncel/yeni-beyaz-saray-sozcusu-zacharianin-gorevine-5-gun-sonra-son-verildi-120167025",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump'ın 12 Ekim'de Beyaz Saray Sözcüsü olarak atadığı Katie Zacharia'nın görevine 5 gün sonra son verildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/17/yeni-beyaz-saray-sozcusu-zacharianin-gorevine-5-gun-sonra-son-verildi-enlh.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b309eb5a",
+    "title": "Arnavutluk'taki protestolarla ilgili neler biliniyor?",
+    "source": "BBC Türkçe",
+    "time": "17/10/2026 02:51",
+    "link": "https://www.bbc.com/turkce/articles/cmy83gg8vdpqo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Arnavutluk'un başkenti Tiran'da aylardır hükümet karşıtı \"Flamingo\" hareketinin protestoları oluyordu. Fakat Salı günü başlayan olaylar farklı bir boyutta.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_f708ba76",
+    "title": "Fransa'daki öğrenci eylemleri: Ülke kırılma noktasında mı?",
+    "source": "BBC Türkçe",
+    "time": "17/10/2026 02:51",
+    "link": "https://www.bbc.com/turkce/articles/c51kd8vm9912o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa Başbakanı, öğrenci öfkesinin bir silah olarak kullanıldığını öne sürdü. Sendikalar ve diğer protestocular da bugün yeniden sokaklara çıkmaya hazırlanıyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_7433ce9d",
     "title": "AFAD: Ülke genelinde müdahale çalışmalarında 60 bin 395 personel ve 8 bin 927 araç görev yapmaktadır",
     "source": "TRT Haber",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Yeniden Refah Partisi Genel Başkanı Fatih Erbakan, fon vurgununa dair yaptığı açıklamada \"Bir nebze samimiyet gösterin, kararlılık sergileyin, süreç yönetimini TBMM’de konuya hakim isimlerden oluşacak karma komisyona devredin\" dedi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/366721.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_dfd29fd2",
-    "title": "Trabzon Çaykara’da Feci Kaza! 200 Metrelik Uçuruma Yuvarlanan Araçtan Acı Haber",
-    "source": "Taka Gazetesi",
-    "time": "16/10/2026 21:32",
-    "link": "https://www.takagazete.com.tr/trabzon-caykarada-feci-kaza-200-metrelik-ucuruma-yuvarlanan-aractan-aci-haber",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Dünyaca ünlü turizm merkezi Uzungöl yakınlarında seyir halindeki bir otomobil, sürücüsünün direksiyon hâkimiyetini kaybetmesi sonucu kontrolden çıkarak yaklaşık 200 metre derinliğindeki uçuruma yuvarlandı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/koseli-yol-ayriminda-feci-kaza.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_3a72e208",
-    "title": "Trump, çiçeği burnunda Beyaz Saray Sözcüsü Zacharia'nın görevden ayrılabileceğini açıkladı",
-    "source": "Evrensel",
-    "time": "16/10/2026 21:32",
-    "link": "https://www.evrensel.net/haber/6005280/trump-cicegi-burnunda-beyaz-saray-sozcusu-zacharianin-gorevden-ayrilabilecegini-acikladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, kısa süre önce göreve başlayan Beyaz Saray Sözcüsü Katie Zacharia'nın gerçekten avukat olup olmadığına dair tartışmaların yoğunlaşması sonrası ayrılık sinyali verdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/366723.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_4d6fb7a1",
-    "title": "Trabzonspor'da Thomas Reis'ten 4-2'lik Galibiyet Sonrası Uyarı! Herkes Golleri Konuşurken O Savunmayı İşaret Etti!",
-    "source": "Taka Gazetesi",
-    "time": "16/10/2026 21:32",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-thomas-reisten-4-2lik-galibiyet-sonrasi-uyari-herkes-golleri-konusurken-o-savunmayi-isaret-etti",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "UEFA Konferans Ligi'nin ilk haftasında Finlandiya temsilcisi KuPS Kuopio'yu deplasmanda 4-2 mağlup eden Trabzonspor'da teknik direktör Thomas Reis, galibiyetin ardından yaptığı savunma uyarısıyla dikkat çekti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/4-gol-yetmez-kim-hak-verdi.png",
     "keyword": ""
   }
 ]
