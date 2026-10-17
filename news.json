@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_6af1e0ba",
+    "title": "🗣️ Adil Karaismailoğlu'ndan açıklamalar: Trabzon Şehir Hastanesi, Güney Çevre Yolu, Kömür Tesisleri...",
+    "source": "YouTube",
+    "time": "17/10/2026 03:53",
+    "link": "https://www.youtube.com/watch?v=W-EkmeuO-RY",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: W-EkmeuO-RY)",
+    "image": "https://img.youtube.com/vi/W-EkmeuO-RY/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_44a20da7",
+    "title": "Kamyonet ile traktör çarpıştı: 1 ölü, 1 yaralı",
+    "source": "Habertürk",
+    "time": "17/10/2026 03:52",
+    "link": "https://www.haberturk.com/gundem/adiyaman-da-kamyonet-ile-traktor-carpisti-1-olu-1-yarali-3920369",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adıyaman'da kamyonetle traktörün çarpışması sonucu 1 kişi hayatını kaybetti, 1 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/10/17/ver1792197553/3920369/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
     "id": "SOC_2ba7fa81",
     "title": "🗣️ Zigana Geçidi ve Trabzon Rotası: Motor Turu Bölüm 11",
     "source": "YouTube",
@@ -4772,30 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "ÖSYM, İstanbul'da hafta sonu beklenen şiddetli yağış nedeniyle kentte gerçekleştirilecek sınavların ertelendiğini açıkladı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_8951bac4",
-    "title": "Trabzonspor’un Genç Yıldızı İçin Dikkat Çeken Sözler: ''Avrupa'dan çok teklifleri vardı''",
-    "source": "Kuzey Ekspres",
-    "time": "16/10/2026 21:33",
-    "link": "https://www.kuzeyekspres.com.tr/haber/28997918/trabzonsporun-genc-yildizi-icin-dikkat-ceken-sozler-avrupadan-cok-teklifleri-vardi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un yeni transferinin Avrupa’dan birçok teklif aldığı ancak transferin son gününde bordo-mavili ekibe imza attığı açıklandı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/16/large/trabzonsporun-genc-yildizi-icin-dikkat-ceken-sozler7.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e06d1102",
-    "title": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras CHP'den istifa etti",
-    "source": "DW Türkçe",
-    "time": "16/10/2026 21:33",
-    "link": "https://www.dw.com/tr/muğla-büyükşehir-belediye-başkanı-ahmet-aras-chp-den-istifa-etti/a-79684337",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP üyeliğinden ayrılarak görevini bağımsız sürdüreceğini açıkladı.",
     "image": null,
     "keyword": ""
   }
