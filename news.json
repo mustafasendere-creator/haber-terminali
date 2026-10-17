@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_fab80873",
+    "title": "Dünya ticaretinin 'boğazı' sıkılıyor: Türkiye baypas mı ediliyor?",
+    "source": "Ekonomim",
+    "time": "18/10/2026 01:52",
+    "link": "https://www.ekonomim.com/kuresel-ekonomi/dunya-ticaretinin-bogazi-sikiliyor-turkiye-baypas-mi-ediliyor-haberi-925384",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hürmüz’den Kızıldeniz’e uzanan krizler küresel enerji ve ticaret rotalarını yeniden şekillendirirken Türkiye, stratejik konumunu ekonomik ve jeopolitik güce dönüştürme sınavıyla karşı karşıya. Enerji hatları, limanlar ve lojistik yatırımlar önemli fırsatlar sunsa da asıl belirleyici olan, Türkiye’nin bu koridorlardan ne kadar katma değer yaratabileceği.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/18/dunya-ticaretinin-bogazi-sikiliyor-turkiye-baypas-mi-ediliyor-2zp7_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f6602eec",
+    "title": "Citi’den dikkat çeken analiz: Faiz oranları ekonomi için hisse değerlemelerinden daha önemli olabilir mi?",
+    "source": "Ekonomim",
+    "time": "18/10/2026 01:52",
+    "link": "https://www.ekonomim.com/kuresel-ekonomi/citiden-dikkat-ceken-analiz-faiz-oranlari-ekonomi-icin-hisse-degerlemelerinden-daha-onemli-olabilir-mi-haberi-925386",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Citi analistlerinin değerlendirmesine göre, faiz oranları ekonomik büyüme beklentileri açısından önemini korurken, hisse senedi piyasalarının değerlemeleri ve varlıklar arasındaki yatırım akışları üzerindeki etkileri zaman içinde zayıflıyor. Yapay zekâ kaynaklı kazanç beklentileri ve yatırımcıların portföy tercihlerindeki yapısal değişimler, tahvil getirileri ile hisse senetleri arasındaki geleneksel ilişkiyi dönüştürüyor.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/16/citiden-yatirimcilari-yakindan-ilgilendiren-2027-uyarisi-tgup_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_05322577",
+    "title": "IMF'nin borç defteri açıldı! Bir ülkenin borcu tam 6 ülkeye bedel",
+    "source": "Ekonomim",
+    "time": "18/10/2026 01:52",
+    "link": "https://www.ekonomim.com/kuresel-ekonomi/imfnin-borc-defteri-acildi-bir-ulkenin-borcu-tam-6-ulkeye-bedel-haberi-925385",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası Para Fonu'na (IMF) en fazla borcu bulunan ülkeler belli oldu. Arjantin, 56,8 milyar dolarlık borcuyla listenin zirvesine yerleşirken Ukrayna, Pakistan, Mısır ve Ekvador ilk beşi tamamladı. Arjantin'in tek başına IMF'ye borcu, kendisini takip eden altı ülkenin toplamını bile aştı. İşte IMF'ye en fazla borcu olan ülkeler ve borçlarının milli gelire oranları...",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/18/imfnin-borc-defteri-acildi-bir-ulkenin-borcu-tam-6-ulkeye-bedel-pzjl_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4d5ab6b5",
+    "title": "İddiaların ardından Takasbank, TPP ve TEFAS işlemlerine ilişkin açıklama yaptı",
+    "source": "Ekonomim",
+    "time": "18/10/2026 01:52",
+    "link": "https://www.ekonomim.com/ekonomi/iddialarin-ardindan-takasbank-tpp-ve-tefas-islemlerine-iliskin-aciklama-yapti-haberi-925387",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Takas ve Saklama Bankası (Takasbank), Takasbank Para Piyasası (TPP) üzerinden belirli kişi ve kuruluşlara finansman sağlandığı yönündeki iddiaların gerçeği yansıtmadığını belirterek, bankanın kendi kaynaklarından herhangi bir finansman sağlamadığını bildirdi.",
+    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2021/06/02/takasbank-vFk9_cover.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_25f59ca9",
+    "title": "Adana’da bir eve el yapımı patlayıcı atıldı",
+    "source": "Habertürk",
+    "time": "18/10/2026 01:52",
+    "link": "https://www.haberturk.com/gundem/adanada-bir-eve-el-yapimi-patlayici-atildi-3920563",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Adana'da bir eve kimliği belirsiz kişi ya da kişiler tarafından el yapımı patlayıcı (EYP) atıldı. Patlamada yaralanan olmazken, polis şüpheli ya da şüphelilerin yakalanması için çalışma başlattı.",
+    "image": "https://im.haberturk.com/l/2026/10/18/ver1792276098/3920563/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
     "id": "GND_384dc3ea",
     "title": "Şanlıurfa’da korkunç olay: 8 yaşındaki çocuğa anne işkencesi",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Çinli yapay zeka girişimi DeepSeek, performans ve verimliliği maliyetleri artırmadan yükselten yeni modeli DeepSeek-V4.1-Flash'ı yayınladı. Şirket, bu güncellemeyle birlikte kendi arama motoru tarafından desteklenen arama ve getirme API'lerini de tüm kullanıcılara açtığını duyurdu.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/17/gelismis-ozellikler-ve-dusuk-maliyet-deepseek-arama-ve-getirme-apilerini-tum-kullanicilara-acti-rsya_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_a484dece",
-    "title": "İBB davasında 7 kişiye tahliye kararı çıktı",
-    "source": "Ekonomim",
-    "time": "17/10/2026 19:53",
-    "link": "https://www.ekonomim.com/gundem/ibb-davasinda-7-kisiye-tahliye-karari-cikti-haberi-925359",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB’ye yönelik açılan yolsuzluk davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 53’ü tutuklu 436 sanık, 101’inci duruşmada hakim karşısına çıktı. Duruşmada 7 kişi tahliye kararı verildi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/17/ibb-davasinda-7-kisiye-tahliye-karari-cikti-qtwa_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_4cfc51c5",
-    "title": "Trabzonspor'a maç öncesi sakatlık şoku",
-    "source": "Kuzey Ekspres",
-    "time": "17/10/2026 19:53",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29002692/trabzonspora-mac-oncesi-sakatlik-soku",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'da uzun süre sonra kadroda olması beklenen Batagov'dan can sıkan haber!",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/17/large/batagov.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_40f996b1",
-    "title": "İBB davasında ara karar açıklandı",
-    "source": "Habertürk",
-    "time": "17/10/2026 19:53",
-    "link": "https://www.haberturk.com/gundem/son-dakika-ibb-davasinda-7-tutuklu-sanik-tahliye-edildi-3920523",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İBB yolsuzluk davasında ara karar açıklandı. Mahkeme, Ekrem İmamoğlu'nun tutukluluk halinin devamına karar verirken 7 tutuklu sanığın tahliyesine hükmetti. Dava, 2 Kasım'a ertelendi",
-    "image": "https://im.haberturk.com/l/2026/10/17/ver1792255169/3920523/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_5321891a",
-    "title": "Beşiktaş'ta Vaclav Cerny Kararı Verdi!",
-    "source": "Kuzey Ekspres",
-    "time": "17/10/2026 19:53",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29002719/besiktasta-vaclav-cerny-karari-verdi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trendyol Süper Lig'in 8. haftasında pazartesi günü Papara Park'ta Trabzonspor'a konuk olacak Beşiktaş'ta kritik kadro gelişmeleri yaşanıyor. Sakatlığını atlatan Vaclav Cerny teknik heyete oynamak istediğini ileterek kafileye dahil edilirken, Orkun Kökçü ise sakatlığı nedeniyle dev maçın kadrosuna alınmadı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/17/large/dg.webp",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_4952a6ad",
-    "title": "Can Bonomo'nun acı günü",
-    "source": "Habertürk",
-    "time": "17/10/2026 19:53",
-    "link": "https://www.haberturk.com/magazin/can-bonomo-nun-babasi-yasar-bonomo-hayatini-kaybetti-3920522",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Can Bonomo'nun babası Yaşar Bonomo vefat etti. Acı haberi sosyal medya hesabından duyuran Bonomo, babasına \"Devrin daim olsun\" sözleriyle veda etti",
-    "image": "https://im.haberturk.com/l/2026/10/17/ver1792255180/3920522/jpg/1920x1080",
     "keyword": ""
   }
 ]
