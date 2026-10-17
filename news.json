@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_1dd6695b",
+    "title": "Eskişehir’de bir kadın komşu ziyaretinde hayatını kaybetti",
+    "source": "Haber Global",
+    "time": "17/10/2026 06:52",
+    "link": "https://haberglobal.com/gundem/eskisehirde-bir-kadin-komsu-ziyaretinde-hayatini-kaybetti-549087",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir'in Tepebaşı ilçesinde yaşayan 43 yaşındaki kadın komşusunun evinde öldü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/17/eskisehirde-bir-kadin-komsu-ziyaretinde-hayatini-kaybetti-k4dp.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_507a60e3",
+    "title": "Trump ile Zelenski bu kez tam kopmuş gibi gözüküyor, Ukrayna savaşta yalnız kalıyor",
+    "source": "10Haber",
+    "time": "17/10/2026 06:52",
+    "link": "https://10haber.net/dunya/trump-ile-zelenski-bu-kez-tam-kopmus-gibi-gozukuyor-ukrayna-savasta-yalniz-kaliyor-746474/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bu kez kırılma gerçek gibi hissettiriyor. ABD Başkanı Trump, Ukrayna Devlet Başkanı Volodimir Zelenski’ye yönelik küçümsemesini ve Rusya Devlet Başkanı Vladimir V. Putin’e olan yakınlığını uzun süredir gizlemiyordu. Ancak Zelenski, ABD öncülüğündeki sonuçsuz barış görüşmelerine uyum sağlayarak ve Trump’a “güçlü liderliği” için bolca teşekkür ve övgü yağdırarak, Rusya’ya karşı bir şekilde Amerikan desteğini korumayı her …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/07/trump-zelenski.webp",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6e560c2a",
+    "title": "Trump yeni sözcüsünü beş günde kovdu",
+    "source": "10Haber",
+    "time": "17/10/2026 06:52",
+    "link": "https://10haber.net/dunya/trump-yeni-sozcusunu-bes-gunde-kovdu-746476/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Başkan Trump’ın yeni basın sözcüsü Katie Zacharia, göreve başladıktan sadece beş gün sonra Cuma günü görevden ayrılmak zorunda kaldı. Bu durum, çalkantılı geçen bir haftanın ardından Beyaz Saray’dan gelen nadir bir geri adım oldu. The New York Times’ın haberine göre, muhafazakâr bir yorumcu olarak Trump’ın dikkatini çeken Zacharia, Salı günü gerçekleştirdiği ilk ve tek basın …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/10/katie.webp",
+    "keyword": ""
+  },
+  {
+    "id": "GND_ede1feb1",
+    "title": "Bakan Bolat’tan “Made in Europe” uyarısı: Türkiye dışlanırsa iki taraf da zarar görür",
+    "source": "10Haber",
+    "time": "17/10/2026 06:52",
+    "link": "https://10haber.net/ekonomi/bakan-bolattan-made-in-europe-uyarisi-turkiye-dislanirsa-iki-taraf-da-zarar-gorur-746479/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ticaret Bakanı Ömer Bolat, Avrupa Birliği’nin (AB) “Made in Europe” planına Türkiye’nin de dahil edilmesi gerektiğini, aksi halde dışlanmanın iki tarafın ekonomisine de zarar vereceği uyarısında bulundu. Bakan Bolat, Fransız ajansı AFP’ye röportaj verdi. Bolat, Avrupa Birliği’nin otomobil üreticileri de dahil olmak üzere kendi sanayilerini kayırma çabasının, Türkiye’nin “Made in Europe” planına dahil edilmediği takdirde …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/10/image_6ad2f08223c7f0.32854160.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_124cddbe",
+    "title": "Apple’ın katlanabilir iPhone’una yoğun ilgi: Stoklar dakikalar içinde tükendi",
+    "source": "10Haber",
+    "time": "17/10/2026 06:51",
+    "link": "https://10haber.net/ekonomi/applein-katlanabilir-iphoneuna-yogun-ilgi-stoklar-dakikalar-icinde-tukendi-746481/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Apple’ın ilk katlanabilir telefonu iPhone Duo, ön siparişlerin açılmasından dakikalar sonra ilk stoklarını tüketti. 1.999 dolardan başlayan modelde teslimat tarihleri kısa sürede ileri kayarken, bazı konfigürasyonlarda bekleme süresi kasım sonundan aralık ve ocak ayına kadar uzadı. Apple’ın çevrim içi mağazasında iki renk seçeneği ve 256 GB ile 2 TB arasındaki tüm depolama kapasitelerinde teslimat sürelerinin …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/10/duo.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_b21f3f37",
     "title": "Şarj Cihazları Ve Usb-c Kabloları İçin Yeni Standart Dönemi - Taka Gazete",
     "source": "Google Haberler",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "Associated Press'e (AP) konu hakkında açıklamada bulunan bir kaynak, ABD'de \"Diddy\" ve \"Puff Daddy\" lakaplarıyla tanınan rapçi Sean Combs'un New Jersey'deki cezaevinden Pensilvanya'daki başka bir cezaevine taşındığını belirtti.",
     "image": "https://static.birgun.net/resim/haber/2026/10/16/abd-li-rapci-puff-diddy-baska-cezaevine-nakledildi.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c9e82ec2",
-    "title": "Süper Lig'de haftanın açılış maçında Çorum FK, Çaykur Rizespor'u 2-1 yendi",
-    "source": "Anadolu Ajansı",
-    "time": "16/10/2026 22:31",
-    "link": "https://www.aa.com.tr/tr/spor/super-ligde-haftanin-acilis-macinda-corum-fk-caykur-rizesporu-2-1-yendi/4091401",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trendyol Süper Lig'de 8. haftanın açılış maçında Arca Çorum FK, konuk ettiği Çaykur Rizespor'u 2-1 yendi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_5ec22a15",
-    "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödeme yapılacak",
-    "source": "Anadolu Ajansı",
-    "time": "16/10/2026 22:31",
-    "link": "https://www.aa.com.tr/tr/ekonomi/kamu-personeline-gelecek-yil-6-3-trilyon-lira-odeme-yapilacak/4091473",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Genel bütçe kapsamındaki kamu idareleri personeline gelecek yıl 6,3 trilyon lira nakdi ödeme planlanıyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_1bfb5620",
-    "title": "Yüksek enerji fiyatları AB'yi yeni önlemlere itti: İlk adım metan düzenlemesinde erteleme",
-    "source": "Ekonomim",
-    "time": "16/10/2026 22:13",
-    "link": "https://www.ekonomim.com/kuresel-ekonomi/yuksek-enerji-fiyatlari-abyi-yeni-onlemlere-itti-ilk-adim-metan-duzenlemesinde-erteleme-haberi-925224",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, yüksek enerji fiyatlarının etkilerini hafifletmek için metan düzenlemesinin uygulanmasını 1 yıl erteleyeceklerini, geçici kamu yardımı çerçevesini genişleteceklerini ve ortak enerji alımına yönelik yeni adımlar atacaklarını söyledi.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/13/avrupa-birliginden-gocmenler-icin-sert-hamle-ursula-von-der-leyenden-acil-sinir-disi-cagrisi-xksg_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_2db9f1c6",
-    "title": "Kira sertifikası ödemesini tamamladı",
-    "source": "Habertürk",
-    "time": "16/10/2026 22:13",
-    "link": "https://www.haberturk.com/ekonomi/balsu-gida-dan-borc-odemesi-3920336",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Balsu Gıda Sanayi ve Ticaret A.Ş.'nin 310 milyon TL nominal tutarlı kira sertifikasının vadesi dolarken, yatırımcılara 43 milyon 28 bin 433 TL getiri ödemesi yapıldı. Anapara ödemesi de tamamlandı.",
-    "image": "https://im.haberturk.com/l/2026/10/16/ver1792177288/3920336/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "GND_31d8e20e",
-    "title": "Askerlik yerleri ne zaman açıklanacak?",
-    "source": "Habertürk",
-    "time": "16/10/2026 22:13",
-    "link": "https://www.haberturk.com/bilgi/foto/askerlik-yerleri-ne-zaman-aciklanacak-askerlik-yerleri-sorgulama-ekrani-msb-2026-kasim-celbi-e-devlet-sorgulama-3920339",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Milli Savunma Bakanlığı (MSB) tarafından yayımlanan takvime göre, kasım askerlik yerlerinin açıklanacağı tarih belli oldu. Silahaltına alınacak yedek subay aday adayı, yedek astsubay aday adayı ile er statüsündeki yükümlülerin askerlik hizmeti tercihi, sınıflandırma ve sevk işlemlerinin ardından askerlik yerleri e devlet ekranında sorgulayabilecek. Peki Askerlik yerleri ne zaman açıklanacak, hangi tarihte?",
-    "image": "https://im.haberturk.com/l/2026/10/16/ver1792177509/3920339/jpg/1920x1080",
     "keyword": ""
   }
 ]
