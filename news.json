@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_e924fcf1",
+    "title": "\"Riyad’da Husilerin bir seyir füzesi engellendi\"",
+    "source": "Habertürk",
+    "time": "18/10/2026 02:32",
+    "link": "https://www.haberturk.com/dunya/arap-koalisyonu-suudi-arabistan-in-baskenti-riyadda-husilerin-bir-seyir-fuzesi-engellendi-3920565",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan liderliğindeki Arap Koalisyonu, Suudi Arabistan'ın başkenti Riyad’da Husiler tarafından fırlatılan bir seyir füzesinin engellendiğini duyurdu.",
+    "image": "https://im.haberturk.com/l/2026/10/18/ver1792279540/3920565/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_abe33f83",
+    "title": "Manisaya mevsimin ilk karı düştü",
+    "source": "TRT Haber",
+    "time": "18/10/2026 02:32",
+    "link": "https://www.trthaber.com/haber/turkiye/manisaya-mevsimin-ilk-kari-dustu-960440.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Manisanın Alaşehir ilçesinde mevsimin ilk karı yağdı. Horzum Alakaya Mahallesinin yaylalar mevkiinde saat 16.00 sıralarında başlayan kar yağışı, yüksek kesimleri beyaza bürüdü.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_adc1ffe1",
+    "title": "Suudi Arabistan'ın başkenti Riyad ile Abha ve Hamis Muşayt kentlerinde erken uyarı sistemi devreye alındı",
+    "source": "Anadolu Ajansı",
+    "time": "18/10/2026 02:31",
+    "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistanin-baskenti-riyad-ile-abha-ve-hamis-musayt-kentlerinde-erken-uyari-sistemi-devreye-alindi/6894",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, başkent Riyad ile ülkenin güneyindeki Abha ve Hamis Muşayt kentleri için erken uyarı sisteminin devreye alındığını duyurdu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_265f8c55",
     "title": "Trabzon Büyükşehir Belediyesi'nden Hayvancılığa Büyük Destek! 36 Yetiştiriciye Koyun Verilecek - Taka Gazete",
     "source": "Google Haberler",
@@ -4762,41 +4798,5 @@
     "summary": "Şişli Belediye Başkanı Resul Emrah Şahan, tutuklu bulunduğu cezaevinden, Halk TV emekçileri ile dayanışma mesajı gönderdi.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340497.jpg",
     "keyword": ""
-  },
-  {
-    "id": "GND_a1ffba10",
-    "title": "Marsilya’da göstericiler belediyeyi bastı, polisle çatıştı",
-    "source": "Euronews",
-    "time": "17/10/2026 20:12",
-    "link": "https://tr.euronews.com/video/2026/10/17/marsilyada-gostericiler-belediyeyi-basti-polisle-catisti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fransa genelinde artan yaşam maliyetini protesto eden göstericiler Marsilya belediye binasına zorla girip polisle çatıştı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_ea2d95fb",
-    "title": "Polonya'da Starlink istasyonuna kundaklama: İki Türk vatandaşı yakalandı",
-    "source": "Euronews",
-    "time": "17/10/2026 20:12",
-    "link": "https://tr.euronews.com/2026/10/17/polonyada-starlink-istasyonuna-kundaklama-iki-turk-vatandasi-yakalandi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Polonya'da Ukrayna ordusunun da kullandığı internet altyapısına hizmet veren bir Starlink istasyonunda çıkan yangının kundaklama sonucu meydana geldiği belirlendi. Saldırıyı gerçekleştirdikleri şüphesiyle iki Türk vatandaşı Almanya'da gözaltına alındı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_81a1a473",
-    "title": "🗣️ ZELENSKİ'YE HANÇERİ SAPLADI! ABD Başkanı Trump Ukrayna'yı Ölüme Terk Etti!",
-    "source": "YouTube",
-    "time": "17/10/2026 20:12",
-    "link": "https://www.youtube.com/watch?v=4PWu7AS01w4",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:HABER | YouTube Video (ID: 4PWu7AS01w4)",
-    "image": "https://img.youtube.com/vi/4PWu7AS01w4/hqdefault.jpg",
-    "keyword": "S:HABER"
   }
 ]
