@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_af285dcb",
+    "title": "Bursa'da motosikletlinin kaçış manevrası kazayla sonuçlandı",
+    "source": "OdaTV",
+    "time": "19/10/2026 02:52",
+    "link": "https://www.odatv.com/guncel/bursada-motosikletlinin-kacis-manevrasi-kazayla-sonuclandi-120167264",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bursa'da araçların arasından hızla ilerleyen motosiklet, sinyal vermeden şerit değiştirdiği öne sürülen otomobilden kaçmak isterken sol şeritteki otomobile arkadan çarptı. Kaza anı kask kamerasına yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/19/bursada-motosikletlinin-kacis-manevrasi-kazayla-sonuclandi-tyry.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f61f8cf2",
+    "title": "Erzurum'da silahlı kavgayı ayırmak isteyen kadın öldü",
+    "source": "Haber Global",
+    "time": "19/10/2026 02:52",
+    "link": "https://haberglobal.com/gundem/erzurumda-silahli-kavgayi-ayirmak-isteyen-kadin-oldu-549359",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum Tekman'da çıkan silahlı kavgada 71 yaşındaki kadın hayatını kaybetti.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/19/erzurumda-silahli-kavgayi-ayirmak-isteyen-kadin-oldu-pvoe.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a9b513ed",
+    "title": "Bir yardım kuruluşu, Suriye'de çocukların kaybolması konusunda neden hedefte?",
+    "source": "BBC Türkçe",
+    "time": "19/10/2026 02:51",
+    "link": "https://www.bbc.com/turkce/articles/cq8ez6dlpx32o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Uluslararası yardım kuruluşu SOS Çocuk Köyleri, 140'tan fazla çocuğun Suriye güvenlik güçleri tarafından yönetimlerindeki yetimhanelere götürüldüğünü kabul etti. Ancak kuruluş olaydaki rolüne dair raporu yayımlamama kararı aldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_b3d22cca",
     "title": "Elektrikli otomobil alev alev yandı: Yangın anı kamerada",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Meteoroloji'nin kuvvetli yağış uyarısının ardından İstanbul'da 19 Ekim Pazartesi günü için beklenen açıklama geldi. Valiliğin açıklamasına göre eğitim öğretime ara verilmeyecek.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/343751.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_c458bf1e",
-    "title": "Trabzon'dan TRT dizisine sert tepki! “Bu milletin kutsalları sizin senaryolarınıza malzeme olamaz”",
-    "source": "61 Saat",
-    "time": "18/10/2026 21:32",
-    "link": "https://www.61saat.com/trabzondan-trt-dizisine-sert-tepki-bu-milletin-kutsallari-sizin-senaryolariniza-malzeme-olamaz",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Türk Diyanet Vakıf-Sen Trabzon Şube Başkanı Mehmet Odabaşı, TRT'de yayınlanan “Taşacak Bu Deniz” dizisindeki seccadenin ayakkabıyla çiğnendiğini belirttiği sahneye tepki gösterdi. Odabaşı, TRT yönetimi ve yapımcılardan açıklama yapılmasını isteyerek sorumluların hesap vermesi çağrısında bulundu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/10/p-h-o-t-o-2026-10-18-21-10-47.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_32ef5067",
-    "title": "Trabzonlu ünlü ressam Süleyman Saim Tekcan hayatını kaybetti!",
-    "source": "Haber61",
-    "time": "18/10/2026 21:31",
-    "link": "https://www.haber61.net/trabzon/trabzonlu-unlu-ressam-suleyman-saim-tekcan-hayatini-kaybetti/646653",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon doğumlu, Türk özgün baskı sanatının öncü isimlerinden Süleyman Saim Tekcan, 86 yaşında hayatını kaybetti. Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü sahibi sanatçının cenaze programı belli oldu.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_ce55cd9c",
-    "title": "Süper Lig'de Başakşehir, Gaziantep FK'yı mağlup etti",
-    "source": "Anadolu Ajansı",
-    "time": "18/10/2026 21:31",
-    "link": "https://www.aa.com.tr/tr/spor/super-ligde-basaksehir-gaziantep-fkyi-maglup-etti/4092853",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Başakşehir, Trendyol Süper Lig'in 8. haftasında konuk ettiği Gaziantep FK'yi 2-1 yendi.",
-    "image": null,
     "keyword": ""
   }
 ]
