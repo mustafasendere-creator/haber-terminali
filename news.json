@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_679ab171",
+    "title": "Elazığ'da sel nedeniyle yayla yolu yarıldı",
+    "source": "OdaTV",
+    "time": "20/10/2026 03:52",
+    "link": "https://www.odatv.com/guncel/elazigda-sel-nedeniyle-yayla-yolu-yarildi-120167429",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Elazığ’da etkili olan aşırı yağış, sel felaketine neden oldu. Yağışın ardından meydana gelen sel nedeniyle yayla yolu yarılarak hasar gördü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/20/elazigda-sel-nedeniyle-yayla-yolu-yarildi-su4z.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_93380fe4",
+    "title": "Ankara'da uyuşturucu operasyonları: 47 şüpheli yakalandı",
+    "source": "Habertürk",
+    "time": "20/10/2026 03:52",
+    "link": "https://www.haberturk.com/gundem/ankara-da-uyusturucu-operasyonlari-47-supheli-yakalandi-3920971",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'da düzenlenen uyuşturucu operasyonlarında yakalanan 47 şüpheli hakkında işlem başlatıldı",
+    "image": "https://im.haberturk.com/l/2026/10/20/ver1792457314/3920971/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
     "id": "SOC_f9ee9cb8",
     "title": "🗣️ Ahmet Metin Genç’ten Haber61 ekranlarında Salah ve Trabzon turizmi açıklaması",
     "source": "YouTube",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Trabzonspor'un Alman teknik direktörü Thomas Reis, 2-0 kazandıkları Beşiktaş maçının ardından görüşlerini aktardı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/5ad2cd67-2b7d-4c0f-a70c-4e1cdf902289.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_7189060a",
-    "title": "Fabinho’dan Beşiktaş Galibiyeti Sonrası Özgüven Vurgusu",
-    "source": "Kuzey Ekspres",
-    "time": "19/10/2026 22:53",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29014315/fabinhodan-besiktas-galibiyeti-sonrasi-ozguven-vurgusu",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor’un orta saha oyuncusu Fabinho, Beşiktaş karşısında alınan 3 puanın önemine dikkat çekti.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/19/large/fabinhodan-besiktas-galibiyeti-sonrasi-ozguven-vurgusu.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_3c8da943",
-    "title": "Yemen’de Husiler’den eğitim kampına saldırı: 53 ölü, 200 yaralı",
-    "source": "Haber Global",
-    "time": "19/10/2026 22:53",
-    "link": "https://haberglobal.com/gundem/yemende-husilerden-egitim-kampina-saldiri-53-olu-200-yarali-549490",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yemen'in Şebve vilayetinde Husilerin hükümet güçlerine ait askeri eğitim kampına düzenlediği üç balistik füze saldırısında 53 kişi hayatını kaybetti, 200 kişi de yaralandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/10/19/yemende-husilerden-egitim-kampina-saldiri-53-olu-200-yarali-9b51.jpg",
     "keyword": ""
   }
 ]
