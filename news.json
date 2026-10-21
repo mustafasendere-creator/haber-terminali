@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_bba65c56",
+    "title": "Trafik denetimindeki ilginç anlar",
+    "source": "OdaTV",
+    "time": "22/10/2026 02:53",
+    "link": "https://www.odatv.com/guncel/trafik-denetimindeki-ilginc-anlar-120167727",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kırıkkale'de trafik denetimini fark edince aracını park edip hiçbir şey olmamış gibi yürüyerek uzaklaşan sürücünün planını dron bozdu. Ehliyetinin daha önce geri alındığı belirlenen sürücüye 200 bin lira trafik cezası kesildi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/trafik-denetimindeki-ilginc-anlar-mv5z.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f905c4d5",
+    "title": "Brüksel'de Brükselli gibi olmak",
+    "source": "Habertürk",
+    "time": "22/10/2026 02:53",
+    "link": "https://www.haberturk.com/htgastro/seyahat/lokalin-pesinde-burokrasinin-arkasindaki-surrealist-bruksel-3921459",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eğer Brüksel'de bir lokal gibi yaşasaydınız neler yapardınız ve nerelere giderdiniz? Lokalin Peşinde serisinin ikincisi Brüksel hakkında. Pınar Aksu yazdı.",
+    "image": "https://im.haberturk.com/l/2026/10/21/ver1792624997/3921459/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_0adc5a67",
+    "title": "Microsoft, Çin bağlantılı aktörün yapay zeka kullanarak yüzlerce kuruluşu hedef aldığını iddia etti",
+    "source": "Evrensel",
+    "time": "22/10/2026 02:52",
+    "link": "https://www.evrensel.net/haber/6006056/microsoft-cin-baglantili-aktorun-yapay-zeka-kullanarak-yuzlerce-kurulusu-hedef-aldigini-iddia-etti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını iddia etti.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/367395.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9b8d2cd7",
+    "title": "Bangladeş'te yıl başından bu yana dang humması nedeniyle ölenlerin sayısı 364'e çıktı",
+    "source": "Evrensel",
+    "time": "22/10/2026 02:52",
+    "link": "https://www.evrensel.net/haber/6006059/bangladeste-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-sayisi-364e-cikti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bangladeş'te dang humması nedeniyle yılbaşından bu yana ülke genelinde hayatını kaybedenlerin sayısı 364'e yükseldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/367397.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_07f5d5ec",
+    "title": "🗣️ İnsansız hava aracımız BAHA’yı yanımıza aldık, Mühendis Çocuklar için yollara koyulduk.🚀✈️",
+    "source": "YouTube",
+    "time": "22/10/2026 02:52",
+    "link": "https://www.youtube.com/watch?v=W3jmTmqKweA",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: W3jmTmqKweA)",
+    "image": "https://img.youtube.com/vi/W3jmTmqKweA/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_aef5f9ec",
+    "title": "Melenchon'dan Netanyahu'ya Fransa'daki seçimlere müdahale tepkisi",
+    "source": "BirGün",
+    "time": "22/10/2026 02:51",
+    "link": "https://www.birgun.net/haber/melenchon-dan-netanyahu-ya-fransa-daki-secimlere-mudahale-tepkisi-741791",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa'da cumhurbaşkanı adayı Melenchon, hükümetin iddia ettiğinin aksine seçimler üzerindeki risklerin \"aşırı solcu gruplardan değil, Netanyahu'dan kaynaklandığını\" ifade etti. Melenchon, martta düzenlenen belediye seçimleri hakkında \"Marsilya, Toulouse, Roubaix ve Paris'teki seçimler üzerinde etkisi olan Bay Netanyahu'dur\" dedi.",
+    "image": "https://static.birgun.net/resim/haber/2026/10/22/melenchon-dan-netanyahu-ya-fransa-daki-secimlere-mudahale-tepkisi.webp",
+    "keyword": ""
+  },
+  {
     "id": "TKP_612ef1cf",
     "title": "BİLİMFEST TRABZON BAŞLIYOR - Taka Gazete",
     "source": "Google Haberler",
@@ -4725,78 +4797,6 @@
     "prefix": "🌐 📰",
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_c719e0cc",
-    "title": "Günlük Burç Yorumları: 22 Ekim Perşembe Başak Burcu Yorumu",
-    "source": "Cumhuriyet",
-    "time": "21/10/2026 22:13",
-    "link": "https://www.cumhuriyet.com.tr/astroloji/basak-burcu/gunluk-burc-yorumlari-22-ekim-persembe-basak-burcu-yorumu-2548941",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Günlük Burç Yorumları: 22 Ekim Perşembe Başak Burcu Yorumu",
-    "image": "https://media.cumhuriyet.com.tr/Archive/38294c58-91e6-41c7-b566-f131ebcb9e1e.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_5d39f868",
-    "title": "'Tüm işlemler gözden geçirilmeli' diyen uzman isimden sorumlulara dair yeni adres: Tasfiye öncesi kim, ne biliyordu?",
-    "source": "Cumhuriyet",
-    "time": "21/10/2026 22:13",
-    "link": "https://www.cumhuriyet.com.tr/ekonomi/tum-islemler-gozden-gecirilmeli-diyen-uzman-isimden-sorumlulara-dair-yeni-adres-tasfiye-oncesi-kim-ne-biliyordu-2549041",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fon yöneticisi Işık Ökte, soruşturmanın fon çıkışları ve ilgili hisselerle sınırlı kalmaması gerektiğini belirterek Vadeli İşlem ve Opsiyon Piyasası’ndaki işlemlere dikkat çekti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a84103eb-c01b-4e4c-a45e-da1c5137392b.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_1c071808",
-    "title": "ABD’den İran'a yönelik yeni yaptırım kararı",
-    "source": "Haber Global",
-    "time": "21/10/2026 22:13",
-    "link": "https://haberglobal.com/dunya/abdden-irana-yonelik-yeni-yaptirim-karari-549856",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Hazine Bakanlığı, İran'ın denizcilik faaliyetlerini destekledikleri gerekçesiyle bir hukuk bürosunu, bazı gemicilik şirketleri ile yük gemilerini yaptırım listesine aldı. ABD Hazine Bakanı Scott Bessent, \"İster denizde yasa dışı petrol transferleri gerçekleştiriyor ister bir hukuk bürosu ofisinde oturuyor olun, İran rejimine destek veriyorsanız sizi bulup yaptırım uygulayacağız.\" diye konuştu.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/10/21/abdden-irana-yonelik-yeni-yaptirim-karari-4zbz.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_ed8f5f6a",
-    "title": "Hearts Teknik Direktöründen Trabzonspor’a Övgü Dolu Sözler!",
-    "source": "Kuzey Ekspres",
-    "time": "21/10/2026 22:13",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29026108/hearts-teknik-direktorunden-trabzonspora-ovgu-dolu-sozler",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Hearts Teknik Direktörü Wouter Vrancken, Trabzonspor karşılaşması öncesinde bordo-mavili ekibin gücüne dikkat çekti.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/21/large/hearts-teknik-direktorunden-trabzonspora-ovgu-dolu-sozler8.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_476b698c",
-    "title": "BM: Gazze'de süren İsrail saldırıları nedeniyle özellikle çocuklar ciddi risklerle karşı karşıya",
-    "source": "TRT Haber",
-    "time": "21/10/2026 22:13",
-    "link": "https://www.trthaber.com/haber/dunya/bm-gazzede-suren-israil-saldirilari-nedeniyle-ozellikle-cocuklar-ciddi-risklerle-karsi-karsiya-960819.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Birleşmiş Milletler BM, Gazze'de soykırımcı İsrail'in devam eden ve sivil kayıplara yol açan saldırıları konusunda \"derin endişe\" duyduklarını belirterek, özellikle çocukların \"ciddi risklerle\" karşı karşıya olduğu uyarısında bulundu.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_03b69fca",
-    "title": "Ertuğrul Doğan’dan Trabzonspor Taraftarına Mesaj!",
-    "source": "Kuzey Ekspres",
-    "time": "21/10/2026 22:13",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29026127/ertugrul-dogandan-trabzonspor-taraftarina-mesaj",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Hearts karşılaşması öncesinde açıklamalarda bulunan Trabzonspor Başkanı Ertuğrul Doğan, bordo-mavili camianın birlik ve beraberliğine vurgu yaparak taraftarlara teşekkür etti.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/21/large/ertugrul-dogandan-trabzonspor-taraftarina-mesaj9.jpg",
     "keyword": "TRABZON"
   }
 ]
