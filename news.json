@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_5cbd1c81",
+    "title": "Kanalizasyona düştü yaralandı",
+    "source": "OdaTV",
+    "time": "23/10/2026 03:53",
+    "link": "https://www.odatv.com/guncel/kanalizasyona-dustu-yaralandi-120167885",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir'in Odunpazarı ilçesinde kanalizasyon kuyusuna düşen at, AFAD ekiplerince kurtarıldı. Bayıltılarak tedavi edilen at belediye ekiplerince gözetim altına alındı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/23/kanalizasyona-dustu-yaralandi-6as1.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_775fc892",
+    "title": "Çin'in Tibet Özerk Bölgesi'ndeki depremde 16 kişi öldü",
+    "source": "TRT Haber",
+    "time": "23/10/2026 03:52",
+    "link": "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesindeki-depremde-16-kisi-oldu-960954.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Çin'in Tibet Özerk Bölgesi'nde dün gece meydana gelen 7 büyüklüğündeki depremde ilk belirlemelere göre 16 kişinin hayatını kaybettiği belirtildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "YRL_1a27bfe5",
+    "title": "Trabzonspor’un Hearts Galibiyeti Sonrası Onana’ya Büyük Şok!",
+    "source": "Kuzey Ekspres",
+    "time": "23/10/2026 03:52",
+    "link": "https://www.kuzeyekspres.com.tr/haber/29032801/trabzonsporun-hearts-galibiyeti-sonrasi-onanaya-buyuk-sok",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trabzonspor’un Hearts galibiyeti sonrası Andre Onana, Yomra’da zincirleme trafik kazasına karıştı.",
+    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/23/large/trabzonsporun-yildiz-kalecisi-andre-onana-kaza-gecirdi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_9bd6432c",
+    "title": "Samet Akaydın’dan Thomas Reis’e Övgü!",
+    "source": "Kuzey Ekspres",
+    "time": "23/10/2026 03:52",
+    "link": "https://www.kuzeyekspres.com.tr/haber/29032807/samet-akaydindan-thomas-reise-ovgu",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Trabzonspor’un savunma oyuncusu Samet Akaydin, Thomas Reis’in takım içindeki iletişimine ve antrenmanlarda oluşan rekabete dikkat çekerek birliktelikten duyduğu memnuniyeti dile getirdi.",
+    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/23/large/samet-akaydinden-thomas-reise-ovgu.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_040b0137",
+    "title": "Cabral’dan Trabzonspor Taraftarına Mesaj!",
+    "source": "Kuzey Ekspres",
+    "time": "23/10/2026 03:52",
+    "link": "https://www.kuzeyekspres.com.tr/haber/29032831/cabraldan-trabzonspor-taraftarina-mesaj",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Hearts maçında kırmızı kart gören Sidny Lopes Cabral, karşılaşmanın ardından sosyal medya hesabından paylaşımda bulundu.",
+    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/23/large/cabraldan-trabzonspor-taraftarina-mesaj.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_954e9a04",
     "title": "Başörtüsü nedeniyle hakimi reddeden avukat yargılandığı davadan beraat etti",
     "source": "OdaTV",
@@ -4738,65 +4798,5 @@
     "summary": "ABD Başkanı Donald Trump, NBA sezonunun ilk maçında milli marş okunurken yaptığı hareketler sebebiyle LeBron James'i ülkeye saygısızlık yapmakla suçladı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/365700.jpg",
     "keyword": ""
-  },
-  {
-    "id": "TKP_1b2d0cec",
-    "title": "Thomas Reis'ten tarihi başarı!",
-    "source": "Habertürk",
-    "time": "22/10/2026 22:52",
-    "link": "https://www.haberturk.com/spor/foto/trabzonspor-da-thomas-reis-ten-tarihi-basari-3921849",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "UEFA Konferans Ligi'nin 2. haftasında Hearts'i 2-0 mağlup eden Trabzonspor'da teknik direktör Thomas Reis, bordo-mavili takımın başında ilk 5 maçını kazanan ilk teknik adam oldu.",
-    "image": "https://im.haberturk.com/l/2026/10/22/ver1792696505/3921849/jpg/1920x1080",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_f6c34b51",
-    "title": "SPK'den ALKLC ve ANELE'nin işlemleri ile ilgili 48 kişi hakkında suç duyurusu kararı",
-    "source": "Evrensel",
-    "time": "22/10/2026 22:52",
-    "link": "https://www.evrensel.net/haber/6006199/spk-den-alklc-ve-anele-nin-islemleri-ile-ilgili-48-kisi-hakkinda-suc-duyurusu-karari",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "SPK, ALKLC, ve ANELE pay piyasalarında gerçekleştirilen işlemlere ilişkin 48 kişi hakkında suç duyurusunda bulunulmasına, 5 şirkete 2 yıl işlem yapma yasağı ve 28 kişinin ise sahip olduğu tüm lisansların iptaline karar verdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/363056.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_d50876ff",
-    "title": "Thomas Reis, Trabzonspor tarihine geçti!",
-    "source": "Habertürk",
-    "time": "22/10/2026 22:52",
-    "link": "https://www.haberturk.com/spor/trabzonspor-da-ilk-5-resmi-macini-da-kazanan-thomas-reis-tarihe-gecti-3921852",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "UEFA Konferans Ligi'nin 2. haftasında temsilcimiz Trabzonspor, İskoç ekibi Hearts'ı evinde 2-0 mağlup etti. Bordo-mavililerin teknik direktörü Thomas Reis, Trabzonspor başında çıktığı ilk 5 resmi maçtan da galip gelen ilk teknik direktör oldu.",
-    "image": "https://im.haberturk.com/l/2026/10/22/ver1792696592/3921852/jpg/1920x1080",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_0698dcec",
-    "title": "\"Gol yemeden kazandığımız için mutluyuz\"",
-    "source": "Habertürk",
-    "time": "22/10/2026 22:52",
-    "link": "https://www.haberturk.com/spor/cenk-ozkacar-gol-yemeden-kazandigimiz-icin-mutluyuz-3921853",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un defans oyuncusu Cenk Özkacar, UEFA Konferans Ligi'nin 2. haftasında 2-0'lık Hearts galibiyetinin ardından değerlendirmelerde bulundu. Gol yemeden kazandıkları için mutlu olduğunu belirten Özkacar, \"Gol yemeden kazandığımız için mutluyuz, takım savunmasını iyi yaptığımız anlamına geliyor. Güzel bir yolda olduğumuzu düşünüyorum. Umarım gol yemeden yolumuza devam ederiz.\" dedi.",
-    "image": "https://im.haberturk.com/l/2026/10/22/ver1792697010/3921853/jpg/1920x1080",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_0c31bfd9",
-    "title": "Vincenzo Italiano rotasyona gitti!",
-    "source": "Habertürk",
-    "time": "22/10/2026 22:52",
-    "link": "https://www.haberturk.com/spor/besiktas-teknik-direktoru-vincenzo-italiano-crystal-palace-karsisinda-rotasyona-gitti-3921855",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "UEFA Avrupa Ligi'nin 3. haftasında İngiliz ekibi Crystal Palace'ı konuk eden Beşiktaş'ta teknik direktör Vincenzo Italiano, Süper Lig'de son oynanan Trabzonspor karşılaşmasına göre ilk 11'de 8 değişiklik yaptı.",
-    "image": "https://im.haberturk.com/l/2026/10/22/ver1792697313/3921855/jpg/1920x1080",
-    "keyword": "TRABZON"
   }
 ]
