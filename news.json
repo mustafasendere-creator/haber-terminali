@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_1b11c65d",
+    "title": "İsrail Güney Kıbrıs'ı donatıyor",
+    "source": "OdaTV",
+    "time": "24/10/2026 02:13",
+    "link": "https://www.odatv.com/guncel/israil-guney-kibrisi-donatiyor-120168032",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güney Kıbrıs Rum Yönetimi, Doğu Akdeniz'de askeri kapasitesini artırma çalışmaları kapsamında İsrail yapımı ikinci açık deniz karakol gemisini envanterine katmaya hazırlanıyor. Rum Kesimi Savunma Bakanı Vasilis Palmas, askeri üslerin de yenileneceğini açıkladı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/24/israil-guney-kibrisi-donatiyor-azpd.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_ffd0b15a",
+    "title": "🗣️ @hadibaba.bsky.social",
+    "source": "Bluesky",
+    "time": "24/10/2026 02:12",
+    "link": "https://bsky.app/profile/hadibaba.bsky.social/post/3mylbl3nxdj2r",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Kartal 1-2 geriden döndü, Trabzon 2'de 2 yaptı! Avrupa gecesi bizimdi baba! #futbol",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_0b98aba1",
+    "title": "🗣️ TRABZON ŞİDDETLİ DEPREM OLDU SON DAKİKA",
+    "source": "YouTube",
+    "time": "24/10/2026 02:12",
+    "link": "https://www.youtube.com/watch?v=HdgArkA-MWY",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: HdgArkA-MWY)",
+    "image": "https://img.youtube.com/vi/HdgArkA-MWY/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_5a7b95d2",
+    "title": "DEM Parti'den “Ekmek, barış ve adalet için bütçe” çağrısı",
+    "source": "Evrensel",
+    "time": "24/10/2026 02:12",
+    "link": "https://www.evrensel.net/haber/6006385/dem-parti-den-ekmek-baris-ve-adalet-icin-butce-cagrisi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "DEM Parti, sosyal medya hesabından 2027 yılı bütçesine ilişkin taleplerin dile getirildiği bir video yayımladı. Paylaşımda, “Ekmek, barış ve adalet için bütçe. Hepimiz için yarın başlıyoruz.” ifadeleri kullanıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/275260.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_24ae87a3",
     "title": "Fenerbahçe son şampiyonu devirdi",
     "source": "OdaTV",
@@ -4749,54 +4797,6 @@
     "prefix": "🔔",
     "summary": "The Economist, ABD'li yetkililerin, Rusya-Ukrayna Savaşı'nın sona erdirilmesine yönelik hazırladığı plana dair haber yayımladı. Buna göre Ukrayna, NATO üyeliğinden vazgeçecek.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/357303.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_80d68500",
-    "title": "Ekim'den Sonsuzluğa Sovyetler Birliği'nde Yaşam söyleşisi: “Sovyet deneyimi bugünün sorunlarına ışık tutuyor”",
-    "source": "Evrensel",
-    "time": "23/10/2026 20:52",
-    "link": "https://www.evrensel.net/haber/6006353/ekimden-sonsuzluga-sovyetler-birliginde-yasam-soylesisi-sovyet-deneyimi-bugunun-sorunlarina-isik-tutuyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "“Ekim'den Sonsuzluğa Sovyetler Birliği’nde Yaşam” adlı kitabının söyleşisinde konuşan Kavel Alpaslan, Sovyetleri idealleştirip yalnızca geçmişin sınırları içinde düşünmenin hata olacağını belirterek, “Biz her gün tarihi yeniden yazıyoruz” dedi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/367642.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_b4d367de",
-    "title": "\"Sarıgül soruşturması\"nda 3 kişiye tutuklama talebi",
-    "source": "Evrensel",
-    "time": "23/10/2026 20:52",
-    "link": "https://www.evrensel.net/haber/6006354/sarigul-sorusturmasi-nda-3-kisiye-tutuklama-talebi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "\"Sarıgül soruşturması\" olarak bilinen soruşturma kapsamında gözaltına alınan 5 kişiden 3'ü tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/344461.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_b203d858",
-    "title": "Tutuklanan Çukurova Belediye Başkanı Emrah Kozay görevden uzaklaştırıldı",
-    "source": "Evrensel",
-    "time": "23/10/2026 20:52",
-    "link": "https://www.evrensel.net/haber/6006355/tutuklanan-cukurova-belediye-baskani-emrah-kozay-gorevden-uzaklastirildi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İçişleri Bakanlığı, Adana'nın Çukurova ilçesi Belediye Başkanı Emrah Kozay'ın tutuklanmasının ardından geçici tedbir olarak görevden uzaklaştırıldığını açıkladı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/357800.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_e121818b",
-    "title": "Nasuh Mahruki Trabzon’da anlattı! Everest Dağı'ndan AKUT başkanlığına uzanan çarpıcı hikaye...",
-    "source": "Kuzey Ekspres",
-    "time": "23/10/2026 20:52",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29038119/nasuh-mahruki-trabzonda-anlatti-everest-dagindan-akut-baskanligina-uzanan-carpici-hikaye",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Ortahisar Belediyesi tarafından bu yıl üçüncüsü düzenlenen Ortahisar Yazar Buluşmaları, edebiyat ve kültür dünyasından isimleri bir araya getirdi.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/10/23/large/nasuh-mahruki-trabzonda-anlatti.jpg",
     "keyword": ""
   }
 ]
