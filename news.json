@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_3506de01",
+    "title": "İstanbul'da cinayet şüphelileri yurt dışına kaçarken yakalandı",
+    "source": "Haber Global",
+    "time": "25/10/2026 02:52",
+    "link": "https://haberglobal.com/gundem/istanbulda-cinayet-suphelileri-yurt-disina-kacarken-yakalandi-550317",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'un Büyükçekmece ve Bağcılar ilçelerinde meydana gelen iki ayrı cinayet olayının şüphelisi olduğu değerlendirilen 3 kişi, yurt dışına kaçmak üzereyken Edirne'de düzenlenen operasyonla yakalandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/25/istanbulda-cinayet-suphelileri-yurt-disina-kacarken-yakalandi-26ug.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_34b1548d",
+    "title": "🗣️ @chronicle.goalbot.dev",
+    "source": "Bluesky",
+    "time": "25/10/2026 02:52",
+    "link": "https://bsky.app/profile/chronicle.goalbot.dev/post/3mynbhprufc2o",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "🏁 FULLTIME — Ankaragücü 2–2 1461 Trabzon FK. 2. Lig #ankaragucu #1461trabzonfk #turkey2lig",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7kwvecjzjdauibmbhwjgheth/bafkreig2hptlvui6j62i335udiq6aat42qxkrjwkgafe6uxkr5efu5flhq",
+    "keyword": "TRABZON"
+  },
+  {
     "id": "TKP_601f646a",
     "title": "63'üncü Uluslararası Antalya Altın Portakal Film Festivali'nde onur ve emek ödülleri sahiplerini buldu",
     "source": "OdaTV",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Fon soruşturması kapsamında gözaltına alınan eski milletvekili ve eski Başbakan danışmanı Ertan Aydın, tutuklama istemiyle sulh ceza hakimliğine sevk edildi.",
     "image": "https://media.cumhuriyet.com.tr/Archive/3caba742-39e3-4f34-94a6-9c8330ef134e.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_9f9762c7",
-    "title": "İlk Evim konut kredisi çıkacak mı? 1,20 faizli konut kredisi başvuru şartları neler?",
-    "source": "Cumhuriyet",
-    "time": "24/10/2026 20:13",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ilk-evim-konut-kredisi-cikacak-mi-1-20-faizli-konut-kredisi-basvuru-sartlari-neler-2549897",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İlk kez ev sahibi olmak isteyenlerin merakla beklediği İlk Evim konut kredisi gündemdeki yerini koruyor. Peki, İlk Evim konut kredisi çıkacak mı? 1,20 faizli konut kredisi başvuru şartları neler?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1e0a83d1-e59e-40b7-b8a1-f99ae14b0eb9.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_fb00e4f2",
-    "title": "Bilal Bayazıt kimdir? Samsunspor kalecisi Bilal Bayazıt kaç yaşında, nereli?",
-    "source": "Cumhuriyet",
-    "time": "24/10/2026 20:13",
-    "link": "https://www.cumhuriyet.com.tr/spor/bilal-bayazit-kimdir-samsunspor-kalecisi-bilal-bayazit-kac-yasinda-nereli-2549898",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk futbolunun kalecilerinden Bilal Bayazıt, kariyeri ve forma giydiği takımlarla merak ediliyor. Peki, Bilal Bayazıt kimdir? Samsunspor kalecisi Bilal Bayazıt kaç yaşında, nereli?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/bba20a61-a182-476b-9cdc-06202c98ae49.jpg",
     "keyword": ""
   }
 ]
