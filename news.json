@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_c7e62910",
+    "title": "İstanbullular dikkat: Bu akşam trafikte 'çile' var... İki büyük maç peş peşe",
+    "source": "OdaTV",
+    "time": "26/10/2026 06:53",
+    "link": "https://www.odatv.com/guncel/istanbulda-trafik-var-26-ekim-besiktas-basaksehir-ve-galatasaray-fenerbahce-maci-pes-pese-120168273",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da bu akşam trafik yoğunluğunun artması bekleniyor. Süper Lig'de Beşiktaş-Başakşehir ve Galatasaray-Fenerbahçe karşılaşmalarının aynı akşam peş peşe oynanacak olması, özellikle maç saatlerinde kent trafiğinin sıkışması bekleniyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/26/istanbulda-trafik-var-26-ekim-besiktas-basaksehir-ve-galatasaray-fenerbahce-maci-pes-pese-qwxi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9dd234a0",
+    "title": "Kabine yoğun gündemle toplanıyor: Masada üç kritik başlık var",
+    "source": "Haber Global",
+    "time": "26/10/2026 06:52",
+    "link": "https://haberglobal.com/gundem/kabine-yogun-gundemle-toplaniyor-masada-uc-kritik-baslik-var-550446",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında bugün Beştepe'de toplanacak. Toplantının öncelikli gündemini sermaye piyasalarında yaşanan gelişmeler ve fonların tasfiye sürecine ilişkin çalışmalar oluşturacak. Terörsüz Türkiye sürecindeki son durum ve bölgesel gelişmeler de değerlendirilecek.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/26/kabine-yogun-gundemle-toplaniyor-masada-uc-kritik-baslik-var-o21r.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_386376c0",
+    "title": "Zelenski duyurdu: ABD, Rusya ve Ukrayna arasında üçlü görüşme yapılacak",
+    "source": "Haber Global",
+    "time": "26/10/2026 06:52",
+    "link": "https://haberglobal.com/dunya/zelenski-duyurdu-abd-rusya-ve-ukrayna-arasinda-uclu-gorusme-yapilacak-550447",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya-Ukrayna Savaşı'nın sona erdirilmesi amacıyla ABD, Rusya ve Ukrayna arasında üçlü görüşmelerin yeniden başlatılacağını açıkladı. Görüşmenin kasım ayının ilk yarısında yapılması planlanıyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/26/zelenski-duyurdu-abd-rusya-ve-ukrayna-arasinda-uclu-gorusme-yapilacak-6eki.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_06cc84ee",
+    "title": "Zonguldak’ta maden ocağındaki patlamanın ardından firari işletme müdürü tutuklandı",
+    "source": "Evrensel",
+    "time": "26/10/2026 06:52",
+    "link": "https://www.evrensel.net/haber/6006588/zonguldak-ta-maden-ocagindaki-patlamanin-ardindan-firari-isletme-muduru-tutuklandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde meydana gelen ve 3 işçinin yaşamını yitirdiği maden ocağının işletme müdürü tutuklandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/367572.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_8377e07e",
     "title": "Rusya'nın Ankara Büyükelçisi Yerhov Trabzon'da - Haber 7",
     "source": "Google Haberler",
@@ -4750,53 +4798,5 @@
     "summary": "Trabzonspor, Trendyol Süper Lig'in 9. haftasında deplasmanda Çaykur Rizespor ile karşı karşıya gelecek. Bordo-mavililerin kritik Karadeniz derbisi öncesindeki muhtemel ilk 11'i şekillenmeye başladı.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_c0a507d5",
-    "title": "İzmir'de 43 bin 730 sentetik ecza hapı ele geçirildi",
-    "source": "Cumhuriyet",
-    "time": "25/10/2026 21:53",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/izmir-de-43-bin-730-sentetik-ecza-hapi-ele-gecirildi-2550155",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İzmir’in Bornova ilçesinde, bir evde ve boş arazide yapılan aramalarda polis tarafından toplam 43 bin 730 sentetik ecza hapı ele geçirildi. Olayla ilgili M.E.K. (23) yakalandı. Şahıs hakkında adli işlemler başlatıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/53e869ca-5ad4-446c-b38d-f0eaec0963e1.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_9c613484",
-    "title": "Göztepe, Çorum FK'nin serisine son verdi!",
-    "source": "Cumhuriyet",
-    "time": "25/10/2026 21:53",
-    "link": "https://www.cumhuriyet.com.tr/spor/goztepe-corum-fk-nin-serisine-son-verdi-2550156",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Göztepe, Süper Lig'in 9. haftasında kendi sahasında ağırladığı Çorum FK'yi 2-0 mağlup etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5e8a2ca1-8c21-49db-81ab-a86e632914f5.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c1b79dfc",
-    "title": "Bayern Münih Bundesliga'da liderliği üç golle aldı!",
-    "source": "Cumhuriyet",
-    "time": "25/10/2026 21:53",
-    "link": "https://www.cumhuriyet.com.tr/spor/bayern-munih-bundesliga-da-liderligi-uc-golle-aldi-2550157",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Bayern Münih, Almanya 1. Futbol Ligi'nin (Bundesliga) 7. haftasında deplasmanda karşılaştığı Freiburg'u 3-1 mağlup etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c9eec4de-edb2-4c74-9979-43dbdebd40ab.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_c4fa1d76",
-    "title": "İstanbul Havalimanı'nda 25 kilogram esrar ele geçirildi: 2 kişi gözaltında",
-    "source": "Cumhuriyet",
-    "time": "25/10/2026 21:53",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-havalimani-nda-25-kilogram-esrar-ele-gecirildi-2-kisi-gozaltinda-2550158",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Havalimanı’nda, Kamboçya’dan Güney Kore aktarmalı olarak İstanbul’a gelen İspanya pasaportlu yolcunun bagajında 25 kilo 520 gram esrar ele geçirildi. Uyuşturucu maddeyi teslim alacağı belirlenen şüpheli ise Bayrampaşa’da düzenlenen operasyonla yakalandı. Ele geçirilen uyuşturucunun piyasa değerinin yaklaşık 30 milyon 624 bin lira olduğu öğrenildi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/c29fa86a-52f7-468e-87be-4e6d01b2eada.jpg",
-    "keyword": ""
   }
 ]
