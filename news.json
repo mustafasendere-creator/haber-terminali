@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_4b6665d8",
+    "title": "Siverek’te otomobil ağaca ok gibi saplandı: 3 yaralı",
+    "source": "OdaTV",
+    "time": "27/10/2026 03:53",
+    "link": "https://www.odatv.com/guncel/siverekte-otomobil-agaca-ok-gibi-saplandi-3-yarali-120168423",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şanlıurfa’nın Siverek ilçesinde kontrolden çıkan otomobilin refüjdeki ağaca çarpması sonucu meydana gelen kazada 3 kişi yaralandı. Çarpmanın etkisiyle otomobil ikiye bölündü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/27/siverekte-otomobil-agaca-ok-gibi-saplandi-3-yarali-2qrx.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_6a6fe3c3",
+    "title": "🗣️ 🔴 CANLI | GALATASARAY - FENERBAHÇE | MAÇ SONU | ÜMİT ÖZAT & MELİH ŞENDİL",
+    "source": "YouTube",
+    "time": "27/10/2026 03:52",
+    "link": "https://www.youtube.com/watch?v=pA6nDAAmGNw",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: pA6nDAAmGNw)",
+    "image": "https://img.youtube.com/vi/pA6nDAAmGNw/hqdefault.jpg",
+    "keyword": "S:SONDAKIKA"
+  },
+  {
+    "id": "GND_db43efe4",
+    "title": "Antalya'da hortum nedeniyle parçalanan konteynerlerde 4 işçi hayatını kaybetti",
+    "source": "Evrensel",
+    "time": "27/10/2026 03:52",
+    "link": "https://www.evrensel.net/haber/6006749/antalyada-hortum-nedeniyle-parcalanan-konteynerlerde-4-isci-hayatini-kaybetti",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'nın Kepez ilçesinde etkili olan hortumda parçalanan iki konteynerde bulunan 4 işçi hayatını kaybetti, 1 işçi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/368096.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_9ad365ef",
+    "title": "İsrail'de kritik seçim: Başbakan adayları Türkiye'ye nasıl bakıyor?",
+    "source": "BBC Türkçe",
+    "time": "27/10/2026 03:51",
+    "link": "https://www.bbc.com/turkce/articles/cm5yn5j93q4vo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'de 7 Ekim saldırıları sonrası ilk genel seçim bugün yapılacak. Başbakan Binyamin Netanyahu ve en büyük rakibi Gadi Eisenkot, anketlerde başa baş görnüyor. Peki Netanyahu, Eisenkot ve diğer liderler Türkiye'yle ilişkilere nasıl bakıyor ?",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_f435b652",
+    "title": "Kılıçdaroğlu'nun erken seçim çıkışı CHP ve muhalefette nasıl yorumlandı?",
+    "source": "BBC Türkçe",
+    "time": "27/10/2026 03:51",
+    "link": "https://www.bbc.com/turkce/articles/cqlye1g8vdymo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun, iktidarın erken seçim kararı alması halinde buna itiraz etmeyeceklerini açıklaması, seçim ve adaylık hesaplarına ilişkin yeni bir tartışmayı da beraberinde getirdi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_d48692f3",
+    "title": "Suudi Arabistan'ın Harc vilayeti ve doğu bölgesinde erken uyarı sistemi devreye alındı",
+    "source": "Anadolu Ajansı",
+    "time": "27/10/2026 03:51",
+    "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-harc-vilayeti-ve-dogu-bolgesinde-erken-uyari-sistemi-devreye-alindi/4101863",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin Harc vilayeti ile doğu bölgesi için erken uyarı sisteminin devreye alındığını duyurdu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_b903ea1b",
     "title": "Süper Lig 9'uncu hafta maçı: Trabzonspor, Çaykur Rizespor'u deplasmanda 4-3 yendi - Evrensel.net",
     "source": "Google Haberler",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "SPK, Tera Portföy Yönetimi AŞ ve Pusula Portföy Yönetimi AŞ'nin sermaye piyasası faaliyetlerini geçici olarak durdurma ve bu şirketlerin kurucusu olduğu fonların tasfiye işlemlerini yürütmek üzere bankaları görevlendirme kararı aldı.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_20c7ec63",
-    "title": "Zincir Marketlerde Yüzde 20 Üreticiden Alım Şartı Gündemde",
-    "source": "Taka Gazetesi",
-    "time": "26/10/2026 22:33",
-    "link": "https://www.takagazete.com.tr/zincir-marketlerde-yuzde-20-ureticiden-alim-sarti-gundemde",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Hal Yasası taslağı, yeni dönemde zincir marketlerin sebze ve meyvenin yüzde 20’sini doğrudan üretici veya üretici örgütlerinden almasını ayrıca öngörüyor. Sebze ve meyvenin tarladan market rafına uzanan tedarik zinciri için yeni bir düzenleme hazırlığı yapılıyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/zincir-market-yuzde-20-uretici-sarti-m-a-n-s-e-t.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_d9529434",
-    "title": "İşgalci İsrail, kuşattığı El Halil'de Filistinli aileye evinden çıkması için sadece yarım saat verdi",
-    "source": "TRT Haber",
-    "time": "26/10/2026 22:33",
-    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-kusattigi-el-halilde-filistinli-aileye-evinden-cikmasi-icin-sadece-yarim-saat-verdi-961267.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İşgalci İsrail ordusunun, dört gündür kuşattığı Batı Şeria'nın El Halil kentinde ikamet eden Filistinli Macide Şuveyki, İsrail askerlerinin, evlerinden ayrılmaları için sadece yarım saat süre tanıdığını belirtti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_e89871cb",
-    "title": "Trabzonspor'da Thomas Reis ile Dörtte Dört! Rizespor Maçında Tarihi Detay",
-    "source": "Taka Gazetesi",
-    "time": "26/10/2026 22:33",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-thomas-reis-ile-dortte-dort-rizespor-macinda-tarihi-detay",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor, Rizespor deplasmanında 2-0 geriye düştüğü maçı 4-3 kazandı. Bordo-mavililer, ikinci yarıda attığı dört golle 16 yıl öncesini hatırlatan bir başarıya imza attı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/trabzonsporun-zafer-coskusu.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_93ae46e0",
-    "title": "Thomas Reis'ten Trabzonspor'un Rize Zaferi Sonrası İtiraf! Tanıyamadım",
-    "source": "Taka Gazetesi",
-    "time": "26/10/2026 22:33",
-    "link": "https://www.takagazete.com.tr/thomas-reisten-trabzonsporun-rize-zaferi-sonrasi-itiraf-taniyamadim",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Teknik Direktörü Thomas Reis, Rizespor karşısındaki 4-3'lük galibiyetin ardından çarpıcı açıklamalar yaptı. İlk yarıyı eleştiren Alman hoca, devre arasını anlattı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/10/soyunma-odasinda-ne-dedi.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_33eebf79",
-    "title": "Tutuklu gazeteci İsmail Arı: Temel insani ihtiyaçlarımız için bile mücadele ediyoruz",
-    "source": "Diken",
-    "time": "26/10/2026 22:33",
-    "link": "https://www.diken.com.tr/tutuklu-gazeteci-ismail-ari-temel-insani-ihtiyaclarimiz-icin-bile-mucadele-ediyoruz/",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Tutuklu gazeteci İsmail Arı: Temel insani ihtiyaçlarımız için bile mücadele ediyoruz 26.10.2026 Diken Tutuklu gazeteci İsmail Arı, cezaevinden ilettiği mektubunda \"Gazetecileri cezaevine koyabilirsiniz ama gerçekleri cezaevine kapatamazsınız\" dedi. The post Tutuklu gazeteci İsmail Arı: Temel insani ihtiyaçlarımız için bile mücadele ediyoruz appeared first on #sitelinkat 26.10.2026 .",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_fe55a143",
-    "title": "Trabzonspor’un Geri Dönüşünü Muçi Anlattı",
-    "source": "Günebakış",
-    "time": "26/10/2026 22:33",
-    "link": "https://www.gunebakis.com.tr/trabzonsporun-geri-donusunu-muci-anlatti/29053532",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Ernest Muçi, Çaykur Rizespor karşısındaki 4-3’lük galibiyet sonrası Trabzonspor’un ikinci yarıdaki reaksiyonuna dikkat çekti.",
-    "image": "https://static.daktilo.com/sites/1262/uploads/2026/10/26/large/geri.jpg",
     "keyword": ""
   }
 ]
