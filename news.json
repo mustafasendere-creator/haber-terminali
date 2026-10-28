@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_fcafb49e",
+    "title": "Meteoroloji'den peş peşe uyarı! İstanbul ve Ankara'da sağanak alarmı: 20 ile sarı kod",
+    "source": "Haber Global",
+    "time": "28/10/2026 06:12",
+    "link": "https://haberglobal.com/gundem/son-dakika-meteorolojiden-pes-pese-uyari-istanbul-ve-ankarada-saganak-alarmi-20-ile-sari-kod-550739",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 28 Ekim Çarşamba gününden itibaren Türkiye'nin büyük bölümünde etkili olacak sağanak yağışlara karşı uyardı. İstanbul'da 29 Ekim Cumhuriyet Bayramı'nda kuvvetli sağanak beklenirken Ankara'da da yağışlı hava etkisini sürdürecek. 20 il için sarı, Muğla için ayrıca turuncu kodlu uyarı verildi. Bazı bölgelerde sel, su baskını ve fırtına riski bulunuyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/10/28/son-dakika-meteorolojiden-pes-pese-uyari-istanbul-ve-ankarada-saganak-alarmi-20-ile-sari-kod-u8q3.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_29bcd1f7",
+    "title": "Ankara'da şüpheli ölüm: Yol kenarında bir kişinin cansız bedeni bulundu",
+    "source": "Evrensel",
+    "time": "28/10/2026 06:12",
+    "link": "https://www.evrensel.net/haber/6006901/ankarada-supheli-olum-yol-kenarinda-bir-kisinin-cansiz-bedeni-bulundu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Polatlı ilçesinde yol kenarında bulunan cansız bedenle ilgili soruşturma başlatıldı. İlk incelemelerde bir aracın çarpması sonucu meydana geldiği değerlendirilen olayda, sürücünün kaçmış olabileceği üzerinde duruluyor.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/200062.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_8e50656e",
     "title": "Trabzonspor, karaborsa biletler için hukuki süreç başlattı - Haber 7",
     "source": "Google Haberler",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "2027 yılı asgari ücretindeki olası artış, işsizlik maaşından kıdem ve ihbar tazminatına, stajyer ücretlerinden doğum rapor parasına kadar birçok ödemeyi etkileyecek.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/27/asgari-ucret-zammi-maastan-fazlasini-degistirecek-kidem-tazminati-ve-issizlik-maasi-da-listede-2uyh_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_d7dd23df",
-    "title": "🗣️ Ç.RİZESPOR-TRABZONSPOR MAÇ VLOGU  3-4 ",
-    "source": "YouTube",
-    "time": "27/10/2026 22:13",
-    "link": "https://www.youtube.com/watch?v=zPYrN2Hrk-k",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: zPYrN2Hrk-k)",
-    "image": "https://img.youtube.com/vi/zPYrN2Hrk-k/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_de4e0cef",
-    "title": "Aziz Yıldırım canlı yayında kaza yaptı",
-    "source": "Ekonomim",
-    "time": "27/10/2026 22:13",
-    "link": "https://www.ekonomim.com/spor/aziz-yildirim-canli-yayinda-kaza-yapti-haberi-927428",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe Başkanı Aziz Yıldırım, Samandıra Can Bartu Tesisleri'nden ayrılırken kullandığı araçla park halindeki bir araca çarptı. O",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/27/aziz-yildirim-canli-yayinda-kaza-yapti-zyzh_cover.jpg",
     "keyword": ""
   }
 ]
