@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_beda6578",
+    "title": "Ankara'da pompalı silahla kavga",
+    "source": "OdaTV",
+    "time": "30/10/2026 02:33",
+    "link": "https://www.odatv.com/guncel/ankarada-pompali-silahla-kavga-120168857",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara'nın Mamak ilçesinde, gece saatlerinde başlayan tartışma, silahlı kavgaya dönüştü. O anlar bir vatandaşın cep telefonu kamerasına yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/30/ankarada-pompali-silahla-kavga-tx1l.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_7c47147c",
+    "title": "Yıldırım düşen tütün deposunda yangın çıktı",
+    "source": "Habertürk",
+    "time": "30/10/2026 02:32",
+    "link": "https://www.haberturk.com/gundem/mersin-de-yildirim-dusen-tutun-deposunda-yangin-cikti-3923605",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mersin'de tütün depolanan antrepoda yıldırım düşmesi sonucu çıkan yangına müdahale ediliyor",
+    "image": "https://im.haberturk.com/l/2026/10/30/ver1793315647/3923605/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_81475ecf",
+    "title": "Ukrayna: Rus saldırısında Çernihiv'de iki genç kız öldü",
+    "source": "Euronews",
+    "time": "30/10/2026 02:32",
+    "link": "https://tr.euronews.com/video/2026/10/30/ukrayna-rus-saldirisinda-cernihivde-iki-genc-kiz-oldu",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yerel yetkililere göre Rus saldırısı Çernihiv’de 15 yaşındaki iki kızı öldürdü, 25 kişiyi yaraladı. Bu sırada ABD arabuluculuğundaki ateşkes, güney Ukrayna’da insani yolları açmak için mayın temizleme çalışmalarına olanak sağlıyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_18601f9d",
+    "title": "İsrail muhalefeti Netanyahu'yu seçimleri \"gayrimeşrulaştırmaya\" çalışmakla suçluyor",
+    "source": "BBC Türkçe",
+    "time": "30/10/2026 02:31",
+    "link": "https://www.bbc.com/turkce/articles/c6d93pd9pxw2o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'in ana muhalefet lideri Gadi Eisenkot ve Arap partilerinin liderleri, koalisyonunun parlamentodaki çoğunluğu kaybettiği seçimlerin ardından \"yabancı müdahalesi\" iddiasında bulunan Başbakan Binyamin Netanyahu'yu kınadı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_5ca29c93",
     "title": "Fenerbahçe, Madrid deplasmanında kayıp!",
     "source": "Habertürk",
@@ -4750,53 +4798,5 @@
     "summary": "📺 S:HABER | YouTube Video (ID: 1h5aSozEJU)",
     "image": "https://img.youtube.com/vi/1h5aS_ozEJU/hqdefault.jpg",
     "keyword": "S:HABER"
-  },
-  {
-    "id": "GND_2d88a12b",
-    "title": "Günaydın'dan fon vurgunu çıkışı: En az 850 milyar lira çaldılar, utançlarından listeyi açıklayamıyorlar",
-    "source": "Evrensel",
-    "time": "29/10/2026 21:32",
-    "link": "https://www.evrensel.net/haber/6007187/gunaydindan-fon-vurgunu-cikisi-en-az-850-milyar-lira-caldilar-utanclarindan-listeyi-aciklayamiyorlar",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yeni Parti Grup Başkanvekili Gökhan Günaydın, fon vurgununa dair yaptığı açıklamada \"AKP’nin elitleri; milletvekilleri, bakanları bu memleketin en az 850 milyar lirasını çaldı. Şimdi utançlarından listeyi açıklayamıyorlar\" ifadelerini kullandı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/368499.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_4a138bdb",
-    "title": "🗣️ İSPANYA'DA POLİSLE ÇATIŞMALAR BAŞLADI! Tren Kazası Sonrası Ülkede Yas İlan Edildi!",
-    "source": "YouTube",
-    "time": "29/10/2026 21:32",
-    "link": "https://www.youtube.com/watch?v=4sIuE5PHS78",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:HABER | YouTube Video (ID: 4sIuE5PHS78)",
-    "image": "https://img.youtube.com/vi/4sIuE5PHS78/hqdefault.jpg",
-    "keyword": "S:HABER"
-  },
-  {
-    "id": "GND_b7466af7",
-    "title": "Trump'tan Erdoğan'a telefon: TDT Zirvesi'ni ve Cumhuriyet Bayramı'nı kutladı",
-    "source": "Euronews",
-    "time": "29/10/2026 21:32",
-    "link": "https://tr.euronews.com/2026/10/29/trumptan-erdogana-telefon-tdt-zirvesini-ve-cumhuriyet-bayramini-kutladi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Trump, Türk Devletleri Teşkilatı Zirvesi ve 29 Ekim Cumhuriyet Bayramı nedeniyle Erdoğan'ı telefonla aradı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_6240640b",
-    "title": "Erdoğan'dan TDT Zirvesi Konuk Devlet Başkanları Onuru'na yemekte \"karşılıklı saygı\" mesajı",
-    "source": "BirGün",
-    "time": "29/10/2026 21:32",
-    "link": "https://www.birgun.net/haber/erdogan-dan-tdt-zirvesi-konuk-devlet-baskanlari-onuru-na-yemekte-karsilikli-saygi-mesaji-743353",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türk Devletleri Teşkilatı Zirvesi'ne yönelik mesajlar veren Erdoğan, \"Türk dünyası olarak tam bir dayanışma içerisinde karşılıklı saygı ve kardeşlik içinde geleceğimize beraber yürüyeceğimize, önümüzdeki dönemi inşallah Türk asrı yapmak için mücadele edeceğimize yürekten inanıyorum\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/10/29/erdogan-dan-tdt-zirvesi-konuk-devlet-baskanlari-onuru-na-yemekte-karsilikli-saygi-mesaji.jpg",
-    "keyword": ""
   }
 ]
