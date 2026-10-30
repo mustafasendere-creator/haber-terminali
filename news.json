@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_3bff0f18",
+    "title": "🗣️ Husiler'den S. Arabistan'a Yeni Saldırı Dalgası! Körfez'de Çatışmalar Yeni Boyuta Mı Taşınıyor?",
+    "source": "YouTube",
+    "time": "30/10/2026 03:33",
+    "link": "https://www.youtube.com/watch?v=q10G7rZBeME",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: q10G7rZBeME)",
+    "image": "https://img.youtube.com/vi/q10G7rZBeME/hqdefault.jpg",
+    "keyword": "S:SONDAKIKA"
+  },
+  {
+    "id": "SOC_4b90c62e",
+    "title": "🗣️ @ensonhbr.bsky.social",
+    "source": "Bluesky",
+    "time": "30/10/2026 03:33",
+    "link": "https://bsky.app/profile/ensonhbr.bsky.social/post/3mz2er5wm2j22",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Aydın'dan 1 milyon avro isteyen ve paranın ödenmemesi halinde çocuğunu öldürmekle tehdit eden şüphelilere yönelik operasyonda 4 kişi gözaltına alındı. #Gözaltı #Operasyon #Beşiktaş #Trabzonspor #Trabzon #Aydın #Spor #CNNTürk Daha fazlası: https://t.me/ensonhbr",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_45a7226b",
+    "title": "🗣️ Trabzon Gastronomi Festivali // 1,5 Tonluk Kuymak Yapımı",
+    "source": "YouTube",
+    "time": "30/10/2026 03:33",
+    "link": "https://www.youtube.com/watch?v=3cSc6prnlXQ",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 3cSc6prnlXQ)",
+    "image": "https://img.youtube.com/vi/3cSc6prnlXQ/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_d59069dc",
+    "title": "İstinat duvarı yıkılan apartmanın ortaya çıkan temeli şaşırttı",
+    "source": "OdaTV",
+    "time": "30/10/2026 03:33",
+    "link": "https://www.odatv.com/guncel/istinat-duvari-yikilan-apartmanin-ortaya-cikan-temeli-sasirtti-120168860",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara’nın Mamak ilçesinde yer alan bir apartmanın toprak kayması nedeniyle istinat duvarı yıkıldı. Duvarın yıkılmasıyla birlikte bina temelinin bir kısmı ortaya çıktı. Oluşan görüntü ise apartmanın şehir estetiğinden uzak halini gözler önüne serdi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/30/istinat-duvari-yikilan-apartmanin-ortaya-cikan-temeli-sasirtti-7d4l.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_818e3be5",
+    "title": "31 Mart yerel seçimlerinden bugüne İstanbul'un belediye dağılımı nasıl değişti?",
+    "source": "BBC Türkçe",
+    "time": "30/10/2026 03:31",
+    "link": "https://www.bbc.com/turkce/articles/ck054dlgm8zdo",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da seçilmiş 26 CHP'li ilçe belediye başkanından 14'ü çeşitli suçlamalarla soruşturma geçirdi. Tutuklu yargılamaların sürdüğü yönetimlerde başkanvekilliği seçimleri yapıldı. Bazı belediyelerde yönetimler başkanvekilliği seçimlerinde el değiştirdi ve AKP'ye geçti",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_c14a8714",
     "title": "Erdoğan'dan ödül teşekkürü",
     "source": "OdaTV",
@@ -4738,65 +4798,5 @@
     "summary": "Jeoloji Mühendisi Prof. Dr. Osman Bektaş, Kapadokya'nın Göreme ilçesinde yaşanan kaya çökmesinin ardından Trabzon'daki Sümela Manastırı için dikkat çeken uyarılarda bulundu.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_e7dad59b",
-    "title": "Güllü'nün kızı Tuğyan'ın yoğun bakımda halay çektiği görüntüler ortaya çıktı",
-    "source": "Haber Global",
-    "time": "29/10/2026 21:33",
-    "link": "https://haberglobal.com/gundem/gullunun-kizi-tugyanin-yogun-bakimda-halay-cektigi-goruntuler-ortaya-cikti-550984",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Şarkıcı Güllü'nün ölümüyle ilgili davada ağırlaştırılmış müebbet hapis cezasına çarptırılan Tuğyan Ülkem Gülter'in, geçmişte hemşire olarak çalıştığı özel hastanenin yoğun bakım ünitesinde halay çektiği anlara ait olan görüntüler ortaya çıktı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/10/29/gullunun-kizi-tugyanin-yogun-bakimda-halay-cektigi-goruntuler-ortaya-cikti-jqq7.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_3aa20edf",
-    "title": "Galata Kulesi'nde 29 Ekim'e özel Atatürk gösterisi",
-    "source": "TRT Haber",
-    "time": "29/10/2026 21:33",
-    "link": "https://www.trthaber.com/haber/gundem/galata-kulesinde-29-ekime-ozel-ataturk-gosterisi-961667.html",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kültür ve Turizm Bakanlığı, Cumhuriyet'in 103'üncü yıldönümü dolayısıyla İstanbul'daki Galata Kulesi'nde özel bir görsel gösteri gerçekleştirdi. Gösteride, Gazi Mustafa Kemal Atatürk'ün fotoğrafları ve Türk bayrağının ay yıldızı kulenin cephesine yansıtıldı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_25d42650",
-    "title": "🗣️ YUNANİSTAN'IN KOLU KANADI KIRILIYOR! Libya'dan Sonra Mısır Hamlesi Atina'yı Sarstı!",
-    "source": "YouTube",
-    "time": "29/10/2026 21:32",
-    "link": "https://www.youtube.com/watch?v=dH8EdUNq2_A",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:HABER | YouTube Video (ID: dH8EdUNq2A)",
-    "image": "https://img.youtube.com/vi/dH8EdUNq2_A/hqdefault.jpg",
-    "keyword": "S:HABER"
-  },
-  {
-    "id": "TKP_261d4907",
-    "title": "Karadeniz mutfak kültürünün fırın klasiği: Trabzon Yağlısı",
-    "source": "Cumhuriyet",
-    "time": "29/10/2026 21:32",
-    "link": "https://www.cumhuriyet.com.tr/gurme/karadeniz-mutfak-kulturunun-firin-klasigi-trabzon-yaglisi-2551544",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Mayalı yumuşacık hamurun havuz şeklinde açılıp kenarlarının kıvrıldığı; orta kısmının Trabzon peynirleri ve bol hakiki tereyağı ile doldurularak fırınlandığı, fırından çıkar çıkmaz ortasına kırılan akışkan yumurta sarısıyla sunulan efsanevi bir pide başyapıtıdır.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/91a75b17-3bde-4350-80f2-904efae341e7.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_e6c9b0f6",
-    "title": "🗣️ Cumhurbaşkanı Erdoğan ve ABD Başkanı Trump Ne Konuştu?",
-    "source": "YouTube",
-    "time": "29/10/2026 21:32",
-    "link": "https://www.youtube.com/watch?v=nzIFTYDC4z4",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:HABER | YouTube Video (ID: nzIFTYDC4z4)",
-    "image": "https://img.youtube.com/vi/nzIFTYDC4z4/hqdefault.jpg",
-    "keyword": "S:HABER"
   }
 ]
