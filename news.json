@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_880fb33f",
+    "title": "Tur otobüsü TIR ile çarpıştı: 10 yaralı",
+    "source": "Habertürk",
+    "time": "31/10/2026 03:52",
+    "link": "https://www.haberturk.com/gundem/edirne-de-tur-otobusu-tir-ile-carpisti-10-yarali-3923859",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Edirne'de yabancı turistleri taşıyan tur otobüsüyle TIR'ın çarpışması sonucu meydana gelen trafik kazasında Bulgaristan uyruklu 10 kişi yaralandı",
+    "image": "https://im.haberturk.com/l/2026/10/31/ver1793406925/3923859/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_a448bfb2",
+    "title": "'Gazze ya da hiç': İsrail'e destek, ABD ara seçimlerinde gerilim noktası haline geldi",
+    "source": "BBC Türkçe",
+    "time": "31/10/2026 03:51",
+    "link": "https://www.bbc.com/turkce/articles/cqvg0zd84rd1o",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Michigan, ABD'de 3 Kasım'da yapılacak ara seçimlerde yarışın en çekişmeli geçmesi beklenen yerlerden biri. ABD'nin İsrail'e verdiği desteğe dair endişeler Gazze tartışmasının her iki tarafındaki Michiganlı seçmenlerin oy tercihlerini şekillendiriyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "SOC_c47a1154",
     "title": "🗣️ ARDA GÜLER ANTRENMANLARA DÖNDÜ! Racing Santander Maçında Oynayacak mı?",
     "source": "YouTube",
@@ -4772,30 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Dışişleri Bakanı Hakan Fidan, ABD'nin Atlanta kentinde gerçekleştirilen G20 Dışişleri Bakanları Toplantısı marjında Endonezya Dışişleri Bakanı Arrmanatha Nasir ve Japonya Dışişleri Bakanı Toshimitsu Motegi ile görüştü.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_255e1896",
-    "title": "Kırgızistan Milli Yatırımlar Ajansından AA muhabirine Onur Belgesi",
-    "source": "Anadolu Ajansı",
-    "time": "30/10/2026 21:31",
-    "link": "https://www.aa.com.tr/tr/kurumsal-haberler/kirgizistan-milli-yatirimlar-ajansindan-aa-muhabirine-onur-belgesi/4106864",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kırgızistan Cumhurbaşkanlığına bağlı Milli Yatırımlar Ajansı, Anadolu Ajansı (AA) muhabiri Nazir Aliyev'e Onur Belgesi takdim etti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_66ee02f4",
-    "title": "Konya, Kahramanmaraş, Mersin ve Hatay'da faili meçhul 4 cinayet dosyası aydınlatıldı",
-    "source": "Anadolu Ajansı",
-    "time": "30/10/2026 21:31",
-    "link": "https://www.aa.com.tr/tr/gundem/konya-kahramanmaras-mersin-ve-hatayda-faili-mechul-4-cinayet-dosyasi-aydinlatildi/4106868",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Adalet Bakanı Akın Gürlek, Konya, Kahramanmaraş, Mersin ve Hatay'daki faili meçhul 4 cinayet dosyasının yeniden ele alındığını, 26 şüphelinin yakalandığını, bir şüphelinin ise ceza infaz kurumunda bulunduğunun belirlendiğini bildirdi.",
     "image": null,
     "keyword": ""
   }
