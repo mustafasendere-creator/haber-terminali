@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_9aec2d3c",
+    "title": "Bayrağa ve şehide hakarete gözaltı",
+    "source": "Habertürk",
+    "time": "01/11/2026 02:32",
+    "link": "https://www.haberturk.com/gundem/bayraga-ve-sehide-hakarete-gozalti-3924030",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Balıkesir'de, sosyal medyadan şehit askere ve Türk bayrağına yönelik hakaret içerikli paylaşım yapan kişi gözaltına alındı",
+    "image": "https://im.haberturk.com/l/2026/11/01/ver1793488282/3924030/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f159046d",
+    "title": "Bingöl'de ticari araç takla attı: 1 ölü, 2 yaralı",
+    "source": "Haber Global",
+    "time": "01/11/2026 02:32",
+    "link": "https://haberglobal.com/gundem/bingolde-ticari-arac-takla-atti-1-olu-2-yarali-551275",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bingöl'de hafif ticari aracın takla atarak yoldan çıkması sonucu meydana gelen trafik kazasında 1 kişi hayatını kaybetti, 2 kişi ağır yaralandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/01/bingolde-ticari-arac-takla-atti-1-olu-2-yarali-fn6l.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e6260819",
+    "title": "Dışişleri Bakanı Fidan: Rusya ve Ukrayna, bir anlaşmaya varmak zorundalar",
+    "source": "Anadolu Ajansı",
+    "time": "01/11/2026 02:31",
+    "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorundalar/4107662",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, bir anlaşmaya varmak zorundalar.\" dedi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_3f647535",
     "title": "Breaking Bad efsaneleri yıllar sonra bir arada",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "DINK #HRANT"
-  },
-  {
-    "id": "GND_956948ad",
-    "title": "Google, aktif cihazlarda hangi Android sürümünün kullanıldığını açıkladı",
-    "source": "Cumhuriyet",
-    "time": "31/10/2026 19:54",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/google-aktif-cihazlarda-hangi-android-surumunun-kullanildigini-acikladi-2552046",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Google, hangi Android sürümlerinin hangi oranda kullanıldığını açıkladı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/1cc57f40-e6fc-43a4-a5d1-98c7935f6f8e.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_3c970063",
-    "title": "AKP’li Yayman’dan fon vurgunu açıklaması: ‘Partimiz bu kişilerle yolunu ayıracaktır’",
-    "source": "Cumhuriyet",
-    "time": "31/10/2026 19:54",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/akp-li-yayman-dan-fon-vurgunu-aciklamasi-partimiz-bu-kisilerle-yolunu-ayiracaktir-2552047",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKP Genel Başkan Yardımcısı Hüseyin Yayman, gündemdeki fon krizine ilişkin yaptığı açıklamada, “Beytülmala ve milletin hukukuna dokunanlar gerekli yaptırımları ve cezaları alacaktır” dedi. Yayman, suça karışan kişilerle partinin yollarını ayıracağını söyledi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5ec6db36-f384-4e79-95aa-dc3d5f3fee97.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_161d44ab",
-    "title": "Diyarbakır merkezli 10 ilde fuhuş operasyonu: 17 şüpheli tutuklandı",
-    "source": "Haber Global",
-    "time": "31/10/2026 19:53",
-    "link": "https://haberglobal.com/gundem/diyarbakir-merkezli-10-ilde-fuhus-operasyonu-17-supheli-tutuklandi-551248",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Diyarbakır merkezli 10 ilde internet üzerinden fuhuş faaliyetlerini organize eden şüphelilere yönelik ‘Silüet Operasyonu’ düzenlendi. MASAK incelemelerinde 977 milyon TL'lik finansal işlem hacmi tespit edilen 17 şüpheli tutuklandı.",
-    "image": "https://i.haberglobal.com/storage/files/images/2026/10/31/diyarbakir-merkezli-10-ilde-fuhus-operasyonu-17-supheli-tutuklandi-ango.jpg",
-    "keyword": ""
   }
 ]
