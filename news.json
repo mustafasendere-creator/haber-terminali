@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_4a405c4e",
+    "title": "Muhalefet, Netanyahu'ya karşı harekete geçecek",
+    "source": "Habertürk",
+    "time": "01/11/2026 03:12",
+    "link": "https://www.haberturk.com/dunya/muhalefet-netanyahu-ya-karsi-harekete-gececek-3924032",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail'de 27 Ekim'de yapılan parlamento seçimlerinde muhalefetin en güçlü ismi olarak çıkan Yashar Partisi lideri Gadi Eisenkot, İsrail Meclisi'nde Arap partileri de dahil elde ettikleri milletvekili çoğunluğunu Başbakan Binyamin Netanyahu liderliğindeki mevcut hükümete karşı derhal kullanacaklarını belirtti",
+    "image": "https://im.haberturk.com/l/2026/11/01/ver1793490888/3924032/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_0fe74765",
+    "title": "Cinsel taciz suçundan aranan hükümlü yakalandı",
+    "source": "Haber Global",
+    "time": "01/11/2026 03:12",
+    "link": "https://haberglobal.com/gundem/cinsel-taciz-sucundan-aranan-hukumlu-yakalandi-551276",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Hatay Antakya'da cinsel taciz suçundan 2 yıl 6 ay kesinleşmiş hapis cezasıyla aranan hükümlü yakalanarak tutuklandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/01/cinsel-taciz-sucundan-aranan-hukumlu-yakalandi-c63c.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4ed6fe7e",
+    "title": "SPK Başkanlığına Muhsin Atcı atandı",
+    "source": "Anadolu Ajansı",
+    "time": "01/11/2026 03:11",
+    "link": "https://www.aa.com.tr/tr/ekonomi/spk-baskanligina-muhsin-atci-atandi/4107676",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sermaye Piyasası Kurulu (SPK) Başkanlığına, Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_af1a4a62",
     "title": "Karadeniz’de güvenli ulaşım için diplomasi: Zelenskiy ile görüşen Erdoğan Rusya ile de görüşecek - Günebakış Gazetesi Trabzon",
     "source": "Google Haberler",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Türkiye ile savunma sanayisi başta olmak üzere yeni ortak sanayi, ekonomi ve enerji projeleri üzerinde çalıştıklarını belirtti.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/31/zelenskiy-turkiye-ile-yeni-sanayi-ve-enerji-projeleri-uzerinde-calisiyoruz-trqc_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_16cd4ac8",
-    "title": "🗣️ 【都市剧】高位关系 37丨顶尖创意总监#殷桃 事业正当红，两段婚史却意外曝光，一夜沦为全网焦点！面对舆论围剿，她强势破局，重新迎来事业巅峰！ #好剧 #全集",
-    "source": "YouTube",
-    "time": "31/10/2026 20:13",
-    "link": "https://www.youtube.com/watch?v=zQhXnFNTiO8",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:TRABZON | YouTube Video (ID: zQhXnFNTiO8)",
-    "image": "https://img.youtube.com/vi/zQhXnFNTiO8/hqdefault.jpg",
-    "keyword": "S:TRABZON"
-  },
-  {
-    "id": "GND_52aa80fe",
-    "title": "Günlük Burç Yorumları: 1 Kasım Akrep Burcu Yorumu",
-    "source": "Cumhuriyet",
-    "time": "31/10/2026 20:13",
-    "link": "https://www.cumhuriyet.com.tr/astroloji/akrep-burcu/gunluk-burc-yorumlari-1-kasim-akrep-burcu-yorumu-2552003",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Günlük Burç Yorumları: 1 Kasım Akrep Burcu Yorumu",
-    "image": "https://media.cumhuriyet.com.tr/Archive/d09e9e89-682c-461f-af41-4783cc9892c2.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_359ab53e",
-    "title": "Claude ile video oyunlarının kopyalarının oluşturulması yasaklanıyor",
-    "source": "Cumhuriyet",
-    "time": "31/10/2026 20:13",
-    "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/claude-ile-video-oyunlarinin-kopyalarinin-olusturulmasi-yasaklaniyor-2552048",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Yapay zeka şirketleri yavaş yavaş telif ve emek hakkında seslerin yükselmesinin ardından hamleler yapmaya başladı. Claude yapay zeka modelinin geliştirici şirketi Anthropic, video oyunlarının kopyalanmasının önüne geçmek için adım attı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/5eb5f9c5-218d-409f-961b-f25136195470.png",
     "keyword": ""
   }
 ]
