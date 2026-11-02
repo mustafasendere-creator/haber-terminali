@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_1e733a63",
+    "title": "Binadaki kötü kokunun altından 5 günlük kadın cesedi çıktı",
+    "source": "OdaTV",
+    "time": "02/11/2026 03:53",
+    "link": "https://www.odatv.com/guncel/binadaki-kotu-kokunun-altindan-5-gunluk-kadin-cesedi-cikti-120169242",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri’nin Melikgazi ilçesinde bir binadaki kötü kokunun altından 5 gün önce hayatını kaybeden kadının cesedi çıktı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/02/binadaki-kotu-kokunun-altindan-5-gunluk-kadin-cesedi-cikti-rmyr.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4be9397a",
+    "title": "İzmir'de inşaat temel kazısında toprak kayması: 3 bina tahliye edildi",
+    "source": "BirGün",
+    "time": "02/11/2026 03:51",
+    "link": "https://www.birgun.net/haber/izmir-de-insaat-temel-kazisinda-toprak-kaymasi-3-bina-tahliye-edildi-743901",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İzmir Bayraklı'da Alpaslan Mahallesi'nde temel kazısında toprak kayması meydana geldi. Toprak kayması nedeniyle yakındaki 3 bina tahliye edildi.",
+    "image": "https://static.birgun.net/resim/haber/2026/11/02/izmir-de-insaat-temel-kazisinda-toprak-kaymasi-3-bina-tahliye-edildi.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_07562ced",
+    "title": "Yemen'den Husilerin alıkoyduğu BM çalışanının ölümüne ilişkin bağımsız soruşturma talebi",
+    "source": "Anadolu Ajansı",
+    "time": "02/11/2026 03:51",
+    "link": "https://www.aa.com.tr/tr/dunya/yemenden-husilerin-alikoydugu-bm-calisaninin-olumune-iliskin-bagimsiz-sorusturma-talebi/4108251",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yemen Dışişleri Bakanı Efrah ez-Zube, Husilerin 6 Haziran 2024 yılından bu yana alıkoyduğu BM çalışanının ölümüne ilişkin uluslararası ve bağımsız bir soruşturma yürütülmesi ile diğer tutukluların serbest bırakılması çağrısında bulundu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_7c1a519c",
     "title": "İş yerinde yangın çıkarıp, eline geçeni etrafa fırlattı",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Gaziantep'in Yavuzeli ilçesinde yağışlı havada kontrolden çıkan yolcu minibüsü, taklalar atarak yol kenarına savruldu. Kazada sürücü ile birlikte 14 yolcu yaralanırken, olay yerine çok sayıda sağlık,... Devamı için tıklayınız",
     "image": "https://iaahbr.tmgrup.com.tr/464702/0/0/0/0/1536/2048?u=https://iahbr.tmgrup.com.tr/2026/11/01/gaziantepte-yolcu-minibusu-taklalar-atarak-yol-kenarina-uctu-kazada-15-kisi-yaralandi-1793556071247.jpg",
     "keyword": ""
-  },
-  {
-    "id": "SOC_b00da399",
-    "title": "🗣️ TRUMP: İran'da Vuruluacak 1-2 Yer Kaldı! ABD İran'a Saldırıya Hazırlanıyor",
-    "source": "YouTube",
-    "time": "01/11/2026 20:33",
-    "link": "https://www.youtube.com/watch?v=uScmZAh6GOI",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: uScmZAh6GOI)",
-    "image": "https://img.youtube.com/vi/uScmZAh6GOI/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
-  },
-  {
-    "id": "SOC_b0e555bd",
-    "title": "🗣️ @eshahaber.bsky.social",
-    "source": "Bluesky",
-    "time": "01/11/2026 20:33",
-    "link": "https://bsky.app/profile/eshahaber.bsky.social/post/3mzb4jpighm23",
-    "type": "SOC",
-    "prefix": "🔵 🦋",
-    "summary": "Gaziantep FK’de kan kaybı sürüyor: Trabzon’da da yenildi!: Olağanüstü kongreye hazırlanan kırmızı-siyahlılarda üst üste gelen yenilgilere, kulübün mali durumuna ilişkin tartışmalar da ekleniyor. Gaziantep FK, kötü gidişe Trabzon deplasmanında da dur diyemedi. Trabzonspor… #sondakika #news #gündem",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "SOC_2b69b719",
-    "title": "🗣️ @ensonhbr.bsky.social",
-    "source": "Bluesky",
-    "time": "01/11/2026 20:33",
-    "link": "https://bsky.app/profile/ensonhbr.bsky.social/post/3mzb53p47ze2b",
-    "type": "SOC",
-    "prefix": "🔵 🦋",
-    "summary": "#Trabzonspor #GaziantepFK #SüperLig #Gaziantep #Trabzon #Spor #TrendyolSüper #Cumhuriyet Daha fazlası: https://t.me/ensonhbr",
-    "image": null,
-    "keyword": "TRABZON"
   }
 ]
