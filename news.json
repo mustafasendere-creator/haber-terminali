@@ -1,5 +1,77 @@
 [
   {
+    "id": "GND_bb4487ee",
+    "title": "Bir ödül konuşmasından fazlası: Dinlemeyi unutanlara ders olsun",
+    "source": "OdaTV",
+    "time": "03/11/2026 06:33",
+    "link": "https://www.odatv.com/yazarlar/gozde-sula/cate-blanchettin-odul-konusmasi-dinlemek-ve-kusku-duymak-120169287",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cate Blanchett, ödül konuşmasında kelimelerin yetmediği anları, kadınların kuşkusunun özgüven eksikliği sayılmasını ve başarıya rağmen kendini sorgulayabilmeyi anlattı. Söyledikleri, birbirimizi nasıl dinlediğimize de ayna tutuyor.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/02/cate-blanchettin-odul-konusmasi-dinlemek-ve-kusku-duymak-fgwx.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_31c9e43f",
+    "title": "Best way to travel from Istanbul to Trabzon as a tourist?",
+    "source": "Reddit",
+    "time": "03/11/2026 06:33",
+    "link": "https://www.reddit.com/r/AskTurkey/comments/1xm6la6/best_way_to_travel_from_istanbul_to_trabzon_as_a/",
+    "type": "SOC",
+    "prefix": "🟠 🤖",
+    "summary": "I was gonna buy a bike and ride the whole way but I'm realizing I dont have the time. Should I fly, rent a car?, or something else? Keep in mind I'm a tourist. Also, where can I see snow at the end of November? submitted by /u/Skol-Man14 to r/AskTurkey link yorumlar",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_faa9332e",
+    "title": "Meteoroloji'den 8 il için sarı kodlu alarm! Kuvvetli sağanak uyarısı",
+    "source": "Haber Global",
+    "time": "03/11/2026 06:32",
+    "link": "https://haberglobal.com/gundem/meteorolojiden-8-il-icin-sari-kodlu-alarm-kuvvetli-saganak-uyarisi-551529",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü (MGM), 3 Kasım Salı günü için 8 ili sarı kodla uyardı. Türkiye'nin batı kesimlerinde etkili olması beklenen kuvvetli sağanak yağış nedeniyle sel, su baskını, yıldırım ve ulaşımda aksamalara karşı dikkatli olunması istendi. Muğla'da ise yağışların yer yer şiddetli olması bekleniyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/03/meteorolojiden-8-il-icin-sari-ve-turuncu-kodlu-alarm-kuvvetli-saganak-kapida-qvyy.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e1fe20dd",
+    "title": "Sıcaklıklar yarından itibaren 5 ila 8 derece azalacak",
+    "source": "TRT Haber",
+    "time": "03/11/2026 06:32",
+    "link": "https://www.trthaber.com/haber/gundem/sicakliklar-yarindan-itibaren-5-ila-8-derece-azalacak-962011.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Türkiye genelinde hava sıcaklıklarının yarından itibaren batı kesimlerden başlayarak hissedilir derecede 5 ila 8 derece azalacağı tahmin ediliyor. Sıcaklık düşüşüyle birlikte ülke genelinde kuvvetli yağış ve Marmarada sert rüzgarlar etkili olacak.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_611a6ee1",
+    "title": "7 il için kuvvetli yağış uyarısı",
+    "source": "TRT Haber",
+    "time": "03/11/2026 06:32",
+    "link": "https://www.trthaber.com/haber/turkiye/7-il-icin-kuvvetli-yagis-uyarisi-962012.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kıyı Ege ile Marmara'nın batısında beklenen kuvvetli yağış nedeniyle 7 il için \"sarı\" kodlu uyarıda bulunuldu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_8e420f97",
+    "title": "Meksika'da küçük uçak yerleşim yerine düştü: 2 kişi yaşamını yitirdi",
+    "source": "Evrensel",
+    "time": "03/11/2026 06:32",
+    "link": "https://www.evrensel.net/haber/6007744/meksikada-kucuk-ucak-yerlesim-yerine-dustu-2-kisi-yasamini-yitirdi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meksika'nın Hidalgo eyaletinde Pachuca'dan havalanan Cessna 210 tipi küçük uçak, yerleşim yerine düştü. Kazada uçaktaki 2 kişi yaşamını yitirirken olayla ilgili soruşturma başlatıldı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/369019.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_5499c5d1",
     "title": "Baba ve kızı evde ölü bulundu",
     "source": "Habertürk",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 6. haftasında Beşiktaş, evinde ağırladığı Glint Çayırova Belediyespor'u 93-76 yendi. Bu sonucun ardından Beşiktaş ligde 3. galibiyetini alırken Çayırova Belediyespor ise 5. yenilgisini yaşadı.",
     "image": "https://im.haberturk.com/l/2026/11/02/ver1793650081/3924434/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "GND_5c8df39a",
-    "title": "Altaylı '300 milyon liralık' borsa iddiasını yazdı: Ahmet Şık, Akın Gürlek'in avukatına işaret etti",
-    "source": "Cumhuriyet",
-    "time": "02/11/2026 23:13",
-    "link": "https://www.cumhuriyet.com.tr/siyaset/altayli-300-milyon-liralik-borsa-iddiasini-yazdi-ahmet-sik-akin-gurlek-in-avukatina-isaret-etti-2552652",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazeteci Altaylı, bugünkü yazısında bir iş insanının, TFF üyeliğiyle de bilinen bir hukukçu tarafından Tera Yatırım üzerinden yapılması önerilen bir borsa işlemine dahil edilmek istendiğini yazdı. TİP milletvekili Ahmet Şık ise yaptığı paylaşımda, Bakan Gürlek'in avukatı Abdullah Adır'a işaret etti. İşte ayrıntılar...",
-    "image": "https://media.cumhuriyet.com.tr/Archive/dc32b652-aeef-4a9c-82cc-21b3e53398ce.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_5f3fdb6d",
-    "title": "Antalya'da gök gürültülü sağanak etkili oldu: Eve yıldırım düştü",
-    "source": "Cumhuriyet",
-    "time": "02/11/2026 23:13",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/antalya-da-gok-gurultulu-saganak-etkili-oldu-eve-yildirim-dustu-2552655",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Antalya'da akşam saatlerinde etkili olan gök gürültülü sağanak, kent merkezinde hayatı olumsuz etkiledi. Zaman zaman şiddetini artıran sağanak nedeniyle cadde ve sokaklarda su birikintileri oluşurken, Kepez ilçesi Göçerler Mahallesi'nde bir eve yıldırım düştü. Kent genelinde saatler boyunca şiddetini azaltmadan devam eden gök gürültüsü ve peş peşe çakan şimşekler geceyi aydınlattı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/44134bcf-519d-4480-b21b-ad734f53723c.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_f63f18df",
-    "title": "Dünya sahnelerinde yoğun hafta: Prestijli müzik festivalleri, La Scala’da 'Faust' operası ve sanat fuarları sanatseverlerle buluşuyor",
-    "source": "Cumhuriyet",
-    "time": "02/11/2026 23:13",
-    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/dunya-sahnelerinde-yogun-hafta-prestijli-muzik-festivalleri-la-scala-da-faust-operasi-ve-sanat-fuarlari-sanatseverlerle-bulusuyor-2552649",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Dünyanın dört bir yanında müzikten sinemaya, sanat fuarlarından opera ve tiyatroya uzanan zengin bir yelpazede sanatseverlerle buluşacak küresel kültür-sanat ajandasında; Iceland Airwaves, Pitchfork London ve Le Guess Who? müzik festivalleri, Teatro alla Scala’da sahnelenecek \"Faust\" operası, PAN Amsterdam, Salon Art + Design ve ART COLOGNE gibi uluslararası sanat fuarları ile Cenevre ve Aesthetica film festivalleri haftanın öne çıkan etkinlikleri arasında yer alıyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/041ad770-f66c-4c12-88e4-28ca22b1c097.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_49979764",
-    "title": "Sağanak İstanbul'u vurdu: Valilikten uyarı geldi",
-    "source": "Cumhuriyet",
-    "time": "02/11/2026 23:13",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/saganak-istanbul-u-vurdu-valilikten-uyari-geldi-2552660",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul’da akşam saatlerinde başlayan sağanak yağış, kentin birçok ilçesinde etkisini gösterdi. Esenyurt'ta sağanak nedeniyle yolda çökme meydana gelirken, İstanbul Valiliği'nden uyarı geldi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/e4d5f098-2c88-44a5-94d3-9b4f2faeea69.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_7aadbde9",
-    "title": "İstanbul sahnelerinde yoğun hafta: İddialı oyunlar, senfoni konserleri ve dev etkinlikler bir arada",
-    "source": "Cumhuriyet",
-    "time": "02/11/2026 23:13",
-    "link": "https://www.cumhuriyet.com.tr/kultur-sanat/istanbul-sahnelerinde-yogun-hafta-iddiali-oyunlar-senfoni-konserleri-ve-dev-etkinlikler-bir-arada-2552662",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul bu hafta; Devlet Tiyatroları ve İBB Şehir Tiyatroları'nın \"Aslında Kaşık Yok\", \"Köpek Kalbi\" ve \"Bir Ziyaret\" gibi iddialı yapımları, Zorlu PSM’deki özel sahne gösterilerinin yanı sıra Edis, Gökhan Türkmen ve Levent Yüksel konserleri, Borusan İstanbul Filarmoni Orkestrası’nın sezon açılışı ve sanatseverleri ağırlayan nitelikli sergileriyle zengin bir kültür sanat programı sunuyor.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/19ca498e-00f1-47e0-a2cd-8c4cd20d7f3b.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_362911fa",
-    "title": "Trafikte yol verme kavgası: Ailece saldırdıkları sürücüyü darbettiler!",
-    "source": "Cumhuriyet",
-    "time": "02/11/2026 23:13",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/trafikte-yol-verme-kavgasi-ailece-saldirdiklari-surucuyu-darbettiler-2552664",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İstanbul Bakırköy'de sürücüler arasında çıkan 'yol verme' tartışması kavgaya dönüştü. Aynı araçta bulunan anne, baba ve oğulları, tartıştıkları kişiye küfrederek saldırdı. Kavga cep telefonu kamerasına yansıdı. Olaya ilişkin inceleme başlatan polis ekipleri, sürücü H.İ.'ye 182 bin 719 lira idari para cezası uyguladı. Gözaltına alınan H.İ. hakkında 'Trafik güvenliğini tehlikeye sokma' suçundan adli işlem başlatıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/cdce4054-9b1c-4d0b-a19b-dad96922a10d.jpg",
     "keyword": ""
   }
 ]
