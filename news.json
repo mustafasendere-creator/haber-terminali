@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_aa2f37a7",
+    "title": "🗣️ @spotterintel.bsky.social",
+    "source": "Bluesky",
+    "time": "04/11/2026 03:53",
+    "link": "https://bsky.app/profile/spotterintel.bsky.social/post/3mzh2hsx7mf2t",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "Air France AF157 diverted en route to Paris, landing instead at Trabzon. The Boeing 777-300ER landed at TZX at 13:39 UTC. Reason not yet confirmed.",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_2969a8c5",
+    "title": "GKRY, Suriyeli sığınmacıları zorla sınır dışı etmeye başladı",
+    "source": "OdaTV",
+    "time": "04/11/2026 03:53",
+    "link": "https://www.odatv.com/guncel/gkry-suriyeli-siginmacilari-zorla-sinir-disi-etmeye-basladi-120169592",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Güney Kıbrıs Rum Yönetimi (GKRY), iltica başvuruları reddedilen ve yasal ikamet hakkı bulunmayan Suriyeli sığınmacıların zorunlu olarak ülkelerine gönderilmesi uygulamasını başlattı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/04/gkry-suriyeli-siginmacilari-zorla-sinir-disi-etmeye-basladi-rvux.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1e5940cb",
+    "title": "Aracından inerek scooter sürücüsüne saldıran şahsa 180 bin TL para cezası",
+    "source": "OdaTV",
+    "time": "04/11/2026 03:53",
+    "link": "https://www.odatv.com/guncel/aracindan-inerek-scooter-surucusune-saldiran-sahsa-180-bin-tl-para-cezasi-120169593",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ümraniye’de trafik güvenliğini tehlikeye düşürdüğü görüntüleri sosyal medyada paylaşılan sürücüye 180 bin TL idari para cezası uygulanırken, araç ve sürücü belgesine 60 gün süreyle el konuldu.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/04/aracindan-inerek-scooter-surucusune-saldiran-sahsa-180-bin-tl-para-cezasi-dh2p.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_6122217c",
+    "title": "🗣️ Full Video: Kicked Out by Her Husband at 40! She Renovates an Abandoned House and Starts Over",
+    "source": "YouTube",
+    "time": "04/11/2026 03:53",
+    "link": "https://www.youtube.com/watch?v=qHkblh9j_9A",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:TRABZON | YouTube Video (ID: qHkblh9j9A)",
+    "image": "https://img.youtube.com/vi/qHkblh9j_9A/hqdefault.jpg",
+    "keyword": "S:TRABZON"
+  },
+  {
+    "id": "GND_cc04a7d7",
+    "title": "Gece yarısı aile katliamı: Anne ve kızı öldü, 1 kızı yaralı",
+    "source": "Sözcü",
+    "time": "04/11/2026 03:52",
+    "link": "https://www.sozcu.com.tr/gece-yarisi-aile-katliami-anne-ve-kizi-oldu-1-kizi-yarali-p375790",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gece yarısı aile katliamı: Anne ve kızı öldü, 1 kızı yaralı",
+    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/aileicidehsetannevekizioldu1kiziyaralikapak414c39df1c676e8fjpg-UsWnY3898UmuEUB7YcO4ag.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_b17fe708",
     "title": "Samsun’da sokakta maymun paniği: İtfaiye yakaladı",
     "source": "OdaTV",
@@ -4737,66 +4797,6 @@
     "prefix": "🌊",
     "summary": "A Milli Futbol Takımı’nın Belçika ve Fransa maçları öncesinde açıklanan aday kadrosunda Trabzonspor’un genç futbolcusu Aral Şimşir de yer aldı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/11/03/large/a-milli-takim-aday-kadrosu-aciklandi-iste-trabzonspordan-cagrilan-isim6.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_0a86d89c",
-    "title": "Trabzonspor'un Eski Teknik Direktörü Zirveye Oynuyor! Ahmet Özen'den Büyük Hedef",
-    "source": "Taka Gazetesi",
-    "time": "03/11/2026 22:13",
-    "link": "https://www.takagazete.com.tr/trabzonsporun-eski-teknik-direktoru-zirveye-oynuyor-ahmet-ozenden-buyuk-hedef",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon futbolunun yetiştirdiği deneyimli teknik adamlardan Ahmet Özen, TFF 3. Lig 3. Grup'ta mücadele eden Kırşehirspor'un başında başarılı bir dönem geçiriyor. Futbolculuk kariyerinde Trabzonspor, Akçaabat Sebatspor ve Bafraspor formalarını giyen, teknik adamlık kariyerinde ise bordo-mavili takımın A takımında görev alan Özen, yeni kulübünde şampiyonluk hedefiyle çalışmalarını sürdürüyor.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/ahmet-ozenden-trabzona-buyuk-hedef.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_a3706d32",
-    "title": "Ege Üniversitesi KYK yurdunda şüpheli ölüm: Ezgi Çetin yaşamını yitirdi",
-    "source": "Cumhuriyet",
-    "time": "03/11/2026 22:13",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/ege-universitesi-kyk-yurdunda-supheli-olum-ezgi-cetin-yasamini-yitirdi-2553022",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ege Üniversitesi Bornova KYK yurdunda altıncı kattan düştüğü iddia edilen Ezgi Çetin yaşamını yitirdi.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/a3b8ab86-0a9c-4d07-b2ce-2160fce06712.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_407aa079",
-    "title": "TFF Başkanı Hacıosmanoğlu Sessizliğini Bozdu: Trabzon'da Neler Oluyor?",
-    "source": "Taka Gazetesi",
-    "time": "03/11/2026 22:13",
-    "link": "https://www.takagazete.com.tr/tff-baskani-haciosmanoglu-sessizligini-bozdu-trabzonda-neler-oluyor",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TFF Başkanı İbrahim Hacıosmanoğlu, Trabzonspor cephesinden gelen tepkilere sessiz kalmadı. Ertuğrul Doğan tartışmasında yaptığı açıklamalar dikkat çekti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/trabzonda-gundem-61-numarali-forma.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_1f5549c7",
-    "title": "Galatasaray - Stuttgart maçında saha karıştı! Deniz Undav ile Barış Alper Yılmaz...",
-    "source": "Cumhuriyet",
-    "time": "03/11/2026 22:13",
-    "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-stuttgart-macinda-saha-karisti-deniz-undav-ile-baris-alper-yilmaz-2553024",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray ile Stuttgart'ın karşılaştığı UEFA Şampiyonlar Ligi'nin 4. haftasındaki mücadelede oyuncular arasında tartışma yaşandı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/21835fc0-dde1-43ed-a399-7cff3c75680e.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_fef67300",
-    "title": "Kasım Kira Zam Oranı Açıklandı: Konut Ve İş Yerlerinde Yeni Sınır",
-    "source": "Taka Gazetesi",
-    "time": "03/11/2026 22:13",
-    "link": "https://www.takagazete.com.tr/kasim-kira-zam-orani-aciklandi-konut-ve-is-yerlerinde-yeni-sinir",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "TÜİK’in ekim enflasyon verileriyle kasım ayında yenilenecek konut ve iş yeri kiralarında uygulanabilecek artış sınırı belli oldu ve yeni hesap başladı. Türkiye İstatistik Kurumunun ekim ayı Tüketici Fiyat Endeksi verilerini açıklamasıyla kasım ayında yenilenecek kira sözleşmelerinde uygulanabilecek azami artış oranı netleşti.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/kasim-kira-artis-tavani-m-a-n-s-e-t.png",
     "keyword": ""
   }
 ]
