@@ -1,5 +1,41 @@
 [
   {
+    "id": "SOC_6ae39da9",
+    "title": "🗣️ @sondakikamm.bsky.social",
+    "source": "Bluesky",
+    "time": "06/11/2026 03:53",
+    "link": "https://bsky.app/profile/sondakikamm.bsky.social/post/3mzm34sur3m26",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "⚽ SPOR HABERİ | Thomas Reis: Trabzonspor Beraberliği Hak Eden Bir Oyun ... 📌 Merak edilen tüm gelişmeler haberimizde: 🔗 https://haberlesende.com/2026/11/06/thomas-reis-trabzonspor-beraberligi-hak-eden-bir-oyun-sergiledi/ #Haber #Trabzon #Trabzonspor #TS",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:75w7fudfg7hqwpvqmeocpbbq/bafkreicerekoc43fae2psduzym7eauupzf2hyerlen3roanvnfbo4k2hhi",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_55bd5fb2",
+    "title": "🗣️ REİS – Hiç ummazdım dedi, kameraların önüne attı..! | Tarık Toros | Manşet | 5 Kasım 2026",
+    "source": "YouTube",
+    "time": "06/11/2026 03:53",
+    "link": "https://www.youtube.com/watch?v=-SCpOkbzE0w",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: -SCpOkbzE0w)",
+    "image": "https://img.youtube.com/vi/-SCpOkbzE0w/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_60aae571",
+    "title": "Küçükçekmece E5'te otomobil alev topuna döndü",
+    "source": "OdaTV",
+    "time": "06/11/2026 03:53",
+    "link": "https://www.odatv.com/guncel/kucukcekmece-e5te-otomobil-alev-topuna-dondu-120169913",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul Küçükçekmece'de seyir halindeki otomobil bilinmeyen bir nedenle alev alev yandı. Yangın itfaiye ekiplerince söndürülürken, araç kullanılamaz hale geldi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/06/kucukcekmece-e5te-otomobil-alev-topuna-dondu-608j.jpg",
+    "keyword": ""
+  },
+  {
     "id": "TKP_eb9aaefc",
     "title": "Onuachu: Takım kazandığı sürece benim için sorun yok - Günebakış Gazetesi Trabzon",
     "source": "Google Haberler",
@@ -4760,42 +4796,6 @@
     "type": "GND",
     "prefix": "🔔",
     "summary": "Fon soruşturması kapsamında şüpheli sıfatıyla ifade veren eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya, tutuklanması talebiyle nöbetçi sulh ceza hakimliğine sevk edildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_0dd12651",
-    "title": "Thomas Reis ilki yaşadı!",
-    "source": "61 Saat",
-    "time": "05/11/2026 23:12",
-    "link": "https://www.61saat.com/thomas-reis-ilki-yasadi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "UEFA Konferans Ligi'nin 3. haftasında Almanya'nın Freiburg takımına 1-0 mağlup olan Trabzonspor, teknik direktör Thomas Reis yönetiminde ilk yenilgisini aldı.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/11/089e93f6-a27e-463a-a119-1afaeb223329.png",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_a279a5c2",
-    "title": "Fatma Betül Sayan Kaya hakkında tutuklama talebi! Hakimliğe sevk edildi",
-    "source": "Haber61",
-    "time": "05/11/2026 23:12",
-    "link": "https://www.haber61.net/gundem/fatma-betul-sayan-kaya-hakkinda-tutuklama-talebi-hakimlige-sevk-edildi/648558",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Sermaye piyasası işlemlerine ilişkin soruşturmada ifade veren Fatma Betül Sayan Kaya tutuklama, eşi İlyas Kaya ve İbrahim Ömer Gönül ise adli kontrol talebiyle hakimliğe sevk edildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_03f38230",
-    "title": "Wagner Pina'dan Freiburg maçı değerlendirmesi! \"Şans yanımızda değildi\"",
-    "source": "Haber61",
-    "time": "05/11/2026 23:11",
-    "link": "https://www.haber61.net/trabzonspor/wagner-pina-dan-freiburg-maci-degerlendirmesi-sans-yanimizda-degildi/648559",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor'un sağ bek oyuncusu Wagner Pina, Freiburg karşısında alınan 1-0'lık mağlubiyetin ardından açıklamalarda bulundu. Pina, karşılaşmanın büyük bölümünde üstün olduklarını düşündüğünü belirterek pazar günü oynanacak maça odaklanacaklarını söyledi.",
     "image": null,
     "keyword": ""
   }
