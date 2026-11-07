@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_d474a0e3",
+    "title": "Esenler TEM Otoyolu'nda zincirleme kaza: 3 yaralı",
+    "source": "Habertürk",
+    "time": "07/11/2026 06:33",
+    "link": "https://www.haberturk.com/i",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İstanbul'da, TEM Otoyolu Esenler mevkisinde iki otomobil ile çekicinin karıştığı zincirleme trafik kazasında 3 kişi yaralandı. Kaza nedeniyle iki şeridi trafiğe kapatılan otoyolda uzun araç kuyruğu oluştu",
+    "image": "https://im.haberturk.com/l/2026/11/07/ver1794021688/3925543/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "SOC_bfc47645",
+    "title": "🗣️ Hafsa Sultan: Bir Valide Sultan’ın Gücü, Fedakârlığı ve Mirası",
+    "source": "YouTube",
+    "time": "07/11/2026 06:32",
+    "link": "https://www.youtube.com/watch?v=mGiy99VPCrI",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:TRABZON | YouTube Video (ID: mGiy99VPCrI)",
+    "image": "https://img.youtube.com/vi/mGiy99VPCrI/hqdefault.jpg",
+    "keyword": "S:TRABZON"
+  },
+  {
+    "id": "GND_0c83e2c7",
+    "title": "Meteoroloji'den sarı kodla kuvvetli yağış uyarısı! Kar o illeri esir aldı!",
+    "source": "Haber Global",
+    "time": "07/11/2026 06:32",
+    "link": "https://haberglobal.com/gundem/meteorolojiden-sari-kodla-kuvvetli-yagis-uyarisi-kar-o-illeri-esir-aldi-552261",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, kar yağışı ve kuvvetli yağış beklentisi nedeniyle 19 il için sarı kodlu uyarı yayımladı. Batı ve Doğu Karadeniz'in yüksek kesimleri ile Doğu Anadolu'nun doğusunda karla karışık yağmur ve kar yağışı beklenirken, bazı bölgelerde yağışların kuvvetli olacağı tahmin ediliyor. Marmara ve Karadeniz kıyıları başta olmak üzere birçok bölgede ise saatte 70 kilometreye ulaşan fırtına bekleniyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/07/meteorolojiden-sari-kodla-kuvvetli-yagis-uyarisi-kar-o-illeri-esir-aldi-va2k.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_758c9f6a",
+    "title": "Fatih Altaylı yazdı: Tera’cı Emre Tezmen’in babasını biliyor musunuz?",
+    "source": "10Haber",
+    "time": "07/11/2026 06:32",
+    "link": "https://10haber.net/siyaset/fatih-altayli-yazdi-teraci-emre-tezmenin-babasini-biliyor-musunuz-752356/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Virüs ve pandemi Fon yolsuzluğunun simge isimlerinden eski bakan Fatma Betül Sayan Kaya ifadeye çağrıldı. Sabah saatlerinde gülerek, gözünde Miu Miu marka gözlüklerle, gazetecilere üstenci bir tonla yanıtlar vererek girdiği Adliye’den akşam saatlerinde verilen tutuklama kararının ardından polis eşliğinde ağlayarak ayrıldı. Cumhurbaşkanı Erdoğan “Mikroplardan arınacağız” dedi. Arınmanın ilk adımı akşam atıldı. En bilinen virüs tutuklandı. …",
+    "image": "https://i.10haber.net/wp-content/uploads/2026/11/emre-oguz.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_10edc894",
     "title": "Jay Rockefeller hayatını kaybetti",
     "source": "OdaTV",
@@ -4750,53 +4798,5 @@
     "summary": "Nevşehir merkezli 34 ilde yasadışı bahis, kara para aklama ve suç örgütü kurma suçlarına yönelik operasyonda gözaltına alınan 119 kişiden 90'ı tutuklandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/369603.jpg",
     "keyword": ""
-  },
-  {
-    "id": "GND_7e4937c9",
-    "title": "Japonya'da \"3. Türkiye-Japonya Yatırım Forumu\" düzenlendi",
-    "source": "Anadolu Ajansı",
-    "time": "06/11/2026 22:51",
-    "link": "https://www.aa.com.tr/tr/dunya/japonyada-3-turkiye-japonya-yatirim-forumu-duzenlendi/4114704",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Japonya'nın başkenti Tokyo’da \"3. Türkiye-Japonya Yatırım Forumu\" gerçekleştirildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_717c849b",
-    "title": "Trump, Özel Kalemi Susie Wiles'ın yerine danışmanı Stephen Miller'ı getiriyor",
-    "source": "Anadolu Ajansı",
-    "time": "06/11/2026 22:51",
-    "link": "https://www.aa.com.tr/tr/dunya/trump-ozel-kalemi-susie-wilesin-yerine-danismani-stephen-milleri-getiriyor/4114710",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kongre ara seçimlerini Demokratlara kaybeden ABD Başkanı Donald Trump, uzun süredir Özel Kalemi olarak görev yapan Susie Wiles'ın yerine, danışmanı Stephen Miller'ı getirme kararı aldığını açıkladı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_cbc38123",
-    "title": "Katar Savunma Bakanı Al Sani ile ABD Savaş Bakanı Hegseth bölgesel gelişmeleri görüştü",
-    "source": "Anadolu Ajansı",
-    "time": "06/11/2026 22:51",
-    "link": "https://www.aa.com.tr/tr/dunya/katar-savunma-bakani-al-sani-ile-abd-savas-bakani-hegseth-bolgesel-gelismeleri-gorustu/4114713",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Şeyh Suud bin Abdurrahman Al Sani, ABD Savaş Bakanı Pete Hegseth ile bölgesel gelişmeleri ele aldı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_37314852",
-    "title": "🗣️ CANLI | Tahran Hazırlıklara Başladı! ABD-İran Nükleer Savaşı Kapıda mı? | Hilal Özdemir İle Mesele",
-    "source": "YouTube",
-    "time": "06/11/2026 22:34",
-    "link": "https://www.youtube.com/watch?v=3C4r5O0QzrU",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: 3C4r5O0QzrU)",
-    "image": "https://img.youtube.com/vi/3C4r5O0QzrU/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
   }
 ]
