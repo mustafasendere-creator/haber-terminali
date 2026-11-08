@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_065bf77b",
+    "title": "Filistin'den Gazze'deki insani felaketin önlenmesi için uluslararası topluma çağrı",
+    "source": "TRT Haber",
+    "time": "08/11/2026 05:52",
+    "link": "https://www.trthaber.com/haber/dunya/filistinden-gazzedeki-insani-felaketin-onlenmesi-icin-uluslararasi-topluma-cagri-962566.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Filistin, Gazze Şeridi'nde etkili olan şiddetli yağış ve fırtına nedeniyle derinleşen insani felaketin önlenmesi için uluslararası topluma acilen harekete geçme çağrısında bulunarak, İsrail'den tüm sınır kapılarını açmasını istedi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_1c031941",
+    "title": "İçeriden dışarıya mektuplar: Limonluktaki yangın",
+    "source": "BirGün",
+    "time": "08/11/2026 05:51",
+    "link": "https://www.birgun.net/makale/iceriden-disariya-mektuplar-limonluktaki-yangin-745209",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Tren durdu, hepimiz indik, aslında ne Şam’dayız ne Viyana’da… Fark ettik ki, bizi, hepimizi; hem bedenen hem de inandığımız, öğrendiğimiz, eğitimini aldığımız değerleri de kapsayan, ağırlaştırılmış müebbet yatacağımız bir hapishaneye götürüyorlarmış meğerse. Burada sana bana benzemeyen, başka bir dünya görüşünü benimseyen mahkûmlara ardına kadar açmışlar -onlara hazine gibi gelen- sınırlı kaynakları.",
+    "image": "https://static.birgun.net/resim/makale/2026/11/08/iceriden-disariya-mektuplar-limonluktaki-yangin.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_431101e9",
+    "title": "Çocuklar için karanlık tablo: Cezaevlerinde sayı yükseliyor",
+    "source": "BirGün",
+    "time": "08/11/2026 05:51",
+    "link": "https://www.birgun.net/haber/cocuklar-icin-karanlik-tablo-cezaevlerinde-sayi-yukseliyor-745210",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ekonomik krizin çocuklar üzerindeki etkileri ağırlaşırken cezaevlerindeki çocuk sayısı da yükseliyor. Mart 2026'da 4 bin 505 olan tutuklu ve hükümlü çocuk sayısı kasımda 5 bin 121'e ulaştı. Bakılamayan çocuk sayısının ise yıl sonunda 195 bine çıkacağı öngörülüyor.",
+    "image": "https://static.birgun.net/resim/haber/2026/11/08/cocuklar-icin-karanlik-tablo-cezaevlerinde-sayi-yukseliyor.jpg",
+    "keyword": ""
+  },
+  {
     "id": "SOC_ac32a522",
     "title": "🗣️ Letonya'da Putin'i Çıldırtan Anlar! Halk Sokaklara Döküldü!",
     "source": "YouTube",
@@ -4762,41 +4798,5 @@
     "summary": "Bolu kent merkezinde hava sıcaklığının düşmesi ile birlikte kar yağışı etkisini sürdürüyor.",
     "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/11/07/bolu-kar-yagisi-etkisi-altinda-wnfx_cover.jpg",
     "keyword": ""
-  },
-  {
-    "id": "GND_663627ff",
-    "title": "Aliyev davet etti, Erdoğan yarın Azerbaycan'ı ziyaret edecek",
-    "source": "Ekonomim",
-    "time": "07/11/2026 21:34",
-    "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogan-karabagi-ziyaret-edecek-haberi-929847",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın Azerbaycan Cumhurbaşkanı İlham Aliyev’in davetine icabetle Karabağ’ı ziyaret edecek.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/11/03/cumhurbaskani-erdogan-24-yil-once-bugun-bir-anadolu-ihtilaline-imza-attik-vpuk_cover.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_e7dbb875",
-    "title": "Trabzonspor Tarihinde Bir İlk! Salah'ın Golü Koleksiyon Kartında",
-    "source": "Kuzey Ekspres",
-    "time": "07/11/2026 21:34",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29121191/trabzonspor-tarihinde-bir-ilk-salahin-golu-koleksiyon-kartinda",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un eski yöneticisi Nevzat Aydın'ın duyurduğu gelişme, bordo-mavili kulübün Avrupa sahnesindeki unutulmaz anlarından birini farklı bir noktaya taşıdı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/11/07/large/trabzonspor-tarihinde-bir-ilk-salahin-golu-koleksiyon-kartinda4.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_d08bf128",
-    "title": "Trabzonspor'a Parkede Soğuk Duş!",
-    "source": "Kuzey Ekspres",
-    "time": "07/11/2026 21:34",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29121218/trabzonspora-parkede-soguk-dus",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Bordo-mavililer, taraftarı önünde oynadığı karşılaşmada beklediği sonucu alamadı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/11/07/large/trabzonspora-parkede-soguk-dus.jpg",
-    "keyword": "TRABZON"
   }
 ]
