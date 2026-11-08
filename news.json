@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_a5ba6623",
+    "title": "Üst geçidin ayağına saplandı: 2 ölü, 2 ağır yaralı",
+    "source": "Habertürk",
+    "time": "08/11/2026 03:32",
+    "link": "https://www.haberturk.com/gundem/ust-gecidin-ayagina-saplandi-2-olu-2-agir-yarali-3925718",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Gaziantep’te seyir halindeyken lastiği patlayan hafif ticari araç kontrolden çıkarak üst geçidin ayağına çarptı. Meydana gelen kazada 2 kişi hayatını kaybetti, 2 kişi ise ağır yaralandı",
+    "image": "https://im.haberturk.com/l/2026/11/08/ver1794096805/3925718/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "YRL_40474123",
+    "title": "Mısır ve Trabzon arasındaki işbirliğinde Muhammed Salah etkisi",
+    "source": "İHA Trabzon",
+    "time": "08/11/2026 03:32",
+    "link": "https://www.aa.com.tr/tr/gundem/misir-ve-trabzon-arasindaki-isbirliginde-muhammed-salah-etkisi/4115606",
+    "type": "YRL",
+    "prefix": "🌊",
+    "summary": "Türkiye'nin Kahire Büyükelçisi Salih Mutlu Şen, gelecek dönemde Mısır'dan, Muhammed Salah'ın yarattığı alaka ve cazibe sayesinde güzel Trabzon'a yalnızca charter değil, doğrudan tarifeli uçak seferleri başlatmayı hedeflediklerini söyledi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_45c5d7ac",
+    "title": "Şişli’de saatli bomba ihbarı: Oyuncak çıktı",
+    "source": "BirGün",
+    "time": "08/11/2026 03:31",
+    "link": "https://www.birgun.net/haber/sislide-saatli-bomba-ihbari-oyuncak-cikti-745195",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Şişli'de çöp konteyneri kenarında dinamit şeklinde saatli bir cisim bulunduğu ihbarı üzerine olay yerine gelen bomba imha uzmanları cismi inceleyerek oyuncak olduğunu belirledi.",
+    "image": "https://static.birgun.net/resim/haber/2026/11/08/sislide-saatli-bomba-ihbari-oyuncak-cikti.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_04b45fb4",
     "title": "Ankara'da etkili kar yağışı",
     "source": "Haber Global",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Süper Lig'de zirve yarışı yapan Galatasaray'la Amedspor bugün Galatasaray ev sahipliğinde karşı karşıya geldi. Galatasaray ilk yarıyı üstün tamamladı. İkinci yarı oynanıyor.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/369689.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e141d79d",
-    "title": "Fon soruşturmasında 4 kişi gözaltına alındı",
-    "source": "Evrensel",
-    "time": "07/11/2026 20:52",
-    "link": "https://www.evrensel.net/haber/6008472/fon-sorusturmasinda-4-kisi-gozaltina-alindi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fon soruşturması kapsamında adli kontrol şartlarıyla serbest bırakılan Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya ile Takasbank Genel Müdürü Yunus Arıncı'nın da aralarında bulunduğu 4 kişi gözaltına alındı.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/369694.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_503db18a",
-    "title": "Fon soruşturması: Daha önce serbest bırakılan Kemal Akkaya ve Yunus Arıncı tekrar gözaltına alındı",
-    "source": "BirGün",
-    "time": "07/11/2026 20:52",
-    "link": "https://www.birgun.net/haber/fon-sorusturmasi-daha-once-serbest-birakilan-kemal-akkaya-ve-yunus-arinci-tekrar-gozaltina-alindi-745182",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Daha önce gözaltına alındıktan sonra serbest bırakılan Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya ve Takasbank Genel Müdürü Yunus Arıncı tekrar gözaltına alındı.",
-    "image": "https://static.birgun.net/resim/haber/2026/11/07/fon-sorusturmasi-daha-once-serbest-birakilan-kemal-akkaya-ve-yunus-arinci-tekrar-gozaltina-alindi.jpg",
-    "keyword": "TAKA"
-  },
-  {
-    "id": "GND_5527bcfd",
-    "title": "Özel Sektör Öğretmenleri Sendikası Biltes Koleji önünde eylemde: \"Bizim kaybedecek bir şeyimiz yok\"",
-    "source": "BirGün",
-    "time": "07/11/2026 20:52",
-    "link": "https://www.birgun.net/haber/ozel-sektor-ogretmenleri-sendikasi-biltes-koleji-onunde-eylemde-bizim-kaybedecek-bir-seyimiz-yok-745178",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Özel Sektör Öğretmenleri Sendikası İstanbul'da Biltes Koleji ve Doğa Koleji Göktürk Kampüsü önünde eylemdeydi. Basın açıklaması yapan emekçiler \"Levent Uysal ve Can Uysal, tekrar sesleniyoruz size: Arkadaşlarımız hâlâ haziran ayı maaşını alamadı. Bizim kaybedecek bir şeyimiz yok. Gerisini siz düşünün; biz bu eylemlere aylarca devam ederiz\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/11/07/ozel-sektor-ogretmenleri-sendikasi-biltes-koleji-onunde-eylemde-bizim-kaybedecek-bir-seyimiz-yok.jpg",
     "keyword": ""
   }
 ]
