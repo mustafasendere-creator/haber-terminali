@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_eee51617",
+    "title": "Sultangazi’de sürücü araçtan indirmeye çalıştığı kadını darbetti",
+    "source": "OdaTV",
+    "time": "10/11/2026 02:53",
+    "link": "https://www.odatv.com/guncel/sultangazide-surucu-aractan-indirmeye-calistigi-kadini-darbetti-120170494",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sultangazi'de bir şahıs, idaresindeki otomobilin sağ koltuğunda oturan kadını zorla araçtan indirmeye çalışarak darbetti. Şahsın kadını yumruk ve tekmelerle darbettiği anlar kameraya yansıdı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/10/sultangazide-surucu-aractan-indirmeye-calistigi-kadini-darbetti-4rri.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4f0dc751",
+    "title": "ABD Dışişleri Bakanı Rubio: İsrail bizden silah alabilir ama artık finansman sağlamamız gerekmiyor",
+    "source": "Anadolu Ajansı",
+    "time": "10/11/2026 02:51",
+    "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-israil-bizden-silah-alabilir-ama-artik-finansman-saglamamiz-gerekmiyor/4118046",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Dışişleri Bakanı Marco Rubio, İsrail'in finansal açıdan yeterli bir seviyede olduğunu ve ülkesinin artık Tel Aviv yönetimine finansman sağlamasına gerek kalmadığını ifade etti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_99743f03",
+    "title": "İsrail ordusunun Batı Şeria'nın Nablus kentinde açtığı ateşte bir Filistinli çocuk hayatını kaybetti",
+    "source": "Anadolu Ajansı",
+    "time": "10/11/2026 02:51",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-bati-serianin-nablus-kentinde-actigi-ateste-bir-filistinli-cocuk-hayatini-kaybetti/4118049",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın kuzeybatısındaki Nablus kentine bağlı Burka köyünde sivillere ateş açması sonucu bir çocuk hayatını kaybetti, 1 Filistinli yaralandı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_bc024219",
     "title": "Düzce Belediyesi'nden Atatürk'ün vefatının yıl dönümünde duygulandıran video",
     "source": "OdaTV",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "Yunanistan'ın Girit Adası açıklarında göçmenleri taşıyan 3 ayrı tekne için pazartesi sabahı düzenlenen arama kurtarma çalışmalarında 105 kişi kurtarıldı, 12 kişinin cansız bedenine ulaşıldı. Cuma gününden bu yana bölgede yaşanan iki ayrı olayda hayatını kaybedenlerin sayısı 20'ye yükseldi.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "SOC_7a90dc17",
-    "title": "🗣️ Trump'a Savaş Uyarısı! Cumhurbaşkanı Erdoğan Beklenen İran Saldırısı Öncesi Trump ile Görüştü",
-    "source": "YouTube",
-    "time": "09/11/2026 21:12",
-    "link": "https://www.youtube.com/watch?v=eYmADHhmvvc",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:HABER | YouTube Video (ID: eYmADHhmvvc)",
-    "image": "https://img.youtube.com/vi/eYmADHhmvvc/hqdefault.jpg",
-    "keyword": "S:HABER"
-  },
-  {
-    "id": "GND_f5715bd2",
-    "title": "Havayolları kârlarını artırmak için premium hizmetlerini büyütüyor",
-    "source": "Euronews",
-    "time": "09/11/2026 21:12",
-    "link": "https://tr.euronews.com/2026/11/09/havayollari-karlarini-artirmak-icin-premium-hizmetlerini-buyutuyor",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Ekonomi sınıfında paylaşılan bir masadan birinci sınıfta çift kişilik yatağa kadar, havayolları artan yakıt maliyetleri kârları sıkıştırdıkça yolculara daha fazla lüks alan ve hizmet satmanın yeni yollarını buluyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "YRL_da5254e1",
-    "title": "Kamyonetin Çarptığı Üniversite Öğrencisinden Acı Haber!",
-    "source": "Kuzey Ekspres",
-    "time": "09/11/2026 21:12",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29132269/kamyonetin-carptigi-universite-ogrencisinden-aci-haber",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rize Çayeli'nde kontrolden çıkan kamyonetin takla atarak yayalara ve park halindeki tıra çarptığı kazada 23 yaşındaki üniversite öğrencisi yaşamını yitirdi, 2 kişi yaralandı.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/11/09/large/kamyonetin-carptigi-universite-ogrencisinden-aci-haber.jpg",
     "keyword": ""
   }
 ]
