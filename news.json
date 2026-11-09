@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_ada054b0",
+    "title": "Yalova'da yaban domuzu küçükbaş ağılının altını üstüne getirdi",
+    "source": "OdaTV",
+    "time": "09/11/2026 03:33",
+    "link": "https://www.odatv.com/guncel/yalovada-yaban-domuzu-kucukbas-agilinin-altini-ustune-getirdi-120170333",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yalova'da av köpeklerinden kaçan dev yaban domuzu, girdiği küçükbaş hayvan ağılında ortalığı birbirine kattı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/09/yalovada-yaban-domuzu-kucukbas-agilinin-altini-ustune-getirdi-mkff.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_6c3ee285",
+    "title": "Bodrum'da çıkan kavgada yabancı uyruklu 2 şüpheli tutuklandı",
+    "source": "Habertürk",
+    "time": "09/11/2026 03:32",
+    "link": "https://www.haberturk.com/gundem/bodrum-da-cikan-kavgada-yabanci-uyruklu-2-supheli-tutuklandi-3925875",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Muğla Bodrum'da iki grup arasında çıkan ve 1'i ağır 4 kişinin yaralandığı kavgada gözaltına alınan 4 şüpheliden yabancı uyruklu olan 2'si tutuklandı",
+    "image": "https://im.haberturk.com/l/2026/11/09/ver1794183226/3925875/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_8714a91d",
+    "title": "İsrail ordusu Lübnan'ın güneyinde evleri yıkmayı ve bombardımanı sürdürüyor",
+    "source": "Anadolu Ajansı",
+    "time": "09/11/2026 03:31",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyinde-evleri-yikmayi-ve-bombardimani-surduruyor/4116387",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail ordusu, Lübnan'ın güneyindeki beldelerde topçu atışlarını ve ev yıkımlarını sürdürüyor.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_ef861c42",
+    "title": "İsrail askerleri, Batı Şeria'daki baskın sırasında 13 yaşındaki bir çocuğu göğsünden yaraladı",
+    "source": "Anadolu Ajansı",
+    "time": "09/11/2026 03:31",
+    "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriadaki-baskin-sirasinda-13-yasindaki-bir-cocugu-gogsunden-yaraladi/4116368",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın Cenin kentinde 13 yaşındaki bir çocuğu göğsünden vurduğu belirtildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_578e8066",
     "title": "Aç kalan tilkiyi vatandaşlar tavukla besledi",
     "source": "OdaTV",
@@ -4749,54 +4797,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor'un tecrübeli orta saha oyuncusu Ozan Tufan, Trendyol Süper Lig'in 11. haftasında oynanan Corendon Alanyaspor karşılaşmasında yeniden ilk 11'de görev aldı. Reis yönetiminde bu sezon daha fazla süre bulmaya başlayan 31 yaşındaki futbolcu, Çaykur Rizespor ve Gaziantep FK maçlarına yedek başlamasının ardından yeniden başlangıç kadrosuna girdi.",
     "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/82c1411e-c5a3-41c4-8af3-145e29e1895f.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_dc55725e",
-    "title": "Şalpazarı'nda Enerji Zirvesi: Bakın Neler Görüşüldü!",
-    "source": "Taka Gazetesi",
-    "time": "08/11/2026 21:35",
-    "link": "https://www.takagazete.com.tr/salpazarinda-enerji-zirvesi-bakin-neler-gorusuldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzon'un Şalpazarı ilçesinde Belediye Başkanı Refik Kurukız ile Çoruh EDAŞ heyeti bir araya geldi. Görüşmede enerji yatırımları ve ilçenin geleceği ele alındı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/eae7a31c-2d7e-46db-adc3-d454565643ec.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_68eae888",
-    "title": "Trabzonspor'da Thomas Reis'ten Alanyaspor Maçında Tek Değişiklik! İşte O Tercih",
-    "source": "Taka Gazetesi",
-    "time": "08/11/2026 21:35",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-thomas-reisten-alanyaspor-macinda-tek-degisiklik-iste-o-tercih",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Trendyol Süper Lig'in 11. haftasında deplasmanda karşılaştığı Corendon Alanyaspor mücadelesine büyük ölçüde koruduğu ilk 11'iyle çıktı. Bordo-mavili takımın teknik direktörü Thomas Reis, Süper Lig'de son oynanan Gaziantep FK karşılaşmasına göre başlangıç kadrosunda yalnızca bir değişiklik yaptı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/4b6d0631-c1d7-4103-a5f0-4b7d55774fc6.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_29fb9b52",
-    "title": "Trabzonspor'da Andre Onana İstikrarıyla Dikkat Çekiyor! İlk 11'in Değişmeyen İsmi",
-    "source": "Taka Gazetesi",
-    "time": "08/11/2026 21:35",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-andre-onana-istikrariyla-dikkat-cekiyor-ilk-11in-degismeyen-ismi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un Kamerunlu kalecisi Andre Onana, 2026-2027 sezonunda gösterdiği devamlılıkla bordo-mavili takımın öne çıkan isimlerinden biri oldu. Trendyol Süper Lig'in 11. haftasında deplasmanda oynanan Corendon Alanyaspor karşılaşmasına da ilk 11'de başlayan tecrübeli file bekçisi, teknik direktör Thomas Reis'in kaledeki tercihi olmayı sürdürdü.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/52e44765-615b-494b-842b-30cda7980820.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_c61f3df4",
-    "title": "Trabzonspor Alanyaspor'u Deplasmanda Devirdi! Pina ve Salah'tan Kritik Goller",
-    "source": "Taka Gazetesi",
-    "time": "08/11/2026 21:35",
-    "link": "https://www.takagazete.com.tr/trabzonspor-alanyasporu-deplasmanda-devirdi-pina-ve-salahtan-kritik-goller",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, Alanyaspor deplasmanında iki yıldızının golleriyle kritik bir galibiyet aldı. Bordo-mavililer 25 puana ulaşırken maçın son bölümünde nefesler tutuldu. Trabzonspor, deplasmanda Corendon Alanyaspor'u 2-0 mağlup ederek zirve yarışında önemli bir üç puanın sahibi oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/d291cce4-bf97-476f-87fd-3055645fd8d8.jpg",
     "keyword": "TRABZON"
   }
 ]
