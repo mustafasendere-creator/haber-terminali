@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_8eee5699",
+    "title": "Batman’da zincirleme kazada otomobil ikiye bölündü: 1 yaralı",
+    "source": "OdaTV",
+    "time": "10/11/2026 03:33",
+    "link": "https://www.odatv.com/guncel/batmanda-zincirleme-kazada-otomobil-ikiye-bolundu-1-yarali-120170491",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Batman’da 3 otomobil ile bir belediye halk otobüsünün karıştığı zincirleme trafik kazasında 1 kişi yaralandı. Kazada otomobillerden biri ikiye bölündü.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/10/batmanda-zincirleme-kazada-otomobil-ikiye-bolundu-1-yarali-5mzj.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2bf1476a",
+    "title": "Yeşil Mutabakat genelgesi Resmi Gazete'de",
+    "source": "Habertürk",
+    "time": "10/11/2026 03:32",
+    "link": "https://www.haberturk.com/gundem/yesil-mutabakat-genelgesi-resmi-gazete-de-3926138",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan genelgeyle, \"Yeşil Mutabakat Eylem Planı (2026-2030)\" kapsamında kamu kurumları ve özel sektörün yürüteceği çalışmaların çerçevesi belirlendi. Eylem Planı'nın koordinasyonu Ticaret Bakanlığı tarafından sağlanacak. İlgili kamu kurumları, sorumlu oldukları çalışmalara ilişkin yıllık gelişme raporlarını Bakanlığa gönderecek",
+    "image": "https://im.haberturk.com/l/2026/11/10/ver1794270352/3926138/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
     "id": "SOC_6164a22f",
     "title": "🗣️ @sondakikamm.bsky.social",
     "source": "Bluesky",
@@ -4773,30 +4797,6 @@
     "prefix": "🔔",
     "summary": "Urfa'nın Viranşehir ilçesinde cami inşaatında iskelenin çökmesi sonucu 3 işçi yaralandı.",
     "image": "https://www.evrensel.net/images/1280/upload/dosya/340258.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_32fb38a8",
-    "title": "Kültür seçkisi: Avrupa’da haftanın öne çıkan kültür etkinlikleri",
-    "source": "Euronews",
-    "time": "09/11/2026 21:12",
-    "link": "https://tr.euronews.com/2026/11/09/ebenezer-rivals-ve-u2nun-donusu-bu-hafta-avrupanin-kultur-gundemi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Johnny Depp yeni bir Charles Dickens uyarlamasında Scrooge karakterine hayat veriyor. İrlandalı rock grubu U2, 50. yılını kutlamaya hazırlanırken Londra'daki Saatchi Galerisi de kapsamlı bir sokak sanatı sergisine ev sahipliği yapıyor.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_41a097e5",
-    "title": "Oscar ödüllü Şilili yönetmen Sebastián Lelio 52 yaşında hayatını kaybetti",
-    "source": "Euronews",
-    "time": "09/11/2026 21:12",
-    "link": "https://tr.euronews.com/2026/11/09/oscar-odullu-silili-yonetmen-sebastian-lelio-52-yasinda-hayatini-kaybetti",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Arjantin doğumlu yönetmen, 'Gloria' ile tanınıp 2017'de 'Muhteşem Kadın'la Şili'ye ikinci Oscar'ı kazandırdı; film, cinsiyetin yasal değişimine izin veren Şili yasasını tartışmalarla değiştirdi.",
-    "image": null,
     "keyword": ""
   }
 ]
