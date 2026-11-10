@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_5d6f6fae",
+    "title": "Meteoroloji'den yeni hava durumu raporu: Sağanak ve kar kapıda! İstanbul dahil birçok ilde yağış bekleniyor",
+    "source": "Haber Global",
+    "time": "10/11/2026 06:12",
+    "link": "https://haberglobal.com/gundem/meteorolojiden-yeni-hava-durumu-raporu-saganak-ve-kar-kapida-istanbul-dahil-bircok-ilde-yagis-bekleniyor-552644",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Meteoroloji Genel Müdürlüğü, 10 Kasım Salı gününe ilişkin hava durumu tahminlerini yayımladı. Türkiye genelinde sıcaklıkların mevsim normallerinin altında seyretmesi beklenirken, Marmara, Ege ve Akdeniz'in batısında sağanak, İç Anadolu'nun bazı kesimlerinde ise karla karışık yağmur ve kar etkili olacak. İstanbul'da termometreler 14 dereceyi gösterirken, Ankara'nın yüksek kesimlerinde kar yağışı bekleniyor.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/10/meteorolojiden-yeni-hava-durumu-raporu-saganak-ve-kar-kapida-istanbul-dahil-bircok-ilde-yagis-bekleniyor-dpvn.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_f8987046",
+    "title": "Mısır'daki tren kazasında ihmal tespit edildi: 3 demir yolu personeli gözaltına alındı",
+    "source": "Evrensel",
+    "time": "10/11/2026 06:12",
+    "link": "https://www.evrensel.net/haber/6008741/misir-daki-tren-kazasinda-ihmal-tespit-edildi-3-demir-yolu-personeli-gozaltina-alindi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Mısır'da 7 kişinin öldüğü, 112 kişinin yaralandığı tren kazasına ilişkin soruşturmada makinist ve istasyon görevlilerinin ihmalleri tespit edildi. Üç demir yolu personeli gözaltına alındı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/369939.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_197a8e80",
+    "title": "Bakan Murat Kurum açıkladı: Katil İsrail, COP31 Liderler Zirvesi'ne davet edilmedi! En büyük salona Gazze adı verildi",
+    "source": "A Haber",
+    "time": "10/11/2026 06:11",
+    "link": "https://www.ahaber.com.tr/gundem/2026/11/10/turkiyeden-israile-cop31-daveti-yok",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Antalya'da düzenlenen COP31'e ilişkin açıklamalarda bulunan COP31 Başkanı ve Bakan Murat Kurum, Türkiye'nin katil İsrail'i Liderler Zirvesi'ne davet etmediğini belirtti. Kurum, \"Barışın hakim olmadığı... Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/c1d192/0/0/0/0/2048/1365?u=https://iahbr.tmgrup.com.tr/2026/11/10/1794275111934.jpg",
+    "keyword": ""
+  },
+  {
     "id": "SOC_3ce10ad0",
     "title": "🗣️ # Trabzon köy hayatı # lahanalı ekmek",
     "source": "YouTube",
@@ -4761,42 +4797,6 @@
     "prefix": "🔔",
     "summary": "İnsanların aklına ilk olarak umumi tuvaletlerdeki sabunlar, metrolar ya da benzeri ortak kullanım alanları geliyor olabilir.",
     "image": "https://media.cumhuriyet.com.tr/Archive/a73cab73-10e5-4132-b3c3-d256ab2a777a.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ef3ce24c",
-    "title": "Karşıyaka, Beşiktaş'ı tek farkla devirdi!",
-    "source": "Cumhuriyet",
-    "time": "09/11/2026 21:33",
-    "link": "https://www.cumhuriyet.com.tr/spor/karsiyaka-besiktas-i-tek-farkla-devirdi-2554847",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Beşiktaş, Basketbol Süper Ligi'nin 7. haftasında deplasmanda karşılaştığı Karşıyaka'ya 84-83 mağlup oldu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/071c855f-da44-4d19-bf6d-da307e389161.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "TKP_f6707f8b",
-    "title": "Trabzonspor'da Ulaş Özdemir'den Olay Sözler: Burada Racon Kesemezsiniz!",
-    "source": "Taka Gazetesi",
-    "time": "09/11/2026 21:33",
-    "link": "https://www.takagazete.com.tr/trabzonsporda-ulas-ozdemirden-olay-sozler-burada-racon-kesemezsiniz",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un zirve yarışında olduğu dönemde gazeteci Ulaş Özdemir'den dikkat çeken açıklamalar geldi. Ertuğrul Doğan üzerinden yapılan tartışmalara sert mesaj verdi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/carpici-haber-manseti-ve-sunucu.png",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_286a6437",
-    "title": "Mevcut düzeni değiştirmek neden korkutur?",
-    "source": "Cumhuriyet",
-    "time": "09/11/2026 21:33",
-    "link": "https://www.cumhuriyet.com.tr/yasam/mevcut-duzeni-degistirmek-neden-korkutur-2554843",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İnsan beyni, yeni ve farklı durumlara her zaman karamsar gözle bakar. Bilinen şey konforu getirir, bilinmeyen durumlar ise korkuya sebebiyet verir. Peki, mevcut düzeni değiştirmek neden korkutur?",
-    "image": "https://media.cumhuriyet.com.tr/Archive/993096bd-49ce-44e7-9806-430b4d6c4fe5.jpg",
     "keyword": ""
   }
 ]
