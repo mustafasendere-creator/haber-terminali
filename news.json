@@ -1,5 +1,65 @@
 [
   {
+    "id": "SOC_d064f491",
+    "title": "🗣️ @anonturk.bsky.social",
+    "source": "Bluesky",
+    "time": "11/11/2026 02:53",
+    "link": "https://bsky.app/profile/anonturk.bsky.social/post/3mzykfesoqb2n",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "🇹🇷 Trabzon'da yaylalara çıkmayın uyarısı #Türkiye #Haber #Gündem #Trabzon #Yayla #Kar #Sözcü",
+    "image": null,
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_2ca31be0",
+    "title": "🗣️ TRABZON'DA NERELERE GİDİLİR? Karadeniz Gezisi",
+    "source": "YouTube",
+    "time": "11/11/2026 02:53",
+    "link": "https://www.youtube.com/watch?v=Cg4IvaGWnuE",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: Cg4IvaGWnuE)",
+    "image": "https://img.youtube.com/vi/Cg4IvaGWnuE/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_6a616f19",
+    "title": "🗣️ Morning BGM | 🍊 Trabzon Hurması Ağacında Küçük Bir Kış Misafiri | ☕ Kış Sabahı Kafe Müziği",
+    "source": "YouTube",
+    "time": "11/11/2026 02:53",
+    "link": "https://www.youtube.com/watch?v=-uYG-JNFI70",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:TRABZON | YouTube Video (ID: -uYG-JNFI70)",
+    "image": "https://img.youtube.com/vi/-uYG-JNFI70/hqdefault.jpg",
+    "keyword": "S:TRABZON"
+  },
+  {
+    "id": "SOC_d03b7bcb",
+    "title": "🗣️ İran Burayı Vurur! ABD Uçakları İngiltere'yi Böyle Terk Etti!",
+    "source": "YouTube",
+    "time": "11/11/2026 02:52",
+    "link": "https://www.youtube.com/watch?v=wAbDygca0KM",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:HABER | YouTube Video (ID: wAbDygca0KM)",
+    "image": "https://img.youtube.com/vi/wAbDygca0KM/hqdefault.jpg",
+    "keyword": "S:HABER"
+  },
+  {
+    "id": "GND_4c1997ec",
+    "title": "Ankara'da EGO otobüsü devrildi: 1 yaralı",
+    "source": "Haber Global",
+    "time": "11/11/2026 02:52",
+    "link": "https://haberglobal.com/gundem/ankarada-ego-otobusu-devrildi-1-yarali-552824",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Ankara Gölbaşı'nda EGO otobüsünün devrildiği kazada şoför yaralandı. Kaza nedeniyle Konya istikametinde ulaşım bir süre tek şeritten sağlandı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/11/ankarada-ego-otobusu-devrildi-1-yarali-r5mp.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_aafef8d4",
     "title": "Alman ordusu, askerliğe ilgi ve sevgiyi artırmak için oyuncak satacak",
     "source": "OdaTV",
@@ -4738,65 +4798,5 @@
     "summary": "Süper Lig ekibi Alanyaspor, Joao Pereira'dan boşalan teknik direktörlük görevine Uğur Uçar'ın getirildiğini açıkladı.",
     "image": "https://media.cumhuriyet.com.tr/Archive/20428d7a-3a12-4f6d-8fb4-a985fb2f1fbe.jpg",
     "keyword": ""
-  },
-  {
-    "id": "SOC_18c1be03",
-    "title": "🗣️ Trabzon Gastronomi Festivali - 1. Gün Arda Türkmen Workshop ve Söyleşi",
-    "source": "YouTube",
-    "time": "10/11/2026 21:33",
-    "link": "https://www.youtube.com/watch?v=Z_INqHwrXJ0",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: ZINqHwrXJ0)",
-    "image": "https://img.youtube.com/vi/Z_INqHwrXJ0/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_3e98acb4",
-    "title": "AFAD duyurdu: Adana'da deprem",
-    "source": "Cumhuriyet",
-    "time": "10/11/2026 21:33",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-adana-da-deprem-2555159",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AFAD, Adana Aladağ'da 3.7 büyüklüğünde bir deprem olduğunu duyurdu.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/06e9079a-dd77-479a-bf3e-834218b0db07.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_7cdc2b43",
-    "title": "🗣️ BEŞİKTAŞ'IN ELİNDEN KAPTILAR, GALATASARAY'IN ENSESİNDELER!",
-    "source": "YouTube",
-    "time": "10/11/2026 21:33",
-    "link": "https://www.youtube.com/watch?v=c8OLDfPc5SE",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: c8OLDfPc5SE)",
-    "image": "https://img.youtube.com/vi/c8OLDfPc5SE/hqdefault.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_cfd53bc0",
-    "title": "Türkiye maçı öncesi Fransa'da Marcus Thuram gelişmesi!",
-    "source": "Cumhuriyet",
-    "time": "10/11/2026 21:33",
-    "link": "https://www.cumhuriyet.com.tr/spor/turkiye-maci-oncesi-fransa-da-marcus-thuram-gelismesi-2555160",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "UEFA Uluslar Ligi'nin 6. haftasında A Milli Futbol Takımı ile karşılaşacak Fransa'da, Marcus Thuram kadrodan çıkarıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/f9b994d9-7573-4616-b1d4-805c9bbf7a29.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "SOC_e385562e",
-    "title": "🗣️ Trabzon Gastronomi Festivali - 1. Gün Şef Maratonu",
-    "source": "YouTube",
-    "time": "10/11/2026 21:33",
-    "link": "https://www.youtube.com/watch?v=RKtVIQ17VwI",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 TRABZON | YouTube Video (ID: RKtVIQ17VwI)",
-    "image": "https://img.youtube.com/vi/RKtVIQ17VwI/hqdefault.jpg",
-    "keyword": "TRABZON"
   }
 ]
