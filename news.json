@@ -1,5 +1,29 @@
 [
   {
+    "id": "GND_88eb526a",
+    "title": "Fransa'da okul koridorlarında havai fişek patlattılar",
+    "source": "OdaTV",
+    "time": "13/11/2026 03:50",
+    "link": "https://www.odatv.com/guncel/fransada-okul-koridorlarinda-havai-fisek-patlattilar-120170966",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Fransa'nın başkenti Paris yakınlarındaki Chelles kentinde 9 Kasım’da iki lisede sınıf ve koridorlara havai fişek atılması sonucu 4 öğrenci yaralandı.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/13/fransada-okul-koridorlarinda-havai-fisek-patlattilar-ufvr.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_1abb8b49",
+    "title": "Trump yine Küba'yı hedef aldı: \"Görev sürem dolmadan halletmek istiyorum\"",
+    "source": "BirGün",
+    "time": "13/11/2026 03:48",
+    "link": "https://www.birgun.net/haber/trump-yine-kuba-yi-hedef-aldi-gorev-surem-dolmadan-halletmek-istiyorum-746134",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD Başkanı Donald Trump, muhafazakâr Salem News Channel’a yaptığı açıklamada Küba’nın \"çökmüş bir devlet\" olduğunu savunarak saldırı tehdidinde bulundu. 2028’de görev süresi dolmadan \"Küba meselesini halletmek istediğini\" söyleyen Trump, askeri güç kullanımına ilişkin soruya \"Benim için uygundur, bunu kesinlikle değerlendiririm\" yanıtını verdi.",
+    "image": "https://static.birgun.net/resim/haber/2026/11/13/trump-yine-kuba-yi-hedef-aldi-gorev-surem-dolmadan-halletmek-istiyorum.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_75e05b53",
     "title": "Tunceli'de ayılar çöplere dadandı",
     "source": "OdaTV",
@@ -4774,29 +4798,5 @@
     "summary": "Pırasanın acılığını tamamen yok eden portakal-limon dengesi, pirinçle kurulan bağlayıcı doku ve zeytinyağın o kadifemsi ipeksi dokunuşuyla hazırlanan enfes tarif...",
     "image": "https://media.cumhuriyet.com.tr/Archive/884b1709-e4de-4222-af1f-97e1e9f66938.jpg",
     "keyword": "TAKA"
-  },
-  {
-    "id": "GND_357d79f8",
-    "title": "Cenk Yiğiter \"cumhurbaşkanına hakaret\"ten cezaevine girdi",
-    "source": "Evrensel",
-    "time": "12/11/2026 21:50",
-    "link": "https://www.evrensel.net/haber/6009235/cenk-yigiter-cumhurbaskanina-hakaretten-cezaevine-girdi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Akademisyen ve avukat Cenk Yiğiter, \"cumhurbaşkanına hakaret\" suçlamasıyla kendisine verilen hapis cezası nedeniyle cezaevine girdi.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/295445.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_863d66c5",
-    "title": "Çömez'den Erdoğan'a \"Erişah Arıcan'ı derhal gözaltına alın\" çağrısı",
-    "source": "Evrensel",
-    "time": "12/11/2026 21:50",
-    "link": "https://www.evrensel.net/haber/6009236/comezden-erdogana-erisah-aricani-derhal-gozaltina-alin-cagrisi",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İYİ Parti Grup Başkanvekili Turhan Çömez, TBMM'de düzenlediği basın toplantısında Cumhurbaşkanı Erdoğan'a \"Erişah Arıcan'ı derhal gözaltına alın, bütün bu soruları tek tek sorun ve hesap sorun\" çağrısında bulundu.",
-    "image": "https://www.evrensel.net/images/1280/upload/dosya/275739.jpg",
-    "keyword": ""
   }
 ]
