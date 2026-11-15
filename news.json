@@ -1,5 +1,41 @@
 [
   {
+    "id": "SOC_5febdeac",
+    "title": "🗣️ SAHTE KASABA OPERASYONU! | Call of Duty Black Ops Soğuk Savaş - Bölüm 5",
+    "source": "YouTube",
+    "time": "15/11/2026 03:10",
+    "link": "https://www.youtube.com/watch?v=XFnZSjmKml4",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:TRABZON | YouTube Video (ID: XFnZSjmKml4)",
+    "image": "https://img.youtube.com/vi/XFnZSjmKml4/hqdefault.jpg",
+    "keyword": "S:TRABZON"
+  },
+  {
+    "id": "SOC_ebda9972",
+    "title": "🗣️ 🇹🇷Çaykara - Of - Trabzon Sahil Yolu 🌊 | Scenic Drive Türkiye (Turkey) 4K HDR",
+    "source": "YouTube",
+    "time": "15/11/2026 03:10",
+    "link": "https://www.youtube.com/watch?v=1cNkOdACI1Y",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 1cNkOdACI1Y)",
+    "image": "https://img.youtube.com/vi/1cNkOdACI1Y/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_16e7c5f7",
+    "title": "Öksürük 101: Geçmek bilmiyorsa ne yapmalı?",
+    "source": "Diken",
+    "time": "15/11/2026 03:09",
+    "link": "https://www.diken.com.tr/oksuruk-101-gecmek-bilmiyorsa-ne-yapmali/",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Öksürük 101: Geçmek bilmiyorsa ne yapmalı? 15.11.2026 Diken Öksürmek gayet normal ve sağlıklı bir refleks olsa da geçmek bilmediği vakit insanı yıpratabiliyor. Peki öksürüğü nasıl yatıştırmalı? The post Öksürük 101: Geçmek bilmiyorsa ne yapmalı? appeared first on #sitelinkat 15.11.2026 .",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_fef6be92",
     "title": "Trabzonspor’dan Pirağa Uzun İçin Taziye Mesajı: \"Daima Özel Bir Yere Sahip Olacak\" - Günebakış Gazetesi Trabzon",
     "source": "Google Haberler",
@@ -4761,42 +4797,6 @@
     "prefix": "🌊",
     "summary": "Trabzon'un Kemerkaya Mahallesi'nde kimliği belirsiz kişinin silahla ateş açması sonucu bacağından yaralanan İ.K. hastaneye kaldırıldı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2024/02/05/large/silah.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e207a4f1",
-    "title": "Körfez Basket, Galatasaray'ı son saniyede yendi",
-    "source": "Cumhuriyet",
-    "time": "14/11/2026 21:10",
-    "link": "https://www.cumhuriyet.com.tr/spor/korfez-basket-galatasaray-i-son-saniyede-yendi-2556168",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 8. haftasında Biotekno Körfez Basket, sahasında Galatasaray MCT Technic'i 82-81 mağlup etti.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/56708623-4a0c-4f70-bf7d-d41a2d962a68.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_25f82a9c",
-    "title": "Kılıçdaroğlu'nun Kocaeli programında gazetecilere saldırı: Kadın gazeteciye tokat!",
-    "source": "Cumhuriyet",
-    "time": "14/11/2026 21:10",
-    "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-nun-kocaeli-programinda-gazetecilere-saldiri-kadin-gazeteciye-tokat-2556169",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Butlan CHP'sinin Kocaeli Kongre Merkezi'nde düzenlediği programda gazeteciler ile bazı partililer arasında arbede yaşandı. Görüntü almaları engellenen basın mensuplarına sözlü ve fiziksel müdahalede bulunuldu, bir kadın gazeteciye tokat atıldı.",
-    "image": "https://media.cumhuriyet.com.tr/Archive/dd809606-1a4e-4a08-9b53-093f19767850.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_6a41478b",
-    "title": "Reyting Ölçüm Şirketine Soruşturma: Kurul Neyi İnceleyecek?",
-    "source": "Taka Gazetesi",
-    "time": "14/11/2026 21:10",
-    "link": "https://www.takagazete.com.tr/reyting-olcum-sirketine-sorusturma-kurul-neyi-inceleyecek",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Rekabet Kurulu, televizyon izlenme oranlarını ölçen Fifty5Blue hakkında veri üretimi ve raporlama faaliyetlerini kapsayan soruşturmayı bugün resmen başlattı. Televizyon kanallarının izlenme oranlarını ölçen Fifty5Blue Medya Araştırmaları hakkında Rekabet Kurulu tarafından soruşturma açıldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/reyting-sirketine-sorusturma-m-a-n-s-e-t.png",
     "keyword": ""
   }
 ]
