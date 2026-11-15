@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_0de0ed53",
+    "title": "Eskişehir'de kaza yerine dalan otomobil trafik polisi dahil 5 kişiyi yaraladı",
+    "source": "Haber Global",
+    "time": "15/11/2026 06:49",
+    "link": "https://haberglobal.com/gundem/eskisehirde-kaza-yerine-dalan-otomobil-trafik-polisi-dahil-5-kisiyi-yaraladi-553473",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Eskişehir çevre yolunda su birikintisine girerek kontrolünü kaybeden otomobilin karıştığı kazaya müdahale eden trafik polisi ve 4 kişi kaza yerine dalan başka bir aracın çarpmasıyla yaralandı. Kaza nedeniyle çevre yolu bir süreliğine trafiğe kapatıldı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/15/eskisehirde-kaza-yerine-dalan-otomobil-trafik-polisi-dahil-5-kisiyi-yaraladi-yrpv.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e8154ad3",
+    "title": "Bahreyn'de 'tehlike' uyarısı: Vatandaşlara \"en yakın güvenli yere gidin\" çağrısı",
+    "source": "Haber Global",
+    "time": "15/11/2026 06:49",
+    "link": "https://haberglobal.com/dunya/bahreynde-tehlike-uyarisi-vatandaslara-en-yakin-guvenli-yere-gidin-cagrisi-553474",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Bahreyn İçişleri Bakanlığı, mevcut bir tehlike uyarısı nedeniyle vatandaşlara en yakın güvenli yere gitmeleri çağrısında bulundu.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/15/bahreynde-tehlike-uyarisi-vatandaslara-en-yakin-guvenli-yere-gidin-cagrisi-btlk.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b56bc37a",
+    "title": "Amasya'da kadın cinayeti: Tartıştığı eşini silahla vurarak katletti",
+    "source": "Haber Global",
+    "time": "15/11/2026 06:49",
+    "link": "https://haberglobal.com/gundem/amasyada-kadin-cinayeti-tartistigi-esini-silahla-vurarak-katletti-553475",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Amasya’nın Suluova ilçesinde bir kişi, evde tartıştığı eşini silahla vurarak öldürdü.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/15/amasyada-kadin-cinayeti-tartistigi-esini-silahla-vurarak-katletti-jrol.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_adc8d523",
+    "title": "Diyarbakır'da kayıp olarak aranan 62 yaşındaki kadın bulundu",
+    "source": "TRT Haber",
+    "time": "15/11/2026 06:49",
+    "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-kayip-olarak-aranan-62-yasindaki-kadin-bulundu-963316.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Diyarbakır'ın Çüngüş ilçesinde ailesinin kayıp başvurusu yaptığı 62 yaşındaki Kıymet Altunbaş, ekiplerin çalışması sonucu bulundu. Altunbaş'ın sağlık durumunun iyi olduğu öğrenildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_ab84d4b8",
+    "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda 2 petrol tankeri mayına çarparak alev aldı",
+    "source": "Anadolu Ajansı",
+    "time": "15/11/2026 06:48",
+    "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-2-petrol-tankeri-mayina-carparak-alev-aldi/4125481",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı’nın güneyinde gece saatlerinde 2 petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_13cc19eb",
     "title": "Çorum FK, Başakşehir maçı için çift antrenmanla hazırlandı - Canlı Gaste",
     "source": "Google Haberler",
@@ -4738,65 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "GÜNDEM"
-  },
-  {
-    "id": "TKP_8f058cd1",
-    "title": "Trabzonspor, Zenit maçı için Rusya’ya gitti - DHA | Demirören Haber Ajansı",
-    "source": "Google Haberler",
-    "time": "14/11/2026 21:33",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDdqVjN1ai0zaUNUXzhmbnJVNnR0OE1SM2lWU2Y1bmdBc1dsa0RFYlNpQ0NJc1AyMldzVnFaY1pNR3NLZTFjcGg3cExNTFRwdnNWdENPZXQwRWRuNlpOZjQyRHFBVDJXbl9UbG05RHh1U1BDVi1QX01takM0a05ZN2NfVExoUkRsZkFUWTl3cmJ3MlBiSUpHTW1KMA?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_56b865e6",
-    "title": "Trabzon'un 103 yaşındaki Kore Gazisi Pirağa Uzun hayatını kaybetti - Sabah",
-    "source": "Google Haberler",
-    "time": "14/11/2026 21:33",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlZoeFpIR1NpVUttQVlmVW9nX242SHRpN2hhTUZGMFUycnpXcWJTVU9uQVUzU2dDMWNBdHg3QmFIUTh0NEY2ajVPaDdEMGhJRVc4RXJ0bkYtVUdYbWZjV01ncy05SUJ6d3psVElCSDBUdlZpd1l3R3NiLWhROUhLd29rY2tfMXJ0aUc5R2ZDYjYwNHpjMTlHZWpoTVU3b3IxMDN0VExmMXZVZHB5T2fSAbABQVVfeXFMTU9CQ01qM29YWmJKZHJiX1VFc3R4bklfSEtUR0hhdUFrYmJwd0Itb2tJZElxdHhfdXFfTlBabWM0clpkc2JxcFlwZGZPSDl3aTUzQW9nMmJvN1N2cDFHUDNycmoyMGY3VkhRU05yMFVWZXpZRXRqUHZoTkhYXzhlNHFVQkRQZklFN0xLb0lzLWY2VVpBM0tMbnhmTlpONzk0NVhXT0d2RmZaaV9wWHNLTHY?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_90676c52",
-    "title": "TRABZON’UN ARAKLI İLÇESİNDE YANGIN - Yozgat Gazetesi",
-    "source": "Google Haberler",
-    "time": "14/11/2026 21:33",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1sbHlKNnJjWldoeGQ5QVJMQVV3M1ZXRkk3Wjg1VEJ4M21XT2piWjZ4VkZDM0JYSDhQa3dQOXJuQlk5RWMtTjhONGNvZHhmRk5lUUNuYm44ekJkZ0ZVVjlTMG1ka1ZjZHJPWENkOFZzc0lzOTZjMXU5Rzg1eGUtU1NJd3BkcGdCY3pUZUNOY1dDTGhpM0E?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_1293a99f",
-    "title": "Trabzon Şehir Hastanesi'nde işe alım tartışması! “Siyasi yakınlık değil, liyakat!” - 61SAAT",
-    "source": "Google Haberler",
-    "time": "14/11/2026 21:33",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0ZCVmw5TnRMcjU0M1hpeFAydDY3NGJqMmk0SzY4R2w2VGdGbTc1QmRIWWlrRzhtaTYtWXh6UjZaZnE1anIwNHVPdXRyLU9zNnVDdndJNWF6MjhXV0E4UTFpTDV6SlZxVnltVmFaenFfNEo0cXhPbHNMdnJCbDg1MUt0T1VrR1ptQTkybnBNeVZ3MllxSEZ2bW9rMEZValZ4?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_0334e439",
-    "title": "Trabzon’un asırlık çınarı Gazi Pirağa Uzun hayata veda etti - Günebakış Gazetesi Trabzon",
-    "source": "Google Haberler",
-    "time": "14/11/2026 21:33",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2dLLTFFcmFrWEtSRFFpZzYyQ1J3bDh0UEF0aFVxQ05tN29ZOS1zeGF0ZHVJb1B5QndpMWk2dkg1eFpFUFFGbUtUSXE3bUNIeHVTaGRUS2I0eHdCOXRFTXlJd21uRTBFSjZtTWtQS2RaZ0dTSlIzVW5yaFhOdG04andwUXJIV2JIaUluV2NNQnVELWdvZ2psTFl6MldSUXBXUWfSAaIBQVVfeXFMUFdnSy0xRXJha1hLUkRRaWc2MkNSd2w4dFBBdGhVcUNObTdvWTktc3hhdGR1SW9QeUJ3aTFpNnZINXhaRVBRRm1LVElxN21DSHh1U2hkVEtiNHh3Qjl0RU15SXdtbkUwRUo2bU1rUEtkWmdHU0pSM1VucmhYTnRtOGp3cFFySFdiSGlJbldjTUJ1RC1nb2dqbExZejJXUlFwV1Fn?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNEBAKIŞ"
   }
 ]
