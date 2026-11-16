@@ -1,5 +1,77 @@
 [
   {
+    "id": "SOC_037fbb67",
+    "title": "🗣️ YAYLA GÖÇLERİ TRABZON BEŞİKDÜZÜ",
+    "source": "YouTube",
+    "time": "16/11/2026 06:50",
+    "link": "https://www.youtube.com/watch?v=RsIgiom2otA",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: RsIgiom2otA)",
+    "image": "https://img.youtube.com/vi/RsIgiom2otA/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_b7b59d3e",
+    "title": "🗣️ Zenit - Trabzonspor | MAÇ ÖZETİ | Hazırlık Maçı | 15.11.2026",
+    "source": "YouTube",
+    "time": "16/11/2026 06:50",
+    "link": "https://www.youtube.com/watch?v=09LzXFZQQH4",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 09LzXFZQQH4)",
+    "image": "https://img.youtube.com/vi/09LzXFZQQH4/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "GND_aab87e72",
+    "title": "Husiler'den Suudi Arabistan'a yoğun saldırı: Havalimanı, finans merkezi ve petrol tesisleri vuruldu",
+    "source": "Haber Global",
+    "time": "16/11/2026 06:49",
+    "link": "https://haberglobal.com/dunya/husilerden-suudi-arabistana-yogun-saldiri-havalimani-finans-merkezi-ve-petrol-tesisleri-vuruldu-553604",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yemen'de İran destekli Husiler, Suudi Arabistan'ın başkenti Riyad'da iki petrol pompa istasyonu, Kral Halid Uluslararası Havalimanı ve finans merkezini hedef aldıklarını açıkladı.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/16/husilerden-suudi-arabistana-yogun-saldiri-havalimani-finans-merkezi-ve-petrol-tesisleri-vuruldu-rbti.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_c6185dc5",
+    "title": "Milletvekili Tıybi, Netanyahu hakkında seçimlere müdahale soruşturması istedi",
+    "source": "TRT Haber",
+    "time": "16/11/2026 06:49",
+    "link": "https://www.trthaber.com/haber/dunya/milletvekili-tiybi-netanyahu-hakkinda-secimlere-mudahale-sorusturmasi-istedi-963368.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İsrail vatandaşı Filistinlileri temsil eden Ortak Liste bileşenlerinden Taal Partisi lideri ve milletvekili Ahmed Tıybi, \"seçimlere müdahale\" şüphesiyle geçici hükümetin Başbakanı Binyamin Netanyahu ve ofisindeki yetkililer hakkında soruşturma açılmasını talep etti.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_40dd74af",
+    "title": "İsrail Güvenlik Kabinesi, İran'a yeni saldırı iddialarının gölgesinde toplandı",
+    "source": "Evrensel",
+    "time": "16/11/2026 06:49",
+    "link": "https://www.evrensel.net/haber/6009647/israil-guvenlik-kabinesi-iran-a-yeni-saldiri-iddialarinin-golgesinde-toplandi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Geçici Başbakan Netanyahu'nun İran'a yeni bir saldırı arayışında olduğu öne sürülürken, kabine ekim başından bu yana ilk kez bir araya geldi.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/370814.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_2aa8ff0c",
+    "title": "Erzurum'un Pasinler ilçesinde 3,6 büyüklüğünde deprem",
+    "source": "A Haber",
+    "time": "16/11/2026 06:48",
+    "link": "https://www.ahaber.com.tr/gundem/2026/11/16/erzurumun-pasinler-ilcesinde-36-buyuklugunde-deprem",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Erzurum'un Pasinler ilçesinde saat 06.01'de 3,6 büyüklüğünde deprem meydana geldi. Yerin 7 kilometre derinliğinde kaydedilen sarsıntının ardından yapılan ilk değerlendirmelerde herhangi bir olumsuzluk... Devamı için tıklayınız",
+    "image": "https://iaahbr.tmgrup.com.tr/7d417b/1200/1200/176/0/661/486?u=https://iahbr.tmgrup.com.tr/2026/11/16/1794799355401.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_bee59a18",
     "title": "Konu: Elektronik tebligat... Kanun değişti sorun bitmedi",
     "source": "OdaTV",
@@ -4725,78 +4797,6 @@
     "prefix": "🎯",
     "summary": "Trabzonspor'un Zenit ile oynadığı hazırlık maçının ardından konuşan Cenk Özkacar, karşılaşmanın atmosferini değerlendirirken Türk taraftarlarla ilgili de dikkat çeken ifadeler kullandı.",
     "image": "https://static.daktilo.com/sites/1479/uploads/2026/11/15/large/cenk-ozkacardan-zenit-maci-sonrasi-dikkat-ceken-taraftar-yorumu.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_20af2d69",
-    "title": "Onuralp Çevikkan'dan Zenit Mağlubiyetine Kadro Yorumu",
-    "source": "Kuzey Ekspres",
-    "time": "15/11/2026 21:32",
-    "link": "https://www.kuzeyekspres.com.tr/haber/29166492/onuralp-cevikkandan-zenit-maglubiyetine-kadro-yorumu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor'un genç kalecisi Onuralp Çevikkan, Zenit karşısında alınan 3-0'lık mağlubiyetin ardından konuştu ve eksik kadroya dikkat çekti.",
-    "image": "https://static.daktilo.com/sites/1479/uploads/2026/11/15/large/onuralp-cevikkandan-zenit-maglubiyetine-kadro-yorumu.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_1886581d",
-    "title": "Trabzonspor–Zenit Maçında Neler Oldu? Üç Gol, İki Direk ve Bir Sakatlık",
-    "source": "Taka Gazetesi",
-    "time": "15/11/2026 21:32",
-    "link": "https://www.takagazete.com.tr/trabzonspor-zenit-macinda-neler-oldu-uc-gol-iki-direk-ve-bir-sakatlik",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor, gençlerin de süre aldığı Zenit hazırlık maçında ilk yarıda rakip kaleyi yoklayamadı. İkinci devrede ise bir şut direkten, bir şut ağlardan döndü.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/5a4b8f73-843b-4987-81ee-dc56cb9b3672.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_52e4a949",
-    "title": "Trabzonspor’un Zenit Sınavında İki Direk, Üç Gol: Gazprom Arena’da Neler Oldu?",
-    "source": "Taka Gazetesi",
-    "time": "15/11/2026 21:32",
-    "link": "https://www.takagazete.com.tr/trabzonsporun-zenit-sinavinda-iki-direk-uc-gol-gazprom-arenada-neler-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Gazprom Arena’da Zenit’le oynadığı hazırlık maçının arkasında özel bir sözleşme maddesi vardı. Karşılaşmanın ilk yarısına ise tanıdık bir isim damga vurdu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/whatsapp-image-2026-11-15-at-190345.jpeg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_d883c9bd",
-    "title": "Trabzonspor’un Zenit Maçı Kadrosunda Hangi Altyapı Oyuncuları Yer Aldı?",
-    "source": "Taka Gazetesi",
-    "time": "15/11/2026 21:31",
-    "link": "https://www.takagazete.com.tr/trabzonsporun-zenit-maci-kadrosunda-hangi-altyapi-oyunculari-yer-aldi",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Gazprom Arena’da Zenit’le oynadığı hazırlık maçında Thomas Reis’in kadro tercihi dikkat çekti. U19 oyuncuları hem ilk 11’de hem kulübede yer aldı.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/aa5b3962-530b-45b3-bf70-203fa2f3a08c.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_f9b5f460",
-    "title": "Onuralp Çevikkan Trabzonspor’da En Son Ne Zaman Forma Giymişti?",
-    "source": "Taka Gazetesi",
-    "time": "15/11/2026 21:31",
-    "link": "https://www.takagazete.com.tr/onuralp-cevikkan-trabzonsporda-en-son-ne-zaman-forma-giymisti",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un genç kalecisi Onuralp Çevikkan için Zenit hazırlık maçı, aylar süren aranın ardından ayrı bir anlam taşıdı. Gözler bu kez bordo-mavili kaleye çevrildi.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/e88ecf73-8b40-4447-8072-2d54ed236634.jpg",
-    "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_1e65a2d1",
-    "title": "Trabzonspor’un Zenit Maçında Kaptan Neden Samet Akaydın Oldu?",
-    "source": "Taka Gazetesi",
-    "time": "15/11/2026 21:31",
-    "link": "https://www.takagazete.com.tr/trabzonsporun-zenit-macinda-kaptan-neden-samet-akaydin-oldu",
-    "type": "TKP",
-    "prefix": "🎯",
-    "summary": "Trabzonspor’un Zenit ile oynadığı hazırlık maçında kaptanlık pazubandı el değiştirdi. Gazprom Arena’daki karşılaşma, Samet Akaydın için bir ilke sahne oldu.",
-    "image": "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/uploads/2026/11/ec8c5d7f-7ad0-4177-bd01-e68c4b2c2566.jpg",
     "keyword": "TRABZON"
   }
 ]
