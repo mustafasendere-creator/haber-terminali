@@ -1,5 +1,29 @@
 [
   {
+    "id": "SOC_7fd90ee2",
+    "title": "🗣️ @sondakikamm.bsky.social",
+    "source": "Bluesky",
+    "time": "17/11/2026 00:53",
+    "link": "https://bsky.app/profile/sondakikamm.bsky.social/post/3n2hhcdpbbp2p",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "🚨 SON DAKİKA | ABD’de Büyük Bankalarda ve Microsoft Hizmetler... ⚡ Dakika dakika tüm son durum: 🔗 https://haberlesende.com/2026/11/16/abdde-buyuk-bankalarda-ve-microsoft-hizmetlerinde-erisim-sorunlari-yasaniyor/ #Haber #Trabzon #Teknoloji #SiberGüvenlik",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:75w7fudfg7hqwpvqmeocpbbq/bafkreicerekoc43fae2psduzym7eauupzf2hyerlen3roanvnfbo4k2hhi",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_4f3e32d4",
+    "title": "🗣️ ABD'DE YENİ KRİZ PATLADI! Banka Hesapları Çöktü Müşteriler Hesaplarına Ulaşamıyor",
+    "source": "YouTube",
+    "time": "17/11/2026 00:53",
+    "link": "https://www.youtube.com/watch?v=jm1APmj7JU8",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: jm1APmj7JU8)",
+    "image": "https://img.youtube.com/vi/jm1APmj7JU8/hqdefault.jpg",
+    "keyword": "S:SONDAKIKA"
+  },
+  {
     "id": "GND_65ad9f77",
     "title": "TMSF, 21 şirkete kayyum atandı",
     "source": "OdaTV",
@@ -4774,29 +4798,5 @@
     "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
     "image": null,
     "keyword": "TRABZON"
-  },
-  {
-    "id": "TKP_bd7a6c42",
-    "title": "Trabzon Büyükşehir’in 2027 Gelir Tarifesi Kabul Edildi - Günebakış Gazetesi Trabzon",
-    "source": "Google Haberler",
-    "time": "16/11/2026 19:59",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXpoOEJTSS14VnZYVHNsa21MbUxZWVFPNnJUOHgwcWpZZ0JNSEl2RXhjeTY1Ym1LS21SVGR4STdXZjgyN3IzZ0p1MzVhZE1ENklXNmJfbHozRVpwQUxwS0NLNmJFOU9jYmZNalNpZk8wT01iQUY4OFVvZzNpdjl2WEYzV0ZKMEcxLWg1YXVGSHV6dlZwZEgyRnlfZ9IBmwFBVV95cUxPOXpoOEJTSS14VnZYVHNsa21MbUxZWVFPNnJUOHgwcWpZZ0JNSEl2RXhjeTY1Ym1LS21SVGR4STdXZjgyN3IzZ0p1MzVhZE1ENklXNmJfbHozRVpwQUxwS0NLNmJFOU9jYmZNalNpZk8wT01iQUY4OFVvZzNpdjl2WEYzV0ZKMEcxLWg1YXVGSHV6dlZwZEgyRnlfZw?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "GÜNEBAKIŞ"
-  },
-  {
-    "id": "SOC_926121dd",
-    "title": "🗣️ Dendias'ın Türkiye Hazımsızlığı! İsim Vermeden Tehdit Olarak Tanımladı \"Bizden 10 Kat Büyük Bir Güç\"",
-    "source": "YouTube",
-    "time": "16/11/2026 19:59",
-    "link": "https://www.youtube.com/watch?v=XkdvElz373g",
-    "type": "SOC",
-    "prefix": "🔴 ▶️",
-    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: XkdvElz373g)",
-    "image": "https://img.youtube.com/vi/XkdvElz373g/hqdefault.jpg",
-    "keyword": "S:SONDAKIKA"
   }
 ]
