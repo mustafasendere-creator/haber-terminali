@@ -1,5 +1,77 @@
 [
   {
+    "id": "SOC_c9d7432e",
+    "title": "🗣️ @celebplanes.bsky.social",
+    "source": "Bluesky",
+    "time": "18/11/2026 02:54",
+    "link": "https://bsky.app/profile/celebplanes.bsky.social/post/3n2k6ddki6x2z",
+    "type": "SOC",
+    "prefix": "🔵 🦋",
+    "summary": "IBM's Gulfstream G650ER just touched down at LTCG (Trabzon) — 4h 44m from Indira Gandhi. FL400 cruise · ~2,225 gal. #celebplanes #celebjettracking #privatejet #avgeek #ibm #gulfstreamg650er www.celebplanes.com/flight/33216",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zgjuen4mywjwoa3tbm4ptxka/bafkreid5w5zjeexuj6oaepqygazilcwobes4viqukgu4gdoyb5rs3snnsa",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_dc5cc324",
+    "title": "🗣️ Trabzon’dan “Gidip de Dönmeyenler”e vefa",
+    "source": "YouTube",
+    "time": "18/11/2026 02:54",
+    "link": "https://www.youtube.com/watch?v=3M4hEKvhs1k",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 TRABZON | YouTube Video (ID: 3M4hEKvhs1k)",
+    "image": "https://img.youtube.com/vi/3M4hEKvhs1k/hqdefault.jpg",
+    "keyword": "TRABZON"
+  },
+  {
+    "id": "SOC_14b22c64",
+    "title": "🗣️ Gökhan Günaydın’dan Sözcü TV'ye kayyuma çarpıcı tepki: “Artık bu işin başka yolu kalmadı!”",
+    "source": "YouTube",
+    "time": "18/11/2026 02:54",
+    "link": "https://www.youtube.com/watch?v=zlsjeUE3WBo",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: zlsjeUE3WBo)",
+    "image": "https://img.youtube.com/vi/zlsjeUE3WBo/hqdefault.jpg",
+    "keyword": "S:SONDAKIKA"
+  },
+  {
+    "id": "SOC_cee4b09c",
+    "title": "🗣️ Hedef Türkiye mi? Fransız gemileri Akdeniz'de ne arıyor?",
+    "source": "YouTube",
+    "time": "18/11/2026 02:54",
+    "link": "https://www.youtube.com/watch?v=PxYL6cyUHOA",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: PxYL6cyUHOA)",
+    "image": "https://img.youtube.com/vi/PxYL6cyUHOA/hqdefault.jpg",
+    "keyword": "S:SONDAKIKA"
+  },
+  {
+    "id": "SOC_08fd1fac",
+    "title": "🗣️ Koray Kamacı ve Sinan Sungur The Economist 2027 kapağını analiz etti. Trump-Şi-Putin görüşmesi",
+    "source": "YouTube",
+    "time": "18/11/2026 02:54",
+    "link": "https://www.youtube.com/watch?v=yylnrk_Y-1Q",
+    "type": "SOC",
+    "prefix": "🔴 ▶️",
+    "summary": "📺 S:SONDAKIKA | YouTube Video (ID: yylnrkY-1Q)",
+    "image": "https://img.youtube.com/vi/yylnrk_Y-1Q/hqdefault.jpg",
+    "keyword": "S:SONDAKIKA"
+  },
+  {
+    "id": "GND_fa19ae5f",
+    "title": "Düzce D-100 karayolunda otomobil TIR'a ok gibi saplandı: 1 ölü",
+    "source": "OdaTV",
+    "time": "18/11/2026 02:54",
+    "link": "https://www.odatv.com/guncel/duzce-d-100-karayolunda-otomobil-tira-ok-gibi-saplandi-1-olu-120171697",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Düzce D-100 karayolunda meydana gelen kazada otomobil TIR'a arkadan çarptı. Kazada otomobil sürücüsü hayatını kaybetti.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/18/duzce-d-100-karayolunda-otomobil-tira-ok-gibi-saplandi-1-olu-drec.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_6571579e",
     "title": "Papa, aracının ani fren yapması sonucu başını ön koltuğa çarptı",
     "source": "OdaTV",
@@ -4725,78 +4797,6 @@
     "prefix": "🔔",
     "summary": "İngiltere Başbakanı Andy Burnham, \"Kendisi bu konuda otorite değil. Bize, Britanya'nın kazandığından çoğunu kaybettiği kötü bir Brexit anlaşması bıraktı.\" dedi.",
     "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_fa9edb66",
-    "title": "Fenerbahçe Yardımcı Antrenörü Zeki Murat Göle, sarı-lacivertli kulübe veda etti",
-    "source": "Anadolu Ajansı",
-    "time": "17/11/2026 21:12",
-    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-yardimci-antrenoru-zeki-murat-gole-sari-lacivertli-kulube-veda-etti/4128226",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Fenerbahçe Futbol Takımı Yardımcı Antrenörü Zeki Murat Göle, sarı-lacivertli kulübe veda etti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_93812503",
-    "title": "Mbappe'ye ırkçı tacizde bulunan taraftara 11 ay ertelenmiş hapis cezası",
-    "source": "Anadolu Ajansı",
-    "time": "17/11/2026 21:12",
-    "link": "https://www.aa.com.tr/tr/spor/mbappeye-irkci-tacizde-bulunan-taraftara-11-ay-ertelenmis-hapis-cezasi/4128257",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "İspanya'da Real Madrid'in Fransız yıldızı Kylian Mbappe'ye ırkçı tacizde bulunan bir taraftara 11 ay hapis cezası verildi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_297951e0",
-    "title": "İsrail askerleri, 6 yaşındaki İyas'ı çadırda ders çalıştığı sırada öldürdü",
-    "source": "Anadolu Ajansı",
-    "time": "17/11/2026 21:12",
-    "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-6-yasindaki-iyasi-cadirda-ders-calistigi-sirada-oldurdu/4128259",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gazze Şeridi'nin orta kesimindeki Deyr el-Belah kentinde sığındığı çadırda ders çalışırken İsrail güçlerinin açtığı ateş sonucu ağır yaralanan 6 yaşındaki Filistinli çocuk yaşamını yitirdi.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_7855c051",
-    "title": "ABD Ulusal Güvenlik Ajansının gizli iç iletişim ağının çalışmadığı öne sürüldü",
-    "source": "Anadolu Ajansı",
-    "time": "17/11/2026 21:12",
-    "link": "https://www.aa.com.tr/tr/dunya/abd-ulusal-guvenlik-ajansinin-gizli-ic-iletisim-aginin-calismadigi-one-suruldu/4128262",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Ulusal Güvenlik Ajansının (NSA) iç iletişim için kullandığı çok gizli ağın devre dışı kaldığı öne sürüldü.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_fd0ebb6d",
-    "title": "Türk F-16'larından tarihi intikal! Mogadişu-Bandırma hattında 55 saatte 11 bin 38 kilometre katettiler",
-    "source": "A Haber",
-    "time": "17/11/2026 21:12",
-    "link": "https://www.ahaber.com.tr/gundem/2026/11/17/turk-f-16larindan-dogu-afrikadan-turkiyeye-kesintisiz-intikal",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Somali Türk Görev Kuvveti Hava Unsur Komutanlığı bünyesinde görev yapan 6'ncı Ana Jet Üs Komutanlığına bağlı 161'inci Jet Filo Komutanlığının F-16 pilotları, bakım zamanı gelen uçakların rotasyon... Devamı için tıklayınız",
-    "image": "https://iaahbr.tmgrup.com.tr/b2398e/0/0/0/0/1254/1254?u=https://iahbr.tmgrup.com.tr/2026/11/17/turk-f-16larindan-dogu-afrikadan-turkiyeye-kesintisiz-intikal-1794938848241.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_e66d99fe",
-    "title": "Avrupa borsaları düşüşle kapandı",
-    "source": "Ekonomim",
-    "time": "17/11/2026 20:55",
-    "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-dususle-kapandi-haberi-931850",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Avrupa borsaları, teknoloji hisselerindeki satış baskısı ve yapay zeka yatırımlarının geleceğine ilişkin endişelerle haftanın ikinci işlem gününü düşüşle tamamladı.",
-    "image": "https://img.ekonomim.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/28/avrupa-borsalari-karisik-seyirle-kapandi-kp6o_cover.jpg",
     "keyword": ""
   }
 ]
