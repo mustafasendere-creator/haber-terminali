@@ -1,5 +1,65 @@
 [
   {
+    "id": "GND_0e5fe5ac",
+    "title": "Merdivenden bisikletle inerek yola çıkan çocuğa otomobil çarptı",
+    "source": "OdaTV",
+    "time": "17/11/2026 03:13",
+    "link": "https://www.odatv.com/guncel/merdivenden-bisikletle-inerek-yola-cikan-cocuga-otomobil-carpti-120171550",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri’nin Talas ilçesinde arkadaşlarıyla bisikletle merdivenden aşağı inerek yola çıkan çocuğa otomobil çarptı. Kazada çocuk yaralanırken, kaza anı cep telefonu ile anbean görüntülendi.",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/17/merdivenden-bisikletle-inerek-yola-cikan-cocuga-otomobil-carpti-sspt.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4413c108",
+    "title": "Karabük'te otomobil şarampole yuvarlandı: Sürücü yaşamını yitirdi",
+    "source": "Haber Global",
+    "time": "17/11/2026 03:13",
+    "link": "https://haberglobal.com/gundem/karabukte-otomobil-sarampole-yuvarlandi-surucu-yasamini-yitirdi-553743",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karabük Ovacık'ta otomobilin şarampole yuvarlandığı kazada sürücü Selehattin Arslan (63) yaşamını yitirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/17/karabukte-otomobil-sarampole-yuvarlandi-surucu-yasamini-yitirdi-yls4.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_e7705e6c",
+    "title": "Intel'e yatırımcıları yanılttığı iddiasıyla dava açıldı",
+    "source": "Anadolu Ajansı",
+    "time": "17/11/2026 03:12",
+    "link": "https://www.aa.com.tr/tr/ekonomi/intele-yatirimcilari-yanilttigi-iddiasiyla-dava-acildi/4127180",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "ABD'li çip üreticisi Intel'e, kişisel bilgisayar (PC) pazarındaki yavaşlamanın ve tedarik sorunlarının şirketin gelirleri üzerindeki etkisini yatırımcılardan gizleyerek yanıltıcı açıklamalarda bulunduğu iddiasıyla toplu dava açıldı.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_9744e974",
+    "title": "UKMTO: Hürmüz Boğazı'nda tankere saldırı düzenlendi, makine dairesinde yangın çıktı",
+    "source": "Anadolu Ajansı",
+    "time": "17/11/2026 03:12",
+    "link": "https://www.aa.com.tr/tr/dunya/ukmto-hurmuz-bogazinda-tankere-saldiri-duzenlendi-makine-dairesinde-yangin-cikti/4127182",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Umman'ın Hasab kentinin 7 deniz mili kuzeyinde, Hürmüz Boğazı'ndan geçiş yapan bir tankere saldırı düzenlendiğini bildirdi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_d8ac40ab",
+    "title": "A Milli Futbol Takımı, UEFA Uluslar B Ligi'ne düştü",
+    "source": "Anadolu Ajansı",
+    "time": "17/11/2026 03:12",
+    "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-uefa-uluslar-b-ligine-dustu/4127184",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "A Milli Futbol Takımı, Yunanistan'ın Sırbistan'ı 1-0 mağlup etmesiyle UEFA Uluslar B Ligi'ne düştü.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "TKP_62b2ebb9",
     "title": "New York'ta Silahlı Saldırı! 2'si Güvenlik Görevlisi 3 Kişiyi Vuran Zanlı İntihar Etti! - ABC Haber",
     "source": "Google Haberler",
@@ -4737,66 +4797,6 @@
     "prefix": "🔔",
     "summary": "YENİ Parti'nin 1. Olağan Kurultayı'nda yeniden genel başkanlığa seçilen Özgür Özel'i telefonla arayan DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan, Özel'i tebrik etti.",
     "image": "https://static.birgun.net/resim/haber/2026/11/16/dem-parti-es-genel-baskanlarindan-ozgur-ozel-e-tebrik-telefonu.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_2fbefd0e",
-    "title": "Ümit Özlale'den Çiğdem Karaaslan'a: Sorduğumuz soruları başka bir yere çekiyorsunuz",
-    "source": "BirGün",
-    "time": "16/11/2026 21:13",
-    "link": "https://www.birgun.net/haber/umit-ozlale-den-cigdem-karaaslan-a-sordugumuz-sorulari-baska-bir-yere-cekiyorsunuz-746795",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "YENİ Parti Milletvekili Ümit Özlale, hakkında iddialar gündeme getirdiği AKP Samsun Milletvekili ve MKYK Üyesi Karaarslan'ın \"soruları başka yöne çektiğini\" ifade ederek yeniden 3 soru yöneltti. Özlale, \"1. Ailenizin bu ortaklık, yönetim kurulu üyeliği ve pay sahipliği ilişkilerinden haberdar mıydınız? 2. Eşinizin ve kardeşinizin yer aldığı bu süreçlerle ilgili herhangi bir siyasetçiyle, bürokratla ya da denetim makamıyla görüştünüz mü? 3. Bu işlemlerde siyasi konumunuzun ve nüfuzunuzun referans olarak kullanılıp kullanılmadığını hiç araştırdınız mı?\" dedi.",
-    "image": "https://static.birgun.net/resim/haber/2026/11/16/umit-ozlale-den-cigdem-karaaslan-a-sordugumuz-sorulari-baska-bir-yere-cekiyorsunuz.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "GND_3c899bb8",
-    "title": "Kayyum yönetimindeki Esenyurt Belediyesi'ne yönelik rüşvet soruşturmasında 3 yeni tutuklama",
-    "source": "BirGün",
-    "time": "16/11/2026 21:13",
-    "link": "https://www.birgun.net/haber/kayyum-yonetimindeki-esenyurt-belediyesi-ne-yonelik-rusvet-sorusturmasinda-3-yeni-tutuklama-746796",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Kayyum yönetimindeki Esenyurt Belediyesi’nde ihaleye fesat karıştırma ve rüşvet iddialarına yönelik yürütülen soruşturma kapsamında düzenlenen yeni operasyonda 3 kişi tutuklandı, 3 kişi ise adli kontrol şartıyla serbest bırakıldı.",
-    "image": "https://static.birgun.net/resim/haber/2026/11/16/kayyum-yonetimindeki-esenyurt-belediyesi-ne-yonelik-rusvet-sorusturmasinda-3-yeni-tutuklama.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_54e5b76c",
-    "title": "Trabzon'un gündemi 61saat TV'de! Ahmet Metin Genç soruları yanıtlayacak",
-    "source": "61 Saat",
-    "time": "16/11/2026 21:13",
-    "link": "https://www.61saat.com/trabzonun-gundemi-61saat-tvde-ahmet-metin-genc-sorulari-yanitlayacak",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzon Büyükşehir Belediye Başkanı, kentin gündemini ve belediyenin çalışmalarını değerlendirmek üzere bugün canlı yayında gazetecilerin karşısına çıkılıyor.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/11/mansetler-1-490.png",
-    "keyword": ""
-  },
-  {
-    "id": "GND_ff7c7a65",
-    "title": "Kürdistan İslami Hareket Partisi Genel Başkanı Abdülaziz, AKP Genel Merkezi'ni ziyaret etti",
-    "source": "BirGün",
-    "time": "16/11/2026 21:13",
-    "link": "https://www.birgun.net/haber/kurdistan-islami-hareket-partisi-genel-baskani-abdulaziz-akp-genel-merkezi-ni-ziyaret-etti-746797",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "AKP Genel Başkan Yardımcısı ve Dış İlişkiler Başkanı Zafer Sırakaya, Irak Kürt Bölgesel Yönetimi (IKBY) Kürdistan İslami Hareket Partisi Genel Başkanı İrfan Ali Abdülaziz ve beraberindeki heyetle AKP Genel Merkezi'nde bir araya geldi. Görüşmede Türkiye ile IKBY arasındaki ilişkiler ve bölgesel gelişmeler ele alındı.",
-    "image": "https://static.birgun.net/resim/haber/2026/11/16/kurdistan-islami-hareket-partisi-genel-baskani-abdulaziz-akp-genel-merkezi-nde.jpg",
-    "keyword": ""
-  },
-  {
-    "id": "YRL_1666abed",
-    "title": "Trabzonspor'dan KAP'a peş peşe 4 bildirim! Yaklaşık 2 milyar TL zarar açıklandı",
-    "source": "61 Saat",
-    "time": "16/11/2026 21:13",
-    "link": "https://www.61saat.com/trabzonspordan-kapa-pes-pese-4-bildirim-yaklasik-2-milyar-tl-zarar-aciklandi",
-    "type": "YRL",
-    "prefix": "🌊",
-    "summary": "Trabzonspor Sportif Yatırım ve Futbol İşletmeciliği AŞ, Kamuyu Aydınlatma Platformu'na (KAP) dört ayrı bildirimde bulundu. Bordo-mavili şirket, 2025-2026 hesap döneminde 1 milyar 983 milyon 231 bin 658 TL zarar açıkladı. Yönetim Kurulu ayrıca kâr payı dağıtılmamasını teklif ederken, olağan genel kurul tarihini ve bağımsız denetçi önerisini de duyurdu.",
-    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/11/eaa130c0-289d-46a4-a76c-90d08708f9cb.png",
     "keyword": ""
   }
 ]
