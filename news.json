@@ -1,5 +1,41 @@
 [
   {
+    "id": "GND_a7ec28d8",
+    "title": "Karaman'da genç motosiklet sürücüsü kazada can verdi",
+    "source": "Haber Global",
+    "time": "21/11/2026 04:05",
+    "link": "https://haberglobal.com/gundem/karamanda-genc-motosiklet-surucusu-kazada-can-verdi-554412",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Karaman'da hafif ticari araçla çarpışan motosikletin 20 yaşındaki genç sürücüsü yaşamını yitirdi.",
+    "image": "https://i.haberglobal.com/storage/files/images/2026/11/21/karamanda-genc-motosiklet-surucusu-kazada-can-verdi-fa5s.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_202c5110",
+    "title": "Kütahya'da otomobil yol kenarında bekleyen tıra çarptı: 4 yaralı",
+    "source": "TRT Haber",
+    "time": "21/11/2026 04:05",
+    "link": "https://www.trthaber.com/haber/turkiye/kutahyada-otomobil-yol-kenarinda-bekleyen-tira-carpti-4-yarali-964024.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kütahya'da yol kenarında bekleyen mermer yüklü tıra çarpan otomobildeki 4 kişi yaralandı. Yaralılardan 2'sinin hayati tehlikesinin bulunduğu öğrenildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_abfd4003",
+    "title": "Peru'da 6,7 büyüklüğünde deprem",
+    "source": "Anadolu Ajansı",
+    "time": "21/11/2026 04:05",
+    "link": "https://www.aa.com.tr/tr/dunya/peruda-6-7-buyuklugunde-deprem/4132654",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Peru'nun Junin bölgesinde 6,7 büyüklüğünde deprem meydana geldiği bildirildi.",
+    "image": null,
+    "keyword": ""
+  },
+  {
     "id": "GND_801df581",
     "title": "Çalıştığı eğlence mekanının kasasından 100 bin lira çaldı",
     "source": "OdaTV",
@@ -4762,41 +4798,5 @@
     "summary": "Trabzonspor, Avrupa'nın en üst düzey 10 liginde 50 net gol şansı üreterek Real Madrid ile aynı istatistiğe ulaştı ve Roma'yı geride bıraktı.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/11/20/large/trabzonspor-avrupanin-ilk-10unda-1795197565.webp",
     "keyword": "TRABZON"
-  },
-  {
-    "id": "GND_570c00d2",
-    "title": "\"Beşiktaş 7 atıyorsa, biz neden 8 atmayalım?\"",
-    "source": "Habertürk",
-    "time": "20/11/2026 21:07",
-    "link": "https://www.haberturk.com/spor/galatasaray-eski-baskani-alp-yalman-besiktas-7-atiyorsa-biz-neden-8-atmayalim-3928885",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Galatasaray Eski Başkanı Alp Yalman, HT Spor İstihbarat Şefi Sezgin Gelmez'in sunduğu Gelmez Dediğin Yerden programına konuk oldu. Eskiden kulüplerin gelirlerinin çok kısıtlı olduğunu açıklayan Yalman, şampiyon olunan sezon Ankaragücü maçının 8-0 bitmesiyle alakalı \"Beşiktaş Ankaragücü'nü 7-0 yenmişti, onlar 7 atıyorsa biz neden 8 atmayalım? Galatasaray'ın böyle bir averaja da ihtiyacı yoktu\" şeklinde konuştu.",
-    "image": "https://im.haberturk.com/l/2026/11/20/ver1795196322/3928885/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "GND_b5641f7c",
-    "title": "Kadim Dostlar Buluşması'na katıldı",
-    "source": "Habertürk",
-    "time": "20/11/2026 21:07",
-    "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-kadim-dostlar-bulusmasi-na-katildi-3928895",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Kadim Dostlar Buluşması'na katıldı",
-    "image": "https://im.haberturk.com/l/2026/11/20/ver1795196659/3928895/jpg/1920x1080",
-    "keyword": ""
-  },
-  {
-    "id": "GND_f1e69cdf",
-    "title": "Haydar Arda Çakmak'tan adaylık kararı!",
-    "source": "Habertürk",
-    "time": "20/11/2026 21:07",
-    "link": "https://www.haberturk.com/spor/genclerbirligi-baskani-haydar-arda-cakmak-tan-adaylik-karari-3928897",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "Gençlerbirliği Kulübü Başkanı Haydar Arda Çakmak, 22 Kasım Pazar günü yapılacak olağanüstü seçimli genel kurulda kendisinin aday olmayacağını ve Ali Osman Avşar'ın başkan adayı olacağını açıkladı.",
-    "image": "https://im.haberturk.com/l/2026/11/20/ver1795196917/3928897/jpg/1920x1080",
-    "keyword": ""
   }
 ]
