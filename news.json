@@ -1,5 +1,53 @@
 [
   {
+    "id": "GND_4e32c7df",
+    "title": "Maliye 2021’in hesabını kapatmaya hazırlanıyor",
+    "source": "OdaTV",
+    "time": "23/11/2026 06:25",
+    "link": "https://www.odatv.com/yazarlar/yusuf-ileri/maliye-2021in-hesabini-kapatmaya-hazirlaniyor-120172350",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Yusuf İleri yazdı....",
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/22/maliye-2021in-hesabini-kapatmaya-hazirlaniyor-b59r.jpg",
+    "keyword": ""
+  },
+  {
+    "id": "GND_b7b957c2",
+    "title": "Lahmacun aşkı başını yaktı",
+    "source": "Habertürk",
+    "time": "23/11/2026 06:25",
+    "link": "https://www.haberturk.com/gundem/lahmacun-aski-basini-yakti-3929290",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Kayseri'nin Kocasinan ilçesinde ev hapsinde bulunan ve lahmacun almak için sokağa çıkan şahıs polis ekiplerinden kaçtı. Ekipler tarafından kovalamaca sonucu yakalan şahıs hakkında işlem yapıldı",
+    "image": "https://im.haberturk.com/l/2026/11/23/ver1795403875/3929290/jpg/1920x1080",
+    "keyword": ""
+  },
+  {
+    "id": "GND_4f57d252",
+    "title": "22 il için sarı uyarı: Kuvvetli yağış ve fırtınaya dikkat",
+    "source": "TRT Haber",
+    "time": "23/11/2026 06:25",
+    "link": "https://www.trthaber.com/haber/gundem/22-il-icin-sari-uyari-kuvvetli-yagis-ve-firtinaya-dikkat-964163.html",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Marmara, Kuzey Ege ile yurdun doğusunda beklenen kuvvetli yağış ve rüzgar nedeniyle 22 il için \"sarı\" kodlu uyarıda bulunuldu.",
+    "image": null,
+    "keyword": ""
+  },
+  {
+    "id": "GND_a75e3f9e",
+    "title": "Sakarya'da tır, kırmızı ışıkta bekleyen aracın üzerine devrildi",
+    "source": "Evrensel",
+    "time": "23/11/2026 06:25",
+    "link": "https://www.evrensel.net/haber/6010714/sakarya-da-tir-kirmizi-isikta-bekleyen-aracin-uzerine-devrildi",
+    "type": "GND",
+    "prefix": "🔔",
+    "summary": "Sakarya'nın Pamukova ilçesinde kontrolden çıkan tır, trafik ışıklarında bekleyen hafif ticari aracın üzerine devrildi. Kazada 2 kişi yaralandı.",
+    "image": "https://www.evrensel.net/images/1280/upload/dosya/371719.jpg",
+    "keyword": ""
+  },
+  {
     "id": "GND_aa19b328",
     "title": "Ege Denizi'nde 4,2 büyüklüğünde deprem",
     "source": "Habertürk",
@@ -4750,53 +4798,5 @@
     "summary": "Trendyol Süper Lig’in 12. haftasında sahasında Eyüpspor’u 1-0 mağlup eden Trabzonspor, bu sezon iç sahada oynadığı altı maçı da kazanarak tarihi bir başarıya imza attı. Bordo-mavililer, elde ettiği bu seriyle 1984-1985 sezonundan bu yana ilk kez bir Süper Lig sezonuna evinde altıda altı yaparak başlamış oldu.",
     "image": "https://static.daktilo.com/sites/1262/uploads/2026/11/22/large/papara-parkta-trabzonspor-rekoru.webp",
     "keyword": ""
-  },
-  {
-    "id": "GND_e1b9617c",
-    "title": "Delta Air Lines uçuşları teknik sorun nedeniyle ABD genelinde gecikme ve iptaller yaşıyor",
-    "source": "Anadolu Ajansı",
-    "time": "22/11/2026 22:46",
-    "link": "https://www.aa.com.tr/tr/dunya/delta-air-lines-ucuslari-teknik-sorun-nedeniyle-abd-genelinde-gecikme-ve-iptaller-yasiyor/4133817",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin Atlanta şehrinde yaşanan teknik bir aksaklık sebebiyle hava yolu şirketi Delta Air Lines'ın uçuşlarında ülke genelinde gecikme ve iptaller yaşandı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_e92c2515",
-    "title": "ABD'de bir bebek partisinde silahlı saldırıya uğrayan 3 kişi hayatını kaybetti",
-    "source": "Anadolu Ajansı",
-    "time": "22/11/2026 22:46",
-    "link": "https://www.aa.com.tr/tr/dunya/abdde-bir-bebek-partisinde-silahli-saldiriya-ugrayan-3-kisi-hayatini-kaybetti/4133825",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD'nin Ohio eyaletinde bir bebek partisinde (baby shower) silahlı saldırıya uğrayan 3 kişi hayatını kaybetti, 1 kişi yaralandı.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "GND_0b45934f",
-    "title": "Trump, İran'a yönelik saldırıların yeni yıldan sonra yeniden başlayabileceği uyarısında bulundu",
-    "source": "Anadolu Ajansı",
-    "time": "22/11/2026 22:45",
-    "link": "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-saldirilarin-yeni-yildan-sonra-yeniden-baslayabilecegi-uyarisinda-bulundu/4133806",
-    "type": "GND",
-    "prefix": "🔔",
-    "summary": "ABD Başkanı Donald Trump, İran ile anlaşmaya varılamaması halinde 1 Ocak'tan sonra bu ülkeye yönelik askeri saldırı emri verebileceğini belirtti.",
-    "image": null,
-    "keyword": ""
-  },
-  {
-    "id": "TKP_e2bf57c7",
-    "title": "Vize Serbestisi İçin Kalan Düzenlemeler Meclis'e Geliyor - Taka Gazete",
-    "source": "Google Haberler",
-    "time": "22/11/2026 22:26",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWpITkVOLUJ2LWRhMFppRGM5MW9FbC14cFllMzZjN1hTNjJVanJRekJ6QklqdDh6SWpiT0FJdkpTai1ucTk2dDRmdTZvWVZnS2pqVVdOdThJWjhMaXlIaEt0Uk1fNTRwdUloZk95VUVDbDBUb1JTTWQtYWNNcnNmU0pOYzlIdXdub21seG53?oc=5",
-    "type": "TKP",
-    "prefix": "🌐 📰",
-    "summary": "Haberin detaylarına ulaşmak için aşağıdaki 'Habere Git' butonunu kullanabilirsiniz.",
-    "image": null,
-    "keyword": "TAKA"
   }
 ]
